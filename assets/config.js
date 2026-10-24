@@ -6,5 +6,5 @@ window.TU_CONFIG = {
   ga: 'G-V1NDWY8ZXH',      /* identifiant Google Analytics 4 (G-XXXXXXX) : vide = aucune mesure d'audience */
   gads: '',      /* identifiant Google Ads (AW-XXXXXXXXX) : vide = aucune mesure publicitaire Google */
   gadsLabel: '', /* libellé de la conversion « Achat » dans Google Ads (ex. AbCdEfGhIj) */
-  metaPixel: ''  /* identifiant du pixel Meta (Facebook, Instagram), 15 à 16 chiffres : vide = aucun pixel */
+  metaPixel: '1425245439737900'/* identifiant du pixel Meta (Facebook, Instagram), 15 à 16 chiffres : vide = aucun pixel */
 };
