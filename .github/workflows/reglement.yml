@@ -1,0 +1,19 @@
+name: Lecture d'un règlement volumineux
+on:
+  repository_dispatch:
+    types: [reglement]
+concurrency:
+  group: reglement-${{ github.event.client_payload.doc_key }}-${{ github.event.client_payload.zone }}
+  cancel-in-progress: false
+jobs:
+  lire:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with: { sparse-checkout: .github/scripts }
+      - run: sudo apt-get install -y -q poppler-utils >/dev/null
+      - run: python3 .github/scripts/reglement.py
+        env:
+          PAYLOAD: ${{ toJson(github.event.client_payload) }}
+          TU_ADMIN_KEY: ${{ secrets.TU_ADMIN_KEY }}
