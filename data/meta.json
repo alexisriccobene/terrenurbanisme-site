@@ -1,0 +1,243 @@
+{
+ "prix_colonnes": [
+  "code_geo",
+  "libelle_geo",
+  "code_parent",
+  "echelle_geo",
+  "nb_ventes_whole_appartement",
+  "moy_prix_m2_whole_appartement",
+  "med_prix_m2_whole_appartement",
+  "nb_ventes_whole_maison",
+  "moy_prix_m2_whole_maison",
+  "med_prix_m2_whole_maison",
+  "nb_ventes_whole_apt_maison",
+  "moy_prix_m2_whole_apt_maison",
+  "med_prix_m2_whole_apt_maison",
+  "nb_ventes_whole_local",
+  "moy_prix_m2_whole_local",
+  "med_prix_m2_whole_local"
+ ],
+ "prix_communes": 33166,
+ "montagne": {
+  "87bc6d48-f1ed-4924-be55-0142660033de": {
+   "feuilles": [
+    "LisezMoi",
+    "Perimetre",
+    "CommunesFusionnees"
+   ],
+   "feuille": "Perimetre",
+   "colonne": 5,
+   "exemple": [
+    [
+     "Communes concernées par la loi montagne (1985) au COG 2022",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Source DGALN - SIDAUH",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ANNEE_COG",
+     "INSEE_REG2016",
+     "NOM_REG2016",
+     "INSEE_DEP",
+     "NOM_DEPT",
+     "INSEE_COM",
+     "NOM_COM",
+     "Réglementation"
+    ],
+    [
+     "2022",
+     "84",
+     "Auvergne-Rhône-Alpes",
+     "01",
+     "Ain",
+     "01002",
+     "Abergement-de-Varey",
+     "arrêté du 28 avril 1976"
+    ],
+    [
+     "2022",
+     "84",
+     "Auvergne-Rhône-Alpes",
+     "01",
+     "Ain",
+     "01006",
+     "Ambléon",
+     "arrêté du 20 février 1974"
+    ],
+    [
+     "2022",
+     "84",
+     "Auvergne-Rhône-Alpes",
+     "01",
+     "Ain",
+     "01010",
+     "Anglefort",
+     "arrêté du 20 février 1974"
+    ]
+   ],
+   "partiel_exemples": [],
+   "communes": 5594
+  },
+  "8d0ae2b1-9b8c-48df-89b9-6334b166e5c5": {
+   "feuilles": [
+    "LisezMoi",
+    "Perimetre",
+    "CommunesFusionnees"
+   ],
+   "feuille": "Perimetre",
+   "colonne": 5,
+   "exemple": [
+    [
+     "Communes concernées par la loi montagne (1985) au COG 2021",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Source DGALN - SIDAUH",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ANNEE_COG",
+     "INSEE_REG2016",
+     "NOM_REG2016",
+     "INSEE_DEP",
+     "NOM_DEPT",
+     "INSEE_COM",
+     "NOM_COM",
+     "Réglementation"
+    ],
+    [
+     "2021",
+     "84",
+     "Auvergne-Rhône-Alpes",
+     "01",
+     "Ain",
+     "01002",
+     "Abergement-de-Varey",
+     "arrêté du 28 avril 1976"
+    ],
+    [
+     "2021",
+     "84",
+     "Auvergne-Rhône-Alpes",
+     "01",
+     "Ain",
+     "01006",
+     "Ambléon",
+     "arrêté du 20 février 1974"
+    ],
+    [
+     "2021",
+     "84",
+     "Auvergne-Rhône-Alpes",
+     "01",
+     "Ain",
+     "01010",
+     "Anglefort",
+     "arrêté du 20 février 1974"
+    ]
+   ],
+   "partiel_exemples": [],
+   "communes": 5595
+  },
+  "fa1eeb72-6adb-4efd-a1a1-9f1266c78315": {
+   "feuilles": [
+    "LisezMoi",
+    "Perimetre",
+    "CommunesFusionnees"
+   ],
+   "feuille": "Perimetre",
+   "colonne": 5,
+   "exemple": [
+    [
+     "Communes concernées par la loi montagne (1985) au COG 2020",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Source DGALN - SIDAUH",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ANNEE_COG",
+     "INSEE_REG2016",
+     "NOM_REG2016",
+     "INSEE_DEP",
+     "NOM_DEPT",
+     "INSEE_COM",
+     "NOM_COM",
+     "Réglementation"
+    ],
+    [
+     "2020",
+     "84",
+     "Auvergne-Rhône-Alpes",
+     "01",
+     "Ain",
+     "01002",
+     "Abergement-de-Varey (L')",
+     "arrêté du 28 avril 1976"
+    ],
+    [
+     "2020",
+     "84",
+     "Auvergne-Rhône-Alpes",
+     "01",
+     "Ain",
+     "01006",
+     "Ambléon",
+     "arrêté du 20 février 1974"
+    ],
+    [
+     "2020",
+     "84",
+     "Auvergne-Rhône-Alpes",
+     "01",
+     "Ain",
+     "01010",
+     "Anglefort",
+     "arrêté du 20 février 1974"
+    ]
+   ],
+   "partiel_exemples": [],
+   "communes": 5595
+  }
+ },
+ "montagne_communes": 5594
+}
