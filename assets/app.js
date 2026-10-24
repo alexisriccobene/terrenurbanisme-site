@@ -29,9 +29,23 @@
   var INSEE_RE = /^(?:\d{2}|2[AB])\d{3}$/;
   var comMap = {};
   function comLabel(c){ return c.nom + ' (' + c.codeDepartement + ')'; }
+  // Liste des communes publiée avec le site : secours si le service de l'État (geo.api.gouv.fr) ne répond pas
+  var localCom = null;
+  function localCommunes(q, limit){
+    if (!localCom) localCom = getJSON('/data/communes-noms.json').catch(function(e){ localCom = null; throw e; });
+    return localCom.then(function(all){
+      var n = norm(q), ex = [], st = [], ct = [];
+      all.forEach(function(r){ var k = norm(r[0]); if (k === n) ex.push(r); else if (k.indexOf(n) === 0) st.push(r); else if (n.length > 2 && k.indexOf(n) > 0) ct.push(r); });
+      var by = function(a, b){ return b[3] - a[3]; };
+      return ex.sort(by).concat(st.sort(by), ct.sort(by)).slice(0, limit || 8).map(function(r){ return { nom: r[0], code: r[1], codeDepartement: r[2], population: r[3] }; });
+    });
+  }
   function searchCommunes(q, limit){
-    return getJSON(GEO+'/communes?nom='+encodeURIComponent(q)+'&fields=nom,code,codeDepartement,population&boost=population&limit='+(limit||8))
-      .then(function(l){ (l||[]).forEach(function(c){ comMap[norm(comLabel(c))] = c.code; }); return l || []; });
+    var ctl = window.AbortController ? new AbortController() : null, t = ctl ? setTimeout(function(){ ctl.abort(); }, 4000) : null;
+    return fetch(GEO+'/communes?nom='+encodeURIComponent(q)+'&fields=nom,code,codeDepartement,population&boost=population&limit='+(limit||8), ctl ? { signal: ctl.signal } : {})
+      .then(function(r){ if (!r.ok) throw new Error('http '+r.status); return r.json(); })
+      .catch(function(){ return localCommunes(q, limit); })
+      .then(function(l){ if (t) clearTimeout(t); (l||[]).forEach(function(c){ comMap[norm(comLabel(c))] = c.code; }); return l || []; });
   }
   function resolveCommune(val){
     var v = String(val||'').trim(); if (!v) return Promise.resolve(null);
