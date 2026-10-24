@@ -2,7 +2,7 @@ name: IndexNow
 on:
   push:
     branches: [main]
-    paths: [sitemap.xml]
+    paths: [sitemap.xml, .github/scripts/indexnow.py]
   workflow_dispatch:
 jobs:
   ping:
