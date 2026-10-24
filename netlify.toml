@@ -1,0 +1,4 @@
+[build]
+  publish = "."
+  # Pas de mise en ligne quand seuls les scripts de données changent
+  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- . ':(exclude).github' ':(exclude)netlify.toml'"
