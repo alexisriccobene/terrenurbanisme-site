@@ -1,0 +1,64 @@
+# TerrenUrbanisme
+
+> TerrenUrbanisme (https://terrenurbanisme.com) produit des rapports d'urbanisme et de constructibilité pour n'importe quelle parcelle en France métropolitaine, en Corse et en outre-mer. À partir d'une adresse ou d'une référence cadastrale, le service indique la zone du PLU (ou PLUi, carte communale, RNU), lit le règlement de la zone et réunit cadastre, monuments historiques, risques, lois Littoral et Montagne dans un rapport PDF livré en quelques minutes.
+
+- Diagnostic de parcelle gratuit, sans carte bancaire ni e-mail : zone du PLU et part de chaque zone, monuments historiques (ABF), plans de prévention des risques, lois Littoral et Montagne.
+- Rapport complet : 12,90 € TTC à l'unité ; lots de 3 (34,90 €) et 5 (54,90 €).
+- Abonnements sans engagement : Essentiel 19 €/mois (10 rapports), Agence 49 €/mois (50 rapports), Réseau 129 €/mois (150 rapports) ; formules annuelles environ 20 % moins chères.
+- Contenu du rapport (15 éléments) : plan cadastral, vue aérienne, plan de zonage, règlement de la zone en annexe et lecture en clair, surface constructible estimée, plans de prévention des risques, état des risques (ERP) pré-rempli, monuments historiques, bruit (PEB, voies classées), lois Littoral et Montagne, PADDUC en Corse, prix au m² de la commune (DVF), permis et photos aériennes depuis 1950, accès, pente, réseaux et fibre, géomètres-experts proches.
+- Sources : Géoportail de l'Urbanisme, IGN, cadastre (DGFiP), Géorisques, DVF, Sitadel, Collectivité de Corse.
+- Public : particuliers, agences immobilières, notaires, géomètres, architectes, promoteurs. 3 rapports offerts aux professionnels.
+- Spécialité : la Corse (360 communes, PADDUC).
+- Contact : contact@terrenurbanisme.com
+
+## Pages principales
+- [Vérifier un terrain](https://terrenurbanisme.com/#recherche) : diagnostic gratuit
+- [Tarifs](https://terrenurbanisme.com/tarifs.html)
+- [Exemple de rapport](https://terrenurbanisme.com/exemple.html)
+- [Agences et professionnels](https://terrenurbanisme.com/agences-immobilieres.html)
+- [Comparatif TerrenUrbanisme et DocUrbanisme](https://terrenurbanisme.com/comparatif-docurbanisme.html)
+- [FAQ](https://terrenurbanisme.com/faq.html)
+- [Trouver la zone PLU d'un terrain](https://terrenurbanisme.com/trouver-zone-plu.html)
+
+## Urbanisme par commune
+- [Toutes les communes de France](https://terrenurbanisme.com/urbanisme/) (toutes les communes de France couvertes par le diagnostic) : plus de 10 000 pages communes, avec document d'urbanisme, prix au m², loi Montagne, bruit et risques
+- [Les 360 communes de Corse](https://terrenurbanisme.com/plu/)
+- [Urbanisme à Paris](https://terrenurbanisme.com/urbanisme/75/paris/)
+- [Urbanisme à Marseille](https://terrenurbanisme.com/urbanisme/13/marseille/)
+- [Urbanisme à Lyon](https://terrenurbanisme.com/urbanisme/69/lyon/)
+- [Urbanisme à Toulouse](https://terrenurbanisme.com/urbanisme/31/toulouse/)
+- [Urbanisme à Nice](https://terrenurbanisme.com/urbanisme/06/nice/)
+- [Urbanisme à Nantes](https://terrenurbanisme.com/urbanisme/44/nantes/)
+- [Urbanisme à Montpellier](https://terrenurbanisme.com/urbanisme/34/montpellier/)
+- [Urbanisme à Strasbourg](https://terrenurbanisme.com/urbanisme/67/strasbourg/)
+- [Urbanisme à Bordeaux](https://terrenurbanisme.com/urbanisme/33/bordeaux/)
+- [Urbanisme à Lille](https://terrenurbanisme.com/urbanisme/59/lille/)
+- [Urbanisme à Rennes](https://terrenurbanisme.com/urbanisme/35/rennes/)
+- [Urbanisme à Toulon](https://terrenurbanisme.com/urbanisme/83/toulon/)
+- [Urbanisme à Reims](https://terrenurbanisme.com/urbanisme/51/reims/)
+- [Urbanisme à Saint-Étienne](https://terrenurbanisme.com/urbanisme/42/saint-etienne/)
+- [Urbanisme à Le Havre](https://terrenurbanisme.com/urbanisme/76/le-havre/)
+- [Urbanisme à Villeurbanne](https://terrenurbanisme.com/urbanisme/69/villeurbanne/)
+- [Urbanisme à Dijon](https://terrenurbanisme.com/urbanisme/21/dijon/)
+- [Urbanisme à Angers](https://terrenurbanisme.com/urbanisme/49/angers/)
+- [Urbanisme à Grenoble](https://terrenurbanisme.com/urbanisme/38/grenoble/)
+- [Urbanisme à Nîmes](https://terrenurbanisme.com/urbanisme/30/nimes/)
+
+## Guides
+- [Comment savoir si un terrain est constructible en Corse](https://terrenurbanisme.com/guides/terrain-constructible-corse.html)
+- [Consulter le cadastre en Corse et trouver une parcelle](https://terrenurbanisme.com/guides/cadastre-corse.html)
+- [Qu'est-ce qu'un PLU ?](https://terrenurbanisme.com/guides/plu.html)
+- [Les zones du PLU : U, AU, A et N](https://terrenurbanisme.com/guides/zones-plu.html)
+- [PLU, carte communale ou RNU](https://terrenurbanisme.com/guides/plu-carte-communale-rnu.html)
+- [Le PADDUC et votre terrain](https://terrenurbanisme.com/guides/padduc.html)
+- [La loi Littoral en Corse](https://terrenurbanisme.com/guides/loi-littoral-corse.html)
+- [La loi Montagne en Corse](https://terrenurbanisme.com/guides/loi-montagne-corse.html)
+- [Zone inondable et PPR](https://terrenurbanisme.com/guides/zone-inondable-ppr.html)
+- [Le certificat d'urbanisme](https://terrenurbanisme.com/guides/certificat-urbanisme.html)
+- [Indivision et titres de propriété en Corse](https://terrenurbanisme.com/guides/indivision-titres-corse.html)
+- [Acheter un terrain en Corse : les 10 vérifications](https://terrenurbanisme.com/guides/acheter-terrain-corse.html)
+- [Permis de construire en Corse : délais, pièces et recours](https://terrenurbanisme.com/guides/permis-de-construire-corse.html)
+- [Prix des terrains en Corse : comment les estimer](https://terrenurbanisme.com/guides/prix-terrain-corse.html)
+- [Diviser un terrain en Corse : déclaration préalable ou permis d'aménager](https://terrenurbanisme.com/guides/diviser-terrain-corse.html)
+- [Assainissement individuel en Corse : SPANC, filières et coûts](https://terrenurbanisme.com/guides/assainissement-individuel-corse.html)
+- [Construire en zone A ou N : ce qui reste possible](https://terrenurbanisme.com/guides/construire-zone-agricole-naturelle.html)

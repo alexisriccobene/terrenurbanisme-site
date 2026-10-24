@@ -1,0 +1,12 @@
+name: IndexNow
+on:
+  push:
+    branches: [main]
+    paths: [sitemap.xml]
+  workflow_dispatch:
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: sleep 120 && python3 .github/scripts/indexnow.py
