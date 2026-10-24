@@ -40,37 +40,27 @@ for r in rd:
     if any(x for x in p): out[dep(c)].setdefault(c, {})['p'] = p; n += 1
 meta['prix_communes'] = n
 
-# 2. Loi Montagne : communes classées (COG), colonne INSEE détectée
+# 2. Loi Montagne : communes classées (DGALN, au COG le plus récent)
 mont = {}
-for rid in ['fa1eeb72-6adb-4efd-a1a1-9f1266c78315', '87bc6d48-f1ed-4924-be55-0142660033de', '8d0ae2b1-9b8c-48df-89b9-6334b166e5c5']:
+for rid in ['87bc6d48-f1ed-4924-be55-0142660033de', '8d0ae2b1-9b8c-48df-89b9-6334b166e5c5', 'fa1eeb72-6adb-4efd-a1a1-9f1266c78315']:  # COG 2022, 2021, 2020
     try:
         wb = openpyxl.load_workbook(io.BytesIO(get('https://www.data.gouv.fr/api/1/datasets/r/' + rid)), read_only=True, data_only=True)
         info = {'feuilles': wb.sheetnames}
-        best = None
-        for ws in wb.worksheets:
-            rows = [[('' if v is None else str(v).strip()) for v in row] for row in ws.iter_rows(values_only=True)]
-            if not rows: continue
-            w = max(len(r) for r in rows)
-            for j in range(w):
-                col = [r[j] if j < len(r) else '' for r in rows]
-                hits = sum(1 for v in col if INSEE.match(v) or (v.isdigit() and 1001 <= int(v) <= 99999 and len(v) == 4))
-                if not best or hits > best[0]: best = (hits, ws.title, j, rows)
-        hits, title, j, rows = best
-        info.update({'feuille': title, 'colonne': j, 'lignes_code': hits, 'exemple': rows[:6]})
-        # colonne décrivant un classement partiel éventuel
-        pj = None
-        for k in range(max(len(r) for r in rows)):
-            vals = ' '.join((r[k] if k < len(r) else '') for r in rows[:4000]).lower()
-            if 'partiel' in vals: pj = k; break
-        info['colonne_partiel'] = pj
+        ws = wb['Perimetre'] if 'Perimetre' in wb.sheetnames else wb.worksheets[0]
+        rows = [[('' if v is None else str(v).strip()) for v in row] for row in ws.iter_rows(values_only=True)]
+        hi = next(i for i, r in enumerate(rows[:20]) if 'INSEE_COM' in r)
+        j = rows[hi].index('INSEE_COM')
+        pj = next((k for k, h in enumerate(rows[hi]) if h.lower().startswith('r') and 'glement' in h.lower()), None)
+        info.update({'feuille': ws.title, 'colonne': j, 'exemple': rows[:6]})
+        info['partiel_exemples'] = sorted({r[pj] for r in rows[hi + 1:] if pj is not None and pj < len(r) and 'parti' in r[pj].lower()})[:5]
         cur = {}
-        for r in rows:
+        for r in rows[hi + 1:]:
             v = r[j] if j < len(r) else ''
             if v.isdigit() and len(v) == 4: v = '0' + v
-            if INSEE.match(v): cur[v] = 2 if (pj is not None and pj < len(r) and 'partiel' in r[pj].lower()) else 1
+            if INSEE.match(v): cur[v] = 2 if (pj is not None and pj < len(r) and 'parti' in r[pj].lower()) else 1
         info['communes'] = len(cur)
         meta.setdefault('montagne', {})[rid] = info
-        if len(cur) > len(mont): mont = cur
+        if not mont and len(cur) > 3000: mont = cur  # version la plus récente lisible
     except Exception as e:
         meta.setdefault('montagne', {})[rid] = {'erreur': str(e)[:300]}
 for c, v in mont.items(): out[dep(c)].setdefault(c, {})['mt'] = v
