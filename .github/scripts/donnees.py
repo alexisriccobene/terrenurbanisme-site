@@ -10,9 +10,19 @@ def get(url):
 INSEE = re.compile(r'^(\d{5}|2[AB]\d{3})$')
 def dep(c): return c[:3] if c.startswith('97') else c[:2]
 out = defaultdict(dict); meta = {}
+def note(msg): print('::notice::' + str(msg).replace('\n', ' | ')[:900], flush=True)
+import traceback, atexit
+def bilan():
+    note('bilan ' + json.dumps({k: (v if k != 'montagne' else {r: {x: y for x, y in i.items() if x != 'exemple'} for r, i in v.items()}) for k, v in meta.items()}, ensure_ascii=False))
+    for r, i in meta.get('montagne', {}).items():
+        if 'exemple' in i: note('exemple ' + r[:8] + ' ' + json.dumps(i['exemple'][:6], ensure_ascii=False))
+atexit.register(bilan)
 
 # 1. Prix : statistiques DVF par commune
-raw = get('https://www.data.gouv.fr/api/1/datasets/r/851d342f-9c96-41c1-924a-11a7a7aae8a6')
+try:
+    raw = get('https://www.data.gouv.fr/api/1/datasets/r/851d342f-9c96-41c1-924a-11a7a7aae8a6')
+except Exception as e:
+    note('prix téléchargement ' + repr(e)); raise
 txt = raw.decode('utf-8-sig', 'replace')
 sep = ';' if txt[:2000].count(';') > txt[:2000].count(',') else ','
 rd = csv.DictReader(io.StringIO(txt), delimiter=sep)
@@ -25,7 +35,8 @@ for r in rd:
     if (r.get('echelle_geo') or '') != 'commune': continue
     c = (r.get('code_geo') or '').strip()
     if not INSEE.match(c): continue
-    p = [num(r.get('med_prix_m2_whole_maison')), num(r.get('nb_ventes_whole_maison')), num(r.get('med_prix_m2_whole_appartement')), num(r.get('nb_ventes_whole_appartement')), num(r.get('med_prix_m2_whole_local')), num(r.get('nb_ventes_whole_local'))]
+    p = []
+    for t in ('maison', 'appartement', 'local'): p += [num(r.get('med_prix_m2_whole_' + t)), num(r.get('nb_ventes_whole_' + t)), num(r.get('moy_prix_m2_whole_' + t))]
     if any(x for x in p): out[dep(c)].setdefault(c, {})['p'] = p; n += 1
 meta['prix_communes'] = n
 
@@ -66,7 +77,7 @@ for c, v in mont.items(): out[dep(c)].setdefault(c, {})['mt'] = v
 meta['montagne_communes'] = len(mont)
 
 if meta['prix_communes'] < 20000 or meta['montagne_communes'] < 3000:
-    print(json.dumps(meta, ensure_ascii=False, indent=1)[:5000]); sys.exit('données incomplètes : fichiers non écrits')
+    sys.exit('données incomplètes : fichiers non écrits')
 os.makedirs('data/communes', exist_ok=True)
 for d, obj in out.items():
     with open(f'data/communes/{d}.json', 'w') as f: json.dump(obj, f, separators=(',', ':'))

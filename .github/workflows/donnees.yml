@@ -22,4 +22,4 @@ jobs:
           git config user.name "TerrenUrbanisme données"
           git config user.email "contact@terrenurbanisme.com"
           git add data
-          git diff --cached --quiet || (git commit -m "Données communes : prix DVF et loi Montagne" && git push)
+          git diff --cached --quiet || (git commit -m "Données communes : prix DVF et loi Montagne" && git pull --rebase origin main && git push)
