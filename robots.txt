@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /espace.html
+Disallow: /merci.html
+Disallow: /essai.html
+Disallow: /connexion.html
+Disallow: /r/
+Disallow: /rapport/
+
+Sitemap: https://terrenurbanisme.com/sitemap.xml

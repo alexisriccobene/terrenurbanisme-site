@@ -1,0 +1,47 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Votre rapport | TerrenUrbanisme</title><meta name="robots" content="noindex">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png"><link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/assets/pdfjs/pdf_viewer.css">
+<style>
+:root{--t:#A3462C;--ink:#2A1D17;--muet:#6E625A;--bg:#EFE9E5;--line:#E7DDD5}
+*{box-sizing:border-box}html,body{margin:0;height:100%;background:var(--bg);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;color:var(--ink)}
+.bar{position:fixed;top:0;left:0;right:0;height:58px;background:#fff;border-bottom:1px solid var(--line);display:flex;align-items:center;gap:12px;padding:0 16px;z-index:10}
+.bar a.brand{display:flex;align-items:center;gap:10px;color:var(--ink);text-decoration:none;font-weight:700;font-size:16px;white-space:nowrap}
+.bar .sp{flex:1}.bar .pg{font-size:13px;color:var(--muet);white-space:nowrap}
+.btn{display:inline-flex;align-items:center;gap:6px;border-radius:10px;padding:9px 14px;font-weight:700;font-size:14px;text-decoration:none;white-space:nowrap;border:0;cursor:pointer}
+.btn.p{background:var(--t);color:#fff}.btn.g{background:#F6E5DD;color:var(--t)}
+#wrap{position:absolute;top:58px;left:0;right:0;bottom:0;overflow:auto;-webkit-overflow-scrolling:touch}
+#viewer .page{margin:14px auto;border:0;box-shadow:0 4px 18px rgba(42,29,23,.12)}
+.msg{max-width:520px;margin:120px auto;padding:24px;background:#fff;border-radius:16px;text-align:center;line-height:1.5}
+@media (max-width:600px){.bar .brand span,.bar .pg{display:none}.btn{padding:8px 11px;font-size:13px}#viewer .page{margin:8px auto}}
+</style></head><body>
+<div class="bar"><a class="brand" href="/"><img src="/favicon.svg" width="28" height="28" alt=""><span>TerrenUrbanisme</span></a><div class="sp"></div><span class="pg" id="pg"></span>
+<a class="btn g" href="/espace.html">Mon espace</a><a class="btn p" id="dl" href="#" download>Télécharger le PDF</a></div>
+<div id="wrap"><div id="viewer" class="pdfViewer"></div></div>
+<script type="module">
+const slug = (location.pathname.indexOf('/r/') === 0 ? decodeURIComponent(location.pathname.slice(3).replace(/[/]$/, '')) : '') || new URLSearchParams(location.search).get('r') || '';
+const url = '/rapport/' + encodeURIComponent(slug) + '.pdf';
+document.getElementById('dl').href = url;
+const show = t => { document.getElementById('wrap').innerHTML = '<div class="msg">' + t + '</div>'; };
+if (!/^[a-z0-9-]{8,120}$/.test(slug)) show('Ce lien de rapport n\'est pas valide. Retrouvez vos rapports dans <a href="/espace.html">votre espace</a>.');
+else {
+  try {
+    const pdfjsLib = await import('/assets/pdfjs/pdf.min.mjs');
+    globalThis.pdfjsLib = pdfjsLib;
+    pdfjsLib.GlobalWorkerOptions.workerSrc = '/assets/pdfjs/pdf.worker.min.mjs';
+    const { EventBus, PDFLinkService, PDFViewer, LinkTarget } = await import('/assets/pdfjs/pdf_viewer.mjs');
+    const eventBus = new EventBus();
+    const linkService = new PDFLinkService({ eventBus, externalLinkTarget: LinkTarget.BLANK, externalLinkRel: 'noopener noreferrer' });
+    const viewer = new PDFViewer({ container: document.getElementById('wrap'), viewer: document.getElementById('viewer'), eventBus, linkService, textLayerMode: 1, annotationMode: pdfjsLib.AnnotationMode.ENABLE });
+    linkService.setViewer(viewer);
+    eventBus.on('pagesinit', () => { viewer.currentScaleValue = window.innerWidth < 900 ? 'page-width' : 'page-fit'; if (window.innerWidth >= 900) viewer.currentScaleValue = Math.min(1.4, viewer.currentScale * 1.6).toString(); });
+    eventBus.on('pagechanging', e => { document.getElementById('pg').textContent = 'Page ' + e.pageNumber + ' / ' + viewer.pagesCount; });
+    window.addEventListener('resize', () => { if (window.innerWidth < 900) viewer.currentScaleValue = 'page-width'; });
+    const doc = await pdfjsLib.getDocument({ url, isEvalSupported: false }).promise;
+    viewer.setDocument(doc); linkService.setDocument(doc, null);
+    document.getElementById('pg').textContent = 'Page 1 / ' + doc.numPages;
+  } catch (e) {
+    show('Le rapport n\'a pas pu être affiché ici. <br><br><a class="btn p" href="' + url + '">Ouvrir le PDF</a>');
+  }
+}
+</script></body></html>
