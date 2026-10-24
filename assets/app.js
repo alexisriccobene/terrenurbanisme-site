@@ -360,13 +360,18 @@
       $('c-lit').textContent = m.is_coastline ? 'Commune littorale' : 'Commune non littorale';
       $('c-lit-p').textContent = m.is_coastline ? 'La loi Littoral s\'applique en plus du document d\'urbanisme.' : 'La loi Littoral ne s\'applique pas. La loi Montagne peut s\'appliquer.';
       var com = $('com'); if (com) com.value = c.nom;
-      if ($('c-prix')) getJSON('https://tabular-api.data.gouv.fr/api/resources/851d342f-9c96-41c1-924a-11a7a7aae8a6/data/?code_geo__exact=' + insee).then(function(j){
-        var r = j && j.data && j.data[0]; if (!r) throw 0;
-        var mai = r.med_prix_m2_whole_maison, app = r.med_prix_m2_whole_appartement;
+      // Prix DVF et loi Montagne : données publiées avec le site (data/communes), une seule requête par département
+      var dep = /^97/.test(insee) ? insee.slice(0, 3) : insee.slice(0, 2);
+      getJSON('/data/communes/' + dep + '.json').then(function(all){
+        var r = (all && all[insee]) || {}, p = r.p || [];
+        if (!m.is_coastline) $('c-lit-p').textContent = 'La loi Littoral ne s\'applique pas.' + (r.mt ? ' La commune est en zone de montagne : la loi Montagne s\'applique.' : ' La commune n\'est pas en zone de montagne.');
+        else if (r.mt) $('c-lit-p').textContent = 'La loi Littoral et la loi Montagne s\'appliquent en plus du document d\'urbanisme.';
+        if (!$('c-prix')) return;
+        var mai = p[0], app = p[3];
         var F = function(v){ return fmt(v).replace(/\u202f/g, '\u00a0'); };
-        $('c-prix').textContent = mai ? F(mai) + ' €/m² · maisons' : app ? F(app) + ' €/m² · appartements' : 'Non disponible';
-        $('c-prix-p').textContent = [mai && app ? 'Appartements : ' + F(app) + ' €/m².' : '', 'Ventes des cinq dernières années (DVF).'].filter(Boolean).join(' ');
-      }).catch(function(){ $('c-prix').textContent = 'Dans le rapport'; });
+        $('c-prix').textContent = mai ? F(mai) + ' €/m² · maisons' : app ? F(app) + ' €/m² · appartements' : 'Dans le rapport';
+        $('c-prix-p').textContent = [mai && app ? 'Appartements : ' + F(app) + ' €/m².' : '', mai || app ? 'Prix médian des ventes des cinq dernières années (DVF).' : ''].filter(Boolean).join(' ');
+      }).catch(function(){ if ($('c-prix')) $('c-prix').textContent = 'Dans le rapport'; });
       var lnk = $('c-guide'); if (lnk) lnk.href = m.is_rnu ? '/guides/plu-carte-communale-rnu.html' : '/guides/zones-plu.html';
     }).catch(function(){ if (!stat) $('c-nom').textContent = 'Fiche indisponible pour le moment'; else { $('c-doc').textContent = 'À vérifier'; $('c-lit').textContent = 'À vérifier'; } });
   }

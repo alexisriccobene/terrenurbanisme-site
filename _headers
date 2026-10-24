@@ -6,3 +6,6 @@
 
 /assets/pdfjs/*.mjs
   Content-Type: text/javascript; charset=utf-8
+
+/data/*
+  Cache-Control: public, max-age=86400
