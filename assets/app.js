@@ -167,7 +167,7 @@
   var small = function(){ return window.innerWidth <= 620; };
   if (scope && window.L){
     try {
-      map = L.map('map', { zoomControl:false, scrollWheelZoom:false, dragging:true, tap:true, attributionControl:true, maxZoom:20 }).setView([41.5265, 9.2640], 15);
+      map = L.map('map', { zoomControl:false, scrollWheelZoom:false, dragging:true, tap:true, attributionControl:true, maxZoom:20 }).setView([46.6, 2.4], 6);
       L.tileLayer('https://data.geopf.fr/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=ORTHOIMAGERY.ORTHOPHOTOS&STYLE=normal&TILEMATRIXSET=PM&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}&FORMAT=image/jpeg',
         { maxZoom:19, attribution:'Photographies aériennes © IGN' }).addTo(map);
       L.tileLayer.wms('https://data.geopf.fr/wms-r/wms', { layers:'CADASTRALPARCELS.PARCELLAIRE_EXPRESS', format:'image/png', transparent:true, version:'1.3.0', minZoom:16, maxZoom:20, opacity:.9 }).addTo(map);
@@ -237,8 +237,25 @@
       var insee = parcel.properties.code_insee;
       var g = roundGeom(parcel.geometry), q = JSON.stringify(g);
       if (q.length > 6000 && window.turf){ g = roundGeom(turf.simplify(turf.feature(g), { tolerance:0.00002, highQuality:true }).geometry); q = JSON.stringify(g); }
-      return getJSON(CARTO+'/gpu/municipality?insee='+insee).catch(function(){ return { features:[] }; })
-        .then(function(res){ show(parcel, [], (res.features && res.features[0] || {}).properties || {}); });
+      // Diagnostic gratuit : commune, zones du PLU, servitudes (monuments historiques, PPR) et loi Montagne, en parallèle
+      var dep = /^97/.test(insee) ? insee.slice(0, 3) : insee.slice(0, 2);
+      var none = function(){ return { features:[] }; };
+      return Promise.all([
+        getJSON(CARTO+'/gpu/municipality?insee='+insee).catch(none),
+        getJSON(CARTO+'/gpu/zone-urba?geom='+encodeURIComponent(q)).catch(function(){ return null; }),
+        getJSON(CARTO+'/gpu/assiette-sup-s?geom='+encodeURIComponent(q)).catch(function(){ return null; }),
+        getJSON('/data/communes/' + dep + '.json').catch(function(){ return null; })
+      ]).then(function(r){
+        var muni = (r[0].features && r[0].features[0] || {}).properties || {};
+        var pf = parcel, tot = 0; try { tot = window.turf ? turf.area(pf) : 0; } catch(e){}
+        var zones = r[1] ? (r[1].features || []).map(function(f){
+          var sh = null; try { if (tot && turf.intersect) { var it = turf.intersect(pf, f); sh = it ? turf.area(it) / tot : 0; } } catch(e){}
+          return { code: f.properties.libelle || f.properties.typezone, tz: f.properties.typezone, lib: f.properties.libelong || '', share: sh };
+        }).filter(function(z){ return z.share == null || z.share >= 0.02; }).sort(function(a, b){ return (b.share || 0) - (a.share || 0); }) : null;
+        var sups = r[2] ? (r[2].features || []).map(function(f){ return String(f.properties.suptype || f.properties.typeass || '').toLowerCase(); }) : null;
+        var cd = r[3] ? (r[3][insee] || {}) : null;
+        show(parcel, zones, muni, { sups: sups, mont: cd ? !!cd.mt : null });
+      });
     });
   }
 
@@ -263,22 +280,32 @@
 
   var LOCK = '<svg viewBox="0 0 24 24" fill="none" stroke="#A3462C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="11" width="16" height="10" rx="2"/><path d="M8 11V7a4 4 0 0 1 8 0v4"/></svg>';
   var OKI = '<svg viewBox="0 0 24 24" fill="none" stroke="#2E7D4F" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>';
-  function show(parcel, zones, muni){
+  function show(parcel, zones, muni, extra){
+    extra = extra || {};
     var resultEl = $('result');
     var p = parcel.properties;
     var sec = String(p.section).replace(/^0/,''), num = String(p.numero).replace(/^0+/,'');
     var ref = (p.nom_com||'') + ' · section ' + sec + ' · n° ' + num;
+    var TZ = { U:'urbaine', AUC:'à urbaniser', AUS:'à urbaniser (fermée)', A:'agricole', N:'naturelle' };
+    var zl = (zones || []).slice(0, 3).map(function(z){ var t = TZ[(z.tz || '').toUpperCase()] || (z.tz && z.tz.charAt(0) === 'N' ? 'naturelle' : z.tz && z.tz.charAt(0) === 'A' && z.tz.indexOf('AU') ? 'agricole' : ''); return z.code + (t ? ' (zone ' + t + ')' : '') + (z.share != null && zones.length > 1 ? ' · ' + Math.round(z.share * 100) + ' %' : ''); });
+    var sups = extra.sups;
     var found = [
       ['ok', 'Parcelle identifiée au cadastre', fmt(p.contenance) + ' m² · ' + (p.idu || '')],
       ['ok', 'Document d\'urbanisme', muni.is_rnu ? 'Règlement national d\'urbanisme' : 'Document local publié'],
-      ['ok', 'Loi Littoral', muni.is_coastline ? 'Commune littorale' : 'Commune non littorale']
+      ['ok', zl.length > 1 ? 'Zones du PLU' : 'Zone du PLU', zl.length ? zl.join(' · ') : muni.is_rnu ? 'Pas de zonage : règlement national' : 'Zonage non publié en ligne : précisé dans le rapport'],
+      ['ok', 'Loi Littoral', muni.is_coastline ? 'Commune littorale : la loi s\'applique' : 'Commune non littorale']
     ];
-    var locked = ['Verdict : constructible ou non, et pourquoi', 'Zones du PLU, secteur exact et plan de zonage', 'Règlement de la zone : hauteur, reculs, aspect, avec extraits', 'Surface constructible estimée en m² et plan d\'implantation', (/^2[AB]/.test(String(parcel && parcel.properties && parcel.properties.code_insee || '')) ? 'PADDUC, distance au rivage, loi Montagne' : 'Loi Littoral, distance au rivage, loi Montagne'), 'Risques à la parcelle, arrêtés de catastrophe naturelle', 'Accès, pente, assainissement et fibre', 'Photos aériennes depuis 1950 et permis accordés autour', 'Ventes de maisons, appartements et terrains à 10 km', 'Démarches, délais et interlocuteurs'];
+    if (extra.mont != null) found.push(['ok', 'Loi Montagne', extra.mont ? 'Commune en zone de montagne : la loi s\'applique' : 'Commune hors zone de montagne']);
+    if (sups) {
+      found.push(['ok', 'Monuments historiques (ABF)', sups.some(function(x){ return x === 'ac1'; }) ? 'Dans les abords d\'un monument : avis de l\'architecte des Bâtiments de France' : 'Hors abords de monument historique recensés']);
+      found.push(['ok', 'Plan de prévention des risques', sups.some(function(x){ return /^pm[1-3]/.test(x); }) ? 'Parcelle concernée par un PPR : règles détaillées dans le rapport' : 'Aucun PPR recensé sur la parcelle']);
+    }
+    var locked = ['Verdict : constructible ou non, et pourquoi', 'Plan de zonage et chapitre officiel du règlement en annexe', 'Règlement de la zone : hauteur, reculs, aspect, avec extraits', 'Surface constructible estimée en m² et plan d\'implantation', (/^2[AB]/.test(String(parcel && parcel.properties && parcel.properties.code_insee || '')) ? 'PADDUC, distance au rivage, loi Montagne' : 'Loi Littoral, distance au rivage, loi Montagne'), 'Risques à la parcelle, arrêtés de catastrophe naturelle', 'Accès, pente, assainissement et fibre', 'Photos aériennes depuis 1950 et permis accordés autour', 'Prix au m² de la commune et ventes de terrains alentour', 'État des risques (ERP) pré-rempli et rapport officiel Géorisques', 'Démarches, délais et interlocuteurs'];
     var BTN = 'Obtenir le rapport complet · 12,90 €';
     resultEl.innerHTML =
       '<div class="v-ref">' + esc(ref) + '</div>' +
       '<span class="v-badge v-found"><i></i>Parcelle trouvée</span>' +
-      '<div class="v-title">Votre rapport est prêt à être établi</div>' +
+      '<div class="v-title">Votre diagnostic gratuit</div>' +
       '<p class="v-other">Ce n\'est pas la bonne parcelle ? Cliquez sur une autre parcelle de la carte.</p>' +
       '<p class="v-why">Nous avons trouvé cette parcelle et les sources officielles qui la concernent. Le rapport complet répond à la question : peut-on construire, et à quelles conditions ?</p>' +
       '<button type="button" class="v-cta v-cta-top buy">' + BTN + '</button><p class="v-buy-err" role="alert"></p>' +
