@@ -2,3 +2,4 @@
 /rapport/*  https://nmoigruxnhsidrhqtzid.supabase.co/functions/v1/stripe-webhook/rapport/:splat  200!
 /.github/*  /404.html  404
 /netlify.toml  /404.html  404
+/.gitignore  /404.html  404
