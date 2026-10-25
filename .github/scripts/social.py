@@ -54,7 +54,31 @@ def publish_fb(p):
 
 if not TOKEN or not PAGE:
     print('::warning::Publication automatique non configurée (secrets META_PAGE_TOKEN et FB_PAGE_ID manquants)'); sys.exit(0)
+def alerte_expiration():
+    # Une fois par jour (vers 9 h) : si l'autorisation Meta expire dans moins de 15 jours, ouvre une alerte GitHub (e-mail au propriétaire du dépôt)
+    try:
+        d = api('GET', '/debug_token', input_token=TOKEN).get('data', {})
+    except Exception as e:
+        print('contrôle expiration impossible :', str(e)[:200]); return
+    exp = [t for t in (d.get('expires_at'), d.get('data_access_expires_at')) if t]
+    if not exp: return
+    jours = (min(exp) - time.time()) / 86400
+    print('autorisation Meta valable encore %.0f jours' % jours)
+    if jours > 15: return
+    gh = os.environ.get('GITHUB_TOKEN'); repo = os.environ['GITHUB_REPOSITORY']
+    if not gh: return
+    titre = 'Renouveler l autorisation Meta (Instagram et Facebook)'
+    h = {'Authorization': 'Bearer ' + gh, 'Accept': 'application/vnd.github+json'}
+    q = urllib.request.Request('https://api.github.com/repos/%s/issues?state=open&per_page=50' % repo, headers=h)
+    if any(i.get('title') == titre for i in json.loads(urllib.request.urlopen(q, timeout=30).read())): return
+    body = ("L'autorisation qui permet de publier sur Instagram et Facebook expire dans %d jours.\n\n"
+            "Ouvrez la conversation Claude TerrenUrbanisme et écrivez : « renouveler Meta ». Cela prend 2 minutes.") % max(0, jours)
+    r = urllib.request.Request('https://api.github.com/repos/%s/issues' % repo, data=json.dumps({'title': titre, 'body': body}).encode(), headers=h, method='POST')
+    urllib.request.urlopen(r, timeout=30); print('::warning::' + titre + ' : expire dans %d jours' % jours)
+
 ig = ig_id()
+_n = datetime.now(ZoneInfo('Europe/Paris'))
+if MODE == 'verifier' or (_n.hour == 9 and _n.minute < 15): alerte_expiration()
 if MODE == 'verifier':
     me = api('GET', '/' + PAGE, fields='name')
     print('::notice::Connexion Meta OK : page « %s », Instagram %s' % (me.get('name'), ig)); sys.exit(0)
