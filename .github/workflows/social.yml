@@ -1,0 +1,32 @@
+name: Publication réseaux sociaux
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  push:
+    branches: [main]
+    paths: [.github/social/plan.json, .github/scripts/social.py]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: social
+  cancel-in-progress: false
+jobs:
+  publier:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Publier les posts arrivés à échéance
+        env:
+          META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          MODE: ${{ github.event_name == 'push' && 'verifier' || 'publier' }}
+        run: python3 .github/scripts/social.py
+      - name: Enregistrer les publications faites
+        if: always()
+        run: |
+          if [ -n "$(git status --porcelain .github/social/publie.json)" ]; then
+            git config user.name "TerrenUrbanisme publication"; git config user.email "contact@terrenurbanisme.com"
+            git add .github/social/publie.json && git commit -m "Publications faites" && git pull --rebase && git push
+          fi
