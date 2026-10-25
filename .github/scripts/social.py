@@ -46,6 +46,16 @@ def publish_ig(ig, p):
     ig_wait(c)
     return api('POST', '/%s/media_publish' % ig, creation_id=c)['id']
 
+def publish_ig_story(ig, p):
+    c = api('POST', '/%s/media' % ig, image_url=RAW + p['images'][0], media_type='STORIES')['id']
+    ig_wait(c)
+    return api('POST', '/%s/media_publish' % ig, creation_id=c)['id']
+
+def publish_fb_story(p):
+    ph = api('POST', '/%s/photos' % PAGE, url=RAW + p['images'][0], published='false')['id']
+    r = api('POST', '/%s/photo_stories' % PAGE, photo_id=ph)
+    return r.get('post_id') or r.get('id') or 'ok'
+
 def publish_fb(p):
     ids = [api('POST', '/%s/photos' % PAGE, url=RAW + f, published='false')['id'] for f in p['images']]
     params = {'message': p['texte_facebook']}
@@ -92,11 +102,16 @@ for p in plan:
     if when > now: continue
     if (now - when).total_seconds() > 6 * 3600: continue  # trop ancien : on ne publie pas en retard de plus de 6 h
     d = done.setdefault(p['id'], {})
-    for net, fn in (('instagram', lambda: publish_ig(ig, p)), ('facebook', lambda: publish_fb(p))):
+    story = p.get('type') == 'story'
+    jobs = (('instagram', lambda: publish_ig_story(ig, p) if story else publish_ig(ig, p)),
+            ('facebook', lambda: publish_fb_story(p) if story else publish_fb(p)))
+    for net, fn in jobs:
         if net not in p.get('reseaux', ['instagram', 'facebook']) or d.get(net): continue
+        if d.get(net + '_echecs', 0) >= 2: continue  # deux échecs : on n'insiste pas (évite les alertes en boucle)
         try:
             d[net] = fn(); changed = True; print('::notice::%s publié sur %s (%s)' % (p['id'], net, d[net]))
         except Exception as e:
+            d[net + '_echecs'] = d.get(net + '_echecs', 0) + 1; changed = True
             errors.append('%s %s : %s' % (p['id'], net, e)); print('::error::%s %s : %s' % (p['id'], net, str(e)[:600]))
 if changed: json.dump(done, open(DONE, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
 sys.exit(1 if errors else 0)
