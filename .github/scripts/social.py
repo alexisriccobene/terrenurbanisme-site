@@ -4,7 +4,7 @@ import json, os, sys, time, urllib.request, urllib.parse, urllib.error
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-G = 'https://graph.facebook.com/v21.0'
+G = 'https://graph.facebook.com/v26.0'
 TOKEN = os.environ.get('META_PAGE_TOKEN', '')
 PAGE = os.environ.get('FB_PAGE_ID', '')
 RAW = 'https://raw.githubusercontent.com/' + os.environ['GITHUB_REPOSITORY'] + '/main/.github/social/img/'
