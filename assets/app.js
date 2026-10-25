@@ -337,6 +337,7 @@
     });
     buys.forEach(function(btn, k){ btn.addEventListener('click', function(){
       var err = errs[k] || errs[0];
+      if (A && A.track) A.track('clic_rapport', parcelRef);
       errs.forEach(function(e){ e.textContent = ''; });
       if (!A || !A.ready){ err.textContent = 'Le paiement n\'est pas encore activé.'; return; }
       setAll(credits > 0 ? 'Génération du rapport…' : 'Redirection vers le paiement…', true);
@@ -349,6 +350,7 @@
         setAll(label, false);
       });
     }); });
+    if (window.TUAuth && window.TUAuth.track) window.TUAuth.track('diagnostic', parcelRef);
     if (window.TUAuth) window.TUAuth.saveDiagnostic({ insee:p.code_insee, commune:p.nom_com, section:sec, numero:num, verdict:null, zone:null });
     var tip = $('rs-tip'); if (tip) tip.hidden = true;
     if (big){

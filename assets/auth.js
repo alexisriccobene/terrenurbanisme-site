@@ -47,6 +47,14 @@
         return r.data;
       });
     },
+    track: function(etape, p){
+      if (!sb) return;
+      try {
+        Auth.user().then(function(u){
+          return sb.from('essais_diagnostic').insert({ etape: etape, insee: p && p.insee || null, commune: p && p.commune ? String(p.commune).slice(0,80) : null, connecte: !!u });
+        }).catch(function(){});
+      } catch(e){}
+    },
     saveDiagnostic: function(row){
       if (!sb) return Promise.resolve();
       return Auth.user().then(function(u){
