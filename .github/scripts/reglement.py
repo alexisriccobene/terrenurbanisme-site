@@ -25,7 +25,7 @@ def post(op, body, timeout=300):
         print('essai', k + 1, op, last); time.sleep(10 * (k + 1))
     fail('appel ' + op + ' en échec : ' + str(last))
 
-rc = subprocess.run(['curl', '-sSL', '--fail', '--retry', '3', '-A', 'TerrenUrbanisme/1.0 (contact@terrenurbanisme.com)', '-o', 'r.pdf', url]).returncode
+rc = subprocess.run(['curl', '-sSL', '--fail', '--proto', '=https', '--proto-redir', '=https', '--max-filesize', '419430400', '--retry', '3', '-A', 'TerrenUrbanisme/1.0 (contact@terrenurbanisme.com)', '-o', 'r.pdf', url]).returncode
 if rc: fail('téléchargement du règlement impossible (curl %d)' % rc)
 print('taille', os.path.getsize('r.pdf'))
 if subprocess.run(['pdftotext', '-layout', '-enc', 'UTF-8', 'r.pdf', 'r.txt']).returncode: fail('PDF illisible (taille %d octets)' % os.path.getsize('r.pdf'))

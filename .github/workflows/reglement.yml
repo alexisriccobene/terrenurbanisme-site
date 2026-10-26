@@ -2,6 +2,8 @@ name: Lecture d'un règlement volumineux
 on:
   repository_dispatch:
     types: [reglement]
+permissions:
+  contents: read
 concurrency:
   group: reglement-${{ github.event.client_payload.doc_key }}-${{ github.event.client_payload.zone }}
   cancel-in-progress: false

@@ -4,6 +4,8 @@ on:
     branches: [main]
     paths: [sitemap.xml, .github/scripts/indexnow.py]
   workflow_dispatch:
+permissions:
+  contents: read
 jobs:
   ping:
     runs-on: ubuntu-latest
