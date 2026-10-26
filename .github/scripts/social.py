@@ -91,7 +91,19 @@ _n = datetime.now(ZoneInfo('Europe/Paris'))
 if MODE == 'verifier' or (_n.hour == 9 and _n.minute < 15): alerte_expiration()
 if MODE == 'verifier':
     me = api('GET', '/' + PAGE, fields='name')
-    print('::notice::Connexion Meta OK : page « %s », Instagram %s' % (me.get('name'), ig)); sys.exit(0)
+    print('::notice::Connexion Meta OK : page « %s », Instagram %s' % (me.get('name'), ig))
+    etat = {'page': me.get('name'), 'instagram': ig, 'controle': datetime.now(ZoneInfo('Europe/Paris')).isoformat(timespec='minutes')}
+    done0 = json.load(open(DONE, encoding='utf-8')) if os.path.exists(DONE) else {}
+    for k, v in list(done0.items())[-3:]:
+        for net, mid in v.items():
+            try:
+                if net == 'instagram': etat[k + ' instagram'] = api('GET', '/' + mid, fields='media_type,timestamp,permalink')
+                else: etat[k + ' facebook'] = api('GET', '/' + mid, fields='id,created_time,permalink_url')
+            except Exception as e: etat[k + ' ' + net] = 'erreur : ' + str(e)[:300]
+    try: etat['stories facebook de la page'] = api('GET', '/%s/stories' % PAGE).get('data', [])[:5]
+    except Exception as e: etat['stories facebook de la page'] = 'erreur : ' + str(e)[:300]
+    json.dump(etat, open('.github/social/etat.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+    sys.exit(0)
 
 plan = json.load(open(PLAN, encoding='utf-8'))
 done = json.load(open(DONE, encoding='utf-8')) if os.path.exists(DONE) else {}
@@ -100,7 +112,7 @@ changed, errors = False, []
 for p in plan:
     when = datetime.fromisoformat(p['date']).replace(tzinfo=ZoneInfo('Europe/Paris'))
     if when > now: continue
-    if (now - when).total_seconds() > 6 * 3600: continue  # trop ancien : on ne publie pas en retard de plus de 6 h
+    if (now - when).total_seconds() > 20 * 3600: continue  # filet de sécurité : au-delà de 20 h de retard, on ne publie plus
     d = done.setdefault(p['id'], {})
     story = p.get('type') == 'story'
     jobs = (('instagram', lambda: publish_ig_story(ig, p) if story else publish_ig(ig, p)),
