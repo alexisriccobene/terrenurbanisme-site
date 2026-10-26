@@ -586,3 +586,10 @@ h2{font-size:clamp(26px,2.6vw,36px);font-weight:800;letter-spacing:-.028em;line-
 .trust div{background:none;border:0;border-top:1px solid var(--ligne);border-radius:0;padding:14px 0 0}
 .plan .tag-top{right:18px}
 .v-disc{font-size:12.5px;line-height:1.45;color:var(--muet);margin:14px 0 0;padding-top:12px;border-top:1px solid var(--ligne)}
+/* v46 : héros contenu dans la grille, carte de hauteur fixe */
+.hz-in{max-width:var(--w);margin:0 auto;padding:56px 24px 72px;min-height:0;grid-template-columns:minmax(0,1fr) minmax(0,1.12fr);gap:56px;align-items:center}
+.hz-txt{padding:0}
+.hz-map{border:1px solid #CFC3BA;border-left:1px solid #CFC3BA}
+.hz .scope{flex:none;height:560px;min-height:0}
+@media (max-width:1100px){.hz-in{grid-template-columns:minmax(0,1fr);gap:36px;padding:40px 24px 56px}.hz .scope{height:440px}}
+@media (max-width:620px){.hz-in{padding:32px 16px 40px}.hz .scope{height:360px}}
