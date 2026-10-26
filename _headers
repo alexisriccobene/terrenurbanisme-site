@@ -1,10 +1,38 @@
 /*
-  Strict-Transport-Security: max-age=31536000; includeSubDomains
+  Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
   X-Content-Type-Options: nosniff
-  X-Frame-Options: SAMEORIGIN
-  Content-Security-Policy: frame-ancestors 'self'; base-uri 'self'; object-src 'none'
+  X-Frame-Options: DENY
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'sha256-abHfFnOpHxWyIwCNVNlH+2c97Cqa905K7XlSvI/QMXA=' 'sha256-gfm3id4I6yDvRnimV304EOvRevUD+NqFAQEZYdG6lX8=' https://www.googletagmanager.com https://connect.facebook.net; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://data.geopf.fr https://www.googletagmanager.com https://*.google-analytics.com https://*.google.com https://*.google.fr https://www.facebook.com https://stats.g.doubleclick.net; font-src 'self' data:; connect-src 'self' https://nmoigruxnhsidrhqtzid.supabase.co wss://nmoigruxnhsidrhqtzid.supabase.co https://api-adresse.data.gouv.fr https://apicarto.ign.fr https://data.geopf.fr https://geo.api.gouv.fr https://www.googletagmanager.com https://*.google-analytics.com https://*.analytics.google.com https://www.facebook.com https://connect.facebook.net https://stats.g.doubleclick.net; worker-src 'self' blob:; frame-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; object-src 'none'; manifest-src 'self'; upgrade-insecure-requests
   Referrer-Policy: strict-origin-when-cross-origin
-  Permissions-Policy: camera=(), microphone=(), usb=(), interest-cohort=()
+  Permissions-Policy: accelerometer=(), autoplay=(), bluetooth=(), browsing-topics=(), camera=(), display-capture=(), geolocation=(), gyroscope=(), hid=(), interest-cohort=(), magnetometer=(), microphone=(), midi=(), payment=(), serial=(), usb=(), xr-spatial-tracking=()
+  Cross-Origin-Opener-Policy: same-origin
+  X-Permitted-Cross-Domain-Policies: none
+
+/espace.html
+  Cache-Control: no-store
+  X-Robots-Tag: noindex, nofollow
+
+/merci.html
+  Cache-Control: no-store
+  X-Robots-Tag: noindex, nofollow
+
+/essai.html
+  Cache-Control: no-store
+  X-Robots-Tag: noindex, nofollow
+
+/connexion.html
+  Cache-Control: no-store
+  X-Robots-Tag: noindex, nofollow
+
+/rapport.html
+  Cache-Control: no-store
+  X-Robots-Tag: noindex, nofollow
+  Referrer-Policy: no-referrer
+
+/r/*
+  Cache-Control: no-store
+  X-Robots-Tag: noindex, nofollow
+  Referrer-Policy: no-referrer
 
 /assets/*
   Cache-Control: public, max-age=31536000, immutable
@@ -17,3 +45,6 @@
 
 /data/*
   Cache-Control: public, max-age=86400
+
+/.well-known/security.txt
+  Content-Type: text/plain; charset=utf-8

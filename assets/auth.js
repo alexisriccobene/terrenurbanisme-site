@@ -227,7 +227,7 @@
         var n = r && r.credits || 1;
         essai.innerHTML = '<div class="acct"><div><small>Essai offert</small><b>' + n + ' rapport' + (n > 1 ? 's' : '') + ' offert' + (n > 1 ? 's' : '') + '</b><span>Crédité' + (n > 1 ? 's' : '') + ' sur votre compte</span></div><div><small>Prochaine étape</small><b style="font-size:18px">Recherchez votre terrain</b><span>Puis cliquez sur « Générer le rapport complet »</span></div><div class="acct-act"><a class="btn" href="/#recherche">Rechercher une parcelle</a></div></div>';
       }).catch(function(e){
-        var m = { deja_utilise:'Ce lien d\'essai a déjà été utilisé.', deja_utilise_par_vous:'Vous avez déjà utilisé ce lien : votre rapport offert est dans votre solde.', expire:'Ce lien d\'essai a expiré.', code:'Ce lien d\'essai n\'est pas valide.' }[e && e.code] || 'Le lien n\'a pas pu être validé. Réessayez dans un instant.';
+        var m = { trop_essais:'Trop de tentatives. Réessayez dans une heure.', deja_utilise:'Ce lien d\'essai a déjà été utilisé.', deja_utilise_par_vous:'Vous avez déjà utilisé ce lien : votre rapport offert est dans votre solde.', expire:'Ce lien d\'essai a expiré.', code:'Ce lien d\'essai n\'est pas valide.' }[e && e.code] || 'Le lien n\'a pas pu être validé. Réessayez dans un instant.';
         essai.innerHTML = '<p class="empty">' + m + ' <a href="/tarifs.html">Voir les offres</a></p>';
       });
     });

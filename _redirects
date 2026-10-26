@@ -1,5 +1,10 @@
 /r/*  /rapport.html  200
 /rapport/*  https://nmoigruxnhsidrhqtzid.supabase.co/functions/v1/stripe-webhook/rapport/:splat  200!
 /.github/*  /404.html  404
+/.git/*  /404.html  404
+/.env  /404.html  404
+/.env.*  /404.html  404
 /netlify.toml  /404.html  404
 /.gitignore  /404.html  404
+/_headers  /404.html  404
+/_redirects  /404.html  404

@@ -327,6 +327,7 @@
       '<ul class="v-locked">' + locked.map(function(t){ return '<li>' + LOCK + '<span>' + esc(t) + '</span><i class="blur" aria-hidden="true">████████</i></li>'; }).join('') + '</ul>' +
       '<button type="button" class="v-cta buy">' + BTN + '</button>' +
       '<p class="v-buy-note">Rapport PDF de 30 à 40 pages avec sommaire cliquable, envoyé par e-mail en quelques minutes · paiement sécurisé par Stripe<br><a href="/tarifs.html">Plusieurs terrains ? Abonnements dès 0,86 € le rapport</a> · <a href="/exemple.html">Voir un exemple</a></p><p class="v-buy-err" role="alert"></p>' +
+      '<p class="v-disc">Information indicative, établie à partir des sources publiques consultées à la date de la recherche. Elle ne vaut ni certificat d\'urbanisme, ni autorisation, ni avis juridique : seule la mairie peut confirmer la constructibilité de la parcelle.</p>' +
       '<a class="v-owner" href="https://france-cadastre.fr/" target="_blank" rel="noopener">Connaître le propriétaire de cette parcelle <span>via France Cadastre ↗</span></a>';
     var parcelRef = { insee:p.code_insee, commune:p.nom_com, section:sec, numero:num };
     var buys = resultEl.querySelectorAll('.buy'), errs = resultEl.querySelectorAll('.v-buy-err'), A = window.TUAuth, credits = 0, label = BTN;

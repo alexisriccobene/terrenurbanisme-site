@@ -11,6 +11,8 @@
     document.cookie.split(';').forEach(function(x){ var n = x.split('=')[0].trim(); if (/^_ga|^_gid|^_gcl/.test(n)) { var d = location.hostname.split('.'); for (var i = 0; i < d.length; i++) { var dom = d.slice(i).join('.'); document.cookie = n + '=; Max-Age=0; path=/; domain=.' + dom; document.cookie = n + '=; Max-Age=0; path=/; domain=' + dom; } document.cookie = n + '=; Max-Age=0; path=/'; } });
   }
   var loaded = false, gtagReady = false, adsLoaded = false, current = null;
+  var PRIV = /^\/(r\/|rapport\.html|essai\.html)/.test(location.pathname);
+  function pageLoc(){ var q = new URLSearchParams(location.search); ['session_id', 'code', 'r'].forEach(function(k){ q.delete(k); }); var s = q.toString(); return location.origin + location.pathname.replace(/^\/r\/.+/, '/r/rapport') + (s ? '?' + s : ''); }
   function gtagInit(id){
     window.dataLayer = window.dataLayer || [];
     if (!window.gtag) window.gtag = function(){ window.dataLayer.push(arguments); };
@@ -21,7 +23,7 @@
     if (hasAnalytics){
       if (c && c.analytics && !loaded){
         loaded = true; gtagInit(cfg.ga);
-        window.gtag('config', cfg.ga, { anonymize_ip: true, allow_google_signals: false, allow_ad_personalization_signals: false });
+        window.gtag('config', cfg.ga, { anonymize_ip: true, allow_google_signals: false, allow_ad_personalization_signals: false, page_location: pageLoc() });
       } else if (c && !c.analytics){
         if (loaded) { window['ga-disable-' + cfg.ga] = true; }
         clearGa();
@@ -30,7 +32,7 @@
     if (hasAds && c && c.ads && !adsLoaded){
       adsLoaded = true;
       if (cfg.gads){ gtagInit(cfg.gads); window.gtag('config', cfg.gads); }
-      if (cfg.metaPixel){
+      if (cfg.metaPixel && !PRIV){
         !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
         window.fbq('init', cfg.metaPixel); window.fbq('track', 'PageView');
       }
