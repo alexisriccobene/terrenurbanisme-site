@@ -453,3 +453,4 @@ img,svg,video{max-width:100%}
 
 footer .social{display:flex;gap:10px;margin-top:18px}footer .social a{display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;border-radius:50%;border:1px solid rgba(255,255,255,.22);color:#E9DFD8}footer .social a:hover,footer .social a:focus-visible{background:#A3462C;border-color:#A3462C;color:#fff;text-decoration:none}
 .v-disc{font-size:12.5px;line-height:1.45;color:var(--muet);margin:14px 0 0;padding-top:12px;border-top:1px solid var(--ligne)}
+.biens .doc ul.mini{margin:14px 0 0;padding:0;list-style:none}.biens .doc ul.mini li{position:relative;padding:7px 0 7px 22px;font-size:15px;border-top:1px solid var(--ligne)}.biens .doc ul.mini li::before{content:"";position:absolute;left:2px;top:15px;width:10px;height:6px;border-left:2px solid var(--ok);border-bottom:2px solid var(--ok);transform:rotate(-45deg)}.biens .doc h3{font-size:21px}
