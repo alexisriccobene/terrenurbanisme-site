@@ -13,6 +13,18 @@
   ]
  },
  {
+  "id": "story-bienvenue",
+  "type": "story",
+  "date": "2026-10-26T19:05",
+  "theme": "Bienvenue : répondez DIAGNOSTIC",
+  "reseaux": [
+   "instagram"
+  ],
+  "images": [
+   "Story-bienvenue.jpg"
+  ]
+ },
+ {
   "id": "story-2026-10-28",
   "type": "story",
   "date": "2026-10-27T12:30",
