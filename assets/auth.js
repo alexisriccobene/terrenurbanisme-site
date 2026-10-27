@@ -41,6 +41,10 @@
         location.href = '/merci.html?session_id=' + encodeURIComponent(r.data.session) + '&credit=1';
       });
     },
+    relance: function(session){
+      if (!sb) return Promise.resolve();
+      return sb.functions.invoke('stripe-webhook', { body: { action: 'relance', session: session || '' } }).catch(function(){});
+    },
     redeem: function(code){
       return sb.functions.invoke('stripe-webhook', { body: { action: 'redeem', code: code } }).then(function(r){
         if (r.error){ return (r.error.context && r.error.context.json ? r.error.context.json() : Promise.resolve({})).then(function(j){ var e = new Error(j && j.error || 'redeem'); e.code = j && j.error; throw e; }); }
@@ -195,6 +199,7 @@
         loadDossiers(merci, sid).then(function(rows){
           var pending = !rows.length || rows[0].status === 'pending';
           if (!pending){ clearInterval(tick); showWait(true); return; }
+          var el = Date.now() - t0; if (el > 160000 && (!poll.last || Date.now() - poll.last > 60000)) { poll.last = Date.now(); Auth.relance(sid); }
           if (++tries < 150) setTimeout(poll, 4000); else { clearInterval(tick); wait.innerHTML = 'La préparation prend plus de temps que prévu. Le rapport vous sera envoyé par e-mail dès qu\'il sera prêt, et apparaîtra dans <a href="/espace.html">votre espace</a>.'; }
         }).catch(function(){ if (++tries < 150) setTimeout(poll, 4000); });
       })();
