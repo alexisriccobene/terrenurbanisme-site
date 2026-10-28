@@ -320,7 +320,7 @@
     var BTN = btnTxt();
     var opt = function(k, lbl, off){ var o = OFF[k]; return '<label class="v-opt"><input type="radio" name="v-kind" value="' + k + '"' + (k === kind ? ' checked' : '') + '><span class="v-opt-l">' + lbl + '</span>' + (off ? '<em>' + off + '</em>' : '') + '<b>' + o.u + (o.n > 1 ? '<small>/ rapport</small>' : '') + '</b></label>'; };
     var OFFER = '<div class="v-offer" role="radiogroup" aria-label="Nombre de rapports"><div class="v-offer-top"><b class="v-offer-u">' + OFF[kind].u + '</b> <span>/ rapport</span><div class="v-offer-t">Prix total ' + OFF[kind].t + '</div></div>' +
-      opt('unit', 'Vérifier ce bien') + '<div class="v-opt-sep">Plusieurs biens ? Payez moins par rapport</div>' + opt('pack2', '2 rapports', '−25 %') + opt('pack3', '3 rapports', '−35 %') +
+      opt('unit', 'Cette parcelle') + '<div class="v-opt-sep">Plusieurs biens ? Payez moins par rapport</div>' + opt('pack2', '2 rapports', '−25 %') + opt('pack3', '3 rapports', '−35 %') +
       '<p class="v-opt-note">Le premier rapport porte sur cette parcelle. Les autres restent sur votre compte, à utiliser quand vous voulez, sans limite de durée.</p></div>';
     resultEl.innerHTML =
       '<div class="v-ref">' + esc(ref) + '</div>' +
