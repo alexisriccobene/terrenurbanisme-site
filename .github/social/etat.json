@@ -1,30 +1,25 @@
 {
  "page": "TerrenUrbanisme",
  "instagram": "17841411573365600",
- "controle": "2026-10-26T19:31+01:00",
- "story-2026-10-27 instagram": {
-  "id": "18079229279412768",
+ "controle": "2026-10-28T12:09+01:00",
+ "story-2026-10-27 instagram": "erreur : Meta 400 /18079229279412768 : {\"error\":{\"message\":\"Unsupported get request. Object with ID '18079229279412768' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api\",\"",
+ "story-2026-10-27 facebook": "erreur : Meta 400 /1157494029950407 : {\"error\":{\"message\":\"Unsupported get request. Object with ID '1157494029950407' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\/\\/developers.facebook.com\\/docs\\/graph-api\"",
+ "story-bienvenue instagram": "erreur : Meta 400 /17959125282255336 : {\"error\":{\"message\":\"Unsupported get request. Object with ID '17959125282255336' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api\",\"",
+ "story-2026-10-28 instagram": {
+  "id": "17974549152154033",
   "media_type": "IMAGE",
-  "permalink": "https://www.instagram.com/stories/terrenurbanisme/4016477916707533978",
-  "timestamp": "2026-10-26T13:31:45+0000"
+  "permalink": "https://www.instagram.com/stories/terrenurbanisme/4017142141856050461",
+  "timestamp": "2026-10-27T11:31:28+0000"
  },
- "story-2026-10-27 facebook": "erreur : Meta 400 /1157494029950407 : {\"error\":{\"message\":\"(#100) Tried accessing nonexisting field (id)\",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"AStCs9B6gCaeCPULvKUee4L\"}}",
+ "story-2026-10-28 facebook": "erreur : Meta 400 /1438880931087348 : {\"error\":{\"message\":\"(#100) Tried accessing nonexisting field (id)\",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"AFO55vyyCRVjrqsXuuKR3kz\"}}",
  "stories facebook de la page": [
   {
-   "post_id": "1433854061506071",
+   "post_id": "1438880931087348",
    "status": "published",
-   "creation_time": "1793027660",
+   "creation_time": "1793100693",
    "media_type": "photo",
-   "url": "https://facebook.com/stories/122107188999511191/UzpfSVNDOjE0MzM4NTQwNjQ4Mzk0MDQ=/?view_single=1",
-   "media_id": "122110076115511191"
-  },
-  {
-   "post_id": "1157494029950407",
-   "status": "published",
-   "creation_time": "1793021510",
-   "media_type": "photo",
-   "url": "https://facebook.com/stories/122107188999511191/UzpfSVNDOjExNTc0OTQwMzY2MTcwNzM=/?view_single=1",
-   "media_id": "122110034463511191"
+   "url": "https://facebook.com/stories/122107188999511191/UzpfSVNDOjE0Mzg4ODA5MzQ0MjA2ODE=/?view_single=1",
+   "media_id": "122110444095511191"
   }
  ]
 }
