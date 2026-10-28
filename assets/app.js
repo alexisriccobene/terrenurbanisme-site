@@ -315,26 +315,37 @@
       found.push(['ok', 'Plan de prévention des risques', sups.some(function(x){ return /^pm[1-3]/.test(x); }) ? 'Parcelle concernée par un PPR : règles détaillées dans le rapport' : 'Aucun PPR recensé sur la parcelle']);
     }
     var locked = ['Verdict : constructible ou non, et pourquoi', 'Plan de zonage et chapitre officiel du règlement en annexe', 'Règlement de la zone : hauteur, reculs, aspect, avec extraits', 'Surface constructible estimée en m² et plan d\'implantation', (/^2[AB]/.test(String(parcel && parcel.properties && parcel.properties.code_insee || '')) ? 'PADDUC, distance au rivage, loi Montagne' : 'Loi Littoral, distance au rivage, loi Montagne'), 'Risques à la parcelle, arrêtés de catastrophe naturelle', 'Accès, pente, assainissement et fibre', 'Photos aériennes depuis 1950 et permis accordés autour', 'Prix au m² de la commune et ventes de terrains alentour', 'État des risques (ERP) pré-rempli et rapport officiel Géorisques', 'Démarches, délais et interlocuteurs'];
-    var BTN = 'Obtenir le rapport complet · 12,90 €';
+    var OFF = { unit: { n: 1, u: '19,90 €', t: '19,90 €' }, pack2: { n: 2, u: '14,90 €', t: '29,80 €' }, pack3: { n: 3, u: '12,90 €', t: '38,70 €' } }, kind = 'pack3';
+    var btnTxt = function(){ var o = OFF[kind]; return o.n > 1 ? 'Obtenir ' + o.n + ' rapports · ' + o.t : 'Obtenir le rapport complet · ' + o.t; };
+    var BTN = btnTxt();
+    var opt = function(k, lbl, off){ var o = OFF[k]; return '<label class="v-opt"><input type="radio" name="v-kind" value="' + k + '"' + (k === kind ? ' checked' : '') + '><span class="v-opt-l">' + lbl + '</span>' + (off ? '<em>' + off + '</em>' : '') + '<b>' + o.u + (o.n > 1 ? '<small>/ rapport</small>' : '') + '</b></label>'; };
+    var OFFER = '<div class="v-offer" role="radiogroup" aria-label="Nombre de rapports"><div class="v-offer-top"><b class="v-offer-u">' + OFF[kind].u + '</b> <span>/ rapport</span><div class="v-offer-t">Prix total ' + OFF[kind].t + '</div></div>' +
+      opt('unit', 'Vérifier ce bien') + '<div class="v-opt-sep">Plusieurs biens ? Payez moins par rapport</div>' + opt('pack2', '2 rapports', '−25 %') + opt('pack3', '3 rapports', '−35 %') +
+      '<p class="v-opt-note">Le premier rapport porte sur cette parcelle. Les autres restent sur votre compte, à utiliser quand vous voulez, sans limite de durée.</p></div>';
     resultEl.innerHTML =
       '<div class="v-ref">' + esc(ref) + '</div>' +
       '<span class="v-badge v-found"><i></i>Parcelle trouvée</span>' +
       '<div class="v-title">Votre diagnostic gratuit</div>' +
       '<p class="v-other">Ce n\'est pas la bonne parcelle ? Cliquez sur une autre parcelle de la carte.</p>' +
       '<p class="v-why">Nous avons trouvé cette parcelle et les sources officielles qui la concernent. Le rapport complet répond à la question : peut-on construire, et à quelles conditions ?</p>' +
-      '<button type="button" class="v-cta v-cta-top buy">' + BTN + '</button><p class="v-buy-err" role="alert"></p>' +
+      OFFER + '<button type="button" class="v-cta v-cta-top buy">' + BTN + '</button><p class="v-buy-err" role="alert"></p>' +
       '<ul class="v-found-list">' + found.map(function(f){ return '<li>' + OKI + '<div><strong>' + esc(f[1]) + '</strong><span>' + esc(f[2]) + '</span></div></li>'; }).join('') + '</ul>' +
       '<ul class="v-locked">' + locked.map(function(t){ return '<li>' + LOCK + '<span>' + esc(t) + '</span><i class="blur" aria-hidden="true">████████</i></li>'; }).join('') + '</ul>' +
       '<button type="button" class="v-cta buy">' + BTN + '</button>' +
-      '<p class="v-buy-note">Rapport PDF de 30 à 40 pages avec sommaire cliquable, envoyé par e-mail en quelques minutes · paiement sécurisé par Stripe<br><a href="/tarifs.html">Plusieurs terrains ? Abonnements dès 0,86 € le rapport</a> · <a href="/exemple.html">Voir un exemple</a></p><p class="v-buy-err" role="alert"></p>' +
+      '<p class="v-buy-note">Rapport PDF de 30 à 40 pages avec sommaire cliquable, envoyé par e-mail en quelques minutes · paiement sécurisé par Stripe<br><a href="/tarifs.html">Professionnels : abonnements dès 0,86 € le rapport</a> · <a href="/exemple.html">Voir un exemple</a></p><p class="v-buy-err" role="alert"></p>' +
       '<p class="v-disc">Information indicative, établie à partir des sources publiques consultées à la date de la recherche. Elle ne vaut ni certificat d\'urbanisme, ni autorisation, ni avis juridique : seule la mairie peut confirmer la constructibilité de la parcelle.</p>' +
       '<a class="v-owner" href="https://france-cadastre.fr/" target="_blank" rel="noopener">Connaître le propriétaire de cette parcelle <span>via France Cadastre ↗</span></a>';
     var parcelRef = { insee:p.code_insee, commune:p.nom_com, section:sec, numero:num };
     var buys = resultEl.querySelectorAll('.buy'), errs = resultEl.querySelectorAll('.v-buy-err'), A = window.TUAuth, credits = 0, label = BTN;
     function setAll(t, dis){ buys.forEach(function(x){ x.disabled = !!dis; x.textContent = t; }); }
+    var offerEl = resultEl.querySelector('.v-offer');
+    resultEl.querySelectorAll('input[name="v-kind"]').forEach(function(r){ r.addEventListener('change', function(){
+      if (!r.checked) return; kind = r.value; offerEl.querySelector('.v-offer-u').textContent = OFF[kind].u; offerEl.querySelector('.v-offer-t').textContent = 'Prix total ' + OFF[kind].t;
+      offerEl.querySelector('.v-offer-top span').textContent = '/ rapport'; BTN = btnTxt(); if (!credits){ label = BTN; setAll(label); }
+    }); });
     if (A && A.ready) A.account().then(function(c){
       credits = c ? c.total : 0;
-      if (credits > 0){ label = 'Générer le rapport complet · 1 rapport (solde : ' + credits + ')'; setAll(label); }
+      if (credits > 0){ label = 'Générer le rapport complet · 1 rapport (solde : ' + credits + ')'; setAll(label); if (offerEl) offerEl.hidden = true; }
     });
     buys.forEach(function(btn, k){ btn.addEventListener('click', function(){
       var err = errs[k] || errs[0];
@@ -344,10 +355,10 @@
       setAll(credits > 0 ? 'Génération du rapport…' : 'Redirection vers le paiement…', true);
       A.user().then(function(u){
         if (!u){ location.href = A.loginUrl('/?commune=' + encodeURIComponent(p.nom_com) + '&section=' + encodeURIComponent(sec) + '&numero=' + encodeURIComponent(num)); return; }
-        return credits > 0 ? A.generate(parcelRef) : A.checkout('unit', parcelRef);
+        return credits > 0 ? A.generate(parcelRef) : A.checkout(kind, parcelRef);
       }).catch(function(e){
         err.textContent = e && e.code === 'solde' ? 'Votre solde de rapports est épuisé.' : 'L\'opération n\'a pas pu aboutir. Réessayez dans un instant.';
-        if (e && e.code === 'solde') { credits = 0; label = BTN; }
+        if (e && e.code === 'solde') { credits = 0; label = BTN; if (offerEl) offerEl.hidden = false; }
         setAll(label, false);
       });
     }); });
@@ -439,17 +450,16 @@
   try { if (localStorage.getItem('tu_bill') === 'a') billing = 'a'; } catch (e) {}
   // Prix TTC : mensuel, et annuel ramené au mois (payé en une fois)
   var SUB = {
-    essentiel: { name: 'Essentiel', m: 19,  a: 15,  n: 10 },
     pro:       { name: 'Agence',    m: 49,  a: 39,  n: 50 },
     cabinet:   { name: 'Réseau',    m: 129, a: 103, n: 150 }
   };
-  var UNIT = { unit: ['12,90 €', 'Paiement unique', 'Choisir · 1 rapport'], pack3: ['34,90 €', '3 rapports · 11,63 € le rapport', 'Choisir · 3 rapports'], pack5: ['54,90 €', '5 rapports · 10,98 € le rapport', 'Choisir · 5 rapports'] };
+  var UNIT = { unit: ['19,90 €', 'Paiement unique', 'Choisir · 1 rapport'], pack2: ['14,90 € <small>/ rapport</small>', 'Lot de 2 · 29,80 € au total · −25 %', 'Choisir · 2 rapports'], pack3: ['12,90 € <small>/ rapport</small>', 'Lot de 3 · 38,70 € au total · −35 %', 'Choisir · 3 rapports'] };
   var eur = function(v){ return (Math.round(v * 100) / 100).toLocaleString('fr-FR', { minimumFractionDigits: v % 1 ? 2 : 0, maximumFractionDigits: 2 }) + ' €'; };
   var cards = [];
   root.querySelectorAll('.plan').forEach(function(card){
     var group = card.getAttribute('data-group'), amt = card.querySelector('.amt'), unit = card.querySelector('.unit'), save = card.querySelector('.save'), btn = card.querySelector('.go'), err = card.querySelector('.plan-err');
     var segs = card.querySelectorAll('.seg button');
-    var cur = group === 'unit' ? 'unit' : group === 'cab' ? 'cabinet' : 'pro';
+    var cur = group === 'unit' ? 'pack3' : group === 'cab' ? 'cabinet' : 'pro';
     function render(){
       segs.forEach(function(b){ b.setAttribute('aria-pressed', b.getAttribute('data-k') === cur ? 'true' : 'false'); });
       if (group === 'unit') { var o = UNIT[cur]; amt.innerHTML = o[0]; unit.textContent = o[1]; btn.textContent = o[2] + ' →'; btn.setAttribute('data-kind', cur); return; }

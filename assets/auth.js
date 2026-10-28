@@ -18,7 +18,7 @@
       if (!sb) return Promise.resolve(null);
       return Auth.user().then(function(u){ if (!u) return null; return sb.from('comptes').select('*').eq('user_id', u.id).maybeSingle().then(function(r){ var c = r.data || { credits_abonnement:0, credits_achetes:0 }; var sub = ['active','trialing'].indexOf(c.statut_abonnement) >= 0; c.total = (sub ? c.credits_abonnement : 0) + c.credits_achetes; c.abonne = ['active','trialing','past_due','unpaid','incomplete'].indexOf(c.statut_abonnement) >= 0; return c; }); }).catch(function(){ return null; });
     },
-    /* Paiement : kind = unit | pack3 | pack5 | essentiel | pro | cabinet ; parcel facultatif */
+    /* Paiement : kind = unit | pack2 | pack3 | pro | cabinet | pro_an | cabinet_an ; parcel facultatif (le premier rapport porte sur la parcelle) */
     checkout: function(kind, parcel){
       if (!sb) return Promise.reject(new Error('off'));
       return Auth.user().then(function(u){
@@ -167,9 +167,9 @@
       if (!u){ location.replace(Auth.loginUrl('/espace.html')); return; }
       // Mesure de la vente (Google Ads, Meta), envoyée une seule fois et seulement avec le consentement du visiteur
       if (sid && /^cs_/.test(sid) && window.TU_conversion){
-        var PRIX = { unit:19.9, pack3:49.9, pack5:74.9, essentiel:29, pro:69, cabinet:149, essentiel_an:276, pro_an:660, cabinet_an:1428 };
+        var PRIX = { unit:19.9, pack2:29.8, pack3:38.7, pro:49, cabinet:129, pro_an:468, cabinet_an:1236 };
         var once = true; try { once = !localStorage.getItem('tu_conv_' + sid); localStorage.setItem('tu_conv_' + sid, '1'); } catch (e) {}
-        if (once) window.TU_conversion(PRIX[achat || 'unit'], sid);
+        if (once) window.TU_conversion(PRIX[achat || qs.get('k') || 'unit'] || 19.9, sid);
       }
       if (achat){
         var h1 = document.querySelector('#merci h1'), lede = document.querySelector('#merci .lede');
