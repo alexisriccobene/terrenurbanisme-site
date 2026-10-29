@@ -62,6 +62,65 @@ def publish_fb(p):
     for i, m in enumerate(ids): params['attached_media[%d]' % i] = json.dumps({'media_fbid': m})
     return api('POST', '/%s/feed' % PAGE, **params)['id']
 
+
+# ---------- LinkedIn (page entreprise, Community Management API) ----------
+LI_TOKEN = os.environ.get('LINKEDIN_TOKEN', '')
+LI_REFRESH = os.environ.get('LINKEDIN_REFRESH', '')
+LI_CID, LI_SECRET = os.environ.get('LINKEDIN_CLIENT_ID', ''), os.environ.get('LINKEDIN_CLIENT_SECRET', '')
+LI_ORG = ''.join(ch for ch in os.environ.get('LINKEDIN_ORG', '') if ch.isdigit())
+LI_VERSIONS = ['202609', '202606', '202603', '202512', '202510']
+LI = {'token': LI_TOKEN, 'version': None, 'refreshed': False}
+
+def li_refresh():
+    if LI['refreshed'] or not (LI_REFRESH and LI_CID and LI_SECRET): return False
+    LI['refreshed'] = True
+    data = urllib.parse.urlencode({'grant_type': 'refresh_token', 'refresh_token': LI_REFRESH, 'client_id': LI_CID, 'client_secret': LI_SECRET}).encode()
+    req = urllib.request.Request('https://www.linkedin.com/oauth/v2/accessToken', data=data, method='POST', headers={'Content-Type': 'application/x-www-form-urlencoded'})
+    with urllib.request.urlopen(req, timeout=60) as r: LI['token'] = json.loads(r.read())['access_token']
+    print('jeton LinkedIn renouvelé'); return True
+
+def li(method, path, body=None, raw=None, headers=None, full=False):
+    versions = [LI['version']] if LI['version'] else LI_VERSIONS
+    last = None
+    for v in versions:
+        h = {'Authorization': 'Bearer ' + LI['token'], 'LinkedIn-Version': v, 'X-Restli-Protocol-Version': '2.0.0'}
+        if body is not None: h['Content-Type'] = 'application/json'
+        h.update(headers or {})
+        req = urllib.request.Request(path if path.startswith('http') else 'https://api.linkedin.com/rest' + path,
+                                     data=raw if raw is not None else (json.dumps(body).encode() if body is not None else None), method=method, headers=h)
+        try:
+            with urllib.request.urlopen(req, timeout=120) as r:
+                LI['version'] = v; txt = r.read()
+                return (r, json.loads(txt) if txt else {}) if full else (json.loads(txt) if txt else {})
+        except urllib.error.HTTPError as e:
+            msg = e.read()[:400].decode(errors='replace'); last = 'LinkedIn %s %s : %s' % (e.code, path.split('?')[0][-60:], msg)
+            if e.code == 401 and li_refresh(): return li(method, path, body, raw, headers, full)
+            if e.code == 426 or 'NONEXISTENT_VERSION' in msg or 'VERSION_MISSING' in msg: continue
+            raise RuntimeError(last)
+    raise RuntimeError(last or 'LinkedIn : aucune version d\'API acceptée')
+
+def li_text(t):
+    import re
+    t = re.sub(r'([\\|{}@\[\]()<>#*_~])', r'\\\1', t)
+    return re.sub(r'\\#(\w+)', r'{hashtag|\\#|\1}', t)
+
+def li_image(fname):
+    r = li('POST', '/images?action=initializeUpload', {'initializeUploadRequest': {'owner': 'urn:li:organization:' + LI_ORG}})['value']
+    data = open('.github/social/img/' + fname, 'rb').read()
+    req = urllib.request.Request(r['uploadUrl'], data=data, method='PUT', headers={'Authorization': 'Bearer ' + LI['token'], 'Content-Type': 'application/octet-stream'})
+    urllib.request.urlopen(req, timeout=120).read()
+    return r['image']
+
+def publish_li(p):
+    ids = [li_image(f) for f in p['images'][:20]]
+    content = {'media': {'id': ids[0], 'altText': p.get('theme', '')[:120]}} if len(ids) == 1 else {'multiImage': {'images': [{'id': i, 'altText': p.get('theme', '')[:120]} for i in ids]}}
+    body = {'author': 'urn:li:organization:' + LI_ORG, 'commentary': li_text(p.get('texte_linkedin') or p.get('texte_facebook') or p.get('texte_instagram', '')),
+            'visibility': 'PUBLIC', 'distribution': {'feedDistribution': 'MAIN_FEED', 'targetEntities': [], 'thirdPartyDistributionChannels': []},
+            'content': content, 'lifecycleState': 'PUBLISHED', 'isReshareDisabledByAuthor': False}
+    r, _ = li('POST', '/posts', body, full=True)
+    return r.headers.get('x-restli-id') or r.headers.get('x-linkedin-id') or 'ok'
+LI_ON = bool(LI_TOKEN and LI_ORG)
+
 if not TOKEN or not PAGE:
     print('::warning::Publication automatique non configurée (secrets META_PAGE_TOKEN et FB_PAGE_ID manquants)'); sys.exit(0)
 def alerte_expiration():
@@ -102,6 +161,13 @@ if MODE == 'verifier':
             except Exception as e: etat[k + ' ' + net] = 'erreur : ' + str(e)[:300]
     try: etat['stories facebook de la page'] = api('GET', '/%s/stories' % PAGE).get('data', [])[:5]
     except Exception as e: etat['stories facebook de la page'] = 'erreur : ' + str(e)[:300]
+    if LI_ON:
+        try:
+            o = li('GET', '/organizations/' + LI_ORG)
+            etat['linkedin'] = {'page': (o.get('localizedName') or o.get('vanityName')), 'version_api': LI['version'], 'jeton_renouvele': LI['refreshed']}
+            print('::notice::Connexion LinkedIn OK : page « %s »' % etat['linkedin']['page'])
+        except Exception as e: etat['linkedin'] = 'erreur : ' + str(e)[:400]; print('::error::LinkedIn : ' + str(e)[:400])
+    else: etat['linkedin'] = 'non configuré'
     json.dump(etat, open('.github/social/etat.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     sys.exit(0)
 
@@ -116,9 +182,11 @@ for p in plan:
     d = done.setdefault(p['id'], {})
     story = p.get('type') == 'story'
     jobs = (('instagram', lambda: publish_ig_story(ig, p) if story else publish_ig(ig, p)),
-            ('facebook', lambda: publish_fb_story(p) if story else publish_fb(p)))
+            ('facebook', lambda: publish_fb_story(p) if story else publish_fb(p)),
+            ('linkedin', lambda: publish_li(p)))
     for net, fn in jobs:
         if net not in p.get('reseaux', ['instagram', 'facebook']) or d.get(net): continue
+        if net == 'linkedin' and (story or not LI_ON): continue
         if d.get(net + '_echecs', 0) >= 2: continue  # deux échecs : on n'insiste pas (évite les alertes en boucle)
         try:
             d[net] = fn(); changed = True; print('::notice::%s publié sur %s (%s)' % (p['id'], net, d[net]))
