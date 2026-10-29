@@ -1,7 +1,7 @@
 {
  "page": "TerrenUrbanisme",
  "instagram": "17841411573365600",
- "controle": "2026-10-29T11:17+01:00",
+ "controle": "2026-10-29T11:19+01:00",
  "story-bienvenue instagram": "erreur : Meta 400 /17959125282255336 : {\"error\":{\"message\":\"Unsupported get request. Object with ID '17959125282255336' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api\",\"",
  "story-2026-10-28 instagram": "erreur : Meta 400 /17974549152154033 : {\"error\":{\"message\":\"Unsupported get request. Object with ID '17974549152154033' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api\",\"",
  "story-2026-10-28 facebook": "erreur : Meta 400 /1438880931087348 : {\"error\":{\"message\":\"Unsupported get request. Object with ID '1438880931087348' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\/\\/developers.facebook.com\\/docs\\/graph-api\"",
@@ -11,7 +11,7 @@
   "permalink": "https://www.instagram.com/stories/terrenurbanisme/4017881369699362977",
   "timestamp": "2026-10-28T12:00:14+0000"
  },
- "story-2026-10-29 facebook": "erreur : Meta 400 /1443537667757122 : {\"error\":{\"message\":\"(#100) Tried accessing nonexisting field (id)\",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"A0kXHv45Hr3exBc_bRJgubZ\"}}",
+ "story-2026-10-29 facebook": "erreur : Meta 400 /1443537667757122 : {\"error\":{\"message\":\"(#100) Tried accessing nonexisting field (id)\",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"Aw2qylUlfpMEHMpN6Mu1U2n\"}}",
  "stories facebook de la page": [
   {
    "post_id": "1647174566760958",
