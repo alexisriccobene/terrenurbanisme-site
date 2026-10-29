@@ -111,9 +111,50 @@ def li_image(fname):
     urllib.request.urlopen(req, timeout=120).read()
     return r['image']
 
+
+def jpg_size(b):
+    i = 2
+    while i < len(b):
+        if b[i] != 0xFF: i += 1; continue
+        m = b[i + 1]
+        if m in (0xC0, 0xC1, 0xC2): return int.from_bytes(b[i + 7:i + 9], 'big'), int.from_bytes(b[i + 5:i + 7], 'big')
+        i += 2 + int.from_bytes(b[i + 2:i + 4], 'big')
+    raise RuntimeError('taille JPEG introuvable')
+
+def jpgs_to_pdf(files):
+    # PDF minimal : une page par image JPEG (sans bibliothèque externe). Objets : 1 catalogue, 2 pages, puis page/image/contenu
+    objs, kids = [], []
+    for f in files:
+        b = open('.github/social/img/' + f, 'rb').read(); w, h = jpg_size(b)
+        pn = 3 + len(objs)
+        kids.append(pn)
+        objs.append(b'<< /Type /Page /Parent 2 0 R /MediaBox [0 0 %d %d] /Resources << /XObject << /Im0 %d 0 R >> >> /Contents %d 0 R >>' % (w, h, pn + 1, pn + 2))
+        objs.append(b'<< /Type /XObject /Subtype /Image /Width %d /Height %d /ColorSpace /DeviceRGB /BitsPerComponent 8 /Filter /DCTDecode /Length %d >>\nstream\n' % (w, h, len(b)) + b + b'\nendstream')
+        cs = b'q %d 0 0 %d 0 0 cm /Im0 Do Q' % (w, h)
+        objs.append(b'<< /Length %d >>\nstream\n' % len(cs) + cs + b'\nendstream')
+    allobjs = [b'<< /Type /Catalog /Pages 2 0 R >>', b'<< /Type /Pages /Kids [' + b' '.join(b'%d 0 R' % k for k in kids) + b'] /Count %d >>' % len(kids)] + objs
+    out, offs = bytearray(b'%PDF-1.4\n'), []
+    for i, o in enumerate(allobjs, 1):
+        offs.append(len(out)); out += b'%d 0 obj\n' % i + o + b'\nendobj\n'
+    x = len(out)
+    out += b'xref\n0 %d\n0000000000 65535 f \n' % (len(allobjs) + 1) + b''.join(b'%010d 00000 n \n' % o for o in offs)
+    out += b'trailer\n<< /Size %d /Root 1 0 R >>\nstartxref\n%d\n%%%%EOF' % (len(allobjs) + 1, x)
+    return bytes(out)
+
 def publish_li(p):
-    ids = [li_image(f) for f in p['images'][:20]]
-    content = {'media': {'id': ids[0], 'altText': p.get('theme', '')[:120]}} if len(ids) == 1 else {'multiImage': {'images': [{'id': i, 'altText': p.get('theme', '')[:120]} for i in ids]}}
+    if len(p['images']) == 1:
+        content = {'media': {'id': li_image(p['images'][0]), 'altText': p.get('theme', '')[:120]}}
+    else:  # carrousel : document PDF (format carrousel natif de LinkedIn)
+        r = li('POST', '/documents?action=initializeUpload', {'initializeUploadRequest': {'owner': 'urn:li:organization:' + LI_ORG}})['value']
+        req = urllib.request.Request(r['uploadUrl'], data=jpgs_to_pdf(p['images'][:20]), method='PUT', headers={'Authorization': 'Bearer ' + LI['token'], 'Content-Type': 'application/octet-stream'})
+        urllib.request.urlopen(req, timeout=120).read()
+        doc = r['document']
+        for _ in range(24):
+            st = li('GET', '/documents/' + urllib.parse.quote(doc, safe='')).get('status')
+            if st == 'AVAILABLE': break
+            if st == 'PROCESSING_FAILED': raise RuntimeError('LinkedIn : document refusé')
+            time.sleep(5)
+        content = {'media': {'title': p.get('theme', 'TerrenUrbanisme')[:200], 'id': doc}}
     body = {'author': 'urn:li:organization:' + LI_ORG, 'commentary': li_text(p.get('texte_linkedin') or p.get('texte_facebook') or p.get('texte_instagram', '')),
             'visibility': 'PUBLIC', 'distribution': {'feedDistribution': 'MAIN_FEED', 'targetEntities': [], 'thirdPartyDistributionChannels': []},
             'content': content, 'lifecycleState': 'PUBLISHED', 'isReshareDisabledByAuthor': False}
