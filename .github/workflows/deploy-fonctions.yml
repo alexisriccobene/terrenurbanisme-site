@@ -1,0 +1,46 @@
+name: Déployer les fonctions
+# Le code des fonctions est chiffré dans .github/deploy/ (dépôt public).
+# La clé de déchiffrement reste dans le coffre de la base Supabase ; elle est lue avec le jeton SUPABASE_ACCESS_TOKEN.
+on:
+  push:
+    branches: [main]
+    paths: ['.github/deploy/**']
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency: deploy-fonctions
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
+      REF: nmoigruxnhsidrhqtzid
+    steps:
+      - uses: actions/checkout@v4
+      - uses: supabase/setup-cli@v1
+        with:
+          version: latest
+      - name: Vérifier le jeton
+        run: |
+          [ -n "$SUPABASE_ACCESS_TOKEN" ] || { echo "::error::Secret SUPABASE_ACCESS_TOKEN absent du dépôt"; exit 1; }
+      - name: Lire la clé dans le coffre
+        run: |
+          set -euo pipefail
+          K=$(curl -sf -X POST "https://api.supabase.com/v1/projects/$REF/database/query" \
+            -H "Authorization: Bearer $SUPABASE_ACCESS_TOKEN" -H "Content-Type: application/json" \
+            -d '{"query":"select decrypted_secret as k from vault.decrypted_secrets where name = '\''tu_deploy_key'\'' limit 1"}' | jq -r '.[0].k')
+          [ ${#K} -eq 64 ] || { echo "::error::clé introuvable"; exit 1; }
+          echo "::add-mask::$K"
+          printf '%s' "$K" > "$RUNNER_TEMP/k"
+      - name: Déchiffrer et déployer
+        run: |
+          set -euo pipefail
+          for f in .github/deploy/*.ts.enc; do
+            name=$(basename "$f" .ts.enc)
+            mkdir -p "supabase/functions/$name"
+            openssl enc -d -aes-256-cbc -pbkdf2 -iter 200000 -in "$f" -out "supabase/functions/$name/index.ts" -pass "file:$RUNNER_TEMP/k"
+            supabase functions deploy "$name" --project-ref "$REF" --no-verify-jwt
+            echo "Déployé : $name"
+          done
+          rm -f "$RUNNER_TEMP/k"; rm -rf supabase
