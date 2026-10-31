@@ -27,6 +27,12 @@
   function communeIndex(){ return Promise.resolve({}); }
   /* Communes de France : recherche à la volée (geo.api.gouv.fr) */
   var INSEE_RE = /^(?:\d{2}|2[AB])\d{3}$/;
+  /* Paris, Lyon, Marseille : section et numéro se répètent d'un arrondissement à l'autre ; on travaille avec le code de l'arrondissement (ex. 75104) */
+  var PLM_PARENT = { '75':'75056', '69':'69123', '13':'13055' };
+  function plmOf(code){ var m = String(code||'').match(/^(75)(1\d\d)$|^(69)(38\d)$|^(13)(2\d\d)$/); if (!m) return null; var d = m[1]||m[3]||m[5]; return { parent: PLM_PARENT[d], arr: m[2]||m[4]||m[6] }; }
+  function inseeOf(p){ var d = String(p.code_insee||'').slice(0,2); return (p.code_arr && p.code_arr !== '000' && PLM_PARENT[d] === p.code_insee) ? d + p.code_arr : p.code_insee; }
+  function arrLabel(p){ var d = String(p.code_insee||'').slice(0,2), a = parseInt(p.code_arr, 10) || 0, n = d === '69' ? a - 380 : a % 100; return ({ '75':'Paris', '69':'Lyon', '13':'Marseille' }[d] || p.nom_com) + ' ' + n + (n === 1 ? 'er' : 'e') + ' arrondissement'; }
+  function inseeQuery(code){ var P = plmOf(code); return P ? 'code_insee=' + P.parent + '&code_arr=' + P.arr : 'code_insee=' + code; }
   var comMap = {};
   function comLabel(c){ return c.nom + ' (' + c.codeDepartement + ')'; }
   // Liste des communes publiée avec le site : secours si le service de l'État (geo.api.gouv.fr) ne répond pas
@@ -143,7 +149,7 @@
         var back = '/?commune='+encodeURIComponent(comVal)+'&section='+sec+'&numero='+num;
         if (sec.length === 1) sec = '0'+sec;
         while (num.length < 4) num = '0'+num;
-        gate(back, function(){ analyse(CARTO+'/cadastre/parcelle?code_insee='+code+'&section='+sec+'&numero='+num); });
+        gate(back, function(){ analyse(CARTO+'/cadastre/parcelle?'+inseeQuery(code)+'&section='+sec+'&numero='+num); });
         }).catch(function(){ errEl.textContent = 'Le service est momentanément indisponible. Réessayez dans un instant.'; });
       }
     });
@@ -246,8 +252,24 @@
   }
   function runAnalysis(parcelUrl, fromAddress){
     return getJSON(parcelUrl).then(function(pj){
-      var parcel = pj.features && pj.features[0];
+      var fs = pj.features || [];
+      if (fs.length > 1 && !fromAddress && fs[0].properties && fs[0].properties.code_arr && fs[0].properties.code_arr !== '000') { chooseArr(fs); return; }
+      var parcel = fs[0];
       if (!parcel) throw { user: fromAddress ? 'Cliquez sur votre parcelle sur la carte.' : 'Aucune parcelle à cet endroit. Cliquez à l\'intérieur d\'une parcelle délimitée.' };
+      return analyseParcel(parcel);
+    });
+  }
+  function chooseArr(fs){
+    var r = $('result'); if (!r) return;
+    r.innerHTML = '<div class="v-title" style="font-size:18px">Ce numéro de parcelle existe dans plusieurs arrondissements. Choisissez le vôtre :</div><div style="display:flex;flex-wrap:wrap;gap:8px;margin-top:12px">' +
+      fs.map(function(f, i){ var p = f.properties || {}; return '<button type="button" class="v-cta" data-i="' + i + '" style="margin:0">' + esc(arrLabel(p)) + (p.contenance ? ' · ' + esc(String(p.contenance)) + ' m²' : '') + '</button>'; }).join('') + '</div>';
+    r.querySelectorAll('[data-i]').forEach(function(b){ b.addEventListener('click', function(){
+      panelMsg('Analyse de la parcelle…', true);
+      analyseParcel(fs[+b.getAttribute('data-i')]).catch(function(){ panelMsg('Le cadastre n\'a pas répondu. Réessayez dans quelques instants.'); });
+    }); });
+  }
+  function analyseParcel(parcel){
+    return Promise.resolve().then(function(){
       var insee = parcel.properties.code_insee;
       var g = roundGeom(parcel.geometry), q = JSON.stringify(g);
       if (q.length > 6000 && window.turf){ g = roundGeom(turf.simplify(turf.feature(g), { tolerance:0.00002, highQuality:true }).geometry); q = JSON.stringify(g); }
@@ -335,7 +357,7 @@
       '<p class="v-buy-note">Rapport PDF de 30 à 40 pages avec sommaire cliquable, envoyé par e-mail en quelques minutes · paiement sécurisé par Stripe<br><a href="/tarifs.html">Professionnels : abonnements dès 0,86 € le rapport</a> · <a href="/exemple.html">Voir un exemple</a></p><p class="v-buy-err" role="alert"></p>' +
       '<p class="v-disc">Information indicative, établie à partir des sources publiques consultées à la date de la recherche. Elle ne vaut ni certificat d\'urbanisme, ni autorisation, ni avis juridique : seule la mairie peut confirmer la constructibilité de la parcelle.</p>' +
       '<a class="v-owner" href="https://france-cadastre.fr/" target="_blank" rel="noopener">Connaître le propriétaire de cette parcelle <span>via France Cadastre ↗</span></a>';
-    var parcelRef = { insee:p.code_insee, commune:p.nom_com, section:sec, numero:num };
+    var parcelRef = { insee:inseeOf(p), commune:(inseeOf(p) !== p.code_insee ? arrLabel(p) : p.nom_com), section:sec, numero:num };
     var buys = resultEl.querySelectorAll('.buy'), errs = resultEl.querySelectorAll('.v-buy-err'), A = window.TUAuth, credits = 0, label = BTN;
     function setAll(t, dis){ buys.forEach(function(x){ x.disabled = !!dis; x.textContent = t; }); }
     var offerEl = resultEl.querySelector('.v-offer');
@@ -354,7 +376,7 @@
       if (!A || !A.ready){ err.textContent = 'Le paiement n\'est pas encore activé.'; return; }
       setAll(credits > 0 ? 'Génération du rapport…' : 'Redirection vers le paiement…', true);
       A.user().then(function(u){
-        if (!u){ location.href = A.loginUrl('/?commune=' + encodeURIComponent(p.nom_com) + '&section=' + encodeURIComponent(sec) + '&numero=' + encodeURIComponent(num)); return; }
+        if (!u){ location.href = A.loginUrl('/?commune=' + encodeURIComponent(inseeOf(p) !== p.code_insee ? inseeOf(p) : p.nom_com) + '&section=' + encodeURIComponent(sec) + '&numero=' + encodeURIComponent(num)); return; }
         return credits > 0 ? A.generate(parcelRef) : A.checkout(kind, parcelRef);
       }).catch(function(e){
         err.textContent = e && e.code === 'solde' ? 'Votre solde de rapports est épuisé.' : 'L\'opération n\'a pas pu aboutir. Réessayez dans un instant.';
@@ -363,7 +385,7 @@
       });
     }); });
     if (window.TUAuth && window.TUAuth.track) window.TUAuth.track('diagnostic', parcelRef);
-    if (window.TUAuth) window.TUAuth.saveDiagnostic({ insee:p.code_insee, commune:p.nom_com, section:sec, numero:num, verdict:null, zone:null });
+    if (window.TUAuth) window.TUAuth.saveDiagnostic({ insee:inseeOf(p), commune:parcelRef.commune, section:sec, numero:num, verdict:null, zone:null });
     var tip = $('rs-tip'); if (tip) tip.hidden = true;
     if (big){
       if (blayer) big.removeLayer(blayer);
