@@ -198,6 +198,59 @@
 }
 @media (max-width:380px){.docs{grid-template-columns:1fr}}
 </style>
+<style>
+.m-cta{display:none}
+.ph-grid{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,.85fr);gap:48px;align-items:center}
+.ph-grid > div{min-width:0}
+.hcard{background:var(--surface);border:1px solid var(--ligne);border-radius:22px;padding:22px;box-shadow:0 30px 60px -30px rgba(42,29,23,.35)}
+.hcard .hc-top{display:flex;justify-content:space-between;align-items:center;gap:10px;font-size:12.5px;color:var(--muet)}
+.hcard .hc-ref{font-weight:700;color:var(--ink);font-size:15px;margin:6px 0 12px}
+.hcard .hc-v{display:inline-block;background:#E5F2EA;color:#2E7D4F;font-weight:800;font-size:13px;padding:5px 11px;border-radius:999px}
+.hcard dl{display:grid;grid-template-columns:1fr auto;margin:14px 0 0;border-top:1px solid var(--ligne)}
+.hcard dt,.hcard dd{margin:0;padding:9px 0;border-bottom:1px solid var(--ligne);font-size:14px}
+.hcard dt{color:var(--muet)}
+.hcard dd{font-weight:700;text-align:right;font-variant-numeric:tabular-nums}
+.hcard .hc-price{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 8px;margin:16px 0 12px}
+.hcard .hc-price b{font-size:30px;letter-spacing:-.02em;white-space:nowrap}
+.hcard .hc-price span{font-size:13px;color:var(--muet)}
+.hcard .btn{width:100%;justify-content:center;text-align:center}
+.hcard .hc-link{display:block;text-align:center;margin-top:10px;font-size:14px;font-weight:600}
+.next{display:flex;gap:12px;flex-wrap:wrap;justify-content:center;margin-top:40px}
+.xlinks{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:14px}
+.xlinks a{display:block;background:var(--surface);border:1px solid var(--ligne);border-radius:16px;padding:18px;color:var(--ink);text-decoration:none}
+.xlinks a:hover{border-color:var(--t)}
+.xlinks b{display:block;font-size:16px;margin-bottom:4px}
+.xlinks span{font-size:13.5px;color:var(--muet)}
+.xlinks i{display:block;font-style:normal;color:var(--t);font-weight:700;font-size:13.5px;margin-top:10px}
+.glinks{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px}
+.glinks a{font-size:14px;font-weight:600;padding:8px 14px;border:1px solid var(--ligne);border-radius:999px;background:var(--surface);color:var(--ink);text-decoration:none}
+@media (max-width:900px){.ph-grid{grid-template-columns:1fr;gap:28px}.xlinks{grid-template-columns:1fr 1fr}}
+@media (max-width:760px){
+ .page-head h1{font-size:34px;line-height:1.08}
+ .page-head .lede{font-size:16px}
+ .page-head p[style*="flex"] .btn{flex:1 1 100%;justify-content:center;text-align:center}
+ .rules{gap:22px}
+ .rules h3{font-size:16.5px;margin:8px 0 4px}
+ .rules p{font-size:14.5px}
+ .docs{grid-template-columns:1fr 1fr;gap:10px}
+ .xlinks{grid-template-columns:1fr}
+ .next .btn{flex:1 1 100%;justify-content:center;text-align:center}
+ .docs .doc{padding:14px}
+ .docs .doc h3{font-size:15px;margin:10px 0 4px}
+ .docs .doc p{font-size:12.5px;line-height:1.45}
+ #tarifs .inc{display:none}
+ #tarifs .trust{gap:10px}
+ #tarifs .trust > div{padding:14px 16px;font-size:13.5px}
+ .vs b{font-size:30px}
+ .m-cta{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:40;gap:10px;align-items:center;justify-content:space-between;background:#2A1D17;color:#F6EEE9;
+  padding:10px max(16px,env(safe-area-inset-right,0px)) calc(10px + env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px));box-shadow:0 -8px 24px -12px rgba(0,0,0,.4)}
+ .m-cta span{font-size:13px;line-height:1.3}
+ .m-cta span b{display:block;font-size:14.5px}
+ .m-cta .btn{white-space:nowrap;padding:11px 16px;font-size:14px}
+ body{padding-bottom:76px}
+}
+@media (max-width:380px){.docs{grid-template-columns:1fr}}
+</style>
 </head>
 <body>
 <header class="top"><div class="wrap">
@@ -206,7 +259,7 @@
 <nav class="menu" aria-label="Navigation principale"><a href="/exemple.html">Exemple de rapport</a><a href="/tarifs.html">Tarifs</a><a href="/agences-immobilieres.html">Professionnels</a><a href="/guides/">Guides</a><a href="/faq.html">FAQ</a><a id="auth-link" href="/connexion.html">Se connecter</a><a class="btn" href="/#recherche">Vérifier un terrain</a></nav>
 </div></header>
 <main>
-<div class="wrap" style="padding-top:18px;padding-bottom:4px"><p style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:0"><span class="checks" style="margin-right:6px">Vous êtes :</span><a class="btn ghost" style="font-size:13px;padding:7px 13px;min-height:0" href="/agences-immobilieres.html">Agent immobilier</a><a class="btn ghost" style="font-size:13px;padding:7px 13px;min-height:0" href="/architectes.html">Architecte</a><a class="btn ghost" style="font-size:13px;padding:7px 13px;min-height:0" href="/geometres.html">Géomètre</a><a class="btn ghost" style="font-size:13px;padding:7px 13px;min-height:0" href="/diagnostiqueurs.html">Diagnostiqueur</a><a class="btn" style="font-size:13px;padding:7px 13px;min-height:0" href="/mairies.html" aria-current="page">Mairie</a><a class="btn ghost" style="font-size:13px;padding:7px 13px;min-height:0" href="/#recherche">Particulier</a></p></div>
+<div class="wrap" style="padding-top:18px;padding-bottom:4px"><p style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:0"><span class="checks" style="margin-right:6px">Vous êtes :</span><a class="btn ghost" style="font-size:13px;padding:7px 13px;min-height:0" href="/agences-immobilieres.html">Agent immobilier</a><a class="btn ghost" style="font-size:13px;padding:7px 13px;min-height:0" href="/architectes.html">Architecte</a><a class="btn ghost" style="font-size:13px;padding:7px 13px;min-height:0" href="/geometres.html">Géomètre</a><a class="btn ghost" style="font-size:13px;padding:7px 13px;min-height:0" href="/diagnostiqueurs.html">Diagnostiqueur</a><a class="btn ghost" style="font-size:13px;padding:7px 13px;min-height:0" href="/notaires.html">Notaire</a><a class="btn" style="font-size:13px;padding:7px 13px;min-height:0" href="/mairies.html" aria-current="page">Mairie</a><a class="btn ghost" style="font-size:13px;padding:7px 13px;min-height:0" href="/#recherche">Particulier</a></p></div>
 <section class="page-head"><div class="wrap ph-grid"><div><div class="crumb"><a href="/">Accueil</a> › Mairies et collectivités</div>
 <span class="pill">Mairies · Intercommunalités · Services urbanisme</span>
 <h1>Chaque jour, les mêmes questions au guichet urbanisme. Nous y répondons pour vous.</h1>
@@ -254,7 +307,7 @@
 <p class="checks">contact@terrenurbanisme.com · Réponse sous 48 heures ouvrées</p></div>
 </div></section>
 <section class="sec"><div class="wrap"><div class="sec-head"><h2>Ils travaillent aussi avec TerrenUrbanisme</h2><p class="lede">Un même rapport, utile à chaque professionnel du terrain.</p></div>
-<div class="xlinks"><a href="/agences-immobilieres.html"><b>Agents immobiliers</b><span>Des mandats au juste prix et des compromis qui ne tombent plus.</span><i>Découvrir →</i></a><a href="/architectes.html"><b>Architectes</b><span>Le cadre réglementaire de chaque projet avant la première esquisse.</span><i>Découvrir →</i></a><a href="/geometres.html"><b>Géomètres-experts</b><span>Des demandes qualifiées avant chaque déplacement.</span><i>Découvrir →</i></a><a href="/diagnostiqueurs.html"><b>Diagnostiqueurs</b><span>L&#x27;état des risques pré-rempli et une prestation de plus à facturer.</span><i>Découvrir →</i></a></div>
+<div class="xlinks"><a href="/agences-immobilieres.html"><b>Agents immobiliers</b><span>Des mandats au juste prix et des compromis qui ne tombent plus.</span><i>Découvrir →</i></a><a href="/architectes.html"><b>Architectes</b><span>Le cadre réglementaire de chaque projet avant la première esquisse.</span><i>Découvrir →</i></a><a href="/geometres.html"><b>Géomètres-experts</b><span>Des demandes qualifiées avant chaque déplacement.</span><i>Découvrir →</i></a><a href="/diagnostiqueurs.html"><b>Diagnostiqueurs</b><span>L&#x27;état des risques pré-rempli et une prestation de plus à facturer.</span><i>Découvrir →</i></a><a href="/notaires.html"><b>Notaires</b><span>L&#x27;urbanisme de la parcelle réuni avant le compromis.</span><i>Découvrir →</i></a></div>
 <div class="glinks"><a href="/guides/plu.html">Qu&#x27;est-ce qu&#x27;un PLU ?</a><a href="/guides/plu-carte-communale-rnu.html">PLU, carte communale ou RNU</a><a href="/couverture.html">Couverture des communes</a><a href="/comparatif-docurbanisme.html">TerrenUrbanisme ou DocUrbanisme ?</a><a href="/comment-ca-marche.html">Comment ça marche</a><a href="/exemple.html">Exemple de rapport</a><a href="/tarifs.html">Tous les tarifs</a></div>
 </div></section>
 <section class="sec alt"><div class="wrap"><div class="sec-head"><h2>Vos questions</h2></div><div class="faq"><details><summary>Le rapport engage-t-il la commune ?</summary><p>Non. Le rapport est un document d&#x27;information établi à partir des sources publiques. Il ne vaut ni certificat d&#x27;urbanisme, ni autorisation : il le précise lui-même et oriente l&#x27;habitant vers la mairie pour toute démarche officielle.</p></details><details><summary>Faut-il un développement ou une installation ?</summary><p>Non. Le service fonctionne à partir des données que la commune publie déjà sur le Géoportail de l&#x27;Urbanisme. Il suffit de diffuser le lien communal.</p></details><details><summary>Notre PLU n&#x27;est pas encore publié sur le Géoportail de l&#x27;Urbanisme : est-ce possible ?</summary><p>Le rapport réunit dans ce cas toutes les autres données officielles de la parcelle (risques, servitudes, protections, accès, réseaux). La publication du PLU sur le Géoportail, obligatoire, permet ensuite d&#x27;y ajouter la zone et les règles.</p></details><details><summary>Voyons-nous qui a demandé un rapport ?</summary><p>Non. La commune reçoit des statistiques d&#x27;usage (nombre de rapports, zones demandées), jamais l&#x27;identité des demandeurs.</p></details><details><summary>Comment est fixé le prix ?</summary><p>Selon la population de la commune et le volume de rapports inclus. Contactez-nous pour une proposition adaptée.</p></details></div></div></section>
@@ -264,10 +317,11 @@
 <div class="m-cta" role="complementary" aria-label="Accès rapide"><span><b>Rapport complet</b>dès 0,86 € · toute la France</span><a class="btn" href="/#recherche">Vérifier un terrain</a></div>
 <div class="m-cta" role="complementary" aria-label="Accès rapide"><span><b>Rapport complet</b>dès 0,86 € · toute la France</span><a class="btn" href="/#recherche">Vérifier un terrain</a></div>
 <div class="m-cta" role="complementary" aria-label="Accès rapide"><span><b>Rapport complet</b>dès 0,86 € · toute la France</span><a class="btn" href="/#recherche">Vérifier un terrain</a></div>
+<div class="m-cta" role="complementary" aria-label="Accès rapide"><span><b>Rapport complet</b>dès 0,86 € · toute la France</span><a class="btn" href="/#recherche">Vérifier un terrain</a></div>
 <footer><div class="wrap">
 <div class="cols">
 <div><a class="brand" href="/"><svg viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="29.5" fill="none" stroke="#F2C9B8" stroke-width="3"/><circle cx="32" cy="32" r="23" fill="none" stroke="#F2C9B8" stroke-width="1.6" stroke-dasharray="2.2 3.2"/><path d="M20 26L37 20L45 36L29 44Z" fill="none" stroke="#F2C9B8" stroke-width="3.2" stroke-linejoin="round"/><circle cx="33" cy="32" r="3.6" fill="#F2C9B8"/></svg><b>TerrenUrbanisme</b></a><p class="about">Ce que l'on peut construire sur un terrain, une maison ou un appartement, partout en France, à partir des documents officiels : PLU, lois Littoral et Montagne, risques.</p><div class="social"><a href="https://www.instagram.com/terrenurbanisme/" target="_blank" rel="noopener" aria-label="TerrenUrbanisme sur Instagram"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/></svg></a><a href="https://www.facebook.com/1391519434046151" target="_blank" rel="noopener" aria-label="TerrenUrbanisme sur Facebook"><svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M13.5 22v-8h2.7l.4-3.2h-3.1V8.8c0-.9.3-1.6 1.6-1.6h1.7V4.3c-.3 0-1.3-.1-2.5-.1-2.5 0-4.1 1.5-4.1 4.2v2.4H7.5V14h2.7v8h3.3z"/></svg></a><a href="https://www.linkedin.com/company/terrenurbanisme/" target="_blank" rel="noopener" aria-label="TerrenUrbanisme sur LinkedIn"><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor"><path d="M4.98 3.5a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5zM3 9.5h4V21H3zM9.5 9.5h3.8v1.6h.06c.53-1 1.83-2.06 3.77-2.06 4.03 0 4.77 2.65 4.77 6.1V21h-4v-5.2c0-1.24-.02-2.84-1.73-2.84-1.73 0-2 1.35-2 2.75V21h-4z"/><a href="https://youtu.be/GY5hkrhIVc8" target="_blank" rel="noopener" aria-label="Vidéo de présentation TerrenUrbanisme sur YouTube"><svg viewBox="0 0 24 24" width="21" height="21" fill="currentColor"><path d="M23 7.2a3 3 0 0 0-2.1-2.1C19 4.6 12 4.6 12 4.6s-7 0-8.9.5A3 3 0 0 0 1 7.2 31 31 0 0 0 .5 12 31 31 0 0 0 1 16.8a3 3 0 0 0 2.1 2.1c1.9.5 8.9.5 8.9.5s7 0 8.9-.5a3 3 0 0 0 2.1-2.1 31 31 0 0 0 .5-4.8 31 31 0 0 0-.5-4.8zM9.75 15.02V8.98L15.5 12l-5.75 3.02z"/></svg></a></div></div>
-<div><h4>Service</h4><ul><li><a href="/exemple.html">Exemple de dossier</a></li><li><a href="/comment-ca-marche.html">Comment ça marche</a></li><li><a href="/tarifs.html">Tarifs</a></li><li><a href="/agences-immobilieres.html">Agents immobiliers</a></li><li><a href="/architectes.html">Architectes</a></li><li><a href="/geometres.html">Géomètres</a></li><li><a href="/diagnostiqueurs.html">Diagnostiqueurs</a></li><li><a href="/mairies.html">Mairies</a></li><li><a href="/faq.html">FAQ</a></li><li><a href="/trouver-zone-plu.html">Trouver ma zone PLU</a></li><li><a href="/couverture.html">Couverture</a></li><li><a href="/comparatif-docurbanisme.html">Comparatif DocUrbanisme</a></li></ul></div>
+<div><h4>Service</h4><ul><li><a href="/exemple.html">Exemple de dossier</a></li><li><a href="/comment-ca-marche.html">Comment ça marche</a></li><li><a href="/tarifs.html">Tarifs</a></li><li><a href="/agences-immobilieres.html">Agents immobiliers</a></li><li><a href="/architectes.html">Architectes</a></li><li><a href="/geometres.html">Géomètres</a></li><li><a href="/diagnostiqueurs.html">Diagnostiqueurs</a></li><li><a href="/notaires.html">Notaires</a></li><li><a href="/mairies.html">Mairies</a></li><li><a href="/faq.html">FAQ</a></li><li><a href="/trouver-zone-plu.html">Trouver ma zone PLU</a></li><li><a href="/couverture.html">Couverture</a></li><li><a href="/comparatif-docurbanisme.html">Comparatif DocUrbanisme</a></li></ul></div>
 <div><h4>Terrain constructible</h4><ul><li><a href="/plu/">Corse</a></li><li><a href="/urbanisme/75/paris/">Paris</a></li><li><a href="/urbanisme/13/marseille/">Marseille</a></li><li><a href="/urbanisme/69/lyon/">Lyon</a></li><li><a href="/urbanisme/31/toulouse/">Toulouse</a></li><li><a href="/urbanisme/06/nice/">Nice</a></li><li><a href="/urbanisme/44/nantes/">Nantes</a></li><li><a href="/urbanisme/34/montpellier/">Montpellier</a></li><li><a href="/urbanisme/67/strasbourg/">Strasbourg</a></li><li><a href="/urbanisme/33/bordeaux/">Bordeaux</a></li><li><a href="/urbanisme/">Toutes les communes</a></li></ul></div>
 <div><h4>Guides</h4><ul><li><a href="/guides/plu.html">Qu'est-ce qu'un PLU ?</a></li><li><a href="/guides/zones-plu.html">Les zones du PLU : U, AU, A et N</a></li><li><a href="/guides/plu-carte-communale-rnu.html">PLU, carte communale ou RNU</a></li><li><a href="/guides/zone-inondable-ppr.html">Zone inondable et PPR</a></li><li><a href="/guides/certificat-urbanisme.html">Le certificat d'urbanisme</a></li><li><a href="/guides/construire-zone-agricole-naturelle.html">Construire en zone A ou N : ce qui reste possible</a></li><li><a href="/guides/">Tous les guides</a></li></ul></div>
 <div><h4>Informations</h4><ul><li><a href="/presse.html">Espace presse</a></li><li><a href="/mentions-legales.html">Mentions légales</a></li><li><a href="/cgv.html">Conditions générales de vente</a></li><li><a href="/confidentialite.html">Confidentialité</a></li><li><a href="/confidentialite.html#cookies" data-cookies>Gérer les cookies</a></li><li><a href="mailto:contact@terrenurbanisme.com">Contact</a></li></ul></div>
