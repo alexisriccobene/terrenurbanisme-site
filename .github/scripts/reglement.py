@@ -33,22 +33,29 @@ pages = open('r.txt', encoding='utf-8', errors='replace').read().split('\f')
 if pages and not pages[-1].strip(): pages = pages[:-1]
 n = len(pages); print('pages', n)
 
-rx = re.compile(r'(?<![A-Za-z0-9])' + re.escape(zone) + r'(?![A-Za-z0-9])')
-hits = []
-for i, t in enumerate(pages):
-    c = len(rx.findall(t))
-    if c:
-        first = next((l.strip() for l in t.splitlines() if l.strip()), '')
-        hits.append([i, c, first[:90]])
-if len(hits) > 500:  # garde les pages les plus denses, dans l'ordre
-    keep = sorted(sorted(hits, key=lambda h: -h[1])[:500], key=lambda h: h[0]); hits = keep
+# Codes candidats : la zone exacte, puis la zone sans indice (UBb5 -> UBb), puis la zone mère (UBb -> UB)
+cands = [zone]
+for c in (re.sub(r'[0-9]+$', '', zone), (re.match(r'^[A-Z]+', zone) or [''])[0]):
+    if c and c not in cands and (len(c) >= 2 or c == zone): cands.append(c)
 toc = '\n\n'.join('[Page %d]\n%s' % (i + 1, re.sub(r'[ \t]+', ' ', pages[i]).strip()) for i in range(min(n, 45)))
-print('occurrences sur', len(hits), 'pages')
-
-loc = post('locate', {'zone': zone, 'n': n, 'toc': toc[:150000], 'hits': hits})
-want = [p for p in loc.get('pages') or [] if 0 <= p < n][:110]
-print('pages retenues', (want[0] + 1, want[-1] + 1) if want else None)
-if not want: fail('chapitre de la zone introuvable (pages %d, occurrences %d)' % (n, len(hits)))
+want, loc = [], {}
+for cz in cands:
+    rx = re.compile(r'(?<![A-Za-z0-9])' + re.escape(cz) + r'(?![A-Za-z0-9])')
+    hits = []
+    for i, t in enumerate(pages):
+        c = len(rx.findall(t))
+        if c:
+            first = next((l.strip() for l in t.splitlines() if l.strip()), '')
+            hits.append([i, c, first[:90]])
+    if len(hits) > 500:  # garde les pages les plus denses, dans l'ordre
+        hits = sorted(sorted(hits, key=lambda h: -h[1])[:500], key=lambda h: h[0])
+    print('code', cz, ': occurrences sur', len(hits), 'pages')
+    if not hits: continue
+    loc = post('locate', {'zone': cz, 'n': n, 'toc': toc[:150000], 'hits': hits})
+    want = [p for p in loc.get('pages') or [] if 0 <= p < n][:110]
+    print('pages retenues', (want[0] + 1, want[-1] + 1) if want else None)
+    if want: break
+if not want: fail('chapitre de la zone introuvable (pages %d, codes essayés %s)' % (n, ', '.join(cands)))
 zr = loc.get('zone')
 body = {'doc_key': P['doc_key'], 'zone': zone, 'typeLabel': P.get('typeLabel', ''), 'commune': P.get('commune', ''), 'n': n, 'zoneRange': zr,
         'pages': [{'p': p, 't': re.sub(r'[ \t]+', ' ', pages[p]).strip()} for p in want]}
