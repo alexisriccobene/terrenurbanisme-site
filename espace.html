@@ -24,6 +24,19 @@
 <section class="page-head" id="espace"><div class="wrap"><div class="crumb"><a href="/">Accueil</a> › Mon espace</div><h1>Mon espace</h1><p class="lede">Connecté avec <strong id="esp-mail">…</strong></p></div></section>
 <section class="sec tight"><div class="wrap">
 <div id="esp-offre" style="margin-bottom:44px"><p class="empty">Chargement…</p></div>
+<div id="esp-marque" hidden style="margin-bottom:44px;background:var(--surface);border:1px solid var(--ligne);border-radius:18px;padding:24px">
+<h2 style="font-size:22px;margin:0 0 6px">Votre logo sur vos rapports</h2><p id="mq-note" style="color:var(--muet);font-size:14.5px;margin:0 0 18px"></p>
+<form id="mq-form" style="display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px">
+<div style="grid-column:1/-1;display:flex;gap:16px;align-items:center;flex-wrap:wrap"><img id="mq-prev" alt="Aperçu du logo" hidden style="max-height:64px;max-width:200px;border:1px solid var(--ligne);border-radius:8px;padding:6px;background:#fff"><label style="font-size:14px;font-weight:600">Logo (PNG ou JPG, 2 Mo max.)<br><input id="mq-file" type="file" accept="image/png,image/jpeg" style="margin-top:6px"></label></div>
+<label style="font-size:14px;font-weight:600">Nom de l'agence ou du cabinet<input id="mq-nom" maxlength="80" style="display:block;width:100%;margin-top:6px;padding:10px;border:1px solid var(--ligne);border-radius:10px;font:inherit"></label>
+<label style="font-size:14px;font-weight:600">Téléphone<input id="mq-telephone" maxlength="30" inputmode="tel" style="display:block;width:100%;margin-top:6px;padding:10px;border:1px solid var(--ligne);border-radius:10px;font:inherit"></label>
+<label style="font-size:14px;font-weight:600">E-mail<input id="mq-email" maxlength="120" type="email" style="display:block;width:100%;margin-top:6px;padding:10px;border:1px solid var(--ligne);border-radius:10px;font:inherit"></label>
+<label style="font-size:14px;font-weight:600">Site internet<input id="mq-site" maxlength="120" style="display:block;width:100%;margin-top:6px;padding:10px;border:1px solid var(--ligne);border-radius:10px;font:inherit"></label>
+<div style="grid-column:1/-1;display:flex;gap:14px;align-items:center;flex-wrap:wrap"><button class="btn" type="submit">Enregistrer</button><span id="mq-msg" role="status" style="font-size:14px;color:var(--muet)"></span></div>
+</form>
+<style>@media (max-width:560px){#mq-form{grid-template-columns:1fr !important}}</style>
+</div>
+
 <div style="display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap;margin-bottom:22px"><h2>Mes recherches</h2><a class="btn" href="/#recherche">Nouvelle recherche</a></div>
 <div id="esp-list" class="dlist"><p class="empty">Chargement…</p></div>
 <h2 style="margin-top:56px;margin-bottom:22px">Mes rapports complets</h2>
@@ -41,6 +54,6 @@
 </div>
 <p class="legal">© 2026 TerrenUrbanisme. Les informations fournies sont établies à partir de sources publiques ; elles ne constituent ni un certificat d'urbanisme, ni une autorisation d'urbanisme, ni un avis juridique, et ne peuvent pas être jointes à une demande de permis de construire. Sources : cadastre, Géoportail de l'Urbanisme, IGN, Géorisques, Collectivité de Corse.</p>
 </div></footer>
-<script defer src="/assets/config.js?v=v55"></script><script defer src="/assets/consent.js?v=v55"></script><script defer src="/assets/supabase.js?v=v55"></script><script defer src="/assets/auth.js?v=v55"></script><script defer src="/assets/app.js?v=v55"></script>
+<script defer src="/assets/config.js?v=v55"></script><script defer src="/assets/consent.js?v=v55"></script><script defer src="/assets/supabase.js?v=v55"></script><script defer src="/assets/auth.js?v=v55"></script><script defer src="/assets/app.js?v=v55"></script><script defer src="/assets/marque.js?v=v55"></script>
 </body>
 </html>
