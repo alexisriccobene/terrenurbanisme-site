@@ -30,6 +30,11 @@ jobs:
                   with urllib.request.urlopen(rq, timeout=300) as resp:
                       data = resp.read(); r['status'] = resp.status; r['type'] = resp.headers.get('Content-Type')
                   r['bytes'] = len(data)
+                  if 'html' in (r['type'] or ''):
+                      import re
+                      h = data.decode('utf-8', 'replace')
+                      r['liens'] = sorted(set(re.findall(r'href=["\']([^"\']+\.pdf)', h, re.I)))[:400]
+                      out.append(r); continue
                   open('/tmp/d.pdf', 'wb').write(data)
                   info = subprocess.run(['pdfinfo', '/tmp/d.pdf'], capture_output=True, text=True).stdout
                   r['pages'] = next((l.split(':', 1)[1].strip() for l in info.splitlines() if l.startswith('Pages')), None)
