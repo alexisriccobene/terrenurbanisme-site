@@ -145,6 +145,59 @@
 }
 @media (max-width:380px){.docs{grid-template-columns:1fr}}
 </style>
+<style>
+.m-cta{display:none}
+.ph-grid{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,.85fr);gap:48px;align-items:center}
+.ph-grid > div{min-width:0}
+.hcard{background:var(--surface);border:1px solid var(--ligne);border-radius:22px;padding:22px;box-shadow:0 30px 60px -30px rgba(42,29,23,.35)}
+.hcard .hc-top{display:flex;justify-content:space-between;align-items:center;gap:10px;font-size:12.5px;color:var(--muet)}
+.hcard .hc-ref{font-weight:700;color:var(--ink);font-size:15px;margin:6px 0 12px}
+.hcard .hc-v{display:inline-block;background:#E5F2EA;color:#2E7D4F;font-weight:800;font-size:13px;padding:5px 11px;border-radius:999px}
+.hcard dl{display:grid;grid-template-columns:1fr auto;margin:14px 0 0;border-top:1px solid var(--ligne)}
+.hcard dt,.hcard dd{margin:0;padding:9px 0;border-bottom:1px solid var(--ligne);font-size:14px}
+.hcard dt{color:var(--muet)}
+.hcard dd{font-weight:700;text-align:right;font-variant-numeric:tabular-nums}
+.hcard .hc-price{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 8px;margin:16px 0 12px}
+.hcard .hc-price b{font-size:30px;letter-spacing:-.02em;white-space:nowrap}
+.hcard .hc-price span{font-size:13px;color:var(--muet)}
+.hcard .btn{width:100%;justify-content:center;text-align:center}
+.hcard .hc-link{display:block;text-align:center;margin-top:10px;font-size:14px;font-weight:600}
+.next{display:flex;gap:12px;flex-wrap:wrap;justify-content:center;margin-top:40px}
+.xlinks{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}
+.xlinks a{display:block;background:var(--surface);border:1px solid var(--ligne);border-radius:16px;padding:18px;color:var(--ink);text-decoration:none}
+.xlinks a:hover{border-color:var(--t)}
+.xlinks b{display:block;font-size:16px;margin-bottom:4px}
+.xlinks span{font-size:13.5px;color:var(--muet)}
+.xlinks i{display:block;font-style:normal;color:var(--t);font-weight:700;font-size:13.5px;margin-top:10px}
+.glinks{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px}
+.glinks a{font-size:14px;font-weight:600;padding:8px 14px;border:1px solid var(--ligne);border-radius:999px;background:var(--surface);color:var(--ink);text-decoration:none}
+@media (max-width:900px){.ph-grid{grid-template-columns:1fr;gap:28px}.xlinks{grid-template-columns:1fr 1fr}}
+@media (max-width:760px){
+ .page-head h1{font-size:34px;line-height:1.08}
+ .page-head .lede{font-size:16px}
+ .page-head p[style*="flex"] .btn{flex:1 1 100%;justify-content:center;text-align:center}
+ .rules{gap:22px}
+ .rules h3{font-size:16.5px;margin:8px 0 4px}
+ .rules p{font-size:14.5px}
+ .docs{grid-template-columns:1fr 1fr;gap:10px}
+ .xlinks{grid-template-columns:1fr}
+ .next .btn{flex:1 1 100%;justify-content:center;text-align:center}
+ .docs .doc{padding:14px}
+ .docs .doc h3{font-size:15px;margin:10px 0 4px}
+ .docs .doc p{font-size:12.5px;line-height:1.45}
+ #tarifs .inc{display:none}
+ #tarifs .trust{gap:10px}
+ #tarifs .trust > div{padding:14px 16px;font-size:13.5px}
+ .vs b{font-size:30px}
+ .m-cta{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:40;gap:10px;align-items:center;justify-content:space-between;background:#2A1D17;color:#F6EEE9;
+  padding:10px max(16px,env(safe-area-inset-right,0px)) calc(10px + env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px));box-shadow:0 -8px 24px -12px rgba(0,0,0,.4)}
+ .m-cta span{font-size:13px;line-height:1.3}
+ .m-cta span b{display:block;font-size:14.5px}
+ .m-cta .btn{white-space:nowrap;padding:11px 16px;font-size:14px}
+ body{padding-bottom:76px}
+}
+@media (max-width:380px){.docs{grid-template-columns:1fr}}
+</style>
 </head>
 <body>
 <header class="top"><div class="wrap">
@@ -159,7 +212,7 @@
 <h1>Les risques de chaque bien réunis, et un service de plus à facturer.</h1>
 <p class="lede">Risques naturels et technologiques à l&#x27;adresse, plans de prévention, sismicité, radon, argiles, sols pollués, arrêtés de catastrophe naturelle : tout est réuni et l&#x27;état des risques est pré-rempli. Et vos clients vendeurs obtiennent en plus la réponse à leur question d&#x27;urbanisme.</p>
 <p style="display:flex;gap:12px;flex-wrap:wrap;margin-top:22px"><a class="btn" href="/#recherche">Analyser un bien</a><a class="btn ghost" href="#tarifs">Voir les tarifs</a></p>
-<p class="checks" style="margin-top:14px">Diagnostic gratuit et immédiat · Rapport complet dès 0,86 € en abonnement · Toute la France</p>
+<p class="checks" style="margin-top:14px">Diagnostic gratuit et immédiat · Dès 0,86 € le rapport en abonnement · Votre logo sur chaque rapport</p>
 </div><div><div class="hcard" aria-label="Exemple de synthèse d'un rapport">
 <div class="hc-top"><span>Exemple de synthèse</span><span class="hc-v">Risques réunis</span></div>
 <div class="hc-ref">Porto-Vecchio · section G · parcelle 1766</div>
@@ -206,11 +259,11 @@
 <button type="button" class="btn ghost go" data-kind="pack3">Choisir · 3 rapports →</button><p class="plan-err" role="alert"></p></div>
 <div class="plan feat" data-group="sub"><span class="tag-top">RECOMMANDÉ</span><h3>Abonnement</h3><p class="sub">Pour les agences, notaires, géomètres et architectes qui étudient des terrains chaque mois.</p>
 <div class="amt">49 € <small>/ mois</small></div><div class="save"></div><div class="unit">50 rapports par mois · 0,98 € le rapport</div>
-<ul><li class="li-renew">Rapports renouvelés chaque mois</li><li>Lots complémentaires à tout moment, sans limite de durée</li><li>Historique et téléchargements dans votre espace</li><li class="li-fact">Factures mensuelles automatiques</li><li>Résiliable à tout moment, en un clic</li></ul>
+<ul><li><strong>Votre logo et vos coordonnées sur chaque rapport</strong></li><li class="li-renew">Rapports renouvelés chaque mois</li><li>Lots complémentaires à tout moment, sans limite de durée</li><li>Historique et téléchargements dans votre espace</li><li class="li-fact">Factures mensuelles automatiques</li><li>Résiliable à tout moment, en un clic</li></ul>
 <button type="button" class="btn go" data-kind="pro">Démarrer Agence →</button><p class="plan-err" role="alert"></p></div>
 <div class="plan" data-group="cab"><h3>Réseau</h3><p class="sub">Pour les réseaux d'agences, études notariales et promoteurs à fort volume.</p>
 <div class="amt">129 € <small>/ mois</small></div><div class="save"></div><div class="unit">150 rapports par mois · 0,86 € le rapport</div>
-<ul><li>Tous les avantages de l'abonnement Agence</li><li>Le meilleur prix par rapport</li><li>Un interlocuteur dédié</li><li>Résiliable à tout moment, en un clic</li></ul>
+<ul><li>Tous les avantages de l'abonnement Agence, dont votre logo sur chaque rapport</li><li>Le meilleur prix par rapport</li><li>Un interlocuteur dédié</li><li>Résiliable à tout moment, en un clic</li></ul>
 <button type="button" class="btn ghost go" data-kind="cabinet">Démarrer Réseau →</button><p class="plan-err" role="alert"></p></div>
 </div>
 <div class="inc"><strong>Chaque rapport comprend :</strong> page de garde à votre nom · synthèse et verdict · plan de situation, vue aérienne et plan cadastral · plan de zonage et secteur exact de la parcelle · lecture du règlement de chaque zone (hauteur, emprise, reculs, toitures, clôtures, stationnement) avec extraits et chapitre officiel en annexe · potentiel constructible estimé en m² et plan de la zone d'implantation · accès à la voie, pente, exposition et coupe du terrain · assainissement et filières possibles · fibre optique aux adresses voisines · interlocuteurs réseaux · prescriptions et servitudes d'utilité publique · loi Littoral avec distance au rivage, loi Montagne, PADDUC en Corse · risques à la parcelle et arrêtés de catastrophe naturelle · espaces naturels protégés · photographies aériennes depuis 1950 · permis de construire délivrés autour du terrain · prix de l'immobilier de la commune et ventes de terrains alentour · état des risques (ERP) pré-rempli · démarches et délais.</div>
@@ -233,6 +286,7 @@
 <section class="sec alt"><div class="wrap"><div class="sec-head"><h2>Vos questions</h2></div><div class="faq"><details><summary>L&#x27;état des risques est-il prêt à signer ?</summary><p>Il est pré-rempli à partir des sources officielles. Il doit être vérifié, complété (notamment les sinistres indemnisés connus du propriétaire) puis signé par le vendeur ou le bailleur.</p></details><details><summary>D&#x27;où viennent les données de risques ?</summary><p>De Géorisques, la base officielle de l&#x27;État, des plans de prévention publiés et des servitudes du Géoportail de l&#x27;Urbanisme. Les sources sont citées dans le rapport.</p></details><details><summary>Puis-je remettre le rapport à mon client ?</summary><p>Oui, librement. Vous pouvez aussi l&#x27;intégrer à votre offre de services comme prestation complémentaire.</p></details><details><summary>Le rapport couvre-t-il les appartements ?</summary><p>Oui : le rapport porte sur la parcelle cadastrale, qu&#x27;il s&#x27;agisse d&#x27;un terrain, d&#x27;une maison ou d&#x27;un immeuble en copropriété.</p></details><details><summary>Couvrez-vous toute la France ?</summary><p>Oui, en métropole, en outre-mer et en Corse.</p></details></div></div></section>
 <section class="sec tight"><div class="wrap"><div class="cta-band"><h2>Testez sur votre prochain dossier</h2><a class="btn" href="/#recherche">Analyser un bien</a></div></div></section>
 </main>
+<div class="m-cta" role="complementary" aria-label="Accès rapide"><span><b>Rapport complet</b>dès 0,86 € · toute la France</span><a class="btn" href="/#recherche">Vérifier un terrain</a></div>
 <div class="m-cta" role="complementary" aria-label="Accès rapide"><span><b>Rapport complet</b>dès 0,86 € · toute la France</span><a class="btn" href="/#recherche">Vérifier un terrain</a></div>
 <div class="m-cta" role="complementary" aria-label="Accès rapide"><span><b>Rapport complet</b>dès 0,86 € · toute la France</span><a class="btn" href="/#recherche">Vérifier un terrain</a></div>
 <div class="m-cta" role="complementary" aria-label="Accès rapide"><span><b>Rapport complet</b>dès 0,86 € · toute la France</span><a class="btn" href="/#recherche">Vérifier un terrain</a></div>

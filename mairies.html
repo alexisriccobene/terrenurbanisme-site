@@ -145,6 +145,59 @@
 }
 @media (max-width:380px){.docs{grid-template-columns:1fr}}
 </style>
+<style>
+.m-cta{display:none}
+.ph-grid{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,.85fr);gap:48px;align-items:center}
+.ph-grid > div{min-width:0}
+.hcard{background:var(--surface);border:1px solid var(--ligne);border-radius:22px;padding:22px;box-shadow:0 30px 60px -30px rgba(42,29,23,.35)}
+.hcard .hc-top{display:flex;justify-content:space-between;align-items:center;gap:10px;font-size:12.5px;color:var(--muet)}
+.hcard .hc-ref{font-weight:700;color:var(--ink);font-size:15px;margin:6px 0 12px}
+.hcard .hc-v{display:inline-block;background:#E5F2EA;color:#2E7D4F;font-weight:800;font-size:13px;padding:5px 11px;border-radius:999px}
+.hcard dl{display:grid;grid-template-columns:1fr auto;margin:14px 0 0;border-top:1px solid var(--ligne)}
+.hcard dt,.hcard dd{margin:0;padding:9px 0;border-bottom:1px solid var(--ligne);font-size:14px}
+.hcard dt{color:var(--muet)}
+.hcard dd{font-weight:700;text-align:right;font-variant-numeric:tabular-nums}
+.hcard .hc-price{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 8px;margin:16px 0 12px}
+.hcard .hc-price b{font-size:30px;letter-spacing:-.02em;white-space:nowrap}
+.hcard .hc-price span{font-size:13px;color:var(--muet)}
+.hcard .btn{width:100%;justify-content:center;text-align:center}
+.hcard .hc-link{display:block;text-align:center;margin-top:10px;font-size:14px;font-weight:600}
+.next{display:flex;gap:12px;flex-wrap:wrap;justify-content:center;margin-top:40px}
+.xlinks{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}
+.xlinks a{display:block;background:var(--surface);border:1px solid var(--ligne);border-radius:16px;padding:18px;color:var(--ink);text-decoration:none}
+.xlinks a:hover{border-color:var(--t)}
+.xlinks b{display:block;font-size:16px;margin-bottom:4px}
+.xlinks span{font-size:13.5px;color:var(--muet)}
+.xlinks i{display:block;font-style:normal;color:var(--t);font-weight:700;font-size:13.5px;margin-top:10px}
+.glinks{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px}
+.glinks a{font-size:14px;font-weight:600;padding:8px 14px;border:1px solid var(--ligne);border-radius:999px;background:var(--surface);color:var(--ink);text-decoration:none}
+@media (max-width:900px){.ph-grid{grid-template-columns:1fr;gap:28px}.xlinks{grid-template-columns:1fr 1fr}}
+@media (max-width:760px){
+ .page-head h1{font-size:34px;line-height:1.08}
+ .page-head .lede{font-size:16px}
+ .page-head p[style*="flex"] .btn{flex:1 1 100%;justify-content:center;text-align:center}
+ .rules{gap:22px}
+ .rules h3{font-size:16.5px;margin:8px 0 4px}
+ .rules p{font-size:14.5px}
+ .docs{grid-template-columns:1fr 1fr;gap:10px}
+ .xlinks{grid-template-columns:1fr}
+ .next .btn{flex:1 1 100%;justify-content:center;text-align:center}
+ .docs .doc{padding:14px}
+ .docs .doc h3{font-size:15px;margin:10px 0 4px}
+ .docs .doc p{font-size:12.5px;line-height:1.45}
+ #tarifs .inc{display:none}
+ #tarifs .trust{gap:10px}
+ #tarifs .trust > div{padding:14px 16px;font-size:13.5px}
+ .vs b{font-size:30px}
+ .m-cta{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:40;gap:10px;align-items:center;justify-content:space-between;background:#2A1D17;color:#F6EEE9;
+  padding:10px max(16px,env(safe-area-inset-right,0px)) calc(10px + env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px));box-shadow:0 -8px 24px -12px rgba(0,0,0,.4)}
+ .m-cta span{font-size:13px;line-height:1.3}
+ .m-cta span b{display:block;font-size:14.5px}
+ .m-cta .btn{white-space:nowrap;padding:11px 16px;font-size:14px}
+ body{padding-bottom:76px}
+}
+@media (max-width:380px){.docs{grid-template-columns:1fr}}
+</style>
 </head>
 <body>
 <header class="top"><div class="wrap">
@@ -208,6 +261,7 @@
 <section class="sec tight"><div class="wrap"><div class="cta-band"><h2>Libérez votre service urbanisme des demandes répétitives</h2><a class="btn" href="#offre">Demander une présentation</a></div></div></section>
 </main>
 <div class="m-cta" role="complementary" aria-label="Accès rapide"><span><b>Offre communale</b>sur devis · réponse sous 48 h</span><a class="btn" href="#offre">Nous contacter</a></div>
+<div class="m-cta" role="complementary" aria-label="Accès rapide"><span><b>Rapport complet</b>dès 0,86 € · toute la France</span><a class="btn" href="/#recherche">Vérifier un terrain</a></div>
 <div class="m-cta" role="complementary" aria-label="Accès rapide"><span><b>Rapport complet</b>dès 0,86 € · toute la France</span><a class="btn" href="/#recherche">Vérifier un terrain</a></div>
 <div class="m-cta" role="complementary" aria-label="Accès rapide"><span><b>Rapport complet</b>dès 0,86 € · toute la France</span><a class="btn" href="/#recherche">Vérifier un terrain</a></div>
 <footer><div class="wrap">
