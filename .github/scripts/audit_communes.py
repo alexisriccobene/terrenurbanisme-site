@@ -29,16 +29,28 @@ def audit1(c):
     r['rnu'] = bool(mp.get('is_rnu'))
     ctr = (c.get('centre') or {}).get('coordinates')
     if not ctr: r['etat'] = 'sans_centre'; return r
-    d = get(f"{CARTO}/gpu/document?geom={pt(ctr)}")
-    if d is None: time.sleep(5); d = get(f"{CARTO}/gpu/document?geom={pt(ctr)}")
+    # Document : d'abord la partition communale (DU_<insee>), sinon le zonage au centre (PLU intercommunal), sinon le document au centre
+    d = get(f"{CARTO}/gpu/document?partition=DU_{c['code']}")
+    if d is None: time.sleep(5); d = get(f"{CARTO}/gpu/document?partition=DU_{c['code']}")
     if d is None: r['etat'] = 'erreur_api'; return r
-    r['nb_docs'] = len(d.get('features') or [])
     dp = next((f.get('properties') or {} for f in d.get('features') or [] if (f.get('properties') or {}).get('du_type')), {})
+    z = get(f"{CARTO}/gpu/zone-urba?geom={pt(ctr)}") or {}
+    if not dp:
+        zf = (z.get('features') or [{}])[0] or {}
+        part = (zf.get('properties') or {}).get('partition')
+        if part:
+            d2 = get(f"{CARTO}/gpu/document?partition={part}") or {}
+            dp = next((f.get('properties') or {} for f in d2.get('features') or [] if (f.get('properties') or {}).get('du_type')), {})
+    if not dp:
+        d3 = get(f"{CARTO}/gpu/document?geom={pt(ctr)}") or {}
+        dp = next((f.get('properties') or {} for f in d3.get('features') or [] if (f.get('properties') or {}).get('du_type')), {})
     r['du'] = dp.get('du_type') or ''
+    r['partition'] = dp.get('partition') or ''
     if r['rnu']: r['etat'] = 'RNU'; return r
     if not r['du']: r['etat'] = 'aucun_document_publie'; return r
     if r['du'] == 'CC': r['etat'] = 'CC'; return r
-    z = get(f"{CARTO}/gpu/zone-urba?geom={pt(ctr)}") or {}
+    if not (z.get('features') or []) and r['partition']:
+        z = get(f"{CARTO}/gpu/zone-urba?partition={r['partition']}&_limit=1") or {}
     zp = ((z.get('features') or [{}])[0] or {}).get('properties') or {}
     r['zone'] = zp.get('libelle')
     nom = str(zp.get('nomfic') or '').split('#')[0]
