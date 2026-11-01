@@ -325,10 +325,12 @@
     var TZ = { U:'urbaine', AUC:'à urbaniser', AUS:'à urbaniser (fermée)', A:'agricole', N:'naturelle' };
     var zl = (zones || []).slice(0, 3).map(function(z){ var t = TZ[(z.tz || '').toUpperCase()] || (z.tz && z.tz.charAt(0) === 'N' ? 'naturelle' : z.tz && z.tz.charAt(0) === 'A' && z.tz.indexOf('AU') ? 'agricole' : ''); return z.code + (t ? ' (zone ' + t + ')' : '') + (z.share != null && zones.length > 1 ? ' · ' + Math.round(z.share * 100) + ' %' : ''); });
     var sups = extra.sups;
+    /* Commune sans zonage numérique publié (ni RNU) : on le dit avant l'achat, le rapport ne pourra pas donner la zone */
+    var noZone = zones != null && !zl.length && !muni.is_rnu;
     var found = [
       ['ok', 'Parcelle identifiée au cadastre', fmt(p.contenance) + ' m² · ' + (p.idu || '')],
-      ['ok', 'Document d\'urbanisme', muni.is_rnu ? 'Règlement national d\'urbanisme' : 'Document local publié'],
-      ['ok', zl.length > 1 ? 'Zones du PLU' : 'Zone du PLU', zl.length ? zl.join(' · ') : muni.is_rnu ? 'Pas de zonage : règlement national' : 'Zonage non publié en ligne : précisé dans le rapport'],
+      ['ok', 'Document d\'urbanisme', muni.is_rnu ? 'Règlement national d\'urbanisme' : noZone ? 'Document local non publié en ligne' : 'Document local publié'],
+      ['ok', zl.length > 1 ? 'Zones du PLU' : 'Zone du PLU', zl.length ? zl.join(' · ') : muni.is_rnu ? 'Pas de zonage : règlement national' : 'Zonage non publié en ligne par la commune : à vérifier en mairie'],
       ['ok', 'Loi Littoral', muni.is_coastline ? 'Commune littorale : la loi s\'applique' : 'Commune non littorale']
     ];
     if (extra.mont != null) found.push(['ok', 'Loi Montagne', extra.mont ? 'Commune en zone de montagne : la loi s\'applique' : 'Commune hors zone de montagne']);
@@ -350,6 +352,7 @@
       '<div class="v-title">Votre diagnostic gratuit</div>' +
       '<p class="v-other">Ce n\'est pas la bonne parcelle ? Cliquez sur une autre parcelle de la carte.</p>' +
       '<p class="v-why">Nous avons trouvé cette parcelle et les sources officielles qui la concernent. Le rapport complet répond à la question : peut-on construire, et à quelles conditions ?</p>' +
+      (noZone ? '<p class="v-disc" style="border-left:3px solid #A86A0C;padding-left:10px"><strong>À savoir avant l\'achat :</strong> cette commune n\'a pas publié son plan de zonage en ligne. Le rapport ne pourra pas indiquer la zone de la parcelle ni ses règles de construction ; il couvre les risques, servitudes, lois Littoral et Montagne, accès, réseaux et prix du marché. La zone doit être demandée en mairie.</p>' : '') +
       OFFER + '<button type="button" class="v-cta v-cta-top buy">' + BTN + '</button><p class="v-buy-err" role="alert"></p>' +
       '<ul class="v-found-list">' + found.map(function(f){ return '<li>' + OKI + '<div><strong>' + esc(f[1]) + '</strong><span>' + esc(f[2]) + '</span></div></li>'; }).join('') + '</ul>' +
       '<ul class="v-locked">' + locked.map(function(t){ return '<li>' + LOCK + '<span>' + esc(t) + '</span><i class="blur" aria-hidden="true">████████</i></li>'; }).join('') + '</ul>' +
