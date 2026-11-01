@@ -29,7 +29,10 @@ def audit1(c):
     r['rnu'] = bool(mp.get('is_rnu'))
     ctr = (c.get('centre') or {}).get('coordinates')
     if not ctr: r['etat'] = 'sans_centre'; return r
-    d = get(f"{CARTO}/gpu/document?geom={pt(ctr)}") or {}
+    d = get(f"{CARTO}/gpu/document?geom={pt(ctr)}")
+    if d is None: time.sleep(5); d = get(f"{CARTO}/gpu/document?geom={pt(ctr)}")
+    if d is None: r['etat'] = 'erreur_api'; return r
+    r['nb_docs'] = len(d.get('features') or [])
     dp = next((f.get('properties') or {} for f in d.get('features') or [] if (f.get('properties') or {}).get('du_type')), {})
     r['du'] = dp.get('du_type') or ''
     if r['rnu']: r['etat'] = 'RNU'; return r
@@ -59,7 +62,7 @@ for dep in deps:
     if mode == 'echantillon': l = sorted(l, key=lambda c: -(c.get('population') or 0))[:n]
     communes += l
 print('communes', len(communes))
-with cf.ThreadPoolExecutor(8) as ex: res = list(ex.map(audit, communes))
+with cf.ThreadPoolExecutor(4) as ex: res = list(ex.map(audit, communes))
 from collections import Counter
 print(Counter(r.get('etat') for r in res))
 json.dump(res, open('audit.json', 'w'), ensure_ascii=False)
