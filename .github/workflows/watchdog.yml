@@ -14,5 +14,5 @@ jobs:
         env:
           KEY: ${{ secrets.TU_ADMIN_KEY }}
         run: |
-          code=$(curl -s -o out.txt -w "%{http_code}" -X POST "https://nmoigruxnhsidrhqtzid.supabase.co/functions/v1/stripe-webhook?key=${KEY}&sweep=1")
+          code=$(curl -s -o out.txt -w "%{http_code}" -X POST "https://nmoigruxnhsidrhqtzid.supabase.co/functions/v1/stripe-webhook?sweep=1" -H "x-tu-admin: ${KEY}")
           echo "HTTP $code : $(head -c 200 out.txt)"

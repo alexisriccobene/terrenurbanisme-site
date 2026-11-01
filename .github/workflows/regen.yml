@@ -18,6 +18,6 @@ jobs:
           S: ${{ github.event.inputs.session }}
         run: |
           case "$S" in *[!A-Za-z0-9_-]*|"") echo "::error::identifiant invalide"; exit 1;; esac
-          code=$(curl -s -o out.txt -w "%{http_code}" -X POST "https://nmoigruxnhsidrhqtzid.supabase.co/functions/v1/stripe-webhook?key=${KEY}&regen=${S}")
+          code=$(curl -s -o out.txt -w "%{http_code}" -X POST "https://nmoigruxnhsidrhqtzid.supabase.co/functions/v1/stripe-webhook?regen=${S}" -H "x-tu-admin: ${KEY}")
           echo "HTTP $code"; head -c 300 out.txt; echo
           [ "$code" = "200" ] || { echo "::error::échec HTTP $code"; exit 1; }
