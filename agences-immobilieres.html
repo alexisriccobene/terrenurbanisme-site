@@ -39,6 +39,112 @@
 }
 @media (max-width:380px){.docs{grid-template-columns:1fr}}
 </style>
+<style>
+.m-cta{display:none}
+.ph-grid{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,.85fr);gap:48px;align-items:center}
+.ph-grid > div{min-width:0}
+.hcard{background:var(--surface);border:1px solid var(--ligne);border-radius:22px;padding:22px;box-shadow:0 30px 60px -30px rgba(42,29,23,.35)}
+.hcard .hc-top{display:flex;justify-content:space-between;align-items:center;gap:10px;font-size:12.5px;color:var(--muet)}
+.hcard .hc-ref{font-weight:700;color:var(--ink);font-size:15px;margin:6px 0 12px}
+.hcard .hc-v{display:inline-block;background:#E5F2EA;color:#2E7D4F;font-weight:800;font-size:13px;padding:5px 11px;border-radius:999px}
+.hcard dl{display:grid;grid-template-columns:1fr auto;margin:14px 0 0;border-top:1px solid var(--ligne)}
+.hcard dt,.hcard dd{margin:0;padding:9px 0;border-bottom:1px solid var(--ligne);font-size:14px}
+.hcard dt{color:var(--muet)}
+.hcard dd{font-weight:700;text-align:right;font-variant-numeric:tabular-nums}
+.hcard .hc-price{display:flex;align-items:baseline;gap:8px;margin:16px 0 12px}
+.hcard .hc-price b{font-size:30px;letter-spacing:-.02em}
+.hcard .hc-price span{font-size:13px;color:var(--muet)}
+.hcard .btn{width:100%;justify-content:center;text-align:center}
+.hcard .hc-link{display:block;text-align:center;margin-top:10px;font-size:14px;font-weight:600}
+.next{display:flex;gap:12px;flex-wrap:wrap;justify-content:center;margin-top:40px}
+.xlinks{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}
+.xlinks a{display:block;background:var(--surface);border:1px solid var(--ligne);border-radius:16px;padding:18px;color:var(--ink);text-decoration:none}
+.xlinks a:hover{border-color:var(--t)}
+.xlinks b{display:block;font-size:16px;margin-bottom:4px}
+.xlinks span{font-size:13.5px;color:var(--muet)}
+.xlinks i{display:block;font-style:normal;color:var(--t);font-weight:700;font-size:13.5px;margin-top:10px}
+.glinks{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px}
+.glinks a{font-size:14px;font-weight:600;padding:8px 14px;border:1px solid var(--ligne);border-radius:999px;background:var(--surface);color:var(--ink);text-decoration:none}
+@media (max-width:900px){.ph-grid{grid-template-columns:1fr;gap:28px}.xlinks{grid-template-columns:1fr 1fr}}
+@media (max-width:760px){
+ .page-head h1{font-size:34px;line-height:1.08}
+ .page-head .lede{font-size:16px}
+ .page-head p[style*="flex"] .btn{flex:1 1 100%;justify-content:center;text-align:center}
+ .rules{gap:22px}
+ .rules h3{font-size:16.5px;margin:8px 0 4px}
+ .rules p{font-size:14.5px}
+ .docs{grid-template-columns:1fr 1fr;gap:10px}
+ .xlinks{grid-template-columns:1fr}
+ .next .btn{flex:1 1 100%;justify-content:center;text-align:center}
+ .docs .doc{padding:14px}
+ .docs .doc h3{font-size:15px;margin:10px 0 4px}
+ .docs .doc p{font-size:12.5px;line-height:1.45}
+ #tarifs .inc{display:none}
+ #tarifs .trust{gap:10px}
+ #tarifs .trust > div{padding:14px 16px;font-size:13.5px}
+ .vs b{font-size:30px}
+ .m-cta{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:40;gap:10px;align-items:center;justify-content:space-between;background:#2A1D17;color:#F6EEE9;
+  padding:10px max(16px,env(safe-area-inset-right,0px)) calc(10px + env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px));box-shadow:0 -8px 24px -12px rgba(0,0,0,.4)}
+ .m-cta span{font-size:13px;line-height:1.3}
+ .m-cta span b{display:block;font-size:14.5px}
+ .m-cta .btn{white-space:nowrap;padding:11px 16px;font-size:14px}
+ body{padding-bottom:76px}
+}
+@media (max-width:380px){.docs{grid-template-columns:1fr}}
+</style>
+<style>
+.m-cta{display:none}
+.ph-grid{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,.85fr);gap:48px;align-items:center}
+.ph-grid > div{min-width:0}
+.hcard{background:var(--surface);border:1px solid var(--ligne);border-radius:22px;padding:22px;box-shadow:0 30px 60px -30px rgba(42,29,23,.35)}
+.hcard .hc-top{display:flex;justify-content:space-between;align-items:center;gap:10px;font-size:12.5px;color:var(--muet)}
+.hcard .hc-ref{font-weight:700;color:var(--ink);font-size:15px;margin:6px 0 12px}
+.hcard .hc-v{display:inline-block;background:#E5F2EA;color:#2E7D4F;font-weight:800;font-size:13px;padding:5px 11px;border-radius:999px}
+.hcard dl{display:grid;grid-template-columns:1fr auto;margin:14px 0 0;border-top:1px solid var(--ligne)}
+.hcard dt,.hcard dd{margin:0;padding:9px 0;border-bottom:1px solid var(--ligne);font-size:14px}
+.hcard dt{color:var(--muet)}
+.hcard dd{font-weight:700;text-align:right;font-variant-numeric:tabular-nums}
+.hcard .hc-price{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 8px;margin:16px 0 12px}
+.hcard .hc-price b{font-size:30px;letter-spacing:-.02em;white-space:nowrap}
+.hcard .hc-price span{font-size:13px;color:var(--muet)}
+.hcard .btn{width:100%;justify-content:center;text-align:center}
+.hcard .hc-link{display:block;text-align:center;margin-top:10px;font-size:14px;font-weight:600}
+.next{display:flex;gap:12px;flex-wrap:wrap;justify-content:center;margin-top:40px}
+.xlinks{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}
+.xlinks a{display:block;background:var(--surface);border:1px solid var(--ligne);border-radius:16px;padding:18px;color:var(--ink);text-decoration:none}
+.xlinks a:hover{border-color:var(--t)}
+.xlinks b{display:block;font-size:16px;margin-bottom:4px}
+.xlinks span{font-size:13.5px;color:var(--muet)}
+.xlinks i{display:block;font-style:normal;color:var(--t);font-weight:700;font-size:13.5px;margin-top:10px}
+.glinks{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px}
+.glinks a{font-size:14px;font-weight:600;padding:8px 14px;border:1px solid var(--ligne);border-radius:999px;background:var(--surface);color:var(--ink);text-decoration:none}
+@media (max-width:900px){.ph-grid{grid-template-columns:1fr;gap:28px}.xlinks{grid-template-columns:1fr 1fr}}
+@media (max-width:760px){
+ .page-head h1{font-size:34px;line-height:1.08}
+ .page-head .lede{font-size:16px}
+ .page-head p[style*="flex"] .btn{flex:1 1 100%;justify-content:center;text-align:center}
+ .rules{gap:22px}
+ .rules h3{font-size:16.5px;margin:8px 0 4px}
+ .rules p{font-size:14.5px}
+ .docs{grid-template-columns:1fr 1fr;gap:10px}
+ .xlinks{grid-template-columns:1fr}
+ .next .btn{flex:1 1 100%;justify-content:center;text-align:center}
+ .docs .doc{padding:14px}
+ .docs .doc h3{font-size:15px;margin:10px 0 4px}
+ .docs .doc p{font-size:12.5px;line-height:1.45}
+ #tarifs .inc{display:none}
+ #tarifs .trust{gap:10px}
+ #tarifs .trust > div{padding:14px 16px;font-size:13.5px}
+ .vs b{font-size:30px}
+ .m-cta{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:40;gap:10px;align-items:center;justify-content:space-between;background:#2A1D17;color:#F6EEE9;
+  padding:10px max(16px,env(safe-area-inset-right,0px)) calc(10px + env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px));box-shadow:0 -8px 24px -12px rgba(0,0,0,.4)}
+ .m-cta span{font-size:13px;line-height:1.3}
+ .m-cta span b{display:block;font-size:14.5px}
+ .m-cta .btn{white-space:nowrap;padding:11px 16px;font-size:14px}
+ body{padding-bottom:76px}
+}
+@media (max-width:380px){.docs{grid-template-columns:1fr}}
+</style>
 </head>
 <body>
 <header class="top"><div class="wrap">
@@ -48,13 +154,20 @@
 </div></header>
 <main>
 <div class="wrap" style="padding-top:18px;padding-bottom:4px"><p style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:0"><span class="checks" style="margin-right:6px">Vous êtes :</span><a class="btn" style="font-size:13px;padding:7px 13px;min-height:0" href="/agences-immobilieres.html" aria-current="page">Agent immobilier</a><a class="btn ghost" style="font-size:13px;padding:7px 13px;min-height:0" href="/architectes.html">Architecte</a><a class="btn ghost" style="font-size:13px;padding:7px 13px;min-height:0" href="/geometres.html">Géomètre</a><a class="btn ghost" style="font-size:13px;padding:7px 13px;min-height:0" href="/diagnostiqueurs.html">Diagnostiqueur</a><a class="btn ghost" style="font-size:13px;padding:7px 13px;min-height:0" href="/mairies.html">Mairie</a><a class="btn ghost" style="font-size:13px;padding:7px 13px;min-height:0" href="/#recherche">Particulier</a></p></div>
-<section class="page-head"><div class="wrap"><div class="crumb"><a href="/">Accueil</a> › Agents immobiliers</div>
+<section class="page-head"><div class="wrap ph-grid"><div><div class="crumb"><a href="/">Accueil</a> › Agents immobiliers</div>
 <span class="pill">Agences immobilières · Agents commerciaux · Réseaux</span>
 <h1>Vendez vos terrains en connaissant leur constructibilité.</h1>
 <p class="lede">Zone du PLU, surface constructible, valeur de marché, risques et réseaux : un rapport complet sur chaque bien de votre portefeuille, en quelques minutes. Pour décrocher le mandat au juste prix, rassurer l&#x27;acquéreur dès la première visite et sécuriser le compromis.</p>
-<p style="display:flex;gap:12px;flex-wrap:wrap;margin-top:22px"><a class="btn" href="/#recherche">Analyser un bien en mandat</a><a class="btn ghost" href="/exemple.html">Voir un exemple de rapport</a></p>
+<p style="display:flex;gap:12px;flex-wrap:wrap;margin-top:22px"><a class="btn" href="/#recherche">Analyser un bien en mandat</a><a class="btn ghost" href="#tarifs">Voir les tarifs</a></p>
 <p class="checks" style="margin-top:14px">Diagnostic gratuit et immédiat · Rapport complet dès 0,86 € en abonnement · Sans engagement</p>
-</div></section>
+</div><div><div class="hcard" aria-label="Exemple de synthèse d'un rapport">
+<div class="hc-top"><span>Exemple de synthèse</span><span class="hc-v">Constructible</span></div>
+<div class="hc-ref">Porto-Vecchio · section G · parcelle 1766</div>
+<dl><dt>Zone du PLU</dt><dd>UC · urbaine</dd><dt>Surface constructible</dt><dd>≈ 310 m²</dd><dt>Loi Littoral</dt><dd>Hors bande des 100 m</dd><dt>Risques majeurs</dt><dd>Aucun à l&#x27;adresse</dd><dt>Ventes de terrains</dt><dd>12 sur la commune</dd><dt>Valeur estimée</dt><dd>185 à 240 k€</dd></dl>
+<div class="hc-price"><b>0,86 €</b><span>le rapport en abonnement · 19,90 € à l&#x27;unité</span></div>
+<a class="btn" href="/#recherche">Analyser mon premier terrain</a>
+<a class="hc-link" href="/exemple.html">Voir le rapport complet en exemple →</a>
+</div></div></div></section>
 <section class="sec"><div class="wrap">
 <div class="sec-head"><h2>Un terrain mal qualifié, c&#x27;est une vente qui échoue</h2><p class="lede">La première question de tout acquéreur : qu&#x27;est-ce que je peux construire ? Sans réponse claire, la vente s&#x27;enlise.</p></div>
 <div class="rules" style="margin-bottom:56px"><div><div class="ico" style="margin-bottom:6px"><svg viewBox="0 0 24 24" fill="none" stroke="#A3462C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l9 16H3z"/><path d="M12 10v4M12 17h.01"/></svg></div><h3>Des estimations difficiles à défendre</h3><p>Sans connaître la surface constructible, le prix d&#x27;un terrain se discute à l&#x27;infini. Le vendeur doute, le mandat vous échappe.</p></div><div><div class="ico" style="margin-bottom:6px"><svg viewBox="0 0 24 24" fill="none" stroke="#A3462C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l9 16H3z"/><path d="M12 10v4M12 17h.01"/></svg></div><h3>Des acquéreurs qui hésitent</h3><p>Hauteur, reculs, emprise, risques : chaque question sans réponse écrite retarde l&#x27;offre ou la fait tomber.</p></div><div><div class="ico" style="margin-bottom:6px"><svg viewBox="0 0 24 24" fill="none" stroke="#A3462C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l9 16H3z"/><path d="M12 10v4M12 17h.01"/></svg></div><h3>Des compromis qui tombent</h3><p>Loi Littoral, zone inondable, monument historique : découverts pendant l&#x27;instruction du permis, ils font échouer des ventes signées.</p></div><div><div class="ico" style="margin-bottom:6px"><svg viewBox="0 0 24 24" fill="none" stroke="#A3462C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l9 16H3z"/><path d="M12 10v4M12 17h.01"/></svg></div><h3>Des heures de recherche par bien</h3><p>Géoportail, cadastre, Géorisques, règlement de 300 pages : un travail répété pour chaque terrain du portefeuille.</p></div></div>
@@ -62,10 +175,12 @@
 <div class="vs-a"><small>Aujourd'hui</small><b>30 à 45 min</b><p>par bien pour croiser Géoportail, mairie, règlement de 300 pages, Géorisques et cadastre avant chaque visite.</p></div>
 <div class="vs-b"><small>Avec TerrenUrbanisme</small><b>Quelques minutes</b><p>pour un rapport complet à remettre au vendeur et à l&#x27;acquéreur, avec la valeur de marché et l&#x27;état des risques pré-rempli.</p></div>
 </div>
+<div class="next"><a class="btn" href="/#recherche">Analyser un bien en mandat</a><a class="btn ghost" href="#avantages">Pourquoi nous choisir ↓</a></div>
 </div></section>
-<section class="sec alt"><div class="wrap">
+<section class="sec alt" id="avantages"><div class="wrap">
 <div class="sec-head"><h2>Pourquoi les agences passent par TerrenUrbanisme</h2><p class="lede">Un avantage concurrentiel à chaque étape de la vente, de l&#x27;estimation au compromis.</p></div>
 <div class="rules"><div><svg viewBox="0 0 24 24" fill="none" stroke="#A3462C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 7a7 7 0 1 0 0 10"/><path d="M4 10h10M4 14h10"/></svg><h3>Des mandats décrochés au juste prix</h3><p>Présentez au vendeur la zone, la surface constructible estimée et les ventes réelles de la commune : une estimation argumentée dès le rendez-vous.</p></div><div><svg viewBox="0 0 24 24" fill="none" stroke="#A3462C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8" r="3.5"/><path d="M2.5 20c.8-3.4 3.4-5.5 6.5-5.5s5.7 2.1 6.5 5.5"/><path d="M16 4.5a3.5 3.5 0 0 1 0 7M18.5 14.8c1.6.9 2.7 2.7 3 5.2"/></svg><h3>Des acquéreurs rassurés</h3><p>Ce qu&#x27;ils peuvent construire, à quelle hauteur, à quelle distance des limites, avec quels risques : la réponse est écrite, sourcée, et leur décision s&#x27;accélère.</p></div><div><svg viewBox="0 0 24 24" fill="none" stroke="#A3462C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l9 16H3z"/><path d="M12 10v4M12 17h.01"/></svg><h3>Moins de ventes qui échouent</h3><p>Les points bloquants apparaissent avant le compromis : loi Littoral, zone inondable, servitudes, monuments historiques, accès.</p></div><div><svg viewBox="0 0 24 24" fill="none" stroke="#A3462C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 3H6a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z"/><path d="M14 3v6h6M8 13h8M8 17h5"/></svg><h3>L&#x27;état des risques pré-rempli</h3><p>Risques à l&#x27;adresse, plans de prévention, arrêtés de catastrophe naturelle : l&#x27;ERP est préparé, il reste à le vérifier et le faire signer.</p></div><div><svg viewBox="0 0 24 24" fill="none" stroke="#A3462C" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 12h18M12 3v18"/></svg><h3>Une image d&#x27;agence experte</h3><p>Un dossier professionnel de 30 à 40 pages joint à vos annonces et à vos présentations : vous vous distinguez des agences concurrentes.</p></div><div><svg viewBox="0 0 24 24" fill="none" stroke="#A3462C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg><h3>Des heures gagnées chaque semaine</h3><p>Plus besoin de croiser les sources pour chaque bien : tout est lu, recoupé et résumé. Votre temps retourne au terrain et aux clients.</p></div></div>
+<div class="next"><a class="btn" href="/#recherche">Analyser un bien en mandat</a><a class="btn ghost" href="/exemple.html">Voir un exemple de rapport</a></div>
 </div></section>
 <section class="sec alt"><div class="wrap">
 <div class="sec-head"><h2>Tout ce que contient le rapport</h2><p class="lede">Un PDF de 30 à 40 pages, sommaire cliquable, établi à partir des sources officielles et livré par e-mail en quelques minutes.</p></div>
@@ -77,7 +192,7 @@
 <div class="doc"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="#A3462C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6h11M9 12h11M9 18h11"/><path d="M4 6h.01M4 12h.01M4 18h.01"/></svg></div><h3>Accès et réseaux</h3><p>Voie la plus proche, pente et exposition, assainissement, fibre et interlocuteurs des réseaux.</p></div>
 <div class="doc"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="#A3462C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 7a7 7 0 1 0 0 10"/><path d="M4 10h10M4 14h10"/></svg></div><h3>Valeur de marché</h3><p>Fourchette de valeur estimée, ventes réelles de la commune, positionnement du terrain, permis accordés et vues aériennes depuis 1950.</p></div>
 </div>
-<p style="margin-top:22px"><a class="btn ghost" href="/exemple.html">Voir un exemple de rapport</a></p>
+<div class="next"><a class="btn" href="#tarifs">Choisir ma formule ↓</a><a class="btn ghost" href="/exemple.html">Voir un exemple de rapport</a></div>
 </div></section>
 <section class="sec" id="tarifs"><div class="wrap">
 <style>@media (max-width:960px){#plans .plan.feat{order:-1;margin-top:10px}}</style>
@@ -111,9 +226,15 @@
 <div class="prose"><ol><li>Écrivez-nous avec le nom de votre structure, son SIRET et l'e-mail de votre compte.</li><li>Vous recevez un lien personnel qui crédite votre compte d'un rapport.</li><li>Lancez votre rapport sur le terrain de votre choix.</li></ol>
 <p><a class="btn" href="mailto:contact@terrenurbanisme.com?subject=Essai%20professionnel%20%E2%80%93%201%20rapport%20offert&amp;body=Bonjour%2C%0A%0AJe%20souhaite%20tester%20TerrenUrbanisme%20avec%201%20rapport%20offert.%0A%0AStructure%20%3A%20%0ASIRET%20%3A%20%0AVille%20%3A%20%0ANom%20et%20fonction%20%3A%20%0AE-mail%20du%20compte%20%3A%20%0A%0ACordialement">Demander mon essai</a></p></div>
 </div></section>
-<section class="sec"><div class="wrap"><div class="sec-head"><h2>Vos questions</h2></div><div class="faq"><details><summary>Le rapport peut-il être remis à un acquéreur ?</summary><p>Oui. Le rapport est un document d&#x27;information sur la parcelle : vous pouvez le joindre à votre fiche de présentation ou le transmettre à l&#x27;acquéreur et à son notaire. Il ne remplace pas un certificat d&#x27;urbanisme, que nous recommandons de demander pour sécuriser le compromis.</p></details><details><summary>Couvrez-vous toute la France ?</summary><p>Oui : toutes les communes de France, qu&#x27;elles soient dotées d&#x27;un PLU, d&#x27;un PLU intercommunal, d&#x27;une carte communale ou soumises au règlement national d&#x27;urbanisme. En Corse, le rapport intègre en plus le PADDUC.</p></details><details><summary>Que contient l&#x27;état des risques pré-rempli ?</summary><p>Plans de prévention des risques, zone de sismicité, potentiel radon, secteurs d&#x27;information sur les sols, recul du trait de côte, retrait-gonflement des argiles et arrêtés de catastrophe naturelle de la commune. Il reste à le vérifier, à compléter (sinistres indemnisés) et à le faire signer par le vendeur ou le bailleur.</p></details><details><summary>Plusieurs collaborateurs peuvent-ils utiliser le même abonnement ?</summary><p>Oui : les rapports de l&#x27;abonnement sont partagés au sein du compte de l&#x27;agence. Pour un accès nominatif par collaborateur ou un réseau de plusieurs agences, contactez-nous.</p></details><details><summary>Puis-je résilier à tout moment ?</summary><p>Oui. L&#x27;abonnement mensuel est sans engagement et se résilie en un clic depuis votre espace ; il reste actif jusqu&#x27;à la fin du mois payé.</p></details></div></div></section>
+<section class="sec"><div class="wrap"><div class="sec-head"><h2>Ils travaillent aussi avec TerrenUrbanisme</h2><p class="lede">Un même rapport, utile à chaque professionnel du terrain.</p></div>
+<div class="xlinks"><a href="/architectes.html"><b>Architectes</b><span>Le cadre réglementaire de chaque projet avant la première esquisse.</span><i>Découvrir →</i></a><a href="/geometres.html"><b>Géomètres-experts</b><span>Des demandes qualifiées avant chaque déplacement.</span><i>Découvrir →</i></a><a href="/diagnostiqueurs.html"><b>Diagnostiqueurs</b><span>L&#x27;état des risques pré-rempli et une prestation de plus à facturer.</span><i>Découvrir →</i></a><a href="/mairies.html"><b>Mairies</b><span>Moins d&#x27;appels au guichet, des habitants mieux informés.</span><i>Découvrir →</i></a></div>
+<div class="glinks"><a href="/guides/terrain-constructible-corse.html">Terrain constructible</a><a href="/guides/prix-terrain-corse.html">Prix des terrains</a><a href="/guides/acheter-terrain-corse.html">Acheter un terrain</a><a href="/guides/certificat-urbanisme.html">Le certificat d&#x27;urbanisme</a><a href="/comparatif-docurbanisme.html">TerrenUrbanisme ou DocUrbanisme ?</a><a href="/comment-ca-marche.html">Comment ça marche</a><a href="/exemple.html">Exemple de rapport</a><a href="/tarifs.html">Tous les tarifs</a></div>
+</div></section>
+<section class="sec alt"><div class="wrap"><div class="sec-head"><h2>Vos questions</h2></div><div class="faq"><details><summary>Le rapport peut-il être remis à un acquéreur ?</summary><p>Oui. Le rapport est un document d&#x27;information sur la parcelle : vous pouvez le joindre à votre fiche de présentation ou le transmettre à l&#x27;acquéreur et à son notaire. Il ne remplace pas un certificat d&#x27;urbanisme, que nous recommandons de demander pour sécuriser le compromis.</p></details><details><summary>Couvrez-vous toute la France ?</summary><p>Oui : toutes les communes de France, qu&#x27;elles soient dotées d&#x27;un PLU, d&#x27;un PLU intercommunal, d&#x27;une carte communale ou soumises au règlement national d&#x27;urbanisme. En Corse, le rapport intègre en plus le PADDUC.</p></details><details><summary>Que contient l&#x27;état des risques pré-rempli ?</summary><p>Plans de prévention des risques, zone de sismicité, potentiel radon, secteurs d&#x27;information sur les sols, recul du trait de côte, retrait-gonflement des argiles et arrêtés de catastrophe naturelle de la commune. Il reste à le vérifier, à compléter (sinistres indemnisés) et à le faire signer par le vendeur ou le bailleur.</p></details><details><summary>Plusieurs collaborateurs peuvent-ils utiliser le même abonnement ?</summary><p>Oui : les rapports de l&#x27;abonnement sont partagés au sein du compte de l&#x27;agence. Pour un accès nominatif par collaborateur ou un réseau de plusieurs agences, contactez-nous.</p></details><details><summary>Puis-je résilier à tout moment ?</summary><p>Oui. L&#x27;abonnement mensuel est sans engagement et se résilie en un clic depuis votre espace ; il reste actif jusqu&#x27;à la fin du mois payé.</p></details></div></div></section>
 <section class="sec tight"><div class="wrap"><div class="cta-band"><h2>Analysez un terrain de votre portefeuille</h2><a class="btn" href="/#recherche">Analyser un bien en mandat</a></div></div></section>
 </main>
+<div class="m-cta" role="complementary" aria-label="Accès rapide"><span><b>Rapport complet</b>dès 0,86 € · toute la France</span><a class="btn" href="/#recherche">Vérifier un terrain</a></div>
+<div class="m-cta" role="complementary" aria-label="Accès rapide"><span><b>Rapport complet</b>dès 0,86 € · toute la France</span><a class="btn" href="/#recherche">Vérifier un terrain</a></div>
 <div class="m-cta" role="complementary" aria-label="Accès rapide"><span><b>Rapport complet</b>dès 0,86 € · toute la France</span><a class="btn" href="/#recherche">Vérifier un terrain</a></div>
 <footer><div class="wrap">
 <div class="cols">

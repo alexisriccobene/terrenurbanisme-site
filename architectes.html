@@ -39,6 +39,112 @@
 }
 @media (max-width:380px){.docs{grid-template-columns:1fr}}
 </style>
+<style>
+.m-cta{display:none}
+.ph-grid{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,.85fr);gap:48px;align-items:center}
+.ph-grid > div{min-width:0}
+.hcard{background:var(--surface);border:1px solid var(--ligne);border-radius:22px;padding:22px;box-shadow:0 30px 60px -30px rgba(42,29,23,.35)}
+.hcard .hc-top{display:flex;justify-content:space-between;align-items:center;gap:10px;font-size:12.5px;color:var(--muet)}
+.hcard .hc-ref{font-weight:700;color:var(--ink);font-size:15px;margin:6px 0 12px}
+.hcard .hc-v{display:inline-block;background:#E5F2EA;color:#2E7D4F;font-weight:800;font-size:13px;padding:5px 11px;border-radius:999px}
+.hcard dl{display:grid;grid-template-columns:1fr auto;margin:14px 0 0;border-top:1px solid var(--ligne)}
+.hcard dt,.hcard dd{margin:0;padding:9px 0;border-bottom:1px solid var(--ligne);font-size:14px}
+.hcard dt{color:var(--muet)}
+.hcard dd{font-weight:700;text-align:right;font-variant-numeric:tabular-nums}
+.hcard .hc-price{display:flex;align-items:baseline;gap:8px;margin:16px 0 12px}
+.hcard .hc-price b{font-size:30px;letter-spacing:-.02em}
+.hcard .hc-price span{font-size:13px;color:var(--muet)}
+.hcard .btn{width:100%;justify-content:center;text-align:center}
+.hcard .hc-link{display:block;text-align:center;margin-top:10px;font-size:14px;font-weight:600}
+.next{display:flex;gap:12px;flex-wrap:wrap;justify-content:center;margin-top:40px}
+.xlinks{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}
+.xlinks a{display:block;background:var(--surface);border:1px solid var(--ligne);border-radius:16px;padding:18px;color:var(--ink);text-decoration:none}
+.xlinks a:hover{border-color:var(--t)}
+.xlinks b{display:block;font-size:16px;margin-bottom:4px}
+.xlinks span{font-size:13.5px;color:var(--muet)}
+.xlinks i{display:block;font-style:normal;color:var(--t);font-weight:700;font-size:13.5px;margin-top:10px}
+.glinks{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px}
+.glinks a{font-size:14px;font-weight:600;padding:8px 14px;border:1px solid var(--ligne);border-radius:999px;background:var(--surface);color:var(--ink);text-decoration:none}
+@media (max-width:900px){.ph-grid{grid-template-columns:1fr;gap:28px}.xlinks{grid-template-columns:1fr 1fr}}
+@media (max-width:760px){
+ .page-head h1{font-size:34px;line-height:1.08}
+ .page-head .lede{font-size:16px}
+ .page-head p[style*="flex"] .btn{flex:1 1 100%;justify-content:center;text-align:center}
+ .rules{gap:22px}
+ .rules h3{font-size:16.5px;margin:8px 0 4px}
+ .rules p{font-size:14.5px}
+ .docs{grid-template-columns:1fr 1fr;gap:10px}
+ .xlinks{grid-template-columns:1fr}
+ .next .btn{flex:1 1 100%;justify-content:center;text-align:center}
+ .docs .doc{padding:14px}
+ .docs .doc h3{font-size:15px;margin:10px 0 4px}
+ .docs .doc p{font-size:12.5px;line-height:1.45}
+ #tarifs .inc{display:none}
+ #tarifs .trust{gap:10px}
+ #tarifs .trust > div{padding:14px 16px;font-size:13.5px}
+ .vs b{font-size:30px}
+ .m-cta{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:40;gap:10px;align-items:center;justify-content:space-between;background:#2A1D17;color:#F6EEE9;
+  padding:10px max(16px,env(safe-area-inset-right,0px)) calc(10px + env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px));box-shadow:0 -8px 24px -12px rgba(0,0,0,.4)}
+ .m-cta span{font-size:13px;line-height:1.3}
+ .m-cta span b{display:block;font-size:14.5px}
+ .m-cta .btn{white-space:nowrap;padding:11px 16px;font-size:14px}
+ body{padding-bottom:76px}
+}
+@media (max-width:380px){.docs{grid-template-columns:1fr}}
+</style>
+<style>
+.m-cta{display:none}
+.ph-grid{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,.85fr);gap:48px;align-items:center}
+.ph-grid > div{min-width:0}
+.hcard{background:var(--surface);border:1px solid var(--ligne);border-radius:22px;padding:22px;box-shadow:0 30px 60px -30px rgba(42,29,23,.35)}
+.hcard .hc-top{display:flex;justify-content:space-between;align-items:center;gap:10px;font-size:12.5px;color:var(--muet)}
+.hcard .hc-ref{font-weight:700;color:var(--ink);font-size:15px;margin:6px 0 12px}
+.hcard .hc-v{display:inline-block;background:#E5F2EA;color:#2E7D4F;font-weight:800;font-size:13px;padding:5px 11px;border-radius:999px}
+.hcard dl{display:grid;grid-template-columns:1fr auto;margin:14px 0 0;border-top:1px solid var(--ligne)}
+.hcard dt,.hcard dd{margin:0;padding:9px 0;border-bottom:1px solid var(--ligne);font-size:14px}
+.hcard dt{color:var(--muet)}
+.hcard dd{font-weight:700;text-align:right;font-variant-numeric:tabular-nums}
+.hcard .hc-price{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 8px;margin:16px 0 12px}
+.hcard .hc-price b{font-size:30px;letter-spacing:-.02em;white-space:nowrap}
+.hcard .hc-price span{font-size:13px;color:var(--muet)}
+.hcard .btn{width:100%;justify-content:center;text-align:center}
+.hcard .hc-link{display:block;text-align:center;margin-top:10px;font-size:14px;font-weight:600}
+.next{display:flex;gap:12px;flex-wrap:wrap;justify-content:center;margin-top:40px}
+.xlinks{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}
+.xlinks a{display:block;background:var(--surface);border:1px solid var(--ligne);border-radius:16px;padding:18px;color:var(--ink);text-decoration:none}
+.xlinks a:hover{border-color:var(--t)}
+.xlinks b{display:block;font-size:16px;margin-bottom:4px}
+.xlinks span{font-size:13.5px;color:var(--muet)}
+.xlinks i{display:block;font-style:normal;color:var(--t);font-weight:700;font-size:13.5px;margin-top:10px}
+.glinks{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px}
+.glinks a{font-size:14px;font-weight:600;padding:8px 14px;border:1px solid var(--ligne);border-radius:999px;background:var(--surface);color:var(--ink);text-decoration:none}
+@media (max-width:900px){.ph-grid{grid-template-columns:1fr;gap:28px}.xlinks{grid-template-columns:1fr 1fr}}
+@media (max-width:760px){
+ .page-head h1{font-size:34px;line-height:1.08}
+ .page-head .lede{font-size:16px}
+ .page-head p[style*="flex"] .btn{flex:1 1 100%;justify-content:center;text-align:center}
+ .rules{gap:22px}
+ .rules h3{font-size:16.5px;margin:8px 0 4px}
+ .rules p{font-size:14.5px}
+ .docs{grid-template-columns:1fr 1fr;gap:10px}
+ .xlinks{grid-template-columns:1fr}
+ .next .btn{flex:1 1 100%;justify-content:center;text-align:center}
+ .docs .doc{padding:14px}
+ .docs .doc h3{font-size:15px;margin:10px 0 4px}
+ .docs .doc p{font-size:12.5px;line-height:1.45}
+ #tarifs .inc{display:none}
+ #tarifs .trust{gap:10px}
+ #tarifs .trust > div{padding:14px 16px;font-size:13.5px}
+ .vs b{font-size:30px}
+ .m-cta{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:40;gap:10px;align-items:center;justify-content:space-between;background:#2A1D17;color:#F6EEE9;
+  padding:10px max(16px,env(safe-area-inset-right,0px)) calc(10px + env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px));box-shadow:0 -8px 24px -12px rgba(0,0,0,.4)}
+ .m-cta span{font-size:13px;line-height:1.3}
+ .m-cta span b{display:block;font-size:14.5px}
+ .m-cta .btn{white-space:nowrap;padding:11px 16px;font-size:14px}
+ body{padding-bottom:76px}
+}
+@media (max-width:380px){.docs{grid-template-columns:1fr}}
+</style>
 </head>
 <body>
 <header class="top"><div class="wrap">
@@ -48,13 +154,20 @@
 </div></header>
 <main>
 <div class="wrap" style="padding-top:18px;padding-bottom:4px"><p style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:0"><span class="checks" style="margin-right:6px">Vous êtes :</span><a class="btn ghost" style="font-size:13px;padding:7px 13px;min-height:0" href="/agences-immobilieres.html">Agent immobilier</a><a class="btn" style="font-size:13px;padding:7px 13px;min-height:0" href="/architectes.html" aria-current="page">Architecte</a><a class="btn ghost" style="font-size:13px;padding:7px 13px;min-height:0" href="/geometres.html">Géomètre</a><a class="btn ghost" style="font-size:13px;padding:7px 13px;min-height:0" href="/diagnostiqueurs.html">Diagnostiqueur</a><a class="btn ghost" style="font-size:13px;padding:7px 13px;min-height:0" href="/mairies.html">Mairie</a><a class="btn ghost" style="font-size:13px;padding:7px 13px;min-height:0" href="/#recherche">Particulier</a></p></div>
-<section class="page-head"><div class="wrap"><div class="crumb"><a href="/">Accueil</a> › Architectes</div>
+<section class="page-head"><div class="wrap ph-grid"><div><div class="crumb"><a href="/">Accueil</a> › Architectes</div>
 <span class="pill">Architectes · Maîtres d&#x27;œuvre</span>
 <h1>Le cadre réglementaire de chaque projet, avant la première esquisse.</h1>
 <p class="lede">Hauteur, emprise, reculs, aspect extérieur, stationnement : les règles de la zone extraites du règlement officiel avec leurs articles, les servitudes, les risques et la surface constructible estimée. En cinq minutes, au lieu d&#x27;une demi-journée de lecture.</p>
-<p style="display:flex;gap:12px;flex-wrap:wrap;margin-top:22px"><a class="btn" href="/#recherche">Analyser le terrain d&#x27;un projet</a><a class="btn ghost" href="/exemple.html">Voir un exemple de rapport</a></p>
+<p style="display:flex;gap:12px;flex-wrap:wrap;margin-top:22px"><a class="btn" href="/#recherche">Analyser le terrain d&#x27;un projet</a><a class="btn ghost" href="#tarifs">Voir les tarifs</a></p>
 <p class="checks" style="margin-top:14px">Diagnostic gratuit et immédiat · Rapport complet dès 0,86 € en abonnement · Toute la France</p>
-</div></section>
+</div><div><div class="hcard" aria-label="Exemple de synthèse d'un rapport">
+<div class="hc-top"><span>Exemple de synthèse</span><span class="hc-v">Constructible</span></div>
+<div class="hc-ref">Porto-Vecchio · section G · parcelle 1766</div>
+<dl><dt>Zone du PLU</dt><dd>UC · urbaine</dd><dt>Hauteur maximale</dt><dd>7 m à l&#x27;égout</dd><dt>Emprise au sol</dt><dd>30 %</dd><dt>Recul des limites</dt><dd>4 m</dd><dt>Abords de monument</dt><dd>Non</dd><dt>Surface constructible</dt><dd>≈ 310 m²</dd></dl>
+<div class="hc-price"><b>0,86 €</b><span>le rapport en abonnement · 19,90 € à l&#x27;unité</span></div>
+<a class="btn" href="/#recherche">Analyser mon premier terrain</a>
+<a class="hc-link" href="/exemple.html">Voir le rapport complet en exemple →</a>
+</div></div></div></section>
 <section class="sec"><div class="wrap">
 <div class="sec-head"><h2>La faisabilité vous coûte des heures que personne ne paie</h2><p class="lede">Avant de dessiner, il faut savoir ce que le terrain autorise. Et ce travail-là est rarement facturé.</p></div>
 <div class="rules" style="margin-bottom:56px"><div><div class="ico" style="margin-bottom:6px"><svg viewBox="0 0 24 24" fill="none" stroke="#A3462C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l9 16H3z"/><path d="M12 10v4M12 17h.01"/></svg></div><h3>Des règlements de plusieurs centaines de pages</h3><p>Trouver le bon chapitre, la bonne zone, le bon secteur, puis croiser avec les dispositions générales et les annexes : une demi-journée par terrain.</p></div><div><div class="ico" style="margin-bottom:6px"><svg viewBox="0 0 24 24" fill="none" stroke="#A3462C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l9 16H3z"/><path d="M12 10v4M12 17h.01"/></svg></div><h3>Des clients qui arrivent avec un programme impossible</h3><p>Une maison de 200 m² sur un terrain où l&#x27;emprise est limitée à 20 %, une piscine en zone naturelle : la déception arrive au premier rendez-vous.</p></div><div><div class="ico" style="margin-bottom:6px"><svg viewBox="0 0 24 24" fill="none" stroke="#A3462C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l9 16H3z"/><path d="M12 10v4M12 17h.01"/></svg></div><h3>Des contraintes découvertes trop tard</h3><p>Monument historique, zone inondable, loi Littoral, servitude d&#x27;utilité publique : quand elles apparaissent au stade du permis, c&#x27;est le projet entier qui est à reprendre.</p></div><div><div class="ico" style="margin-bottom:6px"><svg viewBox="0 0 24 24" fill="none" stroke="#A3462C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l9 16H3z"/><path d="M12 10v4M12 17h.01"/></svg></div><h3>Des sources éparpillées</h3><p>Géoportail de l&#x27;Urbanisme, cadastre, Géorisques, atlas des patrimoines, PADDUC : autant d&#x27;outils à consulter, à recouper et à résumer pour votre client.</p></div></div>
@@ -62,10 +175,12 @@
 <div class="vs-a"><small>Aujourd'hui</small><b>3 à 4 heures</b><p>par terrain pour lire le règlement, vérifier les servitudes et les risques, puis rédiger une note de synthèse au client.</p></div>
 <div class="vs-b"><small>Avec TerrenUrbanisme</small><b>5 minutes</b><p>pour un rapport complet qui cite les articles du règlement, prêt à être partagé avec votre client dès le premier rendez-vous.</p></div>
 </div>
+<div class="next"><a class="btn" href="/#recherche">Analyser le terrain d&#x27;un projet</a><a class="btn ghost" href="#avantages">Pourquoi nous choisir ↓</a></div>
 </div></section>
-<section class="sec alt"><div class="wrap">
+<section class="sec alt" id="avantages"><div class="wrap">
 <div class="sec-head"><h2>Pourquoi les architectes passent par TerrenUrbanisme</h2><p class="lede">Un outil de travail, pas un gadget : chaque information est sourcée et vérifiable.</p></div>
 <div class="rules"><div><svg viewBox="0 0 24 24" fill="none" stroke="#A3462C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 3H6a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z"/><path d="M14 3v6h6M8 13h8M8 17h5"/></svg><h3>Les règles de la zone, article par article</h3><p>Hauteur maximale, emprise au sol, implantation par rapport aux voies et aux limites, aspect, espaces verts, stationnement : extraits du règlement officiel avec la référence de l&#x27;article et la page.</p></div><div><svg viewBox="0 0 24 24" fill="none" stroke="#A3462C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-7-6.2-7-12a7 7 0 0 1 14 0c0 5.8-7 12-7 12z"/><circle cx="12" cy="9" r="2.5"/></svg><h3>Le potentiel constructible chiffré</h3><p>Surface d&#x27;emprise possible en m², zone d&#x27;implantation tracée sur photo aérienne, en tenant compte des reculs : la base de votre plan masse.</p></div><div><svg viewBox="0 0 24 24" fill="none" stroke="#A3462C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l8 3v6c0 4.5-3.4 8.3-8 9-4.6-.7-8-4.5-8-9V6z"/><path d="m8.5 12 2.5 2.5 4.5-5"/></svg><h3>Toutes les servitudes en un coup d&#x27;œil</h3><p>Abords de monuments historiques et avis de l&#x27;ABF, sites classés, PPR, Natura 2000, loi Littoral et distance au rivage, loi Montagne, PADDUC en Corse.</p></div><div><svg viewBox="0 0 24 24" fill="none" stroke="#A3462C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8" r="3.5"/><path d="M2.5 20c.8-3.4 3.4-5.5 6.5-5.5s5.7 2.1 6.5 5.5"/><path d="M16 4.5a3.5 3.5 0 0 1 0 7M18.5 14.8c1.6.9 2.7 2.7 3 5.2"/></svg><h3>Un document à remettre au client</h3><p>Un PDF clair, structuré et sourcé pour cadrer le programme dès le départ et éviter les projets impossibles. Votre conseil gagne en autorité.</p></div><div><svg viewBox="0 0 24 24" fill="none" stroke="#A3462C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg><h3>Des heures rendues à la conception</h3><p>La recherche réglementaire passe de plusieurs heures à quelques minutes. Ce temps retourne là où il crée de la valeur : le projet.</p></div><div><svg viewBox="0 0 24 24" fill="none" stroke="#A3462C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l9 16H3z"/><path d="M12 10v4M12 17h.01"/></svg><h3>Les points bloquants avant le permis</h3><p>Zone inondable, recul du trait de côte, sol pollué, argiles, accès et réseaux : identifiés avant le dépôt, pas pendant l&#x27;instruction.</p></div></div>
+<div class="next"><a class="btn" href="/#recherche">Analyser le terrain d&#x27;un projet</a><a class="btn ghost" href="/exemple.html">Voir un exemple de rapport</a></div>
 </div></section>
 <section class="sec alt"><div class="wrap">
 <div class="sec-head"><h2>Tout ce que contient le rapport</h2><p class="lede">Un PDF de 30 à 40 pages, sommaire cliquable, établi à partir des sources officielles et livré par e-mail en quelques minutes.</p></div>
@@ -77,7 +192,7 @@
 <div class="doc"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="#A3462C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6h11M9 12h11M9 18h11"/><path d="M4 6h.01M4 12h.01M4 18h.01"/></svg></div><h3>Accès et réseaux</h3><p>Voie la plus proche, pente et exposition, assainissement, fibre et interlocuteurs des réseaux.</p></div>
 <div class="doc"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="#A3462C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 7a7 7 0 1 0 0 10"/><path d="M4 10h10M4 14h10"/></svg></div><h3>Valeur de marché</h3><p>Fourchette de valeur estimée, ventes réelles de la commune, positionnement du terrain, permis accordés et vues aériennes depuis 1950.</p></div>
 </div>
-<p style="margin-top:22px"><a class="btn ghost" href="/exemple.html">Voir un exemple de rapport</a></p>
+<div class="next"><a class="btn" href="#tarifs">Choisir ma formule ↓</a><a class="btn ghost" href="/exemple.html">Voir un exemple de rapport</a></div>
 </div></section>
 <section class="sec" id="tarifs"><div class="wrap">
 <style>@media (max-width:960px){#plans .plan.feat{order:-1;margin-top:10px}}</style>
@@ -111,9 +226,15 @@
 <div class="prose"><ol><li>Écrivez-nous avec le nom de votre structure, son SIRET et l'e-mail de votre compte.</li><li>Vous recevez un lien personnel qui crédite votre compte d'un rapport.</li><li>Lancez votre rapport sur le terrain de votre choix.</li></ol>
 <p><a class="btn" href="mailto:contact@terrenurbanisme.com?subject=Essai%20professionnel%20%E2%80%93%201%20rapport%20offert&amp;body=Bonjour%2C%0A%0AJe%20souhaite%20tester%20TerrenUrbanisme%20avec%201%20rapport%20offert.%0A%0AStructure%20%3A%20%0ASIRET%20%3A%20%0AVille%20%3A%20%0ANom%20et%20fonction%20%3A%20%0AE-mail%20du%20compte%20%3A%20%0A%0ACordialement">Demander mon essai</a></p></div>
 </div></section>
-<section class="sec"><div class="wrap"><div class="sec-head"><h2>Vos questions</h2></div><div class="faq"><details><summary>Le rapport remplace-t-il la lecture du règlement ?</summary><p>Il la prépare et la cible : il identifie la zone, extrait les règles applicables avec leurs articles et indique les pages du règlement officiel. Pour le dépôt d&#x27;un permis, le règlement complet reste la référence et doit être vérifié.</p></details><details><summary>Les règles sont-elles à jour ?</summary><p>Le rapport s&#x27;appuie sur le document d&#x27;urbanisme publié au jour de la recherche sur le Géoportail de l&#x27;Urbanisme, la plateforme officielle de l&#x27;État. La date et le type de document figurent dans le rapport.</p></details><details><summary>Que se passe-t-il si la commune n&#x27;a pas publié son PLU en ligne ?</summary><p>Le rapport l&#x27;indique clairement et réunit toutes les autres données officielles : risques, servitudes, protections, lois Littoral et Montagne, accès, réseaux, marché. La zone est alors à demander en mairie.</p></details><details><summary>Puis-je partager le rapport avec mon client ?</summary><p>Oui. Le rapport est un document d&#x27;information sur la parcelle que vous pouvez transmettre librement à votre client.</p></details><details><summary>Couvrez-vous toute la France ?</summary><p>Oui : PLU, PLU intercommunaux, cartes communales et règlement national d&#x27;urbanisme, en métropole, en outre-mer et en Corse avec le PADDUC.</p></details></div></div></section>
+<section class="sec"><div class="wrap"><div class="sec-head"><h2>Ils travaillent aussi avec TerrenUrbanisme</h2><p class="lede">Un même rapport, utile à chaque professionnel du terrain.</p></div>
+<div class="xlinks"><a href="/agences-immobilieres.html"><b>Agents immobiliers</b><span>Des mandats au juste prix et des compromis qui ne tombent plus.</span><i>Découvrir →</i></a><a href="/geometres.html"><b>Géomètres-experts</b><span>Des demandes qualifiées avant chaque déplacement.</span><i>Découvrir →</i></a><a href="/diagnostiqueurs.html"><b>Diagnostiqueurs</b><span>L&#x27;état des risques pré-rempli et une prestation de plus à facturer.</span><i>Découvrir →</i></a><a href="/mairies.html"><b>Mairies</b><span>Moins d&#x27;appels au guichet, des habitants mieux informés.</span><i>Découvrir →</i></a></div>
+<div class="glinks"><a href="/guides/plu.html">Qu&#x27;est-ce qu&#x27;un PLU ?</a><a href="/guides/zones-plu.html">Les zones du PLU</a><a href="/guides/permis-de-construire-corse.html">Le permis de construire</a><a href="/guides/loi-littoral-corse.html">La loi Littoral</a><a href="/comparatif-docurbanisme.html">TerrenUrbanisme ou DocUrbanisme ?</a><a href="/comment-ca-marche.html">Comment ça marche</a><a href="/exemple.html">Exemple de rapport</a><a href="/tarifs.html">Tous les tarifs</a></div>
+</div></section>
+<section class="sec alt"><div class="wrap"><div class="sec-head"><h2>Vos questions</h2></div><div class="faq"><details><summary>Le rapport remplace-t-il la lecture du règlement ?</summary><p>Il la prépare et la cible : il identifie la zone, extrait les règles applicables avec leurs articles et indique les pages du règlement officiel. Pour le dépôt d&#x27;un permis, le règlement complet reste la référence et doit être vérifié.</p></details><details><summary>Les règles sont-elles à jour ?</summary><p>Le rapport s&#x27;appuie sur le document d&#x27;urbanisme publié au jour de la recherche sur le Géoportail de l&#x27;Urbanisme, la plateforme officielle de l&#x27;État. La date et le type de document figurent dans le rapport.</p></details><details><summary>Que se passe-t-il si la commune n&#x27;a pas publié son PLU en ligne ?</summary><p>Le rapport l&#x27;indique clairement et réunit toutes les autres données officielles : risques, servitudes, protections, lois Littoral et Montagne, accès, réseaux, marché. La zone est alors à demander en mairie.</p></details><details><summary>Puis-je partager le rapport avec mon client ?</summary><p>Oui. Le rapport est un document d&#x27;information sur la parcelle que vous pouvez transmettre librement à votre client.</p></details><details><summary>Couvrez-vous toute la France ?</summary><p>Oui : PLU, PLU intercommunaux, cartes communales et règlement national d&#x27;urbanisme, en métropole, en outre-mer et en Corse avec le PADDUC.</p></details></div></div></section>
 <section class="sec tight"><div class="wrap"><div class="cta-band"><h2>Testez sur le terrain de votre prochain projet</h2><a class="btn" href="/#recherche">Analyser le terrain d&#x27;un projet</a></div></div></section>
 </main>
+<div class="m-cta" role="complementary" aria-label="Accès rapide"><span><b>Rapport complet</b>dès 0,86 € · toute la France</span><a class="btn" href="/#recherche">Vérifier un terrain</a></div>
+<div class="m-cta" role="complementary" aria-label="Accès rapide"><span><b>Rapport complet</b>dès 0,86 € · toute la France</span><a class="btn" href="/#recherche">Vérifier un terrain</a></div>
 <div class="m-cta" role="complementary" aria-label="Accès rapide"><span><b>Rapport complet</b>dès 0,86 € · toute la France</span><a class="btn" href="/#recherche">Vérifier un terrain</a></div>
 <footer><div class="wrap">
 <div class="cols">
