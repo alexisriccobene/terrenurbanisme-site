@@ -71,6 +71,8 @@
     }
   };
   window.TUAuth = Auth;
+  /* Annuaire des professionnels : chargé seulement sur les pages qui l'utilisent */
+  if (document.getElementById('commune-page') || document.getElementById('annuaire') || document.getElementById('pro-form')){ var ps = document.createElement('script'); ps.src = '/assets/pros.js?v=' + ((document.querySelector('script[src*="auth.js"]') || {}).src || '').split('v=')[1]; ps.defer = true; document.head.appendChild(ps); }
 
   /* En-tête : « Se connecter » ou « Mon espace » */
   var link = $('auth-link');
