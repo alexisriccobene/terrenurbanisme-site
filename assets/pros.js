@@ -66,7 +66,13 @@
     var sec = document.createElement('section'); sec.className = 'sec tight pro-sec';
     sec.innerHTML = '<div class="wrap"><div class="pro-head"><div><h2>Professionnels près de ' + esc(nom) + '</h2><p class="lede">Géomètres, architectes, agents immobiliers et notaires qui interviennent dans le secteur.</p></div><a class="btn ghost" href="/professionnels.html?dep=' + esc(dep) + '&insee=' + esc(insee) + '">Voir l\'annuaire</a></div><div class="pro-grid" id="pro-grid"></div></div>';
     if (anchor) anchor.parentNode.insertBefore(sec, anchor); else (document.querySelector('main') || document.body).appendChild(sec);
-    list(dep, null, 6).then(function(rows){
+    var recoP = Promise.all([sb.rpc('pros_recommandes', { p_insee: insee }).then(function(r){ return r.data || []; }), sb.rpc('places_restantes', { p_insee: insee, p_metier: 'agent_immobilier' }).then(function(r){ return r.data; })]).then(function(res){
+      var reco = res[0], left = res[1], head = sec.querySelector('.pro-head > div');
+      if (typeof left === 'number'){ var pl = document.createElement('p'); pl.className = 'pro-places'; pl.innerHTML = left > 0 ? 'Agences immobilières : <b>' + left + ' place' + (left > 1 ? 's' : '') + ' de partenaire sur 3</b> encore disponible' + (left > 1 ? 's' : '') + ' à ' + esc(nom) + '. <a href="/referencer-mon-cabinet.html">Réserver la vôtre</a>' : 'Les 3 places de partenaire pour les agences de ' + esc(nom) + ' sont prises.'; head.appendChild(pl); }
+      if (reco.length){ var rg = document.createElement('div'); rg.className = 'pro-grid pro-reco'; rg.innerHTML = reco.map(function(p){ p.partenaire = true; return card(p).replace('Partenaire TerrenUrbanisme', 'Recommandé à ' + esc(nom)); }).join(''); $('pro-grid').parentNode.insertBefore(rg, $('pro-grid')); wire(rg, { insee: insee, commune: nom }); window.__recoIds = reco.map(function(p){ return p.id; }); }
+    }).catch(function(){});
+    recoP.then(function(){ return list(dep, null, 6); }).then(function(rows){
+      rows = rows.filter(function(p){ return !(window.__recoIds || []).includes(p.id); });
       var g = $('pro-grid');
       if (!rows.length){ g.innerHTML = '<div class="pro-empty"><b>Vous êtes professionnel à ' + esc(nom) + ' ?</b><span>Soyez le premier référencé dans ce secteur et recevez les demandes des propriétaires qui vérifient leur terrain.</span><a class="btn" href="/referencer-mon-cabinet.html">Référencer mon cabinet gratuitement</a></div>'; return; }
       g.innerHTML = rows.map(function(p){ return card(p); }).join('') + '<div class="pro-empty slim"><span>Vous êtes professionnel dans ce secteur ?</span><a href="/referencer-mon-cabinet.html">Référencez votre cabinet gratuitement</a></div>';
@@ -95,6 +101,35 @@
     fd.addEventListener('change', run); fm.addEventListener('change', run); run();
   }
 
+
+  /* Communes recommandées (abonnés) */
+  function recoInit(p){
+    var box = $('pf-reco'); if (!box || !p) return; box.hidden = false;
+    var lst = $('pf-reco-list'), q = $('pf-reco-q'), sug = $('pf-reco-sug'), err = $('pf-reco-err'), t = null;
+    var load = function(){ sb.from('places_reco').select('insee, commune').eq('pro_id', p.id).then(function(r){
+      var rows = r.data || [];
+      lst.innerHTML = rows.length ? rows.map(function(x){ return '<span class="pf-chip">' + esc(x.commune) + ' <button type="button" data-i="' + esc(x.insee) + '" aria-label="Retirer ' + esc(x.commune) + '">×</button></span>'; }).join('') : '<p class="fine">Aucune commune pour l\'instant.</p>';
+      $('pf-reco-add').hidden = rows.length >= 3;
+      lst.querySelectorAll('button').forEach(function(b){ b.addEventListener('click', function(){ sb.from('places_reco').delete().eq('pro_id', p.id).eq('insee', b.getAttribute('data-i')).then(load); }); });
+    }); };
+    load();
+    q.addEventListener('input', function(){
+      clearTimeout(t); var v = q.value.trim(); if (v.length < 2){ sug.innerHTML = ''; return; }
+      t = setTimeout(function(){
+        fetch('https://geo.api.gouv.fr/communes?nom=' + encodeURIComponent(v) + '&fields=code,nom,codesPostaux&boost=population&limit=6').then(function(r){ return r.json(); }).then(function(rows){
+          sug.innerHTML = rows.map(function(c){ return '<button type="button" data-c="' + esc(c.code) + '" data-n="' + esc(c.nom) + '">' + esc(c.nom) + ' <small>' + esc((c.codesPostaux || [])[0] || '') + '</small></button>'; }).join('');
+          sug.querySelectorAll('button').forEach(function(b){ b.addEventListener('click', function(){
+            err.textContent = ''; var code = b.getAttribute('data-c'), n = b.getAttribute('data-n');
+            sb.from('places_reco').insert({ insee: code, commune: n, pro_id: p.id, metier: p.metier }).then(function(r){
+              if (r.error){ var m = r.error.message || ''; err.innerHTML = /Abonnement/.test(m) ? 'Cette option est réservée aux abonnés. <a href="/tarifs.html">Voir les abonnements</a>' : /complete/.test(m) ? 'Les 3 places de votre métier sont déjà prises à ' + esc(n) + '.' : /Limite/.test(m) ? 'Vous avez atteint 3 communes. Retirez-en une pour en ajouter une autre.' : /duplicate|unique/i.test(m) ? 'Cette commune est déjà dans votre liste.' : 'L\'ajout a échoué. Réessayez.'; return; }
+              q.value = ''; sug.innerHTML = ''; load();
+            });
+          }); });
+        }).catch(function(){});
+      }, 250);
+    });
+  }
+
   /* Page d'inscription des professionnels */
   var pf = $('pro-form');
   if (pf){
@@ -110,7 +145,7 @@
         var p = r.data; if (!p) return; existing = p;
         $('pf-nom').value = p.nom || ''; $('pf-metier').value = p.metier; $('pf-ville').value = p.ville || ''; $('pf-tel').value = p.telephone || ''; $('pf-email').value = p.email || ''; $('pf-site').value = p.site || ''; $('pf-desc').value = p.description || ''; $('pf-publie').checked = p.publie;
         (p.departements || []).forEach(function(d){ var c = box.querySelector('input[value="' + d + '"]'); if (c) c.checked = true; });
-        $('pf-consent').checked = true; $('pf-submit').textContent = 'Mettre à jour ma fiche'; $('pf-view').hidden = false;
+        $('pf-consent').checked = true; $('pf-submit').textContent = 'Mettre à jour ma fiche'; $('pf-view').hidden = false; recoInit(p);
       });
       pf.addEventListener('submit', function(e){
         e.preventDefault();
@@ -125,7 +160,7 @@
         (existing ? sb.from('pros').update(row).eq('user_id', u.id).select().single() : sb.from('pros').insert(row).select().single()).then(function(r){
           b.disabled = false;
           if (r.error){ err.textContent = 'L\'enregistrement a échoué. Vérifiez les champs et réessayez.'; return; }
-          existing = r.data; b.textContent = 'Mettre à jour ma fiche'; $('pf-view').hidden = false;
+          existing = r.data; b.textContent = 'Mettre à jour ma fiche'; $('pf-view').hidden = false; recoInit(existing);
           $('pf-ok').hidden = false; $('pf-ok').scrollIntoView({ block: 'center' });
         });
       });
