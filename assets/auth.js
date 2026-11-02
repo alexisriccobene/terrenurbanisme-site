@@ -103,7 +103,7 @@
         if (r.error) throw r.error;
         form.hidden = true; $('login-sent').hidden = false; $('sent-to').textContent = email.value.trim();
       }).catch(function(){
-        msg.className = 'err'; msg.textContent = 'L\'envoi du lien a échoué. Vérifiez l\'adresse et réessayez.';
+        msg.className = 'err'; msg.textContent = (tsId && !tsToken) ? 'Cochez la case « Vérifiez que vous êtes humain » ci-dessus, puis réessayez.' : 'L\'envoi du lien a échoué. Vérifiez l\'adresse et réessayez.';
         btn.disabled = false; btn.textContent = 'Recevoir mon lien et mon diagnostic';
       });
     });
