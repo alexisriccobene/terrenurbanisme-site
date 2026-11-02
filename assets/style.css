@@ -513,3 +513,25 @@ footer .social{display:flex;gap:10px;margin-top:18px}footer .social a{display:in
 .pf-dep input{width:auto;padding:0;margin:0;flex:none;accent-color:var(--t)}
 .pf-dep span{display:inline;margin:0;font-size:14px;font-weight:400;color:var(--ink)}
 .chk-line input{width:auto;flex:none}
+/* Outils */
+.tool{background:var(--surface);border:1px solid var(--ligne);border-radius:var(--r);padding:22px;margin:0 0 18px;display:grid;gap:4px}
+.tool .btn{margin-top:8px;justify-self:start}
+.tool-out{margin:0 0 30px}
+.tool-out .err{color:var(--non);font-weight:600}
+.tool-res{border-radius:var(--r);padding:20px 22px;border:1px solid var(--ligne);background:var(--soft)}
+.tool-res.ok{background:var(--ok-bg);border-color:var(--ok)}
+.tool-res.cond{background:var(--cond-bg);border-color:var(--cond)}
+.tool-res.non{background:var(--non-bg);border-color:var(--non)}
+.tool-k{font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muet);margin:0 0 6px}
+.tool-big{font-family:var(--t-h,inherit);font-size:clamp(24px,4vw,32px);line-height:1.15;margin:0 0 10px;text-wrap:balance}
+.tool-tab{width:100%;border-collapse:collapse;margin:10px 0;font-size:15px}
+.tool-tab td{padding:8px 0;border-bottom:1px solid var(--ligne)}
+.tool-tab td:last-child{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap;padding-left:12px}
+.tool-tab tr.tot td{font-weight:700;border-bottom:0;font-size:17px}
+.tool-warn{font-size:14px;border-left:3px solid var(--cond);padding:4px 0 4px 12px;margin:12px 0 0}
+.tool-cta{display:flex;flex-wrap:wrap;gap:14px;align-items:center;justify-content:space-between;background:var(--soft);border:1px solid var(--ligne);border-radius:var(--r);padding:18px 20px;margin:24px 0}
+.tool-cta span{flex:1 1 260px;min-width:0}
+.proj-steps{counter-reset:ps;list-style:none;padding:0;margin:0}
+.proj-steps li{counter-increment:ps;position:relative;padding:0 0 18px 52px;margin:0 0 18px;border-bottom:1px solid var(--ligne)}
+.proj-steps li::before{content:counter(ps);position:absolute;left:0;top:2px;width:36px;height:36px;border-radius:50%;background:var(--t);color:#fff;font-weight:700;display:grid;place-items:center}
+.proj-steps h2{margin:0 0 6px;font-size:20px}
