@@ -510,3 +510,6 @@ footer .social{display:flex;gap:10px;margin-top:18px}footer .social a{display:in
 .pf-reco-list{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0}
 .pf-chip{display:inline-flex;align-items:center;gap:6px;background:var(--soft);color:var(--t);font-weight:700;border-radius:999px;padding:6px 8px 6px 14px}.pf-chip button{border:0;background:none;font-size:18px;line-height:1;cursor:pointer;color:var(--t)}
 .pf-reco-sug{display:flex;flex-direction:column;gap:4px}.pf-reco-sug button{text-align:left;font:inherit;border:1px solid var(--ligne);background:#fff;border-radius:10px;padding:9px 12px;cursor:pointer}.pf-reco-sug button:hover{border-color:var(--t)}.pf-reco-sug small{color:var(--muet)}
+.pf-dep input{width:auto;padding:0;margin:0;flex:none;accent-color:var(--t)}
+.pf-dep span{display:inline;margin:0;font-size:14px;font-weight:400;color:var(--ink)}
+.chk-line input{width:auto;flex:none}
