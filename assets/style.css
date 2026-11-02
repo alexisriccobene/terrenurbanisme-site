@@ -467,3 +467,10 @@ footer .social{display:flex;gap:10px;margin-top:18px}footer .social a{display:in
 .v-opt-sep:before,.v-opt-sep:after{content:"";flex:1;height:1px;background:var(--ligne)}
 .v-opt-note{font-size:12px;color:#6E625A;margin:10px 0 0}
 .v-offer[hidden]{display:none}
+.src-ask{background:#fff;border:1px solid var(--ligne);border-radius:16px;padding:18px 20px;margin-top:20px;font-size:14.5px;line-height:1.5}
+.src-ask b{display:block;font-size:16px}.src-ask>span{color:var(--muet)}
+.src-opts{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+.src-opts button{font:inherit;font-weight:600;border:1px solid var(--ligne);background:#fff;border-radius:999px;padding:8px 16px;cursor:pointer;color:inherit}
+.src-opts button:hover,.src-opts button.on{border-color:#A3462C;color:#A3462C;background:#FBF1EC}
+.src-more{display:flex;gap:8px;margin-top:12px;flex-wrap:wrap}.src-more input{flex:1;min-width:0;font:inherit;padding:10px 14px;border:1px solid var(--ligne);border-radius:12px}
+.src-ask.ok{border-color:#BFE3CB;background:#F1FAF4}

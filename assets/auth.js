@@ -107,6 +107,7 @@
   if (space){
     Auth.user().then(function(u){
       if (!u){ location.replace(Auth.loginUrl('/espace.html')); return; }
+      askSource(u, merci, sid);
       $('esp-mail').textContent = u.email;
       sb.from('diagnostics').select('*').order('created_at', { ascending:false }).limit(50).then(function(r){
         var seen = {}, rows = (r.data || []).filter(function(d){ var k = d.insee + '|' + d.section + '|' + d.numero; if (seen[k]) return false; seen[k] = 1; return true; }), list = $('esp-list');
@@ -156,6 +157,38 @@
       var rows = r.data || [];
       if (!rows.length){ box.innerHTML = '<p class="empty">' + (sessionId ? 'Préparation du rapport…' : 'Aucun rapport complet pour le moment.') + '</p>'; return rows; }
       box.innerHTML = rows.map(dossierRow).join(''); bindDl(box); return rows;
+    });
+  }
+
+  /* Question « Comment nous avez-vous connu ? », posée une seule fois par client après son premier achat */
+  function askSource(u, merci, sid){
+    if (!sb || !merci) return;
+    sb.from('sources_clients').select('user_id').eq('user_id', u.id).maybeSingle().then(function(r){
+      if (r.error || r.data) return;
+      var OPTS = [['google','Google'],['instagram','Instagram'],['facebook','Facebook'],['linkedin','LinkedIn'],['influenceur','Un influenceur'],['autre','Autre']];
+      var box = document.createElement('div'); box.className = 'src-ask';
+      box.innerHTML = '<b>Comment avez-vous connu TerrenUrbanisme ?</b><span>Une seule réponse, cela nous aide beaucoup.</span><div class="src-opts">' +
+        OPTS.map(function(o){ return '<button type="button" data-src="' + o[0] + '">' + o[1] + '</button>'; }).join('') +
+        '</div><div class="src-more" hidden><input type="text" maxlength="200"><button type="button" class="btn" data-ok>Envoyer</button></div>';
+      merci.parentNode.appendChild(box);
+      var more = box.querySelector('.src-more'), inp = more.querySelector('input'), choix = null;
+      function save(detail){
+        sb.from('sources_clients').insert({ user_id: u.id, email: u.email || null, source: choix, detail: detail || null, session_id: sid || null }).then(function(){
+          box.innerHTML = '<b>Merci pour votre réponse.</b>'; box.classList.add('ok');
+        });
+      }
+      box.querySelectorAll('[data-src]').forEach(function(b){
+        b.addEventListener('click', function(){
+          choix = b.getAttribute('data-src');
+          box.querySelectorAll('[data-src]').forEach(function(x){ x.classList.toggle('on', x === b); });
+          if (choix === 'influenceur' || choix === 'autre'){
+            inp.placeholder = choix === 'influenceur' ? 'Lequel ? (nom ou code promo, facultatif)' : 'Précisez (facultatif)';
+            more.hidden = false; inp.focus();
+          } else save(null);
+        });
+      });
+      more.querySelector('[data-ok]').addEventListener('click', function(){ save(inp.value.trim()); });
+      inp.addEventListener('keydown', function(e){ if (e.key === 'Enter') save(inp.value.trim()); });
     });
   }
 
