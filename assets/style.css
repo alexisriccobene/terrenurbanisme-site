@@ -474,3 +474,4 @@ footer .social{display:flex;gap:10px;margin-top:18px}footer .social a{display:in
 .src-opts button:hover,.src-opts button.on{border-color:#A3462C;color:#A3462C;background:#FBF1EC}
 .src-more{display:flex;gap:8px;margin-top:12px;flex-wrap:wrap}.src-more input{flex:1;min-width:0;font:inherit;padding:10px 14px;border:1px solid var(--ligne);border-radius:12px}
 .src-ask.ok{border-color:#BFE3CB;background:#F1FAF4}
+.ts-box{min-height:0;margin:2px 0 10px}.ts-box:empty{display:none}

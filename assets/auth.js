@@ -83,11 +83,23 @@
     var msg = $('login-msg'), btn = $('login-btn'), email = $('login-email');
     Auth.user().then(function(u){ if (u) location.replace(redirect); });
     email.addEventListener('input', function(){ btn.disabled = !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email.value.trim()); });
+    /* Anti-robots Cloudflare Turnstile : invisible pour la plupart des visiteurs, case à cocher seulement en cas de doute */
+    var tsToken = null, tsId = null;
+    (function tsInit(n){
+      if (!cfg.turnstile || !$('ts-box')) return;
+      if (!window.turnstile){ if (n < 40) setTimeout(function(){ tsInit(n + 1); }, 250); return; }
+      tsId = window.turnstile.render('#ts-box', { sitekey: cfg.turnstile, appearance: 'interaction-only', language: 'fr',
+        callback: function(t){ tsToken = t; }, 'expired-callback': function(){ tsToken = null; }, 'error-callback': function(){ tsToken = null; } });
+    })(0);
+    function waitToken(){
+      return new Promise(function(res){ var k = 0; (function w(){ if (tsToken || !tsId || ++k > 40) return res(tsToken); setTimeout(w, 250); })(); });
+    }
     form.addEventListener('submit', function(e){
       e.preventDefault();
       if (!sb){ msg.className = 'err'; msg.textContent = 'La connexion n\'est pas encore activée sur ce site.'; return; }
       btn.disabled = true; btn.textContent = 'Envoi en cours…';
-      sb.auth.signInWithOtp({ email: email.value.trim(), options: { emailRedirectTo: location.origin + redirect } }).then(function(r){
+      waitToken().then(function(tok){ var o = { emailRedirectTo: location.origin + redirect }; if (tok) o.captchaToken = tok; return sb.auth.signInWithOtp({ email: email.value.trim(), options: o }); }).then(function(r){
+        if (tsId && window.turnstile) { try { window.turnstile.reset(tsId); } catch (x) {} tsToken = null; }
         if (r.error) throw r.error;
         form.hidden = true; $('login-sent').hidden = false; $('sent-to').textContent = email.value.trim();
       }).catch(function(){
