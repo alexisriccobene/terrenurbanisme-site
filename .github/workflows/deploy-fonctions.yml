@@ -40,7 +40,7 @@ jobs:
             name=$(basename "$f" .ts.enc)
             mkdir -p "supabase/functions/$name"
             openssl enc -d -aes-256-cbc -pbkdf2 -iter 200000 -in "$f" -out "supabase/functions/$name/index.ts" -pass "file:$RUNNER_TEMP/k"
-            supabase functions deploy "$name" --project-ref "$REF" --no-verify-jwt
+            supabase functions deploy "$name" --project-ref "$REF" --no-verify-jwt --yes
             echo "Déployé : $name"
           done
           rm -f "$RUNNER_TEMP/k"; rm -rf supabase
