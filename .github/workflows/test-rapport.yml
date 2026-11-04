@@ -37,4 +37,4 @@ jobs:
           rm out/data.json
           git config user.name "TerrenUrbanisme tests"; git config user.email "contact@terrenurbanisme.com"
           git fetch origin tests-rapports || true
-          rm out; git checkout --orphan tests-rapports; git rm -rqf . || true; mv /tmp/out "$I-$S-$N"; git add "$I-$S-$N"; git commit -qm "Test $P"; git push -f origin tests-rapports
+          rm out; git checkout --orphan tests-rapports; git rm -rqf . || true; git sparse-checkout disable || true; mv /tmp/out "$I-$S-$N"; git add "$I-$S-$N"; git commit -qm "Test $P"; git push -f origin tests-rapports
