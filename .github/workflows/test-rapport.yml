@@ -1,0 +1,38 @@
+name: Test d'un rapport
+# Outil interne : génère un rapport d'aperçu (PDF + données JSON) et le dépose sur la branche tests-rapports.
+on:
+  workflow_dispatch:
+    inputs:
+      parcelle:
+        description: "insee:section:numero"
+        required: true
+permissions:
+  contents: write
+jobs:
+  t:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      KEY: ${{ secrets.TU_ADMIN_KEY }}
+      REF: nmoigruxnhsidrhqtzid
+      P: ${{ github.event.inputs.parcelle }}
+    steps:
+      - run: |
+          set -e
+          [[ "$P" =~ ^[0-9AB]{5}:[0-9A-Z]{1,2}:[0-9]{1,4}$ ]] || exit 1
+          IFS=: read I S N <<< "$P"
+          mkdir out
+          curl -sS -m 300 -X POST -H "x-tu-admin: $KEY" "https://$REF.supabase.co/functions/v1/stripe-webhook?insee=$I&section=$S&numero=$N&format=json" -o out/data.json || true
+          python3 - <<'PY'
+          import json
+          try:
+              d = json.load(open('out/data.json'))
+              s = {k: d.get(k) for k in ('pm', 'dpe', 'ta')}; s['permis_near'] = (d.get('permis') or {}).get('near'); s['verdict'] = (d.get('verdict') or {}).get('key')
+              json.dump(s, open('out/resume.json', 'w'), ensure_ascii=False, indent=1)
+          except Exception as e: open('out/resume.json', 'w').write(repr(e) + open('out/data.json').read()[:2000])
+          PY
+          curl -sS -m 420 -X POST "https://$REF.supabase.co/functions/v1/stripe-webhook?key=$KEY&insee=$I&section=$S&numero=$N" -o out/rapport.pdf || true
+          rm out/data.json
+          git config user.name "TerrenUrbanisme tests"; git config user.email "contact@terrenurbanisme.com"
+          git fetch origin tests-rapports || true
+          git checkout --orphan tests-rapports; git rm -rqf . ; mv out "$I-$S-$N"; git add "$I-$S-$N"; git commit -qm "Test $P"; git push -f origin tests-rapports
