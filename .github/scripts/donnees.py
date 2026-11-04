@@ -66,6 +66,64 @@ for rid in ['87bc6d48-f1ed-4924-be55-0142660033de', '8d0ae2b1-9b8c-48df-89b9-633
 for c, v in mont.items(): out[dep(c)].setdefault(c, {})['mt'] = v
 meta['montagne_communes'] = len(mont)
 
+# 3. Taxe d'aménagement : taux votés par les collectivités (DGFiP, data.economie.gouv.fr)
+import datetime
+try:
+    today = datetime.date.today().isoformat()
+    raw = get('https://www.data.gouv.fr/api/1/datasets/r/22f858cc-8a38-4f86-895c-a77d3a4d3c13')
+    txt = raw.decode('utf-8-sig', 'replace'); del raw
+    rd = csv.DictReader(io.StringIO(txt), delimiter=';')
+    meta['ta_colonnes'] = rd.fieldnames
+    def fl(v):
+        try: return float(str(v).replace(',', '.')) if v not in (None, '') else None
+        except: return None
+    zones = defaultdict(int); best = {}  # clé -> (date effet, valeur)
+    def keep(k, eff, val):
+        if k not in best or eff >= best[k][0]: best[k] = (eff, val)
+    for r in rd:
+        eff = (r.get('DATE EFFET') or '')[:10]; fin = (r.get('DATE FIN') or '')[:10]
+        if not eff or eff > today or (fin and fin < today): continue
+        z = (r.get('ZONE APPLICATION') or '').strip(); zones[z] += 1
+        t = fl(r.get('TAUX'))
+        if t is None or t < 0 or t > 20: continue
+        dp = (r.get('DEPARTEMENT') or '').strip().upper().zfill(2); co = (r.get('COMMUNE') or '').strip()
+        zl = z.lower()
+        if zl.startswith('d'):  # part départementale
+            keep(('D', dp), eff, t); continue
+        if zl.startswith('r'):  # part régionale (Île-de-France)
+            keep(('R', dp), eff, t); continue
+        if not co: continue
+        insee = (dp[:2] if not dp.startswith('97') else dp[:3]) + co.zfill(3 if not dp.startswith('97') else 2)
+        if not INSEE.match(insee): continue
+        sec = (r.get('SECTION') or '').strip().upper(); par = (r.get('PARCELLE') or '').strip()
+        if sec and par:
+            keep(('S', insee, sec.lstrip('0') + '-' + par.lstrip('0')), eff, t)
+        else:
+            keep(('C', insee), eff, t)
+            vs = fl(r.get('VALEUR FORFAITAIRE STATIONNEMENT'))
+            ab = fl(r.get('Abris de jardin'))
+            if vs: keep(('V', insee), eff, vs)
+            if ab: keep(('A', insee), eff, ab)
+    del txt
+    meta['ta_zones'] = dict(zones)
+    nc = ns = 0; per = defaultdict(int)
+    for k, (eff, v) in best.items():
+        if k[0] == 'C': out[dep(k[1])].setdefault(k[1], {}).setdefault('ta', {})['c'] = v; nc += 1
+        elif k[0] == 'V': out[dep(k[1])].setdefault(k[1], {}).setdefault('ta', {})['v'] = v
+        elif k[0] == 'A': out[dep(k[1])].setdefault(k[1], {}).setdefault('ta', {})['a'] = v
+        elif k[0] == 'S':
+            if per[k[1]] >= 4000: continue
+            per[k[1]] += 1; ns += 1
+            out[dep(k[1])].setdefault(k[1], {}).setdefault('ta', {}).setdefault('s', {})[k[2]] = v
+        elif k[0] in ('D', 'R'):
+            d0 = k[1] if not k[1].startswith('97') else k[1]
+            if d0 in ('20',): continue
+            out[d0].setdefault('_dep', {})['td' if k[0] == 'D' else 'tr'] = v
+    meta['ta_communes'] = nc; meta['ta_parcelles'] = ns
+    meta['ta_departements'] = sorted(d for d, o in out.items() if '_dep' in o and 'td' in o['_dep'])
+except Exception as e:
+    note('taxe aménagement ' + repr(e)[:400])
+
 if meta['prix_communes'] < 20000 or meta['montagne_communes'] < 3000:
     sys.exit('données incomplètes : fichiers non écrits')
 os.makedirs('data/communes', exist_ok=True)
