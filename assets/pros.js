@@ -159,7 +159,7 @@
         err.textContent = ''; var b = $('pf-submit'); b.disabled = true;
         (existing ? sb.from('pros').update(row).eq('user_id', u.id).select().single() : sb.from('pros').insert(row).select().single()).then(function(r){
           b.disabled = false;
-          if (r.error){ err.textContent = 'L\'enregistrement a échoué. Vérifiez les champs et réessayez.'; return; }
+          if (r.error){ var em = String(r.error.message || '') + (r.error.details ? ' · ' + r.error.details : ''); err.textContent = 'L\'enregistrement a échoué. ' + (/description/i.test(em) ? 'La présentation dépasse 500 caractères.' : /telephone/i.test(em) ? 'Le numéro de téléphone n\'est pas valide.' : /site/i.test(em) ? 'L\'adresse du site n\'est pas valide.' : /departement/i.test(em) ? 'Un des départements choisis n\'est pas accepté.' : 'Réessayez dans un instant.') + ' (détail : ' + em.slice(0, 160) + ')'; try { console.error('pros', r.error); } catch (x) {} return; }
           existing = r.data; b.textContent = 'Mettre à jour ma fiche'; $('pf-view').hidden = false; recoInit(existing);
           $('pf-ok').hidden = false; $('pf-ok').scrollIntoView({ block: 'center' });
         });
