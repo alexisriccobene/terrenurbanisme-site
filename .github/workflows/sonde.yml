@@ -11,6 +11,9 @@ on:
 jobs:
   s:
     runs-on: ubuntu-latest
+    env:
+      URLS: ${{ inputs.urls }}
+      N: ${{ inputs.n }}
     steps:
       - run: |
-          for u in ${{ inputs.urls }}; do echo "===== $u"; curl -sSL -m 60 -A "TerrenUrbanisme/1.0" "$u" | head -c ${{ inputs.n }}; echo; done
+          for u in $URLS; do echo "===== $u"; curl -sSL -m 60 -A "TerrenUrbanisme/1.0" "$u" 2>&1 | head -c "$N"; echo; done
