@@ -20,7 +20,7 @@ jobs:
       - uses: actions/checkout@v4
         with: { sparse-checkout: README.md }
       - run: |
-          set -e
+          set -x
           [[ "$P" =~ ^[0-9AB]{5}:[0-9A-Z]{1,2}:[0-9]{1,4}$ ]] || exit 1
           IFS=: read I S N <<< "$P"
           mkdir -p /tmp/out; ln -s /tmp/out out
@@ -37,4 +37,4 @@ jobs:
           rm out/data.json
           git config user.name "TerrenUrbanisme tests"; git config user.email "contact@terrenurbanisme.com"
           git fetch origin tests-rapports || true
-          rm out; git checkout --orphan tests-rapports; git rm -rqf . ; mv /tmp/out "$I-$S-$N"; git add "$I-$S-$N"; git commit -qm "Test $P"; git push -f origin tests-rapports
+          rm out; git checkout --orphan tests-rapports; git rm -rqf . || true; mv /tmp/out "$I-$S-$N"; git add "$I-$S-$N"; git commit -qm "Test $P"; git push -f origin tests-rapports
