@@ -17,11 +17,13 @@ jobs:
       REF: nmoigruxnhsidrhqtzid
       P: ${{ github.event.inputs.parcelle }}
     steps:
+      - uses: actions/checkout@v4
+        with: { sparse-checkout: README.md }
       - run: |
           set -e
           [[ "$P" =~ ^[0-9AB]{5}:[0-9A-Z]{1,2}:[0-9]{1,4}$ ]] || exit 1
           IFS=: read I S N <<< "$P"
-          mkdir out
+          mkdir -p /tmp/out; ln -s /tmp/out out
           curl -sS -m 300 -X POST -H "x-tu-admin: $KEY" "https://$REF.supabase.co/functions/v1/stripe-webhook?insee=$I&section=$S&numero=$N&format=json" -o out/data.json || true
           python3 - <<'PY'
           import json
@@ -35,4 +37,4 @@ jobs:
           rm out/data.json
           git config user.name "TerrenUrbanisme tests"; git config user.email "contact@terrenurbanisme.com"
           git fetch origin tests-rapports || true
-          git checkout --orphan tests-rapports; git rm -rqf . ; mv out "$I-$S-$N"; git add "$I-$S-$N"; git commit -qm "Test $P"; git push -f origin tests-rapports
+          rm out; git checkout --orphan tests-rapports; git rm -rqf . ; mv /tmp/out "$I-$S-$N"; git add "$I-$S-$N"; git commit -qm "Test $P"; git push -f origin tests-rapports
