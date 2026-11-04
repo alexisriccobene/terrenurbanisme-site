@@ -152,18 +152,21 @@ try:
             for i, h in enumerate(H):
                 if re.search(p, h, re.I): return i
         return None
-    ci = col(r'insee'); cs = col(r'nom.*service', r'libell.*service', r'^service'); cc = col(r'collectivit', r'nom.*entit', r'organis')
-    cm = col(r'mode.*gestion', r'gestion'); co = col(r'nom.*op[ée]rateur', r'op[ée]rateur', r'd[ée]l[ée]gataire', r'exploitant')
-    meta['eau_index'] = [ci, cs, cc, cm, co]
+    ci = col(r'code insee'); cc = col(r"nom de la collectivit. de l.entit"); cm = col(r'type du mode de gestion'); co = col(r"nom de l.op[ée]rateur"); cd = col(r'^distribution$')
+    meta['eau_index'] = [ci, cc, cm, co, cd]
     ne = 0
     for r in rows[hi + 1:]:
         if ci is None or ci >= len(r): continue
         c = r[ci].strip().upper()
-        if c.isdigit() and len(c) == 4: c = '0' + c
+        if c.endswith('.0'): c = c[:-2]
+        if c.isdigit(): c = c.zfill(5)
         if not INSEE.match(c): continue
-        g = lambda j: (r[j].strip() if j is not None and j < len(r) else '')
-        e = {k: v for k, v in (('s', g(cs)), ('c', g(cc)), ('m', g(cm)), ('o', g(co))) if v}
-        if e: out[dep(c)].setdefault(c, {})['eau'] = e; ne += 1
+        g = lambda j: (r[j].strip() if j is not None and j < len(r) and r[j].strip() not in ('-', 'None') else '')
+        if cd is not None and g(cd) and g(cd).lower() != 'oui' and 'eau' in out[dep(c)].get(c, {}): continue
+        e = {k: v for k, v in (('c', g(cc)), ('m', g(cm)), ('o', g(co))) if v}
+        if e and (cd is None or g(cd).lower() == 'oui' or 'eau' not in out[dep(c)].get(c, {})):
+            if 'eau' not in out[dep(c)].get(c, {}): ne += 1
+            out[dep(c)].setdefault(c, {})['eau'] = e
     meta['eau_communes'] = ne
 except Exception as e:
     note('eau potable ' + repr(e)[:400])
