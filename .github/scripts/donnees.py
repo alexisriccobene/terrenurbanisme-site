@@ -124,6 +124,50 @@ try:
 except Exception as e:
     note('taxe aménagement ' + repr(e)[:400])
 
+# 4. Service public d'eau potable de chaque commune (SISPEA, Office français de la biodiversité)
+import zipfile
+try:
+    zraw = None
+    for an in range(datetime.date.today().year, 2019, -1):
+        try:
+            zraw = get(f'http://www.services.eaufrance.fr/documents/serviceMembers/CompositionCommunaleServices_AEP_{an}.zip')
+            if zraw[:2] == b'PK': meta['eau_annee'] = an; break
+        except Exception: zraw = None
+    zf = zipfile.ZipFile(io.BytesIO(zraw)); nm = zf.namelist()[0]; meta['eau_fichier'] = zf.namelist()
+    data = zf.read(nm)
+    if nm.lower().endswith(('.xlsx', '.xls')):
+        wb = openpyxl.load_workbook(io.BytesIO(data), read_only=True, data_only=True); ws = wb.worksheets[0]
+        rows = [[('' if v is None else str(v).strip()) for v in r] for r in ws.iter_rows(values_only=True)]
+    else:
+        t = None
+        for enc in ('utf-8-sig', 'cp1252', 'latin-1'):
+            try: t = data.decode(enc); break
+            except Exception: pass
+        sp = ';' if t[:3000].count(';') > t[:3000].count(',') else ','
+        rows = list(csv.reader(io.StringIO(t), delimiter=sp))
+    hi = next(i for i, r in enumerate(rows[:15]) if any(re.search(r'insee', c, re.I) for c in r))
+    H = [h.strip() for h in rows[hi]]; meta['eau_colonnes'] = H; meta['eau_exemple'] = rows[hi + 1:hi + 3]
+    def col(*pats):
+        for p in pats:
+            for i, h in enumerate(H):
+                if re.search(p, h, re.I): return i
+        return None
+    ci = col(r'insee'); cs = col(r'nom.*service', r'libell.*service', r'^service'); cc = col(r'collectivit', r'nom.*entit', r'organis')
+    cm = col(r'mode.*gestion', r'gestion'); co = col(r'nom.*op[ée]rateur', r'op[ée]rateur', r'd[ée]l[ée]gataire', r'exploitant')
+    meta['eau_index'] = [ci, cs, cc, cm, co]
+    ne = 0
+    for r in rows[hi + 1:]:
+        if ci is None or ci >= len(r): continue
+        c = r[ci].strip().upper()
+        if c.isdigit() and len(c) == 4: c = '0' + c
+        if not INSEE.match(c): continue
+        g = lambda j: (r[j].strip() if j is not None and j < len(r) else '')
+        e = {k: v for k, v in (('s', g(cs)), ('c', g(cc)), ('m', g(cm)), ('o', g(co))) if v}
+        if e: out[dep(c)].setdefault(c, {})['eau'] = e; ne += 1
+    meta['eau_communes'] = ne
+except Exception as e:
+    note('eau potable ' + repr(e)[:400])
+
 if meta['prix_communes'] < 20000 or meta['montagne_communes'] < 3000:
     sys.exit('données incomplètes : fichiers non écrits')
 os.makedirs('data/communes', exist_ok=True)
