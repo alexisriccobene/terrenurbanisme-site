@@ -41,6 +41,13 @@
         location.href = '/merci.html?session_id=' + encodeURIComponent(r.data.session) + '&credit=1';
       });
     },
+    /* Abonnement mairie : communes couvertes pour ce compte (null sinon) */
+    mairie: function(){
+      if (!sb) return Promise.resolve(null);
+      if (Auth._mairie) return Auth._mairie;
+      Auth._mairie = Auth.user().then(function(u){ if (!u) return null; return sb.functions.invoke('stripe-webhook', { body: { action: 'mairie' } }).then(function(r){ return r.data && r.data.mairie ? r.data : null; }); }).catch(function(){ Auth._mairie = null; return null; });
+      return Auth._mairie;
+    },
     relance: function(session){
       if (!sb) return Promise.resolve();
       return sb.functions.invoke('stripe-webhook', { body: { action: 'relance', session: session || '' } }).catch(function(){});

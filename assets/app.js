@@ -387,8 +387,12 @@
       if (!r.checked) return; kind = r.value; offerEl.querySelector('.v-offer-u').textContent = OFF[kind].u; offerEl.querySelector('.v-offer-t').textContent = 'Prix total ' + OFF[kind].t;
       offerEl.querySelector('.v-offer-top span').textContent = '/ rapport'; BTN = btnTxt(); if (!credits){ label = BTN; setAll(label); }
     }); });
-    if (A && A.ready) A.account().then(function(c){
+    var inclus = false;
+    if (A && A.ready) Promise.all([A.account(), A.mairie ? A.mairie() : null]).then(function(v){
+      var c = v[0], mr = v[1];
       credits = c ? c.total : 0;
+      if (mr && mr.insee.indexOf(parcelRef.insee) >= 0){ inclus = true; label = 'Générer le rapport complet · inclus dans l\'abonnement de ' + mr.mairie; setAll(label); if (offerEl) offerEl.hidden = true; return; }
+      if (mr){ errs.forEach(function(e){ e.textContent = 'Votre abonnement couvre uniquement les parcelles de ' + mr.mairie + '. Cette parcelle est hors de la commune.'; }); }
       if (credits > 0){ label = 'Générer le rapport complet · 1 rapport (solde : ' + credits + ')'; setAll(label); if (offerEl) offerEl.hidden = true; }
     });
     buys.forEach(function(btn, k){ btn.addEventListener('click', function(){
@@ -396,12 +400,12 @@
       if (A && A.track) A.track('clic_rapport', parcelRef);
       errs.forEach(function(e){ e.textContent = ''; });
       if (!A || !A.ready){ err.textContent = 'Le paiement n\'est pas encore activé.'; return; }
-      setAll(credits > 0 ? 'Génération du rapport…' : 'Redirection vers le paiement…', true);
+      setAll(credits > 0 || inclus ? 'Génération du rapport…' : 'Redirection vers le paiement…', true);
       A.user().then(function(u){
         if (!u){ location.href = A.loginUrl('/?commune=' + encodeURIComponent(inseeOf(p) !== p.code_insee ? inseeOf(p) : p.nom_com) + '&section=' + encodeURIComponent(sec) + '&numero=' + encodeURIComponent(num)); return; }
-        return credits > 0 ? A.generate(parcelRef) : A.checkout(kind, parcelRef);
+        return credits > 0 || inclus ? A.generate(parcelRef) : A.checkout(kind, parcelRef);
       }).catch(function(e){
-        err.textContent = e && e.code === 'solde' ? 'Votre solde de rapports est épuisé.' : 'L\'opération n\'a pas pu aboutir. Réessayez dans un instant.';
+        err.textContent = e && e.code === 'hors_commune' ? 'Cette parcelle est hors de votre commune : elle n\'est pas couverte par l\'abonnement.' : e && e.code === 'solde' ? 'Votre solde de rapports est épuisé.' : 'L\'opération n\'a pas pu aboutir. Réessayez dans un instant.';
         if (e && e.code === 'solde') { credits = 0; label = BTN; if (offerEl) offerEl.hidden = false; }
         setAll(label, false);
       });
