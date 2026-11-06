@@ -543,3 +543,25 @@ footer .social{display:flex;gap:10px;margin-top:18px}footer .social a{display:in
 .tool-cta.lead .btn{background:#fff;color:var(--t)}
 .home-ta{display:flex;flex-wrap:wrap;gap:18px;align-items:center;justify-content:space-between;border:1px solid var(--ligne);border-radius:var(--r);padding:22px 24px;background:var(--surface)}
 .home-ta h2{margin:0 0 6px}.home-ta p{margin:0;max-width:60ch}
+/* Simulateur taxe d'aménagement */
+.tool-k{display:block}
+.ta-opt{display:flex;justify-content:space-between;gap:12px;align-items:baseline}
+.ta-opt span{color:var(--muet);font-size:14px}
+.ta-rates{border:1px solid var(--ligne);border-radius:var(--r);padding:14px 16px;margin:0 0 14px;background:var(--soft)}
+.ta-r{display:flex;justify-content:space-between;gap:12px;padding:6px 0;border-bottom:1px solid var(--ligne)}
+.ta-r:last-of-type{border-bottom:0}
+.ta-r b{font-variant-numeric:tabular-nums}
+.ta-rates .fine{margin:8px 0 0}
+.ta-res{padding:26px 26px 22px}
+.ta-head{display:flex;flex-direction:column;gap:4px;margin-bottom:14px}
+.ta-head .tool-big{margin:0}
+.ta-sub{color:var(--muet);font-size:15px}
+.ta-res .tool-tab td{padding:10px 0;vertical-align:top}
+.ta-res .tool-tab td small{display:block;color:var(--muet);font-size:13px;margin-top:2px}
+.ta-decl{display:flex;flex-wrap:wrap;gap:14px;align-items:center;justify-content:space-between;border:1px solid var(--ligne);background:var(--surface);border-radius:var(--r);padding:16px 18px;margin:18px 0 14px}
+.ta-decl div{flex:1 1 280px;min-width:0}.ta-decl p{margin:4px 0 0;font-size:15px}
+.btn.ghost{background:transparent;color:var(--t);border:1.5px solid var(--t)}
+.ta-res .tool-cta.lead{margin:16px 0 0}
+.ta-res table.tool-tab{width:100%;max-width:none;display:table}
+.ta-res table.tool-tab td:first-child{width:70%}
+.ta-res .fine{text-align:left}

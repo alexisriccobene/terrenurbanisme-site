@@ -68,34 +68,31 @@
   /* ---------- Calculateur : taxe d'aménagement (valeurs 2026) ---------- */
   var tx = $('calc-ta');
   if (tx){
-    var V = { horsIdf: 892, idf: 1011, piscine: 251, place: 2928 };
-    var idfSel = $('ta-idf'), regRow = $('ta-reg-row');
-    var sync = function(){ regRow.hidden = idfSel.value !== 'oui'; };
-    idfSel.addEventListener('change', sync); sync();
-    // Commune : les taux votés (DGFiP) sont chargés depuis nos données communales
-    var IDF = ['75','77','78','91','92','93','94','95'], com = $('ta-com'), lst = $('ta-com-list'), inf = $('ta-com-info'), tmr, choix = null;
+    var V = { horsIdf: 892, idf: 1011, piscine: 251 };
+    var IDF = ['75','77','78','91','92','93','94','95'], com = $('ta-com'), lst = $('ta-com-list'), box = $('ta-rates'), man = $('ta-manual'), tmr, choix = null, auto = null;
     var fr = function(n){ return String(Math.round(n * 100) / 100).replace('.', ','); };
     var pick = function(c){
-      choix = c; com.value = c.nom + ' (' + c.code + ')'; lst.hidden = true; lst.innerHTML = '';
-      var dep = c.code.slice(0, 2) === '97' ? c.code.slice(0, 3) : c.code.slice(0, 2);
-      idfSel.value = IDF.indexOf(dep) >= 0 ? 'oui' : 'non'; sync();
-      inf.textContent = 'Recherche des taux votés…';
+      choix = c; auto = null; com.value = c.nom + ' (' + ((c.codesPostaux || [])[0] || c.code) + ')'; lst.hidden = true; lst.innerHTML = '';
+      var dep = c.code.slice(0, 2) === '97' ? c.code.slice(0, 3) : c.code.slice(0, 2), idf = IDF.indexOf(dep) >= 0;
+      $('ta-idf').value = idf ? 'oui' : 'non';
+      box.hidden = false; man.hidden = true; box.innerHTML = '<p class="fine">Recherche des taux votés…</p>';
       fetch('/data/communes/' + dep + '.json').then(function(r){ return r.json(); }).then(function(all){
-        var t = (all[c.code] || {}).ta || {}, d = all._dep || {}, msg = [];
-        if (t.c != null){ $('ta-tc').value = fr(t.c); msg.push('taux communal ' + fr(t.c) + ' %'); } else msg.push('aucun taux communal publié : vérifiez en mairie');
-        if (d.td != null){ $('ta-td').value = fr(d.td); msg.push('taux départemental ' + fr(d.td) + ' %'); }
-        if (d.tr != null && IDF.indexOf(dep) >= 0){ $('ta-tr').value = fr(d.tr); }
-        if (t.s && Object.keys(t.s).length) msg.push('certains secteurs ont un taux différent : le rapport de votre parcelle applique le bon');
-        inf.textContent = 'Taux appliqués : ' + msg.join(' · ') + '.';
-      }).catch(function(){ inf.textContent = 'Taux de la commune indisponibles : saisissez-les ci-dessous.'; });
+        var t = (all[c.code] || {}).ta || {}, d = all._dep || {};
+        if (t.c == null || d.td == null){ box.hidden = true; man.hidden = false; return; }
+        auto = { tc: t.c, td: d.td, tr: idf ? (d.tr != null ? d.tr : 1) : 0, idf: idf, sect: t.s && Object.keys(t.s).length };
+        box.innerHTML = '<div class="ta-r"><span>Taux communal</span><b>' + fr(auto.tc) + ' %</b></div><div class="ta-r"><span>Taux départemental</span><b>' + fr(auto.td) + ' %</b></div>' +
+          (idf ? '<div class="ta-r"><span>Taux régional (Île-de-France)</span><b>' + fr(auto.tr) + ' %</b></div>' : '') +
+          '<div class="ta-r"><span>Valeur forfaitaire 2026</span><b>' + (idf ? V.idf : V.horsIdf).toLocaleString('fr-FR') + ' € / m²</b></div>' +
+          '<p class="fine">Taux votés par ' + c.nom + ' et son département, issus du fichier national de la DGFiP.' + (auto.sect ? ' Certains secteurs de la commune ont un taux différent : le rapport de votre parcelle applique le bon.' : '') + '</p>';
+      }).catch(function(){ box.hidden = true; man.hidden = false; });
     };
     if (com){
       com.addEventListener('input', function(){
-        clearTimeout(tmr); choix = null; var q = com.value.trim(); if (q.length < 2){ lst.hidden = true; return; }
+        clearTimeout(tmr); choix = null; auto = null; box.hidden = true; man.hidden = true; var q = com.value.trim(); if (q.length < 2){ lst.hidden = true; return; }
         tmr = setTimeout(function(){
-          var u = /^\d[\dAB]\d{3}$/i.test(q) ? 'https://geo.api.gouv.fr/communes?code=' + q.toUpperCase() : 'https://geo.api.gouv.fr/communes?nom=' + encodeURIComponent(q) + '&boost=population&limit=6';
-          fetch(u + (u.indexOf('?') > 0 ? '&' : '?') + 'fields=nom,code,codesPostaux').then(function(r){ return r.json(); }).then(function(L){
-            lst.innerHTML = ''; (L || []).slice(0, 6).forEach(function(c){ var b = document.createElement('button'); b.type = 'button'; b.className = 'ta-opt'; b.textContent = c.nom + ' (' + ((c.codesPostaux || [])[0] || c.code) + ')'; b.addEventListener('click', function(){ pick(c); }); lst.appendChild(b); });
+          var u = /^\d{5}$/.test(q) ? 'https://geo.api.gouv.fr/communes?codePostal=' + q : /^\d[\dAB]\d{3}$/i.test(q) ? 'https://geo.api.gouv.fr/communes?code=' + q.toUpperCase() : 'https://geo.api.gouv.fr/communes?nom=' + encodeURIComponent(q) + '&boost=population&limit=6';
+          fetch(u + '&fields=nom,code,codesPostaux,departement').then(function(r){ return r.json(); }).then(function(L){
+            lst.innerHTML = ''; (L || []).slice(0, 6).forEach(function(c){ var b = document.createElement('button'); b.type = 'button'; b.className = 'ta-opt'; b.innerHTML = '<b></b><span></span>'; b.firstChild.textContent = c.nom; b.lastChild.textContent = ((c.codesPostaux || [])[0] || '') + (c.departement ? ' · ' + c.departement.nom : ''); b.addEventListener('click', function(){ pick(c); }); lst.appendChild(b); });
             lst.hidden = !lst.children.length;
           }).catch(function(){});
         }, 250);
@@ -103,30 +100,29 @@
     }
     tx.addEventListener('submit', function(e){
       e.preventDefault();
-      var s = num('ta-surf'), rp = $('ta-rp').value === 'oui', idf = idfSel.value === 'oui', pis = num('ta-pis'), pl = Math.floor(num('ta-places'));
-      var tc = num('ta-tc') / 100, td = num('ta-td') / 100, tr = idf ? num('ta-tr') / 100 : 0, taux = tc + td + tr;
-      var out = $('ta-out');
-      if (!s && !pis && !pl){ out.hidden = false; out.innerHTML = '<p class="err">Indiquez au moins une surface, une piscine ou des places de stationnement.</p>'; return; }
-      if (!taux){ out.hidden = false; out.innerHTML = '<p class="err">Indiquez les taux de votre commune et de votre département.</p>'; return; }
-      var v = idf ? V.idf : V.horsIdf;
+      var out = $('ta-out'); out.hidden = false;
+      if (!choix){ out.innerHTML = '<p class="err">Choisissez d\'abord votre commune dans la liste.</p>'; com.focus(); return; }
+      var s = num('ta-surf'), rp = $('ta-rp').value === 'oui', pis = num('ta-pis');
+      if (!s && !pis){ out.innerHTML = '<p class="err">Indiquez une surface à construire ou une surface de piscine.</p>'; return; }
+      var idf = $('ta-idf').value === 'oui', tc, td, tr;
+      if (auto){ tc = auto.tc / 100; td = auto.td / 100; tr = auto.tr / 100; } else { tc = num('ta-tc') / 100; td = num('ta-td') / 100; tr = idf ? 0.01 : 0; }
+      var taux = tc + td + tr, v = idf ? V.idf : V.horsIdf;
       var abat = rp ? Math.min(s, 100) : 0, plein = s - abat;
-      var baseSurf = abat * v * 0.5 + plein * v, basePis = pis * V.piscine, basePl = pl * V.place;
-      var base = baseSurf + basePis + basePl, total = base * taux;
-      var part = function(t){ return eur(base * t); };
-      out.hidden = false;
-      out.innerHTML = '<div class="tool-res cond"><span class="tool-k">Taxe d\'aménagement estimée</span><b class="tool-big">' + eur(total) + '</b>' +
+      var baseSurf = abat * v * 0.5 + plein * v, basePis = pis * V.piscine, base = baseSurf + basePis, total = base * taux;
+      var part = function(t){ return eur(base * t); }, pc = function(t){ return fr(t * 100) + ' %'; };
+      out.innerHTML = '<div class="tool-res ta-res"><div class="ta-head"><span class="tool-k">Taxe d\'aménagement estimée · ' + choix.nom + '</span><b class="tool-big">' + eur(total) + '</b>' +
+        (total > 1500 ? '<span class="ta-sub">payable en deux fois, soit deux échéances d\'environ ' + eur(total / 2) + '</span>' : '<span class="ta-sub">payable en une seule fois</span>') + '</div>' +
         '<table class="tool-tab"><tbody>' +
-        (s ? '<tr><td>Surface taxable : ' + s.toLocaleString('fr-FR') + ' m² × ' + v.toLocaleString('fr-FR') + ' €' + (rp ? ' (abattement de 50 % sur les ' + abat + ' premiers m²)' : '') + '</td><td>' + eur(baseSurf) + '</td></tr>' : '') +
+        (s ? '<tr><td>Construction : ' + s.toLocaleString('fr-FR') + ' m² × ' + v.toLocaleString('fr-FR') + ' €' + (rp ? '<small>abattement de 50 % sur les ' + abat + ' premiers m²</small>' : '') + '</td><td>' + eur(baseSurf) + '</td></tr>' : '') +
         (pis ? '<tr><td>Piscine : ' + pis.toLocaleString('fr-FR') + ' m² × ' + V.piscine + ' €</td><td>' + eur(basePis) + '</td></tr>' : '') +
-        (pl ? '<tr><td>Stationnement extérieur : ' + pl + ' place' + (pl > 1 ? 's' : '') + ' × ' + V.place.toLocaleString('fr-FR') + ' €</td><td>' + eur(basePl) + '</td></tr>' : '') +
-        '<tr class="tot"><td>Assiette totale</td><td>' + eur(base) + '</td></tr>' +
-        '<tr><td>Part communale (' + (tc * 100).toLocaleString('fr-FR') + ' %)</td><td>' + part(tc) + '</td></tr>' +
-        '<tr><td>Part départementale (' + (td * 100).toLocaleString('fr-FR') + ' %)</td><td>' + part(td) + '</td></tr>' +
-        (idf ? '<tr><td>Part régionale (' + (tr * 100).toLocaleString('fr-FR') + ' %)</td><td>' + part(tr) + '</td></tr>' : '') +
+        '<tr class="tot"><td>Base de calcul</td><td>' + eur(base) + '</td></tr>' +
+        '<tr><td>Part communale (' + pc(tc) + ')</td><td>' + part(tc) + '</td></tr>' +
+        '<tr><td>Part départementale (' + pc(td) + ')</td><td>' + part(td) + '</td></tr>' +
+        (tr ? '<tr><td>Part régionale (' + pc(tr) + ')</td><td>' + part(tr) + '</td></tr>' : '') +
         '<tr class="tot"><td>Total</td><td>' + eur(total) + '</td></tr></tbody></table>' +
-        '<p><strong>Quand payer :</strong> la taxe se déclare sur impots.gouv.fr dans les 90 jours suivant l\'achèvement des travaux. Au-delà de 1 500 €, elle est payée en deux fois.</p>' +
-        '<p class="fine">Estimation indicative avec les valeurs forfaitaires 2026 (' + V.horsIdf + ' €/m² hors Île-de-France, ' + V.idf.toLocaleString('fr-FR') + ' €/m² en Île-de-France, ' + V.piscine + ' €/m² de piscine, ' + V.place.toLocaleString('fr-FR') + ' € par place). La redevance d\'archéologie préventive peut s\'ajouter, et votre commune peut prévoir des exonérations (abris de jardin, résidences principales en prêt à taux zéro…). Le montant définitif figure sur l\'avis des impôts.</p>' +
-        '<div class="tool-cta lead"><span><strong>Et sur votre terrain ?</strong> Le rapport TerrenUrbanisme calcule la taxe exacte de votre parcelle, avec le taux de son secteur et la surface que le PLU vous autorise réellement à construire, ainsi que le raccordement à l\'électricité et à l\'eau, les risques et la valeur du terrain.</span><a class="btn" href="/#recherche">Vérifier mon terrain' + (choix ? ' à ' + choix.nom : '') + '</a></div></div>';
+        '<div class="ta-decl"><div><strong>Quand et comment la déclarer ?</strong><p>Dans les 90 jours suivant l\'achèvement des travaux, sur votre espace particulier impots.gouv.fr, rubrique « Biens immobiliers ».</p></div><a class="btn ghost" href="https://www.impots.gouv.fr/accueil" target="_blank" rel="noopener">Déclarer sur impots.gouv.fr</a></div>' +
+        '<p class="fine">Estimation indicative avec les valeurs forfaitaires 2026. La redevance d\'archéologie préventive (0,4 %) peut s\'ajouter, et la commune peut prévoir des exonérations (abris de jardin, prêt à taux zéro…). Le montant définitif figure sur l\'avis des impôts.</p>' +
+        '<div class="tool-cta lead"><span><strong>Et sur votre terrain ?</strong> Le rapport TerrenUrbanisme calcule la taxe exacte de votre parcelle, avec la surface que le PLU vous autorise réellement à construire, le raccordement à l\'électricité et à l\'eau, les risques et la valeur du terrain.</span><a class="btn" href="/#recherche">Vérifier mon terrain à ' + choix.nom + '</a></div></div>';
       out.scrollIntoView({ behavior: 'smooth', block: 'start' });
     });
   }
