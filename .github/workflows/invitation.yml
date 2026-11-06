@@ -1,0 +1,35 @@
+name: Lien d'essai offert
+on:
+  workflow_dispatch:
+    inputs:
+      credits: { description: "Rapports offerts par compte", default: "3" }
+      uses: { description: "Nombre de comptes", default: "10" }
+      days: { description: "Validité (jours)", default: "60" }
+      note: { description: "Note interne", default: "" }
+permissions:
+  contents: write
+jobs:
+  invite:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+      - name: Créer le lien
+        env:
+          KEY: ${{ secrets.TU_ADMIN_KEY }}
+          C: ${{ inputs.credits }}
+          U: ${{ inputs.uses }}
+          D: ${{ inputs.days }}
+          N: ${{ inputs.note }}
+        run: |
+          set -euo pipefail
+          Q=$(python3 -c "import os,urllib.parse as u; print(u.urlencode({'invite':'1','credits':os.environ['C'],'uses':os.environ['U'],'days':os.environ['D'],'note':os.environ['N']}))")
+          curl -sf -X POST "https://nmoigruxnhsidrhqtzid.supabase.co/functions/v1/stripe-webhook?$Q" -H "x-tu-admin: ${KEY}" > out.html
+          L=$(grep -o 'https://[^"]*essai.html?code=[A-Za-z0-9-]*' out.html | head -1)
+          [ -n "$L" ] || { echo "aucun lien"; exit 1; }
+          echo "::add-mask::$L"
+          printf '%s' "$L" | openssl pkeyutl -encrypt -pubin -inkey .github/invite/pub.pem | base64 -w0 > lien.b64
+          git fetch -q origin tests-rapports && git checkout -q tests-rapports
+          mkdir -p invitations && cp lien.b64 "invitations/lien-$(date -u +%Y%m%d-%H%M%S).b64"
+          git config user.name bot; git config user.email bot@users.noreply.github.com
+          git add invitations && git commit -qm "Lien d'essai [skip ci]" && git push -q origin tests-rapports
