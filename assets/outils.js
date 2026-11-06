@@ -72,6 +72,35 @@
     var idfSel = $('ta-idf'), regRow = $('ta-reg-row');
     var sync = function(){ regRow.hidden = idfSel.value !== 'oui'; };
     idfSel.addEventListener('change', sync); sync();
+    // Commune : les taux votés (DGFiP) sont chargés depuis nos données communales
+    var IDF = ['75','77','78','91','92','93','94','95'], com = $('ta-com'), lst = $('ta-com-list'), inf = $('ta-com-info'), tmr, choix = null;
+    var fr = function(n){ return String(Math.round(n * 100) / 100).replace('.', ','); };
+    var pick = function(c){
+      choix = c; com.value = c.nom + ' (' + c.code + ')'; lst.hidden = true; lst.innerHTML = '';
+      var dep = c.code.slice(0, 2) === '97' ? c.code.slice(0, 3) : c.code.slice(0, 2);
+      idfSel.value = IDF.indexOf(dep) >= 0 ? 'oui' : 'non'; sync();
+      inf.textContent = 'Recherche des taux votés…';
+      fetch('/data/communes/' + dep + '.json').then(function(r){ return r.json(); }).then(function(all){
+        var t = (all[c.code] || {}).ta || {}, d = all._dep || {}, msg = [];
+        if (t.c != null){ $('ta-tc').value = fr(t.c); msg.push('taux communal ' + fr(t.c) + ' %'); } else msg.push('aucun taux communal publié : vérifiez en mairie');
+        if (d.td != null){ $('ta-td').value = fr(d.td); msg.push('taux départemental ' + fr(d.td) + ' %'); }
+        if (d.tr != null && IDF.indexOf(dep) >= 0){ $('ta-tr').value = fr(d.tr); }
+        if (t.s && Object.keys(t.s).length) msg.push('certains secteurs ont un taux différent : le rapport de votre parcelle applique le bon');
+        inf.textContent = 'Taux appliqués : ' + msg.join(' · ') + '.';
+      }).catch(function(){ inf.textContent = 'Taux de la commune indisponibles : saisissez-les ci-dessous.'; });
+    };
+    if (com){
+      com.addEventListener('input', function(){
+        clearTimeout(tmr); choix = null; var q = com.value.trim(); if (q.length < 2){ lst.hidden = true; return; }
+        tmr = setTimeout(function(){
+          var u = /^\d[\dAB]\d{3}$/i.test(q) ? 'https://geo.api.gouv.fr/communes?code=' + q.toUpperCase() : 'https://geo.api.gouv.fr/communes?nom=' + encodeURIComponent(q) + '&boost=population&limit=6';
+          fetch(u + (u.indexOf('?') > 0 ? '&' : '?') + 'fields=nom,code,codesPostaux').then(function(r){ return r.json(); }).then(function(L){
+            lst.innerHTML = ''; (L || []).slice(0, 6).forEach(function(c){ var b = document.createElement('button'); b.type = 'button'; b.className = 'ta-opt'; b.textContent = c.nom + ' (' + ((c.codesPostaux || [])[0] || c.code) + ')'; b.addEventListener('click', function(){ pick(c); }); lst.appendChild(b); });
+            lst.hidden = !lst.children.length;
+          }).catch(function(){});
+        }, 250);
+      });
+    }
     tx.addEventListener('submit', function(e){
       e.preventDefault();
       var s = num('ta-surf'), rp = $('ta-rp').value === 'oui', idf = idfSel.value === 'oui', pis = num('ta-pis'), pl = Math.floor(num('ta-places'));
@@ -97,7 +126,7 @@
         '<tr class="tot"><td>Total</td><td>' + eur(total) + '</td></tr></tbody></table>' +
         '<p><strong>Quand payer :</strong> la taxe se déclare sur impots.gouv.fr dans les 90 jours suivant l\'achèvement des travaux. Au-delà de 1 500 €, elle est payée en deux fois.</p>' +
         '<p class="fine">Estimation indicative avec les valeurs forfaitaires 2026 (' + V.horsIdf + ' €/m² hors Île-de-France, ' + V.idf.toLocaleString('fr-FR') + ' €/m² en Île-de-France, ' + V.piscine + ' €/m² de piscine, ' + V.place.toLocaleString('fr-FR') + ' € par place). La redevance d\'archéologie préventive peut s\'ajouter, et votre commune peut prévoir des exonérations (abris de jardin, résidences principales en prêt à taux zéro…). Le montant définitif figure sur l\'avis des impôts.</p>' +
-        '<div class="tool-cta"><span>La surface que vous pourrez réellement construire dépend du PLU : emprise au sol, hauteur, reculs. Le rapport TerrenUrbanisme l\'estime pour votre parcelle.</span>' + CTA + '</div></div>';
+        '<div class="tool-cta lead"><span><strong>Et sur votre terrain ?</strong> Le rapport TerrenUrbanisme calcule la taxe exacte de votre parcelle, avec le taux de son secteur et la surface que le PLU vous autorise réellement à construire, ainsi que le raccordement à l\'électricité et à l\'eau, les risques et la valeur du terrain.</span><a class="btn" href="/#recherche">Vérifier mon terrain' + (choix ? ' à ' + choix.nom : '') + '</a></div></div>';
       out.scrollIntoView({ behavior: 'smooth', block: 'start' });
     });
   }
