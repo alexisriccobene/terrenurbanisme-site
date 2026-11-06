@@ -1,57 +1,25 @@
 {
  "page": "TerrenUrbanisme",
  "instagram": "17841411573365600",
- "controle": "2026-11-04T16:55+01:00",
- "story-2026-11-04 instagram": "erreur : Meta 400 /18068952575788435 : {\"error\":{\"message\":\"Unsupported get request. Object with ID '18068952575788435' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api\",\"",
- "story-2026-11-04 facebook": "erreur : Meta 400 /1113737514984954 : {\"error\":{\"message\":\"Unsupported get request. Object with ID '1113737514984954' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\/\\/developers.facebook.com\\/docs\\/graph-api\"",
- "li-2026-11-03 linkedin": "erreur : Meta 400 /urn:li:share:7523346865048698881 : {\"error\":{\"message\":\"Unsupported get request. Object with ID 'urn:li:share:7523346865048698881' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\/\\/developer",
- "story-2026-11-05 instagram": {
-  "id": "18128267221847485",
+ "controle": "2026-11-06T17:38+01:00",
+ "story-2026-11-06 instagram": "erreur : Meta 400 /17966980896207685 : {\"error\":{\"message\":\"Unsupported get request. Object with ID '17966980896207685' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api\",\"",
+ "story-2026-11-06 facebook": "erreur : Meta 400 /1104337449155961 : {\"error\":{\"message\":\"Unsupported get request. Object with ID '1104337449155961' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\/\\/developers.facebook.com\\/docs\\/graph-api\"",
+ "li-2026-11-05 linkedin": "erreur : Meta 400 /urn:li:share:7524084625279881216 : {\"error\":{\"message\":\"Unsupported get request. Object with ID 'urn:li:share:7524084625279881216' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\/\\/developer",
+ "story-2026-11-07 instagram": {
+  "id": "18157755985551161",
   "media_type": "IMAGE",
-  "permalink": "https://www.instagram.com/stories/terrenurbanisme/4022940184446704483",
-  "timestamp": "2026-11-04T11:31:06+0000"
+  "permalink": "https://www.instagram.com/stories/terrenurbanisme/4024393275313873365",
+  "timestamp": "2026-11-06T11:38:17+0000"
  },
- "story-2026-11-05 facebook": "erreur : Meta 400 /4691732891102311 : {\"error\":{\"message\":\"(#100) Tried accessing nonexisting field (id)\",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"A2GBvGMQCobA_owVSq4v1ah\"}}",
+ "story-2026-11-07 facebook": "erreur : Meta 400 /2922091888170181 : {\"error\":{\"message\":\"(#100) Tried accessing nonexisting field (id)\",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"A1ZiS1lbNuu_JltNSxGuBYX\"}}",
  "stories facebook de la page": [
   {
-   "post_id": "1472015014369808",
+   "post_id": "2922091888170181",
    "status": "published",
-   "creation_time": "1793807302",
+   "creation_time": "1793965103",
    "media_type": "photo",
-   "url": "https://facebook.com/stories/122107188999511191/UzpfSVNDOjE0NzIwMTUwMjQzNjk4MDc=/?view_single=1",
-   "media_id": "122113479051511191"
-  },
-  {
-   "post_id": "1893959685100617",
-   "status": "published",
-   "creation_time": "1793807294",
-   "media_type": "photo",
-   "url": "https://facebook.com/stories/122107188999511191/UzpfSVNDOjE4OTM5NTk2ODg0MzM5NTA=/?view_single=1",
-   "media_id": "122113478985511191"
-  },
-  {
-   "post_id": "1428479989463581",
-   "status": "published",
-   "creation_time": "1793807282",
-   "media_type": "photo",
-   "url": "https://facebook.com/stories/122107188999511191/UzpfSVNDOjE0Mjg0Nzk5OTI3OTY5MTQ=/?view_single=1",
-   "media_id": "122113478889511191"
-  },
-  {
-   "post_id": "1776054056945315",
-   "status": "published",
-   "creation_time": "1793807271",
-   "media_type": "photo",
-   "url": "https://facebook.com/stories/122107188999511191/UzpfSVNDOjE3NzYwNTQwNjAyNzg2NDg=/?view_single=1",
-   "media_id": "122113478811511191"
-  },
-  {
-   "post_id": "3321169654745914",
-   "status": "published",
-   "creation_time": "1793807243",
-   "media_type": "photo",
-   "url": "https://facebook.com/stories/122107188999511191/UzpfSVNDOjMzMjExNjk2NjE0MTI1ODA=/?view_single=1",
-   "media_id": "122113478547511191"
+   "url": "https://facebook.com/stories/122107188999511191/UzpfSVNDOjI5MjIwOTE4OTE1MDM1MTQ=/?view_single=1",
+   "media_id": "122114086653511191"
   }
  ],
  "linkedin": {
