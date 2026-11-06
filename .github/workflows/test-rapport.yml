@@ -11,6 +11,7 @@ on:
       tel: { description: "Téléphone", required: false, default: '' }
       mail: { description: "E-mail", required: false, default: '' }
       site: { description: "Site", required: false, default: '' }
+      leger: { description: "oui = version allégée", required: false, default: '' }
 permissions:
   contents: write
 jobs:
@@ -26,6 +27,7 @@ jobs:
       I_TEL: ${{ inputs.tel }}
       I_MAIL: ${{ inputs.mail }}
       I_SITE: ${{ inputs.site }}
+      I_LEGER: ${{ inputs.leger }}
     steps:
       - uses: actions/checkout@v4
         with: { sparse-checkout: README.md }
@@ -47,7 +49,7 @@ jobs:
             Q=$(I=$I S=$S N=$N python3 -c "import os,urllib.parse as u; e=os.environ; print(u.urlencode({'demo':'1','retour':'1','insee':e['I'],'section':e['S'],'numero':e['N'],'nom':e['I_NOM'],'tel':e['I_TEL'],'mail':e['I_MAIL'],'site':e['I_SITE'],'logo':e['I_LOGO']}))")
             curl -sS -m 420 -D out/entetes.txt -X POST -H "x-tu-admin: $KEY" "https://$REF.supabase.co/functions/v1/stripe-webhook?$Q" -o out/rapport.pdf || true
           else
-            curl -sS -m 420 -X POST "https://$REF.supabase.co/functions/v1/stripe-webhook?key=$KEY&insee=$I&section=$S&numero=$N" -o out/rapport.pdf || true
+            curl -sS -m 420 -X POST "https://$REF.supabase.co/functions/v1/stripe-webhook?key=$KEY&insee=$I&section=$S&numero=$N$([ "$I_LEGER" = oui ] && echo "&leger=1")" -o out/rapport.pdf || true
           fi
           rm out/data.json
           git config user.name "TerrenUrbanisme tests"; git config user.email "contact@terrenurbanisme.com"
