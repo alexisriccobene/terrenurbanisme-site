@@ -230,6 +230,7 @@
         });
       });
     }
+    if (window.ResizeObserver && !window.__rsObs && document.getElementById('bigmap')){ window.__rsObs = new ResizeObserver(function(){ if (big) big.invalidateSize(); }); window.__rsObs.observe(document.getElementById('bigmap')); }
     setTimeout(function(){ if (big) big.invalidateSize(); rsec.scrollIntoView({ behavior:'smooth', block:'start' }); }, 60);
   }
   function panelMsg(t, wait){

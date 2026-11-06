@@ -565,3 +565,7 @@ footer .social{display:flex;gap:10px;margin-top:18px}footer .social a{display:in
 .ta-res table.tool-tab{width:100%;max-width:none;display:table}
 .ta-res table.tool-tab td:first-child{width:70%}
 .ta-res .fine{text-align:left}
+/* Grande carte : hauteur fixe et collante, le panneau défile à côté (évite la zone vide sous la carte) */
+.rs{align-items:start}
+.rs-map{position:sticky;top:84px;height:calc(100vh - 110px);min-height:520px;max-height:860px}
+@media (max-width:980px){.rs-map{position:relative;top:auto;height:460px;min-height:0}}
