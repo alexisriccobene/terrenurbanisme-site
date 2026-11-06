@@ -96,6 +96,24 @@
     $('tab-adr').addEventListener('click', function(){ setMode('adr'); });
 
     bindCommuneInput($('com'), $('communes'));
+    /* Dès que la commune est choisie, la carte se centre dessus */
+    var lastGeo = '';
+    function geoCommune(){
+      var v = $('com').value.trim(); if (!v || v === lastGeo) return;
+      resolveCommune(v).then(function(code){
+        if (!code || v === lastGeo) return; lastGeo = v;
+        return getJSON(GEO+'/communes/'+code+'?fields=centre,contour').then(function(c){
+          var m = map || big; if (!m || !window.L) return;
+          try {
+            if (c.contour){ m.fitBounds(L.geoJSON(c.contour).getBounds(), { padding:[20,20], maxZoom:15 }); }
+            else if (c.centre){ m.setView([c.centre.coordinates[1], c.centre.coordinates[0]], 14); }
+            if (big && m !== big && c.centre) big.setView([c.centre.coordinates[1], c.centre.coordinates[0]], 14);
+          } catch(e){}
+        });
+      }).catch(function(){});
+    }
+    $('com').addEventListener('change', geoCommune);
+    $('com').addEventListener('input', function(){ var v = $('com').value.trim(); if (/\(\w{2,3}\)$/.test(v)) geoCommune(); });
 
     /* Autocomplétion d'adresse */
     var adr = $('adr'), list = $('adr-list'), timer = null, items = [], active = -1;
