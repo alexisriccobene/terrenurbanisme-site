@@ -39,7 +39,7 @@ jobs:
           import json
           try:
               d = json.load(open('out/data.json'))
-              s = {k: d.get(k) for k in ('pm', 'dpe', 'ta', 'elec')}; s['permis_near'] = (d.get('permis') or {}).get('near'); s['verdict'] = (d.get('verdict') or {}).get('key')
+              s = {k: d.get(k) for k in ('pm', 'dpe', 'ta', 'elec', 'opp')}; s['permis_near'] = (d.get('permis') or {}).get('near'); s['verdict'] = (d.get('verdict') or {}).get('key')
               json.dump(s, open('out/resume.json', 'w'), ensure_ascii=False, indent=1)
           except Exception as e: open('out/resume.json', 'w').write(repr(e) + open('out/data.json').read()[:2000])
           PY
