@@ -1,0 +1,19 @@
+name: sonde
+on:
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: URLs séparées par des espaces
+        required: true
+      n:
+        description: octets affichés
+        default: '1500'
+jobs:
+  s:
+    runs-on: ubuntu-latest
+    env:
+      URLS: ${{ inputs.urls }}
+      N: ${{ inputs.n }}
+    steps:
+      - run: |
+          for u in $URLS; do echo "===== $u"; curl -sSL -m 60 -A "TerrenUrbanisme/1.0" "$u" 2>&1 | head -c "$N"; echo; done

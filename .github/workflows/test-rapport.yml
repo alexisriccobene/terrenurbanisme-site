@@ -1,0 +1,57 @@
+name: Test d'un rapport
+# Outil interne : génère un rapport d'aperçu (PDF + données JSON) et le dépose sur la branche tests-rapports.
+on:
+  workflow_dispatch:
+    inputs:
+      parcelle:
+        description: "insee:section:numero"
+        required: true
+      logo: { description: "Logo de l'agence (rapport à sa marque)", required: false, default: '' }
+      nom: { description: "Nom de l'agence", required: false, default: '' }
+      tel: { description: "Téléphone", required: false, default: '' }
+      mail: { description: "E-mail", required: false, default: '' }
+      site: { description: "Site", required: false, default: '' }
+      leger: { description: "oui = version allégée", required: false, default: '' }
+permissions:
+  contents: write
+jobs:
+  t:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      KEY: ${{ secrets.TU_ADMIN_KEY }}
+      REF: nmoigruxnhsidrhqtzid
+      P: ${{ github.event.inputs.parcelle }}
+      I_LOGO: ${{ inputs.logo }}
+      I_NOM: ${{ inputs.nom }}
+      I_TEL: ${{ inputs.tel }}
+      I_MAIL: ${{ inputs.mail }}
+      I_SITE: ${{ inputs.site }}
+      I_LEGER: ${{ inputs.leger }}
+    steps:
+      - uses: actions/checkout@v4
+        with: { sparse-checkout: README.md }
+      - run: |
+          set -x
+          [[ "$P" =~ ^[0-9AB]{5}:[0-9A-Z]{1,2}:[0-9]{1,4}$ ]] || exit 1
+          IFS=: read I S N <<< "$P"
+          mkdir -p /tmp/out; ln -s /tmp/out out
+          curl -sS -m 300 -X POST -H "x-tu-admin: $KEY" "https://$REF.supabase.co/functions/v1/stripe-webhook?insee=$I&section=$S&numero=$N&format=json" -o out/data.json || true
+          python3 - <<'PY'
+          import json
+          try:
+              d = json.load(open('out/data.json'))
+              s = {k: d.get(k) for k in ('pm', 'dpe', 'ta', 'elec', 'opp')}; s['permis_near'] = (d.get('permis') or {}).get('near'); s['verdict'] = (d.get('verdict') or {}).get('key')
+              json.dump(s, open('out/resume.json', 'w'), ensure_ascii=False, indent=1)
+          except Exception as e: open('out/resume.json', 'w').write(repr(e) + open('out/data.json').read()[:2000])
+          PY
+          if [ -n "$I_LOGO" ]; then
+            Q=$(I=$I S=$S N=$N python3 -c "import os,urllib.parse as u; e=os.environ; print(u.urlencode({'demo':'1','retour':'1','insee':e['I'],'section':e['S'],'numero':e['N'],'nom':e['I_NOM'],'tel':e['I_TEL'],'mail':e['I_MAIL'],'site':e['I_SITE'],'logo':e['I_LOGO']}))")
+            curl -sS -m 420 -D out/entetes.txt -X POST -H "x-tu-admin: $KEY" "https://$REF.supabase.co/functions/v1/stripe-webhook?$Q" -o out/rapport.pdf || true
+          else
+            curl -sS -m 420 -X POST "https://$REF.supabase.co/functions/v1/stripe-webhook?key=$KEY&insee=$I&section=$S&numero=$N$([ "$I_LEGER" = oui ] && echo "&leger=1")" -o out/rapport.pdf || true
+          fi
+          rm out/data.json
+          git config user.name "TerrenUrbanisme tests"; git config user.email "contact@terrenurbanisme.com"
+          git fetch origin tests-rapports || true
+          rm out; git checkout --orphan tests-rapports; git rm -rqf . || true; git sparse-checkout disable || true; mv /tmp/out "$I-$S-$N"; git add "$I-$S-$N"; git commit -qm "Test $P"; git push -f origin tests-rapports

@@ -1,0 +1,30 @@
+{
+ "page": "TerrenUrbanisme",
+ "instagram": "17841411573365600",
+ "controle": "2026-11-06T17:38+01:00",
+ "story-2026-11-06 instagram": "erreur : Meta 400 /17966980896207685 : {\"error\":{\"message\":\"Unsupported get request. Object with ID '17966980896207685' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api\",\"",
+ "story-2026-11-06 facebook": "erreur : Meta 400 /1104337449155961 : {\"error\":{\"message\":\"Unsupported get request. Object with ID '1104337449155961' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\/\\/developers.facebook.com\\/docs\\/graph-api\"",
+ "li-2026-11-05 linkedin": "erreur : Meta 400 /urn:li:share:7524084625279881216 : {\"error\":{\"message\":\"Unsupported get request. Object with ID 'urn:li:share:7524084625279881216' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\/\\/developer",
+ "story-2026-11-07 instagram": {
+  "id": "18157755985551161",
+  "media_type": "IMAGE",
+  "permalink": "https://www.instagram.com/stories/terrenurbanisme/4024393275313873365",
+  "timestamp": "2026-11-06T11:38:17+0000"
+ },
+ "story-2026-11-07 facebook": "erreur : Meta 400 /2922091888170181 : {\"error\":{\"message\":\"(#100) Tried accessing nonexisting field (id)\",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"A1ZiS1lbNuu_JltNSxGuBYX\"}}",
+ "stories facebook de la page": [
+  {
+   "post_id": "2922091888170181",
+   "status": "published",
+   "creation_time": "1793965103",
+   "media_type": "photo",
+   "url": "https://facebook.com/stories/122107188999511191/UzpfSVNDOjI5MjIwOTE4OTE1MDM1MTQ=/?view_single=1",
+   "media_id": "122114086653511191"
+  }
+ ],
+ "linkedin": {
+  "page": "TerrenUrbanisme",
+  "version_api": "202609",
+  "jeton_renouvele": false
+ }
+}

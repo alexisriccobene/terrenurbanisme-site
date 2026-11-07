@@ -1,0 +1,36 @@
+name: Audit de couverture des communes
+on:
+  workflow_dispatch:
+    inputs:
+      mode: { description: "dep ou echantillon", required: true, default: "dep" }
+      deps: { description: "codes départements séparés par des espaces", required: true, default: "2A 2B" }
+      n: { description: "communes par département (échantillon)", required: false, default: "3" }
+      etiquette: { description: "clé tu_debug", required: true, default: "audit_corse" }
+permissions:
+  contents: read
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    env:
+      SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
+      REF: nmoigruxnhsidrhqtzid
+      MODE: ${{ github.event.inputs.mode }}
+      DEPS: ${{ github.event.inputs.deps }}
+      N: ${{ github.event.inputs.n }}
+      ETQ: ${{ github.event.inputs.etiquette }}
+    steps:
+      - uses: actions/checkout@v4
+        with: { sparse-checkout: .github/scripts }
+      - run: python3 .github/scripts/audit_communes.py
+      - name: Enregistrer
+        run: |
+          python3 - <<'PY'
+          import json, os, re, urllib.request
+          res = json.load(open('audit.json')); etq = re.sub(r'[^a-z0-9_]', '', os.environ['ETQ'].lower())[:40] or 'audit'
+          for i in range(0, len(res), 400):
+              q = "insert into public.tu_debug (k, v) values ('" + etq + "', $tu$" + json.dumps(res[i:i+400], ensure_ascii=False).replace('$tu$', '') + "$tu$::jsonb)"
+              rq = urllib.request.Request(f"https://api.supabase.com/v1/projects/{os.environ['REF']}/database/query", data=json.dumps({'query': q}).encode(), method='POST',
+                  headers={'Authorization': 'Bearer ' + os.environ['SUPABASE_ACCESS_TOKEN'], 'Content-Type': 'application/json'})
+              print(urllib.request.urlopen(rq, timeout=60).status)
+          PY

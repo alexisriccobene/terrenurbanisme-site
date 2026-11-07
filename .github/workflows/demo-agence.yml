@@ -1,0 +1,38 @@
+name: Rapport démo agence
+# Génère un rapport complet à la marque d'une agence prospectée ; le PDF est envoyé par e-mail au gérant.
+on:
+  workflow_dispatch:
+    inputs:
+      insee: { description: "Code INSEE de la commune", required: true }
+      section: { description: "Section cadastrale", required: true }
+      numero: { description: "Numéro de parcelle", required: true }
+      commune: { description: "Nom de la commune", required: false }
+      nom: { description: "Nom de l'agence", required: true }
+      tel: { description: "Téléphone de l'agence", required: false }
+      mail: { description: "E-mail de l'agence", required: false }
+      site: { description: "Site de l'agence", required: false }
+      logo: { description: "Adresse du logo (PNG ou JPEG)", required: true }
+permissions:
+  contents: read
+jobs:
+  demo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Lancer le rapport démo
+        env:
+          KEY: ${{ secrets.TU_ADMIN_KEY }}
+          I_INSEE: ${{ inputs.insee }}
+          I_SECTION: ${{ inputs.section }}
+          I_NUMERO: ${{ inputs.numero }}
+          I_COMMUNE: ${{ inputs.commune }}
+          I_NOM: ${{ inputs.nom }}
+          I_TEL: ${{ inputs.tel }}
+          I_MAIL: ${{ inputs.mail }}
+          I_SITE: ${{ inputs.site }}
+          I_LOGO: ${{ inputs.logo }}
+        run: |
+          Q=$(python3 -c "import os,urllib.parse as u; print(u.urlencode({'demo':'1','insee':os.environ['I_INSEE'],'section':os.environ['I_SECTION'],'numero':os.environ['I_NUMERO'],'commune':os.environ.get('I_COMMUNE',''),'nom':os.environ['I_NOM'],'tel':os.environ.get('I_TEL',''),'mail':os.environ.get('I_MAIL',''),'site':os.environ.get('I_SITE',''),'logo':os.environ['I_LOGO']}))")
+          code=$(curl -s -o out.txt -w "%{http_code}" -X POST "https://nmoigruxnhsidrhqtzid.supabase.co/functions/v1/stripe-webhook?$Q" -H "x-tu-admin: ${KEY}")
+          echo "HTTP $code : $(head -c 200 out.txt)"
+          [ "$code" = "200" ]

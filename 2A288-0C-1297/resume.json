@@ -1,0 +1,354 @@
+{
+ "pm": {
+  "checked": true,
+  "radius": 280,
+  "own": null,
+  "voisins": [],
+  "secteur": [
+   {
+    "nom": "COMMUNE DE SOTTA",
+    "forme": "COM",
+    "siren": "212002885",
+    "n": 34,
+    "surf": 20238,
+    "dmin": 67
+   },
+   {
+    "nom": "LES HAUTS DE SOTTA",
+    "forme": "SCI",
+    "siren": "832244545",
+    "n": 1,
+    "surf": 5629,
+    "dmin": 97
+   },
+   {
+    "nom": "BALESI AUTOMOBILE",
+    "forme": "SAS",
+    "siren": "300586369",
+    "n": 2,
+    "surf": 3378,
+    "dmin": 164
+   },
+   {
+    "nom": "CASA SANTA",
+    "forme": "SARL",
+    "siren": "848524294",
+    "n": 7,
+    "surf": 2481,
+    "dmin": 209
+   },
+   {
+    "nom": "MARE A MARE",
+    "forme": "SARL",
+    "siren": "912487477",
+    "n": 3,
+    "surf": 1819,
+    "dmin": 45
+   },
+   {
+    "nom": "O MADDALE",
+    "forme": "SCI",
+    "siren": "823404983",
+    "n": 5,
+    "surf": 1613,
+    "dmin": 123
+   },
+   {
+    "nom": "CIUCCIARELLA",
+    "forme": "SCI",
+    "siren": "888940640",
+    "n": 1,
+    "surf": 1500,
+    "dmin": 263
+   },
+   {
+    "nom": "FRATEDDI E SUREDDA PANDOLFI",
+    "forme": "SCI",
+    "siren": "929870004",
+    "n": 4,
+    "surf": 1174,
+    "dmin": 84
+   }
+  ],
+  "total": 61
+ },
+ "dpe": [],
+ "ta": {
+  "tc": 5,
+  "sector": false,
+  "td": 2.5,
+  "tr": null,
+  "idf": false,
+  "vf": 892,
+  "piscine": 251,
+  "parking": 2928,
+  "abris": null,
+  "year": 2026
+ },
+ "elec": {
+  "checked": true,
+  "radius": 334,
+  "bt": {
+   "d": 0,
+   "pos": "souterraine"
+  },
+  "aer": 86,
+  "sout": 0,
+  "poste": {
+   "d": 10,
+   "nom": "AGUJA"
+  },
+  "grd": "EDF Corse"
+ },
+ "opp": {
+  "soc": [],
+  "pass": [],
+  "ter": {
+   "list": [
+    {
+     "prop": "",
+     "ref": "D 5",
+     "surf": 19443,
+     "bati": 0,
+     "cov": 0,
+     "zone": "AU2a",
+     "d": 251
+    },
+    {
+     "prop": "",
+     "ref": "D 6",
+     "surf": 13766,
+     "bati": 101,
+     "cov": 1,
+     "zone": "AU2a",
+     "d": 164
+    },
+    {
+     "prop": "LES HAUTS DE SOTTA (SCI)",
+     "ref": "C 717",
+     "surf": 5817,
+     "bati": 299,
+     "cov": 5,
+     "zone": "AU2",
+     "d": 92
+    },
+    {
+     "prop": "",
+     "ref": "D 3",
+     "surf": 5169,
+     "bati": 0,
+     "cov": 0,
+     "zone": "AU2a",
+     "d": 271
+    },
+    {
+     "prop": "",
+     "ref": "D 37",
+     "surf": 4751,
+     "bati": 316,
+     "cov": 7,
+     "zone": "AU2a",
+     "d": 306
+    },
+    {
+     "prop": "",
+     "ref": "C 1111",
+     "surf": 4315,
+     "bati": 0,
+     "cov": 0,
+     "zone": "AU2",
+     "d": 174
+    },
+    {
+     "prop": "",
+     "ref": "D 55",
+     "surf": 3646,
+     "bati": 265,
+     "cov": 7,
+     "zone": "U2",
+     "d": 164
+    },
+    {
+     "prop": "",
+     "ref": "C 1023",
+     "surf": 3041,
+     "bati": 0,
+     "cov": 0,
+     "zone": "U2",
+     "d": 258
+    }
+   ]
+  }
+ },
+ "permis_near": [
+  {
+   "type": "PC",
+   "date": "04/01/2023",
+   "sec": "C",
+   "num": "717",
+   "lgt": 33,
+   "surf": 2086,
+   "terrain": 5629,
+   "lieu": "SOTTA VILLAGE",
+   "piscine": false,
+   "d": 92
+  },
+  {
+   "type": "PC",
+   "date": "04/10/2022",
+   "sec": "C",
+   "num": "1270",
+   "lgt": 1,
+   "surf": 144,
+   "terrain": 961,
+   "lieu": "VIA SAN MARTINU",
+   "piscine": false,
+   "d": 373
+  },
+  {
+   "type": "PC",
+   "date": "05/08/2022",
+   "sec": "C",
+   "num": "1300",
+   "lgt": 1,
+   "surf": 135,
+   "terrain": 1000,
+   "lieu": "POLLA",
+   "piscine": false,
+   "d": 185
+  },
+  {
+   "type": "PC",
+   "date": "12/07/2022",
+   "sec": "C",
+   "num": "1330",
+   "lgt": 1,
+   "surf": 115,
+   "terrain": 715,
+   "lieu": "STRADA DI VALLE DI CASA",
+   "piscine": false,
+   "d": 359
+  },
+  {
+   "type": "PC",
+   "date": "28/01/2021",
+   "sec": "D",
+   "num": "37",
+   "lgt": 1,
+   "surf": 148,
+   "terrain": 8524,
+   "lieu": "SOTTA VILLAGE",
+   "piscine": false,
+   "d": 306
+  },
+  {
+   "type": "PC",
+   "date": "28/03/2020",
+   "sec": "D",
+   "num": "1000",
+   "lgt": 1,
+   "surf": 123,
+   "terrain": 1341,
+   "lieu": "SOTTA VILLAGE",
+   "piscine": false,
+   "d": 446
+  },
+  {
+   "type": "PC",
+   "date": "16/06/2017",
+   "sec": "D",
+   "num": "886",
+   "lgt": 1,
+   "surf": 136,
+   "terrain": 0,
+   "lieu": "FONTANA DI SOTTA",
+   "piscine": false,
+   "d": 321
+  },
+  {
+   "type": "PC",
+   "date": "23/05/2017",
+   "sec": "D",
+   "num": "943",
+   "lgt": 1,
+   "surf": 111,
+   "terrain": 0,
+   "lieu": "NIVALELLA",
+   "piscine": false,
+   "d": 365
+  },
+  {
+   "type": "PC",
+   "date": "23/12/2016",
+   "sec": "D",
+   "num": "945",
+   "lgt": 1,
+   "surf": 193,
+   "terrain": 1461,
+   "lieu": "NIVALELLA",
+   "piscine": false,
+   "d": 403
+  },
+  {
+   "type": "PC",
+   "date": "13/09/2016",
+   "sec": "D",
+   "num": "982",
+   "lgt": 1,
+   "surf": 117,
+   "terrain": 1350,
+   "lieu": "LE HAMEAU DE CAVALLO BIANC",
+   "piscine": false,
+   "d": 495
+  },
+  {
+   "type": "PC",
+   "date": "19/11/2015",
+   "sec": "D",
+   "num": "950",
+   "lgt": 1,
+   "surf": 151,
+   "terrain": 1381,
+   "lieu": "NIVALELLA",
+   "piscine": false,
+   "d": 364
+  },
+  {
+   "type": "PC",
+   "date": "30/10/2013",
+   "sec": "C",
+   "num": "668",
+   "lgt": 1,
+   "surf": 82,
+   "terrain": 0,
+   "lieu": "VALLE DI CASA",
+   "piscine": false,
+   "d": 389
+  },
+  {
+   "type": "PC",
+   "date": "12/02/2013",
+   "sec": "C",
+   "num": "638",
+   "lgt": 1,
+   "surf": 92,
+   "terrain": 1215,
+   "lieu": "PADULELLA",
+   "piscine": false,
+   "d": 332
+  },
+  {
+   "type": "PC",
+   "date": "29/01/2013",
+   "sec": "C",
+   "num": "661",
+   "lgt": 1,
+   "surf": 227,
+   "terrain": 3295,
+   "lieu": "VALLE DI CASA",
+   "piscine": false,
+   "d": 388
+  }
+ ],
+ "verdict": "ok"
+}
