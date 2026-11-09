@@ -1,25 +1,36 @@
 {
  "page": "TerrenUrbanisme",
  "instagram": "17841411573365600",
- "controle": "2026-11-06T17:38+01:00",
- "story-2026-11-06 instagram": "erreur : Meta 400 /17966980896207685 : {\"error\":{\"message\":\"Unsupported get request. Object with ID '17966980896207685' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api\",\"",
- "story-2026-11-06 facebook": "erreur : Meta 400 /1104337449155961 : {\"error\":{\"message\":\"Unsupported get request. Object with ID '1104337449155961' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\/\\/developers.facebook.com\\/docs\\/graph-api\"",
- "li-2026-11-05 linkedin": "erreur : Meta 400 /urn:li:share:7524084625279881216 : {\"error\":{\"message\":\"Unsupported get request. Object with ID 'urn:li:share:7524084625279881216' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\/\\/developer",
- "story-2026-11-07 instagram": {
-  "id": "18157755985551161",
+ "controle": "2026-11-09T11:27+01:00",
+ "tax-story-1 instagram": "erreur : Meta 400 /18131453308698202 : {\"error\":{\"message\":\"Unsupported get request. Object with ID '18131453308698202' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api\",\"",
+ "tax-story-1 facebook": "erreur : Meta 400 /2151025942158380 : {\"error\":{\"message\":\"Unsupported get request. Object with ID '2151025942158380' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\/\\/developers.facebook.com\\/docs\\/graph-api\"",
+ "nov-m04 instagram": {
+  "id": "18114530492080659",
   "media_type": "IMAGE",
-  "permalink": "https://www.instagram.com/stories/terrenurbanisme/4024393275313873365",
-  "timestamp": "2026-11-06T11:38:17+0000"
+  "permalink": "https://www.instagram.com/p/DfehRXvl02b/",
+  "timestamp": "2026-11-08T10:16:01+0000"
  },
- "story-2026-11-07 facebook": "erreur : Meta 400 /2922091888170181 : {\"error\":{\"message\":\"(#100) Tried accessing nonexisting field (id)\",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"A1ZiS1lbNuu_JltNSxGuBYX\"}}",
+ "nov-m04 facebook": {
+  "id": "1391519434046151_122114710107511191",
+  "created_time": "2026-11-08T10:16:05+0000",
+  "permalink_url": "https://www.facebook.com/122115000003511191/posts/122114710107511191"
+ },
+ "nov-m04 linkedin": "erreur : Meta 400 /urn:li:share:7525139091236159489 : {\"error\":{\"message\":\"Unsupported get request. Object with ID 'urn:li:share:7525139091236159489' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\/\\/developer",
+ "story-biens-1 instagram": {
+  "id": "17957767713273857",
+  "media_type": "IMAGE",
+  "permalink": "https://www.instagram.com/stories/terrenurbanisme/4025850737694686966",
+  "timestamp": "2026-11-08T11:53:51+0000"
+ },
+ "story-biens-1 facebook": "erreur : Meta 400 /1667249764800195 : {\"error\":{\"message\":\"(#100) Tried accessing nonexisting field (id)\",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"Ah90TnGWj0_1NLrzz-JjhlQ\"}}",
  "stories facebook de la page": [
   {
-   "post_id": "2922091888170181",
+   "post_id": "1667249764800195",
    "status": "published",
-   "creation_time": "1793965103",
+   "creation_time": "1794138836",
    "media_type": "photo",
-   "url": "https://facebook.com/stories/122107188999511191/UzpfSVNDOjI5MjIwOTE4OTE1MDM1MTQ=/?view_single=1",
-   "media_id": "122114086653511191"
+   "url": "https://facebook.com/stories/122107188999511191/UzpfSVNDOjE2NjcyNDk3NjgxMzM1Mjg=/?view_single=1",
+   "media_id": "122114737095511191"
   }
  ],
  "linkedin": {
