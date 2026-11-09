@@ -47,7 +47,7 @@ def publish_ig(ig, p):
     return api('POST', '/%s/media_publish' % ig, creation_id=c)['id']
 
 def publish_ig_reel(ig, p):
-    c = api('POST', '/%s/media' % ig, media_type='REELS', video_url=RAW + p['video'], caption=p['texte_instagram'], share_to_feed='true')['id']
+    c = api('POST', '/%s/media' % ig, media_type='REELS', video_url=RAW + p['video'], caption=p['texte_instagram'], share_to_feed='true', thumb_offset='200')['id']
     ig_wait(c, 90)
     return api('POST', '/%s/media_publish' % ig, creation_id=c)['id']
 
