@@ -6,7 +6,20 @@
   var GEO = 'https://geo.api.gouv.fr';
   function esc(s){ return String(s == null ? '' : s).replace(/[&<>"']/g, function(c){ return { '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[c]; }); }
   function norm(s){ return (s||'').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/[-']/g,' ').replace(/\s+/g,' ').trim(); }
-  function getJSON(url){ return fetch(url).then(function(r){ if (!r.ok) throw new Error('http '+r.status); return r.json(); }); }
+  /* Appels aux services publics : délai maximal et nouvelles tentatives automatiques (le cadastre de l'IGN répond parfois lentement ou par erreur) */
+  function getJSON(url, tries){
+    tries = tries == null ? 3 : tries;
+    var ctl = window.AbortController ? new AbortController() : null, tm = ctl ? setTimeout(function(){ ctl.abort(); }, 20000) : null;
+    return fetch(url, ctl ? { signal: ctl.signal } : undefined).then(function(r){
+      if (tm) clearTimeout(tm);
+      if (!r.ok){ var e = new Error('http '+r.status); e.retry = r.status >= 500 || r.status === 429; throw e; }
+      return r.json();
+    }).catch(function(e){
+      if (tm) clearTimeout(tm);
+      if (tries > 1 && (e.retry !== false) && !(e && e.user)) return new Promise(function(res){ setTimeout(res, 900 * (4 - tries)); }).then(function(){ return getJSON(url, tries - 1); });
+      throw e;
+    });
+  }
   function fmt(n){ return Number(n||0).toLocaleString('fr-FR'); }
   function slug(s){ return norm(s).replace(/ /g,'-'); }
 
