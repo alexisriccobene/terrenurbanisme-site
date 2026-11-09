@@ -26,8 +26,8 @@ def ig_id():
     if not r.get('instagram_business_account'): raise RuntimeError('aucun compte Instagram professionnel relié à la page ' + r.get('name', PAGE))
     return r['instagram_business_account']['id']
 
-def ig_wait(cid):
-    for _ in range(30):
+def ig_wait(cid, n=30):
+    for _ in range(n):
         s = api('GET', '/' + cid, fields='status_code').get('status_code')
         if s == 'FINISHED': return
         if s == 'ERROR': raise RuntimeError('Instagram a refusé un média')
@@ -45,6 +45,14 @@ def publish_ig(ig, p):
         c = api('POST', '/%s/media' % ig, media_type='CAROUSEL', children=','.join(kids), caption=p['texte_instagram'])['id']
     ig_wait(c)
     return api('POST', '/%s/media_publish' % ig, creation_id=c)['id']
+
+def publish_ig_reel(ig, p):
+    c = api('POST', '/%s/media' % ig, media_type='REELS', video_url=RAW + p['video'], caption=p['texte_instagram'], share_to_feed='true')['id']
+    ig_wait(c, 90)
+    return api('POST', '/%s/media_publish' % ig, creation_id=c)['id']
+
+def publish_fb_video(p):
+    return api('POST', '/%s/videos' % PAGE, file_url=RAW + p['video'], description=p['texte_facebook'])['id']
 
 def publish_ig_story(ig, p):
     c = api('POST', '/%s/media' % ig, image_url=RAW + p['images'][0], media_type='STORIES')['id']
@@ -221,13 +229,13 @@ for p in plan:
     if when > now: continue
     if (now - when).total_seconds() > 20 * 3600: continue  # filet de sécurité : au-delà de 20 h de retard, on ne publie plus
     d = done.setdefault(p['id'], {})
-    story = p.get('type') == 'story'
-    jobs = (('instagram', lambda: publish_ig_story(ig, p) if story else publish_ig(ig, p)),
-            ('facebook', lambda: publish_fb_story(p) if story else publish_fb(p)),
+    story = p.get('type') == 'story'; reel = p.get('type') == 'reel'
+    jobs = (('instagram', lambda: publish_ig_reel(ig, p) if reel else publish_ig_story(ig, p) if story else publish_ig(ig, p)),
+            ('facebook', lambda: publish_fb_video(p) if reel else publish_fb_story(p) if story else publish_fb(p)),
             ('linkedin', lambda: publish_li(p)))
     for net, fn in jobs:
         if net not in p.get('reseaux', ['instagram', 'facebook']) or d.get(net): continue
-        if net == 'linkedin' and (story or not LI_ON): continue
+        if net == 'linkedin' and (story or reel or not LI_ON): continue
         if d.get(net + '_echecs', 0) >= 2: continue  # deux échecs : on n'insiste pas (évite les alertes en boucle)
         try:
             d[net] = fn(); changed = True; print('::notice::%s publié sur %s (%s)' % (p['id'], net, d[net]))
