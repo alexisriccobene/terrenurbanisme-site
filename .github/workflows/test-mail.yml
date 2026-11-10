@@ -1,0 +1,19 @@
+name: test-mail
+# Envoie à contact@terrenurbanisme.com un exemplaire du mail « rapport prêt » avec le PDF en pièce jointe (vérification de l'envoi)
+on:
+  workflow_dispatch:
+    inputs:
+      path:
+        description: Chemin du PDF dans le stockage
+        required: true
+jobs:
+  t:
+    runs-on: ubuntu-latest
+    steps:
+      - env:
+          KEY: ${{ secrets.TU_ADMIN_KEY }}
+          P: ${{ inputs.path }}
+        run: |
+          B=$(python3 -c "import json,os; print(json.dumps({'to':'contact@terrenurbanisme.com','path':os.environ['P'],'file':'Rapport-test-piece-jointe.pdf','link':'https://terrenurbanisme.com/espace.html','ref':{'commune':'Sotta','section':'B','numero':'842'},'verdict':{'key':'cond','word':'Sous conditions'}}))")
+          code=$(curl -s -o out.txt -w '%{http_code}' -X POST "https://nmoigruxnhsidrhqtzid.supabase.co/functions/v1/stripe-webhook?mail=1" -H "x-tu-admin: ${KEY}" -H 'content-type: application/json' -d "$B")
+          echo "HTTP $code"; cat out.txt
