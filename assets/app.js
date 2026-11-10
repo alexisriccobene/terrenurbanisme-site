@@ -126,7 +126,21 @@
       }).catch(function(){});
     }
     $('com').addEventListener('change', geoCommune);
-    $('com').addEventListener('input', function(){ var v = $('com').value.trim(); if (/\(\w{2,3}\)$/.test(v)) geoCommune(); });
+    /* Centrage dès la saisie : choix dans la liste (« Sotta (2A) ») tout de suite, ou nom complet tapé sans choisir (« Sotta ») après une courte pause */
+    var geoT = null;
+    $('com').addEventListener('input', function(){
+      clearTimeout(geoT); var v = $('com').value.trim();
+      if (/\(\w{2,3}\)$/.test(v)) { geoCommune(); return; }
+      if (v.length < 3) return;
+      geoT = setTimeout(function(){
+        if ($('com').value.trim() !== v) return;
+        searchCommunes(v, 8).then(function(l){
+          var ex = l.filter(function(c){ return norm(c.nom) === norm(v); });
+          if (ex.length === 1 && $('com').value.trim() === v){ comMap[norm(v)] = ex[0].code; geoCommune(); }
+        }).catch(function(){});
+      }, 450);
+    });
+    $('com').addEventListener('keydown', function(e){ if (e.key === 'Enter' || e.key === 'Tab') geoCommune(); });
 
     /* Autocomplétion d'adresse */
     var adr = $('adr'), list = $('adr-list'), timer = null, items = [], active = -1;
