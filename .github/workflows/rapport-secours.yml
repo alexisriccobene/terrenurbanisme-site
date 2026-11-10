@@ -1,0 +1,56 @@
+name: Rapport de secours
+# Génère un rapport sur un serveur GitHub quand la fonction a échoué deux fois (limite de calcul).
+# Déclenché par la fonction (repository_dispatch « rapport_secours ») ou à la main avec l'identifiant de commande.
+on:
+  repository_dispatch:
+    types: [rapport_secours]
+  workflow_dispatch:
+    inputs:
+      session:
+        description: "Identifiant de la commande (stripe_session_id)"
+        required: true
+permissions:
+  contents: read
+concurrency:
+  group: rapport-secours-${{ github.event.client_payload.session || github.event.inputs.session }}
+jobs:
+  secours:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
+      KEY: ${{ secrets.TU_ADMIN_KEY }}
+      REF: nmoigruxnhsidrhqtzid
+      S: ${{ github.event.client_payload.session || github.event.inputs.session }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: .github/deploy
+      - uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+      - name: Préparer
+        run: |
+          set -euo pipefail
+          case "$S" in *[!A-Za-z0-9_-]*|"") echo "::error::identifiant invalide"; exit 1;; esac
+          K=$(curl -sf -X POST "https://api.supabase.com/v1/projects/$REF/database/query" -H "Authorization: Bearer $SUPABASE_ACCESS_TOKEN" -H "Content-Type: application/json" \
+            -d '{"query":"select decrypted_secret as k from vault.decrypted_secrets where name = '\''tu_deploy_key'\'' limit 1"}' | jq -r '.[0].k')
+          [ ${#K} -eq 64 ] || { echo "::error::clé introuvable"; exit 1; }
+          printf '%s' "$K" > "$RUNNER_TEMP/k"
+          mkdir -p fn && openssl enc -d -aes-256-cbc -pbkdf2 -iter 200000 -in .github/deploy/stripe-webhook.ts.enc -out fn/index.ts -pass "file:$RUNNER_TEMP/k"; rm -f "$RUNNER_TEMP/k"
+          SR=$(curl -sf "https://api.supabase.com/v1/projects/$REF/api-keys?reveal=true" -H "Authorization: Bearer $SUPABASE_ACCESS_TOKEN" | jq -r '.[] | select(.name=="service_role") | .api_key')
+          [ -n "$SR" ] && [ "$SR" != null ] || { echo "::error::clé de service introuvable"; exit 1; }
+          echo "::add-mask::$SR"; echo "SR=$SR" >> "$GITHUB_ENV"
+      - name: Générer et envoyer
+        env:
+          SUPABASE_URL: https://nmoigruxnhsidrhqtzid.supabase.co
+          SITE_URL: https://terrenurbanisme.com
+        run: |
+          set -uo pipefail
+          export SUPABASE_SERVICE_ROLE_KEY="$SR" ADMIN_KEY="$KEY"
+          deno run -A --no-check fn/index.ts > srv.log 2>&1 &
+          for i in $(seq 1 90); do curl -s -o /dev/null http://localhost:8000/ && break; sleep 2; done
+          code=$(curl -s -m 840 -o out.txt -w '%{http_code}' -X POST "http://localhost:8000/?regen=$S" -H "x-tu-admin: $KEY")
+          echo "HTTP $code"; head -c 300 out.txt; echo
+          grep -v "^\s*$" srv.log | tail -40
+          [ "$code" = "200" ] || exit 1
