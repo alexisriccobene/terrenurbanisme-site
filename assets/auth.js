@@ -221,7 +221,7 @@
       if (!u){ location.replace(Auth.loginUrl('/espace.html')); return; }
       // Mesure de la vente (Google Ads, Meta), envoyée une seule fois et seulement avec le consentement du visiteur
       if (sid && /^cs_/.test(sid) && window.TU_conversion){
-        var PRIX = { unit:19.9, pack2:29.8, pack3:38.7, pro:49, cabinet:129, pro_an:468, cabinet_an:1236 };
+        var PRIX = { unit:19.9, pack2:29.8, pack3:38.7, pro:55, cabinet:139, pro_an:550, cabinet_an:1390 };
         var once = true; try { once = !localStorage.getItem('tu_conv_' + sid); localStorage.setItem('tu_conv_' + sid, '1'); } catch (e) {}
         if (once) window.TU_conversion(PRIX[achat || qs.get('k') || 'unit'] || 19.9, sid);
       }

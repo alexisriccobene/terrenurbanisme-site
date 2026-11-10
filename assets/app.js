@@ -403,7 +403,7 @@
       '<ul class="v-found-list">' + found.map(function(f){ return '<li>' + OKI + '<div><strong>' + esc(f[1]) + '</strong><span>' + esc(f[2]) + '</span></div></li>'; }).join('') + '</ul>' +
       '<ul class="v-locked">' + locked.map(function(t){ return '<li>' + LOCK + '<span>' + esc(t) + '</span><i class="blur" aria-hidden="true">████████</i></li>'; }).join('') + '</ul>' +
       '<button type="button" class="v-cta buy">' + BTN + '</button>' +
-      '<p class="v-buy-note">Rapport PDF de 30 à 40 pages avec sommaire cliquable, envoyé par e-mail en quelques minutes · paiement sécurisé par Stripe<br><a href="/tarifs.html">Professionnels : abonnements dès 0,86 € le rapport</a> · <a href="/exemple.html">Voir un exemple</a></p><p class="v-buy-err" role="alert"></p>' +
+      '<p class="v-buy-note">Rapport PDF de 30 à 40 pages avec sommaire cliquable, envoyé par e-mail en quelques minutes · paiement sécurisé par Stripe<br><a href="/tarifs.html">Professionnels : abonnements dès 0,77 € le rapport</a> · <a href="/exemple.html">Voir un exemple</a></p><p class="v-buy-err" role="alert"></p>' +
       '<p class="v-disc">Information indicative, établie à partir des sources publiques consultées à la date de la recherche. Elle ne vaut ni certificat d\'urbanisme, ni autorisation, ni avis juridique : seule la mairie peut confirmer la constructibilité de la parcelle.</p>' +
       '<a class="v-owner" href="https://france-cadastre.fr/" target="_blank" rel="noopener">Connaître le propriétaire de cette parcelle <span>via France Cadastre ↗</span></a>';
     var parcelRef = { insee:inseeOf(p), commune:(inseeOf(p) !== p.code_insee ? arrLabel(p) : p.nom_com), section:sec, numero:num };
@@ -525,8 +525,8 @@
   try { if (localStorage.getItem('tu_bill') === 'a') billing = 'a'; } catch (e) {}
   // Prix TTC : mensuel, et annuel ramené au mois (payé en une fois)
   var SUB = {
-    pro:       { name: 'Agence',    m: 49,  a: 39,  n: 50 },
-    cabinet:   { name: 'Réseau',    m: 129, a: 103, n: 150 }
+    pro:       { name: 'Agence',    m: 55,  a: 550 / 12,  n: 50 },
+    cabinet:   { name: 'Réseau',    m: 139, a: 1390 / 12, n: 150 }
   };
   var UNIT = { unit: ['19,90 €', 'Paiement unique', 'Choisir · 1 rapport'], pack2: ['14,90 € <small>/ rapport</small>', 'Lot de 2 · 29,80 € au total · −25 %', 'Choisir · 2 rapports'], pack3: ['12,90 € <small>/ rapport</small>', 'Lot de 3 · 38,70 € au total · −35 %', 'Choisir · 3 rapports'] };
   var eur = function(v){ return (Math.round(v * 100) / 100).toLocaleString('fr-FR', { minimumFractionDigits: v % 1 ? 2 : 0, maximumFractionDigits: 2 }) + ' €'; };
