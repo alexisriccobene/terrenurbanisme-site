@@ -22,6 +22,8 @@ jobs:
       KEY: ${{ secrets.TU_ADMIN_KEY }}
       REF: nmoigruxnhsidrhqtzid
       S: ${{ github.event.client_payload.session || github.event.inputs.session }}
+      SR: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -38,10 +40,7 @@ jobs:
           [ ${#K} -eq 64 ] || { echo "::error::clé introuvable"; exit 1; }
           printf '%s' "$K" > "$RUNNER_TEMP/k"
           mkdir -p fn && openssl enc -d -aes-256-cbc -pbkdf2 -iter 200000 -in .github/deploy/stripe-webhook.ts.enc -out fn/index.ts -pass "file:$RUNNER_TEMP/k"; rm -f "$RUNNER_TEMP/k"
-          code=$(curl -s -o keys.json -w '%{http_code}' "https://api.supabase.com/v1/projects/$REF/api-keys?reveal=true" -H "Authorization: Bearer $SUPABASE_ACCESS_TOKEN"); echo "clés : HTTP $code"
-          SR=$(jq -r '[.[] | select(.name=="service_role" or .type=="secret") | .api_key][0] // empty' keys.json 2>/dev/null); rm -f keys.json
-          [ -n "$SR" ] && [ "$SR" != null ] || { echo "::error::clé de service introuvable"; exit 1; }
-          echo "::add-mask::$SR"; echo "SR=$SR" >> "$GITHUB_ENV"
+          [ -n "${SR:-}" ] || { echo "::error::secret SUPABASE_SERVICE_ROLE_KEY absent du dépôt"; exit 1; }
       - name: Générer et envoyer
         env:
           SUPABASE_URL: https://nmoigruxnhsidrhqtzid.supabase.co
