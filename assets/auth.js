@@ -22,7 +22,9 @@
     checkout: function(kind, parcel){
       if (!sb) return Promise.reject(new Error('off'));
       return Auth.user().then(function(u){
-        if (!u){ location.href = Auth.loginUrl(location.pathname + location.search); return new Promise(function(){}); }
+        // Rapport à l'unité ou lot : paiement sans compte (e-mail saisi sur la page de paiement) ; abonnement : compte nécessaire
+        var invite = !u && /^(unit|pack2|pack3)$/.test(kind);
+        if (!u && !invite){ location.href = Auth.loginUrl(location.pathname + location.search); return new Promise(function(){}); }
         var body = Object.assign({ kind: kind }, parcel || {});
         return sb.functions.invoke('create-checkout', { body: body }).then(function(r){
           if (r.error){ return (r.error.context && r.error.context.json ? r.error.context.json() : Promise.resolve({})).then(function(j){ var e = new Error(j && j.error || 'stripe'); e.code = j && j.error; throw e; }); }
@@ -45,7 +47,7 @@
     mairie: function(){
       if (!sb) return Promise.resolve(null);
       if (Auth._mairie) return Auth._mairie;
-      Auth._mairie = Auth.user().then(function(u){ if (!u) return null; return sb.functions.invoke('stripe-webhook', { body: { action: 'mairie' } }).then(function(r){ return r.data && r.data.mairie ? r.data : null; }); }).catch(function(){ Auth._mairie = null; return null; });
+      Auth._mairie = Auth.user().then(function(u){ if (!u) return null; return sb.functions.invoke('stripe-webhook', { body: { action: 'mairie' } }).then(function(r){ return r.data && (r.data.mairie || r.data.illimite) ? r.data : null; }); }).catch(function(){ Auth._mairie = null; return null; });
       return Auth._mairie;
     },
     relance: function(session){
@@ -110,6 +112,8 @@
     $('lf-sw-a').addEventListener('click', function(e){ e.preventDefault(); setMode(mode === 'login' ? 'signup' : 'login'); });
     $('lf-forgot').addEventListener('click', function(e){ e.preventDefault(); setMode('reset'); });
     if (recovery) setMode('nouveau');
+    else if (qs0.get('mode') === 'premier'){ setMode('reset'); $('lf-title').textContent = 'Créez votre mot de passe'; $('lf-lede').textContent = 'Indiquez l\'adresse e-mail utilisée pour votre achat : vous recevez un lien pour choisir votre mot de passe et retrouver vos rapports.'; }
+    else if (qs0.get('mode') === 'creer') setMode('signup');
     else Auth.user().then(function(u){ if (u) location.replace(redirect); });
     if (sb) sb.auth.onAuthStateChange(function(ev){ if (ev === 'PASSWORD_RECOVERY'){ recovery = true; setMode('nouveau'); } });
     /* Anti-robots Cloudflare Turnstile : invisible pour la plupart des visiteurs, case à cocher seulement en cas de doute */
@@ -265,13 +269,21 @@
   if (merci){
     var qs = new URLSearchParams(location.search), sid = qs.get('session_id'), achat = qs.get('achat'), tries = 0;
     Auth.user().then(function(u){
-      if (!u){ location.replace(Auth.loginUrl('/espace.html')); return; }
       // Mesure de la vente (Google Ads, Meta), envoyée une seule fois et seulement avec le consentement du visiteur
       if (sid && /^cs_/.test(sid) && window.TU_conversion){
         var PRIX = { unit:19.9, pack2:29.8, pack3:38.7, essentiel:29, pro:55, cabinet:139, essentiel_an:290, pro_an:550, cabinet_an:1390 };
         var once = true; try { once = !localStorage.getItem('tu_conv_' + sid); localStorage.setItem('tu_conv_' + sid, '1'); } catch (e) {}
         if (once) window.TU_conversion(PRIX[achat || qs.get('k') || 'unit'] || 19.9, sid);
       }
+      if (!u && qs.get('invite')){
+        // Achat sans compte : le rapport part par e-mail ; l'espace se crée ensuite, sans obligation
+        var h0 = document.querySelector('#merci h1'), l0 = document.querySelector('#merci .lede');
+        if (h0) h0.textContent = 'Merci, votre paiement est confirmé';
+        if (l0) l0.textContent = achat ? 'Vos rapports sont crédités sur votre adresse e-mail.' : 'Votre rapport est en préparation : il arrive par e-mail dans quelques minutes, à l\'adresse indiquée lors du paiement. Pensez à regarder dans les courriers indésirables.';
+        merci.innerHTML = '<div class="acct"><div><small>Pour retrouver vos rapports à tout moment</small><b style="font-size:18px">Créez votre mot de passe</b><span>Avec l\'adresse e-mail utilisée pour le paiement. Facultatif.</span></div><a class="btn" href="/connexion.html?mode=premier">Créer mon espace</a></div>';
+        return;
+      }
+      if (!u){ location.replace(Auth.loginUrl('/espace.html')); return; }
       if (achat){
         var h1 = document.querySelector('#merci h1'), lede = document.querySelector('#merci .lede');
         var abo = ['essentiel','pro','cabinet','essentiel_an','pro_an','cabinet_an'].indexOf(achat) >= 0;

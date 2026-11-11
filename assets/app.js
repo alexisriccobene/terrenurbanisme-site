@@ -485,7 +485,8 @@
     if (A && A.ready) Promise.all([A.account(), A.mairie ? A.mairie() : null]).then(function(v){
       var c = v[0], mr = v[1];
       credits = c ? c.total : 0;
-      if (mr && mr.insee.indexOf(parcelRef.insee) >= 0){ inclus = true; label = 'Générer le rapport complet · inclus dans l\'abonnement de ' + mr.mairie; setAll(label); if (offerEl) offerEl.hidden = true; return; }
+      if (mr && mr.illimite){ inclus = true; label = 'Générer le rapport complet · compte de démonstration'; setAll(label); if (offerEl) offerEl.hidden = true; return; }
+      if (mr && mr.insee && mr.insee.indexOf(parcelRef.insee) >= 0){ inclus = true; label = 'Générer le rapport complet · inclus dans l\'abonnement de ' + mr.mairie; setAll(label); if (offerEl) offerEl.hidden = true; return; }
       if (mr){ errs.forEach(function(e){ e.textContent = 'Votre abonnement couvre uniquement les parcelles de ' + mr.mairie + '. Cette parcelle est hors de la commune.'; }); }
       if (credits > 0){ label = 'Générer le rapport complet · 1 rapport (solde : ' + credits + ')'; setAll(label); if (offerEl) offerEl.hidden = true; }
     });
@@ -496,6 +497,7 @@
       if (!A || !A.ready){ err.textContent = 'Le paiement n\'est pas encore activé.'; return; }
       setAll(credits > 0 || inclus ? 'Génération du rapport…' : 'Redirection vers le paiement…', true);
       A.user().then(function(u){
+        if (!u) return A.checkout(kind, parcelRef); // paiement sans compte : l'e-mail est demandé sur la page de paiement
         if (!u){ location.href = A.loginUrl('/?commune=' + encodeURIComponent(inseeOf(p) !== p.code_insee ? inseeOf(p) : p.nom_com) + '&section=' + encodeURIComponent(sec) + '&numero=' + encodeURIComponent(num)); return; }
         return credits > 0 || inclus ? A.generate(parcelRef) : A.checkout(kind, parcelRef);
       }).catch(function(e){
