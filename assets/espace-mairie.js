@@ -27,6 +27,8 @@
   $('em-out').addEventListener('click', function () { delS(); location.reload(); });
   var V = null, ALL = [], seen = {}, first = true;
   var VW = { ok: ['ok', 'Constructible'], cond: ['cond', 'Sous conditions'], non: ['non', 'Non constructible'] };
+  var PL = { maison: 'Construire une maison', extension: 'Agrandir ou surélever', piscine: 'Piscine', annexe: 'Abri, garage ou annexe', division: 'Diviser le terrain', achat: 'Acheter ou vendre' };
+  function pj(r) { return r.projet ? (PL[r.projet] || r.projet) : ''; }
   function fd(s) { var d = new Date(s); return d.toLocaleDateString('fr-FR', { day: '2-digit', month: '2-digit' }) + ' ' + d.toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' }); }
   function per(r) {
     var p = $('em-per').value, d = new Date(r.date), n = new Date();
@@ -45,7 +47,7 @@
     tb.innerHTML = L.map(function (r) {
       var v = r.statut === 'error' ? ['wait', 'Incident'] : r.statut === 'pending' ? ['wait', 'En préparation'] : (VW[r.verdict] || ['wait', '–']);
       var id = r.date + r.section + r.numero, nw = !first && !seen[id]; seen[id] = 1;
-      return '<tr' + (nw ? ' class="em-new"' : '') + '><td>' + fd(r.date) + '</td><td><b>' + esc(r.section + ' ' + r.numero) + '</b>' + (r.exemple ? '<span class="em-ex">exemple</span>' : '') + '</td><td>' + esc(r.zone || '–') + '</td><td><span class="em-v ' + v[0] + '">' + v[1] + '</span></td><td>' + esc(r.projet || '–') + '</td>' +
+      return '<tr' + (nw ? ' class="em-new"' : '') + '><td>' + fd(r.date) + '</td><td><b>' + esc(r.section + ' ' + r.numero) + '</b>' + (r.exemple ? '<span class="em-ex">exemple</span>' : '') + '</td><td>' + esc(r.zone || '–') + '</td><td><span class="em-v ' + v[0] + '">' + v[1] + '</span></td><td>' + esc(pj(r) || '–') + '</td>' +
         (r.consent ? '<td>' + esc(r.nom || '') + '</td><td>' + esc(r.email || '') + (r.tel ? '<br><span class="em-mu">' + esc(r.tel) + '</span>' : '') + '</td>' : '<td class="em-mu">Non communiqué</td><td class="em-mu">Consentement non donné</td>') +
         '<td>' + (r.lien ? '<a href="' + esc(r.lien) + '" target="_blank" rel="noopener">Ouvrir</a>' : '<span class="em-mu">–</span>') + '</td></tr>';
     }).join('');
@@ -106,7 +108,7 @@
   $('em-exp').addEventListener('click', function () {
     var L = rows(), sep = ';', q = function (s) { s = String(s == null ? '' : s); return /[";\n]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s; };
     var out = ['Date;Commune;Section;Numéro;Zone;Verdict;Projet;Nom;E-mail;Téléphone;Consentement;Lien du rapport'];
-    L.forEach(function (r) { out.push([new Date(r.date).toLocaleString('fr-FR'), r.commune, r.section, r.numero, r.zone, (VW[r.verdict] || ['', ''])[1], r.projet, r.nom, r.email, r.tel, r.consent ? 'Oui' : 'Non', r.lien].map(q).join(sep)); });
+    L.forEach(function (r) { out.push([new Date(r.date).toLocaleString('fr-FR'), r.commune, r.section, r.numero, r.zone, (VW[r.verdict] || ['', ''])[1], pj(r), r.nom, r.email, r.tel, r.consent ? 'Oui' : 'Non', r.lien].map(q).join(sep)); });
     var blob = new Blob(['﻿' + out.join('\r\n')], { type: 'text/csv;charset=utf-8' }), a = document.createElement('a');
     a.href = URL.createObjectURL(blob); a.download = 'demandes-' + slug + '-' + new Date().toISOString().slice(0, 10) + '.csv'; document.body.appendChild(a); a.click(); a.remove();
   });

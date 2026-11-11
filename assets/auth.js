@@ -85,13 +85,33 @@
   var link = $('auth-link');
   if (link) Auth.user().then(function(u){ if (u){ link.textContent = 'Mon espace'; link.href = '/espace.html'; } });
 
-  /* Page de connexion */
+  /* Page de connexion : e-mail et mot de passe (connexion, création de compte, mot de passe oublié) */
   var form = $('login-form');
   if (form){
-    var redirect = safeRedirect(new URLSearchParams(location.search).get('redirect'));
-    var msg = $('login-msg'), btn = $('login-btn'), email = $('login-email');
-    Auth.user().then(function(u){ if (u) location.replace(redirect); });
-    email.addEventListener('input', function(){ btn.disabled = !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email.value.trim()); });
+    var qs0 = new URLSearchParams(location.search);
+    var redirect = safeRedirect(qs0.get('redirect'));
+    var msg = $('login-msg'), btn = $('login-btn'), email = $('login-email'), pw = $('login-pw'), pw2 = $('login-pw2');
+    var mode = 'login', recovery = qs0.get('nouveau') === '1' || /type=recovery/.test(location.hash);
+    var L = {
+      login:  ['Accédez à votre espace', 'Connectez-vous avec votre adresse e-mail et votre mot de passe.', 'Se connecter', 'Pas encore de compte ?', 'Créer un compte'],
+      signup: ['Créez votre compte', 'Choisissez votre mot de passe : 8 caractères au minimum.', 'Créer mon compte', 'Déjà un compte ?', 'Se connecter'],
+      reset:  ['Mot de passe oublié', 'Indiquez votre adresse e-mail : vous recevez un lien pour choisir un nouveau mot de passe.', 'Recevoir le lien', 'Vous vous en souvenez ?', 'Se connecter'],
+      nouveau:['Nouveau mot de passe', 'Choisissez votre nouveau mot de passe : 8 caractères au minimum.', 'Enregistrer et continuer', '', '']
+    };
+    function setMode(m){
+      mode = m; var l = L[m]; msg.textContent = '';
+      $('lf-title').textContent = l[0]; $('lf-lede').textContent = l[1]; btn.textContent = l[2];
+      $('lf-sw-t').textContent = l[3]; $('lf-sw-a').textContent = l[4]; $('lf-sw').hidden = m === 'nouveau';
+      email.parentNode.hidden = m === 'nouveau'; $('lf-pw').hidden = m === 'reset'; $('lf-pw2').hidden = !(m === 'signup' || m === 'nouveau');
+      $('lf-forgot').hidden = m !== 'login';
+      pw.setAttribute('autocomplete', m === 'login' ? 'current-password' : 'new-password');
+      var gb = $('google-btn'), orr = document.querySelector('.auth-or'); if (cfg.google && gb){ gb.hidden = m === 'nouveau' || m === 'reset'; if (orr) orr.hidden = gb.hidden; }
+    }
+    $('lf-sw-a').addEventListener('click', function(e){ e.preventDefault(); setMode(mode === 'login' ? 'signup' : 'login'); });
+    $('lf-forgot').addEventListener('click', function(e){ e.preventDefault(); setMode('reset'); });
+    if (recovery) setMode('nouveau');
+    else Auth.user().then(function(u){ if (u) location.replace(redirect); });
+    if (sb) sb.auth.onAuthStateChange(function(ev){ if (ev === 'PASSWORD_RECOVERY'){ recovery = true; setMode('nouveau'); } });
     /* Anti-robots Cloudflare Turnstile : invisible pour la plupart des visiteurs, case à cocher seulement en cas de doute */
     var tsToken = null, tsId = null;
     (function tsInit(n){
@@ -103,17 +123,44 @@
     function waitToken(){
       return new Promise(function(res){ var k = 0; (function w(){ if (tsToken || !tsId || ++k > 40) return res(tsToken); setTimeout(w, 250); })(); });
     }
+    function tsReset(){ if (tsId && window.turnstile) { try { window.turnstile.reset(tsId); } catch (x) {} tsToken = null; } }
+    function fail(t){ msg.className = 'err'; msg.textContent = t; btn.disabled = false; btn.textContent = L[mode][2]; }
+    function sent(title, txt){ form.hidden = true; $('login-sent').hidden = false; $('sent-title').textContent = title; $('sent-txt').innerHTML = txt; }
     form.addEventListener('submit', function(e){
-      e.preventDefault();
-      if (!sb){ msg.className = 'err'; msg.textContent = 'La connexion n\'est pas encore activée sur ce site.'; return; }
-      btn.disabled = true; btn.textContent = 'Envoi en cours…';
-      waitToken().then(function(tok){ var o = { emailRedirectTo: location.origin + redirect }; if (tok) o.captchaToken = tok; return sb.auth.signInWithOtp({ email: email.value.trim(), options: o }); }).then(function(r){
-        if (tsId && window.turnstile) { try { window.turnstile.reset(tsId); } catch (x) {} tsToken = null; }
+      e.preventDefault(); msg.textContent = '';
+      if (!sb){ fail('La connexion n\'est pas encore activée sur ce site.'); return; }
+      var em = email.value.trim(), p1 = pw.value, p2 = pw2.value;
+      if (mode !== 'nouveau' && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(em)){ fail('Indiquez une adresse e-mail valide.'); return; }
+      if (mode !== 'reset' && p1.length < 8){ fail(mode === 'login' ? 'Indiquez votre mot de passe.' : 'Le mot de passe doit contenir au moins 8 caractères.'); return; }
+      if ((mode === 'signup' || mode === 'nouveau') && p1 !== p2){ fail('Les deux mots de passe ne sont pas identiques.'); return; }
+      btn.disabled = true; btn.textContent = 'Un instant…';
+      if (mode === 'nouveau'){
+        sb.auth.updateUser({ password: p1 }).then(function(r){ if (r.error) throw r.error; location.replace(redirect); })
+          .catch(function(){ fail('Le lien a expiré. Recommencez avec « Mot de passe oublié ».'); });
+        return;
+      }
+      waitToken().then(function(tok){
+        var o = tok ? { captchaToken: tok } : {};
+        if (mode === 'login') return sb.auth.signInWithPassword({ email: em, password: p1, options: o });
+        if (mode === 'signup') return sb.auth.signUp({ email: em, password: p1, options: Object.assign({ emailRedirectTo: location.origin + redirect }, o) });
+        return sb.auth.resetPasswordForEmail(em, Object.assign({ redirectTo: location.origin + '/connexion.html?nouveau=1&redirect=' + encodeURIComponent(redirect) }, o));
+      }).then(function(r){
+        tsReset();
         if (r.error) throw r.error;
-        form.hidden = true; $('login-sent').hidden = false; $('sent-to').textContent = email.value.trim();
-      }).catch(function(){
-        msg.className = 'err'; msg.textContent = (tsId && !tsToken) ? 'Cochez la case « Vérifiez que vous êtes humain » ci-dessus, puis réessayez.' : 'L\'envoi du lien a échoué. Vérifiez l\'adresse et réessayez.';
-        btn.disabled = false; btn.textContent = 'Recevoir mon lien et mon diagnostic';
+        if (mode === 'login') { location.replace(redirect); return; }
+        if (mode === 'signup') {
+          if (r.data && r.data.session) { location.replace(redirect); return; }
+          sent('Confirmez votre adresse e-mail', 'Nous avons envoyé un lien de confirmation à <strong>' + esc(em) + '</strong>. Cliquez dessus pour activer votre compte. Pensez à regarder dans les courriers indésirables.');
+          return;
+        }
+        sent('Vérifiez votre boîte e-mail', 'Si un compte existe pour <strong>' + esc(em) + '</strong>, vous recevez un lien pour choisir un nouveau mot de passe. Pensez à regarder dans les courriers indésirables.');
+      }).catch(function(err){
+        tsReset();
+        var m = String(err && (err.code || err.message) || '');
+        if (tsId && !tsToken && /captcha/i.test(m)) return fail('Cochez la case « Vérifiez que vous êtes humain » ci-dessus, puis réessayez.');
+        if (mode === 'login') return fail(/not.?confirmed/i.test(m) ? 'Confirmez d\'abord votre adresse e-mail avec le lien reçu.' : 'E-mail ou mot de passe incorrect. Première connexion avec un mot de passe ? Cliquez sur « Mot de passe oublié » pour en créer un.');
+        if (mode === 'signup') return fail(/already|exists|registered/i.test(m) ? 'Un compte existe déjà avec cette adresse : connectez-vous, ou utilisez « Mot de passe oublié ».' : /weak|password/i.test(m) ? 'Mot de passe trop simple : choisissez-en un plus long.' : 'La création du compte a échoué. Réessayez dans un instant.');
+        fail('L\'envoi a échoué. Vérifiez l\'adresse et réessayez.');
       });
     });
     if (!cfg.google){ var gb = $('google-btn'), orr = document.querySelector('.auth-or'); if (gb) gb.hidden = true; if (orr) orr.hidden = true; }

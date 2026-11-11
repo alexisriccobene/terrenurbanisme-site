@@ -387,15 +387,15 @@
       '<label class="field"><span>E-mail</span><input name="email" type="email" autocomplete="email" required placeholder="vous@exemple.fr"></label>' +
       '<div class="vl-2"><label class="field"><span>Nom et prénom</span><input name="nom" autocomplete="name"></label>' +
       '<label class="field"><span>Téléphone <small>(facultatif)</small></span><input name="tel" type="tel" autocomplete="tel"></label></div>' +
-      '<label class="field"><span>Votre projet</span><select name="projet"><option value="">Choisir (facultatif)</option><option>Maison individuelle</option><option>Extension</option><option>Piscine</option><option>Garage ou annexe</option><option>Division de terrain</option><option>Achat d\'un terrain</option><option>Vente d\'un terrain</option><option>Autre</option></select></label>' +
+
       '<label class="vl-ck"><input type="checkbox" name="consent"><span>J\'accepte que la mairie de ' + esc(VL.nom) + ' soit informée de ma demande et puisse me recontacter au sujet de mon projet. <small>Facultatif : le rapport vous est offert dans tous les cas.</small></span></label>' +
       '<button class="v-cta" type="submit">Recevoir mon rapport offert</button><p class="vl-err" role="alert"></p>' +
       '<p class="vl-note">Vos coordonnées servent à vous envoyer le rapport. Elles ne sont transmises à la mairie qu\'avec votre accord. <a href="/confidentialite.html" target="_blank" rel="noopener">Confidentialité</a></p></form>';
-    why.after(box);
+    (resultEl.querySelector('.v-proj') || why).after(box);
     var f = box.querySelector('form'), er = box.querySelector('.vl-err'), bt = f.querySelector('button');
     f.addEventListener('submit', function(e){
       e.preventDefault(); er.textContent = '';
-      var v = { email: f.email.value.trim(), nom: f.nom.value.trim(), tel: f.tel.value.trim(), projet: f.projet.value, consent: f.consent.checked };
+      var v = { email: f.email.value.trim(), nom: f.nom.value.trim(), tel: f.tel.value.trim(), projet: projet() || '', consent: f.consent.checked };
       if (!/^[^\s@]+@[^\s@]+\.[a-z]{2,}$/i.test(v.email)){ er.textContent = 'Indiquez une adresse e-mail valide.'; f.email.focus(); return; }
       if (v.consent && !v.nom){ er.textContent = 'Indiquez votre nom pour que la mairie puisse vous recontacter.'; f.nom.focus(); return; }
       bt.disabled = true; bt.textContent = 'Envoi en cours…';
@@ -409,6 +409,15 @@
           bt.disabled = false; bt.textContent = 'Recevoir mon rapport offert';
         }).catch(function(){ er.textContent = 'La demande n\'a pas pu aboutir. Réessayez dans un instant.'; bt.disabled = false; bt.textContent = 'Recevoir mon rapport offert'; });
     });
+  }
+
+  /* Projet du client : choisi dans le diagnostic, transmis au rapport */
+  var PROJ = [['maison', 'Construire une maison'], ['extension', 'Agrandir ou surélever'], ['piscine', 'Piscine'], ['annexe', 'Abri, garage ou annexe'], ['division', 'Diviser le terrain'], ['achat', 'Acheter ou vendre']];
+  var projetV = null;
+  function projet(v){
+    if (v !== undefined){ projetV = v || ''; try { if (v) localStorage.setItem('tu_projet', v); else localStorage.removeItem('tu_projet'); } catch (e) {} return projetV; }
+    if (projetV === null){ projetV = ''; try { projetV = localStorage.getItem('tu_projet') || ''; } catch (e) {} }
+    return projetV;
   }
 
   function show(parcel, zones, muni, extra){
@@ -447,6 +456,7 @@
       '<div class="v-title">Votre diagnostic gratuit</div>' +
       '<p class="v-other">Ce n\'est pas la bonne parcelle ? Cliquez sur une autre parcelle de la carte.</p>' +
       '<p class="v-why">Nous avons trouvé cette parcelle et les sources officielles qui la concernent. Le rapport complet répond à la question : peut-on construire, et à quelles conditions ?</p>' +
+      '<div class="v-proj"><b>Quel est votre projet ?</b><span>Le rapport sera présenté pour lui.</span><div class="v-chips" role="group" aria-label="Votre projet">' + PROJ.map(function(x){ return '<button type="button" data-p="' + x[0] + '" aria-pressed="' + (x[0] === projet() ? 'true' : 'false') + '">' + x[1] + '</button>'; }).join('') + '</div></div>' +
       (noZone ? '<p class="v-disc" style="border-left:3px solid #A86A0C;padding-left:10px"><strong>Pourquoi la zone n\'apparaît pas :</strong> cette commune dispose d\'un document d\'urbanisme mais ne l\'a pas encore mis en ligne sur le Géoportail de l\'Urbanisme, la plateforme officielle de l\'État. Aucun service ne peut donc lire sa zone automatiquement : elle est à demander en mairie. Le rapport réunit toutes les autres données officielles de la parcelle : risques, servitudes, protections, lois Littoral et Montagne, accès, réseaux, prix du marché et démarches.</p>' : '') +
       OFFER + '<button type="button" class="v-cta v-cta-top buy">' + BTN + '</button><p class="v-buy-err" role="alert"></p>' +
       '<ul class="v-found-list">' + found.map(function(f){ return '<li>' + OKI + '<div><strong>' + esc(f[1]) + '</strong><span>' + esc(f[2]) + '</span></div></li>'; }).join('') + '</ul>' +
@@ -456,6 +466,13 @@
       '<p class="v-disc">Information indicative, établie à partir des sources publiques consultées à la date de la recherche. Elle ne vaut ni certificat d\'urbanisme, ni autorisation, ni avis juridique : seule la mairie peut confirmer la constructibilité de la parcelle.</p>' +
       '<a class="v-owner" href="https://france-cadastre.fr/" target="_blank" rel="noopener">Connaître le propriétaire de cette parcelle <span>via France Cadastre ↗</span></a>';
     var parcelRef = { insee:inseeOf(p), commune:(inseeOf(p) !== p.code_insee ? arrLabel(p) : p.nom_com), section:sec, numero:num };
+    if (projet()) parcelRef.projet = projet();
+    resultEl.querySelectorAll('.v-chips button').forEach(function(b){ b.addEventListener('click', function(){
+      var on = b.getAttribute('aria-pressed') !== 'true', v = on ? b.getAttribute('data-p') : '';
+      resultEl.querySelectorAll('.v-chips button').forEach(function(x){ x.setAttribute('aria-pressed', x === b && on ? 'true' : 'false'); });
+      projet(v); if (v) parcelRef.projet = v; else delete parcelRef.projet;
+      if (window.TUAuth && window.TUAuth.track && v) window.TUAuth.track('projet', { insee: parcelRef.insee, projet: v });
+    }); });
     if (window.TU_VILLE){ villeOffre(resultEl, parcelRef); return; }
     var buys = resultEl.querySelectorAll('.buy'), errs = resultEl.querySelectorAll('.v-buy-err'), A = window.TUAuth, credits = 0, label = BTN;
     function setAll(t, dis){ buys.forEach(function(x){ x.disabled = !!dis; x.textContent = t; }); }

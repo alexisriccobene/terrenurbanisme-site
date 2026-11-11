@@ -669,3 +669,12 @@ footer .social{display:flex;gap:10px;margin-top:18px}footer .social a{display:in
 #mairie-form .field input{width:100%}
 .auth-rem{display:flex;gap:8px;align-items:center;font-size:14px;color:var(--muet)}
 .auth-rem input{accent-color:var(--t);width:18px;height:18px}
+.auth-links{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;font-size:14px;margin-top:4px}
+.auth-links a{font-weight:650}
+#login-form .field[hidden]{display:none}
+.v-proj{margin:14px 0 16px;padding:14px;border:1px solid var(--ligne);border-radius:14px;background:var(--soft2)}
+.v-proj b{display:block;font-size:15px}
+.v-proj>span{display:block;font-size:13px;color:var(--muet);margin-top:2px}
+.v-chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}
+.v-chips button{font:inherit;font-size:13.5px;font-weight:600;padding:8px 12px;border-radius:999px;border:1.5px solid var(--ligne);background:var(--surface);color:var(--ink);cursor:pointer}
+.v-chips button[aria-pressed=true]{border-color:var(--t);background:var(--soft);color:var(--t)}
