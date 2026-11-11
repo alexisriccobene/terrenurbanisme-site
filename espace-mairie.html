@@ -9,7 +9,7 @@
 <meta name="theme-color" content="#A3462C">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png"><link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="preload" href="/assets/schibsted-grotesk.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/style.css?v=v78">
+<link rel="stylesheet" href="/assets/style.css?v=v79">
 <style>
 body{background:var(--bg)}
 .em-top{background:var(--surface);border-bottom:1px solid var(--ligne)}
@@ -67,8 +67,20 @@ body{background:var(--bg)}
 .em-site-b>div b{display:block;color:#1F3B57;margin-bottom:4px}
 .em-site-b>.hot{border:2px solid var(--t);background:#FFF9F6}
 @media (max-width:620px){.em-site-b{grid-template-columns:1fr}}
-.em-login{max-width:520px;margin:80px auto;text-align:center}
-.em-login p{color:var(--muet);margin-top:12px}
+.em-login{display:flex;justify-content:center;padding-top:clamp(32px,8vh,90px);padding-bottom:60px}
+.em-lcard{width:100%;max-width:420px;background:var(--surface);border:1px solid var(--ligne);border-radius:24px;padding:34px 28px;box-shadow:0 30px 60px -30px rgba(42,29,23,.3);display:grid;gap:14px}
+.em-lcard h1{font-size:28px;text-align:center}
+.em-lico{width:56px;height:56px;border-radius:16px;background:var(--soft);display:flex;align-items:center;justify-content:center;margin:0 auto}
+.em-lico svg{width:28px;height:28px}
+.em-lsub{text-align:center;color:var(--muet);margin-top:-8px}
+.em-lcard .field input{width:100%;min-width:0}
+.em-rem{display:flex;gap:8px;align-items:center;font-size:14px;color:var(--muet)}
+.em-rem input{accent-color:var(--t);width:18px;height:18px}
+.em-lcard .btn{width:100%}
+.em-lerr{color:var(--non);font-size:14px;text-align:center}
+.em-lerr:empty{display:none}
+.em-lhelp{text-align:center;font-size:13px;color:var(--muet)}
+.em-out{font:inherit;font-size:14px;font-weight:650;background:none;border:1.5px solid var(--ligne);border-radius:10px;padding:7px 12px;color:var(--muet);cursor:pointer}
 .em-dl{display:grid;grid-template-columns:auto 1fr;gap:10px 18px;margin-top:14px;font-size:15px}
 .em-dl dt{color:var(--muet)}.em-dl dd{margin:0;font-weight:650}
 .em-live{display:inline-flex;align-items:center;gap:6px;font-size:13px;color:var(--ok);font-weight:650}
@@ -80,7 +92,7 @@ body{background:var(--bg)}
 <body>
 <header class="em-top"><div class="wrap">
 <a class="em-brand" href="/" target="_blank" rel="noopener"><svg viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="29.5" fill="none" stroke="#A3462C" stroke-width="3"/><circle cx="32" cy="32" r="23" fill="none" stroke="#A3462C" stroke-width="1.6" stroke-dasharray="2.2 3.2"/><path d="M20 26L37 20L45 36L29 44Z" fill="#F6E5DD" stroke="#A3462C" stroke-width="3.2" stroke-linejoin="round"/><circle cx="33" cy="32" r="3.6" fill="#A3462C"/></svg>TerrenUrbanisme <small>Espace mairie</small></a>
-<div class="em-ville" id="em-ville"></div>
+<div style="display:flex;align-items:center;gap:14px"><div class="em-ville" id="em-ville"></div><button class="em-out" id="em-out" type="button" hidden>Déconnexion</button></div>
 </div></header>
 
 <main class="wrap" id="em-app" hidden>
@@ -162,8 +174,17 @@ body{background:var(--bg)}
 </main>
 
 <div class="em-login wrap" id="em-login" hidden>
+<form class="em-lcard" id="em-lf" novalidate>
+<div class="em-lico"><svg viewBox="0 0 24 24" fill="none" stroke="#A3462C" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21h18M5 21V10l7-5 7 5v11M9 21v-6h6v6"/></svg></div>
 <h1>Espace mairie</h1>
-<p>Ouvrez cet espace avec le lien personnel transmis à votre commune. Pour l'obtenir à nouveau, écrivez à <b>contact@terrenurbanisme.com</b>.</p>
+<p class="em-lsub">Suivi des demandes de vos habitants</p>
+<label class="field"><span>Identifiant de la commune</span><input name="identifiant" autocomplete="username" autocapitalize="none" spellcheck="false" required></label>
+<label class="field"><span>Mot de passe</span><input name="mdp" type="password" autocomplete="current-password" required></label>
+<label class="em-rem"><input type="checkbox" name="rester" checked> Rester connecté sur cet appareil</label>
+<button class="btn" type="submit">Se connecter</button>
+<p class="em-lerr" role="alert"></p>
+<p class="em-lhelp">Identifiants oubliés : <b>contact@terrenurbanisme.com</b></p>
+</form>
 </div>
 
 <script>
@@ -171,9 +192,28 @@ body{background:var(--bg)}
   var API = 'https://nmoigruxnhsidrhqtzid.supabase.co/functions/v1/stripe-webhook';
   var $ = function (id) { return document.getElementById(id); };
   function esc(s) { return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); }
+  var slug = '', key = '', ST = 'tu_mairie';
+  function getS() { var v = null; try { v = JSON.parse(sessionStorage.getItem(ST) || localStorage.getItem(ST) || 'null'); } catch (e) {} return v; }
+  function setS(v, rester) { try { (rester ? localStorage : sessionStorage).setItem(ST, JSON.stringify(v)); } catch (e) {} }
+  function delS() { try { sessionStorage.removeItem(ST); localStorage.removeItem(ST); } catch (e) {} }
+  // Ancien lien personnel (#commune.clé) : accepté une fois, puis retiré de l'adresse
   var h = location.hash.replace(/^#/, ''), i = h.indexOf('.');
-  var slug = i > 0 ? h.slice(0, i) : '', key = i > 0 ? h.slice(i + 1) : '';
-  if (!slug || !key) { $('em-login').hidden = false; return; }
+  if (i > 0) { setS({ slug: h.slice(0, i), k: h.slice(i + 1) }, false); history.replaceState(null, '', location.pathname); }
+  function showLogin(msg) { $('em-app').hidden = true; $('em-out').hidden = true; $('em-login').hidden = false; $('em-ville').innerHTML = ''; document.querySelector('.em-lerr').textContent = msg || ''; }
+  var lf = $('em-lf');
+  lf.addEventListener('submit', function (e) {
+    e.preventDefault(); var er = lf.querySelector('.em-lerr'), bt = lf.querySelector('button'); er.textContent = '';
+    if (!lf.identifiant.value.trim() || !lf.mdp.value) { er.textContent = 'Indiquez votre identifiant et votre mot de passe.'; return; }
+    bt.disabled = true; bt.textContent = 'Connexion…';
+    fetch(API + '?ville=_connexion', { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ identifiant: lf.identifiant.value.trim(), mdp: lf.mdp.value }) })
+      .then(function (r) { return r.json().then(function (j) { return { ok: r.ok, j: j }; }); })
+      .then(function (x) {
+        bt.disabled = false; bt.textContent = 'Se connecter';
+        if (!x.ok || !x.j.ok) { er.textContent = x.j && x.j.error === 'trop_essais' ? 'Trop d\'essais. Réessayez dans une heure.' : 'Identifiant ou mot de passe incorrect.'; return; }
+        setS({ slug: x.j.slug, k: x.j.k }, lf.rester.checked); lf.mdp.value = ''; start();
+      }).catch(function () { bt.disabled = false; bt.textContent = 'Se connecter'; er.textContent = 'Connexion impossible pour le moment. Réessayez dans un instant.'; });
+  });
+  $('em-out').addEventListener('click', function () { delS(); location.reload(); });
   var V = null, ALL = [], seen = {}, first = true;
   var VW = { ok: ['ok', 'Constructible'], cond: ['cond', 'Sous conditions'], non: ['non', 'Non constructible'] };
   function fd(s) { var d = new Date(s); return d.toLocaleDateString('fr-FR', { day: '2-digit', month: '2-digit' }) + ' ' + d.toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' }); }
@@ -217,7 +257,10 @@ body{background:var(--bg)}
   function setup(v) {
     V = v; $('em-app').hidden = false;
     var lib = v.libelle.charAt(0).toUpperCase() + v.libelle.slice(1);
-    $('em-ville').innerHTML = v.logo ? '<img src="' + esc(v.logo) + '" alt="' + esc(lib) + '">' : esc(lib);
+    var dl = null; if (v.demo) { try { dl = localStorage.getItem('tu_vlogo_' + v.slug); } catch (x) {} }
+    var lsrc = v.logo || (dl && /^data:image\//.test(dl) ? dl : null);
+    $('em-ville').innerHTML = lsrc ? '<img src="' + esc(lsrc) + '" alt="' + esc(lib) + '">' : esc(lib);
+    if (lsrc) { var nm = $('em-site-n'); setTimeout(function () { nm.innerHTML = '<img src="' + esc(lsrc) + '" alt="" style="height:34px;background:#fff;border-radius:6px;padding:3px 6px;vertical-align:middle;margin-right:10px">Mairie de ' + esc(v.nom); }, 0); }
     var mo = new Date().toLocaleDateString('fr-FR', { month: 'long', year: 'numeric' });
     $('em-per-l').textContent = 'Service urbanisme · ' + mo;
     var url = 'https://terrenurbanisme.com/ville/' + v.slug;
@@ -256,8 +299,14 @@ body{background:var(--bg)}
     var blob = new Blob(['﻿' + out.join('\r\n')], { type: 'text/csv;charset=utf-8' }), a = document.createElement('a');
     a.href = URL.createObjectURL(blob); a.download = 'demandes-' + slug + '-' + new Date().toISOString().slice(0, 10) + '.csv'; document.body.appendChild(a); a.click(); a.remove();
   });
-  load().catch(function () { $('em-app').hidden = true; $('em-login').hidden = false; });
-  setInterval(function () { if (!document.hidden) load().catch(function () {}); }, 20000);
+  var timer = null;
+  function start() {
+    var s = getS(); if (!s || !s.slug || !s.k) { showLogin(); return; }
+    slug = s.slug; key = s.k;
+    load().then(function () { $('em-login').hidden = true; $('em-out').hidden = false; if (!timer) timer = setInterval(function () { if (!document.hidden) load().catch(function () {}); }, 20000); })
+      .catch(function (st) { if (st === 403) { delS(); showLogin('Votre session a expiré. Reconnectez-vous.'); } else showLogin('Connexion impossible pour le moment. Réessayez dans un instant.'); });
+  }
+  start();
 })();
 </script>
 </body>
