@@ -220,7 +220,7 @@ body{background:var(--bg)}
     $('em-ville').innerHTML = v.logo ? '<img src="' + esc(v.logo) + '" alt="' + esc(lib) + '">' : esc(lib);
     var mo = new Date().toLocaleDateString('fr-FR', { month: 'long', year: 'numeric' });
     $('em-per-l').textContent = 'Service urbanisme · ' + mo;
-    var url = location.origin + '/ville/' + v.slug;
+    var url = 'https://terrenurbanisme.com/ville/' + v.slug;
     $('em-url').value = url; $('em-open').href = url;
     if (v.demo) {
       $('em-demo-note').hidden = false; $('em-demo-l').hidden = false;
