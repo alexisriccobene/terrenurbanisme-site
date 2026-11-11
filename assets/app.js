@@ -156,7 +156,7 @@
       var q = adr.value.trim();
       if (q.length < 4){ items = []; closeList(); return; }
       timer = setTimeout(function(){
-        getJSON('https://api-adresse.data.gouv.fr/search/?q='+encodeURIComponent(q)+'&limit=6').then(function(j){
+        getJSON('https://api-adresse.data.gouv.fr/search/?q='+encodeURIComponent(q)+'&limit=6'+(window.TU_VILLE ? '&citycode='+encodeURIComponent(window.TU_VILLE.insee[0]) : '')).then(function(j){
           items = (j.features||[]).slice(0,6);
           active = -1; renderList();
         }).catch(function(){});
@@ -210,6 +210,15 @@
       setMode('adr'); adr.value = qs.get('adresse') || '';
       picked = { properties:{ label:adr.value }, geometry:{ coordinates:[+qs.get('lon'), +qs.get('lat')] } };
       setTimeout(function(){ form.requestSubmit ? form.requestSubmit() : form.dispatchEvent(new Event('submit')); }, 50);
+    }
+
+    /* Page d'une commune abonnée : la recherche est limitée à la commune */
+    if (window.TU_VILLE){
+      var VL = window.TU_VILLE;
+      setMode(qs.get('lon') ? 'adr' : 'cad');
+      $('com').value = VL.nom + ' (' + VL.insee[0].slice(0, 2) + ')'; $('com').readOnly = true; $('com').setAttribute('aria-readonly', 'true');
+      comMap[norm($('com').value)] = VL.insee[0]; comMap[norm(VL.nom)] = VL.insee[0];
+      setTimeout(geoCommune, 400);
     }
 
     /* La recherche est libre : la connexion n'est demandée qu'au moment de l'achat */
@@ -362,6 +371,46 @@
 
   var LOCK = '<svg viewBox="0 0 24 24" fill="none" stroke="#A3462C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="11" width="16" height="10" rx="2"/><path d="M8 11V7a4 4 0 0 1 8 0v4"/></svg>';
   var OKI = '<svg viewBox="0 0 24 24" fill="none" stroke="#2E7D4F" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>';
+  /* ---------- Offre communale : le rapport complet est offert par la commune ---------- */
+  function villeOffre(resultEl, ref){
+    var VL = window.TU_VILLE;
+    ['.v-offer', '.buy', '.v-buy-note', '.v-owner', '.v-buy-err'].forEach(function(s){ resultEl.querySelectorAll(s).forEach(function(x){ x.remove(); }); });
+    var why = resultEl.querySelector('.v-why'), box = document.createElement('div'); box.className = 'vl-box';
+    if (VL.insee.indexOf(ref.insee) < 0){
+      box.innerHTML = '<p class="vl-hors"><strong>Cette parcelle n\'est pas sur la commune de ' + esc(VL.nom) + '.</strong> Le service offert par ' + esc(VL.libelle) + ' couvre uniquement les parcelles de la commune. Pour une autre commune, rendez-vous sur <a href="/">terrenurbanisme.com</a>.</p>';
+      why.after(box); return;
+    }
+    if (why) why.textContent = 'Le rapport complet répond à la question : peut-on construire, et à quelles conditions ? ' + VL.libelle.charAt(0).toUpperCase() + VL.libelle.slice(1) + ' vous l\'offre.';
+    box.innerHTML = '<div class="vl-h">Recevez votre rapport complet, offert par ' + esc(VL.libelle) + '</div>' +
+      '<p class="vl-s">PDF de 30 à 40 pages, envoyé par e-mail en quelques minutes.</p>' +
+      '<form class="vl-f" novalidate>' +
+      '<label class="field"><span>E-mail</span><input name="email" type="email" autocomplete="email" required placeholder="vous@exemple.fr"></label>' +
+      '<div class="vl-2"><label class="field"><span>Nom et prénom</span><input name="nom" autocomplete="name"></label>' +
+      '<label class="field"><span>Téléphone <small>(facultatif)</small></span><input name="tel" type="tel" autocomplete="tel"></label></div>' +
+      '<label class="field"><span>Votre projet</span><select name="projet"><option value="">Choisir (facultatif)</option><option>Maison individuelle</option><option>Extension</option><option>Piscine</option><option>Garage ou annexe</option><option>Division de terrain</option><option>Achat d\'un terrain</option><option>Vente d\'un terrain</option><option>Autre</option></select></label>' +
+      '<label class="vl-ck"><input type="checkbox" name="consent"><span>J\'accepte que la mairie de ' + esc(VL.nom) + ' soit informée de ma demande et puisse me recontacter au sujet de mon projet. <small>Facultatif : le rapport vous est offert dans tous les cas.</small></span></label>' +
+      '<button class="v-cta" type="submit">Recevoir mon rapport offert</button><p class="vl-err" role="alert"></p>' +
+      '<p class="vl-note">Vos coordonnées servent à vous envoyer le rapport. Elles ne sont transmises à la mairie qu\'avec votre accord. <a href="/confidentialite.html" target="_blank" rel="noopener">Confidentialité</a></p></form>';
+    why.after(box);
+    var f = box.querySelector('form'), er = box.querySelector('.vl-err'), bt = f.querySelector('button');
+    f.addEventListener('submit', function(e){
+      e.preventDefault(); er.textContent = '';
+      var v = { email: f.email.value.trim(), nom: f.nom.value.trim(), tel: f.tel.value.trim(), projet: f.projet.value, consent: f.consent.checked };
+      if (!/^[^\s@]+@[^\s@]+\.[a-z]{2,}$/i.test(v.email)){ er.textContent = 'Indiquez une adresse e-mail valide.'; f.email.focus(); return; }
+      if (v.consent && !v.nom){ er.textContent = 'Indiquez votre nom pour que la mairie puisse vous recontacter.'; f.nom.focus(); return; }
+      bt.disabled = true; bt.textContent = 'Envoi en cours…';
+      var body = Object.assign({ action: 'rapport', k: VL.k || '' }, ref, v);
+      fetch(VL.api + '?ville=' + encodeURIComponent(VL.slug), { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify(body) })
+        .then(function(r){ return r.json().then(function(j){ return { ok: r.ok, j: j }; }); })
+        .then(function(x){
+          if (x.ok && x.j.ok){ box.innerHTML = '<div class="vl-ok"><div class="vl-h">Votre rapport est en préparation</div><p>Il arrive par e-mail à <strong>' + esc(v.email) + '</strong> d\'ici quelques minutes. Pensez à vérifier vos courriers indésirables.</p><p class="vl-s">Rapport offert par ' + esc(VL.libelle) + '.</p></div>'; return; }
+          var M = { demo: 'Démonstration : la remise du rapport sera activée à la mise en service.', hors_commune: 'Cette parcelle n\'est pas sur la commune.', limite_email: 'Vous avez déjà demandé 3 rapports aujourd\'hui. Réessayez demain.', limite: 'Trop de demandes depuis cette connexion aujourd\'hui. Réessayez demain.', limite_ville: 'Le service a atteint sa limite du jour. Réessayez demain.', inactive: 'Le service n\'est pas actif pour cette commune.', email: 'Indiquez une adresse e-mail valide.' };
+          er.textContent = M[x.j.error] || 'La demande n\'a pas pu aboutir. Réessayez dans un instant.';
+          bt.disabled = false; bt.textContent = 'Recevoir mon rapport offert';
+        }).catch(function(){ er.textContent = 'La demande n\'a pas pu aboutir. Réessayez dans un instant.'; bt.disabled = false; bt.textContent = 'Recevoir mon rapport offert'; });
+    });
+  }
+
   function show(parcel, zones, muni, extra){
     extra = extra || {};
     var resultEl = $('result');
@@ -407,6 +456,7 @@
       '<p class="v-disc">Information indicative, établie à partir des sources publiques consultées à la date de la recherche. Elle ne vaut ni certificat d\'urbanisme, ni autorisation, ni avis juridique : seule la mairie peut confirmer la constructibilité de la parcelle.</p>' +
       '<a class="v-owner" href="https://france-cadastre.fr/" target="_blank" rel="noopener">Connaître le propriétaire de cette parcelle <span>via France Cadastre ↗</span></a>';
     var parcelRef = { insee:inseeOf(p), commune:(inseeOf(p) !== p.code_insee ? arrLabel(p) : p.nom_com), section:sec, numero:num };
+    if (window.TU_VILLE){ villeOffre(resultEl, parcelRef); return; }
     var buys = resultEl.querySelectorAll('.buy'), errs = resultEl.querySelectorAll('.v-buy-err'), A = window.TUAuth, credits = 0, label = BTN;
     function setAll(t, dis){ buys.forEach(function(x){ x.disabled = !!dis; x.textContent = t; }); }
     var offerEl = resultEl.querySelector('.v-offer');

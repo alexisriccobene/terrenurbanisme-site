@@ -1,0 +1,264 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Espace mairie | TerrenUrbanisme</title>
+<meta name="robots" content="noindex, nofollow">
+<meta name="referrer" content="no-referrer">
+<meta name="theme-color" content="#A3462C">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png"><link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="preload" href="/assets/schibsted-grotesk.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/style.css?v=v78">
+<style>
+body{background:var(--bg)}
+.em-top{background:var(--surface);border-bottom:1px solid var(--ligne)}
+.em-top .wrap{display:flex;align-items:center;justify-content:space-between;gap:16px;min-height:68px;flex-wrap:wrap;padding-top:8px;padding-bottom:8px}
+.em-brand{display:flex;align-items:center;gap:10px;font-weight:750;font-size:18px;color:var(--ink);text-decoration:none}
+.em-brand svg{width:32px;height:32px}
+.em-brand small{font-weight:500;color:var(--muet);font-size:15px}
+.em-ville{display:flex;align-items:center;gap:10px;font-weight:700}
+.em-ville img{max-height:42px;max-width:150px;object-fit:contain}
+.em-tabs{display:flex;gap:6px;overflow-x:auto;padding:18px 0 0;border-bottom:1px solid var(--ligne)}
+.em-tabs button{font:inherit;font-weight:650;font-size:15px;background:none;border:0;border-bottom:2.5px solid transparent;padding:10px 14px;color:var(--muet);cursor:pointer;white-space:nowrap}
+.em-tabs button[aria-selected=true]{color:var(--t);border-bottom-color:var(--t)}
+.em-head{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;flex-wrap:wrap;margin:28px 0 20px}
+.em-eb{font-size:13px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--t)}
+.em-head h1{font-size:clamp(26px,3.2vw,38px);margin-top:6px}
+.em-tools{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.em-tools select,.em-tools input{font:inherit;font-size:15px;padding:10px 12px;border-radius:12px;border:1.5px solid var(--ligne);background:var(--surface);color:var(--ink);min-width:0}
+.em-kpis{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px;margin-bottom:20px}
+.em-kpis div{background:var(--surface);border:1px solid var(--ligne);border-radius:16px;padding:18px 20px}
+.em-kpis span{color:var(--muet);font-size:14px}
+.em-kpis b{display:block;font-size:34px;font-weight:800;letter-spacing:-.02em;margin-top:4px}
+@media (max-width:820px){.em-kpis{grid-template-columns:repeat(2,minmax(0,1fr))}.em-kpis b{font-size:28px}}
+.em-card{background:var(--surface);border:1px solid var(--ligne);border-radius:16px}
+.em-tbl{overflow-x:auto}
+.em-tbl table{width:100%;border-collapse:collapse;font-size:14.5px;min-width:860px}
+.em-tbl th{font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muet);text-align:left;padding:13px 14px;border-bottom:1px solid var(--ligne);font-weight:700;white-space:nowrap}
+.em-tbl td{padding:12px 14px;border-bottom:1px solid #F1EAE4;vertical-align:top}
+.em-tbl tr:last-child td{border-bottom:0}
+.em-v{display:inline-block;padding:4px 10px;border-radius:999px;font-weight:700;font-size:12.5px;white-space:nowrap}
+.em-v.ok{background:var(--ok-bg);color:var(--ok)}.em-v.cond{background:var(--cond-bg);color:var(--cond)}.em-v.non{background:var(--non-bg);color:var(--non)}.em-v.wait{background:var(--soft2);color:var(--muet)}
+.em-mu{color:var(--muet)}
+.em-ex{font-size:11px;font-weight:700;color:var(--muet);border:1px solid var(--ligne);border-radius:6px;padding:1px 5px;margin-left:6px}
+.em-new{animation:emflash 2.5s ease-out}
+@keyframes emflash{from{background:#FBEDE5}to{background:transparent}}
+.em-empty{padding:40px 20px;text-align:center;color:var(--muet)}
+.em-grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:18px}
+@media (max-width:900px){.em-grid{grid-template-columns:1fr}}
+.em-sec{padding:22px}
+.em-sec h2{font-size:21px;margin-bottom:6px}
+.em-sec p{color:var(--muet);font-size:15px}
+.em-code{position:relative;margin-top:12px}
+.em-code pre{background:#2A1D17;color:#F6E5DD;border-radius:12px;padding:16px;font-size:12.5px;line-height:1.5;overflow-x:auto;white-space:pre-wrap;word-break:break-all;margin:0}
+.em-copy{margin-top:10px}
+.em-link{display:flex;gap:8px;margin-top:12px;flex-wrap:wrap}
+.em-link input{flex:1 1 240px;min-width:0;font:inherit;font-size:14px;padding:11px 12px;border-radius:12px;border:1.5px solid var(--ligne);background:var(--soft2);color:var(--ink)}
+.em-prev{margin-top:14px;padding:22px;border-radius:12px;background:var(--soft2);display:flex;gap:14px;flex-wrap:wrap;align-items:center;justify-content:center}
+.em-site{margin-top:18px;border:1px solid var(--ligne);border-radius:14px;overflow:hidden;background:#fff}
+.em-site-bar{display:flex;gap:6px;align-items:center;padding:10px 12px;background:#F1ECE8;font-size:12px;color:var(--muet)}
+.em-site-bar i{width:10px;height:10px;border-radius:50%;background:#D9CFC7;display:inline-block}
+.em-site-bar span{margin-left:8px;background:#fff;border-radius:6px;padding:3px 10px;flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.em-site-h{background:#1F3B57;color:#fff;padding:16px 20px;font-weight:750;font-size:18px;display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.em-site-h small{font-weight:500;opacity:.8;font-size:13px}
+.em-site-b{padding:22px 20px;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.em-site-b>div{border:1px solid #E5E9EE;border-radius:10px;padding:14px;font-size:14px;color:#33475B;min-height:92px}
+.em-site-b>div b{display:block;color:#1F3B57;margin-bottom:4px}
+.em-site-b>.hot{border:2px solid var(--t);background:#FFF9F6}
+@media (max-width:620px){.em-site-b{grid-template-columns:1fr}}
+.em-login{max-width:520px;margin:80px auto;text-align:center}
+.em-login p{color:var(--muet);margin-top:12px}
+.em-dl{display:grid;grid-template-columns:auto 1fr;gap:10px 18px;margin-top:14px;font-size:15px}
+.em-dl dt{color:var(--muet)}.em-dl dd{margin:0;font-weight:650}
+.em-live{display:inline-flex;align-items:center;gap:6px;font-size:13px;color:var(--ok);font-weight:650}
+.em-live i{width:8px;height:8px;border-radius:50%;background:var(--ok);animation:emp 1.6s infinite}
+@keyframes emp{50%{opacity:.25}}
+[hidden]{display:none!important}
+</style>
+</head>
+<body>
+<header class="em-top"><div class="wrap">
+<a class="em-brand" href="/" target="_blank" rel="noopener"><svg viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="29.5" fill="none" stroke="#A3462C" stroke-width="3"/><circle cx="32" cy="32" r="23" fill="none" stroke="#A3462C" stroke-width="1.6" stroke-dasharray="2.2 3.2"/><path d="M20 26L37 20L45 36L29 44Z" fill="#F6E5DD" stroke="#A3462C" stroke-width="3.2" stroke-linejoin="round"/><circle cx="33" cy="32" r="3.6" fill="#A3462C"/></svg>TerrenUrbanisme <small>Espace mairie</small></a>
+<div class="em-ville" id="em-ville"></div>
+</div></header>
+
+<main class="wrap" id="em-app" hidden>
+<nav class="em-tabs" role="tablist" aria-label="Sections">
+<button role="tab" aria-selected="true" data-t="dem">Demandes des habitants</button>
+<button role="tab" aria-selected="false" data-t="int">Intégration sur votre site</button>
+<button role="tab" aria-selected="false" data-t="abo">Abonnement</button>
+</nav>
+
+<section data-p="dem">
+<div class="em-head">
+<div><div class="em-eb" id="em-per-l">Service urbanisme</div><h1>Demandes de rapports des habitants</h1></div>
+<div class="em-tools">
+<span class="em-live" title="Mise à jour automatique"><i></i>En direct</span>
+<select id="em-per" aria-label="Période"><option value="m0">Ce mois-ci</option><option value="m1">Mois précédent</option><option value="d90">3 derniers mois</option><option value="all" selected>Depuis le début</option></select>
+<input id="em-q" type="search" placeholder="Parcelle, zone, nom…" aria-label="Rechercher">
+<button class="btn" id="em-exp" type="button">Exporter en Excel</button>
+</div></div>
+<div class="em-kpis">
+<div><span>Rapports délivrés</span><b id="k-n">0</b></div>
+<div><span>Habitants à recontacter</span><b id="k-c">0</b></div>
+<div><span>Zone la plus demandée</span><b id="k-z">–</b></div>
+<div><span>Parcelles constructibles</span><b id="k-o">–</b></div>
+</div>
+<div class="em-card em-tbl"><table><thead><tr><th>Date</th><th>Parcelle</th><th>Zone</th><th>Verdict</th><th>Projet</th><th>Demandeur</th><th>Contact</th><th>Rapport</th></tr></thead><tbody id="em-rows"></tbody></table><div class="em-empty" id="em-empty" hidden>Aucune demande sur cette période.</div></div>
+<p class="em-mu" style="font-size:13px;margin:12px 0 40px">Les coordonnées d'un habitant n'apparaissent que s'il a accepté que la mairie soit informée de sa demande. <span id="em-ex-note" hidden>Les lignes marquées « exemple » illustrent le service et disparaissent à la mise en service.</span></p>
+</section>
+
+<section data-p="int" hidden>
+<div class="em-head"><div><div class="em-eb">Mise en place</div><h1>Le bouton à placer sur votre site</h1></div></div>
+<div class="em-grid">
+<div class="em-card em-sec">
+<h2>La page de votre commune</h2>
+<p>Tout habitant qui l'ouvre analyse gratuitement les parcelles de la commune. C'est l'adresse vers laquelle pointe le bouton.</p>
+<div class="em-link"><input id="em-url" readonly aria-label="Adresse de la page"><button class="btn ghost" type="button" data-copy="em-url">Copier</button><a class="btn" id="em-open" target="_blank" rel="noopener">Ouvrir</a></div>
+<p id="em-demo-note" style="font-size:13px;margin-top:10px" hidden>Démonstration : le lien ci-dessous permet de recevoir de vrais rapports pendant le rendez-vous.</p>
+<div class="em-link" id="em-demo-l" hidden><input id="em-durl" readonly aria-label="Lien de démonstration"><button class="btn ghost" type="button" data-copy="em-durl">Copier</button><a class="btn" id="em-dopen" target="_blank" rel="noopener">Ouvrir la démo</a></div>
+</div>
+<div class="em-card em-sec">
+<h2>Le bouton</h2>
+<p>Votre webmaster colle ce code dans la page « Urbanisme » ou « Services en ligne ». Aucune installation, aucun développement.</p>
+<div class="em-prev" id="em-prev"></div>
+<div class="em-code"><pre id="em-snip"></pre></div>
+<button class="btn ghost em-copy" type="button" data-copy="em-snip">Copier le code</button>
+</div>
+</div>
+<div class="em-card em-sec" style="margin-top:18px">
+<h2>Aperçu sur un site de mairie</h2>
+<p>Le bouton prend place parmi vos services en ligne, comme ici.</p>
+<div class="em-site">
+<div class="em-site-bar"><i></i><i></i><i></i><span id="em-site-url">votre-site.fr/services-en-ligne</span></div>
+<div class="em-site-h"><span id="em-site-n">Mairie</span><small>Services en ligne</small></div>
+<div class="em-site-b">
+<div><b>État civil</b>Actes de naissance, de mariage, de décès</div>
+<div><b>Urbanisme</b>Déposer une demande d'autorisation</div>
+<div class="hot"><b>Mon terrain est-il constructible ?</b><span style="display:block;margin-bottom:10px">Rapport d'urbanisme offert aux habitants</span><span id="em-site-btn"></span></div>
+<div><b>Cadastre</b>Consulter le plan cadastral</div>
+<div><b>Déchets</b>Collecte et déchetterie</div>
+<div><b>Associations</b>Annuaire et salles</div>
+</div></div>
+</div>
+<div style="height:40px"></div>
+</section>
+
+<section data-p="abo" hidden>
+<div class="em-head"><div><div class="em-eb">Votre contrat</div><h1>Abonnement de la commune</h1></div></div>
+<div class="em-grid">
+<div class="em-card em-sec"><h2>Offre communale</h2><dl class="em-dl" id="em-abo"></dl></div>
+<div class="em-card em-sec"><h2>Compris</h2><ul class="ck" style="margin-top:10px;padding-left:18px;color:var(--ink);font-size:15px;line-height:1.8">
+<li>Rapports illimités pour les habitants, sur toutes les parcelles de la commune</li>
+<li>Le même accès pour vos agents</li>
+<li>Page de la commune et bouton pour votre site</li>
+<li>Espace mairie, export et relevé mensuel</li>
+<li>Facture sur Chorus Pro, paiement par virement</li></ul>
+<p style="margin-top:14px">Une question : <b>contact@terrenurbanisme.com</b></p></div>
+</div>
+<div style="height:40px"></div>
+</section>
+</main>
+
+<div class="em-login wrap" id="em-login" hidden>
+<h1>Espace mairie</h1>
+<p>Ouvrez cet espace avec le lien personnel transmis à votre commune. Pour l'obtenir à nouveau, écrivez à <b>contact@terrenurbanisme.com</b>.</p>
+</div>
+
+<script>
+(function () {
+  var API = 'https://nmoigruxnhsidrhqtzid.supabase.co/functions/v1/stripe-webhook';
+  var $ = function (id) { return document.getElementById(id); };
+  function esc(s) { return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); }
+  var h = location.hash.replace(/^#/, ''), i = h.indexOf('.');
+  var slug = i > 0 ? h.slice(0, i) : '', key = i > 0 ? h.slice(i + 1) : '';
+  if (!slug || !key) { $('em-login').hidden = false; return; }
+  var V = null, ALL = [], seen = {}, first = true;
+  var VW = { ok: ['ok', 'Constructible'], cond: ['cond', 'Sous conditions'], non: ['non', 'Non constructible'] };
+  function fd(s) { var d = new Date(s); return d.toLocaleDateString('fr-FR', { day: '2-digit', month: '2-digit' }) + ' ' + d.toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' }); }
+  function per(r) {
+    var p = $('em-per').value, d = new Date(r.date), n = new Date();
+    if (p === 'm0') return d.getFullYear() === n.getFullYear() && d.getMonth() === n.getMonth();
+    if (p === 'm1') { var m = new Date(n.getFullYear(), n.getMonth() - 1, 1); return d.getFullYear() === m.getFullYear() && d.getMonth() === m.getMonth(); }
+    if (p === 'd90') return n - d < 90 * 864e5;
+    return true;
+  }
+  function rows() {
+    var q = $('em-q').value.trim().toLowerCase();
+    return ALL.filter(per).filter(function (r) { return !q || [r.section + ' ' + r.numero, r.zone, r.nom, r.email, r.projet].join(' ').toLowerCase().indexOf(q) >= 0; });
+  }
+  function render() {
+    var L = rows(), tb = $('em-rows');
+    $('em-empty').hidden = !!L.length;
+    tb.innerHTML = L.map(function (r) {
+      var v = r.statut === 'error' ? ['wait', 'Incident'] : r.statut === 'pending' ? ['wait', 'En préparation'] : (VW[r.verdict] || ['wait', '–']);
+      var id = r.date + r.section + r.numero, nw = !first && !seen[id]; seen[id] = 1;
+      return '<tr' + (nw ? ' class="em-new"' : '') + '><td>' + fd(r.date) + '</td><td><b>' + esc(r.section + ' ' + r.numero) + '</b>' + (r.exemple ? '<span class="em-ex">exemple</span>' : '') + '</td><td>' + esc(r.zone || '–') + '</td><td><span class="em-v ' + v[0] + '">' + v[1] + '</span></td><td>' + esc(r.projet || '–') + '</td>' +
+        (r.consent ? '<td>' + esc(r.nom || '') + '</td><td>' + esc(r.email || '') + (r.tel ? '<br><span class="em-mu">' + esc(r.tel) + '</span>' : '') + '</td>' : '<td class="em-mu">Non communiqué</td><td class="em-mu">Consentement non donné</td>') +
+        '<td>' + (r.lien ? '<a href="' + esc(r.lien) + '" target="_blank" rel="noopener">Ouvrir</a>' : '<span class="em-mu">–</span>') + '</td></tr>';
+    }).join('');
+    first = false;
+    var done = L.filter(function (r) { return r.statut !== 'error'; });
+    $('k-n').textContent = done.length.toLocaleString('fr-FR');
+    $('k-c').textContent = L.filter(function (r) { return r.consent; }).length.toLocaleString('fr-FR');
+    var zc = {}; done.forEach(function (r) { if (r.zone) zc[r.zone] = (zc[r.zone] || 0) + 1; });
+    var top = Object.keys(zc).sort(function (a, b) { return zc[b] - zc[a]; })[0];
+    $('k-z').textContent = top || '–';
+    var vv = done.filter(function (r) { return r.verdict; });
+    $('k-o').textContent = vv.length ? Math.round(100 * vv.filter(function (r) { return r.verdict === 'ok'; }).length / vv.length) + ' %' : '–';
+    $('em-ex-note').hidden = !ALL.some(function (r) { return r.exemple; });
+  }
+  function load() {
+    return fetch(API + '?ville=' + encodeURIComponent(slug), { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ action: 'espace', k: key }) })
+      .then(function (r) { if (!r.ok) throw r.status; return r.json(); })
+      .then(function (j) { if (!V) setup(j.ville); ALL = j.demandes || []; render(); });
+  }
+  function setup(v) {
+    V = v; $('em-app').hidden = false;
+    var lib = v.libelle.charAt(0).toUpperCase() + v.libelle.slice(1);
+    $('em-ville').innerHTML = v.logo ? '<img src="' + esc(v.logo) + '" alt="' + esc(lib) + '">' : esc(lib);
+    var mo = new Date().toLocaleDateString('fr-FR', { month: 'long', year: 'numeric' });
+    $('em-per-l').textContent = 'Service urbanisme · ' + mo;
+    var url = location.origin + '/ville/' + v.slug;
+    $('em-url').value = url; $('em-open').href = url;
+    if (v.demo) {
+      $('em-demo-note').hidden = false; $('em-demo-l').hidden = false;
+      fetch(API + '?ville=' + encodeURIComponent(slug), { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ action: 'demo_lien', k: key }) })
+        .then(function (r) { return r.ok ? r.json() : null; }).then(function (j) { if (j && j.k) { var d = url + '?k=' + j.k; $('em-durl').value = d; $('em-dopen').href = d; } else $('em-demo-l').hidden = true; }).catch(function () {});
+    }
+    var btn = '<a href="' + url + '" target="_blank" rel="noopener" style="display:inline-block;background:#A3462C;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-weight:700;font-size:16px;line-height:1.2;text-decoration:none;padding:14px 22px;border-radius:10px">Analyser mon terrain</a>';
+    $('em-prev').innerHTML = btn; $('em-site-btn').innerHTML = btn.replace('font-size:16px', 'font-size:14px').replace('padding:14px 22px', 'padding:10px 16px');
+    $('em-snip').textContent = '<!-- Bouton TerrenUrbanisme : rapport d\'urbanisme offert par ' + v.libelle + ' -->\n' + btn;
+    $('em-site-n').textContent = 'Mairie de ' + v.nom;
+    $('em-site-url').textContent = 'site-de-la-mairie.fr/services-en-ligne';
+    $('em-abo').innerHTML = '<dt>Commune</dt><dd>' + esc(v.nom) + '</dd><dt>Formule</dt><dd>' + esc(v.formule || 'Offre communale') + '</dd><dt>Statut</dt><dd>' + (v.demo ? 'Démonstration' : v.actif ? 'Actif' : 'Inactif') + '</dd>' + (v.fin ? '<dt>Échéance</dt><dd>' + new Date(v.fin).toLocaleDateString('fr-FR') + '</dd>' : '') + '<dt>Parcelles couvertes</dt><dd>Toute la commune (INSEE ' + esc(v.insee.join(', ')) + ')</dd>';
+    document.title = 'Espace mairie · ' + v.nom + ' | TerrenUrbanisme';
+  }
+  document.querySelectorAll('.em-tabs button').forEach(function (b) {
+    b.addEventListener('click', function () {
+      document.querySelectorAll('.em-tabs button').forEach(function (x) { x.setAttribute('aria-selected', x === b ? 'true' : 'false'); });
+      document.querySelectorAll('[data-p]').forEach(function (p) { p.hidden = p.getAttribute('data-p') !== b.getAttribute('data-t'); });
+    });
+  });
+  $('em-per').addEventListener('change', render); $('em-q').addEventListener('input', render);
+  document.addEventListener('click', function (e) {
+    var b = e.target.closest('[data-copy]'); if (!b) return;
+    var el = $(b.getAttribute('data-copy')), t = el.value != null && el.tagName === 'INPUT' ? el.value : el.textContent;
+    var done = function () { var o = b.textContent; b.textContent = 'Copié'; setTimeout(function () { b.textContent = o; }, 1500); };
+    if (navigator.clipboard) navigator.clipboard.writeText(t).then(done, function () { if (el.select) el.select(); });
+    else if (el.select) el.select();
+  });
+  $('em-exp').addEventListener('click', function () {
+    var L = rows(), sep = ';', q = function (s) { s = String(s == null ? '' : s); return /[";\n]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s; };
+    var out = ['Date;Commune;Section;Numéro;Zone;Verdict;Projet;Nom;E-mail;Téléphone;Consentement;Lien du rapport'];
+    L.forEach(function (r) { out.push([new Date(r.date).toLocaleString('fr-FR'), r.commune, r.section, r.numero, r.zone, (VW[r.verdict] || ['', ''])[1], r.projet, r.nom, r.email, r.tel, r.consent ? 'Oui' : 'Non', r.lien].map(q).join(sep)); });
+    var blob = new Blob(['﻿' + out.join('\r\n')], { type: 'text/csv;charset=utf-8' }), a = document.createElement('a');
+    a.href = URL.createObjectURL(blob); a.download = 'demandes-' + slug + '-' + new Date().toISOString().slice(0, 10) + '.csv'; document.body.appendChild(a); a.click(); a.remove();
+  });
+  load().catch(function () { $('em-app').hidden = true; $('em-login').hidden = false; });
+  setInterval(function () { if (!document.hidden) load().catch(function () {}); }, 20000);
+})();
+</script>
+</body>
+</html>
