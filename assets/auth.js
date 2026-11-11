@@ -18,7 +18,7 @@
       if (!sb) return Promise.resolve(null);
       return Auth.user().then(function(u){ if (!u) return null; return sb.from('comptes').select('*').eq('user_id', u.id).maybeSingle().then(function(r){ var c = r.data || { credits_abonnement:0, credits_achetes:0 }; var sub = ['active','trialing'].indexOf(c.statut_abonnement) >= 0; c.total = (sub ? c.credits_abonnement : 0) + c.credits_achetes; c.abonne = ['active','trialing','past_due','unpaid','incomplete'].indexOf(c.statut_abonnement) >= 0; return c; }); }).catch(function(){ return null; });
     },
-    /* Paiement : kind = unit | pack2 | pack3 | pro | cabinet | pro_an | cabinet_an ; parcel facultatif (le premier rapport porte sur la parcelle) */
+    /* Paiement : kind = unit | pack2 | pack3 | essentiel | pro | cabinet | essentiel_an | pro_an | cabinet_an ; parcel facultatif (le premier rapport porte sur la parcelle) */
     checkout: function(kind, parcel){
       if (!sb) return Promise.reject(new Error('off'));
       return Auth.user().then(function(u){
@@ -221,7 +221,7 @@
       if (!u){ location.replace(Auth.loginUrl('/espace.html')); return; }
       // Mesure de la vente (Google Ads, Meta), envoyée une seule fois et seulement avec le consentement du visiteur
       if (sid && /^cs_/.test(sid) && window.TU_conversion){
-        var PRIX = { unit:19.9, pack2:29.8, pack3:38.7, pro:55, cabinet:139, pro_an:550, cabinet_an:1390 };
+        var PRIX = { unit:19.9, pack2:29.8, pack3:38.7, essentiel:29, pro:55, cabinet:139, essentiel_an:290, pro_an:550, cabinet_an:1390 };
         var once = true; try { once = !localStorage.getItem('tu_conv_' + sid); localStorage.setItem('tu_conv_' + sid, '1'); } catch (e) {}
         if (once) window.TU_conversion(PRIX[achat || qs.get('k') || 'unit'] || 19.9, sid);
       }
@@ -265,7 +265,7 @@
     var box = $('esp-offre'); if (!box) return;
     Auth.account().then(function(c){
       c = c || { total:0 };
-      var plan = c.formule ? ({ essentiel:'Essentiel', pro:'Agence', cabinet:'Réseau', essentiel_an:'Essentiel annuel', pro_an:'Agence annuel', cabinet_an:'Réseau annuel' })[c.formule] : null;
+      var plan = c.formule ? ({ essentiel:'Solo', pro:'Agence', cabinet:'Réseau', essentiel_an:'Solo annuel', pro_an:'Agence annuel', cabinet_an:'Réseau annuel' })[c.formule] : null;
       var fin = c.fin_periode ? new Date(c.fin_periode).toLocaleDateString('fr-FR') : '';
       var status = !c.abonne ? 'Sans abonnement' : c.statut_abonnement === 'past_due' ? 'Paiement à régulariser' : c.resiliation_prevue ? 'Résilié, actif jusqu\'au ' + fin : 'Renouvellement le ' + fin;
       box.innerHTML = '<div class="acct">' +

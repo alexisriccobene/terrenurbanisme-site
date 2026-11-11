@@ -575,6 +575,7 @@
   try { if (localStorage.getItem('tu_bill') === 'a') billing = 'a'; } catch (e) {}
   // Prix TTC : mensuel, et annuel ramené au mois (payé en une fois)
   var SUB = {
+    essentiel: { name: 'Solo',      m: 29,  a: 290 / 12,  n: 15 },
     pro:       { name: 'Agence',    m: 55,  a: 550 / 12,  n: 50 },
     cabinet:   { name: 'Réseau',    m: 139, a: 1390 / 12, n: 150 }
   };

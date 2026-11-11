@@ -661,3 +661,11 @@ footer .social{display:flex;gap:10px;margin-top:18px}footer .social a{display:in
 .vl-demo-act{display:inline-flex;gap:8px;margin-left:12px;align-items:center}
 .vl-demo-act label,.vl-demo-act button{font:inherit;font-size:12.5px;font-weight:650;color:#fff;background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.35);border-radius:8px;padding:3px 10px;cursor:pointer}
 @media (max-width:620px){.vl-demo-act{display:flex;justify-content:center;margin:6px 0 0}}
+.auth-tabs{display:grid;grid-template-columns:1fr 1fr;gap:4px;background:var(--soft2);border-radius:12px;padding:4px;margin-bottom:22px}
+.auth-tabs button{font:inherit;font-size:14px;font-weight:650;border:0;background:none;border-radius:9px;padding:10px 8px;color:var(--muet);cursor:pointer}
+.auth-tabs button[aria-selected=true]{background:var(--surface);color:var(--ink);box-shadow:0 1px 3px rgba(42,29,23,.12)}
+#mairie-form{display:grid;gap:14px}
+#mairie-form[hidden]{display:none}
+#mairie-form .field input{width:100%}
+.auth-rem{display:flex;gap:8px;align-items:center;font-size:14px;color:var(--muet)}
+.auth-rem input{accent-color:var(--t);width:18px;height:18px}
