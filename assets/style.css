@@ -597,4 +597,33 @@ footer .social{display:flex;gap:10px;margin-top:18px}footer .social a{display:in
 .tbl-offre th,.tbl-offre td{padding:10px 12px;border-bottom:1px solid var(--ligne);text-align:left}
 .tbl-offre th{font-size:13px;color:var(--muet);font-weight:600}
 .tbl-offre td+td{font-weight:600;white-space:nowrap}
-@media (max-width:620px){.tbl-offre{font-size:14px}.tbl-offre th,.tbl-offre td{padding:8px 6px}}
+@media (max-width:620px){.tbl-offre{font-size:14px;display:block;overflow-x:auto;-webkit-overflow-scrolling:touch}.tbl-offre th,.tbl-offre td{padding:8px 6px}.tbl-offre td+td{white-space:normal}}
+
+/* Calculateur de temps gagné */
+.roi{background:var(--surface);border:1px solid var(--ligne);border-radius:20px;padding:clamp(22px,4vw,44px);box-shadow:0 18px 50px rgba(42,29,23,.06)}
+.roi-eb{font-size:13px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--t);margin-bottom:12px}
+.roi-head{max-width:760px;margin-bottom:30px}
+.roi-head h2{text-wrap:balance}
+.roi-grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:28px;align-items:start}
+@media (max-width:820px){.roi-grid{grid-template-columns:1fr}}
+.roi-in{display:grid;gap:14px}
+.roi-in label{display:flex;flex-direction:column;gap:6px;font-size:14px;font-weight:600;color:var(--muet)}
+.roi-in select,.roi-in input{font:inherit;font-size:17px;color:var(--ink);background:var(--soft2);border:1.5px solid var(--ligne);border-radius:12px;padding:11px 14px;width:100%;min-width:0}
+.roi-in select:focus,.roi-in input:focus{border-color:var(--t);outline:none}
+.roi-v{display:flex;align-items:center;gap:10px;color:var(--ink);font-size:17px}
+.roi-v input{max-width:140px}
+.roi-out{background:var(--soft2);border-radius:16px;padding:8px 22px 18px}
+.roi-k{display:flex;justify-content:space-between;align-items:baseline;gap:14px;padding:14px 0;border-bottom:1px solid var(--ligne)}
+.roi-k span{font-size:15px;color:var(--muet)}
+.roi-k b{font-size:22px;font-weight:750;white-space:nowrap}
+.roi-net{border-bottom:0}
+.roi-net span{color:var(--ink);font-weight:700}
+.roi-net b{font-size:clamp(30px,4vw,40px);color:var(--ok)}
+.roi-x{font-size:15px;color:var(--ink);margin-top:6px}
+.roi-det{margin-top:26px;border-top:1px solid var(--ligne);padding-top:18px}
+.roi-det summary{cursor:pointer;font-weight:700;color:var(--t)}
+.roi-det table{width:100%;border-collapse:collapse;margin:14px 0 10px;font-size:15px}
+.roi-det td{padding:9px 0;border-bottom:1px solid var(--ligne)}
+.roi-det td+td{text-align:right;white-space:nowrap;padding-left:14px;color:var(--muet)}
+.roi-tot td{font-weight:700;color:var(--ink)!important}
+.roi-det .muted{font-size:13px;color:var(--muet)}
