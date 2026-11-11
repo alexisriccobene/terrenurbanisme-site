@@ -594,6 +594,7 @@
       if (save) save.innerHTML = an ? 'Facturé ' + eur(P.a * 12) + ' par an · <b>économisez ' + eur((P.m - P.a) * 12) + '</b>' : '';
       unit.textContent = an ? (P.n * 12).toLocaleString('fr-FR') + ' rapports par an · ' + eur(P.a / P.n) + ' le rapport' : P.n + ' rapports par mois · ' + eur(P.m / P.n) + ' le rapport';
       var li = card.querySelector('.li-renew'); if (li) li.textContent = an ? 'Tous les rapports de l\'année disponibles dès le paiement' : 'Rapports renouvelés chaque mois';
+      var lg = card.querySelector('.li-logo'); if (lg) lg.hidden = cur === 'essentiel';
       var lf = card.querySelector('.li-fact'); if (lf) lf.textContent = an ? 'Une facture annuelle automatique' : 'Factures mensuelles automatiques';
       btn.textContent = 'Démarrer ' + P.name + (an ? ' annuel' : '') + ' →'; btn.setAttribute('data-kind', cur + (an ? '_an' : ''));
     }
