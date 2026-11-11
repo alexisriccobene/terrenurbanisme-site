@@ -16,7 +16,7 @@
     /* Solde et abonnement du client */
     account: function(){
       if (!sb) return Promise.resolve(null);
-      return Auth.user().then(function(u){ if (!u) return null; return sb.from('comptes').select('*').eq('user_id', u.id).maybeSingle().then(function(r){ var c = r.data || { credits_abonnement:0, credits_achetes:0 }; var sub = ['active','trialing'].indexOf(c.statut_abonnement) >= 0; c.total = (sub ? c.credits_abonnement : 0) + c.credits_achetes; c.abonne = ['active','trialing','past_due','unpaid','incomplete'].indexOf(c.statut_abonnement) >= 0; return c; }); }).catch(function(){ return null; });
+      return Auth.user().then(function(u){ if (!u) return null; return sb.from('comptes').select('*').eq('user_id', u.id).maybeSingle().then(function(r){ var c = r.data || { credits_abonnement:0, credits_achetes:0 }; var sub = ['active','trialing'].indexOf(c.statut_abonnement) >= 0; c.total = (sub ? c.credits_abonnement : 0) + c.credits_achetes; c.abonne = ['active','trialing','past_due','unpaid','incomplete'].indexOf(c.statut_abonnement) >= 0; return Auth.mairie().then(function(mr){ if (mr && mr.illimite){ c.illimite = true; c.total = 9999; } return c; }); }); }).catch(function(){ return null; });
     },
     /* Paiement : kind = unit | pack2 | pack3 | essentiel | pro | cabinet | essentiel_an | pro_an | cabinet_an ; parcel facultatif (le premier rapport porte sur la parcelle) */
     checkout: function(kind, parcel){
@@ -194,6 +194,7 @@
             var parcel = { insee: b.dataset.insee, commune: b.dataset.commune, section: b.dataset.section, numero: b.dataset.numero };
             b.disabled = true; b.textContent = 'Un instant…';
             Auth.account().then(function(c){
+              if (c && c.illimite) return Auth.generate(parcel);
               if (c && c.total > 0){ if (!confirm('Générer le rapport complet de ' + parcel.commune + ' ' + parcel.section + ' ' + parcel.numero + ' ? 1 rapport sera décompté de votre solde (' + c.total + ').')) { b.disabled = false; b.textContent = 'Rapport complet'; return; } return Auth.generate(parcel); }
               return Auth.checkout('unit', parcel);
             }).catch(function(){ b.disabled = false; b.textContent = 'Réessayer'; });
@@ -328,8 +329,8 @@
       var fin = c.fin_periode ? new Date(c.fin_periode).toLocaleDateString('fr-FR') : '';
       var status = !c.abonne ? 'Sans abonnement' : c.statut_abonnement === 'past_due' ? 'Paiement à régulariser' : c.resiliation_prevue ? 'Résilié, actif jusqu\'au ' + fin : 'Renouvellement le ' + fin;
       box.innerHTML = '<div class="acct">' +
-        '<div><small>Rapports disponibles</small><b>' + c.total + '</b>' + (c.abonne ? '<span>dont ' + (c.credits_abonnement || 0) + ' de l\'abonnement' + (c.credits_achetes ? ' et ' + c.credits_achetes + ' achetés' : '') + '</span>' : '') + '</div>' +
-        '<div><small>Formule</small><b>' + (plan || 'À l\'unité') + '</b><span>' + esc(status) + '</span></div>' +
+        '<div><small>Rapports disponibles</small><b>' + (c.illimite ? 'Illimité' : c.total) + '</b>' + (c.abonne ? '<span>dont ' + (c.credits_abonnement || 0) + ' de l\'abonnement' + (c.credits_achetes ? ' et ' + c.credits_achetes + ' achetés' : '') + '</span>' : '') + '</div>' +
+        '<div><small>Formule</small><b>' + (c.illimite ? 'Démonstration' : plan || 'À l\'unité') + '</b><span>' + esc(c.illimite ? 'Rapports illimités, sans décompte' : status) + '</span></div>' +
         '<div class="acct-act"><a class="btn" href="/tarifs.html">' + (c.abonne ? 'Ajouter des rapports' : 'Voir les formules') + '</a>' + (c.stripe_customer ? '<button type="button" class="btn ghost" id="portal">' + (c.abonne ? 'Gérer mon abonnement' : 'Mes factures') + '</button>' : '') + '</div></div>';
       var pb = $('portal'); if (pb) pb.addEventListener('click', function(){ pb.disabled = true; pb.textContent = 'Ouverture…'; Auth.portal().catch(function(){ pb.disabled = false; pb.textContent = 'Réessayer'; }); });
     });
