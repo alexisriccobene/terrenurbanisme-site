@@ -23,11 +23,11 @@
 <main><div class="wrap" style="max-width:680px;padding-block:64px">
 <h1>Connexion TikTok</h1>
 <div id="ok" hidden><p>L'autorisation TikTok est bien reçue. La publication automatique des vidéos TerrenUrbanisme est en cours d'activation ; vous pouvez fermer cette page.</p>
-<p style="font-size:13px;opacity:.7">Code d'autorisation (usage unique, valable quelques minutes) :</p><p id="c" style="word-break:break-all;font-family:monospace;font-size:13px"></p></div>
+<p style="font-size:13px;opacity:.7">Code d'autorisation (usage unique, valable quelques minutes) :</p><p id="c" style="word-break:break-all;font-family:monospace;font-size:13px"></p><p><button id="cp" class="btn" type="button">Copier le code</button></p></div>
 <div id="ko" hidden><p>Aucune autorisation reçue. Recommencez depuis le lien de connexion TikTok.</p></div>
 <p style="margin-top:32px;font-size:14px"><a href="/confidentialite.html">Politique de confidentialité</a> · <a href="/cgv.html">Conditions générales</a> · contact@terrenurbanisme.com</p>
 </div></main>
-<script>const q=new URLSearchParams(location.search),c=q.get('code');if(c){document.getElementById('c').textContent=c;document.getElementById('ok').hidden=false}else{document.getElementById('ko').hidden=false}</script>
+<script src="/assets/tiktok-retour.js" defer></script>
 
 <footer><div class="wrap">
 <div class="cols">
