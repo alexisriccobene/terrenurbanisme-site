@@ -1,0 +1,43 @@
+name: TikTok
+on:
+  schedule:
+    - cron: '4,19,34,49 * * * *'
+  push:
+    branches: [main]
+    paths: [.github/social/tiktok_demande.json]
+  workflow_dispatch:
+permissions:
+  contents: write
+  issues: write
+concurrency:
+  group: tiktok
+  cancel-in-progress: false
+jobs:
+  tiktok:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Action TikTok
+        env:
+          TIKTOK_CLIENT_KEY: ${{ secrets.TIKTOK_CLIENT_KEY }}
+          TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
+          TIKTOK_CODE: ${{ secrets.TIKTOK_CODE }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ "${{ github.event_name }}" = "push" ]; then
+            export MODE=$(python3 -c "import json;print(json.load(open('.github/social/tiktok_demande.json'))['mode'])")
+            export TIKTOK_TEST=$(python3 -c "import json;print(json.load(open('.github/social/tiktok_demande.json')).get('essai',''))")
+          else export MODE=publier; fi
+          python3 .github/scripts/tiktok.py || { echo ECHEC > /tmp/echec; }
+          if [ -f /tmp/echec ] && [ "$MODE" = "publier" ]; then
+            t="Échec de publication TikTok"; if ! gh issue list --state open --search "$t in:title" --json number -q '.[0].number' | grep -q .; then
+              gh issue create --title "$t" --assignee "${GITHUB_REPOSITORY%%/*}" --body "Une publication TikTok n'est pas partie. Ouvrez la conversation Claude TerrenUrbanisme et écrivez : « alerte TikTok »."; fi
+          fi
+      - name: Enregistrer
+        if: always()
+        run: |
+          if [ -n "$(git status --porcelain .github/social)" ]; then
+            git config user.name "TerrenUrbanisme publication"; git config user.email "contact@terrenurbanisme.com"
+            git add .github/social; git commit -m "TikTok : mise à jour" && git pull --rebase && git push
+          fi
