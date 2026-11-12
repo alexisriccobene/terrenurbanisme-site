@@ -1,0 +1,29 @@
+name: Photo Facebook (hébergement)
+on:
+  workflow_dispatch:
+    inputs:
+      fichier: {description: 'fichier dans .github/social/img', required: true}
+jobs:
+  photo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Envoyer la photo non publiée sur la page
+        env:
+          T: ${{ secrets.META_PAGE_TOKEN }}
+          P: ${{ secrets.FB_PAGE_ID }}
+          F: ${{ inputs.fichier }}
+          R: ${{ github.repository }}
+        run: |
+          python3 - <<'PY'
+          import os,json,urllib.request,urllib.parse
+          G='https://graph.facebook.com/v26.0'
+          def api(m,p,**k):
+              k['access_token']=os.environ['T'];d=urllib.parse.urlencode(k)
+              u=G+p+('?'+d if m=='GET' else '')
+              r=urllib.request.Request(u,data=None if m=='GET' else d.encode(),method=m)
+              return json.loads(urllib.request.urlopen(r,timeout=120).read())
+          url='https://raw.githubusercontent.com/%s/main/.github/social/img/%s'%(os.environ['R'],os.environ['F'])
+          ph=api('POST','/%s/photos'%os.environ['P'],url=url,published='false')['id']
+          im=api('GET','/'+ph,fields='images')['images'][0]['source']
+          print('PHOTO_URL='+im)
+          PY
