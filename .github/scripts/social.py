@@ -245,6 +245,10 @@ if MODE == 'verifier':
             print('::notice::Connexion LinkedIn OK : page « %s »' % etat['linkedin']['page'])
         except Exception as e: etat['linkedin'] = 'erreur : ' + str(e)[:400]; print('::error::LinkedIn : ' + str(e)[:400])
     else: etat['linkedin'] = 'non configuré'
+    if YT_ON:
+        try:
+            urllib.request.urlopen(urllib.request.Request(YT_FN + '?yt=chaine', data=b'{}', method='POST', headers={'x-tu-admin': YT_KEY, 'content-type': 'application/json'}), timeout=60).read(); etat['youtube'] = 'connecté'
+        except Exception as e: etat['youtube'] = 'erreur : ' + str(e)[:300]
     json.dump(etat, open('.github/social/etat.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     sys.exit(0)
 
