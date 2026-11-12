@@ -1,7 +1,7 @@
 {
  "page": "TerrenUrbanisme",
  "instagram": "17841411573365600",
- "controle": "2026-11-12T17:56+01:00",
+ "controle": "2026-11-12T18:29+01:00",
  "nov-m06 instagram": {
   "id": "18380476807208922",
   "media_type": "CAROUSEL_ALBUM",
@@ -20,7 +20,7 @@
   "permalink": "https://www.instagram.com/stories/terrenurbanisme/4028742211978369227",
   "timestamp": "2026-11-12T11:38:47+0000"
  },
- "story-biens-5 facebook": "erreur : Meta 400 /1760147915682030 : {\"error\":{\"message\":\"(#100) Tried accessing nonexisting field (id)\",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"A9WVaL9_iL7bHN_NCS56eWg\"}}",
+ "story-biens-5 facebook": "erreur : Meta 400 /1760147915682030 : {\"error\":{\"message\":\"(#100) Tried accessing nonexisting field (id)\",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"AbNaH7yWdKjxVzVhb0XWwPu\"}}",
  "li-2026-11-12 linkedin": "erreur : Meta 400 /urn:li:share:7526609475319971840 : {\"error\":{\"message\":\"Unsupported get request. Object with ID 'urn:li:share:7526609475319971840' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\/\\/developer",
  "stories facebook de la page": [
   {
