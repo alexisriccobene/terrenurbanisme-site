@@ -1,6 +1,6 @@
 {
  "lien_connexion": "https://www.tiktok.com/v2/auth/authorize/?client_key=sbaw7txhz9gywdsjcn&scope=user.info.basic%2Cvideo.upload%2Cvideo.publish&response_type=code&redirect_uri=https%3A%2F%2Fterrenurbanisme.com%2Ftiktok-retour.html&state=444d11bac57dd24f",
- "controle": "2026-11-12T17:44+01:00",
+ "controle": "2026-11-12T17:46+01:00",
  "connexion": "OK",
  "compte": "terrenurbanisme",
  "nom": "TerrenUrbanisme",
@@ -11,5 +11,10 @@
   "SELF_ONLY"
  ],
  "duree_video_max_s": 3600,
- "reconnexion_avant": "12/11/2027"
+ "reconnexion_avant": "12/11/2027",
+ "essai reel-tu-13": {
+  "id": "v_inbox_file~v2.7707327193713641494",
+  "mode": "brouillon dans TikTok",
+  "statut": "SEND_TO_USER_INBOX"
+ }
 }
