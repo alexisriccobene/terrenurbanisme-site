@@ -149,8 +149,26 @@ def jpgs_to_pdf(files):
     out += b'trailer\n<< /Size %d /Root 1 0 R >>\nstartxref\n%d\n%%%%EOF' % (len(allobjs) + 1, x)
     return bytes(out)
 
+def li_video(fname):
+    data = open('.github/social/img/' + fname, 'rb').read()
+    r = li('POST', '/videos?action=initializeUpload', {'initializeUploadRequest': {'owner': 'urn:li:organization:' + LI_ORG, 'fileSizeBytes': len(data), 'uploadCaptions': False, 'uploadThumbnail': False}})['value']
+    etags = []
+    for ins in r['uploadInstructions']:
+        part = data[ins['firstByte']:ins['lastByte'] + 1]
+        req = urllib.request.Request(ins['uploadUrl'], data=part, method='PUT', headers={'Content-Type': 'application/octet-stream'})
+        with urllib.request.urlopen(req, timeout=300) as up: etags.append(up.headers.get('ETag'))
+    li('POST', '/videos?action=finalizeUpload', {'finalizeUploadRequest': {'video': r['video'], 'uploadToken': r.get('uploadToken', ''), 'uploadedPartIds': etags}})
+    for _ in range(60):
+        st = li('GET', '/videos/' + urllib.parse.quote(r['video'], safe='')).get('status')
+        if st == 'AVAILABLE': break
+        if st == 'PROCESSING_FAILED': raise RuntimeError('LinkedIn : vidéo refusée')
+        time.sleep(5)
+    return r['video']
+
 def publish_li(p):
-    if len(p['images']) == 1:
+    if p.get('video'):
+        content = {'media': {'title': p.get('theme', 'TerrenUrbanisme')[:200], 'id': li_video(p['video'])}}
+    elif len(p['images']) == 1:
         content = {'media': {'id': li_image(p['images'][0]), 'altText': p.get('theme', '')[:120]}}
     else:  # carrousel : document PDF (format carrousel natif de LinkedIn)
         r = li('POST', '/documents?action=initializeUpload', {'initializeUploadRequest': {'owner': 'urn:li:organization:' + LI_ORG}})['value']
@@ -268,7 +286,7 @@ for p in plan:
             ('youtube', lambda: publish_yt(p)))
     for net, fn in jobs:
         if net not in p.get('reseaux', ['instagram', 'facebook']) or d.get(net): continue
-        if net == 'linkedin' and (story or reel or not LI_ON): continue
+        if net == 'linkedin' and (story or not LI_ON): continue
         if net == 'youtube' and (not reel or not YT_ON): continue
         if d.get(net + '_echecs', 0) >= 2: continue  # deux échecs : on n'insiste pas (évite les alertes en boucle)
         try:
