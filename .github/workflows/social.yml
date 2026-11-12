@@ -27,6 +27,7 @@ jobs:
           LINKEDIN_CLIENT_ID: ${{ secrets.LINKEDIN_CLIENT_ID }}
           LINKEDIN_CLIENT_SECRET: ${{ secrets.LINKEDIN_CLIENT_SECRET }}
           LINKEDIN_ORG: ${{ secrets.LINKEDIN_ORG }}
+          TU_ADMIN_KEY: ${{ secrets.TU_ADMIN_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           MODE: ${{ github.event_name == 'push' && 'verifier' || 'publier' }}
         run: python3 .github/scripts/social.py

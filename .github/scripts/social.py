@@ -170,6 +170,34 @@ def publish_li(p):
     return r.headers.get('x-restli-id') or r.headers.get('x-linkedin-id') or 'ok'
 LI_ON = bool(LI_TOKEN and LI_ORG)
 
+# YouTube Shorts : jeton d'accès fourni par la fonction du site (connexion OAuth enregistrée côté serveur)
+YT_KEY = os.environ.get('TU_ADMIN_KEY', '')
+YT_FN = 'https://nmoigruxnhsidrhqtzid.supabase.co/functions/v1/stripe-webhook'
+YT = {'token': None}
+def yt_token():
+    if YT['token']: return YT['token']
+    req = urllib.request.Request(YT_FN + '?yt=token', data=b'{}', method='POST', headers={'x-tu-admin': YT_KEY, 'content-type': 'application/json'})
+    try:
+        with urllib.request.urlopen(req, timeout=60) as r: YT['token'] = json.loads(r.read())['access_token']
+    except urllib.error.HTTPError as e: raise RuntimeError('YouTube : ' + e.read()[:300].decode(errors='replace'))
+    return YT['token']
+
+def publish_yt(p):
+    data = open('.github/social/img/' + p['video'], 'rb').read()
+    titre = (p.get('titre_youtube') or p.get('theme') or 'TerrenUrbanisme')[:100]
+    if '#Shorts' not in titre and len(titre) < 92: titre += ' #Shorts'
+    meta = {'snippet': {'title': titre, 'description': (p.get('texte_youtube') or p.get('texte_facebook') or p.get('texte_instagram') or '')[:4900],
+                        'categoryId': '27', 'defaultLanguage': 'fr', 'defaultAudioLanguage': 'fr', 'tags': ['urbanisme', 'PLU', 'terrain constructible', 'immobilier', 'TerrenUrbanisme']},
+            'status': {'privacyStatus': 'public', 'selfDeclaredMadeForKids': False}}
+    h = {'Authorization': 'Bearer ' + yt_token(), 'Content-Type': 'application/json; charset=UTF-8', 'X-Upload-Content-Type': 'video/mp4', 'X-Upload-Content-Length': str(len(data))}
+    req = urllib.request.Request('https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status', data=json.dumps(meta).encode(), method='POST', headers=h)
+    try:
+        with urllib.request.urlopen(req, timeout=60) as r: loc = r.headers['Location']
+        up = urllib.request.Request(loc, data=data, method='PUT', headers={'Authorization': 'Bearer ' + yt_token(), 'Content-Type': 'video/mp4'})
+        with urllib.request.urlopen(up, timeout=600) as r: return json.loads(r.read())['id']
+    except urllib.error.HTTPError as e: raise RuntimeError('YouTube %s : %s' % (e.code, e.read()[:400].decode(errors='replace')))
+YT_ON = bool(YT_KEY)
+
 if not TOKEN or not PAGE:
     print('::warning::Publication automatique non configurée (secrets META_PAGE_TOKEN et FB_PAGE_ID manquants)'); sys.exit(0)
 def alerte_expiration():
@@ -232,10 +260,12 @@ for p in plan:
     story = p.get('type') == 'story'; reel = p.get('type') == 'reel'
     jobs = (('instagram', lambda: publish_ig_reel(ig, p) if reel else publish_ig_story(ig, p) if story else publish_ig(ig, p)),
             ('facebook', lambda: publish_fb_video(p) if reel else publish_fb_story(p) if story else publish_fb(p)),
-            ('linkedin', lambda: publish_li(p)))
+            ('linkedin', lambda: publish_li(p)),
+            ('youtube', lambda: publish_yt(p)))
     for net, fn in jobs:
         if net not in p.get('reseaux', ['instagram', 'facebook']) or d.get(net): continue
         if net == 'linkedin' and (story or reel or not LI_ON): continue
+        if net == 'youtube' and (not reel or not YT_ON): continue
         if d.get(net + '_echecs', 0) >= 2: continue  # deux échecs : on n'insiste pas (évite les alertes en boucle)
         try:
             d[net] = fn(); changed = True; print('::notice::%s publié sur %s (%s)' % (p['id'], net, d[net]))
