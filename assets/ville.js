@@ -34,7 +34,7 @@
     if (V.demo) { document.getElementById('vl-demo').hidden = false; txt('vl-demo-n', V.libelle); demoLogo(V, Lib); }
     if (!V.actif) { var e = document.getElementById('err'); if (e) e.textContent = 'Ce service n’est pas actif pour le moment.'; }
     var hint = document.querySelector('.scope .hint span'); if (hint) hint.textContent = 'Zoomez sur votre terrain à ' + V.nom + ', puis cliquez sur la parcelle.';
-    return load('/assets/leaflet.js?v=v84').then(function () { return load('/assets/turf.min.js?v=v84'); }).then(function () { return load('/assets/app.js?v=v84'); });
+    return load('/assets/leaflet.js?v=v85').then(function () { return load('/assets/turf.min.js?v=v85'); }).then(function () { return load('/assets/app.js?v=v85'); });
   }).catch(function () {
     document.querySelector('main').innerHTML = '<section class="sec"><div class="wrap"><h1>Page introuvable</h1><p class="lede">Ce service communal n’existe pas ou n’est plus disponible. Retrouvez TerrenUrbanisme sur <a href="/">terrenurbanisme.com</a>.</p></div></section>';
   });
