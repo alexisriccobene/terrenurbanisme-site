@@ -1,38 +1,46 @@
 {
  "page": "TerrenUrbanisme",
  "instagram": "17841411573365600",
- "controle": "2026-11-10T18:26+01:00",
- "tax-story-2 instagram": {
-  "id": "18172654387466253",
-  "media_type": "IMAGE",
-  "permalink": "https://www.instagram.com/stories/terrenurbanisme/4026758531017311263",
-  "timestamp": "2026-11-09T17:57:36+0000"
+ "controle": "2026-11-12T11:57+01:00",
+ "tax-carrousel instagram": {
+  "id": "18110384801188696",
+  "media_type": "CAROUSEL_ALBUM",
+  "permalink": "https://www.instagram.com/p/DfkctoFl0N5/",
+  "timestamp": "2026-11-10T17:31:37+0000"
  },
- "tax-story-2 facebook": "erreur : Meta 400 /2157482541807810 : {\"error\":{\"message\":\"(#100) Tried accessing nonexisting field (id)\",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"AXjBmEAzc-j7Bd67B4SkAZY\"}}",
- "story-biens-3 instagram": {
-  "id": "17956350615269945",
-  "media_type": "IMAGE",
-  "permalink": "https://www.instagram.com/stories/terrenurbanisme/4027290522695985772",
-  "timestamp": "2026-11-10T11:34:33+0000"
+ "tax-carrousel facebook": {
+  "id": "1391519434046151_122115403137511191",
+  "created_time": "2026-11-10T17:31:46+0000",
+  "permalink_url": "https://www.facebook.com/122115000003511191/posts/122115403137511191"
  },
- "story-biens-3 facebook": "erreur : Meta 400 /2131120207506546 : {\"error\":{\"message\":\"(#100) Tried accessing nonexisting field (id)\",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"AY3B3r29BbFo_XGljtFdJp7\"}}",
- "li-2026-11-10 linkedin": "erreur : Meta 400 /urn:li:share:7525883642120740865 : {\"error\":{\"message\":\"Unsupported get request. Object with ID 'urn:li:share:7525883642120740865' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\/\\/developer",
+ "tax-carrousel linkedin": "erreur : Meta 400 /urn:li:ugcPost:7525973532829327361 : {\"error\":{\"message\":\"Unsupported get request. Object with ID 'urn:li:ugcPost:7525973532829327361' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\/\\/devel",
+ "story-biens-4 instagram": {
+  "id": "17918348922551717",
+  "media_type": "IMAGE",
+  "permalink": "https://www.instagram.com/stories/terrenurbanisme/4028023412349606021",
+  "timestamp": "2026-11-11T11:50:41+0000"
+ },
+ "story-biens-4 facebook": "erreur : Meta 400 /1661997202217643 : {\"error\":{\"message\":\"(#100) Tried accessing nonexisting field (id)\",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"Asmimj2yH9Pcc66SeyexJ1E\"}}",
+ "nov-m06 instagram": {
+  "id": "18380476807208922",
+  "media_type": "CAROUSEL_ALBUM",
+  "permalink": "https://www.instagram.com/p/Dfm_IVUGPOE/",
+  "timestamp": "2026-11-11T17:10:52+0000"
+ },
+ "nov-m06 facebook": {
+  "id": "1391519434046151_122115800691511191",
+  "created_time": "2026-11-11T17:11:07+0000",
+  "permalink_url": "https://www.facebook.com/122115000003511191/posts/122115800691511191"
+ },
+ "nov-m06 linkedin": "erreur : Meta 400 /urn:li:ugcPost:7526330739630538752 : {\"error\":{\"message\":\"Unsupported get request. Object with ID 'urn:li:ugcPost:7526330739630538752' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\/\\/devel",
  "stories facebook de la page": [
   {
-   "post_id": "2131120207506546",
+   "post_id": "1661997202217643",
    "status": "published",
-   "creation_time": "1794310481",
+   "creation_time": "1794397848",
    "media_type": "photo",
-   "url": "https://facebook.com/stories/122107188999511191/UzpfSVNDOjIxMzExMjAyMTA4Mzk4Nzk=/?view_single=1",
-   "media_id": "122115316047511191"
-  },
-  {
-   "post_id": "2157482541807810",
-   "status": "published",
-   "creation_time": "1794247063",
-   "media_type": "photo",
-   "url": "https://facebook.com/stories/122107188999511191/UzpfSVNDOjIxNTc0ODI1NDUxNDExNDM=/?view_single=1",
-   "media_id": "122115114825511191"
+   "url": "https://facebook.com/stories/122107188999511191/UzpfSVNDOjE2NjE5OTcyMDg4ODQzMDk=/?view_single=1",
+   "media_id": "122115717375511191"
   }
  ],
  "linkedin": {
