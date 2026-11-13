@@ -40,7 +40,7 @@ jobs:
             openssl enc -aes-256-cbc -pbkdf2 -iter 200000 -salt -in "$src" -out ".github/deploy/$name.ts.enc" -pass "file:$RUNNER_TEMP/k"
             echo "Chiffré : $name ($(wc -c < "$src") octets)"
           done
-          rm -f "$RUNNER_TEMP/k"; rm -rf supabase
+          rm -f "$RUNNER_TEMP/k"; sudo rm -rf supabase || true
       - name: Enregistrer
         run: |
           git config user.name "TerrenUrbanisme"
