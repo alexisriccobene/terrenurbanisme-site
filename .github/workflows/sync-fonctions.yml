@@ -48,4 +48,4 @@ jobs:
           git add .github/deploy
           git diff --cached --quiet && { echo "Rien à mettre à jour"; exit 0; }
           git commit -m "Fonctions : copie chiffrée alignée sur la version en ligne"
-          git push
+          git pull --rebase origin main && git push
