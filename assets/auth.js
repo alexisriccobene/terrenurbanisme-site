@@ -6,6 +6,16 @@
   var sb = ready ? window.supabase.createClient(cfg.supabaseUrl, cfg.supabaseKey, { auth: { flowType: 'implicit', detectSessionInUrl: true, persistSession: true } }) : null;
   var $ = function(id){ return document.getElementById(id); };
 
+  /* Provenance du visiteur (premier passage) : site d'origine, page d'arrivée, utm ; jointe au paiement pour savoir d'où vient chaque vente */
+  var SRC = null;
+  try {
+    SRC = JSON.parse(localStorage.getItem('tu_src') || 'null');
+    var qs0 = new URLSearchParams(location.search), utm0 = ['utm_source','utm_medium','utm_campaign','fbclid','gclid','ttclid'].filter(function(k){ return qs0.get(k); }).map(function(k){ return k + '=' + qs0.get(k).slice(0, 60); }).join('&');
+    var ref0 = ''; try { ref0 = document.referrer ? new URL(document.referrer).hostname : ''; } catch (e) {}
+    if (ref0 === location.hostname) ref0 = '';
+    if (!SRC || utm0){ SRC = { ref: ref0 || (SRC && SRC.ref) || 'direct', page: location.pathname.slice(0, 120), utm: utm0 || (SRC && SRC.utm) || '', d: Date.now() }; localStorage.setItem('tu_src', JSON.stringify(SRC)); }
+  } catch (e) {}
+
   function safeRedirect(r){ r = (r || '').split('#')[0]; return (r && r.charAt(0) === '/' && r.charAt(1) !== '/') ? r : '/espace.html'; }
 
   var Auth = {
@@ -26,6 +36,7 @@
         var invite = !u && /^(unit|pack2|pack3)$/.test(kind);
         if (!u && !invite){ location.href = Auth.loginUrl(location.pathname + location.search); return new Promise(function(){}); }
         var body = Object.assign({ kind: kind }, parcel || {});
+        if (SRC) body.src = { ref: SRC.ref, page: SRC.page, utm: SRC.utm };
         return sb.functions.invoke('create-checkout', { body: body }).then(function(r){
           if (r.error){ return (r.error.context && r.error.context.json ? r.error.context.json() : Promise.resolve({})).then(function(j){ var e = new Error(j && j.error || 'stripe'); e.code = j && j.error; throw e; }); }
           if (!r.data || !r.data.url) throw new Error('no url');
@@ -179,7 +190,7 @@
   if (space){
     Auth.user().then(function(u){
       if (!u){ location.replace(Auth.loginUrl('/espace.html')); return; }
-      askSource(u, merci, sid);
+      // La question « Comment nous avez-vous connu ? » est désormais posée sur la page de paiement
       $('esp-mail').textContent = u.email;
       sb.from('diagnostics').select('*').order('created_at', { ascending:false }).limit(50).then(function(r){
         var seen = {}, rows = (r.data || []).filter(function(d){ var k = d.insee + '|' + d.section + '|' + d.numero; if (seen[k]) return false; seen[k] = 1; return true; }), list = $('esp-list');
@@ -269,6 +280,8 @@
   var merci = $('merci-box');
   if (merci){
     var qs = new URLSearchParams(location.search), sid = qs.get('session_id'), achat = qs.get('achat'), tries = 0;
+    // Enregistre l'origine de la vente (réponse donnée sur la page de paiement)
+    if (sb && sid && /^cs_/.test(sid)) sb.functions.invoke('origine-ventes', { body: { session_id: sid } }).catch(function(){});
     Auth.user().then(function(u){
       // Mesure de la vente (Google Ads, Meta), envoyée une seule fois et seulement avec le consentement du visiteur
       if (sid && /^cs_/.test(sid) && window.TU_conversion){

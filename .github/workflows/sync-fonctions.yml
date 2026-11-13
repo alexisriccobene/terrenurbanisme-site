@@ -1,0 +1,51 @@
+name: Copie chiffrée des fonctions en ligne
+# Télécharge les fonctions déployées (listées dans .github/sync/fonctions.json), les chiffre et met à jour .github/deploy/.
+# Sert quand une fonction a été déployée directement (sans passer par le dépôt) : le dépôt reste identique à ce qui tourne en ligne.
+on:
+  push:
+    branches: [main]
+    paths: ['.github/sync/fonctions.json']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: deploy-fonctions
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
+      REF: nmoigruxnhsidrhqtzid
+    steps:
+      - uses: actions/checkout@v4
+      - uses: supabase/setup-cli@v1
+        with:
+          version: latest
+      - name: Lire la clé dans le coffre
+        run: |
+          set -euo pipefail
+          K=$(curl -sf -X POST "https://api.supabase.com/v1/projects/$REF/database/query" \
+            -H "Authorization: Bearer $SUPABASE_ACCESS_TOKEN" -H "Content-Type: application/json" \
+            -d '{"query":"select decrypted_secret as k from vault.decrypted_secrets where name = '\''tu_deploy_key'\'' limit 1"}' | jq -r '.[0].k')
+          [ ${#K} -eq 64 ] || { echo "::error::clé introuvable"; exit 1; }
+          echo "::add-mask::$K"
+          printf '%s' "$K" > "$RUNNER_TEMP/k"
+      - name: Télécharger et chiffrer
+        run: |
+          set -euo pipefail
+          for name in $(jq -r '.fonctions[]' .github/sync/fonctions.json); do
+            supabase functions download "$name" --project-ref "$REF"
+            src=$(find supabase/functions/$name -name index.ts | head -1)
+            [ -s "$src" ] || { echo "::error::$name introuvable"; exit 1; }
+            openssl enc -aes-256-cbc -pbkdf2 -iter 200000 -salt -in "$src" -out ".github/deploy/$name.ts.enc" -pass "file:$RUNNER_TEMP/k"
+            echo "Chiffré : $name ($(wc -c < "$src") octets)"
+          done
+          rm -f "$RUNNER_TEMP/k"; rm -rf supabase
+      - name: Enregistrer
+        run: |
+          git config user.name "TerrenUrbanisme"
+          git config user.email "contact@terrenurbanisme.com"
+          git add .github/deploy
+          git diff --cached --quiet && { echo "Rien à mettre à jour"; exit 0; }
+          git commit -m "Fonctions : copie chiffrée alignée sur la version en ligne"
+          git push
