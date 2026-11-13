@@ -87,21 +87,51 @@
       }).catch(function(){ box.hidden = true; man.hidden = false; });
     };
     if (com){
+      var seq = 0, last = [];
+      var chercher = function(q){
+        var n = ++seq;
+        var u = /^\d{5}$/.test(q) ? 'https://geo.api.gouv.fr/communes?codePostal=' + q : /^\d[\dAB]\d{3}$/i.test(q) ? 'https://geo.api.gouv.fr/communes?code=' + q.toUpperCase() : 'https://geo.api.gouv.fr/communes?nom=' + encodeURIComponent(q.replace(/\bst\b/gi, 'saint').replace(/\bste\b/gi, 'sainte')) + '&boost=population&limit=8';
+        var essai = function(k){
+          return fetch(u + '&fields=nom,code,codesPostaux,departement').then(function(r){ if (!r.ok) throw 0; return r.json(); }).catch(function(e){ if (k > 0) return new Promise(function(ok){ setTimeout(ok, 600); }).then(function(){ return essai(k - 1); }); throw e; });
+        };
+        return essai(2).then(function(L){
+          if (n !== seq) return last;
+          last = (L || []).slice(0, 8);
+          lst.innerHTML = '';
+          last.forEach(function(c){ var b = document.createElement('button'); b.type = 'button'; b.className = 'ta-opt'; b.innerHTML = '<b></b><span></span>'; b.firstChild.textContent = c.nom; b.lastChild.textContent = ((c.codesPostaux || [])[0] || '') + (c.departement ? ' · ' + c.departement.nom : ''); b.addEventListener('click', function(){ pick(c); }); lst.appendChild(b); });
+          if (!last.length){ lst.innerHTML = '<p class="fine" style="margin:8px 12px">Aucune commune trouvée : vérifiez l\'orthographe ou tapez le code postal.</p>'; }
+          lst.hidden = false;
+          return last;
+        }).catch(function(){
+          if (n === seq){ lst.innerHTML = '<p class="fine" style="margin:8px 12px">Recherche momentanément indisponible : réessayez ou tapez le code postal.</p>'; lst.hidden = false; }
+          return [];
+        });
+      };
       com.addEventListener('input', function(){
-        clearTimeout(tmr); choix = null; auto = null; box.hidden = true; man.hidden = true; var q = com.value.trim(); if (q.length < 2){ lst.hidden = true; return; }
-        tmr = setTimeout(function(){
-          var u = /^\d{5}$/.test(q) ? 'https://geo.api.gouv.fr/communes?codePostal=' + q : /^\d[\dAB]\d{3}$/i.test(q) ? 'https://geo.api.gouv.fr/communes?code=' + q.toUpperCase() : 'https://geo.api.gouv.fr/communes?nom=' + encodeURIComponent(q) + '&boost=population&limit=6';
-          fetch(u + '&fields=nom,code,codesPostaux,departement').then(function(r){ return r.json(); }).then(function(L){
-            lst.innerHTML = ''; (L || []).slice(0, 6).forEach(function(c){ var b = document.createElement('button'); b.type = 'button'; b.className = 'ta-opt'; b.innerHTML = '<b></b><span></span>'; b.firstChild.textContent = c.nom; b.lastChild.textContent = ((c.codesPostaux || [])[0] || '') + (c.departement ? ' · ' + c.departement.nom : ''); b.addEventListener('click', function(){ pick(c); }); lst.appendChild(b); });
-            lst.hidden = !lst.children.length;
-          }).catch(function(){});
-        }, 250);
+        clearTimeout(tmr); choix = null; auto = null; box.hidden = true; man.hidden = true; var q = com.value.trim(); if (q.length < 2){ lst.hidden = true; seq++; return; }
+        lst.hidden = false; lst.innerHTML = '<p class="fine" style="margin:8px 12px">Recherche…</p>';
+        tmr = setTimeout(function(){ chercher(q); }, 200);
       });
+      com.addEventListener('focus', function(){ if (!choix && lst.children.length) lst.hidden = false; });
+      com.addEventListener('keydown', function(e){ if (e.key === 'Enter' && !choix){ var b = lst.querySelector('.ta-opt'); if (b){ e.preventDefault(); b.click(); } } });
+      tx.__chercher = chercher;
     }
     tx.addEventListener('submit', function(e){
       e.preventDefault();
       var out = $('ta-out'); out.hidden = false;
-      if (!choix){ out.innerHTML = '<p class="err">Choisissez d\'abord votre commune dans la liste.</p>'; com.focus(); return; }
+      if (!choix){
+        var q0 = com.value.trim();
+        if (q0.length < 2){ out.innerHTML = '<p class="err">Tapez d\'abord le nom de votre commune ou son code postal.</p>'; com.focus(); return; }
+        out.innerHTML = '<p class="fine">Recherche de la commune…</p>';
+        tx.__chercher(q0).then(function(L){
+          if (!L.length){ out.innerHTML = '<p class="err">Commune introuvable : vérifiez l\'orthographe ou tapez le code postal, puis choisissez-la dans la liste.</p>'; com.focus(); return; }
+          if (L.length > 1 && !(/^\d/.test(q0))){ out.innerHTML = '<p class="err">Plusieurs communes portent ce nom : choisissez la vôtre dans la liste juste sous le champ.</p>'; lst.hidden = false; com.scrollIntoView({ behavior: 'smooth', block: 'center' }); return; }
+          pick(L[0]);
+          var t0 = Date.now(), wait = function(){ if (!box.innerHTML.includes('Recherche des taux') || Date.now() - t0 > 6000){ tx.requestSubmit ? tx.requestSubmit() : tx.dispatchEvent(new Event('submit', { cancelable: true })); } else setTimeout(wait, 150); };
+          setTimeout(wait, 150);
+        });
+        return;
+      }
       var s = num('ta-surf'), rp = $('ta-rp').value === 'oui', pis = num('ta-pis');
       if (!s && !pis){ out.innerHTML = '<p class="err">Indiquez une surface à construire ou une surface de piscine.</p>'; return; }
       var idf = $('ta-idf').value === 'oui', tc, td, tr;
