@@ -1,5 +1,5 @@
 name: Correctif d'une fonction en ligne
-# Télécharge la fonction déployée, applique le script de correctif indiqué dans .github/patch/demande.json,
+# Déchiffre la source de la fonction (.github/deploy/), applique le script de correctif indiqué dans .github/patch/demande.json,
 # vérifie la syntaxe, redéploie, puis met à jour la copie chiffrée dans .github/deploy/.
 on:
   push:
@@ -35,13 +35,11 @@ jobs:
         run: |
           set -euo pipefail
           name=$(jq -r '.fonction' .github/patch/demande.json); script=$(jq -r '.script' .github/patch/demande.json)
-          supabase functions download "$name" --project-ref "$REF"
-          src=$(find supabase/functions/$name -name index.ts | head -1)
-          sudo chown -R "$USER" supabase
+          mkdir -p "supabase/functions/$name"; src="supabase/functions/$name/index.ts"
+          openssl enc -d -aes-256-cbc -pbkdf2 -iter 200000 -in ".github/deploy/$name.ts.enc" -out "$src" -pass "file:$RUNNER_TEMP/k"
           python3 ".github/patch/$script" "$src"
           npx -y esbuild@0.21.5 "$src" --format=esm --log-level=error > /dev/null
           echo "Syntaxe vérifiée"
-          mkdir -p "supabase/functions/$name" && [ "$src" = "supabase/functions/$name/index.ts" ] || cp "$src" "supabase/functions/$name/index.ts"
           supabase functions deploy "$name" --project-ref "$REF" --no-verify-jwt --yes
           openssl enc -aes-256-cbc -pbkdf2 -iter 200000 -salt -in "supabase/functions/$name/index.ts" -out ".github/deploy/$name.ts.enc" -pass "file:$RUNNER_TEMP/k"
           echo "Déployé et chiffré : $name"
