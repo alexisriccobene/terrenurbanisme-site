@@ -4,9 +4,14 @@
 import sys
 p = sys.argv[1]; s = open(p, encoding='utf-8').read()
 
+def indice(*mots):
+    for i, l in enumerate(s.split('\n')):
+        if any(m in l for m in mots): print('%d: %s' % (i + 1, l.strip()[:150]))
 def rep(old, new, label):
     global s
-    if s.count(old) != 1: sys.exit('ancre introuvable ou multiple : ' + label)
+    if s.count(old) != 1:
+        indice('eauService', "h3('Assainissement')", "pas raccordable au réseau collectif")
+        sys.exit('ancre introuvable ou multiple : ' + label)
     s = s.replace(old, new)
 
 # 1. Données de la commune : service d'assainissement collectif et non collectif (SISPEA)
@@ -15,6 +20,7 @@ rep("async function eauService(insee) { const cd = await communeData(insee).catc
     'eauService')
 
 # 2. Rubrique du rapport
+if "h3('Assainissement')" not in s: indice('Assainissement', 'eauService'); sys.exit('rubrique introuvable')
 a = s.index("    if (A && A.assainissement) {\n      h3('Assainissement');")
 b = s.index("      ensure(150); h4('Si le terrain n\\'est pas raccordable au réseau collectif');")
 NEW = r"""    if ((A && A.assainissement) || (d.eau && d.eau.sispea)) {
