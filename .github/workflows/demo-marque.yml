@@ -1,0 +1,54 @@
+name: Rapport démo à la marque d'une agence
+# Déclenché par .github/demo/marque.json : applique temporairement le logo et les coordonnées de l'agence
+# au compte du gérant, génère le rapport par le circuit normal (envoi par e-mail), puis remet la marque d'origine.
+on:
+  push:
+    branches: [main]
+    paths: ['.github/demo/marque.json']
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency: demo-marque
+jobs:
+  demo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      SR: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+      KEY: ${{ secrets.TU_ADMIN_KEY }}
+      REF: nmoigruxnhsidrhqtzid
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          python3 - <<'PY'
+          import os, json, time, uuid, urllib.request, urllib.parse
+          d = json.load(open('.github/demo/marque.json'))
+          base = f"https://{os.environ['REF']}.supabase.co"
+          H = {'apikey': os.environ['SR'], 'Authorization': 'Bearer ' + os.environ['SR']}
+          def req(url, data=None, method='GET', extra=None):
+              r = urllib.request.Request(url, data=data, method=method, headers={**H, **(extra or {})})
+              with urllib.request.urlopen(r, timeout=120) as x: return x.read()
+          OWNER = 'ca45b46d-24e0-4b79-8067-217f6b84a6ed'
+          old = json.loads(req(base + '/rest/v1/marques?select=nom,telephone,email,site,logo_path&user_id=eq.' + OWNER))[0]
+          print('marque actuelle :', old['nom'])
+          lp = OWNER + '/demo-' + str(int(time.time() * 1000)) + '.png'
+          req(base + '/storage/v1/object/logos/' + lp, open(d['logo_fichier'], 'rb').read(), 'POST', {'Content-Type': 'image/png', 'x-upsert': 'true'})
+          J = {'Content-Type': 'application/json', 'Prefer': 'return=minimal'}
+          req(base + '/rest/v1/marques?user_id=eq.' + OWNER, json.dumps({'nom': d['nom'], 'telephone': d['tel'], 'email': d['mail'], 'site': d['site'], 'logo_path': lp}).encode(), 'PATCH', J)
+          try:
+              sid = 'demo_' + uuid.uuid4().hex[:20]
+              ref = 'TU-' + time.strftime('%Y%m%d') + '-' + sid[-6:].upper()
+              req(base + '/rest/v1/dossiers', json.dumps({'user_id': OWNER, 'stripe_session_id': sid, 'order_ref': ref, 'email': d['envoi'], 'insee': d['insee'], 'commune': d['commune'], 'section': d['section'], 'numero': d['numero'], 'amount_total': 0, 'status': 'pending', 'origine': 'demo'}).encode(), 'POST', J)
+              r = urllib.request.Request(base + '/functions/v1/stripe-webhook?regen=' + sid, method='POST', headers={'x-tu-admin': os.environ['KEY']})
+              print(urllib.request.urlopen(r, timeout=60).read()[:200].decode())
+              st = ''
+              for i in range(60):
+                  time.sleep(10)
+                  st = json.loads(req(base + '/rest/v1/dossiers?select=status&stripe_session_id=eq.' + sid))[0]['status']
+                  if st in ('ready', 'error'): break
+              print('statut :', st, sid)
+              time.sleep(20)
+          finally:
+              req(base + '/rest/v1/marques?user_id=eq.' + OWNER, json.dumps(old).encode(), 'PATCH', J)
+              print('marque d\'origine remise :', old['nom'])
+          PY
