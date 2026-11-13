@@ -1,6 +1,9 @@
 name: Rapport démo agence
 # Génère un rapport complet à la marque d'une agence prospectée ; le PDF est envoyé par e-mail au gérant.
 on:
+  push:
+    branches: [main]
+    paths: ['.github/demo/demande.json']
   workflow_dispatch:
     inputs:
       insee: { description: "Code INSEE de la commune", required: true }
@@ -19,9 +22,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 3
     steps:
+      - uses: actions/checkout@v4
       - name: Lancer le rapport démo
         env:
           KEY: ${{ secrets.TU_ADMIN_KEY }}
+          EV: ${{ github.event_name }}
           I_INSEE: ${{ inputs.insee }}
           I_SECTION: ${{ inputs.section }}
           I_NUMERO: ${{ inputs.numero }}
@@ -32,7 +37,16 @@ jobs:
           I_SITE: ${{ inputs.site }}
           I_LOGO: ${{ inputs.logo }}
         run: |
-          Q=$(python3 -c "import os,urllib.parse as u; print(u.urlencode({'demo':'1','insee':os.environ['I_INSEE'],'section':os.environ['I_SECTION'],'numero':os.environ['I_NUMERO'],'commune':os.environ.get('I_COMMUNE',''),'nom':os.environ['I_NOM'],'tel':os.environ.get('I_TEL',''),'mail':os.environ.get('I_MAIL',''),'site':os.environ.get('I_SITE',''),'logo':os.environ['I_LOGO']}))")
+          Q=$(python3 - <<'PY'
+          import os, json, urllib.parse as u
+          if os.environ.get('EV') == 'push':
+              d = json.load(open('.github/demo/demande.json'))
+          else:
+              d = {k: os.environ.get('I_' + k.upper(), '') for k in ['insee','section','numero','commune','nom','tel','mail','site','logo']}
+          d['demo'] = '1'
+          print(u.urlencode(d))
+          PY
+          )
           code=$(curl -s -o out.txt -w "%{http_code}" -X POST "https://nmoigruxnhsidrhqtzid.supabase.co/functions/v1/stripe-webhook?$Q" -H "x-tu-admin: ${KEY}")
           echo "HTTP $code : $(head -c 200 out.txt)"
           [ "$code" = "200" ]
