@@ -28,13 +28,17 @@ jobs:
           def req(url, data=None, method='GET', extra=None):
               r = urllib.request.Request(url, data=data, method=method, headers={**H, **(extra or {})})
               with urllib.request.urlopen(r, timeout=120) as x: return x.read()
-          OWNER = 'ca45b46d-24e0-4b79-8067-217f6b84a6ed'
-          old = json.loads(req(base + '/rest/v1/marques?select=nom,telephone,email,site,logo_path&user_id=eq.' + OWNER))[0]
-          print('marque actuelle :', old['nom'])
-          lp = OWNER + '/demo-' + str(int(time.time() * 1000)) + '.png'
-          req(base + '/storage/v1/object/logos/' + lp, open(d['logo_fichier'], 'rb').read(), 'POST', {'Content-Type': 'image/png', 'x-upsert': 'true'})
           J = {'Content-Type': 'application/json', 'Prefer': 'return=minimal'}
-          req(base + '/rest/v1/marques?user_id=eq.' + OWNER, json.dumps({'nom': d['nom'], 'telephone': d['tel'], 'email': d['mail'], 'site': d['site'], 'logo_path': lp}).encode(), 'PATCH', J)
+          SANS = bool(d.get('sans_marque'))
+          # Sans marque : compte gérant secondaire, qui n'a aucune marque enregistrée (rapport TerrenUrbanisme seul)
+          OWNER = '9b277484-5c9e-41dd-8ff2-a917cebca36e' if SANS else 'ca45b46d-24e0-4b79-8067-217f6b84a6ed'
+          old = None
+          if not SANS:
+              old = json.loads(req(base + '/rest/v1/marques?select=nom,telephone,email,site,logo_path&user_id=eq.' + OWNER))[0]
+              print('marque actuelle :', old['nom'])
+              lp = OWNER + '/demo-' + str(int(time.time() * 1000)) + '.png'
+              req(base + '/storage/v1/object/logos/' + lp, open(d['logo_fichier'], 'rb').read(), 'POST', {'Content-Type': 'image/png', 'x-upsert': 'true'})
+              req(base + '/rest/v1/marques?user_id=eq.' + OWNER, json.dumps({'nom': d['nom'], 'telephone': d['tel'], 'email': d['mail'], 'site': d['site'], 'logo_path': lp}).encode(), 'PATCH', J)
           try:
               sid = 'demo_' + uuid.uuid4().hex[:20]
               ref = 'TU-' + time.strftime('%Y%m%d') + '-' + sid[-6:].upper()
@@ -46,9 +50,11 @@ jobs:
                   time.sleep(10)
                   st = json.loads(req(base + '/rest/v1/dossiers?select=status&stripe_session_id=eq.' + sid))[0]['status']
                   if st in ('ready', 'error'): break
-              print('statut :', st, sid)
+              slug = json.loads(req(base + '/rest/v1/dossiers?select=download_slug&stripe_session_id=eq.' + sid))[0]['download_slug']
+              print('statut :', st, sid, 'lien : https://terrenurbanisme.com/r/' + str(slug))
               time.sleep(20)
           finally:
-              req(base + '/rest/v1/marques?user_id=eq.' + OWNER, json.dumps(old).encode(), 'PATCH', J)
-              print('marque d\'origine remise :', old['nom'])
+              if old:
+                  req(base + '/rest/v1/marques?user_id=eq.' + OWNER, json.dumps(old).encode(), 'PATCH', J)
+                  print('marque d\'origine remise :', old['nom'])
           PY

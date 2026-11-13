@@ -1,12 +1,8 @@
 {
  "insee": "2A247",
- "section": "0D",
- "numero": "1491",
+ "section": "G",
+ "numero": "1766",
  "commune": "Porto-Vecchio",
- "nom": "Corse Patrimoine",
- "tel": "04 95 52 01 05",
- "mail": "contact@corsepatrimoine.com",
- "site": "corsepatrimoine.com",
- "logo_fichier": ".github/demo/corse-patrimoine.png",
- "envoi": "alexisriccobene04@gmail.com"
+ "sans_marque": true,
+ "envoi": "locationvoiturescorse@gmail.com"
 }
