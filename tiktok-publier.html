@@ -39,7 +39,7 @@
 .tkp .chk.off{opacity:.45}
 .tkp .sw{display:flex;align-items:flex-start;gap:10px;margin-top:8px}
 .tkp .box{border:1px solid #E6DDD6;border-radius:10px;padding:12px 14px;margin-top:10px;background:#FBF7F4}
-.tkp .note{font-size:13px;color:#6B5A50;margin:6px 0 0}
+.tkp .tk-note{font-size:13px;color:#6B5A50;margin:6px 0 0}
 .tkp .warn{color:#A3462C;font-size:14px;margin:8px 0 0}
 .tkp .legal-tk{font-size:14px;margin-top:18px;line-height:1.5}
 .tkp .list{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px;margin-top:14px}
@@ -64,15 +64,15 @@
 <p id="tk-cap" class="warn" hidden></p>
 <div class="card" style="margin-top:20px"><b>1. Choisissez la vidéo</b><div id="tk-list" class="list"></div></div>
 <div class="grid" id="tk-form" hidden>
-<div><video id="tk-video" controls playsinline preload="metadata"></video><p class="note" id="tk-dur"></p></div>
+<div><video id="tk-video" controls playsinline preload="metadata"></video><p class="tk-note" id="tk-dur"></p></div>
 <div class="card">
 <b>2. Réglages de la publication</b>
 <label class="f" for="tk-title">Légende</label>
 <textarea id="tk-title" maxlength="2200"></textarea>
-<p class="note"><span id="tk-count">0</span> / 2 200 caractères</p>
+<p class="tk-note"><span id="tk-count">0</span> / 2 200 caractères</p>
 <label class="f" for="tk-priv">Qui peut voir cette vidéo ?</label>
 <select id="tk-priv" required><option value="" selected disabled>Choisir la confidentialité</option></select>
-<p class="note" id="tk-priv-note" hidden></p>
+<p class="tk-note" id="tk-priv-note" hidden></p>
 <label class="f">Autoriser les utilisateurs à</label>
 <div class="row">
 <label class="chk" id="l-com"><input type="checkbox" id="tk-com"> Commenter</label>
@@ -80,10 +80,10 @@
 <label class="chk" id="l-sti"><input type="checkbox" id="tk-sti"> Collage</label>
 </div>
 <label class="f">Déclaration de contenu</label>
-<label class="sw"><input type="checkbox" id="tk-cc"> <span>Cette vidéo fait la promotion d'une marque, d'un produit ou d'un service<br><span class="note">Activez cette option si la vidéo est un contenu commercial.</span></span></label>
+<label class="sw"><input type="checkbox" id="tk-cc"> <span>Cette vidéo fait la promotion d'une marque, d'un produit ou d'un service<br><span class="tk-note">Activez cette option si la vidéo est un contenu commercial.</span></span></label>
 <div class="box" id="tk-cc-box" hidden>
-<label class="sw"><input type="checkbox" id="tk-own"> <span><b>Votre marque</b><br><span class="note">Vous faites la promotion de votre propre activité. La vidéo sera étiquetée « Contenu promotionnel ».</span></span></label>
-<label class="sw"><input type="checkbox" id="tk-brand"> <span><b>Contenu de marque</b><br><span class="note">Vous faites la promotion d'une autre marque ou d'un tiers. La vidéo sera étiquetée « Partenariat rémunéré ».</span></span></label>
+<label class="sw"><input type="checkbox" id="tk-own"> <span><b>Votre marque</b><br><span class="tk-note">Vous faites la promotion de votre propre activité. La vidéo sera étiquetée « Contenu promotionnel ».</span></span></label>
+<label class="sw"><input type="checkbox" id="tk-brand"> <span><b>Contenu de marque</b><br><span class="tk-note">Vous faites la promotion d'une autre marque ou d'un tiers. La vidéo sera étiquetée « Partenariat rémunéré ».</span></span></label>
 <p class="warn" id="tk-cc-warn" hidden></p>
 </div>
 <p class="legal-tk" id="tk-legal"></p>
@@ -94,7 +94,7 @@
 </div></div>
 </div>
 </div></main>
-<script src="/assets/tiktok-publier.js?v=1" defer></script>
+<script src="/assets/tiktok-publier.js?v=2" defer></script>
 
 
 

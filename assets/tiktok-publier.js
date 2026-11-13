@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function(){
   function show(id){ ['tk-load','tk-login','tk-noauth','tk-connect','tk-app'].forEach(function(k){ $(k).hidden = k !== id; }); }
   function call(body){
     return sb.functions.invoke('tiktok-console', { body: body }).then(function(r){
-      if (r.error){ return (r.error.context && r.error.context.json ? r.error.context.json() : Promise.resolve({})).then(function(j){ var e = new Error((j && j.message) || (j && j.error) || 'erreur'); e.code = j && j.error; throw e; }); }
+      if (r.error){ return (r.error.context && r.error.context.json ? r.error.context.json() : Promise.resolve({})).then(function(j){ var m = (j && j.message) || '', c = (j && j.error) || 'erreur', e = new Error(c === 'unaudited_client_can_only_post_to_private_accounts' ? 'tant que TikTok n\'a pas validé l\'application, le compte TikTok doit être réglé en « Compte privé » (Profil > Paramètres > Confidentialité) pour publier. Remettez-le en public juste après.' : (m ? m + ' (' + c + ')' : c)); e.code = c; throw e; }); }
       return r.data;
     });
   }
