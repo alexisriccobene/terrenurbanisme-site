@@ -171,6 +171,54 @@ try:
 except Exception as e:
     note('eau potable ' + repr(e)[:400])
 
+# 5. Services publics d'assainissement collectif (AC) et non collectif (ANC) de chaque commune (SISPEA)
+def sispea(code, cle, filtre):
+    try:
+        zraw = None
+        for an in range(datetime.date.today().year, 2019, -1):
+            try:
+                zraw = get(f'http://www.services.eaufrance.fr/documents/serviceMembers/CompositionCommunaleServices_{code}_{an}.zip')
+                if zraw[:2] == b'PK': meta[cle + '_annee'] = an; break
+            except Exception: zraw = None
+        if not zraw: note(cle + ' : fichier introuvable'); return
+        zf = zipfile.ZipFile(io.BytesIO(zraw)); nm = zf.namelist()[0]; data = zf.read(nm)
+        if nm.lower().endswith(('.xlsx', '.xls')):
+            wb = openpyxl.load_workbook(io.BytesIO(data), read_only=True, data_only=True); ws = wb.worksheets[0]
+            rows = [[('' if v is None else str(v).strip()) for v in r] for r in ws.iter_rows(values_only=True)]
+        else:
+            t = None
+            for enc in ('utf-8-sig', 'cp1252', 'latin-1'):
+                try: t = data.decode(enc); break
+                except Exception: pass
+            sp = ';' if t[:3000].count(';') > t[:3000].count(',') else ','
+            rows = list(csv.reader(io.StringIO(t), delimiter=sp))
+        hi = next(i for i, r in enumerate(rows[:15]) if any(re.search(r'insee', c, re.I) for c in r))
+        H = [h.strip() for h in rows[hi]]; meta[cle + '_colonnes'] = H
+        def col(*pats):
+            for pt in pats:
+                for i, h in enumerate(H):
+                    if re.search(pt, h, re.I): return i
+            return None
+        ci = col(r'code insee'); cc = col(r"nom de la collectivit. de l.entit"); cm = col(r'type du mode de gestion'); co = col(r"nom de l.op[ée]rateur"); cf = col(filtre) if filtre else None
+        n = 0
+        for r in rows[hi + 1:]:
+            if ci is None or ci >= len(r): continue
+            c = r[ci].strip().upper()
+            if c.endswith('.0'): c = c[:-2]
+            if c.isdigit(): c = c.zfill(5)
+            if not INSEE.match(c): continue
+            g = lambda j: (r[j].strip() if j is not None and j < len(r) and r[j].strip() not in ('-', 'None') else '')
+            if cf is not None and g(cf) and g(cf).lower() != 'oui' and cle in out[dep(c)].get(c, {}): continue
+            e = {k: v for k, v in (('c', g(cc)), ('m', g(cm)), ('o', g(co))) if v}
+            if not e: continue
+            if cle not in out[dep(c)].get(c, {}): n += 1
+            if cf is None or g(cf).lower() == 'oui' or cle not in out[dep(c)].get(c, {}): out[dep(c)].setdefault(c, {})[cle] = e
+        meta[cle + '_communes'] = n
+    except Exception as e:
+        note(cle + ' ' + repr(e)[:400])
+sispea('AC', 'ac', r'^collecte$')
+sispea('ANC', 'anc', None)
+
 if meta['prix_communes'] < 20000 or meta['montagne_communes'] < 3000:
     sys.exit('données incomplètes : fichiers non écrits')
 os.makedirs('data/communes', exist_ok=True)
