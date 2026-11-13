@@ -1,14 +1,14 @@
 {
  "page": "TerrenUrbanisme",
  "instagram": "17841411573365600",
- "controle": "2026-11-13T17:35+01:00",
+ "controle": "2026-11-13T17:42+01:00",
  "tax-story-3 instagram": {
   "id": "17866022118693670",
   "media_type": "IMAGE",
   "permalink": "https://www.instagram.com/stories/terrenurbanisme/4028929300904085453",
   "timestamp": "2026-11-12T17:50:25+0000"
  },
- "tax-story-3 facebook": "erreur : Meta 400 /1442671431413396 : {\"error\":{\"message\":\"(#100) Tried accessing nonexisting field (id)\",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"AZCAftdthXph5S7oVdgK1uF\"}}",
+ "tax-story-3 facebook": "erreur : Meta 400 /1442671431413396 : {\"error\":{\"message\":\"(#100) Tried accessing nonexisting field (id)\",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"AUGjR9ybj0i5srmcFKByTkM\"}}",
  "reel-tu-16-li linkedin": "erreur : Meta 400 /urn:li:ugcPost:7526916748256722944 : {\"error\":{\"message\":\"Unsupported get request. Object with ID 'urn:li:ugcPost:7526916748256722944' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\/\\/devel",
  "story-biens-6 instagram": {
   "id": "17990419737094813",
@@ -16,7 +16,7 @@
   "permalink": "https://www.instagram.com/stories/terrenurbanisme/4029473496538926137",
   "timestamp": "2026-11-13T11:51:45+0000"
  },
- "story-biens-6 facebook": "erreur : Meta 400 /1688513066007881 : {\"error\":{\"message\":\"(#100) Tried accessing nonexisting field (id)\",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"APLPhL7mUlGHQYhTSa4vAzj\"}}",
+ "story-biens-6 facebook": "erreur : Meta 400 /1688513066007881 : {\"error\":{\"message\":\"(#100) Tried accessing nonexisting field (id)\",\"type\":\"OAuthException\",\"code\":100,\"fbtrace_id\":\"ANJewBSGMWr5PrS8rHs7QYz\"}}",
  "stories facebook de la page": [
   {
    "post_id": "1688513066007881",
