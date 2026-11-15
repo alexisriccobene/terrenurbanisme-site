@@ -1,0 +1,6 @@
+openobs1|https://openobs.mnhn.fr/biocache-service/occurrences/search?q=*:*&lat=41.5912&lon=9.2795&radius=1&pageSize=0&facets=taxon_name&flimit=30
+openobs2|https://openobs.mnhn.fr/api/occurrences/search?q=*:*&lat=41.5912&lon=9.2795&radius=1&pageSize=0&facets=taxon_name&flimit=30
+gbif|https://api.gbif.org/v1/occurrence/search?geoDistance=41.5912,9.2795,1km&limit=0&facet=speciesKey&facetLimit=50
+taxref|https://taxref.mnhn.fr/api/taxa/77502/status/lines
+taxref2|https://taxref.mnhn.fr/api/status/types
+inpncomm|https://inpn.mnhn.fr/collTerr/commune/2A247/tab/especes
