@@ -19,6 +19,27 @@ def get(u, timeout=180, tries=6):
         except Exception as e:
             log('  nouvel essai', i, str(e)[:150]); time.sleep(10 * (i + 1))
     raise RuntimeError('échec ' + u[:200])
+def wfs_json(u, timeout=240, tries=3):
+    for i in range(tries):
+        try:
+            r = requests.get(u, headers=H, timeout=timeout); r.raise_for_status(); return r.json()
+        except Exception as e:
+            log('  WFS nouvel essai', i, str(e)[:120]); time.sleep(8 * (i + 1))
+    return None
+def wfs_all(type_url, bb, count, depth=0):
+    """Toutes les entités d'une emprise ; une page en échec fait découper l'emprise en 4."""
+    feats, start = [], 0
+    while True:
+        j = wfs_json(type_url(bb, start, count))
+        if j is None:
+            if depth >= 4: raise RuntimeError('WFS indisponible sur ' + str(bb))
+            my, mx = (bb[0] + bb[2]) / 2, (bb[1] + bb[3]) / 2
+            out = []
+            for q in ((bb[0], bb[1], my, mx), (bb[0], mx, my, bb[3]), (my, bb[1], bb[2], mx), (my, mx, bb[2], bb[3])): out += wfs_all(type_url, q, count, depth + 1)
+            return feats + out
+        fs = j.get('features', []); feats += fs
+        if len(fs) < count: return feats
+        start += count
 def area_m2(g):
     try: return abs(GEOD.geometry_area_perimeter(g)[0])
     except Exception: return 0
@@ -34,28 +55,23 @@ log('emprise', BBOX, 'communes', len(pts))
 WFS = 'https://data.geopf.fr/wfs/ows?service=WFS&version=2.0.0&request=GetFeature&outputFormat=application/json'
 def wfs_tiles():
     # découpe en tuiles pour éviter les pagination très profondes
-    n = 1 if (BBOX[2] - BBOX[0]) * (BBOX[3] - BBOX[1]) < 1.2 else 2
+    n = max(1, math.ceil(math.sqrt((BBOX[2] - BBOX[0]) * (BBOX[3] - BBOX[1]) / 0.3)))
     dy, dx = (BBOX[2] - BBOX[0]) / n, (BBOX[3] - BBOX[1]) / n
     return [(BBOX[0] + i * dy, BBOX[1] + j * dx, BBOX[0] + (i + 1) * dy, BBOX[1] + (j + 1) * dx) for i in range(n) for j in range(n)]
 
 # 1. Zones U / AU des PLU
 zones, zinfo, seen = [], [], set()
+ZU = lambda bb, st, c: f"{WFS}&typeNames=wfs_du:zone_urba&count={c}&startIndex={st}&bbox={bb[0]},{bb[1]},{bb[2]},{bb[3]},urn:ogc:def:crs:EPSG::4326"
 for bb in wfs_tiles():
-    start = 0
-    while True:
-        u = f"{WFS}&typeNames=wfs_du:zone_urba&count=1000&startIndex={start}&bbox={bb[0]},{bb[1]},{bb[2]},{bb[3]},urn:ogc:def:crs:EPSG::4326"
-        fs = get(u).json().get('features', [])
-        for f in fs:
-            p = f['properties']; tz = (p.get('typezone') or '').upper(); gid = p.get('gid') or f.get('id')
-            if gid in seen or not (tz.startswith('U') or tz.startswith('AU')): continue
-            seen.add(gid)
-            try: g = shape(f['geometry']).buffer(0)
-            except Exception: continue
-            lib = (p.get('libelle') or '').strip(); ll = (p.get('libelong') or '')
-            act = bool(re.match(r'^\d*\s*(AU|U)\s*[-_]?\s*[XEIYZ]', lib.upper())) or bool(re.search(r'activit|industri|artisan|[ée]conomi|commerc|logisti', ll, re.I))
-            zones.append(g); zinfo.append({'lib': lib, 'tz': tz, 'act': act, 'long': ll[:160]})
-        if len(fs) < 1000: break
-        start += 1000
+    for f in wfs_all(ZU, bb, 1000):
+        p = f['properties']; tz = (p.get('typezone') or '').upper(); gid = p.get('gid') or f.get('id')
+        if gid in seen or not (tz.startswith('U') or tz.startswith('AU')): continue
+        seen.add(gid)
+        try: g = shape(f['geometry']).buffer(0)
+        except Exception: continue
+        lib = (p.get('libelle') or '').strip(); ll = (p.get('libelong') or '')
+        act = bool(re.match(r'^\d*\s*(AU|U)\s*[-_]?\s*[XEIYZ]', lib.upper())) or bool(re.search(r'activit|industri|artisan|[ée]conomi|commerc|logisti', ll, re.I))
+        zones.append(g); zinfo.append({'lib': lib, 'tz': tz, 'act': act, 'long': ll[:160]})
 log('zones U/AU', len(zones))
 ztree = STRtree(zones) if zones else None
 def zone_of(pt):
@@ -67,22 +83,17 @@ def zone_of(pt):
 # 2. Bâtiments d'activité (BD TOPO)
 cql = "usage_1 IN ('Industriel','Agricole','Commercial et services') OR nature='Industriel, agricole ou commercial'"
 bats, bseen = [], set()
+BT = lambda bb, st, c: f"{WFS}&typeNames=BDTOPO_V3:batiment&count={c}&startIndex={st}&propertyName=cleabs,usage_1,nature,etat_de_l_objet,hauteur,geometrie&CQL_FILTER=" + requests.utils.quote(f"({cql}) AND BBOX(geometrie,{bb[0]},{bb[1]},{bb[2]},{bb[3]},'urn:ogc:def:crs:EPSG::4326')")
 for bb in wfs_tiles():
-    start = 0
-    while True:
-        u = f"{WFS}&typeNames=BDTOPO_V3:batiment&count=5000&startIndex={start}&propertyName=cleabs,usage_1,nature,etat_de_l_objet,hauteur,geometrie&CQL_FILTER=" + requests.utils.quote(f"({cql}) AND BBOX(geometrie,{bb[0]},{bb[1]},{bb[2]},{bb[3]},'urn:ogc:def:crs:EPSG::4326')")
-        fs = get(u, timeout=300).json().get('features', [])
-        for f in fs:
-            pr = f['properties']
-            if pr.get('cleabs') in bseen or (pr.get('etat_de_l_objet') or '') not in ('En service', ''): continue
-            bseen.add(pr.get('cleabs'))
-            try: g = transform(lambda x, y, z=None: (x, y), shape(f['geometry']))
-            except Exception: continue
-            a = area_m2(g)
-            if a < BATI_MIN: continue
-            bats.append({'pt': g.centroid, 'a': a, 'u': pr.get('usage_1') or pr.get('nature')})
-        if len(fs) < 5000: break
-        start += 5000
+    for f in wfs_all(BT, bb, 5000):
+        pr = f['properties']
+        if pr.get('cleabs') in bseen or (pr.get('etat_de_l_objet') or '') not in ('En service', ''): continue
+        bseen.add(pr.get('cleabs'))
+        try: g = transform(lambda x, y, z=None: (x, y), shape(f['geometry']))
+        except Exception: continue
+        a = area_m2(g)
+        if a < BATI_MIN: continue
+        bats.append({'pt': g.centroid, 'a': a, 'u': pr.get('usage_1') or pr.get('nature')})
     log('bâtiments retenus', len(bats))
 btree = STRtree([b['pt'] for b in bats]) if bats else None
 
@@ -208,13 +219,26 @@ for r in rd:
 log('friches', nf)
 
 # 7. Poste électrique le plus proche
-ptree = STRtree([Point(p[1], p[0]) for p in POSTES])
 def hav(a, b, c, d):
     p = math.pi / 180; x = math.sin((c - a) * p / 2) ** 2 + math.cos(a * p) * math.cos(c * p) * math.sin((d - b) * p / 2) ** 2
     return 12742 * math.asin(math.sqrt(x))
+PG = defaultdict(list)
+for p in POSTES:
+    if -90 <= p[0] <= 90 and -180 <= p[1] <= 180: PG[(math.floor(p[0] * 2), math.floor(p[1] * 2))].append(p)
+def nearest_poste(lat, lon):
+    cy, cx = math.floor(lat * 2), math.floor(lon * 2)
+    for rad in range(1, 12):
+        best = None
+        for dy in range(-rad, rad + 1):
+            for dx in range(-rad, rad + 1):
+                for p in PG.get((cy + dy, cx + dx), ()):
+                    d = hav(lat, lon, p[0], p[1])
+                    if best is None or d < best[0]: best = (d, p)
+        if best and best[0] <= rad * 0.5 * 111 * math.cos(math.radians(lat)): return best
+    return best
 for s in sites.values():
-    k = ptree.nearest(Point(s['lon'], s['lat'])); p = POSTES[int(k)]
-    s['poste_km'] = round(hav(s['lat'], s['lon'], p[0], p[1]), 2); s['poste_nom'] = p[2]; s['poste_tension'] = p[3]; s['poste_exploitant'] = p[4]
+    nb_ = nearest_poste(s['lat'], s['lon'])
+    if nb_: s['poste_km'] = round(nb_[0], 2); s['poste_nom'] = nb_[1][2]; s['poste_tension'] = nb_[1][3]; s['poste_exploitant'] = nb_[1][4]
     s['commune'] = s.get('commune') or COM.get(s['insee'] or '', [None])[0]
     s['dep'] = DEP
 

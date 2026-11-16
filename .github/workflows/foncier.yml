@@ -9,7 +9,7 @@ permissions:
 jobs:
   f:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 240
     env:
       SR: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
       REF: nmoigruxnhsidrhqtzid
