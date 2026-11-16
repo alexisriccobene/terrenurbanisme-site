@@ -34,11 +34,11 @@ jobs:
           OWNER = '9b277484-5c9e-41dd-8ff2-a917cebca36e' if SANS else 'ca45b46d-24e0-4b79-8067-217f6b84a6ed'
           old = None
           if not SANS:
-              old = json.loads(req(base + '/rest/v1/marques?select=nom,telephone,email,site,logo_path&user_id=eq.' + OWNER))[0]
+              old = json.loads(req(base + '/rest/v1/marques?select=nom,type,telephone,email,site,logo_path&user_id=eq.' + OWNER))[0]
               print('marque actuelle :', old['nom'])
               lp = OWNER + '/demo-' + str(int(time.time() * 1000)) + '.png'
               req(base + '/storage/v1/object/logos/' + lp, open(d['logo_fichier'], 'rb').read(), 'POST', {'Content-Type': 'image/png', 'x-upsert': 'true'})
-              req(base + '/rest/v1/marques?user_id=eq.' + OWNER, json.dumps({'nom': d['nom'], 'telephone': d['tel'], 'email': d['mail'], 'site': d['site'], 'logo_path': lp}).encode(), 'PATCH', J)
+              req(base + '/rest/v1/marques?user_id=eq.' + OWNER, json.dumps({'nom': d['nom'], 'type': d.get('type'), 'telephone': d['tel'], 'email': d['mail'], 'site': d['site'], 'logo_path': lp}).encode(), 'PATCH', J)
           try:
               sid = 'demo_' + uuid.uuid4().hex[:20]
               ref = 'TU-' + time.strftime('%Y%m%d') + '-' + sid[-6:].upper()

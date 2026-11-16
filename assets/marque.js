@@ -36,7 +36,7 @@
     });
     sb.from('marques').select('*').eq('user_id', u.id).maybeSingle().then(function(r){
       var m = r.data || {};
-      ['nom', 'telephone', 'email', 'site'].forEach(function(k){ $('mq-' + k).value = m[k] || ''; });
+      ['type', 'nom', 'telephone', 'email', 'site'].forEach(function(k){ $('mq-' + k).value = m[k] || ''; });
       path = m.logo_path || null;
       if (path) sb.storage.from('logos').download(path).then(function(d){ if (d.data) { prev.src = URL.createObjectURL(d.data); prev.hidden = false; } });
     });
@@ -58,7 +58,7 @@
       }
       up.then(function(lp){
         var row = { user_id: u.id, logo_path: lp, updated_at: new Date().toISOString() };
-        ['nom', 'telephone', 'email', 'site'].forEach(function(k){ var v = $('mq-' + k).value.trim(); row[k] = v || null; });
+        ['type', 'nom', 'telephone', 'email', 'site'].forEach(function(k){ var v = $('mq-' + k).value.trim(); row[k] = v || null; });
         return sb.from('marques').upsert(row).then(function(r){ if (r.error) throw r.error; path = lp; msg.textContent = 'Enregistré. Vos prochains rapports porteront votre logo.'; file.value = ''; });
       }).catch(function(){ msg.textContent = 'L\'enregistrement n\'a pas abouti. Vérifiez le fichier et réessayez.'; });
     });
