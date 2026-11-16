@@ -152,25 +152,30 @@ for dep in DEPS:
             off += 100
     log('BODACC', dep, 'entreprises concernées', len(proc))
 
-# 6. État des entreprises propriétaires (annuaire des entreprises)
-sirens = sorted({s['siren'] for s in sites.values() if s['siren']})
+# 6. Entreprises radiées (cessation d'activité) : BODACC, famille « radiation », 2017-2026
+rad = {}
+for dep in DEPS:
+    for yr in range(2017, 2027):
+        off = 0
+        while True:
+            w = f'numerodepartement="{dep}" and familleavis="radiation" and dateparution>="{yr}-01-01" and dateparution<="{yr}-12-31"'
+            u = 'https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?limit=100&offset=' + str(off) + '&select=registre,dateparution&where=' + requests.utils.quote(w)
+            try: res = get(u).json().get('results', [])
+            except Exception: res = []
+            for a in res:
+                for x in (a.get('registre') or []):
+                    x = x.replace(' ', '')
+                    if re.fullmatch(r'\d{9}', x): rad[x] = max(rad.get(x, ''), a.get('dateparution') or '')
+            if len(res) < 100 or off >= 9900: break
+            off += 100
+    log('BODACC radiations', dep, len(rad))
 etat = {}
-for i, s in enumerate(sirens):
-    try:
-        r = requests.get('https://recherche-entreprises.api.gouv.fr/search?q=' + s + '&per_page=1', headers=H, timeout=30)
-        if r.status_code == 429: time.sleep(2); r = requests.get('https://recherche-entreprises.api.gouv.fr/search?q=' + s + '&per_page=1', headers=H, timeout=30)
-        res = r.json().get('results', [])
-        if res and res[0].get('siren') == s:
-            e = res[0]; etat[s] = {'etat': e.get('etat_administratif'), 'nom': e.get('nom_complet'), 'naf': e.get('activite_principale'), 'fermeture': e.get('date_fermeture')}
-    except Exception: pass
-    time.sleep(0.16)
-    if i % 500 == 0: log('annuaire', i, '/', len(sirens))
 for s in sites.values():
     if s['siren']:
-        e = etat.get(s['siren']); pc = proc.get(s['siren'])
-        if e: s['etat'] = e['etat']; s['infos']['naf'] = e['naf']; s['infos']['fermeture'] = e['fermeture']; s['proprio'] = e['nom'] or s['proprio']
+        pc = proc.get(s['siren'])
+        if s['siren'] in rad: s['etat'] = 'C'; s['infos']['fermeture'] = rad[s['siren']]; etat[s['siren']] = 1
         if pc: s['proc_nature'], s['proc_date'], s['proc_tribunal'], s['proc_url'] = pc['nat'], pc['d'], pc['trib'], pc['url']
-log('entreprises vérifiées', len(etat), 'en procédure', sum(1 for s in sites.values() if s.get('proc_nature')))
+log('propriétaires radiés', len(etat), 'en procédure', sum(1 for s in sites.values() if s.get('proc_nature')))
 
 # 7. Friches (Cartofriches)
 txt = get('https://static.data.gouv.fr/resources/sites-references-dans-cartofriches/20261007-122232/friches-standard.csv', timeout=300).content.decode('utf-8')
