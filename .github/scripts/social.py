@@ -206,7 +206,7 @@ def publish_yt(p):
     if '#Shorts' not in titre and len(titre) < 92: titre += ' #Shorts'
     meta = {'snippet': {'title': titre, 'description': (p.get('texte_youtube') or p.get('texte_facebook') or p.get('texte_instagram') or '')[:4900],
                         'categoryId': '27', 'defaultLanguage': 'fr', 'defaultAudioLanguage': 'fr', 'tags': ['urbanisme', 'PLU', 'terrain constructible', 'immobilier', 'TerrenUrbanisme']},
-            'status': {'privacyStatus': 'public', 'selfDeclaredMadeForKids': False}}
+            'status': {'privacyStatus': 'private' if os.path.exists('.github/social/youtube_brouillon') else 'public', 'selfDeclaredMadeForKids': False}}  # brouillon privé : Alexis publie lui-même depuis YouTube Studio
     h = {'Authorization': 'Bearer ' + yt_token(), 'Content-Type': 'application/json; charset=UTF-8', 'X-Upload-Content-Type': 'video/mp4', 'X-Upload-Content-Length': str(len(data))}
     req = urllib.request.Request('https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status', data=json.dumps(meta).encode(), method='POST', headers=h)
     try:

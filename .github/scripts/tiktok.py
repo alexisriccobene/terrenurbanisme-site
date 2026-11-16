@@ -90,6 +90,7 @@ def publier_video(p):
     src = {'source': 'FILE_UPLOAD', 'video_size': n, 'chunk_size': n, 'total_chunk_count': 1}
     mode = 'publication directe'
     try:
+        if os.path.exists('.github/social/tiktok_brouillon'): raise RuntimeError('unaudited_client (brouillon demandé)')
         r = req(API + '/post/publish/video/init/', {'post_info': info, 'source_info': src}, tok['access_token'], js=True)
     except RuntimeError as e:
         if 'unaudited_client' not in str(e): raise
