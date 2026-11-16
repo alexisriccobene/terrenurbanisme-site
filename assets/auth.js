@@ -356,10 +356,23 @@
     Auth.account().then(function(c){
       if (!c || !(c.illimite || c.abonne)) return;
       box.hidden = false;
-      var list = $('ag-list'), f = $('ag-form');
-      var draw = function(){ Auth.agents().then(function(L){ list.innerHTML = L.length ? L.map(function(a){ return '<span class="ag-chip">' + esc(a.nom) + '<button type="button" data-id="' + a.id + '" aria-label="Retirer">×</button></span>'; }).join('') : '<span style="color:var(--muet);font-size:14px">Aucun collaborateur pour le moment.</span>';
-        list.querySelectorAll('button[data-id]').forEach(function(b){ b.addEventListener('click', function(){ sb.from('pro_agents').delete().eq('id', b.getAttribute('data-id')).then(draw); }); }); }); };
-      f.addEventListener('submit', function(e){ e.preventDefault(); var n = f.nom.value.trim(); if (n.length < 2) return; Auth.user().then(function(u){ sb.from('pro_agents').insert({ nom: n.slice(0, 80), user_id: u.id }).then(function(){ f.reset(); draw(); }); }); });
+      var list = $('ag-list'), f = $('ag-form'), msg = $('ag-msg');
+      if (f.dataset.ok) return; f.dataset.ok = '1';
+      var say = function(t, err){ msg.textContent = t; msg.style.color = err ? 'var(--non,#B3402F)' : 'var(--ok,#2E7D4F)'; };
+      var draw = function(newName){ return Auth.agents().then(function(L){
+        list.innerHTML = L.length ? L.map(function(a){ return '<div class="ag-row' + (a.nom === newName ? ' new' : '') + '"><span>' + esc(a.nom) + '</span><button type="button" data-id="' + a.id + '" data-nom="' + esc(a.nom) + '">Supprimer</button></div>'; }).join('') : '<p style="color:var(--muet);font-size:14px;margin:12px 0 0">Aucun collaborateur pour le moment.</p>';
+        list.querySelectorAll('button[data-id]').forEach(function(b){ b.addEventListener('click', function(){ b.disabled = true; sb.from('pro_agents').delete().eq('id', b.getAttribute('data-id')).then(function(r){ if (r.error){ b.disabled = false; say('Suppression impossible, réessayez.', true); return; } say(b.getAttribute('data-nom') + ' a été retiré.'); draw(); }); }); });
+      }); };
+      f.addEventListener('submit', function(e){
+        e.preventDefault(); var n = f.nom.value.trim();
+        if (n.length < 2){ say('Indiquez le prénom et le nom.', true); return; }
+        var bt = f.querySelector('button'); bt.disabled = true;
+        Auth.user().then(function(u){ return sb.from('pro_agents').insert({ nom: n.slice(0, 80), user_id: u.id }); }).then(function(r){
+          bt.disabled = false;
+          if (r && r.error){ say('Ajout impossible, réessayez.', true); return; }
+          f.reset(); say(n + ' a été ajouté.'); draw(n);
+        }).catch(function(){ bt.disabled = false; say('Ajout impossible, réessayez.', true); });
+      });
       draw();
     });
   }

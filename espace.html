@@ -26,9 +26,10 @@
 <div id="esp-offre" style="margin-bottom:44px"><p class="empty">Chargement…</p></div>
 <div id="esp-agents" hidden style="margin-bottom:44px;background:var(--surface);border:1px solid var(--ligne);border-radius:18px;padding:24px">
 <h2 style="font-size:22px;margin:0 0 6px">Vos collaborateurs</h2><p style="color:var(--muet);font-size:14.5px;margin:0 0 16px">Ajoutez les agents de votre structure : à chaque rapport, le nom de celui qui l'a demandé est enregistré et apparaît dans votre tableau de bord.</p>
-<div id="ag-list" style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:14px"></div>
-<form id="ag-form" style="display:flex;gap:10px;flex-wrap:wrap"><input name="nom" maxlength="80" placeholder="Prénom et nom" style="flex:1 1 220px;min-width:0;padding:10px;border:1px solid var(--ligne);border-radius:10px;font:inherit"><button class="btn" type="submit">Ajouter</button></form>
-<style>.ag-chip{display:inline-flex;align-items:center;gap:6px;background:var(--soft2);border-radius:999px;padding:6px 8px 6px 14px;font-size:14px;font-weight:600}.ag-chip button{border:0;background:none;font-size:18px;line-height:1;cursor:pointer;color:var(--muet)}</style>
+<form id="ag-form" style="display:flex;gap:10px;flex-wrap:wrap"><input name="nom" maxlength="80" placeholder="Prénom et nom du collaborateur" style="flex:1 1 220px;min-width:0;padding:10px;border:1px solid var(--ligne);border-radius:10px;font:inherit"><button class="btn" type="submit">Ajouter</button></form>
+<p id="ag-msg" role="status" style="font-size:14px;margin:8px 0 0;min-height:20px"></p>
+<div id="ag-list" style="margin-top:10px;border-top:1px solid var(--ligne)"></div>
+<style>.ag-row{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:12px 4px;border-bottom:1px solid var(--ligne);font-weight:600}.ag-row button{font:inherit;font-size:14px;font-weight:600;color:var(--non,#B3402F);background:none;border:1.5px solid var(--ligne);border-radius:10px;padding:6px 12px;cursor:pointer}.ag-row.new{animation:agf 2.5s ease-out}@keyframes agf{from{background:#FBEDE5}to{background:transparent}}</style>
 </div>
 <div id="esp-marque" hidden style="margin-bottom:44px;background:var(--surface);border:1px solid var(--ligne);border-radius:18px;padding:24px">
 <h2 style="font-size:22px;margin:0 0 6px">Votre logo sur vos rapports</h2><p id="mq-note" style="color:var(--muet);font-size:14.5px;margin:0 0 18px"></p>
@@ -61,6 +62,6 @@
 </div>
 <p class="legal">© 2026 TerrenUrbanisme. Les informations fournies sont établies à partir de sources publiques ; elles ne constituent ni un certificat d'urbanisme, ni une autorisation d'urbanisme, ni un avis juridique, et ne peuvent pas être jointes à une demande de permis de construire. Sources : cadastre, Géoportail de l'Urbanisme, IGN, Géorisques, Collectivité de Corse.</p>
 </div></footer>
-<script defer src="/assets/config.js?v=v85"></script><script defer src="/assets/consent.js?v=v85"></script><script defer src="/assets/supabase.js?v=v85"></script><script defer src="/assets/auth.js?v=v89"></script><script defer src="/assets/app.js?v=v85"></script><script defer src="/assets/marque.js?v=v86"></script>
+<script defer src="/assets/config.js?v=v85"></script><script defer src="/assets/consent.js?v=v85"></script><script defer src="/assets/supabase.js?v=v85"></script><script defer src="/assets/auth.js?v=v90"></script><script defer src="/assets/app.js?v=v85"></script><script defer src="/assets/marque.js?v=v86"></script>
 </body>
 </html>
