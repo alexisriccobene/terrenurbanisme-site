@@ -1,5 +1,5 @@
-dg1|https://www.data.gouv.fr/api/1/datasets/?q=statuts%20especes%20BDC&page_size=10
-dg2|https://www.data.gouv.fr/api/1/datasets/?q=especes%20protegees%20TAXREF&page_size=10
-dg3|https://www.data.gouv.fr/api/1/datasets/?q=taxref&page_size=10
-gbifsp|https://api.gbif.org/v1/species/2482515
-gbifds|https://api.gbif.org/v1/occurrence/search?geoDistance=41.5912,9.2795,0.5km&limit=0&facet=datasetKey&facetLimit=20&facet=speciesKey&facetLimit=200
+dc_esa|https://www.data.corsica/api/explore/v2.1/catalog/datasets/padduc-esa-donnees-vecteur/records?limit=1
+dc_cat|https://www.data.corsica/api/explore/v2.1/catalog/datasets?where=search(%22padduc%22)&limit=50&select=dataset_id
+ods_esa|https://datacorsica.opendatasoft.com/api/explore/v2.1/catalog/datasets/padduc-esa-donnees-vecteur/records?limit=1
+ods_cat|https://datacorsica.opendatasoft.com/api/explore/v2.1/catalog/datasets?where=search(%22padduc%22)&limit=50&select=dataset_id
+dreal|https://georchestra.dreal-corse.din.developpement-durable.gouv.fr/geoserver/dreal/ows?service=WFS&request=GetCapabilities
