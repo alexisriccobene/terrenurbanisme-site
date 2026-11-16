@@ -6,7 +6,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Trouver un terrain ou un bâtiment pour votre entreprise | TerrenUrbanisme</title>
 <meta name="description" content="Indiquez la surface recherchée, la commune et un rayon : TerrenUrbanisme repère les terrains constructibles, les hangars et bâtiments d'activité, les friches et les biens de sociétés en difficulté.">
-<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <link rel="canonical" href="https://terrenurbanisme.com/foncier-entreprises.html">
 <meta property="og:type" content="website"><meta property="og:site_name" content="TerrenUrbanisme"><meta property="og:locale" content="fr_FR"><meta property="og:title" content="Trouver un terrain ou un bâtiment pour votre entreprise"><meta property="og:description" content="Terrains constructibles, hangars, friches et biens de sociétés en difficulté, autour de la commune de votre choix."><meta property="og:url" content="https://terrenurbanisme.com/foncier-entreprises.html"><meta property="og:image" content="https://terrenurbanisme.com/assets/og-image.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Tarifs du rapport d&#x27;urbanisme, dès 0,77 € | TerrenUrbanisme"><meta name="twitter:description" content="Rapport d&#x27;urbanisme complet dès 12,90 € le rapport. Abonnements pour agences et professionnels de l&#x27;immobilier : 50 rapports pour 55 € par mois, dès 0,77 € le rapport."><meta name="twitter:image" content="https://terrenurbanisme.com/assets/og-image.png">
 <meta name="theme-color" content="#A3462C">
@@ -20,6 +19,11 @@
 .fe-f{font-size:14px;font-weight:600;position:relative;min-width:0}
 .fe-f input,.fe-f select,.fe-f textarea{display:block;width:100%;margin-top:6px;padding:11px;border:1px solid var(--ligne);border-radius:10px;font:inherit;font-weight:400;background:#fff;box-sizing:border-box}
 .fe-wide{grid-column:1/-1}
+.fe-form{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px 18px;align-items:end}
+.fe-c2{grid-column:span 2}
+.fe-go .btn{width:100%;margin-top:6px;padding:12px 16px;text-align:center}
+@media (max-width:760px){.fe-form{grid-template-columns:1fr}.fe-c2{grid-column:auto}}
+
 .fe-sug{position:absolute;z-index:500;left:0;right:0;top:100%;margin:4px 0 0;padding:4px;list-style:none;background:#fff;border:1px solid var(--ligne);border-radius:10px;box-shadow:0 8px 24px rgba(0,0,0,.08);max-height:240px;overflow:auto}
 .fe-sug li{padding:9px 10px;border-radius:8px;cursor:pointer;font-weight:400}
 .fe-sug li:hover,.fe-sug li[aria-selected=true]{background:#F7EDE8}
@@ -44,16 +48,16 @@
 <section class="page-head"><div class="wrap"><div class="crumb"><a href="/">Accueil</a> › Foncier pour les entreprises</div><h1>Trouvez le terrain ou le bâtiment de votre entreprise.</h1><p class="lede">Indiquez la surface dont vous avez besoin, une commune et un rayon. Nous repérons les terrains constructibles, les hangars et bâtiments d'activité, les friches et les biens de sociétés en difficulté, y compris ceux qui ne sont annoncés nulle part.</p></div></section>
 <section class="sec tight"><div class="wrap">
 <form id="fe-form" class="fe-card" autocomplete="off">
-<div class="fe-grid">
-<label class="fe-f fe-wide">Commune<input id="fe-com" placeholder="Ex. Bastia" required><ul id="fe-sug" class="fe-sug" hidden></ul></label>
-<label class="fe-f">Rayon<select id="fe-rayon"><option value="5">5 km</option><option value="10">10 km</option><option value="20" selected>20 km</option><option value="30">30 km</option><option value="50">50 km</option></select></label>
+<div class="fe-form">
+<label class="fe-f fe-c2">Commune<input id="fe-com" placeholder="Tapez le nom de la commune, ex. Bastia" required><ul id="fe-sug" class="fe-sug" hidden></ul></label>
+<label class="fe-f">Rayon de recherche<select id="fe-rayon"><option value="5">5 km</option><option value="10">10 km</option><option value="20" selected>20 km</option><option value="30">30 km</option><option value="50">50 km</option></select></label>
 <label class="fe-f">Vous cherchez<select id="fe-besoin"><option value="tout">Terrain ou bâtiment</option><option value="terrain">Un terrain à bâtir</option><option value="batiment">Un bâtiment existant</option></select></label>
-<label class="fe-f">Surface de terrain minimale (m²)<input id="fe-surf" type="number" min="0" step="100" inputmode="numeric" placeholder="Ex. 5000"></label>
-<label class="fe-f">Surface de bâtiment minimale (m²)<input id="fe-bati" type="number" min="0" step="50" inputmode="numeric" placeholder="Ex. 1000"></label>
+<label class="fe-f">Terrain minimum (m²)<input id="fe-surf" type="number" min="0" step="100" inputmode="numeric" placeholder="Ex. 5 000"></label>
+<label class="fe-f">Bâtiment minimum (m²)<input id="fe-bati" type="number" min="0" step="50" inputmode="numeric" placeholder="Ex. 1 000"></label>
 <label class="fe-f">Activité<select id="fe-usage"><option>Logistique, entrepôt</option><option>Industrie, production</option><option>Artisanat</option><option>Data center</option><option>Commerce</option><option>Bureaux</option><option>Autre</option></select></label>
-<label class="fe-f">Puissance électrique souhaitée (kVA, facultatif)<input id="fe-kva" type="number" min="0" step="10" inputmode="numeric" placeholder="Ex. 250"></label>
+<label class="fe-f">Puissance électrique (kVA)<input id="fe-kva" type="number" min="0" step="10" inputmode="numeric" placeholder="Facultatif"></label>
+<div class="fe-f fe-go"><button class="btn" type="submit" id="fe-go">Voir les sites disponibles →</button></div>
 </div>
-<button class="btn" type="submit" id="fe-go">Voir les sites disponibles →</button>
 <p class="fe-note" id="fe-cov">Couverture nationale en cours de déploiement, département par département.</p>
 <p class="plan-err" id="fe-err" role="alert"></p>
 </form>
@@ -94,70 +98,6 @@
 </div></footer>
 <script defer src="/assets/config.js?v=v85"></script><script defer src="/assets/consent.js?v=v85"></script><script defer src="/assets/supabase.js?v=v85"></script><script defer src="/assets/auth.js?v=v87"></script><script defer src="/assets/app.js?v=v85"></script>
 <script defer src="/assets/leaflet.js?v=v85"></script>
-<script>
-document.addEventListener('DOMContentLoaded', function(){
-  var $ = function(i){ return document.getElementById(i); };
-  var C = window.TU_CONFIG || {}, sel = null, last = null, map = null, layer = null, t = null;
-  var COV = [];
-  fetch(C.supabaseUrl + '/rest/v1/rpc/fon_couverture', { method: 'POST', headers: { apikey: C.supabaseKey, 'Content-Type': 'application/json' }, body: '{}' }).then(function(x){ return x.json(); }).then(function(l){
-    if (!Array.isArray(l)) return; COV = l;
-    $('fe-cov').textContent = l.length >= 100 ? 'Couverture : toute la France métropolitaine et les départements d\'outre-mer.' : 'Déjà disponible dans ' + l.length + ' départements. Couverture nationale en cours de déploiement.';
-  }).catch(function(){});
-  var inp = $('fe-com'), sug = $('fe-sug');
-  inp.addEventListener('input', function(){
-    sel = null; clearTimeout(t); var q = inp.value.trim();
-    if (q.length < 2) { sug.hidden = true; return; }
-    t = setTimeout(function(){
-      fetch('https://geo.api.gouv.fr/communes?nom=' + encodeURIComponent(q) + '&fields=nom,code,centre,codesPostaux,codeDepartement&boost=population&limit=8').then(function(r){ return r.json(); }).then(function(l){
-        sug.innerHTML = '';
-        l.forEach(function(c){
-          var li = document.createElement('li'); li.textContent = c.nom + ' (' + ((c.codesPostaux || [])[0] || c.code) + ')';
-          li.addEventListener('mousedown', function(e){ e.preventDefault(); sel = c; inp.value = c.nom; sug.hidden = true; });
-          sug.appendChild(li);
-        });
-        sug.hidden = !l.length;
-      }).catch(function(){ sug.hidden = true; });
-    }, 220);
-  });
-  inp.addEventListener('blur', function(){ setTimeout(function(){ sug.hidden = true; }, 150); });
-  function num(i){ var v = parseInt($(i).value, 10); return isNaN(v) ? 0 : v; }
-  $('fe-form').addEventListener('submit', function(e){
-    e.preventDefault(); $('fe-err').textContent = '';
-    if (!sel) { $('fe-err').textContent = 'Choisissez la commune dans la liste proposée.'; return; }
-    if (COV.length && COV.indexOf(sel.codeDepartement) < 0) { $('fe-err').textContent = 'Votre département est en cours d\'intégration : les résultats peuvent être incomplets. Laissez-nous vos coordonnées plus bas, nous vous transmettons l\'étude complète.'; }
-    var b = $('fe-besoin').value, surf = num('fe-surf'), bati = b === 'batiment' ? Math.max(num('fe-bati'), 1) : num('fe-bati');
-    $('fe-go').disabled = true; $('fe-go').textContent = 'Recherche en cours…';
-    var lat = sel.centre.coordinates[1], lon = sel.centre.coordinates[0], r = parseInt($('fe-rayon').value, 10);
-    fetch(C.supabaseUrl + '/rest/v1/rpc/fon_apercu', { method: 'POST', headers: { apikey: C.supabaseKey, 'Content-Type': 'application/json' }, body: JSON.stringify({ p_lat: lat, p_lon: lon, p_rayon_km: r, p_surf: surf, p_bati: bati }) })
-      .then(function(x){ return x.json(); }).then(function(d){
-        last = { commune: sel.nom, insee: sel.code, lat: lat, lon: lon, rayon_km: r, besoin: b, surface: surf || null, bati: num('fe-bati') || null, usage: $('fe-usage').value, puissance_kva: num('fe-kva') || null, apercu: d };
-        var n = function(v){ return Number(v || 0).toLocaleString('fr-FR'); };
-        var tot = b === 'terrain' ? d.terrains + d.friches : b === 'batiment' ? d.batiments : d.total;
-        $('fe-titre').textContent = n(tot) + (tot > 1 ? ' sites correspondent' : ' site correspond') + ' à votre recherche autour de ' + sel.nom + ' (' + r + ' km)';
-        var T = [[d.terrains, 'terrains constructibles sans bâtiment'], [d.zone_activite, 'en zone d\'activité du PLU'], [d.batiments, 'avec bâtiment d\'activité existant'], [d.societes, 'détenus par une société'], [d.difficulte, 'de sociétés en difficulté ou fermées'], [d.friches, 'friches recensées']];
-        $('fe-tiles').innerHTML = T.map(function(x){ return '<div class="fe-tile"><b>' + n(x[0]) + '</b><span>' + x[1] + '</span></div>'; }).join('');
-        $('fe-res').hidden = false;
-        if (window.L) {
-          if (!map) { map = L.map('fe-map', { scrollWheelZoom: false }); L.tileLayer('https://data.geopf.fr/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=GEOGRAPHICALGRIDSYSTEMS.PLANIGNV2&STYLE=normal&TILEMATRIXSET=PM&FORMAT=image/png&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}', { maxZoom: 16, attribution: 'IGN' }).addTo(map); }
-          if (layer) layer.remove();
-          layer = L.layerGroup().addTo(map);
-          L.circle([lat, lon], { radius: r * 1000, color: '#A3462C', weight: 1.5, fill: false }).addTo(layer);
-          (d.points || []).forEach(function(p){ L.circle([p[0], p[1]], { radius: 950, color: '#A3462C', weight: 0, fillOpacity: 0.3 }).addTo(layer); });
-          map.fitBounds(L.latLng(lat, lon).toBounds(r * 2100));
-          setTimeout(function(){ map.invalidateSize(); }, 50);
-        }
-        $('fe-res').scrollIntoView({ behavior: 'smooth', block: 'start' });
-      }).catch(function(){ $('fe-err').textContent = 'La recherche n\'a pas abouti. Réessayez dans un instant.'; })
-      .then(function(){ $('fe-go').disabled = false; $('fe-go').textContent = 'Voir les sites disponibles →'; });
-  });
-  $('fe-lead').addEventListener('submit', function(e){
-    e.preventDefault(); var m = $('fe-lead-msg'); m.textContent = 'Envoi…';
-    var row = Object.assign({}, last || {}, { societe: $('fe-soc').value.trim(), nom: $('fe-nom').value.trim(), email: $('fe-mail').value.trim(), telephone: $('fe-tel').value.trim() || null, message: $('fe-msg').value.trim() || null });
-    fetch(C.supabaseUrl + '/rest/v1/fon_demandes', { method: 'POST', headers: { apikey: C.supabaseKey, 'Content-Type': 'application/json', Prefer: 'return=minimal' }, body: JSON.stringify(row) })
-      .then(function(x){ if (!x.ok) throw 0; m.textContent = 'Demande enregistrée. Nous vous adressons le rapport détaillé très rapidement.'; $('fe-lead').reset(); })
-      .catch(function(){ m.textContent = 'L\'envoi n\'a pas abouti. Écrivez-nous à contact@terrenurbanisme.com.'; });
-  });
-});
-</script>
+<script defer src="/assets/foncier.js?v=1"></script>
 </body>
 </html>
