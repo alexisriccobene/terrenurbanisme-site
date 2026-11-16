@@ -63,6 +63,7 @@
       });
     },
     generate: function(parcel){
+      if (parcel && parcel.agent) return Auth._gen(parcel);
       return Auth.pickAgent().then(function(ag){ if (ag) parcel = Object.assign({}, parcel, { agent: ag }); return Auth._gen(parcel); });
     },
     _gen: function(parcel){

@@ -489,11 +489,26 @@
       if (mr && mr.insee && mr.insee.indexOf(parcelRef.insee) >= 0){ inclus = true; label = 'Générer le rapport complet · inclus dans l\'abonnement de ' + mr.mairie; setAll(label); if (offerEl) offerEl.hidden = true; return; }
       if (mr){ errs.forEach(function(e){ e.textContent = 'Votre abonnement couvre uniquement les parcelles de ' + mr.mairie + '. Cette parcelle est hors de la commune.'; }); }
       if (credits > 0){ label = 'Générer le rapport complet · 1 rapport (solde : ' + credits + ')'; setAll(label); if (offerEl) offerEl.hidden = true; }
-    });
+    }).then(function(){
+      // Agence : le collaborateur qui demande le rapport (repris dans le tableau de bord)
+      if (!(credits > 0 || inclus) || !A.agents) return;
+      return A.agents().then(function(L){
+        if (!L.length) return;
+        var last = ''; try { last = localStorage.getItem('tu_agent') || ''; } catch (e) {}
+        var d = document.createElement('div'); d.className = 'v-proj v-agent';
+        d.innerHTML = '<b>Collaborateur</b><span>Qui demande ce rapport ? Il apparaîtra à son nom dans le tableau de bord.</span><select style="display:block;width:100%;margin-top:8px;padding:11px;border:1.5px solid var(--ligne);border-radius:10px;font:inherit;background:#fff"><option value="">Choisir le collaborateur</option>' + L.map(function(a){ return '<option' + (a.nom === last ? ' selected' : '') + '>' + esc(a.nom) + '</option>'; }).join('') + '</select>';
+        var pj = resultEl.querySelector('.v-proj'); pj.parentNode.insertBefore(d, pj.nextSibling);
+        agentSel = d.querySelector('select');
+        if (agentSel.value) parcelRef.agent = agentSel.value;
+        agentSel.addEventListener('change', function(){ if (agentSel.value) { parcelRef.agent = agentSel.value; try { localStorage.setItem('tu_agent', agentSel.value); } catch (e) {} } else delete parcelRef.agent; agentSel.style.borderColor = ''; });
+      });
+    }).catch(function(){});
+    var agentSel = null;
     buys.forEach(function(btn, k){ btn.addEventListener('click', function(){
       var err = errs[k] || errs[0];
       if (A && A.track) A.track('clic_rapport', parcelRef);
       errs.forEach(function(e){ e.textContent = ''; });
+      if (agentSel && !agentSel.value){ err.textContent = 'Choisissez le collaborateur qui demande ce rapport.'; agentSel.style.borderColor = 'var(--non,#B3402F)'; agentSel.scrollIntoView({ block: 'center', behavior: 'smooth' }); agentSel.focus(); return; }
       if (!A || !A.ready){ err.textContent = 'Le paiement n\'est pas encore activé.'; return; }
       setAll(credits > 0 || inclus ? 'Génération du rapport…' : 'Redirection vers le paiement…', true);
       A.user().then(function(u){
