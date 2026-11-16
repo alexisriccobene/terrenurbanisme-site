@@ -48,7 +48,24 @@
       return sb.functions.invoke('create-checkout', { body: { action: 'portal' } }).then(function(r){ if (r.error || !r.data || !r.data.url) throw r.error || new Error('portal'); location.href = r.data.url; });
     },
     /* Générer un rapport avec un crédit du solde */
+    /* Agents de l'agence (collaborateurs) : liste gérée dans l'espace, choisie à chaque rapport */
+    agents: function(){ return sb ? sb.from('pro_agents').select('id,nom').order('nom').then(function(r){ return r.data || []; }).catch(function(){ return []; }) : Promise.resolve([]); },
+    pickAgent: function(){
+      return Auth.agents().then(function(L){
+        if (!L.length) return null;
+        return new Promise(function(res){
+          var o = document.createElement('div');
+          o.setAttribute('style', 'position:fixed;inset:0;background:rgba(42,29,23,.45);z-index:9999;display:flex;align-items:center;justify-content:center;padding:16px');
+          o.innerHTML = '<form style="background:#fff;border-radius:18px;padding:24px;max-width:380px;width:100%;display:grid;gap:12px;font:inherit"><b style="font-size:19px">Qui demande ce rapport ?</b><span style="color:#6E625A;font-size:14px">Le rapport apparaîtra à son nom dans le tableau de bord de l\'agence.</span><select required style="font:inherit;padding:11px;border:1.5px solid #E6DCD4;border-radius:10px"><option value="">Choisir un collaborateur</option>' + L.map(function(a){ return '<option>' + esc(a.nom) + '</option>'; }).join('') + '</select><button class="btn" type="submit">Lancer le rapport</button></form>';
+          document.body.appendChild(o);
+          o.querySelector('form').addEventListener('submit', function(e){ e.preventDefault(); var v = o.querySelector('select').value; o.remove(); res(v || null); });
+        });
+      });
+    },
     generate: function(parcel){
+      return Auth.pickAgent().then(function(ag){ if (ag) parcel = Object.assign({}, parcel, { agent: ag }); return Auth._gen(parcel); });
+    },
+    _gen: function(parcel){
       return sb.functions.invoke('stripe-webhook', { body: parcel }).then(function(r){
         if (r.error){ return (r.error.context && r.error.context.json ? r.error.context.json() : Promise.resolve({})).then(function(j){ var e = new Error(j && j.error || 'gen'); e.code = j && j.error; throw e; }); }
         location.href = '/merci.html?session_id=' + encodeURIComponent(r.data.session) + '&credit=1';
@@ -334,7 +351,20 @@
   }
 
   /* Bloc « Mon offre » de l'espace client */
+  function renderAgents(){
+    var box = $('esp-agents'); if (!box) return;
+    Auth.account().then(function(c){
+      if (!c || !(c.illimite || c.abonne)) return;
+      box.hidden = false;
+      var list = $('ag-list'), f = $('ag-form');
+      var draw = function(){ Auth.agents().then(function(L){ list.innerHTML = L.length ? L.map(function(a){ return '<span class="ag-chip">' + esc(a.nom) + '<button type="button" data-id="' + a.id + '" aria-label="Retirer">×</button></span>'; }).join('') : '<span style="color:var(--muet);font-size:14px">Aucun collaborateur pour le moment.</span>';
+        list.querySelectorAll('button[data-id]').forEach(function(b){ b.addEventListener('click', function(){ sb.from('pro_agents').delete().eq('id', b.getAttribute('data-id')).then(draw); }); }); }); };
+      f.addEventListener('submit', function(e){ e.preventDefault(); var n = f.nom.value.trim(); if (n.length < 2) return; Auth.user().then(function(u){ sb.from('pro_agents').insert({ nom: n.slice(0, 80), user_id: u.id }).then(function(){ f.reset(); draw(); }); }); });
+      draw();
+    });
+  }
   function renderOffer(){
+    renderAgents();
     var box = $('esp-offre'); if (!box) return;
     Auth.account().then(function(c){
       c = c || { total:0 };

@@ -56,7 +56,7 @@
 <section class="sec tight"><div class="wrap" id="bo-app">
 <div class="bo-tools">
 <select id="bo-per" aria-label="Période"><option value="m0">Ce mois-ci</option><option value="m1">Mois précédent</option><option value="d90">3 derniers mois</option><option value="y">12 derniers mois</option><option value="all" selected>Depuis le début</option></select>
-<input id="bo-q" type="search" placeholder="Commune, parcelle, zone…" aria-label="Rechercher">
+<input id="bo-q" type="search" placeholder="Agent, commune, parcelle, zone…" aria-label="Rechercher">
 <button class="btn ghost" id="bo-exp" type="button">Exporter (Excel)</button>
 </div>
 <div class="bo-kpis">
@@ -66,10 +66,10 @@
 <div><span>Commune la plus fréquente</span><b id="k-c">–</b><small id="k-c2"></small></div>
 </div>
 <div class="bo-grid">
-<div class="bo-card"><h2>Rapports par mois</h2><div class="bo-bars" id="bo-bars"></div></div>
+<div style="display:grid;gap:14px;min-width:0"><div class="bo-card"><h2>Rapports par mois</h2><div class="bo-bars" id="bo-bars"></div></div><div class="bo-card" id="bo-ag-card" hidden><h2>Rapports par collaborateur</h2><div id="bo-ag"></div></div></div>
 <div class="bo-card"><h2>Constructibilité</h2><div id="bo-ver"></div><h2 style="margin-top:22px">Communes</h2><div id="bo-com"></div></div>
 </div>
-<div class="bo-card bo-tbl"><table><thead><tr><th>Date</th><th>Commune</th><th>Parcelle</th><th>Zone</th><th>Verdict</th><th>Projet</th><th>Réf.</th><th>Rapport</th></tr></thead><tbody id="bo-rows"></tbody></table><div class="bo-empty" id="bo-empty" hidden>Aucun rapport sur cette période.</div></div>
+<div class="bo-card bo-tbl"><table><thead><tr><th>Date</th><th>Commune</th><th>Agent</th><th>Parcelle</th><th>Zone</th><th>Verdict</th><th>Projet</th><th>Réf.</th><th>Rapport</th></tr></thead><tbody id="bo-rows"></tbody></table><div class="bo-empty" id="bo-empty" hidden>Aucun rapport sur cette période.</div></div>
 <p style="text-align:center;margin:14px 0 0"><button class="btn ghost" id="bo-more" type="button" hidden></button></p>
 <p id="bo-note" hidden style="font-size:13px;color:var(--muet);margin:12px 0 0">Compte de démonstration : l'historique est complété par des rapports d'exemple pour illustrer le tableau de bord. Les rapports réels s'ouvrent avec le lien « Ouvrir ».</p>
 <p style="margin:26px 0 40px"><a class="btn ghost" href="/espace.html">← Retour à mon espace</a></p>
@@ -85,7 +85,7 @@
 </div>
 <p class="legal">© 2026 TerrenUrbanisme. Les informations fournies sont établies à partir de sources publiques ; elles ne constituent ni un certificat d'urbanisme, ni une autorisation d'urbanisme, ni un avis juridique, et ne peuvent pas être jointes à une demande de permis de construire. Sources : cadastre, Géoportail de l'Urbanisme, IGN, Géorisques, Collectivité de Corse.</p>
 </div></footer>
-<script defer src="/assets/config.js?v=v85"></script><script defer src="/assets/consent.js?v=v85"></script><script defer src="/assets/supabase.js?v=v85"></script><script defer src="/assets/auth.js?v=v88"></script><script defer src="/assets/app.js?v=v85"></script>
-<script defer src="/assets/espace-pro.js?v=1"></script>
+<script defer src="/assets/config.js?v=v85"></script><script defer src="/assets/consent.js?v=v85"></script><script defer src="/assets/supabase.js?v=v85"></script><script defer src="/assets/auth.js?v=v89"></script><script defer src="/assets/app.js?v=v85"></script>
+<script defer src="/assets/espace-pro.js?v=2"></script>
 </body>
 </html>

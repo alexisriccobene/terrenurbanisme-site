@@ -23,7 +23,7 @@
     return list.filter(function (d) {
       var t = new Date(d.created_at);
       if (from && t < from) return false; if (to && t >= to) return false;
-      if (q && (d.commune + ' ' + d.section + ' ' + d.numero + ' ' + (d.zone || '') + ' ' + (d.order_ref || '')).toLowerCase().indexOf(q) < 0) return false;
+      if (q && (d.commune + ' ' + d.section + ' ' + d.numero + ' ' + (d.zone || '') + ' ' + (d.order_ref || '') + ' ' + (d.agent || '')).toLowerCase().indexOf(q) < 0) return false;
       return true;
     });
   }
@@ -50,12 +50,15 @@
     var tot = L.length || 1;
     $('bo-ver').innerHTML = ['ok', 'cond', 'non'].map(function (k) { var n = L.filter(function (d) { return d.verdict === k; }).length; return '<div class="bo-row"><span>' + VER[k][1] + '</span><b>' + nb(n) + '</b><div class="bar ' + k + '"><i style="width:' + Math.round(n / tot * 100) + '%"></i></div></div>'; }).join('');
     $('bo-com').innerHTML = tc.length ? tc.slice(0, 6).map(function (c) { return '<div class="bo-row"><span>' + esc(c[0]) + '</span><b>' + nb(c[1]) + '</b><div class="bar"><i style="width:' + Math.round(c[1] / tc[0][1] * 100) + '%"></i></div></div>'; }).join('') : '<p class="em-mu" style="color:var(--muet)">–</p>';
+    var ta = top(L, function (d) { return d.agent; });
+    $('bo-ag-card').hidden = !ta.length;
+    $('bo-ag').innerHTML = ta.slice(0, 8).map(function (c, i) { return '<div class="bo-row"><span>' + (i === 0 ? '<b>' + esc(c[0]) + '</b> · le plus actif' : esc(c[0])) + '</span><b>' + nb(c[1]) + '</b><div class="bar"><i style="width:' + Math.round(c[1] / ta[0][1] * 100) + '%"></i></div></div>'; }).join('');
     // Détail
     var LIM = window.__boLim || 50;
     $('bo-rows').innerHTML = L.slice(0, LIM).map(function (d) {
       var v = VER[d.verdict], dt = new Date(d.created_at);
       var lien = d.ex ? '<span style="color:var(--muet)">Exemple</span>' : d.status === 'ready' && d.download_slug ? '<a href="/r/' + encodeURIComponent(d.download_slug) + '" target="_blank" rel="noopener">Ouvrir</a>' : '<span style="color:var(--muet)">' + (d.status === 'ready' ? 'Disponible' : 'En préparation') + '</span>';
-      return '<tr><td>' + dt.toLocaleDateString('fr-FR') + '<br><small style="color:var(--muet)">' + dt.toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' }) + '</small></td><td><b>' + esc(d.commune) + '</b></td><td>Section ' + esc(d.section) + ' n° ' + esc(d.numero) + '</td><td>' + esc(d.zone || '–') + '</td><td>' + (v ? '<span class="bo-v ' + v[0] + '">' + v[1] + '</span>' : '–') + '</td><td>' + esc(d.projet ? d.projet.charAt(0).toUpperCase() + d.projet.slice(1) : '–') + '</td><td><small>' + esc(d.order_ref || '–') + '</small></td><td>' + lien + '</td></tr>';
+      return '<tr><td>' + dt.toLocaleDateString('fr-FR') + '<br><small style="color:var(--muet)">' + dt.toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' }) + '</small></td><td><b>' + esc(d.commune) + '</b></td><td>' + esc(d.agent || '–') + '</td><td>Section ' + esc(d.section) + ' n° ' + esc(d.numero) + '</td><td>' + esc(d.zone || '–') + '</td><td>' + (v ? '<span class="bo-v ' + v[0] + '">' + v[1] + '</span>' : '–') + '</td><td>' + esc(d.projet ? d.projet.charAt(0).toUpperCase() + d.projet.slice(1) : '–') + '</td><td><small>' + esc(d.order_ref || '–') + '</small></td><td>' + lien + '</td></tr>';
     }).join('');
     $('bo-empty').hidden = L.length > 0;
     var more = $('bo-more'); more.hidden = L.length <= LIM; more.textContent = 'Afficher plus (' + nb(L.length - LIM) + ' rapports restants)';
@@ -66,6 +69,7 @@
     var seed = 7; function rnd() { seed = (seed * 16807) % 2147483647; return (seed - 1) / 2147483646; }
     var C = [['Porto-Vecchio', 26], ['Bonifacio', 9], ['Sotta', 7], ['Lecci', 6], ['Figari', 6], ['Zonza', 5], ['Sainte-Lucie-de-Porto-Vecchio', 4], ['Propriano', 4], ['Sartène', 3], ['Ajaccio', 6], ['Grosseto-Prugna', 3], ['Pianottoli-Caldarello', 2]];
     var Z = [['UC', 'ok', 30], ['UD', 'ok', 22], ['UB', 'ok', 10], ['1AU', 'cond', 12], ['AU2a', 'cond', 6], ['A', 'non', 9], ['N', 'non', 8], ['Nr', 'non', 3]];
+    var A = [['Julie Santoni', 30], ['Marc-Antoine Pieri', 24], ['Laura Casanova', 20], ['Antoine Leca', 14], ['Sophie Ottaviani', 12]];
     var P = [['maison', 45], ['division', 15], ['extension', 14], ['piscine', 8], ['achat', 18]];
     var pick = function (L) { var t = 0, i; for (i = 0; i < L.length; i++) t += L[i][L[i].length - 1]; var r = rnd() * t; for (i = 0; i < L.length; i++) { r -= L[i][L[i].length - 1]; if (r <= 0) return L[i]; } return L[0]; };
     var out = [], now = new Date();
@@ -76,15 +80,15 @@
       for (var k = 0; k < n; k++) {
         var c = pick(C), z = pick(Z), pr = pick(P), sec = 'ABCDEFGHK'.charAt(Math.floor(rnd() * 9)) + (rnd() < 0.3 ? 'B' : '');
         var t = new Date(base.getFullYear(), base.getMonth(), 1 + Math.floor(rnd() * jours), 8 + Math.floor(rnd() * 11), Math.floor(rnd() * 60));
-        out.push({ created_at: t.toISOString(), commune: c[0], section: sec, numero: String(10 + Math.floor(rnd() * 2400)), zone: z[0], verdict: z[1], projet: pr[0], status: 'ready', order_ref: 'TU-' + t.toISOString().slice(0, 10).replace(/-/g, '') + '-' + Math.floor(rnd() * 16777215).toString(16).toUpperCase().padStart(6, '0'), ex: true });
+        out.push({ created_at: t.toISOString(), commune: c[0], section: sec, numero: String(10 + Math.floor(rnd() * 2400)), zone: z[0], verdict: z[1], projet: pr[0], agent: pick(A)[0], status: 'ready', order_ref: 'TU-' + t.toISOString().slice(0, 10).replace(/-/g, '') + '-' + Math.floor(rnd() * 16777215).toString(16).toUpperCase().padStart(6, '0'), ex: true });
       }
     }
     return out;
   }
   function exporter() {
     var L = periode(ALL), sep = ';';
-    var rows = [['Date', 'Commune', 'Section', 'Numéro', 'Zone', 'Verdict', 'Projet', 'Référence', 'Lien']].concat(L.map(function (d) {
-      return [new Date(d.created_at).toLocaleString('fr-FR'), d.commune, d.section, d.numero, d.zone || '', (VER[d.verdict] || ['', ''])[1], d.projet || '', d.order_ref || '', d.download_slug ? location.origin + '/r/' + d.download_slug : ''];
+    var rows = [['Date', 'Agent', 'Commune', 'Section', 'Numéro', 'Zone', 'Verdict', 'Projet', 'Référence', 'Lien']].concat(L.map(function (d) {
+      return [new Date(d.created_at).toLocaleString('fr-FR'), d.agent || '', d.commune, d.section, d.numero, d.zone || '', (VER[d.verdict] || ['', ''])[1], d.projet || '', d.order_ref || '', d.download_slug ? location.origin + '/r/' + d.download_slug : ''];
     }));
     var csv = '﻿' + rows.map(function (r) { return r.map(function (c) { return '"' + String(c == null ? '' : c).replace(/"/g, '""') + '"'; }).join(sep); }).join('\r\n');
     var a = document.createElement('a'); a.href = URL.createObjectURL(new Blob([csv], { type: 'text/csv;charset=utf-8' })); a.download = 'rapports-terrenurbanisme.csv'; document.body.appendChild(a); a.click(); a.remove();
@@ -93,7 +97,7 @@
     var Auth = window.TUAuth; if (!Auth || !Auth.client) { setTimeout(start, 150); return; }
     Auth.user().then(function (u) {
       if (!u) { location.replace(Auth.loginUrl ? Auth.loginUrl('/espace-pro.html') : '/connexion.html'); return; }
-      Auth.client.from('dossiers').select('created_at,commune,section,numero,zone,verdict,projet,status,download_slug,order_ref').eq('user_id', u.id).order('created_at', { ascending: false }).limit(2000).then(function (r) {
+      Auth.client.from('dossiers').select('created_at,commune,section,numero,zone,verdict,projet,status,download_slug,order_ref,agent').eq('user_id', u.id).order('created_at', { ascending: false }).limit(2000).then(function (r) {
         ALL = (r.data || []).filter(function (d) { return d.status !== 'error'; });
         Auth.account().then(function (c) {
           if (c && c.illimite) { ALL = ALL.concat(exemples()).sort(function (a, b) { return a.created_at < b.created_at ? 1 : -1; }); var nt = document.getElementById('bo-note'); if (nt) nt.hidden = false; }
