@@ -47,6 +47,7 @@
 <main>
 <section class="page-head"><div class="wrap"><div class="crumb"><a href="/">Accueil</a> › Foncier pour les entreprises</div><h1>Trouvez le terrain ou le bâtiment de votre entreprise.</h1><p class="lede">Indiquez la surface dont vous avez besoin, une commune et un rayon. Nous repérons les terrains constructibles, les hangars et bâtiments d'activité, les friches et les biens de sociétés en difficulté, y compris ceux qui ne sont annoncés nulle part.</p></div></section>
 <section class="sec tight"><div class="wrap">
+<div id="fe-done" class="fe-card" hidden><h2 class="fe-h2" id="fe-done-t">Paiement reçu : préparation de votre rapport…</h2><p id="fe-done-p">Le rapport se fabrique en ce moment, cela prend environ une minute. Restez sur cette page.</p><a class="btn" id="fe-done-a" href="#" target="_blank" rel="noopener" hidden>Télécharger le rapport (PDF) →</a></div>
 <form id="fe-form" class="fe-card" autocomplete="off">
 <div class="fe-form">
 <label class="fe-f fe-c2">Commune<input id="fe-com" placeholder="Tapez le nom de la commune, ex. Bastia" required><ul id="fe-sug" class="fe-sug" hidden></ul></label>
@@ -68,14 +69,15 @@
 <p class="fe-note">Pour protéger les informations, la carte n'indique que des secteurs. Le rapport détaillé donne chaque site : parcelle, surface, zone du PLU, bâtiment existant, propriétaire lorsqu'il s'agit d'une société et sa situation, poste électrique le plus proche, risques, prix du secteur et contacts.</p>
 <form id="fe-lead" class="fe-card">
 <h3>Recevoir le rapport détaillé</h3>
+<p class="fe-note" style="margin:0 0 14px">Rapport PDF de tous les sites : parcelle, surfaces, zone du PLU, bâtiment, société propriétaire et sa situation, poste électrique le plus proche, carte. Prêt en une minute après le paiement et envoyé par e-mail. <b>149 € TTC</b>.</p>
 <div class="fe-grid">
-<label class="fe-f">Société<input id="fe-soc" required></label>
-<label class="fe-f">Nom<input id="fe-nom" required></label>
-<label class="fe-f">E-mail<input id="fe-mail" type="email" required></label>
-<label class="fe-f">Téléphone<input id="fe-tel" type="tel" inputmode="tel"></label>
+<label class="fe-f">Société<input id="fe-soc" required autocomplete="organization"></label>
+<label class="fe-f">Nom<input id="fe-nom" required autocomplete="name"></label>
+<label class="fe-f">E-mail<input id="fe-mail" type="email" required autocomplete="email"></label>
+<label class="fe-f">Téléphone<input id="fe-tel" type="tel" inputmode="tel" autocomplete="tel"></label>
 <label class="fe-f fe-wide">Précisions sur votre projet (facultatif)<textarea id="fe-msg" rows="3"></textarea></label>
 </div>
-<button class="btn" type="submit">Recevoir le rapport →</button>
+<button class="btn" type="submit" id="fe-pay">Payer et recevoir le rapport →</button>
 <p class="fe-note" id="fe-lead-msg" role="status"></p>
 </form>
 </div>
@@ -98,6 +100,6 @@
 </div></footer>
 <script defer src="/assets/config.js?v=v85"></script><script defer src="/assets/consent.js?v=v85"></script><script defer src="/assets/supabase.js?v=v85"></script><script defer src="/assets/auth.js?v=v87"></script><script defer src="/assets/app.js?v=v85"></script>
 <script defer src="/assets/leaflet.js?v=v85"></script>
-<script defer src="/assets/foncier.js?v=1"></script>
+<script defer src="/assets/foncier.js?v=2"></script>
 </body>
 </html>

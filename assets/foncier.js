@@ -60,13 +60,38 @@
       }).catch(function(){ $('fe-err').textContent = 'La recherche n\'a pas abouti. Réessayez dans un instant.'; })
       .then(function(){ $('fe-go').disabled = false; $('fe-go').textContent = 'Voir les sites disponibles →'; });
   });
+  var FN = C.supabaseUrl + '/functions/v1/foncier';
   $('fe-lead').addEventListener('submit', function(e){
-    e.preventDefault(); var m = $('fe-lead-msg'); m.textContent = 'Envoi…';
-    var row = Object.assign({}, last || {}, { societe: $('fe-soc').value.trim(), nom: $('fe-nom').value.trim(), email: $('fe-mail').value.trim(), telephone: $('fe-tel').value.trim() || null, message: $('fe-msg').value.trim() || null });
-    fetch(C.supabaseUrl + '/rest/v1/fon_demandes', { method: 'POST', headers: { apikey: C.supabaseKey, 'Content-Type': 'application/json', Prefer: 'return=minimal' }, body: JSON.stringify(row) })
-      .then(function(x){ if (!x.ok) throw 0; m.textContent = 'Demande enregistrée. Nous vous adressons le rapport détaillé très rapidement.'; $('fe-lead').reset(); })
-      .catch(function(){ m.textContent = 'L\'envoi n\'a pas abouti. Écrivez-nous à contact@terrenurbanisme.com.'; });
+    e.preventDefault(); var m = $('fe-lead-msg'), btn = $('fe-pay');
+    if (!last) { m.textContent = 'Lancez d\'abord la recherche ci-dessus.'; return; }
+    m.textContent = ''; btn.disabled = true; btn.textContent = 'Ouverture du paiement sécurisé…';
+    var body = Object.assign({}, last, { action: 'checkout', origin: location.origin, societe: $('fe-soc').value.trim(), nom: $('fe-nom').value.trim(), email: $('fe-mail').value.trim(), telephone: $('fe-tel').value.trim(), message: $('fe-msg').value.trim() });
+    fetch(FN, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) })
+      .then(function(x){ return x.json(); }).then(function(j){ if (!j.url) throw j; location.href = j.url; })
+      .catch(function(err){ btn.disabled = false; btn.textContent = 'Payer et recevoir le rapport →'; m.textContent = err && err.error === 'email' ? 'Vérifiez votre adresse e-mail.' : 'Le paiement n\'a pas pu s\'ouvrir. Réessayez dans un instant ou écrivez-nous à contact@terrenurbanisme.com.'; });
   });
+  // Retour du paiement : fabrication du rapport puis téléchargement
+  var paye = new URLSearchParams(location.search).get('paye');
+  if (paye) {
+    var box = $('fe-done'); box.hidden = false; box.scrollIntoView({ block: 'start' });
+    var tries = 0;
+    var go = function(){
+      tries++;
+      fetch(FN, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ action: 'generer', session: paye }) })
+        .then(function(x){ return x.json().then(function(j){ return { s: x.status, j: j }; }); })
+        .then(function(r){
+          if (r.j && r.j.statut === 'pret') {
+            $('fe-done-t').textContent = 'Votre rapport est prêt';
+            $('fe-done-p').textContent = r.j.n + ' site' + (r.j.n > 1 ? 's' : '') + ' autour de ' + r.j.commune + ' (' + r.j.rayon_km + ' km). Il vous a aussi été envoyé par e-mail.';
+            var a2 = $('fe-done-a'); a2.href = r.j.url; a2.hidden = false; return;
+          }
+          if (tries < 20) setTimeout(go, r.s === 402 ? 4000 : 6000);
+          else $('fe-done-p').textContent = 'La préparation prend plus de temps que prévu. Le rapport vous sera envoyé par e-mail dans les minutes qui viennent.';
+        })
+        .catch(function(){ if (tries < 20) setTimeout(go, 6000); });
+    };
+    go();
+  }
 }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init); else init();
 })();
