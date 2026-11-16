@@ -245,6 +245,16 @@ for t in range(4):
     log('stockage', rr.status_code, rr.text[:200]); time.sleep(20)
 else: sys.exit('stockage impossible')
 log('fichier détaillé', round(len(data) / 1e6, 1), 'Mo')
+# Tuiles de 0,25° : le rapport ne charge que le secteur recherché
+TT = defaultdict(list)
+for s in sites.values(): TT[(math.floor(s['lat'] / 0.25), math.floor(s['lon'] / 0.25))].append({k: v for k, v in s.items() if v not in (None, False, '')})
+for (ty, tx), l in TT.items():
+    tb = gzip.compress(json.dumps(l, ensure_ascii=False, separators=(',', ':')).encode())
+    for t in range(4):
+        rr = requests.post(f'{base}/storage/v1/object/foncier/t/{DEP}/{ty}_{tx}.json.gz', headers={**HS, 'Content-Type': 'application/gzip', 'x-upsert': 'true'}, data=tb, timeout=300)
+        if rr.status_code < 300: break
+        time.sleep(10)
+log('tuiles', len(TT))
 J = {**HS, 'Content-Type': 'application/json', 'Prefer': 'resolution=merge-duplicates,return=minimal'}
 requests.delete(f'{base}/rest/v1/fon_grille?dep=eq.{DEP}', headers=HS, timeout=300).raise_for_status()
 for i in range(0, len(rows), 2000):
