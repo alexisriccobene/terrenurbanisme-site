@@ -65,11 +65,11 @@
   }
 
   // Compte de démonstration : historique d'illustration réaliste (12 mois), ajouté aux vrais rapports
-  function exemples() {
+  function exemples(noms) {
     var seed = 7; function rnd() { seed = (seed * 16807) % 2147483647; return (seed - 1) / 2147483646; }
     var C = [['Porto-Vecchio', 26], ['Bonifacio', 9], ['Sotta', 7], ['Lecci', 6], ['Figari', 6], ['Zonza', 5], ['Sainte-Lucie-de-Porto-Vecchio', 4], ['Propriano', 4], ['Sartène', 3], ['Ajaccio', 6], ['Grosseto-Prugna', 3], ['Pianottoli-Caldarello', 2]];
     var Z = [['UC', 'ok', 30], ['UD', 'ok', 22], ['UB', 'ok', 10], ['1AU', 'cond', 12], ['AU2a', 'cond', 6], ['A', 'non', 9], ['N', 'non', 8], ['Nr', 'non', 3]];
-    var A = [['Julie Santoni', 30], ['Marc-Antoine Pieri', 24], ['Laura Casanova', 20], ['Antoine Leca', 14], ['Sophie Ottaviani', 12]];
+    var W = [30, 24, 20, 15, 12, 9, 7, 5], A = (noms && noms.length ? noms : ['Agence']).map(function (n, i) { return [n, W[i % W.length]]; });
     var P = [['maison', 45], ['division', 15], ['extension', 14], ['piscine', 8], ['achat', 18]];
     var pick = function (L) { var t = 0, i; for (i = 0; i < L.length; i++) t += L[i][L[i].length - 1]; var r = rnd() * t; for (i = 0; i < L.length; i++) { r -= L[i][L[i].length - 1]; if (r <= 0) return L[i]; } return L[0]; };
     var out = [], now = new Date();
@@ -99,8 +99,9 @@
       if (!u) { location.replace(Auth.loginUrl ? Auth.loginUrl('/espace-pro.html') : '/connexion.html'); return; }
       Auth.client.from('dossiers').select('created_at,commune,section,numero,zone,verdict,projet,status,download_slug,order_ref,agent').eq('user_id', u.id).order('created_at', { ascending: false }).limit(2000).then(function (r) {
         ALL = (r.data || []).filter(function (d) { return d.status !== 'error'; });
-        Auth.account().then(function (c) {
-          if (c && c.illimite) { ALL = ALL.concat(exemples()).sort(function (a, b) { return a.created_at < b.created_at ? 1 : -1; }); var nt = document.getElementById('bo-note'); if (nt) nt.hidden = false; }
+        Promise.all([Auth.account(), Auth.agents ? Auth.agents() : []]).then(function (v) {
+          var c = v[0], noms = (v[1] || []).map(function (a) { return a.nom; });
+          if (c && c.illimite) { ALL = ALL.concat(exemples(noms)).sort(function (a, b) { return a.created_at < b.created_at ? 1 : -1; }); var nt = document.getElementById('bo-note'); if (nt) nt.hidden = false; }
           render();
         }).catch(render);
       });
