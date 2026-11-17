@@ -1,5 +1,5 @@
 {
  "fonction": "stripe-webhook",
- "script": "perso2.py",
- "demande": "perso-2"
+ "script": "perso3.py",
+ "demande": "perso-3"
 }
