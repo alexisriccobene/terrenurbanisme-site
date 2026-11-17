@@ -1,1 +1,5 @@
-{"fonction":"stripe-webhook","script":"agent.py","demande":"agent 1"}
+{
+ "fonction": "stripe-webhook",
+ "script": "plu_local.py",
+ "demande": "plu-local-1"
+}
