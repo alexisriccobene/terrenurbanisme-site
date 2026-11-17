@@ -3,7 +3,8 @@
 import requests, csv, re, json, time, sys
 from urllib.parse import urljoin, urlparse
 H = {'User-Agent': 'Mozilla/5.0 (TerrenUrbanisme; contact@terrenurbanisme.com)'}
-rows = [r for r in csv.reader(open('.github/foncier/cov.csv')) if len(r) > 3 and r[3] == 'non_publie']
+rows = [(r['insee'], r['commune'], r['population'], r['etat'], r['dep']) for r in csv.DictReader(open('.github/plu/couverture-france.csv')) if r['etat'] in ('non_publie', 'inconnu')]
+rows.sort(key=lambda r: -int(r[2] or 0))
 print(len(rows), 'communes non publiées')
 def site(insee):
     u = 'https://api-lannuaire.service-public.fr/api/explore/v2.1/catalog/datasets/api-lannuaire-administration/records'
@@ -19,8 +20,9 @@ def site(insee):
     except Exception as e: print('annuaire', insee, e)
     return ''
 KEY = re.compile(r'zonage|plu|urbanisme|reglement|règlement|planche|graphique|document', re.I)
-out = []
-for ins, nom, pop, etat, typ in rows:
+from concurrent.futures import ThreadPoolExecutor
+def one(row):
+    ins, nom, pop, etat, typ = row
     s = site(ins); pdfs = set(); pages = set()
     if s:
         if not s.startswith('http'): s = 'http://' + s
@@ -41,5 +43,6 @@ for ins, nom, pop, etat, typ in rows:
                 elif host in urlparse(l).netloc and u == s and l not in seen:
                     todo.append(l)
     print(ins, nom, s, len(pdfs)); sys.stdout.flush()
-    out.append({'insee': ins, 'nom': nom, 'pop': pop, 'site': s, 'pdfs': sorted(pdfs), 'pages': sorted(pages)[:20]})
+    return ({'insee': ins, 'nom': nom, 'pop': pop, 'site': s, 'pdfs': sorted(pdfs), 'pages': sorted(pages)[:20]})
+with ThreadPoolExecutor(16) as ex: out = list(ex.map(one, rows))
 json.dump(out, open('/tmp/out/plu_sites.json', 'w'), ensure_ascii=False, indent=1)
