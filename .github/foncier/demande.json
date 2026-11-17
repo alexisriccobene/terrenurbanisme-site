@@ -1,1 +1,12 @@
-{"script":"sonde6.py","demande":"1"}
+{
+ "script": "telecharge.py",
+ "demande": "p1",
+ "urls": {
+  "p1.pdf": "https://prunellidifiumorbu.fr/wp-content/uploads/2022/11/Carte_PLU-zonage-reglementaire-planche-1.pdf",
+  "p2.pdf": "https://prunellidifiumorbu.fr/wp-content/uploads/2022/11/Carte_PLU-zonage-reglementaireplanche-2.pdf",
+  "p3.pdf": "https://prunellidifiumorbu.fr/wp-content/uploads/2022/11/Carte_PLU-zonage-reglementaireplanche-3.pdf",
+  "parcelles.json.gz": "https://cadastre.data.gouv.fr/data/etalab-cadastre/latest/geojson/communes/2B/2B251/cadastre-2B251-parcelles.json.gz",
+  "communes.json.gz": "https://cadastre.data.gouv.fr/data/etalab-cadastre/latest/geojson/communes/2B/2B251/cadastre-2B251-communes.json.gz",
+  "batiments.json.gz": "https://cadastre.data.gouv.fr/data/etalab-cadastre/latest/geojson/communes/2B/2B251/cadastre-2B251-batiments.json.gz"
+ }
+}
