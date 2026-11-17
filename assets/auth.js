@@ -33,7 +33,7 @@
       if (!sb) return Promise.reject(new Error('off'));
       return Auth.user().then(function(u){
         // Rapport à l'unité ou lot : paiement sans compte (e-mail saisi sur la page de paiement) ; abonnement : compte nécessaire
-        var invite = !u && /^(unit|pack2|pack3|pro10|pro25|pro50|pro100)$/.test(kind);
+        var invite = !u && /^(synth|unit|pack2|pack3|pro10|pro25|pro50|pro100)$/.test(kind);
         if (!u && !invite){ location.href = Auth.loginUrl(location.pathname + location.search); return new Promise(function(){}); }
         var body = Object.assign({ kind: kind }, parcel || {});
         if (SRC) body.src = { ref: SRC.ref, page: SRC.page, utm: SRC.utm };
@@ -241,13 +241,21 @@
     var right = d.status === 'ready' ? (d.download_slug ? '<a class="dl" href="/r/' + encodeURIComponent(d.download_slug) + '" target="_blank" rel="noopener">Ouvrir le rapport</a>' : '<a class="dl" href="#" data-path="' + esc(d.pdf_path) + '">Télécharger le PDF</a>')
       : d.status === 'error' ? '<span class="wait">En cours de traitement, nous revenons vers vous</span>'
       : '<span class="wait">Préparation…</span>';
-    return '<div class="drow"><div><b>' + title + '</b><small>Rapport du ' + new Date(d.created_at).toLocaleDateString('fr-FR') + (d.order_ref ? ' · n° ' + esc(d.order_ref) : '') + '</small></div>' + right + '</div>';
+    var synth = d.formule === 'synthese';
+    if (synth && d.status === 'ready') right += '<button type="button" class="up" data-up="' + esc(d.stripe_session_id) + '">Passer au rapport complet · 10 €</button>';
+    return '<div class="drow"><div><b>' + title + '</b><small>' + (synth ? 'Rapport synthétique' : 'Rapport complet') + ' du ' + new Date(d.created_at).toLocaleDateString('fr-FR') + (d.order_ref ? ' · n° ' + esc(d.order_ref) : '') + '</small></div>' + right + '</div>';
   }
   function bindDl(box){
     box.querySelectorAll('a.dl[data-path]').forEach(function(a){
       a.addEventListener('click', function(e){
         e.preventDefault();
         sb.storage.from('dossiers').createSignedUrl(a.getAttribute('data-path'), 300).then(function(r){ if (r.data) location.href = r.data.signedUrl; });
+      });
+    });
+    box.querySelectorAll('button.up[data-up]').forEach(function(b){
+      b.addEventListener('click', function(){
+        b.disabled = true; b.textContent = 'Redirection vers le paiement…';
+        Auth.checkout('upgrade', { upgrade: b.getAttribute('data-up') }).catch(function(){ b.disabled = false; b.textContent = 'Réessayer : passer au rapport complet · 10 €'; });
       });
     });
   }
@@ -303,7 +311,7 @@
     Auth.user().then(function(u){
       // Mesure de la vente (Google Ads, Meta), envoyée une seule fois et seulement avec le consentement du visiteur
       if (sid && /^cs_/.test(sid) && window.TU_conversion){
-        var PRIX = { unit:19.9, pack2:29.8, pack3:38.7, essentiel:29, pro:55, cabinet:139, essentiel_an:290, pro_an:550, cabinet_an:1390 };
+        var PRIX = { synth:9.9, upgrade:10, unit:19.9, pack2:29.8, pack3:38.7, pro10:50, pro25:110, pro50:200, pro100:350, essentiel:29, pro:55, cabinet:139, essentiel_an:290, pro_an:550, cabinet_an:1390 };
         var once = true; try { once = !localStorage.getItem('tu_conv_' + sid); localStorage.setItem('tu_conv_' + sid, '1'); } catch (e) {}
         if (once) window.TU_conversion(PRIX[achat || qs.get('k') || 'unit'] || 19.9, sid);
       }
@@ -316,6 +324,8 @@
         return;
       }
       if (!u){ location.replace(Auth.loginUrl('/espace.html')); return; }
+      // Passage au rapport complet : le rapport est refait sur le même dossier, suivi dans l'espace
+      if (qs.get('k') === 'upgrade'){ setTimeout(function(){ location.replace('/espace.html'); }, 1500); var hu = document.querySelector('#merci h1'); if (hu) hu.textContent = 'Votre rapport complet est en préparation'; return; }
       if (achat){
         var h1 = document.querySelector('#merci h1'), lede = document.querySelector('#merci .lede');
         var abo = ['essentiel','pro','cabinet','essentiel_an','pro_an','cabinet_an'].indexOf(achat) >= 0;

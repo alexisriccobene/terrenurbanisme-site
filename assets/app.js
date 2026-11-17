@@ -397,7 +397,7 @@
     }
     if (why) why.textContent = 'Le rapport complet répond à la question : peut-on construire, et à quelles conditions ? ' + VL.libelle.charAt(0).toUpperCase() + VL.libelle.slice(1) + ' vous l\'offre.';
     box.innerHTML = '<div class="vl-h">Recevez votre rapport complet, offert par ' + esc(VL.libelle) + '</div>' +
-      '<p class="vl-s">PDF de 30 à 40 pages, envoyé par e-mail en quelques minutes.</p>' +
+      '<p class="vl-s">PDF d\'environ 45 pages, envoyé par e-mail en quelques minutes.</p>' +
       '<form class="vl-f" novalidate>' +
       '<label class="field"><span>E-mail</span><input name="email" type="email" autocomplete="email" required placeholder="vous@exemple.fr"></label>' +
       '<div class="vl-2"><label class="field"><span>Nom et prénom</span><input name="nom" autocomplete="name"></label>' +
@@ -419,7 +419,7 @@
         .then(function(r){ return r.json().then(function(j){ return { ok: r.ok, j: j }; }); })
         .then(function(x){
           if (x.ok && x.j.ok){ box.innerHTML = '<div class="vl-ok"><div class="vl-h">Votre rapport est en préparation</div><p>Il arrive par e-mail à <strong>' + esc(v.email) + '</strong> d\'ici quelques minutes. Pensez à vérifier vos courriers indésirables.</p><p class="vl-s">Rapport offert par ' + esc(VL.libelle) + '.</p></div>'; return; }
-          var M = { demo: 'Démonstration : la remise du rapport sera activée à la mise en service.', hors_commune: 'Cette parcelle n\'est pas sur la commune.', limite_email: 'Vous avez déjà demandé 3 rapports aujourd\'hui. Réessayez demain.', limite: 'Trop de demandes depuis cette connexion aujourd\'hui. Réessayez demain.', limite_ville: 'Le service a atteint sa limite du jour. Réessayez demain.', inactive: 'Le service n\'est pas actif pour cette commune.', email: 'Indiquez une adresse e-mail valide.' };
+          var M = { demo: 'Démonstration : la remise du rapport sera activée à la mise en service.', credits_epuises: 'Le service offert par la mairie est momentanément indisponible : le stock de rapports est épuisé. Vous pouvez obtenir votre rapport directement sur terrenurbanisme.com.', hors_commune: 'Cette parcelle n\'est pas sur la commune.', limite_email: 'Vous avez déjà demandé 3 rapports aujourd\'hui. Réessayez demain.', limite: 'Trop de demandes depuis cette connexion aujourd\'hui. Réessayez demain.', limite_ville: 'Le service a atteint sa limite du jour. Réessayez demain.', inactive: 'Le service n\'est pas actif pour cette commune.', email: 'Indiquez une adresse e-mail valide.' };
           er.textContent = M[x.j.error] || 'La demande n\'a pas pu aboutir. Réessayez dans un instant.';
           bt.disabled = false; bt.textContent = 'Recevoir mon rapport offert';
         }).catch(function(){ er.textContent = 'La demande n\'a pas pu aboutir. Réessayez dans un instant.'; bt.disabled = false; bt.textContent = 'Recevoir mon rapport offert'; });
@@ -458,13 +458,13 @@
       found.push(['ok', 'Plan de prévention des risques', sups.some(function(x){ return /^pm[1-3]/.test(x); }) ? 'Parcelle concernée par un PPR : règles détaillées dans le rapport' : 'Aucun PPR recensé sur la parcelle']);
     }
     var locked = ['Verdict : constructible ou non, et pourquoi', 'Plan de zonage et chapitre officiel du règlement en annexe', 'Règlement de la zone : hauteur, reculs, aspect, avec extraits', 'Surface constructible estimée en m² et plan d\'implantation', (/^2[AB]/.test(String(parcel && parcel.properties && parcel.properties.code_insee || '')) ? 'PADDUC, distance au rivage, loi Montagne' : 'Loi Littoral, distance au rivage, loi Montagne'), 'Risques à la parcelle, arrêtés de catastrophe naturelle', 'Accès, pente, assainissement et fibre', 'Photos aériennes depuis 1950 et permis accordés autour', 'Prix au m² de la commune et ventes de terrains alentour', 'État des risques (ERP) pré-rempli et rapport officiel Géorisques', 'Démarches, délais et interlocuteurs'];
-    var OFF = { unit: { n: 1, u: '19,90 €', t: '19,90 €' }, pack2: { n: 2, u: '14,90 €', t: '29,80 €' }, pack3: { n: 3, u: '12,90 €', t: '38,70 €' } }, kind = 'pack3';
-    var btnTxt = function(){ var o = OFF[kind]; return o.n > 1 ? 'Obtenir ' + o.n + ' rapports · ' + o.t : 'Obtenir le rapport complet · ' + o.t; };
+    var OFF = { synth: { n: 1, u: '9,90 €', t: '9,90 €' }, unit: { n: 1, u: '19,90 €', t: '19,90 €' }, pack2: { n: 2, u: '14,90 €', t: '29,80 €' }, pack3: { n: 3, u: '12,90 €', t: '38,70 €' } }, kind = 'unit';
+    var btnTxt = function(){ var o = OFF[kind]; return kind === 'synth' ? 'Obtenir le rapport synthétique · ' + o.t : o.n > 1 ? 'Obtenir ' + o.n + ' rapports complets · ' + o.t : 'Obtenir le rapport complet · ' + o.t; };
     var BTN = btnTxt();
-    var opt = function(k, lbl, off){ var o = OFF[k]; return '<label class="v-opt"><input type="radio" name="v-kind" value="' + k + '"' + (k === kind ? ' checked' : '') + '><span class="v-opt-l">' + lbl + '</span>' + (off ? '<em>' + off + '</em>' : '') + '<b>' + o.u + (o.n > 1 ? '<small>/ rapport</small>' : '') + '</b></label>'; };
+    var opt = function(k, lbl, off, sub){ var o = OFF[k]; return '<label class="v-opt"><input type="radio" name="v-kind" value="' + k + '"' + (k === kind ? ' checked' : '') + '><span class="v-opt-l">' + lbl + (sub ? '<small class="v-opt-s">' + sub + '</small>' : '') + '</span>' + (off ? '<em>' + off + '</em>' : '') + '<b>' + o.u + (o.n > 1 ? '<small>/ rapport</small>' : '') + '</b></label>'; };
     var OFFER = '<div class="v-offer" role="radiogroup" aria-label="Nombre de rapports"><div class="v-offer-top"><b class="v-offer-u">' + OFF[kind].u + '</b> <span>/ rapport</span><div class="v-offer-t">Prix total ' + OFF[kind].t + '</div></div>' +
-      opt('unit', 'Cette parcelle') + '<div class="v-opt-sep">Plusieurs biens ? Payez moins par rapport</div>' + opt('pack2', '2 rapports', '−25 %') + opt('pack3', '3 rapports', '−35 %') +
-      '<p class="v-opt-note">Le premier rapport porte sur cette parcelle. Les autres restent sur votre compte, à utiliser quand vous voulez, sans limite de durée.</p></div>';
+      opt('synth', 'Rapport synthétique', '', '2 pages : verdict, carte, zone, surface, accès, réseaux, règles principales, risques') + opt('unit', 'Rapport complet', '', 'Environ 45 pages : tout le détail, règlement lu en entier, implantation, démarches, ERP') + '<div class="v-opt-sep">Plusieurs biens ? Rapports complets moins chers</div>' + opt('pack2', '2 rapports complets', '−25 %') + opt('pack3', '3 rapports complets', '−35 %') +
+      '<p class="v-opt-note">Rapport synthétique : passez au rapport complet plus tard pour 10 € depuis votre espace. Lots : le premier rapport porte sur cette parcelle, les autres restent sur votre compte, sans limite de durée.</p><p class="v-opt-note"><a href="/tarifs.html#comparer">Comparer le rapport synthétique et le rapport complet</a></p></div>';
     resultEl.innerHTML =
       '<div class="v-ref">' + esc(ref) + '</div>' +
       '<span class="v-badge v-found"><i></i>Parcelle trouvée</span>' +
@@ -477,7 +477,7 @@
       '<ul class="v-found-list">' + found.map(function(f){ return '<li>' + (f[0] === 'warn' ? WARNI : OKI) + '<div><strong>' + esc(f[1]) + '</strong><span>' + esc(f[2]) + '</span></div></li>'; }).join('') + '</ul>' +
       '<ul class="v-locked">' + locked.map(function(t){ return '<li>' + LOCK + '<span>' + esc(t) + '</span><i class="blur" aria-hidden="true">████████</i></li>'; }).join('') + '</ul>' +
       '<button type="button" class="v-cta buy">' + BTN + '</button>' +
-      '<p class="v-buy-note">Rapport PDF de 30 à 40 pages avec sommaire cliquable, envoyé par e-mail en quelques minutes · paiement sécurisé par Stripe<br><a href="/tarifs.html">Professionnels : crédits dès 3,50 € le rapport, sans abonnement</a> · <a href="/exemple.html">Voir un exemple</a></p><p class="v-buy-err" role="alert"></p>' +
+      '<p class="v-buy-note">Rapport PDF envoyé par e-mail en quelques minutes : synthétique en 2 pages, ou complet d\'environ 45 pages avec sommaire cliquable · paiement sécurisé par Stripe<br><a href="/tarifs.html">Professionnels : crédits dès 3,50 € le rapport, sans abonnement</a> · <a href="/exemple.html">Voir un exemple</a></p><p class="v-buy-err" role="alert"></p>' +
       '<p class="v-disc">Information indicative, établie à partir des sources publiques consultées à la date de la recherche. Elle ne vaut ni certificat d\'urbanisme, ni autorisation, ni avis juridique : seule la mairie peut confirmer la constructibilité de la parcelle.</p>' +
       '<a class="v-owner" href="https://france-cadastre.fr/" target="_blank" rel="noopener">Connaître le propriétaire de cette parcelle <span>via France Cadastre ↗</span></a>';
     var parcelRef = { insee:inseeOf(p), commune:(inseeOf(p) !== p.code_insee ? arrLabel(p) : p.nom_com), section:sec, numero:num };
