@@ -1,5 +1,5 @@
 {
  "fonction": "stripe-webhook",
- "script": "plu_local7.py",
- "demande": "plu-local-7c"
+ "script": "plu_local8.py",
+ "demande": "plu-local-8"
 }
