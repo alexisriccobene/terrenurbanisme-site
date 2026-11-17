@@ -1,5 +1,5 @@
 {
  "fonction": "stripe-webhook",
- "script": "plu_local8.py",
- "demande": "plu-local-8"
+ "script": "credits_pro_wh.py",
+ "demande": "credits-pro-wh"
 }
