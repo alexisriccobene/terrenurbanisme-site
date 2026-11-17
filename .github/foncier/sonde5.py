@@ -1,9 +1,9 @@
 import requests, json
 H={'User-Agent':'TerrenUrbanisme/1.0'}
-p=requests.get('https://apicarto.ign.fr/api/cadastre/parcelle?code_insee=2B251&section=AB&numero=0282',headers=H,timeout=60).json()
-f=p['features'][0]; print('parcelle', f['properties'].get('contenance'))
-g=json.dumps(f['geometry'])
-for t in ['zone-urba','document','secteur-cc']:
-    r=requests.get('https://apicarto.ign.fr/api/gpu/'+t,params={'geom':g},headers=H,timeout=60)
-    print(t, r.status_code, r.text[:1200])
-r=requests.get('https://apicarto.ign.fr/api/gpu/municipality',params={'insee':'2B251'},headers=H,timeout=60); print('municipality', r.text[:800])
+r=requests.get('https://apicarto.ign.fr/api/gpu/municipality',params={'insee':'2B251'},headers=H,timeout=60).json()
+for f in r['features']: print('MUNI', json.dumps(f['properties'],ensure_ascii=False))
+for t in ['document','procedure']:
+    try:
+        r=requests.get('https://www.geoportail-urbanisme.gouv.fr/api/document',params={'grid':'2B251'},headers=H,timeout=60); print('API',r.status_code,r.text[:1500]); break
+    except Exception as e: print(e)
+r=requests.get('https://data.geopf.fr/wfs/ows?service=WFS&version=2.0.0&request=GetFeature&typeNames=wfs_du:doc_urba&outputFormat=application/json&count=5&CQL_FILTER='+requests.utils.quote("partition LIKE '%2B251%' OR idurba LIKE '%2B251%'"),headers=H,timeout=60); print('DOCURBA', r.status_code, r.text[:1500])
