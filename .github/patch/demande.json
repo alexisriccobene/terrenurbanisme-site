@@ -1,5 +1,5 @@
 {
  "fonction": "stripe-webhook",
- "script": "marche_local2.py",
- "demande": "marche-local-2"
+ "script": "multi_zones.py",
+ "demande": "multi-zones-1"
 }
