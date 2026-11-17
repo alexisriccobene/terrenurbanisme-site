@@ -62,6 +62,7 @@
       }).join('');
       $('ps-ch').innerHTML = html + '<p style="color:var(--muet);font-size:13px;margin:10px 0 0">La synthèse, l\'avertissement et les sources restent toujours présents. Une rubrique absente de ce terrain n\'apparaît pas.</p>';
       (P.photos || []).forEach(function (path) { A.client.storage.from('perso').createSignedUrl(path, 3600).then(function (s) { if (s.data) { photos.push({ path: path, url: s.data.signedUrl }); drawPhotos(); } }); });
+      if (r.client) { $('ps-frame').src = r.client.view; $('ps-open').href = r.client.view; $('ps-dl').href = r.client.url; $('ps-dl').hidden = false; $('ps-pt').textContent = 'Dernière version client'; $('ps-ps').textContent = 'Modifiez les réglages puis générez à nouveau si besoin.'; }
       if (!r.pret) msg('Ce rapport a été généré avant la mise en place de la version client. Générez un nouveau rapport sur cette parcelle pour pouvoir le personnaliser.', 'err');
     }).catch(function () { $('ps-load').textContent = 'Ce rapport n\'est pas accessible depuis votre compte.'; });
     $('ps-files').addEventListener('change', function (e) {
@@ -86,16 +87,27 @@
         sans: Array.prototype.slice.call(document.querySelectorAll('[data-sans]')).filter(function (c) { return !c.checked; }).map(function (c) { return c.getAttribute('data-sans'); })
       };
       bt.disabled = true; bt.textContent = 'Génération en cours… (1 à 2 minutes)'; msg('');
-      call(body).then(function (r) {
+      function done(cl) {
         bt.disabled = false; bt.textContent = 'Générer à nouveau';
-        $('ps-frame').src = r.view; $('ps-open').href = r.view; $('ps-dl').href = r.url; $('ps-dl').hidden = false;
+        $('ps-frame').src = cl.view; $('ps-open').href = cl.view; $('ps-dl').href = cl.url; $('ps-dl').hidden = false;
         $('ps-pt').textContent = 'Version client'; $('ps-ps').textContent = 'Voici le rapport que recevra votre client. Lien valable 7 jours.';
         msg('Version client prête. Téléchargez-la pour l\'envoyer à votre client.', 'ok');
         if (window.innerWidth < 860) $('ps-pt').scrollIntoView({ behavior: 'smooth' });
-      }).catch(function (er) {
+      }
+      function fail(er) {
         bt.disabled = false; bt.textContent = 'Générer la version client';
         msg(er && er.code === 'ancien' ? 'Ce rapport a été généré avant la mise en place de la version client. Générez un nouveau rapport sur cette parcelle.' : 'La génération n\'a pas abouti. Réessayez dans un instant.', 'err');
-      });
+      }
+      var t0 = Date.now();
+      function poll() {
+        call({ action: 'apercu_dossier', id: id }).then(function (r) {
+          var st = r.perso && r.perso.status;
+          if (st === 'pret' && r.client) return done(r.client);
+          if (st === 'erreur' || Date.now() - t0 > 8 * 60000) return fail();
+          setTimeout(poll, 6000);
+        }).catch(function () { setTimeout(poll, 8000); });
+      }
+      call(body).then(function (r) { if (r && r.pending) { msg('Génération en cours, cela prend 2 à 4 minutes. Vous pouvez rester sur cette page.'); setTimeout(poll, 20000); } else poll(); }).catch(fail);
     });
   }
   function boot() { if (!window.TUAuth || !TUAuth.ready) { setTimeout(boot, 120); return; } A = window.TUAuth; A.user().then(start); }
