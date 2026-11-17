@@ -57,7 +57,7 @@
     var LIM = window.__boLim || 50;
     $('bo-rows').innerHTML = L.slice(0, LIM).map(function (d) {
       var v = VER[d.verdict], dt = new Date(d.created_at);
-      var lien = d.ex ? '<span style="color:var(--muet)">Exemple</span>' : d.status === 'ready' && d.download_slug ? '<a href="/r/' + encodeURIComponent(d.download_slug) + '" target="_blank" rel="noopener">Ouvrir</a>' : '<span style="color:var(--muet)">' + (d.status === 'ready' ? 'Disponible' : 'En préparation') + '</span>';
+      var lien = d.ex ? '<span style="color:var(--muet)">Exemple</span>' : d.status === 'ready' && d.download_slug ? '<a href="/r/' + encodeURIComponent(d.download_slug) + '" target="_blank" rel="noopener">Ouvrir</a><br><a href="/personnaliser.html?id=' + encodeURIComponent(d.id) + '" style="font-weight:700">' + (d.perso ? 'Version client ✓' : 'Version client') + '</a>' : '<span style="color:var(--muet)">' + (d.status === 'ready' ? 'Disponible' : 'En préparation') + '</span>';
       return '<tr><td>' + dt.toLocaleDateString('fr-FR') + '<br><small style="color:var(--muet)">' + dt.toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' }) + '</small></td><td><b>' + esc(d.commune) + '</b></td><td>' + esc(d.agent || '–') + '</td><td>Section ' + esc(d.section) + ' n° ' + esc(d.numero) + '</td><td>' + esc(d.zone || '–') + '</td><td>' + (v ? '<span class="bo-v ' + v[0] + '">' + v[1] + '</span>' : '–') + '</td><td>' + esc(d.projet ? d.projet.charAt(0).toUpperCase() + d.projet.slice(1) : '–') + '</td><td><small>' + esc(d.order_ref || '–') + '</small></td><td>' + lien + '</td></tr>';
     }).join('');
     $('bo-empty').hidden = L.length > 0;
@@ -97,7 +97,7 @@
     var Auth = window.TUAuth; if (!Auth || !Auth.client) { setTimeout(start, 150); return; }
     Auth.user().then(function (u) {
       if (!u) { location.replace(Auth.loginUrl ? Auth.loginUrl('/espace-pro.html') : '/connexion.html'); return; }
-      Auth.client.from('dossiers').select('created_at,commune,section,numero,zone,verdict,projet,status,download_slug,order_ref,agent').eq('user_id', u.id).order('created_at', { ascending: false }).limit(2000).then(function (r) {
+      Auth.client.from('dossiers').select('id,created_at,commune,section,numero,zone,verdict,projet,status,download_slug,order_ref,agent,perso').eq('user_id', u.id).order('created_at', { ascending: false }).limit(2000).then(function (r) {
         ALL = (r.data || []).filter(function (d) { return d.status !== 'error'; });
         Promise.all([Auth.account(), Auth.agents ? Auth.agents() : []]).then(function (v) {
           var c = v[0], noms = (v[1] || []).map(function (a) { return a.nom; });
