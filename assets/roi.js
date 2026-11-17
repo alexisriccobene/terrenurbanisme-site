@@ -34,10 +34,9 @@
   function cout(m, n, pop) {
     if (m === 'mairie') return { p: POP[pop == null ? 2 : pop][1], lib: 'Offre communale' };
     if (n <= 3) return { p: n === 1 ? 19.9 : n === 2 ? 29.8 : 38.7, lib: n === 1 ? 'Rapport à l’unité' : 'Lot de ' + n + ' rapports' };
-    if (n <= 15) return { p: 29, lib: 'Abonnement Solo' };
-    if (n <= 50) return { p: 55, lib: 'Abonnement Agence' };
-    if (n <= 150) return { p: 139, lib: 'Abonnement Réseau' };
-    return { p: 139 * Math.ceil(n / 150), lib: Math.ceil(n / 150) + ' abonnements Réseau' };
+    // Crédits professionnels, sans abonnement : 5 € le rapport, 4,40 € dès 25, 4 € dès 50, 3,50 € dès 100
+    var r = n >= 100 ? 3.5 : n >= 50 ? 4 : n >= 25 ? 4.4 : 5;
+    return { p: n * r, lib: 'Crédits professionnels' };
   }
   function build(el) {
     var m0 = METIERS[el.getAttribute('data-roi')] ? el.getAttribute('data-roi') : 'agence';

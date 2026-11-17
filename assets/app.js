@@ -477,7 +477,7 @@
       '<ul class="v-found-list">' + found.map(function(f){ return '<li>' + (f[0] === 'warn' ? WARNI : OKI) + '<div><strong>' + esc(f[1]) + '</strong><span>' + esc(f[2]) + '</span></div></li>'; }).join('') + '</ul>' +
       '<ul class="v-locked">' + locked.map(function(t){ return '<li>' + LOCK + '<span>' + esc(t) + '</span><i class="blur" aria-hidden="true">████████</i></li>'; }).join('') + '</ul>' +
       '<button type="button" class="v-cta buy">' + BTN + '</button>' +
-      '<p class="v-buy-note">Rapport PDF de 30 à 40 pages avec sommaire cliquable, envoyé par e-mail en quelques minutes · paiement sécurisé par Stripe<br><a href="/tarifs.html">Professionnels : abonnements dès 0,77 € le rapport</a> · <a href="/exemple.html">Voir un exemple</a></p><p class="v-buy-err" role="alert"></p>' +
+      '<p class="v-buy-note">Rapport PDF de 30 à 40 pages avec sommaire cliquable, envoyé par e-mail en quelques minutes · paiement sécurisé par Stripe<br><a href="/tarifs.html">Professionnels : crédits dès 3,50 € le rapport, sans abonnement</a> · <a href="/exemple.html">Voir un exemple</a></p><p class="v-buy-err" role="alert"></p>' +
       '<p class="v-disc">Information indicative, établie à partir des sources publiques consultées à la date de la recherche. Elle ne vaut ni certificat d\'urbanisme, ni autorisation, ni avis juridique : seule la mairie peut confirmer la constructibilité de la parcelle.</p>' +
       '<a class="v-owner" href="https://france-cadastre.fr/" target="_blank" rel="noopener">Connaître le propriétaire de cette parcelle <span>via France Cadastre ↗</span></a>';
     var parcelRef = { insee:inseeOf(p), commune:(inseeOf(p) !== p.code_insee ? arrLabel(p) : p.nom_com), section:sec, numero:num };
@@ -620,32 +620,22 @@
 /* ---------- Page Tarifs : formules et paiement ---------- */
 (function(){
   var root = document.getElementById('plans'); if (!root) return;
-  var billing = 'm';
-  try { if (localStorage.getItem('tu_bill') === 'a') billing = 'a'; } catch (e) {}
-  // Prix TTC : mensuel, et annuel ramené au mois (payé en une fois)
-  var SUB = {
-    essentiel: { name: 'Solo',      m: 29,  a: 290 / 12,  n: 15 },
-    pro:       { name: 'Agence',    m: 55,  a: 550 / 12,  n: 50 },
-    cabinet:   { name: 'Réseau',    m: 139, a: 1390 / 12, n: 150 }
-  };
-  var UNIT = { unit: ['19,90 €', 'Paiement unique', 'Choisir · 1 rapport'], pack2: ['14,90 € <small>/ rapport</small>', 'Lot de 2 · 29,80 € au total · −25 %', 'Choisir · 2 rapports'], pack3: ['12,90 € <small>/ rapport</small>', 'Lot de 3 · 38,70 € au total · −35 %', 'Choisir · 3 rapports'] };
+  var UNIT = { unit: ['19,90 €', 'Paiement unique', 'Choisir · 1 rapport'], pack2: ['14,90 € <small>/ rapport</small>', 'Lot de 2 · 29,80 € au total · −25 %', 'Choisir · 2 rapports'], pack3: ['12,90 € <small>/ rapport</small>', 'Lot de 3 · 38,70 € au total', 'Choisir · 3 rapports'] };
+  // Crédits professionnels : sans abonnement, 5 € le rapport au plus, dégressif
+  var PRO = { pro10: [10, 50], pro25: [25, 110], pro50: [50, 200], pro100: [100, 350] };
   var eur = function(v){ return (Math.round(v * 100) / 100).toLocaleString('fr-FR', { minimumFractionDigits: v % 1 ? 2 : 0, maximumFractionDigits: 2 }) + ' €'; };
-  var cards = [];
   root.querySelectorAll('.plan').forEach(function(card){
-    var group = card.getAttribute('data-group'), amt = card.querySelector('.amt'), unit = card.querySelector('.unit'), save = card.querySelector('.save'), btn = card.querySelector('.go'), err = card.querySelector('.plan-err');
+    var group = card.getAttribute('data-group'), amt = card.querySelector('.amt'), unit = card.querySelector('.unit'), btn = card.querySelector('.go'), err = card.querySelector('.plan-err');
+    if (!btn) return;
     var segs = card.querySelectorAll('.seg button');
-    var cur = group === 'unit' ? 'pack3' : group === 'cab' ? 'cabinet' : 'pro';
+    var cur = group === 'unit' ? 'pack3' : 'pro10';
     function render(){
       segs.forEach(function(b){ b.setAttribute('aria-pressed', b.getAttribute('data-k') === cur ? 'true' : 'false'); });
       if (group === 'unit') { var o = UNIT[cur]; amt.innerHTML = o[0]; unit.textContent = o[1]; btn.textContent = o[2] + ' →'; btn.setAttribute('data-kind', cur); return; }
-      var P = SUB[cur], an = billing === 'a';
-      amt.innerHTML = an ? '<s>' + eur(P.m) + '</s>' + eur(P.a) + ' <small>/ mois</small>' : eur(P.m) + ' <small>/ mois</small>';
-      if (save) save.innerHTML = an ? 'Facturé ' + eur(P.a * 12) + ' par an · <b>économisez ' + eur((P.m - P.a) * 12) + '</b>' : '';
-      unit.textContent = an ? (P.n * 12).toLocaleString('fr-FR') + ' rapports par an · ' + eur(P.a / P.n) + ' le rapport' : P.n + ' rapports par mois · ' + eur(P.m / P.n) + ' le rapport';
-      var li = card.querySelector('.li-renew'); if (li) li.textContent = an ? 'Tous les rapports de l\'année disponibles dès le paiement' : 'Rapports renouvelés chaque mois';
-      var lg = card.querySelector('.li-logo'); if (lg) lg.hidden = cur === 'essentiel';
-      var lf = card.querySelector('.li-fact'); if (lf) lf.textContent = an ? 'Une facture annuelle automatique' : 'Factures mensuelles automatiques';
-      btn.textContent = 'Démarrer ' + P.name + (an ? ' annuel' : '') + ' →'; btn.setAttribute('data-kind', cur + (an ? '_an' : ''));
+      var P = PRO[cur]; if (!P) return;
+      amt.innerHTML = eur(P[1] / P[0]) + ' <small>/ rapport</small>';
+      unit.textContent = P[0] + ' rapports · ' + eur(P[1]) + ' au total';
+      btn.textContent = 'Acheter ' + P[0] + ' rapports →'; btn.setAttribute('data-kind', cur);
     }
     segs.forEach(function(b){ b.addEventListener('click', function(){ cur = b.getAttribute('data-k'); render(); }); });
     btn.addEventListener('click', function(){
@@ -653,15 +643,11 @@
       err.textContent = '';
       if (!A || !A.ready){ err.textContent = 'Le paiement n\'est pas encore activé.'; return; }
       btn.disabled = true; btn.textContent = 'Redirection vers le paiement…';
-      A.checkout(kind).catch(function(e){
+      A.checkout(kind).catch(function(){
         btn.disabled = false; btn.textContent = label;
-        err.innerHTML = e && e.code === 'deja_abonne' ? 'Vous avez déjà un abonnement en cours. Pour changer de formule, résiliez-le depuis <a href="/espace.html">votre espace</a> ; des lots de rapports restent disponibles à tout moment.' : 'Le paiement n\'a pas pu être ouvert. Réessayez dans un instant.';
+        err.textContent = 'Le paiement n\'a pas pu démarrer. Réessayez dans un instant.';
       });
     });
-    cards.push(render); render();
+    render();
   });
-  var sw = document.querySelectorAll('#bill .bill-sw button');
-  function setBill(v){ billing = v; sw.forEach(function(b){ b.setAttribute('aria-pressed', b.getAttribute('data-b') === v ? 'true' : 'false'); }); cards.forEach(function(f){ f(); }); try { localStorage.setItem('tu_bill', v); } catch (e) {} }
-  sw.forEach(function(b){ b.addEventListener('click', function(){ setBill(b.getAttribute('data-b')); }); });
-  setBill(billing);
 })();

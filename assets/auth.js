@@ -26,14 +26,14 @@
     /* Solde et abonnement du client */
     account: function(){
       if (!sb) return Promise.resolve(null);
-      return Auth.user().then(function(u){ if (!u) return null; return sb.from('comptes').select('*').eq('user_id', u.id).maybeSingle().then(function(r){ var c = r.data || { credits_abonnement:0, credits_achetes:0 }; var sub = ['active','trialing'].indexOf(c.statut_abonnement) >= 0; c.total = (sub ? c.credits_abonnement : 0) + c.credits_achetes; c.abonne = ['active','trialing','past_due','unpaid','incomplete'].indexOf(c.statut_abonnement) >= 0; return Auth.mairie().then(function(mr){ if (mr && mr.illimite){ c.illimite = true; c.total = 9999; } return c; }); }); }).catch(function(){ return null; });
+      return Auth.user().then(function(u){ if (!u) return null; return sb.from('comptes').select('*').eq('user_id', u.id).maybeSingle().then(function(r){ var c = r.data || { credits_abonnement:0, credits_achetes:0 }; var sub = ['active','trialing'].indexOf(c.statut_abonnement) >= 0; c.total = (sub ? c.credits_abonnement : 0) + c.credits_achetes; c.abonne = ['active','trialing','past_due','unpaid','incomplete'].indexOf(c.statut_abonnement) >= 0; c.pro = !!c.pro || c.abonne; return Auth.mairie().then(function(mr){ if (mr && mr.illimite){ c.illimite = true; c.total = 9999; } return c; }); }); }).catch(function(){ return null; });
     },
     /* Paiement : kind = unit | pack2 | pack3 | essentiel | pro | cabinet | essentiel_an | pro_an | cabinet_an ; parcel facultatif (le premier rapport porte sur la parcelle) */
     checkout: function(kind, parcel){
       if (!sb) return Promise.reject(new Error('off'));
       return Auth.user().then(function(u){
         // Rapport à l'unité ou lot : paiement sans compte (e-mail saisi sur la page de paiement) ; abonnement : compte nécessaire
-        var invite = !u && /^(unit|pack2|pack3)$/.test(kind);
+        var invite = !u && /^(unit|pack2|pack3|pro10|pro25|pro50|pro100)$/.test(kind);
         if (!u && !invite){ location.href = Auth.loginUrl(location.pathname + location.search); return new Promise(function(){}); }
         var body = Object.assign({ kind: kind }, parcel || {});
         if (SRC) body.src = { ref: SRC.ref, page: SRC.page, utm: SRC.utm };
@@ -355,7 +355,7 @@
   function renderAgents(){
     var box = $('esp-agents'); if (!box) return;
     Auth.account().then(function(c){
-      if (!c || !(c.illimite || c.abonne)) return;
+      if (!c || !(c.illimite || c.pro)) return;
       box.hidden = false;
       var list = $('ag-list'), f = $('ag-form'), msg = $('ag-msg');
       if (f.dataset.ok) return; f.dataset.ok = '1';
@@ -384,11 +384,11 @@
       c = c || { total:0 };
       var plan = c.formule ? ({ essentiel:'Solo', pro:'Agence', cabinet:'Réseau', essentiel_an:'Solo annuel', pro_an:'Agence annuel', cabinet_an:'Réseau annuel' })[c.formule] : null;
       var fin = c.fin_periode ? new Date(c.fin_periode).toLocaleDateString('fr-FR') : '';
-      var status = !c.abonne ? 'Sans abonnement' : c.statut_abonnement === 'past_due' ? 'Paiement à régulariser' : c.resiliation_prevue ? 'Résilié, actif jusqu\'au ' + fin : 'Renouvellement le ' + fin;
+      var status = !c.abonne ? (c.pro ? 'Crédits sans limite de durée' : 'Sans abonnement') : c.statut_abonnement === 'past_due' ? 'Paiement à régulariser' : c.resiliation_prevue ? 'Résilié, actif jusqu\'au ' + fin : 'Renouvellement le ' + fin;
       box.innerHTML = '<div class="acct">' +
         '<div><small>Rapports disponibles</small><b>' + (c.illimite ? 'Illimité' : c.total) + '</b>' + (c.abonne ? '<span>dont ' + (c.credits_abonnement || 0) + ' de l\'abonnement' + (c.credits_achetes ? ' et ' + c.credits_achetes + ' achetés' : '') + '</span>' : '') + '</div>' +
-        '<div><small>Formule</small><b>' + (c.illimite ? 'Démonstration' : plan || 'À l\'unité') + '</b><span>' + esc(c.illimite ? 'Rapports illimités, sans décompte' : status) + '</span></div>' +
-        '<div class="acct-act">' + (c.illimite || c.abonne ? '<a class="btn" href="/espace-pro.html">Voir mon back-office</a>' : '') + '<a class="btn' + (c.illimite || c.abonne ? ' ghost' : '') + '" href="/tarifs.html">' + (c.abonne ? 'Ajouter des rapports' : 'Voir les formules') + '</a>' + (c.stripe_customer ? '<button type="button" class="btn ghost" id="portal">' + (c.abonne ? 'Gérer mon abonnement' : 'Mes factures') + '</button>' : '') + '</div></div>';
+        '<div><small>Formule</small><b>' + (c.illimite ? 'Démonstration' : plan || (c.pro ? 'Crédits professionnels' : 'À l\'unité')) + '</b><span>' + esc(c.illimite ? 'Rapports illimités, sans décompte' : status) + '</span></div>' +
+        '<div class="acct-act">' + (c.illimite || c.pro ? '<a class="btn" href="/espace-pro.html">Voir mon back-office</a>' : '') + '<a class="btn' + (c.illimite || c.pro ? ' ghost' : '') + '" href="/tarifs.html">' + (c.pro ? 'Recharger mes crédits' : 'Voir les formules') + '</a>' + (c.stripe_customer ? '<button type="button" class="btn ghost" id="portal">' + (c.abonne ? 'Gérer mon abonnement' : 'Mes factures') + '</button>' : '') + '</div></div>';
       var pb = $('portal'); if (pb) pb.addEventListener('click', function(){ pb.disabled = true; pb.textContent = 'Ouverture…'; Auth.portal().catch(function(){ pb.disabled = false; pb.textContent = 'Réessayer'; }); });
     });
   }

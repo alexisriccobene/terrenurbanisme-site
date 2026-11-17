@@ -29,10 +29,10 @@
     if (!u) return;
     box.hidden = false;
     var msg = $('mq-msg'), prev = $('mq-prev'), file = $('mq-file'), path = null;
-    sb.from('comptes').select('statut_abonnement, formule').eq('user_id', u.id).maybeSingle().then(function(r){
-      var abo = (u.id === 'ca45b46d-24e0-4b79-8067-217f6b84a6ed') || (r.data && ACTIVE.indexOf(r.data.statut_abonnement || '') >= 0 && !/^essentiel/.test(r.data.formule || ''));
+    sb.from('comptes').select('statut_abonnement, formule, pro').eq('user_id', u.id).maybeSingle().then(function(r){
+      var abo = (u.id === 'ca45b46d-24e0-4b79-8067-217f6b84a6ed') || (r.data && r.data.pro) || (r.data && ACTIVE.indexOf(r.data.statut_abonnement || '') >= 0 && !/^essentiel/.test(r.data.formule || ''));
       $('mq-note').innerHTML = abo ? 'Votre logo et vos coordonnées figurent sur la page de garde et en tête de chaque page de vos prochains rapports. Le rapport reste établi par TerrenUrbanisme.'
-        : 'Réservé aux abonnements Agence et Réseau : enregistrez votre logo dès maintenant, il apparaîtra sur vos rapports dès votre abonnement. <a href="/tarifs.html">Voir les abonnements</a>';
+        : 'Réservé aux crédits professionnels : enregistrez votre logo dès maintenant, il apparaîtra sur vos rapports dès votre premier achat de crédits professionnels. <a href="/tarifs.html">Voir les crédits professionnels</a>';
     });
     sb.from('marques').select('*').eq('user_id', u.id).maybeSingle().then(function(r){
       var m = r.data || {};
