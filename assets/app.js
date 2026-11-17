@@ -343,7 +343,7 @@
               if (!rows || !rows.length) return z;
               var pb = window.turf ? turf.bbox(parcel) : null;
               var hit = rows.filter(function(r){ return !pb || !(r.bbox[0] > pb[2] || r.bbox[2] < pb[0] || r.bbox[1] > pb[3] || r.bbox[3] < pb[1]); })
-                .filter(function(r){ try { return !window.turf || turf.booleanIntersects(parcel, turf.feature(r.geom)); } catch(e){ return true; } });
+                .filter(function(r){ try { return !window.turf || !turf.intersect || !!turf.intersect(parcel, turf.feature(r.geom)); } catch(e){ return true; } });
               if (!hit.length) return z;
               return { local: true, features: hit.map(function(r){ return { type: 'Feature', geometry: r.geom, properties: { libelle: r.libelle, libelong: r.libelong, typezone: r.typezone } }; }) };
             }).catch(function(){ return z; });
