@@ -1,4 +1,4 @@
 {
- "script": "charge_plu.py",
- "demande": "plu1"
+ "script": "couverture.py",
+ "demande": "cov2"
 }
