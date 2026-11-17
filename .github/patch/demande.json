@@ -1,5 +1,5 @@
 {
- "fonction": "create-checkout",
- "script": "credits_pro.py",
- "demande": "credits-pro-cc2"
+ "fonction": "stripe-webhook",
+ "script": "perso.py",
+ "demande": "perso-1"
 }
