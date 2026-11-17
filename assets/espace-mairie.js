@@ -88,7 +88,7 @@
     $('em-snip').textContent = '<!-- Bouton TerrenUrbanisme : rapport d\'urbanisme offert par ' + v.libelle + ' -->\n' + btn;
     $('em-site-n').textContent = 'Mairie de ' + v.nom;
     $('em-site-url').textContent = 'site-de-la-mairie.fr/services-en-ligne';
-    $('em-abo').innerHTML = '<dt>Commune</dt><dd>' + esc(v.nom) + '</dd><dt>Formule</dt><dd>' + esc(v.formule || 'Offre communale') + '</dd><dt>Statut</dt><dd>' + (v.demo ? 'Démonstration' : v.actif ? 'Actif' : 'Inactif') + '</dd>' + (v.fin ? '<dt>Échéance</dt><dd>' + new Date(v.fin).toLocaleDateString('fr-FR') + '</dd>' : '') + '<dt>Parcelles couvertes</dt><dd>Toute la commune (INSEE ' + esc(v.insee.join(', ')) + ')</dd>';
+    $('em-abo').innerHTML = '<dt>Commune</dt><dd>' + esc(v.nom) + '</dd><dt>Formule</dt><dd>' + esc(v.formule || 'Offre communale') + '</dd>' + (v.credits != null ? '<dt>Rapports restants</dt><dd><strong>' + v.credits + '</strong>' + (v.credits <= 10 ? ' · stock bientôt épuisé : <a href="mailto:contact@terrenurbanisme.com?subject=Nouveau%20stock%20de%20rapports">recommander</a>' : '') + '</dd>' : '') + '<dt>Statut</dt><dd>' + (v.demo ? 'Démonstration' : v.actif ? 'Actif' : 'Inactif') + '</dd>' + (v.fin ? '<dt>Échéance</dt><dd>' + new Date(v.fin).toLocaleDateString('fr-FR') + '</dd>' : '') + '<dt>Parcelles couvertes</dt><dd>Toute la commune (INSEE ' + esc(v.insee.join(', ')) + ')</dd>';
     document.title = 'Espace mairie · ' + v.nom + ' | TerrenUrbanisme';
   }
   document.querySelectorAll('.em-tabs button').forEach(function (b) {
