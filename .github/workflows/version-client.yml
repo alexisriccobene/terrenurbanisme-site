@@ -10,7 +10,7 @@ on:
         description: "Identifiant du dossier"
         required: true
 permissions:
-  contents: read
+  contents: write
 concurrency:
   group: version-client-${{ github.event.client_payload.id || github.event.inputs.id }}
 jobs:
@@ -47,7 +47,7 @@ jobs:
           SITE_URL: https://terrenurbanisme.com
         run: |
           set -uo pipefail
-          export SUPABASE_SERVICE_ROLE_KEY="$SR" ADMIN_KEY="$KEY"
+          export SUPABASE_SERVICE_ROLE_KEY="$SR" ADMIN_KEY="$KEY" GITHUB_TOKEN="${{ github.token }}"
           deno run -A --no-check fn/index.ts > srv.log 2>&1 &
           for i in $(seq 1 90); do curl -s -o /dev/null http://localhost:8000/ && break; sleep 2; done
           code=$(curl -s -m 840 -o out.txt -w '%{http_code}' -X POST "http://localhost:8000/?perso=$S" -H "x-tu-admin: $KEY")

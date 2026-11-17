@@ -7,7 +7,7 @@ on:
     paths: ['.github/demo/marque.json']
   workflow_dispatch:
 permissions:
-  contents: read
+  contents: write
 concurrency: demo-marque
 jobs:
   demo:
@@ -38,7 +38,7 @@ jobs:
           SUPABASE_URL: https://nmoigruxnhsidrhqtzid.supabase.co
           SITE_URL: https://terrenurbanisme.com
         run: |
-          export SUPABASE_SERVICE_ROLE_KEY="$SR" ADMIN_KEY="$KEY"
+          export SUPABASE_SERVICE_ROLE_KEY="$SR" ADMIN_KEY="$KEY" GITHUB_TOKEN="${{ github.token }}"
           nohup deno run -A --no-check fn/index.ts > srv.log 2>&1 &
           for i in $(seq 1 90); do curl -s -o /dev/null http://localhost:8000/ && break; sleep 2; done
       - run: |
