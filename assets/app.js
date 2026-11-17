@@ -371,6 +371,7 @@
 
   var LOCK = '<svg viewBox="0 0 24 24" fill="none" stroke="#A3462C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="11" width="16" height="10" rx="2"/><path d="M8 11V7a4 4 0 0 1 8 0v4"/></svg>';
   var OKI = '<svg viewBox="0 0 24 24" fill="none" stroke="#2E7D4F" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>';
+  var WARNI = '<svg viewBox="0 0 24 24" fill="none" stroke="#A86A0C" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 2 21h20L12 3z"/><path d="M12 10v5M12 18h.01"/></svg>';
   /* ---------- Offre communale : le rapport complet est offert par la commune ---------- */
   function villeOffre(resultEl, ref){
     var VL = window.TU_VILLE;
@@ -433,8 +434,8 @@
     var noZone = zones != null && !zl.length && !muni.is_rnu;
     var found = [
       ['ok', 'Parcelle identifiée au cadastre', fmt(p.contenance) + ' m² · ' + (p.idu || '')],
-      ['ok', 'Document d\'urbanisme', muni.is_rnu ? 'Règlement national d\'urbanisme' : noZone ? 'Document local non publié en ligne' : 'Document local publié'],
-      ['ok', zl.length > 1 ? 'Zones du PLU' : 'Zone du PLU', zl.length ? zl.join(' · ') : muni.is_rnu ? 'Pas de zonage : règlement national' : 'Zonage non publié en ligne par la commune : à vérifier en mairie'],
+      [noZone ? 'warn' : 'ok', 'Document d\'urbanisme', muni.is_rnu ? 'Règlement national d\'urbanisme' : noZone ? 'Document local non publié en ligne' : 'Document local publié'],
+      [noZone ? 'warn' : 'ok', zl.length > 1 ? 'Zones du PLU' : 'Zone du PLU', zl.length ? zl.join(' · ') : muni.is_rnu ? 'Pas de zonage : règlement national' : 'Zonage non publié en ligne par la commune : à vérifier en mairie'],
       ['ok', 'Loi Littoral', muni.is_coastline ? 'Commune littorale : la loi s\'applique' : 'Commune non littorale']
     ];
     if (extra.mont != null) found.push(['ok', 'Loi Montagne', extra.mont ? 'Commune en zone de montagne : la loi s\'applique' : 'Commune hors zone de montagne']);
@@ -457,9 +458,9 @@
       '<p class="v-other">Ce n\'est pas la bonne parcelle ? Cliquez sur une autre parcelle de la carte.</p>' +
       '<p class="v-why">Nous avons trouvé cette parcelle et les sources officielles qui la concernent. Le rapport complet répond à la question : peut-on construire, et à quelles conditions ?</p>' +
       '<div class="v-proj"><b>Quel est votre projet ?</b><span>Le rapport sera présenté pour lui.</span><div class="v-chips" role="group" aria-label="Votre projet">' + PROJ.map(function(x){ return '<button type="button" data-p="' + x[0] + '" aria-pressed="' + (x[0] === projet() ? 'true' : 'false') + '">' + x[1] + '</button>'; }).join('') + '</div></div>' +
-      (noZone ? '<p class="v-disc" style="border-left:3px solid #A86A0C;padding-left:10px"><strong>Pourquoi la zone n\'apparaît pas :</strong> cette commune dispose d\'un document d\'urbanisme mais ne l\'a pas encore mis en ligne sur le Géoportail de l\'Urbanisme, la plateforme officielle de l\'État. Aucun service ne peut donc lire sa zone automatiquement : elle est à demander en mairie. Le rapport réunit toutes les autres données officielles de la parcelle : risques, servitudes, protections, lois Littoral et Montagne, accès, réseaux, prix du marché et démarches.</p>' : '') +
+      (noZone ? '<p class="v-disc" style="background:#FBF1E1;border:1.5px solid #E2B66B;border-radius:12px;padding:12px 14px;color:#5A3A06"><strong>Attention : la zone de cette parcelle n\'est pas disponible.</strong><br> cette commune dispose d\'un document d\'urbanisme mais ne l\'a pas encore mis en ligne sur le Géoportail de l\'Urbanisme, la plateforme officielle de l\'État. Aucun service ne peut donc lire sa zone automatiquement : elle est à vérifier en mairie (plan de zonage) ou par un certificat d\'urbanisme. Le rapport réunit toutes les autres données officielles de la parcelle (risques, servitudes, PADDUC, lois Littoral et Montagne, accès, réseaux, prix du marché) mais <strong>n\'indiquera pas la zone ni son règlement</strong>.</p>' : '') +
       OFFER + '<button type="button" class="v-cta v-cta-top buy">' + BTN + '</button><p class="v-buy-err" role="alert"></p>' +
-      '<ul class="v-found-list">' + found.map(function(f){ return '<li>' + OKI + '<div><strong>' + esc(f[1]) + '</strong><span>' + esc(f[2]) + '</span></div></li>'; }).join('') + '</ul>' +
+      '<ul class="v-found-list">' + found.map(function(f){ return '<li>' + (f[0] === 'warn' ? WARNI : OKI) + '<div><strong>' + esc(f[1]) + '</strong><span>' + esc(f[2]) + '</span></div></li>'; }).join('') + '</ul>' +
       '<ul class="v-locked">' + locked.map(function(t){ return '<li>' + LOCK + '<span>' + esc(t) + '</span><i class="blur" aria-hidden="true">████████</i></li>'; }).join('') + '</ul>' +
       '<button type="button" class="v-cta buy">' + BTN + '</button>' +
       '<p class="v-buy-note">Rapport PDF de 30 à 40 pages avec sommaire cliquable, envoyé par e-mail en quelques minutes · paiement sécurisé par Stripe<br><a href="/tarifs.html">Professionnels : abonnements dès 0,77 € le rapport</a> · <a href="/exemple.html">Voir un exemple</a></p><p class="v-buy-err" role="alert"></p>' +
