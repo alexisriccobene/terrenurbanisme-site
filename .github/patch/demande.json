@@ -1,5 +1,5 @@
 {
  "fonction": "stripe-webhook",
- "script": "synthese2.py",
- "demande": "synthese-2"
+ "script": "ville_credits.py",
+ "demande": "ville-credits-1"
 }
