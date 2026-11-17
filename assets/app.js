@@ -333,7 +333,21 @@
       var none = function(){ return { features:[] }; };
       return Promise.all([
         getJSON(CARTO+'/gpu/municipality?insee='+insee).catch(none),
-        getJSON(CARTO+'/gpu/zone-urba?geom='+encodeURIComponent(q)).catch(function(){ return null; }),
+        getJSON(CARTO+'/gpu/zone-urba?geom='+encodeURIComponent(q)).catch(function(){ return null; }).then(function(z){
+          /* PLU absent du Géoportail : zonage relevé sur le plan de zonage officiel de la commune */
+          if (z && (z.features || []).length) return z;
+          var C = window.TU_CONFIG || {};
+          if (!C.supabaseUrl) return z;
+          return fetch(C.supabaseUrl + '/rest/v1/zonage_local?select=libelle,libelong,typezone,geom,bbox&insee=eq.' + encodeURIComponent(insee), { headers: { apikey: C.supabaseKey } })
+            .then(function(r){ return r.ok ? r.json() : []; }).then(function(rows){
+              if (!rows || !rows.length) return z;
+              var pb = window.turf ? turf.bbox(parcel) : null;
+              var hit = rows.filter(function(r){ return !pb || !(r.bbox[0] > pb[2] || r.bbox[2] < pb[0] || r.bbox[1] > pb[3] || r.bbox[3] < pb[1]); })
+                .filter(function(r){ try { return !window.turf || turf.booleanIntersects(parcel, turf.feature(r.geom)); } catch(e){ return true; } });
+              if (!hit.length) return z;
+              return { local: true, features: hit.map(function(r){ return { type: 'Feature', geometry: r.geom, properties: { libelle: r.libelle, libelong: r.libelong, typezone: r.typezone } }; }) };
+            }).catch(function(){ return z; });
+        }),
         getJSON(CARTO+'/gpu/assiette-sup-s?geom='+encodeURIComponent(q)).catch(function(){ return null; }),
         getJSON('/data/communes/' + dep + '.json').catch(function(){ return null; })
       ]).then(function(r){
@@ -345,7 +359,7 @@
         }).filter(function(z){ return z.share == null || z.share >= 0.02; }).sort(function(a, b){ return (b.share || 0) - (a.share || 0); }) : null;
         var sups = r[2] ? (r[2].features || []).map(function(f){ return String(f.properties.suptype || f.properties.typeass || '').toLowerCase(); }) : null;
         var cd = r[3] ? (r[3][insee] || {}) : null;
-        show(parcel, zones, muni, { sups: sups, mont: cd ? !!cd.mt : null });
+        show(parcel, zones, muni, { sups: sups, mont: cd ? !!cd.mt : null, local: !!(r[1] && r[1].local) });
       });
     });
   }
@@ -434,7 +448,7 @@
     var noZone = zones != null && !zl.length && !muni.is_rnu;
     var found = [
       ['ok', 'Parcelle identifiée au cadastre', fmt(p.contenance) + ' m² · ' + (p.idu || '')],
-      [noZone ? 'warn' : 'ok', 'Document d\'urbanisme', muni.is_rnu ? 'Règlement national d\'urbanisme' : noZone ? 'Document local non publié en ligne' : 'Document local publié'],
+      [noZone ? 'warn' : 'ok', 'Document d\'urbanisme', muni.is_rnu ? 'Règlement national d\'urbanisme' : noZone ? 'Document local non publié en ligne' : extra.local ? 'PLU communal : zonage relevé sur le plan officiel de la commune' : 'Document local publié'],
       [noZone ? 'warn' : 'ok', zl.length > 1 ? 'Zones du PLU' : 'Zone du PLU', zl.length ? zl.join(' · ') : muni.is_rnu ? 'Pas de zonage : règlement national' : 'Zonage non publié en ligne par la commune : à vérifier en mairie'],
       ['ok', 'Loi Littoral', muni.is_coastline ? 'Commune littorale : la loi s\'applique' : 'Commune non littorale']
     ];
