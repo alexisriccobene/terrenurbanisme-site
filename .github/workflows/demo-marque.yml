@@ -12,13 +12,35 @@ concurrency: demo-marque
 jobs:
   demo:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 30
     env:
+      SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       SR: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
       KEY: ${{ secrets.TU_ADMIN_KEY }}
       REF: nmoigruxnhsidrhqtzid
     steps:
       - uses: actions/checkout@v4
+      - uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+      - name: Préparer
+        run: |
+          set -euo pipefail
+          K=$(curl -sf -X POST "https://api.supabase.com/v1/projects/$REF/database/query" -H "Authorization: Bearer $SUPABASE_ACCESS_TOKEN" -H "Content-Type: application/json" \
+            -d '{"query":"select decrypted_secret as k from vault.decrypted_secrets where name = '\''tu_deploy_key'\'' limit 1"}' | jq -r '.[0].k')
+          [ ${#K} -eq 64 ] || { echo "::error::clé introuvable"; exit 1; }
+          printf '%s' "$K" > "$RUNNER_TEMP/k"
+          mkdir -p fn && openssl enc -d -aes-256-cbc -pbkdf2 -iter 200000 -in .github/deploy/stripe-webhook.ts.enc -out fn/index.ts -pass "file:$RUNNER_TEMP/k"; rm -f "$RUNNER_TEMP/k"
+          [ -n "${SR:-}" ] || { echo "::error::secret SUPABASE_SERVICE_ROLE_KEY absent du dépôt"; exit 1; }
+      - name: Démarrer la fonction (sans limite de calcul)
+        env:
+          SUPABASE_URL: https://nmoigruxnhsidrhqtzid.supabase.co
+          SITE_URL: https://terrenurbanisme.com
+        run: |
+          export SUPABASE_SERVICE_ROLE_KEY="$SR" ADMIN_KEY="$KEY"
+          nohup deno run -A --no-check fn/index.ts > srv.log 2>&1 &
+          for i in $(seq 1 90); do curl -s -o /dev/null http://localhost:8000/ && break; sleep 2; done
       - run: |
           python3 - <<'PY'
           import os, json, time, uuid, urllib.request, urllib.parse
@@ -43,10 +65,10 @@ jobs:
               sid = 'demo_' + uuid.uuid4().hex[:20]
               ref = 'TU-' + time.strftime('%Y%m%d') + '-' + sid[-6:].upper()
               req(base + '/rest/v1/dossiers', json.dumps({'user_id': OWNER, 'stripe_session_id': sid, 'order_ref': ref, 'email': d['envoi'], 'insee': d['insee'], 'commune': d['commune'], 'section': d['section'], 'numero': d['numero'], 'amount_total': 0, 'status': 'pending', 'origine': 'demo'}).encode(), 'POST', J)
-              r = urllib.request.Request(base + '/functions/v1/stripe-webhook?regen=' + sid, method='POST', headers={'x-tu-admin': os.environ['KEY']})
-              print(urllib.request.urlopen(r, timeout=60).read()[:200].decode())
+              r = urllib.request.Request('http://localhost:8000/?regen=' + sid, method='POST', headers={'x-tu-admin': os.environ['KEY']})
+              print(urllib.request.urlopen(r, timeout=900).read()[:200].decode())
               st = ''
-              for i in range(60):
+              for i in range(90):
                   time.sleep(10)
                   st = json.loads(req(base + '/rest/v1/dossiers?select=status&stripe_session_id=eq.' + sid))[0]['status']
                   if st in ('ready', 'error'): break
@@ -58,3 +80,5 @@ jobs:
                   req(base + '/rest/v1/marques?user_id=eq.' + OWNER, json.dumps(old).encode(), 'PATCH', J)
                   print('marque d\'origine remise :', old['nom'])
           PY
+      - if: always()
+        run: grep -v '^\s*$' srv.log | tail -30 || true
