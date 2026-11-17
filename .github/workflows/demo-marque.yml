@@ -64,7 +64,7 @@ jobs:
           try:
               sid = 'demo_' + uuid.uuid4().hex[:20]
               ref = 'TU-' + time.strftime('%Y%m%d') + '-' + sid[-6:].upper()
-              req(base + '/rest/v1/dossiers', json.dumps({'user_id': OWNER, 'stripe_session_id': sid, 'order_ref': ref, 'email': d['envoi'], 'insee': d['insee'], 'commune': d['commune'], 'section': d['section'], 'numero': d['numero'], 'amount_total': 0, 'status': 'pending', 'origine': 'demo'}).encode(), 'POST', J)
+              req(base + '/rest/v1/dossiers', json.dumps({'user_id': OWNER, 'stripe_session_id': sid, 'order_ref': ref, 'email': d['envoi'], 'insee': d['insee'], 'commune': d['commune'], 'section': d['section'], 'numero': d['numero'], 'amount_total': 0, 'status': 'pending', 'origine': 'demo', 'formule': d.get('formule', 'complet')}).encode(), 'POST', J)
               r = urllib.request.Request('http://localhost:8000/?regen=' + sid, method='POST', headers={'x-tu-admin': os.environ['KEY']})
               print(urllib.request.urlopen(r, timeout=900).read()[:200].decode())
               st = ''

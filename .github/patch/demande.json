@@ -1,5 +1,5 @@
 {
  "fonction": "stripe-webhook",
- "script": "sans_valeur.py",
- "demande": "sans-valeur-1"
+ "script": "synthese.py",
+ "demande": "synthese-1"
 }
