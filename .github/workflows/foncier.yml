@@ -15,7 +15,7 @@ jobs:
       REF: nmoigruxnhsidrhqtzid
     steps:
       - uses: actions/checkout@v4
-      - run: pip install -q shapely pyproj requests ijson
+      - run: pip install -q shapely pyproj requests ijson pymupdf opencv-python-headless numpy scipy
       - run: |
           mkdir -p /tmp/out
           S=$(python3 -c "import json;print(json.load(open('.github/foncier/demande.json'))['script'])")
