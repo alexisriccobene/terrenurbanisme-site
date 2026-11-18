@@ -67,7 +67,7 @@ def zcompte():
     for a in L or []:
         if str(a.get('platform', '')).lower() == 'tiktok': return a.get('_id') or a.get('id'), a
     raise RuntimeError('Aucun compte TikTok connecté dans Zernio : ' + json.dumps(r)[:300])
-def publier_zernio(p):
+def publier_zernio(p, quand=None):
     acc, _ = zcompte()
     f = VID + (p.get('video_tiktok') or p['video']); n = os.path.getsize(f)
     pre = zreq('/media/presign', {'filename': os.path.basename(f), 'contentType': 'video/mp4', 'size': n})
@@ -76,16 +76,35 @@ def publier_zernio(p):
     body = {'content': (p.get('texte_tiktok') or p.get('texte_instagram') or p.get('theme', ''))[:2200],
             'mediaItems': [{'type': 'video', 'url': pre['publicUrl']}], 'platforms': [{'platform': 'tiktok', 'accountId': acc}],
             'tiktokSettings': {'privacy_level': 'PUBLIC_TO_EVERYONE', 'allow_comment': True, 'allow_duet': True, 'allow_stitch': True,
-                               'content_preview_confirmed': True, 'express_consent_given': True}, 'publishNow': True}
+                               'content_preview_confirmed': True, 'express_consent_given': True}}
+    if quand: body.update({'scheduledFor': quand, 'timezone': 'Europe/Paris'})
+    else: body['publishNow'] = True
     r = zreq('/posts', body); post = r.get('post', r)
     st = [x.get('status') for x in post.get('platforms', [])]
     if any(x in ('failed', 'error') for x in st): raise RuntimeError('Zernio a refusé la vidéo : ' + json.dumps(post)[:400])
-    return {'id': post.get('_id'), 'mode': 'publication publique (Zernio)', 'statut': ','.join(map(str, st))}
+    return {'id': post.get('_id'), 'mode': ('programmé dans Zernio pour ' + quand) if quand else 'publication publique (Zernio)', 'statut': post.get('status') or ','.join(map(str, st))}
 
 if ZKEY and MODE == 'zernio':
     try: i, a = zcompte(); etat({'zernio': 'OK', 'zernio_compte': a.get('username') or a.get('displayName') or i})
     except Exception as e: etat({'zernio': 'échec : ' + str(e)[:300]}); print('::error::' + str(e)[:400]); sys.exit(1)
     sys.exit(0)
+
+if ZKEY and MODE == 'zernio_planifier':
+    # Programme dans Zernio toutes les vidéos TikTok à venir (visibles dans le calendrier Zernio)
+    plan = json.load(open(PLAN, encoding='utf-8')); done = json.load(open(DONE, encoding='utf-8')) if os.path.exists(DONE) else {}
+    now = datetime.now(ZoneInfo('Europe/Paris')); n = 0; err = []
+    for p in sorted(plan, key=lambda x: x['date']):
+        if 'tiktok' not in p.get('reseaux', []) or not p.get('video'): continue
+        when = datetime.fromisoformat(p['date']).replace(tzinfo=ZoneInfo('Europe/Paris'))
+        if when < now + __import__('datetime').timedelta(minutes=10): continue
+        d = done.setdefault(p['id'], {})
+        if d.get('tiktok'): continue
+        try:
+            d['tiktok'] = publier_zernio(p, p['date'][:16] + ':00'); n += 1; print('programmé', p['id'], p['date'], flush=True)
+            json.dump(done, open(DONE, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+        except Exception as e: err.append('%s : %s' % (p['id'], e)); print('::error::' + str(e)[:400])
+    etat({'zernio_programmees': n, 'zernio_erreurs': err[:5]})
+    sys.exit(1 if err else 0)
 
 if (not KEY or not SECRET) and not ZKEY:
     print('::warning::TikTok non configuré (secrets TIKTOK_CLIENT_KEY et TIKTOK_CLIENT_SECRET manquants)'); sys.exit(0)
