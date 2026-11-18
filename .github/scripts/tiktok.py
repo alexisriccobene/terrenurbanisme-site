@@ -57,15 +57,23 @@ ZKEY = os.environ.get('ZERNIO_API_KEY', '').strip(); ZAPI = 'https://zernio.com/
 def zreq(path, data=None, method=None):
     h = {'Authorization': 'Bearer ' + ZKEY, 'Content-Type': 'application/json'}
     r = urllib.request.Request(ZAPI + path, data=json.dumps(data).encode() if data is not None else None, headers=h, method=method or ('POST' if data is not None else 'GET'))
-    try:
-        with urllib.request.urlopen(r, timeout=120) as x: return json.loads(x.read() or b'{}')
-    except urllib.error.HTTPError as e:
-        raise RuntimeError('Zernio %s %s : %s' % (e.code, path, e.read()[:500].decode(errors='replace')))
+    for essai in range(6):
+        try:
+            with urllib.request.urlopen(r, timeout=120) as x: return json.loads(x.read() or b'{}')
+        except urllib.error.HTTPError as e:
+            txt = e.read()[:500].decode(errors='replace')
+            if e.code == 429 and essai < 5:
+                try: w = int(json.loads(txt).get('details', {}).get('retryAfterSeconds', 5))
+                except Exception: w = 5
+                time.sleep(min(w, 65) + 1); continue
+            raise RuntimeError('Zernio %s %s : %s' % (e.code, path, txt))
+ZACC = {}
 def zcompte():
+    if ZACC: return ZACC['v']
     r = zreq('/accounts')
     L = (r.get('accounts') or r.get('data') or []) if isinstance(r, dict) else r
     for a in L or []:
-        if str(a.get('platform', '')).lower() == 'tiktok': return a.get('_id') or a.get('id'), a
+        if str(a.get('platform', '')).lower() == 'tiktok': ZACC['v'] = (a.get('_id') or a.get('id'), a); return ZACC['v']
     raise RuntimeError('Aucun compte TikTok connecté dans Zernio : ' + json.dumps(r)[:300])
 def publier_zernio(p, quand=None):
     acc, _ = zcompte()
