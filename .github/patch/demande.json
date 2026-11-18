@@ -1,5 +1,5 @@
 {
- "fonction": "create-checkout",
- "script": "packs_reseaux.py",
- "demande": "packs-reseaux-1"
+ "fonction": "stripe-webhook",
+ "script": "sans_350.py",
+ "demande": "sans-350-1"
 }
