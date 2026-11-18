@@ -85,7 +85,7 @@
     }
     var btn = '<a href="' + url + '" target="_blank" rel="noopener" style="display:inline-block;background:#A3462C;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-weight:700;font-size:16px;line-height:1.2;text-decoration:none;padding:14px 22px;border-radius:10px">Analyser mon terrain</a>';
     $('em-prev').innerHTML = btn; $('em-site-btn').innerHTML = btn.replace('font-size:16px', 'font-size:14px').replace('padding:14px 22px', 'padding:10px 16px');
-    $('em-snip').textContent = '<!-- Bouton TerrenUrbanisme : rapport d\'urbanisme offert par ' + v.libelle + ' -->\n' + btn;
+    $('em-snip').textContent = '<!-- Bouton TerrenUrbanisme : rapport d\'urbanisme proposé par ' + v.libelle + ' -->\n' + btn;
     $('em-site-n').textContent = 'Mairie de ' + v.nom;
     $('em-site-url').textContent = 'site-de-la-mairie.fr/services-en-ligne';
     $('em-abo').innerHTML = '<dt>Commune</dt><dd>' + esc(v.nom) + '</dd><dt>Formule</dt><dd>' + esc(v.formule || 'Offre communale') + '</dd>' + (v.credits != null ? '<dt>Rapports restants</dt><dd><strong>' + v.credits + '</strong>' + (v.credits <= 10 ? ' · stock bientôt épuisé : <a href="mailto:contact@terrenurbanisme.com?subject=Nouveau%20stock%20de%20rapports">recommander</a>' : '') + '</dd>' : '') + '<dt>Statut</dt><dd>' + (v.demo ? 'Démonstration' : v.actif ? 'Actif' : 'Inactif') + '</dd>' + (v.fin ? '<dt>Échéance</dt><dd>' + new Date(v.fin).toLocaleDateString('fr-FR') + '</dd>' : '') + '<dt>Parcelles couvertes</dt><dd>Toute la commune (INSEE ' + esc(v.insee.join(', ')) + ')</dd>';

@@ -44,7 +44,7 @@
       .map(function (k) { return '<option value="' + k + '"' + (k === m0 ? ' selected' : '') + '>' + METIERS[k].l + '</option>'; }).join('');
     el.className = 'roi';
     el.innerHTML =
-      '<div class="roi-head"><div class="roi-eb">Les données sont gratuites. Votre temps ne l\u2019est pas.</div><h2>Combien vaut une heure de votre temps ?</h2>' +
+      '<div class="roi-head"><div class="roi-eb">Les données sont publiques. Votre temps, lui, a un prix.</div><h2>Combien vaut une heure de votre temps ?</h2>' +
       '<p class="lede">' + (m0 === 'mairie' ? 'Chaque question d\u2019habitant sur un terrain oblige un agent à consulter une dizaine de sources : PLU, servitudes, risques, réseaux. 1 à 2 heures par dossier. Le rapport TerrenUrbanisme y répond en 3 minutes, sans mobiliser le service.' : 'Toutes ces informations sont publiques, mais dispersées sur une dizaine de sites qu\u2019il faut consulter un par un. Pour une seule parcelle, cela prend 1 à 2 heures. Le rapport TerrenUrbanisme réunit tout en 3 minutes.') + '</p></div>' +
       '<div class="roi-grid"><div class="roi-in">' +
       (m0 === 'mairie' ? '<label><span>Taille de la commune</span><select data-k="pop">' + POP.map(function (p, i) { return '<option value="' + i + '"' + (i === 2 ? ' selected' : '') + '>' + p[0] + '</option>'; }).join('') + '</select></label>' : '<label><span>Votre métier</span><select data-k="m">' + opts + '</select></label>') +

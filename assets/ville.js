@@ -27,8 +27,8 @@
   fetch(API + '?ville=' + encodeURIComponent(slug)).then(function (r) { if (!r.ok) throw 0; return r.json(); }).then(function (V) {
     V.api = API; V.k = k; window.TU_VILLE = V;
     var Lib = V.libelle.charAt(0).toUpperCase() + V.libelle.slice(1);
-    document.title = 'Votre terrain est-il constructible ? | Service offert par ' + V.libelle;
-    txt('vl-lib', Lib); txt('vl-eb', Lib + ' · service gratuit pour les habitants');
+    document.title = 'Votre terrain est-il constructible ? | Service proposé par ' + V.libelle;
+    txt('vl-lib', Lib); txt('vl-eb', Lib + ' · service pris en charge par la commune');
     txt('vl-lede', 'Zone du PLU, règles de construction, risques, réseaux : ' + V.libelle + ' vous offre le rapport d’urbanisme complet de votre parcelle.');
     if (V.logo) { var lg = document.getElementById('vl-logo'); lg.src = V.logo; lg.alt = Lib; lg.hidden = false; document.getElementById('vl-lib').hidden = true; }
     if (V.demo) { document.getElementById('vl-demo').hidden = false; txt('vl-demo-n', V.libelle); demoLogo(V, Lib); }

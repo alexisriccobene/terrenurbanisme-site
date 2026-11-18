@@ -3,24 +3,24 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Votre terrain est-il constructible ? | Service offert par votre commune</title>
-<meta name="description" content="Service offert par votre commune : diagnostic et rapport d'urbanisme complet de votre parcelle, gratuitement.">
+<title>Votre terrain est-il constructible ? | Service proposé par votre commune</title>
+<meta name="description" content="Service proposé par votre commune : diagnostic et rapport d'urbanisme complet de votre parcelle, en quelques minutes.">
 <meta name="robots" content="noindex, nofollow">
 <meta name="theme-color" content="#A3462C">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png"><link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="preload" href="/assets/schibsted-grotesk.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/leaflet.css?v=v85"><link rel="stylesheet" href="/assets/style.css?v=v87">
+<link rel="stylesheet" href="/assets/leaflet.css?v=v85"><link rel="stylesheet" href="/assets/style.css?v=v88">
 </head>
 <body class="ville">
 <div class="vl-demo" id="vl-demo" hidden>Démonstration · aperçu du service proposé à <b id="vl-demo-n"></b></div>
 <header class="top"><div class="wrap">
 <a class="brand" href="/" target="_blank" rel="noopener" aria-label="TerrenUrbanisme, accueil"><svg viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="29.5" fill="none" stroke="#A3462C" stroke-width="3"/><circle cx="32" cy="32" r="23" fill="none" stroke="#A3462C" stroke-width="1.6" stroke-dasharray="2.2 3.2"/><path d="M20 26L37 20L45 36L29 44Z" fill="#F6E5DD" stroke="#A3462C" stroke-width="3.2" stroke-linejoin="round"/><circle cx="33" cy="32" r="3.6" fill="#A3462C"/></svg><b>TerrenUrbanisme</b></a>
-<div class="vl-offer"><span>Service offert par</span><b id="vl-lib">votre commune</b><img id="vl-logo" alt="" hidden></div>
+<div class="vl-offer"><span>Service proposé par</span><b id="vl-lib">votre commune</b><img id="vl-logo" alt="" hidden></div>
 </div></header>
 <main>
 <section class="hero vl-hero"><div class="wrap">
 <div>
-<span class="eyebrow-txt" id="vl-eb">Service gratuit pour les habitants</span>
+<span class="eyebrow-txt" id="vl-eb">Service pris en charge par la commune</span>
 <h1>Votre terrain est-il constructible&nbsp;?</h1>
 <p class="lede" id="vl-lede">Zone du PLU, règles de construction, risques, réseaux : votre commune vous offre le rapport d'urbanisme complet de votre parcelle.</p>
 <form class="search" id="recherche" novalidate>
@@ -44,7 +44,7 @@
 <button class="btn" id="go" type="submit">Rechercher la parcelle</button>
 <p class="err" id="err" role="alert"></p>
 </form>
-<div class="checks"><span><svg viewBox="0 0 24 24" fill="none" stroke="#2E7D4F" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>Gratuit pour les habitants</span><span><svg viewBox="0 0 24 24" fill="none" stroke="#2E7D4F" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>Rapport complet par e-mail en quelques minutes</span><span><svg viewBox="0 0 24 24" fill="none" stroke="#2E7D4F" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>Sources officielles</span></div>
+<div class="checks"><span><svg viewBox="0 0 24 24" fill="none" stroke="#2E7D4F" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>Pris en charge par la commune</span><span><svg viewBox="0 0 24 24" fill="none" stroke="#2E7D4F" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>Rapport complet par e-mail en quelques minutes</span><span><svg viewBox="0 0 24 24" fill="none" stroke="#2E7D4F" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>Sources officielles</span></div>
 </div>
 <div class="scope" id="scope" aria-live="polite">
 <div id="map" aria-label="Vue aérienne"></div>
@@ -61,12 +61,12 @@
 <div class="vl-steps">
 <div><b>1</b><h3>Choisissez votre parcelle</h3><p>Par sa référence cadastrale, son adresse, ou d'un clic sur la carte.</p></div>
 <div><b>2</b><h3>Diagnostic immédiat</h3><p>Constructible, sous conditions ou non, avec la zone du plan local d'urbanisme.</p></div>
-<div><b>3</b><h3>Rapport complet offert</h3><p>Environ 45 pages en PDF : règles de la zone, surface constructible, risques, réseaux, démarches.</p></div>
+<div><b>3</b><h3>Rapport complet pris en charge</h3><p>Environ 45 pages en PDF : règles de la zone, surface constructible, risques, réseaux, démarches.</p></div>
 </div>
 <p class="vl-disc">Document d'information établi à partir des sources publiques officielles. Il ne vaut ni certificat d'urbanisme ni autorisation : pour toute démarche, le service urbanisme de la mairie reste votre interlocuteur.</p>
 </div></section>
 </main>
 <footer class="vl-foot"><div class="wrap"><span>Service réalisé par <a href="/" target="_blank" rel="noopener">TerrenUrbanisme</a></span><span><a href="/mentions-legales.html">Mentions légales</a> · <a href="/confidentialite.html">Confidentialité</a> · <a href="/cgv.html">CGV</a></span></div></footer>
-<script src="/assets/ville.js?v=v85"></script>
+<script src="/assets/ville.js?v=v86"></script>
 </body>
 </html>

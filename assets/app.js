@@ -392,19 +392,19 @@
     ['.v-offer', '.buy', '.v-buy-note', '.v-owner', '.v-buy-err'].forEach(function(s){ resultEl.querySelectorAll(s).forEach(function(x){ x.remove(); }); });
     var why = resultEl.querySelector('.v-why'), box = document.createElement('div'); box.className = 'vl-box';
     if (VL.insee.indexOf(ref.insee) < 0){
-      box.innerHTML = '<p class="vl-hors"><strong>Cette parcelle n\'est pas sur la commune de ' + esc(VL.nom) + '.</strong> Le service offert par ' + esc(VL.libelle) + ' couvre uniquement les parcelles de la commune. Pour une autre commune, rendez-vous sur <a href="/">terrenurbanisme.com</a>.</p>';
+      box.innerHTML = '<p class="vl-hors"><strong>Cette parcelle n\'est pas sur la commune de ' + esc(VL.nom) + '.</strong> Le service proposé par ' + esc(VL.libelle) + ' couvre uniquement les parcelles de la commune. Pour une autre commune, rendez-vous sur <a href="/">terrenurbanisme.com</a>.</p>';
       why.after(box); return;
     }
     if (why) why.textContent = 'Le rapport complet répond à la question : peut-on construire, et à quelles conditions ? ' + VL.libelle.charAt(0).toUpperCase() + VL.libelle.slice(1) + ' vous l\'offre.';
-    box.innerHTML = '<div class="vl-h">Recevez votre rapport complet, offert par ' + esc(VL.libelle) + '</div>' +
+    box.innerHTML = '<div class="vl-h">Recevez votre rapport complet, proposé par ' + esc(VL.libelle) + '</div>' +
       '<p class="vl-s">PDF d\'environ 45 pages, envoyé par e-mail en quelques minutes.</p>' +
       '<form class="vl-f" novalidate>' +
       '<label class="field"><span>E-mail</span><input name="email" type="email" autocomplete="email" required placeholder="vous@exemple.fr"></label>' +
       '<div class="vl-2"><label class="field"><span>Nom et prénom</span><input name="nom" autocomplete="name"></label>' +
       '<label class="field"><span>Téléphone <small>(facultatif)</small></span><input name="tel" type="tel" autocomplete="tel"></label></div>' +
 
-      '<label class="vl-ck"><input type="checkbox" name="consent"><span>J\'accepte que la mairie de ' + esc(VL.nom) + ' soit informée de ma demande et puisse me recontacter au sujet de mon projet. <small>Facultatif : le rapport vous est offert dans tous les cas.</small></span></label>' +
-      '<button class="v-cta" type="submit">Recevoir mon rapport offert</button><p class="vl-err" role="alert"></p>' +
+      '<label class="vl-ck"><input type="checkbox" name="consent"><span>J\'accepte que la mairie de ' + esc(VL.nom) + ' soit informée de ma demande et puisse me recontacter au sujet de mon projet. <small>Facultatif.</small></span></label>' +
+      '<button class="v-cta" type="submit">Recevoir mon rapport</button><p class="vl-err" role="alert"></p>' +
       '<p class="vl-note">Vos coordonnées servent à vous envoyer le rapport. Elles ne sont transmises à la mairie qu\'avec votre accord. <a href="/confidentialite.html" target="_blank" rel="noopener">Confidentialité</a></p></form>';
     (resultEl.querySelector('.v-proj') || why).after(box);
     var f = box.querySelector('form'), er = box.querySelector('.vl-err'), bt = f.querySelector('button');
@@ -418,11 +418,11 @@
       fetch(VL.api + '?ville=' + encodeURIComponent(VL.slug), { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify(body) })
         .then(function(r){ return r.json().then(function(j){ return { ok: r.ok, j: j }; }); })
         .then(function(x){
-          if (x.ok && x.j.ok){ box.innerHTML = '<div class="vl-ok"><div class="vl-h">Votre rapport est en préparation</div><p>Il arrive par e-mail à <strong>' + esc(v.email) + '</strong> d\'ici quelques minutes. Pensez à vérifier vos courriers indésirables.</p><p class="vl-s">Rapport offert par ' + esc(VL.libelle) + '.</p></div>'; return; }
-          var M = { demo: 'Démonstration : la remise du rapport sera activée à la mise en service.', credits_epuises: 'Le service offert par la mairie est momentanément indisponible : le stock de rapports est épuisé. Vous pouvez obtenir votre rapport directement sur terrenurbanisme.com.', hors_commune: 'Cette parcelle n\'est pas sur la commune.', limite_email: 'Vous avez déjà demandé 3 rapports aujourd\'hui. Réessayez demain.', limite: 'Trop de demandes depuis cette connexion aujourd\'hui. Réessayez demain.', limite_ville: 'Le service a atteint sa limite du jour. Réessayez demain.', inactive: 'Le service n\'est pas actif pour cette commune.', email: 'Indiquez une adresse e-mail valide.' };
+          if (x.ok && x.j.ok){ box.innerHTML = '<div class="vl-ok"><div class="vl-h">Votre rapport est en préparation</div><p>Il arrive par e-mail à <strong>' + esc(v.email) + '</strong> d\'ici quelques minutes. Pensez à vérifier vos courriers indésirables.</p><p class="vl-s">Rapport proposé par ' + esc(VL.libelle) + '.</p></div>'; return; }
+          var M = { demo: 'Démonstration : la remise du rapport sera activée à la mise en service.', credits_epuises: 'Le service de la mairie est momentanément indisponible : le stock de rapports est épuisé. Vous pouvez obtenir votre rapport directement sur terrenurbanisme.com.', hors_commune: 'Cette parcelle n\'est pas sur la commune.', limite_email: 'Vous avez déjà demandé 3 rapports aujourd\'hui. Réessayez demain.', limite: 'Trop de demandes depuis cette connexion aujourd\'hui. Réessayez demain.', limite_ville: 'Le service a atteint sa limite du jour. Réessayez demain.', inactive: 'Le service n\'est pas actif pour cette commune.', email: 'Indiquez une adresse e-mail valide.' };
           er.textContent = M[x.j.error] || 'La demande n\'a pas pu aboutir. Réessayez dans un instant.';
-          bt.disabled = false; bt.textContent = 'Recevoir mon rapport offert';
-        }).catch(function(){ er.textContent = 'La demande n\'a pas pu aboutir. Réessayez dans un instant.'; bt.disabled = false; bt.textContent = 'Recevoir mon rapport offert'; });
+          bt.disabled = false; bt.textContent = 'Recevoir mon rapport';
+        }).catch(function(){ er.textContent = 'La demande n\'a pas pu aboutir. Réessayez dans un instant.'; bt.disabled = false; bt.textContent = 'Recevoir mon rapport'; });
     });
   }
 
@@ -468,7 +468,7 @@
     resultEl.innerHTML =
       '<div class="v-ref">' + esc(ref) + '</div>' +
       '<span class="v-badge v-found"><i></i>Parcelle trouvée</span>' +
-      '<div class="v-title">Votre diagnostic gratuit</div>' +
+      '<div class="v-title">Votre diagnostic</div>' +
       '<p class="v-other">Ce n\'est pas la bonne parcelle ? Cliquez sur une autre parcelle de la carte.</p>' +
       '<p class="v-why">Nous avons trouvé cette parcelle et les sources officielles qui la concernent. Le rapport complet répond à la question : peut-on construire, et à quelles conditions ?</p>' +
       '<div class="v-proj"><b>Quel est votre projet ?</b><span>Le rapport sera présenté pour lui.</span><div class="v-chips" role="group" aria-label="Votre projet">' + PROJ.map(function(x){ return '<button type="button" data-p="' + x[0] + '" aria-pressed="' + (x[0] === projet() ? 'true' : 'false') + '">' + x[1] + '</button>'; }).join('') + '</div></div>' +

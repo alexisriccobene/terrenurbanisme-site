@@ -74,8 +74,8 @@
     recoP.then(function(){ return list(dep, null, 6); }).then(function(rows){
       rows = rows.filter(function(p){ return !(window.__recoIds || []).includes(p.id); });
       var g = $('pro-grid');
-      if (!rows.length){ g.innerHTML = '<div class="pro-empty"><b>Vous êtes professionnel à ' + esc(nom) + ' ?</b><span>Soyez le premier référencé dans ce secteur et recevez les demandes des propriétaires qui vérifient leur terrain.</span><a class="btn" href="/referencer-mon-cabinet.html">Référencer mon cabinet gratuitement</a></div>'; return; }
-      g.innerHTML = rows.map(function(p){ return card(p); }).join('') + '<div class="pro-empty slim"><span>Vous êtes professionnel dans ce secteur ?</span><a href="/referencer-mon-cabinet.html">Référencez votre cabinet gratuitement</a></div>';
+      if (!rows.length){ g.innerHTML = '<div class="pro-empty"><b>Vous êtes professionnel à ' + esc(nom) + ' ?</b><span>Soyez le premier référencé dans ce secteur et recevez les demandes des propriétaires qui vérifient leur terrain.</span><a class="btn" href="/referencer-mon-cabinet.html">Référencer mon cabinet</a></div>'; return; }
+      g.innerHTML = rows.map(function(p){ return card(p); }).join('') + '<div class="pro-empty slim"><span>Vous êtes professionnel dans ce secteur ?</span><a href="/referencer-mon-cabinet.html">Référencez votre cabinet</a></div>';
       wire(g, { insee: insee, commune: nom });
     });
   }
@@ -92,7 +92,7 @@
       res.innerHTML = '<p class="empty">Recherche…</p>';
       var u = new URL(location.href); fd.value ? u.searchParams.set('dep', fd.value) : u.searchParams.delete('dep'); fm.value ? u.searchParams.set('metier', fm.value) : u.searchParams.delete('metier'); history.replaceState(null, '', u.pathname + u.search + location.hash);
       list(fd.value, fm.value, 100).then(function(rows){
-        if (!rows.length){ res.innerHTML = '<div class="pro-empty"><b>Aucun professionnel référencé pour cette recherche pour l\'instant.</b><span>L\'annuaire s\'enrichit chaque semaine. Vous êtes professionnel ? Votre fiche est gratuite.</span><a class="btn" href="/referencer-mon-cabinet.html">Référencer mon cabinet</a></div>'; return; }
+        if (!rows.length){ res.innerHTML = '<div class="pro-empty"><b>Aucun professionnel référencé pour cette recherche pour l\'instant.</b><span>L\'annuaire s\'enrichit chaque semaine. Vous êtes professionnel ? Créez votre fiche.</span><a class="btn" href="/referencer-mon-cabinet.html">Référencer mon cabinet</a></div>'; return; }
         res.innerHTML = '<div class="pro-grid">' + rows.map(function(p){ return card(p); }).join('') + '</div>';
         wire(res, ctx);
         if (location.hash){ var t = document.querySelector(location.hash.replace(/[^#\w-]/g, '')); if (t) t.scrollIntoView({ block: 'center' }); }
