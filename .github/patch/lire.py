@@ -2,7 +2,7 @@
 import sys, re
 s = open(sys.argv[1], encoding='utf-8').read(); L = s.split('\n')
 print('LIGNES', len(L))
-pats = [r"'/rapport/'|rapport\/", r'download_slug', r'async function personnaliser', r'const SITE|SITE_URL']
+pats = [r"import .*pdf-lib", r'async function img\(']
 for p in pats:
     for i, l in enumerate(L):
         if re.search(p, l):
