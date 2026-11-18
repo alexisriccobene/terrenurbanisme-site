@@ -97,10 +97,19 @@ if ZKEY and MODE == 'zernio':
     except Exception as e: etat({'zernio': 'échec : ' + str(e)[:300]}); print('::error::' + str(e)[:400]); sys.exit(1)
     sys.exit(0)
 
-if ZKEY and MODE == 'zernio_planifier':
+if ZKEY and MODE in ('zernio_planifier', 'zernio_replanifier'):
     # Programme dans Zernio toutes les vidéos TikTok à venir (visibles dans le calendrier Zernio)
     plan = json.load(open(PLAN, encoding='utf-8')); done = json.load(open(DONE, encoding='utf-8')) if os.path.exists(DONE) else {}
     now = datetime.now(ZoneInfo('Europe/Paris')); n = 0; err = []
+    if MODE == 'zernio_replanifier':
+        # Annule d'abord dans Zernio les publications listées dans tiktok_demande.json (« annuler » : identifiants du plan)
+        for pid in json.load(open('.github/social/tiktok_demande.json')).get('annuler', []):
+            t = done.get(pid, {}).get('tiktok')
+            if not t or not t.get('id'): continue
+            try:
+                zreq('/posts/' + t['id'], method='DELETE'); done[pid]['tiktok_annule'] = t; del done[pid]['tiktok']; print('annulé', pid, flush=True)
+                json.dump(done, open(DONE, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+            except Exception as e: err.append('annulation %s : %s' % (pid, e)); print('::error::' + str(e)[:400])
     for p in sorted(plan, key=lambda x: x['date']):
         if 'tiktok' not in p.get('reseaux', []) or not p.get('video'): continue
         when = datetime.fromisoformat(p['date']).replace(tzinfo=ZoneInfo('Europe/Paris'))
