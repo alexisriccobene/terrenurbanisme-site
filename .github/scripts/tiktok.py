@@ -92,6 +92,32 @@ def publier_zernio(p, quand=None):
     if any(x in ('failed', 'error') for x in st): raise RuntimeError('Zernio a refusé la vidéo : ' + json.dumps(post)[:400])
     return {'id': post.get('_id'), 'mode': ('programmé dans Zernio pour ' + quand) if quand else 'publication publique (Zernio)', 'statut': post.get('status') or ','.join(map(str, st))}
 
+if ZKEY and MODE == 'zernio_stats':
+    # Statistiques des publications Zernio -> .github/social/zernio_stats.json (dépôt public : seuls des champs sûrs sont gardés)
+    NUM = ('view', 'like', 'comment', 'share', 'save', 'impression', 'reach', 'play', 'engagement', 'click', 'watch', 'duration', 'follower')
+    TXT = ('_id', 'id', 'status', 'platform', 'publishedAt', 'scheduledFor', 'createdAt', 'platformPostUrl', 'postUrl', 'url', 'errorMessage', 'error', 'content', 'lastUpdated', 'syncedAt')
+    def tri(x, prof=0):
+        if prof > 6: return None
+        if isinstance(x, list): return [y for y in (tri(v, prof + 1) for v in x[:150]) if y not in (None, {}, [])]
+        if not isinstance(x, dict): return None
+        o = {}
+        for k, v in x.items():
+            kl = k.lower()
+            if any(w in kl for w in ('token', 'secret', 'key', 'password', 'email', 'cookie')): continue
+            if isinstance(v, (int, float)) and not isinstance(v, bool) and any(w in kl for w in NUM): o[k] = v
+            elif isinstance(v, str) and k in TXT: o[k] = v[:90] if k == 'content' else v[:200]
+            elif isinstance(v, (dict, list)):
+                t = tri(v, prof + 1)
+                if t not in (None, {}, []): o[k] = t
+        return o
+    out = {'genere': datetime.now(ZoneInfo('Europe/Paris')).isoformat(timespec='minutes')}
+    for nom, chemin in (('posts', '/posts?limit=100&page=1'), ('posts_p2', '/posts?limit=100&page=2'),
+                        ('analytics', '/analytics?platform=tiktok&limit=100'), ('analytics_p2', '/analytics?platform=tiktok&limit=100&page=2')):
+        try: out[nom] = tri(zreq(chemin))
+        except Exception as e: out[nom + '_erreur'] = str(e)[:300]
+    json.dump(out, open('.github/social/zernio_stats.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+    sys.exit(0)
+
 if ZKEY and MODE == 'zernio':
     try: i, a = zcompte(); etat({'zernio': 'OK', 'zernio_compte': a.get('username') or a.get('displayName') or i})
     except Exception as e: etat({'zernio': 'échec : ' + str(e)[:300]}); print('::error::' + str(e)[:400]); sys.exit(1)
