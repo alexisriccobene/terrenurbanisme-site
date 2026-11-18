@@ -51,7 +51,43 @@ def etat(extra):
 def createur(tok):
     return req(API + '/post/publish/creator_info/query/', {}, tok['access_token'], js=True).get('data', {})
 
-if not KEY or not SECRET:
+
+# --- Zernio (publication publique sur TikTok, sans attendre la validation de notre application) ---
+ZKEY = os.environ.get('ZERNIO_API_KEY', '').strip(); ZAPI = 'https://zernio.com/api/v1'
+def zreq(path, data=None, method=None):
+    h = {'Authorization': 'Bearer ' + ZKEY, 'Content-Type': 'application/json'}
+    r = urllib.request.Request(ZAPI + path, data=json.dumps(data).encode() if data is not None else None, headers=h, method=method or ('POST' if data is not None else 'GET'))
+    try:
+        with urllib.request.urlopen(r, timeout=120) as x: return json.loads(x.read() or b'{}')
+    except urllib.error.HTTPError as e:
+        raise RuntimeError('Zernio %s %s : %s' % (e.code, path, e.read()[:500].decode(errors='replace')))
+def zcompte():
+    r = zreq('/accounts')
+    L = (r.get('accounts') or r.get('data') or []) if isinstance(r, dict) else r
+    for a in L or []:
+        if str(a.get('platform', '')).lower() == 'tiktok': return a.get('_id') or a.get('id'), a
+    raise RuntimeError('Aucun compte TikTok connecté dans Zernio : ' + json.dumps(r)[:300])
+def publier_zernio(p):
+    acc, _ = zcompte()
+    f = VID + (p.get('video_tiktok') or p['video']); n = os.path.getsize(f)
+    pre = zreq('/media/presign', {'filename': os.path.basename(f), 'contentType': 'video/mp4', 'size': n})
+    up = urllib.request.Request(pre['uploadUrl'], data=open(f, 'rb').read(), method='PUT', headers={'Content-Type': 'video/mp4'})
+    urllib.request.urlopen(up, timeout=300).read()
+    body = {'content': (p.get('texte_tiktok') or p.get('texte_instagram') or p.get('theme', ''))[:2200],
+            'mediaItems': [{'type': 'video', 'url': pre['publicUrl']}], 'platforms': [{'platform': 'tiktok', 'accountId': acc}],
+            'tiktokSettings': {'privacy_level': 'PUBLIC_TO_EVERYONE', 'allow_comment': True, 'allow_duet': True, 'allow_stitch': True,
+                               'content_preview_confirmed': True, 'express_consent_given': True}, 'publishNow': True}
+    r = zreq('/posts', body); post = r.get('post', r)
+    st = [x.get('status') for x in post.get('platforms', [])]
+    if any(x in ('failed', 'error') for x in st): raise RuntimeError('Zernio a refusé la vidéo : ' + json.dumps(post)[:400])
+    return {'id': post.get('_id'), 'mode': 'publication publique (Zernio)', 'statut': ','.join(map(str, st))}
+
+if ZKEY and MODE == 'zernio':
+    try: i, a = zcompte(); etat({'zernio': 'OK', 'zernio_compte': a.get('username') or a.get('displayName') or i})
+    except Exception as e: etat({'zernio': 'échec : ' + str(e)[:300]}); print('::error::' + str(e)[:400]); sys.exit(1)
+    sys.exit(0)
+
+if (not KEY or not SECRET) and not ZKEY:
     print('::warning::TikTok non configuré (secrets TIKTOK_CLIENT_KEY et TIKTOK_CLIENT_SECRET manquants)'); sys.exit(0)
 
 if MODE == 'page':
@@ -77,8 +113,9 @@ if MODE == 'jeton':
         etat({'connexion': 'échec : ' + str(e)[:400]}); print('::error::' + str(e)[:600]); sys.exit(1)
     sys.exit(0)
 
-if not os.path.exists(ENC): print('TikTok pas encore connecté'); sys.exit(0)
-tok = acces()
+if not ZKEY:
+    if not os.path.exists(ENC): print('TikTok pas encore connecté'); sys.exit(0)
+    tok = acces()
 
 def publier_video(p):
     c = createur(tok)
@@ -135,12 +172,12 @@ for p in plan:
     d = done.setdefault(p['id'], {})
     if d.get('tiktok') or d.get('tiktok_echecs', 0) >= 2: continue
     try:
-        d['tiktok'] = publier_video(p); changed = True
+        d['tiktok'] = publier_zernio(p) if ZKEY else publier_video(p); changed = True
         print('::notice::%s publié sur TikTok' % p['id'])
         if 'brouillon' in d['tiktok'].get('mode', ''): avis_brouillon(p)
     except Exception as e:
         d['tiktok_echecs'] = d.get('tiktok_echecs', 0) + 1; changed = True; errors.append('%s : %s' % (p['id'], e)); print('::error::' + str(e)[:600])
 if changed: json.dump(done, open(DONE, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
-if time.time() > charger()['refresh_expire'] - 15 * 86400: errors.append('La connexion TikTok expire dans moins de 15 jours : écrivez « reconnecter TikTok » à Claude dans la conversation TerrenUrbanisme.')
+if not ZKEY and time.time() > charger()['refresh_expire'] - 15 * 86400: errors.append('La connexion TikTok expire dans moins de 15 jours : écrivez « reconnecter TikTok » à Claude dans la conversation TerrenUrbanisme.')
 if errors:
     print('\n'.join(errors)); sys.exit(1)
