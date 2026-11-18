@@ -59,7 +59,7 @@
 <div class="ps-g3"><label class="ps-f">Civilité<select name="civ"><option value="">—</option><option>M.</option><option>Mme</option><option>M. et Mme</option></select></label><label class="ps-f">Prénom<input name="prenom" autocomplete="off"></label><label class="ps-f">Nom<input name="nom" autocomplete="off"></label></div>
 <div class="ps-g" style="margin-top:10px"><label class="ps-f">E-mail<input name="email" type="email" autocomplete="off"></label><label class="ps-f">Téléphone<input name="tel" type="tel" autocomplete="off"></label></div></div>
 <div class="ps-card"><h2><span class="ps-num">2</span>Votre avis de valeur</h2><p class="ps-sub">Ajouté sur une page « Recommandation de l'agence », à côté des ventes réelles relevées autour du terrain.</p>
-<div class="ps-g3"><label class="ps-f">Prix bas (€)<input name="bas" inputmode="numeric" placeholder="ex. 180 000"></label><label class="ps-f">Prix haut (€)<input name="haut" inputmode="numeric" placeholder="ex. 220 000"></label><label class="ps-f">Prix recommandé (€)<input name="conseille" inputmode="numeric" placeholder="ex. 199 000"></label></div>
+<div class="ps-g3"><label class="ps-f">Prix bas (€)<input name="bas" inputmode="numeric" placeholder="ex. 180 000"></label><label class="ps-f">Prix haut (€)<input name="haut" inputmode="numeric" placeholder="ex. 220 000"></label><label class="ps-f">Prix recommandé par l'agence (€)<input name="conseille" inputmode="numeric" placeholder="ex. 199 000"></label></div>
 <label class="ps-f" style="margin-top:10px">Votre commentaire<textarea name="commentaire" placeholder="Points forts du terrain, état du marché, conseils pour la vente…"></textarea></label></div>
 <div class="ps-card"><h2><span class="ps-num">3</span>Photos du bien</h2><p class="ps-sub">Jusqu'à 8 photos, ajoutées sur la même page.</p>
 <label class="ps-drop" for="ps-files">Ajouter des photos</label><input type="file" id="ps-files" accept="image/*" multiple hidden>
@@ -71,7 +71,15 @@
 </div>
 <div class="ps-prev"><div class="ps-card"><h2 id="ps-pt">Aperçu du rapport</h2><p class="ps-sub" id="ps-ps">Rapport complet actuel. La version client apparaîtra ici après génération.</p>
 <iframe id="ps-frame" title="Aperçu du rapport"></iframe>
-<div class="ps-act"><a class="btn ghost" id="ps-open" href="#" target="_blank" rel="noopener">Ouvrir en plein écran</a><a class="btn" id="ps-dl" href="#" hidden>Télécharger la version client</a></div></div></div>
+<div class="ps-act"><a class="btn ghost" id="ps-open" href="#" target="_blank" rel="noopener">Ouvrir en plein écran</a><a class="btn" id="ps-dl" href="#" hidden>Télécharger la version client</a></div></div>
+<div class="ps-card" id="ps-send" hidden><h2><span class="ps-num">5</span>Envoyer au client</h2><p class="ps-sub">Le message s'ouvre dans votre messagerie, prêt à partir. Vous pouvez le modifier avant l'envoi.</p>
+<label class="ps-f">E-mail du client<input id="ps-to" type="email" autocomplete="off"></label>
+<label class="ps-f" style="margin-top:10px">Objet<input id="ps-obj" autocomplete="off"></label>
+<label class="ps-f" style="margin-top:10px">Message<textarea id="ps-body" style="min-height:220px"></textarea></label>
+<label class="ps-f" style="margin-top:10px">Votre signature<textarea id="ps-sig" style="min-height:96px" placeholder="Prénom Nom&#10;Agence&#10;Téléphone"></textarea></label>
+<div class="ps-act"><a class="btn" id="ps-mail" href="#">Envoyer par e-mail</a><button type="button" class="btn ghost" id="ps-copy">Copier le message</button></div>
+<p class="ps-msg" id="ps-smsg" style="color:var(--muet)">Le rapport est joint par un lien de téléchargement valable 7 jours. Pour joindre le PDF lui-même, téléchargez-le puis ajoutez-le à votre e-mail.</p></div>
+</div>
 </div>
 </div></section>
 </main>
@@ -85,7 +93,7 @@
 </div>
 <p class="legal">© 2026 TerrenUrbanisme. Les informations fournies sont établies à partir de sources publiques ; elles ne constituent ni un certificat d'urbanisme, ni une autorisation d'urbanisme, ni un avis juridique, et ne peuvent pas être jointes à une demande de permis de construire. Sources : cadastre, Géoportail de l'Urbanisme, IGN, Géorisques, Collectivité de Corse.</p>
 </div></footer>
-<script defer src="/assets/config.js?v=v85"></script><script defer src="/assets/consent.js?v=v85"></script><script defer src="/assets/supabase.js?v=v85"></script><script defer src="/assets/auth.js?v=v96"></script><script defer src="/assets/app.js?v=v96"></script>
-<script defer src="/assets/perso.js?v=2"></script>
+<script defer src="/assets/config.js?v=v85"></script><script defer src="/assets/consent.js?v=v85"></script><script defer src="/assets/supabase.js?v=v85"></script><script defer src="/assets/auth.js?v=v97"></script><script defer src="/assets/app.js?v=v97"></script>
+<script defer src="/assets/perso.js?v=3"></script>
 </body>
 </html>

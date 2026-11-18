@@ -69,7 +69,8 @@
     _gen: function(parcel){
       return sb.functions.invoke('stripe-webhook', { body: parcel }).then(function(r){
         if (r.error){ return (r.error.context && r.error.context.json ? r.error.context.json() : Promise.resolve({})).then(function(j){ var e = new Error(j && j.error || 'gen'); e.code = j && j.error; throw e; }); }
-        location.href = '/merci.html?session_id=' + encodeURIComponent(r.data.session) + '&credit=1';
+        var cl = null; try { cl = sessionStorage.getItem('tu_client'); if (cl) { sessionStorage.removeItem('tu_client'); localStorage.setItem('tu_client_' + r.data.session, cl); } } catch (e) {}
+        location.href = '/merci.html?session_id=' + encodeURIComponent(r.data.session) + '&credit=1' + (parcel && parcel.agent ? '&agence=1' : '');
       });
     },
     /* Abonnement mairie : communes couvertes pour ce compte (null sinon) */
@@ -352,7 +353,12 @@
       showWait(false); var tick = setInterval(function(){ showWait(false); }, 1000);
       (function poll(){
         loadDossiers(merci, sid).then(function(rows){
+          // Agence : rattache le client saisi à la recherche (une seule fois, dès que le dossier existe)
+          var ck = 'tu_client_' + sid, cv = null; try { cv = localStorage.getItem(ck); } catch (e) {}
+          if (cv && rows.length && sid) sb.rpc('dossier_client_maj', { p_session: sid, p_client: JSON.parse(cv) }).then(function(x){ if (x && x.data) try { localStorage.removeItem(ck); } catch (e) {} });
           var pending = !rows.length || rows[0].status === 'pending';
+          // Agence : dès que le rapport est prêt, ouverture du pré-aperçu (rubriques, prix, photos, envoi au client)
+          if (!pending && qs.get('agence') && rows[0].status === 'ready'){ clearInterval(tick); wait.innerHTML = '<b>Votre rapport est prêt.</b> Ouverture du pré-aperçu…'; wait.classList.add('ok'); setTimeout(function(){ location.href = '/personnaliser.html?id=' + encodeURIComponent(rows[0].id) + '&neuf=1'; }, 1200); return; }
           if (!pending){ clearInterval(tick); showWait(true); return; }
           var el = Date.now() - t0; if (el > 160000 && (!poll.last || Date.now() - poll.last > 60000)) { poll.last = Date.now(); Auth.relance(sid); }
           if (++tries < 150) setTimeout(poll, 4000); else { clearInterval(tick); wait.innerHTML = 'La préparation prend plus de temps que prévu. Le rapport vous sera envoyé par e-mail dès qu\'il sera prêt, et apparaîtra dans <a href="/espace.html">votre espace</a>.'; }

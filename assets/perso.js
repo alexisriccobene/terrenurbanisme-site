@@ -45,6 +45,21 @@
       img.src = u;
     });
   }
+  var MAIL = { url: '', ref: '', agent: '', cl: {} };
+  function nomClient(c) { return [c.civ || '', c.nom || c.prenom || ''].join(' ').trim(); }
+  function drawMail() {
+    var f = $('ps-form'), c = { civ: f.civ.value, prenom: f.prenom.value.trim(), nom: f.nom.value.trim(), email: f.email.value.trim() };
+    if (!$('ps-to').dataset.edit) $('ps-to').value = c.email;
+    if (!$('ps-obj').dataset.edit) $('ps-obj').value = 'Votre rapport d\'urbanisme et avis de valeur' + (MAIL.ref ? ' · ' + MAIL.ref : '');
+    var sal = c.civ === 'Mme' ? 'Madame' : c.civ === 'M.' ? 'Monsieur' : c.civ === 'M. et Mme' ? 'Madame, Monsieur' : '';
+    var who = sal ? sal + (c.civ === 'M. et Mme' ? '' : ' ' + (c.nom || c.prenom)) : (c.prenom || c.nom || '');
+    if (!$('ps-body').dataset.edit) $('ps-body').value = 'Bonjour' + (who ? ' ' + who : '') + ',\n\nVeuillez trouver ci-dessous le lien vers le rapport d\'urbanisme détaillé de votre bien, accompagné de notre avis de valeur.\n\n' + (MAIL.url || '[le lien apparaîtra ici après la génération]') + '\n\nNous restons à votre entière disposition pour en échanger.\n\nBien cordialement,';
+    var to = $('ps-to').value.trim(), body = $('ps-body').value + '\n\n' + $('ps-sig').value.trim();
+    $('ps-mail').href = 'mailto:' + encodeURIComponent(to).replace(/%40/g, '@') + '?subject=' + encodeURIComponent($('ps-obj').value) + '&body=' + encodeURIComponent(body);
+  }
+  function showSend(url) {
+    MAIL.url = url || MAIL.url; $('ps-send').hidden = false; drawMail();
+  }
   function start(u) {
     if (!u) { location.href = A.loginUrl(); return; }
     if (!id) { $('ps-load').textContent = 'Rapport introuvable.'; return; }
@@ -52,6 +67,17 @@
       $('ps-load').hidden = true; $('ps-app').hidden = false;
       if (r.view) { $('ps-frame').src = r.view; $('ps-open').href = r.view; }
       var P = r.perso || {}, f = $('ps-form');
+      A.client.from('dossiers').select('commune,section,numero,agent').eq('id', id).maybeSingle().then(function (q) { var d = q.data || {}; MAIL.ref = [d.commune, d.section, d.numero].filter(Boolean).join(' '); MAIL.agent = d.agent || ''; initSig(); drawMail(); });
+      function initSig() {
+        var sv = ''; try { sv = localStorage.getItem('tu_sig_' + (MAIL.agent || 'agence')) || ''; } catch (e) {}
+        if (sv) { $('ps-sig').value = sv; return; }
+        A.account().then(function (c) { $('ps-sig').value = [MAIL.agent, c && c.nom, c && c.telephone, c && c.email].filter(Boolean).join('\n'); drawMail(); });
+      }
+      ['ps-to', 'ps-obj', 'ps-body'].forEach(function (k) { $(k).addEventListener('input', function () { $(k).dataset.edit = '1'; drawMail(); }); });
+      $('ps-sig').addEventListener('input', function () { try { localStorage.setItem('tu_sig_' + (MAIL.agent || 'agence'), $('ps-sig').value); } catch (e) {} drawMail(); });
+      ['civ', 'prenom', 'nom', 'email'].forEach(function (k) { f[k].addEventListener('input', drawMail); f[k].addEventListener('change', drawMail); });
+      $('ps-copy').addEventListener('click', function () { var t = $('ps-body').value + '\n\n' + $('ps-sig').value.trim(); var ok = function () { $('ps-copy').textContent = 'Message copié'; }; if (navigator.clipboard) navigator.clipboard.writeText(t).then(ok, function () { $('ps-body').select(); }); else $('ps-body').select(); });
+      if (new URLSearchParams(location.search).get('neuf')) msg('Votre rapport est prêt. Choisissez les rubriques, ajoutez votre prix et vos photos, puis générez la version de votre client.', 'ok');
       var cl = P.client || {}, rc = P.reco || {};
       ['civ', 'prenom', 'nom', 'email', 'tel'].forEach(function (k) { if (cl[k]) f[k].value = cl[k]; });
       ['bas', 'haut', 'conseille', 'commentaire'].forEach(function (k) { if (rc[k]) f[k].value = rc[k]; });
@@ -62,7 +88,7 @@
       }).join('');
       $('ps-ch').innerHTML = html + '<p style="color:var(--muet);font-size:13px;margin:10px 0 0">La synthèse, l\'avertissement et les sources restent toujours présents. Une rubrique absente de ce terrain n\'apparaît pas.</p>';
       (P.photos || []).forEach(function (path) { A.client.storage.from('perso').createSignedUrl(path, 3600).then(function (s) { if (s.data) { photos.push({ path: path, url: s.data.signedUrl }); drawPhotos(); } }); });
-      if (r.client) { $('ps-frame').src = r.client.view; $('ps-open').href = r.client.view; $('ps-dl').href = r.client.url; $('ps-dl').hidden = false; $('ps-pt').textContent = 'Dernière version client'; $('ps-ps').textContent = 'Modifiez les réglages puis générez à nouveau si besoin.'; }
+      if (r.client) { $('ps-frame').src = r.client.view; $('ps-open').href = r.client.view; $('ps-dl').href = r.client.url; $('ps-dl').hidden = false; showSend(r.client.url); $('ps-pt').textContent = 'Dernière version client'; $('ps-ps').textContent = 'Modifiez les réglages puis générez à nouveau si besoin.'; }
       if (!r.pret) msg('Ce rapport a été généré avant la mise en place de la version client. Générez un nouveau rapport sur cette parcelle pour pouvoir le personnaliser.', 'err');
     }).catch(function () { $('ps-load').textContent = 'Ce rapport n\'est pas accessible depuis votre compte.'; });
     $('ps-files').addEventListener('change', function (e) {
@@ -91,7 +117,7 @@
         bt.disabled = false; bt.textContent = 'Générer à nouveau';
         $('ps-frame').src = cl.view; $('ps-open').href = cl.view; $('ps-dl').href = cl.url; $('ps-dl').hidden = false;
         $('ps-pt').textContent = 'Version client'; $('ps-ps').textContent = 'Voici le rapport que recevra votre client. Lien valable 7 jours.';
-        msg('Version client prête. Téléchargez-la pour l\'envoyer à votre client.', 'ok');
+        showSend(cl.url); msg('Version client prête. Téléchargez-la ou envoyez-la directement à votre client.', 'ok');
         if (window.innerWidth < 860) $('ps-pt').scrollIntoView({ behavior: 'smooth' });
       }
       function fail(er) {

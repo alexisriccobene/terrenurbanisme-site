@@ -516,6 +516,19 @@
         agentSel = d.querySelector('select');
         if (agentSel.value) parcelRef.agent = agentSel.value;
         agentSel.addEventListener('change', function(){ if (agentSel.value) { parcelRef.agent = agentSel.value; try { localStorage.setItem('tu_agent', agentSel.value); } catch (e) {} } else delete parcelRef.agent; agentSel.style.borderColor = ''; });
+        // Client de l'agence (facultatif) : repris sur la couverture de la version client et dans l'e-mail d'envoi
+        var cb = document.createElement('div'); cb.className = 'v-proj v-client';
+        var fs = 'display:block;width:100%;padding:11px;border:1.5px solid var(--ligne);border-radius:10px;font:inherit;font-size:16px;background:#fff;box-sizing:border-box;min-width:0';
+        cb.innerHTML = '<b>Votre client</b><span>Facultatif. Son nom figurera sur la version client du rapport, et son e-mail servira à la lui envoyer.</span>' +
+          '<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:8px;margin-top:8px"><select data-c="civ" style="' + fs + '"><option value="">Civilité</option><option>M.</option><option>Mme</option><option>M. et Mme</option></select>' +
+          '<input data-c="prenom" placeholder="Prénom" autocomplete="off" style="' + fs + '"><input data-c="nom" placeholder="Nom" autocomplete="off" style="' + fs + '"></div>' +
+          '<input data-c="email" type="email" placeholder="E-mail du client" autocomplete="off" style="' + fs + ';margin-top:8px">';
+        d.parentNode.insertBefore(cb, d.nextSibling);
+        cb.querySelectorAll('[data-c]').forEach(function(el){ el.addEventListener('input', function(){
+          var c = {}; cb.querySelectorAll('[data-c]').forEach(function(x){ if (x.value.trim()) c[x.getAttribute('data-c')] = x.value.trim(); });
+          try { if (Object.keys(c).length) sessionStorage.setItem('tu_client', JSON.stringify(c)); else sessionStorage.removeItem('tu_client'); } catch (e) {}
+        }); });
+        try { sessionStorage.removeItem('tu_client'); } catch (e) {}
       });
     }).catch(function(){});
     var agentSel = null;
