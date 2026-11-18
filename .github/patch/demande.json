@@ -1,5 +1,5 @@
 {
- "fonction": "stripe-webhook",
- "script": "synthese3.py",
- "demande": "synthese-3"
+ "fonction": "create-checkout",
+ "script": "packs_reseaux.py",
+ "demande": "packs-reseaux-1"
 }
