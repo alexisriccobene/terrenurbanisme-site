@@ -1,0 +1,6 @@
+synthétique sur parcelle -> 200 URL Stripe OK
+synthétique sans parcelle (refus attendu) -> 400 {'error': 'parcelle'}
+passage au complet sans compte (refus attendu) -> 401 {'error': 'auth'}
+pack 250 -> 200 URL Stripe OK
+pack 500 -> 200 URL Stripe OK
+rapport complet -> 200 URL Stripe OK
