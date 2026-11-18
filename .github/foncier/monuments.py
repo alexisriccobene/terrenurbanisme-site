@@ -6,23 +6,26 @@ raw = urllib.request.urlopen(urllib.request.Request(URL, headers={'User-Agent': 
 print('taille', len(raw))
 txt = raw.decode('utf-8-sig', 'replace')
 first = txt[:4000].split('\n')[0]
-sep = ';' if first.count(';') > first.count(',') else ','
+sep = max(['|', ';', ','], key=lambda c: first.count(c))
 rd = csv.DictReader(io.StringIO(txt), delimiter=sep)
-H = rd.fieldnames; print('colonnes', H[:80])
+H = rd.fieldnames; print('colonnes', H)
 def col(*names):
     for n in names:
         for h in H:
             if h.strip().lower() == n.lower(): return h
+    for n in names:
+        for h in H:
+            if n.lower() in h.strip().lower(): return h
     return None
-cREF = col('REF', 'reference', 'Référence'); cNOM = col('TICO', 'Titre courant', 'appellation_courante', 'TITR'); cCOM = col('COM', 'Commune forme index', 'commune'); cINS = col('INSEE', 'Cog insee lors de la protection', 'code_insee')
-cPRO = col('PROT', 'Typologie de la protection', 'protection', 'DPRO'); cDPRO = col('DPRO', 'Date et typologie de la protection'); cCOO = col('POP_COORDONNEES', 'coordonnees_au_format_wgs84', 'Coordonnées au format WGS84', 'COORM', 'coordonnees')
+cREF = col('Reference', 'REF'); cNOM = col('Titre_editorial_de_la_notice', 'Appellation_courante', 'Titre_courant', 'TICO'); cCOM = col('Commune_forme_editoriale', 'Commune_forme_index', 'COM'); cINS = col('Cog_insee_lors_de_la_protection', 'Cog_insee', 'INSEE')
+cPRO = col('Typologie_de_la_protection', 'Nature_de_la_protection'); cDPRO = col('Date_et_typologie_de_la_protection'); cCOO = col('coordonnees_au_format_WGS84', 'Coordonnees_au_format_WGS84', 'WGS84', 'coordonnees')
 print('choix', cREF, cNOM, cCOM, cINS, cPRO, cDPRO, cCOO)
 rows, n = [], 0
 for r in rd:
     n += 1
-    ref = (r.get(cREF) or '').strip()
+    ref = str(r.get(cREF) or '').strip()
     if not ref.startswith('PA'): continue
-    co = (r.get(cCOO) or '').strip(); lat = lon = None
+    co = str(r.get(cCOO) or '').strip(); lat = lon = None
     try:
         j = json.loads(co)
         if isinstance(j, dict): lat, lon = float(j.get('lat')), float(j.get('lon'))
@@ -30,9 +33,9 @@ for r in rd:
         m = re.findall(r'-?\d+\.\d+', co)
         if len(m) >= 2: a, b = float(m[0]), float(m[1]); lat, lon = (a, b) if abs(a) > abs(b) or a > 38 else (b, a)
     if lat is None or not (-25 < lon < 60 and -25 < lat < 52) or (lat == 0 and lon == 0): continue
-    pro = ' '.join([(r.get(cPRO) or ''), (r.get(cDPRO) or '')]).lower()
+    pro = ' '.join([str(r.get(cPRO) or ''), str(r.get(cDPRO) or '')]).lower()
     prot = 'classé' if 'class' in pro else 'inscrit' if 'inscr' in pro else ''
-    rows.append({'ref': ref, 'nom': (r.get(cNOM) or '').strip()[:200], 'commune': (r.get(cCOM) or '').strip()[:80], 'insee': (r.get(cINS) or '').strip()[:5], 'protection': prot, 'lon': round(lon, 6), 'lat': round(lat, 6)})
+    rows.append({'ref': ref, 'nom': str(r.get(cNOM) or '').strip()[:200], 'commune': str(r.get(cCOM) or '').strip()[:80], 'insee': str(r.get(cINS) or '').strip()[:5], 'protection': prot, 'lon': round(lon, 6), 'lat': round(lat, 6)})
 print('lignes', n, 'monuments géolocalisés', len(rows))
 print('exemples', rows[:3])
 SR = os.environ['SR']; B = 'https://' + os.environ['REF'] + '.supabase.co/rest/v1/monuments'
