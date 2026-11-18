@@ -311,7 +311,7 @@
     Auth.user().then(function(u){
       // Mesure de la vente (Google Ads, Meta), envoyée une seule fois et seulement avec le consentement du visiteur
       if (sid && /^cs_/.test(sid) && window.TU_conversion){
-        var PRIX = { synth:9.9, upgrade:10, unit:19.9, pack2:29.8, pack3:38.7, pro10:50, pro25:110, pro50:200, pro100:350, pro250:750, pro500:1250, essentiel:29, pro:55, cabinet:139, essentiel_an:290, pro_an:550, cabinet_an:1390 };
+        var PRIX = { synth:9.9, upgrade:10, unit:19.9, pack2:29.8, pack3:38.7, pro10:60, pro50:250, pro100:450, pro250:1000, pro500:1750, essentiel:29, pro:55, cabinet:139, essentiel_an:290, pro_an:550, cabinet_an:1390 };
         var once = true; try { once = !localStorage.getItem('tu_conv_' + sid); localStorage.setItem('tu_conv_' + sid, '1'); } catch (e) {}
         if (once) window.TU_conversion(PRIX[achat || qs.get('k') || 'unit'] || 19.9, sid);
       }

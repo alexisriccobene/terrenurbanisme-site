@@ -622,7 +622,7 @@
   var root = document.getElementById('plans'); if (!root) return;
   var UNIT = { unit: ['19,90 €', 'Paiement unique', 'Choisir · 1 rapport'], pack2: ['14,90 € <small>/ rapport</small>', 'Lot de 2 · 29,80 € au total · −25 %', 'Choisir · 2 rapports'], pack3: ['12,90 € <small>/ rapport</small>', 'Lot de 3 · 38,70 € au total', 'Choisir · 3 rapports'] };
   // Crédits professionnels : sans abonnement, 5 € le rapport au plus, dégressif
-  var PRO = { pro10: [10, 50], pro25: [25, 110], pro50: [50, 200], pro100: [100, 350], pro250: [250, 750], pro500: [500, 1250] };
+  var PRO = { pro10: [10, 60], pro50: [50, 250], pro100: [100, 450], pro250: [250, 1000], pro500: [500, 1750] };
   var eur = function(v){ return (Math.round(v * 100) / 100).toLocaleString('fr-FR', { minimumFractionDigits: v % 1 ? 2 : 0, maximumFractionDigits: 2 }) + ' €'; };
   root.querySelectorAll('.plan').forEach(function(card){
     var group = card.getAttribute('data-group'), amt = card.querySelector('.amt'), unit = card.querySelector('.unit'), btn = card.querySelector('.go'), err = card.querySelector('.plan-err');

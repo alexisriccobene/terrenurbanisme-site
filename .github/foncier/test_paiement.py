@@ -11,6 +11,6 @@ def call(body, tok=None):
 for nom, b in [('synthétique sur parcelle', {'kind': 'synth', 'insee': '2B251', 'section': 'AB', 'numero': '282', 'commune': 'Prunelli-di-Fiumorbo'}),
                ('synthétique sans parcelle (refus attendu)', {'kind': 'synth'}),
                ('passage au complet sans compte (refus attendu)', {'kind': 'upgrade', 'upgrade': 'x'}),
-               ('pack 250', {'kind': 'pro250'}), ('pack 500', {'kind': 'pro500'}), ('rapport complet', {'kind': 'unit', 'insee': '2B251', 'section': 'AB', 'numero': '282', 'commune': 'Prunelli-di-Fiumorbo'})]:
+               ('pack 10', {'kind': 'pro10'}), ('pack 50', {'kind': 'pro50'}), ('pack 25 retiré (refus attendu)', {'kind': 'pro25'}), ('pack 250', {'kind': 'pro250'}), ('pack 500', {'kind': 'pro500'}), ('rapport complet', {'kind': 'unit', 'insee': '2B251', 'section': 'AB', 'numero': '282', 'commune': 'Prunelli-di-Fiumorbo'})]:
     st, j = call(b)
     print(nom, '->', st, 'URL Stripe OK' if j.get('url', '').startswith('https://checkout.stripe.com') else j)

@@ -34,8 +34,8 @@
   function cout(m, n, pop) {
     if (m === 'mairie') return { p: POP[pop == null ? 2 : pop][1], lib: 'Offre communale' };
     if (n <= 3) return { p: n === 1 ? 19.9 : n === 2 ? 29.8 : 38.7, lib: n === 1 ? 'Rapport à l’unité' : 'Lot de ' + n + ' rapports' };
-    // Crédits professionnels, sans abonnement : 5 € le rapport, 4,40 € dès 25, 4 € dès 50, 3,50 € dès 100
-    var r = n >= 100 ? 3.5 : n >= 50 ? 4 : n >= 25 ? 4.4 : 5;
+    // Crédits professionnels, sans abonnement : 6 € (10), 5 € dès 50, 4,50 € dès 100, 4 € dès 250, 3,50 € dès 500
+    var r = n >= 500 ? 3.5 : n >= 250 ? 4 : n >= 100 ? 4.5 : n >= 50 ? 5 : 6;
     return { p: n * r, lib: 'Crédits professionnels' };
   }
   function build(el) {
