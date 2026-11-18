@@ -86,7 +86,7 @@ def publier_video(p):
     info = {'title': (p.get('texte_tiktok') or p.get('texte_instagram') or p.get('theme', ''))[:2200], 'privacy_level': priv, 'disable_comment': False, 'disable_duet': False, 'disable_stitch': False,
             'video_cover_timestamp_ms': p.get('vignette_ms', 1000), 'brand_content_toggle': False, 'brand_organic_toggle': True}
     # Envoi direct du fichier (FILE_UPLOAD) : pas de dépendance au site, un seul bloc jusqu'à 64 Mo
-    f = VID + p['video']; n = os.path.getsize(f)
+    f = VID + (p.get('video_tiktok') or p['video']); n = os.path.getsize(f)  # version TikTok (accroche propre, sans musique) si elle existe
     src = {'source': 'FILE_UPLOAD', 'video_size': n, 'chunk_size': n, 'total_chunk_count': 1}
     mode = 'publication directe'
     try:
@@ -116,6 +116,15 @@ if MODE == 'verifier':
         except Exception as e: etat({'essai ' + p['id']: 'échec : ' + str(e)[:500]})
     sys.exit(0)
 
+def avis_brouillon(p):
+    # Brouillon déposé dans TikTok : le texte à coller arrive en notification GitHub (ticket assigné au propriétaire)
+    corps = ('La vidéo « %s » est dans vos brouillons TikTok (notifications TikTok, ou Profil > Brouillons).\n\n'
+             '1. Ouvrez le brouillon et touchez « Sons » : choisissez un son tendance (la vidéo n\'a volontairement pas de musique).\n'
+             '2. Collez le texte ci-dessous.\n3. Vérifiez « Tout le monde peut voir cette publication », puis publiez.\n\n```\n%s\n```'
+             % (p.get('theme', ''), p.get('texte_tiktok') or p.get('texte_instagram', '')))
+    try: subprocess.run(['gh', 'issue', 'create', '--title', 'TikTok à publier : ' + p.get('theme', '')[:80], '--assignee', os.environ.get('GITHUB_REPOSITORY', 'x/x').split('/')[0], '--body', corps], check=False, timeout=60)
+    except Exception as e: print('::warning::avis brouillon non créé : %s' % e)
+
 # Publication des contenus TikTok arrivés à échéance
 plan = json.load(open(PLAN, encoding='utf-8')); done = json.load(open(DONE, encoding='utf-8')) if os.path.exists(DONE) else {}
 now = datetime.now(ZoneInfo('Europe/Paris')); changed = False; errors = []
@@ -128,6 +137,7 @@ for p in plan:
     try:
         d['tiktok'] = publier_video(p); changed = True
         print('::notice::%s publié sur TikTok' % p['id'])
+        if 'brouillon' in d['tiktok'].get('mode', ''): avis_brouillon(p)
     except Exception as e:
         d['tiktok_echecs'] = d.get('tiktok_echecs', 0) + 1; changed = True; errors.append('%s : %s' % (p['id'], e)); print('::error::' + str(e)[:600])
 if changed: json.dump(done, open(DONE, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
