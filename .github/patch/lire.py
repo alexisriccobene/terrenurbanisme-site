@@ -2,7 +2,7 @@
 import sys, re
 s = open(sys.argv[1], encoding='utf-8').read(); L = s.split('\n')
 print('LIGNES', len(L))
-pats = [r'function footer|Document d.information', r'RECO|reco\b', r'conseille', r'Recommandation de l.agence.\)', r'géomètres\)|activité des géomètres', r'perso\.exclure|EXC =', r'client\.view|signedUrl.*client', r'perso_build|function makeClient|async function personnal', r'function text\(', r'function ensure\(', r'function chapter\(', r'function note\(', r'function bullet\(', r'function newPage', r'function h3\(', r'Recommandation de l', r'reco\.', r'perso\.photos|P\.photos|photos\.', r'exclure', r'function table\(', r'const footer|function footer', r'apercu_dossier', r"action === 'personnaliser'|action == 'personnaliser'"]
+pats = [r"'/rapport/'|rapport\/", r'download_slug', r'async function personnaliser', r'const SITE|SITE_URL']
 for p in pats:
     for i, l in enumerate(L):
         if re.search(p, l):
