@@ -1082,11 +1082,17 @@
   "date": "2026-11-18T12:30",
   "reseaux": [
    "tiktok",
-   "youtube"
+   "youtube",
+   "instagram",
+   "facebook",
+   "linkedin"
   ],
   "titre_youtube": "Ce terrain est-il constructible ? 30 min de recherches… ou 3 min #Shorts",
   "texte_youtube": "Plan d'urbanisme, règlement de 300 pages, Géorisques, cadastre, mairie : à la main, vérifier un seul terrain prend 30 à 43 minutes.\n\nAvec TerrenUrbanisme : tu entres l'adresse, tu zoomes sur ton terrain, et ton rapport arrive en quelques minutes. 31 669 communes couvertes, Corse et outre-mer inclus.\n\nVérifiez votre terrain : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#Terrain #Constructible #PLU #Urbanisme #Immobilier",
-  "texte_tiktok": "30 minutes de recherches pour savoir si un terrain est constructible… ou 3 minutes.\n\nTu le vérifies comment, toi, avant d'acheter ?\n\nterrenurbanisme.com\n\n#terrainconstructible #immobilier #PLU #terrain #agentimmobilier"
+  "texte_tiktok": "30 minutes de recherches pour savoir si un terrain est constructible… ou 3 minutes.\n\nComment vérifiez-vous un terrain avant de l'acheter ?\n\nterrenurbanisme.com\n\n#terrainconstructible #immobilier #PLU #terrain #agentimmobilier",
+  "texte_instagram": "Ce terrain est-il constructible ?\n\nÀ la main, c'est 30 minutes de recherches pour un seul terrain : Géoportail, mairie, règlement de 300 pages, Géorisques, cadastre.\n\nAvec TerrenUrbanisme : vous entrez l'adresse, vous zoomez sur votre terrain, et le rapport arrive en quelques minutes. 31 669 communes couvertes, Corse et outre-mer inclus.\n\nComment vérifiez-vous un terrain avant de l'acheter ?\n\nDiagnostic gratuit : terrenurbanisme.com (lien en bio)\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#terrainconstructible #immobilier #PLU #urbanisme #terrain #TerrenUrbanisme",
+  "texte_facebook": "Ce terrain est-il constructible ?\n\nÀ la main, c'est 30 minutes de recherches pour un seul terrain : Géoportail, mairie, règlement de 300 pages, Géorisques, cadastre.\n\nAvec TerrenUrbanisme : vous entrez l'adresse, vous zoomez sur votre terrain, et le rapport arrive en quelques minutes. 31 669 communes couvertes, Corse et outre-mer inclus.\n\nComment vérifiez-vous un terrain avant de l'acheter ?\n\nDiagnostic gratuit : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#terrainconstructible #immobilier #PLU #urbanisme #terrain",
+  "texte_linkedin": "Ce terrain est-il constructible ?\n\nÀ la main, c'est 30 minutes de recherches pour un seul terrain : Géoportail, mairie, règlement de 300 pages, Géorisques, cadastre.\n\nAvec TerrenUrbanisme : vous entrez l'adresse, vous zoomez sur votre terrain, et le rapport arrive en quelques minutes. 31 669 communes couvertes, Corse et outre-mer inclus.\n\nComment vérifiez-vous un terrain avant de l'acheter ?\n\nDiagnostic gratuit : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#terrainconstructible #immobilier #PLU #urbanisme #terrain"
  },
  {
   "id": "nov-m10",
@@ -1214,6 +1220,27 @@
   "texte_facebook": "Feux de forêt, inondation, retrait-gonflement des argiles : les risques changent tout dans un projet.\n\nObligation de débroussaillement, partie du terrain inconstructible, fondations adaptées : mieux vaut le savoir avant d'acheter ou de construire.\n\nLe rapport TerrenUrbanisme recense les risques de votre parcelle, à partir des sources officielles.\n\nCommandez le rapport de votre terrain : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#Risques #Georisques #Urbanisme #Immobilier #TerrainConstructible"
  },
  {
+  "id": "serie-01",
+  "type": "reel",
+  "date": "2026-11-20T12:15",
+  "theme": "Le piège de l'annonce « terrain constructible »",
+  "style": "motion",
+  "reseaux": [
+   "instagram",
+   "facebook",
+   "linkedin",
+   "youtube",
+   "tiktok"
+  ],
+  "video": "TU-Serie-01.mp4",
+  "texte_instagram": "Cette annonce peut vous coûter cher.\n\n« Terrain constructible » : sur l'annonce, tout a l'air simple. Mais le règlement de la zone fixe les reculs, l'emprise au sol et la hauteur. Sur 800 m², il peut ne rester que 240 m² constructibles au sol (exemple illustratif).\n\nConstructible ne veut pas dire constructible pour votre projet. Avant de signer, vérifiez.\n\nVous aviez déjà vérifié le règlement de votre terrain ?\n\nDiagnostic gratuit : terrenurbanisme.com (lien en bio)\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#terrainconstructible #immobilier #PLU #urbanisme #achatimmobilier #TerrenUrbanisme",
+  "texte_facebook": "Cette annonce peut vous coûter cher.\n\n« Terrain constructible » : sur l'annonce, tout a l'air simple. Mais le règlement de la zone fixe les reculs, l'emprise au sol et la hauteur. Sur 800 m², il peut ne rester que 240 m² constructibles au sol (exemple illustratif).\n\nConstructible ne veut pas dire constructible pour votre projet. Avant de signer, vérifiez.\n\nVous aviez déjà vérifié le règlement de votre terrain ?\n\nDiagnostic gratuit : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#terrainconstructible #immobilier #PLU #urbanisme #achatimmobilier",
+  "texte_linkedin": "Cette annonce peut vous coûter cher.\n\n« Terrain constructible » : sur l'annonce, tout a l'air simple. Mais le règlement de la zone fixe les reculs, l'emprise au sol et la hauteur. Sur 800 m², il peut ne rester que 240 m² constructibles au sol (exemple illustratif).\n\nConstructible ne veut pas dire constructible pour votre projet. Avant de signer, vérifiez.\n\nVous aviez déjà vérifié le règlement de votre terrain ?\n\nDiagnostic gratuit : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#terrainconstructible #immobilier #PLU #urbanisme #achatimmobilier",
+  "titre_youtube": "Cette annonce peut vous coûter cher #Shorts",
+  "texte_youtube": "Cette annonce peut vous coûter cher.\n\n« Terrain constructible » : sur l'annonce, tout a l'air simple. Mais le règlement de la zone fixe les reculs, l'emprise au sol et la hauteur. Sur 800 m², il peut ne rester que 240 m² constructibles au sol (exemple illustratif).\n\nConstructible ne veut pas dire constructible pour votre projet. Avant de signer, vérifiez.\n\nVous aviez déjà vérifié le règlement de votre terrain ?\n\nDiagnostic gratuit : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#terrainconstructible #immobilier #PLU #urbanisme #achatimmobilier",
+  "texte_tiktok": "Cette annonce peut vous coûter cher.\n\nVous aviez déjà vérifié le règlement de votre terrain ?\n\nterrenurbanisme.com\n\n#terrainconstructible #immobilier #PLU #urbanisme #achatimmobilier"
+ },
+ {
   "id": "story-2026-11-15",
   "type": "story",
   "date": "2026-11-20T12:30",
@@ -1273,6 +1300,27 @@
   "texte_linkedin": "Feux de forêt, inondation, retrait-gonflement des argiles : les risques changent tout dans un projet.\n\nObligation de débroussaillement, partie du terrain inconstructible, fondations adaptées : mieux vaut le savoir avant d'acheter ou de construire.\n\nLe rapport TerrenUrbanisme recense les risques de votre parcelle, à partir des sources officielles.\n\nCommandez le rapport de votre terrain : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#Risques #Georisques #Urbanisme #Immobilier #TerrainConstructible",
   "titre_youtube": "Incendie, inondation : votre terrain est-il exposé ? #Shorts",
   "texte_youtube": "Feux de forêt, inondation, retrait-gonflement des argiles : les risques changent tout dans un projet.\n\nObligation de débroussaillement, partie du terrain inconstructible, fondations adaptées : mieux vaut le savoir avant d'acheter ou de construire.\n\nLe rapport TerrenUrbanisme recense les risques de votre parcelle, à partir des sources officielles.\n\nCommandez le rapport de votre terrain : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#Risques #Georisques #Urbanisme #Immobilier #TerrainConstructible"
+ },
+ {
+  "id": "serie-02",
+  "type": "reel",
+  "date": "2026-11-21T12:15",
+  "theme": "Constructible ou pas ? 3 secondes pour deviner",
+  "style": "voix",
+  "reseaux": [
+   "instagram",
+   "facebook",
+   "linkedin",
+   "youtube",
+   "tiktok"
+  ],
+  "video": "TU-Serie-02.mp4",
+  "texte_instagram": "Constructible ou pas ? Vous avez 3 secondes.\n\n1 344 m² à Sotta, en Corse-du-Sud. Réponse : oui, la parcelle est en zone U2, une zone urbaine du PLU. Mais hauteur, emprise au sol et reculs : tout est dans le règlement de la zone.\n\nVous aviez répondu oui ou non ?\n\nDiagnostic gratuit : terrenurbanisme.com (lien en bio)\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#terrainconstructible #corse #PLU #immobilier #terrain #TerrenUrbanisme",
+  "texte_facebook": "Constructible ou pas ? Vous avez 3 secondes.\n\n1 344 m² à Sotta, en Corse-du-Sud. Réponse : oui, la parcelle est en zone U2, une zone urbaine du PLU. Mais hauteur, emprise au sol et reculs : tout est dans le règlement de la zone.\n\nVous aviez répondu oui ou non ?\n\nDiagnostic gratuit : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#terrainconstructible #corse #PLU #immobilier #terrain",
+  "texte_linkedin": "Constructible ou pas ? Vous avez 3 secondes.\n\n1 344 m² à Sotta, en Corse-du-Sud. Réponse : oui, la parcelle est en zone U2, une zone urbaine du PLU. Mais hauteur, emprise au sol et reculs : tout est dans le règlement de la zone.\n\nVous aviez répondu oui ou non ?\n\nDiagnostic gratuit : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#terrainconstructible #corse #PLU #immobilier #terrain",
+  "titre_youtube": "Constructible ou pas ? Vous avez 3 secondes #Shorts",
+  "texte_youtube": "Constructible ou pas ? Vous avez 3 secondes.\n\n1 344 m² à Sotta, en Corse-du-Sud. Réponse : oui, la parcelle est en zone U2, une zone urbaine du PLU. Mais hauteur, emprise au sol et reculs : tout est dans le règlement de la zone.\n\nVous aviez répondu oui ou non ?\n\nDiagnostic gratuit : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#terrainconstructible #corse #PLU #immobilier #terrain",
+  "texte_tiktok": "Constructible ou pas ? Vous avez 3 secondes.\n\nVous aviez répondu oui ou non ?\n\nterrenurbanisme.com\n\n#terrainconstructible #corse #PLU #immobilier #terrain"
  },
  {
   "id": "story-2026-11-16",
@@ -1347,6 +1395,27 @@
   "texte_linkedin": "Vrai ou faux : dans une commune sans PLU, on ne peut pas construire ?\n\nFaux. Sans PLU, la commune peut avoir une carte communale, qui délimite les secteurs constructibles. À défaut, c'est le règlement national d'urbanisme qui s'applique : la construction est alors en principe limitée aux parties déjà urbanisées, en continuité du bourg ou d'un hameau existant.\n\nLe diagnostic TerrenUrbanisme vous indique le régime de votre commune et ce qu'il implique pour votre parcelle. En quelques secondes. https://terrenurbanisme.com\n\n#urbanisme #PLU #terrainconstructible #immobilier"
  },
  {
+  "id": "serie-03",
+  "type": "reel",
+  "date": "2026-11-22T12:15",
+  "theme": "Ce terrain vu du ciel, de 1950 à aujourd'hui",
+  "style": "images",
+  "reseaux": [
+   "instagram",
+   "facebook",
+   "linkedin",
+   "youtube",
+   "tiktok"
+  ],
+  "video": "TU-Serie-03.mp4",
+  "texte_instagram": "Ce terrain, de 1950 à aujourd'hui.\n\nPhotographies aériennes de l'IGN de 1950 à 2015, plan de zonage, implantation d'une maison et verdict du PLU : tout est réuni dans le rapport TerrenUrbanisme.\n\nVous aimeriez voir votre terrain en 1950 ?\n\nDiagnostic gratuit : terrenurbanisme.com (lien en bio)\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#terrain #photoaerienne #urbanisme #immobilier #PLU #TerrenUrbanisme",
+  "texte_facebook": "Ce terrain, de 1950 à aujourd'hui.\n\nPhotographies aériennes de l'IGN de 1950 à 2015, plan de zonage, implantation d'une maison et verdict du PLU : tout est réuni dans le rapport TerrenUrbanisme.\n\nVous aimeriez voir votre terrain en 1950 ?\n\nDiagnostic gratuit : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#terrain #photoaerienne #urbanisme #immobilier #PLU",
+  "texte_linkedin": "Ce terrain, de 1950 à aujourd'hui.\n\nPhotographies aériennes de l'IGN de 1950 à 2015, plan de zonage, implantation d'une maison et verdict du PLU : tout est réuni dans le rapport TerrenUrbanisme.\n\nVous aimeriez voir votre terrain en 1950 ?\n\nDiagnostic gratuit : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#terrain #photoaerienne #urbanisme #immobilier #PLU",
+  "titre_youtube": "Ce terrain, de 1950 à aujourd'hui #Shorts",
+  "texte_youtube": "Ce terrain, de 1950 à aujourd'hui.\n\nPhotographies aériennes de l'IGN de 1950 à 2015, plan de zonage, implantation d'une maison et verdict du PLU : tout est réuni dans le rapport TerrenUrbanisme.\n\nVous aimeriez voir votre terrain en 1950 ?\n\nDiagnostic gratuit : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#terrain #photoaerienne #urbanisme #immobilier #PLU",
+  "texte_tiktok": "Ce terrain, de 1950 à aujourd'hui.\n\nVous aimeriez voir votre terrain en 1950 ?\n\nterrenurbanisme.com\n\n#terrain #photoaerienne #urbanisme #immobilier #PLU"
+ },
+ {
   "id": "story-2026-11-17",
   "type": "story",
   "date": "2026-11-22T12:30",
@@ -1400,6 +1469,27 @@
   "video": "TU-Reel-14.mp4",
   "texte_linkedin": "Géoportail, règlement du PLU, cadastre, servitudes, Géorisques, prix des ventes, réseaux : pour une seule parcelle, comptez 1 à 2 heures de recherches, site par site.\n\nLe rapport TerrenUrbanisme réunit tout en 3 minutes.\n\nCombien vaut une heure de votre temps ?\n\nCommandez votre premier rapport : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#GainDeTemps #Urbanisme #AgentImmobilier #Notaire #Productivite",
   "texte_facebook": "Géoportail, règlement du PLU, cadastre, servitudes, Géorisques, prix des ventes, réseaux : pour une seule parcelle, comptez 1 à 2 heures de recherches, site par site.\n\nLe rapport TerrenUrbanisme réunit tout en 3 minutes.\n\nCombien vaut une heure de votre temps ?\n\nCommandez votre premier rapport : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#GainDeTemps #Urbanisme #AgentImmobilier #Notaire #Productivite"
+ },
+ {
+  "id": "serie-04",
+  "type": "reel",
+  "date": "2026-11-23T12:15",
+  "theme": "Zones U, AU, A, N : une lettre décide si vous pouvez construire",
+  "style": "motion",
+  "reseaux": [
+   "instagram",
+   "facebook",
+   "linkedin",
+   "youtube",
+   "tiktok"
+  ],
+  "video": "TU-Serie-04.mp4",
+  "texte_instagram": "Une seule lettre décide si vous pouvez construire.\n\nU : urbaine, constructible selon le règlement. AU : à urbaniser, sous conditions (1AU ouverte, 2AU fermée tant que le PLU n'évolue pas). A et N : agricole et naturelle, en principe inconstructibles, sauf exceptions.\n\nTerrain à cheval sur deux zones ? Chaque partie suit le règlement de sa zone.\n\nQuelle est la lettre de votre terrain ? Dites-le en commentaire.\n\nDiagnostic gratuit : terrenurbanisme.com (lien en bio)\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#PLU #urbanisme #terrainconstructible #immobilier #terrain #TerrenUrbanisme",
+  "texte_facebook": "Une seule lettre décide si vous pouvez construire.\n\nU : urbaine, constructible selon le règlement. AU : à urbaniser, sous conditions (1AU ouverte, 2AU fermée tant que le PLU n'évolue pas). A et N : agricole et naturelle, en principe inconstructibles, sauf exceptions.\n\nTerrain à cheval sur deux zones ? Chaque partie suit le règlement de sa zone.\n\nQuelle est la lettre de votre terrain ? Dites-le en commentaire.\n\nDiagnostic gratuit : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#PLU #urbanisme #terrainconstructible #immobilier #terrain",
+  "texte_linkedin": "Une seule lettre décide si vous pouvez construire.\n\nU : urbaine, constructible selon le règlement. AU : à urbaniser, sous conditions (1AU ouverte, 2AU fermée tant que le PLU n'évolue pas). A et N : agricole et naturelle, en principe inconstructibles, sauf exceptions.\n\nTerrain à cheval sur deux zones ? Chaque partie suit le règlement de sa zone.\n\nQuelle est la lettre de votre terrain ? Dites-le en commentaire.\n\nDiagnostic gratuit : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#PLU #urbanisme #terrainconstructible #immobilier #terrain",
+  "titre_youtube": "Une seule lettre décide si vous pouvez construire #Shorts",
+  "texte_youtube": "Une seule lettre décide si vous pouvez construire.\n\nU : urbaine, constructible selon le règlement. AU : à urbaniser, sous conditions (1AU ouverte, 2AU fermée tant que le PLU n'évolue pas). A et N : agricole et naturelle, en principe inconstructibles, sauf exceptions.\n\nTerrain à cheval sur deux zones ? Chaque partie suit le règlement de sa zone.\n\nQuelle est la lettre de votre terrain ? Dites-le en commentaire.\n\nDiagnostic gratuit : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#PLU #urbanisme #terrainconstructible #immobilier #terrain",
+  "texte_tiktok": "Une seule lettre décide si vous pouvez construire.\n\nQuelle est la lettre de votre terrain ? Dites-le en commentaire.\n\nterrenurbanisme.com\n\n#PLU #urbanisme #terrainconstructible #immobilier #terrain"
  },
  {
   "id": "story-2026-11-18",
@@ -1476,6 +1566,27 @@
   "texte_facebook": "Vendre une partie de votre terrain pour financer un projet ? Avant de mandater un géomètre, vérifiez que la division est possible.\n\nAccès à la voie pour chaque lot, réseaux, règles de la zone, prix des ventes du secteur : le rapport TerrenUrbanisme réunit tout ce qu'il faut pour décider.\n\nEn quelques minutes, sans chercher site par site.\n\nCommandez le rapport de votre terrain : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#DivisionParcellaire #TerrainABatir #Urbanisme #Immobilier #PLU"
  },
  {
+  "id": "serie-05",
+  "type": "reel",
+  "date": "2026-11-24T12:15",
+  "theme": "3 erreurs avant d'acheter un terrain",
+  "style": "voix",
+  "reseaux": [
+   "instagram",
+   "facebook",
+   "linkedin",
+   "youtube",
+   "tiktok"
+  ],
+  "video": "TU-Serie-05.mp4",
+  "texte_instagram": "3 erreurs qui coûtent cher avant d'acheter un terrain.\n\n1. Croire l'annonce : « constructible » se vérifie dans le PLU.\n2. Oublier les risques : zone inondable, glissement de terrain, ça peut tout bloquer.\n3. Ne pas lire le règlement de la zone : hauteur, emprise au sol, reculs.\n\nLaquelle de ces erreurs vous a déjà surpris ?\n\nDiagnostic gratuit : terrenurbanisme.com (lien en bio)\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#achatimmobilier #terrain #immobilier #PLU #conseilimmobilier #TerrenUrbanisme",
+  "texte_facebook": "3 erreurs qui coûtent cher avant d'acheter un terrain.\n\n1. Croire l'annonce : « constructible » se vérifie dans le PLU.\n2. Oublier les risques : zone inondable, glissement de terrain, ça peut tout bloquer.\n3. Ne pas lire le règlement de la zone : hauteur, emprise au sol, reculs.\n\nLaquelle de ces erreurs vous a déjà surpris ?\n\nDiagnostic gratuit : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#achatimmobilier #terrain #immobilier #PLU #conseilimmobilier",
+  "texte_linkedin": "3 erreurs qui coûtent cher avant d'acheter un terrain.\n\n1. Croire l'annonce : « constructible » se vérifie dans le PLU.\n2. Oublier les risques : zone inondable, glissement de terrain, ça peut tout bloquer.\n3. Ne pas lire le règlement de la zone : hauteur, emprise au sol, reculs.\n\nLaquelle de ces erreurs vous a déjà surpris ?\n\nDiagnostic gratuit : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#achatimmobilier #terrain #immobilier #PLU #conseilimmobilier",
+  "titre_youtube": "3 erreurs qui coûtent cher avant d'acheter un terrain #Shorts",
+  "texte_youtube": "3 erreurs qui coûtent cher avant d'acheter un terrain.\n\n1. Croire l'annonce : « constructible » se vérifie dans le PLU.\n2. Oublier les risques : zone inondable, glissement de terrain, ça peut tout bloquer.\n3. Ne pas lire le règlement de la zone : hauteur, emprise au sol, reculs.\n\nLaquelle de ces erreurs vous a déjà surpris ?\n\nDiagnostic gratuit : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#achatimmobilier #terrain #immobilier #PLU #conseilimmobilier",
+  "texte_tiktok": "3 erreurs qui coûtent cher avant d'acheter un terrain.\n\nLaquelle de ces erreurs vous a déjà surpris ?\n\nterrenurbanisme.com\n\n#achatimmobilier #terrain #immobilier #PLU #conseilimmobilier"
+ },
+ {
   "id": "story-2026-11-19",
   "type": "story",
   "date": "2026-11-24T12:30",
@@ -1541,6 +1652,27 @@
   "video": "TU-Reel-06.mp4",
   "texte_linkedin": "Une vue sur la mer, mais aucune construction possible ? La loi Littoral en est souvent la cause.\n\nBande des 100 mètres, espaces proches du rivage, continuité avec l'urbanisation existante : ces règles s'ajoutent au PLU et peuvent rendre un terrain inconstructible.\n\nLe rapport TerrenUrbanisme indique si votre parcelle est concernée, avec sa distance au rivage.\n\nCommandez le rapport de votre terrain : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#LoiLittoral #Urbanisme #TerrainConstructible #Immobilier #BordDeMer",
   "texte_facebook": "Une vue sur la mer, mais aucune construction possible ? La loi Littoral en est souvent la cause.\n\nBande des 100 mètres, espaces proches du rivage, continuité avec l'urbanisation existante : ces règles s'ajoutent au PLU et peuvent rendre un terrain inconstructible.\n\nLe rapport TerrenUrbanisme indique si votre parcelle est concernée, avec sa distance au rivage.\n\nCommandez le rapport de votre terrain : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#LoiLittoral #Urbanisme #TerrainConstructible #Immobilier #BordDeMer"
+ },
+ {
+  "id": "serie-06",
+  "type": "reel",
+  "date": "2026-11-25T12:15",
+  "theme": "Ce que contient un rapport d'urbanisme à 19,90 €",
+  "style": "images",
+  "reseaux": [
+   "instagram",
+   "facebook",
+   "linkedin",
+   "youtube",
+   "tiktok"
+  ],
+  "video": "TU-Serie-06.mp4",
+  "texte_instagram": "19,90 €. Voici ce que vous obtenez.\n\nPlan cadastral, vue aérienne, plan de zonage, règlement lu en clair, surface constructible estimée, risques et état des risques pré-rempli, monuments historiques, bruit, lois Littoral et Montagne, prix au m², photos aériennes depuis 1950, accès, pente, réseaux et fibre.\n\nLivré en PDF en quelques minutes, à partir d'une adresse ou d'une référence cadastrale.\n\nQuel point vérifiez-vous en premier ?\n\nDiagnostic gratuit : terrenurbanisme.com (lien en bio)\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#urbanisme #immobilier #terrain #PLU #rapport #TerrenUrbanisme",
+  "texte_facebook": "19,90 €. Voici ce que vous obtenez.\n\nPlan cadastral, vue aérienne, plan de zonage, règlement lu en clair, surface constructible estimée, risques et état des risques pré-rempli, monuments historiques, bruit, lois Littoral et Montagne, prix au m², photos aériennes depuis 1950, accès, pente, réseaux et fibre.\n\nLivré en PDF en quelques minutes, à partir d'une adresse ou d'une référence cadastrale.\n\nQuel point vérifiez-vous en premier ?\n\nDiagnostic gratuit : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#urbanisme #immobilier #terrain #PLU #rapport",
+  "texte_linkedin": "19,90 €. Voici ce que vous obtenez.\n\nPlan cadastral, vue aérienne, plan de zonage, règlement lu en clair, surface constructible estimée, risques et état des risques pré-rempli, monuments historiques, bruit, lois Littoral et Montagne, prix au m², photos aériennes depuis 1950, accès, pente, réseaux et fibre.\n\nLivré en PDF en quelques minutes, à partir d'une adresse ou d'une référence cadastrale.\n\nQuel point vérifiez-vous en premier ?\n\nDiagnostic gratuit : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#urbanisme #immobilier #terrain #PLU #rapport",
+  "titre_youtube": "19,90 €. Voici ce que vous obtenez #Shorts",
+  "texte_youtube": "19,90 €. Voici ce que vous obtenez.\n\nPlan cadastral, vue aérienne, plan de zonage, règlement lu en clair, surface constructible estimée, risques et état des risques pré-rempli, monuments historiques, bruit, lois Littoral et Montagne, prix au m², photos aériennes depuis 1950, accès, pente, réseaux et fibre.\n\nLivré en PDF en quelques minutes, à partir d'une adresse ou d'une référence cadastrale.\n\nQuel point vérifiez-vous en premier ?\n\nDiagnostic gratuit : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#urbanisme #immobilier #terrain #PLU #rapport",
+  "texte_tiktok": "19,90 €. Voici ce que vous obtenez.\n\nQuel point vérifiez-vous en premier ?\n\nterrenurbanisme.com\n\n#urbanisme #immobilier #terrain #PLU #rapport"
  },
  {
   "id": "story-2026-11-20",
