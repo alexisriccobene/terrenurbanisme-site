@@ -523,5 +523,12 @@
    "mode": "programmé dans Zernio pour 2027-02-08T18:00:00",
    "statut": "scheduled"
   }
+ },
+ "reel-demo-v5": {
+  "tiktok": {
+   "id": "6afdda7dde902f9edaf406f3",
+   "mode": "publication publique (Zernio)",
+   "statut": "publishing"
+  }
  }
 }
