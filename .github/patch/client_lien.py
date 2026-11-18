@@ -56,9 +56,9 @@ rep("""      h3('Photos du bien');
       const cover = async (ph, x0, yt, w, h) => {
         const im = await img(ph.bytes, ph.png); if (!im) return;
         const r = Math.max(w / im.width, h / im.height), w2 = im.width * r, h2 = im.height * r;
-        page.pushOperators(pushGraphicsState(), rectangle(x0, yt - h, w, h), clip(), endPath());
+        page.pushOperators(PDFLib.pushGraphicsState(), PDFLib.rectangle(x0, yt - h, w, h), PDFLib.clip(), PDFLib.endPath());
         page.drawImage(im, { x: x0 + (w - w2) / 2, y: yt - h + (h - h2) / 2, width: w2, height: h2 });
-        page.pushOperators(popGraphicsState());
+        page.pushOperators(PDFLib.popGraphicsState());
       };
       const gap = 8, bigH = PH.length === 1 ? 300 : 230, sw = (CW - 2 * gap) / 3, sh = sw * 0.72;
       ensure(24 + bigH + (PH.length > 1 ? sh + gap : 0)); h3('Photos du bien', 10);
@@ -69,13 +69,4 @@ rep("""      h3('Photos du bien');
         y -= sh + gap;
       }
       y -= 6;""")
-if 'pushGraphicsState' not in s.split('async function')[0][:20000] and 'pushGraphicsState,' not in s:
-    i = s.index("from 'https://")
-    # ajoute les opérateurs de découpe à l'import de pdf-lib
-    import re
-    m = re.search(r"import \{([^}]*)\} from '([^']*pdf-lib[^']*)';", s)
-    if not m: sys.exit('import pdf-lib introuvable')
-    names = m.group(1)
-    add = [n for n in ['pushGraphicsState', 'popGraphicsState', 'rectangle', 'clip', 'endPath'] if n not in names]
-    s = s.replace(m.group(0), "import {%s, %s} from '%s';" % (names.rstrip(), ', '.join(add), m.group(2)))
 open(p, 'w', encoding='utf-8').write(s); print('patch client_lien appliqué')
