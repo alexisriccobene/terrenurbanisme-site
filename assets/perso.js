@@ -53,7 +53,7 @@
     if (!$('ps-obj').dataset.edit) $('ps-obj').value = 'Votre rapport d\'urbanisme et avis de valeur' + (MAIL.ref ? ' · ' + MAIL.ref : '');
     var sal = c.civ === 'Mme' ? 'Madame' : c.civ === 'M.' ? 'Monsieur' : c.civ === 'M. et Mme' ? 'Madame, Monsieur' : '';
     var who = sal ? sal + (c.civ === 'M. et Mme' ? '' : ' ' + (c.nom || c.prenom)) : (c.prenom || c.nom || '');
-    if (!$('ps-body').dataset.edit) $('ps-body').value = 'Bonjour' + (who ? ' ' + who : '') + ',\n\nVeuillez trouver ci-dessous le lien vers le rapport d\'urbanisme détaillé de votre bien, accompagné de notre avis de valeur.\n\n' + (MAIL.url || '[le lien apparaîtra ici après la génération]') + '\n\nNous restons à votre entière disposition pour en échanger.\n\nBien cordialement,';
+    if (!$('ps-body').dataset.edit) $('ps-body').value = 'Bonjour' + (who ? ' ' + who : '') + ',\n\nVeuillez trouver ci-dessous le rapport d\'urbanisme détaillé de votre bien, accompagné de notre avis de valeur :\n\n' + (MAIL.url || '[le lien apparaîtra ici après la génération]') + '\n\nNous restons à votre entière disposition pour en échanger.\n\nBien cordialement,';
     var to = $('ps-to').value.trim(), body = $('ps-body').value + '\n\n' + $('ps-sig').value.trim();
     $('ps-mail').href = 'mailto:' + encodeURIComponent(to).replace(/%40/g, '@') + '?subject=' + encodeURIComponent($('ps-obj').value) + '&body=' + encodeURIComponent(body);
   }
@@ -76,6 +76,7 @@
       ['ps-to', 'ps-obj', 'ps-body'].forEach(function (k) { $(k).addEventListener('input', function () { $(k).dataset.edit = '1'; drawMail(); }); });
       $('ps-sig').addEventListener('input', function () { try { localStorage.setItem('tu_sig_' + (MAIL.agent || 'agence'), $('ps-sig').value); } catch (e) {} drawMail(); });
       ['civ', 'prenom', 'nom', 'email'].forEach(function (k) { f[k].addEventListener('input', drawMail); f[k].addEventListener('change', drawMail); });
+      $('ps-mail').addEventListener('click', function () { var to = $('ps-to').value.trim(); A.client.rpc('dossier_envoi', { p_id: id, p_email: to }).then(function () { $('ps-smsg').textContent = 'Envoi enregistré le ' + new Date().toLocaleDateString('fr-FR') + (to ? ' pour ' + to : '') + '. Il apparaît dans votre back-office.'; }); });
       $('ps-copy').addEventListener('click', function () { var t = $('ps-body').value + '\n\n' + $('ps-sig').value.trim(); var ok = function () { $('ps-copy').textContent = 'Message copié'; }; if (navigator.clipboard) navigator.clipboard.writeText(t).then(ok, function () { $('ps-body').select(); }); else $('ps-body').select(); });
       if (new URLSearchParams(location.search).get('neuf')) msg('Votre rapport est prêt. Choisissez les rubriques, ajoutez votre prix et vos photos, puis générez la version de votre client.', 'ok');
       var cl = P.client || {}, rc = P.reco || {};
@@ -88,7 +89,7 @@
       }).join('');
       $('ps-ch').innerHTML = html + '<p style="color:var(--muet);font-size:13px;margin:10px 0 0">La synthèse, l\'avertissement et les sources restent toujours présents. Une rubrique absente de ce terrain n\'apparaît pas.</p>';
       (P.photos || []).forEach(function (path) { A.client.storage.from('perso').createSignedUrl(path, 3600).then(function (s) { if (s.data) { photos.push({ path: path, url: s.data.signedUrl }); drawPhotos(); } }); });
-      if (r.client) { $('ps-frame').src = r.client.view; $('ps-open').href = r.client.view; $('ps-dl').href = r.client.url; $('ps-dl').hidden = false; showSend(r.client.url); $('ps-pt').textContent = 'Dernière version client'; $('ps-ps').textContent = 'Modifiez les réglages puis générez à nouveau si besoin.'; }
+      if (r.client) { $('ps-frame').src = r.client.view; $('ps-open').href = r.client.view; $('ps-dl').href = r.client.url; $('ps-dl').hidden = false; showSend(r.client.court || r.client.url); $('ps-pt').textContent = 'Dernière version client'; $('ps-ps').textContent = 'Modifiez les réglages puis générez à nouveau si besoin.'; }
       if (!r.pret) msg('Ce rapport a été généré avant la mise en place de la version client. Générez un nouveau rapport sur cette parcelle pour pouvoir le personnaliser.', 'err');
     }).catch(function () { $('ps-load').textContent = 'Ce rapport n\'est pas accessible depuis votre compte.'; });
     $('ps-files').addEventListener('change', function (e) {
@@ -117,7 +118,7 @@
         bt.disabled = false; bt.textContent = 'Générer à nouveau';
         $('ps-frame').src = cl.view; $('ps-open').href = cl.view; $('ps-dl').href = cl.url; $('ps-dl').hidden = false;
         $('ps-pt').textContent = 'Version client'; $('ps-ps').textContent = 'Voici le rapport que recevra votre client. Lien valable 7 jours.';
-        showSend(cl.url); msg('Version client prête. Téléchargez-la ou envoyez-la directement à votre client.', 'ok');
+        showSend(cl.court || cl.url); msg('Version client prête. Téléchargez-la ou envoyez-la directement à votre client.', 'ok');
         if (window.innerWidth < 860) $('ps-pt').scrollIntoView({ behavior: 'smooth' });
       }
       function fail(er) {

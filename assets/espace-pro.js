@@ -57,8 +57,17 @@
     var LIM = window.__boLim || 50;
     $('bo-rows').innerHTML = L.slice(0, LIM).map(function (d) {
       var v = VER[d.verdict], dt = new Date(d.created_at);
-      var lien = d.ex ? '<span style="color:var(--muet)">Exemple</span>' : d.status === 'ready' && d.download_slug ? '<a href="/r/' + encodeURIComponent(d.download_slug) + '" target="_blank" rel="noopener">Ouvrir</a><br><a href="/personnaliser.html?id=' + encodeURIComponent(d.id) + '" style="font-weight:700">' + (d.perso && d.perso.status === 'pret' ? 'Version client ✓' : 'Version client') + '</a>' : '<span style="color:var(--muet)">' + (d.status === 'ready' ? 'Disponible' : 'En préparation') + '</span>';
-      return '<tr><td>' + dt.toLocaleDateString('fr-FR') + '<br><small style="color:var(--muet)">' + dt.toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' }) + '</small></td><td><b>' + esc(d.commune) + '</b></td><td>' + esc(d.agent || '–') + '</td><td>Section ' + esc(d.section) + ' n° ' + esc(d.numero) + '</td><td>' + esc(d.zone || '–') + '</td><td>' + (v ? '<span class="bo-v ' + v[0] + '">' + v[1] + '</span>' : '–') + '</td><td>' + esc(d.projet ? d.projet.charAt(0).toUpperCase() + d.projet.slice(1) : '–') + '</td><td><small>' + esc(d.order_ref || '–') + '</small></td><td>' + lien + '</td></tr>';
+      var P = d.perso || {}, cl = P.client || {}, nomC = [cl.prenom, cl.nom].filter(Boolean).join(' ');
+      var pret = P.status === 'pret', court = '/r/c-' + String(d.id || '').replace(/-/g, '').slice(0, 12);
+      var env = (d.envois || []).slice(-1)[0];
+      var act = d.ex ? '<span style="color:var(--muet)">Exemple</span>' : d.status === 'ready' && d.download_slug
+        ? '<div class="bo-act"><a href="/r/' + encodeURIComponent(d.download_slug) + '" target="_blank" rel="noopener">Rapport</a>'
+          + (pret ? '<a class="pr" href="' + court + '" target="_blank" rel="noopener">Version client</a><a href="/personnaliser.html?id=' + encodeURIComponent(d.id) + '">Modifier · renvoyer</a>'
+                  : '<a class="pr" href="/personnaliser.html?id=' + encodeURIComponent(d.id) + '">Préparer pour le client</a>') + '</div>'
+        : '<span style="color:var(--muet)">' + (d.status === 'ready' ? 'Disponible' : 'En préparation') + '</span>';
+      var client = d.ex ? '–' : (nomC ? '<b>' + esc(nomC) + '</b>' : '<span style="color:var(--muet)">–</span>') + (cl.email ? '<br><small style="color:var(--muet)">' + esc(cl.email) + '</small>' : '');
+      var envoi = env ? '<span class="bo-v ok">Envoyé</span><br><small style="color:var(--muet)">' + new Date(env.date).toLocaleDateString('fr-FR') + ' à ' + new Date(env.date).toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' }) + (env.email ? '<br>' + esc(env.email) : '') + '</small>' : (pret ? '<span class="bo-v cond">Prête, non envoyée</span>' : '<span style="color:var(--muet)">–</span>');
+      return '<tr><td>' + dt.toLocaleDateString('fr-FR') + '<br><small style="color:var(--muet)">' + dt.toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' }) + '</small></td><td><b>' + esc(d.commune) + '</b><br><small style="color:var(--muet)">' + esc(d.section) + ' ' + esc(d.numero) + (d.zone ? ' · zone ' + esc(d.zone) : '') + '</small></td><td>' + esc(d.agent || '–') + '</td><td>' + (v ? '<span class="bo-v ' + v[0] + '">' + v[1] + '</span>' : '–') + '</td><td>' + client + '</td><td>' + envoi + '</td><td>' + act + '</td></tr>';
     }).join('');
     $('bo-empty').hidden = L.length > 0;
     var more = $('bo-more'); more.hidden = L.length <= LIM; more.textContent = 'Afficher plus (' + nb(L.length - LIM) + ' rapports restants)';
@@ -87,8 +96,9 @@
   }
   function exporter() {
     var L = periode(ALL), sep = ';';
-    var rows = [['Date', 'Agent', 'Commune', 'Section', 'Numéro', 'Zone', 'Verdict', 'Projet', 'Référence', 'Lien']].concat(L.map(function (d) {
-      return [new Date(d.created_at).toLocaleString('fr-FR'), d.agent || '', d.commune, d.section, d.numero, d.zone || '', (VER[d.verdict] || ['', ''])[1], d.projet || '', d.order_ref || '', d.download_slug ? location.origin + '/r/' + d.download_slug : ''];
+    var rows = [['Date', 'Agent', 'Client', 'E-mail client', 'Envoyé le', 'Commune', 'Section', 'Numéro', 'Zone', 'Verdict', 'Projet', 'Référence', 'Lien']].concat(L.map(function (d) {
+      var cl = (d.perso && d.perso.client) || {}, ev = (d.envois || []).slice(-1)[0];
+      return [new Date(d.created_at).toLocaleString('fr-FR'), d.agent || '', [cl.prenom, cl.nom].filter(Boolean).join(' '), cl.email || '', ev ? new Date(ev.date).toLocaleString('fr-FR') : '', d.commune, d.section, d.numero, d.zone || '', (VER[d.verdict] || ['', ''])[1], d.projet || '', d.order_ref || '', d.download_slug ? location.origin + '/r/' + d.download_slug : ''];
     }));
     var csv = '﻿' + rows.map(function (r) { return r.map(function (c) { return '"' + String(c == null ? '' : c).replace(/"/g, '""') + '"'; }).join(sep); }).join('\r\n');
     var a = document.createElement('a'); a.href = URL.createObjectURL(new Blob([csv], { type: 'text/csv;charset=utf-8' })); a.download = 'rapports-terrenurbanisme.csv'; document.body.appendChild(a); a.click(); a.remove();
@@ -97,7 +107,7 @@
     var Auth = window.TUAuth; if (!Auth || !Auth.client) { setTimeout(start, 150); return; }
     Auth.user().then(function (u) {
       if (!u) { location.replace(Auth.loginUrl ? Auth.loginUrl('/espace-pro.html') : '/connexion.html'); return; }
-      Auth.client.from('dossiers').select('id,created_at,commune,section,numero,zone,verdict,projet,status,download_slug,order_ref,agent,perso').eq('user_id', u.id).order('created_at', { ascending: false }).limit(2000).then(function (r) {
+      Auth.client.from('dossiers').select('id,created_at,commune,section,numero,zone,verdict,projet,status,download_slug,order_ref,agent,perso,envois').eq('user_id', u.id).order('created_at', { ascending: false }).limit(2000).then(function (r) {
         ALL = (r.data || []).filter(function (d) { return d.status !== 'error'; });
         Promise.all([Auth.account(), Auth.agents ? Auth.agents() : []]).then(function (v) {
           var c = v[0], noms = (v[1] || []).map(function (a) { return a.nom; });
