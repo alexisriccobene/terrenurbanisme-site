@@ -24,6 +24,21 @@
 .ps-f{display:flex;flex-direction:column;gap:5px;font-size:13.5px;color:var(--muet);min-width:0}
 .ps-f input,.ps-f select,.ps-f textarea{font:inherit;font-size:16px;color:var(--ink);padding:11px 12px;border-radius:12px;border:1.5px solid var(--ligne);background:#fff;min-width:0;width:100%;box-sizing:border-box}
 .ps-f textarea{min-height:120px;resize:vertical}
+.ps-f select{-webkit-appearance:none;appearance:none;padding-right:42px;background:#fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1.5l5 5 5-5' fill='none' stroke='%236E625A' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") no-repeat right 16px center;cursor:pointer}
+.ps-pv-g figure[data-n]{cursor:zoom-in}
+.ps-pv-g figure[data-n]::before{content:"+";position:absolute;top:6px;right:6px;z-index:2;width:26px;height:26px;border-radius:50%;background:var(--t);color:#fff;font-size:19px;font-weight:700;line-height:26px;text-align:center;opacity:0;transform:scale(.8);transition:.15s}
+.ps-pv-g figure[data-n]:hover::before,.ps-pv-g figure[data-n]:focus-visible::before{opacity:1;transform:none}
+.ps-pv-g figure[data-n]:hover img{opacity:.8}
+@media (hover:none){.ps-pv-g figure[data-n]::before{opacity:1;transform:none}}
+.ps-lb{position:fixed;inset:0;z-index:100;background:rgba(30,20,16,.86);display:flex;flex-direction:column;align-items:center;justify-content:center;padding:16px max(16px,env(safe-area-inset-right,0px)) 16px max(16px,env(safe-area-inset-left,0px))}
+.ps-lb[hidden]{display:none}
+.ps-lb-top{width:100%;max-width:760px;display:flex;align-items:center;gap:10px;color:#fff;font-weight:700;font-size:14px;margin-bottom:10px}
+.ps-lb-top span{flex:1}.ps-lb-top em{font-style:normal;background:#B23A1F;padding:3px 8px;border-radius:6px;font-size:12px}
+.ps-lb button{font:inherit;border:0;cursor:pointer;border-radius:10px;background:rgba(255,255,255,.14);color:#fff;font-weight:700;padding:9px 13px;font-size:15px}
+.ps-lb button:disabled{opacity:.3;cursor:default}
+.ps-lb-img{flex:1;min-height:0;width:100%;display:flex;align-items:center;justify-content:center}
+.ps-lb-img img{max-width:min(760px,100%);max-height:100%;background:#fff;border-radius:6px;box-shadow:0 20px 50px rgba(0,0,0,.4)}
+
 .ps-ck{display:flex;align-items:flex-start;gap:10px;padding:11px 0;border-bottom:1px solid var(--ligne);font-size:15px;cursor:pointer}
 .ps-ck input{width:20px;height:20px;margin-top:1px;accent-color:var(--t);flex:none}
 .ps-ck small{display:block;color:var(--muet);font-size:12.5px}
@@ -109,6 +124,7 @@
 <p class="legal">© 2026 TerrenUrbanisme. Les informations fournies sont établies à partir de sources publiques ; elles ne constituent ni un certificat d'urbanisme, ni une autorisation d'urbanisme, ni un avis juridique, et ne peuvent pas être jointes à une demande de permis de construire. Sources : cadastre, Géoportail de l'Urbanisme, IGN, Géorisques, Collectivité de Corse.</p>
 </div></footer>
 <script defer src="/assets/config.js?v=v85"></script><script defer src="/assets/consent.js?v=v85"></script><script defer src="/assets/supabase.js?v=v85"></script><script defer src="/assets/auth.js?v=v98"></script><script defer src="/assets/app.js?v=v98"></script>
-<script defer src="/assets/perso.js?v=6"></script>
+<script defer src="/assets/perso.js?v=7"></script>
+<div class="ps-lb" id="ps-lb" hidden role="dialog" aria-modal="true" aria-label="Aperçu de la page retirée"><div class="ps-lb-top"><button type="button" id="ps-lb-prev" aria-label="Page précédente">‹</button><button type="button" id="ps-lb-next" aria-label="Page suivante">›</button><span id="ps-lb-t"></span><em>Retirée du rapport client</em><button type="button" id="ps-lb-x" aria-label="Fermer">Fermer</button></div><div class="ps-lb-img"><img id="ps-lb-i" alt=""></div></div>
 </body>
 </html>

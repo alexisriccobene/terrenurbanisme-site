@@ -79,13 +79,43 @@
       return pg.render({ canvasContext: c.getContext('2d'), viewport: v }).promise.then(function () { PV.cache[n] = c.toDataURL('image/jpeg', 0.8); return PV.cache[n]; });
     });
   }
+  // Grand aperçu d'une page retirée (clic sur la miniature)
+  var LB = { pages: [], i: 0 };
+  function big(n) {
+    return PV.doc.getPage(n).then(function (pg) {
+      var v0 = pg.getViewport({ scale: 1 }), sc = Math.min(2.2, 1500 / v0.width), v = pg.getViewport({ scale: sc });
+      var c = document.createElement('canvas'); c.width = v.width; c.height = v.height;
+      return pg.render({ canvasContext: c.getContext('2d'), viewport: v }).promise.then(function () { return c.toDataURL('image/jpeg', 0.88); });
+    });
+  }
+  function lbShow() {
+    var n = LB.pages[LB.i]; $('ps-lb-t').textContent = 'Page ' + n + ' · ' + (LB.i + 1) + ' sur ' + LB.pages.length;
+    $('ps-lb-prev').disabled = LB.i === 0; $('ps-lb-next').disabled = LB.i === LB.pages.length - 1;
+    $('ps-lb-i').src = PV.cache[n] || ''; $('ps-lb-i').alt = 'Page ' + n;
+    big(n).then(function (src) { if (LB.pages[LB.i] === n) $('ps-lb-i').src = src; });
+  }
+  function lbOpen(pages, n) { LB.pages = pages; LB.i = Math.max(0, pages.indexOf(n)); $('ps-lb').hidden = false; document.body.style.overflow = 'hidden'; lbShow(); $('ps-lb-x').focus(); }
+  function lbClose() { $('ps-lb').hidden = true; document.body.style.overflow = ''; }
+  document.addEventListener('DOMContentLoaded', function () {
+    if (!$('ps-lb')) return;
+    $('ps-lb-x').addEventListener('click', lbClose);
+    $('ps-lb-prev').addEventListener('click', function () { if (LB.i > 0) { LB.i--; lbShow(); } });
+    $('ps-lb-next').addEventListener('click', function () { if (LB.i < LB.pages.length - 1) { LB.i++; lbShow(); } });
+    $('ps-lb').addEventListener('click', function (e) { if (e.target === $('ps-lb') || e.target.className === 'ps-lb-img') lbClose(); });
+    document.addEventListener('keydown', function (e) { if ($('ps-lb').hidden) return; if (e.key === 'Escape') lbClose(); if (e.key === 'ArrowLeft') $('ps-lb-prev').click(); if (e.key === 'ArrowRight') $('ps-lb-next').click(); });
+  });
   function showPV(box, key) {
     box.hidden = false; box.innerHTML = '<p class="ps-pv-t">Chargement de l\'aperçu…</p>';
     loadPV().then(function (map) {
       var pages = map[key] || [];
       if (!pages.length) { box.innerHTML = '<p class="ps-pv-t">Cette rubrique ne figure pas dans le rapport de ce terrain.</p>'; return; }
       var shown = pages.slice(0, 8);
-      box.innerHTML = '<p class="ps-pv-t">' + (pages.length > 1 ? pages.length + ' pages retirées (p. ' + pages[0] + ' à ' + pages[pages.length - 1] + ')' : '1 page retirée (p. ' + pages[0] + ')') + '</p><div class="ps-pv-g">' + shown.map(function (n) { return '<figure data-n="' + n + '"><span>p. ' + n + '</span></figure>'; }).join('') + (pages.length > 8 ? '<figure class="more"><span>+ ' + (pages.length - 8) + '</span></figure>' : '') + '</div>';
+      box.innerHTML = '<p class="ps-pv-t">' + (pages.length > 1 ? pages.length + ' pages retirées (p. ' + pages[0] + ' à ' + pages[pages.length - 1] + ')' : '1 page retirée (p. ' + pages[0] + ')') + '</p><div class="ps-pv-g">' + shown.map(function (n) { return '<figure data-n="' + n + '" tabindex="0" role="button" aria-label="Agrandir la page ' + n + '"><span>p. ' + n + '</span></figure>'; }).join('') + (pages.length > 8 ? '<figure class="more"><span>+ ' + (pages.length - 8) + '</span></figure>' : '') + '</div>';
+      box.querySelectorAll('figure[data-n]').forEach(function (f) {
+        var go = function () { lbOpen(pages, Number(f.getAttribute('data-n'))); };
+        f.addEventListener('click', function (e) { e.preventDefault(); e.stopPropagation(); go(); });
+        f.addEventListener('keydown', function (e) { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); go(); } });
+      });
       shown.reduce(function (pr, n) { return pr.then(function () { return thumb(n).then(function (src) { var f = box.querySelector('figure[data-n="' + n + '"]'); if (f) f.insertAdjacentHTML('afterbegin', '<img alt="Page ' + n + '" src="' + src + '">'); }); }); }, Promise.resolve());
     }).catch(function () { box.innerHTML = '<p class="ps-pv-t">L\'aperçu n\'est pas disponible pour ce rapport.</p>'; });
   }
