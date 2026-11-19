@@ -1,1 +1,1 @@
-{"fonction":"stripe-webhook","script":"lire.py","demande":"lire-interloc"}
+{"fonction":"stripe-webhook","script":"lire.py","demande":"lire-mqc"}
