@@ -30,6 +30,15 @@
 .ps-ck .ps-off{display:block;font-style:normal;font-size:12.5px;font-weight:600;color:#B23A1F;margin-top:3px}.ps-ck .ps-off:empty{display:none}
 .ps-ck.is-off>span{color:var(--muet)}.ps-ck.is-off>span>small{text-decoration:line-through}
 .ps-ck input:disabled+span{opacity:.75}
+.ps-pv{margin:0 0 6px 30px;padding:10px 12px;border-radius:12px;background:#FBF3EF;border:1px dashed #E3C3B5}
+.ps-pv-t{margin:0 0 8px;font-size:12.5px;font-weight:700;color:#B23A1F}
+.ps-pv-g{display:flex;gap:8px;overflow-x:auto;padding-bottom:4px;-webkit-overflow-scrolling:touch}
+.ps-pv-g figure{position:relative;flex:none;width:96px;aspect-ratio:210/297;margin:0;border-radius:6px;background:#fff;border:1px solid var(--ligne);overflow:hidden;max-width:100%}
+.ps-pv-g figure img{width:100%;height:100%;object-fit:cover;display:block;opacity:.55;filter:grayscale(.3)}
+.ps-pv-g figure::after{content:"";position:absolute;inset:0;background:linear-gradient(to top right,transparent calc(50% - 1px),rgba(178,58,31,.75) 50%,transparent calc(50% + 1px)),linear-gradient(to top left,transparent calc(50% - 1px),rgba(178,58,31,.75) 50%,transparent calc(50% + 1px))}
+.ps-pv-g figure span{position:absolute;left:4px;bottom:4px;z-index:1;background:rgba(42,29,23,.8);color:#fff;font-size:10.5px;font-weight:700;padding:2px 5px;border-radius:4px}
+.ps-pv-g figure.more{display:flex;align-items:center;justify-content:center}.ps-pv-g figure.more::after{display:none}.ps-pv-g figure.more span{position:static;background:none;color:var(--muet);font-size:14px}
+@media (max-width:560px){.ps-pv{margin-left:0}}
 .ps-sum{margin:12px 0 0;padding:10px 12px;border-radius:10px;background:#F6E5DD;color:var(--t);font-size:13.5px;font-weight:600;line-height:1.45}
 .ps-ph{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px;margin-top:12px}
 .ps-ph div{position:relative;aspect-ratio:4/3;border-radius:10px;overflow:hidden;background:var(--soft)}
@@ -82,9 +91,9 @@
 <label class="ps-f">E-mail du client<input id="ps-to" type="email" autocomplete="off"></label>
 <label class="ps-f" style="margin-top:10px">Objet<input id="ps-obj" autocomplete="off"></label>
 <label class="ps-f" style="margin-top:10px">Message<textarea id="ps-body" style="min-height:220px"></textarea></label>
-<label class="ps-f" style="margin-top:10px">Votre signature<textarea id="ps-sig" style="min-height:96px" placeholder="Prénom Nom&#10;Agence&#10;Téléphone"></textarea></label>
+
 <div class="ps-act"><a class="btn" id="ps-mail" href="#">Envoyer par e-mail</a><button type="button" class="btn ghost" id="ps-copy">Copier le message</button></div>
-<p class="ps-msg" id="ps-smsg" style="color:var(--muet)">Votre client ouvre le rapport par un lien court à l'adresse terrenurbanisme.com. Vous pouvez aussi joindre le PDF téléchargé.</p></div>
+<p class="ps-msg" id="ps-smsg" style="color:var(--muet)">Le message s'ouvre dans votre messagerie, avec votre signature habituelle. Votre client ouvre le rapport par un lien court à l'adresse terrenurbanisme.com.</p></div>
 </div>
 </div>
 </div></section>
@@ -100,6 +109,6 @@
 <p class="legal">© 2026 TerrenUrbanisme. Les informations fournies sont établies à partir de sources publiques ; elles ne constituent ni un certificat d'urbanisme, ni une autorisation d'urbanisme, ni un avis juridique, et ne peuvent pas être jointes à une demande de permis de construire. Sources : cadastre, Géoportail de l'Urbanisme, IGN, Géorisques, Collectivité de Corse.</p>
 </div></footer>
 <script defer src="/assets/config.js?v=v85"></script><script defer src="/assets/consent.js?v=v85"></script><script defer src="/assets/supabase.js?v=v85"></script><script defer src="/assets/auth.js?v=v98"></script><script defer src="/assets/app.js?v=v98"></script>
-<script defer src="/assets/perso.js?v=5"></script>
+<script defer src="/assets/perso.js?v=6"></script>
 </body>
 </html>

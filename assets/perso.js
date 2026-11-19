@@ -37,6 +37,58 @@
     'État des risques (ERP) pré-rempli': 'le formulaire d\'état des risques à joindre à la vente',
     'Professionnels recommandés': 'la liste des professionnels partenaires'
   };
+  // Aperçu des pages retirées : les pages de chaque rubrique sont repérées dans le PDF du rapport
+  var PV = { doc: null, map: null, p: null, cache: {} };
+  function nrm(t) { return String(t || '').toLowerCase().replace(/[\u2019']/g, '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]/g, ''); }
+  function loadPV() {
+    if (PV.p) return PV.p;
+    if (!MAIL.slug) return Promise.reject(new Error('slug'));
+    PV.p = import('/assets/pdfjs/pdf.min.mjs').then(function (lib) {
+      lib.GlobalWorkerOptions.workerSrc = '/assets/pdfjs/pdf.worker.min.mjs';
+      return lib.getDocument({ url: '/rapport/' + encodeURIComponent(MAIL.slug) + '.pdf', isEvalSupported: false }).promise;
+    }).then(function (doc) {
+      PV.doc = doc;
+      var titles = Object.keys(LIB).sort(function (a, b) { return b.length - a.length; }).map(function (t) { return [t, nrm(t)]; });
+      var STOP = [[null, 'sommaire'], [null, 'synthese'], [null, 'recommandationdelagence'], [null, 'avertissementetsources'], [null, 'annexe']];
+      var map = { especes: [] }, cur = null, n = 0;
+      function next() {
+        if (++n > doc.numPages) { PV.map = map; return map; }
+        return doc.getPage(n).then(function (pg) {
+          return pg.getTextContent().then(function (tc) {
+            var h = pg.view[3], top = '', all = '';
+            tc.items.forEach(function (it) { var y = it.transform ? it.transform[5] : 0; all += it.str; if (y > h - 190) top += it.str; });
+            var nt = nrm(top);
+            // Le titre de rubrique placé le plus haut sur la page (bandeau de la rubrique en cours) l'emporte
+            var bi = 1e9, bt;
+            titles.concat(STOP).forEach(function (x) { var i = nt.indexOf(x[1]); if (i >= 0 && i < bi) { bi = i; bt = x[0]; } });
+            if (bt !== undefined) cur = bt;
+            if (cur) { (map[cur] = map[cur] || []).push(n); if (cur === 'Environnement et marché immobilier' && /especesprotegees/.test(nrm(all))) map.especes.push(n); }
+            return next();
+          });
+        });
+      }
+      return next();
+    });
+    return PV.p;
+  }
+  function thumb(n) {
+    if (PV.cache[n]) return Promise.resolve(PV.cache[n]);
+    return PV.doc.getPage(n).then(function (pg) {
+      var v0 = pg.getViewport({ scale: 1 }), sc = 220 / v0.width, v = pg.getViewport({ scale: sc });
+      var c = document.createElement('canvas'); c.width = v.width; c.height = v.height;
+      return pg.render({ canvasContext: c.getContext('2d'), viewport: v }).promise.then(function () { PV.cache[n] = c.toDataURL('image/jpeg', 0.8); return PV.cache[n]; });
+    });
+  }
+  function showPV(box, key) {
+    box.hidden = false; box.innerHTML = '<p class="ps-pv-t">Chargement de l\'aperçu…</p>';
+    loadPV().then(function (map) {
+      var pages = map[key] || [];
+      if (!pages.length) { box.innerHTML = '<p class="ps-pv-t">Cette rubrique ne figure pas dans le rapport de ce terrain.</p>'; return; }
+      var shown = pages.slice(0, 8);
+      box.innerHTML = '<p class="ps-pv-t">' + (pages.length > 1 ? pages.length + ' pages retirées (p. ' + pages[0] + ' à ' + pages[pages.length - 1] + ')' : '1 page retirée (p. ' + pages[0] + ')') + '</p><div class="ps-pv-g">' + shown.map(function (n) { return '<figure data-n="' + n + '"><span>p. ' + n + '</span></figure>'; }).join('') + (pages.length > 8 ? '<figure class="more"><span>+ ' + (pages.length - 8) + '</span></figure>' : '') + '</div>';
+      shown.reduce(function (pr, n) { return pr.then(function () { return thumb(n).then(function (src) { var f = box.querySelector('figure[data-n="' + n + '"]'); if (f) f.insertAdjacentHTML('afterbegin', '<img alt="Page ' + n + '" src="' + src + '">'); }); }); }, Promise.resolve());
+    }).catch(function () { box.innerHTML = '<p class="ps-pv-t">L\'aperçu n\'est pas disponible pour ce rapport.</p>'; });
+  }
   function drawCk() {
     var env = document.querySelector('[data-ch="Environnement et marché immobilier"]'), esp = document.querySelector('[data-sans="especes"]');
     if (esp) { esp.disabled = !!(env && !env.checked); if (esp.disabled) esp.checked = false; }
@@ -46,6 +98,12 @@
       l.classList.toggle('is-off', !c.checked);
       if (!c.checked) off.push(t);
       o.textContent = c.checked ? '' : (c.disabled ? 'Retiré avec la rubrique Environnement et marché immobilier.' : 'Retiré du rapport : ' + (c.getAttribute('data-sans') ? 'la liste des espèces protégées et le coût des études écologiques' : DEL[t] || 'cette rubrique') + '.');
+    });
+    document.querySelectorAll('#ps-ch .ps-pv').forEach(function (box) {
+      var key = box.getAttribute('data-pv'), c = box.previousElementSibling && box.previousElementSibling.querySelector('input');
+      if (!c || c.checked || c.disabled || !MAIL.slug) { box.hidden = true; box.innerHTML = ''; box.dataset.on = ''; return; }
+      if (box.dataset.on) return;
+      box.dataset.on = '1'; showPV(box, key);
     });
     var r = $('ps-off-sum'); if (r) r.textContent = off.length ? off.length + ' rubrique' + (off.length > 1 ? 's retirées' : ' retirée') + ' de la version client : ' + off.join(', ') + '.' : 'Toutes les rubriques sont incluses dans la version client.';
   }
@@ -84,7 +142,7 @@
     var sal = c.civ === 'Mme' ? 'Madame' : c.civ === 'M.' ? 'Monsieur' : c.civ === 'M. et Mme' ? 'Madame, Monsieur' : '';
     var who = sal ? sal + (c.civ === 'M. et Mme' ? '' : ' ' + (c.nom || c.prenom)) : (c.prenom || c.nom || '');
     if (!$('ps-body').dataset.edit) $('ps-body').value = 'Bonjour' + (who ? ' ' + who : '') + ',\n\nVeuillez trouver ci-dessous le rapport d\'urbanisme détaillé de votre bien, accompagné de notre avis de valeur :\n\n' + (MAIL.url || '[le lien apparaîtra ici après la génération]') + '\n\nNous restons à votre entière disposition pour en échanger.\n\nBien cordialement,';
-    var to = $('ps-to').value.trim(), body = $('ps-body').value + '\n\n' + $('ps-sig').value.trim();
+    var to = $('ps-to').value.trim(), body = $('ps-body').value;
     $('ps-mail').href = 'mailto:' + encodeURIComponent(to).replace(/%40/g, '@') + '?subject=' + encodeURIComponent($('ps-obj').value) + '&body=' + encodeURIComponent(body);
   }
   function showSend(url) {
@@ -97,25 +155,19 @@
       $('ps-load').hidden = true; $('ps-app').hidden = false;
       if (r.view) { $('ps-frame').src = r.view; $('ps-open').href = r.view; }
       var P = r.perso || {}, f = $('ps-form');
-      A.client.from('dossiers').select('commune,section,numero,agent,download_slug').eq('id', id).maybeSingle().then(function (q) { var d = q.data || {}; if (d.download_slug && !r.client) $('ps-open').href = '/r/' + d.download_slug; MAIL.ref = [d.commune, d.section, d.numero].filter(Boolean).join(' '); MAIL.agent = d.agent || ''; initSig(); drawMail(); });
-      function initSig() {
-        var sv = ''; try { sv = localStorage.getItem('tu_sig_' + (MAIL.agent || 'agence')) || ''; } catch (e) {}
-        if (sv) { $('ps-sig').value = sv; return; }
-        A.account().then(function (c) { $('ps-sig').value = [MAIL.agent, c && c.nom, c && c.telephone, c && c.email].filter(Boolean).join('\n'); drawMail(); });
-      }
+      A.client.from('dossiers').select('commune,section,numero,agent,download_slug').eq('id', id).maybeSingle().then(function (q) { var d = q.data || {}; MAIL.slug = d.download_slug || ''; drawCk(); if (d.download_slug && !r.client) $('ps-open').href = '/r/' + d.download_slug; MAIL.ref = [d.commune, d.section, d.numero].filter(Boolean).join(' '); MAIL.agent = d.agent || ''; drawMail(); });
       ['ps-to', 'ps-obj', 'ps-body'].forEach(function (k) { $(k).addEventListener('input', function () { $(k).dataset.edit = '1'; drawMail(); }); });
-      $('ps-sig').addEventListener('input', function () { try { localStorage.setItem('tu_sig_' + (MAIL.agent || 'agence'), $('ps-sig').value); } catch (e) {} drawMail(); });
       ['civ', 'prenom', 'nom', 'email'].forEach(function (k) { f[k].addEventListener('input', drawMail); f[k].addEventListener('change', drawMail); });
       $('ps-mail').addEventListener('click', function () { var to = $('ps-to').value.trim(); A.client.rpc('dossier_envoi', { p_id: id, p_email: to }).then(function () { $('ps-smsg').textContent = 'Envoi enregistré le ' + new Date().toLocaleDateString('fr-FR') + (to ? ' pour ' + to : '') + '. Il apparaît dans votre back-office.'; }); });
-      $('ps-copy').addEventListener('click', function () { var t = $('ps-body').value + '\n\n' + $('ps-sig').value.trim(); var ok = function () { $('ps-copy').textContent = 'Message copié'; }; if (navigator.clipboard) navigator.clipboard.writeText(t).then(ok, function () { $('ps-body').select(); }); else $('ps-body').select(); });
+      $('ps-copy').addEventListener('click', function () { var t = $('ps-body').value; var ok = function () { $('ps-copy').textContent = 'Message copié'; }; if (navigator.clipboard) navigator.clipboard.writeText(t).then(ok, function () { $('ps-body').select(); }); else $('ps-body').select(); });
       if (new URLSearchParams(location.search).get('neuf')) msg('Votre rapport est prêt. Choisissez les rubriques, ajoutez votre prix et vos photos, puis générez la version de votre client.', 'ok');
       var cl = P.client || {}, rc = P.reco || {};
       ['civ', 'prenom', 'nom', 'email', 'tel'].forEach(function (k) { if (cl[k]) f[k].value = cl[k]; });
       ['type', 'designation', 'bas', 'haut', 'conseille', 'commentaire'].forEach(function (k) { if (rc[k]) f[k].value = rc[k]; });
       var exc = P.exclure || [], sans = P.sans || [];
       var html = (r.chapitres || Object.keys(LIB)).map(function (t) {
-        var sub = t === 'Environnement et marché immobilier' ? '<label class="ps-ck"><input type="checkbox" data-sans="especes"' + (sans.indexOf('especes') >= 0 ? '' : ' checked') + '><span>Espèces protégées observées autour<small>Liste des espèces et coût des études écologiques</small><em class="ps-off"></em></span></label>' : '';
-        return '<label class="ps-ck"><input type="checkbox" data-ch="' + t.replace(/"/g, '&quot;') + '"' + (exc.indexOf(t) >= 0 ? '' : ' checked') + '><span>' + t + '<small>' + (LIB[t] || '') + '</small><em class="ps-off"></em></span></label>' + sub;
+        var sub = t === 'Environnement et marché immobilier' ? '<label class="ps-ck"><input type="checkbox" data-sans="especes"' + (sans.indexOf('especes') >= 0 ? '' : ' checked') + '><span>Espèces protégées observées autour<small>Liste des espèces et coût des études écologiques</small><em class="ps-off"></em></span></label><div class="ps-pv" data-pv="especes"></div>' : '';
+        return '<label class="ps-ck"><input type="checkbox" data-ch="' + t.replace(/"/g, '&quot;') + '"' + (exc.indexOf(t) >= 0 ? '' : ' checked') + '><span>' + t + '<small>' + (LIB[t] || '') + '</small><em class="ps-off"></em></span></label><div class="ps-pv" data-pv="' + t.replace(/"/g, '&quot;') + '"></div>' + sub;
       }).join('');
       $('ps-ch').innerHTML = html + '<p style="color:var(--muet);font-size:13px;margin:10px 0 0">La synthèse, l\'avertissement et les sources restent toujours présents. Une rubrique absente de ce terrain n\'apparaît pas.</p><p class="ps-sum" id="ps-off-sum"></p>';
       $('ps-ch').addEventListener('change', drawCk); drawCk();
