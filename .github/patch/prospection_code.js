@@ -18,7 +18,7 @@ const PROSPECT_TPL = (() => {
         `<p style="font-size:15px;font-weight:700;margin:0 0 10px">Et pour votre agence, c'est votre document :</p>` +
         li(['Votre logo et votre conseiller, avec sa photo, sur la couverture', 'Votre avis de valeur : fiche du bien, prix recommandé, honoraires et prix net vendeur, à côté de notre analyse des ventes', 'Vous choisissez les rubriques montrées au client, puis vous l\'envoyez en un clic, avec une alerte dès qu\'il l\'ouvre', 'Un tableau de bord pour suivre l\'activité de chaque collaborateur']) +
         box('<strong>1 à 2 heures de recherches site par site, remplacées par 3 minutes.</strong> Combien vaut une heure de votre temps ? Avec un pack de 50 crédits, le rapport revient à 5 € : bien moins qu\'une vente qui échoue.') +
-        `<p style="margin:0 0 8px">${btn(utm('https://terrenurbanisme.com/video-agences.html', 'agences'), 'Voir la vidéo (2 min)')}${btn('https://nmoigruxnhsidrhqtzid.supabase.co/storage/v1/object/public/exemples/rapport-exemple-agence.pdf', 'Voir un exemple de rapport', true)}</p>` +
+        `<p style="margin:0 0 8px">${btn(utm('https://terrenurbanisme.com/video-agences.html', 'agences'), 'Voir la vidéo (2 min)')}${btn('https://terrenurbanisme.com/exemple-rapport-agence.pdf', 'Voir un exemple de rapport', true)}</p>` +
         P('Prêt à l\'essayer sur l\'un de vos mandats ? <a href="' + utm('https://terrenurbanisme.com/tarifs.html', 'agences') + '" style="color:#A3462C;font-weight:700">Créez votre espace agence</a> en deux minutes, ou répondez simplement à ce message.'),
     }),
     mandataire: c => ({
@@ -31,7 +31,7 @@ const PROSPECT_TPL = (() => {
         P('<strong>TerrenUrbanisme</strong> établit en quelques minutes le rapport d\'urbanisme complet de la parcelle : zone et règlement du PLU, risques, servitudes, loi Littoral et loi Montagne, réseaux, ventes réelles du secteur.') +
         li(['Votre nom, votre photo et vos coordonnées sur la couverture', 'Votre avis de valeur, vos honoraires et le prix net vendeur, à côté de notre analyse du marché', 'L\'envoi au client en un clic, avec une alerte dès qu\'il ouvre le rapport', 'Un document de plus de 40 pages qui vous place au niveau des grandes enseignes']) +
         box('<strong>3 minutes au lieu d\'une demi-journée de recherches.</strong> Avec un pack de 50 crédits, le rapport revient à 5 € : le prix d\'un café pour un mandat sécurisé et un vendeur rassuré.') +
-        `<p style="margin:0 0 8px">${btn(utm('https://terrenurbanisme.com/video-agences.html', 'mandataires'), 'Voir la vidéo (2 min)')}${btn('https://nmoigruxnhsidrhqtzid.supabase.co/storage/v1/object/public/exemples/rapport-exemple-agence.pdf', 'Voir un exemple de rapport', true)}</p>` +
+        `<p style="margin:0 0 8px">${btn(utm('https://terrenurbanisme.com/video-agences.html', 'mandataires'), 'Voir la vidéo (2 min)')}${btn('https://terrenurbanisme.com/exemple-rapport-agence.pdf', 'Voir un exemple de rapport', true)}</p>` +
         P('<a href="' + utm('https://terrenurbanisme.com/tarifs.html', 'mandataires') + '" style="color:#A3462C;font-weight:700">Créez votre espace</a> en deux minutes, ou répondez à ce message pour toute question.'),
     }),
     mairie: c => ({
@@ -109,7 +109,7 @@ const PROSPECT_TPL = (() => {
         P('<strong>TerrenUrbanisme</strong> réunit en quelques minutes tout l\'urbanisme de la parcelle : zone et règlement du PLU lus dans le texte, prescriptions, servitudes d\'utilité publique, risques naturels et technologiques, loi Littoral et loi Montagne, monuments historiques, ainsi que les ventes réelles du secteur (DVF).') +
         li(['Des sources officielles citées, que vous pouvez joindre en annexe de vos expertises', 'Les extraits du règlement de la zone, pour justifier vos hypothèses', 'Les ventes comparables autour de la parcelle', 'Votre logo sur les rapports avec les crédits professionnels']) +
         box('<strong>Une à deux heures de recherches remplacées par 3 minutes</strong>, pour un rapport qui revient à 5 € avec un pack de 50 crédits.') +
-        `<p style="margin:0 0 8px">${btn('https://nmoigruxnhsidrhqtzid.supabase.co/storage/v1/object/public/exemples/rapport-exemple-agence.pdf', 'Voir un exemple de rapport')}${btn(utm('https://terrenurbanisme.com/tarifs.html', 'experts'), 'Voir les crédits professionnels', true)}</p>` +
+        `<p style="margin:0 0 8px">${btn('https://terrenurbanisme.com/exemple-rapport-agence.pdf', 'Voir un exemple de rapport')}${btn(utm('https://terrenurbanisme.com/tarifs.html', 'experts'), 'Voir les crédits professionnels', true)}</p>` +
         P('Une question, ou une démonstration sur l\'un de vos dossiers ? Répondez simplement à ce message.'),
     }),
   };
