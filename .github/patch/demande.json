@@ -1,1 +1,1 @@
-{"fonction":"stripe-webhook","script":"lire.py","demande":"lire-mqcontacts"}
+{"fonction":"stripe-webhook","script":"interlocuteur_photo.py","demande":"interlocuteur-photo"}
