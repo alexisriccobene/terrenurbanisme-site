@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "lire.py", "demande": "lecture rendu synthese"}
+{"fonction": "stripe-webhook", "script": "points_attention.py", "demande": "points attention logement argiles techno"}
