@@ -488,7 +488,7 @@
       projet(v); if (v) parcelRef.projet = v; else delete parcelRef.projet;
       if (window.TUAuth && window.TUAuth.track && v) window.TUAuth.track('projet', { insee: parcelRef.insee, projet: v });
     }); });
-    if (window.TU_VILLE){ villeOffre(resultEl, parcelRef); return; }
+    if (window.TU_VILLE){ villeOffre(resultEl, parcelRef); drawBig(parcel); return; }
     var buys = resultEl.querySelectorAll('.buy'), errs = resultEl.querySelectorAll('.v-buy-err'), A = window.TUAuth, credits = 0, label = BTN;
     function setAll(t, dis){ buys.forEach(function(x){ x.disabled = !!dis; x.textContent = t; }); }
     var offerEl = resultEl.querySelector('.v-offer');
@@ -555,12 +555,15 @@
     if (window.TUAuth && window.TUAuth.track) window.TUAuth.track('diagnostic', parcelRef);
     if (window.TUAuth) window.TUAuth.saveDiagnostic({ insee:inseeOf(p), commune:parcelRef.commune, section:sec, numero:num, verdict:null, zone:null });
     var tip = $('rs-tip'); if (tip) tip.hidden = true;
-    if (big){
-      if (blayer) big.removeLayer(blayer);
-      if (bmarker){ big.removeLayer(bmarker); bmarker = null; }
-      blayer = L.geoJSON(parcel, { style:{ color:'#FFD27A', weight:3.5, fillColor:'#FFD27A', fillOpacity:.22 } }).addTo(big);
-      big.fitBounds(blayer.getBounds(), { padding:[60,60], maxZoom:19 });
-    }
+    drawBig(parcel);
+  }
+  function drawBig(parcel){
+    if (!big) return;
+    if (blayer) big.removeLayer(blayer);
+    if (bmarker){ big.removeLayer(bmarker); bmarker = null; }
+    blayer = L.geoJSON(parcel, { style:{ color:'#FFD27A', weight:3.5, fillColor:'#FFD27A', fillOpacity:.22 } }).addTo(big);
+    big.invalidateSize();
+    big.fitBounds(blayer.getBounds(), { padding:[60,60], maxZoom:19 });
   }
   window.TU = { show:show };
 
