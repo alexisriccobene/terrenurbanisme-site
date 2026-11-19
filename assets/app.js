@@ -477,7 +477,7 @@
       '<ul class="v-found-list">' + found.map(function(f){ return '<li>' + (f[0] === 'warn' ? WARNI : OKI) + '<div><strong>' + esc(f[1]) + '</strong><span>' + esc(f[2]) + '</span></div></li>'; }).join('') + '</ul>' +
       '<ul class="v-locked">' + locked.map(function(t){ return '<li>' + LOCK + '<span>' + esc(t) + '</span><i class="blur" aria-hidden="true">████████</i></li>'; }).join('') + '</ul>' +
       '<button type="button" class="v-cta buy">' + BTN + '</button>' +
-      '<p class="v-buy-note">Rapport PDF envoyé par e-mail en quelques minutes : synthétique en 2 pages, ou complet d\'environ 45 pages avec sommaire cliquable · paiement sécurisé par Stripe<br><a href="/tarifs.html">Professionnels : 5 € le rapport dès 50 crédits, sans abonnement</a> · <a href="/exemple.html">Voir un exemple</a></p><p class="v-buy-err" role="alert"></p>' +
+      '<p class="v-buy-note">Rapport PDF envoyé par e-mail en quelques minutes : synthétique en 2 pages, ou complet d\'environ 45 pages avec sommaire cliquable · paiement sécurisé par Stripe<br><a href="/tarifs.html">Professionnels : dès 39 € par mois pour 10 rapports</a> · <a href="/exemple.html">Voir un exemple</a></p><p class="v-buy-err" role="alert"></p>' +
       '<p class="v-disc">Information indicative, établie à partir des sources publiques consultées à la date de la recherche. Elle ne vaut ni certificat d\'urbanisme, ni autorisation, ni avis juridique : seule la mairie peut confirmer la constructibilité de la parcelle.</p>' +
       '<a class="v-owner" href="https://france-cadastre.fr/" target="_blank" rel="noopener">Connaître le propriétaire de cette parcelle <span>via France Cadastre ↗</span></a>';
     var parcelRef = { insee:inseeOf(p), commune:(inseeOf(p) !== p.code_insee ? arrLabel(p) : p.nom_com), section:sec, numero:num };
@@ -634,11 +634,25 @@
 (function(){
   var root = document.getElementById('plans'); if (!root) return;
   var UNIT = { unit: ['19,90 €', 'Paiement unique', 'Choisir · 1 rapport'], pack2: ['14,90 € <small>/ rapport</small>', 'Lot de 2 · 29,80 € au total · −25 %', 'Choisir · 2 rapports'], pack3: ['12,90 € <small>/ rapport</small>', 'Lot de 3 · 38,70 € au total', 'Choisir · 3 rapports'] };
-  // Crédits professionnels : sans abonnement, 5 € le rapport au plus, dégressif
+  // Crédits professionnels : 5 € le rapport au plus, dégressif
   var PRO = { pro10: [10, 60], pro50: [50, 250], pro100: [100, 450], pro250: [250, 1000], pro500: [500, 1750] };
+  // Abonnements : même nombre de rapports chaque mois ; annuel = 10 mois payés pour 12
+  var AB = { pro10: 39, pro50: 175, pro100: 299, pro250: 690, pro500: 1190 };
+  var mode = 'credits', renders = [];
+  var LI = {
+    credits: ['<strong>Votre logo et vos coordonnées sur chaque rapport</strong>', 'Crédits sans limite de durée, aucun engagement', 'Back-office de l\'agence : collaborateurs, rapports par agent, suivi mois par mois', 'Rechargez quand vos crédits sont épuisés', 'Facture automatique au nom de votre société'],
+    mois: ['<strong>Votre logo et vos coordonnées sur chaque rapport</strong>', 'Rapports renouvelés chaque mois, au meilleur prix', 'Rapports non utilisés reportés sur le mois suivant', 'Sans engagement, résiliable en un clic depuis votre espace', 'Back-office de l\'agence et facture à chaque échéance'],
+    an: ['<strong>Votre logo et vos coordonnées sur chaque rapport</strong>', 'Tous les rapports de l\'année disponibles dès le paiement', '10 mois payés pour 12, le prix le plus bas', 'Rappel par e-mail avant le renouvellement', 'Back-office de l\'agence et facture immédiate']
+  };
   var eur = function(v){ return (Math.round(v * 100) / 100).toLocaleString('fr-FR', { minimumFractionDigits: v % 1 ? 2 : 0, maximumFractionDigits: 2 }) + ' €'; };
+  var bill = document.querySelector('.billing');
+  if (bill) bill.querySelectorAll('button').forEach(function(b){ b.addEventListener('click', function(){
+    mode = b.getAttribute('data-m');
+    bill.querySelectorAll('button').forEach(function(x){ x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });
+    renders.forEach(function(f){ f(); });
+  }); });
   root.querySelectorAll('.plan').forEach(function(card){
-    var group = card.getAttribute('data-group'), amt = card.querySelector('.amt'), unit = card.querySelector('.unit'), btn = card.querySelector('.go'), err = card.querySelector('.plan-err');
+    var group = card.getAttribute('data-group'), amt = card.querySelector('.amt'), unit = card.querySelector('.unit'), btn = card.querySelector('.go'), err = card.querySelector('.plan-err'), ul = card.querySelector('.pro-li'), big = !!card.getAttribute('data-def');
     if (!btn) return;
     var segs = card.querySelectorAll('.seg button');
     var cur = card.getAttribute('data-def') || (group === 'unit' ? 'pack3' : 'pro10');
@@ -646,19 +660,37 @@
       segs.forEach(function(b){ b.setAttribute('aria-pressed', b.getAttribute('data-k') === cur ? 'true' : 'false'); });
       if (group === 'unit') { var o = UNIT[cur]; amt.innerHTML = o[0]; unit.textContent = o[1]; btn.textContent = o[2] + ' →'; btn.setAttribute('data-kind', cur); return; }
       var P = PRO[cur]; if (!P) return;
-      amt.innerHTML = eur(P[1] / P[0]) + ' <small>/ rapport</small>';
-      unit.textContent = P[0] + ' rapports · ' + eur(P[1]) + ' au total';
-      btn.textContent = 'Acheter ' + P[0] + ' rapports →'; btn.setAttribute('data-kind', cur);
+      var h3 = card.querySelector('h3');
+      if (ul) ul.innerHTML = (big ? ['Tous les avantages des formules professionnelles', 'Rapports partagés entre les collaborateurs de votre structure'].concat(LI[mode].slice(1, 4)) : LI[mode]).map(function(t){ return '<li>' + t + '</li>'; }).join('');
+      if (mode === 'credits') {
+        if (h3 && !big) h3.textContent = 'Crédits professionnels';
+        amt.innerHTML = eur(P[1] / P[0]) + ' <small>/ rapport</small>';
+        unit.textContent = P[0] + ' rapports · ' + eur(P[1]) + ' au total';
+        btn.textContent = 'Acheter ' + P[0] + ' rapports →'; btn.setAttribute('data-kind', cur);
+        return;
+      }
+      var m = AB[cur], k = cur.replace('pro', 'ab');
+      if (h3 && !big) h3.textContent = 'Abonnement professionnel';
+      if (mode === 'mois') {
+        amt.innerHTML = eur(m) + ' <small>/ mois</small>';
+        unit.textContent = P[0] + ' rapports par mois · ' + eur(m / P[0]) + ' le rapport · −' + Math.round((1 - m / P[1]) * 100) + '\u00a0% sur les\u00a0crédits';
+        btn.textContent = 'S\'abonner · ' + P[0] + ' rapports par mois →'; btn.setAttribute('data-kind', k);
+      } else {
+        amt.innerHTML = eur(m * 10) + ' <small>/ an</small>';
+        unit.textContent = (P[0] * 12).toLocaleString('fr-FR') + ' rapports pour l\'année · ' + eur(m * 10 / (P[0] * 12)) + ' le rapport';
+        btn.textContent = 'S\'abonner pour un an →'; btn.setAttribute('data-kind', k + '_an');
+      }
     }
+    renders.push(render);
     segs.forEach(function(b){ b.addEventListener('click', function(){ cur = b.getAttribute('data-k'); render(); }); });
     btn.addEventListener('click', function(){
       var A = window.TUAuth, kind = btn.getAttribute('data-kind'), label = btn.textContent;
       err.textContent = '';
       if (!A || !A.ready){ err.textContent = 'Le paiement n\'est pas encore activé.'; return; }
       btn.disabled = true; btn.textContent = 'Redirection vers le paiement…';
-      A.checkout(kind).catch(function(){
+      A.checkout(kind).catch(function(e){
         btn.disabled = false; btn.textContent = label;
-        err.textContent = 'Le paiement n\'a pas pu démarrer. Réessayez dans un instant.';
+        err.textContent = e && e.code === 'deja_abonne' ? 'Vous avez déjà un abonnement actif. Modifiez-le depuis votre espace, rubrique « Gérer mon abonnement ».' : 'Le paiement n\'a pas pu démarrer. Réessayez dans un instant.';
       });
     });
     render();

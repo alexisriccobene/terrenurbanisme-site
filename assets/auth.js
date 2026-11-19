@@ -312,7 +312,7 @@
     Auth.user().then(function(u){
       // Mesure de la vente (Google Ads, Meta), envoyée une seule fois et seulement avec le consentement du visiteur
       if (sid && /^cs_/.test(sid) && window.TU_conversion){
-        var PRIX = { synth:9.9, upgrade:10, unit:19.9, pack2:29.8, pack3:38.7, pro10:60, pro50:250, pro100:450, pro250:1000, pro500:1750, essentiel:29, pro:55, cabinet:139, essentiel_an:290, pro_an:550, cabinet_an:1390 };
+        var PRIX = { synth:9.9, upgrade:10, unit:19.9, pack2:29.8, pack3:38.7, pro10:60, pro50:250, pro100:450, pro250:1000, pro500:1750, ab10:39, ab50:175, ab100:299, ab250:690, ab500:1190, ab10_an:390, ab50_an:1750, ab100_an:2990, ab250_an:6900, ab500_an:11900, essentiel:29, pro:55, cabinet:139, essentiel_an:290, pro_an:550, cabinet_an:1390 };
         var once = true; try { once = !localStorage.getItem('tu_conv_' + sid); localStorage.setItem('tu_conv_' + sid, '1'); } catch (e) {}
         if (once) window.TU_conversion(PRIX[achat || qs.get('k') || 'unit'] || 19.9, sid);
       }
@@ -329,7 +329,7 @@
       if (qs.get('k') === 'upgrade'){ setTimeout(function(){ location.replace('/espace.html'); }, 1500); var hu = document.querySelector('#merci h1'); if (hu) hu.textContent = 'Votre rapport complet est en préparation'; return; }
       if (achat){
         var h1 = document.querySelector('#merci h1'), lede = document.querySelector('#merci .lede');
-        var abo = ['essentiel','pro','cabinet','essentiel_an','pro_an','cabinet_an'].indexOf(achat) >= 0;
+        var abo = /^ab\d+(_an)?$/.test(achat) || ['essentiel','pro','cabinet','essentiel_an','pro_an','cabinet_an'].indexOf(achat) >= 0;
         if (h1) h1.textContent = abo ? 'Bienvenue, votre abonnement est actif' : 'Merci, vos rapports sont crédités';
         if (lede) lede.textContent = abo ? 'Vos rapports du mois sont disponibles. Lancez une recherche, puis générez le rapport complet en un clic.' : 'Votre solde est mis à jour. Lancez une recherche, puis générez le rapport complet en un clic.';
         (function pollAcc(){
@@ -398,13 +398,13 @@
     var box = $('esp-offre'); if (!box) return;
     Auth.account().then(function(c){
       c = c || { total:0 };
-      var plan = c.formule ? ({ essentiel:'Solo', pro:'Agence', cabinet:'Réseau', essentiel_an:'Solo annuel', pro_an:'Agence annuel', cabinet_an:'Réseau annuel' })[c.formule] : null;
+      var plan = c.formule ? (/^ab(\d+)(_an)?$/.test(c.formule) ? 'Abonnement ' + c.formule.replace(/^ab(\d+).*/, '$1') + ' rapports par mois' + (/_an$/.test(c.formule) ? ', annuel' : '') : ({ essentiel:'Solo', pro:'Agence', cabinet:'Réseau', essentiel_an:'Solo annuel', pro_an:'Agence annuel', cabinet_an:'Réseau annuel' })[c.formule]) : null;
       var fin = c.fin_periode ? new Date(c.fin_periode).toLocaleDateString('fr-FR') : '';
       var status = !c.abonne ? (c.pro ? 'Crédits sans limite de durée' : 'Sans abonnement') : c.statut_abonnement === 'past_due' ? 'Paiement à régulariser' : c.resiliation_prevue ? 'Résilié, actif jusqu\'au ' + fin : 'Renouvellement le ' + fin;
       box.innerHTML = '<div class="acct">' +
         '<div><small>Rapports disponibles</small><b>' + (c.illimite ? 'Illimité' : c.total) + '</b>' + (c.abonne ? '<span>dont ' + (c.credits_abonnement || 0) + ' de l\'abonnement' + (c.credits_achetes ? ' et ' + c.credits_achetes + ' achetés' : '') + '</span>' : '') + '</div>' +
         '<div><small>Formule</small><b>' + (c.illimite ? 'Démonstration' : plan || (c.pro ? 'Crédits professionnels' : 'À l\'unité')) + '</b><span>' + esc(c.illimite ? 'Rapports illimités, sans décompte' : status) + '</span></div>' +
-        '<div class="acct-act">' + (c.illimite || c.pro ? '<a class="btn" href="/espace-pro.html">Voir mon back-office</a>' : '') + '<a class="btn' + (c.illimite || c.pro ? ' ghost' : '') + '" href="/tarifs.html">' + (c.pro ? 'Recharger mes crédits' : 'Voir les formules') + '</a>' + (c.stripe_customer ? '<button type="button" class="btn ghost" id="portal">' + (c.abonne ? 'Gérer mon abonnement' : 'Mes factures') + '</button>' : '') + '</div></div>';
+        '<div class="acct-act">' + (c.illimite || c.pro ? '<a class="btn" href="/espace-pro.html">Voir mon back-office</a>' : '') + '<a class="btn' + (c.illimite || c.pro ? ' ghost' : '') + '" href="/tarifs.html">' + (c.abonne ? 'Ajouter des crédits' : c.pro ? 'Recharger mes crédits ou s\'abonner' : 'Voir les formules') + '</a>' + (c.stripe_customer ? '<button type="button" class="btn ghost" id="portal">' + (c.abonne ? 'Gérer mon abonnement' : 'Mes factures') + '</button>' : '') + '</div></div>';
       var pb = $('portal'); if (pb) pb.addEventListener('click', function(){ pb.disabled = true; pb.textContent = 'Ouverture…'; Auth.portal().catch(function(){ pb.disabled = false; pb.textContent = 'Réessayer'; }); });
     });
   }
