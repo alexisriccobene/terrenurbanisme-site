@@ -3,6 +3,7 @@
 /espace-mairie  /espace-mairie.html  200
 /ville/*  /ville.html  200
 /r/*  /rapport.html  200
+/desinscription/*  https://nmoigruxnhsidrhqtzid.supabase.co/functions/v1/stripe-webhook?desinscription=:splat  200!
 /rapport/*  https://nmoigruxnhsidrhqtzid.supabase.co/functions/v1/stripe-webhook/rapport/:splat  200!
 /.github/*  /404.html  404
 /.git/*  /404.html  404
