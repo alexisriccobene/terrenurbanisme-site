@@ -18,7 +18,7 @@ const PROSPECT_TPL = (() => {
         `<p style="font-size:15px;font-weight:700;margin:0 0 10px">Et pour votre agence, c'est votre document :</p>` +
         li(['Votre logo et votre conseiller, avec sa photo, sur la couverture', 'Votre avis de valeur : fiche du bien, prix recommandé, honoraires et prix net vendeur, à côté de notre analyse des ventes', 'Vous choisissez les rubriques montrées au client, puis vous l\'envoyez en un clic, avec une alerte dès qu\'il l\'ouvre', 'Un tableau de bord pour suivre l\'activité de chaque collaborateur']) +
         box('<strong>1 à 2 heures de recherches site par site, remplacées par 3 minutes.</strong> Combien vaut une heure de votre temps ? Avec un pack de 50 crédits, le rapport revient à 5 € : bien moins qu\'une vente qui échoue.') +
-        `<p style="margin:0 0 8px">${btn(c.video || utm('https://terrenurbanisme.com/agences-immobilieres.html', 'agences'), 'Voir la vidéo (2 min)')}${btn(utm('https://terrenurbanisme.com/exemple.html', 'agences'), 'Voir un exemple de rapport', true)}</p>` +
+        `<p style="margin:0 0 8px">${btn(utm('https://terrenurbanisme.com/video-agences.html', 'agences'), 'Voir la vidéo (2 min)')}${btn(utm('https://terrenurbanisme.com/exemple.html', 'agences'), 'Voir un exemple de rapport', true)}</p>` +
         P('Prêt à l\'essayer sur l\'un de vos mandats ? <a href="' + utm('https://terrenurbanisme.com/tarifs.html', 'agences') + '" style="color:#A3462C;font-weight:700">Créez votre espace agence</a> en deux minutes, ou répondez simplement à ce message.'),
     }),
     mandataire: c => ({
@@ -31,7 +31,7 @@ const PROSPECT_TPL = (() => {
         P('<strong>TerrenUrbanisme</strong> établit en quelques minutes le rapport d\'urbanisme complet de la parcelle : zone et règlement du PLU, risques, servitudes, loi Littoral et loi Montagne, réseaux, ventes réelles du secteur.') +
         li(['Votre nom, votre photo et vos coordonnées sur la couverture', 'Votre avis de valeur, vos honoraires et le prix net vendeur, à côté de notre analyse du marché', 'L\'envoi au client en un clic, avec une alerte dès qu\'il ouvre le rapport', 'Un document de plus de 40 pages qui vous place au niveau des grandes enseignes']) +
         box('<strong>3 minutes au lieu d\'une demi-journée de recherches.</strong> Avec un pack de 50 crédits, le rapport revient à 5 € : le prix d\'un café pour un mandat sécurisé et un vendeur rassuré.') +
-        `<p style="margin:0 0 8px">${btn(c.video || utm('https://terrenurbanisme.com/agences-immobilieres.html', 'mandataires'), 'Voir la vidéo (2 min)')}${btn(utm('https://terrenurbanisme.com/exemple.html', 'mandataires'), 'Voir un exemple de rapport', true)}</p>` +
+        `<p style="margin:0 0 8px">${btn(utm('https://terrenurbanisme.com/video-agences.html', 'mandataires'), 'Voir la vidéo (2 min)')}${btn(utm('https://terrenurbanisme.com/exemple.html', 'mandataires'), 'Voir un exemple de rapport', true)}</p>` +
         P('<a href="' + utm('https://terrenurbanisme.com/tarifs.html', 'mandataires') + '" style="color:#A3462C;font-weight:700">Créez votre espace</a> en deux minutes, ou répondez à ce message pour toute question.'),
     }),
     mairie: c => ({
@@ -44,8 +44,60 @@ const PROSPECT_TPL = (() => {
         P('<strong>TerrenUrbanisme</strong> permet à vos habitants d\'obtenir, depuis le site de la mairie, le rapport d\'urbanisme complet de leur parcelle en quelques minutes : zone et règlement du PLU, risques, servitudes, réseaux, démarches à suivre.') +
         li(['Un bouton « Analyser mon terrain » sur le site de la mairie, ou votre propre bouton avec notre lien', 'Un rapport aux couleurs de la commune : logo et coordonnées de la mairie', 'Un espace mairie pour suivre chaque demande, parcelle par parcelle', 'Les rapports couvrent uniquement les parcelles de votre commune']) +
         box('<strong>Un service public de plus pour vos habitants, sans recrutement ni développement.</strong> La mise en place prend quelques minutes à votre webmaster, et le stock de rapports s\'adapte au nombre d\'habitants.') +
-        `<p style="margin:0 0 8px">${btn(c.video || utm('https://terrenurbanisme.com/mairies.html', 'mairies'), 'Voir la vidéo (1 min 20)')}${btn(utm('https://terrenurbanisme.com/mairies.html', 'mairies'), 'Découvrir l\'offre communale', true)}</p>` +
+        `<p style="margin:0 0 8px">${btn(utm('https://terrenurbanisme.com/video-mairies.html', 'mairies'), 'Voir la vidéo (1 min 20)')}${btn(utm('https://terrenurbanisme.com/mairies.html', 'mairies'), 'Découvrir l\'offre communale', true)}</p>` +
         P('Nous pouvons vous présenter le service en visioconférence, sur une parcelle de votre commune : répondez simplement à ce message.'),
+    }),
+    notaire: c => ({
+      objet: 'Vente d\'un terrain : tout l\'urbanisme de la parcelle réuni en 3 minutes',
+      pre: 'PLU, servitudes, risques et loi Littoral, avec les sources officielles.',
+      eyebrow: 'Notaires',
+      titre: 'Une information d\'urbanisme incomplète peut remettre une vente en cause',
+      corps: P('Maître,') +
+        P('Un acquéreur qui découvre après la signature qu\'il ne pourra pas construire, une servitude ou une zone de risque passée inaperçue : c\'est la vente qui est contestée, et le devoir de conseil qui est interrogé.') +
+        P('<strong>TerrenUrbanisme</strong> réunit en quelques minutes tout l\'urbanisme d\'une parcelle, partout en France : zone et règlement du PLU lus dans le texte, prescriptions, servitudes d\'utilité publique, risques naturels et technologiques, loi Littoral et loi Montagne, monuments historiques, réseaux et ventes réelles du secteur.') +
+        li(['Un rapport clair à remettre à vos clients, vendeur comme acquéreur', 'Les sources officielles citées et les extraits du règlement de la zone', 'Un complément utile au certificat d\'urbanisme, disponible immédiatement', 'Votre logo sur les rapports avec les crédits professionnels']) +
+        box('<strong>Une à deux heures de recherches remplacées par 3 minutes.</strong> Avec un pack de 50 crédits, le rapport revient à 5 €, une dépense sans commune mesure avec l\'enjeu d\'une vente.') +
+        `<p style="margin:0 0 8px">${btn(utm('https://terrenurbanisme.com/exemple.html', 'notaires'), 'Voir un exemple de rapport')}${btn(utm('https://terrenurbanisme.com/notaires.html', 'notaires'), 'Découvrir l\'offre notaires', true)}</p>` +
+        P('Une question, ou un essai sur l\'un de vos dossiers ? Répondez simplement à ce message.'),
+    }),
+    diagnostiqueur: c => ({
+      objet: 'L\'état des risques et l\'urbanisme de la parcelle, prêts en quelques minutes',
+      pre: 'Un service de plus pour vos clients, sans temps de recherche.',
+      eyebrow: 'Diagnostiqueurs immobiliers',
+      titre: 'Vos clients vous posent des questions qui dépassent le diagnostic',
+      corps: P('Bonjour,') +
+        P('« Mon terrain est-il en zone inondable ? », « Puis-je agrandir ? », « Quelle est ma zone du PLU ? » : vos clients attendent des réponses que le diagnostic ne couvre pas. Et une erreur sur l\'état des risques, c\'est votre responsabilité qui est engagée.') +
+        P('<strong>TerrenUrbanisme</strong> établit en quelques minutes le rapport complet de la parcelle : état des risques (ERP) pré-rempli, risques naturels et technologiques, retrait-gonflement des argiles, radon, sismicité, zone et règlement du PLU, servitudes et réseaux.') +
+        li(['Un état des risques pré-rempli à partir des données officielles', 'Toutes les règles d\'urbanisme de la parcelle, expliquées simplement', 'Un document professionnel à remettre à vos clients avec vos diagnostics', 'Votre logo sur les rapports avec les crédits professionnels']) +
+        box('<strong>Quelques minutes au lieu d\'une heure de recherches</strong>, pour un rapport qui revient à 5 € avec un pack de 50 crédits : un service de plus à proposer, sans effort.') +
+        `<p style="margin:0 0 8px">${btn(utm('https://terrenurbanisme.com/exemple.html', 'diagnostiqueurs'), 'Voir un exemple de rapport')}${btn(utm('https://terrenurbanisme.com/diagnostiqueurs.html', 'diagnostiqueurs'), 'Découvrir l\'offre diagnostiqueurs', true)}</p>` +
+        P('Une question ? Répondez simplement à ce message.'),
+    }),
+    architecte: c => ({
+      objet: 'Avant l\'esquisse : toutes les règles de la parcelle en 3 minutes',
+      pre: 'Zone, emprise, hauteurs, reculs, ABF et risques, dans un seul rapport.',
+      eyebrow: 'Architectes',
+      titre: 'Un projet dessiné sur une règle mal lue, c\'est un permis refusé',
+      corps: P('Bonjour,') +
+        P('Une hauteur maximale mal relevée, un recul oublié, un périmètre de monument historique découvert à l\'instruction : ce sont des semaines de travail à reprendre, un client déçu et des honoraires difficiles à justifier.') +
+        P('<strong>TerrenUrbanisme</strong> réunit en quelques minutes toutes les contraintes de la parcelle : zone et règlement du PLU lus dans le texte (emprise au sol, hauteurs, implantation, aspect extérieur), architecte des Bâtiments de France, loi Littoral et loi Montagne, risques naturels, servitudes et réseaux.') +
+        li(['Les extraits du règlement applicables à la zone, page par page', 'Les périmètres patrimoniaux et les risques qui conditionnent le projet', 'Un rapport clair à partager avec votre client dès le premier rendez-vous', 'Votre logo sur les rapports avec les crédits professionnels']) +
+        box('<strong>Une à deux heures de lecture de PLU remplacées par 3 minutes</strong>, pour un rapport qui revient à 5 € avec un pack de 50 crédits. Combien vaut une heure de votre temps ?') +
+        `<p style="margin:0 0 8px">${btn(utm('https://terrenurbanisme.com/exemple.html', 'architectes'), 'Voir un exemple de rapport')}${btn(utm('https://terrenurbanisme.com/architectes.html', 'architectes'), 'Découvrir l\'offre architectes', true)}</p>` +
+        P('Une question, ou un essai sur l\'un de vos projets ? Répondez simplement à ce message.'),
+    }),
+    geometre: c => ({
+      objet: 'Division, bornage, implantation : l\'urbanisme de la parcelle en 3 minutes',
+      pre: 'Zone, reculs, accès, servitudes et risques, avant même de vous déplacer.',
+      eyebrow: 'Géomètres-experts',
+      titre: 'Une division de terrain se joue d\'abord dans le règlement du PLU',
+      corps: P('Bonjour,') +
+        P('Une division qui ne respecte pas les règles de la zone, un accès insuffisant, une servitude ignorée : le projet de votre client s\'arrête net, et c\'est souvent vers vous qu\'il se tourne.') +
+        P('<strong>TerrenUrbanisme</strong> réunit en quelques minutes l\'urbanisme complet de la parcelle : zone et règlement du PLU lus dans le texte, implantation et reculs, accès et réseaux, servitudes d\'utilité publique, risques naturels, loi Littoral et loi Montagne.') +
+        li(['Les règles de la zone utiles à la division et à l\'implantation', 'Les servitudes et les risques qui pèsent sur la parcelle', 'Un rapport clair à remettre à votre client avant tout déplacement', 'Votre logo sur les rapports avec les crédits professionnels']) +
+        box('<strong>Une à deux heures de recherches remplacées par 3 minutes</strong>, pour un rapport qui revient à 5 € avec un pack de 50 crédits.') +
+        `<p style="margin:0 0 8px">${btn(utm('https://terrenurbanisme.com/exemple.html', 'geometres'), 'Voir un exemple de rapport')}${btn(utm('https://terrenurbanisme.com/geometres.html', 'geometres'), 'Découvrir l\'offre géomètres', true)}</p>` +
+        P('Une question ? Répondez simplement à ce message.'),
     }),
     expert: c => ({
       objet: 'Vos expertises : l\'urbanisme de la parcelle analysé en 3 minutes',
@@ -75,6 +127,29 @@ const PROSPECT_TPL = (() => {
   return { build, cibles: Object.keys(T) };
 })();
 
+// Copie du message dans le dossier « Envoyés » de la boîte (IMAP), pour le retrouver comme un envoi normal
+async function imapEnvoyes(raw) {
+  if (!raw) return;
+  const user = Deno.env.get('SMTP_USER') || 'contact@terrenurbanisme.com', pass = Deno.env.get('SMTP_PASSWORD') || '';
+  const host = Deno.env.get('IMAP_HOST') || 'ssl0.ovh.net';
+  const enc = new TextEncoder(), dec = new TextDecoder();
+  const conn = await Deno.connectTls({ hostname: host, port: 993 });
+  let buf = '';
+  const until = async (re) => { const b = new Uint8Array(8192); for (let i = 0; i < 400; i++) { const m = buf.match(re); if (m) { const out = buf; buf = ''; return out; } const n = await conn.read(b); if (n === null) throw new Error('IMAP fermé'); buf += dec.decode(b.subarray(0, n)); } throw new Error('IMAP délai'); };
+  const q = v => '"' + String(v).replace(/\\/g, '\\\\').replace(/"/g, '\\"') + '"';
+  try {
+    await until(/^\* OK/m);
+    await conn.write(enc.encode('a1 LOGIN ' + q(user) + ' ' + q(pass) + '\r\n')); const r1 = await until(/^a1 (OK|NO|BAD)/m); if (!/^a1 OK/m.test(r1)) throw new Error('IMAP connexion');
+    await conn.write(enc.encode('a2 LIST "" "*"\r\n')); const r2 = await until(/^a2 (OK|NO|BAD)/m);
+    const L = r2.split('\r\n').filter(l => l.startsWith('* LIST'));
+    const nom = l => { const m = l.match(/"([^"]*)"\s*$/) || l.match(/ (\S+)\s*$/); return m ? m[1] : ''; };
+    let f = L.find(l => /\\Sent/i.test(l)); f = f ? nom(f) : (L.map(nom).find(n => /^(INBOX[./])?(sent|envoy|éléments envoyés|sent items|sent messages)/i.test(n)) || 'Sent');
+    const body = enc.encode(raw.replace(/\r\n\.\r\n$/, '\r\n'));
+    await conn.write(enc.encode('a3 APPEND ' + q(f) + ' (\\Seen) {' + body.length + '}\r\n')); await until(/^\+/m);
+    await conn.write(body); await conn.write(enc.encode('\r\n')); const r3 = await until(/^a3 (OK|NO|BAD)/m); if (!/^a3 OK/m.test(r3)) throw new Error('IMAP copie refusée');
+    try { await conn.write(enc.encode('a4 LOGOUT\r\n')); } catch (e) {}
+  } finally { try { conn.close(); } catch (e) {} }
+}
 // ---------- Prospection directe : un e-mail à la fois depuis contact@terrenurbanisme.com ----------
 async function prospCfg() { const { data } = await admin.from('prospection_cfg').select('*').eq('id', 1).maybeSingle(); return data; }
 function heureParis() { const p = new Intl.DateTimeFormat('fr-FR', { timeZone: 'Europe/Paris', hour: '2-digit', minute: '2-digit', weekday: 'short', hour12: false }).formatToParts(new Date()); const g = t => (p.find(x => x.type === t) || {}).value || ''; return { h: Number(g('hour')) + Number(g('minute')) / 60, j: g('weekday') }; }
@@ -84,6 +159,7 @@ async function prospEnvoyer(P, cfg, test) {
   const m = PROSPECT_TPL.build(P.cible, { stop, video: video || null, societe: P.societe, ville: P.ville });
   const to = test ? test : P.email;
   await smtpSimple([to], m.objet, m.txt, m.html, ['List-Unsubscribe: <' + stop + '>', 'Reply-To: contact@terrenurbanisme.com']);
+  try { await imapEnvoyes(globalThis.__dernierMail); } catch (e) { console.warn('copie envoyés', String(e && e.message || e).slice(0, 160)); }
   return m.objet;
 }
 async function handleProspection(req, url) {
