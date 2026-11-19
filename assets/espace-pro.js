@@ -39,7 +39,41 @@
       return true;
     });
   }
+  // Tableau détaillé : filtres (agent, commune, suivi client) et tri
+  function remplirFiltres() {
+    var fa = $('bo-fa'), fc = $('bo-fc'); if (!fa || !fc) return;
+    var opt = function (sel, vals, lab) { var cur = sel.value; sel.innerHTML = '<option value="">' + lab + '</option>' + vals.map(function (v) { return '<option>' + esc(v) + '</option>'; }).join(''); if (vals.indexOf(cur) >= 0) sel.value = cur; };
+    var uniq = function (f) { var o = {}; ALL.forEach(function (d) { var v = f(d); if (v) o[v] = 1; }); return Object.keys(o).sort(function (a, b) { return a.localeCompare(b, 'fr'); }); };
+    opt(fa, uniq(function (d) { return d.agent; }), 'Tous les agents');
+    opt(fc, uniq(function (d) { return d.commune; }), 'Toutes les communes');
+  }
+  function tableau(L) {
+    var fa = $('bo-fa'), fc = $('bo-fc'), fs = $('bo-fs'), tri = $('bo-tri');
+    var cli = function (d) { var c = (d.perso && d.perso.client) || {}; return [c.nom, c.prenom].filter(Boolean).join(' '); };
+    var R = L.filter(function (d) {
+      if (fa && fa.value && d.agent !== fa.value) return false;
+      if (fc && fc.value && d.commune !== fc.value) return false;
+      var env = (d.envois || []).length > 0, pret = d.perso && d.perso.status === 'pret';
+      if (fs && fs.value === 'ouvert' && !(d.vu_nb > 0)) return false;
+      if (fs && fs.value === 'nonouvert' && !(env && !(d.vu_nb > 0))) return false;
+      if (fs && fs.value === 'envoye' && !env) return false;
+      if (fs && fs.value === 'pret' && !(pret && !env)) return false;
+      return true;
+    });
+    var t = tri ? tri.value : 'recent', cmp = function (a, b) { return String(a || '').localeCompare(String(b || ''), 'fr'); };
+    R = R.slice().sort(function (a, b) {
+      if (t === 'ancien') return a.created_at < b.created_at ? -1 : 1;
+      if (t === 'commune') return cmp(a.commune, b.commune) || (a.created_at < b.created_at ? 1 : -1);
+      if (t === 'agent') return cmp(a.agent, b.agent) || (a.created_at < b.created_at ? 1 : -1);
+      if (t === 'client') return (cli(a) ? 0 : 1) - (cli(b) ? 0 : 1) || cmp(cli(a), cli(b));
+      if (t === 'ouvert') return (b.vu_nb || 0) - (a.vu_nb || 0) || String(b.vu_dernier || '').localeCompare(String(a.vu_dernier || ''));
+      return a.created_at < b.created_at ? 1 : -1;
+    });
+    var cnt = $('bo-fn'); if (cnt) cnt.textContent = R.length + ' rapport' + (R.length > 1 ? 's' : '');
+    return R;
+  }
   function render() {
+    remplirFiltres();
     var L = periode(ALL), now = new Date();
     $('k-n').textContent = nb(L.length);
     $('k-n2').textContent = $('bo-per').selectedOptions[0].textContent.toLowerCase();
@@ -67,7 +101,7 @@
     $('bo-ag').innerHTML = ta.slice(0, 8).map(function (c, i) { return '<div class="bo-row"><span>' + (i === 0 ? '<b>' + esc(c[0]) + '</b> · le plus actif' : esc(c[0])) + '</span><b>' + nb(c[1]) + '</b><div class="bar"><i style="width:' + Math.round(c[1] / ta[0][1] * 100) + '%"></i></div></div>'; }).join('');
     // Détail
     var LIM = window.__boLim || 50;
-    $('bo-rows').innerHTML = L.slice(0, LIM).map(function (d) {
+    $('bo-rows').innerHTML = tableau(L).slice(0, LIM).map(function (d) {
       var v = VER[d.verdict], dt = new Date(d.created_at);
       var P = d.perso || {}, cl = P.client || {}, nomC = [cl.prenom, cl.nom].filter(Boolean).join(' ');
       var pret = P.status === 'pret', court = '/r/c-' + String(d.id || '').replace(/-/g, '').slice(0, 12);
@@ -83,8 +117,8 @@
       else if (env) envoi += '<br><small style="color:var(--muet)">Pas encore ouvert</small>';
       return '<tr><td>' + dt.toLocaleDateString('fr-FR') + '<br><small style="color:var(--muet)">' + dt.toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' }) + '</small></td><td><b>' + esc(d.commune) + '</b><br><small style="color:var(--muet)">' + esc(d.section) + ' ' + esc(d.numero) + (d.zone ? ' · zone ' + esc(d.zone) : '') + '</small></td><td>' + esc(d.agent || '–') + '</td><td>' + (v ? '<span class="bo-v ' + v[0] + '">' + v[1] + '</span>' : '–') + '</td><td>' + client + '</td><td>' + envoi + '</td><td>' + act + '</td></tr>';
     }).join('');
-    $('bo-empty').hidden = L.length > 0;
-    var more = $('bo-more'); more.hidden = L.length <= LIM; more.textContent = 'Afficher plus (' + nb(L.length - LIM) + ' rapports restants)';
+    $('bo-empty').hidden = tableau(L).length > 0;
+    var TN = tableau(L).length, more = $('bo-more'); more.hidden = TN <= LIM; more.textContent = 'Afficher plus (' + nb(TN - LIM) + ' rapports restants)';
   }
 
   // Compte de démonstration : historique d'illustration réaliste (12 mois), ajouté aux vrais rapports
@@ -123,6 +157,7 @@
       var r0 = render; render = function () { r0(); document.querySelectorAll('#bo-rows a').forEach(function (a) { var h = a.getAttribute('href') || ''; if (/personnaliser\.html/.test(h)) a.href = h + '&demo=1'; else { a.href = '/personnaliser.html?id=demo&demo=1'; a.removeAttribute('target'); } }); };
       $('bo-per').addEventListener('change', function () { window.__boLim = 50; render(); });
       $('bo-q').addEventListener('input', render);
+    ['bo-fa', 'bo-fc', 'bo-fs', 'bo-tri'].forEach(function (k) { var el = $(k); if (el) el.addEventListener('change', function () { window.__boLim = 50; render(); }); });
       $('bo-exp').addEventListener('click', exporter);
       $('bo-more').addEventListener('click', function () { window.__boLim = (window.__boLim || 50) + 100; render(); });
       render(); return;
@@ -141,6 +176,7 @@
     });
     $('bo-per').addEventListener('change', function () { window.__boLim = 50; render(); });
     $('bo-q').addEventListener('input', render);
+    ['bo-fa', 'bo-fc', 'bo-fs', 'bo-tri'].forEach(function (k) { var el = $(k); if (el) el.addEventListener('change', function () { window.__boLim = 50; render(); }); });
     $('bo-exp').addEventListener('click', exporter);
     $('bo-more').addEventListener('click', function () { window.__boLim = (window.__boLim || 50) + 100; render(); });
   }
