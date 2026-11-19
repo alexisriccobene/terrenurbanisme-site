@@ -30,6 +30,7 @@ jobs:
             export MODE=$(python3 -c "import json;print(json.load(open('.github/social/tiktok_demande.json'))['mode'])")
             export TIKTOK_TEST=$(python3 -c "import json;print(json.load(open('.github/social/tiktok_demande.json')).get('essai',''))")
           else export MODE=publier; fi
+          command -v ffmpeg >/dev/null || pip install -q imageio-ffmpeg
           python3 .github/scripts/tiktok.py || { echo ECHEC > /tmp/echec; }
           if [ -f /tmp/echec ] && [ "$MODE" = "publier" ]; then
             t="Échec de publication TikTok"; if ! gh issue list --state open --search "$t in:title" --json number -q '.[0].number' | grep -q .; then

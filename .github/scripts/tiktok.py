@@ -205,6 +205,8 @@ if ZKEY and MODE in ('zernio_planifier', 'zernio_replanifier'):
             for z in L:
                 w = z.get('scheduledFor') or ''
                 if z.get('status') != 'scheduled' or w < now.astimezone(ZoneInfo('UTC')).strftime('%Y-%m-%dT%H:%M'): continue
+                nos = {zcompte('tiktok')[0], zcompte('youtube')[0]}  # seulement les comptes TerrenUrbanisme
+                if not any(((pl.get('accountId') or {}).get('_id') if isinstance(pl.get('accountId'), dict) else pl.get('accountId')) in nos for pl in z.get('platforms', [])): continue
                 try: zreq('/posts/' + z['_id'], method='DELETE'); print('annulé', z['_id'], w, flush=True)
                 except Exception as e: err.append('annulation %s : %s' % (z.get('_id'), e))
             if len(L) < 100: break
