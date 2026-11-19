@@ -1,1 +1,1 @@
-{"fonction":"stripe-webhook","script":"reco_tu.py","demande":"reco-tu-2"}
+{"fonction":"stripe-webhook","script":"lire.py","demande":"lire-suivi"}

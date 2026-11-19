@@ -2,7 +2,7 @@
 import sys, re
 s = open(sys.argv[1], encoding='utf-8').read(); L = s.split('\n')
 print('LIGNES', len(L))
-pats = [r"apercu_dossier", r"conseill", r"[Ff]ourchette", r"Recommandation", r"view:"]
+pats = [r"Access-Control-Allow-Origin", r"/rapport/", r"async function (sendMail|envoyerMail|mail)\b|api\.resend|api\.brevo|sendinblue", r"c-\[0-9a-f", r"function corsFor|const ORIGINS"]
 for p in pats:
     for i, l in enumerate(L):
         if re.search(p, l):
