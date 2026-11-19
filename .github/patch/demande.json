@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "net_vendeur.py", "demande": "net vendeur"}
+{"fonction": "stripe-webhook", "script": "lire.py", "demande": "lecture routeur"}
