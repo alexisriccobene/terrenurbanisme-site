@@ -1557,12 +1557,13 @@
   "type": "story",
   "date": "2026-11-23T12:30",
   "theme": "Le saviez-vous : 500 m",
-  "reseaux": [
-   "instagram",
-   "facebook"
-  ],
+  "reseaux": [],
   "images": [
    "Story-2026-11-18.jpg"
+  ],
+  "reseaux_suspendus": [
+   "instagram",
+   "facebook"
   ]
  },
  {
@@ -2248,12 +2249,13 @@
   "type": "story",
   "date": "2026-12-03T12:30",
   "theme": "Le saviez-vous : 150 m²",
-  "reseaux": [
-   "instagram",
-   "facebook"
-  ],
+  "reseaux": [],
   "images": [
    "Story-2026-11-28.jpg"
+  ],
+  "reseaux_suspendus": [
+   "instagram",
+   "facebook"
   ]
  },
  {
@@ -2447,12 +2449,13 @@
   "type": "story",
   "date": "2026-12-07T12:30",
   "theme": "Le saviez-vous : Zone A",
-  "reseaux": [
-   "instagram",
-   "facebook"
-  ],
+  "reseaux": [],
   "images": [
    "Story-2026-12-02.jpg"
+  ],
+  "reseaux_suspendus": [
+   "instagram",
+   "facebook"
   ]
  },
  {
@@ -2587,12 +2590,13 @@
   "type": "story",
   "date": "2026-12-09T12:30",
   "theme": "Question : Ma maison est-elle en zone inondable ?",
-  "reseaux": [
-   "instagram",
-   "facebook"
-  ],
+  "reseaux": [],
   "images": [
    "Story-2026-12-04.jpg"
+  ],
+  "reseaux_suspendus": [
+   "instagram",
+   "facebook"
   ]
  },
  {
@@ -2793,12 +2797,13 @@
   "type": "story",
   "date": "2026-12-12T12:30",
   "theme": "Question : Suis-je près d'un monument historique ?",
-  "reseaux": [
-   "instagram",
-   "facebook"
-  ],
+  "reseaux": [],
   "images": [
    "Story-2026-12-07.jpg"
+  ],
+  "reseaux_suspendus": [
+   "instagram",
+   "facebook"
   ]
  },
  {
@@ -3844,12 +3849,13 @@
   "type": "story",
   "date": "2026-12-27T12:30",
   "theme": "Dans le rapport : L'historique",
-  "reseaux": [
-   "instagram",
-   "facebook"
-  ],
+  "reseaux": [],
   "images": [
    "Story-2026-12-22.jpg"
+  ],
+  "reseaux_suspendus": [
+   "instagram",
+   "facebook"
   ]
  },
  {
@@ -4355,12 +4361,13 @@
   "type": "story",
   "date": "2027-01-04T12:30",
   "theme": "Le saviez-vous : 50 %",
-  "reseaux": [
-   "instagram",
-   "facebook"
-  ],
+  "reseaux": [],
   "images": [
    "Story-2026-12-30.jpg"
+  ],
+  "reseaux_suspendus": [
+   "instagram",
+   "facebook"
   ]
  },
  {
@@ -5662,12 +5669,13 @@
   "type": "story",
   "date": "2027-01-23T12:30",
   "theme": "Le saviez-vous : 15 jours",
-  "reseaux": [
-   "instagram",
-   "facebook"
-  ],
+  "reseaux": [],
   "images": [
    "Story-2027-01-23.jpg"
+  ],
+  "reseaux_suspendus": [
+   "instagram",
+   "facebook"
   ]
  },
  {
@@ -8513,12 +8521,13 @@
   "type": "story",
   "date": "2027-03-26T12:30",
   "theme": "Le saviez-vous : 5 ans",
-  "reseaux": [
-   "instagram",
-   "facebook"
-  ],
+  "reseaux": [],
   "images": [
    "Story-2027-03-26.jpg"
+  ],
+  "reseaux_suspendus": [
+   "instagram",
+   "facebook"
   ]
  },
  {
@@ -10040,12 +10049,13 @@
   "type": "story",
   "date": "2027-05-22T12:30",
   "theme": "Dans le rapport : Pour une maison ancienne",
-  "reseaux": [
-   "instagram",
-   "facebook"
-  ],
+  "reseaux": [],
   "images": [
    "Story-2027-05-22.jpg"
+  ],
+  "reseaux_suspendus": [
+   "instagram",
+   "facebook"
   ]
  },
  {
@@ -12307,12 +12317,13 @@
   "type": "story",
   "date": "2027-08-14T12:30",
   "theme": "Vrai ou faux : Plus aucun recours en annulation six mois après la fin des travaux.",
-  "reseaux": [
-   "instagram",
-   "facebook"
-  ],
+  "reseaux": [],
   "images": [
    "Story-2027-08-14.jpg"
+  ],
+  "reseaux_suspendus": [
+   "instagram",
+   "facebook"
   ]
  },
  {
