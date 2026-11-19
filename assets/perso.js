@@ -175,10 +175,58 @@
     var to = $('ps-to').value.trim(), body = $('ps-body').value;
     $('ps-mail').href = 'mailto:' + encodeURIComponent(to).replace(/%40/g, '@') + '?subject=' + encodeURIComponent($('ps-obj').value) + '&body=' + encodeURIComponent(body);
   }
+  // Fiche du bien selon le type : champs, état et atouts adaptés, désignation écrite automatiquement
+  var TYP = {
+    terrain: { etatL: 'Nature du terrain', etat: [['plat', 'Plat'], ['pente_douce', 'En pente douce'], ['pente', 'En forte pente'], ['boise', 'Boisé'], ['debroussailler', 'À débroussailler'], ['rocheux', 'Rocheux']],
+      atouts: ['Vue mer', 'Vue montagne', 'Vue dégagée', 'Viabilisé', 'Tout-à-l\'égout', 'Eau et électricité à proximité', 'Accès goudronné', 'Rochers', 'Arbres', 'Sans vis-à-vis', 'Calme', 'Proche plage', 'Proche commerces'] },
+    maison: { etatL: 'État général', atouts: ['Piscine', 'Vue mer', 'Vue dégagée', 'Jardin', 'Terrasse', 'Garage', 'Plain-pied', 'Climatisation', 'Cuisine équipée', 'Tout-à-l\'égout', 'Sans vis-à-vis', 'Calme', 'Proche plage', 'Proche commerces'] },
+    appartement: { etatL: 'État général', atouts: ['Vue mer', 'Balcon', 'Terrasse', 'Ascenseur', 'Parking', 'Garage', 'Cave', 'Dernier étage', 'Lumineux', 'Climatisation', 'Calme', 'Proche plage', 'Proche commerces'] },
+    autre: { etatL: 'État général', atouts: ['Vue mer', 'Vue dégagée', 'Terrasse', 'Parking', 'Climatisation', 'Calme', 'Proche commerces'] }
+  };
+  var ETAT_B = [['neuf', 'Neuf ou récent'], ['tres_bon', 'Très bon état'], ['bon', 'Bon état'], ['rafraichir', 'À rafraîchir'], ['renover', 'À rénover']];
+  function curAtouts() { return Array.prototype.slice.call(document.querySelectorAll('#ps-at input:checked')).map(function (c) { return c.value; }); }
+  function vis(k) { var el = $('ps-form')[k], l = el && el.closest('[data-t]'); return l && l.hidden ? '' : String(el.value || '').trim(); }
+  function applyType(keep) {
+    var f = $('ps-form'), t = f.type.value, T = TYP[t];
+    document.querySelectorAll('#ps-form [data-t]').forEach(function (el) { el.hidden = !t || el.getAttribute('data-t').split(' ').indexOf(t) < 0; });
+    if (!T) { $('ps-at').innerHTML = ''; return; }
+    var old = f.etat.value, opts = T.etat || ETAT_B;
+    $('ps-etat-l').textContent = T.etatL;
+    f.etat.innerHTML = '<option value="">— Non précisé</option>' + opts.map(function (o) { return '<option value="' + o[0] + '">' + o[1] + '</option>'; }).join('');
+    if (opts.some(function (o) { return o[0] === old; })) f.etat.value = old;
+    $('ps-at').innerHTML = T.atouts.map(function (a) { return '<label><input type="checkbox" value="' + a.replace(/"/g, '&quot;') + '"' + ((keep || []).indexOf(a) >= 0 ? ' checked' : '') + '><span>' + a + '</span></label>'; }).join('');
+  }
+  function drawDes() {
+    var f = $('ps-form'), t = f.type.value; if (f.designation.dataset.edit) return;
+    if (!t) { f.designation.value = ''; return; }
+    var n = function (k) { var v = vis(k); return v ? Number(String(v).replace(/[^0-9]/g, '')).toLocaleString('fr-FR') : ''; };
+    var opt = f.etat.options[f.etat.selectedIndex], et = f.etat.value && opt ? opt.text.toLowerCase() : '';
+    var at = curAtouts().map(function (a) { return a.charAt(0).toLowerCase() + a.slice(1); });
+    var lst = function (a) { return a.length > 1 ? a.slice(0, -1).join(', ') + ' et ' + a[a.length - 1] : a[0] || ''; };
+    var s1;
+    if (t === 'terrain') {
+      s1 = 'Terrain' + (et ? ' ' + et : '') + (n('sterrain') ? ' de ' + n('sterrain') + ' m²' : '') + '.';
+      if (at.length) s1 += ' ' + lst(at).charAt(0).toUpperCase() + lst(at).slice(1) + '.';
+    } else {
+      var nom = { maison: 'Maison', appartement: 'Appartement', autre: 'Bien' }[t], fem = t === 'maison';
+      s1 = nom + (n('shab') ? ' de ' + n('shab') + ' m²' : '') + (n('sterrain') ? ' sur un terrain de ' + n('sterrain') + ' m²' : '');
+      var pc = vis('pieces'), ch = vis('chambres');
+      if (pc) s1 += ', ' + pc + ' pièce' + (pc > 1 ? 's' : '') + (ch ? ' dont ' + ch + ' chambre' + (ch > 1 ? 's' : '') : '');
+      else if (ch) s1 += ', ' + ch + ' chambre' + (ch > 1 ? 's' : '');
+      s1 += '.';
+      var s2 = [];
+      if (vis('annee')) s2.push((fem ? 'Construite' : 'Construit') + ' en ' + vis('annee'));
+      if (et) s2.push(et);
+      if (vis('dpe')) s2.push('DPE classe ' + vis('dpe'));
+      if (s2.length) s1 += ' ' + s2.join(', ').charAt(0).toUpperCase() + s2.join(', ').slice(1) + '.';
+      if (at.length) s1 += ' Atouts : ' + lst(at) + '.';
+    }
+    f.designation.value = s1;
+  }
   // Calcul affiché à l'agent : prix net vendeur, honoraires, prix attendu
   function drawCalc() {
     var f = $('ps-form'), box = $('ps-calc'); if (!box) return;
-    var pc = Number(String(f.conseille.value).replace(/[^0-9]/g, '')), h = Number(String(f.hono.value).replace(',', '.')) || 0, n = Number(String(f.nego.value).replace(',', '.')) || 0;
+    var pc = Number(String(f.conseille.value).replace(/[^0-9]/g, '')), h = Number(String(f.hono.value).replace(',', '.')) || 0, n = 0;
     if (!pc || (!h && !n)) { box.hidden = true; return; }
     var e = function (v) { return Math.round(v).toLocaleString('fr-FR') + ' €'; }, out = [];
     if (h) { var net = Math.round(pc / (1 + h / 100) / 100) * 100; out.push('Prix net vendeur : <b>' + e(net) + '</b>'); out.push('Honoraires : ' + e(pc - net) + ' à la charge ' + (f.hono_charge.value === 'acquereur' ? 'de l\'acquéreur' : 'du vendeur')); }
@@ -203,12 +251,18 @@
       if (new URLSearchParams(location.search).get('neuf')) msg('Votre rapport est prêt. Choisissez les rubriques, ajoutez votre prix et vos photos, puis générez la version de votre client.', 'ok');
       var cl = P.client || {}, rc = P.reco || {};
       ['civ', 'prenom', 'nom', 'email', 'tel'].forEach(function (k) { if (cl[k]) f[k].value = cl[k]; });
-      ['type', 'designation', 'bas', 'haut', 'conseille', 'commentaire', 'hono', 'hono_charge', 'nego', 'delai'].forEach(function (k) { if (rc[k]) f[k].value = rc[k]; });
+      ['type', 'bas', 'haut', 'conseille', 'commentaire', 'hono', 'hono_charge', 'delai'].forEach(function (k) { if (rc[k]) f[k].value = rc[k]; });
       var fi = rc.fiche || {};
+      applyType(fi.atouts || []);
       ['shab', 'sterrain', 'pieces', 'chambres', 'annee', 'dpe', 'etat'].forEach(function (k) { if (fi[k]) f[k].value = fi[k]; });
-      (fi.atouts || []).forEach(function (a) { var c = document.querySelector('#ps-at input[value="' + a.replace(/"/g, '') + '"]'); if (c) c.checked = true; });
+      if (rc.designation) { f.designation.value = rc.designation; f.designation.dataset.edit = '1'; $('ps-des-auto').hidden = false; } else drawDes();
+      f.type.addEventListener('change', function () { applyType(curAtouts()); drawDes(); });
+      ['etat', 'shab', 'sterrain', 'pieces', 'chambres', 'annee', 'dpe'].forEach(function (k) { f[k].addEventListener('input', drawDes); f[k].addEventListener('change', drawDes); });
+      $('ps-at').addEventListener('change', drawDes);
+      f.designation.addEventListener('input', function () { f.designation.dataset.edit = '1'; $('ps-des-auto').hidden = false; });
+      $('ps-des-auto').addEventListener('click', function () { f.designation.dataset.edit = ''; $('ps-des-auto').hidden = true; drawDes(); });
       if (rc.alerte === false) f.alerte.checked = false;
-      ['conseille', 'hono', 'hono_charge', 'nego'].forEach(function (k) { f[k].addEventListener('input', drawCalc); f[k].addEventListener('change', drawCalc); }); drawCalc();
+      ['conseille', 'hono', 'hono_charge'].forEach(function (k) { f[k].addEventListener('input', drawCalc); f[k].addEventListener('change', drawCalc); }); drawCalc();
       var exc = P.exclure || [], sans = P.sans || [];
       var html = (r.chapitres || Object.keys(LIB)).map(function (t) {
         var sub = t === 'Environnement et marché immobilier' ? '<label class="ps-ck"><input type="checkbox" data-sans="especes"' + (sans.indexOf('especes') >= 0 ? '' : ' checked') + '><span>Espèces protégées observées autour<small>Liste des espèces et coût des études écologiques</small><em class="ps-off"></em></span></label><div class="ps-pv" data-pv="especes"></div>' : '';
@@ -236,8 +290,8 @@
       var f = e.target, bt = $('ps-go');
       var body = { action: 'personnaliser', id: id,
         client: { civ: f.civ.value, prenom: f.prenom.value.trim(), nom: f.nom.value.trim(), email: f.email.value.trim(), tel: f.tel.value.trim() },
-        reco: { type: f.type.value, designation: f.designation.value.trim(), alerte: f.alerte.checked, hono: f.hono.value.trim(), hono_charge: f.hono_charge.value, nego: f.nego.value.trim(), delai: f.delai.value,
-          fiche: { shab: f.shab.value.trim(), sterrain: f.sterrain.value.trim(), pieces: f.pieces.value.trim(), chambres: f.chambres.value.trim(), annee: f.annee.value.trim(), dpe: f.dpe.value, etat: f.etat.value, atouts: Array.prototype.slice.call(document.querySelectorAll('#ps-at input:checked')).map(function (c) { return c.value; }) }, bas: f.bas.value.trim(), haut: f.haut.value.trim(), conseille: f.conseille.value.trim(), commentaire: f.commentaire.value.trim() },
+        reco: { type: f.type.value, designation: f.designation.value.trim(), alerte: f.alerte.checked, hono: f.hono.value.trim(), hono_charge: f.hono_charge.value, delai: f.delai.value,
+          fiche: f.type.value ? { shab: vis('shab'), sterrain: vis('sterrain'), pieces: vis('pieces'), chambres: vis('chambres'), annee: vis('annee'), dpe: vis('dpe'), etat: f.etat.value, atouts: curAtouts() } : null, bas: f.bas.value.trim(), haut: f.haut.value.trim(), conseille: f.conseille.value.trim(), commentaire: f.commentaire.value.trim() },
         photos: photos.map(function (p) { return p.path; }),
         exclure: Array.prototype.slice.call(document.querySelectorAll('[data-ch]')).filter(function (c) { return !c.checked; }).map(function (c) { return c.getAttribute('data-ch'); }),
         sans: Array.prototype.slice.call(document.querySelectorAll('[data-sans]')).filter(function (c) { return !c.checked; }).map(function (c) { return c.getAttribute('data-sans'); })
@@ -274,12 +328,13 @@
     var q = function (data) { var o = { select: function () { return o; }, eq: function () { return o; }, maybeSingle: function () { return Promise.resolve({ data: data }); }, then: function (f) { return Promise.resolve({ data: data }).then(f); } }; return o; };
     A = { client: { from: function () { return q({ commune: 'Sotta', section: 'B', numero: '842', agent: 'Cédric MULLER', download_slug: '' }); }, rpc: function () { return Promise.resolve({}); }, storage: { from: function () { return { createSignedUrl: function () { return Promise.resolve({}); }, upload: function () { return Promise.resolve({}); } }; } } }, account: function () { return Promise.resolve({ nom: 'Agence démonstration' }); }, loginUrl: function () { return '#'; } };
     call = function (b) {
-      if (b.action === 'apercu_dossier') return Promise.resolve({ view: '', pret: true, chapitres: Object.keys(LIB), client: { court: 'https://terrenurbanisme.com/r/c-demo00000000', view: '', url: '#' }, perso: { client: { civ: 'M.', prenom: 'Maxime', nom: 'DUPONT', email: 'maxime.dupont@gmail.com', tel: '06 78 56 45 32' }, reco: { type: 'maison', designation: 'Villa de 120 m² sur un terrain plat de 1 200 m², vue dégagée, au calme, à 5 minutes des commerces.', bas: '480 000', haut: '540 000', conseille: '520 000', hono: '5', nego: '4', delai: '6', fiche: { shab: '120', sterrain: '1200', pieces: '5', chambres: '3', annee: '2008', dpe: 'C', etat: 'tres_bon', atouts: ['Piscine', 'Vue dégagée', 'Terrasse', 'Calme'] } } } });
+      if (b.action === 'apercu_dossier') return Promise.resolve({ view: '', pret: true, chapitres: Object.keys(LIB), client: { court: 'https://terrenurbanisme.com/r/c-demo00000000', view: '', url: '#' }, perso: { client: { civ: 'M.', prenom: 'Maxime', nom: 'DUPONT', email: 'maxime.dupont@gmail.com', tel: '06 78 56 45 32' }, reco: { type: 'maison', bas: '480 000', haut: '540 000', conseille: '520 000', hono: '5', delai: '6', fiche: { shab: '120', sterrain: '1200', pieces: '5', chambres: '3', annee: '2008', dpe: 'C', etat: 'tres_bon', atouts: ['Piscine', 'Vue dégagée', 'Terrasse', 'Calme'] } } } });
       return Promise.reject({ code: 'demo' });
     };
     start({ id: 'demo' });
+    setTimeout(function () { var fr = $('ps-frame'); if (fr) { fr.removeAttribute('src'); fr.srcdoc = '<div style="font-family:system-ui,sans-serif;color:#6E625A;display:flex;align-items:center;justify-content:center;height:90vh;text-align:center;padding:24px;line-height:1.6">Sur votre compte, le rapport de votre client s\'affiche ici.<br>Il se met à jour à chaque génération.</div>'; } }, 300);
     var m = document.createElement('p'); m.className = 'ps-msg ps-ok'; m.textContent = 'Démonstration : les données sont fictives et la génération du rapport est désactivée.';
-    var app = $('ps-app'); if (app) app.insertBefore(m, app.firstChild);
+    var app = $('ps-app'); if (app) app.parentNode.insertBefore(m, app); m.style.marginBottom = '16px';
   }
   function boot() { if (DEMO) { demoBoot(); return; } if (!window.TUAuth || !TUAuth.ready) { setTimeout(boot, 120); return; } A = window.TUAuth; A.user().then(start); }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', boot); else boot();
