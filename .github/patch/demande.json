@@ -1,1 +1,1 @@
-{"fonction":"stripe-webhook","script":"avis_valeur.py","demande":"avis-valeur"}
+{"fonction":"stripe-webhook","script":"avis_terrain.py","demande":"avis-terrain"}
