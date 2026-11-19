@@ -69,7 +69,7 @@
       box.innerHTML = '<div hidden><div id="em-login"><form id="em-lf"><input name="identifiant"><input name="mdp" type="password"><input name="rester" type="checkbox"><button type="submit">ok</button><p class="em-lerr"></p></form></div><button id="em-out" type="button"></button><div id="em-ville"></div><a id="em-back"></a></div>';
       box.appendChild(document.importNode(main, true));
       window.TU_MAIRIE_EMBED = true;
-      var sc = document.createElement('script'); sc.src = '/assets/espace-mairie.js?v=v91'; document.body.appendChild(sc);
+      var sc = document.createElement('script'); sc.src = '/assets/espace-mairie.js?v=v92'; document.body.appendChild(sc);
     }).catch(function () { box.dataset.ok = ''; box.innerHTML = '<p class="empty">L\'espace mairie de démonstration n\'a pas pu se charger. Rechargez la page.</p>'; });
   }
 
