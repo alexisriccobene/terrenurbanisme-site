@@ -503,6 +503,7 @@
       if (mr && mr.illimite){ inclus = true; label = 'Générer le rapport complet · compte de démonstration'; setAll(label); if (offerEl) offerEl.hidden = true; return; }
       if (mr && mr.insee && mr.insee.indexOf(parcelRef.insee) >= 0){ inclus = true; label = 'Générer le rapport complet · inclus dans l\'abonnement de ' + mr.mairie; setAll(label); if (offerEl) offerEl.hidden = true; return; }
       if (mr){ errs.forEach(function(e){ e.textContent = 'Votre abonnement couvre uniquement les parcelles de ' + mr.mairie + '. Cette parcelle est hors de la commune.'; }); }
+      if (c && c.membre && !(c.total > 0)){ errs.forEach(function(e){ e.innerHTML = 'Les crédits de ' + esc(c.membre.agence) + ' sont épuisés. <a href="/espace.html" style="color:var(--t);font-weight:700">Demander des crédits à l\'agence</a>'; }); return; }
       if (c && c.membre){ window.__TU_MEMBRE = c.membre.nom; inclus = true; label = 'Générer le rapport complet · à votre nom, crédits de ' + c.membre.agence; setAll(label); if (offerEl) offerEl.hidden = true; return; }
       if (credits > 0){ label = 'Générer le rapport complet · 1 rapport (solde : ' + credits + ')'; setAll(label); if (offerEl) offerEl.hidden = true; }
     }).then(function(){

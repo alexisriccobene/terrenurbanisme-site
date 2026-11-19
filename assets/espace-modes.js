@@ -172,7 +172,33 @@
     var h1 = document.querySelector('#espace h1'); if (h1) h1.textContent = M.agence;
     var bh = document.querySelector('.esp-bo-h h2'); if (bh) bh.textContent = 'Mes rapports';
     var bp = document.querySelector('.esp-bo-h p'); if (bp) bp.textContent = 'Les rapports que vous avez demandés, les envois à vos clients et leurs ouvertures.';
-    sb.from('pro_agents').select('id,photo').eq('member_id', U.id).maybeSingle().then(function (r) { var a = r.data; if (a && a.photo) sb.storage.from('perso').createSignedUrl(a.photo, 3600).then(function (x) { if (x.data) $('eh-logo').innerHTML = '<img alt="" src="' + x.data.signedUrl + '" style="width:100%;height:100%;object-fit:cover;max-width:none;max-height:none">'; }); });
+    var setAv = function (u) { if (u) { $('eh-logo').innerHTML = '<img alt="" src="' + u + '" style="width:100%;height:100%;object-fit:cover;max-width:none;max-height:none">'; var pa = $('pf-av'); if (pa) pa.innerHTML = '<img alt="" src="' + u + '">'; } };
+    // Mon profil : nom, téléphone, e-mail et photo, repris sur la carte « Votre conseiller » des rapports
+    var card = document.createElement('div'); card.className = 'esp-card'; card.id = 'esp-profil'; card.style.marginBottom = '28px';
+    var CL = '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 18a4.5 4.5 0 0 1-.6-8.96A6 6 0 0 1 18 8.5a4 4 0 0 1 .5 7.97"/><path d="M12 12v8"/><path d="m8.5 15.5 3.5-3.5 3.5 3.5"/></svg>';
+    card.innerHTML = '<div class="esp-card-h"><div><h2>Mon profil</h2><p>Votre photo, votre téléphone et votre e-mail figurent sur la carte « Votre conseiller » des rapports remis à vos clients.</p></div></div>'
+      + '<div class="ag-ed" style="border:0;padding:0"><div style="text-align:center"><span class="ag-av" id="pf-av">' + esc(initials(M.nom)) + '</span><br><label class="up-btn sm">' + CL + '<span><b>Changer la photo</b></span><input type="file" id="pf-file" accept="image/png,image/jpeg"></label></div>'
+      + '<div class="f"><label>Prénom et nom<input id="pf-nom" maxlength="80" value="' + esc(M.nom) + '"></label><label>Téléphone<input id="pf-tel" maxlength="30" inputmode="tel" value="' + esc(M.telephone || '') + '"></label><label style="grid-column:1/-1">E-mail affiché sur les rapports<input id="pf-email" type="email" maxlength="120" value="' + esc(M.email || '') + '"></label>'
+      + '<div class="a"><button type="button" class="btn" id="pf-save">Enregistrer</button><span id="pf-msg" class="ag-msg" style="margin:0"></span></div></div></div>';
+    var off = $('esp-offre'); off.parentNode.insertBefore(card, off.nextSibling);
+    setAv(M.photo_url);
+    var photo = null, pmsg = function (t, er) { var m = $('pf-msg'); m.textContent = t; m.style.color = er ? 'var(--non,#B3402F)' : 'var(--ok,#2E7D4F)'; };
+    $('pf-file').addEventListener('change', function (e) {
+      var f = e.target.files[0]; e.target.value = ''; if (!f) return;
+      if (!/^image\/(png|jpeg)$/.test(f.type)) { pmsg('Format accepté : JPG ou PNG.', true); return; }
+      cropper(f).then(function (blob) { if (!blob) return; var rd = new FileReader(); rd.onload = function () { photo = rd.result; setAv(photo); pmsg('Photo prête : cliquez sur Enregistrer.'); }; rd.readAsDataURL(blob); });
+    });
+    $('pf-save').addEventListener('click', function () {
+      var bt = $('pf-save'), nom = $('pf-nom').value.trim();
+      if (nom.length < 2) { pmsg('Indiquez votre prénom et votre nom.', true); return; }
+      bt.disabled = true; pmsg('Enregistrement…');
+      sb.functions.invoke('stripe-webhook', { body: { action: 'membre_profil', nom: nom, telephone: $('pf-tel').value.trim(), email: $('pf-email').value.trim(), photo: photo } }).then(function (r) {
+        bt.disabled = false;
+        if (r.error || !r.data || !r.data.ok) { pmsg('L\'enregistrement n\'a pas abouti. Réessayez.', true); return; }
+        photo = null; M.nom = r.data.nom; $('eh-nom').textContent = M.nom; A._ag = null;
+        pmsg('Profil enregistré. Il figurera sur vos prochains rapports.');
+      });
+    });
   }
 
   /* ---------- Démarrage ---------- */
