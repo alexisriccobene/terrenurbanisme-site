@@ -6,6 +6,18 @@
   var MOIS = ['janv.', 'févr.', 'mars', 'avr.', 'mai', 'juin', 'juil.', 'août', 'sept.', 'oct.', 'nov.', 'déc.'];
   var VER = { ok: ['ok', 'Constructible'], cond: ['cond', 'Sous conditions'], non: ['non', 'Non constructible'] };
   var ALL = [];
+  // Démonstration sans connexion : uniquement sur les versions de test (jamais sur terrenurbanisme.com)
+  var DEMO = /(^|[?&])demo=1/.test(location.search) && !/terrenurbanisme\.com$/.test(location.hostname);
+  function demoRows() {
+    var j = function (d, h) { return new Date(Date.now() - d * 86400000 - (h || 0) * 3600000).toISOString(); };
+    return [
+      { id: 'demo-0001-aaaa', created_at: j(0, 2), commune: 'Sotta', section: 'B', numero: '842', zone: 'UC', verdict: 'ok', status: 'ready', download_slug: 'demo', agent: 'Cédric MULLER', perso: { status: 'pret', client: { prenom: 'Maxime', nom: 'DUPONT', email: 'maxime.dupont@gmail.com' } }, envois: [{ date: j(0, 1), email: 'maxime.dupont@gmail.com' }], vu_le: j(0, 0.3), vu_dernier: j(0, 0.3), vu_nb: 1 },
+      { id: 'demo-0002-bbbb', created_at: j(1, 5), commune: 'Porto-Vecchio', section: 'D', numero: '1204', zone: 'UB', verdict: 'cond', status: 'ready', download_slug: 'demo', agent: 'Julie ROSSI', perso: { status: 'pret', client: { prenom: 'Sophie', nom: 'MARTIN', email: 'sophie.martin@orange.fr' } }, envois: [{ date: j(1, 3), email: 'sophie.martin@orange.fr' }], vu_le: j(1, 1), vu_dernier: j(0, 5), vu_nb: 3 },
+      { id: 'demo-0003-cccc', created_at: j(2, 4), commune: 'Bonifacio', section: 'A', numero: '317', zone: 'AU', verdict: 'cond', status: 'ready', download_slug: 'demo', agent: 'Cédric MULLER', perso: { status: 'pret', client: { prenom: 'Paul', nom: 'GIRAUD', email: 'p.giraud@gmail.com' } }, envois: [{ date: j(2, 2), email: 'p.giraud@gmail.com' }], vu_nb: 0 },
+      { id: 'demo-0004-dddd', created_at: j(3, 6), commune: 'Figari', section: 'C', numero: '95', zone: 'N', verdict: 'non', status: 'ready', download_slug: 'demo', agent: 'Julie ROSSI', perso: { status: 'pret', client: { prenom: 'Laura', nom: 'BIANCHI' } }, envois: [], vu_nb: 0 },
+      { id: 'demo-0005-eeee', created_at: j(5, 1), commune: 'Lecci', section: 'B', numero: '460', zone: 'UC', verdict: 'ok', status: 'ready', download_slug: 'demo', agent: 'Cédric MULLER', perso: null, envois: [], vu_nb: 0 }
+    ];
+  }
   function nb(n) { return Number(n || 0).toLocaleString('fr-FR'); }
   function top(list, key) {
     var m = {}; list.forEach(function (d) { var k = key(d); if (k) m[k] = (m[k] || 0) + 1; });
@@ -106,6 +118,15 @@
     var a = document.createElement('a'); a.href = URL.createObjectURL(new Blob([csv], { type: 'text/csv;charset=utf-8' })); a.download = 'rapports-terrenurbanisme.csv'; document.body.appendChild(a); a.click(); a.remove();
   }
   function start() {
+    if (DEMO) {
+      ALL = demoRows();
+      var r0 = render; render = function () { r0(); document.querySelectorAll('#bo-rows a').forEach(function (a) { var h = a.getAttribute('href') || ''; if (/personnaliser\.html/.test(h)) a.href = h + '&demo=1'; else { a.href = '/personnaliser.html?id=demo&demo=1'; a.removeAttribute('target'); } }); };
+      $('bo-per').addEventListener('change', function () { window.__boLim = 50; render(); });
+      $('bo-q').addEventListener('input', render);
+      $('bo-exp').addEventListener('click', exporter);
+      $('bo-more').addEventListener('click', function () { window.__boLim = (window.__boLim || 50) + 100; render(); });
+      render(); return;
+    }
     var Auth = window.TUAuth; if (!Auth || !Auth.client) { setTimeout(start, 150); return; }
     Auth.user().then(function (u) {
       if (!u) { location.replace(Auth.loginUrl ? Auth.loginUrl('/espace-pro.html') : '/connexion.html'); return; }

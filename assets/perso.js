@@ -252,6 +252,7 @@
       }
       function fail(er) {
         bt.disabled = false; bt.textContent = 'Générer la version client';
+        if (er && er.code === 'demo') { msg('Démonstration : la génération est désactivée. Sur votre compte, le rapport client se génère ici en 1 à 2 minutes.', 'ok'); return; }
         msg(er && er.code === 'ancien' ? 'Ce rapport a été généré avant la mise en place de la version client. Générez un nouveau rapport sur cette parcelle.' : 'La génération n\'a pas abouti. Réessayez dans un instant.', 'err');
       }
       var t0 = Date.now();
@@ -266,6 +267,20 @@
       call(body).then(function (r) { if (r && r.pending) { msg('Génération en cours, cela prend 2 à 4 minutes. Vous pouvez rester sur cette page.'); setTimeout(poll, 20000); } else poll(); }).catch(fail);
     });
   }
-  function boot() { if (!window.TUAuth || !TUAuth.ready) { setTimeout(boot, 120); return; } A = window.TUAuth; A.user().then(start); }
+  // Démonstration sans connexion (versions de test uniquement) : formulaire rempli, sans génération réelle
+  var DEMO = /(^|[?&])demo=1/.test(location.search) && !/terrenurbanisme\.com$/.test(location.hostname);
+  function demoBoot() {
+    if (!id) id = 'demo';
+    var q = function (data) { var o = { select: function () { return o; }, eq: function () { return o; }, maybeSingle: function () { return Promise.resolve({ data: data }); }, then: function (f) { return Promise.resolve({ data: data }).then(f); } }; return o; };
+    A = { client: { from: function () { return q({ commune: 'Sotta', section: 'B', numero: '842', agent: 'Cédric MULLER', download_slug: '' }); }, rpc: function () { return Promise.resolve({}); }, storage: { from: function () { return { createSignedUrl: function () { return Promise.resolve({}); }, upload: function () { return Promise.resolve({}); } }; } } }, account: function () { return Promise.resolve({ nom: 'Agence démonstration' }); }, loginUrl: function () { return '#'; } };
+    call = function (b) {
+      if (b.action === 'apercu_dossier') return Promise.resolve({ view: '', pret: true, chapitres: Object.keys(LIB), client: { court: 'https://terrenurbanisme.com/r/c-demo00000000', view: '', url: '#' }, perso: { client: { civ: 'M.', prenom: 'Maxime', nom: 'DUPONT', email: 'maxime.dupont@gmail.com', tel: '06 78 56 45 32' }, reco: { type: 'maison', designation: 'Villa de 120 m² sur un terrain plat de 1 200 m², vue dégagée, au calme, à 5 minutes des commerces.', bas: '480 000', haut: '540 000', conseille: '520 000', hono: '5', nego: '4', delai: '6', fiche: { shab: '120', sterrain: '1200', pieces: '5', chambres: '3', annee: '2008', dpe: 'C', etat: 'tres_bon', atouts: ['Piscine', 'Vue dégagée', 'Terrasse', 'Calme'] } } } });
+      return Promise.reject({ code: 'demo' });
+    };
+    start({ id: 'demo' });
+    var m = document.createElement('p'); m.className = 'ps-msg ps-ok'; m.textContent = 'Démonstration : les données sont fictives et la génération du rapport est désactivée.';
+    var app = $('ps-app'); if (app) app.insertBefore(m, app.firstChild);
+  }
+  function boot() { if (DEMO) { demoBoot(); return; } if (!window.TUAuth || !TUAuth.ready) { setTimeout(boot, 120); return; } A = window.TUAuth; A.user().then(start); }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', boot); else boot();
 })();
