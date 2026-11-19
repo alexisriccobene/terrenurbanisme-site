@@ -75,6 +75,11 @@
                 if (tt) { var SL = (map.subs[cur] = map.subs[cur] || []); if (!SL.some(function (x) { return x.t === tt; })) SL.push({ n: ns, t: tt, p: n }); }
               }
             }
+            if (!map.tu) {
+              var at = tc.items.map(function (i) { return i.str; }).join(' ').replace(/[\u00a0\u202f]/g, ' ');
+              var mm = at.match(/Fourchette estim[ée]e du terrain\s*([\d ]{3,14})\s*€\s*à\s*([\d ]{3,14})\s*€\s*Valeur centrale\s*([\d ]{3,14})\s*€/);
+              if (mm) map.tu = { lo: mm[1].trim(), hi: mm[2].trim(), mid: mm[3].trim() };
+            }
             if (cur) { (map[cur] = map[cur] || []).push(n); if (cur === 'Environnement et marché immobilier' && /especesprotegees/.test(nrm(all))) map.especes.push(n); }
             return next();
           });
@@ -295,6 +300,18 @@
       (function subsWhenReady() {
         if (!MAIL.slug) { setTimeout(subsWhenReady, 400); return; }
         loadPV().then(function (map) {
+          // Surface du terrain reprise automatiquement de la page de garde du rapport (surface cadastrale)
+          var ff = $('ps-form');
+          if (ff.sterrain && !ff.sterrain.value && PV.doc) PV.doc.getPage(1).then(function (pg) { return pg.getTextContent(); }).then(function (tc) {
+            var tx = tc.items.map(function (i) { return i.str; }).join(' ').replace(/[\u00a0\u202f]/g, ' ');
+            var m = tx.match(/Surface cadastrale\s*([\d ]{1,12})\s*m/);
+            if (m && !ff.sterrain.value) { ff.sterrain.value = m[1].replace(/\s/g, ''); ff.sterrain.dispatchEvent(new Event('input')); }
+          }).catch(function () {});
+          if (map.tu) {
+            var tb = $('ps-tu');
+            if (tb) { tb.innerHTML = '<span>Fourchette calculée par TerrenUrbanisme</span><b>' + map.tu.lo + ' € à ' + map.tu.hi + ' €</b><em>Valeur centrale ' + map.tu.mid + ' € · d\'après les ventes réelles du secteur. Elle figure toujours dans le rapport, avant votre avis.</em>'; tb.hidden = false; }
+            if (!ff.bas.value && !ff.haut.value && !ff.conseille.value) { ff.bas.value = map.tu.lo; ff.haut.value = map.tu.hi; ff.conseille.value = map.tu.mid; ff.conseille.dispatchEvent(new Event('input')); }
+          }
           map.ordre.forEach(function (t, i) {
             var c = document.querySelector('[data-ch="' + t.replace(/"/g, '\\"') + '"]'); if (!c) return;
             var lab = c.closest('label'), subs = map.subs[t] || [];

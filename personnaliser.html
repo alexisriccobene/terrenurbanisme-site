@@ -60,6 +60,7 @@
 .ps-at span{display:inline-block;padding:8px 13px;border-radius:999px;border:1.5px solid var(--ligne);font-size:14px;font-weight:600;color:var(--ink);background:#fff}
 .ps-at input:checked+span{background:var(--t);border-color:var(--t);color:#fff}
 .ps-at input:focus-visible+span{outline:2px solid var(--t);outline-offset:2px}
+.ps-tu{display:flex;flex-direction:column;gap:3px;margin:0 0 12px;padding:12px 14px;border-radius:12px;background:#F3F5F7;border:1px solid #DDE3E8;border-left:4px solid var(--t)}.ps-tu span{font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:var(--t);font-weight:600}.ps-tu b{font-size:18px}.ps-tu em{font-style:normal;font-size:13px;color:#5B6670}
 .ps-calc{margin-top:12px;padding:12px 14px;border-radius:12px;background:#F4F8F1;border:1px solid #D6E6CC;font-size:14px;line-height:1.6}
 .ps-calc b{font-size:16px}
 .ps-alerte{display:flex;gap:10px;align-items:flex-start;margin-top:14px;padding:12px 14px;border-radius:12px;background:#F6E5DD;cursor:pointer;font-size:14.5px;font-weight:600}
@@ -119,6 +120,7 @@
 </div>
 <label class="ps-f" style="margin-top:14px"><span>Désignation du bien <button type="button" class="ps-link" id="ps-des-auto" hidden>Rétablir le texte automatique</button></span><textarea name="designation" placeholder="Choisissez le type de bien : la désignation s'écrit toute seule. Vous pouvez la modifier."></textarea></label>
 <p class="ps-lab">Votre avis de valeur</p>
+<div class="ps-tu" id="ps-tu" hidden></div>
 <div class="ps-g3"><label class="ps-f">Fourchette basse (€)<input name="bas" inputmode="numeric" placeholder="ex. 180 000"></label><label class="ps-f">Fourchette haute (€)<input name="haut" inputmode="numeric" placeholder="ex. 220 000"></label><label class="ps-f">Prix recommandé (€)<input name="conseille" inputmode="numeric" placeholder="ex. 199 000"></label></div>
 <p class="ps-lab">Conditions de vente</p>
 <div class="ps-g"><label class="ps-f">Honoraires (%)<input name="hono" inputmode="decimal" placeholder="ex. 5"></label><label class="ps-f">À la charge<select name="hono_charge"><option value="vendeur">du vendeur</option><option value="acquereur">de l'acquéreur</option></select></label></div>
@@ -158,7 +160,7 @@
 <p class="legal">© 2026 TerrenUrbanisme. Les informations fournies sont établies à partir de sources publiques ; elles ne constituent ni un certificat d'urbanisme, ni une autorisation d'urbanisme, ni un avis juridique, et ne peuvent pas être jointes à une demande de permis de construire. Sources : cadastre, Géoportail de l'Urbanisme, IGN, Géorisques, Collectivité de Corse.</p>
 </div></footer>
 <script defer src="/assets/config.js?v=v85"></script><script defer src="/assets/consent.js?v=v85"></script><script defer src="/assets/supabase.js?v=v85"></script><script defer src="/assets/auth.js?v=v103"></script><script defer src="/assets/app.js?v=v100"></script>
-<script defer src="/assets/perso.js?v=12"></script>
+<script defer src="/assets/perso.js?v=14"></script>
 <div class="ps-lb" id="ps-lb" hidden role="dialog" aria-modal="true" aria-label="Aperçu de la page retirée"><div class="ps-lb-top"><button type="button" id="ps-lb-prev" aria-label="Page précédente">‹</button><button type="button" id="ps-lb-next" aria-label="Page suivante">›</button><span id="ps-lb-t"></span><em>Retirée du rapport client</em><button type="button" id="ps-lb-x" aria-label="Fermer">Fermer</button></div><div class="ps-lb-img"><img id="ps-lb-i" alt=""></div></div>
 </body>
 </html>
