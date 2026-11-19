@@ -62,11 +62,13 @@
       var env = (d.envois || []).slice(-1)[0];
       var act = d.ex ? '<span style="color:var(--muet)">Exemple</span>' : d.status === 'ready' && d.download_slug
         ? '<div class="bo-act"><a href="/r/' + encodeURIComponent(d.download_slug) + '" target="_blank" rel="noopener">Rapport</a>'
-          + (pret ? '<a class="pr" href="' + court + '" target="_blank" rel="noopener">Version client</a><a href="/personnaliser.html?id=' + encodeURIComponent(d.id) + '">Modifier · renvoyer</a>'
+          + (pret ? '<a class="pr" href="' + court + '?a=1" target="_blank" rel="noopener">Version client</a><a href="/personnaliser.html?id=' + encodeURIComponent(d.id) + '">Modifier · renvoyer</a>'
                   : '<a class="pr" href="/personnaliser.html?id=' + encodeURIComponent(d.id) + '">Préparer pour le client</a>') + '</div>'
         : '<span style="color:var(--muet)">' + (d.status === 'ready' ? 'Disponible' : 'En préparation') + '</span>';
       var client = d.ex ? '–' : (nomC ? '<b>' + esc(nomC) + '</b>' : '<span style="color:var(--muet)">–</span>') + (cl.email ? '<br><small style="color:var(--muet)">' + esc(cl.email) + '</small>' : '');
       var envoi = env ? '<span class="bo-v ok">Envoyé</span><br><small style="color:var(--muet)">' + new Date(env.date).toLocaleDateString('fr-FR') + ' à ' + new Date(env.date).toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' }) + (env.email ? '<br>' + esc(env.email) : '') + '</small>' : (pret ? '<span class="bo-v cond">Prête, non envoyée</span>' : '<span style="color:var(--muet)">–</span>');
+      if (d.vu_nb > 0) envoi += '<br><span class="bo-v ok" style="background:#E3EEF9;color:#1F4E79">Ouvert par le client</span><br><small style="color:var(--muet)">' + (d.vu_nb > 1 ? d.vu_nb + ' fois · dernière le ' + new Date(d.vu_dernier).toLocaleDateString('fr-FR') : 'le ' + new Date(d.vu_le).toLocaleDateString('fr-FR') + ' à ' + new Date(d.vu_le).toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' })) + '</small>';
+      else if (env) envoi += '<br><small style="color:var(--muet)">Pas encore ouvert</small>';
       return '<tr><td>' + dt.toLocaleDateString('fr-FR') + '<br><small style="color:var(--muet)">' + dt.toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' }) + '</small></td><td><b>' + esc(d.commune) + '</b><br><small style="color:var(--muet)">' + esc(d.section) + ' ' + esc(d.numero) + (d.zone ? ' · zone ' + esc(d.zone) : '') + '</small></td><td>' + esc(d.agent || '–') + '</td><td>' + (v ? '<span class="bo-v ' + v[0] + '">' + v[1] + '</span>' : '–') + '</td><td>' + client + '</td><td>' + envoi + '</td><td>' + act + '</td></tr>';
     }).join('');
     $('bo-empty').hidden = L.length > 0;
@@ -96,9 +98,9 @@
   }
   function exporter() {
     var L = periode(ALL), sep = ';';
-    var rows = [['Date', 'Agent', 'Client', 'E-mail client', 'Envoyé le', 'Commune', 'Section', 'Numéro', 'Zone', 'Verdict', 'Projet', 'Référence', 'Lien']].concat(L.map(function (d) {
+    var rows = [['Date', 'Agent', 'Client', 'E-mail client', 'Envoyé le', 'Ouvert le', 'Ouvertures', 'Commune', 'Section', 'Numéro', 'Zone', 'Verdict', 'Projet', 'Référence', 'Lien']].concat(L.map(function (d) {
       var cl = (d.perso && d.perso.client) || {}, ev = (d.envois || []).slice(-1)[0];
-      return [new Date(d.created_at).toLocaleString('fr-FR'), d.agent || '', [cl.prenom, cl.nom].filter(Boolean).join(' '), cl.email || '', ev ? new Date(ev.date).toLocaleString('fr-FR') : '', d.commune, d.section, d.numero, d.zone || '', (VER[d.verdict] || ['', ''])[1], d.projet || '', d.order_ref || '', d.download_slug ? location.origin + '/r/' + d.download_slug : ''];
+      return [new Date(d.created_at).toLocaleString('fr-FR'), d.agent || '', [cl.prenom, cl.nom].filter(Boolean).join(' '), cl.email || '', ev ? new Date(ev.date).toLocaleString('fr-FR') : '', d.vu_le ? new Date(d.vu_le).toLocaleString('fr-FR') : '', d.vu_nb || 0, d.commune, d.section, d.numero, d.zone || '', (VER[d.verdict] || ['', ''])[1], d.projet || '', d.order_ref || '', d.download_slug ? location.origin + '/r/' + d.download_slug : ''];
     }));
     var csv = '﻿' + rows.map(function (r) { return r.map(function (c) { return '"' + String(c == null ? '' : c).replace(/"/g, '""') + '"'; }).join(sep); }).join('\r\n');
     var a = document.createElement('a'); a.href = URL.createObjectURL(new Blob([csv], { type: 'text/csv;charset=utf-8' })); a.download = 'rapports-terrenurbanisme.csv'; document.body.appendChild(a); a.click(); a.remove();
@@ -107,7 +109,7 @@
     var Auth = window.TUAuth; if (!Auth || !Auth.client) { setTimeout(start, 150); return; }
     Auth.user().then(function (u) {
       if (!u) { location.replace(Auth.loginUrl ? Auth.loginUrl('/espace-pro.html') : '/connexion.html'); return; }
-      Auth.client.from('dossiers').select('id,created_at,commune,section,numero,zone,verdict,projet,status,download_slug,order_ref,agent,perso,envois').eq('user_id', u.id).order('created_at', { ascending: false }).limit(2000).then(function (r) {
+      Auth.client.from('dossiers').select('id,created_at,commune,section,numero,zone,verdict,projet,status,download_slug,order_ref,agent,perso,envois,vu_le,vu_nb,vu_dernier').eq('user_id', u.id).order('created_at', { ascending: false }).limit(2000).then(function (r) {
         ALL = (r.data || []).filter(function (d) { return d.status !== 'error'; });
         Promise.all([Auth.account(), Auth.agents ? Auth.agents() : []]).then(function (v) {
           var c = v[0], noms = (v[1] || []).map(function (a) { return a.nom; });

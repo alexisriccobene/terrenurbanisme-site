@@ -175,6 +175,16 @@
     var to = $('ps-to').value.trim(), body = $('ps-body').value;
     $('ps-mail').href = 'mailto:' + encodeURIComponent(to).replace(/%40/g, '@') + '?subject=' + encodeURIComponent($('ps-obj').value) + '&body=' + encodeURIComponent(body);
   }
+  // Calcul affiché à l'agent : prix net vendeur, honoraires, prix attendu
+  function drawCalc() {
+    var f = $('ps-form'), box = $('ps-calc'); if (!box) return;
+    var pc = Number(String(f.conseille.value).replace(/[^0-9]/g, '')), h = Number(String(f.hono.value).replace(',', '.')) || 0, n = Number(String(f.nego.value).replace(',', '.')) || 0;
+    if (!pc || (!h && !n)) { box.hidden = true; return; }
+    var e = function (v) { return Math.round(v).toLocaleString('fr-FR') + ' €'; }, out = [];
+    if (h) { var net = Math.round(pc / (1 + h / 100) / 100) * 100; out.push('Prix net vendeur : <b>' + e(net) + '</b>'); out.push('Honoraires : ' + e(pc - net) + ' à la charge ' + (f.hono_charge.value === 'acquereur' ? 'de l\'acquéreur' : 'du vendeur')); }
+    if (n) out.push('Prix de vente attendu : environ ' + e(Math.round(pc * (1 - n / 100) / 1000) * 1000));
+    box.innerHTML = out.join('<br>'); box.hidden = false;
+  }
   function showSend(url) {
     MAIL.url = url || MAIL.url; $('ps-send').hidden = false; drawMail();
   }
@@ -193,7 +203,12 @@
       if (new URLSearchParams(location.search).get('neuf')) msg('Votre rapport est prêt. Choisissez les rubriques, ajoutez votre prix et vos photos, puis générez la version de votre client.', 'ok');
       var cl = P.client || {}, rc = P.reco || {};
       ['civ', 'prenom', 'nom', 'email', 'tel'].forEach(function (k) { if (cl[k]) f[k].value = cl[k]; });
-      ['type', 'designation', 'bas', 'haut', 'conseille', 'commentaire'].forEach(function (k) { if (rc[k]) f[k].value = rc[k]; });
+      ['type', 'designation', 'bas', 'haut', 'conseille', 'commentaire', 'hono', 'hono_charge', 'nego', 'delai'].forEach(function (k) { if (rc[k]) f[k].value = rc[k]; });
+      var fi = rc.fiche || {};
+      ['shab', 'sterrain', 'pieces', 'chambres', 'annee', 'dpe', 'etat'].forEach(function (k) { if (fi[k]) f[k].value = fi[k]; });
+      (fi.atouts || []).forEach(function (a) { var c = document.querySelector('#ps-at input[value="' + a.replace(/"/g, '') + '"]'); if (c) c.checked = true; });
+      if (rc.alerte === false) f.alerte.checked = false;
+      ['conseille', 'hono', 'hono_charge', 'nego'].forEach(function (k) { f[k].addEventListener('input', drawCalc); f[k].addEventListener('change', drawCalc); }); drawCalc();
       var exc = P.exclure || [], sans = P.sans || [];
       var html = (r.chapitres || Object.keys(LIB)).map(function (t) {
         var sub = t === 'Environnement et marché immobilier' ? '<label class="ps-ck"><input type="checkbox" data-sans="especes"' + (sans.indexOf('especes') >= 0 ? '' : ' checked') + '><span>Espèces protégées observées autour<small>Liste des espèces et coût des études écologiques</small><em class="ps-off"></em></span></label><div class="ps-pv" data-pv="especes"></div>' : '';
@@ -202,7 +217,7 @@
       $('ps-ch').innerHTML = html + '<p style="color:var(--muet);font-size:13px;margin:10px 0 0">La synthèse, l\'avertissement et les sources restent toujours présents. Une rubrique absente de ce terrain n\'apparaît pas.</p><p class="ps-sum" id="ps-off-sum"></p>';
       $('ps-ch').addEventListener('change', drawCk); drawCk();
       (P.photos || []).forEach(function (path) { A.client.storage.from('perso').createSignedUrl(path, 3600).then(function (s) { if (s.data) { photos.push({ path: path, url: s.data.signedUrl }); drawPhotos(); } }); });
-      if (r.client) { $('ps-frame').src = r.client.view; $('ps-open').href = r.client.court || r.client.view; $('ps-dl').href = r.client.url; $('ps-dl').hidden = false; showSend(r.client.court || r.client.url); $('ps-pt').textContent = 'Dernière version client'; $('ps-ps').textContent = 'Modifiez les réglages puis générez à nouveau si besoin.'; }
+      if (r.client) { $('ps-frame').src = r.client.view; $('ps-open').href = r.client.court ? r.client.court + '?a=1' : r.client.view; $('ps-dl').href = r.client.url; $('ps-dl').hidden = false; showSend(r.client.court || r.client.url); $('ps-pt').textContent = 'Dernière version client'; $('ps-ps').textContent = 'Modifiez les réglages puis générez à nouveau si besoin.'; }
       if (!r.pret) msg('Ce rapport a été généré avant la mise en place de la version client. Générez un nouveau rapport sur cette parcelle pour pouvoir le personnaliser.', 'err');
     }).catch(function () { $('ps-load').textContent = 'Ce rapport n\'est pas accessible depuis votre compte.'; });
     $('ps-files').addEventListener('change', function (e) {
@@ -221,7 +236,8 @@
       var f = e.target, bt = $('ps-go');
       var body = { action: 'personnaliser', id: id,
         client: { civ: f.civ.value, prenom: f.prenom.value.trim(), nom: f.nom.value.trim(), email: f.email.value.trim(), tel: f.tel.value.trim() },
-        reco: { type: f.type.value, designation: f.designation.value.trim(), bas: f.bas.value.trim(), haut: f.haut.value.trim(), conseille: f.conseille.value.trim(), commentaire: f.commentaire.value.trim() },
+        reco: { type: f.type.value, designation: f.designation.value.trim(), alerte: f.alerte.checked, hono: f.hono.value.trim(), hono_charge: f.hono_charge.value, nego: f.nego.value.trim(), delai: f.delai.value,
+          fiche: { shab: f.shab.value.trim(), sterrain: f.sterrain.value.trim(), pieces: f.pieces.value.trim(), chambres: f.chambres.value.trim(), annee: f.annee.value.trim(), dpe: f.dpe.value, etat: f.etat.value, atouts: Array.prototype.slice.call(document.querySelectorAll('#ps-at input:checked')).map(function (c) { return c.value; }) }, bas: f.bas.value.trim(), haut: f.haut.value.trim(), conseille: f.conseille.value.trim(), commentaire: f.commentaire.value.trim() },
         photos: photos.map(function (p) { return p.path; }),
         exclure: Array.prototype.slice.call(document.querySelectorAll('[data-ch]')).filter(function (c) { return !c.checked; }).map(function (c) { return c.getAttribute('data-ch'); }),
         sans: Array.prototype.slice.call(document.querySelectorAll('[data-sans]')).filter(function (c) { return !c.checked; }).map(function (c) { return c.getAttribute('data-sans'); })
@@ -229,7 +245,7 @@
       bt.disabled = true; bt.textContent = 'Génération en cours… (1 à 2 minutes)'; msg('');
       function done(cl) {
         bt.disabled = false; bt.textContent = 'Générer à nouveau';
-        $('ps-frame').src = cl.view; $('ps-open').href = cl.court || cl.view; $('ps-dl').href = cl.url; $('ps-dl').hidden = false;
+        $('ps-frame').src = cl.view; $('ps-open').href = cl.court ? cl.court + '?a=1' : cl.view; $('ps-dl').href = cl.url; $('ps-dl').hidden = false;
         $('ps-pt').textContent = 'Version client'; $('ps-ps').textContent = 'Voici le rapport que recevra votre client. Lien valable 7 jours.';
         showSend(cl.court || cl.url); msg('Version client prête. Téléchargez-la ou envoyez-la directement à votre client.', 'ok');
         if (window.innerWidth < 860) $('ps-pt').scrollIntoView({ behavior: 'smooth' });

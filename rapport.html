@@ -20,7 +20,7 @@
 <div id="wrap"><div id="viewer" class="pdfViewer"></div></div>
 <script type="module">
 const slug = (location.pathname.indexOf('/r/') === 0 ? decodeURIComponent(location.pathname.slice(3).replace(/[/]$/, '')) : '') || new URLSearchParams(location.search).get('r') || '';
-const url = '/rapport/' + encodeURIComponent(slug) + '.pdf';
+const url = '/rapport/' + encodeURIComponent(slug) + '.pdf' + (new URLSearchParams(location.search).get('a') === '1' ? '?a=1' : '');
 document.getElementById('dl').href = url;
 const show = t => { document.getElementById('wrap').innerHTML = '<div class="msg">' + t + '</div>'; };
 if (!/^[a-z0-9-]{8,120}$/.test(slug)) show('Ce lien de rapport n\'est pas valide. Retrouvez vos rapports dans <a href="/espace.html">votre espace</a>.');

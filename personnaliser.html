@@ -54,6 +54,17 @@
 .ps-pv-g figure span{position:absolute;left:4px;bottom:4px;z-index:1;background:rgba(42,29,23,.8);color:#fff;font-size:10.5px;font-weight:700;padding:2px 5px;border-radius:4px}
 .ps-pv-g figure.more{display:flex;align-items:center;justify-content:center}.ps-pv-g figure.more::after{display:none}.ps-pv-g figure.more span{position:static;background:none;color:var(--muet);font-size:14px}
 @media (max-width:560px){.ps-pv{margin-left:0}}
+.ps-lab{margin:18px 0 8px;font-size:13px;font-weight:800;letter-spacing:.04em;text-transform:uppercase;color:var(--t)}
+.ps-at{display:flex;flex-wrap:wrap;gap:8px}
+.ps-at label{cursor:pointer}.ps-at input{position:absolute;opacity:0;pointer-events:none}
+.ps-at span{display:inline-block;padding:8px 13px;border-radius:999px;border:1.5px solid var(--ligne);font-size:14px;font-weight:600;color:var(--ink);background:#fff}
+.ps-at input:checked+span{background:var(--t);border-color:var(--t);color:#fff}
+.ps-at input:focus-visible+span{outline:2px solid var(--t);outline-offset:2px}
+.ps-calc{margin-top:12px;padding:12px 14px;border-radius:12px;background:#F4F8F1;border:1px solid #D6E6CC;font-size:14px;line-height:1.6}
+.ps-calc b{font-size:16px}
+.ps-alerte{display:flex;gap:10px;align-items:flex-start;margin-top:14px;padding:12px 14px;border-radius:12px;background:#F6E5DD;cursor:pointer;font-size:14.5px;font-weight:600}
+.ps-alerte input{width:20px;height:20px;accent-color:var(--t);flex:none;margin-top:1px}
+.ps-alerte small{display:block;font-weight:400;color:var(--muet);font-size:12.5px}
 .ps-sum{margin:12px 0 0;padding:10px 12px;border-radius:10px;background:#F6E5DD;color:var(--t);font-size:13.5px;font-weight:600;line-height:1.45}
 .ps-ph{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px;margin-top:12px}
 .ps-ph div{position:relative;aspect-ratio:4/3;border-radius:10px;overflow:hidden;background:var(--soft)}
@@ -85,11 +96,21 @@
 <form id="ps-form" novalidate>
 <div class="ps-card"><h2><span class="ps-num">1</span>Votre client</h2><p class="ps-sub">Son nom figure sur la couverture du rapport.</p>
 <div class="ps-g3"><label class="ps-f">Civilité<select name="civ"><option value="">—</option><option>M.</option><option>Mme</option><option>M. et Mme</option></select></label><label class="ps-f">Prénom<input name="prenom" autocomplete="off"></label><label class="ps-f">Nom<input name="nom" autocomplete="off"></label></div>
-<div class="ps-g" style="margin-top:10px"><label class="ps-f">E-mail<input name="email" type="email" autocomplete="off"></label><label class="ps-f">Téléphone<input name="tel" type="tel" autocomplete="off"></label></div></div>
+<div class="ps-g" style="margin-top:10px"><label class="ps-f">E-mail<input name="email" type="email" autocomplete="off"></label><label class="ps-f">Téléphone<input name="tel" type="tel" autocomplete="off"></label></div>
+<label class="ps-alerte"><input type="checkbox" name="alerte" checked><span>Me prévenir par e-mail dès que mon client ouvre le rapport<small>Le bon moment pour l'appeler.</small></span></label></div>
 <div class="ps-card"><h2><span class="ps-num">2</span>Désignation et avis de valeur</h2><p class="ps-sub">Le rapport présente d'abord la fourchette établie par TerrenUrbanisme à partir des ventes réelles, puis votre prix recommandé.</p>
-<div class="ps-g"><label class="ps-f">Type de bien<select name="type"><option value="">—</option><option value="terrain">Terrain</option><option value="maison">Maison</option><option value="appartement">Appartement</option><option value="autre">Autre bien</option></select></label></div>
+<div class="ps-g"><label class="ps-f">Type de bien<select name="type"><option value="">—</option><option value="terrain">Terrain</option><option value="maison">Maison</option><option value="appartement">Appartement</option><option value="autre">Autre bien</option></select></label><label class="ps-f">État général<select name="etat"><option value="">—</option><option value="neuf">Neuf ou récent</option><option value="tres_bon">Très bon état</option><option value="bon">Bon état</option><option value="rafraichir">À rafraîchir</option><option value="renover">À rénover</option></select></label></div>
+<p class="ps-lab">Fiche du bien</p>
+<div class="ps-g3"><label class="ps-f">Surface habitable (m²)<input name="shab" inputmode="numeric" placeholder="ex. 120"></label><label class="ps-f">Surface du terrain (m²)<input name="sterrain" inputmode="numeric" placeholder="ex. 1 200"></label><label class="ps-f">Année de construction<input name="annee" inputmode="numeric" placeholder="ex. 2008"></label></div>
+<div class="ps-g3" style="margin-top:10px"><label class="ps-f">Pièces<input name="pieces" inputmode="numeric" placeholder="ex. 5"></label><label class="ps-f">Chambres<input name="chambres" inputmode="numeric" placeholder="ex. 3"></label><label class="ps-f">DPE<select name="dpe"><option value="">—</option><option>A</option><option>B</option><option>C</option><option>D</option><option>E</option><option>F</option><option>G</option></select></label></div>
+<p class="ps-lab">Atouts</p><div class="ps-at" id="ps-at"><label><input type="checkbox" value="Piscine"><span>Piscine</span></label><label><input type="checkbox" value="Vue mer"><span>Vue mer</span></label><label><input type="checkbox" value="Vue dégagée"><span>Vue dégagée</span></label><label><input type="checkbox" value="Garage"><span>Garage</span></label><label><input type="checkbox" value="Terrasse"><span>Terrasse</span></label><label><input type="checkbox" value="Jardin"><span>Jardin</span></label><label><input type="checkbox" value="Plain-pied"><span>Plain-pied</span></label><label><input type="checkbox" value="Climatisation"><span>Climatisation</span></label><label><input type="checkbox" value="Calme"><span>Calme</span></label><label><input type="checkbox" value="Proche commerces"><span>Proche commerces</span></label><label><input type="checkbox" value="Viabilisé"><span>Viabilisé</span></label><label><input type="checkbox" value="Plat"><span>Plat</span></label></div>
 <label class="ps-f" style="margin-top:10px">Désignation du bien<textarea name="designation" placeholder="ex. Terrain plat de 1 200 m², viabilisé, vue mer, en bordure de voie communale"></textarea></label>
-<div class="ps-g3" style="margin-top:10px"><label class="ps-f">Fourchette basse de l'agence (€)<input name="bas" inputmode="numeric" placeholder="ex. 180 000"></label><label class="ps-f">Fourchette haute de l'agence (€)<input name="haut" inputmode="numeric" placeholder="ex. 220 000"></label><label class="ps-f">Prix recommandé par l'agence (€)<input name="conseille" inputmode="numeric" placeholder="ex. 199 000"></label></div>
+<p class="ps-lab">Votre avis de valeur</p>
+<div class="ps-g3"><label class="ps-f">Fourchette basse de l'agence (€)<input name="bas" inputmode="numeric" placeholder="ex. 180 000"></label><label class="ps-f">Fourchette haute de l'agence (€)<input name="haut" inputmode="numeric" placeholder="ex. 220 000"></label><label class="ps-f">Prix recommandé par l'agence (€)<input name="conseille" inputmode="numeric" placeholder="ex. 199 000"></label></div>
+<p class="ps-lab">Prix et conditions de vente</p>
+<div class="ps-g" ><label class="ps-f">Honoraires (%)<input name="hono" inputmode="decimal" placeholder="ex. 5"></label><label class="ps-f">À la charge<select name="hono_charge"><option value="vendeur">du vendeur</option><option value="acquereur">de l'acquéreur</option></select></label></div>
+<div class="ps-g" style="margin-top:10px"><label class="ps-f">Marge de négociation estimée (%)<input name="nego" inputmode="decimal" placeholder="ex. 4"></label><label class="ps-f">Délai de vente estimé<select name="delai"><option value="">—</option><option value="3">Moins de 3 mois</option><option value="6">3 à 6 mois</option><option value="9">6 à 9 mois</option><option value="12">9 à 12 mois</option></select></label></div>
+<div class="ps-calc" id="ps-calc" hidden></div>
 <label class="ps-f" style="margin-top:10px">Votre commentaire<textarea name="commentaire" placeholder="Points forts du terrain, état du marché, conseils pour la vente…"></textarea></label></div>
 <div class="ps-card"><h2><span class="ps-num">3</span>Photos du bien</h2><p class="ps-sub">Jusqu'à 8 photos, ajoutées sur la même page.</p>
 <label class="ps-drop" for="ps-files">Ajouter des photos</label><input type="file" id="ps-files" accept="image/*" multiple hidden>
@@ -124,7 +145,7 @@
 <p class="legal">© 2026 TerrenUrbanisme. Les informations fournies sont établies à partir de sources publiques ; elles ne constituent ni un certificat d'urbanisme, ni une autorisation d'urbanisme, ni un avis juridique, et ne peuvent pas être jointes à une demande de permis de construire. Sources : cadastre, Géoportail de l'Urbanisme, IGN, Géorisques, Collectivité de Corse.</p>
 </div></footer>
 <script defer src="/assets/config.js?v=v85"></script><script defer src="/assets/consent.js?v=v85"></script><script defer src="/assets/supabase.js?v=v85"></script><script defer src="/assets/auth.js?v=v98"></script><script defer src="/assets/app.js?v=v98"></script>
-<script defer src="/assets/perso.js?v=7"></script>
+<script defer src="/assets/perso.js?v=8"></script>
 <div class="ps-lb" id="ps-lb" hidden role="dialog" aria-modal="true" aria-label="Aperçu de la page retirée"><div class="ps-lb-top"><button type="button" id="ps-lb-prev" aria-label="Page précédente">‹</button><button type="button" id="ps-lb-next" aria-label="Page suivante">›</button><span id="ps-lb-t"></span><em>Retirée du rapport client</em><button type="button" id="ps-lb-x" aria-label="Fermer">Fermer</button></div><div class="ps-lb-img"><img id="ps-lb-i" alt=""></div></div>
 </body>
 </html>
