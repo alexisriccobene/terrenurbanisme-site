@@ -28,7 +28,7 @@ new = """    const cons = eurs(RC.conseille), bas = eurs(RC.bas), haut = eurs(RC
     if (TYPB || RC.designation) {
       h3('Désignation du bien');
       if (TYPB) kv([['Type de bien', TYPB]], { lw: 0.3 });
-      if (RC.designation) String(RC.designation).split(/\n+/).filter(Boolean).forEach(par => text(par, { size: 10 }));
+      if (RC.designation) String(RC.designation).split(/\\n+/).filter(Boolean).forEach(par => text(par, { size: 10 }));
     }
     if (VS_TU || cons || bas || haut) {
       if (VS_TU) {
