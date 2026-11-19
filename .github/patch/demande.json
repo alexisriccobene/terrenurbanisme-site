@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "fibre_cache.py", "demande": "fibre cache commune"}
+{"fonction": "stripe-webhook", "script": "fibre_coord.py", "demande": "fibre coordonnees web mercator"}
