@@ -1225,19 +1225,6 @@
   "texte_youtube": "Votre agence remet des rapports d'urbanisme à ses clients ? Faites-le à votre image.\n\nAvec les formules Agence et Réseau, votre logo et vos coordonnées figurent sur chaque rapport, toujours établi par TerrenUrbanisme. Un document complet, prêt à envoyer en quelques minutes.\n\nVos clients retiennent votre nom.\n\nChoisissez votre formule : https://terrenurbanisme.com/tarifs.html\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#AgenceImmobiliere #Urbanisme #Immobilier #Prospection"
  },
  {
-  "id": "story-risques-1",
-  "type": "story",
-  "date": "2026-11-19T20:30",
-  "theme": "« Constructible » sur l'annonce, refusé en mairie",
-  "reseaux": [
-   "instagram",
-   "facebook"
-  ],
-  "images": [
-   "Story-risques-1.jpg"
-  ]
- },
- {
   "id": "reel-tu-07-li",
   "type": "reel",
   "date": "2026-11-20T08:30",
@@ -1424,19 +1411,6 @@
   "texte_youtube": "Constructible ou pas ? Vous avez 3 secondes.\n\n1 344 m² à Sotta, en Corse-du-Sud. Réponse : oui, la parcelle est en zone U2, une zone urbaine du PLU. Mais hauteur, emprise au sol et reculs : tout est dans le règlement de la zone.\n\nVous aviez répondu oui ou non ?\n\nVérifiez votre terrain : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#terrainconstructible #corse #PLU #immobilier #terrain",
   "texte_tiktok": "Constructible ou pas ? Vous avez 3 secondes.\n\nVous aviez répondu oui ou non ?\n\nterrenurbanisme.com\n\n#terrainconstructible #corse #PLU #immobilier #terrain",
   "video_tiktok": "TK-TU-Serie-02.mp4"
- },
- {
-  "id": "story-risques-2",
-  "type": "story",
-  "date": "2026-11-21T20:30",
-  "theme": "Vérifier coûte moins qu'un plein",
-  "reseaux": [
-   "instagram",
-   "facebook"
-  ],
-  "images": [
-   "Story-risques-2.jpg"
-  ]
  },
  {
   "id": "nov-m12",
@@ -1720,19 +1694,6 @@
   "texte_linkedin": "Vendre une partie de votre terrain pour financer un projet ? Avant de mandater un géomètre, vérifiez que la division est possible.\n\nAccès à la voie pour chaque lot, réseaux, règles de la zone, prix des ventes du secteur : le rapport TerrenUrbanisme réunit tout ce qu'il faut pour décider.\n\nEn quelques minutes, sans chercher site par site.\n\nCommandez le rapport de votre terrain : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#DivisionParcellaire #TerrainABatir #Urbanisme #Immobilier #PLU",
   "titre_youtube": "Diviser votre terrain pour vendre un lot : est-ce possible ? #Shorts",
   "texte_youtube": "Vendre une partie de votre terrain pour financer un projet ? Avant de mandater un géomètre, vérifiez que la division est possible.\n\nAccès à la voie pour chaque lot, réseaux, règles de la zone, prix des ventes du secteur : le rapport TerrenUrbanisme réunit tout ce qu'il faut pour décider.\n\nEn quelques minutes, sans chercher site par site.\n\nCommandez le rapport de votre terrain : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#DivisionParcellaire #TerrainABatir #Urbanisme #Immobilier #PLU"
- },
- {
-  "id": "story-risques-3",
-  "type": "story",
-  "date": "2026-11-24T20:30",
-  "theme": "5 pièges avant d'acheter un terrain",
-  "reseaux": [
-   "instagram",
-   "facebook"
-  ],
-  "images": [
-   "Story-risques-3.jpg"
-  ]
  },
  {
   "id": "reel-tu-06-li",
@@ -6301,6 +6262,19 @@
   "texte_linkedin": "En commune de montagne, l'urbanisation doit en principe se faire en continuité des bourgs, villages et hameaux existants.\n\nLe rapport TerrenUrbanisme indique si la commune est concernée et ce que cela implique pour votre terrain.\n\nVérifiez votre terrain : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#LoiMontagne #Montagne #Terrain #Urbanisme #PLU"
  },
  {
+  "id": "story-risques-1",
+  "type": "story",
+  "date": "2027-02-02T12:30",
+  "theme": "« Constructible » sur l'annonce, refusé en mairie",
+  "reseaux": [
+   "instagram",
+   "facebook"
+  ],
+  "images": [
+   "Story-risques-1.jpg"
+  ]
+ },
+ {
   "type": "reel",
   "theme": "Sol argileux : ce qu'il faut savoir avant de construire",
   "video": "TU-Reel-96.mp4",
@@ -7377,6 +7351,19 @@
   "texte_facebook": "Une terrasse de plain-pied ne demande en principe aucune démarche. Surélevée de plus de 60 cm, elle crée de l'emprise au sol et demande une autorisation.\n\nLe rapport TerrenUrbanisme vous donne l'emprise encore disponible sur votre terrain.\n\nVérifiez votre projet : https://terrenurbanisme.com\nUne question, un partenariat : contact@terrenurbanisme.com\n\n#Terrasse #Travaux #DeclarationPrealable #PLU #Maison"
  },
  {
+  "id": "story-risques-2",
+  "type": "story",
+  "date": "2027-02-20T12:30",
+  "theme": "Vérifier coûte moins qu'un plein",
+  "reseaux": [
+   "instagram",
+   "facebook"
+  ],
+  "images": [
+   "Story-risques-2.jpg"
+  ]
+ },
+ {
   "type": "reel",
   "theme": "Vrai ou faux : le certificat d'urbanisme est payant",
   "video": "TU-Reel-92.mp4",
@@ -8163,6 +8150,19 @@
    "LI-2027-03-11.jpg"
   ],
   "texte_linkedin": "Vrai ou faux : les combles comptent toujours dans la surface de plancher. Faux.\n\nLa surface de plancher exclut notamment les parties dont la hauteur sous plafond est inférieure ou égale à 1,80 m.\n\nAménager des combles peut donc créer de la surface de plancher, ou non, selon leur hauteur. Ce calcul détermine la formalité à accomplir et, le cas échéant, le seuil de recours à un architecte.\n\nLe rapport complet vous donne les règles de votre zone pour préparer ce type de projet.\n\nhttps://terrenurbanisme.com\n#Urbanisme #Rénovation #Construction"
+ },
+ {
+  "id": "story-risques-3",
+  "type": "story",
+  "date": "2027-03-12T12:30",
+  "theme": "5 pièges avant d'acheter un terrain",
+  "reseaux": [
+   "instagram",
+   "facebook"
+  ],
+  "images": [
+   "Story-risques-3.jpg"
+  ]
  },
  {
   "id": "post-2027-03-12",
