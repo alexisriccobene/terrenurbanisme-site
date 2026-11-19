@@ -5,7 +5,7 @@ on:
     branches: [main]
     paths: ['.github/exemple/demande.json']
 permissions:
-  contents: read
+  contents: write
 jobs:
   ex:
     runs-on: ubuntu-latest
@@ -30,3 +30,5 @@ jobs:
           curl -sf "${H[@]}" -o r.pdf "$U/storage/v1/object/dossiers/$UID_/client/$SES.pdf" || exit 1
           ls -la r.pdf
           echo "publication: $(curl -s "${H[@]}" -H 'Content-Type: application/pdf' -H 'x-upsert: true' -H 'cache-control: max-age=300' --data-binary @r.pdf "$U/storage/v1/object/exemples/$OUT" | head -c 200)"
+          git config user.name "TerrenUrbanisme tests"; git config user.email "contact@terrenurbanisme.com"
+          mkdir -p /tmp/o && cp r.pdf /tmp/o/exemple.pdf && git checkout -q --orphan tests-rapports && git rm -rqf . && cp /tmp/o/exemple.pdf . && git add exemple.pdf && git commit -qm "Exemple agence" && git push -qf origin tests-rapports
