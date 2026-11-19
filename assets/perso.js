@@ -251,7 +251,7 @@
       if (new URLSearchParams(location.search).get('neuf')) msg('Votre rapport est prêt. Choisissez les rubriques, ajoutez votre prix et vos photos, puis générez la version de votre client.', 'ok');
       var cl = P.client || {}, rc = P.reco || {};
       ['civ', 'prenom', 'nom', 'email', 'tel'].forEach(function (k) { if (cl[k]) f[k].value = cl[k]; });
-      ['type', 'bas', 'haut', 'conseille', 'commentaire', 'hono', 'hono_charge', 'delai'].forEach(function (k) { if (rc[k]) f[k].value = rc[k]; });
+      ['type', 'bas', 'haut', 'conseille', 'commentaire', 'hono', 'hono_charge'].forEach(function (k) { if (rc[k]) f[k].value = rc[k]; });
       var fi = rc.fiche || {};
       applyType(fi.atouts || []);
       ['shab', 'sterrain', 'pieces', 'chambres', 'annee', 'dpe', 'etat'].forEach(function (k) { if (fi[k]) f[k].value = fi[k]; });
@@ -290,7 +290,7 @@
       var f = e.target, bt = $('ps-go');
       var body = { action: 'personnaliser', id: id,
         client: { civ: f.civ.value, prenom: f.prenom.value.trim(), nom: f.nom.value.trim(), email: f.email.value.trim(), tel: f.tel.value.trim() },
-        reco: { type: f.type.value, designation: f.designation.value.trim(), alerte: f.alerte.checked, hono: f.hono.value.trim(), hono_charge: f.hono_charge.value, delai: f.delai.value,
+        reco: { type: f.type.value, designation: f.designation.value.trim(), alerte: f.alerte.checked, hono: f.hono.value.trim(), hono_charge: f.hono_charge.value,
           fiche: f.type.value ? { shab: vis('shab'), sterrain: vis('sterrain'), pieces: vis('pieces'), chambres: vis('chambres'), annee: vis('annee'), dpe: vis('dpe'), etat: f.etat.value, atouts: curAtouts() } : null, bas: f.bas.value.trim(), haut: f.haut.value.trim(), conseille: f.conseille.value.trim(), commentaire: f.commentaire.value.trim() },
         photos: photos.map(function (p) { return p.path; }),
         exclure: Array.prototype.slice.call(document.querySelectorAll('[data-ch]')).filter(function (c) { return !c.checked; }).map(function (c) { return c.getAttribute('data-ch'); }),
@@ -328,7 +328,7 @@
     var q = function (data) { var o = { select: function () { return o; }, eq: function () { return o; }, maybeSingle: function () { return Promise.resolve({ data: data }); }, then: function (f) { return Promise.resolve({ data: data }).then(f); } }; return o; };
     A = { client: { from: function () { return q({ commune: 'Sotta', section: 'B', numero: '842', agent: 'Cédric MULLER', download_slug: '' }); }, rpc: function () { return Promise.resolve({}); }, storage: { from: function () { return { createSignedUrl: function () { return Promise.resolve({}); }, upload: function () { return Promise.resolve({}); } }; } } }, account: function () { return Promise.resolve({ nom: 'Agence démonstration' }); }, loginUrl: function () { return '#'; } };
     call = function (b) {
-      if (b.action === 'apercu_dossier') return Promise.resolve({ view: '', pret: true, chapitres: Object.keys(LIB), client: { court: 'https://terrenurbanisme.com/r/c-demo00000000', view: '', url: '#' }, perso: { client: { civ: 'M.', prenom: 'Maxime', nom: 'DUPONT', email: 'maxime.dupont@gmail.com', tel: '06 78 56 45 32' }, reco: { type: 'maison', bas: '480 000', haut: '540 000', conseille: '520 000', hono: '5', delai: '6', fiche: { shab: '120', sterrain: '1200', pieces: '5', chambres: '3', annee: '2008', dpe: 'C', etat: 'tres_bon', atouts: ['Piscine', 'Vue dégagée', 'Terrasse', 'Calme'] } } } });
+      if (b.action === 'apercu_dossier') return Promise.resolve({ view: '', pret: true, chapitres: Object.keys(LIB), client: { court: 'https://terrenurbanisme.com/r/c-demo00000000', view: '', url: '#' }, perso: { client: { civ: 'M.', prenom: 'Maxime', nom: 'DUPONT', email: 'maxime.dupont@gmail.com', tel: '06 78 56 45 32' }, reco: { type: 'maison', bas: '480 000', haut: '540 000', conseille: '520 000', hono: '5', fiche: { shab: '120', sterrain: '1200', pieces: '5', chambres: '3', annee: '2008', dpe: 'C', etat: 'tres_bon', atouts: ['Piscine', 'Vue dégagée', 'Terrasse', 'Calme'] } } } });
       return Promise.reject({ code: 'demo' });
     };
     start({ id: 'demo' });
