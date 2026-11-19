@@ -632,7 +632,7 @@ footer .social{display:flex;gap:10px;margin-top:18px}footer .social a{display:in
 .vl-demo{background:#2A1D17;color:#fff;text-align:center;font-size:13.5px;padding:8px 16px}
 .vl-offer{display:flex;align-items:center;gap:10px;font-size:14px;color:var(--muet);text-align:right}
 .vl-offer b{color:var(--ink);font-weight:750}
-.vl-offer img{max-height:46px;max-width:160px;object-fit:contain}
+.vl-offer img{order:-1;max-height:54px;max-width:170px;object-fit:contain;background:#fff;border-radius:8px;padding:3px}
 @media (max-width:620px){.vl-offer{flex-direction:column;align-items:flex-end;gap:0;font-size:12px}.vl-offer b{font-size:13px}.vl-offer img{max-height:36px}}
 .ville #com[readonly]{background:var(--soft2);color:var(--ink);cursor:default}
 .vl-box{margin:16px 0 18px;padding:18px;border:1.5px solid var(--t);border-radius:14px;background:var(--surface)}
