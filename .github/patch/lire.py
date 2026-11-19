@@ -2,7 +2,7 @@
 import sys, re
 s = open(sys.argv[1], encoding='utf-8').read(); L = s.split('\n')
 print('LIGNES', len(L))
-pats = [r"const MQC", r"MQC ="]
+pats = [r"function mqContacts|const mqContacts"]
 for p in pats:
     for i, l in enumerate(L):
         if re.search(p, l):
