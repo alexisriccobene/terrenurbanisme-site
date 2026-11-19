@@ -334,6 +334,12 @@
             if (tb) { tb.innerHTML = '<span>Fourchette calculée par TerrenUrbanisme</span><b>' + map.tu.lo + ' € à ' + map.tu.hi + ' €</b><em>Valeur centrale ' + map.tu.mid + ' € · d\'après les ventes réelles du secteur. Elle figure toujours dans le rapport, avant votre avis.</em>'; tb.hidden = false; }
             if (!ff.bas.value && !ff.haut.value && !ff.conseille.value) { ff.bas.value = map.tu.lo; ff.haut.value = map.tu.hi; ff.conseille.value = map.tu.mid; ff.conseille.dispatchEvent(new Event('input')); }
           }
+          // Rubriques absentes du rapport de ce terrain (ex. aucun professionnel partenaire) : retirées de la liste
+          if (map.ordre.length >= 5) document.querySelectorAll('#ps-ch [data-ch]').forEach(function (c) {
+            var t0 = c.getAttribute('data-ch'); if ((map[t0] || []).length) return;
+            var lab = c.closest('label'); c.checked = true; lab.hidden = true;
+            var pv = lab.nextElementSibling; if (pv && pv.classList.contains('ps-pv')) pv.remove();
+          });
           map.ordre.forEach(function (t, i) {
             var c = document.querySelector('[data-ch="' + t.replace(/"/g, '\\"') + '"]'); if (!c) return;
             var lab = c.closest('label'), subs = map.subs[t] || [];
