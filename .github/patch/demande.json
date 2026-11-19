@@ -1,1 +1,1 @@
-{"fonction":"stripe-webhook","script":"lire.py","demande":"lire-suivi2"}
+{"fonction":"stripe-webhook","script":"avis_valeur.py","demande":"avis-valeur"}
