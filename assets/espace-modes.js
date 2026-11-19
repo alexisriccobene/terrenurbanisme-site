@@ -15,6 +15,8 @@
     document.body.classList.add('mode-' + mode);
     document.querySelectorAll('#esp-mode button').forEach(function (b) { b.setAttribute('aria-pressed', b.getAttribute('data-mode') === mode ? 'true' : 'false'); });
     var h1 = document.querySelector('#espace h1');
+    var DM = { agence: ['Lancer une démonstration agence', '/?commune=' + encodeURIComponent('Porto-Vecchio (2A)') + '&section=G&numero=1766#recherche'], mairie: ['Lancer la démonstration habitant', '/ville/porto-vecchio'], particulier: ['Lancer une démonstration particulier', '/?commune=' + encodeURIComponent('Sotta (2A)') + '&section=B&numero=842#recherche'] }[mode] || ['Lancer la démonstration', '/'];
+    if ($('esp-demo')) { $('esp-demo-l').textContent = DM[0]; $('esp-demo').href = DM[1]; }
     $('esp-pro').hidden = mode !== 'agence';
     $('esp-hero').hidden = mode !== 'agence';
     $('esp-mairie').hidden = mode !== 'mairie';
@@ -73,6 +75,10 @@
     }).catch(function () { box.dataset.ok = ''; box.innerHTML = '<p class="empty">L\'espace mairie de démonstration n\'a pas pu se charger. Rechargez la page.</p>'; });
   }
 
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest && e.target.closest('#esp-demo'); if (!a || !document.body.classList.contains('mode-mairie')) return;
+    var d = $('em-dopen'); if (d && d.href && /[?&]k=/.test(d.href)) a.href = d.href;
+  }, true);
   /* ---------- Équipe ---------- */
   var AG = [], urls = {}, openId = null;
   function say(t, err) { var m = $('ag-msg'); m.textContent = t || ''; m.style.color = err ? 'var(--non,#B3402F)' : 'var(--ok,#2E7D4F)'; }
