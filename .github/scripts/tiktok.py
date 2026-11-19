@@ -218,6 +218,7 @@ if ZKEY and MODE in ('zernio_planifier', 'zernio_replanifier'):
         if 'tiktok' not in p.get('reseaux', []) or not (p.get('video') or p.get('images')): continue
         when = datetime.fromisoformat(p['date']).replace(tzinfo=ZoneInfo('Europe/Paris'))
         if when < now + __import__('datetime').timedelta(minutes=10): continue
+        if when > now + __import__('datetime').timedelta(days=7): continue  # 7 jours d'avance ; au-delà, publication à l'heure par le passage de 15 min
         d = done.setdefault(p['id'], {})
         if d.get('tiktok'): continue
         try:
