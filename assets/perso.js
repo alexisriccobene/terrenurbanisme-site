@@ -52,7 +52,14 @@
       var STOP = [[null, 'sommaire'], [null, 'synthese'], [null, 'recommandationdelagence'], [null, 'avertissementetsources'], [null, 'annexe']];
       var map = { especes: [], subs: {}, ordre: [] }, cur = null, n = 0;
       function next() {
-        if (++n > doc.numPages) { PV.map = map; return map; }
+        if (++n > doc.numPages) {
+          // Pages de chaque sous-rubrique : de son titre jusqu'au titre suivant (ou la fin de la partie)
+          Object.keys(map.subs).forEach(function (t) {
+            var L = map.subs[t].slice().sort(function (a, b) { return a.p - b.p; }), cp = map[t] || [], last = cp.length ? cp[cp.length - 1] : 0;
+            L.forEach(function (x, i) { var nx = L[i + 1], end = nx ? (nx.p > x.p ? nx.p - 1 : x.p) : Math.max(x.p, last), pg = []; for (var q = x.p; q <= end; q++) pg.push(q); map['sub|' + t + '|' + x.t] = pg; });
+          });
+          PV.map = map; return map;
+        }
         return doc.getPage(n).then(function (pg) {
           return pg.getTextContent().then(function (tc) {
             var h = pg.view[3], top = '', all = '';
@@ -250,14 +257,25 @@
     f.designation.value = s1;
   }
   // Calcul affiché à l'agent : prix net vendeur, honoraires, prix attendu
+  var LASTNET = false;
+  function num(v) { return Number(String(v || '').replace(/[^0-9]/g, '')) || 0; }
+  function fmtN(v) { return v ? Math.round(v).toLocaleString('fr-FR').replace(/[  ]/g, ' ') : ''; }
+  // Prix recommandé (honoraires inclus) et prix net vendeur : l'un se calcule depuis l'autre
+  function syncPrix(src) {
+    var f = $('ps-form'), h = Number(String(f.hono.value).replace(',', '.')) || 0;
+    if (src === 'net') LASTNET = true; else if (src === 'conseille') LASTNET = false;
+    if (!h) return;
+    if (LASTNET) { var n = num(f.net.value); if (n) f.conseille.value = fmtN(Math.round(n * (1 + h / 100) / 100) * 100); }
+    else { var pc = num(f.conseille.value); if (pc) f.net.value = fmtN(Math.round(pc / (1 + h / 100) / 100) * 100); }
+  }
   function drawCalc() {
     var f = $('ps-form'), box = $('ps-calc'); if (!box) return;
-    var pc = Number(String(f.conseille.value).replace(/[^0-9]/g, '')), h = Number(String(f.hono.value).replace(',', '.')) || 0, n = 0;
-    if (!pc || (!h && !n)) { box.hidden = true; return; }
-    var e = function (v) { return Math.round(v).toLocaleString('fr-FR') + ' €'; }, out = [];
-    if (h) { var net = Math.round(pc / (1 + h / 100) / 100) * 100; out.push('Prix net vendeur : <b>' + e(net) + '</b>'); out.push('Honoraires : ' + e(pc - net) + ' à la charge ' + (f.hono_charge.value === 'acquereur' ? 'de l\'acquéreur' : 'du vendeur')); }
-    if (n) out.push('Prix de vente attendu : environ ' + e(Math.round(pc * (1 - n / 100) / 1000) * 1000));
-    box.innerHTML = out.join('<br>'); box.hidden = false;
+    var pc = num(f.conseille.value), h = Number(String(f.hono.value).replace(',', '.')) || 0, net = num(f.net.value);
+    if (!pc || !h) { box.hidden = true; return; }
+    if (!net) net = Math.round(pc / (1 + h / 100) / 100) * 100;
+    var e = function (v) { return fmtN(v) + ' €'; };
+    box.innerHTML = 'Prix de présentation : <b>' + e(pc) + '</b>, honoraires inclus<br>Honoraires : ' + e(pc - net) + ' (' + String(h).replace('.', ',') + ' %) à la charge ' + (f.hono_charge.value === 'acquereur' ? 'de l\'acquéreur' : 'du vendeur') + '<br>Prix net vendeur : <b>' + e(net) + '</b>';
+    box.hidden = false;
   }
   function showSend(url) {
     MAIL.url = url || MAIL.url; $('ps-send').hidden = false; drawMail();
@@ -277,7 +295,7 @@
       if (new URLSearchParams(location.search).get('neuf')) msg('Votre rapport est prêt. Choisissez les rubriques, ajoutez votre prix et vos photos, puis générez la version de votre client.', 'ok');
       var cl = P.client || {}, rc = P.reco || {};
       ['civ', 'prenom', 'nom', 'email', 'tel'].forEach(function (k) { if (cl[k]) f[k].value = cl[k]; });
-      ['type', 'bas', 'haut', 'conseille', 'commentaire', 'hono', 'hono_charge'].forEach(function (k) { if (rc[k]) f[k].value = rc[k]; });
+      ['type', 'bas', 'haut', 'conseille', 'commentaire', 'hono', 'hono_charge', 'net'].forEach(function (k) { if (rc[k]) f[k].value = rc[k]; }); if (rc.net_saisi) LASTNET = true;
       var fi = rc.fiche || {};
       applyType(fi.atouts || []);
       ['shab', 'sterrain', 'pieces', 'chambres', 'annee', 'dpe', 'etat'].forEach(function (k) { if (fi[k]) f[k].value = fi[k]; });
@@ -288,10 +306,14 @@
       f.designation.addEventListener('input', function () { f.designation.dataset.edit = '1'; $('ps-des-auto').hidden = false; });
       $('ps-des-auto').addEventListener('click', function () { f.designation.dataset.edit = ''; $('ps-des-auto').hidden = true; drawDes(); });
       if (rc.alerte === false) f.alerte.checked = false;
-      ['conseille', 'hono', 'hono_charge'].forEach(function (k) { f[k].addEventListener('input', drawCalc); f[k].addEventListener('change', drawCalc); }); drawCalc();
+      ['conseille', 'hono', 'net'].forEach(function (k) { f[k].addEventListener('input', function () { syncPrix(k); drawCalc(); }); });
+      f.hono_charge.addEventListener('change', drawCalc);
+      ['bas', 'haut', 'conseille', 'net'].forEach(function (k) { f[k].addEventListener('blur', function () { var n = num(f[k].value); f[k].value = n ? fmtN(n) : ''; }); });
+      ['bas', 'haut', 'conseille', 'net'].forEach(function (k) { var n = num(f[k].value); if (n) f[k].value = fmtN(n); });
+      drawCalc();
       var exc = P.exclure || [], sans = P.sans || [];
       var html = (r.chapitres || Object.keys(LIB)).map(function (t) {
-        var sub = t === 'Environnement et marché immobilier' ? '<label class="ps-ck"><input type="checkbox" data-sans="especes"' + (sans.indexOf('especes') >= 0 ? '' : ' checked') + '><span>Espèces protégées observées autour<small>Liste des espèces et coût des études écologiques</small><em class="ps-off"></em></span></label><div class="ps-pv" data-pv="especes"></div>' : '';
+        var sub = '';
         return '<label class="ps-ck"><input type="checkbox" data-ch="' + t.replace(/"/g, '&quot;') + '"' + (exc.indexOf(t) >= 0 ? '' : ' checked') + '><span>' + t + '<small>' + (LIB[t] || '') + '</small><em class="ps-off"></em></span></label><div class="ps-pv" data-pv="' + t.replace(/"/g, '&quot;') + '"></div>' + sub;
       }).join('');
       $('ps-ch').innerHTML = html + '<p style="color:var(--muet);font-size:13px;margin:10px 0 0">La synthèse, l\'avertissement et les sources restent toujours présents. Une rubrique absente de ce terrain n\'apparaît pas.</p><p class="ps-sum" id="ps-off-sum"></p>';
@@ -323,7 +345,7 @@
             var off = subs.filter(function (x) { return SOUS0.indexOf(key(x)) >= 0; }).length;
             lab.classList.add('ps-has');
             pv.insertAdjacentHTML('afterend', '<div class="ps-grp"><button type="button" class="ps-tg" aria-expanded="false"><span class="ps-ar">▸</span> ' + subs.length + ' sous-rubrique' + (subs.length > 1 ? 's' : '') + (off ? ' · ' + off + ' retirée' + (off > 1 ? 's' : '') : '') + '</button><div class="ps-subs" hidden>' + subs.map(function (x) {
-              return '<label class="ps-ck ps-sub"><input type="checkbox" data-sous="' + key(x).replace(/"/g, '&quot;') + '" data-par="' + t.replace(/"/g, '&quot;') + '"' + (SOUS0.indexOf(key(x)) >= 0 ? '' : ' checked') + '><span><b class="ps-sn">' + x.n + '</b>' + x.t.replace(/</g, '&lt;') + '</span></label>';
+              return '<label class="ps-ck ps-sub"><input type="checkbox" data-sous="' + key(x).replace(/"/g, '&quot;') + '" data-par="' + t.replace(/"/g, '&quot;') + '"' + (SOUS0.indexOf(key(x)) >= 0 ? '' : ' checked') + '><span><b class="ps-sn">' + x.n + '</b>' + x.t.replace(/</g, '&lt;') + '</span></label><div class="ps-pv ps-pv-sub" data-pv="' + ('sub|' + key(x)).replace(/"/g, '&quot;') + '" hidden></div>';
             }).join('') + '</div></div>');
             var tg = pv.nextElementSibling.firstElementChild, box = tg.nextElementSibling;
             tg.addEventListener('click', function () { box.hidden = !box.hidden; tg.setAttribute('aria-expanded', String(!box.hidden)); tg.querySelector('.ps-ar').textContent = box.hidden ? '▸' : '▾'; });
@@ -352,7 +374,7 @@
       var f = e.target, bt = $('ps-go');
       var body = { action: 'personnaliser', id: id,
         client: { civ: f.civ.value, prenom: f.prenom.value.trim(), nom: f.nom.value.trim(), email: f.email.value.trim(), tel: f.tel.value.trim() },
-        reco: { type: f.type.value, designation: f.designation.value.trim(), alerte: f.alerte.checked, hono: f.hono.value.trim(), hono_charge: f.hono_charge.value,
+        reco: { type: f.type.value, designation: f.designation.value.trim(), alerte: f.alerte.checked, hono: f.hono.value.trim(), hono_charge: f.hono_charge.value, net: f.hono.value.trim() ? String(num(f.net.value) || '') : '', net_saisi: LASTNET,
           fiche: f.type.value ? { shab: vis('shab'), sterrain: vis('sterrain'), pieces: vis('pieces'), chambres: vis('chambres'), annee: vis('annee'), dpe: vis('dpe'), etat: f.etat.value, atouts: curAtouts() } : null, bas: f.bas.value.trim(), haut: f.haut.value.trim(), conseille: f.conseille.value.trim(), commentaire: f.commentaire.value.trim() },
         photos: photos.map(function (p) { return p.path; }),
         exclure: Array.prototype.slice.call(document.querySelectorAll('[data-ch]')).filter(function (c) { return !c.checked; }).map(function (c) { return c.getAttribute('data-ch'); }),

@@ -19,6 +19,8 @@
 .ps-card h2{font-size:18px;margin:0 0 4px}
 .ps-card p.ps-sub{color:var(--muet);font-size:14px;margin:0 0 14px}
 .ps-num{display:inline-flex;align-items:center;justify-content:center;width:26px;height:26px;border-radius:50%;background:var(--t);color:#fff;font-size:13px;font-weight:800;margin-right:8px}
+.ps-pv-sub{margin:2px 0 10px 30px}
+.ps-hint{font-size:12.5px;color:var(--muet);margin:6px 0 0}
 .ps-g{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
 .ps-g3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
 .ps-f{display:flex;flex-direction:column;gap:5px;font-size:13.5px;color:var(--muet);min-width:0}
@@ -124,7 +126,8 @@
 <div class="ps-tu" id="ps-tu" hidden></div>
 <div class="ps-g3"><label class="ps-f">Fourchette basse (€)<input name="bas" inputmode="numeric" placeholder="ex. 180 000"></label><label class="ps-f">Fourchette haute (€)<input name="haut" inputmode="numeric" placeholder="ex. 220 000"></label><label class="ps-f">Prix recommandé (€)<input name="conseille" inputmode="numeric" placeholder="ex. 199 000"></label></div>
 <p class="ps-lab">Conditions de vente</p>
-<div class="ps-g"><label class="ps-f">Honoraires (%)<input name="hono" inputmode="decimal" placeholder="ex. 5"></label><label class="ps-f">À la charge<select name="hono_charge"><option value="vendeur">du vendeur</option><option value="acquereur">de l'acquéreur</option></select></label></div>
+<div class="ps-g3"><label class="ps-f">Honoraires (%)<input name="hono" inputmode="decimal" placeholder="ex. 5"></label><label class="ps-f">À la charge<select name="hono_charge"><option value="vendeur">du vendeur</option><option value="acquereur">de l'acquéreur</option></select></label><label class="ps-f">Prix net vendeur (€)<input name="net" inputmode="numeric" placeholder="calculé ou saisi"></label></div>
+<p class="ps-hint">Saisissez le prix recommandé ou le prix net vendeur : l'autre se calcule avec vos honoraires.</p>
 <div class="ps-calc" id="ps-calc" hidden></div>
 <label class="ps-f" style="margin-top:14px">Votre commentaire<textarea name="commentaire" placeholder="Points forts, état du marché, conseils pour la vente…"></textarea></label></div>
 <div class="ps-card"><h2><span class="ps-num">3</span>Photos du bien</h2><p class="ps-sub">Jusqu'à 8 photos, ajoutées sur la même page.</p>
@@ -161,7 +164,7 @@
 <p class="legal">© 2026 TerrenUrbanisme. Les informations fournies sont établies à partir de sources publiques ; elles ne constituent ni un certificat d'urbanisme, ni une autorisation d'urbanisme, ni un avis juridique, et ne peuvent pas être jointes à une demande de permis de construire. Sources : cadastre, Géoportail de l'Urbanisme, IGN, Géorisques, Collectivité de Corse.</p>
 </div></footer>
 <script defer src="/assets/config.js?v=v85"></script><script defer src="/assets/consent.js?v=v85"></script><script defer src="/assets/supabase.js?v=v85"></script><script defer src="/assets/auth.js?v=v103"></script><script defer src="/assets/app.js?v=v101"></script>
-<script defer src="/assets/perso.js?v=15"></script>
+<script defer src="/assets/perso.js?v=16"></script>
 <div class="ps-lb" id="ps-lb" hidden role="dialog" aria-modal="true" aria-label="Aperçu de la page retirée"><div class="ps-lb-top"><button type="button" id="ps-lb-prev" aria-label="Page précédente">‹</button><button type="button" id="ps-lb-next" aria-label="Page suivante">›</button><span id="ps-lb-t"></span><em>Retirée du rapport client</em><button type="button" id="ps-lb-x" aria-label="Fermer">Fermer</button></div><div class="ps-lb-img"><img id="ps-lb-i" alt=""></div></div>
 </body>
 </html>
