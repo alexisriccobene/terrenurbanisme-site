@@ -2,12 +2,12 @@
 import sys, re
 s = open(sys.argv[1], encoding='utf-8').read(); L = s.split('\n')
 print('LIGNES', len(L))
-pats = [r"admet pas de construction nouvelle", r"Potentiel constructible estim"]
+pats = [r"h2\(.Synth|Synth.se., ", r"const K = |let K = |K = d\.", r"Points d.attention.\)"]
 for p in pats:
     for i, l in enumerate(L):
         if re.search(p, l):
             print('==== %s @%d' % (p, i + 1))
-            for j in range(max(0, i), min(len(L), i + 26)): print('%5d| %s' % (j + 1, L[j][:1600]))
+            for j in range(max(0, i-12), min(len(L), i + 45)): print('%5d| %s' % (j + 1, L[j][:1600]))
             n_=globals().setdefault('n_',{}); n_[p]=n_.get(p,0)+1
             if n_[p]>=6: break
 sys.exit(1)
