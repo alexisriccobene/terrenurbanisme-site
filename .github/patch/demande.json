@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "lire.py", "demande": "lecture villeCfg"}
+{"fonction": "stripe-webhook", "script": "mairie_profil.py", "demande": "mairie profil et alerte stock"}
