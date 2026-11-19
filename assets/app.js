@@ -418,12 +418,36 @@
       fetch(VL.api + '?ville=' + encodeURIComponent(VL.slug), { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify(body) })
         .then(function(r){ return r.json().then(function(j){ return { ok: r.ok, j: j }; }); })
         .then(function(x){
-          if (x.ok && x.j.ok){ box.innerHTML = '<div class="vl-ok"><div class="vl-h">Votre rapport est en préparation</div><p>Il arrive par e-mail à <strong>' + esc(v.email) + '</strong> d\'ici quelques minutes. Pensez à vérifier vos courriers indésirables.</p><p class="vl-s">Rapport proposé par ' + esc(VL.libelle) + '.</p></div>'; return; }
+          if (x.ok && x.j.ok){ villeSuivi(box, x.j.s, v.email); return; }
           var M = { demo: 'Démonstration : la remise du rapport sera activée à la mise en service.', credits_epuises: 'Le service de la mairie est momentanément indisponible : le stock de rapports est épuisé. Vous pouvez obtenir votre rapport directement sur terrenurbanisme.com.', hors_commune: 'Cette parcelle n\'est pas sur la commune.', limite_email: 'Vous avez déjà demandé 3 rapports aujourd\'hui. Réessayez demain.', limite: 'Trop de demandes depuis cette connexion aujourd\'hui. Réessayez demain.', limite_ville: 'Le service a atteint sa limite du jour. Réessayez demain.', inactive: 'Le service n\'est pas actif pour cette commune.', email: 'Indiquez une adresse e-mail valide.' };
           er.textContent = M[x.j.error] || 'La demande n\'a pas pu aboutir. Réessayez dans un instant.';
           bt.disabled = false; bt.textContent = 'Recevoir mon rapport';
         }).catch(function(){ er.textContent = 'La demande n\'a pas pu aboutir. Réessayez dans un instant.'; bt.disabled = false; bt.textContent = 'Recevoir mon rapport'; });
     });
+  }
+
+  /* Page de la commune : suivi de la préparation, puis lecture en ligne et téléchargement, comme sur le site */
+  function villeSuivi(box, sid, email){
+    var VL = window.TU_VILLE, t0 = Date.now(), tries = 0;
+    var STEPS = ['Lecture du cadastre et du zonage', 'Lecture du règlement de la zone', 'Risques, réseaux et fibre', 'Marché immobilier et permis', 'Mise en page du rapport'];
+    box.innerHTML = '<div class="vl-ok"><div class="vl-h">Votre rapport est en préparation</div><div class="gen-wait" id="vl-wait"></div><p class="vl-s">Il vous sera aussi envoyé par e-mail à <strong>' + esc(email) + '</strong>. Rapport proposé par ' + esc(VL.libelle) + '.</p></div>';
+    var w = box.querySelector('#vl-wait');
+    function tick(){ var sec = Math.round((Date.now() - t0) / 1000), k = Math.min(STEPS.length - 1, Math.floor(sec / 25)); w.innerHTML = '<span class="spin"></span><div><b>Préparation de votre rapport… ' + (sec < 60 ? sec + ' s' : Math.floor(sec / 60) + ' min ' + (sec % 60) + ' s') + '</b><span>' + STEPS[k] + '. Comptez 1 à 3 minutes : vous pouvez laisser cette page ouverte.</span></div>'; }
+    tick(); var it = setInterval(tick, 1000);
+    function done(j){
+      clearInterval(it);
+      box.innerHTML = '<div class="vl-ok"><div class="vl-h">Votre rapport est prêt</div><p>Consultez-le en ligne ou téléchargez le PDF. Il vient aussi de vous être envoyé par e-mail à <strong>' + esc(email) + '</strong>.</p>' +
+        '<div class="vl-acts"><a class="v-cta" href="' + esc(j.lien) + '" target="_blank" rel="noopener">Voir le rapport en ligne</a><a class="btn ghost" href="' + esc(j.pdf) + '" download>Télécharger le PDF</a></div><p class="vl-s">Rapport proposé par ' + esc(VL.libelle) + '.</p></div>';
+    }
+    (function poll(){
+      if (!sid){ clearInterval(it); w.innerHTML = '<div><b>Votre rapport arrive par e-mail d\'ici quelques minutes.</b><span>Pensez à vérifier vos courriers indésirables.</span></div>'; return; }
+      fetch(VL.api + '?ville=' + encodeURIComponent(VL.slug), { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ action: 'suivi', s: sid }) })
+        .then(function(r){ return r.json(); }).then(function(j){
+          if (j && j.status === 'ready' && j.lien) return done(j);
+          if (j && j.status === 'error'){ clearInterval(it); w.innerHTML = '<div><b>La préparation a rencontré un incident.</b><span>Le rapport vous sera envoyé par e-mail dès qu\'il sera prêt.</span></div>'; return; }
+          if (++tries < 75) setTimeout(poll, 4000); else { clearInterval(it); w.innerHTML = '<div><b>La préparation prend plus de temps que prévu.</b><span>Le rapport vous sera envoyé par e-mail dès qu\'il sera prêt.</span></div>'; }
+        }).catch(function(){ if (++tries < 75) setTimeout(poll, 4000); });
+    })();
   }
 
   /* Projet du client : choisi dans le diagnostic, transmis au rapport */
