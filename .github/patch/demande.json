@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "fibre_coord.py", "demande": "fibre coordonnees web mercator"}
+{"fonction": "stripe-webhook", "script": "lire.py", "demande": "lecture mapbox markers"}
