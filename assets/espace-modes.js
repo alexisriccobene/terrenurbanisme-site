@@ -55,7 +55,7 @@
   function av(a, big) { return '<span class="ag-av" data-av="' + a.id + '">' + esc(initials(a.nom)) + '</span>'; }
   function fillAv() { AG.forEach(function (a) { photoUrl(a).then(function (u) { if (!u) return; document.querySelectorAll('[data-av="' + a.id + '"]').forEach(function (el) { el.innerHTML = '<img alt="" src="' + u + '">'; }); }); }); }
   function load(newId) {
-    return sb.from('pro_agents').select('id,nom,telephone,email,photo').order('nom').then(function (r) { AG = r.data || []; draw(newId); });
+    return sb.from('pro_agents').select('id,nom,telephone,email,photo,member_id,acces_le').eq('user_id', U.id).order('nom').then(function (r) { AG = r.data || []; draw(newId); });
   }
   function draw(newId) {
     var list = $('ag-list');
@@ -63,8 +63,9 @@
     list.innerHTML = AG.map(function (a) {
       if (String(a.id) === String(openId)) return '<div class="ag-ed" data-id="' + a.id + '"><div style="text-align:center">' + av(a, true) + '<br><label class="up-btn sm"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 18a4.5 4.5 0 0 1-.6-8.96A6 6 0 0 1 18 8.5a4 4 0 0 1 .5 7.97"/><path d="M12 12v8"/><path d="m8.5 15.5 3.5-3.5 3.5 3.5"/></svg><span><b>' + (a.photo ? 'Changer la photo' : 'Ajouter une photo') + '</b></span><input type="file" accept="image/png,image/jpeg"></label></div>'
         + '<div class="f"><label>Prénom et nom<input name="nom" maxlength="80" value="' + esc(a.nom) + '"></label><label>Téléphone<input name="telephone" maxlength="30" inputmode="tel" value="' + esc(a.telephone || '') + '"></label><label style="grid-column:1/-1">E-mail<input name="email" type="email" maxlength="120" value="' + esc(a.email || '') + '"></label>'
+        + '<div class="ag-acc"><div><b>' + (a.member_id ? 'Accès personnel actif' : 'Accès personnel') + '</b><span>' + (a.member_id ? 'Il se connecte avec ' + esc(a.email || 'son e-mail') + '. Ses rapports sont signés à son nom et décomptés sur vos crédits.' : 'Créez son identifiant : il reçoit un e-mail pour choisir son mot de passe. Ses rapports seront signés à son nom.') + '</span></div><button type="button" class="btn ghost" data-acc>' + (a.member_id ? 'Renvoyer l\'accès' : 'Créer son accès') + '</button></div>'
         + '<div class="a"><button type="button" class="btn" data-save>Enregistrer</button><button type="button" class="btn ghost" data-close>Fermer</button><button type="button" class="del" data-del>Supprimer</button></div></div></div>';
-      return '<button type="button" class="ag-c' + (String(a.id) === String(newId) ? ' new' : '') + '" data-open="' + a.id + '">' + av(a) + '<span class="ag-i"><b>' + esc(a.nom) + '</b><span>' + esc(a.telephone || 'Téléphone à ajouter') + '</span><span>' + esc(a.email || 'E-mail à ajouter') + '</span><em>Modifier</em></span></button>';
+      return '<button type="button" class="ag-c' + (String(a.id) === String(newId) ? ' new' : '') + '" data-open="' + a.id + '">' + av(a) + '<span class="ag-i"><b>' + esc(a.nom) + '</b><span>' + esc(a.telephone || 'Téléphone à ajouter') + '</span><span>' + esc(a.email || 'E-mail à ajouter') + '</span><em>' + (a.member_id ? '<i class="ag-ok">Accès actif</i> · ' : '') + 'Modifier</em></span></button>';
     }).join('');
     fillAv();
     list.querySelectorAll('[data-open]').forEach(function (b) { b.addEventListener('click', function () { openId = b.getAttribute('data-open'); say(''); draw(); }); });
@@ -76,6 +77,19 @@
       if (row.nom.length < 2) { say('Indiquez le prénom et le nom.', true); return; }
       bt.disabled = true;
       sb.from('pro_agents').update(row).eq('id', a.id).then(function (r) { bt.disabled = false; if (r.error) { say('Enregistrement impossible, réessayez.', true); return; } say(row.nom + ' est à jour.'); openId = null; load(a.id); });
+    });
+    ed.querySelector('[data-acc]').addEventListener('click', function (e) {
+      var bt = e.target, em = ed.querySelector('[name=email]').value.trim();
+      if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(em)) { say('Indiquez d\'abord l\'e-mail du collaborateur, puis enregistrez.', true); return; }
+      if (em !== (a.email || '')) { say('Enregistrez d\'abord le nouvel e-mail, puis créez l\'accès.', true); return; }
+      bt.disabled = true; bt.textContent = 'Envoi…';
+      sb.functions.invoke('stripe-webhook', { body: { action: 'agent_acces', agent_id: a.id } }).then(function (r) {
+        bt.disabled = false;
+        var er = r.error ? (r.error.context && r.error.context.json ? r.error.context.json() : Promise.resolve({})) : null;
+        if (er) return er.then(function (j) { var c = j && j.error; say(c === 'deja_membre' ? 'Cette adresse est déjà le collaborateur d\'une autre agence.' : c === 'email_agence' ? 'Utilisez l\'e-mail personnel du collaborateur, pas celui de l\'agence.' : 'L\'accès n\'a pas pu être créé. Réessayez.', true); bt.textContent = a.member_id ? 'Renvoyer l\'accès' : 'Créer son accès'; });
+        say(r.data && r.data.mail === false ? 'Accès créé. L\'e-mail n\'est pas parti : demandez-lui d\'aller sur « Mot de passe oublié » avec son adresse.' : 'Accès créé : ' + a.nom + ' a reçu un e-mail pour choisir son mot de passe.');
+        load(a.id);
+      });
     });
     var del = ed.querySelector('[data-del]');
     del.addEventListener('click', function () {
@@ -148,6 +162,19 @@
     load();
   }
 
+  /* ---------- Collaborateur connecté avec son accès personnel ---------- */
+  function membre(M) {
+    document.body.classList.add('mode-membre');
+    $('esp-pro').hidden = true; $('esp-mairie').hidden = true;
+    $('esp-hero').hidden = false; if ($('esp-bo')) $('esp-bo').hidden = false;
+    $('eh-type').textContent = 'Collaborateur'; $('eh-nom').textContent = M.nom; $('eh-co').textContent = M.agence + ' · vos rapports sont établis à votre nom et décomptés sur les crédits de l\'agence.';
+    $('eh-logo').textContent = initials(M.nom);
+    var h1 = document.querySelector('#espace h1'); if (h1) h1.textContent = M.agence;
+    var bh = document.querySelector('.esp-bo-h h2'); if (bh) bh.textContent = 'Mes rapports';
+    var bp = document.querySelector('.esp-bo-h p'); if (bp) bp.textContent = 'Les rapports que vous avez demandés, les envois à vos clients et leurs ouvertures.';
+    sb.from('pro_agents').select('id,photo').eq('member_id', U.id).maybeSingle().then(function (r) { var a = r.data; if (a && a.photo) sb.storage.from('perso').createSignedUrl(a.photo, 3600).then(function (x) { if (x.data) $('eh-logo').innerHTML = '<img alt="" src="' + x.data.signedUrl + '" style="width:100%;height:100%;object-fit:cover;max-width:none;max-height:none">'; }); });
+  }
+
   /* ---------- Démarrage ---------- */
   function boot() {
     A = window.TUAuth; if (!A || !A.ready || !A.client) { setTimeout(boot, 120); return; }
@@ -156,6 +183,7 @@
       if (!u) return; U = u;
       return A.account().then(function (c) {
         C = c || {};
+        if (C.membre) { membre(C.membre); return; }
         var pro = !!(C.illimite || C.pro);
         var mode = C.illimite ? getMode() : pro ? 'agence' : 'particulier';
         if (C.illimite) {

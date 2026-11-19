@@ -24,9 +24,16 @@
     user: function(){ return sb ? sb.auth.getSession().then(function(r){ return r.data.session ? r.data.session.user : null; }) : Promise.resolve(null); },
     loginUrl: function(redirect){ return '/connexion.html?redirect=' + encodeURIComponent((redirect || (location.pathname + location.search)).split('#')[0]); },
     /* Solde et abonnement du client */
+    // Collaborateur d'une agence (accès individuel) : agence, nom et crédits de l'agence
+    agence: function(){
+      if (!sb) return Promise.resolve(null);
+      if (Auth._ag) return Auth._ag;
+      Auth._ag = sb.functions.invoke('stripe-webhook', { body: { action: 'mon_agence' } }).then(function(r){ return r.data && r.data.agence ? r.data : null; }).catch(function(){ return null; });
+      return Auth._ag;
+    },
     account: function(){
       if (!sb) return Promise.resolve(null);
-      return Auth.user().then(function(u){ if (!u) return null; return sb.from('comptes').select('*').eq('user_id', u.id).maybeSingle().then(function(r){ var c = r.data || { credits_abonnement:0, credits_achetes:0 }; var sub = ['active','trialing'].indexOf(c.statut_abonnement) >= 0; c.total = (sub ? c.credits_abonnement : 0) + c.credits_achetes; c.abonne = ['active','trialing','past_due','unpaid','incomplete'].indexOf(c.statut_abonnement) >= 0; c.pro = !!c.pro || c.abonne; return Auth.mairie().then(function(mr){ if (mr && mr.illimite){ c.illimite = true; c.total = 9999; } return c; }); }); }).catch(function(){ return null; });
+      return Auth.user().then(function(u){ if (!u) return null; return sb.from('comptes').select('*').eq('user_id', u.id).maybeSingle().then(function(r){ var c = r.data || { credits_abonnement:0, credits_achetes:0 }; var sub = ['active','trialing'].indexOf(c.statut_abonnement) >= 0; c.total = (sub ? c.credits_abonnement : 0) + c.credits_achetes; c.abonne = ['active','trialing','past_due','unpaid','incomplete'].indexOf(c.statut_abonnement) >= 0; c.pro = !!c.pro || c.abonne; return Promise.all([Auth.mairie(), Auth.agence()]).then(function(v){ var mr = v[0], ag = v[1]; if (mr && mr.illimite){ c.illimite = true; c.total = 9999; } if (ag && ag.agence){ c.membre = ag; c.pro = true; c.total = ag.illimite ? 9999 : ag.total; c.illimite = false; c.abonne = false; c.stripe_customer = null; } return c; }); }); }).catch(function(){ return null; });
     },
     /* Paiement : kind = unit | pack2 | pack3 | essentiel | pro | cabinet | essentiel_an | pro_an | cabinet_an ; parcel facultatif (le premier rapport porte sur la parcelle) */
     checkout: function(kind, parcel){
@@ -401,6 +408,7 @@
       var plan = c.formule ? (/^ab(\d+)(_an)?$/.test(c.formule) ? 'Abonnement ' + c.formule.replace(/^ab(\d+).*/, '$1') + ' rapports par mois' + (/_an$/.test(c.formule) ? ', annuel' : '') : ({ essentiel:'Solo', pro:'Agence', cabinet:'Réseau', essentiel_an:'Solo annuel', pro_an:'Agence annuel', cabinet_an:'Réseau annuel' })[c.formule]) : null;
       var fin = c.fin_periode ? new Date(c.fin_periode).toLocaleDateString('fr-FR') : '';
       var status = !c.abonne ? (c.pro ? 'Crédits sans limite de durée' : 'Sans abonnement') : c.statut_abonnement === 'past_due' ? 'Paiement à régulariser' : c.resiliation_prevue ? 'Résilié, actif jusqu\'au ' + fin : 'Renouvellement le ' + fin;
+      if (c.membre){ box.innerHTML = '<div class="acct"><div><small>Rapports disponibles · crédits de l\'agence</small><b>' + (c.total >= 9999 ? 'Illimité' : c.total) + '</b></div><div><small>Votre accès</small><b>' + esc(c.membre.nom) + '</b><span>Collaborateur · ' + esc(c.membre.agence) + '</span></div><div class="acct-act"><a class="btn" href="/#recherche">Nouveau rapport</a></div></div>'; return; }
       box.innerHTML = '<div class="acct">' +
         '<div><small>Rapports disponibles</small><b>' + (c.illimite ? 'Illimité' : c.total) + '</b>' + (c.abonne ? '<span>dont ' + (c.credits_abonnement || 0) + ' de l\'abonnement' + (c.credits_achetes ? ' et ' + c.credits_achetes + ' achetés' : '') + '</span>' : '') + '</div>' +
         '<div><small>Formule</small><b>' + (c.illimite ? 'Démonstration' : plan || (c.pro ? 'Crédits professionnels' : 'À l\'unité')) + '</b><span>' + esc(c.illimite ? 'Rapports illimités, sans décompte' : status) + '</span></div>' +

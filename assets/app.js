@@ -503,6 +503,7 @@
       if (mr && mr.illimite){ inclus = true; label = 'Générer le rapport complet · compte de démonstration'; setAll(label); if (offerEl) offerEl.hidden = true; return; }
       if (mr && mr.insee && mr.insee.indexOf(parcelRef.insee) >= 0){ inclus = true; label = 'Générer le rapport complet · inclus dans l\'abonnement de ' + mr.mairie; setAll(label); if (offerEl) offerEl.hidden = true; return; }
       if (mr){ errs.forEach(function(e){ e.textContent = 'Votre abonnement couvre uniquement les parcelles de ' + mr.mairie + '. Cette parcelle est hors de la commune.'; }); }
+      if (c && c.membre){ window.__TU_MEMBRE = c.membre.nom; inclus = true; label = 'Générer le rapport complet · à votre nom, crédits de ' + c.membre.agence; setAll(label); if (offerEl) offerEl.hidden = true; return; }
       if (credits > 0){ label = 'Générer le rapport complet · 1 rapport (solde : ' + credits + ')'; setAll(label); if (offerEl) offerEl.hidden = true; }
     }).then(function(){
       // Agence : le collaborateur qui demande le rapport (repris dans le tableau de bord)
@@ -510,6 +511,7 @@
       return A.agents().then(function(L){
         if (!L.length) return;
         var last = ''; try { last = localStorage.getItem('tu_agent') || ''; } catch (e) {}
+        if (window.__TU_MEMBRE) last = window.__TU_MEMBRE;
         var d = document.createElement('div'); d.className = 'v-proj v-agent';
         d.innerHTML = '<b>Collaborateur</b><span>Qui demande ce rapport ? Il apparaîtra à son nom dans le tableau de bord.</span><select style="display:block;width:100%;margin-top:8px;padding:11px;border:1.5px solid var(--ligne);border-radius:10px;font:inherit;background:#fff"><option value="">Choisir le collaborateur</option>' + L.map(function(a){ return '<option' + (a.nom === last ? ' selected' : '') + '>' + esc(a.nom) + '</option>'; }).join('') + '</select>';
         var pj = resultEl.querySelector('.v-proj'); pj.parentNode.insertBefore(d, pj.nextSibling);

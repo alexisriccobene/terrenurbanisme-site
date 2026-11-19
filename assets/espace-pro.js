@@ -185,13 +185,17 @@
     var Auth = window.TUAuth; if (!Auth || !Auth.client) { setTimeout(start, 150); return; }
     Auth.user().then(function (u) {
       if (!u) { location.replace(Auth.loginUrl ? Auth.loginUrl('/espace-pro.html') : '/connexion.html'); return; }
-      Auth.client.from('dossiers').select('id,created_at,commune,section,numero,zone,verdict,projet,status,download_slug,order_ref,agent,perso,envois,vu_le,vu_nb,vu_dernier').eq('user_id', u.id).order('created_at', { ascending: false }).limit(2000).then(function (r) {
+      Auth.account().then(function (c0) {
+      var mb = c0 && c0.membre, q = Auth.client.from('dossiers').select('id,created_at,commune,section,numero,zone,verdict,projet,status,download_slug,order_ref,agent,perso,envois,vu_le,vu_nb,vu_dernier').eq('user_id', mb ? mb.owner : u.id);
+      if (mb) q = q.eq('agent', mb.nom);
+      q.order('created_at', { ascending: false }).limit(2000).then(function (r) {
         ALL = (r.data || []).filter(function (d) { return d.status !== 'error'; });
         Promise.all([Auth.account(), Auth.agents ? Auth.agents() : []]).then(function (v) {
           var c = v[0], noms = (v[1] || []).map(function (a) { return a.nom; });
-          if (c && c.illimite) { ALL = ALL.concat(exemples(noms)).sort(function (a, b) { return a.created_at < b.created_at ? 1 : -1; }); var nt = document.getElementById('bo-note'); if (nt) nt.hidden = false; }
+          if (c && c.illimite && !c.membre) { ALL = ALL.concat(exemples(noms)).sort(function (a, b) { return a.created_at < b.created_at ? 1 : -1; }); var nt = document.getElementById('bo-note'); if (nt) nt.hidden = false; }
           render();
         }).catch(render);
+      });
       });
     });
     $('bo-per').addEventListener('change', function () { window.__boLim = 50; render(); });
