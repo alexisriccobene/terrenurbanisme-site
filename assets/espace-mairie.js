@@ -147,9 +147,8 @@
     var url = 'https://terrenurbanisme.com/ville/' + v.slug;
     $('em-url').value = url; $('em-open').href = url;
     if (v.demo) {
-      $('em-demo-note').hidden = false; $('em-demo-l').hidden = false;
       fetch(API + '?ville=' + encodeURIComponent(slug), { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ action: 'demo_lien', k: key }) })
-        .then(function (r) { return r.ok ? r.json() : null; }).then(function (j) { if (j && j.k) { var d = url + '?k=' + j.k; $('em-durl').value = d; $('em-dopen').href = d; } else $('em-demo-l').hidden = true; }).catch(function () {});
+        .then(function (r) { return r.ok ? r.json() : null; }).then(function (j) { if (j && j.k) { $('em-open').href = url + '?k=' + j.k; } }).catch(function () {});
     }
     var btn = '<a href="' + url + '" target="_blank" rel="noopener" style="display:inline-block;background:#A3462C;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-weight:700;font-size:16px;line-height:1.2;text-decoration:none;padding:14px 22px;border-radius:10px">Analyser mon terrain</a>';
     $('em-prev').innerHTML = btn; $('em-site-btn').innerHTML = btn.replace('font-size:16px', 'font-size:14px').replace('padding:14px 22px', 'padding:10px 16px');
