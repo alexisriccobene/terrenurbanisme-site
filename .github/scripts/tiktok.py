@@ -75,14 +75,21 @@ def zcompte(plat='tiktok'):
     for a in L or []:
         if str(a.get('platform', '')).lower() == plat: ZACC[plat] = (a.get('_id') or a.get('id'), a); return ZACC[plat]
     raise RuntimeError('Aucun compte %s connecté dans Zernio' % plat)
+def zenvoi(f, ctype):
+    pre = zreq('/media/presign', {'filename': os.path.basename(f), 'contentType': ctype, 'size': os.path.getsize(f)})
+    urllib.request.urlopen(urllib.request.Request(pre['uploadUrl'], data=open(f, 'rb').read(), method='PUT', headers={'Content-Type': ctype}), timeout=300).read()
+    return pre['publicUrl']
+def video_yt(p):
+    # Réel : la vidéo ; carrousel ou image : Short en diaporama fabriqué à la volée (.github/scripts/diaporama.py)
+    if p.get('video'): return VID + p['video']
+    sys.path.insert(0, '.github/scripts'); from diaporama import diaporama
+    return diaporama([VID + i for i in p['images']], '/tmp/yt-%s.mp4' % p['id'])
 def publier_zernio_yt(p, quand=None):
     # YouTube Shorts via Zernio : public à l'heure prévue (Zernio dépose en privé puis YouTube publie à l'heure)
     acc, _ = zcompte('youtube')
-    f = VID + p['video']; n = os.path.getsize(f)
-    pre = zreq('/media/presign', {'filename': os.path.basename(f), 'contentType': 'video/mp4', 'size': n})
-    urllib.request.urlopen(urllib.request.Request(pre['uploadUrl'], data=open(f, 'rb').read(), method='PUT', headers={'Content-Type': 'video/mp4'}), timeout=300).read()
+    url = zenvoi(video_yt(p), 'video/mp4')
     body = {'content': (p.get('texte_youtube') or p.get('texte_facebook') or p.get('texte_instagram') or p.get('theme', ''))[:4900],
-            'mediaItems': [{'type': 'video', 'url': pre['publicUrl']}],
+            'mediaItems': [{'type': 'video', 'url': url}],
             'platforms': [{'platform': 'youtube', 'accountId': acc, 'platformSpecificData': {
                 'title': (p.get('titre_youtube') or p.get('theme') or 'TerrenUrbanisme')[:100], 'visibility': 'public',
                 'madeForKids': False, 'containsSyntheticMedia': False, 'categoryId': '27'}}]}
@@ -99,7 +106,7 @@ def planifier_yt(plan, done, jours=3):
     vieux = json.load(open('.github/social/publie.json', encoding='utf-8')) if os.path.exists('.github/social/publie.json') else {}
     now = datetime.now(ZoneInfo('Europe/Paris')); n = 0; err = []
     for p in sorted(plan, key=lambda x: x['date']):
-        if 'youtube' not in p.get('reseaux', []) or p.get('type') != 'reel' or not p.get('video'): continue
+        if 'youtube' not in p.get('reseaux', []) or not (p.get('video') or p.get('images')): continue
         when = datetime.fromisoformat(p['date']).replace(tzinfo=ZoneInfo('Europe/Paris'))
         if when < now + timedelta(minutes=10) or when > now + timedelta(days=jours): continue
         d = done.setdefault(p['id'], {})
@@ -112,6 +119,20 @@ def planifier_yt(plan, done, jours=3):
     return n, err
 def publier_zernio(p, quand=None):
     acc, _ = zcompte()
+    if not p.get('video') and p.get('images'):
+        # Carrousel photo TikTok (jusqu'à 35 images) : titre = thème (90 car.), texte complet en description
+        body = {'content': (p.get('theme') or 'TerrenUrbanisme')[:90],
+                'mediaItems': [{'type': 'image', 'url': zenvoi(VID + i, 'image/jpeg')} for i in p['images'][:35]],
+                'platforms': [{'platform': 'tiktok', 'accountId': acc}],
+                'tiktokSettings': {'privacy_level': 'PUBLIC_TO_EVERYONE', 'allow_comment': True, 'media_type': 'photo', 'photo_cover_index': 0,
+                                   'auto_add_music': True, 'description': (p.get('texte_tiktok') or p.get('texte_instagram') or '')[:4000],
+                                   'content_preview_confirmed': True, 'express_consent_given': True}}
+        if quand: body.update({'scheduledFor': quand, 'timezone': 'Europe/Paris'})
+        else: body['publishNow'] = True
+        r = zreq('/posts', body); post = r.get('post', r)
+        st = [x.get('status') for x in post.get('platforms', [])]
+        if any(x in ('failed', 'error') for x in st): raise RuntimeError('Zernio a refusé le carrousel : ' + json.dumps(post)[:400])
+        return {'id': post.get('_id'), 'mode': ('programmé dans Zernio pour ' + quand) if quand else 'publication publique (Zernio)', 'statut': post.get('status') or ','.join(map(str, st))}
     f = VID + (p.get('video_tiktok') or p['video']); n = os.path.getsize(f)
     pre = zreq('/media/presign', {'filename': os.path.basename(f), 'contentType': 'video/mp4', 'size': n})
     up = urllib.request.Request(pre['uploadUrl'], data=open(f, 'rb').read(), method='PUT', headers={'Content-Type': 'video/mp4'})
@@ -176,8 +197,25 @@ if ZKEY and MODE in ('zernio_planifier', 'zernio_replanifier'):
                 zreq('/posts/' + t['id'], method='DELETE'); done[pid]['tiktok_annule'] = t; del done[pid]['tiktok']; print('annulé', pid, flush=True)
                 json.dump(done, open(DONE, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
             except Exception as e: err.append('annulation %s : %s' % (pid, e)); print('::error::' + str(e)[:400])
+    if MODE == 'zernio_replanifier' and json.load(open('.github/social/tiktok_demande.json')).get('tout_annuler'):
+        # Nouveau planning : annule dans Zernio toutes les publications programmées à venir, puis reprogramme selon plan.json
+        for page in range(1, 20):
+            L = zreq('/posts?status=scheduled&limit=100&page=%d' % page); L = L.get('posts', []) if isinstance(L, dict) else L
+            if not L: break
+            for z in L:
+                w = z.get('scheduledFor') or ''
+                if z.get('status') != 'scheduled' or w < now.astimezone(ZoneInfo('UTC')).strftime('%Y-%m-%dT%H:%M'): continue
+                try: zreq('/posts/' + z['_id'], method='DELETE'); print('annulé', z['_id'], w, flush=True)
+                except Exception as e: err.append('annulation %s : %s' % (z.get('_id'), e))
+            if len(L) < 100: break
+        for pid, d in done.items():
+            for net in ('tiktok', 'youtube'):
+                t = d.get(net)
+                if t and 'programmé dans Zernio' in t.get('mode', '') and t['mode'][-19:] > now.strftime('%Y-%m-%dT%H:%M'):
+                    d[net + '_annule'] = d.pop(net)
+        json.dump(done, open(DONE, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     for p in sorted(plan, key=lambda x: x['date']):
-        if 'tiktok' not in p.get('reseaux', []) or not p.get('video'): continue
+        if 'tiktok' not in p.get('reseaux', []) or not (p.get('video') or p.get('images')): continue
         when = datetime.fromisoformat(p['date']).replace(tzinfo=ZoneInfo('Europe/Paris'))
         if when < now + __import__('datetime').timedelta(minutes=10): continue
         d = done.setdefault(p['id'], {})
@@ -269,7 +307,7 @@ def avis_brouillon(p):
 plan = json.load(open(PLAN, encoding='utf-8')); done = json.load(open(DONE, encoding='utf-8')) if os.path.exists(DONE) else {}
 now = datetime.now(ZoneInfo('Europe/Paris')); changed = False; errors = []
 for p in plan:
-    if 'tiktok' not in p.get('reseaux', []) or not p.get('video'): continue
+    if 'tiktok' not in p.get('reseaux', []) or not (p.get('video') or p.get('images')): continue
     when = datetime.fromisoformat(p['date']).replace(tzinfo=ZoneInfo('Europe/Paris'))
     if when > now or (now - when).total_seconds() > 20 * 3600: continue
     d = done.setdefault(p['id'], {})
