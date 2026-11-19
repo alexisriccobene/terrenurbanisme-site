@@ -85,11 +85,42 @@
     ed.querySelector('input[type=file]').addEventListener('change', function (e) {
       var f = e.target.files[0]; e.target.value = ''; if (!f) return;
       if (!/^image\/(png|jpeg)$/.test(f.type)) { say('Format accepté : JPG ou PNG.', true); return; }
-      say('Envoi de la photo…');
-      shrink(f).then(function (blob) {
+      say('');
+      cropper(f).then(function (blob) {
+        if (!blob) return;
+        say('Envoi de la photo…');
         var path = U.id + '/agents/' + a.id + '-' + Date.now() + '.jpg';
         return sb.storage.from('perso').upload(path, blob, { contentType: 'image/jpeg' }).then(function (r) { if (r.error) throw r.error; return sb.from('pro_agents').update({ photo: path }).eq('id', a.id); }).then(function (r) { if (r.error) throw r.error; a.photo = path; urls[path] = URL.createObjectURL(blob); say('Photo enregistrée. Elle figurera sur les prochaines versions client.'); draw(); });
       }).catch(function () { say('La photo n\'a pas pu être envoyée. Réessayez.', true); });
+    });
+  }
+  // Recadrage de la photo dans un rond : glisser pour placer, curseur pour zoomer
+  function cropper(f) {
+    return new Promise(function (res) {
+      var img = new Image(), url = URL.createObjectURL(f);
+      img.onerror = function () { say('Cette image ne peut pas être lue. Choisissez une photo JPG ou PNG.', true); res(null); };
+      img.onload = function () {
+        var S = 280, base = Math.max(S / img.width, S / img.height), z = 1, ox = 0, oy = 0;
+        var wrap = document.createElement('div'); wrap.className = 'cr-ov';
+        wrap.innerHTML = '<div class="cr-box" role="dialog" aria-modal="true" aria-label="Recadrer la photo"><h3>Recadrer la photo</h3><p>Faites glisser la photo pour la placer dans le rond.</p><div class="cr-st"><canvas width="' + S * 2 + '" height="' + S * 2 + '"></canvas><div class="cr-mask"></div></div><label class="cr-z">Zoom<input type="range" min="1" max="3" step="0.01" value="1"></label><div class="cr-a"><button type="button" class="btn ghost" data-x>Annuler</button><button type="button" class="btn" data-ok>Valider la photo</button></div></div>';
+        document.body.appendChild(wrap); document.body.style.overflow = 'hidden';
+        var cv = wrap.querySelector('canvas'), cx = cv.getContext('2d'), rg = wrap.querySelector('input[type=range]');
+        function clamp() { var w = img.width * base * z, h = img.height * base * z, mx = (w - S) / 2, my = (h - S) / 2; ox = Math.max(-mx, Math.min(mx, ox)); oy = Math.max(-my, Math.min(my, oy)); }
+        function paint(ctx, size) { var k = size / S, w = img.width * base * z * k, h = img.height * base * z * k; ctx.fillStyle = '#fff'; ctx.fillRect(0, 0, size, size); ctx.drawImage(img, (size - w) / 2 + ox * k, (size - h) / 2 + oy * k, w, h); }
+        function redraw() { clamp(); paint(cx, S * 2); }
+        redraw();
+        var drag = null;
+        cv.addEventListener('pointerdown', function (e) { drag = { x: e.clientX, y: e.clientY, ox: ox, oy: oy }; cv.setPointerCapture(e.pointerId); });
+        cv.addEventListener('pointermove', function (e) { if (!drag) return; var k = S / (cv.clientWidth || S); ox = drag.ox + (e.clientX - drag.x) * k; oy = drag.oy + (e.clientY - drag.y) * k; redraw(); });
+        cv.addEventListener('pointerup', function () { drag = null; }); cv.addEventListener('pointercancel', function () { drag = null; });
+        cv.addEventListener('wheel', function (e) { e.preventDefault(); z = Math.max(1, Math.min(3, z - e.deltaY * 0.002)); rg.value = z; redraw(); }, { passive: false });
+        rg.addEventListener('input', function () { z = Number(rg.value); redraw(); });
+        function close(v) { wrap.remove(); document.body.style.overflow = ''; URL.revokeObjectURL(url); res(v); }
+        wrap.querySelector('[data-x]').addEventListener('click', function () { close(null); });
+        wrap.querySelector('[data-ok]').addEventListener('click', function () { var o = document.createElement('canvas'); o.width = o.height = 480; paint(o.getContext('2d'), 480); o.toBlob(function (b) { close(b); }, 'image/jpeg', 0.88); });
+        document.addEventListener('keydown', function esc(e) { if (e.key === 'Escape' && document.body.contains(wrap)) { document.removeEventListener('keydown', esc); close(null); } });
+      };
+      img.src = url;
     });
   }
   function shrink(f) {
