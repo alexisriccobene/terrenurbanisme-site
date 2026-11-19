@@ -1,1 +1,1 @@
-{"fonction":"stripe-webhook","script":"lire.py","demande":"lire-remove"}
+{"fonction":"stripe-webhook","script":"sous_rubriques.py","demande":"sous-rubriques"}
