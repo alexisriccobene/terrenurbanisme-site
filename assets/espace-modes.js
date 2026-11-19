@@ -48,7 +48,7 @@
       if (/^@media/.test(sel)) out += sel + '{' + scope(body) + '}';
       else if (/^@/.test(sel)) out += sel + '{' + body + '}';
       else {
-        var ss = sel.split(',').map(function (x) { return x.trim(); }).filter(function (x) { return x && !/^(body|html|\[hidden\]|\.em-top|\.em-brand|\.em-login|\.em-l|\.em-rem|\.em-out|\.em-back|\.em-ville)/.test(x); });
+        var ss = sel.split(',').map(function (x) { return x.trim(); }).filter(function (x) { return x && !/^(body|html|\[hidden\]|\.em-top|\.em-brand|\.em-login|\.em-lcard|\.em-lico|\.em-lsub|\.em-lerr|\.em-lhelp|\.em-rem|\.em-out|\.em-back|\.em-ville)\b/.test(x); });
         if (ss.length) out += ss.map(function (x) { return '#esp-mairie ' + x; }).join(',') + '{' + body + '}';
       }
       i = k;
