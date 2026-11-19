@@ -39,9 +39,17 @@
   /* ---------- Mode mairie (présentation) ---------- */
   function drawMairie() {
     var box = $('esp-mairie'); if (box.dataset.ok) return; box.dataset.ok = '1';
-    box.innerHTML = '<div class="esp-hero" style="margin:0 0 6px"><div class="esp-hero-logo">M</div><div class="esp-hero-t"><small>Commune · démonstration</small><h2>Mairie de Porto-Vecchio</h2><p>Les habitants obtiennent leur rapport d\'urbanisme depuis le site de la mairie, sur les parcelles de la commune.</p></div></div>'
+    box.innerHTML = '<div class="esp-hero" style="margin:0 0 6px"><div class="esp-hero-logo" id="mh-logo">M</div><div class="esp-hero-t"><small>Commune · démonstration</small><h2 id="mh-nom">Mairie de Porto-Vecchio</h2><p id="mh-co">Les habitants obtiennent leur rapport d\'urbanisme depuis le site de la mairie, sur les parcelles de la commune.</p></div><a class="btn ghost" href="/espace-mairie.html#identite" style="margin-left:auto;align-self:center">Modifier</a></div>'
       + '<div class="em-grid"><div class="em-k"><small>Rapports remis ce mois-ci</small><b>38</b></div><div class="em-k"><small>Stock restant</small><b>212</b></div><div class="em-k"><small>Appels évités au service urbanisme</small><b>≈ 60</b></div></div>'
       + '<div class="esp-card"><div class="esp-card-h"><div><h2>Ce que voit la mairie</h2><p>Les demandes des habitants parcelle par parcelle, le bouton à placer sur le site de la commune et le suivi du stock.</p></div><a class="btn" href="/espace-mairie.html">Ouvrir l\'espace mairie</a></div></div>';
+    fetch('https://nmoigruxnhsidrhqtzid.supabase.co/functions/v1/stripe-webhook?ville=porto-vecchio').then(function (r) { return r.ok ? r.json() : null; }).then(function (v) {
+      if (!v || !v.nom) return;
+      $('mh-nom').textContent = 'Mairie de ' + v.nom;
+      if (v.logo) $('mh-logo').innerHTML = '<img alt="" src="' + esc(v.logo) + '">'; else $('mh-logo').textContent = v.nom.charAt(0);
+      var site = v.site ? String(v.site).replace(/^https?:\/\//, '').replace(/\/$/, '') : '';
+      var co = [v.adresse, v.telephone, v.email, site].filter(Boolean).join('  ·  ');
+      if (co) $('mh-co').textContent = co;
+    }).catch(function () {});
   }
 
   /* ---------- Équipe ---------- */

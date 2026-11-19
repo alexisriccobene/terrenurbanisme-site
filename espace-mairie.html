@@ -19,6 +19,44 @@ body{background:var(--bg)}
 .em-brand small{font-weight:500;color:var(--muet);font-size:15px}
 .em-ville{display:flex;align-items:center;gap:10px;font-weight:700}
 .em-ville img{max-height:42px;max-width:150px;object-fit:contain}
+.em-h{font-size:clamp(24px,2.8vw,32px);margin-top:6px}
+#em-app>section{scroll-margin-top:16px}
+.em-id{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:20px;align-items:center;padding:24px;margin:28px 0 16px}
+.em-id-logo{width:84px;height:84px;border-radius:18px;border:1px solid var(--ligne);background:#fff;display:flex;align-items:center;justify-content:center;font-size:34px;font-weight:800;color:var(--t);overflow:hidden;flex:none}
+.em-id-logo img{width:100%;height:100%;object-fit:contain;padding:8px}
+.em-id-logo.sm{width:64px;height:64px;font-size:26px;border-radius:14px}
+.em-id h1{font-size:clamp(26px,3.2vw,36px);margin-top:4px}
+.em-id-co{color:var(--muet);font-size:15px;margin-top:6px;line-height:1.6}
+.em-id-co span{display:inline-block;max-width:100%;overflow-wrap:anywhere}.em-id-co span+span::before{content:"·";margin:0 8px;color:var(--ligne)}
+.em-id-f{grid-column:1/-1;border-top:1px solid var(--ligne);padding-top:20px;display:grid;gap:18px}
+.em-id-up{display:flex;gap:16px;align-items:center}
+.em-id-up>div:last-child{display:grid;gap:6px;justify-items:start}
+.em-id-up small,.fl small{color:var(--muet);font-size:12.5px}
+.em-id-g{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px 18px}
+.fl{display:grid;gap:6px;align-content:start;font-size:14px;font-weight:650;color:var(--ink)}
+.fl input{font:inherit;font-weight:400;font-size:15px;padding:11px 12px;border-radius:12px;border:1.5px solid var(--ligne);background:var(--surface);color:var(--ink);width:100%;min-width:0}
+.up-btn{display:inline-flex;align-items:center;gap:8px;padding:10px 16px;border-radius:12px;border:1.5px solid var(--t);color:var(--t);font-weight:700;font-size:14.5px;cursor:pointer;background:#fff}
+.up-btn:hover{background:var(--soft)}
+.em-lnk{font:inherit;font-size:13px;background:none;border:0;color:var(--muet);text-decoration:underline;cursor:pointer;padding:0}
+.em-id-demo{display:flex;gap:16px;flex-wrap:wrap;align-items:center;font-size:14px;padding:12px 14px;border-radius:12px;background:var(--soft2)}
+.em-id-demo span{font-weight:700;color:var(--t);font-size:12.5px;letter-spacing:.06em;text-transform:uppercase}
+.em-id-demo input{accent-color:var(--t)}
+.em-id-a{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.em-id-msg{font-size:14px;font-weight:650}
+.em-stock{display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap;padding:20px 24px;margin-bottom:6px;border-left:5px solid var(--t)}
+.em-stock span{color:var(--muet);font-size:14px}
+.em-stock b{display:block;font-size:40px;font-weight:800;letter-spacing:-.02em;line-height:1.1}
+.em-stock small{color:var(--muet);font-size:13.5px}
+.em-stock.bas{background:#FDF1EC;border-color:var(--non)}.em-stock.bas b{color:var(--non)}.em-stock.bas small{color:var(--non);font-weight:650}
+.em-abo{margin-top:34px}
+.em-abo summary{list-style:none;display:flex;justify-content:space-between;align-items:center;gap:12px;padding:18px 22px;cursor:pointer}
+.em-abo summary::-webkit-details-marker{display:none}
+.em-abo summary b{display:block;font-size:17px}.em-abo summary small{color:var(--muet);font-size:13.5px}
+.em-abo summary i{font-style:normal;color:var(--t);transition:transform .2s}
+.em-abo[open] summary i{transform:rotate(180deg)}
+.em-abo-b{padding:0 22px 22px;border-top:1px solid var(--ligne);padding-top:18px}
+.em-abo-b h3{font-size:16px}
+@media (max-width:700px){.em-id{grid-template-columns:auto minmax(0,1fr);padding:18px;align-items:start}.em-id>#id-edit{grid-column:1/-1;justify-self:start}.em-id-logo{width:64px;height:64px;font-size:26px}.em-id-co span{display:block}.em-id-co span+span::before{content:none}.em-id-g{grid-template-columns:1fr}.em-id-up{align-items:flex-start}}
 .em-tabs{display:flex;gap:6px;overflow-x:auto;padding:18px 0 0;border-bottom:1px solid var(--ligne)}
 .em-tabs button{font:inherit;font-weight:650;font-size:15px;background:none;border:0;border-bottom:2.5px solid transparent;padding:10px 14px;color:var(--muet);cursor:pointer;white-space:nowrap}
 .em-tabs button[aria-selected=true]{color:var(--t);border-bottom-color:var(--t)}
@@ -96,15 +134,32 @@ body{background:var(--bg)}
 </div></header>
 
 <main class="wrap" id="em-app" hidden>
-<nav class="em-tabs" role="tablist" aria-label="Sections">
-<button role="tab" aria-selected="true" data-t="dem">Demandes des habitants</button>
-<button role="tab" aria-selected="false" data-t="int">Intégration sur votre site</button>
-<button role="tab" aria-selected="false" data-t="abo">Abonnement</button>
-</nav>
 
-<section data-p="dem">
+<section class="em-id em-card" id="identite">
+<div class="em-id-logo" id="id-logo">M</div>
+<div class="em-id-t"><div class="em-eb" id="id-eb">Commune partenaire</div><h1 id="id-nom">Mairie</h1><p class="em-id-co" id="id-co"></p></div>
+<button class="btn ghost" type="button" id="id-edit">Modifier</button>
+<form class="em-id-f" id="id-f" hidden novalidate>
+<div class="em-id-up"><div class="em-id-logo sm" id="id-lp">M</div><div><label class="up-btn"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M16 16l-4-4-4 4M12 12v9"/><path d="M20.4 18.4A5 5 0 0 0 18 9h-1.3A8 8 0 1 0 3 16.3"/></svg>Importer le logo de la mairie<input type="file" id="id-file" accept="image/png,image/jpeg" hidden></label><button type="button" class="em-lnk" id="id-del" hidden>Retirer le logo</button><small>PNG ou JPG. Il apparaît sur votre espace, la page de la commune et les rapports de vos habitants.</small></div></div>
+<div class="em-id-g">
+<label class="fl">Adresse de la mairie<input name="adresse" maxlength="200" placeholder="ex. Place de l'Hôtel de Ville, 20137 Porto-Vecchio"></label>
+<label class="fl">Téléphone<input name="telephone" maxlength="30" inputmode="tel" placeholder="ex. 04 95 70 95 00"></label>
+<label class="fl">E-mail du service urbanisme<input name="email" type="email" maxlength="160" placeholder="urbanisme@mairie.fr"><small>Il reçoit les alertes de stock de rapports.</small></label>
+<label class="fl">Site internet<input name="site" maxlength="200" placeholder="www.mairie.fr"></label>
+</div>
+<div class="em-id-demo" id="id-demo" hidden><span>Démonstration · formule affichée</span><label><input type="radio" name="formule_demo" value="abo"> Abonnement</label><label><input type="radio" name="formule_demo" value="credits"> Stock de rapports</label></div>
+<div class="em-id-a"><button class="btn" type="submit">Enregistrer</button><button class="btn ghost" type="button" id="id-cancel">Annuler</button><span class="em-id-msg" id="id-msg"></span></div>
+</form>
+</section>
+
+<div class="em-stock em-card" id="em-stock" hidden>
+<div><span>Rapports restants</span><b id="st-n">0</b><small id="st-s"></small></div>
+<a class="btn" href="/mairies.html#offre" target="_blank" rel="noopener">Recharger le stock</a>
+</div>
+
+<section id="demandes">
 <div class="em-head">
-<div><div class="em-eb" id="em-per-l">Service urbanisme</div><h1>Demandes de rapports des habitants</h1></div>
+<div><div class="em-eb" id="em-per-l">Service urbanisme</div><h2 class="em-h">Demandes des habitants</h2></div>
 <div class="em-tools">
 <span class="em-live" title="Mise à jour automatique"><i></i>En direct</span>
 <select id="em-per" aria-label="Période"><option value="m0">Ce mois-ci</option><option value="m1">Mois précédent</option><option value="d90">3 derniers mois</option><option value="all" selected>Depuis le début</option></select>
@@ -118,11 +173,11 @@ body{background:var(--bg)}
 <div><span>Parcelles constructibles</span><b id="k-o">–</b></div>
 </div>
 <div class="em-card em-tbl"><table><thead><tr><th>Date</th><th>Parcelle</th><th>Zone</th><th>Verdict</th><th>Projet</th><th>Demandeur</th><th>Contact</th><th>Rapport</th></tr></thead><tbody id="em-rows"></tbody></table><div class="em-empty" id="em-empty" hidden>Aucune demande sur cette période.</div></div>
-<p class="em-mu" style="font-size:13px;margin:12px 0 40px">Les coordonnées d'un habitant n'apparaissent que s'il a accepté que la mairie soit informée de sa demande. <span id="em-ex-note" hidden>Les lignes marquées « exemple » illustrent le service et disparaissent à la mise en service.</span></p>
+<p class="em-mu" style="font-size:13px;margin:12px 0 0">Les coordonnées d'un habitant n'apparaissent que s'il a accepté que la mairie soit informée de sa demande. <span id="em-ex-note" hidden>Les lignes marquées « exemple » illustrent le service et disparaissent à la mise en service.</span></p>
 </section>
 
-<section data-p="int" hidden>
-<div class="em-head"><div><div class="em-eb">Mise en place</div><h1>Le bouton à placer sur votre site</h1></div></div>
+<section id="integration">
+<div class="em-head"><div><div class="em-eb">Mise en place</div><h2 class="em-h">Le bouton à placer sur votre site</h2></div></div>
 <div class="em-grid">
 <div class="em-card em-sec">
 <h2>La page de votre commune</h2>
@@ -154,23 +209,24 @@ body{background:var(--bg)}
 <div><b>Associations</b>Annuaire et salles</div>
 </div></div>
 </div>
-<div style="height:40px"></div>
 </section>
 
-<section data-p="abo" hidden>
-<div class="em-head"><div><div class="em-eb">Votre contrat</div><h1>Abonnement de la commune</h1></div></div>
-<div class="em-grid">
-<div class="em-card em-sec"><h2>Offre communale</h2><dl class="em-dl" id="em-abo"></dl></div>
-<div class="em-card em-sec"><h2>Compris</h2><ul class="ck" style="margin-top:10px;padding-left:18px;color:var(--ink);font-size:15px;line-height:1.8">
+<section id="contrat">
+<details class="em-card em-abo" id="em-abo-d">
+<summary><span><b id="abo-t">Abonnement et factures</b><small id="abo-s">Votre offre, ce qui est compris et la facturation</small></span><i aria-hidden="true">▾</i></summary>
+<div class="em-grid em-abo-b">
+<div><h3>Votre offre</h3><dl class="em-dl" id="em-abo"></dl></div>
+<div><h3>Compris</h3><ul class="ck" style="margin-top:10px;padding-left:18px;color:var(--ink);font-size:15px;line-height:1.8">
 <li>Rapports illimités pour les habitants, sur toutes les parcelles de la commune</li>
 <li>Le même accès pour vos agents</li>
 <li>Page de la commune et bouton pour votre site</li>
 <li>Espace mairie, export et relevé mensuel</li>
 <li>Facture sur Chorus Pro, paiement par virement</li></ul>
-<p style="margin-top:14px">Une question : <b>contact@terrenurbanisme.com</b></p></div>
+<h3 style="margin-top:18px">Factures</h3><p class="em-mu" style="font-size:14.5px;margin-top:6px">Vos factures sont déposées sur Chorus Pro, paiement par virement. Une question : <b>contact@terrenurbanisme.com</b></p></div>
 </div>
-<div style="height:40px"></div>
+</details>
 </section>
+<div style="height:48px"></div>
 </main>
 
 <div class="em-login wrap" id="em-login" hidden>
@@ -187,6 +243,6 @@ body{background:var(--bg)}
 </form>
 </div>
 
-<script src="/assets/espace-mairie.js?v=v87"></script>
+<script src="/assets/espace-mairie.js?v=v88"></script>
 </body>
 </html>

@@ -65,8 +65,75 @@
   function load() {
     return fetch(API + '?ville=' + encodeURIComponent(slug), { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ action: 'espace', k: key }) })
       .then(function (r) { if (!r.ok) throw r.status; return r.json(); })
-      .then(function (j) { if (!V) setup(j.ville); ALL = j.demandes || []; render(); });
+      .then(function (j) { if (!V) setup(j.ville); else V = j.ville; drawId(); ALL = j.demandes || []; render(); });
   }
+  /* Identité de la commune : logo, adresse, téléphone, e-mail, site (modifiables) */
+  var NEWLOGO;
+  function logoSrc() { var dl = null; if (V.demo) { try { dl = localStorage.getItem('tu_vlogo_' + V.slug); } catch (x) {} } return V.logo || (dl && /^data:image\//.test(dl) ? dl : null); }
+  function drawId() {
+    var lib = 'Mairie de ' + V.nom, ls = logoSrc();
+    $('id-nom').textContent = lib;
+    $('id-eb').textContent = V.demo ? 'Commune · démonstration' : 'Commune partenaire';
+    $('id-logo').innerHTML = ls ? '<img src="' + esc(ls) + '" alt="' + esc(lib) + '">' : esc(V.nom.charAt(0));
+    var site = V.site ? String(V.site).replace(/^https?:\/\//, '').replace(/\/$/, '') : '';
+    var co = [V.adresse, V.telephone, V.email, site].filter(Boolean);
+    $('id-co').innerHTML = co.length ? co.map(function (x) { return '<span>' + esc(x) + '</span>'; }).join('') : 'Ajoutez le logo et les coordonnées de la mairie : ils apparaissent sur votre espace, la page de la commune et les rapports.';
+    var st = $('em-stock'), cr = V.credits;
+    if (cr != null) {
+      st.hidden = false; st.classList.toggle('bas', cr <= 10);
+      $('st-n').textContent = cr.toLocaleString('fr-FR');
+      $('st-s').textContent = cr <= 0 ? 'Stock épuisé : vos habitants ne peuvent plus obtenir leur rapport. Rechargez pour rétablir le service.' : cr <= 10 ? 'Stock bientôt épuisé. Pensez à recharger pour que vos habitants puissent continuer à analyser leur terrain.' : 'Un e-mail vous prévient automatiquement quand il ne reste plus que 10 rapports.';
+      $('abo-t').textContent = 'Votre offre et factures'; $('abo-s').textContent = 'Stock de rapports, ce qui est compris et la facturation';
+    } else { st.hidden = true; $('abo-t').textContent = 'Abonnement et factures'; $('abo-s').textContent = 'Votre abonnement, ce qui est compris et la facturation'; }
+  }
+  function idMsg(t, er) { var m = $('id-msg'); m.textContent = t || ''; m.style.color = er ? 'var(--non)' : 'var(--ok)'; }
+  function idOpen(o) {
+    var f = $('id-f'); f.hidden = !o; $('id-edit').hidden = o; idMsg('');
+    if (!o) return;
+    NEWLOGO = undefined;
+    f.adresse.value = V.adresse || ''; f.telephone.value = V.telephone || ''; f.email.value = V.email || ''; f.site.value = V.site || '';
+    var ls = logoSrc(); $('id-lp').innerHTML = ls ? '<img src="' + esc(ls) + '" alt="">' : esc(V.nom.charAt(0)); $('id-del').hidden = !V.logo;
+    $('id-demo').hidden = !V.demo;
+    if (V.demo) f.querySelector('[name=formule_demo][value=' + (V.credits != null ? 'credits' : 'abo') + ']').checked = true;
+  }
+  $('id-edit').addEventListener('click', function () { idOpen(true); });
+  $('id-cancel').addEventListener('click', function () { idOpen(false); });
+  $('id-del').addEventListener('click', function () { NEWLOGO = null; $('id-lp').textContent = V.nom.charAt(0); $('id-del').hidden = true; });
+  $('id-file').addEventListener('change', function (e) {
+    var f = e.target.files && e.target.files[0]; e.target.value = ''; if (!f) return;
+    if (!/^image\/(png|jpeg)$/.test(f.type)) { idMsg('Choisissez une image PNG ou JPG.', true); return; }
+    var r = new FileReader();
+    r.onload = function () {
+      var im = new Image();
+      im.onload = function () {
+        var k = Math.min(1, 600 / Math.max(im.width, im.height)), c = document.createElement('canvas');
+        c.width = Math.round(im.width * k); c.height = Math.round(im.height * k);
+        c.getContext('2d').drawImage(im, 0, 0, c.width, c.height);
+        NEWLOGO = f.type === 'image/png' ? c.toDataURL('image/png') : c.toDataURL('image/jpeg', 0.9);
+        if (NEWLOGO.length > 690000) NEWLOGO = c.toDataURL('image/jpeg', 0.85);
+        $('id-lp').innerHTML = '<img src="' + NEWLOGO + '" alt="">'; $('id-del').hidden = false; idMsg('');
+      };
+      im.src = r.result;
+    };
+    r.readAsDataURL(f);
+  });
+  $('id-f').addEventListener('submit', function (e) {
+    e.preventDefault();
+    var f = $('id-f'), bt = f.querySelector('[type=submit]');
+    var em = f.email.value.trim(); if (em && !/^[^\s@]+@[^\s@]+\.[a-z]{2,}$/i.test(em)) { idMsg('Vérifiez l\'adresse e-mail.', true); return; }
+    var body = { action: 'profil', k: key, adresse: f.adresse.value, telephone: f.telephone.value, email: em, site: f.site.value };
+    if (NEWLOGO !== undefined) body.logo = NEWLOGO;
+    if (V.demo) { var fd0 = f.querySelector('[name=formule_demo]:checked'); if (fd0) body.formule_demo = fd0.value; }
+    bt.disabled = true; idMsg('Enregistrement…');
+    fetch(API + '?ville=' + encodeURIComponent(slug), { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify(body) })
+      .then(function (r) { return r.json().then(function (j) { return { ok: r.ok, j: j }; }); })
+      .then(function (x) {
+        bt.disabled = false;
+        if (!x.ok || !x.j.ok) { idMsg(x.j && x.j.error === 'email' ? 'Vérifiez l\'adresse e-mail.' : x.j && x.j.error === 'logo' ? 'Ce logo n\'a pas pu être enregistré. Essayez une image plus légère.' : 'Enregistrement impossible. Réessayez dans un instant.', true); return; }
+        if (NEWLOGO !== undefined && V.demo) { try { localStorage.removeItem('tu_vlogo_' + V.slug); } catch (z) {} }
+        return load().then(function () { idOpen(false); var ls = logoSrc(); $('em-ville').innerHTML = ls ? '<img src="' + esc(ls) + '" alt="">' : esc(V.libelle.charAt(0).toUpperCase() + V.libelle.slice(1)); });
+      }).catch(function () { bt.disabled = false; idMsg('Enregistrement impossible. Réessayez dans un instant.', true); });
+  });
   function setup(v) {
     V = v; $('em-app').hidden = false;
     var lib = v.libelle.charAt(0).toUpperCase() + v.libelle.slice(1);
@@ -91,12 +158,6 @@
     $('em-abo').innerHTML = '<dt>Commune</dt><dd>' + esc(v.nom) + '</dd><dt>Formule</dt><dd>' + esc(v.formule || 'Offre communale') + '</dd>' + (v.credits != null ? '<dt>Rapports restants</dt><dd><strong>' + v.credits + '</strong>' + (v.credits <= 10 ? ' · stock bientôt épuisé : <a href="mailto:contact@terrenurbanisme.com?subject=Nouveau%20stock%20de%20rapports">recommander</a>' : '') + '</dd>' : '') + '<dt>Statut</dt><dd>' + (v.demo ? 'Démonstration' : v.actif ? 'Actif' : 'Inactif') + '</dd>' + (v.fin ? '<dt>Échéance</dt><dd>' + new Date(v.fin).toLocaleDateString('fr-FR') + '</dd>' : '') + '<dt>Parcelles couvertes</dt><dd>Toute la commune (INSEE ' + esc(v.insee.join(', ')) + ')</dd>';
     document.title = 'Espace mairie · ' + v.nom + ' | TerrenUrbanisme';
   }
-  document.querySelectorAll('.em-tabs button').forEach(function (b) {
-    b.addEventListener('click', function () {
-      document.querySelectorAll('.em-tabs button').forEach(function (x) { x.setAttribute('aria-selected', x === b ? 'true' : 'false'); });
-      document.querySelectorAll('[data-p]').forEach(function (p) { p.hidden = p.getAttribute('data-p') !== b.getAttribute('data-t'); });
-    });
-  });
   $('em-per').addEventListener('change', render); $('em-q').addEventListener('input', render);
   document.addEventListener('click', function (e) {
     var b = e.target.closest('[data-copy]'); if (!b) return;
