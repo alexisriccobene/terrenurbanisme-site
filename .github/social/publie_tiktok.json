@@ -636,65 +636,115 @@
   }
  },
  "j-2026-11-20": {
-  "tiktok": {
+  "tiktok_annule": {
    "id": "6aff3a95374906ee29216d82",
    "mode": "programmé dans Zernio pour 2026-11-20T18:00:00",
    "statut": "scheduled"
   },
-  "youtube": {
+  "youtube_annule": {
    "id": "6aff3aa9d8274809756c7e89",
+   "mode": "programmé dans Zernio pour 2026-11-20T18:00:00",
+   "statut": "scheduled"
+  },
+  "tiktok": {
+   "id": "6aff57f0a778149aefbecee2",
+   "mode": "programmé dans Zernio pour 2026-11-20T18:00:00",
+   "statut": "scheduled"
+  },
+  "youtube": {
+   "id": "6aff5802a778149aefbecf65",
    "mode": "programmé dans Zernio pour 2026-11-20T18:00:00",
    "statut": "scheduled"
   }
  },
  "j-2026-11-21": {
-  "tiktok": {
+  "tiktok_annule": {
    "id": "6aff3a98308300b1125df9ce",
    "mode": "programmé dans Zernio pour 2026-11-21T18:00:00",
    "statut": "scheduled"
   },
-  "youtube": {
+  "youtube_annule": {
    "id": "6aff3aabfb671f0372a351ba",
+   "mode": "programmé dans Zernio pour 2026-11-21T18:00:00",
+   "statut": "scheduled"
+  },
+  "tiktok": {
+   "id": "6aff57f2a778149aefbecefb",
+   "mode": "programmé dans Zernio pour 2026-11-21T18:00:00",
+   "statut": "scheduled"
+  },
+  "youtube": {
+   "id": "6aff58046d5355fc88b537cc",
    "mode": "programmé dans Zernio pour 2026-11-21T18:00:00",
    "statut": "scheduled"
   }
  },
  "j-2026-11-22": {
-  "tiktok": {
+  "tiktok_annule": {
    "id": "6aff3a9cd8274809756c7e66",
    "mode": "programmé dans Zernio pour 2026-11-22T18:00:00",
    "statut": "scheduled"
   },
-  "youtube": {
+  "youtube_annule": {
    "id": "6aff3b434f86d4e19cd4c73a",
+   "mode": "programmé dans Zernio pour 2026-11-22T18:00:00",
+   "statut": "scheduled"
+  },
+  "tiktok": {
+   "id": "6aff57f6a778149aefbecf23",
+   "mode": "programmé dans Zernio pour 2026-11-22T18:00:00",
+   "statut": "scheduled"
+  },
+  "youtube": {
+   "id": "6aff5808a778149aefbecfab",
    "mode": "programmé dans Zernio pour 2026-11-22T18:00:00",
    "statut": "scheduled"
   }
  },
  "j-2026-11-23": {
-  "tiktok": {
+  "tiktok_annule": {
    "id": "6aff3a9e336fa158be975f83",
+   "mode": "programmé dans Zernio pour 2026-11-23T18:00:00",
+   "statut": "scheduled"
+  },
+  "tiktok": {
+   "id": "6aff57f94ca23faf59150deb",
    "mode": "programmé dans Zernio pour 2026-11-23T18:00:00",
    "statut": "scheduled"
   }
  },
  "j-2026-11-24": {
-  "tiktok": {
+  "tiktok_annule": {
    "id": "6aff3aa1308300b1125df9eb",
+   "mode": "programmé dans Zernio pour 2026-11-24T18:00:00",
+   "statut": "scheduled"
+  },
+  "tiktok": {
+   "id": "6aff57fba778149aefbecf38",
    "mode": "programmé dans Zernio pour 2026-11-24T18:00:00",
    "statut": "scheduled"
   }
  },
  "j-2026-11-25": {
-  "tiktok": {
+  "tiktok_annule": {
    "id": "6aff3aa3308300b1125df9f8",
+   "mode": "programmé dans Zernio pour 2026-11-25T18:00:00",
+   "statut": "scheduled"
+  },
+  "tiktok": {
+   "id": "6aff57fdad189d024ac4a16c",
    "mode": "programmé dans Zernio pour 2026-11-25T18:00:00",
    "statut": "scheduled"
   }
  },
  "j-2026-11-26": {
-  "tiktok": {
+  "tiktok_annule": {
    "id": "6aff3aa6fb671f0372a3519d",
+   "mode": "programmé dans Zernio pour 2026-11-26T18:00:00",
+   "statut": "scheduled"
+  },
+  "tiktok": {
+   "id": "6aff58006d5355fc88b5379f",
    "mode": "programmé dans Zernio pour 2026-11-26T18:00:00",
    "statut": "scheduled"
   }
