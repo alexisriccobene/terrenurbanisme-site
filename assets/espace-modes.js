@@ -87,7 +87,7 @@
         bt.disabled = false;
         var er = r.error ? (r.error.context && r.error.context.json ? r.error.context.json() : Promise.resolve({})) : null;
         if (er) return er.then(function (j) { var c = j && j.error; say(c === 'deja_membre' ? 'Cette adresse est déjà le collaborateur d\'une autre agence.' : c === 'email_agence' ? 'Utilisez l\'e-mail personnel du collaborateur, pas celui de l\'agence.' : 'L\'accès n\'a pas pu être créé. Réessayez.', true); bt.textContent = a.member_id ? 'Renvoyer l\'accès' : 'Créer son accès'; });
-        say(r.data && r.data.mail === false ? 'Accès créé. L\'e-mail n\'est pas parti : demandez-lui d\'aller sur « Mot de passe oublié » avec son adresse.' : 'Accès créé : ' + a.nom + ' a reçu un e-mail pour choisir son mot de passe.');
+        say(r.data && r.data.mail === false ? 'Accès créé. L\'e-mail n\'est pas parti : demandez-lui d\'aller sur « Mot de passe oublié » avec son adresse.' : 'C\'est envoyé : ' + a.nom + ' reçoit un e-mail « Votre accès TerrenUrbanisme » avec le bouton « Créer mon accès ». S\'il ne le voit pas, il regarde dans ses courriers indésirables.');
         load(a.id);
       });
     });
