@@ -58,6 +58,12 @@ body{background:var(--bg)}
 .em-abo-b h3{font-size:16px}
 @media (max-width:700px){.em-id{grid-template-columns:auto minmax(0,1fr);padding:18px;align-items:start}.em-id>#id-edit{grid-column:1/-1;justify-self:start}.em-id-logo{width:64px;height:64px;font-size:26px}.em-id-co span{display:block}.em-id-co span+span::before{content:none}.em-id-g{grid-template-columns:1fr}.em-id-up{align-items:flex-start}}
 .em-back{font-weight:700;font-size:14.5px;color:var(--t);text-decoration:none;border:1.5px solid var(--t);border-radius:10px;padding:7px 12px}.em-back:hover{background:var(--soft)}
+.em-steps{list-style:none;margin:0 0 18px;padding:0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+.em-steps li{display:flex;gap:12px;align-items:flex-start;background:var(--surface);border:1px solid var(--ligne);border-radius:16px;padding:16px 18px}
+.em-steps b{flex:none;width:30px;height:30px;border-radius:50%;background:var(--t);color:#fff;display:flex;align-items:center;justify-content:center;font-size:14px}
+.em-steps span{font-size:14px;color:var(--muet);line-height:1.5}.em-steps strong{display:block;color:var(--ink);font-size:15px;margin-bottom:2px}
+#integration{margin-top:10px}#demandes{margin-top:34px}
+@media (max-width:820px){.em-steps{grid-template-columns:1fr}}
 .em-tabs{display:flex;gap:6px;overflow-x:auto;padding:18px 0 0;border-bottom:1px solid var(--ligne)}
 .em-tabs button{font:inherit;font-weight:650;font-size:15px;background:none;border:0;border-bottom:2.5px solid transparent;padding:10px 14px;color:var(--muet);cursor:pointer;white-space:nowrap}
 .em-tabs button[aria-selected=true]{color:var(--t);border-bottom-color:var(--t)}
@@ -158,27 +164,13 @@ body{background:var(--bg)}
 <a class="btn" href="/mairies.html#offre" target="_blank" rel="noopener">Recharger le stock</a>
 </div>
 
-<section id="demandes">
-<div class="em-head">
-<div><div class="em-eb" id="em-per-l">Service urbanisme</div><h2 class="em-h">Demandes des habitants</h2></div>
-<div class="em-tools">
-<span class="em-live" title="Mise à jour automatique"><i></i>En direct</span>
-<select id="em-per" aria-label="Période"><option value="m0">Ce mois-ci</option><option value="m1">Mois précédent</option><option value="d90">3 derniers mois</option><option value="all" selected>Depuis le début</option></select>
-<input id="em-q" type="search" placeholder="Parcelle, zone, nom…" aria-label="Rechercher">
-<button class="btn" id="em-exp" type="button">Exporter en Excel</button>
-</div></div>
-<div class="em-kpis">
-<div><span>Rapports délivrés</span><b id="k-n">0</b></div>
-<div><span>Habitants à recontacter</span><b id="k-c">0</b></div>
-<div><span>Zone la plus demandée</span><b id="k-z">–</b></div>
-<div><span>Parcelles constructibles</span><b id="k-o">–</b></div>
-</div>
-<div class="em-card em-tbl"><table><thead><tr><th>Date</th><th>Parcelle</th><th>Zone</th><th>Verdict</th><th>Projet</th><th>Demandeur</th><th>Contact</th><th>Rapport</th></tr></thead><tbody id="em-rows"></tbody></table><div class="em-empty" id="em-empty" hidden>Aucune demande sur cette période.</div></div>
-<p class="em-mu" style="font-size:13px;margin:12px 0 0">Les coordonnées d'un habitant n'apparaissent que s'il a accepté que la mairie soit informée de sa demande. <span id="em-ex-note" hidden>Les lignes marquées « exemple » illustrent le service et disparaissent à la mise en service.</span></p>
-</section>
-
 <section id="integration">
-<div class="em-head"><div><div class="em-eb">Mise en place</div><h2 class="em-h">Le bouton à placer sur votre site</h2></div></div>
+<div class="em-head"><div><div class="em-eb">Étape 1 · Mise en place sur le site de la mairie</div><h2 class="em-h">Le bouton à placer sur votre site</h2></div></div>
+<ol class="em-steps">
+<li><b>1</b><span><strong>Vous placez le bouton</strong>Votre webmaster colle le code ci-dessous sur la page « Urbanisme » ou « Services en ligne » du site de la mairie.</span></li>
+<li><b>2</b><span><strong>L'habitant analyse sa parcelle</strong>Il clique sur « Analyser mon terrain » et reçoit son rapport d'urbanisme complet par e-mail, en quelques minutes.</span></li>
+<li><b>3</b><span><strong>Vous suivez chaque demande</strong>Les demandes s'affichent en direct plus bas, parcelle par parcelle, avec le stock de rapports restant.</span></li>
+</ol>
 <div class="em-grid">
 <div class="em-card em-sec">
 <h2>La page de votre commune</h2>
@@ -212,6 +204,27 @@ body{background:var(--bg)}
 </div>
 </section>
 
+<section id="demandes">
+<div class="em-head">
+<div><div class="em-eb">Étape 2 · Suivi</div><h2 class="em-h">Les rapports de vos habitants</h2><p class="em-mu" id="em-per-l" style="font-size:14px;margin-top:4px">Service urbanisme</p></div>
+<div class="em-tools">
+<span class="em-live" title="Mise à jour automatique"><i></i>En direct</span>
+<select id="em-per" aria-label="Période"><option value="m0">Ce mois-ci</option><option value="m1">Mois précédent</option><option value="d90">3 derniers mois</option><option value="all" selected>Depuis le début</option></select>
+<input id="em-q" type="search" placeholder="Parcelle, zone, nom…" aria-label="Rechercher">
+<button class="btn" id="em-exp" type="button">Exporter en Excel</button>
+</div></div>
+<div class="em-kpis">
+<div><span>Rapports délivrés</span><b id="k-n">0</b></div>
+<div><span>Habitants à recontacter</span><b id="k-c">0</b></div>
+<div><span>Zone la plus demandée</span><b id="k-z">–</b></div>
+<div><span>Parcelles constructibles</span><b id="k-o">–</b></div>
+</div>
+<div class="em-card em-tbl"><table><thead><tr><th>Date</th><th>Parcelle</th><th>Zone</th><th>Verdict</th><th>Projet</th><th>Demandeur</th><th>Contact</th><th>Rapport</th></tr></thead><tbody id="em-rows"></tbody></table><div class="em-empty" id="em-empty" hidden>Aucune demande sur cette période.</div></div>
+<p class="em-mu" style="font-size:13px;margin:12px 0 0">Les coordonnées d'un habitant n'apparaissent que s'il a accepté que la mairie soit informée de sa demande. <span id="em-ex-note" hidden>Les lignes marquées « exemple » illustrent le service et disparaissent à la mise en service.</span></p>
+</section>
+
+
+
 <section id="contrat">
 <details class="em-card em-abo" id="em-abo-d">
 <summary><span><b id="abo-t">Abonnement et factures</b><small id="abo-s">Votre offre, ce qui est compris et la facturation</small></span><i aria-hidden="true">▾</i></summary>
@@ -244,6 +257,6 @@ body{background:var(--bg)}
 </form>
 </div>
 
-<script src="/assets/espace-mairie.js?v=v90"></script>
+<script src="/assets/espace-mairie.js?v=v91"></script>
 </body>
 </html>
