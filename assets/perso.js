@@ -321,10 +321,11 @@
             var pv = lab.nextElementSibling && lab.nextElementSibling.classList.contains('ps-pv') ? lab.nextElementSibling : lab;
             var key = function (x) { return t + '|' + x.t; };
             var off = subs.filter(function (x) { return SOUS0.indexOf(key(x)) >= 0; }).length;
-            pv.insertAdjacentHTML('afterend', '<button type="button" class="ps-tg" aria-expanded="false"><span class="ps-ar">▸</span> ' + subs.length + ' sous-rubrique' + (subs.length > 1 ? 's' : '') + (off ? ' · ' + off + ' retirée' + (off > 1 ? 's' : '') : '') + '</button><div class="ps-subs" hidden>' + subs.map(function (x) {
+            lab.classList.add('ps-has');
+            pv.insertAdjacentHTML('afterend', '<div class="ps-grp"><button type="button" class="ps-tg" aria-expanded="false"><span class="ps-ar">▸</span> ' + subs.length + ' sous-rubrique' + (subs.length > 1 ? 's' : '') + (off ? ' · ' + off + ' retirée' + (off > 1 ? 's' : '') : '') + '</button><div class="ps-subs" hidden>' + subs.map(function (x) {
               return '<label class="ps-ck ps-sub"><input type="checkbox" data-sous="' + key(x).replace(/"/g, '&quot;') + '" data-par="' + t.replace(/"/g, '&quot;') + '"' + (SOUS0.indexOf(key(x)) >= 0 ? '' : ' checked') + '><span><b class="ps-sn">' + x.n + '</b>' + x.t.replace(/</g, '&lt;') + '</span></label>';
-            }).join('') + '</div>');
-            var tg = pv.nextElementSibling, box = tg.nextElementSibling;
+            }).join('') + '</div></div>');
+            var tg = pv.nextElementSibling.firstElementChild, box = tg.nextElementSibling;
             tg.addEventListener('click', function () { box.hidden = !box.hidden; tg.setAttribute('aria-expanded', String(!box.hidden)); tg.querySelector('.ps-ar').textContent = box.hidden ? '▸' : '▾'; });
             if (off) { box.hidden = false; tg.setAttribute('aria-expanded', 'true'); tg.querySelector('.ps-ar').textContent = '▾'; }
           });
