@@ -1,1 +1,1 @@
-{"fonction":"stripe-webhook","script":"avis_terrain.py","demande":"avis-terrain"}
+{"fonction":"stripe-webhook","script":"lire.py","demande":"lire-agent"}
