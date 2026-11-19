@@ -135,7 +135,7 @@
       }).catch(function () { bt.disabled = false; idMsg('Enregistrement impossible. Réessayez dans un instant.', true); });
   });
   function setup(v) {
-    V = v; $('em-app').hidden = false;
+    V = v; $('em-app').hidden = false; if (v.demo) $('em-back').hidden = false;
     var lib = v.libelle.charAt(0).toUpperCase() + v.libelle.slice(1);
     var dl = null; if (v.demo) { try { dl = localStorage.getItem('tu_vlogo_' + v.slug); } catch (x) {} }
     var lsrc = v.logo || (dl && /^data:image\//.test(dl) ? dl : null);

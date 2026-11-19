@@ -57,6 +57,7 @@ body{background:var(--bg)}
 .em-abo-b{padding:0 22px 22px;border-top:1px solid var(--ligne);padding-top:18px}
 .em-abo-b h3{font-size:16px}
 @media (max-width:700px){.em-id{grid-template-columns:auto minmax(0,1fr);padding:18px;align-items:start}.em-id>#id-edit{grid-column:1/-1;justify-self:start}.em-id-logo{width:64px;height:64px;font-size:26px}.em-id-co span{display:block}.em-id-co span+span::before{content:none}.em-id-g{grid-template-columns:1fr}.em-id-up{align-items:flex-start}}
+.em-back{font-weight:700;font-size:14.5px;color:var(--t);text-decoration:none;border:1.5px solid var(--t);border-radius:10px;padding:7px 12px}.em-back:hover{background:var(--soft)}
 .em-tabs{display:flex;gap:6px;overflow-x:auto;padding:18px 0 0;border-bottom:1px solid var(--ligne)}
 .em-tabs button{font:inherit;font-weight:650;font-size:15px;background:none;border:0;border-bottom:2.5px solid transparent;padding:10px 14px;color:var(--muet);cursor:pointer;white-space:nowrap}
 .em-tabs button[aria-selected=true]{color:var(--t);border-bottom-color:var(--t)}
@@ -130,7 +131,7 @@ body{background:var(--bg)}
 <body>
 <header class="em-top"><div class="wrap">
 <a class="em-brand" href="/" target="_blank" rel="noopener"><svg viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="29.5" fill="none" stroke="#A3462C" stroke-width="3"/><circle cx="32" cy="32" r="23" fill="none" stroke="#A3462C" stroke-width="1.6" stroke-dasharray="2.2 3.2"/><path d="M20 26L37 20L45 36L29 44Z" fill="#F6E5DD" stroke="#A3462C" stroke-width="3.2" stroke-linejoin="round"/><circle cx="33" cy="32" r="3.6" fill="#A3462C"/></svg>TerrenUrbanisme <small>Espace mairie</small></a>
-<div style="display:flex;align-items:center;gap:14px"><div class="em-ville" id="em-ville"></div><button class="em-out" id="em-out" type="button" hidden>Déconnexion</button></div>
+<div style="display:flex;align-items:center;gap:14px;flex-wrap:wrap"><a class="em-back" id="em-back" href="/espace.html" hidden>← Retour à mon espace</a><div class="em-ville" id="em-ville"></div><button class="em-out" id="em-out" type="button" hidden>Déconnexion</button></div>
 </div></header>
 
 <main class="wrap" id="em-app" hidden>
@@ -243,6 +244,6 @@ body{background:var(--bg)}
 </form>
 </div>
 
-<script src="/assets/espace-mairie.js?v=v88"></script>
+<script src="/assets/espace-mairie.js?v=v89"></script>
 </body>
 </html>
