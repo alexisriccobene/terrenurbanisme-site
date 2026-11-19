@@ -24,19 +24,19 @@
 .esp-hero-logo img{max-width:90%;max-height:90%;object-fit:contain}
 .esp-hero-t{min-width:0}.esp-hero-t small{font-size:12.5px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:var(--t)}
 .esp-hero-t h2{margin:2px 0 4px;font-size:28px;line-height:1.15}.esp-hero-t p{margin:0;color:var(--muet);font-size:14.5px;overflow-wrap:anywhere}
-.esp-pro{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,1fr);gap:18px;align-items:start;margin-bottom:44px}
+.esp-pro{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;align-items:stretch;margin-bottom:44px}
 .esp-card{background:var(--surface);border:1px solid var(--ligne);border-radius:18px;padding:22px}
 .esp-card-h{display:flex;justify-content:space-between;gap:14px;align-items:flex-start;flex-wrap:wrap;margin-bottom:14px}
 .esp-card-h h2{font-size:21px;margin:0 0 4px}.esp-card-h p{color:var(--muet);font-size:14px;margin:0;max-width:520px}
 .ag-new{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(0,1fr) minmax(0,1.3fr) auto;gap:8px;margin-bottom:6px}
 .ag-new input,.ag-ed input{min-width:0;padding:10px;border:1px solid var(--ligne);border-radius:10px;font:inherit;font-size:15px;background:#fff}
 .ag-msg{font-size:14px;margin:4px 0 8px;min-height:18px}
-.ag-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:10px}
-.ag-c{border:1px solid var(--ligne);border-radius:14px;background:#fff;padding:14px;display:flex;gap:12px;align-items:flex-start;cursor:pointer;text-align:left;font:inherit;color:inherit;width:100%;min-width:0}
+.ag-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.ag-c{border:1px solid var(--ligne);border-radius:14px;background:#fff;padding:14px;display:flex;gap:12px;align-items:flex-start;cursor:pointer;text-align:left;font:inherit;color:inherit;width:100%;height:100%;min-width:0;box-sizing:border-box}
 .ag-c:hover{border-color:var(--t)}
 .ag-av{flex:none;width:52px;height:52px;border-radius:50%;background:#F6E5DD;color:var(--t);display:flex;align-items:center;justify-content:center;font-weight:800;font-size:17px;overflow:hidden}
 .ag-av img{width:100%;height:100%;object-fit:cover}
-.ag-i{min-width:0}.ag-i b{display:block;font-size:15.5px}.ag-i span{display:block;font-size:13px;color:var(--muet);overflow-wrap:anywhere}.ag-i em{font-style:normal;font-size:12.5px;font-weight:700;color:var(--t)}
+.ag-i{min-width:0}.ag-i b{display:block;font-size:15.5px}.ag-i span{display:block;font-size:13px;color:var(--muet);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.ag-i em{font-style:normal;font-size:12.5px;font-weight:700;color:var(--t)}
 .ag-c.new{animation:agf 2.5s ease-out}@keyframes agf{from{background:#FBEDE5}to{background:#fff}}
 .ag-ed{grid-column:1/-1;border:1.5px solid var(--t);border-radius:14px;background:#fff;padding:14px;display:grid;grid-template-columns:auto minmax(0,1fr);gap:14px;align-items:start}
 .ag-ed .ag-av{width:72px;height:72px;font-size:22px}
@@ -46,6 +46,12 @@
 .ag-ed .del{margin-left:auto;font:inherit;font-size:14px;font-weight:700;color:var(--non,#B3402F);background:none;border:0;cursor:pointer;text-decoration:underline}
 .ag-ph{font-size:13px;font-weight:700;color:var(--t);cursor:pointer;display:inline-block;margin-top:8px;text-align:center}
 .ag-ph input{display:none}
+.up-btn{display:inline-flex;align-items:center;gap:12px;padding:12px 18px;border:1.5px dashed var(--t);border-radius:14px;background:#FBF3EF;color:var(--t);cursor:pointer;transition:background .15s,transform .15s;max-width:100%}
+.up-btn:hover{background:#F6E5DD;transform:translateY(-1px)}
+.up-btn input{position:absolute;width:1px;height:1px;opacity:0;pointer-events:none}
+.up-btn:focus-within{outline:2px solid var(--t);outline-offset:2px}
+.up-btn span{display:flex;flex-direction:column;min-width:0}.up-btn b{font-size:15px}.up-btn small{font-size:12.5px;color:var(--muet);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:220px}
+.up-btn.sm{padding:8px 12px;gap:8px;margin-top:10px}.up-btn.sm b{font-size:13px}
 .mq-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
 .mq-grid label{min-width:0}
 .esp-mairie{margin-bottom:18px}
@@ -53,9 +59,43 @@
 .esp-mairie .em-k{background:#fff;border:1px solid var(--ligne);border-radius:14px;padding:16px}.esp-mairie .em-k small{color:var(--muet);font-size:13px;display:block}.esp-mairie .em-k b{font-size:26px}
 body.mode-particulier .acct-act a[href="/espace-pro.html"],body.mode-mairie .acct-act a[href="/espace-pro.html"]{display:none}
 @media (max-width:900px){.esp-pro{grid-template-columns:minmax(0,1fr)}}
-@media (max-width:640px){.ag-new{grid-template-columns:minmax(0,1fr)}.ag-ed{grid-template-columns:minmax(0,1fr)}.ag-ed .f{grid-template-columns:minmax(0,1fr)}.mq-grid{grid-template-columns:minmax(0,1fr)}.esp-hero{flex-direction:column;align-items:flex-start}.esp-mairie .em-grid{grid-template-columns:minmax(0,1fr)}}
+@media (max-width:640px){.ag-grid{grid-template-columns:minmax(0,1fr)}.ag-new{grid-template-columns:minmax(0,1fr)}.ag-ed{grid-template-columns:minmax(0,1fr)}.ag-ed .f{grid-template-columns:minmax(0,1fr)}.mq-grid{grid-template-columns:minmax(0,1fr)}.esp-hero{flex-direction:column;align-items:flex-start}.esp-mairie .em-grid{grid-template-columns:minmax(0,1fr)}}
 </style>
 <script>window.TU_AGENTS2=1</script>
+<style>/* back-office */
+
+.bo-tools{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:18px}
+.bo-tools select,.bo-tools input{font:inherit;font-size:15px;padding:10px 12px;border-radius:12px;border:1.5px solid var(--ligne);background:var(--surface);color:var(--ink);min-width:0}
+.bo-tools input{flex:1 1 220px}
+.bo-kpis{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px;margin-bottom:18px}
+.bo-kpis div{background:var(--surface);border:1px solid var(--ligne);border-radius:16px;padding:18px 20px;min-width:0}
+.bo-kpis span{color:var(--muet);font-size:14px}
+.bo-kpis b{display:block;font-size:32px;font-weight:800;letter-spacing:-.02em;margin-top:4px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.bo-kpis small{color:var(--muet);font-size:13px}
+.bo-grid{display:grid;align-items:start;grid-template-columns:minmax(0,1.6fr) minmax(0,1fr);gap:14px;margin-bottom:18px}
+.bo-card{background:var(--surface);border:1px solid var(--ligne);border-radius:16px;padding:20px;min-width:0}
+.bo-card h2{font-size:18px;margin:0 0 14px}
+.bo-bars{display:flex;align-items:flex-end;gap:8px;height:190px;padding-top:18px}
+.bo-bars div{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;height:100%;min-width:0}
+.bo-bars i{display:block;width:100%;max-width:38px;background:var(--soft);border-radius:6px 6px 0 0;min-height:3px}
+.bo-bars div.cur i{background:var(--t)}
+.bo-bars b{font-size:12.5px;margin-bottom:4px}
+.bo-bars span{font-size:11.5px;color:var(--muet);margin-top:6px;white-space:nowrap}
+.bo-row{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:4px 10px;margin-bottom:10px;font-size:14px}
+.bo-row .bar{grid-column:1/-1;height:7px;border-radius:4px;background:var(--soft2);overflow:hidden}
+.bo-row .bar i{display:block;height:100%;background:var(--t);border-radius:4px}
+.bo-row .bar.ok i{background:var(--ok)}.bo-row .bar.cond i{background:var(--cond)}.bo-row .bar.non i{background:var(--non)}
+.bo-tbl{padding:0;overflow-x:auto}
+.bo-tbl table{width:100%;border-collapse:collapse;font-size:14.5px;min-width:820px}
+.bo-tbl th{font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muet);text-align:left;padding:13px 14px;border-bottom:1px solid var(--ligne);font-weight:700;white-space:nowrap}
+.bo-tbl td{padding:12px 14px;border-bottom:1px solid #F1EAE4;vertical-align:top}
+.bo-v{display:inline-block;padding:4px 10px;border-radius:999px;font-weight:700;font-size:12.5px;white-space:nowrap}
+.bo-v.ok{background:var(--ok-bg);color:var(--ok)}.bo-v.cond{background:var(--cond-bg);color:var(--cond)}.bo-v.non{background:var(--non-bg);color:var(--non)}
+.bo-empty{padding:40px 20px;text-align:center;color:var(--muet)}
+@media (max-width:860px){.bo-kpis{grid-template-columns:repeat(2,minmax(0,1fr))}.bo-kpis b{font-size:22px;white-space:normal;word-break:break-word}.bo-grid{grid-template-columns:1fr}.bo-bars{gap:4px}.bo-bars span{font-size:9.5px}.bo-bars b{font-size:10.5px}}
+.bo-act{display:flex;flex-direction:column;gap:6px;min-width:150px}.bo-act a{display:block;text-align:center;padding:7px 10px;border-radius:999px;border:1.5px solid var(--t);color:var(--t);font-weight:700;font-size:13px;text-decoration:none;white-space:nowrap}.bo-act a.pr{background:var(--t);color:#fff}
+</style>
+<style>.esp-bo{margin:0 0 48px}.esp-bo-h h2{font-size:26px;margin:0 0 4px}.esp-bo-h p{color:var(--muet);margin:0 0 16px;font-size:14.5px}body.mode-agence .acct-act a[href="/espace-pro.html"]{display:none}body.mode-agence #esp-rt,body.mode-agence #esp-dossiers{display:none}</style>
 </head>
 <body>
 <header class="top"><div class="wrap">
@@ -80,7 +120,7 @@ body.mode-particulier .acct-act a[href="/espace-pro.html"],body.mode-mairie .acc
 <div class="esp-card" id="esp-marque" hidden>
 <div class="esp-card-h"><div><h2>Votre identité sur les rapports</h2><p id="mq-note"></p></div></div>
 <form id="mq-form" class="mq-grid">
-<div style="grid-column:1/-1;display:flex;gap:16px;align-items:center;flex-wrap:wrap"><img id="mq-prev" alt="Aperçu du logo" hidden style="max-height:64px;max-width:200px;border:1px solid var(--ligne);border-radius:8px;padding:6px;background:#fff"><label style="font-size:14px;font-weight:600">Logo (PNG ou JPG, 2 Mo max.)<br><input id="mq-file" type="file" accept="image/png,image/jpeg" style="margin-top:6px"></label></div>
+<div style="grid-column:1/-1;display:flex;gap:16px;align-items:center;flex-wrap:wrap"><img id="mq-prev" alt="Aperçu du logo" hidden style="max-height:64px;max-width:200px;border:1px solid var(--ligne);border-radius:8px;padding:6px;background:#fff"><label class="up-btn"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 18a4.5 4.5 0 0 1-.6-8.96A6 6 0 0 1 18 8.5a4 4 0 0 1 .5 7.97"/><path d="M12 12v8"/><path d="m8.5 15.5 3.5-3.5 3.5 3.5"/></svg><span><b>Importer votre logo</b><small id="mq-fname">PNG ou JPG, 2 Mo maximum</small></span><input id="mq-file" type="file" accept="image/png,image/jpeg"></label></div>
 <label style="font-size:14px;font-weight:600">Vous êtes<select id="mq-type" style="display:block;width:100%;margin-top:6px;padding:10px;border:1px solid var(--ligne);border-radius:10px;font:inherit;background:#fff"><option value="">Choisir</option><option value="agence">Une agence immobilière</option><option value="conciergerie">Une conciergerie</option><option value="notaire">Une étude notariale</option><option value="geometre">Un cabinet de géomètre</option><option value="architecte">Un architecte</option><option value="promoteur">Un promoteur</option><option value="constructeur">Un constructeur</option><option value="courtier">Un courtier</option><option value="banque">Une banque</option><option value="ville">Une mairie</option><option value="collectivite">Une autre collectivité</option><option value="cabinet">Un autre cabinet</option><option value="autre">Autre</option></select></label>
 <label style="font-size:14px;font-weight:600">Nom de la structure (tel qu'il doit apparaître)<input id="mq-nom" maxlength="80" style="display:block;width:100%;margin-top:6px;padding:10px;border:1px solid var(--ligne);border-radius:10px;font:inherit"></label>
 <label style="font-size:14px;font-weight:600">Téléphone<input id="mq-telephone" maxlength="30" inputmode="tel" style="display:block;width:100%;margin-top:6px;padding:10px;border:1px solid var(--ligne);border-radius:10px;font:inherit"></label>
@@ -90,6 +130,26 @@ body.mode-particulier .acct-act a[href="/espace-pro.html"],body.mode-mairie .acc
 </form>
 
 </div>
+</div>
+<div id="esp-bo" class="esp-bo" hidden><div class="esp-bo-h"><h2>Tableau de bord de l'agence</h2><p>Rapports générés, envois aux clients, ouvertures et activité de chaque collaborateur.</p></div>
+<div class="bo-tools">
+<select id="bo-per" aria-label="Période"><option value="m0">Ce mois-ci</option><option value="m1">Mois précédent</option><option value="d90">3 derniers mois</option><option value="y">12 derniers mois</option><option value="all" selected>Depuis le début</option></select>
+<input id="bo-q" type="search" placeholder="Agent, commune, parcelle, zone…" aria-label="Rechercher">
+<button class="btn ghost" id="bo-exp" type="button">Exporter (Excel)</button>
+</div>
+<div class="bo-kpis">
+<div><span>Rapports générés</span><b id="k-n">–</b><small id="k-n2"></small></div>
+<div><span>Ce mois-ci</span><b id="k-m">–</b><small id="k-m2"></small></div>
+<div><span>Zone la plus fréquente</span><b id="k-z">–</b><small id="k-z2"></small></div>
+<div><span>Commune la plus fréquente</span><b id="k-c">–</b><small id="k-c2"></small></div>
+</div>
+<div class="bo-grid">
+<div style="display:grid;gap:14px;min-width:0"><div class="bo-card"><h2>Rapports par mois</h2><div class="bo-bars" id="bo-bars"></div></div><div class="bo-card" id="bo-ag-card" hidden><h2>Rapports par collaborateur</h2><div id="bo-ag"></div></div></div>
+<div class="bo-card"><h2>Constructibilité</h2><div id="bo-ver"></div><h2 style="margin-top:22px">Communes</h2><div id="bo-com"></div></div>
+</div>
+<div class="bo-card bo-tbl"><table><thead><tr><th>Date</th><th>Commune</th><th>Agent</th><th>Verdict</th><th>Client</th><th>Envoi</th><th>Rapports</th></tr></thead><tbody id="bo-rows"></tbody></table><div class="bo-empty" id="bo-empty" hidden>Aucun rapport sur cette période.</div></div>
+<p style="text-align:center;margin:14px 0 0"><button class="btn ghost" id="bo-more" type="button" hidden></button></p>
+<p id="bo-note" hidden style="font-size:13px;color:var(--muet);margin:12px 0 0">Compte de démonstration : l'historique est complété par des rapports d'exemple pour illustrer le tableau de bord. Les rapports réels s'ouvrent avec le lien « Ouvrir ».</p>
 </div>
 <div style="display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap;margin-bottom:22px"><h2>Mes recherches</h2><a class="btn" href="/#recherche">Nouvelle recherche</a></div>
 <div id="esp-list" class="dlist"><p class="empty">Chargement…</p></div>
@@ -108,6 +168,6 @@ body.mode-particulier .acct-act a[href="/espace-pro.html"],body.mode-mairie .acc
 </div>
 <p class="legal">© 2026 TerrenUrbanisme. Les informations fournies sont établies à partir de sources publiques ; elles ne constituent ni un certificat d'urbanisme, ni une autorisation d'urbanisme, ni un avis juridique, et ne peuvent pas être jointes à une demande de permis de construire. Sources : cadastre, Géoportail de l'Urbanisme, IGN, Géorisques, Collectivité de Corse.</p>
 </div></footer>
-<script defer src="/assets/config.js?v=v85"></script><script defer src="/assets/consent.js?v=v85"></script><script defer src="/assets/supabase.js?v=v85"></script><script defer src="/assets/auth.js?v=v99"></script><script defer src="/assets/app.js?v=v98"></script><script defer src="/assets/espace-modes.js?v=1"></script><script defer src="/assets/marque.js?v=v87"></script>
+<script defer src="/assets/config.js?v=v85"></script><script defer src="/assets/consent.js?v=v85"></script><script defer src="/assets/supabase.js?v=v85"></script><script defer src="/assets/auth.js?v=v99"></script><script defer src="/assets/app.js?v=v98"></script><script defer src="/assets/espace-modes.js?v=4"></script><script defer src="/assets/espace-pro.js?v=9"></script><script defer src="/assets/marque.js?v=v87"></script>
 </body>
 </html>

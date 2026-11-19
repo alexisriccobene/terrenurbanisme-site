@@ -18,6 +18,7 @@
     $('esp-pro').hidden = mode !== 'agence';
     $('esp-hero').hidden = mode !== 'agence';
     $('esp-mairie').hidden = mode !== 'mairie';
+    if ($('esp-bo')) $('esp-bo').hidden = mode !== 'agence';
     if (mode === 'agence') { if (h1) h1.textContent = MQ.nom || 'Mon espace'; $('esp-rt').textContent = 'Rapports de l\'agence'; }
     else if (mode === 'mairie') { if (h1) h1.textContent = 'Espace mairie'; $('esp-rt').textContent = 'Rapports remis aux habitants'; drawMairie(); }
     else { if (h1) h1.textContent = 'Mon espace'; $('esp-rt').textContent = 'Mes rapports complets'; }
@@ -60,15 +61,15 @@
     var list = $('ag-list');
     if (!AG.length) { list.innerHTML = '<p style="color:var(--muet);font-size:14px;margin:6px 0 0">Aucun collaborateur pour le moment. Ajoutez votre équipe : chacun apparaîtra sur les rapports qu\'il remet.</p>'; return; }
     list.innerHTML = AG.map(function (a) {
-      if (a.id === openId) return '<div class="ag-ed" data-id="' + a.id + '"><div style="text-align:center">' + av(a, true) + '<br><label class="ag-ph">Changer la photo<input type="file" accept="image/png,image/jpeg"></label></div>'
+      if (String(a.id) === String(openId)) return '<div class="ag-ed" data-id="' + a.id + '"><div style="text-align:center">' + av(a, true) + '<br><label class="up-btn sm"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 18a4.5 4.5 0 0 1-.6-8.96A6 6 0 0 1 18 8.5a4 4 0 0 1 .5 7.97"/><path d="M12 12v8"/><path d="m8.5 15.5 3.5-3.5 3.5 3.5"/></svg><span><b>' + (a.photo ? 'Changer la photo' : 'Ajouter une photo') + '</b></span><input type="file" accept="image/png,image/jpeg"></label></div>'
         + '<div class="f"><label>Prénom et nom<input name="nom" maxlength="80" value="' + esc(a.nom) + '"></label><label>Téléphone<input name="telephone" maxlength="30" inputmode="tel" value="' + esc(a.telephone || '') + '"></label><label style="grid-column:1/-1">E-mail<input name="email" type="email" maxlength="120" value="' + esc(a.email || '') + '"></label>'
         + '<div class="a"><button type="button" class="btn" data-save>Enregistrer</button><button type="button" class="btn ghost" data-close>Fermer</button><button type="button" class="del" data-del>Supprimer</button></div></div></div>';
-      return '<button type="button" class="ag-c' + (a.id === newId ? ' new' : '') + '" data-open="' + a.id + '">' + av(a) + '<span class="ag-i"><b>' + esc(a.nom) + '</b><span>' + esc(a.telephone || 'Téléphone à ajouter') + '</span><span>' + esc(a.email || 'E-mail à ajouter') + '</span><em>Modifier</em></span></button>';
+      return '<button type="button" class="ag-c' + (String(a.id) === String(newId) ? ' new' : '') + '" data-open="' + a.id + '">' + av(a) + '<span class="ag-i"><b>' + esc(a.nom) + '</b><span>' + esc(a.telephone || 'Téléphone à ajouter') + '</span><span>' + esc(a.email || 'E-mail à ajouter') + '</span><em>Modifier</em></span></button>';
     }).join('');
     fillAv();
     list.querySelectorAll('[data-open]').forEach(function (b) { b.addEventListener('click', function () { openId = b.getAttribute('data-open'); say(''); draw(); }); });
     var ed = list.querySelector('.ag-ed'); if (!ed) return;
-    var a = AG.filter(function (x) { return x.id === openId; })[0];
+    var a = AG.filter(function (x) { return String(x.id) === String(openId); })[0];
     ed.querySelector('[data-close]').addEventListener('click', function () { openId = null; draw(); });
     ed.querySelector('[data-save]').addEventListener('click', function (e) {
       var bt = e.target, row = { nom: ed.querySelector('[name=nom]').value.trim().slice(0, 80), telephone: ed.querySelector('[name=telephone]').value.trim().slice(0, 30) || null, email: ed.querySelector('[name=email]').value.trim().slice(0, 120) || null };
@@ -99,6 +100,7 @@
       }; img.onerror = rej; img.src = URL.createObjectURL(f);
     });
   }
+  var mfile = $('mq-file'); if (mfile) mfile.addEventListener('change', function () { var f = mfile.files[0], el = $('mq-fname'); if (el) el.textContent = f ? f.name : 'PNG ou JPG, 2 Mo maximum'; });
   function initAgents() {
     $('esp-agents').hidden = false;
     $('ag-add').addEventListener('click', function () { var f = $('ag-form'); f.hidden = !f.hidden; if (!f.hidden) f.nom.focus(); });
