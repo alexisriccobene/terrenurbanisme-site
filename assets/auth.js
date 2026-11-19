@@ -376,7 +376,7 @@
 
   /* Bloc « Mon offre » de l'espace client */
   function renderAgents(){
-    var box = $('esp-agents'); if (!box || window.TU_AGENTS2) return;
+    var box = $('esp-agents'); if (!box || window.TU_AGENTS2 || $('ag-add')) return;
     Auth.account().then(function(c){
       if (!c || !(c.illimite || c.pro)) return;
       box.hidden = false;
