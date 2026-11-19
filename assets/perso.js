@@ -50,7 +50,7 @@
       PV.doc = doc;
       var titles = Object.keys(LIB).sort(function (a, b) { return b.length - a.length; }).map(function (t) { return [t, nrm(t)]; });
       var STOP = [[null, 'sommaire'], [null, 'synthese'], [null, 'recommandationdelagence'], [null, 'avertissementetsources'], [null, 'annexe']];
-      var map = { especes: [] }, cur = null, n = 0;
+      var map = { especes: [], subs: {}, ordre: [] }, cur = null, n = 0;
       function next() {
         if (++n > doc.numPages) { PV.map = map; return map; }
         return doc.getPage(n).then(function (pg) {
@@ -62,6 +62,19 @@
             var bi = 1e9, bt;
             titles.concat(STOP).forEach(function (x) { var i = nt.indexOf(x[1]); if (i >= 0 && i < bi) { bi = i; bt = x[0]; } });
             if (bt !== undefined) cur = bt;
+            if (cur) {
+              if (map.ordre.indexOf(cur) < 0) map.ordre.push(cur);
+              // Sous-rubriques : numéro « 4.2 » en gros caractères suivi du titre sur la même ligne
+              var its = tc.items;
+              for (var k = 0; k < its.length; k++) {
+                var it = its[k], ns = String(it.str || '').trim();
+                if (!/^\d{1,2}\.\d{1,2}$/.test(ns) || !it.transform || Math.abs(it.transform[0]) < 12) continue;
+                var yy = it.transform[5], tt = '';
+                for (var q = k + 1; q < its.length; q++) { var jt = its[q]; if (!jt.transform || Math.abs(jt.transform[5] - yy) > 2) { if (tt.trim()) break; continue; } tt += jt.str; }
+                tt = tt.trim();
+                if (tt) { var SL = (map.subs[cur] = map.subs[cur] || []); if (!SL.some(function (x) { return x.t === tt; })) SL.push({ n: ns, t: tt, p: n }); }
+              }
+            }
             if (cur) { (map[cur] = map[cur] || []).push(n); if (cur === 'Environnement et marché immobilier' && /especesprotegees/.test(nrm(all))) map.especes.push(n); }
             return next();
           });
@@ -123,7 +136,7 @@
     var env = document.querySelector('[data-ch="Environnement et marché immobilier"]'), esp = document.querySelector('[data-sans="especes"]');
     if (esp) { esp.disabled = !!(env && !env.checked); if (esp.disabled) esp.checked = false; }
     var off = [];
-    document.querySelectorAll('#ps-ch .ps-ck').forEach(function (l) {
+    document.querySelectorAll('#ps-ch .ps-ck:not(.ps-sub)').forEach(function (l) {
       var c = l.querySelector('input'), o = l.querySelector('.ps-off'), t = c.getAttribute('data-ch') || 'Espèces protégées observées autour';
       l.classList.toggle('is-off', !c.checked);
       if (!c.checked) off.push(t);
@@ -135,7 +148,15 @@
       if (box.dataset.on) return;
       box.dataset.on = '1'; showPV(box, key);
     });
+    var nsub = 0;
+    document.querySelectorAll('#ps-ch [data-sous]').forEach(function (c) {
+      var par = document.querySelector('[data-ch="' + c.getAttribute('data-par').replace(/"/g, '\\"') + '"]');
+      c.disabled = !!(par && !par.checked);
+      var l = c.closest('label'); l.classList.toggle('is-off', !c.checked || c.disabled);
+      if (!c.checked && !c.disabled) nsub++;
+    });
     var r = $('ps-off-sum'); if (r) r.textContent = off.length ? off.length + ' rubrique' + (off.length > 1 ? 's retirées' : ' retirée') + ' de la version client : ' + off.join(', ') + '.' : 'Toutes les rubriques sont incluses dans la version client.';
+    if (r && nsub) r.textContent += ' ' + nsub + ' sous-rubrique' + (nsub > 1 ? 's retirées' : ' retirée') + '.';
   }
   var photos = []; // { path, url }
   function msg(t, kind) { var m = $('ps-msg'); m.className = 'ps-msg' + (kind ? ' ps-' + kind : ''); m.textContent = t || ''; }
@@ -270,6 +291,29 @@
       }).join('');
       $('ps-ch').innerHTML = html + '<p style="color:var(--muet);font-size:13px;margin:10px 0 0">La synthèse, l\'avertissement et les sources restent toujours présents. Une rubrique absente de ce terrain n\'apparaît pas.</p><p class="ps-sum" id="ps-off-sum"></p>';
       $('ps-ch').addEventListener('change', drawCk); drawCk();
+      var SOUS0 = P.sous || [];
+      (function subsWhenReady() {
+        if (!MAIL.slug) { setTimeout(subsWhenReady, 400); return; }
+        loadPV().then(function (map) {
+          map.ordre.forEach(function (t, i) {
+            var c = document.querySelector('[data-ch="' + t.replace(/"/g, '\\"') + '"]'); if (!c) return;
+            var lab = c.closest('label'), subs = map.subs[t] || [];
+            var num = subs.length ? subs[0].n.split('.')[0] : String(i + 1);
+            lab.querySelector('span').insertAdjacentHTML('afterbegin', '<b class="ps-n">Partie ' + num + '</b>');
+            if (!subs.length) return;
+            var pv = lab.nextElementSibling && lab.nextElementSibling.classList.contains('ps-pv') ? lab.nextElementSibling : lab;
+            var key = function (x) { return t + '|' + x.t; };
+            var off = subs.filter(function (x) { return SOUS0.indexOf(key(x)) >= 0; }).length;
+            pv.insertAdjacentHTML('afterend', '<button type="button" class="ps-tg" aria-expanded="false"><span class="ps-ar">▸</span> ' + subs.length + ' sous-rubrique' + (subs.length > 1 ? 's' : '') + (off ? ' · ' + off + ' retirée' + (off > 1 ? 's' : '') : '') + '</button><div class="ps-subs" hidden>' + subs.map(function (x) {
+              return '<label class="ps-ck ps-sub"><input type="checkbox" data-sous="' + key(x).replace(/"/g, '&quot;') + '" data-par="' + t.replace(/"/g, '&quot;') + '"' + (SOUS0.indexOf(key(x)) >= 0 ? '' : ' checked') + '><span><b class="ps-sn">' + x.n + '</b>' + x.t.replace(/</g, '&lt;') + '</span></label>';
+            }).join('') + '</div>');
+            var tg = pv.nextElementSibling, box = tg.nextElementSibling;
+            tg.addEventListener('click', function () { box.hidden = !box.hidden; tg.setAttribute('aria-expanded', String(!box.hidden)); tg.querySelector('.ps-ar').textContent = box.hidden ? '▸' : '▾'; });
+            if (off) { box.hidden = false; tg.setAttribute('aria-expanded', 'true'); tg.querySelector('.ps-ar').textContent = '▾'; }
+          });
+          drawCk();
+        }).catch(function () {});
+      })();
       (P.photos || []).forEach(function (path) { A.client.storage.from('perso').createSignedUrl(path, 3600).then(function (s) { if (s.data) { photos.push({ path: path, url: s.data.signedUrl }); drawPhotos(); } }); });
       if (r.client) { $('ps-frame').src = r.client.view; $('ps-open').href = r.client.court ? r.client.court + '?a=1' : r.client.view; $('ps-dl').href = r.client.url; $('ps-dl').hidden = false; showSend(r.client.court || r.client.url); $('ps-pt').textContent = 'Dernière version client'; $('ps-ps').textContent = 'Modifiez les réglages puis générez à nouveau si besoin.'; }
       if (!r.pret) msg('Ce rapport a été généré avant la mise en place de la version client. Générez un nouveau rapport sur cette parcelle pour pouvoir le personnaliser.', 'err');
@@ -294,7 +338,8 @@
           fiche: f.type.value ? { shab: vis('shab'), sterrain: vis('sterrain'), pieces: vis('pieces'), chambres: vis('chambres'), annee: vis('annee'), dpe: vis('dpe'), etat: f.etat.value, atouts: curAtouts() } : null, bas: f.bas.value.trim(), haut: f.haut.value.trim(), conseille: f.conseille.value.trim(), commentaire: f.commentaire.value.trim() },
         photos: photos.map(function (p) { return p.path; }),
         exclure: Array.prototype.slice.call(document.querySelectorAll('[data-ch]')).filter(function (c) { return !c.checked; }).map(function (c) { return c.getAttribute('data-ch'); }),
-        sans: Array.prototype.slice.call(document.querySelectorAll('[data-sans]')).filter(function (c) { return !c.checked; }).map(function (c) { return c.getAttribute('data-sans'); })
+        sans: Array.prototype.slice.call(document.querySelectorAll('[data-sans]')).filter(function (c) { return !c.checked; }).map(function (c) { return c.getAttribute('data-sans'); }),
+        sous: Array.prototype.slice.call(document.querySelectorAll('[data-sous]')).filter(function (c) { return !c.checked && !c.disabled; }).map(function (c) { return c.getAttribute('data-sous'); })
       };
       bt.disabled = true; bt.textContent = 'Génération en cours… (1 à 2 minutes)'; msg('');
       function done(cl) {
