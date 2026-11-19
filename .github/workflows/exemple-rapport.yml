@@ -24,6 +24,7 @@ jobs:
           echo "copie données: $(curl -s "${H[@]}" -H 'Content-Type: application/json' -X POST "$U/storage/v1/object/copy" -d "{\"bucketId\":\"dossiers\",\"sourceKey\":\"cache/d/$SRC.json.gz\",\"destinationKey\":\"cache/d/$SES.json.gz\"}" | head -c 200)"
           echo "logo: $(curl -s "${H[@]}" -H 'Content-Type: image/png' -H 'x-upsert: true' --data-binary @.github/exemple/logo-dupont.png "$U/storage/v1/object/logos/$UID_/logo-dupont.png" | head -c 200)"
           echo "photo: $(curl -s "${H[@]}" -H 'Content-Type: image/jpeg' -H 'x-upsert: true' --data-binary @.github/exemple/conseiller.jpg "$U/storage/v1/object/perso/$UID_/agents/julien-dupont.jpg" | head -c 200)"
+          for f in .github/exemple/photos/*.jpg; do echo "photo bien $(basename $f): $(curl -s "${H[@]}" -H 'Content-Type: image/jpeg' -H 'x-upsert: true' --data-binary @$f "$U/storage/v1/object/perso/$UID_/exemple/$(basename $f)" | head -c 80)"; done
           code=$(curl -s -m 400 -o out.txt -w '%{http_code}' -X POST "$U/functions/v1/stripe-webhook?perso=$DOS" -H "x-tu-admin: $KEY")
           echo "génération HTTP $code $(head -c 300 out.txt)"
           [ "$code" = "200" ] || exit 1
