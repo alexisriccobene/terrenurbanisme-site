@@ -2,12 +2,12 @@
 import sys, re
 s = open(sys.argv[1], encoding='utf-8').read(); L = s.split('\n')
 print('LIGNES', len(L))
-pats = [r"d.perso.conseiller = c;", r"async function loadMarque"]
+pats = [r"Points d.attention", r"\(\+' ?\+|\(\+\$\{", r"tres faible", r"attention\.push|pts\.push|alerts\.push", r"function assemble\("]
 for p in pats:
     for i, l in enumerate(L):
         if re.search(p, l):
             print('==== %s @%d' % (p, i + 1))
-            for j in range(max(0, i), min(len(L), i + 34)): print('%5d| %s' % (j + 1, L[j][:1600]))
+            for j in range(max(0, i), min(len(L), i + 40)): print('%5d| %s' % (j + 1, L[j][:1600]))
             n_=globals().setdefault('n_',{}); n_[p]=n_.get(p,0)+1
             if n_[p]>=6: break
 sys.exit(1)
