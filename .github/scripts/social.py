@@ -287,7 +287,7 @@ for p in plan:
     for net, fn in jobs:
         if net not in p.get('reseaux', ['instagram', 'facebook']) or d.get(net): continue
         if net == 'linkedin' and (story or not LI_ON): continue
-        if net == 'youtube' and (not reel or not YT_ON): continue
+        if net == 'youtube' and (not reel or not YT_ON or os.path.exists('.github/social/youtube_zernio')): continue  # YouTube publié par Zernio (tiktok.py)
         if d.get(net + '_echecs', 0) >= 2: continue  # deux échecs : on n'insiste pas (évite les alertes en boucle)
         try:
             d[net] = fn(); changed = True; print('::notice::%s publié sur %s (%s)' % (p['id'], net, d[net]))

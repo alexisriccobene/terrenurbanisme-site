@@ -68,13 +68,48 @@ def zreq(path, data=None, method=None):
                 time.sleep(min(w, 65) + 1); continue
             raise RuntimeError('Zernio %s %s : %s' % (e.code, path, txt))
 ZACC = {}
-def zcompte():
-    if ZACC: return ZACC['v']
+def zcompte(plat='tiktok'):
+    if plat in ZACC: return ZACC[plat]
     r = zreq('/accounts')
     L = (r.get('accounts') or r.get('data') or []) if isinstance(r, dict) else r
     for a in L or []:
-        if str(a.get('platform', '')).lower() == 'tiktok': ZACC['v'] = (a.get('_id') or a.get('id'), a); return ZACC['v']
-    raise RuntimeError('Aucun compte TikTok connecté dans Zernio : ' + json.dumps(r)[:300])
+        if str(a.get('platform', '')).lower() == plat: ZACC[plat] = (a.get('_id') or a.get('id'), a); return ZACC[plat]
+    raise RuntimeError('Aucun compte %s connecté dans Zernio' % plat)
+def publier_zernio_yt(p, quand=None):
+    # YouTube Shorts via Zernio : public à l'heure prévue (Zernio dépose en privé puis YouTube publie à l'heure)
+    acc, _ = zcompte('youtube')
+    f = VID + p['video']; n = os.path.getsize(f)
+    pre = zreq('/media/presign', {'filename': os.path.basename(f), 'contentType': 'video/mp4', 'size': n})
+    urllib.request.urlopen(urllib.request.Request(pre['uploadUrl'], data=open(f, 'rb').read(), method='PUT', headers={'Content-Type': 'video/mp4'}), timeout=300).read()
+    body = {'content': (p.get('texte_youtube') or p.get('texte_facebook') or p.get('texte_instagram') or p.get('theme', ''))[:4900],
+            'mediaItems': [{'type': 'video', 'url': pre['publicUrl']}],
+            'platforms': [{'platform': 'youtube', 'accountId': acc, 'platformSpecificData': {
+                'title': (p.get('titre_youtube') or p.get('theme') or 'TerrenUrbanisme')[:100], 'visibility': 'public',
+                'madeForKids': False, 'containsSyntheticMedia': False, 'categoryId': '27'}}]}
+    if quand: body.update({'scheduledFor': quand, 'timezone': 'Europe/Paris'})
+    else: body['publishNow'] = True
+    r = zreq('/posts', body); post = r.get('post', r)
+    st = [x.get('status') for x in post.get('platforms', [])]
+    if any(x in ('failed', 'error') for x in st): raise RuntimeError('Zernio a refusé la vidéo YouTube : ' + json.dumps(post)[:400])
+    return {'id': post.get('_id'), 'mode': ('programmé dans Zernio pour ' + quand) if quand else 'publication publique (Zernio)', 'statut': post.get('status') or ','.join(map(str, st))}
+def planifier_yt(plan, done, jours=3):
+    # Programme dans Zernio les Shorts YouTube des prochains jours (fenêtre glissante : ménage le quota d'envoi YouTube)
+    if not os.path.exists('.github/social/youtube_zernio'): return 0, []
+    from datetime import timedelta
+    vieux = json.load(open('.github/social/publie.json', encoding='utf-8')) if os.path.exists('.github/social/publie.json') else {}
+    now = datetime.now(ZoneInfo('Europe/Paris')); n = 0; err = []
+    for p in sorted(plan, key=lambda x: x['date']):
+        if 'youtube' not in p.get('reseaux', []) or p.get('type') != 'reel' or not p.get('video'): continue
+        when = datetime.fromisoformat(p['date']).replace(tzinfo=ZoneInfo('Europe/Paris'))
+        if when < now + timedelta(minutes=10) or when > now + timedelta(days=jours): continue
+        d = done.setdefault(p['id'], {})
+        if d.get('youtube') or vieux.get(p['id'], {}).get('youtube') or d.get('youtube_echecs', 0) >= 2: continue
+        try:
+            d['youtube'] = publier_zernio_yt(p, p['date'][:16] + ':00'); n += 1; print('YouTube programmé', p['id'], p['date'], flush=True)
+        except Exception as e:
+            d['youtube_echecs'] = d.get('youtube_echecs', 0) + 1; err.append('YouTube %s : %s' % (p['id'], e)); print('::error::' + str(e)[:400])
+        json.dump(done, open(DONE, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+    return n, err
 def publier_zernio(p, quand=None):
     acc, _ = zcompte()
     f = VID + (p.get('video_tiktok') or p['video']); n = os.path.getsize(f)
@@ -118,6 +153,11 @@ if ZKEY and MODE == 'zernio_stats':
     json.dump(out, open('.github/social/zernio_stats.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     sys.exit(0)
 
+if ZKEY and MODE == 'zernio_comptes':
+    r = zreq('/accounts'); L = (r.get('accounts') or r.get('data') or []) if isinstance(r, dict) else r
+    etat({'zernio_comptes': [{'plateforme': a.get('platform'), 'nom': a.get('username') or a.get('displayName') or a.get('name'), 'actif': a.get('isActive', a.get('status'))} for a in L or []]})
+    print([a.get('platform') for a in L or []]); sys.exit(0)
+
 if ZKEY and MODE == 'zernio':
     try: i, a = zcompte(); etat({'zernio': 'OK', 'zernio_compte': a.get('username') or a.get('displayName') or i})
     except Exception as e: etat({'zernio': 'échec : ' + str(e)[:300]}); print('::error::' + str(e)[:400]); sys.exit(1)
@@ -146,7 +186,8 @@ if ZKEY and MODE in ('zernio_planifier', 'zernio_replanifier'):
             d['tiktok'] = publier_zernio(p, p['date'][:16] + ':00'); n += 1; print('programmé', p['id'], p['date'], flush=True)
             json.dump(done, open(DONE, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
         except Exception as e: err.append('%s : %s' % (p['id'], e)); print('::error::' + str(e)[:400])
-    etat({'zernio_programmees': n, 'zernio_erreurs': err[:5]})
+    ny, ey = planifier_yt(plan, done, 3); err += ey
+    etat({'zernio_programmees': n, 'zernio_youtube_programmees': ny, 'zernio_erreurs': err[:5]})
     sys.exit(1 if err else 0)
 
 if (not KEY or not SECRET) and not ZKEY:
@@ -239,6 +280,9 @@ for p in plan:
         if 'brouillon' in d['tiktok'].get('mode', ''): avis_brouillon(p)
     except Exception as e:
         d['tiktok_echecs'] = d.get('tiktok_echecs', 0) + 1; changed = True; errors.append('%s : %s' % (p['id'], e)); print('::error::' + str(e)[:600])
+if ZKEY:
+    ny, ey = planifier_yt(plan, done, 3); errors += ey
+    if ny or ey: changed = True
 if changed: json.dump(done, open(DONE, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
 if not ZKEY and time.time() > charger()['refresh_expire'] - 15 * 86400: errors.append('La connexion TikTok expire dans moins de 15 jours : écrivez « reconnecter TikTok » à Claude dans la conversation TerrenUrbanisme.')
 if errors:
