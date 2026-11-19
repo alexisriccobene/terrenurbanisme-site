@@ -1,1 +1,1 @@
-{"fonction":"stripe-webhook","script":"lire.py","demande":"lire-perso"}
+{"fonction":"stripe-webhook","script":"conseiller.py","demande":"conseiller"}
