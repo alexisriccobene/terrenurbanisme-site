@@ -404,7 +404,7 @@
       box.innerHTML = '<div class="acct">' +
         '<div><small>Rapports disponibles</small><b>' + (c.illimite ? 'Illimité' : c.total) + '</b>' + (c.abonne ? '<span>dont ' + (c.credits_abonnement || 0) + ' de l\'abonnement' + (c.credits_achetes ? ' et ' + c.credits_achetes + ' achetés' : '') + '</span>' : '') + '</div>' +
         '<div><small>Formule</small><b>' + (c.illimite ? 'Démonstration' : plan || (c.pro ? 'Crédits professionnels' : 'À l\'unité')) + '</b><span>' + esc(c.illimite ? 'Rapports illimités, sans décompte' : status) + '</span></div>' +
-        '<div class="acct-act">' + (c.illimite || c.pro ? '<a class="btn" href="/espace-pro.html">Voir mon back-office</a>' : '') + '<a class="btn' + (c.illimite || c.pro ? ' ghost' : '') + '" href="/tarifs.html">' + (c.abonne ? 'Ajouter des crédits' : c.pro ? 'Recharger mes crédits ou s\'abonner' : 'Voir les formules') + '</a>' + (c.stripe_customer ? '<button type="button" class="btn ghost" id="portal">' + (c.abonne ? 'Gérer mon abonnement' : 'Mes factures') + '</button>' : '') + '</div></div>';
+        '<div class="acct-act">' + (c.illimite || c.pro ? '<a class="btn" href="/espace-pro.html">Voir mon back-office</a>' : '') + '<a class="btn" href="/tarifs.html#plans">' + (c.illimite || c.pro || c.abonne ? 'Acheter des crédits' : 'Acheter des rapports') + '</a>' + (c.stripe_customer ? '<button type="button" class="btn ghost" id="portal">' + (c.abonne ? 'Gérer mon abonnement' : 'Mes factures') + '</button>' : '') + '</div></div>';
       var pb = $('portal'); if (pb) pb.addEventListener('click', function(){ pb.disabled = true; pb.textContent = 'Ouverture…'; Auth.portal().catch(function(){ pb.disabled = false; pb.textContent = 'Réessayer'; }); });
     });
   }
