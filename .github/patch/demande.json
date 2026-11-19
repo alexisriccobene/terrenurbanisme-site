@@ -1,1 +1,1 @@
-{"fonction":"stripe-webhook","script":"membre_profil.py","demande":"membre-profil"}
+{"fonction":"stripe-webhook","script":"membre_photo.py","demande":"membre-photo"}
