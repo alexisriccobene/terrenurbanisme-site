@@ -27,6 +27,10 @@
 .ps-ck{display:flex;align-items:flex-start;gap:10px;padding:11px 0;border-bottom:1px solid var(--ligne);font-size:15px;cursor:pointer}
 .ps-ck input{width:20px;height:20px;margin-top:1px;accent-color:var(--t);flex:none}
 .ps-ck small{display:block;color:var(--muet);font-size:12.5px}
+.ps-ck .ps-off{display:block;font-style:normal;font-size:12.5px;font-weight:600;color:#B23A1F;margin-top:3px}.ps-ck .ps-off:empty{display:none}
+.ps-ck.is-off>span{color:var(--muet)}.ps-ck.is-off>span>small{text-decoration:line-through}
+.ps-ck input:disabled+span{opacity:.75}
+.ps-sum{margin:12px 0 0;padding:10px 12px;border-radius:10px;background:#F6E5DD;color:var(--t);font-size:13.5px;font-weight:600;line-height:1.45}
 .ps-ph{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px;margin-top:12px}
 .ps-ph div{position:relative;aspect-ratio:4/3;border-radius:10px;overflow:hidden;background:var(--soft)}
 .ps-ph img{width:100%;height:100%;object-fit:cover;display:block}
@@ -58,8 +62,10 @@
 <div class="ps-card"><h2><span class="ps-num">1</span>Votre client</h2><p class="ps-sub">Son nom figure sur la couverture du rapport.</p>
 <div class="ps-g3"><label class="ps-f">Civilité<select name="civ"><option value="">—</option><option>M.</option><option>Mme</option><option>M. et Mme</option></select></label><label class="ps-f">Prénom<input name="prenom" autocomplete="off"></label><label class="ps-f">Nom<input name="nom" autocomplete="off"></label></div>
 <div class="ps-g" style="margin-top:10px"><label class="ps-f">E-mail<input name="email" type="email" autocomplete="off"></label><label class="ps-f">Téléphone<input name="tel" type="tel" autocomplete="off"></label></div></div>
-<div class="ps-card"><h2><span class="ps-num">2</span>Votre avis de valeur</h2><p class="ps-sub">Ajouté sur une page « Recommandation de l'agence », à côté des ventes réelles relevées autour du terrain.</p>
-<div class="ps-g3"><label class="ps-f">Prix bas (€)<input name="bas" inputmode="numeric" placeholder="ex. 180 000"></label><label class="ps-f">Prix haut (€)<input name="haut" inputmode="numeric" placeholder="ex. 220 000"></label><label class="ps-f">Prix recommandé par l'agence (€)<input name="conseille" inputmode="numeric" placeholder="ex. 199 000"></label></div>
+<div class="ps-card"><h2><span class="ps-num">2</span>Désignation et avis de valeur</h2><p class="ps-sub">Le rapport présente d'abord la fourchette établie par TerrenUrbanisme à partir des ventes réelles, puis votre prix recommandé.</p>
+<div class="ps-g"><label class="ps-f">Type de bien<select name="type"><option value="">—</option><option value="terrain">Terrain</option><option value="maison">Maison</option><option value="appartement">Appartement</option><option value="autre">Autre bien</option></select></label></div>
+<label class="ps-f" style="margin-top:10px">Désignation du bien<textarea name="designation" placeholder="ex. Terrain plat de 1 200 m², viabilisé, vue mer, en bordure de voie communale"></textarea></label>
+<div class="ps-g3" style="margin-top:10px"><label class="ps-f">Fourchette basse de l'agence (€)<input name="bas" inputmode="numeric" placeholder="ex. 180 000"></label><label class="ps-f">Fourchette haute de l'agence (€)<input name="haut" inputmode="numeric" placeholder="ex. 220 000"></label><label class="ps-f">Prix recommandé par l'agence (€)<input name="conseille" inputmode="numeric" placeholder="ex. 199 000"></label></div>
 <label class="ps-f" style="margin-top:10px">Votre commentaire<textarea name="commentaire" placeholder="Points forts du terrain, état du marché, conseils pour la vente…"></textarea></label></div>
 <div class="ps-card"><h2><span class="ps-num">3</span>Photos du bien</h2><p class="ps-sub">Jusqu'à 8 photos, ajoutées sur la même page.</p>
 <label class="ps-drop" for="ps-files">Ajouter des photos</label><input type="file" id="ps-files" accept="image/*" multiple hidden>

@@ -39,6 +39,7 @@ else {
     window.addEventListener('resize', () => { if (window.innerWidth < 900) viewer.currentScaleValue = 'page-width'; });
     const doc = await pdfjsLib.getDocument({ url, isEvalSupported: false }).promise;
     viewer.setDocument(doc); linkService.setDocument(doc, null);
+    doc.getMetadata().then(m => { const t = m && m.info && m.info.Title; if (t) document.title = t + ' | TerrenUrbanisme'; }).catch(() => {});
     document.getElementById('pg').textContent = 'Page 1 / ' + doc.numPages;
   } catch (e) {
     show('Le rapport n\'a pas pu être affiché ici. <br><br><a class="btn p" href="' + url + '">Ouvrir le PDF</a>');

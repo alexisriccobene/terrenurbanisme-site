@@ -19,6 +19,36 @@
     'État des risques (ERP) pré-rempli': 'Formulaire réglementaire',
     'Professionnels recommandés': 'Professionnels partenaires de la commune'
   };
+  // Ce que le client ne verra plus si la rubrique est décochée
+  var DEL = {
+    'Identification de la parcelle': 'la fiche de la parcelle, les plans de situation et la vue aérienne',
+    'Règles d\'urbanisme applicables': 'la zone du PLU, le plan de zonage, les prescriptions et les servitudes',
+    'Ce que vous pouvez construire': 'les règles de la zone, la surface constructible et le plan d\'implantation',
+    'Règles propres à la Corse': 'la loi Littoral, la loi Montagne et le PADDUC',
+    'Loi Littoral et loi Montagne': 'la distance au rivage et les règles des lois Littoral et Montagne',
+    'Risques naturels et technologiques': 'la carte des risques et les arrêtés de catastrophe naturelle',
+    'Le terrain : accès, relief et réseaux': 'l\'accès, la pente, l\'ensoleillement, l\'assainissement et les raccordements',
+    'Valeur de marché': 'le détail des ventes et l\'évolution des prix (notre fourchette reste rappelée à côté de votre prix)',
+    'Conditions de vente du terrain': 'les règles SAFER et les droits du fermier en place',
+    'Environnement et marché immobilier': 'les espaces naturels, les espèces protégées et les ventes alentour',
+    'Historique du site': 'les photos aériennes depuis 1950 et les permis accordés autour',
+    'Opportunités autour du terrain': 'la liste des grands terrains peu bâtis et des logements énergivores',
+    'Votre projet, étape par étape': 'les démarches, les délais, le coût des études et la taxe d\'aménagement',
+    'État des risques (ERP) pré-rempli': 'le formulaire d\'état des risques à joindre à la vente',
+    'Professionnels recommandés': 'la liste des professionnels partenaires'
+  };
+  function drawCk() {
+    var env = document.querySelector('[data-ch="Environnement et marché immobilier"]'), esp = document.querySelector('[data-sans="especes"]');
+    if (esp) { esp.disabled = !!(env && !env.checked); if (esp.disabled) esp.checked = false; }
+    var off = [];
+    document.querySelectorAll('#ps-ch .ps-ck').forEach(function (l) {
+      var c = l.querySelector('input'), o = l.querySelector('.ps-off'), t = c.getAttribute('data-ch') || 'Espèces protégées observées autour';
+      l.classList.toggle('is-off', !c.checked);
+      if (!c.checked) off.push(t);
+      o.textContent = c.checked ? '' : (c.disabled ? 'Retiré avec la rubrique Environnement et marché immobilier.' : 'Retiré du rapport : ' + (c.getAttribute('data-sans') ? 'la liste des espèces protégées et le coût des études écologiques' : DEL[t] || 'cette rubrique') + '.');
+    });
+    var r = $('ps-off-sum'); if (r) r.textContent = off.length ? off.length + ' rubrique' + (off.length > 1 ? 's retirées' : ' retirée') + ' de la version client : ' + off.join(', ') + '.' : 'Toutes les rubriques sont incluses dans la version client.';
+  }
   var photos = []; // { path, url }
   function msg(t, kind) { var m = $('ps-msg'); m.className = 'ps-msg' + (kind ? ' ps-' + kind : ''); m.textContent = t || ''; }
   function call(body) {
@@ -67,7 +97,7 @@
       $('ps-load').hidden = true; $('ps-app').hidden = false;
       if (r.view) { $('ps-frame').src = r.view; $('ps-open').href = r.view; }
       var P = r.perso || {}, f = $('ps-form');
-      A.client.from('dossiers').select('commune,section,numero,agent').eq('id', id).maybeSingle().then(function (q) { var d = q.data || {}; MAIL.ref = [d.commune, d.section, d.numero].filter(Boolean).join(' '); MAIL.agent = d.agent || ''; initSig(); drawMail(); });
+      A.client.from('dossiers').select('commune,section,numero,agent,download_slug').eq('id', id).maybeSingle().then(function (q) { var d = q.data || {}; if (d.download_slug && !r.client) $('ps-open').href = '/r/' + d.download_slug; MAIL.ref = [d.commune, d.section, d.numero].filter(Boolean).join(' '); MAIL.agent = d.agent || ''; initSig(); drawMail(); });
       function initSig() {
         var sv = ''; try { sv = localStorage.getItem('tu_sig_' + (MAIL.agent || 'agence')) || ''; } catch (e) {}
         if (sv) { $('ps-sig').value = sv; return; }
@@ -81,15 +111,16 @@
       if (new URLSearchParams(location.search).get('neuf')) msg('Votre rapport est prêt. Choisissez les rubriques, ajoutez votre prix et vos photos, puis générez la version de votre client.', 'ok');
       var cl = P.client || {}, rc = P.reco || {};
       ['civ', 'prenom', 'nom', 'email', 'tel'].forEach(function (k) { if (cl[k]) f[k].value = cl[k]; });
-      ['bas', 'haut', 'conseille', 'commentaire'].forEach(function (k) { if (rc[k]) f[k].value = rc[k]; });
+      ['type', 'designation', 'bas', 'haut', 'conseille', 'commentaire'].forEach(function (k) { if (rc[k]) f[k].value = rc[k]; });
       var exc = P.exclure || [], sans = P.sans || [];
       var html = (r.chapitres || Object.keys(LIB)).map(function (t) {
-        var sub = t === 'Environnement et marché immobilier' ? '<label class="ps-ck" style="padding-left:30px"><input type="checkbox" data-sans="especes"' + (sans.indexOf('especes') >= 0 ? '' : ' checked') + '><span>Espèces protégées observées autour<small>Liste des espèces et coût des études écologiques</small></span></label>' : '';
-        return '<label class="ps-ck"><input type="checkbox" data-ch="' + t.replace(/"/g, '&quot;') + '"' + (exc.indexOf(t) >= 0 ? '' : ' checked') + '><span>' + t + '<small>' + (LIB[t] || '') + '</small></span></label>' + sub;
+        var sub = t === 'Environnement et marché immobilier' ? '<label class="ps-ck"><input type="checkbox" data-sans="especes"' + (sans.indexOf('especes') >= 0 ? '' : ' checked') + '><span>Espèces protégées observées autour<small>Liste des espèces et coût des études écologiques</small><em class="ps-off"></em></span></label>' : '';
+        return '<label class="ps-ck"><input type="checkbox" data-ch="' + t.replace(/"/g, '&quot;') + '"' + (exc.indexOf(t) >= 0 ? '' : ' checked') + '><span>' + t + '<small>' + (LIB[t] || '') + '</small><em class="ps-off"></em></span></label>' + sub;
       }).join('');
-      $('ps-ch').innerHTML = html + '<p style="color:var(--muet);font-size:13px;margin:10px 0 0">La synthèse, l\'avertissement et les sources restent toujours présents. Une rubrique absente de ce terrain n\'apparaît pas.</p>';
+      $('ps-ch').innerHTML = html + '<p style="color:var(--muet);font-size:13px;margin:10px 0 0">La synthèse, l\'avertissement et les sources restent toujours présents. Une rubrique absente de ce terrain n\'apparaît pas.</p><p class="ps-sum" id="ps-off-sum"></p>';
+      $('ps-ch').addEventListener('change', drawCk); drawCk();
       (P.photos || []).forEach(function (path) { A.client.storage.from('perso').createSignedUrl(path, 3600).then(function (s) { if (s.data) { photos.push({ path: path, url: s.data.signedUrl }); drawPhotos(); } }); });
-      if (r.client) { $('ps-frame').src = r.client.view; $('ps-open').href = r.client.view; $('ps-dl').href = r.client.url; $('ps-dl').hidden = false; showSend(r.client.court || r.client.url); $('ps-pt').textContent = 'Dernière version client'; $('ps-ps').textContent = 'Modifiez les réglages puis générez à nouveau si besoin.'; }
+      if (r.client) { $('ps-frame').src = r.client.view; $('ps-open').href = r.client.court || r.client.view; $('ps-dl').href = r.client.url; $('ps-dl').hidden = false; showSend(r.client.court || r.client.url); $('ps-pt').textContent = 'Dernière version client'; $('ps-ps').textContent = 'Modifiez les réglages puis générez à nouveau si besoin.'; }
       if (!r.pret) msg('Ce rapport a été généré avant la mise en place de la version client. Générez un nouveau rapport sur cette parcelle pour pouvoir le personnaliser.', 'err');
     }).catch(function () { $('ps-load').textContent = 'Ce rapport n\'est pas accessible depuis votre compte.'; });
     $('ps-files').addEventListener('change', function (e) {
@@ -108,7 +139,7 @@
       var f = e.target, bt = $('ps-go');
       var body = { action: 'personnaliser', id: id,
         client: { civ: f.civ.value, prenom: f.prenom.value.trim(), nom: f.nom.value.trim(), email: f.email.value.trim(), tel: f.tel.value.trim() },
-        reco: { bas: f.bas.value.trim(), haut: f.haut.value.trim(), conseille: f.conseille.value.trim(), commentaire: f.commentaire.value.trim() },
+        reco: { type: f.type.value, designation: f.designation.value.trim(), bas: f.bas.value.trim(), haut: f.haut.value.trim(), conseille: f.conseille.value.trim(), commentaire: f.commentaire.value.trim() },
         photos: photos.map(function (p) { return p.path; }),
         exclure: Array.prototype.slice.call(document.querySelectorAll('[data-ch]')).filter(function (c) { return !c.checked; }).map(function (c) { return c.getAttribute('data-ch'); }),
         sans: Array.prototype.slice.call(document.querySelectorAll('[data-sans]')).filter(function (c) { return !c.checked; }).map(function (c) { return c.getAttribute('data-sans'); })
@@ -116,7 +147,7 @@
       bt.disabled = true; bt.textContent = 'Génération en cours… (1 à 2 minutes)'; msg('');
       function done(cl) {
         bt.disabled = false; bt.textContent = 'Générer à nouveau';
-        $('ps-frame').src = cl.view; $('ps-open').href = cl.view; $('ps-dl').href = cl.url; $('ps-dl').hidden = false;
+        $('ps-frame').src = cl.view; $('ps-open').href = cl.court || cl.view; $('ps-dl').href = cl.url; $('ps-dl').hidden = false;
         $('ps-pt').textContent = 'Version client'; $('ps-ps').textContent = 'Voici le rapport que recevra votre client. Lien valable 7 jours.';
         showSend(cl.court || cl.url); msg('Version client prête. Téléchargez-la ou envoyez-la directement à votre client.', 'ok');
         if (window.innerWidth < 860) $('ps-pt').scrollIntoView({ behavior: 'smooth' });
