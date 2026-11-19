@@ -37,19 +37,40 @@
   }
 
   /* ---------- Mode mairie (présentation) ---------- */
+  // CSS de l'espace mairie, limité au bloc #esp-mairie pour ne rien changer au reste de la page
+  function scope(css) {
+    var out = '', i = 0, n = css.length;
+    while (i < n) {
+      var o = css.indexOf('{', i); if (o < 0) break;
+      var sel = css.slice(i, o).trim(), d = 1, k = o + 1;
+      while (k < n && d) { if (css[k] === '{') d++; else if (css[k] === '}') d--; k++; }
+      var body = css.slice(o + 1, k - 1);
+      if (/^@media/.test(sel)) out += sel + '{' + scope(body) + '}';
+      else if (/^@/.test(sel)) out += sel + '{' + body + '}';
+      else {
+        var ss = sel.split(',').map(function (x) { return x.trim(); }).filter(function (x) { return x && !/^(body|html|\[hidden\]|\.em-top|\.em-brand|\.em-login|\.em-l|\.em-rem|\.em-out|\.em-back|\.em-ville)/.test(x); });
+        if (ss.length) out += ss.map(function (x) { return '#esp-mairie ' + x; }).join(',') + '{' + body + '}';
+      }
+      i = k;
+    }
+    return out;
+  }
+  /* ---------- Mode mairie : l'espace mairie de démonstration, sur la même page ---------- */
   function drawMairie() {
     var box = $('esp-mairie'); if (box.dataset.ok) return; box.dataset.ok = '1';
-    box.innerHTML = '<div class="esp-hero" style="margin:0 0 6px"><div class="esp-hero-logo" id="mh-logo">M</div><div class="esp-hero-t"><small>Commune · démonstration</small><h2 id="mh-nom">Mairie de Porto-Vecchio</h2><p id="mh-co">Les habitants obtiennent leur rapport d\'urbanisme depuis le site de la mairie, sur les parcelles de la commune.</p></div><a class="btn ghost" href="/espace-mairie.html#identite" style="margin-left:auto;align-self:center">Modifier</a></div>'
-      + '<div class="em-grid"><div class="em-k"><small>Rapports remis ce mois-ci</small><b>38</b></div><div class="em-k"><small>Stock restant</small><b>212</b></div><div class="em-k"><small>Appels évités au service urbanisme</small><b>≈ 60</b></div></div>'
-      + '<div class="esp-card"><div class="esp-card-h"><div><h2>Ce que voit la mairie</h2><p>Les demandes des habitants parcelle par parcelle, le bouton à placer sur le site de la commune et le suivi du stock.</p></div><a class="btn" href="/espace-mairie.html">Ouvrir l\'espace mairie</a></div></div>';
-    fetch('https://nmoigruxnhsidrhqtzid.supabase.co/functions/v1/stripe-webhook?ville=porto-vecchio').then(function (r) { return r.ok ? r.json() : null; }).then(function (v) {
-      if (!v || !v.nom) return;
-      $('mh-nom').textContent = 'Mairie de ' + v.nom;
-      if (v.logo) $('mh-logo').innerHTML = '<img alt="" src="' + esc(v.logo) + '">'; else $('mh-logo').textContent = v.nom.charAt(0);
-      var site = v.site ? String(v.site).replace(/^https?:\/\//, '').replace(/\/$/, '') : '';
-      var co = [v.adresse, v.telephone, v.email, site].filter(Boolean).join('  ·  ');
-      if (co) $('mh-co').textContent = co;
-    }).catch(function () {});
+    box.innerHTML = '<p class="empty">Chargement de l\'espace mairie…</p>';
+    Promise.all([fetch('/espace-mairie.html', { cache: 'no-cache' }).then(function (r) { return r.text(); }), sb.functions.invoke('stripe-webhook', { body: { action: 'ville_demo' } })]).then(function (x) {
+      var r = x[1]; if (r.error || !r.data || !r.data.k) throw new Error('ville');
+      var doc = new DOMParser().parseFromString(x[0], 'text/html'), main = doc.getElementById('em-app'), st0 = doc.querySelector('style');
+      if (!main) throw new Error('page');
+      try { sessionStorage.setItem('tu_mairie', JSON.stringify({ slug: r.data.slug, k: r.data.k })); } catch (e) {}
+      if (st0) { var st = document.createElement('style'); st.textContent = scope(st0.textContent); document.head.appendChild(st); }
+      main.classList.remove('wrap');
+      box.innerHTML = '<div hidden><div id="em-login"><form id="em-lf"><input name="identifiant"><input name="mdp" type="password"><input name="rester" type="checkbox"><button type="submit">ok</button><p class="em-lerr"></p></form></div><button id="em-out" type="button"></button><div id="em-ville"></div><a id="em-back"></a></div>';
+      box.appendChild(document.importNode(main, true));
+      window.TU_MAIRIE_EMBED = true;
+      var sc = document.createElement('script'); sc.src = '/assets/espace-mairie.js?v=v90'; document.body.appendChild(sc);
+    }).catch(function () { box.dataset.ok = ''; box.innerHTML = '<p class="empty">L\'espace mairie de démonstration n\'a pas pu se charger. Rechargez la page.</p>'; });
   }
 
   /* ---------- Équipe ---------- */

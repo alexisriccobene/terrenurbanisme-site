@@ -1,5 +1,6 @@
 /* Espace mairie : connexion, demandes des habitants, intégration du bouton */
 (function () {
+  var EMB = !!window.TU_MAIRIE_EMBED;
   var API = 'https://nmoigruxnhsidrhqtzid.supabase.co/functions/v1/stripe-webhook';
   var $ = function (id) { return document.getElementById(id); };
   function esc(s) { return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); }
@@ -135,7 +136,7 @@
       }).catch(function () { bt.disabled = false; idMsg('Enregistrement impossible. Réessayez dans un instant.', true); });
   });
   function setup(v) {
-    V = v; $('em-app').hidden = false; if (v.demo) $('em-back').hidden = false;
+    V = v; $('em-app').hidden = false; if (v.demo && !EMB) $('em-back').hidden = false;
     var lib = v.libelle.charAt(0).toUpperCase() + v.libelle.slice(1);
     var dl = null; if (v.demo) { try { dl = localStorage.getItem('tu_vlogo_' + v.slug); } catch (x) {} }
     var lsrc = v.logo || (dl && /^data:image\//.test(dl) ? dl : null);
@@ -156,7 +157,7 @@
     $('em-site-n').textContent = 'Mairie de ' + v.nom;
     $('em-site-url').textContent = 'site-de-la-mairie.fr/services-en-ligne';
     $('em-abo').innerHTML = '<dt>Commune</dt><dd>' + esc(v.nom) + '</dd><dt>Formule</dt><dd>' + esc(v.formule || 'Offre communale') + '</dd>' + (v.credits != null ? '<dt>Rapports restants</dt><dd><strong>' + v.credits + '</strong>' + (v.credits <= 10 ? ' · stock bientôt épuisé : <a href="mailto:contact@terrenurbanisme.com?subject=Nouveau%20stock%20de%20rapports">recommander</a>' : '') + '</dd>' : '') + '<dt>Statut</dt><dd>' + (v.demo ? 'Démonstration' : v.actif ? 'Actif' : 'Inactif') + '</dd>' + (v.fin ? '<dt>Échéance</dt><dd>' + new Date(v.fin).toLocaleDateString('fr-FR') + '</dd>' : '') + '<dt>Parcelles couvertes</dt><dd>Toute la commune (INSEE ' + esc(v.insee.join(', ')) + ')</dd>';
-    document.title = 'Espace mairie · ' + v.nom + ' | TerrenUrbanisme';
+    if (!EMB) document.title = 'Espace mairie · ' + v.nom + ' | TerrenUrbanisme';
   }
   $('em-per').addEventListener('change', render); $('em-q').addEventListener('input', render);
   document.addEventListener('click', function (e) {

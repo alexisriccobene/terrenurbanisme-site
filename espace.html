@@ -135,7 +135,7 @@ body.mode-particulier .acct-act a[href="/espace-pro.html"],body.mode-mairie .acc
 @media (max-width:860px){.bo-kpis{grid-template-columns:repeat(2,minmax(0,1fr))}.bo-kpis b{font-size:22px;white-space:normal;word-break:break-word}.bo-grid{grid-template-columns:1fr}.bo-bars{gap:4px}.bo-bars span{font-size:9.5px}.bo-bars b{font-size:10.5px}}
 .bo-act{display:flex;flex-direction:column;gap:6px;min-width:150px}.bo-act a{display:block;text-align:center;padding:7px 10px;border-radius:999px;border:1.5px solid var(--t);color:var(--t);font-weight:700;font-size:13px;text-decoration:none;white-space:nowrap}.bo-act a.pr{background:var(--t);color:#fff}
 </style>
-<style>.esp-bo{margin:0 0 48px}.esp-bo-h h2{font-size:26px;margin:0 0 4px}.esp-bo-h p{color:var(--muet);margin:0 0 16px;font-size:14.5px}body.mode-agence .acct-act a[href="/espace-pro.html"]{display:none}body.mode-agence #esp-rt,body.mode-agence #esp-dossiers{display:none}</style>
+<style>.esp-bo{margin:0 0 48px}.esp-bo-h h2{font-size:26px;margin:0 0 4px}.esp-bo-h p{color:var(--muet);margin:0 0 16px;font-size:14.5px}body.mode-agence .acct-act a[href="/espace-pro.html"]{display:none}body.mode-agence #esp-rt,body.mode-agence #esp-dossiers{display:none}body.mode-mairie #esp-offre,body.mode-mairie #esp-mr,body.mode-mairie #esp-list,body.mode-mairie #esp-rt,body.mode-mairie #esp-dossiers{display:none}#esp-mairie .em-id{margin-top:0}</style>
 </head>
 <body>
 <header class="top"><div class="wrap">
@@ -192,7 +192,7 @@ body.mode-particulier .acct-act a[href="/espace-pro.html"],body.mode-mairie .acc
 <p style="text-align:center;margin:14px 0 0"><button class="btn ghost" id="bo-more" type="button" hidden></button></p>
 <p id="bo-note" hidden style="font-size:13px;color:var(--muet);margin:12px 0 0">Compte de démonstration : l'historique est complété par des rapports d'exemple pour illustrer le tableau de bord. Les rapports réels s'ouvrent avec le lien « Ouvrir ».</p>
 </div>
-<div style="display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap;margin-bottom:22px"><h2>Mes recherches</h2><a class="btn" href="/#recherche">Nouvelle recherche</a></div>
+<div id="esp-mr" style="display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap;margin-bottom:22px"><h2>Mes recherches</h2><a class="btn" href="/#recherche">Nouvelle recherche</a></div>
 <div id="esp-list" class="dlist"><p class="empty">Chargement…</p></div>
 <h2 style="margin-top:56px;margin-bottom:22px" id="esp-rt">Mes rapports complets</h2>
 <div id="esp-dossiers" class="dlist"><p class="empty">Chargement…</p></div>
@@ -209,6 +209,6 @@ body.mode-particulier .acct-act a[href="/espace-pro.html"],body.mode-mairie .acc
 </div>
 <p class="legal">© 2026 TerrenUrbanisme. Les informations fournies sont établies à partir de sources publiques ; elles ne constituent ni un certificat d'urbanisme, ni une autorisation d'urbanisme, ni un avis juridique, et ne peuvent pas être jointes à une demande de permis de construire. Sources : cadastre, Géoportail de l'Urbanisme, IGN, Géorisques, Collectivité de Corse.</p>
 </div></footer>
-<script defer src="/assets/config.js?v=v85"></script><script defer src="/assets/consent.js?v=v85"></script><script defer src="/assets/supabase.js?v=v85"></script><script defer src="/assets/auth.js?v=v103"></script><script defer src="/assets/app.js?v=v100"></script><script defer src="/assets/espace-modes.js?v=11"></script><script defer src="/assets/espace-pro.js?v=12"></script><script defer src="/assets/marque.js?v=v87"></script>
+<script defer src="/assets/config.js?v=v85"></script><script defer src="/assets/consent.js?v=v85"></script><script defer src="/assets/supabase.js?v=v85"></script><script defer src="/assets/auth.js?v=v103"></script><script defer src="/assets/app.js?v=v100"></script><script defer src="/assets/espace-modes.js?v=12"></script><script defer src="/assets/espace-pro.js?v=12"></script><script defer src="/assets/marque.js?v=v87"></script>
 </body>
 </html>
