@@ -40,19 +40,39 @@
     });
   }
   // Tableau détaillé : filtres (agent, commune, suivi client) et tri
+  // Filtres à choix multiples (agents, communes)
+  var SEL = { 'bo-fa': [], 'bo-fc': [] };
+  function msLabel(box) {
+    var v = SEL[box.id], b = box.querySelector('.bo-ms-b');
+    b.textContent = !v.length ? box.getAttribute('data-all') : v.length === 1 ? v[0] : v.length + ' ' + box.getAttribute('data-one') + 's';
+    box.classList.toggle('on', v.length > 0);
+  }
+  function msInit(box) {
+    if (!box || box.dataset.ok) return; box.dataset.ok = '1';
+    var b = box.querySelector('.bo-ms-b'), pn = box.querySelector('.bo-ms-p');
+    b.addEventListener('click', function (e) { e.stopPropagation(); var o = pn.hidden; document.querySelectorAll('.bo-ms-p').forEach(function (x) { x.hidden = true; }); pn.hidden = !o; b.setAttribute('aria-expanded', String(o)); });
+    pn.addEventListener('click', function (e) { e.stopPropagation(); });
+    pn.addEventListener('change', function () { SEL[box.id] = Array.prototype.slice.call(pn.querySelectorAll('input:checked')).map(function (c) { return c.value; }); msLabel(box); window.__boLim = 50; render(); });
+    pn.addEventListener('click', function (e) { var t = e.target.getAttribute && e.target.getAttribute('data-ms'); if (!t) return; pn.querySelectorAll('input').forEach(function (c) { c.checked = t === 'tout'; }); SEL[box.id] = t === 'tout' ? Array.prototype.slice.call(pn.querySelectorAll('input')).map(function (c) { return c.value; }) : []; msLabel(box); window.__boLim = 50; render(); });
+    document.addEventListener('click', function () { pn.hidden = true; b.setAttribute('aria-expanded', 'false'); });
+  }
   function remplirFiltres() {
-    var fa = $('bo-fa'), fc = $('bo-fc'); if (!fa || !fc) return;
-    var opt = function (sel, vals, lab) { var cur = sel.value; sel.innerHTML = '<option value="">' + lab + '</option>' + vals.map(function (v) { return '<option>' + esc(v) + '</option>'; }).join(''); if (vals.indexOf(cur) >= 0) sel.value = cur; };
     var uniq = function (f) { var o = {}; ALL.forEach(function (d) { var v = f(d); if (v) o[v] = 1; }); return Object.keys(o).sort(function (a, b) { return a.localeCompare(b, 'fr'); }); };
-    opt(fa, uniq(function (d) { return d.agent; }), 'Tous les agents');
-    opt(fc, uniq(function (d) { return d.commune; }), 'Toutes les communes');
+    [['bo-fa', function (d) { return d.agent; }], ['bo-fc', function (d) { return d.commune; }]].forEach(function (x) {
+      var box = $(x[0]); if (!box) return; msInit(box);
+      var vals = uniq(x[1]), key = vals.join('|'), pn = box.querySelector('.bo-ms-p');
+      if (pn.dataset.k === key) return; pn.dataset.k = key;
+      SEL[x[0]] = SEL[x[0]].filter(function (v) { return vals.indexOf(v) >= 0; });
+      pn.innerHTML = vals.map(function (v) { return '<label><input type="checkbox" value="' + esc(v) + '"' + (SEL[x[0]].indexOf(v) >= 0 ? ' checked' : '') + '>' + esc(v) + '</label>'; }).join('') + '<div class="bo-ms-a"><button type="button" data-ms="tout">Tout cocher</button><button type="button" data-ms="rien">Tout décocher</button></div>';
+      msLabel(box);
+    });
   }
   function tableau(L) {
     var fa = $('bo-fa'), fc = $('bo-fc'), fs = $('bo-fs'), tri = $('bo-tri');
     var cli = function (d) { var c = (d.perso && d.perso.client) || {}; return [c.nom, c.prenom].filter(Boolean).join(' '); };
     var R = L.filter(function (d) {
-      if (fa && fa.value && d.agent !== fa.value) return false;
-      if (fc && fc.value && d.commune !== fc.value) return false;
+      if (SEL['bo-fa'].length && SEL['bo-fa'].indexOf(d.agent) < 0) return false;
+      if (SEL['bo-fc'].length && SEL['bo-fc'].indexOf(d.commune) < 0) return false;
       var env = (d.envois || []).length > 0, pret = d.perso && d.perso.status === 'pret';
       if (fs && fs.value === 'ouvert' && !(d.vu_nb > 0)) return false;
       if (fs && fs.value === 'nonouvert' && !(env && !(d.vu_nb > 0))) return false;
@@ -157,7 +177,7 @@
       var r0 = render; render = function () { r0(); document.querySelectorAll('#bo-rows a').forEach(function (a) { var h = a.getAttribute('href') || ''; if (/personnaliser\.html/.test(h)) a.href = h + '&demo=1'; else { a.href = '/personnaliser.html?id=demo&demo=1'; a.removeAttribute('target'); } }); };
       $('bo-per').addEventListener('change', function () { window.__boLim = 50; render(); });
       $('bo-q').addEventListener('input', render);
-    ['bo-fa', 'bo-fc', 'bo-fs', 'bo-tri'].forEach(function (k) { var el = $(k); if (el) el.addEventListener('change', function () { window.__boLim = 50; render(); }); });
+    ['bo-fs', 'bo-tri'].forEach(function (k) { var el = $(k); if (el) el.addEventListener('change', function () { window.__boLim = 50; render(); }); });
       $('bo-exp').addEventListener('click', exporter);
       $('bo-more').addEventListener('click', function () { window.__boLim = (window.__boLim || 50) + 100; render(); });
       render(); return;
@@ -176,7 +196,7 @@
     });
     $('bo-per').addEventListener('change', function () { window.__boLim = 50; render(); });
     $('bo-q').addEventListener('input', render);
-    ['bo-fa', 'bo-fc', 'bo-fs', 'bo-tri'].forEach(function (k) { var el = $(k); if (el) el.addEventListener('change', function () { window.__boLim = 50; render(); }); });
+    ['bo-fs', 'bo-tri'].forEach(function (k) { var el = $(k); if (el) el.addEventListener('change', function () { window.__boLim = 50; render(); }); });
     $('bo-exp').addEventListener('click', exporter);
     $('bo-more').addEventListener('click', function () { window.__boLim = (window.__boLim || 50) + 100; render(); });
   }
