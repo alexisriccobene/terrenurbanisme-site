@@ -1,1 +1,1 @@
-{"fonction":"stripe-webhook","script":"membre_photo.py","demande":"membre-photo"}
+{"fonction":"stripe-webhook","script":"lire.py","demande":"lire-interloc"}
