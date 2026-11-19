@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "lire.py", "demande": "lecture modele mail"}
+{"fonction": "stripe-webhook", "script": "lire.py", "demande": "lecture villeCfg"}
