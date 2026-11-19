@@ -1,6 +1,6 @@
 {
  "lien_connexion": "https://www.tiktok.com/v2/auth/authorize/?client_key=sbaw7txhz9gywdsjcn&scope=user.info.basic%2Cvideo.upload%2Cvideo.publish&response_type=code&redirect_uri=https%3A%2F%2Fterrenurbanisme.com%2Ftiktok-retour.html&state=444d11bac57dd24f",
- "controle": "2026-11-18T17:22+01:00",
+ "controle": "2026-11-19T12:33+01:00",
  "connexion": "OK",
  "compte": "terrenurbanisme",
  "nom": "TerrenUrbanisme",
@@ -19,6 +19,7 @@
  },
  "zernio": "OK",
  "zernio_compte": "terrenurbanisme",
- "zernio_programmees": 54,
- "zernio_erreurs": []
+ "zernio_programmees": 0,
+ "zernio_erreurs": [],
+ "zernio_youtube_programmees": 3
 }

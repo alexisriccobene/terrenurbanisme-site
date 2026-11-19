@@ -11,6 +11,11 @@
    "id": "6afdcf42d3450acb1ff9d548",
    "mode": "programmé dans Zernio pour 2026-11-19T18:00:00",
    "statut": "scheduled"
+  },
+  "youtube": {
+   "id": "6afede6b1486d934f42c5a0d",
+   "mode": "programmé dans Zernio pour 2026-11-19T18:00:00",
+   "statut": "scheduled"
   }
  },
  "serie-01": {
@@ -536,11 +541,21 @@
    "id": "",
    "mode": "programmé dans Zernio pour 2026-11-20T18:00:00",
    "statut": "scheduled"
+  },
+  "youtube": {
+   "id": "6afede6d1486d934f42c5a16",
+   "mode": "programmé dans Zernio pour 2026-11-20T18:00:00",
+   "statut": "scheduled"
   }
  },
  "serie-02-tkyt": {
   "tiktok": {
    "id": "",
+   "mode": "programmé dans Zernio pour 2026-11-21T18:00:00",
+   "statut": "scheduled"
+  },
+  "youtube": {
+   "id": "6afede7053d8b57aafa4d66a",
    "mode": "programmé dans Zernio pour 2026-11-21T18:00:00",
    "statut": "scheduled"
   }
