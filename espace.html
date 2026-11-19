@@ -16,6 +16,7 @@
 <style>
 .mode-bar{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin:0 0 22px;padding:10px 12px;border-radius:14px;background:#2A1D17;color:#F6EEE9}
 .mode-bar>span{font-size:12.5px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:#E9B9A3}
+.mode-bar .mb-demo{margin-left:auto;display:inline-flex;align-items:center;gap:8px;background:#A3462C;color:#fff;font-weight:750;font-size:14.5px;padding:10px 16px;border-radius:999px;text-decoration:none;white-space:nowrap}.mode-bar .mb-demo:hover{background:#8E3A22}@media (max-width:640px){.mode-bar .mb-demo{margin-left:0;width:100%;justify-content:center}}
 .mode-bar div{display:flex;gap:6px;flex-wrap:wrap}
 .mode-bar button{font:inherit;font-size:14px;font-weight:700;border:1px solid #4A382E;background:transparent;color:#F6EEE9;padding:8px 14px;border-radius:999px;cursor:pointer}
 .mode-bar button[aria-pressed="true"]{background:#F6EEE9;color:#2A1D17;border-color:#F6EEE9}
@@ -146,7 +147,7 @@ body.mode-particulier .acct-act a[href="/espace-pro.html"],body.mode-mairie .acc
 <main>
 <section class="page-head" id="espace"><div class="wrap"><div class="crumb"><a href="/">Accueil</a> › Mon espace</div><h1>Mon espace</h1><p class="lede">Connecté avec <strong id="esp-mail">…</strong></p></div></section>
 <section class="sec tight"><div class="wrap">
-<div class="mode-bar" id="esp-mode" hidden><span>Mode présentation</span><div role="group" aria-label="Mode de présentation"><button type="button" data-mode="agence" aria-pressed="true">Agence immobilière</button><button type="button" data-mode="mairie" aria-pressed="false">Mairie</button><button type="button" data-mode="particulier" aria-pressed="false">Particulier</button></div></div>
+<div class="mode-bar" id="esp-mode" hidden><span>Mode présentation</span><div role="group" aria-label="Mode de présentation"><button type="button" data-mode="agence" aria-pressed="true">Agence immobilière</button><button type="button" data-mode="mairie" aria-pressed="false">Mairie</button><button type="button" data-mode="particulier" aria-pressed="false">Particulier</button></div><a class="mb-demo" id="esp-demo" href="/" target="_blank" rel="noopener"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg><span id="esp-demo-l">Lancer la démonstration</span></a></div>
 <div class="esp-hero" id="esp-hero" hidden><div class="esp-hero-logo" id="eh-logo"></div><div class="esp-hero-t"><small id="eh-type">Agence immobilière</small><h2 id="eh-nom">Votre agence</h2><p id="eh-co"></p></div></div>
 <div class="esp-mairie" id="esp-mairie" hidden></div>
 <div id="esp-offre" style="margin-bottom:28px"><p class="empty">Chargement…</p></div>
@@ -209,6 +210,6 @@ body.mode-particulier .acct-act a[href="/espace-pro.html"],body.mode-mairie .acc
 </div>
 <p class="legal">© 2026 TerrenUrbanisme. Les informations fournies sont établies à partir de sources publiques ; elles ne constituent ni un certificat d'urbanisme, ni une autorisation d'urbanisme, ni un avis juridique, et ne peuvent pas être jointes à une demande de permis de construire. Sources : cadastre, Géoportail de l'Urbanisme, IGN, Géorisques, Collectivité de Corse.</p>
 </div></footer>
-<script defer src="/assets/config.js?v=v85"></script><script defer src="/assets/consent.js?v=v85"></script><script defer src="/assets/supabase.js?v=v85"></script><script defer src="/assets/auth.js?v=v103"></script><script defer src="/assets/app.js?v=v100"></script><script defer src="/assets/espace-modes.js?v=15"></script><script defer src="/assets/espace-pro.js?v=12"></script><script defer src="/assets/marque.js?v=v87"></script>
+<script defer src="/assets/config.js?v=v85"></script><script defer src="/assets/consent.js?v=v85"></script><script defer src="/assets/supabase.js?v=v85"></script><script defer src="/assets/auth.js?v=v103"></script><script defer src="/assets/app.js?v=v100"></script><script defer src="/assets/espace-modes.js?v=16"></script><script defer src="/assets/espace-pro.js?v=12"></script><script defer src="/assets/marque.js?v=v87"></script>
 </body>
 </html>
