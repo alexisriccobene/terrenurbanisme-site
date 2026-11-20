@@ -37,6 +37,7 @@ def parcelle(c):
         for f in j.get('features', []):
             p = f['properties']
             insee = (p.get('code_dep') or '') + (p.get('code_com') or '')
+            if p.get('code_arr') and p['code_arr'] != '000' and insee in ('75056', '69123', '13055'): insee = insee[:2] + p['code_arr']
             if len(insee) == 5 and p.get('section') and p.get('numero'):
                 return insee, p['section'].lstrip('0') or '0', str(int(p['numero']))
     return None
@@ -46,7 +47,7 @@ PATTERNS = [
     ("non disponible", r"\bnon disponible|\bindisponible"),
     ("non identifié", r"Non identifié"),
     ("valeur technique", r"\bundefined\b|\bNaN\b|\bnull\b|\[object|Infinity"),
-    ("erreur", r"\b[Ee]rreur\b"),
+    ("erreur", r"\b[Ee]rreur\b(?! ou d.une omission)"),
     ("aucune donnée", r"[Aa]ucune donnée"),
     ("accent", r"\btres faible|\btres fort|\bmodere\b|\bzone a\b"),
     ("règlement non lu", r"règlement (?:n'a pas pu|n'est pas disponible|introuvable)|pas pu être lu"),
@@ -63,8 +64,8 @@ def audit_pdf(path):
             for m in re.finditer(rx, pg):
                 a = max(0, m.start() - 90); hits.append({'p': i + 1, 'x': ' '.join(pg[a:m.end() + 90].split())})
         if hits: flags[name] = hits[:6]
-    vides = []
-    for i, pg in enumerate(pages):
+    vides = []; annexe = next((i for i, pg in enumerate(pages) if 'Les pages suivantes reproduisent' in pg), len(pages))
+    for i, pg in enumerate(pages[:annexe]):
         body = '\n'.join(l for l in pg.splitlines() if not re.search(r'terrenurbanisme\.com|Document d.information|TerrenUrbanisme|^\s*\d+ / \d+\s*$', l))
         if len(re.sub(r'\s+', '', body)) < 120: vides.append(i + 1)
     if vides: flags['page presque vide'] = [{'p': p, 'x': ''} for p in vides]
@@ -99,6 +100,7 @@ for dep in DEPS:
                 r['reponse'] = b[:300].decode('utf-8', 'replace')
             except Exception as e:
                 r['reponse'] = repr(e)[:300]
+                if '546' in r['reponse']: r['limite_calcul'] = True
             time.sleep(5)
         r['secondes'] = round(time.time() - t0); r['essais'] = essai + 1
         if not ok:
