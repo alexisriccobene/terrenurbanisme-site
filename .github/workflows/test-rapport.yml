@@ -54,7 +54,4 @@ jobs:
           rm out/data.json
           git config user.name "TerrenUrbanisme tests"; git config user.email "contact@terrenurbanisme.com"
           git fetch origin tests-rapports || true
-          cp -r /tmp/out /tmp/art; rm out; git checkout --orphan tests-rapports; git rm -rqf . || true; git sparse-checkout disable || true; mv /tmp/out "$I-$S-$N"; git add "$I-$S-$N"; git commit -qm "Test $P"; git push -f origin tests-rapports
-      - uses: actions/upload-artifact@v4
-        if: always()
-        with: { name: rapport, path: /tmp/art, if-no-files-found: ignore }
+          rm out; git checkout --orphan tests-rapports; git rm -rqf . || true; git sparse-checkout disable || true; mv /tmp/out "$I-$S-$N"; git add "$I-$S-$N"; git commit -qm "Test $P"; git push -f origin tests-rapports:t-$I-$S-$N; git push -f origin tests-rapports || true
