@@ -1,0 +1,1524 @@
+[
+ {
+  "ref": "60057:C:873",
+  "zones": [
+   {
+    "libelle": "UBp2",
+    "libelong": "UBp2 : Zone d'habitat pavillonnaire diffus dans les années 60, ou plus récemment sous forme d'opérations densemble",
+    "typezone": "U",
+    "nomfic": "200067999_reglement_20260917.pdf#page=57",
+    "urlfic": "https://www.cartybeauvaisis.fr/urbanisme/documents/200067999_PLUi_20260917/pieces_ecrites/3_Reglement/200067999_reglement_20260917.pdf#page=57",
+    "gpu_doc_id": "7621574aac303ec808fb2fb0ea9c227f",
+    "partition": "DU_200067999",
+    "idurba": "200067999_PLUI_20260917",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_200067999/7621574aac303ec808fb2fb0ea9c227f/200067999_reglement_20260917.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "urlfic_head": {
+   "st": 206,
+   "type": "application/pdf",
+   "len": "bytes 0-1023/7045539"
+  },
+  "files_n": 266,
+  "reglement_files": [
+   "200067999_reglement_20260917.pdf",
+   "200067999_reglement_graphique_20260917.pdf",
+   "200067999_reglement_graphique_1_20260917.pdf",
+   "200067999_reglement_graphique_2_20260917.pdf",
+   "200067999_reglement_graphique_3_20260917.pdf",
+   "200067999_reglement_graphique_4_20260917.pdf",
+   "200067999_reglement_graphique_5_20260917.pdf",
+   "200067999_reglement_graphique_6_20260917.pdf",
+   "200067999_reglement_graphique_7_20260917.pdf",
+   "200067999_reglement_graphique_8_20260917.pdf",
+   "200067999_reglement_graphique_9_20260917.pdf",
+   "200067999_reglement_graphique_10_20260917.pdf",
+   "200067999_reglement_graphique_11_20260917.pdf",
+   "200067999_reglement_graphique_12_20260917.pdf",
+   "200067999_reglement_graphique_13_20260917.pdf",
+   "200067999_reglement_graphique_14_20260917.pdf",
+   "200067999_reglement_graphique_15_20260917.pdf",
+   "200067999_reglement_graphique_16_20260917.pdf",
+   "200067999_reglement_graphique_17_20260917.pdf",
+   "200067999_reglement_graphique_18_20260917.pdf"
+  ]
+ },
+ {
+  "ref": "66205:BP:13",
+  "zones": [
+   {
+    "libelle": "Ntvb",
+    "libelong": "Naturelle et forestière",
+    "typezone": "N",
+    "nomfic": "200027183_reglement_20260224.pdf",
+    "urlfic": "",
+    "gpu_doc_id": "167b224efb12cfe46434c0d86a79b669",
+    "partition": "DU_200027183",
+    "idurba": "200027183_PLUI_20260224",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_200027183/167b224efb12cfe46434c0d86a79b669/200027183_reglement_20260224.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "files_n": 27,
+  "reglement_files": [
+   "200027183_reglement_20260224.pdf",
+   "200027183_reglement_graphique_20260224.pdf"
+  ]
+ },
+ {
+  "ref": "35271:D:652",
+  "zones": [
+   {
+    "libelle": "NPa",
+    "libelong": "Zone naturelle, secteur de protection de site en raison du caractère paysager et patrimonial remarquable, protégée strictement de toute utilisation, modification des sols et travaux contraires à cette protection",
+    "typezone": "N",
+    "nomfic": "35271_reglement_20130121.pdf",
+    "urlfic": "http://sig.fougeres-agglo.bzh/reglements/35271/35271_reglement_20130121.pdf",
+    "gpu_doc_id": "8fd65b91e4f4037f994552c584244f27",
+    "partition": "DU_35271",
+    "idurba": "35271_PLU_20200730",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_35271/8fd65b91e4f4037f994552c584244f27/35271_reglement_20130121.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "urlfic_head": {
+   "err": "<urlopen error timed out>"
+  },
+  "files_n": 6,
+  "reglement_files": [
+   "35271_reglement_20130121.pdf"
+  ]
+ },
+ {
+  "ref": "41018:BW:350",
+  "zones": [
+   {
+    "libelle": "Ui2",
+    "libelong": "Secteur \"Parcs en immeubles\"",
+    "typezone": "U",
+    "nomfic": "200030385_reglement_20260630.pdf",
+    "urlfic": "",
+    "gpu_doc_id": "fa3b65a1a95f566bc362ed95252f74a1",
+    "partition": "DU_200030385",
+    "idurba": "200030385_PLUI_20260630",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_200030385/fa3b65a1a95f566bc362ed95252f74a1/200030385_reglement_20260630.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "files_n": 55,
+  "reglement_files": [
+   "200030385_reglement_20260630.pdf",
+   "200030385_reglement_graphique_1_20260630.pdf",
+   "200030385_reglement_graphique_2_20260630.pdf",
+   "200030385_reglement_graphique_3_20260630.pdf",
+   "200030385_reglement_graphique_4_20260630.pdf",
+   "200030385_reglement_graphique_5_20260630.pdf",
+   "200030385_reglement_graphique_6_20260630.pdf",
+   "200030385_reglement_graphique_7_20260630.pdf",
+   "200030385_reglement_graphique_8_20260630.pdf",
+   "200030385_reglement_graphique_9_20260630.pdf",
+   "200030385_reglement_graphique_10_20260630.pdf",
+   "200030385_reglement_graphique_11_20260630.pdf",
+   "200030385_reglement_graphique_12_20260630.pdf",
+   "200030385_reglement_graphique_13_20260630.pdf",
+   "200030385_reglement_graphique_14_20260630.pdf",
+   "200030385_reglement_graphique_15_20260630.pdf",
+   "200030385_reglement_graphique_16_20260630.pdf",
+   "200030385_reglement_graphique_17_20260630.pdf",
+   "200030385_reglement_graphique_18_20260630.pdf",
+   "200030385_reglement_graphique_19_20260630.pdf"
+  ]
+ },
+ {
+  "ref": "41134:ZB:59",
+  "zones": [
+   {
+    "libelle": "N",
+    "libelong": "Zone naturelle et forestière",
+    "typezone": "N",
+    "nomfic": "200030385_reglement_20260630.pdf",
+    "urlfic": "",
+    "gpu_doc_id": "fa3b65a1a95f566bc362ed95252f74a1",
+    "partition": "DU_200030385",
+    "idurba": "200030385_PLUI_20260630",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_200030385/fa3b65a1a95f566bc362ed95252f74a1/200030385_reglement_20260630.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "files_n": 55,
+  "reglement_files": [
+   "200030385_reglement_20260630.pdf",
+   "200030385_reglement_graphique_1_20260630.pdf",
+   "200030385_reglement_graphique_2_20260630.pdf",
+   "200030385_reglement_graphique_3_20260630.pdf",
+   "200030385_reglement_graphique_4_20260630.pdf",
+   "200030385_reglement_graphique_5_20260630.pdf",
+   "200030385_reglement_graphique_6_20260630.pdf",
+   "200030385_reglement_graphique_7_20260630.pdf",
+   "200030385_reglement_graphique_8_20260630.pdf",
+   "200030385_reglement_graphique_9_20260630.pdf",
+   "200030385_reglement_graphique_10_20260630.pdf",
+   "200030385_reglement_graphique_11_20260630.pdf",
+   "200030385_reglement_graphique_12_20260630.pdf",
+   "200030385_reglement_graphique_13_20260630.pdf",
+   "200030385_reglement_graphique_14_20260630.pdf",
+   "200030385_reglement_graphique_15_20260630.pdf",
+   "200030385_reglement_graphique_16_20260630.pdf",
+   "200030385_reglement_graphique_17_20260630.pdf",
+   "200030385_reglement_graphique_18_20260630.pdf",
+   "200030385_reglement_graphique_19_20260630.pdf"
+  ]
+ },
+ {
+  "ref": "47001:AM:670",
+  "zones": [
+   {
+    "libelle": "UB",
+    "libelong": "\\x7a6f6e652064657320657370616365732075726261696e732070c3a9726963656e74726175782c206465207469737375732062c3a27469732076617269c3a973",
+    "typezone": "U",
+    "nomfic": "200035459_reglement_20260430_A.pdf",
+    "urlfic": "",
+    "gpu_doc_id": "6673b882135724b64f7d3198c60884ab",
+    "partition": "DU_200035459_A",
+    "idurba": "200035459_PLUI_20260430_A",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_200035459_A/6673b882135724b64f7d3198c60884ab/200035459_reglement_20260430_A.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "files_n": 46,
+  "reglement_files": [
+   "200035459_reglement_20260430_A.pdf",
+   "200035459_reglement_graphique_0_20260430_A.pdf",
+   "200035459_liste_sup_reglements_specifiques_20260430_A.pdf",
+   "200035459_reglement_ecrit_dp4_20260430_A.pdf"
+  ]
+ },
+ {
+  "ref": "53130:BY:339",
+  "zones": [
+   {
+    "libelle": "A",
+    "libelong": "Zone agricole",
+    "typezone": "A",
+    "nomfic": "200083392_reglement_20260629_A.pdf",
+    "urlfic": "https://sig-agglo.laval.fr/portail/sharing/rest/content/items/2a4ad0ee92904d83aa7bb30adb750a70/data",
+    "gpu_doc_id": "a6667cb2515e4cecb9b4b055aff54504",
+    "partition": "DU_200083392_A",
+    "idurba": "200083392_PLUi_20260629_A",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_200083392_A/a6667cb2515e4cecb9b4b055aff54504/200083392_reglement_20260629_A.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "urlfic_head": {
+   "err": "HTTP Error 400: 400"
+  },
+  "files_n": 100,
+  "reglement_files": [
+   "200083392_reglement_20260629_A.pdf",
+   "200083392_reglement_graphique_1_20260629_A.pdf",
+   "200083392_reglement_graphique_2_20260629.pdf",
+   "200083392_reglement_graphique_3_20260629_A.pdf",
+   "200083392_reglement_graphique_5_20260629_A.pdf",
+   "200083392_reglement_graphique_6_20260629_A.pdf"
+  ]
+ },
+ {
+  "ref": "59350:NS:136",
+  "zones": [
+   {
+    "libelle": "UCM1.1.1",
+    "libelong": "Coeur métropolitain - Centralités",
+    "typezone": "U",
+    "nomfic": "200093201_reglement_20260520.pdf",
+    "urlfic": "",
+    "gpu_doc_id": "a8af4fdf6122bab3268eab8e154e3161",
+    "partition": "DU_200093201",
+    "idurba": "200093201_PLUI_20260520",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_200093201/a8af4fdf6122bab3268eab8e154e3161/200093201_reglement_20260520.pdf",
+  "gpu_head": {
+   "st": 206,
+   "type": "application/pdf",
+   "len": "bytes 0-1023/136312"
+  },
+  "files_n": 7,
+  "reglement_files": [
+   "200093201_reglement_20260520.pdf"
+  ]
+ },
+ {
+  "ref": "65440:AS:447",
+  "zones": [
+   {
+    "libelle": "UA",
+    "libelong": "Zone urbaine",
+    "typezone": "U",
+    "nomfic": "65440_reglement_20250729.pdf#page=12",
+    "urlfic": "",
+    "gpu_doc_id": "24b0a9cca4ab2ddba898b06b41537f5c",
+    "partition": "DU_65440",
+    "idurba": "65440_PLU_20250729",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_65440/24b0a9cca4ab2ddba898b06b41537f5c/65440_reglement_20250729.pdf",
+  "gpu_head": {
+   "st": 206,
+   "type": "application/pdf",
+   "len": "bytes 0-1023/878928"
+  },
+  "files_n": 21,
+  "reglement_files": [
+   "65440_reglement_20250729.pdf",
+   "65440_reglement_graphique_20250729.pdf"
+  ]
+ },
+ {
+  "ref": "71076:CY:16",
+  "zones": [
+   {
+    "libelle": "UA",
+    "libelong": "UA : Zone urbaine de centres anciens, faubourgs et hameaux",
+    "typezone": "U",
+    "nomfic": "247100589_reglement_20251211.pdf",
+    "urlfic": "",
+    "gpu_doc_id": "61c24363ebfd74acc2b3f3a41fef6a81",
+    "partition": "DU_247100589",
+    "idurba": "247100589_PLUI_20251211",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_247100589/61c24363ebfd74acc2b3f3a41fef6a81/247100589_reglement_20251211.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "files_n": 39,
+  "reglement_files": [
+   "247100589_reglement_20251211.pdf",
+   "247100589_notice_regles_gestion_eaux_pluviales_20251211.pdf",
+   "247100589_reglement_RLPi_20251211.pdf",
+   "247100589_reglement_avap_20251211.pdf"
+  ]
+ },
+ {
+  "ref": "77284:AZ:39",
+  "zones": [
+   {
+    "libelle": "UBa",
+    "libelong": "",
+    "typezone": "U",
+    "nomfic": "77284_reglement_20240329.pdf",
+    "urlfic": "",
+    "gpu_doc_id": "559c8cbae70c81555f0ed07c3bd8aec2",
+    "partition": "DU_77284",
+    "idurba": "77284_PLU_20240329",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_77284/559c8cbae70c81555f0ed07c3bd8aec2/77284_reglement_20240329.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "files_n": 16,
+  "reglement_files": [
+   "77284_reglement_20240329.pdf",
+   "77284_reglement_graphique_20240329.pdf",
+   "77284_annexe_reglement_L151-14_20240329.pdf"
+  ]
+ },
+ {
+  "ref": "77012:ZI:10",
+  "zones": [
+   {
+    "libelle": "A",
+    "libelong": "Zone agricole",
+    "typezone": "A",
+    "nomfic": "77012_reglement_20080107.pdf",
+    "urlfic": null,
+    "gpu_doc_id": "2911957938e7a0d8f76f8979083fd9d0",
+    "partition": "DU_77012",
+    "idurba": "77012_PLU_20080107",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_77012/2911957938e7a0d8f76f8979083fd9d0/77012_reglement_20080107.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "files_n": 18,
+  "reglement_files": [
+   "77012_reglement_20080107.pdf",
+   "77012_reglement_graphique_3_20080107.pdf",
+   "77012_reglement_graphique_4_20080107.pdf",
+   "77012_reglement_graphique_5_20080107.pdf",
+   "77012_reglement_graphique_6_20080107.pdf"
+  ]
+ },
+ {
+  "ref": "83014:B:274",
+  "zones": [
+   {
+    "libelle": "N",
+    "libelong": "N : Zone zone à dominante naturelle et forestière, à protéger en raison de son caractère d'espaces naturels, de la qualité des sites, milieux, espaces naturels et paysages",
+    "typezone": "N",
+    "nomfic": "83014_reglement_20170929.pdf",
+    "urlfic": null,
+    "gpu_doc_id": "cbdbd04ae35b15a6db2e83c3843d9c47",
+    "partition": "DU_83014",
+    "idurba": null,
+    "datappro": "20170929"
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_83014/cbdbd04ae35b15a6db2e83c3843d9c47/83014_reglement_20170929.pdf",
+  "gpu_head": {
+   "st": 206,
+   "type": "application/pdf",
+   "len": "bytes 0-1023/690539"
+  },
+  "files_n": 13,
+  "reglement_files": [
+   "83014_reglement_20170929.pdf",
+   "83014_reglement_graphique_20170929.pdf"
+  ]
+ },
+ {
+  "ref": "89024:EI:19",
+  "zones": [
+   {
+    "libelle": "N",
+    "libelong": "N : Zone naturelle",
+    "typezone": "N",
+    "nomfic": "89024_reglement_20250626.pdf#page=66",
+    "urlfic": "",
+    "gpu_doc_id": "5a3300fb7a04b4dcb30dca637df195ce",
+    "partition": "DU_89024",
+    "idurba": "89024_PLU_20250626",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_89024/5a3300fb7a04b4dcb30dca637df195ce/89024_reglement_20250626.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "files_n": 30,
+  "reglement_files": [
+   "89024_reglement_20250626.pdf",
+   "89024_reglement_graphique_0_20250626.pdf",
+   "89024_reglement_graphique_1_20250626.pdf",
+   "89024_reglement_graphique_2_20250626.pdf",
+   "89024_reglement_graphique_3_20250626.pdf"
+  ]
+ },
+ {
+  "ref": "89144:ZL:32",
+  "zones": [
+   {
+    "libelle": "N",
+    "libelong": "zone naturelle",
+    "typezone": "N",
+    "nomfic": "248900748_reglement_20260629.pdf",
+    "urlfic": "",
+    "gpu_doc_id": "88b84ce570b5b482d400b571c9895384",
+    "partition": "DU_248900748",
+    "idurba": "248900748_PLUi_20260629",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_248900748/88b84ce570b5b482d400b571c9895384/248900748_reglement_20260629.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "files_n": 124,
+  "reglement_files": [
+   "248900748_reglement_20260629.pdf",
+   "248900748_reglement_graphique_1_20260629.pdf",
+   "248900748_reglement_graphique_2_20260629.pdf",
+   "248900748_reglement_graphique_3_20260629.pdf",
+   "248900748_reglement_graphique_4_20260629.pdf",
+   "248900748_reglement_graphique_5_20260629.pdf",
+   "248900748_reglement_graphique_6_20260629.pdf",
+   "248900748_reglement_graphique_7_20260629.pdf",
+   "248900748_reglement_graphique_8_20260629.pdf",
+   "248900748_reglement_graphique_9_20260629.pdf",
+   "248900748_reglement_graphique_10_20260629.pdf",
+   "248900748_reglement_graphique_11_20260629.pdf",
+   "248900748_reglement_graphique_12_20260629.pdf",
+   "248900748_reglement_graphique_13_20260629.pdf",
+   "248900748_reglement_graphique_14_20260629.pdf",
+   "248900748_reglement_graphique_15_20260629.pdf",
+   "248900748_reglement_graphique_16_20260629.pdf",
+   "248900748_reglement_graphique_17_20260629.pdf",
+   "248900748_reglement_graphique_18_20260629.pdf",
+   "248900748_reglement_graphique_19_20260629.pdf"
+  ]
+ },
+ {
+  "ref": "95018:BK:405",
+  "zones": [
+   {
+    "libelle": "UR5h2",
+    "libelong": "Secteur à dominante résidentiel",
+    "typezone": "U",
+    "nomfic": "200057990_reglement_20250630.pdf#page=55",
+    "urlfic": "",
+    "gpu_doc_id": "35b89739df91562887f9e4623801ace5",
+    "partition": "DU_200057990",
+    "idurba": "200057990_PLUI_20260217",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_200057990/35b89739df91562887f9e4623801ace5/200057990_reglement_20250630.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "files_n": 63,
+  "reglement_files": [
+   "200057990_reglement_20250630.pdf",
+   "200057990_reglement_graphique_20250630.pdf",
+   "200057990_reglement_voirie_20250630.pdf"
+  ]
+ },
+ {
+  "ref": "95110:A:551",
+  "zones": [
+   {
+    "libelle": "N",
+    "libelong": "Zone naturelle et forestière, secteurs de la commune, équipés ou non, à protéger en raison soit de la qualité des sites, des milieux naturels, des paysages et de leur intérê, notamment du point de vue esthétique, historique ou écologique",
+    "typezone": "N",
+    "nomfic": null,
+    "urlfic": null,
+    "gpu_doc_id": "1f4f2a01a4fac6b791509ff80f29ee6c",
+    "partition": "DU_95110",
+    "idurba": null,
+    "datappro": "20181108"
+   }
+  ],
+  "files_n": 6,
+  "reglement_files": [
+   "95110_Reglement_graphique_1_20181108.pdf",
+   "95110_Reglement_graphique_2_20181108.pdf",
+   "95110_Reglement_graphique_3_20181108.pdf",
+   "95110_reglement_20181108.pdf"
+  ]
+ },
+ {
+  "ref": "2A198:C:158",
+  "zones": [
+   {
+    "libelle": "Ap",
+    "libelong": null,
+    "typezone": "A",
+    "nomfic": "2A198_reglement_20210329.pdf",
+    "urlfic": null,
+    "gpu_doc_id": "2e7f5da48a16e8ddc59668dd2e07eb67",
+    "partition": "DU_2A198",
+    "idurba": "2A198_PLU_20210329",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_2A198/2e7f5da48a16e8ddc59668dd2e07eb67/2A198_reglement_20210329.pdf",
+  "gpu_head": {
+   "err": "HTTP Error 416: Requested Range Not Satisfiable"
+  },
+  "files_n": 11,
+  "reglement_files": [
+   "2A198_reglement_20210329.pdf",
+   "2A198_reglement_graphique_20210329.pdf"
+  ]
+ },
+ {
+  "ref": "49007:AN:304",
+  "zones": [
+   {
+    "libelle": "UA",
+    "libelong": "Zone urbaine centrale à dominante d'habitat",
+    "typezone": "U",
+    "nomfic": "244900015_reglement_20251117.pdf",
+    "urlfic": "",
+    "gpu_doc_id": "7640aa29d4f032e8b31b96b910e96c91",
+    "partition": "DU_244900015",
+    "idurba": "244900015_PLUI_20251117",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_244900015/7640aa29d4f032e8b31b96b910e96c91/244900015_reglement_20251117.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "files_n": 63,
+  "reglement_files": [
+   "244900015_reglement_20251117.pdf",
+   "244900015_reglement_graphique_0_20251117.pdf",
+   "244900015_reglement_graphique_1_20251117.pdf",
+   "244900015_reglement_graphique_2_20251117.pdf",
+   "244900015_reglement_graphique_3_20251117.pdf",
+   "244900015_reglement_graphique_4_20251117.pdf",
+   "244900015_reglement_graphique_5_20251117.pdf",
+   "244900015_reglement_graphique_6_20251117.pdf",
+   "244900015_reglement_graphique_7_20251117.pdf",
+   "244900015_reglement_graphique_8_20251117.pdf",
+   "244900015_reglement_graphique_9_20251117.pdf",
+   "244900015_reglement_graphique_10_20251117.pdf",
+   "244900015_reglement_graphique_11_20251117.pdf",
+   "244900015_reglement_graphique_12_20251117.pdf",
+   "244900015_reglement_graphique_13_20251117.pdf",
+   "244900015_reglement_graphique_14_20251117.pdf",
+   "244900015_reglement_graphique_15_20251117.pdf",
+   "244900015_reglement_graphique_16_20251117.pdf",
+   "244900015_reglement_graphique_17_20251117.pdf",
+   "244900015_reglement_graphique_18_20251117.pdf"
+  ]
+ },
+ {
+  "ref": "28085:BO:294",
+  "zones": [
+   {
+    "libelle": "USC",
+    "libelong": "Zone urbaine Saint Cheron",
+    "typezone": "U",
+    "nomfic": "28085_reglement_graphique_1_20231207.pdf",
+    "urlfic": "",
+    "gpu_doc_id": "b420293a303c0ebeb9dca12bb178accd",
+    "partition": "DU_28085",
+    "idurba": "28085_PLU_20231207",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_28085/b420293a303c0ebeb9dca12bb178accd/28085_reglement_graphique_1_20231207.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "files_n": 29,
+  "reglement_files": [
+   "28085_reglement_20231207.pdf",
+   "28085_reglement_graphique_1_20231207.pdf",
+   "28085_reglement_graphique_2_20231207.pdf"
+  ]
+ },
+ {
+  "ref": "34081:C:1992",
+  "zones": [
+   {
+    "libelle": "Ut-c",
+    "libelong": "Ut-c",
+    "typezone": "U",
+    "nomfic": "34081_reglement_20250303.pdf#page=69",
+    "urlfic": "",
+    "gpu_doc_id": "67ddc383118782369bedcd4fd3dbb9a1",
+    "partition": "DU_34081",
+    "idurba": "34081_PLU_20250303",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_34081/67ddc383118782369bedcd4fd3dbb9a1/34081_reglement_20250303.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "files_n": 17,
+  "reglement_files": [
+   "34081_reglement_20250303.pdf",
+   "34081_reglement_graphique_20250303.pdf"
+  ]
+ },
+ {
+  "ref": "40192:AB:141",
+  "zones": [
+   {
+    "libelle": "U",
+    "libelong": "Zone urbaine",
+    "typezone": "U",
+    "nomfic": "244000808_reglement_20260108.pdf",
+    "urlfic": "",
+    "gpu_doc_id": "1386344f13361e29faad9757796d2894",
+    "partition": "DU_244000808",
+    "idurba": "244000808_PLUi_20260108",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_244000808/1386344f13361e29faad9757796d2894/244000808_reglement_20260108.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "files_n": 45,
+  "reglement_files": [
+   "244000808_reglement_20251113.pdf",
+   "244000808_reglement_20260108.pdf",
+   "244000808_reglement_graphique_0_20191212.pdf",
+   "244000808_reglement_graphique_1_20191212.pdf",
+   "244000808_reglement_graphique_2_20191212.pdf",
+   "244000808_reglement_graphique_3_20250204.pdf",
+   "244000808_reglement_graphique_4_20251113.pdf",
+   "244000808_reglement_graphique_5_20260108.pdf",
+   "244000808_reglement_graphique_6_20260108.pdf",
+   "244000808_reglement_graphique_7_20260108.pdf",
+   "244000808_reglement_graphique_8_20260108.pdf",
+   "244000808_annexes_extraitsreglementgraphique_20250204.pdf"
+  ]
+ },
+ {
+  "ref": "40126:D:346",
+  "zones": [
+   {
+    "libelle": "A",
+    "libelong": "A : Zone agricole",
+    "typezone": "A",
+    "nomfic": "200069631_reglement_20260617_A.pdf",
+    "urlfic": "https://www.pigma.org/public/doc_urba_40/sommaires/200069631_PLUi_20260617_A_sommaire.html",
+    "gpu_doc_id": "a8d1c51aa86fac4a03522bbb7285e6d5",
+    "partition": "DU_200069631_A",
+    "idurba": "200069631_PLUi_20260617_A",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_200069631_A/a8d1c51aa86fac4a03522bbb7285e6d5/200069631_reglement_20260617_A.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "urlfic_head": {
+   "st": 206,
+   "type": "text/html",
+   "len": "bytes 0-1023/29074"
+  },
+  "files_n": 108,
+  "reglement_files": [
+   "200069631_reglement_20260617_A.pdf",
+   "200069631_reglement_graphique_0_20260617_A.pdf",
+   "200069631_reglement_graphique_1_20260617_A.pdf",
+   "200069631_reglement_graphique_2_20260617_A.pdf",
+   "200069631_reglement_graphique_3_20260617_A.pdf",
+   "200069631_reglement_graphique_4_20260617_A.pdf",
+   "200069631_reglement_graphique_5_20260617_A.pdf",
+   "200069631_reglement_graphique_6_20260617_A.pdf",
+   "200069631_reglement_graphique_7_20260617_A.pdf",
+   "200069631_reglement_graphique_8_20260617_A.pdf",
+   "200069631_reglement_graphique_9_20260617_A.pdf",
+   "200069631_reglement_graphique_10_20260617_A.pdf",
+   "200069631_reglement_graphique_11_20260617_A.pdf",
+   "200069631_reglement_graphique_12_20260617_A.pdf",
+   "200069631_reglement_graphique_13_20260617_A.pdf",
+   "200069631_reglement_graphique_14_20260617_A.pdf",
+   "200069631_reglement_graphique_15_20260617_A.pdf",
+   "200069631_reglement_graphique_16_20260617_A.pdf",
+   "200069631_reglement_graphique_17_20260617_A.pdf",
+   "200069631_reglement_graphique_18_20260617_A.pdf"
+  ]
+ },
+ {
+  "ref": "46042:BP:450",
+  "zones": [
+   {
+    "libelle": "PSMV",
+    "libelong": "Plan de Sauvegarde et de Mise en Valeur",
+    "typezone": "U",
+    "nomfic": "46042_reglement_20170529.pdf",
+    "urlfic": null,
+    "gpu_doc_id": "8ac0b202252d5d120d5a58aa08fb9f54",
+    "partition": "PSMV_46042",
+    "idurba": "46042_PSMV_20170529",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/PSMV_46042/8ac0b202252d5d120d5a58aa08fb9f54/46042_reglement_20170529.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "files_n": 9,
+  "reglement_files": [
+   "46042_reglement_20170529.pdf",
+   "46042_reglement_graphique_20170529.pdf"
+  ]
+ },
+ {
+  "ref": "46312:B:98",
+  "zones": [
+   {
+    "libelle": "A",
+    "libelong": "Zones à vocation agricole",
+    "typezone": "A",
+    "nomfic": "200066371_reglement_20250707.pdf",
+    "urlfic": "",
+    "gpu_doc_id": "b0421802109b8e104f06f087e71fe4bf",
+    "partition": "DU_200066371",
+    "idurba": "200066371_PLUi_20250707",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_200066371/b0421802109b8e104f06f087e71fe4bf/200066371_reglement_20250707.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "files_n": 66,
+  "reglement_files": [
+   "200066371_reglement_20250707.pdf",
+   "200066371_reglement_graphique_20250707.pdf"
+  ]
+ },
+ {
+  "ref": "52448:CR:388",
+  "zones": [
+   {
+    "libelle": "N2020",
+    "libelong": "Nom complet littéral de la zone tel qu'il apparait ds le chap du règlement écrit",
+    "typezone": "N",
+    "nomfic": "52448_reglement_20250623.pdf#nameddest=N",
+    "urlfic": "https://data.agglo-saintdizier.fr/public/gpu/52448_reglement_20250623.pdf",
+    "gpu_doc_id": "e18ba836b72f1b0ac7bfc4bf15b9ab5e",
+    "partition": "DU_52448",
+    "idurba": "52448_PLU_20250623",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_52448/e18ba836b72f1b0ac7bfc4bf15b9ab5e/52448_reglement_20250623.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "urlfic_head": {
+   "err": "<urlopen error timed out>"
+  },
+  "files_n": 29,
+  "reglement_files": [
+   "52448_reglement_20250623.pdf"
+  ]
+ },
+ {
+  "ref": "52306:ZD:1",
+  "zones": [
+   {
+    "libelle": "N",
+    "libelong": "Zone naturelle",
+    "typezone": "N",
+    "nomfic": "200069664_reglement_20250317.pdf",
+    "urlfic": "",
+    "gpu_doc_id": "4d5ce9325a2327bc02ab8e73a3cf1f47",
+    "partition": "DU_200069664",
+    "idurba": "200069664_PLUI_20250317",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_200069664/4d5ce9325a2327bc02ab8e73a3cf1f47/200069664_reglement_20250317.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "files_n": 32,
+  "reglement_files": [
+   "200069664_reglement_20250317.pdf",
+   "200069664_reglement_graphique_1_20250317.pdf",
+   "200069664_reglement_graphique_2_20250317.pdf",
+   "200069664_reglement_collecte_dechets_20250317.pdf"
+  ]
+ },
+ {
+  "ref": "58194:BR:40",
+  "zones": [
+   {
+    "libelle": "N",
+    "libelong": null,
+    "typezone": "N",
+    "nomfic": "58194_reglement_20221213.pdf",
+    "urlfic": null,
+    "gpu_doc_id": "22395f420df43755d772062b2aa84532",
+    "partition": "DU_58194",
+    "idurba": null,
+    "datappro": "20221213"
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_58194/22395f420df43755d772062b2aa84532/58194_reglement_20221213.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "files_n": 22,
+  "reglement_files": [
+   "58194_reglement_20221213.pdf"
+  ]
+ },
+ {
+  "ref": "64445:DW:270",
+  "zones": [
+   {
+    "libelle": "UD",
+    "libelong": "UD : Zone d'extension - habitat dense",
+    "typezone": "U",
+    "nomfic": "200067254_reglement_20241219.pdf",
+    "urlfic": "",
+    "gpu_doc_id": "702a5ac1aa1d3cc718bf7ed2512196c8",
+    "partition": "DU_200067254",
+    "idurba": "200067254_PLUI_20241219",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_200067254/702a5ac1aa1d3cc718bf7ed2512196c8/200067254_reglement_20241219.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "files_n": 121,
+  "reglement_files": [
+   "200067254_reglement_20241219.pdf",
+   "200067254_reglement_graphique_0_20241219.pdf",
+   "200067254_reglement_graphique_1_20241219.pdf",
+   "200067254_reglement_graphique_2_20241219.pdf",
+   "200067254_reglement_graphique_3_20241219.pdf",
+   "200067254_reglement_graphique_4_20241219.pdf",
+   "200067254_reglement_graphique_5_20241219.pdf",
+   "200067254_reglement_graphique_6_20241219.pdf",
+   "200067254_reglement_graphique_7_20241219.pdf",
+   "200067254_reglement_graphique_8_20241219.pdf",
+   "200067254_reglement_graphique_9_20241219.pdf",
+   "200067254_reglement_graphique_10_20241219.pdf",
+   "200067254_reglement_graphique_11_20241219.pdf",
+   "200067254_reglement_graphique_12_20241219.pdf",
+   "200067254_reglement_graphique_13_20241219.pdf",
+   "200067254_reglement_graphique_14_20241219.pdf",
+   "200067254_reglement_graphique_15_20241219.pdf",
+   "200067254_reglement_graphique_16_20241219.pdf",
+   "200067254_reglement_graphique_17_20241219.pdf",
+   "200067254_reglement_graphique_18_20241219.pdf"
+  ]
+ },
+ {
+  "ref": "64514:A:547",
+  "zones": [
+   {
+    "libelle": "A",
+    "libelong": "A : Zone agricole",
+    "typezone": "A",
+    "nomfic": "200067239_reglement_20260205_A.pdf",
+    "urlfic": "",
+    "gpu_doc_id": "38e7d20c24f1b8f6fc7516984ec18085",
+    "partition": "DU_200067239_A",
+    "idurba": "200067239_PLUi_20260205_A",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_200067239_A/38e7d20c24f1b8f6fc7516984ec18085/200067239_reglement_20260205_A.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "files_n": 49,
+  "reglement_files": [
+   "200067239_reglement_20260205_A.pdf",
+   "200067239_reglement_graphique_0_20260205_A.pdf",
+   "200067239_reglement_graphique_1_20260205_A.pdf",
+   "200067239_reglement_graphique_2_20260205_A.pdf",
+   "200067239_reglement_graphique_3_20260205_A.pdf",
+   "200067239_reglement_graphique_4_20260205_A.pdf",
+   "200067239_reglement_graphique_5_20260205_A.pdf",
+   "200067239_reglement_graphique_6_20260205_A.pdf",
+   "200067239_reglement_graphique_7_20260205_A.pdf",
+   "200067239_reglement_graphique_8_20260205_A.pdf",
+   "200067239_reglement_graphique_9_20260205_A.pdf",
+   "200067239_reglement_graphique_10_20260205_A.pdf",
+   "200067239_reglement_graphique_11_20260205_A.pdf",
+   "200067239_reglement_graphique_12_20260205_A.pdf",
+   "200067239_reglement_graphique_13_20260205_A.pdf",
+   "200067239_reglement_graphique_14_20260205_A.pdf",
+   "200067239_reglement_graphique_15_20260205_A.pdf",
+   "200067239_reglement_graphique_16_20260205_A.pdf",
+   "200067239_reglement_graphique_17_20260205_A.pdf",
+   "200067239_reglement_graphique_18_20260205_A.pdf"
+  ]
+ },
+ {
+  "ref": "70550:O:136",
+  "zones": [
+   {
+    "libelle": "N",
+    "libelong": "Zones naturelles non equipees",
+    "typezone": "N",
+    "nomfic": "247000011_reglement_20200116.pdf",
+    "urlfic": null,
+    "gpu_doc_id": "204f71b89fd1c8ad02976bd37445755f",
+    "partition": "DU_247000011",
+    "idurba": "247000011_PLUI_20200116",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_247000011/204f71b89fd1c8ad02976bd37445755f/247000011_reglement_20200116.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "files_n": 35,
+  "reglement_files": [
+   "247000011_reglement_20200116.pdf",
+   "247000011_reglement_graphique_70019_20200116.pdf",
+   "247000011_reglement_graphique_70020_20200116.pdf",
+   "247000011_reglement_graphique_70134_20200116.pdf",
+   "247000011_reglement_graphique_70163_20200116.pdf",
+   "247000011_reglement_graphique_70166_20200116.pdf",
+   "247000011_reglement_graphique_70179_20200116.pdf",
+   "247000011_reglement_graphique_70207_20200116.pdf",
+   "247000011_reglement_graphique_70261_20200116.pdf",
+   "247000011_reglement_graphique_70358_20200116.pdf",
+   "247000011_reglement_graphique_70363_20200116.pdf",
+   "247000011_reglement_graphique_70367_20200116.pdf",
+   "247000011_reglement_graphique_70378_20200116.pdf",
+   "247000011_reglement_graphique_70388_20200116.pdf",
+   "247000011_reglement_graphique_70428_20200116.pdf",
+   "247000011_reglement_graphique_70429_20200116.pdf",
+   "247000011_reglement_graphique_70433_20200116.pdf",
+   "247000011_reglement_graphique_70513_20200116.pdf",
+   "247000011_reglement_graphique_70550_20200116.pdf",
+   "247000011_reglement_graphique_70559_20200116.pdf"
+  ]
+ },
+ {
+  "ref": "70421:BR:4",
+  "zones": [
+   {
+    "libelle": "A",
+    "libelong": "",
+    "typezone": "A",
+    "nomfic": "70421_reglement_20221202.pdf",
+    "urlfic": "",
+    "gpu_doc_id": "4a8957f672fe38eaf44d1a074ab1dc19",
+    "partition": "DU_70421",
+    "idurba": "70421_PLU_20250718",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_70421/4a8957f672fe38eaf44d1a074ab1dc19/70421_reglement_20221202.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "files_n": 27,
+  "reglement_files": [
+   "70421_reglement_20221202.pdf",
+   "70421_reglement_graphique_1_20250718.pdf",
+   "70421_reglement_graphique_2_20250718.pdf"
+  ]
+ },
+ {
+  "ref": "76351:DG:24",
+  "zones": [
+   {
+    "libelle": "UA",
+    "libelong": "Zone urbaine de centralité",
+    "typezone": "U",
+    "nomfic": "200084952_reglement_20260212.pdf#page=109",
+    "urlfic": "",
+    "gpu_doc_id": "1072ee011271b16483bb57500df16d05",
+    "partition": "DU_200084952",
+    "idurba": "200084952_PLUi_20260212",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_200084952/1072ee011271b16483bb57500df16d05/200084952_reglement_20260212.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "files_n": 202,
+  "reglement_files": [
+   "200084952_reglement_20260212.pdf",
+   "200084952_reglement_graphique_0_20260212.pdf",
+   "200084952_reglement_graphique_1_20260212.pdf",
+   "200084952_reglement_graphique_2_20260212.pdf",
+   "200084952_reglement_graphique_3_20260212.pdf",
+   "200084952_reglement_graphique_4_20260212.pdf",
+   "200084952_reglement_graphique_5_20260212.pdf",
+   "200084952_reglement_graphique_6_20260212.pdf",
+   "200084952_reglement_graphique_7_20260212.pdf",
+   "200084952_reglement_graphique_8_20260212.pdf",
+   "200084952_reglement_graphique_9_20260212.pdf",
+   "200084952_reglement_graphique_10_20260212.pdf",
+   "200084952_reglement_graphique_11_20260212.pdf",
+   "200084952_reglement_graphique_12_20260212.pdf",
+   "200084952_reglement_graphique_13_20260212.pdf",
+   "200084952_reglement_graphique_14_20260212.pdf",
+   "200084952_reglement_graphique_15_20260212.pdf",
+   "200084952_reglement_graphique_16_20260212.pdf",
+   "200084952_reglement_graphique_17_20260212.pdf",
+   "200084952_reglement_graphique_18_20260212.pdf"
+  ]
+ },
+ {
+  "ref": "82121:AT:279",
+  "zones": [
+   {
+    "libelle": "UE2",
+    "libelong": "UE2 : Espaces urbains contemporains, notamment en rive droite du Tarn - autres quartiers de tissu bâti compact dans la ceinture de la rocade et de la voie ferrée",
+    "typezone": "U",
+    "nomfic": "82121_reglement_20251125.pdf#page=33",
+    "urlfic": "",
+    "gpu_doc_id": "36ac0d1e1a7ef986df0e69d33423395d",
+    "partition": "DU_82121",
+    "idurba": "82121_PLU_20251125",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_82121/36ac0d1e1a7ef986df0e69d33423395d/82121_reglement_20251125.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "files_n": 25,
+  "reglement_files": [
+   "82121_reglement_20251125.pdf",
+   "82121_reglement_graphique_20251125.pdf"
+  ]
+ },
+ {
+  "ref": "88160:D:1086",
+  "zones": [
+   {
+    "libelle": "1N",
+    "libelong": "Zone naturelle non équipée et non destinée à l'être, qu'il convient de protéger en raison de la qualité du site et des boisements qui s'y trouvent.",
+    "typezone": "N",
+    "nomfic": "88160_reglement_20260122.pdf",
+    "urlfic": "",
+    "gpu_doc_id": "9cdcaa8d39787a483d488b989c36c304",
+    "partition": "DU_88160",
+    "idurba": "88160_PLU_20260122",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_88160/9cdcaa8d39787a483d488b989c36c304/88160_reglement_20260122.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "files_n": 22,
+  "reglement_files": [
+   "88160_reglement_20260122.pdf",
+   "88160_reglement_graphique_20260122.pdf"
+  ]
+ },
+ {
+  "ref": "94081:CT:42",
+  "zones": [
+   {
+    "libelle": "UEXXXXXX",
+    "libelong": "UE : Equipements de proximite",
+    "typezone": "U",
+    "nomfic": "200058014_reglement_20251216.pdf",
+    "urlfic": "",
+    "gpu_doc_id": "2e018aad7e25effb980f4d34d2d7829c",
+    "partition": "DU_200058014",
+    "idurba": "200058014_PLUI_20251216",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_200058014/2e018aad7e25effb980f4d34d2d7829c/200058014_reglement_20251216.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "files_n": 65,
+  "reglement_files": [
+   "200058014_reglement_20251216.pdf",
+   "200058014_reglement_graphique_1_20251216.pdf",
+   "200058014_reglement_graphique_2_20251216.pdf",
+   "200058014_reglement_graphique_3_20251216.pdf",
+   "200058014_reglement_graphique_4_20251216.pdf",
+   "200058014_reglement_graphique_5_20251216.pdf",
+   "200058014_reglement_graphique_6_20251216.pdf",
+   "200058014_reglement_graphique_7_20251216.pdf",
+   "200058014_reglement_graphique_8_20251216.pdf",
+   "200058014_reglement_graphique_9_20251216.pdf",
+   "200058014_reglement_graphique_10_20251216.pdf",
+   "200058014_reglement_graphique_11_20251216.pdf",
+   "200058014_reglement_graphique_12_20251216.pdf",
+   "200058014_reglement_graphique_13_20251216.pdf",
+   "200058014_reglement_graphique_14_20251216.pdf",
+   "200058014_reglement_graphique_15_20251216.pdf",
+   "200058014_reglement_graphique_16_20251216.pdf",
+   "200058014_reglement_graphique_17_20251216.pdf",
+   "200058014_reglement_graphique_18_20251216.pdf",
+   "200058014_reglement_graphique_19_20251216.pdf"
+  ]
+ },
+ {
+  "ref": "94056:AA:103",
+  "zones": [
+   {
+    "libelle": "AAAAAAA",
+    "libelong": "AAAAAAA : Zone agricole",
+    "typezone": "A",
+    "nomfic": "200058006_reglement_20261023.pdf",
+    "urlfic": "",
+    "gpu_doc_id": "48bb652f5b5cb705e290937219555b4e",
+    "partition": "DU_200058006",
+    "idurba": "200058006_PLUI_20261023",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_200058006/48bb652f5b5cb705e290937219555b4e/200058006_reglement_20261023.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "files_n": 81,
+  "reglement_files": [
+   "200058006_reglement_20261023.pdf",
+   "200058006_reglement_graphique_1_20261023.pdf",
+   "200058006_reglement_graphique_2_20261023.pdf",
+   "200058006_reglement_graphique_3_20261023.pdf",
+   "200058006_reglement_graphique_4_20261023.pdf",
+   "200058006_reglement_graphique_5_20261023.pdf",
+   "200058006_reglement_graphique_6_20261023.pdf",
+   "200058006_reglement_graphique_7_20261023.pdf",
+   "200058006_reglement_graphique_8_20261023.pdf",
+   "200058006_reglement_graphique_9_20261023.pdf",
+   "200058006_reglement_graphique_10_20261023.pdf",
+   "200058006_reglement_graphique_11_20261023.pdf",
+   "200058006_reglement_graphique_12_20261023.pdf",
+   "200058006_reglement_graphique_13_20261023.pdf",
+   "200058006_reglement_graphique_14_20261023.pdf",
+   "200058006_reglement_graphique_15_20261023.pdf",
+   "200058006_reglement_graphique_16_20261023.pdf",
+   "200058006_reglement_graphique_17_20261023.pdf",
+   "200058006_reglement_graphique_18_20261023.pdf",
+   "200058006_reglement_graphique_19_20261023.pdf"
+  ]
+ },
+ {
+  "ref": "97611:BH:155",
+  "zones": [
+   {
+    "libelle": "N",
+    "libelong": "Zone naturelle",
+    "typezone": "N",
+    "nomfic": "200060457_reglement_20240624.pdf",
+    "urlfic": "",
+    "gpu_doc_id": "de1ea411ad313ce5d1e0ddc92ff4ba39",
+    "partition": "DU_200060457",
+    "idurba": "200060457_PLUI_20240624",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_200060457/de1ea411ad313ce5d1e0ddc92ff4ba39/200060457_reglement_20240624.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "files_n": 28,
+  "reglement_files": [
+   "200060457_reglement_20240624.pdf",
+   "200060457_reglement_graphique_20240624.pdf",
+   "200060457_dechets_reglement_collecte_20240624.pdf"
+  ]
+ },
+ {
+  "ref": "97606:BH:1",
+  "zones": [
+   {
+    "libelle": "NL",
+    "libelong": "NL : Secteur naturel strict de protection forte",
+    "typezone": "N",
+    "nomfic": "97606_reglement_20260313.pdf",
+    "urlfic": "",
+    "gpu_doc_id": "1e53412e5bd6d003ae3e1b37e863bf2e",
+    "partition": "DU_97606",
+    "idurba": "97606_PLU_20260313",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_97606/1e53412e5bd6d003ae3e1b37e863bf2e/97606_reglement_20260313.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "files_n": 22,
+  "reglement_files": [
+   "97606_reglement_20110216.pdf",
+   "97606_reglement_20240823.pdf",
+   "97606_reglement_20260313.pdf",
+   "97606_reglement_graphique_1_20110216.pdf",
+   "97606_reglement_graphique_1_20240823.pdf",
+   "97606_reglement_graphique_1_20260313.pdf"
+  ]
+ },
+ {
+  "ref": "21231:HO:275",
+  "zones": [
+   {
+    "libelle": "U",
+    "libelong": "zone urbaine",
+    "typezone": "U",
+    "nomfic": "242100410_reglement_20260602.pdf",
+    "urlfic": "https://extrageo.metropole-dijon.fr/adscs/reglements/21/PLUIDM/5_1_Reglement_litteral.pdf",
+    "gpu_doc_id": "bc73818b89789cdf05643e4379e10da4",
+    "partition": "DU_242100410",
+    "idurba": "242100410_PLUI_20260602",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_242100410/bc73818b89789cdf05643e4379e10da4/242100410_reglement_20260602.pdf",
+  "gpu_head": {
+   "st": 206,
+   "type": "application/pdf",
+   "len": "bytes 0-1023/338746"
+  },
+  "urlfic_head": {
+   "st": 206,
+   "type": "application/pdf",
+   "len": "bytes 0-1023/6938514"
+  },
+  "files_n": 79,
+  "reglement_files": [
+   "242100410_reglement_20260602.pdf",
+   "242100410_reglement_graphique_20260602.pdf"
+  ]
+ },
+ {
+  "ref": "27005:H:446",
+  "zones": [
+   {
+    "libelle": "A",
+    "libelong": "A : Zone agricole",
+    "typezone": "A",
+    "nomfic": "200089456_reglement_20260205_B.pdf#page=69",
+    "urlfic": "",
+    "gpu_doc_id": "a31e12d5d9c34ca964cd7dc3b702cc20",
+    "partition": "DU_200089456_B",
+    "idurba": "200089456_PLUI_20260205_B",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_200089456_B/a31e12d5d9c34ca964cd7dc3b702cc20/200089456_reglement_20260205_B.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "files_n": 43,
+  "reglement_files": [
+   "200089456_reglement_20260205_B.pdf",
+   "200089456_reglement_graphique_1_20260205_B.pdf",
+   "200089456_reglement_graphique_2_20260205_B.pdf",
+   "200089456_reglement_graphique_3_20260205_B.pdf",
+   "200089456_reglement_graphique_4_20260205_B.pdf"
+  ]
+ },
+ {
+  "ref": "33063:PX:154",
+  "zones": [
+   {
+    "libelle": "UP14",
+    "libelong": "Zones d'intérêt patrimonial bâti et/ou paysager",
+    "typezone": "U",
+    "nomfic": "243300316_reglement_20260505.pdf",
+    "urlfic": "https://fichiers.bordeaux-metropole.fr/plu/Telechargement/5_Reglement.zip",
+    "gpu_doc_id": "0b6c6621184959caf3fa5b684f929657",
+    "partition": "DU_243300316",
+    "idurba": "243300316_PLUI_20260505",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_243300316/0b6c6621184959caf3fa5b684f929657/243300316_reglement_20260505.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "urlfic_head": {
+   "st": 206,
+   "type": "application/zip",
+   "len": "bytes 0-1023/1924982081"
+  },
+  "files_n": 69,
+  "reglement_files": [
+   "243300316_reglement_20260505.pdf",
+   "243300316_reglement_graphique_0_20260505.pdf",
+   "243300316_reglement_graphique_1_20260505.pdf",
+   "243300316_reglement_graphique_2_20260505.pdf",
+   "243300316_reglement_graphique_3_20260505.pdf",
+   "243300316_reglement_graphique_4_20260505.pdf",
+   "243300316_reglement_graphique_5_20260505.pdf",
+   "243300316_reglement_graphique_6_20260505.pdf",
+   "243300316_reglement_graphique_7_20260505.pdf",
+   "243300316_reglement_graphique_8_20260505.pdf",
+   "243300316_reglement_graphique_9_20260505.pdf",
+   "243300316_reglement_graphique_10_20260505.pdf",
+   "243300316_reglement_graphique_11_20260505.pdf",
+   "243300316_reglement_graphique_12_20260505.pdf",
+   "243300316_reglement_graphique_13_20260505.pdf",
+   "243300316_reglement_graphique_14_20260505.pdf",
+   "243300316_reglement_graphique_15_20260505.pdf",
+   "243300316_reglement_graphique_16_20260505.pdf",
+   "243300316_reglement_graphique_17_20260505.pdf",
+   "243300316_reglement_graphique_18_20260505.pdf"
+  ]
+ },
+ {
+  "ref": "93066:T:57",
+  "zones": [
+   {
+    "libelle": "Nc",
+    "libelong": "Naturelle",
+    "typezone": "N",
+    "nomfic": "200057867_reglement_20251216.pdf",
+    "urlfic": "",
+    "gpu_doc_id": "9ac270d37a778fa1bed02998270ab1b3",
+    "partition": "DU_200057867",
+    "idurba": "200057867_PLUi_20251216",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_200057867/9ac270d37a778fa1bed02998270ab1b3/200057867_reglement_20251216.pdf",
+  "gpu_head": {
+   "st": 200,
+   "type": "application/pdf",
+   "len": null
+  },
+  "files_n": 111,
+  "reglement_files": [
+   "200057867_reglement_20251216.pdf",
+   "200057867_reglement_graphique_0_20251216.pdf",
+   "200057867_reglement_graphique_1_20251216.pdf",
+   "200057867_reglement_graphique_2_20251216.pdf",
+   "200057867_reglement_graphique_3_20251216.pdf",
+   "200057867_reglement_graphique_4_20251216.pdf",
+   "200057867_reglement_graphique_5_20251216.pdf",
+   "200057867_reglement_graphique_6_20251216.pdf",
+   "200057867_reglement_graphique_7_20251216.pdf",
+   "200057867_reglement_graphique_8_20251216.pdf",
+   "200057867_reglement_graphique_9_20251216.pdf",
+   "200057867_reglement_graphique_10_20251216.pdf",
+   "200057867_reglement_graphique_11_20251216.pdf",
+   "200057867_reglement_graphique_12_20251216.pdf",
+   "200057867_reglement_graphique_13_20251216.pdf",
+   "200057867_reglement_graphique_14_20251216.pdf",
+   "200057867_reglement_graphique_15_20251216.pdf",
+   "200057867_reglement_graphique_16_20251216.pdf",
+   "200057867_reglement_graphique_17_20251216.pdf",
+   "200057867_reglement_graphique_18_20251216.pdf"
+  ]
+ },
+ {
+  "ref": "32117:ZB:34",
+  "zones": [
+   {
+    "libelle": "Nh",
+    "libelong": "Zone naturelle d'habitat",
+    "typezone": "Nh",
+    "nomfic": null,
+    "urlfic": null,
+    "gpu_doc_id": "6bf371fe38db79767e39674bf299882c",
+    "partition": "DU_32117",
+    "idurba": null,
+    "datappro": "20091112"
+   }
+  ],
+  "files_n": 9,
+  "reglement_files": [
+   "32117_reglement_20091112.pdf",
+   "32117_reglement_graphique_20091112.pdf"
+  ]
+ },
+ {
+  "ref": "74010:BV:256",
+  "zones": [
+   {
+    "libelle": "Uac1",
+    "libelong": "Zone Uac1 de centreville d'Annecy ",
+    "typezone": "U",
+    "nomfic": "200066793_reglement_20260326.pdf",
+    "urlfic": "https://plui-hmb-approuve-ga.grandannecy.fr/",
+    "gpu_doc_id": "9d95558f9d36813b6c6b0de03b177264",
+    "partition": "DU_200066793",
+    "idurba": "200066793_PLUI_20260326",
+    "datappro": null
+   }
+  ],
+  "gpu_url": "https://data.geopf.fr/annexes/gpu/documents/DU_200066793/9d95558f9d36813b6c6b0de03b177264/200066793_reglement_20260326.pdf",
+  "gpu_head": {
+   "st": 206,
+   "type": "application/pdf",
+   "len": "bytes 0-1023/41869"
+  },
+  "urlfic_head": {
+   "st": 200,
+   "type": "text/html; charset=UTF-8",
+   "len": null
+  },
+  "files_n": 9,
+  "reglement_files": [
+   "200066793_reglement_20260326.pdf"
+  ]
+ }
+]
