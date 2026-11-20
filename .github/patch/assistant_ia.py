@@ -39,7 +39,6 @@ a = """async function handle(req) {
   const url = new URL(req.url);
 """
 assert s.count(a) == 1
-s = s.replace(a, "const ASSISTANT_SYS = " + repr(SYS).replace("\\'", "'") .join(['', '']) + ";\n" if False else "", 1)
 code = """const ASSISTANT_SYS = %s;
 async function assistant(req) {
   let b = {}; try { b = JSON.parse(await req.text()); } catch (e) { return jres({ error: 'format' }, 400); }
@@ -67,5 +66,6 @@ async function handle(req) {
   const url = new URL(req.url);
   if (req.method === 'POST' && url.searchParams.get('assistant') === '1') return await assistant(req);
 """ % ('`' + SYS.replace('\\', '\\\\').replace('`', '\\`').replace('${', '\\${') + '`')
+assert s.count(a) == 1
 s = s.replace(a, code)
 open(p, 'w', encoding='utf-8').write(s); print('patch assistant IA appliqué')
