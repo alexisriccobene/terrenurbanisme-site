@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "demande_types.py", "demande": "types partenaire integration"}
+{"fonction": "stripe-webhook", "script": "lire.py", "demande": "lecture accents synthese"}
