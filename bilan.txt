@@ -1,0 +1,12 @@
+59350:NS:136 http=200 34s pages=39 non_lu=1
+95110:A:551 http=200 52s pages=60 non_lu=0
+2A198:C:158 http=200 21s pages=37 non_lu=1
+28085:BO:294 http=200 48s pages=57 non_lu=0
+46312:B:98 http=200 117s pages=38 non_lu=1
+94081:CT:42 http=200 28s pages=39 non_lu=1
+94056:AA:103 http=200 24s pages=39 non_lu=1
+21231:HO:275 http=200 19s pages=38 non_lu=1
+33063:PX:154 http=200 28s pages=37 non_lu=1
+93066:T:57 http=200 20s pages=41 non_lu=1
+32117:ZB:34 http=200 47s pages=46 non_lu=0
+74010:BV:256 http=200 30s pages=41 non_lu=1
