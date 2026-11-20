@@ -854,3 +854,11 @@
     sec.hidden = false;
   }).catch(function(){});
 })();
+
+/* ---------- Rapport d'exemple : chapitre courant dans le sommaire ---------- */
+(function(){
+  var nav = document.querySelector('.rp-nav'); if (!nav || !('IntersectionObserver' in window)) return;
+  var links = {}; nav.querySelectorAll('a').forEach(function(a){ links[a.getAttribute('href').slice(1)] = a; });
+  var io = new IntersectionObserver(function(es){ es.forEach(function(e){ if (e.isIntersecting && links[e.target.id]) { nav.querySelectorAll('a.on').forEach(function(x){ x.classList.remove('on'); }); var a = links[e.target.id]; a.classList.add('on'); if (nav.scrollWidth > nav.clientWidth) nav.scrollLeft = a.offsetLeft - 20; } }); }, { rootMargin: '-40% 0px -55% 0px' });
+  document.querySelectorAll('.rp-ch').forEach(function(c){ io.observe(c); });
+})();
