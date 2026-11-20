@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "lire.py", "demande": "lecture reglement fascicules"}
+{"fonction": "stripe-webhook", "script": "lire.py", "demande": "lecture choix fichier reglement"}
