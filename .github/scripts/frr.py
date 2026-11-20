@@ -29,3 +29,14 @@ print('communes :', len(out))
 json.dump(out, open(sys.argv[2], 'w'), ensure_ascii=False)
 for c in ['2A247', '2A272', '91200', '48095', '23096', '75056']:
     print(c, out.get(c))
+# Version compacte pour le rapport : {insee: code}  S = FRR socle, P = FRR+, B = bénéficiaire (ex-ZRR, jusqu'au 31/12/2027),
+# SP = classée partiellement, BP = bénéficiaire partiellement, N = non classée
+M = {'FRR socle': 'S', 'FRR+': 'P', 'FRR bénéficiaire': 'B', 'Classée FRR partiellement': 'SP', 'FRR bénéficiaire partiellement': 'BP', 'Non classée': 'N'}
+comp = {}
+for code, d in out.items():
+    v = next(iter(d.values())); lib = next((x for k, x in v.items() if k.startswith('Classement')), '')
+    if lib not in M: print('libellé inconnu', code, lib); continue
+    comp[code] = M[lib]
+json.dump({'source': 'ANCT - Liste des communes zonées FRR et FRR+ au 10 juillet 2025 (collectivites-locales.gouv.fr)', 'date': '2025-07-10', 'c': comp}, open(sys.argv[2], 'w'), separators=(',', ':'))
+print('compact', len(comp), collections.Counter(comp.values()))
+print('partielles', [(k, next(iter(out[k].values()))['Commune']) for k, v in comp.items() if v in ('SP', 'BP')])
