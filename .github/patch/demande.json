@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "fibre_vide2.py", "demande": "fibre carte seulement 400 m"}
+{"fonction": "stripe-webhook", "script": "lire.py", "demande": "lecture zfrr 1"}
