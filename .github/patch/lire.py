@@ -1,5 +1,5 @@
 import sys, re
 s = open(sys.argv[1], encoding='utf-8').read(); L = s.split('\n')
 for i, l in enumerate(L):
-    if re.search(r"^\s*(unit|pack2|pack3|pro10|pro50|pro100|pro250|pro500|ab10|ab50|abo\w*)\s*:\s*\{", l): print('%5d| %s' % (i + 1, l[:260]))
+    if re.search(r"amount\s*:\s*\d|unit_amount|Crédits professionnels|Abonnement Essentiel|ab50|pro100", l): print('%5d| %s' % (i + 1, l[:240]))
 sys.exit(1)
