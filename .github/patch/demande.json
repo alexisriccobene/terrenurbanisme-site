@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "demande_offre.py", "demande": "table demandes_offre"}
+{"fonction": "stripe-webhook", "script": "ta_piscine.py", "demande": "piscine 251"}
