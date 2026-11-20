@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "lire.py", "demande": "lecture acces"}
+{"fonction": "stripe-webhook", "script": "acces_bords.py", "demande": "acces bords parcelle"}
