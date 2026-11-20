@@ -1,6 +1,9 @@
 import sys, re
 s = open(sys.argv[1], encoding='utf-8').read(); L = s.split('\n')
+def show(a, b):
+    for i in range(a, b): print('%5d| %s' % (i + 1, L[i][:300]))
 for i, l in enumerate(L):
-    if re.search(r"(const|function) clean\b|modere|Modere|tres faible|\bfaible\b.*\bmoyen", l): print('%5d| %s' % (i + 1, l[:400]))
-for i in range(2455, 2510): print('%5d| %s' % (i + 1, L[i][:260]))
+    if re.search(r"^  function (ensure|bullet|h3|newPage|wrap|text)\(|^  const (ensure|bullet|wrap)\b", l): show(i, i + 8); print('----')
+i = next(i for i, l in enumerate(L) if "// Points d'attention" in l and 'complémentaires' not in l)
+show(i - 2, i + 40)
 sys.exit(1)
