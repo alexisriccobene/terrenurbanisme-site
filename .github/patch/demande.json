@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "lire.py", "demande": "lecture RNU table"}
+{"fonction": "stripe-webhook", "script": "sans_gratuit.py", "demande": "sans gratuit"}
