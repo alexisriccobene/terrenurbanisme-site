@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "synthese_compacte2.py", "demande": "points info retirés si débordement"}
+{"fonction": "stripe-webhook", "script": "synthese_compacte3.py", "demande": "points secondaires seulement"}
