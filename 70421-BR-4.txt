@@ -1,0 +1,2921 @@
+                  TerrenUrbanisme
+                  Le terrain constructible, partout en France
+
+
+
+
+RAPPORT D'URBANISME
+
+
+
+Port-sur-Saône
+Section BR · Parcelle n° 4
+      Non constructible
+
+
+
+
+Référence cadastrale                                                        Surface cadastrale
+70421000BR0004                                                              13 589 m²
+
+Rapport établi le                                                           Référence du rapport
+20/11/2026                                                                  APERCU
+
+
+
+
+terrenurbanisme.com                                                                      contact@terrenurbanisme.com
+
+Document d'information sans valeur contractuelle ni réglementaire. Il ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme
+et ne peut en aucun cas être joint à une demande de permis de construire ou de déclaration préalable. Seuls les actes de l'administration font foi.
+                                                                                                                           Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                                                    Sommaire
+
+
+
+
+Sommaire
+Le rapport suit l'ordre d'une étude de terrain : où se trouve la parcelle, ce que dit la règle, ce qui pèse sur le
+projet, puis les démarches.
+
+              Synthèse
+   S                                                                                                                                       p. 3
+              Le verdict, les indicateurs clés et les points d'attention en une page.
+
+              Identification de la parcelle
+   01                                                                                                                                      p. 4
+              Localisation, surface, références cadastrales et voisinage du terrain.
+
+              Règles d'urbanisme applicables
+  02                                                                                                                                       p. 7
+              Document d'urbanisme, zone du terrain, prescriptions et servitudes.
+
+              Ce que vous pouvez construire
+  03                                                                                                                                       p. 9
+              Surface constructible, hauteur, reculs, aspect et usages autorisés.
+
+              Loi Littoral et loi Montagne
+  04                                                                                                                                      p. 14
+              Les lois qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+              Risques naturels et technologiques
+  05                                                                                                                                      p. 15
+              Inondation, feu de forêt, argiles, catastrophes naturelles et sites pollués.
+
+              Le terrain : accès, relief et réseaux
+  06                                                                                                                                      p. 18
+              Accès, pente, ensoleillement, eaux usées, électricité, eau et fibre.
+
+              Conditions de vente du terrain
+  07                                                                                                                                     p. 25
+              Terrain agricole ou naturel : SAFER, fermier en place et repère officiel de prix.
+
+              Environnement et marché immobilier
+  08                                                                                                                                     p. 27
+              Espaces naturels, espèces protégées et ventes immobilières alentour.
+
+              Historique du site
+  09                                                                                                                                     p. 30
+              Le terrain vu du ciel au fil des années et les permis accordés autour.
+
+              Opportunités autour du terrain
+   10                                                                                                                                    p. 33
+              Grands terrains peu bâtis et logements énergivores à proximité.
+
+              Votre projet, étape par étape
+   11                                                                                                                                    p. 35
+              De l'achat aux impôts : démarches, délais, coûts, contacts et taxe.
+
+              État des risques (ERP) pré-rempli
+   12                                                                                                                                    p. 40
+              Le formulaire réglementaire à remettre à l'acquéreur, pré-rempli.
+
+              Avertissement et sources
+   13                                                                                                                                    p. 42
+              La portée de ce rapport et les sources publiques consultées.
+
+              Annexe : règlement de la zone
+   A                                                                                                                                     p. 45
+              Les pages officielles du règlement de la zone, telles qu'approuvées.
+
+
+
+
+Astuce : cliquez sur un chapitre pour y accéder directement.
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                     2 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                                                            Synthèse
+
+
+
+
+Synthèse
+     Document d'information. Ce rapport ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme,
+     n'engage pas l'administration et ne peut pas servir de pièce à une demande de permis de construire.
+     L'appréciation ci-dessous est indicative : seule la mairie se prononce sur la constructibilité d'un terrain,
+     au vu d'un projet précis.
+
+
+
+
+       NON CONSTRUCTIBLE
+
+       Ce terrain n'est pas constructible en l'état
+       La parcelle est classée à 99 % en zone A (agricole) du plan local d'urbanisme de
+       Port-sur-Saône, et pour le reste en zone UB (1 %). Les constructions nouvelles n'y sont pas
+       admises, sauf exceptions encadrées. Le terrain est situé aux abords d'un monument
+       historique (Périmètre délimité des abords auberge, école, église) : l'architecte des
+       Bâtiments de France donne son avis sur les travaux et peut imposer des prescriptions
+       (matériaux, couleurs, volumes).
+
+
+
+
+      Zone principale                                        Document d'urbanisme                                  Loi Littoral
+
+   A · 99 %                                               PLU                                                    Ne s'applique pas
+
+
+
+
+      Loi Montagne                                           Risques à la parcelle
+
+   Ne s'applique pas                                      Séisme ·
+                                                          Retrait-gonflement des
+
+
+
+
+Points d'attention
+    Zone A (agricole) : environ 13 390 m², soit 99 % du terrain, non constructible.
+    Zone UB (urbaine) : environ 160 m², soit 1 % du terrain, constructible.
+    Abords de monument historique (Périmètre délimité des abords auberge, école, église) : accord de l'architecte des
+    Bâtiments de France pour les travaux.
+    Logement : le règlement de la zone A n'admet pas de logement neuf, sauf exceptions prévues par la zone
+    (logement de gardiennage, par exemple) : voir le chapitre « Ce que vous pouvez construire ».
+    Retrait-gonflement des argiles (exposition moyenne) : en cas de vente d'un terrain non bâti constructible, le
+    vendeur doit fournir une étude géotechnique préalable (loi ELAN, article L. 132-5 du Code de la construction et de
+    l'habitation) ; une étude géotechnique de conception est exigée avant de construire.
+    Pollution des sols : concerné à l'adresse de la parcelle (voir le chapitre « Risques naturels et technologiques »).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            3 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+    01             Identification de la parcelle
+     DANS CETTE SECTION
+
+     Où se trouve le terrain, sa surface, ses références cadastrales, son propriétaire lorsqu'il s'agit
+     d'une société ou d'une collectivité, et la performance énergétique du bâti existant.
+
+
+Données du cadastre (DGFiP) et de l'IGN.
+
+
+     Plan de situation
+
+
+
+
+                                                                                                                            1 km
+
+
+
+Plan IGN · © IGN
+
+
+
+     Vue aérienne et plan cadastral
+
+
+
+
+                                                                                                                                    100 m
+
+
+
+Photographie aérienne et plan cadastral · © IGN
+
+
+Commune                                                  Port-sur-Saône (70421)
+
+Département                                              Haute-Saône (70)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             4 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+Section et numéro                                        Section BR, parcelle n° 4, feuille 1
+
+Identifiant cadastral                                    70421000BR0004
+
+Surface cadastrale                                       13 589 m²
+
+Surface calculée (SIG)                                   13 556 m² · périmètre 821 m
+
+Coordonnées du centre                                    47.68970 N, 6.03475 E (WGS 84)
+
+Altitude                                                 de 230 à 240 m
+
+Pente estimée                                            9 % (pente modérée)
+
+Parcelles voisines                                       BR 240, BR 22, BR 23, BR 25, BR 26, BR 283, BR 285, BR 291, BR 3, BR
+                                                         30, BR 318, BR 32, BR 39, BR 40
+
+
+Le plan cadastral est un document fiscal : il ne fait pas foi des limites de propriété. Seul un bornage réalisé par un
+géomètre-expert fixe les limites de manière certaine.
+
+
+1.1 Propriétaire et voisinage
+La parcelle ne figure pas au fichier des personnes morales : son propriétaire est vraisemblablement un
+particulier. Le nom des propriétaires particuliers n'est pas public ; il peut être demandé au service des impôts
+fonciers (relevé de propriété) ou obtenu par l'intermédiaire d'un notaire.
+
+Principaux propriétaires personnes morales dans un rayon de 314 m
+  PROPRIÉTAIRE                                                              PARCELLES             SURFACE TOTALE            SIREN
+
+  COMMUNE DE PORT-SUR-SAONE (COM)                                           9                     4 410 m²                  217004217
+
+  SCI J S P (SCI)                                                           2                     1 947 m²                  879323749
+
+  LES MALVIGNOTTES (SCI)                                                    1                     1 561 m²                  479044034
+
+  SCI DE LA CHAPELLE (SCI)                                                  1                     1 097 m²                  848956173
+
+  JBMA (SCI)                                                                1                     1 042 m²                  798536603
+
+  SCI PARIS (SCI)                                                           2                     894 m²                    903288785
+
+  LES COPAINS DE PORT (SCI)                                                 1                     876 m²                    799786637
+
+  CHD IMMO (SCI)                                                            1                     864 m²                    953868593
+
+
+
+Source : fichiers des parcelles des personnes morales (DGFiP) : sociétés, SCI, collectivités, établissements publics et associations.
+Les propriétaires personnes physiques n'y figurent pas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          5 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+1.2 La commune de Port-sur-Saône
+Code postal                                              70170
+
+Département                                              Haute-Saône (70)
+
+Intercommunalité                                         CC Terres de Saône
+
+Population                                               2 949 habitants
+
+Superficie                                               24,61 km²
+
+Densité                                                  120 habitants par km²
+
+Commune littorale                                        Non
+
+Commune de montagne                                      Non
+
+Document d'urbanisme                                     Plan local d'urbanisme (PLU)
+
+Risques sur la commune                                   13 arrêtés de catastrophe naturelle · détail en section Risques et en
+                                                         annexe
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          6 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+    02             Règles d'urbanisme applicables
+     DANS CETTE SECTION
+
+     Le document d'urbanisme de la commune, la zone dans laquelle se trouve le terrain, et les
+     prescriptions et servitudes qui s'y ajoutent.
+
+
+Géoportail de l'Urbanisme : zonage, prescriptions et servitudes.
+
+
+
+2.1 Document d'urbanisme en vigueur
+Type de document                                         Plan local d'urbanisme (PLU)
+
+Date d'approbation                                       Non renseigné
+
+Statut                                                   Publié au Géoportail de l'Urbanisme
+
+Règlement officiel                                       Ouvrir le document officiel (PDF)
+
+
+
+     Plan de zonage du PLU
+
+
+
+
+                                                  UB                     A
+                                                                                                      UA
+
+
+
+
+                                                                                                                                100 m
+
+
+
+Zonage : Géoportail de l'Urbanisme · fond : © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      7 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.2 Zonage de la parcelle
+  ZONE                  DÉSIGNATION                                                         PART               CONSTRUCTIBILITÉ
+
+  A                     Agricole                                                            99 %               Non constructible
+
+  UB                    Urbaine                                                             1%                 Constructible
+
+
+
+Zone A · Agricole
+Zone agricole : secteur protégé en raison du potentiel agronomique, biologique ou économique des terres.
+Seules y sont admises les constructions et installations nécessaires à l'exploitation agricole et aux services
+publics, ainsi que l'extension limitée des habitations existantes.
+
+Zone UB · Urbaine
+Zone urbaine : secteur déjà urbanisé où les équipements publics existants ou en cours de réalisation
+permettent d'accueillir des constructions. Les constructions y sont admises dans le respect du règlement de la
+zone (destinations, implantation, hauteur, emprise, aspect).
+
+
+2.3 Prescriptions applicables à la parcelle
+Aucune prescription graphique du PLU (emplacement réservé, espace boisé classé, élément de paysage
+protégé, etc.) n'est recensée sur la parcelle.
+
+
+2.4 Servitudes d'utilité publique
+  CODE               SERVITUDE                                                                    DÉTAIL
+
+  AC1                Monument historique (abords)                                                 AC1
+                                                                                                  Perimetre-delimite-des-abords-auberge-
+                                                                                                  ecole-eglise abor
+
+
+
+
+2.5 Patrimoine : l'architecte des Bâtiments de France
+      En clair : le terrain est aux abords d'un monument historique. Les travaux visibles de l'extérieur doivent
+      recevoir l'accord de l'architecte des Bâtiments de France, qui peut imposer des prescriptions.
+
+
+
+  PROTECTION                                NOM                                                CE QUE CELA IMPLIQUE
+
+  Abords de monument                        Périmètre délimité des abords                      Accord de l'architecte pour les travaux visibles
+  historique                                auberge, école, église                             (périmètre publié)
+
+
+
+Conseils : consulter l'architecte des Bâtiments de France (unité départementale de l'architecture et du patrimoine,
+joignable par la mairie) avant de dessiner le projet ; prévoir un délai d'instruction majoré d'un mois ; soigner
+l'insertion (matériaux, teintes, toitures, clôtures) dès l'esquisse.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         8 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    03             Ce que vous pouvez construire
+     DANS CETTE SECTION
+
+     La lecture du règlement de votre zone : surface constructible estimée, hauteur, reculs, aspect,
+     usages autorisés ou interdits, avec les extraits du texte officiel.
+
+
+Lecture du règlement écrit de la zone A, pages 82 à 89 du règlement officiel.
+
+
+
+3.1 Potentiel constructible estimé
+     Le règlement de la zone A n'admet pas de construction nouvelle à usage de logement. Seules restent
+     possibles les constructions expressément admises par la zone et les évolutions encadrées des
+     constructions existantes : extension limitée à 30 % de l'emprise existante, dans la limite de 200 m²,
+     annexes de 40 m² au plus.
+
+
+
+Constructions admises dans la zone :
+
+    Constructions agricoles à usage de logement de fonction, liées à une exploitation en activité et nécessitant une
+    présence permanente sur place : une seule construction par exploitation, surface de plancher limitée à 200 m²
+    Installations classées ou non, nécessaires à l'agriculture ou à l'élevage (dans le respect de la réglementation des
+    installations classées et du Règlement Sanitaire Départemental)
+    Constructions et installations de transformation, conditionnement et commercialisation des produits agricoles,
+    dans le prolongement de l'acte de production
+    Constructions et installations réputées agricoles par l'article L.311-1 du code rural
+
+
+3.2 Caractère de la zone
+La zone A est réservée à l'activité agricole, à protéger en raison du potentiel agronomique, biologique ou
+économique des terres agricoles. Elle comprend aussi des hameaux ou constructions isolées à usage
+d'habitat, dont le bâti peut évoluer sous conditions (extensions et annexes mesurées). Elle comporte un
+STECAL Ala (logements étudiants du lycée agricole), qui ne s'applique pas à la parcelle étudiée classée
+en A sans indice. Elle est en partie concernée par le risque d'inondation (PPRi de la Saône).
+
+
+3.3 Règles de construction
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Surface minimale ou                          Non précisé dans le règlement de la zone                                         art. A4
+  caractéristiques du terrain
+
+  Accès et voirie                              Minimum d'accès sur les voies publiques ; accès permettant la                    art. A8
+                                               défense contre l'incendie, la protection civile et le brancardage
+                                               ; portails pouvant faire l'objet de prescriptions de sécurité.
+                                               Création de voirie : largeur minimale de 5 mètres,
+                                               caractéristiques adaptées à la lutte contre l'incendie ; impasses
+                                               à éviter (plateforme de retournement obligatoire).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       9 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Réseaux et assainissement                    Eau potable : branchement au réseau collectif ; à défaut                         art. A9
+                                               captage, forage ou puits particulier avec preuve de potabilité.
+                                               Eaux usées : raccordement obligatoire au réseau public s'il
+                                               existe ; sinon assainissement autonome obligatoire, avec
+                                               descriptif précis joint au permis de construire et compatibilité
+                                               avec le sol. Eaux pluviales gérées prioritairement à la parcelle
+                                               (stockage puis infiltration), puis rejet au réseau avec accord du
+                                               gestionnaire ; jamais dans le réseau d'eaux usées. Réseaux
+                                               d'électricité et de téléphonie enterrés sauf impossibilité
+                                               technique.
+
+  Implantation par rapport                     Retrait de 100 m par rapport à l'axe de la déviation de la RN19 ;                art. A4.1
+  aux voies                                    35 m par rapport à l'axe de la RN19 ; 20 m par rapport à l'axe
+                                               des RD6, RD56, RD100, RD100p, RD155 et RD20 ; 10 m par
+                                               rapport à l'alignement des autres voies. Recul minimal de 10 m
+                                               par rapport à la rive de la Saône. Implantations autres
+                                               possibles pour les locaux techniques d'intérêt général.
+
+  Implantation par rapport                     Distance au moins égale à la hauteur de la construction et                       art. A4.2
+  aux limites séparatives                      jamais inférieure à 5 m. Extensions et annexes des habitations
+                                               existantes non liées à l'activité agricole : recul de 1 m minimum.
+
+  Implantation des                             Distance d'au moins 4 m pouvant être imposée entre deux                          art. A4.3
+  constructions entre elles                    bâtiments non contigus. Annexes des habitations existantes : à
+                                               15 m maximum du point du bâtiment d'habitation le plus proche.
+
+  Emprise au sol                               Extensions d'habitations : 30 % de la surface de plancher                        art. A4.4
+                                               existante, plafond de 200 m² de surface de plancher totale,
+                                               réalisables en une ou plusieurs fois. Annexes : 40 m² par
+                                               annexe, 60 m² cumulés. Pas d'emprise au sol maximale en
+                                               pourcentage du terrain.
+
+  Hauteur maximale                             Habitations : 7,50 m au faîtage ou 6 m à l'acrotère ; extensions :               art. A4.5
+                                               pas plus haut que la construction existante ; annexes : 3,50 m
+                                               au faîtage ou 3 m à l'acrotère. Bâtiments agricoles : 11 m au
+                                               faîtage (le texte du règlement place cette règle sous la rubrique
+                                               STECAL Ala, mais elle vise les bâtiments agricoles) ; les autres
+                                               constructions (réservoirs, silos…) ne sont pas soumises à cette
+                                               limite. Hauteur mesurée au terrain naturel avant travaux,
+                                               ouvrages techniques et cheminées exclus.
+
+  Aspect extérieur et toitures                 Volumes et implantations adaptés à la morphologie et à la                        art. A5
+                                               topographie du terrain ; matériaux et techniques innovantes
+                                               (qualité environnementale, énergies renouvelables) privilégiés.
+                                               Toitures : non réglementé. Rappel de l'article R.111-27 (refus ou
+                                               prescriptions si atteinte au caractère des lieux).
+
+  Matériaux et couleurs                        Emploi à nu, en parement extérieur, de matériaux destinés à                      art. A5
+                                               être revêtus interdit. Bâtiments agricoles : matériaux mats,
+                                               couleurs neutres et sombres proches de celles du paysage,
+                                               teintes foncées fortement préconisées (sauf extension d'un
+                                               bâtiment existant, qui doit s'harmoniser avec l'existant).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       10 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Clôtures                                     Clôtures et haies implantées sans créer ni aggraver une gêne                     art. A5
+                                               pour la visibilité aux carrefours. Clôtures agricoles : ne pas
+                                               faire obstacle au passage de la petite faune ; haies champêtres
+                                               d'essences locales conseillées ; clôtures herbagères de 3 à 5
+                                               rangées de fils autorisées avec ouvertures au pied pour la
+                                               petite faune et sans soubassement béton. Pas de hauteur
+                                               maximale fixée.
+
+  Stationnement                                Stationnement correspondant aux besoins des constructions                        art. A6
+                                               et installations assuré en dehors des voies publiques ;                          (stationnement
+                                               aménagements limitant l'imperméabilisation des sols. Pas de                      )
+                                               nombre de places fixé.
+
+  Espaces verts et plantations                 Espaces non affectés à la construction et au stationnement                       art. A6
+                                               traités en aménagement paysager minéral ou végétal ;                             (traitement
+                                               constructions nouvelles accompagnées d'un aménagement                            environnement
+                                               paysager. Aspect quantitatif des espaces verts : non                             al)
+                                               réglementé.
+
+  Densité ou coefficient                       Non réglementé (pas de COS ; extension limitée à 30 % dans la                    art. A4.4
+                                               limite de 200 m² de surface de plancher totale).
+
+
+
+
+3.4 Usages autorisés
+    Constructions agricoles à usage de logement de fonction, liées à une exploitation en activité et nécessitant
+    une présence permanente sur place : une seule construction par exploitation, surface de plancher limitée
+    à 200 m²
+    Installations classées ou non, nécessaires à l'agriculture ou à l'élevage (dans le respect de la
+    réglementation des installations classées et du Règlement Sanitaire Départemental)
+    Constructions et installations de transformation, conditionnement et commercialisation des produits
+    agricoles, dans le prolongement de l'acte de production
+    Constructions et installations réputées agricoles par l'article L.311-1 du code rural
+    Extensions des habitations existantes : au plus 30 % de la surface de plancher existante à la date
+    d'approbation du PLU, dans la limite de 200 m² de surface de plancher totale (existant + extension)
+    Piscines et bassins sur le tènement de l'habitation
+    Annexes des habitations existantes non liées à l'activité agricole : 40 m² d'emprise au sol maximum par
+    annexe, 60 m² cumulés, implantées à moins de 15 m du bâti d'habitation existant
+    Ouvrages et installations nécessaires aux services publics ou d'intérêt collectif (dont locaux techniques et
+    industriels des administrations publiques)
+    Affouillements et exhaussements de sols strictement nécessaires aux occupations autorisées
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       11 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.5 Usages interdits ou soumis à conditions
+    Interdits sauf ceux autorisés à l'article A2 : habitations, commerces et activités de services, équipements
+    d'intérêt collectif et services publics, autres activités des secteurs secondaire ou tertiaire
+    Interdits dès lors qu'ils ne sont pas liés aux travaux admis dans la zone : affouillements ou exhaussements
+    des sols, dépôts de matériaux, carrières
+    Toutes les autorisations de la zone sont conditionnées à ne pas compromettre l'activité agricole ni la
+    qualité paysagère du site, et à ne pas avoir de conséquences dommageables pour l'environnement
+    (destruction d'espaces boisés ou agricoles de valeur)
+    Les ouvrages d'intérêt collectif doivent limiter la gêne à l'activité agricole et être bien intégrés dans le site
+    Éléments de paysage protégés (L.151-23 / L.151-19) : suppression ou abattage soumis à déclaration
+    préalable, refusable, avec remplacement à qualité et quantité équivalentes
+    Zones humides identifiées : toute occupation ou aménagement susceptible de compromettre leur
+    existence ou leur qualité est interdit (constructions, remblais, déblais, drainages)
+    Le sous-secteur Ala (hébergement d'étudiants) n'est pas applicable à une parcelle en A sans indice
+
+
+3.6 Points de vigilance pour votre projet
+    Vérifier que la parcelle est en zone A sans indice (et non dans le STECAL Ala) sur le règlement graphique
+    Aucune habitation nouvelle n'est admise, hormis un logement de fonction agricole (200 m² de surface de
+    plancher, un seul par exploitation, présence permanente nécessaire)
+    Pour une habitation existante : calculer l'extension (30 % de la surface de plancher existante à la date
+    d'approbation du PLU, plafond de 200 m² au total) en tenant compte des extensions déjà réalisées
+    Annexes : 40 m² maximum chacune, 60 m² cumulés, à moins de 15 m de l'habitation ; hauteur 3,50 m
+    maximum ; recul de 1 m minimum des limites séparatives
+    Reculs importants le long des routes (100 m déviation RN19, 35 m RN19, 20 m routes départementales
+    listées) et 10 m par rapport à la Saône ; bande inconstructible L.111-6 hors espaces urbanisés (75 m RN19,
+    100 m déviation) avec exceptions pour bâtiments agricoles et extensions
+    Consulter le PPRi de la Saône (servitude d'utilité publique, zones rouge et bleue) : il s'applique directement
+    Vérifier la présence d'éléments protégés (zones humides, haies, boisements, mares, éléments L.151-19 /
+    L.151-23) sur la parcelle
+    Risque de retrait-gonflement des argiles (aléa faible à moyen) : étude géotechnique recommandée ou
+    obligatoire selon les cas ; risque sismique de niveau 3 ; canalisations de gaz haute pression à proximité
+    éventuelle ; classement sonore des voies
+    Principe de réciprocité agricole (L.111-3 du code rural) pour toute construction à usage non agricole près
+    d'exploitations
+    Numérotation du règlement incohérente (deux articles « A6 », absence d'article A7) : se référer au contenu
+    (traitement environnemental puis stationnement)
+    La règle de hauteur de 11 m pour les bâtiments agricoles figure sous la rubrique Ala : confirmer son
+    application avec le service instructeur
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       12 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.7 Extraits du règlement
+
+     art. A2 · page 83
+     « Les extensions des constructions à vocation d’habitation existantes sous réserves qu’elles
+     n’excèdent pas 30% de la surface de plancher de la construction existante à la date d’approbation du
+     PLU ; dans la limite de 200 m² de surface de plancher total »
+
+
+     art. A2 · page 83
+     « Que l’emprise au sol de chacune des constructions n’excède pas 40 m² »
+
+
+     art. A2 · page 82
+     « limitée à une seule construction par exploitation. La surface de plancher est limitée à 200 m². »
+
+
+     art. A4.1 · page 84
+     « 35 mètres par rapport à l’axe de la RN19 »
+
+
+     art. A4.2 · page 84
+     « doit être au moins égale à la hauteur de la construction et jamais inférieure à 5 mètres. »
+
+
+     art. A4.5 · page 85
+     « La hauteur ne doit pas excéder 7,50 mètres au faîtage ou 6 mètres à l’acrotère. »
+
+
+
+3.8 Démarches probables
+    Permis de construire ou déclaration préalable selon la surface créée (extension, annexe, piscine)
+    Consultation du PPRi et de la commission départementale de préservation des espaces naturels, agricoles
+    et forestiers (CDPENAF) selon les projets (extensions et annexes en zone A)
+    Descriptif de l'assainissement autonome joint à la demande (en l'absence de réseau collectif) et avis du
+    service d'assainissement non collectif
+    Permission de voirie si le raccordement à la voirie publique l'exige
+    Déclaration préalable pour la coupe ou l'abattage d'éléments paysagers protégés ; permis de démolir pour
+    les éléments L.151-19
+    Saisine du service régional de l'archéologie si le projet a une incidence sur le sous-sol
+    Respect des règles de construction parasismique et des dispositions relatives aux sols argileux
+
+     Cette lecture est établie automatiquement, par intelligence artificielle, à partir du règlement officiel en
+     vigueur. Elle peut comporter des imprécisions : seul le texte du règlement, reproduit en annexe (pages
+     82 à 89 du document approuvé), fait foi, avec les dispositions générales, les orientations
+     d'aménagement et les servitudes.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       13 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                                    04 · Loi Littoral et loi Montagne
+
+
+
+
+   04              Loi Littoral et loi Montagne
+     DANS CETTE SECTION
+
+     Les lois nationales qui s'ajoutent au document d'urbanisme sur le littoral et en montagne. Elles
+     peuvent rendre un terrain inconstructible même en zone constructible.
+
+
+Les lois d'aménagement qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+
+
+4.1 Loi Littoral
+Commune littorale                                        Non
+
+Distance au rivage                                       Sans objet
+
+Bande des 100 mètres                                     Sans objet
+
+
+La commune n'est pas riveraine de la mer : la loi Littoral ne s'applique pas (sauf rives de grands lacs).
+
+
+4.2 Loi Montagne
+Commune en zone de montagne                              Non
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          14 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+   05              Risques naturels et technologiques
+     DANS CETTE SECTION
+
+     Les risques connus à l'adresse du terrain (inondation, feu de forêt, mouvement de terrain,
+     radon…) et les catastrophes naturelles reconnues sur la commune.
+
+
+Base nationale Géorisques (ministère de la Transition écologique).
+
+
+
+5.1 Risques naturels à l'adresse de la parcelle
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Inondation                                      Non connu                                       Existant
+
+  Remontée de nappe                               Non connu                                       Existant
+
+  Séisme                                          Existant – modéré                               Existant – modéré
+
+  Mouvement de terrain                            Inconnu                                         Existant
+
+  Retrait-gonflement des                          Existant – modéré                               Existant – modéré
+  argiles
+
+  Radon                                           Existant – faible                               Existant – faible
+
+
+
+
+5.2 Risques technologiques
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Installations industrielles                     Non concerné                                    Concerné
+  (ICPE)
+
+  Canalisations de matières                       Non concerné                                    Concerné
+  dangereuses
+
+  Pollution des sols                              Concerné                                        Concerné
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                     15 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.3 Indicateurs réglementaires
+Zone de sismicité                                        Zone 3 – moderee
+
+Potentiel radon                                          Catégorie 1 (potentiel faible)
+
+Retrait-gonflement des argiles                           Existant – modéré
+
+Plans de prévention (PPR)                                AZI SAONE
+
+
+
+5.4 Arrêtés de catastrophe naturelle
+13 arrêtés de reconnaissance de l'état de catastrophe naturelle concernent la commune.
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Mouvement de Terrain                                                      10/07/2026 au 13/07/2026                       21/09/2026
+
+  Sécheresse                                                                01/01/2019 au 31/03/2019                       28/09/2021
+
+  Sécheresse                                                                01/07/2018 au 31/12/2018                       26/10/2019
+
+  Inondations et/ou Coulées de Boue                                         30/12/2001 au 01/01/2002                       28/03/2002
+
+  Inondations et/ou Coulées de Boue                                         24/05/2001                                     27/10/2001
+
+  Mouvement de Terrain                                                      25/12/1999 au 29/12/1999                       30/12/1999
+
+  Inondations et/ou Coulées de Boue                                         25/12/1999 au 29/12/1999                       30/12/1999
+
+  Inondations et/ou Coulées de Boue                                         10/11/1996 au 15/11/1996                       23/02/1997
+
+  Inondations et/ou Coulées de Boue                                         01/07/1987                                     09/10/1987
+
+  Inondations et/ou Coulées de Boue                                         16/05/1983 au 28/05/1983                       26/07/1983
+
+  Inondations et/ou Coulées de Boue                                         08/12/1982 au 31/12/1982                       13/01/1983
+
+  Inondations et/ou Coulées de Boue                                         09/11/1982                                     26/12/1982
+
+  Inondations et/ou Coulées de Boue                                         14/10/1982                                     26/12/1982
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         16 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.5 Installations classées à proximité (moins de 1 km)
+    EUROSERUM SA (usine) · Autorisation · En exploitation avec titre
+    BRONZE D'ART SERRALHEIRO SARL · Non ICPE
+    SN FODOR SARL · Autres régimes
+    BRONZE METIERS D'ART · Non ICPE
+    ENGIE COFELY SERVICES · Autres régimes
+    EUROSERUM SA (lagune n° 2) · Enregistrement · En exploitation avec titre
+
+
+5.6 Sites et sols pollués à proximité
+    Fonderie de bronze et laiton, anc.fabrication d'instruments de mesure (pesage et comptage) · ancien site
+    industriel ou d'activité de service (CASIAS)
+    Garage, station-service · ancien site industriel ou d'activité de service (CASIAS)
+    Production de poudres de lactosérum déminéralisé · ancien site industriel ou d'activité de service
+    (CASIAS)
+    Atelier entretien réparation · ancien site industriel ou d'activité de service (CASIAS)
+    PETITJEAN Père et Fils (Ets) · ancien site industriel ou d'activité de service (CASIAS)
+
+
+5.7 Rapport officiel Géorisques
+Les risques recensés ci-dessus proviennent des bases officielles de Géorisques, service public d'information
+sur les risques. Le rapport officiel complet peut être édité sans frais, à tout moment et à jour, à partir de
+l'adresse du terrain sur le site Géorisques.
+
+
+    Éditer le rapport officiel Géorisques
+
+
+Lors d'une vente ou d'une location, le vendeur ou le bailleur doit remettre un état des risques de moins de six mois,
+complété et signé, et l'information sur les sinistres indemnisés au titre des catastrophes naturelles.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                     17 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+   06              Le terrain : accès, relief et réseaux
+     DANS CETTE SECTION
+
+     Les contraintes physiques du terrain : accès à une voie, pente et exposition, assainissement,
+     raccordement à l'électricité et à l'eau, fibre. Ce sont elles qui pèsent le plus sur le coût d'un
+     projet.
+
+
+Voirie (IGN, BD TOPO), altimétrie (IGN, RGE ALTI), règlement de la zone, réseau électrique (Agence ORE) et éligibilité
+internet (Arcep).
+
+
+
+6.1 Accès
+Accès direct à une voie                                  Oui
+
+Voie                                                     Route à 1 chaussée · LA CORVEE
+
+Largeur de chaussée                                      3m
+
+Accès des véhicules                                      Libre
+
+
+La parcelle touche une voie carrossable. L'autorisation d'urbanisme vérifiera que l'accès est adapté au projet et sûr,
+et peut imposer une permission de voirie ou un aménagement de l'entrée.
+
+
+6.2 Relief et exposition
+Pente moyenne                                            9%
+
+Exposition                                               Versant orienté est
+
+Altitude                                                 230 à 240 m
+
+Appréciation                                             Pente modérée
+
+
+
+
+ 241 m
+
+
+
+
+ 210 m
+
+
+           Coupe du terrain dans le sens de la pente · longueur 364 m
+
+
+     Implantation courante ; terrassements et soutènements légers à prévoir.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       18 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Port-sur-Saône · BR 4
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.3 Ensoleillement
+Appréciation                                             Très bien ensoleillé
+
+Soleil direct le 21 juin                                 15 h 42 (de 05 h 50 à 21 h 20)
+
+Soleil direct aux équinoxes                              11 h 30 (de 07 h 10 à 18 h 30)
+
+Soleil direct le 21 décembre                             8 h (de 08 h 40 à 16 h 30)
+
+Ensoleillement annuel possible                           4 300 h par an, soit 98 % du maximum à cette latitude
+
+Hauteur du relief vers le sud                            2°
+
+
+ 75°
+
+
+
+ 60°
+
+
+
+ 45°
+
+
+
+ 30°
+
+
+
+ 15°
+
+
+
+ 0°
+                                Est                  Sud-est                    Sud                 Sud-ouest               Ouest
+
+          21 juin          Équinoxes               21 décembre                 Horizon : relief et bâtiments voisins
+
+
+
+       Le relief et les constructions voisines ne masquent presque pas le soleil : le terrain profite de la
+       quasi-totalité de l'ensoleillement possible à cette latitude.
+
+
+
+Ensoleillement mois par mois (le 21 de chaque mois)
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Janvier                         8 h 48                             8 h 42                                    08 h 30 – 17 h 00
+
+  Février                         10 h 30                            10 h 12                                   07 h 50 – 17 h 50
+
+  Mars                            12 h                               11 h 30                                   07 h 10 – 18 h 30
+
+  Avril                           13 h 42                            13 h 30                                   07 h 00 – 20 h 20
+
+  Mai                             15 h 12                            14 h 48                                   06 h 10 – 20 h 50
+
+  Juin                            15 h 48                            15 h 42                                   05 h 50 – 21 h 20
+
+  Juillet                         15 h 12                            14 h 48                                   06 h 20 – 21 h 00
+
+  Août                            13 h 48                            13 h 30                                   07 h 00 – 20 h 20
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              19 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Septembre                       12 h 12                            11 h 42                                   07 h 50 – 19 h 20
+
+  Octobre                         10 h 30                            10 h 12                                   08 h 20 – 18 h 20
+
+  Novembre                        8 h 48                             8 h 42                                    08 h 00 – 16 h 30
+
+  Décembre                        8 h 18                             8h                                        08 h 40 – 16 h 30
+
+
+
+Calcul théorique par ciel dégagé, au centre de la parcelle et à hauteur d'homme : course du soleil heure par heure, masque du relief
+sur 6 km (IGN, RGE ALTI) et des bâtiments voisins sur 120 m (IGN, BD TOPO, 21 bâtiments pris en compte). La végétation et les
+constructions récentes ne sont pas prises en compte.
+
+
+6.4 Quel raccordement pour les eaux usées ?
+Raccordement à prévoir                                       Assainissement individuel probable
+
+Zone du PLU                                                  A · Agricole
+
+Zonage d'assainissement                                      Non publié au Géoportail de l'Urbanisme (consultable en mairie)
+
+Réseau collectif sur la commune                              Oui · Commune de Port-sur-Saône · délégation à Gaz et Eau
+
+
+     Le terrain est hors zone urbaine (zone A) : ces secteurs sont rarement desservis par le réseau public.
+     Sauf canalisation existante dans la voie, prévoyez une fosse toutes eaux avec épandage ou une
+     micro-station agréée.
+
+
+
+Ce que dit le règlement de la zone
+Raccordement obligatoire au réseau public d'assainissement collectif pour toute construction ou installation lorsqu'il
+existe (art. L.1331-1 du code de la santé publique). En l'absence de réseau collectif, l'assainissement autonome est
+obligatoire conformément au zonage d'assainissement et à la législation en vigueur ; le permis de construire doit
+comporter un descriptif précis du dispositif et de sa compatibilité avec le sol et le sous-sol. En zone
+d'assainissement collectif futur, le dispositif autonome doit pouvoir être court-circuité pour un raccordement
+ultérieur. Aucune surface minimale n'est fixée. Eaux pluviales, eaux de pompes à chaleur et de vidange de piscine :
+puits perdu sauf impossibilité technique justifiée, sinon réseau d'eaux pluviales.
+
+Ce que cela coûte
+Assainissement individuel : 5 000 à 15 000 € selon la filière (détail ci-dessous), plus l'étude de sol à la parcelle (500 à
+1 000 €). Étapes : étude de sol, puis avis favorable du SPANC sur le projet, à joindre à la demande de permis de
+construire. Besoin d'un installateur agréé ? Nous vous mettons en relation : contact@terrenurbanisme.com.
+
+Qui contacter pour obtenir la confirmation
+Service d'assainissement                                     Commune de Port-sur-Saône · exploitant : Gaz et Eau
+
+Mairie                                                       Mairie de Port-sur-Saône
+
+Téléphone                                                    03 84 78 18 00
+
+E-mail                                                       secretariat@port-sur-saone.fr
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            20 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+    Demandez au service d'assainissement, avec la référence cadastrale, si une canalisation publique passe au droit
+    du terrain, à quelle profondeur, et le montant de la PFAC. Sa réponse écrite vaut attestation de raccordabilité.
+    Certificat d'urbanisme opérationnel (formulaire Cerfa 13410, délivré sans frais) : la mairie y indique officiellement
+    si le terrain est desservi par le réseau d'assainissement.
+    Plan des réseaux : la présence des canalisations enterrées près du terrain peut être vérifiée sur
+    reseaux-et-canalisations.gouv.fr, le guichet unique des réseaux.
+Sources : zonage d'assainissement et règlement (Géoportail de l'Urbanisme) ; services publics d'assainissement (SISPEA, Office
+français de la biodiversité) ; annuaire de l'administration (service-public.fr).
+
+Les solutions d'assainissement individuel
+  FILIÈRE                                    QUAND ELLE CONVIENT                                                           ORDRE DE PRIX
+
+  Fosse toutes eaux et                       Sol perméable, terrain assez grand et peu pentu                               5 000 à 10 000 €
+  épandage
+
+  Filtre à sable                             Sol peu perméable, place suffisante                                           8 000 à 12 000 €
+
+  Micro-station agréée                       Petit terrain ou sol défavorable ; entretien et électricité                   7 000 à 15 000 €
+
+  Filtre compact agréé                       Petit terrain, sans électricité                                               9 000 à 14 000 €
+
+
+
+Ordres de prix indicatifs (fourniture et pose, hors étude de sol et terrassements particuliers). La filière est choisie au vu de l'étude
+de sol et validée par le SPANC.
+
+
+6.5 Électricité et eau potable
+Gestionnaire du réseau                                       Enedis
+
+Réseau basse tension le plus proche                          au contact de la parcelle (ligne aérienne)
+
+Ligne aérienne la plus proche                                au contact de la parcelle
+
+Ligne souterraine la plus proche                             au contact de la parcelle
+
+Poste de transformation le plus proche                       à environ 80 m
+
+Appréciation                                                 Branchement simple probable
+
+
+     Le réseau basse tension passe au contact de la parcelle : un branchement simple est en principe
+     possible (de l'ordre de 1 500 à 3 000 € pour une maison, selon la longueur et la puissance), sous
+     réserve de la capacité du réseau et des coffrets existants.
+
+
+
+Ce qu'il faut vérifier avant d'acheter
+    La capacité du réseau : même un réseau proche peut être saturé (coffret ou câble plein, poste de transformation
+    au maximum). Seule une étude du gestionnaire permet de le savoir ; c'est la cause la plus fréquente de surcoûts
+    imprévus.
+    Électricité : demander au gestionnaire du réseau une étude de raccordement ou un devis à partir de l'adresse et
+    du plan de situation (sans frais). Elle indique le type de raccordement, son coût et son délai.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             21 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+    Eau potable : les plans du réseau d'eau ne sont pas publics. Interroger le service des eaux (coordonnées
+    ci-dessous) sur la présence d'une canalisation au droit du terrain, sa capacité et le coût du branchement, ainsi
+    que sur la défense incendie (borne à moins de 200 m environ).
+    Certificat d'urbanisme opérationnel : la mairie y indique si le terrain est desservi par les réseaux publics (eau,
+    électricité, assainissement) et, à défaut, si et quand ils seront étendus. Un refus de permis peut être fondé sur
+    l'insuffisance des réseaux (article L. 111-11 du Code de l'urbanisme).
+
+Qui contacter
+Service de l'eau potable                                     Commune de Port-sur-Saône
+
+Mode de gestion                                              Délégation de service public à Gaz et Eau
+
+Contact pour le branchement                                  Gaz et Eau, pour le compte de : Commune de Port-sur-Saône
+
+Mairie                                                       Mairie de Port-sur-Saône
+
+Téléphone de la mairie                                       03 84 78 18 00
+
+E-mail de la mairie                                          secretariat@port-sur-saone.fr
+
+Électricité (raccordement)                                   Enedis · demande en ligne sur enedis.fr (raccordement)
+
+La mairie oriente vers le bon interlocuteur et confirme, dans le certificat d'urbanisme, la desserte du terrain par les réseaux.
+Sources : SISPEA, observatoire des services publics d'eau (OFB) ; annuaire de l'administration (service-public.fr).
+
+Dans une promesse de vente, une condition suspensive portant sur le coût du raccordement aux réseaux protège
+l'acquéreur. Source de la cartographie électrique : Agence ORE, données des gestionnaires de réseaux de distribution ;
+tracés indicatifs.
+
+
+6.6 Fibre et internet
+     Le terrain est déjà fibré : 1 adresse située sur la parcelle (23 Rue du Cornot) est déclarée raccordable à
+     la fibre.
+
+
+
+Adresse la plus proche                                          23 Rue du Cornot · à 21 m · raccordable
+
+Point fibré le plus proche                                      23 Rue du Cornot · à 21 m
+
+Adresses fibrées à moins de 100 m                               1 sur 1
+
+Adresses fibrées à moins de 400 m                               200 sur 205
+
+Technologies disponibles à proximité                            4G fixe, Fibre, Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      22 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                                                 Port-sur-Saône · BR 4
+          TerrenUrbanisme
+                                                                                                                                     06 · Le terrain : accès, relief et réseaux
+
+
+
+
+                                                                                      F                                      FF
+     Points fibrés autour du terrain                                  F
+                                                                                                                                      FF FF F               F
+                                                                                                  F FF F       F        FF                        F
+                                                              F                   FF                                                F
+                                                                                                                                   F FF          F F F
+                                                      F                                                                                 F F                 FF
+                                                                                                                                 FF           F                   F
+                                                                                                                         F                     F FF                  F
+                                                                                                                                                      FF F
+                                                                                                                                                               F
+                                                                                                                                                            FF
+                                                                                                                                                            F
+                                                                                                                                                          F
+                                              F                                                                                                                 F
+                                                          F                                                                                              F F
+                                                  F                                                                                                    FF     F
+                                      F                           F                                                                                   F     F
+                                                                                                                                                     F     F
+                                                      F                                                                                             F     F        F
+                                                                                                                                                 F
+                                          F                                                                                                             F
+                                  F                                   F                                                                         F
+                                                                                                                                             F FF
+                                          F   F                                                            F                                  F
+                                                                                                                                              F      F F
+                                                                          F                                                                   F
+                                          F                                                                                                  F
+                                                                                                                                            F
+                                                                              F                                                            FF
+                                                                                                                                           F
+                                                                                                                                           F
+                                                                                      F                                                   FF
+                                                                                              F                                           FF
+                                                                                                                                           F
+                                                                                                                   F                      FF
+                                                                                                           F                               F    F
+                                                                          F       F                                                        F
+
+                                                                                                                                 F        F
+                                                                                          F                                               F      F
+                                                                                                                                          F
+                                                                                  F
+                                                                                                                             F
+                                                                                                                                                 F
+
+                                                                                              F                                                                      100 m
+
+
+
+Repères F : adresses déclarées raccordables à la fibre (Arcep) · en terracotta : sur la parcelle · fond © IGN
+
+
+Vérifiez la fibre à l'adresse du terrain :
+
+                     Carte fibre Orange                                                                                              Carte de l'Arcep
+
+
+  DISTANCE           ADRESSE                                                                                           FIBRE                   AUTRES ACCÈS
+
+  21 m               23 Rue du Cornot                                                                                  Oui                     4G fixe, Satellite
+
+  124 m              9 bis Chemin de la Corvee                                                                         Oui                     4G fixe, Satellite
+
+  129 m              13 Rue du Cornot                                                                                  Oui                     4G fixe, Satellite
+
+  130 m              7 Chemin de la Corvee                                                                             Oui                     4G fixe, Satellite
+
+  136 m              33 Rue du Magny                                                                                   Oui                     4G fixe, Satellite
+
+  139 m              15 Rue du Cornot                                                                                  Oui                     4G fixe, Satellite
+
+  141 m              45 Rue du Magny                                                                                   Oui                     4G fixe, Satellite
+
+  141 m              37 Rue du Magny                                                                                   Oui                     4G fixe, Satellite
+
+
+
+Source : Arcep, « Ma connexion internet », éligibilité déclarée par les opérateurs, adresse par adresse. Le tracé des câbles n'est
+pas public : la présence de la fibre en limite de terrain se vérifie auprès de l'opérateur ou par une déclaration de projet de travaux
+(DT).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                                          23 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.7 Qui contacter pour les réseaux
+  RÉSEAU                                    INTERLOCUTEUR                                         CE QU'IL FAUT DEMANDER
+
+  Eau potable et                            Mairie ou service des eaux de la                      Attestation de desserte et conditions de
+  assainissement collectif                  commune                                               raccordement
+
+  Assainissement individuel                 SPANC (communauté de communes)                        Contrôle de conception sur la base de l'étude
+                                                                                                  de sol
+
+  Électricité                               Enedis (gestionnaire du réseau de                     Étude de raccordement et devis
+                                            distribution)
+
+  Fibre et téléphone                        Opérateur d'infrastructure et                         Raccordement du futur logement
+                                            fournisseur d'accès
+
+  Tous réseaux                              Guichet unique des réseaux                            Déclaration de projet de travaux (DT) pour
+                                            (reseaux-et-canalisations.gouv.fr)                    localiser les réseaux existants
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        24 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                               07 · Conditions de vente du terrain
+
+
+
+
+    07             Conditions de vente du terrain
+     DANS CETTE SECTION
+
+     Terrain agricole ou naturel : droit de préemption de la SAFER, fermier en place, autorisation
+     d'exploiter et repère officiel de prix.
+
+
+Terrain situé en zone A : vente encadrée par le code rural et de la pêche maritime.
+
+
+
+7.1 Pourquoi aucune fourchette de prix n'est donnée
+La parcelle est classée en zone A (agricole), où les constructions nouvelles ne sont en principe pas admises.
+Sa valeur ne se déduit pas des ventes de terrains à bâtir du secteur : elle dépend de l'usage agricole ou naturel
+du sol, de sa qualité, de son accès, de l'eau disponible et de l'existence éventuelle d'un bail rural. Une
+estimation automatique serait trompeuse : la valeur doit être établie au cas par cas par un notaire ou un expert
+foncier et agricole.
+
+
+7.2 Le droit de préemption de la SAFER
+Principe                                        La vente d'un terrain agricole ou naturel est en principe soumise au droit de
+                                                préemption de la SAFER (articles L. 143-1 et suivants du code rural et de la
+                                                pêche maritime). Une surface minimale, fixée par département, peut en
+                                                exclure les plus petites parcelles.
+
+Information obligatoire                         Le notaire informe la SAFER du projet de vente au moins deux mois avant la
+                                                signature : prix, conditions et identité de l'acquéreur.
+
+Ce que peut faire la SAFER                      Renoncer, acheter au prix et aux conditions notifiés, ou proposer un prix
+                                                inférieur si elle estime le prix exagéré. Le vendeur peut alors accepter,
+                                                retirer son terrain de la vente ou demander au tribunal judiciaire de fixer le
+                                                prix.
+
+Pourquoi elle intervient                        Installation de jeunes agriculteurs, consolidation des exploitations,
+                                                protection de l'environnement et des paysages, lutte contre la spéculation
+                                                foncière.
+
+
+
+7.3 Les autres règles à connaître
+Fermier en place                                Si le terrain est loué par bail rural, l'exploitant en place bénéficie d'un droit
+                                                de préemption prioritaire, avant la SAFER.
+
+Autorisation d'exploiter                        Un acquéreur qui souhaite exploiter le terrain peut devoir obtenir une
+                                                autorisation d'exploiter auprès de la DDT(M), selon le schéma directeur
+                                                régional des exploitations agricoles.
+
+Espace naturel sensible                         Dans un espace naturel sensible, le département peut également disposer
+                                                d'un droit de préemption.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       25 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                               07 · Conditions de vente du terrain
+
+
+
+
+Constructions                                   Seules les constructions nécessaires à l'exploitation agricole ou forestière,
+                                                ou à des équipements collectifs, sont en règle générale admises : l'achat ne
+                                                donne pas de droit à bâtir une habitation.
+
+
+
+7.4 Repère officiel de prix
+Le ministère de l'Agriculture publie chaque année le barème indicatif de la valeur vénale moyenne des terres
+agricoles, par région agricole et par nature de culture (arrêté publié au Journal officiel). C'est la référence à
+consulter, avec l'avis d'un notaire ou d'un expert foncier et agricole, avant de fixer un prix.
+
+     Avant toute mise en vente, rapprochez-vous de votre notaire : il notifie la vente à la SAFER, vérifie
+     l'existence d'un bail et sécurise le calendrier de la transaction.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       26 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+   08              Environnement et marché immobilier
+     DANS CETTE SECTION
+
+     Les espaces naturels protégés autour du terrain et les prix de vente réels des maisons,
+     appartements et terrains alentour.
+
+
+Inventaire national du patrimoine naturel et demandes de valeurs foncières (DVF).
+
+
+
+8.1 Espaces naturels protégés ou inventoriés
+  TYPE                                                      NOM DU SITE
+
+  Abords de monument historique                             Perimetre delimite des abords auberge ecole eglise
+
+
+
+La présence d'un site Natura 2000 peut imposer une évaluation des incidences avant certains travaux. Une ZNIEFF
+est un inventaire scientifique sans portée réglementaire directe, mais elle signale un intérêt écologique pris en
+compte dans l'instruction des autorisations.
+
+
+8.2 Espèces protégées observées près du terrain
+79 espèces protégées ont été observées dans un rayon de 1 km autour du terrain depuis 1990 ; les 14 plus
+fréquemment signalées figurent ci-dessous.
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Mésange bleue (Cyanistes caeruleus)                             Oiseau                 Nationale (espèce et              11 · dernière en 2021
+                                                                                         habitat)
+
+  Buse commune (Buteo buteo)                                      Oiseau                 Nationale (espèce et              10 · dernière en
+                                                                                         habitat)                          2025
+
+  Rouge-gorge familier (Erithacus                                 Oiseau                 Nationale (espèce et              10 · dernière en
+  rubecula)                                                                              habitat)                          2021
+
+  Moineau domestique (Passer                                      Oiseau                 Nationale (espèce et              10 · dernière en
+  domesticus)                                                                            habitat)                          2021
+
+  Grosbec casse-noyaux (Coccothraustes                            Oiseau                 Nationale (espèce et              9 · dernière en 2021
+  coccothraustes)                                                                        habitat)
+
+  Pinson des arbres (Fringilla coelebs)                           Oiseau                 Nationale (espèce et              9 · dernière en 2021
+                                                                                         habitat)
+
+  Pipistrelle commune (Pipistrellus                               Mammifère              Nationale (espèce et              9 · dernière en 2018
+  pipistrellus)                                                                          habitat)
+
+  Mésange charbonnière (Parus major)                              Oiseau                 Nationale (espèce et              9 · dernière en 2021
+                                                                                         habitat)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         27 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Grand épeiche (Dendrocopos major)                               Oiseau                 Nationale (espèce et              8 · dernière en 2021
+                                                                                         habitat)
+
+  Sittelle d'Europe (Sitta europaea)                              Oiseau                 Nationale (espèce et              8 · dernière en 2021
+                                                                                         habitat)
+
+  Mésange nonnette (Poecile palustris)                            Oiseau                 Nationale (espèce et              8 · dernière en 2021
+                                                                                         habitat)
+
+  Verdier (Chloris chloris)                                       Oiseau                 Nationale (espèce et              8 · dernière en 2021
+                                                                                         habitat)
+
+  Corneille noire (Corvus corone)                                 Oiseau                 Nationale (espèce et              8 · dernière en
+                                                                                         habitat)                          2025
+
+  Chardonneret élégant (Carduelis                                 Oiseau                 Nationale (espèce et              7 · dernière en 2021
+  carduelis)                                                                             habitat)
+
+
+
+     Une observation à proximité ne signifie pas que l'espèce vit sur le terrain. Mais si elle y est présente, il
+     est interdit de détruire, capturer ou déranger les individus et, pour la plupart de ces espèces, de
+     détruire leurs lieux de reproduction et de repos (articles L. 411-1 et suivants du Code de
+     l'environnement). L'infraction est punie de 3 ans d'emprisonnement et 150 000 € d'amende.
+
+
+
+Que faire avant de construire ?
+    Pour une maison individuelle, aucune étude écologique n'est imposée en règle générale, et l'étude de sol porte
+    sur le terrain (fondations), pas sur la faune ni la flore. Vous restez cependant responsable si une espèce
+    protégée vit sur la parcelle : en cas de doute (espèce observée tout près, vieux arbres, murets, maquis, zone
+    humide), faites passer un écologue avant de défricher.
+    Si un enjeu est confirmé : inventaire faune-flore aux saisons utiles (printemps et été en général), puis mesures
+    pour éviter et réduire l'impact : implantation de la maison sur la partie la moins sensible, travaux hors période de
+    reproduction, clôture de chantier adaptée, déplacement d'individus par un spécialiste habilité.
+    Si la destruction d'individus ou d'habitats ne peut pas être évitée : demande de dérogation « espèces protégées »
+    auprès de la préfecture (DREAL), avec avis du conseil scientifique. Comptez 4 à 12 mois d'instruction, à anticiper
+    avant le dépôt du permis.
+
+Combien prévoir ?
+Pré-diagnostic écologique                                800 à 2 000 € (une visite et une note de synthèse)
+
+Inventaire faune-flore                                   3 000 à 10 000 € selon la surface et le nombre de passages
+
+Mesures d'évitement et de réduction                      500 à 5 000 € (balisage, calendrier, suivi de chantier)
+
+Dossier de dérogation                                    8 000 à 25 000 €, hors mesures de compensation éventuelles
+
+Ordres de prix indicatifs, honoraires de bureaux d'études en environnement, si une étude est nécessaire. Pour une maison sur un
+terrain déjà entouré de constructions, aucune étude n'est le plus souvent requise.
+
+Sources : statuts de protection TAXREF et base de connaissance des statuts (INPN, Muséum national d'Histoire naturelle) ;
+observations naturalistes GBIF, qui rassemble notamment les données de l'INPN et du SINP.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        28 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+8.3 Prix de l'immobilier à Port-sur-Saône
+Prix au mètre carré des ventes enregistrées sur la commune au cours des cinq dernières années publiées.
+Seules les ventes portant sur un bien unique sont retenues.
+
+  TYPE DE BIEN                                       VENTES                       €/M² MÉDIAN                              €/M² MOYEN
+
+  Maisons                                            159                          1 349 €/m²                               1 335 €/m²
+
+  Appartements                                       18                           782 €/m²                                 932 €/m²
+
+  Locaux commerciaux                                 6                            665 €/m²                                 659 €/m²
+
+
+
+Source : statistiques des demandes de valeurs foncières (DGFiP, Etalab). Prix des actes, hors frais : un ordre de grandeur,
+pas une estimation du bien.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           29 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                                                09 · Historique du site
+
+
+
+
+   09              Historique du site
+     DANS CETTE SECTION
+
+     Le terrain vu du ciel au fil des décennies et les permis de construire accordés autour : l'évolution
+     du secteur en un coup d'œil.
+
+
+Photographies aériennes de l'IGN et permis de construire délivrés (Sitadel).
+
+
+
+9.1 Le terrain vu du ciel, d'hier à aujourd'hui
+
+    1950-1965                                             2000-2005                                              2006-2010
+
+
+
+
+    2011-2015                                             Aujourd'hui
+
+
+
+
+Ces vues montrent l'évolution du terrain et du quartier, des années 1950 à aujourd'hui (photographies aériennes de l'IGN).
+
+     Bon à savoir : l'existence ancienne d'une construction peut ouvrir, sous conditions, un droit à
+     reconstruire ou à restaurer un bâtiment dont il reste l'essentiel des murs porteurs (articles L. 111-15 et L.
+     111-23 du Code de l'urbanisme).
+
+
+
+
+9.2 Permis de construire délivrés autour du terrain
+Autorisations sur la commune (3 ans)                                    9 · dernière recensée le 29/07/2026
+
+Logements autorisés (3 ans)                                             38
+
+Dont maisons individuelles                                              8
+
+Autorisations dans la section BR                                        7 depuis 2013
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  11/08/2023            Permis de construire                   BR 319             1              146 m²                    RUE DU CORNOT
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            30 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                                                09 · Historique du site
+
+
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  08/10/2021            Permis de construire                   BR 269             1              162 m²                    LA CHEVRE
+
+  28/12/2020            Permis de construire                   BR 307             1              95 m²                     CAFONDRAS
+
+  27/09/2019            Permis de construire                   BR 276             1              148 m²                    RUE DU CORNOT
+
+  30/01/2018            Permis de construire                   BR 297             1              189 m²                    RUE DE LA CREUSE
+
+  22/07/2014            Permis de construire                   BR 314             1              146 m²                    RUE DE LA CHAPELLE
+
+  18/02/2013            Permis de construire                   BR 275             1              148 m²                    LA CORVEE
+
+
+
+Permis accordés à moins de 500 m du terrain
+  DATE                 AUTORISATION                       PARCELLE          DISTANCE         LOGTS        SURFACE             LIEU-DIT / VOIE
+
+  11/08/2023           Permis de construire               BR 319            160 m            1            146 m²              RUE DU CORNOT
+
+  22/12/2021           Permis de construire               BS 78             500 m            1            115 m²              LE LOTISSEMENT""LES
+                                                                                                                              BALCONS
+
+  08/10/2021           Permis de construire               BR 269            330 m            1            162 m²              LA CHEVRE
+
+  01/09/2020           Permis de construire               ZH 137            280 m            1            130 m²              RUE DE LA RIEPPE
+
+  27/09/2019           Permis de construire               BR 276            160 m            1            148 m²              RUE DU CORNOT
+
+  22/06/2018           Permis de construire               ZH 117            280 m            1            121 m²              LA RIEPPE
+
+  30/01/2018           Permis de construire               BR 297            390 m            1            189 m²              RUE DE LA CREUSE
+
+  28/11/2017           Permis de construire               ZH 119            300 m            1            145 m²              RUE DE LA RIEPPE
+
+  20/10/2017           Permis de construire               BS 91             440 m            1            112 m²              LOTISSEMENT ""LES
+                                                                                                                              BALCONS D
+
+  21/09/2017           Permis de construire               ZI 70             450 m            1            110 m²              DES EAUX CLAIRES
+
+  10/08/2017           Permis de construire               BP 207            210 m            1            147 m²              CHEMIN DES VERGERS
+                                                                                                                              CORNOT
+
+  25/10/2016           Permis de construire               BP 209            240 m            1            139 m²              CHEMIN DES VERGERS
+                                                                                                                              DU CORN
+
+  19/07/2016           Permis de construire               ZH 115            260 m            1            100 m²              RUE DE LA RIEPPE
+
+  21/08/2014           Permis de construire               ZH 116            280 m            1            73 m²               LOTISSEMENT AUX
+                                                                                                                              CORNOTS
+
+  22/07/2014           Permis de construire               BR 314            360 m            1            146 m²              RUE DE LA CHAPELLE
+
+
+
+15 autorisations créant des logements recensées dans un rayon de 500 m : la construction a été admise récemment
+dans le voisinage immédiat.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              31 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                                           09 · Historique du site
+
+
+
+
+Source : base Sitadel des autorisations d'urbanisme créant des logements (SDES). Un permis accordé à proximité montre
+que des constructions ont été admises dans le secteur, sans préjuger de la décision sur votre propre projet.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       32 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                              10 · Opportunités autour du terrain
+
+
+
+
+      10           Opportunités autour du terrain
+      DANS CETTE SECTION
+
+      Ce qui se passe autour de la parcelle : grands terrains peu bâtis, sociétés propriétaires en
+      difficulté, logements énergivores. Des pistes pour un investisseur, un voisin ou un professionnel.
+
+
+Bodacc (procédures collectives), ADEME (diagnostics énergétiques), cadastre, BD TOPO et Géoportail de l'Urbanisme.
+
+
+
+10.1 Grands terrains peu bâtis à proximité
+Parcelles de plus de 1 200 m², situées en zone urbaine ou à urbaniser du PLU, dans un rayon de 250 m, dont
+moins de 8 % de la surface est bâtie, hors terrains publics : un potentiel de construction ou de division à
+étudier.
+
+  PARCELLE           SURFACE                BÂTI               ZONE               DISTANCE           PROPRIÉTAIRE
+
+  BP 1               16 214 m²              non bâti           1AU                210 m              particulier (non publié)
+
+  ZI 136             10 589 m²              176 m²             UB                 510 m              particulier (non publié)
+
+  BP 166             4 488 m²               179 m²             UB                 200 m              particulier (non publié)
+
+  BP 192             3 416 m²               148 m²             UB                 280 m              particulier (non publié)
+
+  BP 199             3 367 m²               205 m²             UB                 180 m              particulier (non publié)
+
+  BP 86              3 013 m²               137 m²             UB                 300 m              particulier (non publié)
+
+  BR 164             2 744 m²               92 m²              UA                 320 m              particulier (non publié)
+
+  BP 167             2 681 m²               non bâti           UB                 260 m              particulier (non publié)
+
+
+
+
+10.2 Logements classés F ou G autour du terrain
+Logements diagnostiqués F ou G dans un rayon de 350 m. Leur location est déjà interdite (G) ou le sera en
+2028 (F) : leurs propriétaires sont souvent vendeurs, ou doivent engager des travaux de rénovation.
+
+  PARCELLE                   ADRESSE                                        CLASSE LOGEMENT                   SURFACE      DISTANCE DPE DU
+
+  Section BR n° 54           11 Rue du Magny 70170                          F            Maison               134 m²       200 m         23/05/2026
+                             Port-sur-Saône
+
+  –                          21 Rue de Saint Valere 70170                   F            Maison               59 m²        210 m         12/08/2022
+                             Port-sur-Saône
+
+  –                          32 Rue de Saint Valere 70170                   F            Maison               53 m²        220 m         07/12/2021
+                             Port-sur-Saône
+
+  Section BR n°              40 Rue de Saint Valere 70170                   G            Maison               75 m²        230 m         11/10/2026
+  126                        Port-sur-Saône
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            33 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                              10 · Opportunités autour du terrain
+
+
+
+
+  PARCELLE                   ADRESSE                                        CLASSE LOGEMENT                   SURFACE      DISTANCE DPE DU
+
+  –                          3 Rue de la Chapelle 70170                     F            Maison               98 m²        250 m         10/01/2024
+                             Port-sur-Saône
+
+  –                          81 Rue du Magny 70170                          F            Maison               80 m²        310 m         05/09/2023
+                             Port-sur-Saône
+
+  Section BR n°              8 Rue de Remaucourt 70170                      G            Maison               146 m²       350 m         27/11/2023
+  187                        Port-sur-Saône
+
+
+
+La parcelle est celle du point d'adresse du logement (cadastre). Pour connaître son propriétaire lorsqu'il s'agit d'un particulier,
+demandez un relevé de propriété au service de la publicité foncière ou à la mairie.
+
+Ces informations proviennent de bases publiques et ne préjugent ni de l'intention de vendre des propriétaires ni de la
+constructibilité des parcelles citées, qui relève d'une étude au cas par cas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            34 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Port-sur-Saône · BR 4
+           TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+      11           Votre projet, étape par étape
+De l'achat du terrain à la déclaration aux impôts : démarches, délais, coûts et contacts.
+
+
+
+11.1 Analyse
+Le terrain est soumis au plan local d'urbanisme (PLU) de Port-sur-Saône. Il est classé principalement en
+zone A. Zone agricole : secteur protégé en raison du potentiel agronomique, biologique ou économique
+des terres. Seules y sont admises les constructions et installations nécessaires à l'exploitation agricole
+et aux services publics, ainsi que l'extension limitée des habitations existantes.
+
+En l'état, une construction nouvelle n'est pas possible. Seules des évolutions limitées peuvent être
+envisagées selon le règlement de la zone (extension mesurée d'une habitation existante, annexes,
+équipements publics). Le classement ne peut évoluer qu'à l'occasion d'une modification ou d'une révision
+du document d'urbanisme, à l'initiative de la commune.
+
+
+11.2 Votre projet, étape par étape
+Les étapes ci-dessous suivent l'ordre réel d'un projet de construction, de l'achat du terrain à la déclaration aux
+impôts. Les montants sont indicatifs et à confirmer par devis.
+
+  1      Avant d'acheter le terrain
+         Vérifiez les règles de la zone (chapitres précédents), puis demandez un certificat d'urbanisme opérationnel
+         (Cerfa 13410, sans frais, réponse sous 2 mois) : il fige les règles pendant 18 mois. En zone d'argiles d'aléa
+         moyen ou fort, le vendeur doit fournir une étude de sol préalable.
+         Contact : Mairie de Port-sur-Saône · 03 84 78 18 00 · secretariat@port-sur-saone.fr · formulaire sur
+         service-public.fr (rechercher « Cerfa 13410 »)
+
+  2      Les études
+         Étude de sol géotechnique (G2) pour dimensionner les fondations : 1 500 à 3 000 €. Étude thermique RE2020,
+         obligatoire pour le permis : 500 à 1 500 €. Bornage par un géomètre si les limites sont incertaines. L'étude de
+         sol ne porte pas sur les espèces protégées : un écologue n'intervient qu'en cas d'enjeu (chapitre
+         Environnement).
+         Géomètres proches du terrain : liste à la fin de ce chapitre
+
+  3      Les plans
+         Architecte obligatoire si la surface de plancher totale dépasse 150 m². En dessous, vous pouvez dessiner les
+         plans vous-même ou faire appel à un dessinateur ou maître d'œuvre (environ 1 500 à 4 000 € le dossier de
+         permis). Architecte : 3 000 à 8 000 € pour la seule mission de permis, 8 à 12 % du coût des travaux pour une
+         mission complète avec suivi du chantier.
+         Trouver un architecte : annuaire de l'Ordre des architectes sur architectes.org
+
+  4      Déposer le permis
+         Formulaire Cerfa 13406 (maison individuelle) et pièces PCMI1 à PCMI8 : plan de situation, plan de masse,
+         coupe, notice, plans des façades et toitures, insertion dans le paysage, photos, attestation RE2020. Dépôt en
+         mairie ou en ligne sur le guichet numérique de la commune. La mairie a 1 mois pour réclamer une pièce
+         manquante ; l'instruction dure 2 mois à partir du dossier complet, plus en secteur protégé.
+         Dépôt : Mairie de Port-sur-Saône · 03 84 78 18 00 · secretariat@port-sur-saone.fr · formulaire sur service-public.fr
+         (rechercher « Cerfa 13406 »)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         35 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+  5      Affichage et recours
+         Dès l'accord, installez le panneau de permis sur le terrain, lisible depuis la voie, pendant toute la durée du
+         chantier. Les tiers ont 2 mois à compter du premier jour d'affichage pour contester ; la mairie peut retirer un
+         permis illégal pendant 3 mois. Faites constater l'affichage par un commissaire de justice (environ 300 à 600 €
+         pour les trois constats).
+         Commissaires de justice : annuaire sur commissaire-justice.fr
+
+  6      Avant les travaux
+         Souscrivez l'assurance dommages-ouvrage, obligatoire (souvent 2 à 4 % du coût de la construction). Signez
+         le contrat de construction de maison individuelle ou les marchés des artisans. Déposez la déclaration
+         d'ouverture de chantier (Cerfa 13407) le jour du démarrage. Le permis est valable 3 ans, prorogeable deux
+         fois d'un an.
+         Déclaration d'ouverture : Mairie de Port-sur-Saône · 03 84 78 18 00 · secretariat@port-sur-saone.fr
+
+  7      Le financement
+         La banque débloque le prêt au fur et à mesure du chantier, sur présentation des factures des entreprises ou
+         des appels de fonds du constructeur. Avec un contrat de construction de maison individuelle, l'échéancier
+         est encadré par la loi : 15 % à l'ouverture du chantier, 25 % aux fondations, 40 % aux murs, 60 % hors d'eau,
+         75 % hors d'air et cloisons, 95 % aux équipements, le solde à la réception. Des intérêts intercalaires peuvent
+         courir sur les sommes débloquées.
+         Votre banque ou votre courtier
+
+  8      La fin du chantier
+         Réception des travaux avec le constructeur ou les artisans, avec réserves si nécessaire. Déposez ensuite la
+         déclaration attestant l'achèvement et la conformité des travaux (DAACT, Cerfa 13408), avec l'attestation
+         RE2020 de fin de chantier. La mairie a 3 mois pour la contester (5 mois en secteur protégé).
+         Dépôt : Mairie de Port-sur-Saône · 03 84 78 18 00 · secretariat@port-sur-saone.fr
+
+  9      Les impôts
+         Dans les 90 jours suivant l'achèvement, déclarez la construction sur impots.gouv.fr, espace « Gérer mes
+         biens immobiliers ». Cette déclaration sert au calcul de la taxe d'aménagement (payée en une fois sous 1 500
+         €, sinon en deux fois, estimation plus bas dans ce chapitre) et de la taxe foncière, avec une exonération
+         possible les deux premières années selon la commune.
+         impots.gouv.fr › Espace particulier › Gérer mes biens immobiliers
+
+
+11.3 Les points à vérifier pour ce terrain
+  1      Certificat d'urbanisme opérationnel
+         Le demander en mairie (formulaire Cerfa 13410), en décrivant le projet. Délivré sans frais, il indique si le
+         terrain peut accueillir le projet et fige les règles d'urbanisme pendant 18 mois.
+
+  2      Règlement de la zone
+         Lire le règlement écrit de la zone A et, le cas échéant, les orientations d'aménagement, disponibles sur
+         le Géoportail de l'Urbanisme.
+
+  3      Réseaux et accès
+         Vérifier l'accès à une voie publique ou privée adaptée, la desserte en eau potable et en électricité, et le
+         mode d'assainissement. En l'absence de réseau collectif, une étude de sol et l'avis du service public
+         d'assainissement non collectif (SPANC) sont nécessaires.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         36 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+  4      Architecte des Bâtiments de France
+         Le projet sera soumis à l'architecte des Bâtiments de France : le rencontrer avant de dessiner le projet
+         (rendez-vous par la mairie ou l'unité départementale de l'architecture et du patrimoine), soigner
+         matériaux, teintes et toitures, et compter un mois de plus pour l'instruction.
+
+  5      Bornage
+         Faire réaliser un bornage par un géomètre-expert pour fixer les limites exactes et la surface réelle du
+         terrain.
+
+  6      Sécuriser un achat
+         Pour une acquisition, prévoir dans le compromis une condition suspensive d'obtention d'un permis de
+         construire purgé de tout recours.
+
+
+11.4 Délais indicatifs d'instruction
+  DEMANDE                                                                                 DÉLAI DE DROIT COMMUN
+
+  Certificat d'urbanisme d'information (CUa)                                              1 mois
+
+  Certificat d'urbanisme opérationnel (CUb)                                               2 mois
+
+  Déclaration préalable                                                                   1 mois
+
+  Permis de construire une maison individuelle                                            2 mois
+
+  Permis d'aménager, autres permis de construire                                          3 mois
+
+
+
+Ces délais peuvent être majorés, notamment en site classé ou inscrit, aux abords d'un monument historique ou lorsque la
+consultation d'un service extérieur est nécessaire.
+
+
+11.5 Taxe d'aménagement à prévoir
+      Exemple : une maison de 120 m² en résidence principale, avec une piscine de 3 × 6 m. Sur ce terrain, la
+      taxe d'aménagement à prévoir est d'environ 3 210 €.
+
+
+
+  PROJET                                                                                                       TAXE ESTIMÉE
+
+  Maison de 120 m², résidence principale                                                                       3 000 €
+
+  Piscine de 3 × 6 m (18 m²)                                                                                   220 €
+
+  Total à prévoir                                                                                              3 210 €
+
+
+
+Taux appliqués : 4 % pour la commune et 0,8 % pour le département, sur une valeur forfaitaire de 892 € par m² en 2026
+(251 € par m² de bassin pour une piscine). Une résidence principale bénéficie d'un abattement de 50 % sur ses 100 premiers
+m².
+
+La taxe est due une fois les travaux terminés : elle se déclare sur impots.gouv.fr dans les 90 jours suivant l'achèvement, et
+se paie en deux fois au-delà de 1 500 €. Pour calculer votre propre projet :
+terrenurbanisme.com/outils/taxe-amenagement.html
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         37 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+11.6 Implanter une entreprise : zone France Ruralités Revitalisation
+     La commune de Port-sur-Saône est classée en zone France Ruralités Revitalisation (FRR) depuis le 1er
+     juillet 2024. Une entreprise qui s'y crée ou y est reprise peut être exonérée d'impôt sur les bénéfices
+     pendant 5 ans, puis partiellement pendant 3 ans.
+
+
+
+Impôt sur les bénéfices (IS ou IR)                    Exonération totale pendant 5 ans, puis exonération de 75 %, 50 % et 25
+                                                      % des bénéfices les 3 années suivantes
+
+Création ou reprise                                   Entre le 1er juillet 2024 et le 31 décembre 2029
+
+Activités concernées                                  Industrielle, commerciale, artisanale ou libérale
+
+Taille de l'entreprise                                Moins de 11 salariés
+
+Régime d'imposition                                   Régime réel obligatoire (micro-entreprise exclue, sauf option pour le
+                                                      réel)
+
+Implantation                                          Siège et totalité de l'activité dans la zone (activité sédentaire : 25 % du
+                                                      chiffre d'affaires au plus réalisé hors zone)
+
+Plafond                                               Aides de minimis : 300 000 € sur trois exercices
+
+Taxe foncière et CFE                                  Exonération possible si la commune ou l'intercommunalité l'a votée : à
+                                                      vérifier en mairie
+
+
+Exclus : les activités agricoles, la gestion ou la location d'immeubles (une SCI de location nue n'est pas éligible) et la
+location meublée sans services de type hôtelier. Une location touristique ou des chambres d'hôtes peuvent être éligibles si
+le ménage quotidien et le linge sont fournis et inclus dans le prix.
+
+Ces avantages dépendent de la situation de l'entreprise (article 44 quindecies A du code général des impôts). Faites valider
+votre éligibilité par votre expert-comptable ou le service des impôts des entreprises avant de vous installer.
+
+Source : ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 (collectivites-locales.gouv.fr).
+
+
+11.7 Géomètres proches du terrain
+Le géomètre-expert est le seul professionnel habilité à fixer les limites de propriété (bornage) et à établir les
+documents d'arpentage déposés au cadastre. Il intervient aussi pour les relevés topographiques et les
+divisions de terrain.
+
+9,4 km            ANNIE MATHEY
+                                                                                                                           Coordonnées
+                  13 RUE DU CHAMP AU ROI 70000 VAIVRE-ET-MONTOILLE
+
+
+11,6 km           PIERRE BOFFY
+                                                                                                                           Coordonnées
+                  4 BIS 4 PLACE RENE HOLOGNE 70000 VESOUL
+
+
+29,1 km           EZY TOPO
+                                                                                                                           Coordonnées
+                  18 RUE DU TACOT 70190 RIOZ
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         38 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+29,3 km           CABINET ALEXIS MEUNIER
+                                                                                                                           Coordonnées
+                  1 PLACE DU 8 MAI 1945 70300 LUXEUIL-LES-BAINS
+
+
+30,1 km           CABINET JAMEY & ASSOCIES
+                                                                                                                           Coordonnées
+                  137 RUE CHARLES DE GAULLE 70190 RIOZ
+
+
+42,7 km           CABINET JAMEY & ASSOCIES
+                                                                                                                           Coordonnées
+                  9 RUE GAMBETTA 70100 GRAY
+
+
+Source : répertoire Sirene de l'INSEE (activité des géomètres), classé par distance au terrain. L'inscription d'un cabinet à l'Ordre
+des géomètres-experts se vérifie sur geometre-expert.fr. Le bouton « Coordonnées » ouvre la fiche du cabinet (téléphone,
+horaires, itinéraire). Cette liste est fournie à titre indicatif, sans partenariat ni recommandation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         39 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                           12 · État des risques (ERP) pré-rempli
+
+
+
+
+    12             État des risques (ERP) pré-rempli
+     DANS CETTE SECTION
+
+     Le formulaire réglementaire à remettre à l'acquéreur ou au locataire, pré-rempli à partir des
+     bases officielles : plans de prévention, sismicité, radon, sols pollués, trait de côte, bruit des
+     aérodromes.
+
+
+Articles L. 125-5 à L. 125-7 et R. 125-23 à R. 125-27 du Code de l'environnement · modèle fixé par l'arrêté du 27 septembre
+2022.
+
+
+     Formulaire pré-rempli à partir de Géorisques et du Géoportail de l'Urbanisme à la date du rapport.
+     Avant de le remettre à l'acquéreur ou au locataire, le vendeur ou le bailleur le vérifie, le complète
+     (sinistres indemnisés) et le signe ; il doit dater de moins de six mois à la signature de la promesse, du
+     bail ou de l'acte.
+
+
+
+
+12.1 Situation du bien
+Commune                                                  Port-sur-Saône (70421)
+
+Département                                              Haute-Saône (70)
+
+Références cadastrales                                   Section BR, parcelle n° 4 · 70421000BR0004
+
+Surface cadastrale                                       13 589 m²
+
+
+
+12.2 Plans de prévention des risques
+  L'IMMEUBLE EST SITUÉ DANS LE PÉRIMÈTRE…                                         RÉPONSE                DÉTAIL
+
+  d'un plan de prévention des risques naturels (PPRN)                             Non                    Aucun plan recensé sur la parcelle
+  prescrit, appliqué par anticipation ou approuvé
+
+  d'un plan de prévention des risques miniers (PPRM)                              Non                    Non recensé
+
+  d'un plan de prévention des risques technologiques                              Non                    Risques technologiques sur la commune
+  (PPRT)                                                                                                 : installations industrielles (icpe),
+                                                                                                         canalisations de matières dangereuses,
+                                                                                                         pollution des sols
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         40 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                           12 · État des risques (ERP) pré-rempli
+
+
+
+
+12.3 Autres zonages réglementaires
+  L'IMMEUBLE EST SITUÉ…                                                           RÉPONSE                DÉTAIL
+
+  dans une commune de sismicité (zones 2 à 5 : règles de                          Oui                    Zone 3 – moderee
+  construction parasismique)
+
+  dans une commune à potentiel radon de niveau 3                                  Non                    Catégorie 1 (potentiel faible)
+
+  dans un secteur d'information sur les sols (SIS)                                Non                    Aucun SIS recensé à proximité
+
+  dans une zone exposée au recul du trait de côte                                 Non                    Non concerné selon Géorisques
+
+  dans une zone de bruit d'un plan d'exposition au bruit                          À vérifier             Aucun PEB annexé au document
+  d'aérodrome (PEB)                                                                                      d'urbanisme ; vérifier auprès de la mairie
+
+  dans une zone de retrait-gonflement des argiles                                 Oui                    Existant – modéré
+  (information)
+
+
+
+
+12.4 Sinistres indemnisés et déclarations
+Arrêtés de catastrophe naturelle sur la commune : 13 (liste en section Risques). Le vendeur ou le bailleur
+déclare ci-dessous les sinistres ayant donné lieu à une indemnisation au titre des catastrophes naturelles ou
+technologiques pendant la période où il a été propriétaire.
+
+Sinistres indemnisés                                     [ ] Oui [ ] Non
+
+Vendeur ou bailleur                                      Nom : ____________________ Date : ___/___/______ Signature :
+
+Acquéreur ou locataire                                   Nom : ____________________ Date : ___/___/______ Signature :
+
+
+L'état des risques officiel peut aussi être édité sans frais sur Géorisques (errial.georisques.gouv.fr). Les informations
+ci-dessus sont établies à partir des bases nationales ; en cas de divergence, l'arrêté préfectoral relatif à l'information des
+acquéreurs et des locataires fait foi.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          41 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                                      13 · Avertissement et sources
+
+
+
+
+    13             Avertissement et sources
+     DANS CETTE SECTION
+
+     La portée de ce rapport et la liste des sources publiques consultées.
+
+
+
+13.1 Nature du document
+Ce rapport est un document d'information établi automatiquement, à la date indiquée en page de garde, à
+partir des données publiques officielles alors disponibles. Il n'a aucune valeur contractuelle, réglementaire ou
+juridique.
+
+
+13.2 Ce que ce rapport n'est pas
+Il ne constitue ni un certificat d'urbanisme au sens de l'article L. 410-1 du Code de l'urbanisme, ni une
+autorisation d'urbanisme (permis de construire, permis d'aménager, déclaration préalable), ni un état des
+risques au sens de l'article L. 125-5 du Code de l'environnement, ni un bornage, ni une expertise, ni une
+évaluation immobilière, ni une consultation juridique. Il n'engage en rien l'administration.
+
+
+13.3 Permis de construire
+Ce rapport ne peut en aucun cas être joint, produit ou invoqué à l'appui d'une demande de permis de
+construire, de permis d'aménager ou de déclaration préalable, ni opposé à la mairie ou à un service de l'État. Il
+ne garantit pas l'obtention d'une autorisation : seule l'autorité compétente se prononce, au vu d'un projet
+précis et de l'ensemble des règles applicables à la date de sa décision.
+
+
+13.4 Limites des données
+Les données sont produites par des organismes publics dont l'éditeur n'est ni l'auteur ni le garant. Elles
+peuvent être incomplètes, imprécises ou ne pas refléter une modification, une révision, une mise en
+compatibilité, une annulation contentieuse, un sursis à statuer ou une procédure en cours. Le plan cadastral,
+document fiscal, ne fait pas foi des limites de propriété. Surfaces, distances, altitudes et pentes sont
+approchées. Les extraits et analyses du règlement sont une aide à la lecture : seul le texte intégral du
+document d'urbanisme approuvé, consultable en mairie, fait foi.
+
+
+13.5 Avant toute décision
+Avant toute acquisition, cession, financement, promesse de vente ou dépôt d'une demande, le lecteur doit
+obtenir un certificat d'urbanisme opérationnel auprès de la mairie, consulter le document d'urbanisme en
+vigueur et recueillir l'avis d'un professionnel habilité (notaire, architecte, géomètre-expert, avocat). Pour un
+achat, il est recommandé de stipuler une condition suspensive d'obtention d'un permis de construire purgé de
+tout recours.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         42 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                                      13 · Avertissement et sources
+
+
+
+
+13.6 Responsabilité
+L'éditeur ne saurait être tenu responsable d'une décision prise sur le seul fondement de ce rapport, ni d'un
+refus d'autorisation, d'une erreur ou d'une omission des sources publiques, dans les limites prévues par les
+conditions générales de vente acceptées lors de la commande.
+
+
+13.7 Sources consultées
+  DONNÉE                                                    SOURCE
+
+  Cadastre                                                  DGFiP, plan cadastral informatisé, via API Carto (IGN)
+
+  Photographies et plans                                    IGN, Géoplateforme : orthophotographies, Plan IGN, parcellaire express
+
+  Urbanisme                                                 Géoportail de l'Urbanisme : zonage, prescriptions, informations, servitudes
+                                                            d'utilité publique
+
+  Littoral                                                  IGN, BD TOPO (limite terre-mer) ; communes littorales (Géoportail de
+                                                            l'Urbanisme)
+
+  Montagne                                                  Ministère de la Cohésion des territoires, communes de la loi Montagne
+
+  Risques                                                   Géorisques (ministère de la Transition écologique) : rapport de risques,
+                                                            arrêtés CatNat, sismicité, radon, ICPE, sites pollués
+
+  Environnement                                             Inventaire national du patrimoine naturel (PatriNat), via API Carto
+
+  Altitude, pente et exposition                             IGN, RGE ALTI
+
+  Ensoleillement                                            Calcul astronomique de la course du soleil ; masque du relief (IGN, RGE
+                                                            ALTI) et des bâtiments (IGN, BD TOPO)
+
+  Voirie et accès                                           IGN, BD TOPO (tronçons de route)
+
+  Permis de construire                                      Sitadel, service des données et études statistiques (SDES) du ministère
+                                                            chargé du logement
+
+  Photographies anciennes                                   IGN, BD ORTHO historique
+
+  Fibre et internet                                         Arcep, Ma connexion internet (éligibilité par adresse)
+
+  Géomètres                                                 Répertoire Sirene (INSEE), activité des géomètres
+
+  Propriétaires personnes morales                           DGFiP, fichiers des parcelles des personnes morales (diffusion Koumoul)
+
+  Diagnostics énergétiques                                  ADEME, base des DPE des logements existants
+
+  Procédures collectives                                    Bodacc, annonces commerciales (DILA)
+
+  Bâtiments                                                 IGN, BD TOPO
+
+  Réseau électrique                                         Agence ORE (gestionnaires de réseaux de distribution : Enedis, EDF Corse
+                                                            et entreprises locales) : réseau basse tension et postes de distribution
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         43 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                                      13 · Avertissement et sources
+
+
+
+
+  DONNÉE                                                    SOURCE
+
+  Taxe d'aménagement                                        DGFiP, éléments de taxation votés par les collectivités ; valeurs forfaitaires
+                                                            fixées par arrêté
+
+  Rapport officiel de risques                               Géorisques, ministère chargé de l'environnement
+
+  Zone France Ruralités Revitalisation                      ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 ; article
+                                                            44 quindecies A du code général des impôts
+
+  Marché immobilier                                         Statistiques des demandes de valeurs foncières (DVF) par commune, DGFiP
+                                                            et Etalab
+
+  Date d'extraction                                         20/11/2026
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         44 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Port-sur-Saône · BR 4
+         TerrenUrbanisme
+                                                                                                                     Annexe · règlement de la zone
+
+
+
+
+ANNEXE
+
+
+Règlement écrit · zone A
+Les pages suivantes reproduisent le chapitre du règlement officiel applicable à la zone de la parcelle
+(pages 82 à 89 du document approuvé), tel que publié sur le Géoportail de l'Urbanisme. Il s'agit d'une
+reproduction à titre d'information : seule la version approuvée tenue à disposition en mairie fait foi, avec
+ses annexes, plans et éventuelles modifications ultérieures.
+Règlement complet :
+https://data.geopf.fr/annexes/gpu/documents/DU_70421/4a8957f672fe38eaf44d1a074ab1dc19/70421_reglement_20221202.pdf
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        45 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+PLU de la commune de Port-sur-Saône / Règlement écrit                                               Zone A
+
+
+                DISPOSITIONS APPLICABLES A LA ZONE A et au sous-secteur Ala
+
+
+                      CARACTÈRE DE LA ZONE A et de son sous-secteur Ala
+
+
+
+La zone A est une zone réservée à l’activité agricole, qu'il convient de protéger en raison du
+potentiel agronomique, biologique ou économique des terres agricoles.
+La zone A comprend également des hameaux ou constructions isolées à vocation d’habitat
+pour lesquels des évolutions et adaptations du bâti sont autorisées sous certaines conditions.
+La zone A comprend un STECAL (secteur de taille et de capacité d’accueil limité) Ala destiné
+à permettre l’accueil de logements étudiants en lien avec le lycée agricole présent sur le
+territoire communal.
+
+
+La zone A est en partie concernée par un risque inondation : se reporter au Plan de Prévention
+des Risques naturels inondation (PPRi) de la Saône, annexé au PLU.
+
+               SECTION I - NATURE DE L'OCCUPATION ET DE L'UTILISATION DU SOL
+
+
+ARTICLE A1 : TYPES D’OCCUPATIONS ET D’UTILISATIONS DU SOL INTERDITS
+
+
+Concernant la zone A :
+
+Les usages et affectations des sols suivants sont interdits, dès lors qu’ils ne sont pas liés aux
+travaux de construction ou d’aménagement admis dans la zone :
+- affouillement ou exhaussement des sols ;
+- dépôt de matériaux ;
+- carrières.
+
+A l’exception de celles autorisées sous conditions à l’article A2, les destinations ou sous-
+destinations de constructions suivantes sont interdites:
+- les habitations ;
+- les commerces et activités de services ;
+- les équipements d’intérêt collectif et services publics ;
+- les autres activités des secteurs secondaire ou tertiaire.
+Concernant le sous-secteur Ala : toutes les destinations et sous-destinations sont interdites à
+l’exception de celles autorisées à l’article A2.
+
+
+ARTICLE A2 : TYPES D’OCCUPATION OU D’UTILISATION DU SOL AUTORISES SOUS CONDITIONS
+
+
+Concernant la zone A : sous réserve de ne pas compromettre l’activité agricole ou la qualité
+paysagère du site, sont autorisés :
+   - Les constructions agricoles à usage de logement de fonction liées à l’exploitation
+      agricole en activité et nécessitant une présence permanente sur le lieu de travail (type
+      « logement de fonction »), limitée à une seule construction par exploitation. La surface
+      de plancher est limitée à 200 m².
+
+
+Dossier d’approbation du PLU
+                                                                                                             -81-
+PLU de la commune de Port-sur-Saône / Règlement écrit                                            Zone A
+
+
+   -   Les installations classées ou non, nécessaires à l’agriculture ou à l’élevage sous réserve
+       du respect des dispositions relatives aux installations classées ou au Règlement Sanitaire
+       Départemental ;
+   -   Les constructions et installations nécessaires à la transformation, au conditionnement
+       et à la commercialisation des produits agricoles, lorsque ces activités constituent le
+       prolongement de l’acte de production, dès lors qu’elles ne sont pas incompatibles
+       avec l’exercice d’une activité agricole, pastorale ou forestière sur le terrain sur lequel
+       elles sont implantées et qu’elles ne portent pas atteinte à la sauvegarde des espaces
+       naturels et des paysages
+   -   Les extensions des constructions à vocation d’habitation existantes sous réserves
+       qu’elles n’excèdent pas 30% de la surface de plancher de la construction existante à
+       la date d’approbation du PLU ; dans la limite de 200 m² de surface de plancher total
+       (existant + extension)
+   -   Les piscines et bassins à condition d’être sur le tènement de l’habitation
+   -   Les annexes des habitations existantes non-liées à l’activité agricole sous réserves :
+           o Qu’elles soient directement liées à la destination de la ou des construction(s)
+               principale(s) implantée(s) sur le même terrain,
+           o Que l’emprise au sol de chacune des constructions n’excède pas 40 m²
+           o Que la superficie totale et cumulée des annexes n’excède pas 60 m² d’emprise
+               au sol
+           o Qu’elles soient implantées à moins de 15 mètres du bâti d’habitation existant
+   -   Les constructions et installations réputées agricoles par l’article L.311-1 du code rural ;
+   -   Les ouvrages et les installations nécessaires aux services publics ou d’intérêt collectif (et
+       notamment les locaux techniques et industriels des administrations publiques ou et
+       assimilées), sous réserve de ne pas porter atteinte à l’activité agricole, de prendre
+       toutes les dispositions pour limiter au strict minimum la gêne qui pourrait en découler et
+       assurer une bonne intégration dans le site par un traitement approprié (études
+       architecturales, rideaux de verdure, mouvement de terre, etc.) ;
+   -   Les affouillements et les exhaussements de sols à condition qu’ils soient strictement
+       nécessaires aux occupations et utilisations autorisées (une autorisation d’urbanisme
+       peut être nécessaire suivant l’importance des aménagements ou des travaux prévus).
+
+Dans tous les cas, les constructions ne devront pas avoir de conséquences dommageables
+pour l’environnement, la destruction d’espaces boisés et/ou agricoles de valeur économique
+et écologique.
+Concernant la zone Ala : sont autorisées les constructions à vocation d’hébergement
+permettant l’accueil des étudiants du lycée agricole.
+
+
+ARTICLE A3 : MIXITÉ SOCIALE ET FONCTIONNELLE
+
+
+Non réglementé.
+
+
+
+
+Dossier d’approbation du PLU
+                                                                                                          -82-
+PLU de la commune de Port-sur-Saône / Règlement écrit                                                       Zone A
+
+
+
+    SECTION II – CARACTERISTIQUES URBAINES, ARCHITECTURALES, ENVIRONNEMENTALES ET
+                                      PAYSAGERES
+
+
+ARTICLE A4 : VOLUMETRIE ET IMPLANTATION DES CONSTRUCTIONS
+
+
+4.1 IMPLANTATION DES CONSTRUCTIONS PAR RAPPORT AUX VOIES (PUBLIQUES ET PRIVEES) ET
+EMPRISES PUBLIQUES
+
+Définition : par « voie », il est visé ici les voies publiques et privées ouvertes à la circulation générale.
+
+Les limites avec les voies publiques ou privées ouvertes uniquement aux circulations douces – chemins
+piétons, cyclistes seront considérées comme des limites séparatives, sauf indication contraire.
+
+Règle générale
+
+Les constructions doivent être implantées en respectant un retrait de :
+- 100 mètres par rapport à l’axe de la déviation de la RN19 ;
+- 35 mètres par rapport à l’axe de la RN19
+- 20 mètres par rapport à l’axe des RD6, RD56, RD100, RD100p , RD155 et RD20
+- 10 mètres par rapport à l’alignement des autres voies.
+
+Sur les terrains riverains de la Saône, les constructions doivent être implantées en respectant un
+recul minimum de 10 mètres par rapport à la rive
+
+
+Exceptions
+
+Des implantations autres peuvent être autorisées pour les locaux techniques à caractère
+d’intérêt général.
+
+
+4.2 IMPLANTATION DES CONSTRUCTIONS PAR RAPPORT AUX LIMITES SEPARATIVES
+
+La distance comptée horizontalement de tout point du bâtiment à construire au point de la
+limite parcellaire qui en est le plus rapproché doit être au moins égale à la hauteur de la
+construction et jamais inférieure à 5 mètres.
+
+Les extensions et annexes des habitations existantes non liées à l’activité agricole devront
+respecter un recul de 1 mètre minimum de la limite séparative.
+
+
+4.3 - IMPLANTATION DES CONSTRUCTIONS LES UNES PAR RAPPORT AUX AUTRES SUR UNE
+MEME PROPRIETE
+
+Une distance d’au moins 4 mètres peut être imposée entre deux bâtiments non contigus
+
+Concernant les habitations existantes non liées à l’activité agricole :
+
+Les annexes autorisées à l’article A2 s’implanteront à une distance de 15 mètres maximum du
+point du bâtiment le plus proche.
+
+
+
+
+Dossier d’approbation du PLU
+                                                                                                                     -83-
+PLU de la commune de Port-sur-Saône / Règlement écrit                                                  Zone A
+
+
+4.4-EMPRISE AU SOL DES CONSTRUCTIONS
+
+Concernant les extensions des habitations existantes non liées à l’activité agricole :
+
+Les extensions autorisées à l’article A2 ne doivent pas excéder 30% de la surface de plancher
+de la construction existante à la date d’approbation du PLU ; dans la limite de 200 m² de
+surface de plancher total (existant + extension).
+
+Elles peuvent être réalisées en une ou plusieurs fois.
+
+Concernant les annexes des habitations existantes non liées à l’activité agricole :
+
+Les annexes des habitations existantes non-liées à l’activité agricole autorisées à l’article A2 ne
+doivent pas excéder une emprise au sol de 40 m² par annexe.
+
+Par ailleurs, la superficie totale et cumulée des annexes ne doit pas excéder 60 m² d’emprise
+au sol.
+
+Concernant le STECAL Ala :
+
+
+L’emprise au sol totale des constructions autorisées à l’article A2 ne devra pas excéder 700 m²
+et chaque bâtiment ne devra pas excéder 350 m² d’emprise au sol.
+
+
+4.5- HAUTEUR MAXIMALE DES CONSTRUCTIONS
+
+La hauteur est mesurée à l'aplomb du bâtiment entre le sol naturel avant travaux et le point le plus haut
+de la construction, ouvrages techniques, cheminées et autres superstructures exclus.
+
+
+Pour les constructions à usage d’habitation admises à l’article A2,
+   - La hauteur ne doit pas excéder 7,50 mètres au faîtage ou 6 mètres à l’acrotère.
+   - La hauteur des extensions ne doit pas dépasser celle de la construction existante.
+   - La hauteur des annexes est limitée à 3,50 mètres au faîtage ou 3 mètres à l’acrotère.
+
+Concernant le STECAL Ala :
+   - La hauteur des constructions ne doit pas excéder 10 mètres au faîtage ou 9 mètres à
+      l’acrotère (R+2 maximum).
+
+- Pour les bâtiments agricoles,
+        - La hauteur maximale est fixée à 11 mètres au faîtage.
+
+Les autres constructions (réservoirs, silos…) ne sont pas soumises à cette disposition.
+
+Concernant les habitations existantes non liées à l’activité agricole :
+   - La hauteur des extensions ne doit pas dépasser celle de la construction existante.
+   - La hauteur des annexes est limitée à 3,50 mètres au faîtage ou 3 mètres à l’acrotère.
+
+
+
+ARTICLE A5 : QUALITE URBAINE, ARCHITECTURALE, ENVIRONNEMENTALE ET PAYSAGERE
+
+
+Rappel : Le projet peut être refusé ou n’être accepté que sous réserve de l’observation de prescriptions
+spéciales si les constructions, par leur situation, leur architecture, leurs dimensions ou l’aspect extérieur
+des bâtiments ou ouvrages à édifier ou à modifier, sont de nature à porter atteinte au caractère ou à
+
+Dossier d’approbation du PLU
+                                                                                                                -84-
+                                                                                                        Zone A
+PLU de la commune de Port-sur-Saône / Règlement écrit
+
+
+l’intérêt des lieux avoisinants, aux sites, aux paysages naturels ou urbains ainsi qu’à la conservation des
+perspectives monumentales (article R 111-27 du Code de l’urbanisme).
+
+Volume
+
+Les volumes et implantations des constructions doivent s’adapter à la morphologie et à la
+topographie du terrain.
+
+Les matériaux, la conception ainsi que les techniques de construction innovantes, liés, par
+exemple au choix d’une qualité environnementale des constructions ou de l’utilisation des
+énergies renouvelables, sont privilégiés.
+Teinte et aspect
+
+L'emploi à nu, en parement extérieur, de matériaux destinés à être revêtus est interdit.
+
+Pour les constructions à usage agricole uniquement :
+
+Présentant un impact important dans le paysage de par leurs volumes, la sobriété et la qualité
+de la finition des bâtiments agricoles doivent être recherchées.
+
+Les matériaux mats sont à privilégier afin d’absorber les rayons du soleil.
+
+Les couleurs neutres et sombres, proches de celles existantes dans le paysage, sont à privilégier
+en façade, en évitant les contrastes entre elles.
+
+Les teintes foncées sont fortement préconisées pour les bâtiments agricoles, excepté lors de
+l’extension ou le prolongement d’un bâtiment existant. Dans ce cas, la couleur devra être en
+harmonie avec celle du bâti existant.
+
+Toiture
+
+Non réglementé.
+
+Clôture
+Les clôtures et haies devront être implantées de telle manière à ne pas créer ou aggraver une
+gêne pour la visibilité aux carrefours.
+Ces dispositions ne s’appliquent pas aux constructions et installations nécessaires aux services
+publics ou d’intérêt collectif.
+Concernant les clôtures agricoles uniquement : Elles ne doivent pas faire obstacle au passage
+de la petite faune.
+
+Pour renforcer leur intérêt pour la biodiversité, sont conseillées les clôtures naturelles: haies
+champêtres composées d’essences locales. Sont également autorisées les clôtures
+herbagères à 3 à 5 rangées de fils, à condition de:
+    -     Prévoir des ouvertures de diamètre suffisant au pied de la clôture pour permettre à la
+          petite faune de circuler,
+    -     De ne pas construire de soubassement en béton.
+
+
+ARTICLE A6 : TRAITEMENT ENVIRONNEMENTAL ET PAYSAGER DES ESPACES NON BÀTIS ET ABORDS
+DES CONSTRUCTIONS
+
+
+Tout espace non affecté à la construction et au stationnement doit être traité en
+Dossier d’approbation du PLU
+                                                                                                                 -85-
+PLU de la commune de Port-sur-Saône / Règlement écrit                                       Zone A
+
+
+aménagement paysager, minéral ou végétal. La remise en état du terrain devra être
+effectuée dans les lignes naturelles du paysage environnant.
+Les constructions nouvelles seront accompagnées d’un aménagement paysager à
+déterminer en fonction de la configuration des lieux.
+
+
+
+Concernant les éléments de paysage protégés au titre de l’article L151-23 du Code de
+l’Urbanisme :
+
+La suppression ou l’abattage d’un élément identifié au titre de l’article L151-du Code de
+l’urbanisme :
+- est soumis à déclaration préalable ;
+- peut être refusé pour des motifs d’ordre historique, paysager ou écologique.
+
+
+Dans le cas où des contraintes techniques nécessiteraient la destruction d’une partie de ce
+patrimoine végétal, celui-ci devra être remplacé par la plantation, à proximité, de végétaux
+au moins équivalente en qualité et en quantité.
+
+
+Aspect quantitatif des espaces verts : non réglementé
+
+
+ARTICLE A6 : STATIONNEMENT
+
+
+Le stationnement des véhicules correspondant aux besoins des constructions et installations
+autorisées dans la zone doit être assuré en dehors des voies publiques.
+Par leurs dispositions techniques, les aménagements devront limiter l’imperméabilisation des
+sols.
+
+
+
+                               SECTION III – EQUIPEMENTS ET RESEAUX
+
+
+ARTICLE A8 : DESSERTE DES TERRAINS PAR LES VOIES PUBLIQUES OU PRIVÉES
+
+
+Accès
+
+Toute opération doit prendre le minimum d’accès sur les voies publiques. Lorsque le terrain est
+riverain de deux ou plusieurs voies publiques, l’accès à une de ces voies qui présenterait une
+gêne ou un risque pour la circulation peut être interdit.
+Les caractéristiques des accès doivent permettre de satisfaire aux règles minimales de sécurité
+telles que défense contre l’incendie, protection civile et brancardage.
+Les accès doivent être adaptés à l’opération et aménagés de façon à éviter la moindre gêne
+à la circulation publique.
+L’implantation des portails pourra faire l’objet de prescriptions spécifiques au regard des
+conditions de sécurité publique. Les portails électriques sont notamment recommandés.
+
+
+Dossier d’approbation du PLU
+                                                                                                  -86-
+PLU de la commune de Port-sur-Saône / Règlement écrit                                           Zone A
+
+
+Concernant le STECAL Ala : l’accès aux futures constructions autorisées à l’article A2 devra
+être privilégié depuis la RD100p (entrée notamment).
+
+
+Voiries
+
+Les dimensions, formes et caractéristiques techniques de voies privées et publiques doivent
+être adaptées aux usages qu’elles supportent ou aux opérations qu’elles doivent desservir.
+En cas de création d’une voirie, celle-ci devra avoir une largeur minimale de 5 mètres.
+Les voies privées et publiques doivent avoir des caractéristiques adaptées à l’approche du
+matériel de lutte contre l’incendie.
+
+Leur création peut être soumise à des conditions particulières de tracé de largeur et
+d’exécution, dans l’intérêt de la circulation et de l’utilisation des terrains riverains ou
+avoisinants, ou en vue de leur intégration dans la voirie publique communale.
+
+Les voies se terminant en impasse doivent être évitées. A défaut, elles seront aménagées de
+telle sorte que les véhicules puissent faire demi-tour, une plateforme de retournement doit être
+réalisée.
+Sous réserve d’un intérêt et d’une possibilité technique, un prolongement par un cheminement
+piétonnier devra être proposé dans le cas d’une voirie en impasse.
+
+
+ARTICLE A9 : DESSERTE DES TERRAINS PAR LES RÉSEAUX
+
+
+Eau
+
+Toute construction ou installation nouvelle, qui, par sa destination implique une utilisation d’eau
+potable, doit être alimentée par branchement à un réseau collectif de distribution sous
+pression présentant des caractéristiques suffisantes.
+
+Lorsqu’elle ne peut s’effectuer par branchement sur une conduite de distribution d’eau
+potable, l’alimentation en eau de ces constructions, établissements, installations, peut être
+réalisée par des captages, forages ou puits particuliers à condition que le pétitionnaire
+fournisse les preuves que l’eau est potable, conformément à la législation en vigueur.
+
+
+Assainissement
+
+Eaux usées domestiques
+Le branchement sur le réseau public d'assainissement est obligatoire pour toute construction
+ou installation conformément à l'article L. 1331-1 du Code de la Santé publique. Ce
+branchement respectera le règlement d'assainissement applicable sur le territoire de la
+commune.
+Le système de collecte est de type séparatif, seules les eaux usées seront rejetées dans le
+réseau d'eaux usées. Les eaux pluviales, les eaux de pompes à chaleur, les eaux de vidange
+de piscine seront rejetées en puit perdu sauf impossibilité technique dûment justifiée. Dans ce
+dernier cas, le rejet pourra se faire dans le réseau d'eaux pluviales.
+
+Conformément au zonage d’assainissement en vigueur annexé au PLU, en l'absence de
+réseau d'assainissement collectif, l'assainissement autonome est obligatoire conformément à
+Dossier d’approbation du PLU
+                                                                                                         -87-
+PLU de la commune de Port-sur-Saône / Règlement écrit                                           Zone A
+
+
+la législation en vigueur. Tout permis de construire doit être accompagné d'un descriptif précis
+du dispositif d'assainissement autonome prévu et de sa compatibilité avec les caractéristiques
+du sol et du sous-sol.
+Si la construction ou l'installation se trouve dans une zone où à terme l'assainissement collectif
+est prévu, zonage en assainissement collectif futur, en l'absence provisoire de réseau
+d'assainissement les dispositifs d'assainissement autonome devront pouvoir se court-circuiter
+pour permettre le branchement direct des eaux usées sur le futur réseau.
+
+Eaux usées non domestiques
+Les installations, ouvrages, travaux et activités réalisés à des fins non domestiques émettant des
+déversements, écoulements, rejets, même non polluants, sont soumis à autorisation ou à
+déclaration (article 10, Loi sur l'eau du 3 janvier 1992 - décret 93.743).
+
+Le système de collecte est de type séparatif, seules les eaux usées seront rejetées dans le
+réseau d'eaux usées. Les eaux non polluées (eau de refroidissement de climatisation…) seront
+rejetées dans le réseau d'eaux pluviales.
+Pour mémoire, les eaux usées non domestiques ne peuvent être introduites dans le réseau
+public d'assainissement qu'avec l'autorisation expresse de la (ou des) collectivité(s) à laquelle
+appartiennent les ouvrages qui seront empruntés par les eaux usées avant de rejoindre le
+milieu naturel (réseaux, station d'épuration), Code Santé publique, article L 1331-10. Leur
+déversement dans le réseau et en station doit donner lieu à une étude d'acceptabilité et le
+cas échéant à une convention bi ou tripartite : commune (et son gestionnaire), organisme
+intercommunal (et son gestionnaire) et l'intéressé (industriel ou autre).
+
+
+Eaux pluviales
+
+Sauf interdiction liée à la prise en compte des risques ou impossibilité technique démontrée,
+les eaux pluviales devront être prioritairement gérées sur chaque parcelle bâtie par la
+réalisation d'un dispositif de stockage, complété par un dispositif d'infiltration dans le sol si les
+conditions pédologiques et la configuration des lieux le permettent. Le dimensionnement de
+l’ouvrage de stockage sera proportionnel aux surfaces imperméabilisées.
+Les eaux pluviales excédentaires, après stockage et le cas échéant infiltration, peuvent être
+rejetées dans le réseau collecteur lorsqu’il existe, après accord du gestionnaire de réseaux et
+des éventuels débits de fuite prévus à cet effet.
+En aucun cas, les eaux pluviales, même en surverse partielle, ne doivent être déversées dans
+le réseau d'eaux usées.
+
+
+Autres réseaux
+
+Dans un intérêt esthétique les réseaux d’électricité et de téléphonie (extensions ou
+raccordements) seront enterrés, sauf impossibilité technique.
+Il est recommandé de prévoir, pour toute nouvelle construction, la mise en place des fourreaux
+nécessaires au passage de la fibre optique.
+
+
+
+
+Dossier d’approbation du PLU
+                                                                                                         -88-
+                    TerrenUrbanisme
+
+    Merci de votre confiance
+Ce rapport a été établi à partir des sources publiques officielles pour vous
+  aider à décider en connaissance de cause. Pour toute question, nous
+                        restons à votre disposition.
+
+
+
+
+   Vous êtes professionnel ? Travaillons ensemble
+      Agents immobiliers, notaires, architectes, géomètres, diagnostiqueurs,
+promoteurs, mairies : faisons équipe. Crédits professionnels sans abonnement, 5
+€ le rapport dès 50 crédits, votre logo sur les rapports, offre communale pour les
+                       mairies et partenariats sur mesure.
+
+               Écrivez-nous : contact@terrenurbanisme.com
+
+
+
+
+                        terrenurbanisme.com
+                         contact@terrenurbanisme.com
+

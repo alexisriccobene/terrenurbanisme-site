@@ -1,0 +1,2888 @@
+                  TerrenUrbanisme
+                  Le terrain constructible, partout en France
+
+
+
+
+RAPPORT D'URBANISME
+
+
+
+Saint-Dizier
+Section CR · Parcelle n° 388
+      Non constructible
+
+
+
+
+Référence cadastrale                                                        Surface cadastrale
+52448000CR0388                                                              1 218 m²
+
+Rapport établi le                                                           Référence du rapport
+20/11/2026                                                                  APERCU
+
+
+
+
+terrenurbanisme.com                                                                      contact@terrenurbanisme.com
+
+Document d'information sans valeur contractuelle ni réglementaire. Il ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme
+et ne peut en aucun cas être joint à une demande de permis de construire ou de déclaration préalable. Seuls les actes de l'administration font foi.
+                                                                                                                           Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                                                   Sommaire
+
+
+
+
+Sommaire
+Le rapport suit l'ordre d'une étude de terrain : où se trouve la parcelle, ce que dit la règle, ce qui pèse sur le
+projet, puis les démarches.
+
+              Synthèse
+   S                                                                                                                                      p. 3
+              Le verdict, les indicateurs clés et les points d'attention en une page.
+
+              Identification de la parcelle
+   01                                                                                                                                     p. 4
+              Localisation, surface, références cadastrales et voisinage du terrain.
+
+              Règles d'urbanisme applicables
+  02                                                                                                                                       p. 7
+              Document d'urbanisme, zone du terrain, prescriptions et servitudes.
+
+              Ce que vous pouvez construire
+  03                                                                                                                                     p. 10
+              Surface constructible, hauteur, reculs, aspect et usages autorisés.
+
+              Loi Littoral et loi Montagne
+  04                                                                                                                                     p. 15
+              Les lois qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+              Risques naturels et technologiques
+  05                                                                                                                                     p. 16
+              Inondation, feu de forêt, argiles, catastrophes naturelles et sites pollués.
+
+              Le terrain : accès, relief et réseaux
+  06                                                                                                                                     p. 19
+              Accès, pente, ensoleillement, eaux usées, électricité, eau et fibre.
+
+              Conditions de vente du terrain
+  07                                                                                                                                     p. 26
+              Terrain agricole ou naturel : SAFER, fermier en place et repère officiel de prix.
+
+              Environnement et marché immobilier
+  08                                                                                                                                     p. 28
+              Espaces naturels, espèces protégées et ventes immobilières alentour.
+
+              Historique du site
+  09                                                                                                                                     p. 31
+              Le terrain vu du ciel au fil des années et les permis accordés autour.
+
+              Opportunités autour du terrain
+   10                                                                                                                                    p. 33
+              Grands terrains peu bâtis et logements énergivores à proximité.
+
+              Votre projet, étape par étape
+   11                                                                                                                                    p. 35
+              De l'achat aux impôts : démarches, délais, coûts, contacts et taxe.
+
+              État des risques (ERP) pré-rempli
+   12                                                                                                                                    p. 40
+              Le formulaire réglementaire à remettre à l'acquéreur, pré-rempli.
+
+              Avertissement et sources
+   13                                                                                                                                    p. 42
+              La portée de ce rapport et les sources publiques consultées.
+
+              Annexe : règlement de la zone
+   A                                                                                                                                     p. 45
+              Les pages officielles du règlement de la zone, telles qu'approuvées.
+
+
+
+
+Astuce : cliquez sur un chapitre pour y accéder directement.
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                     2 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                                                           Synthèse
+
+
+
+
+Synthèse
+     Document d'information. Ce rapport ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme,
+     n'engage pas l'administration et ne peut pas servir de pièce à une demande de permis de construire.
+     L'appréciation ci-dessous est indicative : seule la mairie se prononce sur la constructibilité d'un terrain,
+     au vu d'un projet précis.
+
+
+
+
+       NON CONSTRUCTIBLE
+
+       Ce terrain n'est pas constructible en l'état
+       La parcelle est classée en zone N2020 (naturelle et forestière) du plan local d'urbanisme
+       de Saint-Dizier. Les constructions nouvelles n'y sont pas admises, sauf exceptions
+       encadrées. Le terrain est situé aux abords d'un monument historique (PÃ©rimÃ¨tre
+       dÃ©limitÃ© des abords de Saint Dizier) : l'architecte des Bâtiments de France donne son
+       avis sur les travaux et peut imposer des prescriptions (matériaux, couleurs, volumes).
+
+
+
+
+      Zone principale                                        Document d'urbanisme                                  Loi Littoral
+
+   N2020 · 100 %                                          PLU                                                    Ne s'applique pas
+
+
+
+
+      Loi Montagne                                           Risques à la parcelle
+
+   Ne s'applique pas                                      Inondation · Remontée de
+                                                          nappe (+3)
+
+
+
+
+Points d'attention
+    Zone N2020 (100 % de la parcelle) : non constructible.
+    Abords de monument historique (PÃ©rimÃ¨tre dÃ©limitÃ© des abords de Saint Dizier) : accord de l'architecte des
+    Bâtiments de France pour les travaux.
+    Logement : le règlement de la zone N2020 n'admet pas de logement neuf, sauf exceptions prévues par la zone
+    (logement de gardiennage, par exemple) : voir le chapitre « Ce que vous pouvez construire ».
+    Retrait-gonflement des argiles (exposition moyenne) : en cas de vente d'un terrain non bâti constructible, le
+    vendeur doit fournir une étude géotechnique préalable (loi ELAN, article L. 132-5 du Code de la construction et de
+    l'habitation) ; une étude géotechnique de conception est exigée avant de construire.
+    Entreprise : la commune est classée en zone France Ruralités Revitalisation (FRR) : une entreprise qui s'y crée peut
+    être exonérée d'impôt sur les bénéfices pendant 5 ans, sous conditions (voir le chapitre « Votre projet, étape par
+    étape »).
+    Pollution des sols : concerné à l'adresse de la parcelle (voir le chapitre « Risques naturels et technologiques »).
+    15 arrêtés de catastrophe naturelle sur la commune.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            3 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+    01             Identification de la parcelle
+     DANS CETTE SECTION
+
+     Où se trouve le terrain, sa surface, ses références cadastrales, son propriétaire lorsqu'il s'agit
+     d'une société ou d'une collectivité, et la performance énergétique du bâti existant.
+
+
+Données du cadastre (DGFiP) et de l'IGN.
+
+
+     Plan de situation
+
+
+
+
+                                                                                                                            1 km
+
+
+
+Plan IGN · © IGN
+
+
+
+     Vue aérienne et plan cadastral
+
+
+
+
+                                                                                                                            50 m
+
+
+
+Photographie aérienne et plan cadastral · © IGN
+
+
+Commune                                                  Saint-Dizier (52448)
+
+Département                                              Haute-Marne (52)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             4 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+Section et numéro                                        Section CR, parcelle n° 388, feuille 1
+
+Identifiant cadastral                                    52448000CR0388
+
+Surface cadastrale                                       1 218 m²
+
+Surface calculée (SIG)                                   1 224 m² · périmètre 161 m
+
+Coordonnées du centre                                    48.63184 N, 4.93993 E (WGS 84)
+
+Altitude                                                 de 135 à 136 m
+
+Pente estimée                                            2 % (terrain plutôt plat)
+
+Parcelles voisines                                       CR 283, CR 362, CR 389
+
+
+Le plan cadastral est un document fiscal : il ne fait pas foi des limites de propriété. Seul un bornage réalisé par un
+géomètre-expert fixe les limites de manière certaine.
+
+
+1.1 Propriétaire et voisinage
+La parcelle ne figure pas au fichier des personnes morales : son propriétaire est vraisemblablement un
+particulier. Le nom des propriétaires particuliers n'est pas public ; il peut être demandé au service des impôts
+fonciers (relevé de propriété) ou obtenu par l'intermédiaire d'un notaire.
+
+Parcelles voisines détenues par des sociétés ou des collectivités
+  PARCELLE              PROPRIÉTAIRE                                                                     SURFACE            SIREN
+
+  CR 283                COMMUNE DE SAINT DIZIER (COM)                                                    20 685 m²          215203233
+
+  CR 389                COMMUNE DE SAINT DIZIER (COM)                                                    7 578 m²           215203233
+
+
+
+Principaux propriétaires personnes morales dans un rayon de 280 m
+  PROPRIÉTAIRE                                                              PARCELLES             SURFACE TOTALE            SIREN
+
+  COMMUNE DE SAINT DIZIER (COM)                                             41                    45 886 m²                 215203233
+
+  SCI SALODIZ (SCI)                                                         4                     22 095 m²                 821820123
+
+  DR (SCI)                                                                  1                     2 591 m²                  908000037
+
+  ASS INTERENTREPRISES MEDECINE DU TRAVAIL                                  3                     2 169 m²                  780464731
+  (ASS)
+
+  C-L CONTANT LAMORLETTE (SCI)                                              2                     1 573 m²                  840211940
+
+  SCI PR IMMO (SCI)                                                         1                     1 185 m²                  443115589
+
+  SDZ 2 (SCI)                                                               1                     1 018 m²                  917903064
+
+  ZENN (SCI)                                                                2                     952 m²                    531501880
+
+
+
+Source : fichiers des parcelles des personnes morales (DGFiP) : sociétés, SCI, collectivités, établissements publics et associations.
+Les propriétaires personnes physiques n'y figurent pas.
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           5 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+1.2 Bâti existant : diagnostics de performance énergétique
+  DATE                  LOGEMENT                SURFACE             ÉNERGIE          CLIMAT          ADRESSE
+
+  12/08/2021            Maison                  65 m²               E                E               21 Boulevard de la Marne 52100
+                                                                                                     Saint-Dizier
+
+
+
+Source : ADEME, diagnostics établis depuis juillet 2021 et géolocalisés à l'adresse. Un diagnostic se rapporte à un logement précis
+et reste valable dix ans.
+
+
+1.3 La commune de Saint-Dizier
+Code postal                                              52100
+
+Département                                              Haute-Marne (52)
+
+Intercommunalité                                         CA du Grand Saint-Dizier Der et Vallées
+
+Population                                               22 858 habitants
+
+Superficie                                               48,51 km²
+
+Densité                                                  471 habitants par km²
+
+Commune littorale                                        Non
+
+Commune de montagne                                      Non
+
+Document d'urbanisme                                     Plan local d'urbanisme (PLU)
+
+Risques sur la commune                                   15 arrêtés de catastrophe naturelle · détail en section Risques et en
+                                                         annexe
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           6 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+    02             Règles d'urbanisme applicables
+     DANS CETTE SECTION
+
+     Le document d'urbanisme de la commune, la zone dans laquelle se trouve le terrain, et les
+     prescriptions et servitudes qui s'y ajoutent.
+
+
+Géoportail de l'Urbanisme : zonage, prescriptions et servitudes.
+
+
+
+2.1 Document d'urbanisme en vigueur
+Type de document                                         Plan local d'urbanisme (PLU)
+
+Date d'approbation                                       Non renseigné
+
+Statut                                                   Publié au Géoportail de l'Urbanisme
+
+Règlement officiel                                       Ouvrir le document officiel (PDF)
+
+
+
+     Plan de zonage du PLU
+
+
+
+
+                                                                                 N2020
+
+
+
+
+                                                                                                                           50 m
+
+
+
+Zonage : Géoportail de l'Urbanisme · fond : © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        7 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.2 Zonage de la parcelle
+  ZONE                  DÉSIGNATION                                                         PART               CONSTRUCTIBILITÉ
+
+  N2020                 Nom complet littéral de la zone tel qu'il                           100 %              Non constructible
+                        apparait ds le chap du règlement écrit
+
+
+
+Zone N2020 · Naturelle et forestière
+Zone naturelle et forestière : secteur protégé en raison de la qualité des sites, des milieux naturels et des
+paysages, ou de son caractère d'espace naturel. Les constructions nouvelles n'y sont pas admises, sauf
+exceptions encadrées (équipements publics, extension limitée des habitations existantes, secteurs de taille et
+de capacité limitées).
+
+
+2.3 Prescriptions applicables à la parcelle
+Aucune prescription graphique du PLU (emplacement réservé, espace boisé classé, élément de paysage
+protégé, etc.) n'est recensée sur la parcelle.
+
+
+2.4 Informations complémentaires du PLU
+  INFORMATION                                                                                        TYPE
+
+  DPU renforcé                                                                                       Information du PLU (type 04)
+
+  ZP0                                                                                                Information du PLU (type 20)
+
+
+
+
+2.5 Servitudes d'utilité publique
+  CODE               SERVITUDE                                                                    DÉTAIL
+
+  PM1                Plan de prévention des risques naturels (PPRN)                               PM1 PPRI Marne Aval ass
+
+  AC1                Monument historique (abords)                                                 AC1
+                                                                                                  Perimetre-delimite-des-abords-de-Saint-
+                                                                                                  Dizier abor
+
+
+
+
+2.6 Patrimoine : l'architecte des Bâtiments de France
+     En clair : le terrain est aux abords d'un monument historique. Les travaux visibles de l'extérieur doivent
+     recevoir l'accord de l'architecte des Bâtiments de France, qui peut imposer des prescriptions.
+
+
+
+  PROTECTION                                NOM                                                CE QUE CELA IMPLIQUE
+
+  Abords de monument                        PÃ©rimÃ¨tre dÃ©limitÃ© des                         Accord de l'architecte pour les travaux visibles
+  historique                                abords de Saint Dizier                             (périmètre publié)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         8 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+Conseils : consulter l'architecte des Bâtiments de France (unité départementale de l'architecture et du patrimoine,
+joignable par la mairie) avant de dessiner le projet ; prévoir un délai d'instruction majoré d'un mois ; soigner
+l'insertion (matériaux, teintes, toitures, clôtures) dès l'esquisse.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       9 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    03             Ce que vous pouvez construire
+     DANS CETTE SECTION
+
+     La lecture du règlement de votre zone : surface constructible estimée, hauteur, reculs, aspect,
+     usages autorisés ou interdits, avec les extraits du texte officiel.
+
+
+Lecture du règlement écrit de la zone N2020, pages 137 à 144 du règlement officiel.
+
+
+
+3.1 Potentiel constructible estimé
+     Le règlement de la zone N2020 n'admet pas de construction nouvelle à usage de logement. Seules
+     restent possibles les constructions expressément admises par la zone et les évolutions encadrées des
+     constructions existantes.
+
+
+
+Constructions admises dans la zone :
+
+    Occupations et aménagements légers liés à la mise en valeur du site et aux pratiques de loisirs (art. N.2.2)
+    Stationnement de caravanes en lien avec l'activité touristique, de loisir ou lié à une manifestation occasionnelle
+    (art. N.2.2)
+    Aménagement, réfection et changement de destination des constructions existantes, sous réserve de ne pas
+    altérer la valeur écologique et paysagère du site ni de présenter de nuisance pour le milieu naturel (art. N.2.1)
+    Aménagements légers et objets mobiliers destinés à l'accueil ou à l'information du public, nécessaires à la
+    gestion ou à l'ouverture au public d'espaces naturels (art. N.2.1)
+
+
+3.2 Caractère de la zone
+La zone N est une zone naturelle de protection stricte, comprenant notamment des espaces boisés
+classés. Le secteur N2020 est une zone naturelle à aménager en cohérence avec le projet Saint-Dizier
+2020 (requalification du centre-ville, pôle gare, bords du Canal). Une partie de la zone peut être
+concernée par le périmètre de protection des monuments historiques, les plans de prévention du risque
+d'inondation (PPRI), le plan d'exposition au bruit et des cavités souterraines.
+
+
+3.3 Règles de construction
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Surface minimale ou                          Non réglementé                                                                   art. N.5
+  caractéristiques du terrain
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        10 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Accès et voirie                              Terrain accessible par une voie publique ou privée ouverte à la                  art. N.3
+                                               circulation (directement ou par passage aménagé sur fonds
+                                               voisin), adaptée à l'importance du projet, permettant le
+                                               passage des secours et la sécurité des usagers. Voie nouvelle :
+                                               largeur initiale d'au moins 3,50 m en tout point de la bande de
+                                               roulement, intégrée au maillage viaire ; impasse admise
+                                               seulement en l'absence de raccordement possible, avec aire
+                                               de retournement. Accès sécurisé ; un seul accès recherché
+                                               pour les constructions individuelles d'habitation.
+
+  Réseaux et assainissement                    Terrain desservi par un réseau d'eau potable conforme à la                       art. N.4
+                                               réglementation ; captages et forages autonomes soumis à
+                                               accord préalable. Raccordement aux réseaux publics de
+                                               collecte ; en l'absence de réseau ou en cas d'impossibilité
+                                               technique, assainissement autonome obligatoire conforme au
+                                               SPANC, avec possibilité de raccordement ultérieur. Réseaux
+                                               séparatifs eaux usées/eaux pluviales ; infiltration des eaux
+                                               pluviales sur l'opération si le sol le permet ; sinon rejet à débit
+                                               limité (pluie décennale). Raccordement électrique en
+                                               souterrain.
+
+  Implantation par rapport                     Secteur N2020 : recul de 5 mètres minimum par rapport à                          art. N.6.1 et
+  aux voies                                    l'alignement des voies et emprises publiques. Constructions et                   N.6.2
+                                               installations de service public ou d'intérêt collectif : à
+                                               l'alignement ou recul d'au moins 1 m. Pergolas/auvents de
+                                               moins de 30 m² et piscines : implantation libre. Constructions
+                                               existantes non conformes : extension ou surélévation dans le
+                                               prolongement des murs existants.
+
+  Implantation par rapport                     Retrait d'au moins 5 mètres par rapport aux limites séparatives.                 art. N.7.1 et
+  aux limites séparatives                      Secteur N2020 : constructions à au moins 10 m des berges de                      N.7.2
+                                               la Marne et à au moins 5 m des berges des autres cours d'eau,
+                                               fossés et plans d'eau. Services publics ou d'intérêt collectif :
+                                               sur une ou plusieurs limites ou retrait minimal de 1 m (le texte
+                                               mentionne aussi 5 m dans une autre phrase). Pergolas/auvents
+                                               de moins de 30 m² et piscines : implantation libre.
+
+  Implantation des                             Non réglementé                                                                   art. N.8
+  constructions entre elles
+
+  Emprise au sol                               Secteur N2020 : emprise au sol maximale de 20 % de la                            art. N.9.1 et
+                                               superficie de l'unité foncière. Pas de règle pour les                            N.9.2
+                                               constructions et installations de service public ou d'intérêt
+                                               collectif. En zone inondable : application du PPRI.
+
+  Hauteur maximale                             Secteur N2020 : 9 mètres maximum. Ne sont pas comptés les                        art. N.10.1 et
+                                               dispositifs d'énergies renouvelables, locaux techniques et                       N.10.2
+                                               antennes dans la limite de 2 m. Pas de limite pour les
+                                               installations de service public ou d'intérêt collectif (règle
+                                               générale de 5 m non applicable au secteur).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            11 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Aspect extérieur et toitures                 Toute construction nouvelle doit faire l'objet d'une intégration                 art. N.11.1
+                                               paysagère qualitative ; les couleurs et matériaux participent à
+                                               la qualité du paysage. Pas de règle spécifique sur les toitures
+                                               dans la zone N.
+
+  Matériaux et couleurs                        Imitations de matériaux dessinées ou peintes (fausses briques,                   art. N.11.1
+                                               faux moellons, faux bois, etc.) interdites. Matériaux brillants
+                                               interdits, sauf panneaux solaires et photovoltaïques.
+
+  Clôtures                                     Hauteur limitée à 1,80 m, intégration au paysage environnant.                    art. N.11.2 et
+                                               Murs pleins autorisés uniquement pour délimiter les espaces                      art. 3 des
+                                               extérieurs des maisons d'habitation existantes. Les clôtures                     dispositions
+                                               doivent garantir la circulation de la petite faune. Édification de               générales
+                                               clôtures soumise à déclaration préalable sur l'ensemble de la
+                                               commune.
+
+  Stationnement                                Stationnement assuré en dehors de la voie publique, sur le                       art. N.12
+                                               terrain ou à proximité immédiate. En cas de création de places
+                                               pour voitures, des places de stationnement vélos doivent aussi
+                                               être réalisées. Nombre de places déterminé par la capacité
+                                               d'accueil des constructions ou aménagements recevant du
+                                               public.
+
+  Espaces verts et plantations                 Secteur N2020 : au moins 80 % de l'unité foncière maintenus                      art. N.13.1.2,
+                                               en espaces perméables, dont au moins 50 % de la superficie de                    N.13.1.4, N.13.2,
+                                               pleine terre incluse dans les espaces perméables. Coefficients                   N.13.3
+                                               de pondération : 1,5 toitures végétalisées, 1 espaces verts, 0,5
+                                               voiries de desserte ou parcs de stationnement
+                                               semi-perméables. Plantations d'essences locales. 1 arbre de
+                                               haute tige par tranche de 50 m² d'espaces verts (hors parcs de
+                                               stationnement) ; stationnements : au moins 1 arbre de haute
+                                               tige pour 100 m². Aires de stockage et de déchets dissimulées.
+                                               Espaces boisés classés protégés.
+
+  Densité ou coefficient                       Non réglementé (coefficient d'occupation des sols)                               art. N.14
+
+
+
+
+3.4 Usages autorisés
+    Occupations et aménagements légers liés à la mise en valeur du site et aux pratiques de loisirs (art. N.2.2)
+    Stationnement de caravanes en lien avec l'activité touristique, de loisir ou lié à une manifestation
+    occasionnelle (art. N.2.2)
+    Aménagement, réfection et changement de destination des constructions existantes, sous réserve de ne
+    pas altérer la valeur écologique et paysagère du site ni de présenter de nuisance pour le milieu naturel (art.
+    N.2.1)
+    Aménagements légers et objets mobiliers destinés à l'accueil ou à l'information du public, nécessaires à la
+    gestion ou à l'ouverture au public d'espaces naturels (art. N.2.1)
+    Ouvrages techniques et installations nécessaires aux services publics ou d'intérêt collectif et au
+    fonctionnement de la zone (art. N.2.1)
+    Affouillements et exhaussements du sol, aires de stationnement, sous les conditions de l'article N.2.1
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         12 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.5 Usages interdits ou soumis à conditions
+    Interdit : toutes les occupations et utilisations du sol non mentionnées à l'article N.2 (art. N.1), ce qui exclut
+    notamment les constructions d'habitation nouvelles, les commerces, bureaux, activités et exploitations
+    agricoles ou industrielles
+    Interdit dans les espaces boisés classés : défrichements et toute occupation ou utilisation du sol
+    compromettant la vocation de l'espace ; recouvrement du sol par des matériaux imperméables et remblais
+    ; coupes et abattages soumis à déclaration préalable
+    Conditionné : réfection, aménagement et changement de destination des constructions existantes,
+    uniquement si la valeur écologique et paysagère du site n'est pas altérée et sans risque de nuisance pour
+    le milieu naturel
+    Conditionné : aménagements légers d'accueil du public, seulement s'ils sont nécessaires à la gestion ou à
+    l'ouverture au public des espaces naturels et si leur localisation et leur aspect ne dénaturent pas le site
+    Conditionné : affouillements et exhaussements, seulement s'ils améliorent l'environnement et l'aspect
+    paysager, ou sont nécessaires à la recherche archéologique, à des raisons fonctionnelles ou de
+    raccordement aux réseaux, ou à l'exploitation du canal entre Champagne et Bourgogne
+    Conditionné : aires de stationnement, uniquement si elles répondent strictement aux besoins des
+    constructions ou occupations présentes ou autorisées, s'intègrent qualitativement au paysage et
+    préservent la perméabilité des sols
+    En zone inondable : application des PPRI, avec possible imposition de cotes de seuil ; en cas de divergence
+    entre le PLU et le PPRI, la règle la plus contraignante s'applique
+    Zones humides repérées : toute construction ou installation autre que liée à la mise en valeur ou à
+    l'entretien du milieu, drainage, remblaiement, affouillement et imperméabilisation interdits (Titre 6)
+
+
+3.6 Points de vigilance pour votre projet
+    Le secteur N2020 n'autorise que des aménagements légers liés à la mise en valeur du site et aux loisirs,
+    des ouvrages de services publics et le stationnement de caravanes touristiques ou événementielles : une
+    construction nouvelle d'habitation ou d'activité est exclue (tout ce qui n'est pas cité à l'article N.2 est
+    interdit).
+    Vérifier sur le règlement graphique la présence d'espaces boisés classés, de zones humides, d'éléments
+    de paysage ou d'une trame inondable (PPRI Marne ou Ornel) sur la parcelle : ces protections s'ajoutent aux
+    règles de la zone.
+    Respecter les reculs de 5 m par rapport aux voies et aux limites, et de 10 m des berges de la Marne (5 m
+    pour les autres cours d'eau, fossés et plans d'eau).
+    Le taux de 80 % d'espaces perméables dont 50 % de pleine terre limite fortement toute imperméabilisation
+    ; les aires de stationnement perméables sont comptées avec un coefficient de 0,5.
+    Une partie de la zone peut être concernée par le périmètre de protection des monuments historiques (avis
+    de l'architecte des Bâtiments de France), le plan d'exposition au bruit et des cavités souterraines.
+    L'article N.7.1 contient deux retraits différents (1 m et 5 m) pour les équipements de service public : à
+    clarifier auprès du service instructeur.
+    En cas de divergence entre le règlement du PLU et un PPRI, la règle la plus contraignante s'applique.
+    Le règlement graphique n'étant pas fourni, la délimitation exacte du secteur N2020 et les éventuelles
+    prescriptions graphiques doivent être confirmées.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        13 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.7 Extraits du règlement
+
+     art. N.1 · page 137
+     « Toutes les occupations et utilisations du sol non mentionnées à l’article N.2. »
+
+
+     art. N.2.2 · page 138
+     « Les occupations et aménagements légers liés à la mise en valeur du site et aux pratiques de loisirs. »
+
+
+     art. N.6.2 · page 141
+     « Les constructions doivent s’implanter en recul de 5 mètres minimum par rapport à l’alignement des
+     voies et emprises publiques. »
+
+
+     art. N.9.2 · page 142
+     « L’emprise au sol maximale des constructions est fixée à 20% de la superficie de l’unité foncière. »
+
+
+     art. N.10.2 · page 142
+     « La hauteur maximale des constructions est limitée à 9 mètres. »
+
+
+     art. N.13.1.2 · page 143
+     « Au moins 80% de la superficie de l’unité foncière doivent être maintenus en espaces perméables. »
+
+
+
+3.8 Démarches probables
+    Certificat d'urbanisme opérationnel pour vérifier la faisabilité du projet avant dépôt
+    Déclaration préalable ou permis de construire/d'aménager selon la nature et la surface des
+    aménagements (installations de loisirs, constructions légères, aires de stationnement)
+    Déclaration préalable obligatoire pour l'édification de clôtures (délibération communale sur l'ensemble du
+    territoire)
+    Permis de démolir obligatoire pour toute démolition (délibération communale)
+    Déclaration préalable pour les coupes et abattages dans les espaces boisés classés
+    Consultation des PPRI et, selon la localisation, avis de l'architecte des Bâtiments de France (périmètre des
+    monuments historiques)
+    Déclaration ou autorisation au titre du code de l'environnement en cas d'impact sur une zone humide
+    Contact du service public d'assainissement non collectif (SPANC) en l'absence de réseau collecteur
+
+     Cette lecture est établie automatiquement, par intelligence artificielle, à partir du règlement officiel en
+     vigueur. Elle peut comporter des imprécisions : seul le texte du règlement, reproduit en annexe (pages
+     137 à 144 du document approuvé), fait foi, avec les dispositions générales, les orientations
+     d'aménagement et les servitudes.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        14 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                                    04 · Loi Littoral et loi Montagne
+
+
+
+
+   04              Loi Littoral et loi Montagne
+     DANS CETTE SECTION
+
+     Les lois nationales qui s'ajoutent au document d'urbanisme sur le littoral et en montagne. Elles
+     peuvent rendre un terrain inconstructible même en zone constructible.
+
+
+Les lois d'aménagement qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+
+
+4.1 Loi Littoral
+Commune littorale                                        Non
+
+Distance au rivage                                       Sans objet
+
+Bande des 100 mètres                                     Sans objet
+
+
+La commune n'est pas riveraine de la mer : la loi Littoral ne s'applique pas (sauf rives de grands lacs).
+
+
+4.2 Loi Montagne
+Commune en zone de montagne                              Non
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           15 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+   05              Risques naturels et technologiques
+     DANS CETTE SECTION
+
+     Les risques connus à l'adresse du terrain (inondation, feu de forêt, mouvement de terrain,
+     radon…) et les catastrophes naturelles reconnues sur la commune.
+
+
+Base nationale Géorisques (ministère de la Transition écologique).
+
+
+
+5.1 Risques naturels à l'adresse de la parcelle
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Inondation                                      Existant                                        Existant
+
+  Remontée de nappe                               Existant                                        Existant
+
+  Séisme                                          Existant – faible                               Existant – faible
+
+  Mouvement de terrain                            Non connu                                       Existant
+
+  Retrait-gonflement des                          Existant – modéré                               Existant – important
+  argiles
+
+  Radon                                           Existant – faible                               Existant – faible
+
+
+
+
+5.2 Risques technologiques
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Installations industrielles                     Non concerné                                    Concerné
+  (ICPE)
+
+  Canalisations de matières                       Non concerné                                    Concerné
+  dangereuses
+
+  Pollution des sols                              Concerné                                        Concerné
+
+  Rupture de barrage                              Inconnu                                         Concerné
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                     16 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.3 Indicateurs réglementaires
+Zone de sismicité                                        Zone 1 – très faible
+
+Potentiel radon                                          Catégorie 1 (potentiel faible)
+
+Retrait-gonflement des argiles                           Existant – modéré
+
+Plans de prévention (PPR)                                Aucun plan de prévention des risques recensé
+
+
+
+5.4 Arrêtés de catastrophe naturelle
+15 arrêtés de reconnaissance de l'état de catastrophe naturelle concernent la commune.
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Sécheresse                                                                01/04/2022 au 30/09/2022                       08/09/2023
+
+  Inondations et/ou Coulées de Boue                                         13/07/2021 au 16/07/2021                       01/08/2021
+
+  Sécheresse                                                                01/07/2019 au 30/09/2019                       29/07/2020
+
+  Sécheresse                                                                01/07/2018 au 31/12/2018                       09/08/2019
+
+  Inondations et/ou Coulées de Boue                                         09/02/2016                                     27/01/2017
+
+  Inondations et/ou Coulées de Boue                                         11/09/2005                                     10/01/2006
+
+  Sécheresse                                                                01/07/2003 au 30/09/2003                       26/08/2004
+
+  Inondations et/ou Coulées de Boue                                         29/12/2001 au 31/12/2001                       05/05/2002
+
+  Inondations et/ou Coulées de Boue                                         12/09/2000                                     17/12/2000
+
+  Inondations et/ou Coulées de Boue                                         25/12/1999 au 29/12/1999                       30/12/1999
+
+  Mouvement de Terrain                                                      25/12/1999 au 29/12/1999                       30/12/1999
+
+  Inondations et/ou Coulées de Boue                                         28/10/1998 au 29/10/1998                       05/02/1999
+
+  Inondations et/ou Coulées de Boue                                         25/05/1983 au 30/05/1983                       26/07/1983
+
+  Inondations et/ou Coulées de Boue                                         01/04/1983 au 28/04/1983                       18/05/1983
+
+  Inondations et/ou Coulées de Boue                                         08/12/1982 au 31/12/1982                       06/02/1983
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         17 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.5 Installations classées à proximité (moins de 1 km)
+    MAGISSON · Autres régimes
+    GRAPINET · Autres régimes
+    SEB · Enregistrement · En fin d'exploitation
+    PRESSING DE GIGNY · Autres régimes
+    DANIA Vitrages Isolants de Champagne S.A.S · Autres régimes
+    ISDI EUROVIA · Enregistrement · En exploitation avec titre
+    VALORITECH · Autres régimes
+    LAKHSASSI Lofti · Non ICPE
+
+
+5.6 Sites et sols pollués à proximité
+    Fonderie · ancien site industriel ou d'activité de service (CASIAS)
+    Traitement et revêtement des métaux · ancien site industriel ou d'activité de service (CASIAS)
+    Chaudronnerie; fonderie; marchand · ancien site industriel ou d'activité de service (CASIAS)
+    Usine à gaz · ancien site industriel ou d'activité de service (CASIAS)
+    Teinturier, dégraissage · ancien site industriel ou d'activité de service (CASIAS)
+    Tannerie, ferrailleur · ancien site industriel ou d'activité de service (CASIAS)
+    Dépôt de cuirs · ancien site industriel ou d'activité de service (CASIAS)
+    DLI · ancien site industriel ou d'activité de service (CASIAS)
+    2 anciens sites industriels ou d'activités de service (CASIAS) recensés
+
+
+5.7 Rapport officiel Géorisques
+Les risques recensés ci-dessus proviennent des bases officielles de Géorisques, service public d'information
+sur les risques. Le rapport officiel complet peut être édité sans frais, à tout moment et à jour, à partir de
+l'adresse du terrain sur le site Géorisques.
+
+
+    Éditer le rapport officiel Géorisques
+
+
+Lors d'une vente ou d'une location, le vendeur ou le bailleur doit remettre un état des risques de moins de six mois,
+complété et signé, et l'information sur les sinistres indemnisés au titre des catastrophes naturelles.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                     18 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+   06              Le terrain : accès, relief et réseaux
+     DANS CETTE SECTION
+
+     Les contraintes physiques du terrain : accès à une voie, pente et exposition, assainissement,
+     raccordement à l'électricité et à l'eau, fibre. Ce sont elles qui pèsent le plus sur le coût d'un
+     projet.
+
+
+Voirie (IGN, BD TOPO), altimétrie (IGN, RGE ALTI), règlement de la zone, réseau électrique (Agence ORE) et éligibilité
+internet (Arcep).
+
+
+
+6.1 Accès
+Accès direct à une voie                                  Oui
+
+Voie                                                     Route à 1 chaussée · Boulevard de la Marne
+
+Largeur de chaussée                                      4m
+
+Accès des véhicules                                      Libre
+
+
+La parcelle touche une voie carrossable. L'autorisation d'urbanisme vérifiera que l'accès est adapté au projet et sûr,
+et peut imposer une permission de voirie ou un aménagement de l'entrée.
+
+
+6.2 Relief et exposition
+Pente moyenne                                            1%
+
+Exposition                                               Terrain plat
+
+Altitude                                                 135 à 136 m
+
+Appréciation                                             Terrain plat ou presque plat
+
+
+
+
+ 136 m
+
+ 136 m
+
+
+           Coupe du terrain dans le sens de la pente · longueur 68 m
+
+
+     Terrassements limités ; pas de surcoût notable lié au relief.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        19 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Saint-Dizier · CR 388
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.3 Ensoleillement
+Appréciation                                             Très bien ensoleillé
+
+Soleil direct le 21 juin                                 15 h 18 (de 06 h 00 à 21 h 10)
+
+Soleil direct aux équinoxes                              11 h 48 (de 07 h 00 à 18 h 40)
+
+Soleil direct le 21 décembre                             7 h 48 (de 08 h 50 à 16 h 30)
+
+Ensoleillement annuel possible                           4 291 h par an, soit 98 % du maximum à cette latitude
+
+Hauteur du relief vers le sud                            1°
+
+
+ 75°
+
+
+
+ 60°
+
+
+
+ 45°
+
+
+
+ 30°
+
+
+
+ 15°
+
+
+
+ 0°
+                                Est                  Sud-est                    Sud                 Sud-ouest               Ouest
+
+          21 juin          Équinoxes               21 décembre                 Horizon : relief et bâtiments voisins
+
+
+
+       Le relief et les constructions voisines ne masquent presque pas le soleil : le terrain profite de la
+       quasi-totalité de l'ensoleillement possible à cette latitude.
+
+
+
+Ensoleillement mois par mois (le 21 de chaque mois)
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Janvier                         8 h 48                             8 h 30                                    08 h 40 – 17 h 00
+
+  Février                         10 h 18                            10 h 12                                   08 h 00 – 18 h 00
+
+  Mars                            12 h                               11 h 48                                   07 h 00 – 18 h 40
+
+  Avril                           13 h 48                            13 h 30                                   07 h 00 – 20 h 20
+
+  Mai                             15 h 18                            14 h 42                                   06 h 20 – 20 h 50
+
+  Juin                            16 h                               15 h 18                                   06 h 00 – 21 h 10
+
+  Juillet                         15 h 18                            14 h 48                                   06 h 20 – 21 h 00
+
+  Août                            13 h 48                            13 h 42                                   07 h 00 – 20 h 30
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             20 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Septembre                       12 h                               11 h 48                                   07 h 50 – 19 h 30
+
+  Octobre                         10 h 18                            10 h 12                                   08 h 30 – 18 h 30
+
+  Novembre                        8 h 42                             8 h 42                                    08 h 10 – 16 h 40
+
+  Décembre                        8 h 12                             7 h 48                                    08 h 50 – 16 h 30
+
+
+
+Calcul théorique par ciel dégagé, au centre de la parcelle et à hauteur d'homme : course du soleil heure par heure, masque du relief
+sur 6 km (IGN, RGE ALTI) et des bâtiments voisins sur 120 m (IGN, BD TOPO, 16 bâtiments pris en compte). La végétation et les
+constructions récentes ne sont pas prises en compte.
+
+
+6.4 Quel raccordement pour les eaux usées ?
+Raccordement à prévoir                                       Assainissement individuel probable
+
+Zone du PLU                                                  N2020 · Naturelle et forestière
+
+Zonage d'assainissement                                      Non publié au Géoportail de l'Urbanisme (consultable en mairie)
+
+Réseau collectif sur la commune                              Oui · Communauté d'Agglomération de Saint-Dizier Der et Blaise ·
+                                                             délégation
+
+
+     Le terrain est hors zone urbaine (zone N2020) : ces secteurs sont rarement desservis par le réseau
+     public. Sauf canalisation existante dans la voie, prévoyez une fosse toutes eaux avec épandage ou une
+     micro-station agréée.
+
+
+
+Ce que dit le règlement de la zone
+Raccordement obligatoire aux réseaux publics de collecte lorsqu'ils existent. En l'absence de réseau collecteur ou
+en cas d'impossibilité technique de s'y raccorder, l'assainissement autonome est obligatoire, avec un dispositif
+conforme à la réglementation du SPANC et possibilité de raccordement ultérieur au réseau collectif. Aucune
+évacuation d'eaux ménagères ou d'effluents non traités dans les fossés, cours d'eau ou réseaux d'eaux pluviales.
+Réseaux eaux usées et eaux pluviales séparatifs ; eaux claires interdites dans les réseaux d'eaux usées. Le
+règlement ne fixe pas de surface minimale de terrain.
+
+Ce que cela coûte
+Assainissement individuel : 5 000 à 15 000 € selon la filière (détail ci-dessous), plus l'étude de sol à la parcelle (500 à
+1 000 €). Étapes : étude de sol, puis avis favorable du SPANC sur le projet, à joindre à la demande de permis de
+construire. Besoin d'un installateur agréé ? Nous vous mettons en relation : contact@terrenurbanisme.com.
+
+Qui contacter pour obtenir la confirmation
+Service d'assainissement                                     Communauté d'Agglomération de Saint-Dizier Der et Blaise
+
+Mairie                                                       Mairie de Saint-Dizier
+
+Téléphone                                                    03 25 07 31 31
+
+E-mail                                                       com@mairie-saintdizier.fr
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            21 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+    Demandez au service d'assainissement, avec la référence cadastrale, si une canalisation publique passe au droit
+    du terrain, à quelle profondeur, et le montant de la PFAC. Sa réponse écrite vaut attestation de raccordabilité.
+    Certificat d'urbanisme opérationnel (formulaire Cerfa 13410, délivré sans frais) : la mairie y indique officiellement
+    si le terrain est desservi par le réseau d'assainissement.
+    Plan des réseaux : la présence des canalisations enterrées près du terrain peut être vérifiée sur
+    reseaux-et-canalisations.gouv.fr, le guichet unique des réseaux.
+Sources : zonage d'assainissement et règlement (Géoportail de l'Urbanisme) ; services publics d'assainissement (SISPEA, Office
+français de la biodiversité) ; annuaire de l'administration (service-public.fr).
+
+Les solutions d'assainissement individuel
+  FILIÈRE                                    QUAND ELLE CONVIENT                                                           ORDRE DE PRIX
+
+  Fosse toutes eaux et                       Sol perméable, terrain assez grand et peu pentu                               5 000 à 10 000 €
+  épandage
+
+  Filtre à sable                             Sol peu perméable, place suffisante                                           8 000 à 12 000 €
+
+  Micro-station agréée                       Petit terrain ou sol défavorable ; entretien et électricité                   7 000 à 15 000 €
+
+  Filtre compact agréé                       Petit terrain, sans électricité                                               9 000 à 14 000 €
+
+
+
+Ordres de prix indicatifs (fourniture et pose, hors étude de sol et terrassements particuliers). La filière est choisie au vu de l'étude
+de sol et validée par le SPANC.
+
+
+6.5 Électricité et eau potable
+Gestionnaire du réseau                                       Enedis
+
+Réseau basse tension le plus proche                          à environ 5 m (ligne aérienne)
+
+Ligne aérienne la plus proche                                à environ 5 m
+
+Ligne souterraine la plus proche                             à environ 180 m
+
+Poste de transformation le plus proche                       à environ 150 m
+
+Appréciation                                                 Branchement simple probable
+
+
+     Le réseau basse tension passe à environ 5 m : un branchement simple est en principe possible (de
+     l'ordre de 1 500 à 3 000 € pour une maison, selon la longueur et la puissance), sous réserve de la
+     capacité du réseau et des coffrets existants.
+
+
+
+Ce qu'il faut vérifier avant d'acheter
+    La capacité du réseau : même un réseau proche peut être saturé (coffret ou câble plein, poste de transformation
+    au maximum). Seule une étude du gestionnaire permet de le savoir ; c'est la cause la plus fréquente de surcoûts
+    imprévus.
+    Électricité : demander au gestionnaire du réseau une étude de raccordement ou un devis à partir de l'adresse et
+    du plan de situation (sans frais). Elle indique le type de raccordement, son coût et son délai.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             22 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+    Eau potable : les plans du réseau d'eau ne sont pas publics. Interroger le service des eaux (coordonnées
+    ci-dessous) sur la présence d'une canalisation au droit du terrain, sa capacité et le coût du branchement, ainsi
+    que sur la défense incendie (borne à moins de 200 m environ).
+    Certificat d'urbanisme opérationnel : la mairie y indique si le terrain est desservi par les réseaux publics (eau,
+    électricité, assainissement) et, à défaut, si et quand ils seront étendus. Un refus de permis peut être fondé sur
+    l'insuffisance des réseaux (article L. 111-11 du Code de l'urbanisme).
+
+Qui contacter
+Service de l'eau potable                                     Communauté d'Agglomération de Saint-Dizier Der et Blaise
+
+Mode de gestion                                              Délégation de service public à SUEZ
+
+Contact pour le branchement                                  SUEZ, pour le compte de : Communauté d'Agglomération de
+                                                             Saint-Dizier Der et Blaise
+
+Mairie                                                       Mairie de Saint-Dizier
+
+Téléphone de la mairie                                       03 25 07 31 31
+
+E-mail de la mairie                                          com@mairie-saintdizier.fr
+
+Électricité (raccordement)                                   Enedis · demande en ligne sur enedis.fr (raccordement)
+
+La mairie oriente vers le bon interlocuteur et confirme, dans le certificat d'urbanisme, la desserte du terrain par les réseaux.
+Sources : SISPEA, observatoire des services publics d'eau (OFB) ; annuaire de l'administration (service-public.fr).
+
+Dans une promesse de vente, une condition suspensive portant sur le coût du raccordement aux réseaux protège
+l'acquéreur. Source de la cartographie électrique : Agence ORE, données des gestionnaires de réseaux de distribution ;
+tracés indicatifs.
+
+
+6.6 Fibre et internet
+     Le terrain n'a pas encore d'adresse propre, mais la fibre est déployée à 35 m (12 Boulevard de la Marne)
+     : un logement construit sur le terrain pourra en principe y être raccordé.
+
+
+
+Adresse la plus proche                                          12 Boulevard de la Marne · à 35 m · raccordable
+
+Point fibré le plus proche                                      12 Boulevard de la Marne · à 35 m
+
+Adresses fibrées à moins de 100 m                               6 sur 6
+
+Adresses fibrées à moins de 400 m                               254 sur 255
+
+Technologies disponibles à proximité                            4G fixe, Cuivre (ADSL, VDSL), Fibre, Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        23 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                                                                             Saint-Dizier · CR 388
+          TerrenUrbanisme
+                                                                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+                                F                                         F                                                                             FF       F             F
+     Points fibrés autour du terrain                                                  F                                                        FF            F   F F     F    F
+                                                  F
+                                                                                                                            F       FF                 FF
+                                                  F                               F                                        F                                FF               FF F
+                                                          F                                                                     F                  F             F FF                F
+                                                                                                                                         F F                             F F F
+                                                                              F                                                                                         F      FF F F
+                                                      F                                                                                                      F                           F
+                                  FF                              F
+                                                              F
+                                  F                                                                                                                                                  F
+                       F                                          F
+                                                                                                           F
+                              F
+                                  F                   F               F                                            F
+                      F                                                                                        F
+                                          F F                                                                      F
+                                                              F                                                                 F
+                                          F
+                                      F                           F                                                                      F
+                                                  F
+                              F               F                           F
+                          F                               F
+                                          F
+                                      F                                   F
+                                  F                                               F
+                       F                                                  F
+                                                                      F                   F
+                                                                          F           F
+                                                                                      F F
+                                                                                        F F        F
+                                          F       F
+                                                                      F       F                            F
+                                                                                              FF               F
+                                                                                                       F
+                                                                                                                       F
+                                                                                                               F
+
+
+
+                                                                                                                                                        F                                     100 m
+
+
+
+Repères F : adresses déclarées raccordables à la fibre (Arcep) · en terracotta : sur la parcelle · fond © IGN
+
+
+Vérifiez la fibre à l'adresse du terrain :
+
+                     Carte fibre Orange                                                                                                                 Carte de l'Arcep
+
+
+  DISTANCE           ADRESSE                                                                                                                 FIBRE                 AUTRES ACCÈS
+
+  35 m               12 Boulevard de la Marne                                                                                                Oui                   4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                                                                   Satellite
+
+  49 m               21 Boulevard de la Marne                                                                                                Oui                   4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                                                                   Satellite
+
+  59 m               10 Boulevard de la Marne                                                                                                Oui                   4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                                                                   Satellite
+
+  64 m               7 Boulevard de la Marne                                                                                                 Oui                   4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                                                                   Satellite
+
+  66 m               29 Boulevard de la Marne                                                                                                Oui                   4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                                                                   Satellite
+
+  99 m               8 Boulevard de la Marne                                                                                                 Oui                   4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                                                                   Satellite
+
+  149 m              21 Rue du Puits Royau                                                                                                   Oui                   4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                                                                   Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                                                                      24 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Saint-Dizier · CR 388
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  DISTANCE           ADRESSE                                                                   FIBRE              AUTRES ACCÈS
+
+  156 m              24 Rue du Puits Royau                                                     Oui                4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+
+
+Source : Arcep, « Ma connexion internet », éligibilité déclarée par les opérateurs, adresse par adresse. Le tracé des câbles n'est
+pas public : la présence de la fibre en limite de terrain se vérifie auprès de l'opérateur ou par une déclaration de projet de travaux
+(DT).
+
+
+6.7 Qui contacter pour les réseaux
+  RÉSEAU                                    INTERLOCUTEUR                                         CE QU'IL FAUT DEMANDER
+
+  Eau potable et                            Mairie ou service des eaux de la                      Attestation de desserte et conditions de
+  assainissement collectif                  commune                                               raccordement
+
+  Assainissement individuel                 SPANC (communauté de communes)                        Contrôle de conception sur la base de l'étude
+                                                                                                  de sol
+
+  Électricité                               Enedis (gestionnaire du réseau de                     Étude de raccordement et devis
+                                            distribution)
+
+  Fibre et téléphone                        Opérateur d'infrastructure et                         Raccordement du futur logement
+                                            fournisseur d'accès
+
+  Tous réseaux                              Guichet unique des réseaux                            Déclaration de projet de travaux (DT) pour
+                                            (reseaux-et-canalisations.gouv.fr)                    localiser les réseaux existants
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             25 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                               07 · Conditions de vente du terrain
+
+
+
+
+    07             Conditions de vente du terrain
+     DANS CETTE SECTION
+
+     Terrain agricole ou naturel : droit de préemption de la SAFER, fermier en place, autorisation
+     d'exploiter et repère officiel de prix.
+
+
+Terrain situé en zone N2020 : vente encadrée par le code rural et de la pêche maritime.
+
+
+
+7.1 Pourquoi aucune fourchette de prix n'est donnée
+La parcelle est classée en zone N2020 (naturelle et forestière), où les constructions nouvelles ne sont en
+principe pas admises. Sa valeur ne se déduit pas des ventes de terrains à bâtir du secteur : elle dépend de
+l'usage agricole ou naturel du sol, de sa qualité, de son accès, de l'eau disponible et de l'existence éventuelle
+d'un bail rural. Une estimation automatique serait trompeuse : la valeur doit être établie au cas par cas par un
+notaire ou un expert foncier et agricole.
+
+
+7.2 Le droit de préemption de la SAFER
+Principe                                        La vente d'un terrain agricole ou naturel est en principe soumise au droit de
+                                                préemption de la SAFER (articles L. 143-1 et suivants du code rural et de la
+                                                pêche maritime). Une surface minimale, fixée par département, peut en
+                                                exclure les plus petites parcelles.
+
+Information obligatoire                         Le notaire informe la SAFER du projet de vente au moins deux mois avant la
+                                                signature : prix, conditions et identité de l'acquéreur.
+
+Ce que peut faire la SAFER                      Renoncer, acheter au prix et aux conditions notifiés, ou proposer un prix
+                                                inférieur si elle estime le prix exagéré. Le vendeur peut alors accepter,
+                                                retirer son terrain de la vente ou demander au tribunal judiciaire de fixer le
+                                                prix.
+
+Pourquoi elle intervient                        Installation de jeunes agriculteurs, consolidation des exploitations,
+                                                protection de l'environnement et des paysages, lutte contre la spéculation
+                                                foncière.
+
+
+
+7.3 Les autres règles à connaître
+Fermier en place                                Si le terrain est loué par bail rural, l'exploitant en place bénéficie d'un droit
+                                                de préemption prioritaire, avant la SAFER.
+
+Autorisation d'exploiter                        Un acquéreur qui souhaite exploiter le terrain peut devoir obtenir une
+                                                autorisation d'exploiter auprès de la DDT(M), selon le schéma directeur
+                                                régional des exploitations agricoles.
+
+Espace naturel sensible                         Dans un espace naturel sensible, le département peut également disposer
+                                                d'un droit de préemption.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         26 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                               07 · Conditions de vente du terrain
+
+
+
+
+Constructions                                   Seules les constructions nécessaires à l'exploitation agricole ou forestière,
+                                                ou à des équipements collectifs, sont en règle générale admises : l'achat ne
+                                                donne pas de droit à bâtir une habitation.
+
+
+
+7.4 Repère officiel de prix
+Le ministère de l'Agriculture publie chaque année le barème indicatif de la valeur vénale moyenne des terres
+agricoles, par région agricole et par nature de culture (arrêté publié au Journal officiel). C'est la référence à
+consulter, avec l'avis d'un notaire ou d'un expert foncier et agricole, avant de fixer un prix.
+
+     Avant toute mise en vente, rapprochez-vous de votre notaire : il notifie la vente à la SAFER, vérifie
+     l'existence d'un bail et sécurise le calendrier de la transaction.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         27 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+   08              Environnement et marché immobilier
+     DANS CETTE SECTION
+
+     Les espaces naturels protégés autour du terrain et les prix de vente réels des maisons,
+     appartements et terrains alentour.
+
+
+Inventaire national du patrimoine naturel et demandes de valeurs foncières (DVF).
+
+
+
+8.1 Espaces naturels protégés ou inventoriés
+  TYPE                                                      NOM DU SITE
+
+  Abords de monument historique                             Perimetre delimite des abords de Saint Dizier
+
+
+
+La présence d'un site Natura 2000 peut imposer une évaluation des incidences avant certains travaux. Une ZNIEFF
+est un inventaire scientifique sans portée réglementaire directe, mais elle signale un intérêt écologique pris en
+compte dans l'instruction des autorisations.
+
+
+8.2 Espèces protégées observées près du terrain
+95 espèces protégées ont été observées dans un rayon de 1 km autour du terrain depuis 1990 ; les 14 plus
+fréquemment signalées figurent ci-dessous.
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Moineau domestique (Passer                                      Oiseau                 Nationale (espèce et              62 · dernière en
+  domesticus)                                                                            habitat)                          2022
+
+  Acourcie (Leuciscus leuciscus)                                  Autre                  Nationale                         59 · dernière en
+                                                                                                                           1999
+
+  Mésange charbonnière (Parus major)                              Oiseau                 Nationale (espèce et              53 · dernière en
+                                                                                         habitat)                          2022
+
+  Mésange bleue (Cyanistes caeruleus)                             Oiseau                 Nationale (espèce et              45 · dernière en
+                                                                                         habitat)                          2022
+
+  Pinson des arbres (Fringilla coelebs)                           Oiseau                 Nationale (espèce et              32 · dernière en
+                                                                                         habitat)                          2022
+
+  Rouge-gorge familier (Erithacus                                 Oiseau                 Nationale (espèce et              28 · dernière en
+  rubecula)                                                                              habitat)                          2022
+
+  Rouge-queue noir (Phoenicurus                                   Oiseau                 Nationale (espèce et              23 · dernière en
+  ochruros)                                                                              habitat)                          2022
+
+  Corneille noire (Corvus corone)                                 Oiseau                 Nationale (espèce et              21 · dernière en
+                                                                                         habitat)                          2021
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         28 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Bec de canard (Esox lucius)                                     Autre                  Nationale                         20 · dernière en
+                                                                                                                           1999
+
+  Carotte commune (Daucus carota)                                 Plante                 Nationale                         18 · dernière en
+                                                                                                                           2019
+
+  Chardonneret élégant (Carduelis                                 Oiseau                 Nationale (espèce et              15 · dernière en
+  carduelis)                                                                             habitat)                          2026
+
+  Martinet noir (Apus apus)                                       Oiseau                 Nationale (espèce et              13 · dernière en
+                                                                                         habitat)                          2021
+
+  Verdier (Chloris chloris)                                       Oiseau                 Nationale (espèce et              13 · dernière en
+                                                                                         habitat)                          2021
+
+  Hirondelle de cheminée (Hirundo                                 Oiseau                 Nationale (espèce et              13 · dernière en
+  rustica)                                                                               habitat)                          2021
+
+
+
+     Une observation à proximité ne signifie pas que l'espèce vit sur le terrain. Mais si elle y est présente, il
+     est interdit de détruire, capturer ou déranger les individus et, pour la plupart de ces espèces, de
+     détruire leurs lieux de reproduction et de repos (articles L. 411-1 et suivants du Code de
+     l'environnement). L'infraction est punie de 3 ans d'emprisonnement et 150 000 € d'amende.
+
+
+
+Pour les plantes, la protection vise les populations sauvages : un spécimen planté dans un jardin n'est pas concerné.
+
+Que faire avant de construire ?
+    Pour une maison individuelle, aucune étude écologique n'est imposée en règle générale, et l'étude de sol porte
+    sur le terrain (fondations), pas sur la faune ni la flore. Vous restez cependant responsable si une espèce
+    protégée vit sur la parcelle : en cas de doute (espèce observée tout près, vieux arbres, murets, maquis, zone
+    humide), faites passer un écologue avant de défricher.
+    Si un enjeu est confirmé : inventaire faune-flore aux saisons utiles (printemps et été en général), puis mesures
+    pour éviter et réduire l'impact : implantation de la maison sur la partie la moins sensible, travaux hors période de
+    reproduction, clôture de chantier adaptée, déplacement d'individus par un spécialiste habilité.
+    Si la destruction d'individus ou d'habitats ne peut pas être évitée : demande de dérogation « espèces protégées »
+    auprès de la préfecture (DREAL), avec avis du conseil scientifique. Comptez 4 à 12 mois d'instruction, à anticiper
+    avant le dépôt du permis.
+
+Combien prévoir ?
+Pré-diagnostic écologique                                800 à 2 000 € (une visite et une note de synthèse)
+
+Inventaire faune-flore                                   3 000 à 10 000 € selon la surface et le nombre de passages
+
+Mesures d'évitement et de réduction                      500 à 5 000 € (balisage, calendrier, suivi de chantier)
+
+Dossier de dérogation                                    8 000 à 25 000 €, hors mesures de compensation éventuelles
+
+Ordres de prix indicatifs, honoraires de bureaux d'études en environnement, si une étude est nécessaire. Pour une maison sur un
+terrain déjà entouré de constructions, aucune étude n'est le plus souvent requise.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         29 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+Sources : statuts de protection TAXREF et base de connaissance des statuts (INPN, Muséum national d'Histoire naturelle) ;
+observations naturalistes GBIF, qui rassemble notamment les données de l'INPN et du SINP.
+
+
+8.3 Prix de l'immobilier à Saint-Dizier
+Prix au mètre carré des ventes enregistrées sur la commune au cours des cinq dernières années publiées.
+Seules les ventes portant sur un bien unique sont retenues.
+
+  TYPE DE BIEN                                       VENTES                       €/M² MÉDIAN                              €/M² MOYEN
+
+  Maisons                                            877                          1 309 €/m²                               1 299 €/m²
+
+  Appartements                                       402                          1 048 €/m²                               1 054 €/m²
+
+  Locaux commerciaux                                 62                           707 €/m²                                 828 €/m²
+
+
+
+Source : statistiques des demandes de valeurs foncières (DGFiP, Etalab). Prix des actes, hors frais : un ordre de grandeur,
+pas une estimation du bien.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            30 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                                                09 · Historique du site
+
+
+
+
+   09              Historique du site
+     DANS CETTE SECTION
+
+     Le terrain vu du ciel au fil des décennies et les permis de construire accordés autour : l'évolution
+     du secteur en un coup d'œil.
+
+
+Photographies aériennes de l'IGN et permis de construire délivrés (Sitadel).
+
+
+
+9.1 Le terrain vu du ciel, d'hier à aujourd'hui
+
+    1950-1965                                             2000-2005                                              2006-2010
+
+
+
+
+    2011-2015                                             Aujourd'hui
+
+
+
+
+Ces vues montrent l'évolution du terrain et du quartier, des années 1950 à aujourd'hui (photographies aériennes de l'IGN).
+
+     Bon à savoir : l'existence ancienne d'une construction peut ouvrir, sous conditions, un droit à
+     reconstruire ou à restaurer un bâtiment dont il reste l'essentiel des murs porteurs (articles L. 111-15 et L.
+     111-23 du Code de l'urbanisme).
+
+
+
+
+9.2 Permis de construire délivrés autour du terrain
+Autorisations sur la commune (3 ans)                                    65 · dernière recensée le 27/08/2026
+
+Logements autorisés (3 ans)                                             147
+
+Dont maisons individuelles                                              59
+
+Autorisations dans la section CR                                        3 depuis 2013
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  12/08/2026            Déclaration préalable                  CR 180             1              –                         RUE DU DOCTEUR DESPRES
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              31 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                                                09 · Historique du site
+
+
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  28/10/2024            Permis de construire                   CR 442             1              45 m²                     RUE DOCTEUR DESPRES
+
+  09/01/2020            Permis de construire                   CR 456             1              99 m²                     RUE DU GENERAL MAISTRE
+
+
+
+Permis accordés à moins de 500 m du terrain
+  DATE                 AUTORISATION                       PARCELLE          DISTANCE         LOGTS        SURFACE             LIEU-DIT / VOIE
+
+  12/08/2026           Déclaration préalable              CR 180            380 m            1            –                   RUE DU DOCTEUR
+                                                                                                                              DESPRES
+
+  28/10/2024           Permis de construire               CR 442            310 m            1            45 m²               RUE DOCTEUR DESPRES
+
+  25/04/2022           Permis de construire               CT 140            380 m            1            94 m²               RUE DE VERGY
+
+  09/01/2020           Permis de construire               CR 456            400 m            1            99 m²               RUE DU GENERAL
+                                                                                                                              MAISTRE
+
+  04/02/2019           Permis de construire               BN 84             380 m            1            –                   RUE JEAN JAURES
+
+
+
+5 autorisations créant des logements recensées dans un rayon de 500 m : la construction a été admise récemment
+dans le voisinage immédiat.
+
+Source : base Sitadel des autorisations d'urbanisme créant des logements (SDES). Un permis accordé à proximité montre
+que des constructions ont été admises dans le secteur, sans préjuger de la décision sur votre propre projet.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              32 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Saint-Dizier · CR 388
+          TerrenUrbanisme
+                                                                                                              10 · Opportunités autour du terrain
+
+
+
+
+      10           Opportunités autour du terrain
+      DANS CETTE SECTION
+
+      Ce qui se passe autour de la parcelle : grands terrains peu bâtis, sociétés propriétaires en
+      difficulté, logements énergivores. Des pistes pour un investisseur, un voisin ou un professionnel.
+
+
+Bodacc (procédures collectives), ADEME (diagnostics énergétiques), cadastre, BD TOPO et Géoportail de l'Urbanisme.
+
+
+
+10.1 Grands terrains peu bâtis à proximité
+Parcelles de plus de 1 200 m², situées en zone urbaine ou à urbaniser du PLU, dans un rayon de 250 m, dont
+moins de 8 % de la surface est bâtie, hors terrains publics : un potentiel de construction ou de division à
+étudier.
+
+  PARCELLE           SURFACE                BÂTI               ZONE               DISTANCE           PROPRIÉTAIRE
+
+  ZI 24              64 092 m²              non bâti           2AU                340 m              particulier (non publié)
+
+  CS 11              4 820 m²               non bâti           2AU                280 m              particulier (non publié)
+
+  CS 100             3 589 m²               256 m²             Uc                 220 m              particulier (non publié)
+
+  CS 101             2 706 m²               140 m²             Uc                 330 m              particulier (non publié)
+
+  CS 117             1 225 m²               non bâti           Uem                240 m              SCI SALODIZ (SCI)
+
+
+
+
+10.2 Logements classés F ou G autour du terrain
+Logements diagnostiqués F ou G dans un rayon de 350 m. Leur location est déjà interdite (G) ou le sera en
+2028 (F) : leurs propriétaires sont souvent vendeurs, ou doivent engager des travaux de rénovation.
+
+  PARCELLE                   ADRESSE                                        CLASSE LOGEMENT                   SURFACE      DISTANCE DPE DU
+
+  Section CR n°              63 Rue du Docteur Despres                      F            Appartemen           48 m²        240 m        06/01/2026
+  207                        52100 Saint-Dizier                                          t
+
+  Section CR n° 78           9 Passage du Colonel Raynal                    F            Maison               74 m²        270 m        19/02/2025
+                             52100 Saint-Dizier · propriétaire
+                             : RAYNAL (SCI)
+
+  Section CR n° 76           5 Passage du Colonel Raynal                    G            Maison               53 m²        300 m        11/07/2024
+                             52100 Saint-Dizier
+
+  –                          5 Rue de Vergy 52100                           G            Maison               78 m²        310 m        15/12/2025
+                             Saint-Dizier
+
+  Section CS n° 60           Rue de Vergy 52100 Saint-Dizier                F            Maison               102 m²       320 m        20/12/2023
+
+  Section CR n°              4 Impasse Poignault 52100                      F            Maison               102 m²       330 m        17/03/2025
+  152                        Saint-Dizier
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            33 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                              10 · Opportunités autour du terrain
+
+
+
+
+  PARCELLE                   ADRESSE                                        CLASSE LOGEMENT                   SURFACE      DISTANCE DPE DU
+
+  –                          16 Rue de Vergy 52100                          G            Maison               47 m²        340 m        16/11/2021
+                             Saint-Dizier
+
+  –                          16 Rue du Colonel Raynal 52100                 G            Maison               170 m²       350 m        16/04/2026
+                             Saint-Dizier
+
+
+
+La parcelle est celle du point d'adresse du logement (cadastre). Pour connaître son propriétaire lorsqu'il s'agit d'un particulier,
+demandez un relevé de propriété au service de la publicité foncière ou à la mairie.
+
+Ces informations proviennent de bases publiques et ne préjugent ni de l'intention de vendre des propriétaires ni de la
+constructibilité des parcelles citées, qui relève d'une étude au cas par cas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            34 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Saint-Dizier · CR 388
+           TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+      11           Votre projet, étape par étape
+De l'achat du terrain à la déclaration aux impôts : démarches, délais, coûts et contacts.
+
+
+
+11.1 Analyse
+Le terrain est soumis au plan local d'urbanisme (PLU) de Saint-Dizier. Il est classé en zone N2020. Zone
+naturelle et forestière : secteur protégé en raison de la qualité des sites, des milieux naturels et des
+paysages, ou de son caractère d'espace naturel. Les constructions nouvelles n'y sont pas admises, sauf
+exceptions encadrées (équipements publics, extension limitée des habitations existantes, secteurs de
+taille et de capacité limitées).
+
+En l'état, une construction nouvelle n'est pas possible. Seules des évolutions limitées peuvent être
+envisagées selon le règlement de la zone (extension mesurée d'une habitation existante, annexes,
+équipements publics). Le classement ne peut évoluer qu'à l'occasion d'une modification ou d'une révision
+du document d'urbanisme, à l'initiative de la commune.
+
+
+11.2 Votre projet, étape par étape
+Les étapes ci-dessous suivent l'ordre réel d'un projet de construction, de l'achat du terrain à la déclaration aux
+impôts. Les montants sont indicatifs et à confirmer par devis.
+
+  1      Avant d'acheter le terrain
+         Vérifiez les règles de la zone (chapitres précédents), puis demandez un certificat d'urbanisme opérationnel
+         (Cerfa 13410, sans frais, réponse sous 2 mois) : il fige les règles pendant 18 mois. En zone d'argiles d'aléa
+         moyen ou fort, le vendeur doit fournir une étude de sol préalable.
+         Contact : Mairie de Saint-Dizier · 03 25 07 31 31 · com@mairie-saintdizier.fr · formulaire sur service-public.fr
+         (rechercher « Cerfa 13410 »)
+
+  2      Les études
+         Étude de sol géotechnique (G2) pour dimensionner les fondations : 1 500 à 3 000 €. Étude thermique RE2020,
+         obligatoire pour le permis : 500 à 1 500 €. Bornage par un géomètre si les limites sont incertaines. L'étude de
+         sol ne porte pas sur les espèces protégées : un écologue n'intervient qu'en cas d'enjeu (chapitre
+         Environnement).
+         Géomètres proches du terrain : liste à la fin de ce chapitre
+
+  3      Les plans
+         Architecte obligatoire si la surface de plancher totale dépasse 150 m². En dessous, vous pouvez dessiner les
+         plans vous-même ou faire appel à un dessinateur ou maître d'œuvre (environ 1 500 à 4 000 € le dossier de
+         permis). Architecte : 3 000 à 8 000 € pour la seule mission de permis, 8 à 12 % du coût des travaux pour une
+         mission complète avec suivi du chantier.
+         Trouver un architecte : annuaire de l'Ordre des architectes sur architectes.org
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          35 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+  4      Déposer le permis
+         Formulaire Cerfa 13406 (maison individuelle) et pièces PCMI1 à PCMI8 : plan de situation, plan de masse,
+         coupe, notice, plans des façades et toitures, insertion dans le paysage, photos, attestation RE2020. Dépôt en
+         mairie ou en ligne sur le guichet numérique de la commune. La mairie a 1 mois pour réclamer une pièce
+         manquante ; l'instruction dure 2 mois à partir du dossier complet, plus en secteur protégé.
+         Dépôt : Mairie de Saint-Dizier · 03 25 07 31 31 · com@mairie-saintdizier.fr · formulaire sur service-public.fr
+         (rechercher « Cerfa 13406 »)
+
+  5      Affichage et recours
+         Dès l'accord, installez le panneau de permis sur le terrain, lisible depuis la voie, pendant toute la durée du
+         chantier. Les tiers ont 2 mois à compter du premier jour d'affichage pour contester ; la mairie peut retirer un
+         permis illégal pendant 3 mois. Faites constater l'affichage par un commissaire de justice (environ 300 à 600 €
+         pour les trois constats).
+         Commissaires de justice : annuaire sur commissaire-justice.fr
+
+  6      Avant les travaux
+         Souscrivez l'assurance dommages-ouvrage, obligatoire (souvent 2 à 4 % du coût de la construction). Signez
+         le contrat de construction de maison individuelle ou les marchés des artisans. Déposez la déclaration
+         d'ouverture de chantier (Cerfa 13407) le jour du démarrage. Le permis est valable 3 ans, prorogeable deux
+         fois d'un an.
+         Déclaration d'ouverture : Mairie de Saint-Dizier · 03 25 07 31 31 · com@mairie-saintdizier.fr
+
+  7      Le financement
+         La banque débloque le prêt au fur et à mesure du chantier, sur présentation des factures des entreprises ou
+         des appels de fonds du constructeur. Avec un contrat de construction de maison individuelle, l'échéancier
+         est encadré par la loi : 15 % à l'ouverture du chantier, 25 % aux fondations, 40 % aux murs, 60 % hors d'eau,
+         75 % hors d'air et cloisons, 95 % aux équipements, le solde à la réception. Des intérêts intercalaires peuvent
+         courir sur les sommes débloquées.
+         Votre banque ou votre courtier
+
+  8      La fin du chantier
+         Réception des travaux avec le constructeur ou les artisans, avec réserves si nécessaire. Déposez ensuite la
+         déclaration attestant l'achèvement et la conformité des travaux (DAACT, Cerfa 13408), avec l'attestation
+         RE2020 de fin de chantier. La mairie a 3 mois pour la contester (5 mois en secteur protégé).
+         Dépôt : Mairie de Saint-Dizier · 03 25 07 31 31 · com@mairie-saintdizier.fr
+
+  9      Les impôts
+         Dans les 90 jours suivant l'achèvement, déclarez la construction sur impots.gouv.fr, espace « Gérer mes
+         biens immobiliers ». Cette déclaration sert au calcul de la taxe d'aménagement (payée en une fois sous 1 500
+         €, sinon en deux fois, estimation plus bas dans ce chapitre) et de la taxe foncière, avec une exonération
+         possible les deux premières années selon la commune.
+         impots.gouv.fr › Espace particulier › Gérer mes biens immobiliers
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          36 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+11.3 Les points à vérifier pour ce terrain
+  1      Certificat d'urbanisme opérationnel
+         Le demander en mairie (formulaire Cerfa 13410), en décrivant le projet. Délivré sans frais, il indique si le
+         terrain peut accueillir le projet et fige les règles d'urbanisme pendant 18 mois.
+
+  2      Règlement de la zone
+         Lire le règlement écrit de la zone N2020 et, le cas échéant, les orientations d'aménagement, disponibles
+         sur le Géoportail de l'Urbanisme.
+
+  3      Réseaux et accès
+         Vérifier l'accès à une voie publique ou privée adaptée, la desserte en eau potable et en électricité, et le
+         mode d'assainissement. En l'absence de réseau collectif, une étude de sol et l'avis du service public
+         d'assainissement non collectif (SPANC) sont nécessaires.
+
+  4      Architecte des Bâtiments de France
+         Le projet sera soumis à l'architecte des Bâtiments de France : le rencontrer avant de dessiner le projet
+         (rendez-vous par la mairie ou l'unité départementale de l'architecture et du patrimoine), soigner
+         matériaux, teintes et toitures, et compter un mois de plus pour l'instruction.
+
+  5      Bornage
+         Faire réaliser un bornage par un géomètre-expert pour fixer les limites exactes et la surface réelle du
+         terrain.
+
+  6      Sécuriser un achat
+         Pour une acquisition, prévoir dans le compromis une condition suspensive d'obtention d'un permis de
+         construire purgé de tout recours.
+
+
+11.4 Délais indicatifs d'instruction
+  DEMANDE                                                                                 DÉLAI DE DROIT COMMUN
+
+  Certificat d'urbanisme d'information (CUa)                                              1 mois
+
+  Certificat d'urbanisme opérationnel (CUb)                                               2 mois
+
+  Déclaration préalable                                                                   1 mois
+
+  Permis de construire une maison individuelle                                            2 mois
+
+  Permis d'aménager, autres permis de construire                                          3 mois
+
+
+
+Ces délais peuvent être majorés, notamment en site classé ou inscrit, aux abords d'un monument historique ou lorsque la
+consultation d'un service extérieur est nécessaire.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          37 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+11.5 Implanter une entreprise : zone France Ruralités Revitalisation
+     La commune de Saint-Dizier est classée en zone France Ruralités Revitalisation (FRR) depuis le 1er
+     juillet 2024. Une entreprise qui s'y crée ou y est reprise peut être exonérée d'impôt sur les bénéfices
+     pendant 5 ans, puis partiellement pendant 3 ans.
+
+
+
+Impôt sur les bénéfices (IS ou IR)                    Exonération totale pendant 5 ans, puis exonération de 75 %, 50 % et 25
+                                                      % des bénéfices les 3 années suivantes
+
+Création ou reprise                                   Entre le 1er juillet 2024 et le 31 décembre 2029
+
+Activités concernées                                  Industrielle, commerciale, artisanale ou libérale
+
+Taille de l'entreprise                                Moins de 11 salariés
+
+Régime d'imposition                                   Régime réel obligatoire (micro-entreprise exclue, sauf option pour le
+                                                      réel)
+
+Implantation                                          Siège et totalité de l'activité dans la zone (activité sédentaire : 25 % du
+                                                      chiffre d'affaires au plus réalisé hors zone)
+
+Plafond                                               Aides de minimis : 300 000 € sur trois exercices
+
+Taxe foncière et CFE                                  Exonération possible si la commune ou l'intercommunalité l'a votée : à
+                                                      vérifier en mairie
+
+
+Exclus : les activités agricoles, la gestion ou la location d'immeubles (une SCI de location nue n'est pas éligible) et la
+location meublée sans services de type hôtelier. Une location touristique ou des chambres d'hôtes peuvent être éligibles si
+le ménage quotidien et le linge sont fournis et inclus dans le prix.
+
+Ces avantages dépendent de la situation de l'entreprise (article 44 quindecies A du code général des impôts). Faites valider
+votre éligibilité par votre expert-comptable ou le service des impôts des entreprises avant de vous installer.
+
+Source : ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 (collectivites-locales.gouv.fr).
+
+
+11.6 Géomètres proches du terrain
+Le géomètre-expert est le seul professionnel habilité à fixer les limites de propriété (bornage) et à établir les
+documents d'arpentage déposés au cadastre. Il intervient aussi pour les relevés topographiques et les
+divisions de terrain.
+
+1,1 km            GEODATIS SELARL GEOMETRES EXPERTS
+                                                                                                                           Coordonnées
+                  22 RUE LOUIS ORTIZ 52100 SAINT-DIZIER
+
+
+1,3 km            CABINET GAUCHOTTE FRANCIS
+                                                                                                                           Coordonnées
+                  2 RUE LUCIEN FEZANDELLE 52100 SAINT-DIZIER
+
+
+21,1 km           PIECHOWSKI - LEBLANC - BRETON (FP GEOMETRE EXPERT) (FP GEOME
+                                                                          Coordonnées
+                  13 B PL NOTRE DAME 52220 LA PORTE DU DER
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          38 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+21,1 km           FREDERIC PRIVE
+                                                                                                                           Coordonnées
+                  13 B PL NOTRE DAME 52220 LA PORTE DU DER
+
+
+58,6 km           JOHANN BOURRIER
+                                                                                                                           Coordonnées
+                  13 AVENUE DES ETATS-UNIS 52000 CHAUMONT
+
+
+58,8 km           EURL CARDINAL LONGECHAMP
+                                                                                                                           Coordonnées
+                  7 AV M ET G DEBERNARDI 52000 CHAUMONT
+
+
+Source : répertoire Sirene de l'INSEE (activité des géomètres), classé par distance au terrain. L'inscription d'un cabinet à l'Ordre
+des géomètres-experts se vérifie sur geometre-expert.fr. Le bouton « Coordonnées » ouvre la fiche du cabinet (téléphone,
+horaires, itinéraire). Cette liste est fournie à titre indicatif, sans partenariat ni recommandation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          39 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                           12 · État des risques (ERP) pré-rempli
+
+
+
+
+    12             État des risques (ERP) pré-rempli
+     DANS CETTE SECTION
+
+     Le formulaire réglementaire à remettre à l'acquéreur ou au locataire, pré-rempli à partir des
+     bases officielles : plans de prévention, sismicité, radon, sols pollués, trait de côte, bruit des
+     aérodromes.
+
+
+Articles L. 125-5 à L. 125-7 et R. 125-23 à R. 125-27 du Code de l'environnement · modèle fixé par l'arrêté du 27 septembre
+2022.
+
+
+     Formulaire pré-rempli à partir de Géorisques et du Géoportail de l'Urbanisme à la date du rapport.
+     Avant de le remettre à l'acquéreur ou au locataire, le vendeur ou le bailleur le vérifie, le complète
+     (sinistres indemnisés) et le signe ; il doit dater de moins de six mois à la signature de la promesse, du
+     bail ou de l'acte.
+
+
+
+
+12.1 Situation du bien
+Commune                                                  Saint-Dizier (52448)
+
+Département                                              Haute-Marne (52)
+
+Références cadastrales                                   Section CR, parcelle n° 388 · 52448000CR0388
+
+Surface cadastrale                                       1 218 m²
+
+
+
+12.2 Plans de prévention des risques
+  L'IMMEUBLE EST SITUÉ DANS LE PÉRIMÈTRE…                                         RÉPONSE                DÉTAIL
+
+  d'un plan de prévention des risques naturels (PPRN)                             Oui                    PM1 PPRI Marne Aval ass
+  prescrit, appliqué par anticipation ou approuvé
+
+  d'un plan de prévention des risques miniers (PPRM)                              Non                    Non recensé
+
+  d'un plan de prévention des risques technologiques                              Non                    Risques technologiques sur la commune
+  (PPRT)                                                                                                 : installations industrielles (icpe),
+                                                                                                         canalisations de matières dangereuses,
+                                                                                                         pollution des sols
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       40 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                           12 · État des risques (ERP) pré-rempli
+
+
+
+
+12.3 Autres zonages réglementaires
+  L'IMMEUBLE EST SITUÉ…                                                           RÉPONSE                DÉTAIL
+
+  dans une commune de sismicité (zones 2 à 5 : règles de                          Non                    Zone 1 – très faible
+  construction parasismique)
+
+  dans une commune à potentiel radon de niveau 3                                  Non                    Catégorie 1 (potentiel faible)
+
+  dans un secteur d'information sur les sols (SIS)                                Non                    Aucun SIS recensé à proximité
+
+  dans une zone exposée au recul du trait de côte                                 Non                    Non concerné selon Géorisques
+
+  dans une zone de bruit d'un plan d'exposition au bruit                          À vérifier             Aucun PEB annexé au document
+  d'aérodrome (PEB)                                                                                      d'urbanisme ; vérifier auprès de la mairie
+
+  dans une zone de retrait-gonflement des argiles                                 Oui                    Existant – modéré
+  (information)
+
+
+
+
+12.4 Sinistres indemnisés et déclarations
+Arrêtés de catastrophe naturelle sur la commune : 15 (liste en section Risques). Le vendeur ou le bailleur
+déclare ci-dessous les sinistres ayant donné lieu à une indemnisation au titre des catastrophes naturelles ou
+technologiques pendant la période où il a été propriétaire.
+
+Sinistres indemnisés                                     [ ] Oui [ ] Non
+
+Vendeur ou bailleur                                      Nom : ____________________ Date : ___/___/______ Signature :
+
+Acquéreur ou locataire                                   Nom : ____________________ Date : ___/___/______ Signature :
+
+
+L'état des risques officiel peut aussi être édité sans frais sur Géorisques (errial.georisques.gouv.fr). Les informations
+ci-dessus sont établies à partir des bases nationales ; en cas de divergence, l'arrêté préfectoral relatif à l'information des
+acquéreurs et des locataires fait foi.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           41 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                                      13 · Avertissement et sources
+
+
+
+
+    13             Avertissement et sources
+     DANS CETTE SECTION
+
+     La portée de ce rapport et la liste des sources publiques consultées.
+
+
+
+13.1 Nature du document
+Ce rapport est un document d'information établi automatiquement, à la date indiquée en page de garde, à
+partir des données publiques officielles alors disponibles. Il n'a aucune valeur contractuelle, réglementaire ou
+juridique.
+
+
+13.2 Ce que ce rapport n'est pas
+Il ne constitue ni un certificat d'urbanisme au sens de l'article L. 410-1 du Code de l'urbanisme, ni une
+autorisation d'urbanisme (permis de construire, permis d'aménager, déclaration préalable), ni un état des
+risques au sens de l'article L. 125-5 du Code de l'environnement, ni un bornage, ni une expertise, ni une
+évaluation immobilière, ni une consultation juridique. Il n'engage en rien l'administration.
+
+
+13.3 Permis de construire
+Ce rapport ne peut en aucun cas être joint, produit ou invoqué à l'appui d'une demande de permis de
+construire, de permis d'aménager ou de déclaration préalable, ni opposé à la mairie ou à un service de l'État. Il
+ne garantit pas l'obtention d'une autorisation : seule l'autorité compétente se prononce, au vu d'un projet
+précis et de l'ensemble des règles applicables à la date de sa décision.
+
+
+13.4 Limites des données
+Les données sont produites par des organismes publics dont l'éditeur n'est ni l'auteur ni le garant. Elles
+peuvent être incomplètes, imprécises ou ne pas refléter une modification, une révision, une mise en
+compatibilité, une annulation contentieuse, un sursis à statuer ou une procédure en cours. Le plan cadastral,
+document fiscal, ne fait pas foi des limites de propriété. Surfaces, distances, altitudes et pentes sont
+approchées. Les extraits et analyses du règlement sont une aide à la lecture : seul le texte intégral du
+document d'urbanisme approuvé, consultable en mairie, fait foi.
+
+
+13.5 Avant toute décision
+Avant toute acquisition, cession, financement, promesse de vente ou dépôt d'une demande, le lecteur doit
+obtenir un certificat d'urbanisme opérationnel auprès de la mairie, consulter le document d'urbanisme en
+vigueur et recueillir l'avis d'un professionnel habilité (notaire, architecte, géomètre-expert, avocat). Pour un
+achat, il est recommandé de stipuler une condition suspensive d'obtention d'un permis de construire purgé de
+tout recours.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          42 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                                      13 · Avertissement et sources
+
+
+
+
+13.6 Responsabilité
+L'éditeur ne saurait être tenu responsable d'une décision prise sur le seul fondement de ce rapport, ni d'un
+refus d'autorisation, d'une erreur ou d'une omission des sources publiques, dans les limites prévues par les
+conditions générales de vente acceptées lors de la commande.
+
+
+13.7 Sources consultées
+  DONNÉE                                                    SOURCE
+
+  Cadastre                                                  DGFiP, plan cadastral informatisé, via API Carto (IGN)
+
+  Photographies et plans                                    IGN, Géoplateforme : orthophotographies, Plan IGN, parcellaire express
+
+  Urbanisme                                                 Géoportail de l'Urbanisme : zonage, prescriptions, informations, servitudes
+                                                            d'utilité publique
+
+  Littoral                                                  IGN, BD TOPO (limite terre-mer) ; communes littorales (Géoportail de
+                                                            l'Urbanisme)
+
+  Montagne                                                  Ministère de la Cohésion des territoires, communes de la loi Montagne
+
+  Risques                                                   Géorisques (ministère de la Transition écologique) : rapport de risques,
+                                                            arrêtés CatNat, sismicité, radon, ICPE, sites pollués
+
+  Environnement                                             Inventaire national du patrimoine naturel (PatriNat), via API Carto
+
+  Altitude, pente et exposition                             IGN, RGE ALTI
+
+  Ensoleillement                                            Calcul astronomique de la course du soleil ; masque du relief (IGN, RGE
+                                                            ALTI) et des bâtiments (IGN, BD TOPO)
+
+  Voirie et accès                                           IGN, BD TOPO (tronçons de route)
+
+  Permis de construire                                      Sitadel, service des données et études statistiques (SDES) du ministère
+                                                            chargé du logement
+
+  Photographies anciennes                                   IGN, BD ORTHO historique
+
+  Fibre et internet                                         Arcep, Ma connexion internet (éligibilité par adresse)
+
+  Géomètres                                                 Répertoire Sirene (INSEE), activité des géomètres
+
+  Propriétaires personnes morales                           DGFiP, fichiers des parcelles des personnes morales (diffusion Koumoul)
+
+  Diagnostics énergétiques                                  ADEME, base des DPE des logements existants
+
+  Procédures collectives                                    Bodacc, annonces commerciales (DILA)
+
+  Bâtiments                                                 IGN, BD TOPO
+
+  Réseau électrique                                         Agence ORE (gestionnaires de réseaux de distribution : Enedis, EDF Corse
+                                                            et entreprises locales) : réseau basse tension et postes de distribution
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          43 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                                      13 · Avertissement et sources
+
+
+
+
+  DONNÉE                                                    SOURCE
+
+  Taxe d'aménagement                                        DGFiP, éléments de taxation votés par les collectivités ; valeurs forfaitaires
+                                                            fixées par arrêté
+
+  Rapport officiel de risques                               Géorisques, ministère chargé de l'environnement
+
+  Zone France Ruralités Revitalisation                      ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 ; article
+                                                            44 quindecies A du code général des impôts
+
+  Marché immobilier                                         Statistiques des demandes de valeurs foncières (DVF) par commune, DGFiP
+                                                            et Etalab
+
+  Date d'extraction                                         20/11/2026
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          44 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Saint-Dizier · CR 388
+         TerrenUrbanisme
+                                                                                                                     Annexe · règlement de la zone
+
+
+
+
+ANNEXE
+
+
+Règlement écrit · zone N2020
+Les pages suivantes reproduisent le chapitre du règlement officiel applicable à la zone de la parcelle
+(pages 137 à 144 du document approuvé), tel que publié sur le Géoportail de l'Urbanisme. Il s'agit d'une
+reproduction à titre d'information : seule la version approuvée tenue à disposition en mairie fait foi, avec
+ses annexes, plans et éventuelles modifications ultérieures.
+Règlement complet :
+https://data.geopf.fr/annexes/gpu/documents/DU_52448/e18ba836b72f1b0ac7bfc4bf15b9ab5e/52448_reglement_20250623.pdf
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          45 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+PLU Saint-Dizier – Règlement
+suite Modification simplifiée 14/02/2019 et Modification de droit commun 2025
+
+
+
+
+                            Dispositions applicables à la zone N
+
+PRÉAMBULE (EXTRAIT DU RAPPORT DE PRÉSENTATION)
+
+La zone N est une zone naturelle de protection stricte qui comprend notamment des espaces boisés
+classés.
+
+Une partie de la zone est intégrée dans le périmètre de protection au titre des monuments
+historiques (PPM).
+Une partie de la zone est concernée par les Plans de Prévention du Risque Inondation (PPRI) qui
+figurent en annexe du présent PLU. En cas de divergence entre les règles du PLU et des PPRI, c’est la
+règle la plus contraignante qui doit être appliquée. Les secteurs concernés sont identifiés sur les
+documents graphiques par l’intermédiaire d’une trame spécifique.
+Une partie de la zone est concernée par le Plan d’Exposition au Bruit.
+Une partie de la zone est concernée par la présence de cavités souterraines. Pour plus d’information,
+se reporter au tome 1 du rapport de présentation ou sur le site internet http://bdcavite.net.
+
+Cinq sous-secteurs ont été définis :
+    •  Secteur N2020 : zone naturelle à aménager en cohérence avec le projet Saint-Dizier 2020 ;
+    •  Secteur Ne : zone naturelle accueillant des activités ;
+    •  Secteur Nh : zone naturelle accueillant de l’habitat ;
+    •  Secteur Nl : zone naturelle à vocation de loisirs ;
+    •  Secteur Nj : secteurs de jardins ;
+    •  Secteur Ngdv : correspond à l’aire d’accueil des gens du Voyage située le long de la route de
+       Nancy (RD604).
+
+
+ARTICLE N.1 : OCCUPATIONS DU SOL INTERDITES
+
+      Dans les zones inondables telles que délimitées sur le règlement graphique, les occupations
+      et utilisations du sol peuvent être interdites en application des pièces écrites et graphiques des
+      Plans de Prévention du Risque Inondation (PPRI) correspondant joints en annexe.
+      Dans l’ensemble de la zone N, sont interdites les occupations et utilisations du sol suivantes :
+          • Toutes les occupations et utilisations du sol non mentionnées à l’article N.2.
+          • Dans les espaces boisés classés, les défrichements, ainsi que toute occupation ou
+              utilisation du sol susceptible de compromettre la vocation de l’espace.
+
+ARTICLE N.2 : OCCUPATIONS ET UTILISATIONS DU SOL SOUMISES À DES CONDITIONS
+PARTICULIÈRES
+
+2.1    Dispositions générales
+      Dans les zones inondables telles que délimitées sur le règlement graphique, les occupations
+      et utilisations du sol sont soumises à l’application des pièces écrites et graphiques des Plans
+      de Prévention du Risque Inondation (PPRI) correspondant joints en annexe. Des cotes de seuil
+      pourront être imposées pour leur application.
+
+
+
+
+                                                  137
+PLU Saint-Dizier – Règlement
+suite Modification simplifiée 14/02/2019 et Modification de droit commun 2025
+
+
+
+
+      Dans l’ensemble de la zone N, sont autorisées sous réserve de conditions particulières les
+      occupations et utilisations du sol suivantes :
+         • L’aménagement, la réfection, le changement de destination des constructions
+            existantes sous réserve ne pas altérer la valeur écologique et paysagère du site et de ne
+            présenter aucun risque de nuisance de quelque nature que ce soit pour le milieu
+            naturel ;
+         • Les aménagements légers et objets mobiliers destinés à l’accueil ou à l’information du
+            public s’ils sont nécessaires à la gestion ou à l’ouverture au public d’espaces naturels, à
+            condition que leur localisation et leur aspect ne dénaturent pas le caractère des sites et
+            ne portent pas atteinte à la préservation des milieux ;
+         • Les ouvrages techniques et les installations nécessaires aux services publics ou d’intérêt
+            collectif et au fonctionnement de la zone ;
+         • Les affouillements et exhaussements de sol à condition qu’ils contribuent à
+            l’amélioration de l’environnement et de l’aspect paysager, ou qu’ils soient rendus
+            nécessaires pour la recherche ou la mise en valeur d’un site ou de vestiges
+            archéologiques, ou pour des raisons fonctionnelles ou de raccordement aux réseaux, ou
+            pour l’exploitation et l’entretien du canal dit « entre Champagne et Bourgogne » ;
+         • Les aires de stationnement si elles répondent aux conditions cumulatives suivantes :
+           o Elles répondent strictement aux besoins induits par les constructions ou occupations
+                présentes ou autorisées sur la zone ;
+           o Elles proposent une intégration paysagère qualitative ;
+           o Elles préservent la perméabilité des sols et ne portent pas atteinte à la préservation
+                des milieux.
+
+2.2    Dispositions particulières applicables au secteur N2020
+      En outre sont autorisées, les occupations et utilisations du sol suivantes :
+         • Les occupations et aménagements légers liés à la mise en valeur du site et aux pratiques
+            de loisirs.
+         • Le stationnement de caravanes en lien avec l’activité touristique, de loisir ou lié à une
+            manifestation occasionnelle.
+
+2.3    Dispositions particulières applicables au secteur Nl
+      En outre sont autorisées sous réserve de conditions particulières les occupations et utilisations
+      du sol suivantes :
+         • Les constructions nécessaires à la mise en valeur touristique et aux activités de loisirs et
+             de camping ;
+         • Le stationnement de caravanes en lien avec l’activité touristique ou de loisir.
+
+
+2.4    Dispositions particulières applicables au secteur Nh et Ne
+      En outre sont autorisées sous réserve de conditions particulières les occupations et utilisations
+      du sol suivantes :
+         • Les extensions et les annexes des constructions existantes à la date d’approbation du
+             PLU, sont autorisées dans le respect de la règle d’extension limitée (cf. TITRE 1 :
+             Définition).
+
+2.5    Dispositions particulières applicables au secteur Nj
+      En outre sont autorisées sous réserve de conditions particulières les occupations et utilisations
+      du sol suivantes :
+         • les abris de jardins et autres bâtiments de gestion collective liés à l’activité autorisée
+             dans la zone (jardins ouvriers, jardins partagés,…).
+
+                                                  138
+PLU Saint-Dizier – Règlement
+suite Modification simplifiée 14/02/2019 et Modification de droit commun 2025
+
+
+
+
+2.6    Dispositions particulières applicables au secteur Ngdv
+      En outre sont autorisées sous réserve de conditions particulières les occupations et utilisations
+      du sol suivantes :
+         • le stationnement de caravanes ;
+         • les constructions légères destinées au service public ou d’intérêt collectif.
+
+
+ARTICLE N.3 : CONDITIONS DE DESSERTE DES TERRAINS PAR LES VOIES PUBLIQUES OU
+PRIVÉES ET D’ACCÈS AUX VOIES OUVERTES AU PUBLIC
+
+3.1     Dispositions générales
+      Pour être constructible, un terrain doit avoir accès à une voie publique ou privée ouverte à la
+      circulation, soit directement, soit par l’intermédiaire d’un passage aménagé sur fonds voisin.
+      Les caractéristiques et la configuration de ces voies doivent :
+          • Répondre à l’importance et à la destination des constructions projetées ;
+          • Permettre la circulation et l’utilisation des moyens de secours et des engins de lutte
+             contre l’incendie ;
+          • Permettre d’assurer la sécurité des usagers au regard de la nature et de l’intensité de
+             trafic.
+
+3.2    Voies nouvelles
+      Toute voie nouvelle doit à destination de circulation routière :
+         • Présenter une largeur initiale au moins égale à 3,50 m en tout point de la bande de
+            roulement ;
+         • S’intégrer au maillage viaire environnant et participer à une bonne desserte du quartier ;
+         • Les voies nouvelles en impasse ne sont autorisées que lorsqu’il n’y a aucune possibilité
+            de raccordement à une voie existante ou future. Lorsqu’elles sont autorisées, les voies
+            nouvelles en impasse doivent être aménagées à leur extrémité pour permettre aux
+            véhicules, notamment de collecte des ordures et de lutte contre l’incendie, de faire
+            demi-tour.
+
+3.3    Conditions d’accès aux voies
+      Pour toute construction nouvelle, quelle que soit sa superficie, tout accès à une voie publique
+      ou privée doit respecter les conditions suivantes :
+         • Permettre d’assurer la sécurité des usagers des voies et accès au travers notamment de
+            la position de l’accès, de sa configuration, sa nature et de l’intensité du trafic. Des accès
+            peuvent être interdits du fait de leur position vis-à-vis de la voie ;
+         • Pour les constructions individuelles à usage d’habitation, un seul accès sera recherché
+            sauf si les conditions de desserte l’imposent.
+
+ARTICLE N.4 : CONDITIONS DE DESSERTE DES TERRAINS PAR LES RÉSEAUX PUBLICS D’EAU,
+D’ÉLECTRICITÉ ET D’ASSAINISSEMENT
+
+4.1     Alimentation en eau potable
+      Pour être constructible, un terrain doit être desservi par un réseau d’eau potable respectant
+      la réglementation en vigueur.
+      Les captages, forages ou prises d'eau autonomes sont soumis à l'accord préalable des autorités
+      compétentes.
+
+
+
+                                                  139
+PLU Saint-Dizier – Règlement
+suite Modification simplifiée 14/02/2019 et Modification de droit commun 2025
+
+
+
+
+4.2     Assainissement
+        Toute construction ou installation nouvelle sera raccordée aux réseaux publics de collecte en
+        respectant leurs caractéristiques. En l’absence de réseau collecteur, ou en cas d’impossibilité
+        technique de s’y raccorder, l’assainissement autonome est obligatoire. Il sera réalisé par un
+        dispositif conforme à la réglementation du SPANC, en réservant la possibilité d’un
+        raccordement ultérieur au réseau collectif.
+        4.2.1 Eaux usées
+      Toute évacuation des eaux ménagères ou des effluents non traités dans les fossés, cours d'eau
+      et réseaux d’eaux pluviales est interdite.
+      Les eaux claires (eaux provenant du drainage, des nappes souterraines, des sources, des
+      pompes à chaleur…) ne doivent en aucun cas être déversées dans les réseaux d’eaux usées
+      stricts.
+      Le rejet des eaux usées résiduaires liées à l’activité industrielle dans le réseau collectif n’est
+      possible que dans le respect du règlement d’assainissement en annexe. Il pourra être soumis
+      à un prétraitement.
+          4.2.2 Eaux pluviales
+      Pour toutes les constructions neuves et les opérations d'aménagement, les réseaux d'eaux
+      usées et d'eaux pluviales doivent être réalisés selon un système séparatif.
+      Si la nature du sol et du sous-sol le permet, pour tout projet, qu'il s'agisse d'opérations
+      nouvelles ou de réhabilitations, les eaux pluviales doivent être infiltrées au sein de l’opération.
+      Les rejets directs dans le milieu naturel doivent être effectués après traitement pour les eaux
+      susceptibles de contenir des hydrocarbures : parkings, voiries, etc.
+      Si la capacité d'infiltration est insuffisante, ou si l'infiltration est déconseillée ou
+      techniquement non réalisable, l'excédent d'eau est rejeté sur le domaine public avec un débit
+      limité, précisé dans les annexes sanitaires du PLU en fonction des différents secteurs de la ville.
+      Cela implique de gérer sur l’unité foncière ou le périmètre de l’opération d’aménagement
+      l'excès de ruissellement produit par les surfaces imperméabilisées et cela pour une pluie
+      décennale.
+      En cas de rejet partiel ou total des eaux pluviales dans le réseau public, les aménagements
+      réalisés sur tout terrain doivent être tels qu’ils garantissent l’évacuation de ces eaux dans le
+      réseau, conformément règlement d’assainissement figurant dans les annexes sanitaires.
+      Lorsque le réseau d’eau pluvial est trop fortement contraint pour recueillir un volume d’eaux
+      pluviales supplémentaire, la Ville de Saint-Dizier peut imposer un débit de fuite maximum
+      inférieur à celui fixé dans les annexes sanitaires, voire interdire tout rejet dans le réseau. Les
+      eaux pluviales doivent alors être gérées à l’échelle de l’opération.
+
+4.3      Electricité
+      Toute construction ou installation nouvelle doit pouvoir être raccordée en souterrain depuis
+      le domaine public en un point à déterminer en accord avec la commune et les services
+      techniques gestionnaires.
+      Les canalisations et câbles mis en place dans le domaine privé sont à la charge de l’aménageur.
+      Il est rappelé qu’une déclaration doit être faite auprès du représentant local de la distribution
+      avant d’entreprendre des travaux à proximité d’une ligne électrique.
+      Les différents coffrets de branchement seront accessibles en permanence depuis le domaine
+      public et incorporés aux façades ou à la clôture.
+
+ARTICLE N.5 : SUPERFICIE MINIMALE DES TERRAINS CONSTRUCTIBLES
+
+      Non réglementé.
+
+
+                                                  140
+PLU Saint-Dizier – Règlement
+suite Modification simplifiée 14/02/2019 et Modification de droit commun 2025
+
+
+
+
+ARTICLE N.6 : IMPLANTATION DES CONSTRUCTIONS PAR RAPPORT AUX EMPRISES
+PUBLIQUES ET AUX VOIES
+
+6.1     Dispositions générales
+      Les constructions et installations nécessaires aux services publics ou d’intérêt collectif doivent
+      s’implanter à l’alignement ou selon un recul de 1 mètre minimum par rapport à l’alignement
+      des voies et emprises publiques.
+      Les pergolas/auvents de moins de 30m² ainsi que les piscines ont une implantation libre.
+      Les autres constructions doivent s’implanter en recul de 10 mètres minimum par rapport à
+      l’alignement des voies et emprises publiques, à l’exception des règles particulières définies par
+      secteurs.
+
+6.2     Dispositions particulières applicables aux secteurs N2020, Nl et Ngdv
+      Les constructions doivent s’implanter en recul de 5 mètres minimum par rapport à
+      l’alignement des voies et emprises publiques.
+      En outre, pour les constructions existantes à la date d’approbation du PLU et non implantées
+      conformément aux dispositions précédentes, les travaux d’extension ou de surélévation sont
+      autorisés dans le prolongement des murs existants.
+
+6.3    Dispositions particulières applicables aux secteurs Nh et Ne
+      Pour les constructions existantes à la date d’approbation du PLU et non implantées
+      conformément aux dispositions précédentes, les travaux d’extension ou de surélévation sont
+      autorisés dans le prolongement des murs existants.
+
+ARTICLE N.7 : IMPLANTATION DES CONSTRUCTIONS PAR RAPPORT AUX LIMITES
+SÉPARATIVES
+
+7.1     Dispositions générales
+      Les constructions et installations nécessaires aux services publics ou d’intérêt collectif peuvent
+      s’implanter sur une ou plusieurs limites séparatives ou selon un retrait minimal de 1 mètre.
+      Les autres constructions doivent s’implanter avec un retrait d’au moins 5 mètres par rapport
+      aux limites séparatives.
+      Les pergolas/auvents de moins de 30m² ainsi que les piscines ont une implantation libre.
+      Les constructions et installations nécessaires aux services publics ou d’intérêt collectif peuvent
+      s’implanter sur une ou plusieurs limites séparatives ou selon un retrait minimal de 5 mètres.
+
+7.2     Dispositions particulières applicables aux secteurs N2020, Nl
+      De plus, les constructions doivent être implantées à au moins 10m des berges de la Marne et
+      à au moins 5m des berges des autres cours d’eau, fossés et plans d’eau.
+
+7.3    Dispositions particulières applicables aux secteurs Nh, Ne et Ngdv
+      Pour les constructions existantes à la date d’approbation du PLU et non implantées
+      conformément aux dispositions précédentes, les travaux d’extension ou de surélévation sont
+      autorisés dans le prolongement des murs existants.
+
+
+
+
+                                                  141
+PLU Saint-Dizier – Règlement
+suite Modification simplifiée 14/02/2019 et Modification de droit commun 2025
+
+
+
+
+ARTICLE N.8 : IMPLANTATION DES CONSTRUCTIONS LES UNES PAR RAPPORT AUX AUTRES
+SUR UNE MÊME PROPRIÉTÉ
+
+       Non réglementé.
+
+ARTICLE N.9 : EMPRISE AU SOL DES CONSTRUCTIONS
+
+9.1      Dispositions générales
+       L’emprise au sol maximale des constructions est fixée à 5% de la superficie de l’unité foncière,
+       à l’exception de règles différentes selon les secteurs.
+       En outre, il n’est pas fixé de règle pour les constructions et installations nécessaires aux
+       services publics ou d’intérêt collectif.
+       Toutefois, dans les zones inondables telles que délimitées sur le règlement
+       graphique, l’emprise au sol maximale des constructions est soumise à l’application des pièces
+       écrites et graphiques des Plans de Prévention du Risque Inondation (PPRI) correspondant
+       joints en annexe.
+
+9.2      Dispositions particulières applicables aux secteurs N2020, Nl et Ngdv
+       L’emprise au sol maximale des constructions est fixée à 20% de la superficie de l’unité foncière.
+
+ARTICLE N.10 : HAUTEUR MAXIMALE DES CONSTRUCTIONS
+
+10.1     Dispositions générales
+       La hauteur maximale des constructions est limitée à 5 mètres.
+       Cette règle ne s’applique pas aux installations nécessaires aux services publics ou d’intérêt
+       collectif.
+       En outre, ne sont pas comptés dans le calcul de la hauteur les dispositifs nécessaires à
+       l’utilisation des énergies renouvelables, les locaux techniques et antennes à condition que leur
+       hauteur n’excède pas 2 mètres.
+       Pour les constructions existantes à la date d’approbation du PLU et non implantées
+       conformément aux dispositions précédentes, les travaux d’extension ou de surélévation sont
+       autorisés dans le prolongement des murs existants.
+
+10.2    Dispositions applicables aux secteurs N2020, Ne, Nh et Nl
+       La hauteur maximale des constructions est limitée à 9 mètres.
+
+ARTICLE N.11 : ASPECT EXTÉRIEUR DES CONSTRUCTIONS ET AMÉNAGEMENT DE LEURS
+ABORDS
+
+11.1     Dispositions générales
+       Toute construction nouvelle devra faire l’objet d’une intégration paysagère qualitative. Les
+       couleurs et les matériaux utilisés devront participer à la qualité du paysage.
+       Les imitations de matériaux dessinées ou peintes, tels que fausses briques, faux moellons, faux
+       bois, etc., sont interdites.
+       L’utilisation de matériaux brillants est interdite, à l’exception des panneaux solaires et
+       photovoltaïques.
+
+11.2    Clôture
+       Les clôtures seront autorisées dans une limite de hauteur de 1,80 mètre.
+
+                                                  142
+PLU Saint-Dizier – Règlement
+suite Modification simplifiée 14/02/2019 et Modification de droit commun 2025
+
+
+
+
+       Elles devront s’intégrer au paysage environnant.
+       Les murs pleins sont autorisés uniquement pour délimiter les espaces extérieurs des maisons
+       d’habitation existantes.
+       Dans tous les cas, elles devront garantir la circulation de la petite faune.
+
+ARTICLE N.12 : OBLIGATIONS IMPOSÉES AUX CONSTRUCTEURS EN MATIÈRE DE
+RÉALISATION D’AIRES DE STATIONNEMENT
+
+       Le stationnement des véhicules est assuré en dehors de la voie publique sur le terrain
+       d'assiette ou dans son environnement immédiat. Dans le cas de création de place de
+       stationnement voiture, des places de stationnement vélos devront également être réalisées.
+       Le nombre de places de stationnement est déterminé par la capacité d’accueil des
+       constructions ou de la dimension des aménagements recevant du public.
+
+ARTICLE N.13 : ESPACES LIBRES ET PLANTATIONS
+
+13.1    Coefficient d’espaces verts
+
+         13.1.1 Dispositions particulières applicables aux secteurs N et Nj
+       Au moins 80% de la superficie de l’unité foncière doivent être traités en espaces verts de pleine
+       terre.
+
+         13.1.2 Dispositions particulières applicables aux secteurs N2020, Nl
+       Au moins 80% de la superficie de l’unité foncière doivent être maintenus en espaces
+       perméables.
+       Au moins 50% de la superficie de l’unité foncière doivent être constitués de pleine terre et
+       incluse dans la partie espaces perméables.
+
+        13.1.3 Dispositions particulières applicables aux secteurs Nh et Ne
+       Au moins 50% de la superficie de l’unité foncière doivent être maintenus en espaces
+       perméables.
+       Au moins 30% de la superficie de l’unité foncière doivent être constitués de pleine terre et
+       incluse dans la partie espaces perméables.
+
+       13.1.4 Dispositions générales
+       Un coefficient de pondération est défini pour le calcul de la surface minimum d’espaces
+       perméables (hors espaces verts de pleine terre) :
+          • 1,5 dans le cas de toitures végétalisées,
+          • 1 dans le cas d’espaces verts.
+          • 0,5 dans le cas de voiries de desserte ou de parcs de stationnement semi-perméables.
+       Les plantations devront être constituées d’essences locales. Les choix d’essences et de
+       végétaux sur les espaces libres se feront notamment en fonction de leurs capacités de
+       captation et de rétention des polluants. L’implantation des zones végétalisées pourra intégrer
+       le rôle de «barrière filtrante» qu’elles peuvent jouer par rapport aux gaz d’échappement
+       provenant des voies routières.
+
+13.2      Dispositions paysagères
+       Il sera exigé la plantation d’1 arbre de haute tige par tranche de 50m² d’espaces verts (hors
+       parcs de stationnement publics ou privés).
+
+                                                  143
+ PLU Saint-Dizier – Règlement
+ suite Modification simplifiée 14/02/2019 et Modification de droit commun 2025
+
+
+
+
+        Les aires de stockage à l’air libre et les aires de gestion des déchets (bacs nécessaires aux
+        ordures ménagères, au tri sélectif…) doivent être dissimulées.
+        Les aires de stationnement (publiques ou privées) doivent faire l’objet d’un traitement
+        paysager de qualité, et comporter au moins 1 arbre de haute tige pour 100m². (soit un arbre
+        pour 4 places de stationnement)
+        Les haies végétales vives seront composées d’essences locales.
+
+ 13.3    Eléments de paysage
+        Les éléments de paysage identifiés sur le règlement graphique, doivent répondre aux
+       dispositions suivantes :
+Catégories    Représentation                             Prescriptions
+                                  Le classement, identifié au plan de zonage interdit tout changement
+                                  d'affectation ou tout mode d'occupation du sol de nature à
+                                  compromettre la conservation, la protection ou la création des
+ Espaces
+                                  boisements. Y sont notamment interdits, les recouvrements du sol par
+  Boisés
+                                  tous matériaux imperméables : ciment, bitume ainsi que les remblais.
+ Classés
+                                  Les coupes et abattages d'arbres sont soumis à déclaration préalable.
+                                  Les accès aux propriétés sont admis dans la mesure où ils ne
+                                  compromettent pas la préservation des boisements existants.
+
+ ARTICLE N.14 : COEFFICIENT D’OCCUPATION DES SOLS
+
+        Non réglementé.
+
+ ARTICLE N.15 : PERFORMANCES ÉNERGÉTIQUES ET ENVIRONNEMENTALES
+
+        Non réglementé.
+
+ ARTICLE N.16 : INFRASTRUCTURES ET RÉSEAUX DE COMMUNICATIONS ÉLECTRONIQUES
+
+        Non réglementé.
+
+
+
+
+                                                   144
+                    TerrenUrbanisme
+
+    Merci de votre confiance
+Ce rapport a été établi à partir des sources publiques officielles pour vous
+  aider à décider en connaissance de cause. Pour toute question, nous
+                        restons à votre disposition.
+
+
+
+
+   Vous êtes professionnel ? Travaillons ensemble
+      Agents immobiliers, notaires, architectes, géomètres, diagnostiqueurs,
+promoteurs, mairies : faisons équipe. Crédits professionnels sans abonnement, 5
+€ le rapport dès 50 crédits, votre logo sur les rapports, offre communale pour les
+                       mairies et partenariats sur mesure.
+
+               Écrivez-nous : contact@terrenurbanisme.com
+
+
+
+
+                        terrenurbanisme.com
+                         contact@terrenurbanisme.com
+

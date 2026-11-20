@@ -1,0 +1,3160 @@
+                  TerrenUrbanisme
+                  Le terrain constructible, partout en France
+
+
+
+
+RAPPORT D'URBANISME
+
+
+
+Montauban
+Section AT · Parcelle n° 279
+      Sous conditions
+
+
+
+
+Référence cadastrale                                                        Surface cadastrale
+82121000AT0279                                                              605 m²
+
+Rapport établi le                                                           Référence du rapport
+20/11/2026                                                                  APERCU
+
+
+
+
+terrenurbanisme.com                                                                      contact@terrenurbanisme.com
+
+Document d'information sans valeur contractuelle ni réglementaire. Il ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme
+et ne peut en aucun cas être joint à une demande de permis de construire ou de déclaration préalable. Seuls les actes de l'administration font foi.
+                                                                                                                           Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                                                  Sommaire
+
+
+
+
+Sommaire
+Le rapport suit l'ordre d'une étude de terrain : où se trouve la parcelle, ce que dit la règle, ce qui pèse sur le
+projet, puis les démarches.
+
+              Synthèse
+   S                                                                                                                                    p. 3
+              Le verdict, les indicateurs clés et les points d'attention en une page.
+
+              Identification de la parcelle
+   01                                                                                                                                   p. 4
+              Localisation, surface, références cadastrales et voisinage du terrain.
+
+              Règles d'urbanisme applicables
+  02                                                                                                                                    p. 7
+              Document d'urbanisme, zone du terrain, prescriptions et servitudes.
+
+              Ce que vous pouvez construire
+  03                                                                                                                                   p. 10
+              Surface constructible, hauteur, reculs, aspect et usages autorisés.
+
+              Loi Littoral et loi Montagne
+  04                                                                                                                                   p. 17
+              Les lois qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+              Risques naturels et technologiques
+  05                                                                                                                                   p. 18
+              Inondation, feu de forêt, argiles, catastrophes naturelles et sites pollués.
+
+              Le terrain : accès, relief et réseaux
+  06                                                                                                                                   p. 22
+              Accès, pente, ensoleillement, eaux usées, électricité, eau et fibre.
+
+              Environnement et marché immobilier
+  07                                                                                                                                   p. 29
+              Espaces naturels, espèces protégées et ventes immobilières alentour.
+
+              Historique du site
+  08                                                                                                                                   p. 32
+              Le terrain vu du ciel au fil des années et les permis accordés autour.
+
+              Opportunités autour du terrain
+  09                                                                                                                                  p. 34
+              Grands terrains peu bâtis et logements énergivores à proximité.
+
+              Votre projet, étape par étape
+   10                                                                                                                                  p. 36
+              De l'achat aux impôts : démarches, délais, coûts, contacts et taxe.
+
+              État des risques (ERP) pré-rempli
+   11                                                                                                                                 p. 40
+              Le formulaire réglementaire à remettre à l'acquéreur, pré-rempli.
+
+              Avertissement et sources
+   12                                                                                                                                  p. 42
+              La portée de ce rapport et les sources publiques consultées.
+
+              Annexe : règlement de la zone
+   A                                                                                                                                  p. 45
+              Les pages officielles du règlement de la zone, telles qu'approuvées.
+
+
+
+
+Astuce : cliquez sur un chapitre pour y accéder directement.
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                   2 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                                                          Synthèse
+
+
+
+
+Synthèse
+     Document d'information. Ce rapport ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme,
+     n'engage pas l'administration et ne peut pas servir de pièce à une demande de permis de construire.
+     L'appréciation ci-dessous est indicative : seule la mairie se prononce sur la constructibilité d'un terrain,
+     au vu d'un projet précis.
+
+
+
+
+       SOUS CONDITIONS
+
+       Construction possible sous conditions
+       La parcelle est classée en zone UE2 (urbaine) du plan local d'urbanisme de Montauban. Les
+       constructions y sont admises dans le respect du règlement de la zone. Des contraintes
+       particulières (risques ou protection du littoral) encadrent les projets.
+
+
+
+
+      Zone principale                                        Document d'urbanisme                                  Loi Littoral
+
+   UE2 · 100 %                                            PLU                                                    Ne s'applique pas
+
+
+
+
+      Loi Montagne                                           Risques à la parcelle
+
+   Ne s'applique pas                                      Remontée de nappe ·
+                                                          Séisme (+3)
+
+
+
+
+Points d'attention
+    Zone UE2 (100 % de la parcelle) : constructible.
+    Prescription du PLU : PPRN : Retrait-gonflement des argiles.
+    Retrait-gonflement des argiles (exposition moyenne) : en cas de vente d'un terrain non bâti
+    constructible, le vendeur doit fournir une étude géotechnique préalable (loi ELAN, article L. 132-5 du
+    Code de la construction et de l'habitation) ; une étude géotechnique de conception est exigée avant
+    de construire.
+    Pollution des sols : concerné à l'adresse de la parcelle (voir le chapitre « Risques naturels et
+    technologiques »).
+    40 arrêtés de catastrophe naturelle sur la commune.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          3 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+    01             Identification de la parcelle
+     DANS CETTE SECTION
+
+     Où se trouve le terrain, sa surface, ses références cadastrales, son propriétaire lorsqu'il s'agit
+     d'une société ou d'une collectivité, et la performance énergétique du bâti existant.
+
+
+Données du cadastre (DGFiP) et de l'IGN.
+
+
+     Plan de situation
+
+
+
+
+                                                                                                                            1 km
+
+
+
+Plan IGN · © IGN
+
+
+
+     Vue aérienne et plan cadastral
+
+
+
+
+                                                                                                                                      25 m
+
+
+
+Photographie aérienne et plan cadastral · © IGN
+
+
+Commune                                                  Montauban (82121)
+
+Département                                              Tarn-et-Garonne (82)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           4 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+Section et numéro                                        Section AT, parcelle n° 279, feuille 1
+
+Identifiant cadastral                                    82121000AT0279
+
+Surface cadastrale                                       605 m²
+
+Surface calculée (SIG)                                   625 m² · périmètre 114 m
+
+Coordonnées du centre                                    44.02164 N, 1.36456 E (WGS 84)
+
+Altitude                                                 de 104 à 105 m
+
+Pente estimée                                            2 % (terrain plutôt plat)
+
+Parcelles voisines                                       AT 278, AT 280, AT 281, AT 282, AT 283
+
+
+Le plan cadastral est un document fiscal : il ne fait pas foi des limites de propriété. Seul un bornage réalisé par un
+géomètre-expert fixe les limites de manière certaine.
+
+
+1.1 Propriétaire et voisinage
+La parcelle ne figure pas au fichier des personnes morales : son propriétaire est vraisemblablement un
+particulier. Le nom des propriétaires particuliers n'est pas public ; il peut être demandé au service des impôts
+fonciers (relevé de propriété) ou obtenu par l'intermédiaire d'un notaire.
+
+Principaux propriétaires personnes morales dans un rayon de 280 m
+  PROPRIÉTAIRE                                                              PARCELLES             SURFACE TOTALE            SIREN
+
+  ALLSIMMO (SARL)                                                           1                     1 800 m²                  434862900
+
+  OFFICE PUBLIC DE L HABITAT (EPIC)                                         2                     1 279 m²                  278200019
+
+  SERVICES MEDICAUX DU TRAVAIL INTER                                        2                     1 229 m²                  –
+  ENTREPRISES DE TARN ET GA (ASS)
+
+  LEA NINON 2 (SCI)                                                         3                     1 219 m²                  831542980
+
+  DF IMMOBILIER (SARL)                                                      2                     1 125 m²                  929665784
+
+  MARITOM (SCI)                                                             1                     1 028 m²                  479372146
+
+  STE DE PROMOTION MONTALBANAISE                                            1                     1 000 m²                  –
+  MORANDI ET CHIAROVANO (SNC)
+
+  DELAL (SCI)                                                               1                     722 m²                    979824943
+
+
+
+Source : fichiers des parcelles des personnes morales (DGFiP) : sociétés, SCI, collectivités, établissements publics et associations.
+Les propriétaires personnes physiques n'y figurent pas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            5 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+1.2 Bâti existant : diagnostics de performance énergétique
+  DATE                  LOGEMENT                SURFACE             ÉNERGIE          CLIMAT          ADRESSE
+
+  13/11/2025            Maison                  176 m²              C                B               20 rue hoche 82000 Montauban
+
+
+
+Source : ADEME, diagnostics établis depuis juillet 2021 et géolocalisés à l'adresse. Un diagnostic se rapporte à un logement précis
+et reste valable dix ans.
+
+
+1.3 La commune de Montauban
+Code postal                                              82000
+
+Département                                              Tarn-et-Garonne (82)
+
+Intercommunalité                                         CA Grand Montauban
+
+Population                                               62 945 habitants
+
+Superficie                                               135,92 km²
+
+Densité                                                  463 habitants par km²
+
+Commune littorale                                        Non
+
+Commune de montagne                                      Non
+
+Document d'urbanisme                                     Plan local d'urbanisme (PLU)
+
+Risques sur la commune                                   40 arrêtés de catastrophe naturelle · détail en section Risques et en
+                                                         annexe
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           6 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+    02             Règles d'urbanisme applicables
+     DANS CETTE SECTION
+
+     Le document d'urbanisme de la commune, la zone dans laquelle se trouve le terrain, et les
+     prescriptions et servitudes qui s'y ajoutent.
+
+
+Géoportail de l'Urbanisme : zonage, prescriptions et servitudes.
+
+
+
+2.1 Document d'urbanisme en vigueur
+Type de document                                         Plan local d'urbanisme (PLU)
+
+Date d'approbation                                       Non renseigné
+
+Statut                                                   Publié au Géoportail de l'Urbanisme
+
+Règlement officiel                                       Ouvrir la page officielle
+
+
+
+     Plan de zonage du PLU
+
+
+
+
+                                                                             UE2
+
+
+
+
+                                                                                                                           50 m
+
+
+
+Zonage : Géoportail de l'Urbanisme · fond : © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          7 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.2 Zonage de la parcelle
+  ZONE                  DÉSIGNATION                                                         PART               CONSTRUCTIBILITÉ
+
+  UE2                   UE2 : Espaces urbains contemporains,                                100 %              Constructible
+                        notamment en rive droite du Tarn - autres
+                        quartiers de tissu bâti compact dans la
+                        ceinture de la rocade et de la voie ferrée
+
+
+
+Zone UE2 · Urbaine
+Zone urbaine : secteur déjà urbanisé où les équipements publics existants ou en cours de réalisation
+permettent d'accueillir des constructions. Les constructions y sont admises dans le respect du règlement de la
+zone (destinations, implantation, hauteur, emprise, aspect).
+
+
+2.3 Prescriptions applicables à la parcelle
+  PRESCRIPTION                                                                                       TYPE
+
+  Secteur du dispositif de mixité sociale                                                            Prescription du PLU (type 17)
+
+  PPRN : Retrait-gonflement des argiles                                                              Prescription du PLU (type 02)
+
+
+
+
+2.4 Informations complémentaires du PLU
+  INFORMATION                                                                                        TYPE
+
+  Droit de Préemption Urbain                                                                         Information du PLU (type 04)
+
+  Zone à risque d'exposition au plomb                                                                Information du PLU (type 17)
+
+  Taxe d'aménagement : 3%                                                                            Information du PLU (type 32)
+
+
+
+
+2.5 Servitudes d'utilité publique
+  CODE               SERVITUDE                                                                    DÉTAIL
+
+  PM1                Plan de prévention des risques naturels (PPRN)                               PM1 Tassements differentiels ass
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       8 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.6 Patrimoine : l'architecte des Bâtiments de France
+Aucun site patrimonial remarquable, site classé ou inscrit, ni monument historique à moins de 500 m n'est
+recensé : l'avis de l'architecte des Bâtiments de France n'est pas requis au titre du patrimoine.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      9 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    03             Ce que vous pouvez construire
+     DANS CETTE SECTION
+
+     La lecture du règlement de votre zone : surface constructible estimée, hauteur, reculs, aspect,
+     usages autorisés ou interdits, avec les extraits du texte officiel.
+
+
+Lecture du règlement écrit de la zone UE2, pages 33 à 43 du règlement officiel.
+
+
+
+3.1 Potentiel constructible estimé
+     En clair : le règlement de la zone ne fixe pas de surface maximale au sol. La construction doit
+     seulement rester dans la zone d'implantation, en retrait des limites et des voies, avec une hauteur de 10
+     m au plus (3 niveaux environ). Cette zone de 155 m² n'est pas une surface à construire : c'est l'espace à
+     l'intérieur duquel la maison doit se placer. La surface réellement constructible dépend de l'accès, du
+     stationnement, de l'assainissement et de la pente.
+
+
+
+Surface du terrain                                       605 m²
+
+Zone d'implantation possible                             155 m² après reculs (5 m des limites)
+
+Emprise au sol maximale                                  Non fixée par le règlement
+
+Hauteur maximale                                         10 m, soit 3 niveaux environ
+
+Espaces verts imposés                                    10 % du terrain au moins
+
+
+
+     Zone d'implantation possible (estimation)
+
+
+
+
+                                                                                                                                  25 m
+
+
+
+En vert : partie du terrain hors reculs réglementaires · fond © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      10 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.2 Étude d'implantation indicative
+     La zone constructible est trop étroite pour y placer une maison courante (moins de 50 m² au sol d'un
+     seul tenant). Une construction reste envisageable avec un plan sur mesure ; un architecte pourra le
+     confirmer.
+
+
+
+Estimation théorique établie à partir des règles chiffrées du règlement (reculs, emprise, hauteur) et de la géométrie
+cadastrale. Elle ne tient pas compte des servitudes, des risques, de la pente, des règles de stationnement et d'aspect, ni
+des dispositions particulières : seul un architecte ou un géomètre peut confirmer le potentiel réel.
+
+
+3.3 Caractère de la zone
+La zone UE couvre les espaces urbains contemporains issus des extensions progressives de la ville,
+notamment en rive droite du Tarn, destinés principalement à l'habitat ainsi qu'aux équipements,
+commerces et services compatibles. Le secteur UE2 correspond aux autres espaces à tissu bâti
+compact, situés pour l'essentiel dans la ceinture formée par la rocade (A20) à l'Est et la voie ferrée à
+l'Ouest. Les règles générales de la zone UE s'appliquent, sauf indication contraire pour UE1, UE3 ou les
+secteurs en zone de bruit de l'aérodrome (UE2c, UE3b, UE3c). Le PPRI et le PEB s'appliquent si le terrain
+est concerné.
+
+
+3.4 Règles de construction
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Surface minimale ou                          Sans objet (supprimé par la loi ALUR du 24 mars 2014)                            art. UE 5
+  caractéristiques du terrain
+
+  Accès et voirie                              Accès à une voie publique ou privée, adaptés à l'opération                       art. UE 3
+                                               (sécurité, protection civile, défense incendie) ; accès par la
+                                               voie présentant le moindre risque si le terrain est riverain de
+                                               plusieurs voies. Création de voies : chaussée de 5 m minimum
+                                               et plate-forme de 8 m minimum ; impasses avec aire de
+                                               demi-tour pour les véhicules de service ; plate-forme jusqu'à
+                                               12 m exigible selon l'importance des constructions, 5 m pour
+                                               les impasses desservant peu de logements ; voies à sens
+                                               unique : chaussée 3,5 m et plate-forme 5 m. Cheminements
+                                               piétons et cycles à prévoir dans les opérations d'ensemble.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       11 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Réseaux et assainissement                    Raccordement obligatoire au réseau public d'eau potable par                      art. UE 4
+                                               canalisations souterraines ; défense incendie assurée par le
+                                               réseau public ou un dispositif complémentaire. Eaux usées :
+                                               raccordement au réseau collectif lorsqu'il existe ; à défaut,
+                                               assainissement autonome conforme, conçu pour un
+                                               raccordement ultérieur ; réseau de collecte à l'échelle de
+                                               l'opération pour 3 logements ou plus. Eaux pluviales : terrain <
+                                               2 500 m² : écoulement sans stagnation vers l'exutoire désigné ;
+                                               de 2 500 m² à 1 ha : débit de fuite maximal de 10 l/s/ha ; >= 1 ha
+                                               : 3 l/s/ha ; débit de fuite jamais inférieur à 3 l/s et/ou ajutage
+                                               jamais inférieur à 50 mm ; ouvrages de stockage sur le terrain
+                                               à la charge du pétitionnaire. Règles particulières dans les ZAC
+                                               Multisites quartiers Est et Bas-Pays.
+
+  Implantation par rapport                     Rocade Est (A20) : 100 m de l'axe en espace non urbanisé ; en                    art. UE 6
+  aux voies                                    espace urbanisé, 50 m de l'axe pour l'habitation (jamais moins
+                                               de 25 m de l'emprise) et 40 m pour les autres constructions
+                                               (jamais moins de 20 m de l'emprise). RD 927 : 75 m (non
+                                               urbanisé) ou 35 m (urbanisé) de l'axe. Boulevard Urbain Ouest :
+                                               35 m de l'axe. Autres routes départementales : 15 m de l'axe.
+                                               Voies internes de lotissements ou d'ensembles d'habitations :
+                                               limite d'emprise ou retrait d'au moins 5 m. Autres voies et
+                                               emprises publiques : recul minimal de 5 m par rapport à la
+                                               limite d'emprise (la possibilité de s'implanter à la limite
+                                               d'emprise est réservée à UE1). Implantations différentes
+                                               admises dans certains cas (alignement particulier, façades
+                                               voisines, ZAC/OAP, extension de construction existante sans
+                                               aggraver la non-conformité, ouvrages techniques).
+
+  Implantation par rapport                     Bande de 17 m depuis la voie ou la limite de recul, en UE2 : soit                art. UE 7
+  aux limites séparatives                      en limites séparatives latérales, soit en retrait d'une ou des
+                                               deux limites, avec un retrait au moins égal à la moitié de la
+                                               hauteur et au minimum 3 m (débords de toiture jusqu'à 1 m
+                                               admis). Au-delà de 17 m : retrait obligatoire d'au moins la moitié
+                                               de la hauteur, minimum 3 m ; limite latérale admise pour les
+                                               annexes non affectées à l'habitation, non contiguës, de hauteur
+                                               <= 3 m, et dans les ZAC/OAP. Limites postérieures : retrait d'au
+                                               moins la moitié de la hauteur, minimum 4 m ; limite admise pour
+                                               les annexes non affectées à l'habitation, non contiguës, de
+                                               hauteur <= 3 m, et dans les ZAC/OAP. Habitation en limite
+                                               d'une zone Ux ou AUX : retrait de 20 m. Cours d'eau concerné :
+                                               6 m de la crête des berges. Fossé : 1,5 m de la crête des
+                                               berges. Extension de construction existante : sans aggraver la
+                                               non-conformité.
+
+  Implantation des                             Constructions non contiguës : distance d'au moins 3 m, réduite                   art. UE 8
+  constructions entre elles                    à 1,5 m lorsque l'une est une annexe de l'autre.
+
+  Emprise au sol                               Non réglementé                                                                   art. UE 9
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       12 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Hauteur maximale                             Dans le reste de la zone hors UE1 (donc UE2) : 10 mètres et 2                    art. UE 10
+                                               étages sur rez-de-chaussée. Mesure à l'égout ou à la corniche
+                                               (toit en pente) ou à l'acrotère (toit terrasse), à partir du sol
+                                               existant avant travaux ; à la partie médiane de la façade si
+                                               terrain en pente. Une hauteur inférieure peut être imposée au
+                                               titre de la hauteur de référence (contexte bâti voisin).
+                                               Construction existante dépassant déjà la hauteur : maintien
+                                               possible. Hauteurs différentes admises en ZAC/OAP.
+
+  Aspect extérieur et toitures                 Projet homogène, s'harmonisant avec l'environnement,                             art. UE 11
+                                               simplicité de volume et unité d'aspect ; prise en compte des
+                                               éléments bâtis protégés voisins. Toitures en tuiles de type
+                                               canal ou romane, pente maximale de 35 % ; pentes différentes
+                                               admises pour panneaux solaires ou photovoltaïques intégrés
+                                               dans la pente ; toitures-terrasses ou de faible pente admises si
+                                               elles ne nuisent pas à l'homogénéité du paysage urbain ;
+                                               toitures plates admises pour habitat collectif, bureaux ou
+                                               services publics si parti architectural cohérent. Antennes,
+                                               pylônes et paratonnerres le moins visibles possible depuis
+                                               l'espace public.
+
+  Matériaux et couleurs                        Façades des constructions nouvelles respectant l'architecture                    art. UE 11
+                                               traditionnelle du quartier ; extensions et surélévations
+                                               respectant l'architecture originelle (matériaux, ouvertures,
+                                               pleins et vides) ; interdiction de l'emploi à nu des matériaux
+                                               destinés à être enduits ou parementés (briques creuses,
+                                               agglomérés). Pas de règle sur les couleurs.
+
+  Clôtures                                     Muret en bordure de voirie : hauteur maximale de 1,50 m                          art. UE 11 et
+                                               (hauteurs différentes admises en bordure de voies bruyantes) ;                   dispositions
+                                               homogénéité des clôtures, portails et portillons dans les                        générales art. 5
+                                               ensembles d'habitations ; retrait de 6 m de la crête des berges                  C
+                                               d'un cours d'eau concerné et de 1,5 m d'un fossé ; respect du
+                                               PPRI en zone inondable. Clôtures soumises à déclaration
+                                               préalable dans les cas visés aux dispositions générales (art. 5
+                                               C).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        13 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Stationnement                                Véhicules : habitat individuel : 1 place par logement ; habitat                  art. UE 12
+                                               collectif : 1 place par logement < 80 m² de surface de plancher,
+                                               2 places par logement >= 80 m² ; lotissements, opérations
+                                               d'aménagement ou ensembles d'habitations : 2 places par
+                                               logement dont 1 annexée à la voirie ; commerce, artisanat,
+                                               bureaux : 1 place par tranche de 50 m² de surface de plancher ;
+                                               enseignement : 1,5 place par salle de cours ; entrepôt : 1 place
+                                               par tranche de 200 m² ; hôtels, restaurants, cinémas : 1 place
+                                               par chambre et 1 place pour 10 m² de salle ; hospitalier,
+                                               résidences étudiants/séniors : 1 place pour 2 chambres ou 2
+                                               logements. Deux-roues : vélo 1 place par logement si au moins
+                                               2 logements ; bureaux 1 place par 75 m² ; commerce >= 200 m²
+                                               de surface de vente : 1 place par 100 m² de vente ; artisanat >=
+                                               200 m² : 1 place par 100 m² ; scolaire : 1 place pour 8 élèves.
+                                               Place de 25 m² accès compris. Extension : obligation
+                                               proportionnelle à la surface ou aux logements créés ;
+                                               changement de destination : obligation de la destination
+                                               nouvelle. Stationnement sur le terrain, avec possibilités de
+                                               substitution en cas d'impossibilité (acquisition ou concession
+                                               dans un parc à proximité).
+
+  Espaces verts et plantations                 Espaces libres non affectés à la circulation ou au                               art. UE 13
+                                               stationnement aménagés et entretenus en espaces verts ;
+                                               lotissements ou ensembles d'habitations : 10 % au moins de la
+                                               superficie du terrain en espace vert à usage commun (non
+                                               requis dans la ZAC Multisites quartiers Est) ; préservation des
+                                               éléments de patrimoine végétal identifiés ; aires de
+                                               stationnement plantées à raison d'un arbre de haute tige par 50
+                                               m² (réduction possible avec autres plantations).
+
+  Densité ou coefficient                       Non précisé dans le règlement de la zone (pas de coefficient                     —
+                                               d'occupation des sols)
+
+
+
+
+3.5 Usages autorisés
+    Habitat (logements individuels et collectifs), sous réserve du dispositif de mixité sociale à partir de 8
+    logements, 8 lots ou 800 m² de surface de plancher d'habitation
+    Équipements, commerces, services et bureaux compatibles avec l'habitat
+    Commerces et artisanat si leur volume et leur aspect sont compatibles avec le caractère des
+    constructions avoisinantes
+    Aménagement et extension des constructions industrielles existantes (extension limitée à 20 % de la
+    surface de plancher existante)
+    Entrepôts nécessaires et liés à une activité existante ou créée de manière concomitante, exercée à titre
+    principal
+    Affouillements et exhaussements de sol justifiés par des raisons techniques de construction ou de
+    viabilisation, ou destinés aux fouilles archéologiques
+    Reconstruction à l'identique d'un bâtiment détruit ou démoli depuis moins de dix ans, régulièrement édifié
+    (dispositions générales)
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        14 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.6 Usages interdits ou soumis à conditions
+    Interdits : constructions à usage d'activité agricole ou d'exploitation forestière
+    Interdits : constructions à usage d'activité industrielle ou d'entrepôt, sauf celles prévues à l'article UE 2
+    Interdits : activités relevant des installations classées soumises à autorisation
+    Interdits : terrains de camping-caravaning, habitations légères de loisirs, habitat permanent en structure
+    mobile, résidences démontables, stationnement isolé de caravanes
+    Interdits : ouverture et exploitation de carrières ou gravières
+    Zones de bruit des voies routières ou ferrées : constructions nouvelles d'habitation, d'hôtel,
+    d'enseignement ou de santé admises sous réserve de l'isolement acoustique réglementaire
+    Mixité sociale : à partir de 8 logements, 8 lots ou 800 m² de surface de plancher d'habitation, au moins 20
+    % de logements locatifs conventionnés (hors secteurs d'exclusion du dispositif de mixité sociale délimités
+    au document graphique et hors ZAC Multisites quartiers Est)
+    Périmètres de ZAC ou d'orientations d'aménagement et de programmation : occupations compatibles avec
+    ces orientations
+    Affouillements et exhaussements : remise en état du site ou intégration paysagère adaptée après travaux
+    Secteurs inondables : respect du règlement du PPRI ; toute occupation non visée à l'article 2 est interdite
+
+
+3.7 Points de vigilance pour votre projet
+    Vérifier au document graphique le sous-secteur exact (UE2 sans indice c ou b du plan d'exposition au bruit
+    de l'aérodrome) : UE2c interdit l'habitat collectif et les opérations d'aménagement liées à l'habitat.
+    Vérifier si le terrain est en zone inondable (PPRI), en zone de bruit des voies ou du PEB, ou dans un secteur
+    à enjeux d'assainissement pluvial.
+    Contrôler la présence d'un recul particulier porté au document graphique, de reculs par rapport à la
+    rocade A20, la RD 927 ou aux routes départementales, et d'un plan d'alignement ou emplacement réservé.
+    Recul minimal de 5 m par rapport aux voies : l'implantation à l'alignement n'est permise qu'en UE1.
+    Projet de 8 logements ou plus (ou 800 m² de surface de plancher d'habitation) : 20 % de logements locatifs
+    conventionnés, sauf secteur d'exclusion ou ZAC Multisites quartiers Est.
+    Retrait de 20 m pour l'habitation en limite d'une zone d'activités (Ux, AUX) ; retrait de 6 m d'un cours d'eau
+    et de 1,5 m d'un fossé en limite séparative.
+    Hauteur maximale de 10 m et 2 étages sur rez-de-chaussée, avec possibilité d'imposer une hauteur
+    inférieure selon les voisins (hauteur de référence).
+    Emprise au sol non réglementée dans la zone, mais vérifier le secteur à enjeux d'assainissement pluvial et
+    les limitations de débit de fuite des eaux pluviales.
+    Vérifier la présence d'éléments de patrimoine bâti ou végétal protégés (pièce 3.2), d'espaces boisés
+    classés, de zones sensibles archéologiques.
+    Dans les opérations de lotissement ou d'ensembles d'habitations : 2 places par logement dont une annexée
+    à la voirie.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      15 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.8 Extraits du règlement
+
+     art. UE 10 · page 40
+     « dans le reste de la zone : 10 mètres et 2 étages sur rez-de-chaussée »
+
+
+     art. UE 6 · page 37
+     « Dans le reste de la zone : Les constructions devront respecter un recul minimal de 5 mètres par
+     rapport à la limite d'emprise. »
+
+
+     art. UE 7 · page 38
+     « la distance de recul par rapport aux limites séparatives latérales sera au moins égale à la moitié de la
+     hauteur(*) de la construction, avec un minimum de 3 mètres »
+
+
+     art. UE 2 · page 34
+     « au moins 20 % du programme de logements devront être affectés à la réalisation de logements
+     locatifs conventionnés »
+
+
+     art. UE 9 · page 39
+     « Non réglementé »
+
+
+     art. UE 11 · page 41
+     « La hauteur du muret des clôtures en bordure de voirie ne devra pas excéder 1,50m. »
+
+
+
+3.9 Démarches probables
+    Permis de construire ou déclaration préalable selon la nature et la surface des travaux
+    Permis d'aménager pour un lotissement (application du dispositif de mixité sociale et d'espace vert
+    commun de 10 %)
+    Déclaration préalable pour les clôtures dans les secteurs concernés (art. 5 C des dispositions générales)
+    Permis de démolir si la construction est protégée ou dans un périmètre protégé
+    Consultation du PPRI, du PEB et des zones de bruit selon la localisation
+    Demande de raccordement aux réseaux d'eau potable et d'assainissement ; accord de la collectivité pour
+    le rejet des eaux pluviales
+    Consultation préalable du service archéologie si la parcelle est en zone sensible
+
+     Cette lecture est établie automatiquement, par intelligence artificielle, à partir du règlement officiel en
+     vigueur. Elle peut comporter des imprécisions : seul le texte du règlement, reproduit en annexe (pages
+     33 à 43 du document approuvé), fait foi, avec les dispositions générales, les orientations
+     d'aménagement et les servitudes.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      16 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                                    04 · Loi Littoral et loi Montagne
+
+
+
+
+   04              Loi Littoral et loi Montagne
+     DANS CETTE SECTION
+
+     Les lois nationales qui s'ajoutent au document d'urbanisme sur le littoral et en montagne. Elles
+     peuvent rendre un terrain inconstructible même en zone constructible.
+
+
+Les lois d'aménagement qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+
+
+4.1 Loi Littoral
+Commune littorale                                        Non
+
+Distance au rivage                                       Sans objet
+
+Bande des 100 mètres                                     Sans objet
+
+
+La commune n'est pas riveraine de la mer : la loi Littoral ne s'applique pas (sauf rives de grands lacs).
+
+
+4.2 Loi Montagne
+Commune en zone de montagne                              Non
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          17 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+   05              Risques naturels et technologiques
+     DANS CETTE SECTION
+
+     Les risques connus à l'adresse du terrain (inondation, feu de forêt, mouvement de terrain,
+     radon…) et les catastrophes naturelles reconnues sur la commune.
+
+
+Base nationale Géorisques (ministère de la Transition écologique).
+
+
+
+5.1 Risques naturels à l'adresse de la parcelle
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Inondation                                      Non connu                                       Existant
+
+  Remontée de nappe                               Existant                                        Existant
+
+  Séisme                                          Existant – faible                               Existant – faible
+
+  Mouvement de terrain                            Existant                                        Existant
+
+  Retrait-gonflement des                          Existant – modéré                               Existant – important
+  argiles
+
+  Radon                                           Existant – faible                               Existant – faible
+
+
+
+
+5.2 Risques technologiques
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Installations industrielles                     Non concerné                                    Concerné
+  (ICPE)
+
+  Canalisations de matières                       Non concerné                                    Concerné
+  dangereuses
+
+  Pollution des sols                              Concerné                                        Concerné
+
+  Rupture de barrage                              Inconnu                                         Concerné
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                    18 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.3 Indicateurs réglementaires
+Zone de sismicité                                        Zone 1 – très faible
+
+Potentiel radon                                          Catégorie 1 (potentiel faible)
+
+Retrait-gonflement des argiles                           Existant – modéré
+
+Plans de prévention (PPR)                                Aveyron ; Tarn
+
+
+
+5.4 Arrêtés de catastrophe naturelle
+40 arrêtés de reconnaissance de l'état de catastrophe naturelle concernent la commune.
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Inondations et/ou Coulées de Boue                                         08/02/2026 au 23/02/2026                       03/03/2026
+
+  Inondations et/ou Coulées de Boue                                         18/05/2025 au 19/05/2025                       28/05/2025
+
+  Sécheresse                                                                01/07/2022 au 30/09/2022                       10/06/2023
+
+  Inondations et/ou Coulées de Boue                                         15/09/2021                                     12/02/2022
+
+  Inondations et/ou Coulées de Boue                                         09/09/2021 au 10/09/2021                       12/02/2022
+
+  Inondations et/ou Coulées de Boue                                         29/01/2021 au 04/02/2021                       24/02/2021
+
+  Sécheresse                                                                01/07/2018 au 30/09/2018                       09/08/2019
+
+  Inondations et/ou Coulées de Boue                                         27/06/2017                                     01/02/2018
+
+  Inondations et/ou Coulées de Boue                                         31/03/2017                                     15/12/2017
+
+  Sécheresse                                                                01/01/2017 au 31/12/2017                       20/10/2018
+
+  Sécheresse                                                                01/01/2016 au 31/03/2016                       01/11/2017
+
+  Inondations et/ou Coulées de Boue                                         31/08/2015                                     08/10/2015
+
+  Sécheresse                                                                01/01/2015 au 30/06/2015                       16/12/2016
+
+  Inondations et/ou Coulées de Boue                                         29/11/2014 au 30/11/2014                       04/03/2015
+
+  Inondations et/ou Coulées de Boue                                         30/05/2013 au 01/06/2013                       26/10/2013
+
+  Sécheresse                                                                01/01/2012 au 30/09/2012                       25/05/2013
+
+  Sécheresse                                                                01/04/2011 au 30/06/2011                       17/07/2012
+
+  Sécheresse                                                                01/07/2009 au 30/09/2009                       13/01/2011
+
+  Inondations et/ou Coulées de Boue                                         19/06/2006 au 20/06/2006                       23/11/2006
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        19 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Sécheresse                                                                01/01/2006 au 31/03/2006                       23/04/2008
+
+  Inondations et/ou Coulées de Boue                                         03/12/2003 au 05/12/2003                       13/12/2003
+
+  Sécheresse                                                                01/07/2003 au 30/09/2003                       01/02/2005
+
+  Sécheresse                                                                01/01/2002 au 31/12/2002                       26/07/2003
+
+  Sécheresse                                                                01/07/2000 au 30/09/2000                       08/01/2003
+
+  Mouvement de Terrain                                                      25/12/1999 au 29/12/1999                       30/12/1999
+
+  Inondations et/ou Coulées de Boue                                         25/12/1999 au 29/12/1999                       30/12/1999
+
+  Sécheresse                                                                01/06/1998 au 30/06/2000                       18/07/2001
+
+  Sécheresse                                                                01/11/1997 au 30/06/1998                       13/01/1999
+
+  Inondations et/ou Coulées de Boue                                         06/12/1996 au 10/12/1996                       05/02/1997
+
+  Inondations et/ou Coulées de Boue                                         23/01/1996 au 24/01/1996                       09/07/1996
+
+  Inondations et/ou Coulées de Boue                                         09/01/1996 au 10/01/1996                       14/02/1996
+
+  Sécheresse                                                                01/10/1995 au 31/10/1997                       23/04/1998
+
+  Inondations et/ou Coulées de Boue                                         05/11/1994 au 07/11/1994                       31/01/1995
+
+  Sécheresse                                                                01/10/1993 au 30/09/1995                       17/04/1996
+
+  Sécheresse                                                                01/01/1992 au 30/09/1993                       24/11/1994
+
+  Sécheresse                                                                01/01/1991 au 31/12/1991                       07/02/1993
+
+  Sécheresse                                                                01/05/1989 au 31/12/1990                       30/08/1991
+
+  Inondations et/ou Coulées de Boue                                         22/04/1988 au 25/04/1988                       13/08/1988
+
+  Tempête                                                                   06/11/1982 au 10/11/1982                       19/11/1982
+
+  Inondations et/ou Coulées de Boue                                         06/11/1982 au 10/11/1982                       19/11/1982
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        20 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.5 Installations classées à proximité (moins de 1 km)
+    BOWS DISTILLERIE · Non ICPE
+    LYCEE BOURDELLE · Autres régimes
+    PETROLEC-SUD · Autres régimes
+    TAQUIPNEU · Autres régimes
+    SNCF - Services Techniques · Non ICPE
+    AUCHAN · Autres régimes
+    PEVLOS SARL · Non ICPE
+    NEW DESIGN'AIR · Autres régimes
+
+
+5.6 Sites et sols pollués à proximité
+    SNCF · ancien site industriel ou d'activité de service (CASIAS)
+    Station-service · ancien site industriel ou d'activité de service (CASIAS)
+    DELPERIE ANDRE · ancien site industriel ou d'activité de service (CASIAS)
+    PHOTO SAINT LOUIS · ancien site industriel ou d'activité de service (CASIAS)
+    6 anciens sites industriels ou d'activités de service (CASIAS) recensés
+
+
+5.7 Rapport officiel Géorisques
+Les risques recensés ci-dessus proviennent des bases officielles de Géorisques, service public d'information
+sur les risques. Le rapport officiel complet peut être édité sans frais, à tout moment et à jour, à partir de
+l'adresse du terrain sur le site Géorisques.
+
+
+    Éditer le rapport officiel Géorisques
+
+
+Lors d'une vente ou d'une location, le vendeur ou le bailleur doit remettre un état des risques de moins de six mois,
+complété et signé, et l'information sur les sinistres indemnisés au titre des catastrophes naturelles.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                    21 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+   06              Le terrain : accès, relief et réseaux
+     DANS CETTE SECTION
+
+     Les contraintes physiques du terrain : accès à une voie, pente et exposition, assainissement,
+     raccordement à l'électricité et à l'eau, fibre. Ce sont elles qui pèsent le plus sur le coût d'un
+     projet.
+
+
+Voirie (IGN, BD TOPO), altimétrie (IGN, RGE ALTI), règlement de la zone, réseau électrique (Agence ORE) et éligibilité
+internet (Arcep).
+
+
+
+6.1 Accès
+Accès direct à une voie                                  Oui
+
+Voie                                                     Route à 1 chaussée · rue hoche
+
+Largeur de chaussée                                      4m
+
+Accès des véhicules                                      Libre
+
+
+La parcelle touche une voie carrossable. L'autorisation d'urbanisme vérifiera que l'accès est adapté au projet et sûr,
+et peut imposer une permission de voirie ou un aménagement de l'entrée.
+
+
+6.2 Relief et exposition
+Pente moyenne                                            1%
+
+Exposition                                               Terrain plat
+
+Altitude                                                 104 à 105 m
+
+Appréciation                                             Terrain plat ou presque plat
+
+
+
+
+ 105 m
+ 104 m
+
+
+           Coupe du terrain dans le sens de la pente · longueur 54 m
+
+
+     Terrassements limités ; pas de surcoût notable lié au relief.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       22 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Montauban · AT 279
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.3 Ensoleillement
+Appréciation                                             Très bien ensoleillé
+
+Soleil direct le 21 juin                                 13 h 48 (de 07 h 10 à 20 h 50)
+
+Soleil direct aux équinoxes                              10 h 12 (de 08 h 20 à 18 h 20)
+
+Soleil direct le 21 décembre                             7 h (de 09 h 20 à 16 h 10)
+
+Ensoleillement annuel possible                           3 810 h par an, soit 87 % du maximum à cette latitude
+
+Hauteur du relief vers le sud                            16°
+
+
+ 75°
+
+
+
+ 60°
+
+
+
+ 45°
+
+
+
+ 30°
+
+
+
+ 15°
+
+
+
+ 0°
+                                Est                  Sud-est                    Sud                 Sud-ouest               Ouest
+
+          21 juin          Équinoxes               21 décembre                 Horizon : relief et bâtiments voisins
+
+
+
+       Le relief et les constructions voisines ne masquent presque pas le soleil : le terrain profite de la
+       quasi-totalité de l'ensoleillement possible à cette latitude.
+
+
+
+Ensoleillement mois par mois (le 21 de chaque mois)
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Janvier                         9 h 18                             7 h 42                                    09 h 20 – 16 h 50
+
+  Février                         10 h 42                            9h                                        08 h 50 – 17 h 40
+
+  Mars                            12 h                               10 h 12                                   08 h 20 – 18 h 20
+
+  Avril                           13 h 42                            12 h 12                                   08 h 10 – 20 h 10
+
+  Mai                             14 h 48                            13 h 12                                   07 h 30 – 20 h 30
+
+  Juin                            15 h 18                            13 h 48                                   07 h 10 – 20 h 50
+
+  Juillet                         14 h 48                            13 h 12                                   07 h 40 – 20 h 40
+
+  Août                            13 h 42                            12 h                                      08 h 20 – 20 h 10
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           23 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Septembre                       12 h                               10 h 12                                   09 h 00 – 19 h 00
+
+  Octobre                         10 h 30                            9h                                        09 h 20 – 18 h 10
+
+  Novembre                        9 h 12                             7 h 42                                    08 h 50 – 16 h 20
+
+  Décembre                        8 h 42                             7h                                        09 h 20 – 16 h 10
+
+
+
+Calcul théorique par ciel dégagé, au centre de la parcelle et à hauteur d'homme : course du soleil heure par heure, masque du relief
+sur 6 km (IGN, RGE ALTI) et des bâtiments voisins sur 120 m (IGN, BD TOPO, 239 bâtiments pris en compte). La végétation et les
+constructions récentes ne sont pas prises en compte.
+
+
+6.4 Quel raccordement pour les eaux usées ?
+Raccordement à prévoir                                       Tout-à-l'égout très probable
+
+Zone du PLU                                                  UE2 · Urbaine
+
+Zonage d'assainissement                                      Non publié au Géoportail de l'Urbanisme (consultable en mairie)
+
+Réseau collectif sur la commune                              Oui · CA Grand Montauban · délégation à SAUR
+
+
+     Le terrain est en zone urbaine (UE2) et la commune dispose d'un réseau public d'assainissement
+     collectif. Dans ces zones, le réseau passe en général dans la voie et le règlement impose le
+     raccordement lorsqu'il existe. À confirmer par le service d'assainissement pour ce terrain précis.
+
+
+
+Ce que dit le règlement de la zone
+Raccordement obligatoire au réseau collectif d'assainissement par canalisations souterraines lorsqu'il existe. Si le
+réseau collectif n'est pas encore réalisé, un dispositif d'assainissement autonome conforme à la réglementation est
+exigé, conçu pour être raccordé ultérieurement si le projet est en zone d'assainissement collectif. Pour les
+opérations de 3 logements ou plus, un réseau de collecte doit être réalisé à l'échelle de l'opération. Aucune surface
+minimale ni étude de sol n'est précisée dans le règlement de zone.
+
+Le règlement admet un assainissement individuel uniquement là où le réseau public n'existe pas : cette mention ne signifie
+pas que le terrain n'est pas desservi.
+
+Ce que cela coûte
+Raccordement au tout-à-l'égout : branchement sous la voie réalisé par le service d'assainissement (souvent 1 500 à
+5 000 € selon la distance), canalisation sur le terrain jusqu'à la maison, et participation pour le financement de
+l'assainissement collectif (PFAC) fixée par la commune ou l'intercommunalité, généralement de 1 000 à 5 000 €. Le
+service remet un devis à partir du plan de situation.
+
+Qui contacter pour obtenir la confirmation
+Service d'assainissement                                     CA Grand Montauban · exploitant : SAUR
+
+Mairie                                                       Mairie de Montauban
+
+Téléphone                                                    05 63 22 12 00
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          24 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+E-mail                                                       contact@ville-montauban.fr
+
+
+    Demandez au service d'assainissement, avec la référence cadastrale, si une canalisation publique passe au droit
+    du terrain, à quelle profondeur, et le montant de la PFAC. Sa réponse écrite vaut attestation de raccordabilité.
+    Certificat d'urbanisme opérationnel (formulaire Cerfa 13410, délivré sans frais) : la mairie y indique officiellement
+    si le terrain est desservi par le réseau d'assainissement.
+    Plan des réseaux : la présence des canalisations enterrées près du terrain peut être vérifiée sur
+    reseaux-et-canalisations.gouv.fr, le guichet unique des réseaux.
+Sources : zonage d'assainissement et règlement (Géoportail de l'Urbanisme) ; services publics d'assainissement (SISPEA, Office
+français de la biodiversité) ; annuaire de l'administration (service-public.fr).
+
+Si le réseau public n'était finalement pas accessible
+  FILIÈRE                                    QUAND ELLE CONVIENT                                                           ORDRE DE PRIX
+
+  Fosse toutes eaux et                       Sol perméable, terrain assez grand et peu pentu                               5 000 à 10 000 €
+  épandage
+
+  Filtre à sable                             Sol peu perméable, place suffisante                                           8 000 à 12 000 €
+
+  Micro-station agréée                       Petit terrain ou sol défavorable ; entretien et électricité                   7 000 à 15 000 €
+
+  Filtre compact agréé                       Petit terrain, sans électricité                                               9 000 à 14 000 €
+
+
+
+Ordres de prix indicatifs (fourniture et pose, hors étude de sol et terrassements particuliers). La filière est choisie au vu de l'étude
+de sol et validée par le SPANC.
+
+
+6.5 Électricité et eau potable
+Gestionnaire du réseau                                       Enedis
+
+Réseau basse tension le plus proche                          à environ 5 m (ligne aérienne)
+
+Ligne aérienne la plus proche                                à environ 5 m
+
+Ligne souterraine la plus proche                             à environ 20 m
+
+Poste de transformation le plus proche                       à environ 210 m
+
+Appréciation                                                 Branchement simple probable
+
+
+     Le réseau basse tension passe à environ 5 m : un branchement simple est en principe possible (de
+     l'ordre de 1 500 à 3 000 € pour une maison, selon la longueur et la puissance), sous réserve de la
+     capacité du réseau et des coffrets existants.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           25 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+Ce qu'il faut vérifier avant d'acheter
+    La capacité du réseau : même un réseau proche peut être saturé (coffret ou câble plein, poste de transformation
+    au maximum). Seule une étude du gestionnaire permet de le savoir ; c'est la cause la plus fréquente de surcoûts
+    imprévus.
+    Électricité : demander au gestionnaire du réseau une étude de raccordement ou un devis à partir de l'adresse et
+    du plan de situation (sans frais). Elle indique le type de raccordement, son coût et son délai.
+    Eau potable : les plans du réseau d'eau ne sont pas publics. Interroger le service des eaux (coordonnées
+    ci-dessous) sur la présence d'une canalisation au droit du terrain, sa capacité et le coût du branchement, ainsi
+    que sur la défense incendie (borne à moins de 200 m environ).
+    Certificat d'urbanisme opérationnel : la mairie y indique si le terrain est desservi par les réseaux publics (eau,
+    électricité, assainissement) et, à défaut, si et quand ils seront étendus. Un refus de permis peut être fondé sur
+    l'insuffisance des réseaux (article L. 111-11 du Code de l'urbanisme).
+
+Qui contacter
+Service de l'eau potable                                     CA Grand Montauban
+
+Mode de gestion                                              Délégation de service public à VEOLIA
+
+Contact pour le branchement                                  VEOLIA, pour le compte de : CA Grand Montauban
+
+Mairie                                                       Mairie de Montauban
+
+Téléphone de la mairie                                       05 63 22 12 00
+
+E-mail de la mairie                                          contact@ville-montauban.fr
+
+Électricité (raccordement)                                   Enedis · demande en ligne sur enedis.fr (raccordement)
+
+La mairie oriente vers le bon interlocuteur et confirme, dans le certificat d'urbanisme, la desserte du terrain par les réseaux.
+Sources : SISPEA, observatoire des services publics d'eau (OFB) ; annuaire de l'administration (service-public.fr).
+
+Dans une promesse de vente, une condition suspensive portant sur le coût du raccordement aux réseaux protège
+l'acquéreur. Source de la cartographie électrique : Agence ORE, données des gestionnaires de réseaux de distribution ;
+tracés indicatifs.
+
+
+6.6 Fibre et internet
+     Le terrain est déjà fibré : 1 adresse située sur la parcelle (23 rue hoche) est déclarée raccordable à la
+     fibre.
+
+
+
+Adresse la plus proche                                          23 rue hoche · à 19 m · raccordable
+
+Point fibré le plus proche                                      23 rue hoche · à 19 m
+
+Adresses fibrées à moins de 100 m                               60 sur 60
+
+Adresses fibrées à moins de 400 m                               810 sur 817
+
+Technologies disponibles à proximité                            4G fixe, Cuivre (ADSL, VDSL), Fibre, Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       26 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                                Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+     Points fibrés autour du terrain
+
+
+
+                                                                                         F F FF F
+                                                                                       F     F F
+                                                                           F
+                                                                                              FF
+                                                                               F         F F
+                                                                  F
+                                                                      F                 F FF
+                                                             F FF      F
+                                                               F F             F             F F
+                                                               F                   F                        F
+                                                                   F                                    F           F FF
+                                                     F                             F                              F      F
+                                                         F                             F F      F           F         FF
+                                                             FF            F       F         F F                  F
+                                                               FF                                   F
+                                                           F                            F F         F
+                                                             FF          F            F F
+                                                           F               F         F        FF
+                                                             F      F F                             FF
+                                                                        F F FF F         F             F
+                                                                 FF        FF       F F F F F             F
+                                                              F               F        F                    F
+                                                         F      F               FF    F
+                                                         F        FF F                                   F
+                                                                     F        F           F
+                                                           FF         F              F       F
+                                                                                  F      F
+                                                              FF
+                                                                   F F
+                                                                          F         F       FF FF F
+                                                              FF             F  F     F        FF
+                                                                  FF     F               F
+                                                                     F       F     F F            F
+                                                                       F          F     F FF
+                                                                                 F
+
+
+
+
+                                                                                                                                                 100 m
+
+
+
+Repères F : adresses déclarées raccordables à la fibre (Arcep) · en terracotta : sur la parcelle · fond © IGN
+
+
+Vérifiez la fibre à l'adresse du terrain :
+
+                     Carte fibre Orange                                                                                 Carte de l'Arcep
+
+
+  DISTANCE           ADRESSE                                                                                    FIBRE          AUTRES ACCÈS
+
+  19 m               23 rue hoche                                                                               Oui            4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                               Satellite
+
+  22 m               25 rue hoche                                                                               Oui            4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                               Satellite
+
+  24 m               35 Rue Félix Lagravère                                                                     Oui            4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                               Satellite
+
+  28 m               21 rue hoche                                                                               Oui            4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                               Satellite
+
+  28 m               33 Rue Félix Lagravère                                                                     Oui            4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                               Satellite
+
+  30 m               37 Rue Félix Lagravère                                                                     Oui            4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                               Satellite
+
+  36 m               31 Rue Félix Lagravère                                                                     Oui            4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                               Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                          27 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  DISTANCE           ADRESSE                                                                   FIBRE              AUTRES ACCÈS
+
+  36 m               20 rue hoche                                                              Oui                4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+
+
+Source : Arcep, « Ma connexion internet », éligibilité déclarée par les opérateurs, adresse par adresse. Le tracé des câbles n'est
+pas public : la présence de la fibre en limite de terrain se vérifie auprès de l'opérateur ou par une déclaration de projet de travaux
+(DT).
+
+
+6.7 Qui contacter pour les réseaux
+  RÉSEAU                                    INTERLOCUTEUR                                         CE QU'IL FAUT DEMANDER
+
+  Eau potable et                            Mairie ou service des eaux de la                      Attestation de desserte et conditions de
+  assainissement collectif                  commune                                               raccordement
+
+  Assainissement individuel                 SPANC (communauté de communes)                        Contrôle de conception sur la base de l'étude
+                                                                                                  de sol
+
+  Électricité                               Enedis (gestionnaire du réseau de                     Étude de raccordement et devis
+                                            distribution)
+
+  Fibre et téléphone                        Opérateur d'infrastructure et                         Raccordement du futur logement
+                                            fournisseur d'accès
+
+  Tous réseaux                              Guichet unique des réseaux                            Déclaration de projet de travaux (DT) pour
+                                            (reseaux-et-canalisations.gouv.fr)                    localiser les réseaux existants
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             28 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+    07             Environnement et marché immobilier
+     DANS CETTE SECTION
+
+     Les espaces naturels protégés autour du terrain et les prix de vente réels des maisons,
+     appartements et terrains alentour.
+
+
+Inventaire national du patrimoine naturel et demandes de valeurs foncières (DVF).
+
+
+
+7.1 Espaces naturels protégés ou inventoriés
+La parcelle n'est concernée par aucun site Natura 2000, ZNIEFF, parc ou réserve naturelle.
+
+
+7.2 Espèces protégées observées près du terrain
+134 espèces protégées ont été observées dans un rayon de 1 km autour du terrain depuis 1990 ; les 14 plus
+fréquemment signalées figurent ci-dessous.
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Mésange charbonnière (Parus major)                              Oiseau                 Nationale (espèce et              187 · dernière en
+                                                                                         habitat)                          2025
+
+  Moineau domestique (Passer                                      Oiseau                 Nationale (espèce et              121 · dernière en
+  domesticus)                                                                            habitat)                          2022
+
+  Hirondelle de cheminée (Hirundo                                 Oiseau                 Nationale (espèce et              106 · dernière en
+  rustica)                                                                               habitat)                          2022
+
+  Mésange bleue (Cyanistes caeruleus)                             Oiseau                 Nationale (espèce et              94 · dernière en
+                                                                                         habitat)                          2022
+
+  Hirondelle de fenêtre (Delichon urbicum)                        Oiseau                 Nationale (espèce et              90 · dernière en
+                                                                                         habitat)                          2022
+
+  Rouge-gorge familier (Erithacus                                 Oiseau                 Nationale (espèce et              90 · dernière en
+  rubecula)                                                                              habitat)                          2022
+
+  Cisticole des joncs (Cisticola juncidis)                        Oiseau                 Nationale (espèce et              85 · dernière en
+                                                                                         habitat)                          2022
+
+  Elanion Blanc (Elanus caeruleus)                                Oiseau                 Nationale (espèce et              68 · dernière en
+                                                                                         habitat)                          2022
+
+  Fauvette à tête noire (Sylvia atricapilla)                      Oiseau                 Nationale (espèce et              61 · dernière en
+                                                                                         habitat)                          2022
+
+  Bihoreau gris (Nycticorax nycticorax)                           Oiseau                 Nationale (espèce et              57 · dernière en
+                                                                                         habitat)                          2022
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         29 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Corneille noire (Corvus corone)                                 Oiseau                 Nationale (espèce et              57 · dernière en
+                                                                                         habitat)                          2022
+
+  Chardonneret élégant (Carduelis                                 Oiseau                 Nationale (espèce et              56 · dernière en
+  carduelis)                                                                             habitat)                          2022
+
+  Lézard des murailles (Podarcis muralis)                         Reptile                Nationale (espèce et              48 · dernière en
+                                                                                         habitat)                          2021
+
+  Pinson des arbres (Fringilla coelebs)                           Oiseau                 Nationale (espèce et              46 · dernière en
+                                                                                         habitat)                          2022
+
+
+
+     Une observation à proximité ne signifie pas que l'espèce vit sur le terrain. Mais si elle y est présente, il
+     est interdit de détruire, capturer ou déranger les individus et, pour la plupart de ces espèces, de
+     détruire leurs lieux de reproduction et de repos (articles L. 411-1 et suivants du Code de
+     l'environnement). L'infraction est punie de 3 ans d'emprisonnement et 150 000 € d'amende.
+
+
+
+Que faire avant de construire ?
+    Pour une maison individuelle, aucune étude écologique n'est imposée en règle générale, et l'étude de sol porte
+    sur le terrain (fondations), pas sur la faune ni la flore. Vous restez cependant responsable si une espèce
+    protégée vit sur la parcelle : en cas de doute (espèce observée tout près, vieux arbres, murets, maquis, zone
+    humide), faites passer un écologue avant de défricher.
+    Si un enjeu est confirmé : inventaire faune-flore aux saisons utiles (printemps et été en général), puis mesures
+    pour éviter et réduire l'impact : implantation de la maison sur la partie la moins sensible, travaux hors période de
+    reproduction, clôture de chantier adaptée, déplacement d'individus par un spécialiste habilité.
+    Si la destruction d'individus ou d'habitats ne peut pas être évitée : demande de dérogation « espèces protégées »
+    auprès de la préfecture (DREAL), avec avis du conseil scientifique. Comptez 4 à 12 mois d'instruction, à anticiper
+    avant le dépôt du permis.
+
+Combien prévoir ?
+Pré-diagnostic écologique                                800 à 2 000 € (une visite et une note de synthèse)
+
+Inventaire faune-flore                                   3 000 à 10 000 € selon la surface et le nombre de passages
+
+Mesures d'évitement et de réduction                      500 à 5 000 € (balisage, calendrier, suivi de chantier)
+
+Dossier de dérogation                                    8 000 à 25 000 €, hors mesures de compensation éventuelles
+
+Ordres de prix indicatifs, honoraires de bureaux d'études en environnement, si une étude est nécessaire. Pour une maison sur un
+terrain déjà entouré de constructions, aucune étude n'est le plus souvent requise.
+
+Sources : statuts de protection TAXREF et base de connaissance des statuts (INPN, Muséum national d'Histoire naturelle) ;
+observations naturalistes GBIF, qui rassemble notamment les données de l'INPN et du SINP.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         30 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+7.3 Prix de l'immobilier à Montauban
+Prix au mètre carré des ventes enregistrées sur la commune au cours des cinq dernières années publiées.
+Seules les ventes portant sur un bien unique sont retenues.
+
+  TYPE DE BIEN                                       VENTES                       €/M² MÉDIAN                              €/M² MOYEN
+
+  Maisons                                            2 458                        2 214 €/m²                               2 251 €/m²
+
+  Appartements                                       2 216                        1 940 €/m²                               1 990 €/m²
+
+  Locaux commerciaux                                 249                          1 154 €/m²                               1 316 €/m²
+
+
+
+Source : statistiques des demandes de valeurs foncières (DGFiP, Etalab). Prix des actes, hors frais : un ordre de grandeur,
+pas une estimation du bien.
+
+
+7.4 Ventes de terrains autour de la parcelle
+Période observée                                         2021 à 2025
+
+Ventes de terrains recensées                             10
+
+Prix médian                                              361 €/m²
+
+Prix courants (une vente sur deux)                       85 à 445 €/m²
+
+
+  DATE                    PARCELLE                          NATURE                                SURFACE              PRIX             €/M²
+
+  29/12/2025              AR 647                            sols                                  400 m²               210 000 €        525
+
+  08/12/2025              AR 625                            sols                                  294 m²               22 000 €         75
+
+  04/12/2025              AM 415                            sols                                  187 m²               345 000 €        1 845
+
+  02/09/2025              AM 409 (+1)                       sols                                  1 012 m²             400 340 €        396
+
+  14/05/2024              AN 506                            sols                                  668 m²               76 000 €         114
+
+  20/10/2023              AN 318                            terrains à bâtir                      620 m²               79 000 €         127
+
+  20/07/2023              AT 663 (+1)                       sols                                  354 m²               30 000 €         85
+
+  17/07/2023              AM 413 (+2)                       sols                                  260 m²               93 892 €         361
+
+  04/11/2021              AM 409 (+1)                       sols                                  1 012 m²             450 000 €        445
+
+  29/10/2021              AR 581                            terrains à bâtir                      283 m²               21 000 €         74
+
+
+
+Source : DVF, ventes enregistrées par la DGFiP. Les prix au mètre carré dépendent fortement de la constructibilité, de la
+vue, de l'accès et de la viabilisation : ils donnent un ordre de grandeur, pas une estimation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           31 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                                                08 · Historique du site
+
+
+
+
+   08              Historique du site
+     DANS CETTE SECTION
+
+     Le terrain vu du ciel au fil des décennies et les permis de construire accordés autour : l'évolution
+     du secteur en un coup d'œil.
+
+
+Photographies aériennes de l'IGN et permis de construire délivrés (Sitadel).
+
+
+
+8.1 Le terrain vu du ciel, d'hier à aujourd'hui
+
+    1950-1965                                             2000-2005                                              2006-2010
+
+
+
+
+    2011-2015                                             Aujourd'hui
+
+
+
+
+Ces vues montrent l'évolution du terrain et du quartier, des années 1950 à aujourd'hui (photographies aériennes de l'IGN).
+
+     Bon à savoir : l'existence ancienne d'une construction peut ouvrir, sous conditions, un droit à
+     reconstruire ou à restaurer un bâtiment dont il reste l'essentiel des murs porteurs (articles L. 111-15 et L.
+     111-23 du Code de l'urbanisme).
+
+
+
+
+8.2 Permis de construire délivrés autour du terrain
+Autorisations sur la commune (3 ans)                                    311 · dernière recensée le 30/09/2026
+
+Logements autorisés (3 ans)                                             1 020
+
+Dont maisons individuelles                                              237
+
+Autorisations dans la section AT                                        19 depuis 2013
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  12/06/2026            Permis de construire                   AT 526             1              105 m²                    RUE HOCHE
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            32 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                                                08 · Historique du site
+
+
+
+
+  DATE                  AUTORISATION                           PARCELLE            LOGTS          SURFACE CRÉÉE            LIEU-DIT / VOIE
+
+  05/05/2026            Déclaration préalable                  AT 280              2              185 m²                   RUE HOCHE
+
+  02/03/2026            Déclaration préalable                  AT 280              2              185 m²                   RUE HOCHE
+
+  27/01/2026            Déclaration préalable                  AT 379              1              65 m²                    RUE COURBET
+
+  04/11/2022            Permis de construire                   AT 188              1              174 m²                   RUE LAMORICIERE
+
+  19/04/2022            Permis de construire                   AT 25               1              100 m²                   RUE DU PRE BENAIS
+
+  07/04/2022            Permis de construire                   AT 448              1              –                        RUE COURBET
+
+  22/09/2021            Permis de construire                   AT 315              4              4 m²                     RUE HOCHE
+
+  23/08/2021            Permis de construire                   AT 188              1              141 m²                   RUE LAMORICIERE
+
+  15/11/2019            Permis de construire                   AT 33               1              67 m²                    RUE DU PRE BENAIS
+
+  29/03/2018            Permis de construire                   AT 361              1              62 m²                    RUE FERMAT
+
+  24/05/2017            Permis de construire                   AT 509              1              143 m²                   RUE COURBET
+
+
+
+Permis accordés à moins de 500 m du terrain
+  DATE                 AUTORISATION                       PARCELLE          DISTANCE         LOGTS         SURFACE            LIEU-DIT / VOIE
+
+  16/06/2026           Permis de construire               AV 118            180 m            4             370 m²             RUE KLEBER
+
+  12/06/2026           Permis de construire               AT 526            70 m             1             105 m²             RUE HOCHE
+
+  05/05/2026           Déclaration préalable              AT 280            30 m             2             185 m²             RUE HOCHE
+
+  02/03/2026           Déclaration préalable              AT 280            30 m             2             185 m²             RUE HOCHE
+
+  27/01/2026           Déclaration préalable              AT 379            310 m            1             65 m²              RUE COURBET
+
+  14/06/2024           Permis de construire               AM 139            290 m            27            1 960 m²           RUE ARMAND SAINTIS /
+                                                                                                                              AVENU
+
+  04/06/2024           Déclaration préalable              AV 456            260 m            4             26 m²              RUE CAMILLE DELTHIL
+
+
+
+7 autorisations créant des logements recensées dans un rayon de 500 m : la construction a été admise récemment
+dans le voisinage immédiat.
+
+Source : base Sitadel des autorisations d'urbanisme créant des logements (SDES). Un permis accordé à proximité montre
+que des constructions ont été admises dans le secteur, sans préjuger de la décision sur votre propre projet.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            33 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                              09 · Opportunités autour du terrain
+
+
+
+
+      09           Opportunités autour du terrain
+      DANS CETTE SECTION
+
+      Ce qui se passe autour de la parcelle : grands terrains peu bâtis, sociétés propriétaires en
+      difficulté, logements énergivores. Des pistes pour un investisseur, un voisin ou un professionnel.
+
+
+Bodacc (procédures collectives), ADEME (diagnostics énergétiques), cadastre, BD TOPO et Géoportail de l'Urbanisme.
+
+
+
+9.1 Grands terrains peu bâtis à proximité
+Parcelles de plus de 1 200 m², situées en zone urbaine ou à urbaniser du PLU, dans un rayon de 250 m, dont
+moins de 8 % de la surface est bâtie, hors terrains publics : un potentiel de construction ou de division à
+étudier.
+
+  PARCELLE           SURFACE                BÂTI               ZONE               DISTANCE           PROPRIÉTAIRE
+
+  AT 262             2 573 m²               non bâti           UE2                130 m              particulier (non publié)
+
+
+
+
+9.2 Logements classés F ou G autour du terrain
+Logements diagnostiqués F ou G dans un rayon de 350 m. Leur location est déjà interdite (G) ou le sera en
+2028 (F) : leurs propriétaires sont souvent vendeurs, ou doivent engager des travaux de rénovation.
+
+  PARCELLE                   ADRESSE                                        CLASSE LOGEMENT                   SURFACE      DISTANCE DPE DU
+
+  –                          264 rue camille delthil 82000                  F            Maison               106 m²       70 m        20/11/2024
+                             Montauban
+
+  –                          26 rue jean doumerc 82000                      F            Maison               97 m²        110 m       03/02/2025
+                             Montauban
+
+  –                          17 Rue Francois Marceau 82000                  F            Maison               104 m²       140 m       22/11/2022
+                             Montauban
+
+  –                          1 Rue de la Liberté 82000                      F            Maison               96 m²        180 m       20/07/2021
+                             Montauban
+
+  –                          9 rue jean baptiste kleber                     F            Maison               172 m²       190 m       10/01/2024
+                             82000 Montauban
+
+  –                          414 rue camille delthil 82000                  F            Maison               127 m²       200 m       19/11/2025
+                             Montauban
+
+  –                          12 avenue du 19 août 1944                      G            Appartemen           40 m²        230 m       05/09/2025
+                             82000 Montauban                                             t
+
+  –                          17 rue alfred chanzy 82000                     F            Maison               223 m²       250 m       05/12/2023
+                             Montauban
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          34 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                              09 · Opportunités autour du terrain
+
+
+
+
+  PARCELLE                   ADRESSE                                        CLASSE LOGEMENT                   SURFACE      DISTANCE DPE DU
+
+  –                          921 Boulevard Blaise Doumerc                   F            Appartemen           32 m²        260 m       11/08/2022
+                             82000 Montauban                                             t
+
+  –                          20 Avenue Jean Moulin 82000                    F            Appartemen           42 m²        270 m       06/04/2022
+                             Montauban                                                   t
+
+
+
+La parcelle est celle du point d'adresse du logement (cadastre). Pour connaître son propriétaire lorsqu'il s'agit d'un particulier,
+demandez un relevé de propriété au service de la publicité foncière ou à la mairie.
+
+Ces informations proviennent de bases publiques et ne préjugent ni de l'intention de vendre des propriétaires ni de la
+constructibilité des parcelles citées, qui relève d'une étude au cas par cas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          35 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+      10           Votre projet, étape par étape
+De l'achat du terrain à la déclaration aux impôts : démarches, délais, coûts et contacts.
+
+
+
+10.1 Analyse
+Le terrain est soumis au plan local d'urbanisme (PLU) de Montauban. Il est classé en zone UE2. Zone
+urbaine : secteur déjà urbanisé où les équipements publics existants ou en cours de réalisation
+permettent d'accueillir des constructions. Les constructions y sont admises dans le respect du
+règlement de la zone (destinations, implantation, hauteur, emprise, aspect).
+
+La construction n'est pas exclue, mais elle est subordonnée à des conditions qu'il faut lever avant tout
+engagement : lecture du règlement et des orientations d'aménagement, desserte par les réseaux,
+contraintes de risques ou de protection.
+
+
+10.2 Votre projet, étape par étape
+Les étapes ci-dessous suivent l'ordre réel d'un projet de construction, de l'achat du terrain à la déclaration aux
+impôts. Les montants sont indicatifs et à confirmer par devis.
+
+  1      Avant d'acheter le terrain
+         Vérifiez les règles de la zone (chapitres précédents), puis demandez un certificat d'urbanisme opérationnel
+         (Cerfa 13410, sans frais, réponse sous 2 mois) : il fige les règles pendant 18 mois. En zone d'argiles d'aléa
+         moyen ou fort, le vendeur doit fournir une étude de sol préalable.
+         Contact : Mairie de Montauban · 05 63 22 12 00 · contact@ville-montauban.fr · formulaire sur service-public.fr
+         (rechercher « Cerfa 13410 »)
+
+  2      Les études
+         Étude de sol géotechnique (G2) pour dimensionner les fondations : 1 500 à 3 000 €. Étude thermique RE2020,
+         obligatoire pour le permis : 500 à 1 500 €. Bornage par un géomètre si les limites sont incertaines. L'étude de
+         sol ne porte pas sur les espèces protégées : un écologue n'intervient qu'en cas d'enjeu (chapitre
+         Environnement).
+         Géomètres proches du terrain : liste à la fin de ce chapitre
+
+  3      Les plans
+         Architecte obligatoire si la surface de plancher totale dépasse 150 m². En dessous, vous pouvez dessiner les
+         plans vous-même ou faire appel à un dessinateur ou maître d'œuvre (environ 1 500 à 4 000 € le dossier de
+         permis). Architecte : 3 000 à 8 000 € pour la seule mission de permis, 8 à 12 % du coût des travaux pour une
+         mission complète avec suivi du chantier.
+         Trouver un architecte : annuaire de l'Ordre des architectes sur architectes.org
+
+  4      Déposer le permis
+         Formulaire Cerfa 13406 (maison individuelle) et pièces PCMI1 à PCMI8 : plan de situation, plan de masse,
+         coupe, notice, plans des façades et toitures, insertion dans le paysage, photos, attestation RE2020. Dépôt en
+         mairie ou en ligne sur le guichet numérique de la commune. La mairie a 1 mois pour réclamer une pièce
+         manquante ; l'instruction dure 2 mois à partir du dossier complet, plus en secteur protégé.
+         Dépôt : Mairie de Montauban · 05 63 22 12 00 · contact@ville-montauban.fr · formulaire sur service-public.fr
+         (rechercher « Cerfa 13406 »)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        36 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+  5      Affichage et recours
+         Dès l'accord, installez le panneau de permis sur le terrain, lisible depuis la voie, pendant toute la durée du
+         chantier. Les tiers ont 2 mois à compter du premier jour d'affichage pour contester ; la mairie peut retirer un
+         permis illégal pendant 3 mois. Faites constater l'affichage par un commissaire de justice (environ 300 à 600 €
+         pour les trois constats).
+         Commissaires de justice : annuaire sur commissaire-justice.fr
+
+  6      Avant les travaux
+         Souscrivez l'assurance dommages-ouvrage, obligatoire (souvent 2 à 4 % du coût de la construction). Signez
+         le contrat de construction de maison individuelle ou les marchés des artisans. Déposez la déclaration
+         d'ouverture de chantier (Cerfa 13407) le jour du démarrage. Le permis est valable 3 ans, prorogeable deux
+         fois d'un an.
+         Déclaration d'ouverture : Mairie de Montauban · 05 63 22 12 00 · contact@ville-montauban.fr
+
+  7      Le financement
+         La banque débloque le prêt au fur et à mesure du chantier, sur présentation des factures des entreprises ou
+         des appels de fonds du constructeur. Avec un contrat de construction de maison individuelle, l'échéancier
+         est encadré par la loi : 15 % à l'ouverture du chantier, 25 % aux fondations, 40 % aux murs, 60 % hors d'eau,
+         75 % hors d'air et cloisons, 95 % aux équipements, le solde à la réception. Des intérêts intercalaires peuvent
+         courir sur les sommes débloquées.
+         Votre banque ou votre courtier
+
+  8      La fin du chantier
+         Réception des travaux avec le constructeur ou les artisans, avec réserves si nécessaire. Déposez ensuite la
+         déclaration attestant l'achèvement et la conformité des travaux (DAACT, Cerfa 13408), avec l'attestation
+         RE2020 de fin de chantier. La mairie a 3 mois pour la contester (5 mois en secteur protégé).
+         Dépôt : Mairie de Montauban · 05 63 22 12 00 · contact@ville-montauban.fr
+
+  9      Les impôts
+         Dans les 90 jours suivant l'achèvement, déclarez la construction sur impots.gouv.fr, espace « Gérer mes
+         biens immobiliers ». Cette déclaration sert au calcul de la taxe d'aménagement (payée en une fois sous 1 500
+         €, sinon en deux fois, estimation plus bas dans ce chapitre) et de la taxe foncière, avec une exonération
+         possible les deux premières années selon la commune.
+         impots.gouv.fr › Espace particulier › Gérer mes biens immobiliers
+
+
+10.3 Les points à vérifier pour ce terrain
+  1      Certificat d'urbanisme opérationnel
+         Le demander en mairie (formulaire Cerfa 13410), en décrivant le projet. Délivré sans frais, il indique si le
+         terrain peut accueillir le projet et fige les règles d'urbanisme pendant 18 mois.
+
+  2      Règlement de la zone
+         Lire le règlement écrit de la zone UE2 et, le cas échéant, les orientations d'aménagement, disponibles
+         sur le Géoportail de l'Urbanisme.
+
+  3      Réseaux et accès
+         Vérifier l'accès à une voie publique ou privée adaptée, la desserte en eau potable et en électricité, et le
+         mode d'assainissement. En l'absence de réseau collectif, une étude de sol et l'avis du service public
+         d'assainissement non collectif (SPANC) sont nécessaires.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        37 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+  4      Bornage
+         Faire réaliser un bornage par un géomètre-expert pour fixer les limites exactes et la surface réelle du
+         terrain.
+
+  5      Sécuriser un achat
+         Pour une acquisition, prévoir dans le compromis une condition suspensive d'obtention d'un permis de
+         construire purgé de tout recours.
+
+
+10.4 Délais indicatifs d'instruction
+  DEMANDE                                                                                 DÉLAI DE DROIT COMMUN
+
+  Certificat d'urbanisme d'information (CUa)                                              1 mois
+
+  Certificat d'urbanisme opérationnel (CUb)                                               2 mois
+
+  Déclaration préalable                                                                   1 mois
+
+  Permis de construire une maison individuelle                                            2 mois
+
+  Permis d'aménager, autres permis de construire                                          3 mois
+
+
+
+Ces délais peuvent être majorés, notamment en site classé ou inscrit, aux abords d'un monument historique ou lorsque la
+consultation d'un service extérieur est nécessaire.
+
+
+10.5 Taxe d'aménagement à prévoir
+      Exemple : une maison de 120 m² en résidence principale, avec une piscine de 3 × 6 m. Sur ce terrain, la
+      taxe d'aménagement à prévoir est d'environ 3 480 €.
+
+
+
+  PROJET                                                                                                       TAXE ESTIMÉE
+
+  Maison de 120 m², résidence principale                                                                       3 250 €
+
+  Piscine de 3 × 6 m (18 m²)                                                                                   230 €
+
+  Total à prévoir                                                                                              3 480 €
+
+
+
+Taux appliqués : 3 % pour la commune et 2,2 % pour le département, sur une valeur forfaitaire de 892 € par m² en 2026 (251
+€ par m² de bassin pour une piscine). Une résidence principale bénéficie d'un abattement de 50 % sur ses 100 premiers m².
+
+La taxe est due une fois les travaux terminés : elle se déclare sur impots.gouv.fr dans les 90 jours suivant l'achèvement, et
+se paie en deux fois au-delà de 1 500 €. Pour calculer votre propre projet :
+terrenurbanisme.com/outils/taxe-amenagement.html
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        38 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+10.6 Implanter une entreprise : zone France Ruralités Revitalisation
+     La commune de Montauban n'est pas classée en zone France Ruralités Revitalisation (FRR). Une
+     entreprise qui s'y installe ne bénéficie pas de l'exonération d'impôt sur les bénéfices liée à ce zonage.
+
+
+
+Source : ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 (collectivites-locales.gouv.fr).
+
+
+10.7 Géomètres proches du terrain
+Le géomètre-expert est le seul professionnel habilité à fixer les limites de propriété (bornage) et à établir les
+documents d'arpentage déposés au cadastre. Il intervient aussi pour les relevés topographiques et les
+divisions de terrain.
+
+0,2 km            EXPERTS GEO
+                                                                                                                           Coordonnées
+                  15 AVENUE DU 19 AOUT 1944 82000 MONTAUBAN
+
+
+1,3 km            GEOFALCO
+                                                                                                                           Coordonnées
+                  LOT N 2 253 RUE DE L'ABBAYE 82000 MONTAUBAN
+
+
+1,5 km            SELARL SOGEXFO GEOMETRES EXPERTS ASSOCIES
+                                                                                                                           Coordonnées
+                  3 RUE VOLTAIRE 82000 MONTAUBAN
+
+
+2 km              CONSULVATIS
+                                                                                                                           Coordonnées
+                  2 RUE ALFRED DE MUSSET 82000 MONTAUBAN
+
+
+3,6 km            AREAGEO
+                                                                                                                           Coordonnées
+                  1460 RTE DE ST ETIENNE DE TULMONT 82000 MONTAUBAN
+
+
+4,4 km            SEBASTIEN LE PAPE
+                                                                                                                           Coordonnées
+                  ALBASUD BP 301 IMPASSE DE BERLIN 82000 MONTAUBAN
+
+
+Source : répertoire Sirene de l'INSEE (activité des géomètres), classé par distance au terrain. L'inscription d'un cabinet à l'Ordre
+des géomètres-experts se vérifie sur geometre-expert.fr. Le bouton « Coordonnées » ouvre la fiche du cabinet (téléphone,
+horaires, itinéraire). Cette liste est fournie à titre indicatif, sans partenariat ni recommandation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        39 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Montauban · AT 279
+          TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+     11            État des risques (ERP) pré-rempli
+     DANS CETTE SECTION
+
+     Le formulaire réglementaire à remettre à l'acquéreur ou au locataire, pré-rempli à partir des
+     bases officielles : plans de prévention, sismicité, radon, sols pollués, trait de côte, bruit des
+     aérodromes.
+
+
+Articles L. 125-5 à L. 125-7 et R. 125-23 à R. 125-27 du Code de l'environnement · modèle fixé par l'arrêté du 27 septembre
+2022.
+
+
+     Formulaire pré-rempli à partir de Géorisques et du Géoportail de l'Urbanisme à la date du rapport.
+     Avant de le remettre à l'acquéreur ou au locataire, le vendeur ou le bailleur le vérifie, le complète
+     (sinistres indemnisés) et le signe ; il doit dater de moins de six mois à la signature de la promesse, du
+     bail ou de l'acte.
+
+
+
+
+11.1 Situation du bien
+Commune                                                  Montauban (82121)
+
+Département                                              Tarn-et-Garonne (82)
+
+Références cadastrales                                   Section AT, parcelle n° 279 · 82121000AT0279
+
+Surface cadastrale                                       605 m²
+
+
+
+11.2 Plans de prévention des risques
+  L'IMMEUBLE EST SITUÉ DANS LE PÉRIMÈTRE…                                         RÉPONSE                DÉTAIL
+
+  d'un plan de prévention des risques naturels (PPRN)                             Oui                    PM1 Tassements differentiels ass
+  prescrit, appliqué par anticipation ou approuvé
+
+  d'un plan de prévention des risques miniers (PPRM)                              Non                    Non recensé
+
+  d'un plan de prévention des risques technologiques                              Non                    Risques technologiques sur la commune
+  (PPRT)                                                                                                 : installations industrielles (icpe),
+                                                                                                         canalisations de matières dangereuses,
+                                                                                                         pollution des sols
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       40 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+11.3 Autres zonages réglementaires
+  L'IMMEUBLE EST SITUÉ…                                                           RÉPONSE                DÉTAIL
+
+  dans une commune de sismicité (zones 2 à 5 : règles de                          Non                    Zone 1 – très faible
+  construction parasismique)
+
+  dans une commune à potentiel radon de niveau 3                                  Non                    Catégorie 1 (potentiel faible)
+
+  dans un secteur d'information sur les sols (SIS)                                Non                    Aucun SIS recensé à proximité
+
+  dans une zone exposée au recul du trait de côte                                 Non                    Non concerné selon Géorisques
+
+  dans une zone de bruit d'un plan d'exposition au bruit                          À vérifier             Aucun PEB annexé au document
+  d'aérodrome (PEB)                                                                                      d'urbanisme ; vérifier auprès de la mairie
+
+  dans une zone de retrait-gonflement des argiles                                 Oui                    Existant – modéré
+  (information)
+
+
+
+
+11.4 Sinistres indemnisés et déclarations
+Arrêtés de catastrophe naturelle sur la commune : 40 (liste en section Risques). Le vendeur ou le bailleur
+déclare ci-dessous les sinistres ayant donné lieu à une indemnisation au titre des catastrophes naturelles ou
+technologiques pendant la période où il a été propriétaire.
+
+Sinistres indemnisés                                     [ ] Oui [ ] Non
+
+Vendeur ou bailleur                                      Nom : ____________________ Date : ___/___/______ Signature :
+
+Acquéreur ou locataire                                   Nom : ____________________ Date : ___/___/______ Signature :
+
+
+L'état des risques officiel peut aussi être édité sans frais sur Géorisques (errial.georisques.gouv.fr). Les informations
+ci-dessus sont établies à partir des bases nationales ; en cas de divergence, l'arrêté préfectoral relatif à l'information des
+acquéreurs et des locataires fait foi.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          41 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+    12             Avertissement et sources
+     DANS CETTE SECTION
+
+     La portée de ce rapport et la liste des sources publiques consultées.
+
+
+
+12.1 Nature du document
+Ce rapport est un document d'information établi automatiquement, à la date indiquée en page de garde, à
+partir des données publiques officielles alors disponibles. Il n'a aucune valeur contractuelle, réglementaire ou
+juridique.
+
+
+12.2 Ce que ce rapport n'est pas
+Il ne constitue ni un certificat d'urbanisme au sens de l'article L. 410-1 du Code de l'urbanisme, ni une
+autorisation d'urbanisme (permis de construire, permis d'aménager, déclaration préalable), ni un état des
+risques au sens de l'article L. 125-5 du Code de l'environnement, ni un bornage, ni une expertise, ni une
+évaluation immobilière, ni une consultation juridique. Il n'engage en rien l'administration.
+
+
+12.3 Permis de construire
+Ce rapport ne peut en aucun cas être joint, produit ou invoqué à l'appui d'une demande de permis de
+construire, de permis d'aménager ou de déclaration préalable, ni opposé à la mairie ou à un service de l'État. Il
+ne garantit pas l'obtention d'une autorisation : seule l'autorité compétente se prononce, au vu d'un projet
+précis et de l'ensemble des règles applicables à la date de sa décision.
+
+
+12.4 Limites des données
+Les données sont produites par des organismes publics dont l'éditeur n'est ni l'auteur ni le garant. Elles
+peuvent être incomplètes, imprécises ou ne pas refléter une modification, une révision, une mise en
+compatibilité, une annulation contentieuse, un sursis à statuer ou une procédure en cours. Le plan cadastral,
+document fiscal, ne fait pas foi des limites de propriété. Surfaces, distances, altitudes et pentes sont
+approchées. Les extraits et analyses du règlement sont une aide à la lecture : seul le texte intégral du
+document d'urbanisme approuvé, consultable en mairie, fait foi.
+
+
+12.5 Avant toute décision
+Avant toute acquisition, cession, financement, promesse de vente ou dépôt d'une demande, le lecteur doit
+obtenir un certificat d'urbanisme opérationnel auprès de la mairie, consulter le document d'urbanisme en
+vigueur et recueillir l'avis d'un professionnel habilité (notaire, architecte, géomètre-expert, avocat). Pour un
+achat, il est recommandé de stipuler une condition suspensive d'obtention d'un permis de construire purgé de
+tout recours.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         42 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+12.6 Responsabilité
+L'éditeur ne saurait être tenu responsable d'une décision prise sur le seul fondement de ce rapport, ni d'un
+refus d'autorisation, d'une erreur ou d'une omission des sources publiques, dans les limites prévues par les
+conditions générales de vente acceptées lors de la commande.
+
+
+12.7 Sources consultées
+  DONNÉE                                                    SOURCE
+
+  Cadastre                                                  DGFiP, plan cadastral informatisé, via API Carto (IGN)
+
+  Photographies et plans                                    IGN, Géoplateforme : orthophotographies, Plan IGN, parcellaire express
+
+  Urbanisme                                                 Géoportail de l'Urbanisme : zonage, prescriptions, informations, servitudes
+                                                            d'utilité publique
+
+  Littoral                                                  IGN, BD TOPO (limite terre-mer) ; communes littorales (Géoportail de
+                                                            l'Urbanisme)
+
+  Montagne                                                  Ministère de la Cohésion des territoires, communes de la loi Montagne
+
+  Risques                                                   Géorisques (ministère de la Transition écologique) : rapport de risques,
+                                                            arrêtés CatNat, sismicité, radon, ICPE, sites pollués
+
+  Environnement                                             Inventaire national du patrimoine naturel (PatriNat), via API Carto
+
+  Altitude, pente et exposition                             IGN, RGE ALTI
+
+  Ensoleillement                                            Calcul astronomique de la course du soleil ; masque du relief (IGN, RGE
+                                                            ALTI) et des bâtiments (IGN, BD TOPO)
+
+  Voirie et accès                                           IGN, BD TOPO (tronçons de route)
+
+  Permis de construire                                      Sitadel, service des données et études statistiques (SDES) du ministère
+                                                            chargé du logement
+
+  Photographies anciennes                                   IGN, BD ORTHO historique
+
+  Fibre et internet                                         Arcep, Ma connexion internet (éligibilité par adresse)
+
+  Géomètres                                                 Répertoire Sirene (INSEE), activité des géomètres
+
+  Propriétaires personnes morales                           DGFiP, fichiers des parcelles des personnes morales (diffusion Koumoul)
+
+  Diagnostics énergétiques                                  ADEME, base des DPE des logements existants
+
+  Procédures collectives                                    Bodacc, annonces commerciales (DILA)
+
+  Bâtiments                                                 IGN, BD TOPO
+
+  Réseau électrique                                         Agence ORE (gestionnaires de réseaux de distribution : Enedis, EDF Corse
+                                                            et entreprises locales) : réseau basse tension et postes de distribution
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         43 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+  DONNÉE                                                    SOURCE
+
+  Taxe d'aménagement                                        DGFiP, éléments de taxation votés par les collectivités ; valeurs forfaitaires
+                                                            fixées par arrêté
+
+  Rapport officiel de risques                               Géorisques, ministère chargé de l'environnement
+
+  Zone France Ruralités Revitalisation                      ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 ; article
+                                                            44 quindecies A du code général des impôts
+
+  Marché immobilier                                         Statistiques des demandes de valeurs foncières (DVF) par commune, DGFiP
+                                                            et Etalab
+
+  Date d'extraction                                         20/11/2026
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         44 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Montauban · AT 279
+         TerrenUrbanisme
+                                                                                                                     Annexe · règlement de la zone
+
+
+
+
+ANNEXE
+
+
+Règlement écrit · zone UE2
+Les pages suivantes reproduisent le chapitre du règlement officiel applicable à la zone de la parcelle
+(pages 33 à 43 du document approuvé), tel que publié sur le Géoportail de l'Urbanisme. Il s'agit d'une
+reproduction à titre d'information : seule la version approuvée tenue à disposition en mairie fait foi, avec
+ses annexes, plans et éventuelles modifications ultérieures.
+Règlement complet :
+https://data.geopf.fr/annexes/gpu/documents/DU_82121/36ac0d1e1a7ef986df0e69d33423395d/82121_reglement_20251125.pdf
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        45 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                             32
+
+
+
+    Chapitre III – Dispositions applicables en UE1, UE2, UE3
+
+Caractère des zones
+
+La zone UE couvre les espaces urbains contemporains qui se sont constitués aux cours des phases
+d'extensions progressives de la ville, notamment en rive droite du Tarn. Elle englobe des quartiers de
+natures diversifiées par la forme et la densité du tissu bâti. Ces quartiers sont destinés principalement à
+l'habitat ainsi qu'aux équipements et activités de commerces et de services compatibles avec celui-ci.
+
+Elle comprend les secteurs suivants :
+ – le secteur UE1 correspond aux quartiers ou sites de tissu bâti compact, et dans lesquels des hauteurs
+   bâtis élevées peuvent être acceptées. Ils se localisent notamment autour de l'axe d'entrée Est de la
+   ville et en bordure des boulevards ;
+ – le secteur UE2 correspond aux autres espaces caractérisés par un tissu bâti compact, localisés pour
+   l'essentiel dans la ceinture formée par la rocade (A20) à l'Est et la voie ferrée à l'Ouest ;
+ – le secteur UE3 correspond aux quartiers de tissu bâti de moyenne densité, pour la plupart récents, qui
+   se localisent notamment en ceinture Nord et Ouest de la ville
+ – les secteurs UE3b, UE2c et UE3c correspondent aux espaces compris dans le périmètre du P.E.B.
+   de l'aérodrome, en zone B ou en zone C.
+
+Les règles définies dans le présent chapitre s'appliquent par principe à l'ensemble de la zone UE, y compris
+ses secteurs UE1, UE2, UE3, UE3b, UE2c et UE3c, sauf indication contraire mentionnée dans le corps
+des articles.
+
+Dans les espaces compris dans les zones inondables du Plan de Prévention des Risques d'Inondation, les
+modes d'occupation et d'utilisation du sol autorisés sont soumis à prescriptions particulières et devront
+respecter les dispositions du PPRI, annexées au dossier de PLU.
+
+Dans les espaces compris dans les zones du P.E.B., les modes d'occupation et d'utilisation du sol sont
+soumis à prescriptions spéciales et au respect des dispositions du PEB, annexées au dossier de PLU.
+
+
+ARTICLE UE 1 - OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+
+Sont interdites les occupations et utilisations du sol suivantes :
+– les constructions à usage d'activité agricole ou d'exploitation forestière,
+– les constructions à usage d'activité industrielle ou d'entrepôt, à l'exception de celles prévues à l'article 2
+– les constructions à usage d'activités inscrites à la nomenclature des installations classées soumises à
+  autorisation,
+– les terrains de camping-caravaning, les habitations légères de loisirs, l'usage en habitat permanent
+  d'une structure mobile, les résidences démontables constituant l'habitat permanent de leurs utilisateurs,
+  ainsi que le stationnement isolé de caravanes,
+– l'ouverture et l'exploitation de carrières ou gravières,
+– En UE2c et UE3c : les opérations nouvelles d’aménagement liées à l’habitat, les ensembles
+  d’habitations groupées et l’habitat collectif.
+– En UE3b : les constructions nouvelles à usage d'habitation, les constructions nouvelles à usage
+  d'activités ou d'équipements non nécessaires au fonctionnement de l'aérodrome, les opérations
+  nouvelles d’aménagement liées à l’habitat, les ensembles d’habitations groupées et l’habitat collectif.
+
+Dans les secteurs soumis au risque d'inondation, sont interdits les occupations et utilisations du sol
+non visées à l'article 2.
+Ville de MONTAUBAN / Plan Local d'Urbanisme / Pièce 3.1 – Règlement
+                                                          Zones urbaines – UE1, UE2, UE3, UE2c, UE3c, UE3b
+                                                                                                          33
+
+
+ARTICLE UE 2 - OCCUPATIONS         ET    UTILISATIONS     DU   SOL    SOUMISES      A   DES    CONDITIONS
+                 PARTICULIERES
+
+
+1/ Hors des secteurs soumis au risque d'inondation :
+
+ – Dans les espaces compris dans les zones de bruit des voies routières ou ferrées, les constructions
+   nouvelles à usage d'habitation, d'hôtel, d'établissements d'enseignement ou de santé sont admises à
+   condition de mettre en œuvre les prescriptions d'isolement acoustique définies par la réglementation
+   en vigueur.
+
+ – Dans le périmètre des opérations de ZAC et dans les autres secteurs concernés par des orientations
+   d'aménagement et de programmation définies au PLU, les occupations et utilisations du sol sont
+   admises à condition d'être compatibles avec les orientations d’aménagement et de programmation
+   définies pour le secteur considéré.
+
+ – Les opérations et constructions qui visent la réalisation de programmes de logements d'une taille
+   supérieure ou égale à 8 logements, ou à 8 lots destinés à l'habitation, ou à 800 m² de surface de
+   plancher destinés à l'habitation, sont admises à condition de mettre en œuvre le dispositif de mixité
+   sociale tel que défini à l'article 4 G/ des Dispositions générales du Règlement.
+   Dans les opérations et constructions concernées, au moins 20 % du programme de logements devront
+   être affectés à la réalisation de logements locatifs conventionnés.
+   Ne sont pas soumises aux obligations du dispositif de mixité sociale, les opérations et constructions
+   qui :
+     - soit visent la réalisation de programmes de logements d'une taille inférieure aux seuils précisés ci-
+       dessus,
+     - soit se localisent dans les "secteurs d'exclusion du DMS" délimités au Document Graphique,
+     - soit se localisent dans le périmètre de la ZAC Multisites quartiers Est.
+
+ – Les constructions et installations à usage d'activités de commerce ou d'artisanat sont admises à
+   condition que leur volume et leur aspect soient compatibles avec le caractère des constructions
+   avoisinantes.
+
+ – L'aménagement ou l'extension des constructions à usage industriel existantes sont admises à
+   condition, dans le cas d'une extension, que la surface de plancher créée n'excède pas 20% de la
+   surface de plancher existante.
+
+ – Les constructions à usage d'entrepôt sont admises à condition d'être nécessaires et liées à une activité
+   existante ou créée de manière concomitante, et exercée à titre principal.
+
+ – Les affouillements et exhaussements de sol sont admis à condition :
+   - d'être justifiés par des raisons techniques de construction ou de viabilisation, ou d'être destinés aux
+     fouilles archéologiques,
+   - de présenter une remise en état du site ou une intégration paysagère adaptée après travaux.
+
+ – Dans les secteurs UE2c et UE3c, les constructions à usage d'habitation individuelle, les constructions
+   à usage d'activité de commerce, d'artisanat ou de bureaux, sont admises à condition :
+    - de mettre en œuvre les prescriptions d'isolement acoustique définies par la réglementation en
+       vigueur,
+    - dans le cas d'habitations, de n'entraîner qu'un faible accroissement de la capacité d'accueil
+       existante,
+     - dans le cas d'activités, de ne pas entraîner l'implantation de population permanente.
+
+ – Dans le secteur UE3b, l'aménagement et l'extension des constructions existantes sont admis à
+   condition de ne pas entraîner l'accroissement de la capacité d'accueil d'habitants existante.
+
+
+2/ Dans les secteurs soumis au risque d'inondation, les occupations et utilisations du sol visées ci-
+   dessus sont admises à condition de respecter les prescriptions du règlement du PPRI.
+
+
+Ville de MONTAUBAN / Plan Local d'Urbanisme / Pièce 3.1 – Règlement
+                                                          Zones urbaines – UE1, UE2, UE3, UE2c, UE3c, UE3b
+                                                                                                           34
+
+
+ARTICLE UE 3 - CONDITIONS DE DESSERTE DES TERRAINS ET D'ACCES AUX VOIES
+
+1 – Accès
+ – Les constructions et installations autorisées doivent avoir accès à une voie publique ou privée.
+ – Les accès doivent être adaptés à l'opération et aménagés de façon à apporter la moindre gêne à la
+   circulation publique. Les caractéristiques géométriques des accès devront répondre à l'importance et
+   à la destination de l'immeuble ou de l'ensemble d'immeubles qu'ils desservent pour satisfaire aux
+   exigences de la sécurité, de la protection civile et de la défense contre l'incendie.
+ – Lorsque le terrain est riverain de deux ou plusieurs voies, les accès doivent, sauf impossibilité
+   technique, s'effectuer à partir de la voie présentant le moindre risque pour la circulation générale.
+
+2 – Voirie
+ – Les terrains doivent être desservis par des voies publiques ou privées répondant à l'importance et à
+   la destination de la construction ou de l'ensemble des constructions qui y sont édifiées. Les
+   caractéristiques de ces voies doivent permettre la circulation des engins de lutte contre l'incendie.
+
+ – La création de voies ouvertes à la circulation automobile est soumise aux conditions suivantes :
+   - une largeur minimale de chaussée de 5 m, et une largeur minimale de plate-forme de 8 mètres.
+   - dans le cas où elles se terminent en impasse, ces voies doivent être aménagées de telle sorte que
+     les véhicules de service puissent faire aisément demi-tour.
+    Des largeurs différentes pourront être imposées ou admises :
+     - pour répondre à l’importance et à la destination des constructions à desservir, dans la limite exigible
+       de 12 mètres de largeur de plate-forme,
+     - dans le cas de voies en impasse desservant un nombre réduit de logements ou bien uniquement
+       des ouvrages techniques nécessaires au fonctionnement des réseaux, dans la limite de 5 mètres
+       de largeur de plate-forme.
+     - dans le cas de voies en sens unique, avec une largeur minimale de chaussée de 3.5m et une
+       largeur minimale de plateforme de 5m.
+     - en compatibilité avec les orientations d'aménagement et de programmation définies au PLU, dans
+       le périmètre des ZAC ou dans les autres secteurs concernés par des orientations d'aménagement
+       et de programmation.
+
+3 – Cheminements piétons et cycles
+
+ Les opérations d'ensemble devront prendre en compte la sécurité et les continuités de circulations
+ piétonnes et cycles:
+   - soit dans le cadre de l'aménagement des voies de desserte,
+   - soit par des cheminements spécifiques.
+
+ Selon l'importance de l'opération et des circulations existantes ou prévues, l'aménagement de pistes ou
+ cheminements dédiés aux cycles et aux piétons pourra être exigée, notamment pour desservir les
+ équipements publics.
+
+ Dans tous les cas, les opérations devront assurer les possibilités de raccordement et la sécurité des
+ continuités avec les cheminements publics existants ou dont la réalisation est prévue au droit du terrain
+ d'opération.
+
+
+
+
+Ville de MONTAUBAN / Plan Local d'Urbanisme / Pièce 3.1 – Règlement
+                                                          Zones urbaines – UE1, UE2, UE3, UE2c, UE3c, UE3b
+                                                                                                          35
+
+
+ARTICLE UE 4 - CONDITIONS DE DESSERTE DES TERRAINS PAR LES RESEAUX PUBLICS D'EAU,
+D'ELECTRICITE ET D'ASSAINISSEMENT, ET CONDITIONS D'ASSAINISSEMENT INDIVIDUEL
+
+1 – Eau potable et défense incendie
+ – Toute construction pouvant servir au repos ou à l'agrément de personnes doit être raccordée par des
+   canalisations souterraines au réseau public de distribution d'eau potable de caractéristiques adaptées,
+   et alimenté en quantité suffisante par une ressource conforme à la réglementation en vigueur.
+ – La défense incendie doit être assurée soit depuis le réseau public lorsqu'il présente les
+   caractéristiques suffisantes définies par le service compétent, soit par un dispositif complémentaire
+   lorsque le réseau public est insuffisant.
+
+2 – Assainissement
+
+ a) Eaux usées
+   Toute construction ou installation doit évacuer ses eaux et matières usées par des canalisations
+   souterraines raccordées au réseau collectif d'assainissement lorsqu'il existe, en respectant les
+   caractéristiques de ce réseau.
+   Dans le cas où le réseau collectif d'assainissement n'est pas encore réalisé, les constructions et
+   installations nouvelles doivent être dotées d'un dispositif d'assainissement autonome conforme aux
+   dispositions réglementaires. Ces dispositifs autonomes doivent être conçus et établis de manière à
+   pouvoir être raccordés ultérieurement au réseau collectif d'assainissement si le projet est dans la zone
+   d'assainissement collectif.
+   Pour les opérations représentant 3 logements ou plus, un réseau de collecte devra être réalisé à
+   l'échelle de l'opération, de manière à faciliter le raccordement ultérieur des lots et des habitations au
+   réseau collectif futur.
+
+ b) Eaux pluviales
+    Les règles applicables en matière de collecte et de traitement des eaux pluviales sont définies en
+     fonction de la superficie de l’unité foncière concernée par l'opération d'aménagement ou de
+     construction projetée :
+     ‐ pour les terrains d'une superficie inférieure à 2.500 m² : Les aménagements réalisés doivent garantir
+       l'écoulement sans stagnation des eaux pluviales vers un exutoire particulier désigné par les
+       services techniques compétents, soit dans le réseau collecteur lorsqu'il existe, soit vers un exutoire
+       naturel ;
+     ‐ pour les terrains d'une superficie comprise entre 2.500 m² et 1 ha : Il est fixé un débit de fuite
+       maximum de 10 l/s/ha en sortie de terrain avant raccordement à l'exutoire, soit le réseau collecteur
+       lorsqu'il existe, soit un exutoire naturel ;
+     ‐ pour les terrains d'une superficie supérieure ou égale à 1 ha : Il est fixé un débit de fuite maximum
+       de 3 l/s/ha en sortie de terrain avant raccordement à l'exutoire, soit le réseau collecteur lorsqu'il
+       existe, soit un exutoire naturel.
+    Les limitations de débit de fuite, prescrits ci-dessus, nécessitent dans la plupart des cas la mise en
+     place d'ouvrages et de dispositifs spécifiques, permettant le stockage et la restitution régulée des
+     eaux pluviales en amont de l’exutoire. Ces ouvrages et dispositifs seront réalisés sur le terrain de
+     projet, et à la charge du pétitionnaire. La méthode de calcul des volumes de stockage sera précisée
+     dans une note technique.
+     Dans tous les cas, le débit de fuite ne sera pas inférieur à 3 l/s et/ou le diamètre d’ajutage ne sera
+     pas inférieur à 50 mm pour des raisons de faisabilité technique.
+
+    Dans le périmètre de la ZAC Multisites quartiers Est et de la ZAC Bas-Pays, les règles générales
+     définies ci-dessus ne s'appliquent pas. Les modes de collecte et d'évacuation des eaux pluviales,
+     ainsi que les débits de fuite seront déterminés conformément aux prescriptions du dossier Loi sur
+     l’eau et du cahier des charges établis par l’aménageur.
+
+
+
+
+Ville de MONTAUBAN / Plan Local d'Urbanisme / Pièce 3.1 – Règlement
+                                                          Zones urbaines – UE1, UE2, UE3, UE2c, UE3c, UE3b
+                                                                                                          36
+
+
+ARTICLE UE 5 - SUPERFICIE MINIMALE DES TERRAINS CONSTRUCTIBLES
+
+Sans objet (supprimé par la loi ALUR du 24 mars 2014)
+
+
+ARTICLE UE 6 - IMPLANTATION DES CONSTRUCTIONS PAR RAPPORT AUX VOIES ET AUX EMPRISES
+                 PUBLIQUES
+
+
+1/ Sauf indication de recul particulier portée au Document graphique, les constructions doivent
+   être implantées selon les dispositions suivantes :
+
+ a) Recul minimal par rapport à l'axe de la rocade Est (A20) :
+   – Dans les espaces non urbanisés au sens de l'article L.111.6 du Code de l'urbanisme : 100 mètres
+   – Dans les espaces déjà urbanisés au sens de l'article L.111.6 du Code de l'urbanisme :
+     - 50 mètres pour les constructions à usage d’habitation sans que cette distance puisse être inférieure
+       à 25 mètres de la limite d'emprise limite d'emprise actuelle ou future de la voie,
+     - 40 mètres pour les constructions à usage autre que d'habitation sans que cette distance puisse
+       être inférieure à 20 mètres de la limite d'emprise actuelle ou future de la voie
+
+ b) Recul minimal par rapport à l'axe de la RD 927 :
+   – Dans les espaces non urbanisés au sens de l'article L.111.6 du Code de l'urbanisme : 75 mètres
+   – Dans les espaces déjà urbanisés au sens de l'article L.111.6 du Code de l'urbanisme : 35 mètres
+
+ c) Recul minimal par rapport à l'axe du Boulevard Urbain Ouest : 35 mètres
+
+ d) Recul minimal par rapport à l'axe des autres routes départementales : 15 mètres
+
+ e) Par rapport aux voies internes des opérations de lotissements ou d'ensembles d'habitations :
+    Les constructions pourront être implantées à la limite d'emprise ou en retrait de la limite d'emprise de
+    ces voies, existantes ou à créer. Dans le cas d’une implantation en retrait, celui-ci sera de 5 mètres
+    minimum.
+
+ f) Par rapport aux autres voies publiques ou privées ouvertes à la circulation et aux autres emprises
+    publiques, existantes ou à créer :
+    – En UE1 uniquement:
+      Les constructions pourront être implantées à la limite d'emprise ou en retrait de la limite d'emprise.
+      Dans le cas d’une implantation en retrait, celui-ci sera de 5 mètres minimum.
+    – Dans le reste de la zone :
+      Les constructions devront respecter un recul minimal de 5 mètres par rapport à la limite d'emprise.
+
+2/ Des implantations différentes des paragraphes de l'alinéa 1/ ci-dessus peuvent être autorisées ou
+   imposées dans les cas suivants :
+   – Dans le cas où un alignement particulier est défini en bordure des voies ou emprises publiques,
+     résultant d'un plan d'alignement ou d'un emplacement réservé établi par la puissance publique, cet
+     alignement se substitue aux limites d'emprises définies à l'alinéa 1/ précédent.
+   – Sauf dans les espaces non urbanisés au sens de l'article L.111.6 du Code de l'Urbanisme, pour
+     intégrer la nouvelle construction dans la composition des façades établie par les constructions
+     voisines déjà implantées et en bon état.
+   – Pour les constructions implantées en bordure de voies ou emprises publiques créées dans le cadre
+     des opérations de ZAC ou dans les autres secteurs concernés par des orientations d'aménagement
+     et de programmation, à condition que les projets soient compatibles avec les orientations
+     d’aménagement et de programmation définies pour le secteur considéré.
+   – En cas d'aménagement ou d'extension de constructions existantes et ne respectant pas le retrait
+     imposé, à condition de ne pas aggraver la non-conformité existante.
+Ville de MONTAUBAN / Plan Local d'Urbanisme / Pièce 3.1 – Règlement
+                                                          Zones urbaines – UE1, UE2, UE3, UE2c, UE3c, UE3b
+                                                                                                                  37
+
+
+
+       – Pour les travaux, ouvrages et installations de protection contre les crues.
+       – Pour les constructions, installation ou ouvrages techniques nécessaires au fonctionnement des
+         réseaux, et pour les services publics exigeant la proximité immédiate des infrastructures routières.
+
+
+ARTICLE UE 7 - IMPLANTATION DES CONSTRUCTIONS PAR RAPPORT AUX LIMITES SEPARATIVES
+
+1/ Constructions neuves et reconstructions totales
+
+      a) Implantation par rapport aux limites séparatives latérales (limites donnant sur les voies, publiques ou
+         privées ouvertes à la circulation, et sur les emprises publiques)
+
+          Dans une bande de 17 mètres de profondeur, mesurée perpendiculairement à partir de la limite
+           des voies publiques ou privées et des emprises publiques, ou bien de la limite de recul défini à
+           l’article UE 6, les constructions doivent être implantées selon les modalités suivantes :
+          – en UE1, UE2, UE2c :
+            . soit en limites séparatives latérales,
+            . soit en recul par rapport à l'une ou aux deux limites séparatives latérales. Dans ce cas, la distance
+              de recul par rapport aux limites séparatives latérales sera au moins égale à la moitié de la
+              hauteur(*) de la construction, avec un minimum de 3 mètres. Les débordements de toiture jusqu’à
+              1 mètre seront admis dans ce retrait.
+          – en UE3, UE3b, UE3c :
+            . soit sur une seule limite séparative latérale,
+            . soit en recul par rapport aux limites séparatives latérales. Dans ce cas, la distance de recul par
+              rapport aux limites séparatives latérales sera au moins égale à la moitié de la hauteur de la
+              construction (*), avec un minimum de 3 mètres. Les débordements de toiture jusqu’à 1 mètre
+              seront admis dans ce retrait.
+
+          Dans une bande comprise entre 17 mètres et la limite de fond de terrain :
+          - Principe : les constructions doivent être implantées en recul des limites séparatives latérales. La
+          distance de recul par rapport à la limite séparative latérale sera au moins égale à la moitié de la
+          hauteur de la construction (*), avec un minimum de 3 mètres. Les débordements de toiture jusqu’à
+          1 mètre seront admis dans ce retrait.
+          - Exceptions : l'implantation en limites séparatives latérales est autorisée
+            . pour les constructions annexes, non affectées à l'habitation et non contiguës à la construction
+              principale, à condition que leur hauteur(*) n’excède pas 3 mètres,
+            . pour les constructions réalisées dans le périmètre des opérations de ZAC ou bien dans les autres
+              secteurs concernés par des orientations d'aménagement et de programmation, à condition que
+              les projets soient compatibles avec les orientations d’aménagement et de programmation définies
+              pour le secteur considéré.
+
+
+
+
+(*) La hauteur de la construction prise en compte est celle mesurée à partir du niveau du sol (niveau du sol existant
+    avant travaux ou le cas échéant niveau du trottoir) :
+      - soit à l'égout ou à la corniche si celle-ci est plus élevée, pour les toits en pente,
+      - soit à l'acrotère pour un toit terrasse.
+(*) La hauteur de la construction prise en compte est celle mesurée à partir du niveau du sol (niveau du sol existant
+
+    avant travaux ou le cas échéant niveau du trottoir) :
+      - soit à l'égout ou à la corniche si celle-ci est plus élevée, pour les toits en pente,
+      - soit à l'acrotère pour un toit terrasse.
+Ville de MONTAUBAN / Plan Local d'Urbanisme / Pièce 3.1 – Règlement
+                                                                   Zones urbaines – UE1, UE2, UE3, UE2c, UE3c, UE3b
+                                                                                                          38
+
+
+
+
+ b) Implantation par rapport aux limites séparatives postérieures
+     Principe :
+      Les constructions doivent être implantées en recul des limites séparatives postérieures.
+      La distance de recul sera au moins égale à la moitié de la hauteur de la construction projetée (*),
+      avec un minimum de 4 mètres. Les débordements de toiture jusqu’à 1 mètre seront admis dans ce
+      recul.
+     Exceptions :
+      L'implantation des constructions en limites séparatives postérieures est autorisée
+        . pour les constructions annexes, non affectées à l'habitation et non contiguës à la construction
+          principale, à condition que leur hauteur (*) n’excède pas 3 mètres,
+        . pour les constructions réalisées dans le périmètre des opérations de ZAC ou bien dans les autres
+          secteurs concernés par des orientations d'aménagement et de programmation, à condition que
+          les projets soient compatibles avec les orientations d’aménagement et de programmation définies
+          pour le secteur considéré.
+      Dans le cas de parcelles d'angle dont les limites sont toutes à considérer comme latérales, les
+      dispositions de l'alinéa a) ci-dessus s'appliquent.
+
+ c) Dispositions particulières
+    Les retraits particuliers de constructions définis ci-dessous s'appliquent dans les cas où les
+    dispositions des alinéas a) et b) ci-dessus permettent une implantation avec un retrait moins important
+    ou bien en limite séparative :
+     Lorsque la limite séparative jouxte une zone d'activités économiques classée en Ux ou AUX au PLU
+      (y compris les zones ou secteurs économiques à indice), les constructions à usage d'habitation
+      devront être implantées avec un retrait minimum de 20 mètres par rapport à la limite séparative
+      concernée.
+     Lorsque la limite séparative jouxte un cours d'eau désigné à l'article 5 F/ des Dispositions générales
+      du Règlement, les constructions et installations doivent être implantées avec un retrait minimum de
+      6 mètres par rapport à la crête des berges des dits cours d’eau. Une implantation différente pourra
+      être autorisée pour les ouvrages de protection contre les crues ou bien nécessaires au
+      fonctionnement des réseaux d'intérêt collectif.
+     Lorsque la limite séparative est constituée par un fossé, les constructions doivent être implantées
+      avec un retrait minimum de 1,5 mètre par rapport à la crête des berges du dit fossé.
+
+2/ Constructions existantes
+  L'extension ou l'aménagement d'une construction existante non implantée selon les dispositions prévues
+  à l'alinéa 1/ du présent article, pourront être autorisés à condition que l'implantation projetée n'aggrave
+  pas la non-conformité avec ces mêmes dispositions.
+
+ARTICLE UE 8 - IMPLANTATION DES CONSTRUCTIONS LES UNES PAR RAPPORT AUX AUTRES SUR UNE
+                 MEME UNITE FONCIERE
+
+Les constructions non contigües doivent être implantées à au moins 3 mètres l'une de l'autre.
+Toutefois cette distance peut réduite à 1,5 mètre lorsque l'une des constructions constitue une annexe de
+l'autre construction considérée.
+
+
+ARTICLE UE 9 - EMPRISE AU SOL DES CONSTRUCTIONS
+
+Non réglementé
+
+
+
+
+Ville de MONTAUBAN / Plan Local d'Urbanisme / Pièce 3.1 – Règlement
+                                                          Zones urbaines – UE1, UE2, UE3, UE2c, UE3c, UE3b
+                                                                                                          39
+
+
+ARTICLE UE 10 - HAUTEUR MAXIMALE DES CONSTRUCTIONS
+
+1/ Conditions de mesure
+ La hauteur autorisée des constructions est déterminée par une hauteur maximale (Hm), et le cas échéant
+ par une hauteur de référence (Hr), dans les conditions définies ci-après :
+ – La hauteur maximale (Hm) est mesurée à partir du niveau du sol (niveau du sol existant avant travaux
+   ou le cas échéant niveau du trottoir) :
+    - soit à l'égout ou à la corniche si celle-ci est plus élevée, pour les toits en pente,
+    - soit à l'acrotère pour un toit terrasse.
+   Sur terrain plat, elle est mesurée le long de chaque façade de la construction. Lorsque le terrain naturel
+   ou la voie est en pente, la hauteur maximale est mesurée à la partie médiane de la façade.
+ – La hauteur de référence (Hr) est définie au regard du contexte bâti existant, en vue d'harmoniser le
+   gabarit des constructions le long d'une séquence de voie ou d'un espace public.
+   L'application de cette référence pourra par conséquent imposer de construire à une hauteur inférieure
+   à la hauteur maximale (Hm), dans les zones ou secteurs où cette dernière est prescrite.
+
+2/ Règle
+
+   La hauteur maximale (Hm) des constructions est définie comme suit :
+     – en UE1 uniquement: 16 mètres et 4 étages sur rez-de-chaussée,
+    – dans le reste de la zone : 10 mètres et 2 étages sur rez-de-chaussée
+
+  En application du principe de hauteur de référence (Hr), une hauteur inférieure à celles définies par la
+   hauteur maximale (Hm) ci-dessus pourra être imposée, afin d'assurer la qualité d'insertion des
+   constructions projetées dans le cadre bâti existant.
+    Pour déterminer la hauteur de référence, il sera tenu compte des hauteurs de rive des constructions
+    implantées sur les parcelles limitrophes.
+    Dans le cas de constructions dans une "dent creuse", il pourra être imposé une hauteur de référence
+    correspondant soit à la hauteur de l'une des rives des constructions mitoyennes, soit à la moyenne
+    des hauteurs des rives des constructions mitoyennes.
+    Dans le cas d'une unité foncière touchant plusieurs voies ou espaces publics, la hauteur de référence
+    sera déterminée en façade de chacune des voies ou espaces publics.
+  Dans le cas de travaux de restauration, d'adaptation ou d'extension d'une construction existante
+   dépassant déjà la hauteur maximale (Hm), celle-ci pourra, soit être maintenue dans sa hauteur
+   existante, soit être modifiée en tenant compte de la hauteur de référence définies par les constructions
+   voisines.
+
+3/ Exceptions
+ Des hauteurs différentes pourront être admises pour les constructions réalisées dans le périmètre des
+ opérations de ZAC ou dans les autres secteurs concernés par des orientations d'aménagement et de
+ programmation, à condition que les projets soient compatibles avec les orientations d’aménagement et
+ de programmation définies pour le secteur considéré.
+
+
+
+
+Ville de MONTAUBAN / Plan Local d'Urbanisme / Pièce 3.1 – Règlement
+                                                          Zones urbaines – UE1, UE2, UE3, UE2c, UE3c, UE3b
+                                                                                                         40
+
+
+ARTICLE UE 11 – ASPECT EXTERIEUR DES CONSTRUCTIONS ET AMENAGEMENT DE LEURS ABORDS
+
+1/ Principes généraux
+ Tout projet dans son ensemble doit être homogène et s’harmoniser avec l’espace environnant dans lequel
+ il s’inscrit. Le cas échéant, le projet devra prendre en compte les caractéristiques des éléments bâtis
+ protégés, situés à proximité immédiate ou en vis à vis du terrain concerné.
+ Les constructions doivent présenter une simplicité de volume et une unité d'aspect.
+ L'aménagement et la modification (extension, surélévation…) réalisés sur les éléments de patrimoine
+ identifiés à la pièce 3.2 du PLU pourront être admis si elles sont compatibles avec le caractère
+ architectural du patrimoine concerné.
+
+2/ Façades
+ Les aménagements, agrandissements, surélévations d'immeubles existants devront respecter
+ l'architecture originelle du bâtiment notamment en ce qui concerne les matériaux, dimensions des
+ ouvertures, rapports entre pleins et vides, etc...
+ Pour les constructions nouvelles, les façades devront respecter l'architecture traditionnelle du quartier,
+ même si les matériaux, la dimension des ouvertures et les rapports entre pleins et vides résultent des
+ conceptions architecturales modernes.
+ Est interdit l'emploi à nu des matériaux fabriqués en vue d'être recouverts d'un enduit ou d'un parement
+ tels que briques creuses, agglomérés... ;
+
+3/ Toitures
+ Les toitures seront couvertes de tuiles de type canal ou romane. Leur pente et aspect ne doit pas porter
+ atteinte à l'ensemble des bâtiments et du site ainsi qu'à leur harmonie, et ne devra pas excéder 35 %.
+
+ Toutefois, des pentes de toitures différentes sont admises pour permettre l'installation de dispositifs de
+ production d'énergie renouvelables (panneaux solaires ou photovoltaïques), à condition que ces
+ panneaux soient intégrés dans la pente de la toiture.
+
+ Les toitures en terrasses ou de faible pente et d’un aspect différent sont également admises à condition
+ de ne pas nuise à l’homogénéité d'aspect du paysage urbain environnant.
+
+ Pour les immeubles à usage d'habitat collectif, de bureaux ou de services publics, des toitures plates sont
+ admises lorsqu'elles résultent d'un parti architectural cohérent, ne nuisant pas à l’homogénéité d'aspect
+ du paysage urbain environnant.
+
+4/ Clôtures
+ La hauteur du muret des clôtures en bordure de voirie ne devra pas excéder 1,50m.
+ Des hauteurs différentes pourront être admises en bordure des voies bruyantes.
+ Dans les ensembles d'habitations, les clôtures, portails, portillons et massifs de maçonneries devront être
+ homogènes.
+ Lorsque la limite séparative jouxte un cours d'eau désigné à l'article 5 F/ des Dispositions générales du
+ Règlement, les clôtures doivent être implantées avec un retrait minimum de 6 mètres par rapport à la
+ crête des berges des dits cours d’eau.
+ Lorsque la limite séparative est constituée par un fossé, les clôtures doivent être implantées avec un
+ retrait minimum de 1,5 mètre par rapport à la crête des berges du dit fossé.
+ Dans tous les cas, en secteurs soumis aux risques d’inondation, les clôtures devront respecter les
+ prescriptions du règlement du P.P.R.I..
+
+5/ Dispositions diverses
+  L’implantation de pylônes, paratonnerres, antennes, antennes paraboliques doit être déterminée dans un
+  souci d’esthétique et leurs dispositions être le moins visibles possible depuis l’espace public.
+
+
+Ville de MONTAUBAN / Plan Local d'Urbanisme / Pièce 3.1 – Règlement
+                                                          Zones urbaines – UE1, UE2, UE3, UE2c, UE3c, UE3b
+                                                                                                       41
+
+
+ARTICLE UE 12 – AIRES DE STATIONNEMENT A REALISER
+
+1/ Dispositions générales
+ Le stationnement des véhicules et des deux-roues correspondant aux besoins des constructions et
+ installations doit être réalisé en dehors des voies publiques.
+ La surface à prendre en compte pour le stationnement d'un véhicule est de 25 m², y compris les accès.
+ La surface à prendre en compte pour le stationnement d’un deux-roues est de 0,75 m².
+
+2/ Obligations minimales
+
+ Stationnement des véhicules automobiles
+
+  Pour les constructions à usage d'habitat individuel :
+   1 place de stationnement par logement
+
+  Pour les constructions à usage d'habitation collectif hors résidences étudiants ou jeunes travailleurs
+   ou partie logement des résidences séniors :
+   - 1 place par logement inférieur à 80 m² de surface de plancher
+   - 2 places par logement égal ou supérieur à 80 m² de surface de plancher
+
+  Dans le cas d'opérations d'aménagement, de lotissement soumis à permis d’aménager ou
+   d'ensembles d'habitations, il est exigé 2 places par logement dont 1 annexée à la voirie.
+
+  Pour les constructions à usage commercial, artisanal, de bureaux (y compris les bâtiments publics) :
+   1 place de stationnement par tranche de 50 m² de surface de plancher
+
+  Pour les établissements d'enseignement :
+   1,5 place par salle de cours.
+
+  Pour les constructions à usage d'entrepôt :
+   1 place de stationnement par tranche de 200 m² de surface d'entrepôt.
+
+  Pour les hôtels, les restaurants, les cinémas :
+   1 place par chambre et 1 place pour 10 m² de salle de restaurant ou de cinéma.
+
+  Pour les établissements hospitaliers publics ou privés, dont ceux destinés aux personnes âgées
+   dépendantes, et pour les résidences étudiants ou jeunes travailleurs ou partie logement des
+   résidences séniors :
+   1 place pour 2 chambres ou deux logements
+
+
+ Stationnement des deux-roues
+
+  Pour les constructions à usage principal d'habitation :
+   - pas d'obligation imposée pour les constructions comportant 1 seul logement,
+   - 1 place de stationnement vélo par logement pour les constructions comportant au moins 2
+     logements.
+  Pour les constructions à usage principal de bureaux :
+   1 place de stationnement vélo par tranche de 75 m² de surface de plancher.
+  Pour les constructions à usage commercial d'une surface de vente égale ou supérieure à 200 m² :
+   - 1 place de stationnement vélo par tranche de 100 m² de surface de vente (places devant être
+     accessibles par la clientèle),
+   - 1 place de stationnement vélo par tranche de 75 m² de surface de plancher de bureau comprise
+     dans les constructions commerciales ou associées à celle-ci.
+  Pour les constructions à usage artisanal d'une surface de plancher égale ou supérieure à 200 m² :
+   1 place de stationnement vélo par tranche de 100 m² de surface de plancher.
+  Pour les établissements scolaires :
+   1 place pour 8 élèves à partir du primaire
+
+Ville de MONTAUBAN / Plan Local d'Urbanisme / Pièce 3.1 – Règlement
+                                                          Zones urbaines – UE1, UE2, UE3, UE2c, UE3c, UE3b
+                                                                                                       42
+
+
+3/ Modalités d'application
+ – L'obligation applicable aux constructions non prévues ci-dessus sera celle à laquelle ces constructions
+   sont le plus directement assimilables.
+ – En cas d’extension d’une construction existante, l'obligation de création de places de stationnement
+   s'applique, selon sa destination, à la surface de plancher ou nombre de logements créés, sans
+   dépasser toutefois le nombre normalement exigé pour une construction neuve équivalente.
+ – En cas de changement de destination d’une construction existante, l’obligation minimale applicable
+   est celle qui correspond à la destination nouvelle.
+ – Les places exigées pour automobiles ou deux-roues peuvent être prévues sur un ou plusieurs espaces
+   ou aires, à l'intérieur ou l'extérieur des constructions.
+ – Les obligations pour réalisation de stationnement deux-roues s'appliquent uniquement dans le cas de
+   constructions neuves.
+ – Le pétitionnaire satisfait aux obligations indiquées ci-dessus en prévoyant les emplacements de
+   stationnement sur le terrain même de l'opération.
+   En cas d'impossibilité technique, architecturale ou urbanistique non imputable au constructeur, il sera
+   fait application des dispositions correspondantes du Code de l'Urbanisme. Dans ce cas, le
+   pétitionnaire pourra satisfaire à tout ou partie de ses obligations :
+   - soit par l'acquisition de places dans un parc privé de stationnement existant ou en cours de
+     réalisation et situé à proximité de l'opération
+   - soit par l'obtention d'une concession à long terme dans un parc public de stationnement existant ou
+     en cours de réalisation et situé à proximité de l'opération,
+
+
+ARTICLE UE 13 - OBLIGATIONS EN MATIERE DE REALISATION D'ESPACES LIBRES, D'AIRES DE JEUX ET
+DE LOISIRS, ET DE PLANTATIONS
+
+Rappel : les espaces boisés classés délimités au Document graphique, sont soumis aux dispositions
+correspondantes du Code de l'urbanisme.
+
+– Les espaces libres de toute construction, et non affectés à la circulation ou au stationnement de
+  véhicules, doivent être aménagés et entretenus en espaces verts.
+
+– Dans le cas d'opérations de lotissement soumis à permis d’aménager ou d'ensembles d'habitations, 10
+  % au moins de la superficie du terrain de l'opération doit être traité en espace vert à usage commun.
+  Cette exigence n'est pas requise dans le périmètre de la ZAC Multisites quartiers Est.
+
+– Les éléments de patrimoine végétal identifiés (cf. pièce 3.2 du PLU) et localisés au Document graphique,
+  devront être préservés.
+  Le défrichement ou l'abattage des arbres identifiés est interdit, sauf demande d'autorisation dûment
+  justifiée liée notamment à un mauvais état phytosanitaire, ou à un risque avéré pour les biens et les
+  personnes. Les travaux d'émondage, de taille ou de nettoyage devront respecter leur caractère d'arbres
+  de grand développement. Les arbres supprimés ou tombés faisant partie d'alignements protégés
+  devront être remplacés par des essences équivalentes.
+
+– Sauf impossibilité technique, architecturale ou urbanistique non imputable au constructeur ou
+  aménageur, les aires de stationnement devront être plantées à raison d'un arbre de haute tige par
+  50 m².
+  Pour tenir compte de la configuration des lieux et des contraintes propres à l'aire de stationnement
+  considérée, cette proportion d'arbre de haute tige pourra être réduite à condition que d'autres types de
+  plantations soient proposés (arbustes isolés, haies, espèces grimpantes, …). Dans ce cas, le volume
+  et le rythme de plantation des végétaux mis en œuvre seront adaptés à la superficie de l'aire de
+  stationnement concernée.
+
+
+
+
+Ville de MONTAUBAN / Plan Local d'Urbanisme / Pièce 3.1 – Règlement
+                                                          Zones urbaines – UE1, UE2, UE3, UE2c, UE3c, UE3b
+                    TerrenUrbanisme
+
+    Merci de votre confiance
+Ce rapport a été établi à partir des sources publiques officielles pour vous
+  aider à décider en connaissance de cause. Pour toute question, nous
+                        restons à votre disposition.
+
+
+
+
+   Vous êtes professionnel ? Travaillons ensemble
+      Agents immobiliers, notaires, architectes, géomètres, diagnostiqueurs,
+promoteurs, mairies : faisons équipe. Crédits professionnels sans abonnement, 5
+€ le rapport dès 50 crédits, votre logo sur les rapports, offre communale pour les
+                       mairies et partenariats sur mesure.
+
+               Écrivez-nous : contact@terrenurbanisme.com
+
+
+
+
+                        terrenurbanisme.com
+                         contact@terrenurbanisme.com
+

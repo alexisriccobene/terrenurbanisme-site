@@ -1,0 +1,2997 @@
+                  TerrenUrbanisme
+                  Le terrain constructible, partout en France
+
+
+
+
+RAPPORT D'URBANISME
+
+
+
+Hinx
+Section D · Parcelle n° 346
+      Non constructible
+
+
+
+
+Référence cadastrale                                                        Surface cadastrale
+401260000D0346                                                              13 424 m²
+
+Rapport établi le                                                           Référence du rapport
+20/11/2026                                                                  APERCU
+
+
+
+
+terrenurbanisme.com                                                                      contact@terrenurbanisme.com
+
+Document d'information sans valeur contractuelle ni réglementaire. Il ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme
+et ne peut en aucun cas être joint à une demande de permis de construire ou de déclaration préalable. Seuls les actes de l'administration font foi.
+                                                                                                                           Hinx · D 346
+         TerrenUrbanisme
+                                                                                                                           Sommaire
+
+
+
+
+Sommaire
+Le rapport suit l'ordre d'une étude de terrain : où se trouve la parcelle, ce que dit la règle, ce qui pèse sur le
+projet, puis les démarches.
+
+              Synthèse
+   S                                                                                                                              p. 3
+              Le verdict, les indicateurs clés et les points d'attention en une page.
+
+              Identification de la parcelle
+   01                                                                                                                             p. 4
+              Localisation, surface, références cadastrales et voisinage du terrain.
+
+              Règles d'urbanisme applicables
+  02                                                                                                                              p. 7
+              Document d'urbanisme, zone du terrain, prescriptions et servitudes.
+
+              Ce que vous pouvez construire
+  03                                                                                                                              p. 9
+              Surface constructible, hauteur, reculs, aspect et usages autorisés.
+
+              Loi Littoral et loi Montagne
+  04                                                                                                                            p. 16
+              Les lois qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+              Risques naturels et technologiques
+  05                                                                                                                             p. 17
+              Inondation, feu de forêt, argiles, catastrophes naturelles et sites pollués.
+
+              Le terrain : accès, relief et réseaux
+  06                                                                                                                            p. 19
+              Accès, pente, ensoleillement, eaux usées, électricité, eau et fibre.
+
+              Conditions de vente du terrain
+  07                                                                                                                            p. 26
+              Terrain agricole ou naturel : SAFER, fermier en place et repère officiel de prix.
+
+              Environnement et marché immobilier
+  08                                                                                                                            p. 28
+              Espaces naturels, espèces protégées et ventes immobilières alentour.
+
+              Historique du site
+  09                                                                                                                            p. 31
+              Le terrain vu du ciel au fil des années et les permis accordés autour.
+
+              Opportunités autour du terrain
+   10                                                                                                                           p. 33
+              Grands terrains peu bâtis et logements énergivores à proximité.
+
+              Votre projet, étape par étape
+   11                                                                                                                           p. 34
+              De l'achat aux impôts : démarches, délais, coûts, contacts et taxe.
+
+              État des risques (ERP) pré-rempli
+   12                                                                                                                           p. 38
+              Le formulaire réglementaire à remettre à l'acquéreur, pré-rempli.
+
+              Avertissement et sources
+   13                                                                                                                           p. 40
+              La portée de ce rapport et les sources publiques consultées.
+
+              Annexe : règlement de la zone
+   A                                                                                                                            p. 43
+              Les pages officielles du règlement de la zone, telles qu'approuvées.
+
+
+
+
+Astuce : cliquez sur un chapitre pour y accéder directement.
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                            2 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Hinx · D 346
+         TerrenUrbanisme
+                                                                                                                                     Synthèse
+
+
+
+
+Synthèse
+     Document d'information. Ce rapport ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme,
+     n'engage pas l'administration et ne peut pas servir de pièce à une demande de permis de construire.
+     L'appréciation ci-dessous est indicative : seule la mairie se prononce sur la constructibilité d'un terrain,
+     au vu d'un projet précis.
+
+
+
+
+       NON CONSTRUCTIBLE
+
+       Ce terrain n'est pas constructible en l'état
+       La parcelle est classée en zone A (agricole) du PLU intercommunal de Hinx. Les
+       constructions nouvelles n'y sont pas admises, sauf exceptions encadrées. Le terrain est
+       situé aux abords d'un monument historique (ChÃ¢teau de CastÃ©ra) : l'architecte des
+       Bâtiments de France donne son avis sur les travaux et peut imposer des prescriptions
+       (matériaux, couleurs, volumes).
+
+
+
+
+      Zone principale                                        Document d'urbanisme                                  Loi Littoral
+
+   A · 100 %                                              PLUI                                                   Ne s'applique pas
+
+
+
+
+      Loi Montagne                                           Risques à la parcelle
+
+   Ne s'applique pas                                      Séisme ·
+                                                          Retrait-gonflement des
+
+
+
+
+Points d'attention
+    Zone A (100 % de la parcelle) : non constructible.
+    Risque de feu de forêt : obligation légale de débroussaillement, autorisation de défrichement possible pour un
+    terrain boisé.
+    Abords de monument historique (ChÃ¢teau de CastÃ©ra) : accord de l'architecte des Bâtiments de France pour les
+    travaux.
+    Logement : le règlement de la zone A n'admet pas de logement neuf, sauf exceptions prévues par la zone
+    (logement de gardiennage, par exemple) : voir le chapitre « Ce que vous pouvez construire ».
+    Entreprise : la commune est classée en zone France Ruralités Revitalisation (FRR) : une entreprise qui s'y crée peut
+    être exonérée d'impôt sur les bénéfices pendant 5 ans, sous conditions (voir le chapitre « Votre projet, étape par
+    étape »).
+    Pollution des sols : concerné à l'adresse de la parcelle (voir le chapitre « Risques naturels et technologiques »).
+    6 arrêtés de catastrophe naturelle sur la commune.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      3 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                           Hinx · D 346
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+    01             Identification de la parcelle
+     DANS CETTE SECTION
+
+     Où se trouve le terrain, sa surface, ses références cadastrales, son propriétaire lorsqu'il s'agit
+     d'une société ou d'une collectivité, et la performance énergétique du bâti existant.
+
+
+Données du cadastre (DGFiP) et de l'IGN.
+
+
+     Plan de situation
+
+
+
+
+                                                                                                                            1 km
+
+
+
+Plan IGN · © IGN
+
+
+
+     Vue aérienne et plan cadastral
+
+
+
+
+                                                                                                                                   100 m
+
+
+
+Photographie aérienne et plan cadastral · © IGN
+
+
+Commune                                                  Hinx (40126)
+
+Département                                              Landes (40)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            4 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                         Hinx · D 346
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+Section et numéro                                        Section D, parcelle n° 346, feuille 2
+
+Identifiant cadastral                                    401260000D0346
+
+Surface cadastrale                                       13 424 m²
+
+Surface calculée (SIG)                                   13 558 m² · périmètre 452 m
+
+Coordonnées du centre                                    43.70991 N, 0.93324 O (WGS 84)
+
+Altitude                                                 de 46 à 49 m
+
+Pente estimée                                            8 % (pente modérée)
+
+Parcelles voisines                                       D 208, D 326, D 345, D 395
+
+
+Le plan cadastral est un document fiscal : il ne fait pas foi des limites de propriété. Seul un bornage réalisé par un
+géomètre-expert fixe les limites de manière certaine.
+
+
+1.1 Propriétaire et voisinage
+La parcelle ne figure pas au fichier des personnes morales : son propriétaire est vraisemblablement un
+particulier. Le nom des propriétaires particuliers n'est pas public ; il peut être demandé au service des impôts
+fonciers (relevé de propriété) ou obtenu par l'intermédiaire d'un notaire.
+
+Principaux propriétaires personnes morales dans un rayon de 280 m
+  PROPRIÉTAIRE                                                              PARCELLES             SURFACE TOTALE            SIREN
+
+  COMMUNE D'HINX (COM)                                                      2                     40 752 m²                 214001265
+
+  JP ET DD (SCI)                                                            1                     2 222 m²                  529582934
+
+
+
+Source : fichiers des parcelles des personnes morales (DGFiP) : sociétés, SCI, collectivités, établissements publics et associations.
+Les propriétaires personnes physiques n'y figurent pas.
+
+
+1.2 La commune de Hinx
+Code postal                                              40180
+
+Département                                              Landes (40)
+
+Intercommunalité                                         CC Terres de Chalosse
+
+Population                                               1 894 habitants
+
+Superficie                                               14,68 km²
+
+Densité                                                  129 habitants par km²
+
+Commune littorale                                        Non
+
+Commune de montagne                                      Non
+
+Document d'urbanisme                                     Plan local d'urbanisme intercommunal (PLUi)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          5 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                         Hinx · D 346
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+Risques sur la commune                                   6 arrêtés de catastrophe naturelle · détail en section Risques et en
+                                                         annexe
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          6 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Hinx · D 346
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+    02             Règles d'urbanisme applicables
+     DANS CETTE SECTION
+
+     Le document d'urbanisme de la commune, la zone dans laquelle se trouve le terrain, et les
+     prescriptions et servitudes qui s'y ajoutent.
+
+
+Géoportail de l'Urbanisme : zonage, prescriptions et servitudes.
+
+
+
+2.1 Document d'urbanisme en vigueur
+Type de document                                         Plan local d'urbanisme intercommunal (PLUi)
+
+Date d'approbation                                       Non renseigné
+
+Statut                                                   Publié au Géoportail de l'Urbanisme
+
+Règlement officiel                                       Ouvrir le document officiel (PDF)
+
+
+
+     Plan de zonage du PLU
+
+
+
+
+                                                                               A
+
+
+
+
+                                                                                                                             100 m
+
+
+
+Zonage : Géoportail de l'Urbanisme · fond : © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      7 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Hinx · D 346
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.2 Zonage de la parcelle
+  ZONE                  DÉSIGNATION                                                         PART               CONSTRUCTIBILITÉ
+
+  A                     A : Zone agricole                                                   100 %              Non constructible
+
+
+
+Zone A · Agricole
+Zone agricole : secteur protégé en raison du potentiel agronomique, biologique ou économique des terres.
+Seules y sont admises les constructions et installations nécessaires à l'exploitation agricole et aux services
+publics, ainsi que l'extension limitée des habitations existantes.
+
+
+2.3 Prescriptions applicables à la parcelle
+Aucune prescription graphique du PLU (emplacement réservé, espace boisé classé, élément de paysage
+protégé, etc.) n'est recensée sur la parcelle.
+
+
+2.4 Informations complémentaires du PLU
+  INFORMATION                                                                                        TYPE
+
+  Perimetre de protection de Monument historique : Chateau de                                        Information du PLU (type 99)
+  Castéra
+
+
+
+
+2.5 Servitudes d'utilité publique
+  CODE               SERVITUDE                                                                    DÉTAIL
+
+  AC1                Monument historique (abords)                                                 AC1 Chateau-de-Castera-IRJDHJ abor
+
+
+
+
+2.6 Patrimoine : l'architecte des Bâtiments de France
+      En clair : le terrain est aux abords d'un monument historique. Les travaux visibles de l'extérieur doivent
+      recevoir l'accord de l'architecte des Bâtiments de France, qui peut imposer des prescriptions.
+
+
+
+  PROTECTION                                NOM                                                CE QUE CELA IMPLIQUE
+
+  Abords de monument                        ChÃ¢teau de CastÃ©ra                               Accord de l'architecte pour les travaux visibles
+  historique                                                                                   (périmètre publié)
+
+
+
+Conseils : consulter l'architecte des Bâtiments de France (unité départementale de l'architecture et du patrimoine,
+joignable par la mairie) avant de dessiner le projet ; prévoir un délai d'instruction majoré d'un mois ; soigner
+l'insertion (matériaux, teintes, toitures, clôtures) dès l'esquisse.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        8 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Hinx · D 346
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    03             Ce que vous pouvez construire
+     DANS CETTE SECTION
+
+     La lecture du règlement de votre zone : surface constructible estimée, hauteur, reculs, aspect,
+     usages autorisés ou interdits, avec les extraits du texte officiel.
+
+
+Lecture du règlement écrit de la zone A, pages 183 à 196 du règlement officiel.
+
+
+
+3.1 Potentiel constructible estimé
+     Le règlement de la zone A n'admet pas de construction nouvelle à usage de logement. Seules restent
+     possibles les constructions expressément admises par la zone et les évolutions encadrées des
+     constructions existantes : extension limitée à 30 % de l'emprise existante, annexes de 40 m² au plus.
+
+
+
+Constructions admises dans la zone :
+
+    Les constructions et installations nécessaires à l'exploitation agricole
+    Les constructions et installations nécessaires à la transformation, au conditionnement et à la commercialisation
+    des produits agricoles, lorsque ces activités constituent le prolongement de l'acte de production
+    Les constructions et installations nécessaires à l'exploitation agricole ou au stockage et à l'entretien de matériel
+    agricole par les coopératives d'utilisation de matériel agricole (CUMA) agréées
+    Les constructions, ouvrages et installations techniques nécessaires au fonctionnement des services et réseaux
+    publics
+
+
+3.2 Caractère de la zone
+Les zones A concernent les secteurs agricoles, équipés ou non, à protéger en raison du potentiel
+agronomique, biologique ou économique des terres agricoles. Les zones Ap caractérisent les zones
+agricoles à forte sensibilité paysagère. La parcelle étudiée est en zone A sans indice : les règles
+générales de la zone A s'appliquent, et non celles du secteur Ap.
+
+
+3.3 Règles de construction
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Surface minimale ou                          Non précisé dans le règlement de la zone                                         Zone A
+  caractéristiques du terrain
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       9 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Hinx · D 346
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Accès et voirie                              Terrains desservis par des voies publiques ou privées                            art. 3-1
+                                               adaptées à l'importance et à la destination des constructions ;
+                                               accès et voiries permettant le passage des engins de secours,
+                                               de lutte contre l'incendie et de collecte des ordures
+                                               ménagères. Sur les routes départementales hors
+                                               agglomération : pour les RD de 2ème et 3ème catégorie (RD10,
+                                               RD32, RD15, RD7, RD2), accès individuels directs à une nouvelle
+                                               construction interdits sauf dérogation du Département ; pour
+                                               les RD de 4ème catégorie, accès individuels autorisés sous
+                                               réserve des conditions de sécurité, avec recherche
+                                               systématique d'un regroupement des accès. En agglomération
+                                               : accès possibles sous conditions de sécurité, limités à un seul
+                                               par unité parcellaire.
+
+  Réseaux et assainissement                    Raccordement au réseau public d'eau potable pour toute                           art. 3-2 (2.1 à
+                                               construction qui le nécessite. Eaux usées : en l'absence                         2.4)
+                                               d'assainissement collectif, assainissement autonome conforme
+                                               à la réglementation. Eaux pluviales : débit de fuite maximal de 3
+                                               l/s/ha, gestion prioritairement à la parcelle avec infiltration
+                                               lorsque le sol le permet ; volumes de rétention imposés pour
+                                               les opérations nouvelles ou extensions dont la surface
+                                               imperméabilisée est >= 250 m² (période de retour 10 ans) en
+                                               zone d'habitat éparse ; seule l'augmentation de surface
+                                               imperméabilisée est prise en compte si un dispositif existe.
+                                               Réseaux de télécommunication et d'énergie en souterrain sauf
+                                               impossibilité technique.
+
+  Implantation par rapport                     Recul minimal de 5 m par rapport aux limites d'emprise des                       art. 2-1
+  aux voies                                    voies et emprises publiques. Hors zones agglomérées, recul                       (implantation
+                                               par rapport à l'axe des RD : 35 m (2ème catégorie : RD10, RD32,                  par rapport aux
+                                               RD15), 25 m (3ème catégorie : RD7, RD2), 15 m (4ème                              voies)
+                                               catégorie). Dérogations : extensions et aménagements dans le
+                                               prolongement de la construction existante avec un recul au
+                                               moins égal ; annexes de hauteur inférieure à 3,5 m ; ouvrages
+                                               techniques des services publics.
+
+  Implantation par rapport                     Distance minimale de 5 m des limites séparatives. Dérogations                    art. 2-1
+  aux limites séparatives                      : extensions et aménagements dans le prolongement de la                          (implantation
+                                               construction existante avec un recul au moins égal ; annexes                     par rapport aux
+                                               de hauteur inférieure à 3,5 m à la sablière ou à l'acrotère ;                    limites
+                                               ouvrages techniques des services publics.                                        séparatives)
+
+  Implantation des                             Non précisé dans le règlement de la zone, hormis : annexes et                    art. 1-1
+  constructions entre elles                    piscines implantées à moins de 30 m du bâtiment principal
+                                               d'habitation.
+
+  Emprise au sol                               Non réglementé (limites d'extension : 30 % de l'emprise                          art. 2-1
+                                               existante, 50 % maximum si l'emprise existante est inférieure à                  (emprise au
+                                               100 m² ; annexes : 40 m² supplémentaires).                                       sol) et art. 1-1
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         10 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Hinx · D 346
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Hauteur maximale                             Habitation : 10 m au faîtage. Annexes d'habitation : 4 m au                      art. 2-1
+                                               faîtage ou 3 m à l'acrotère (art. 1-1 prévoit toutefois 3,5 m à la               (hauteur
+                                               sablière ou à l'acrotère). Constructions de transformation,                      maximale)
+                                               conditionnement et commercialisation des produits agricoles :
+                                               10 m au faîtage. Bâtiments agricoles : 12 m. Hauteur différente
+                                               possible en cas de réhabilitation, rénovation ou extension
+                                               d'une construction existante (hauteur de la construction
+                                               existante avant travaux).
+
+  Aspect extérieur et toitures                 Constructions autres qu'agricoles et ouvrages de services                        art. 2-2
+                                               publics : volumes simples ; toitures à deux, trois ou quatre
+                                               pans, pente de 30 à 45 % ; toitures-terrasses, toitures à un pan
+                                               et pentes inférieures à 30 % autorisées uniquement pour
+                                               éléments de liaison, volumes secondaires et annexes ;
+                                               couverture en tuile canal ou tuile mécanique de teinte rouge ou
+                                               à dominante rouge. Constructions agricoles : aspect
+                                               compatible avec le caractère des lieux ; toitures à deux pans
+                                               par unité de volume (éventuellement avec croupe), dissymétrie
+                                               admise si la plus petite pente L2 est supérieure au tiers de la
+                                               plus grande L1. Interdiction de l'emploi à nu de matériaux
+                                               destinés à être enduits (briques creuses, parpaings, etc.).
+                                               Citernes à gaz ou mazout non visibles de la voie publique ;
+                                               antennes paraboliques et climatiseurs en façade interdits.
+                                               Constructions repérées au titre de l'article L.151-19 : techniques
+                                               anciennes ou matériaux d'origine naturelle.
+
+  Matériaux et couleurs                        Constructions non agricoles : enduits à la chaux ou de                           art. 2-2
+                                               substitution ; façades de teinte claire et chaude, neutre ou
+                                               légèrement colorée sans être vive ; bardages bois peints,
+                                               naturels ou lasurés brun ou gris foncé. Menuiseries : châssis
+                                               blanc, gris, beige, brun ; volets, avant-toits, colombages et
+                                               ossatures : blanc, gris, beige, bleu, gris coloré, vert, brun,
+                                               marron, rouge brique ou bordeaux, ou teintes naturelles du
+                                               bois.
+
+  Clôtures                                     Murs pleins, clôtures végétales (éventuellement doublées d'un                    art. 2-2 et
+                                               grillage), murs bahuts surmontés d'une grille, clôtures à                        dispositions
+                                               claire-voie ; palissades interdites ; haies d'un mélange                         générales art. 9
+                                               d'espèces, exclusion des espèces exotiques envahissantes                         et 10
+                                               (liste en annexe). Hauteur maximale en limites séparatives et
+                                               sur l'espace public : 0,60 m pour les murs (soubassement) et
+                                               1,80 m pour les autres types de clôtures. Emploi à nu de
+                                               matériaux destinés à être enduits interdit. Zone inondable : les
+                                               clôtures ne doivent pas porter atteinte au libre écoulement des
+                                               eaux. La déclaration préalable est exigée pour les clôtures
+                                               autres qu'agricoles et forestières.
+
+  Stationnement                                Stationnement des véhicules des occupants et usagers assuré                      art. 4 (zone A)
+                                               en dehors des voies publiques, sur le terrain propre de
+                                               l'opération, et correspondant aux besoins nouveaux de la
+                                               construction. Pas de norme chiffrée.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        11 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Hinx · D 346
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Espaces verts et plantations                 Surfaces non imperméabilisées ou éco-aménageables : non                          art. 2-3
+                                               réglementé. Éléments de paysage identifiés au titre de l'article
+                                               L.151-23 à conserver ; remplacement ponctuel par un plant
+                                               d'essence locale au regard de l'état sanitaire ; destruction
+                                               ponctuelle possible pour la sécurité, un élargissement de
+                                               voirie, la création d'un accès ou le passage de réseaux, la plus
+                                               limitée possible.
+
+  Densité ou coefficient                       Non précisé dans le règlement de la zone (pas de coefficient                     Zone A
+                                               d'occupation des sols).
+
+
+
+
+3.4 Usages autorisés
+    Les constructions et installations nécessaires à l'exploitation agricole
+    Les constructions et installations nécessaires à la transformation, au conditionnement et à la
+    commercialisation des produits agricoles, lorsque ces activités constituent le prolongement de l'acte de
+    production
+    Les constructions et installations nécessaires à l'exploitation agricole ou au stockage et à l'entretien de
+    matériel agricole par les coopératives d'utilisation de matériel agricole (CUMA) agréées
+    Les constructions, ouvrages et installations techniques nécessaires au fonctionnement des services et
+    réseaux publics
+    L'adaptation et la réfection des constructions existantes à la date d'approbation du PLUi
+    L'extension des bâtiments d'habitation existants : 30 % d'emprise au sol supplémentaire, portés à 50 %
+    maximum pour les habitations d'une emprise au sol existante inférieure à 100 m²
+    Les annexes aux bâtiments d'habitation : 40 m² d'emprise au sol supplémentaire, hauteur maximale de 3,5
+    m à la sablière ou à l'acrotère, implantées à moins de 30 m du bâtiment principal d'habitation (les piscines
+    ne sont pas soumises à la limite de 40 m² ni de hauteur)
+    Le changement de destination des constructions identifiées au document graphique au titre de l'article
+    L.151-11, 2° du code de l'urbanisme, sous conditions
+
+
+3.5 Usages interdits ou soumis à conditions
+    Est interdite toute construction, tout usage ou toute affectation des sols qui n'est pas expressément
+    autorisé dans la liste des limitations de la zone A (donc notamment les constructions d'habitation nouvelles
+    non liées à l'extension d'un bâtiment existant)
+    Est interdite l'implantation de constructions à moins de 10 m des cours d'eau, mesurés depuis le haut de
+    talus de la berge
+    Toutes les autorisations sont soumises à des dessertes et réseaux suffisants, à la compatibilité avec
+    l'exercice d'une activité agricole, pastorale ou forestière sur le terrain d'assiette, et à l'absence d'atteinte à
+    la sauvegarde des espaces naturels et des paysages
+    L'extension des habitations n'est possible qu'une fois tous les 10 ans à compter de l'approbation du PLUi
+    La fréquence de réalisation des annexes (hors piscines) est limitée à 40 m² tous les 10 ans à compter de
+    l'approbation du PLUi
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      12 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Hinx · D 346
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    Le changement de destination des bâtiments repérés est soumis à l'avis conforme de la commission
+    départementale de la préservation des espaces agricoles, naturels et forestiers (CDPENAF) et ne doit
+    compromettre ni l'activité agricole ni la qualité paysagère du site
+    Zone inondable (trame hachurée bleue) : application du PPRi s'il existe ; à défaut, plancher bas à au moins
+    0,5 m au-dessus de la cote de référence (ou 0,5 m au-dessus du terrain naturel si la cote des plus hautes
+    eaux connues n'est pas connue), et respect de l'article 10 des dispositions générales (remblais limités,
+    sous-sols interdits, clôtures transparentes, etc.)
+    Zone de danger liée aux canalisations de transport de gaz (trame grisée) : occupations compatibles avec
+    l'arrêté du 5 mars 2014
+    Sites archéologiques identifiés : le projet peut être refusé ou soumis à prescriptions spéciales (article
+    R.111-4)
+
+
+3.6 Points de vigilance pour votre projet
+    Vérifier sur le règlement graphique que la parcelle est bien en zone A sans indice (et non en secteur Ap,
+    dont les règles sont plus restrictives).
+    Aucune construction nouvelle d'habitation n'est admise : seuls sont possibles l'adaptation, la réfection,
+    l'extension (30 % ou 50 %, une fois tous les 10 ans) et les annexes (40 m² tous les 10 ans) des habitations
+    existantes à la date d'approbation du PLUi.
+    Calculer l'emprise au sol existante à la date d'approbation du PLUi pour déterminer l'extension possible
+    (seuil des 100 m²).
+    Les annexes et piscines doivent se situer à moins de 30 m du bâtiment principal d'habitation ; hauteur
+    d'annexe : incohérence entre l'article 1-1 (3,5 m) et l'article 2-1 (4 m au faîtage / 3 m à l'acrotère), retenir la
+    plus prudente.
+    Une construction à usage agricole doit être nécessaire à une exploitation agricole : justifier le lien avec
+    l'exploitation et la compatibilité avec l'activité agricole.
+    Respecter le recul de 10 m par rapport aux cours d'eau (haut de talus de berge) et les reculs par rapport
+    aux routes départementales (15, 25 ou 35 m de l'axe hors agglomération).
+    Vérifier les risques : zone inondable (plancher bas à +0,5 m), canalisation de gaz (arrêté du 5 mars 2014),
+    périmètre archéologique, éléments de paysage L.151-19 / L.151-23.
+    Vérifier si le bâtiment est repéré au titre de l'article L.151-11, 2° pour un éventuel changement de destination
+    (avis conforme de la CDPENAF).
+    Assainissement autonome nécessaire en l'absence de réseau collectif : prévoir la conformité avec le
+    service public d'assainissement non collectif.
+    Le règlement mentionne dans les dispositions générales que le règlement s'applique à la communauté de
+    communes de Montfort-en-Chalosse (dont Hinx) ; contrôler la version du PLUi opposable.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      13 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Hinx · D 346
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.7 Extraits du règlement
+
+     art. 1-1 · page 185
+     « Les constructions et installations nécessaires à l’exploitation agricole, »
+
+
+     art. 1-1 · page 185
+     « L’extension des bâtiments d’habitation existants limitée à 30% d’emprise au sol supplémentaire par
+     rapport à l’emprise au sol existante à la date d’approbation du PLUi. Cette limitation peut être portée à
+     50% maximum pour les habitations d’une emprise au sol existante inférieure à 100 m². »
+
+
+     art. 1-1 · page 186
+     « Les annexes aux bâtiments d’habitation sont autorisées dans la limite de 40 m² supplémentaire
+     d’emprise au sol et d’une hauteur maximale de 3,5 m à la sablière ou à l’acrotère. »
+
+
+     art. 2-1 · page 189
+     « Les constructions doivent être implantées à une distance minimale de 5 mètres par rapport aux
+     limites d’emprise des voies et emprises publiques. »
+
+
+     art. 2-1 · page 188
+     « La hauteur des constructions à destination d’habitation, mesurée tel que mentionné dans l’alinéa
+     ci-dessus, ne doit pas excéder 10 mètres au faitage. »
+
+
+     art. 2-1 · page 188
+     « La hauteur maximale des bâtiments agricoles ne doit pas excéder 12 mètres. »
+
+
+
+3.8 Démarches probables
+    Permis de construire ou déclaration préalable selon la surface créée (extension, annexe, piscine)
+    Déclaration préalable pour toute clôture autre qu'agricole ou forestière (délibération du conseil
+    communautaire)
+    Déclaration préalable pour les travaux touchant un élément repéré au titre des articles L.151-19 ou L.151-23
+    Permis de démolir possible selon les délibérations communales
+    Avis conforme de la CDPENAF pour un changement de destination
+    Étude et autorisation de l'installation d'assainissement non collectif (SPANC) si absence de réseau
+    Demande d'accès auprès du Département en bordure de route départementale
+    Certificat d'urbanisme opérationnel conseillé pour sécuriser la faisabilité
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      14 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Hinx · D 346
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+     Cette lecture est établie automatiquement, par intelligence artificielle, à partir du règlement officiel en
+     vigueur. Elle peut comporter des imprécisions : seul le texte du règlement, reproduit en annexe (pages
+     183 à 196 du document approuvé), fait foi, avec les dispositions générales, les orientations
+     d'aménagement et les servitudes.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      15 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Hinx · D 346
+         TerrenUrbanisme
+                                                                                                                    04 · Loi Littoral et loi Montagne
+
+
+
+
+   04              Loi Littoral et loi Montagne
+     DANS CETTE SECTION
+
+     Les lois nationales qui s'ajoutent au document d'urbanisme sur le littoral et en montagne. Elles
+     peuvent rendre un terrain inconstructible même en zone constructible.
+
+
+Les lois d'aménagement qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+
+
+4.1 Loi Littoral
+Commune littorale                                        Non
+
+Distance au rivage                                       Sans objet
+
+Bande des 100 mètres                                     Sans objet
+
+
+La commune n'est pas riveraine de la mer : la loi Littoral ne s'applique pas (sauf rives de grands lacs).
+
+
+4.2 Loi Montagne
+Commune en zone de montagne                              Non
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          16 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Hinx · D 346
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+   05              Risques naturels et technologiques
+     DANS CETTE SECTION
+
+     Les risques connus à l'adresse du terrain (inondation, feu de forêt, mouvement de terrain,
+     radon…) et les catastrophes naturelles reconnues sur la commune.
+
+
+Base nationale Géorisques (ministère de la Transition écologique).
+
+
+
+5.1 Risques naturels à l'adresse de la parcelle
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Remontée de nappe                               Non connu                                       Existant
+
+  Séisme                                          Existant – faible                               Existant – faible
+
+  Mouvement de terrain                            Inconnu                                         Existant
+
+  Retrait-gonflement des                          Existant – faible                               Existant – modéré
+  argiles
+
+  Feu de forêt                                    Existant                                        Existant · Votre bien est concerné par les
+                                                                                                  obligations légales de débroussaillement
+
+  Radon                                           Existant – faible                               Existant – faible
+
+
+
+
+5.2 Risques technologiques
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Pollution des sols                              Concerné                                        Concerné
+
+
+
+
+5.3 Indicateurs réglementaires
+Zone de sismicité                                        Zone 2 – faible
+
+Potentiel radon                                          Catégorie 1 (potentiel faible)
+
+Retrait-gonflement des argiles                           Existant – faible
+
+Plans de prévention (PPR)                                Adour
+
+
+     La parcelle est exposée au risque de feu de forêt. L'obligation légale de débroussaillement s'applique
+     (en général 50 mètres autour des constructions), et un terrain boisé peut nécessiter une autorisation
+     de défrichement avant toute construction.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                     17 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Hinx · D 346
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.4 Arrêtés de catastrophe naturelle
+6 arrêtés de reconnaissance de l'état de catastrophe naturelle concernent la commune.
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Inondations et/ou Coulées de Boue                                         29/01/2014 au 31/01/2014                       09/07/2014
+
+  Chocs Mécaniques liés à l'action des Vagues                               24/01/2009 au 27/01/2009                       29/01/2009
+
+  Inondations et/ou Coulées de Boue                                         24/01/2009 au 27/01/2009                       29/01/2009
+
+  Mouvement de Terrain                                                      25/12/1999 au 29/12/1999                       30/12/1999
+
+  Inondations et/ou Coulées de Boue                                         25/12/1999 au 29/12/1999                       30/12/1999
+
+  Eboulement et/ou Chute de Blocs                                           14/12/1997                                     11/06/1998
+
+
+
+
+5.5 Sites et sols pollués à proximité
+    DLI · ancien site industriel ou d'activité de service (CASIAS)
+    Garage, carrosserie, peinture · ancien site industriel ou d'activité de service (CASIAS)
+    Station service · ancien site industriel ou d'activité de service (CASIAS)
+    Extraction de sable · ancien site industriel ou d'activité de service (CASIAS)
+
+
+5.6 Rapport officiel Géorisques
+Les risques recensés ci-dessus proviennent des bases officielles de Géorisques, service public d'information
+sur les risques. Le rapport officiel complet peut être édité sans frais, à tout moment et à jour, à partir de
+l'adresse du terrain sur le site Géorisques.
+
+
+    Éditer le rapport officiel Géorisques
+
+
+Lors d'une vente ou d'une location, le vendeur ou le bailleur doit remettre un état des risques de moins de six mois,
+complété et signé, et l'information sur les sinistres indemnisés au titre des catastrophes naturelles.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        18 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Hinx · D 346
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+   06              Le terrain : accès, relief et réseaux
+     DANS CETTE SECTION
+
+     Les contraintes physiques du terrain : accès à une voie, pente et exposition, assainissement,
+     raccordement à l'électricité et à l'eau, fibre. Ce sont elles qui pèsent le plus sur le coût d'un
+     projet.
+
+
+Voirie (IGN, BD TOPO), altimétrie (IGN, RGE ALTI), règlement de la zone, réseau électrique (Agence ORE) et éligibilité
+internet (Arcep).
+
+
+
+6.1 Accès
+Accès direct à une voie                                  Oui
+
+Voie                                                     Route empierrée · Chemin Darrigade
+
+Accès des véhicules                                      Libre
+
+
+La parcelle touche une voie carrossable. L'autorisation d'urbanisme vérifiera que l'accès est adapté au projet et sûr,
+et peut imposer une permission de voirie ou un aménagement de l'entrée.
+
+
+6.2 Relief et exposition
+Pente moyenne                                            2%
+
+Exposition                                               Versant orienté nord-est
+
+Altitude                                                 46 à 49 m
+
+Appréciation                                             Terrain plat ou presque plat
+
+
+
+
+ 49 m
+
+
+
+
+ 43 m
+
+
+           Coupe du terrain dans le sens de la pente · longueur 183 m
+
+
+     Terrassements limités ; pas de surcoût notable lié au relief.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       19 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Hinx · D 346
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.3 Ensoleillement
+Appréciation                                             Très bien ensoleillé
+
+Soleil direct le 21 juin                                 15 h 12 (de 06 h 40 à 21 h 40)
+
+Soleil direct aux équinoxes                              12 h (de 07 h 20 à 19 h 10)
+
+Soleil direct le 21 décembre                             8 h 48 (de 08 h 40 à 17 h 20)
+
+Ensoleillement annuel possible                           4 391 h par an, soit 100 % du maximum à cette latitude
+
+Hauteur du relief vers le sud                            0°
+
+
+ 75°
+
+
+
+ 60°
+
+
+
+ 45°
+
+
+
+ 30°
+
+
+
+ 15°
+
+
+
+ 0°
+                                Est                  Sud-est                    Sud                 Sud-ouest               Ouest
+
+          21 juin          Équinoxes               21 décembre                 Horizon : relief et bâtiments voisins
+
+
+
+       Le relief et les constructions voisines ne masquent presque pas le soleil : le terrain profite de la
+       quasi-totalité de l'ensoleillement possible à cette latitude.
+
+
+
+Ensoleillement mois par mois (le 21 de chaque mois)
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Janvier                         9 h 18                             9 h 18                                    08 h 40 – 17 h 50
+
+  Février                         10 h 42                            10 h 42                                   08 h 00 – 18 h 30
+
+  Mars                            12 h 12                            12 h                                      07 h 20 – 19 h 10
+
+  Avril                           13 h 30                            13 h 30                                   07 h 20 – 20 h 40
+
+  Mai                             14 h 48                            14 h 48                                   06 h 40 – 21 h 20
+
+  Juin                            15 h 18                            15 h 12                                   06 h 40 – 21 h 40
+
+  Juillet                         14 h 48                            14 h 48                                   06 h 50 – 21 h 30
+
+  Août                            13 h 42                            13 h 30                                   07 h 30 – 20 h 50
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      20 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Hinx · D 346
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Septembre                       12 h                               12 h                                      08 h 00 – 19 h 50
+
+  Octobre                         10 h 30                            10 h 30                                   08 h 40 – 19 h 00
+
+  Novembre                        9 h 12                             9 h 12                                    08 h 20 – 17 h 20
+
+  Décembre                        8 h 48                             8 h 48                                    08 h 40 – 17 h 20
+
+
+
+Calcul théorique par ciel dégagé, au centre de la parcelle et à hauteur d'homme : course du soleil heure par heure, masque du relief
+sur 6 km (IGN, RGE ALTI) et des bâtiments voisins sur 120 m (IGN, BD TOPO, 1 bâtiment pris en compte). La végétation et les
+constructions récentes ne sont pas prises en compte.
+
+
+6.4 Quel raccordement pour les eaux usées ?
+Raccordement à prévoir                                       Assainissement individuel probable
+
+Zone du PLU                                                  A · Agricole
+
+Zonage d'assainissement                                      Non publié au Géoportail de l'Urbanisme (consultable en mairie)
+
+Réseau collectif sur la commune                              Oui · SYNDICAT DES ESCHOURDES · délégation à SOGEDO
+
+
+     Le terrain est hors zone urbaine (zone A) : ces secteurs sont rarement desservis par le réseau public.
+     Sauf canalisation existante dans la voie, prévoyez une fosse toutes eaux avec épandage ou une
+     micro-station agréée.
+
+
+
+Ce que dit le règlement de la zone
+En zone A, en l'absence d'assainissement collectif, les constructions ou installations nouvelles doivent être dotées
+d'un assainissement autonome conforme aux dispositions réglementaires (art. 3-2, 2.2). Le règlement ne précise ni
+surface minimale de terrain ni étude de sol ; la conformité s'apprécie selon la réglementation en vigueur et le
+contrôle du service d'assainissement non collectif.
+
+Ce que cela coûte
+Assainissement individuel : 5 000 à 15 000 € selon la filière (détail ci-dessous), plus l'étude de sol à la parcelle (500 à
+1 000 €). Étapes : étude de sol, puis avis favorable du SPANC sur le projet, à joindre à la demande de permis de
+construire. Besoin d'un installateur agréé ? Nous vous mettons en relation : contact@terrenurbanisme.com.
+
+Qui contacter pour obtenir la confirmation
+Service d'assainissement                                     SYNDICAT DES ESCHOURDES · exploitant : SOGEDO
+
+Mairie                                                       Mairie de Hinx
+
+Téléphone                                                    05 58 89 50 24
+
+E-mail                                                       mairie@hinx.fr
+
+
+    Demandez au service d'assainissement, avec la référence cadastrale, si une canalisation publique passe au droit
+    du terrain, à quelle profondeur, et le montant de la PFAC. Sa réponse écrite vaut attestation de raccordabilité.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       21 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                              Hinx · D 346
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+    Certificat d'urbanisme opérationnel (formulaire Cerfa 13410, délivré sans frais) : la mairie y indique officiellement
+    si le terrain est desservi par le réseau d'assainissement.
+    Plan des réseaux : la présence des canalisations enterrées près du terrain peut être vérifiée sur
+    reseaux-et-canalisations.gouv.fr, le guichet unique des réseaux.
+Sources : zonage d'assainissement et règlement (Géoportail de l'Urbanisme) ; services publics d'assainissement (SISPEA, Office
+français de la biodiversité) ; annuaire de l'administration (service-public.fr).
+
+Les solutions d'assainissement individuel
+  FILIÈRE                                    QUAND ELLE CONVIENT                                                           ORDRE DE PRIX
+
+  Fosse toutes eaux et                       Sol perméable, terrain assez grand et peu pentu                               5 000 à 10 000 €
+  épandage
+
+  Filtre à sable                             Sol peu perméable, place suffisante                                           8 000 à 12 000 €
+
+  Micro-station agréée                       Petit terrain ou sol défavorable ; entretien et électricité                   7 000 à 15 000 €
+
+  Filtre compact agréé                       Petit terrain, sans électricité                                               9 000 à 14 000 €
+
+
+
+Ordres de prix indicatifs (fourniture et pose, hors étude de sol et terrassements particuliers). La filière est choisie au vu de l'étude
+de sol et validée par le SPANC.
+
+
+6.5 Électricité et eau potable
+Gestionnaire du réseau                                       Enedis
+
+Réseau basse tension le plus proche                          à environ 25 m (ligne souterraine)
+
+Ligne aérienne la plus proche                                à environ 115 m
+
+Ligne souterraine la plus proche                             à environ 25 m
+
+Poste de transformation le plus proche                       à environ 235 m
+
+Appréciation                                                 Branchement simple probable
+
+
+     Le réseau basse tension passe à environ 25 m : un branchement simple est en principe possible (de
+     l'ordre de 1 500 à 3 000 € pour une maison, selon la longueur et la puissance), sous réserve de la
+     capacité du réseau et des coffrets existants.
+
+
+
+Ce qu'il faut vérifier avant d'acheter
+    La capacité du réseau : même un réseau proche peut être saturé (coffret ou câble plein, poste de transformation
+    au maximum). Seule une étude du gestionnaire permet de le savoir ; c'est la cause la plus fréquente de surcoûts
+    imprévus.
+    Électricité : demander au gestionnaire du réseau une étude de raccordement ou un devis à partir de l'adresse et
+    du plan de situation (sans frais). Elle indique le type de raccordement, son coût et son délai.
+    Eau potable : les plans du réseau d'eau ne sont pas publics. Interroger le service des eaux (coordonnées
+    ci-dessous) sur la présence d'une canalisation au droit du terrain, sa capacité et le coût du branchement, ainsi
+    que sur la défense incendie (borne à moins de 200 m environ).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              22 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Hinx · D 346
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+    Certificat d'urbanisme opérationnel : la mairie y indique si le terrain est desservi par les réseaux publics (eau,
+    électricité, assainissement) et, à défaut, si et quand ils seront étendus. Un refus de permis peut être fondé sur
+    l'insuffisance des réseaux (article L. 111-11 du Code de l'urbanisme).
+
+Qui contacter
+Service de l'eau potable                                     SYNDICAT DES ESCHOURDES
+
+Mode de gestion                                              Délégation de service public à SOGEDO
+
+Contact pour le branchement                                  SOGEDO, pour le compte de : SYNDICAT DES ESCHOURDES
+
+Mairie                                                       Mairie de Hinx
+
+Téléphone de la mairie                                       05 58 89 50 24
+
+E-mail de la mairie                                          mairie@hinx.fr
+
+Électricité (raccordement)                                   Enedis · demande en ligne sur enedis.fr (raccordement)
+
+La mairie oriente vers le bon interlocuteur et confirme, dans le certificat d'urbanisme, la desserte du terrain par les réseaux.
+Sources : SISPEA, observatoire des services publics d'eau (OFB) ; annuaire de l'administration (service-public.fr).
+
+Dans une promesse de vente, une condition suspensive portant sur le coût du raccordement aux réseaux protège
+l'acquéreur. Source de la cartographie électrique : Agence ORE, données des gestionnaires de réseaux de distribution ;
+tracés indicatifs.
+
+
+6.6 Fibre et internet
+     Le terrain n'a pas encore d'adresse propre, mais la fibre est déployée à 80 m (400 Chemin Darrigade) :
+     un logement construit sur le terrain pourra en principe y être raccordé.
+
+
+
+Adresse la plus proche                                          400 Chemin Darrigade · à 80 m · raccordable
+
+Point fibré le plus proche                                      400 Chemin Darrigade · à 80 m
+
+Adresses fibrées à moins de 100 m                               1 sur 1
+
+Adresses fibrées à moins de 400 m                               69 sur 69
+
+Technologies disponibles à proximité                            4G fixe, Cuivre (ADSL, VDSL), Fibre, Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      23 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                                     Hinx · D 346
+          TerrenUrbanisme
+                                                                                                                    06 · Le terrain : accès, relief et réseaux
+
+
+
+
+     Points fibrés autour du terrain
+
+
+
+
+                                                                                                        F
+                                              F
+                                                              F
+                                              F       F
+
+
+
+                                              F
+
+
+
+
+                                                                              F
+                      F                                                                   F
+                          F                                               F
+                              F
+                                      F       F
+                                                  F                   F                         F
+                      F                                   F               F
+                                  F                                               F             F
+                                          F                       F                        F
+                                                                          F           F             F
+                              F                   F                                       F F
+                                                              F                   F                                                          100 m
+
+
+
+Repères F : adresses déclarées raccordables à la fibre (Arcep) · en terracotta : sur la parcelle · fond © IGN
+
+
+Vérifiez la fibre à l'adresse du terrain :
+
+                     Carte fibre Orange                                                                             Carte de l'Arcep
+
+
+  DISTANCE           ADRESSE                                                                                FIBRE          AUTRES ACCÈS
+
+  80 m               400 Chemin Darrigade                                                                   Oui            4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                           Satellite
+
+  163 m              1146 Route du Port                                                                     Oui            4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                           Satellite
+
+  185 m              899 Route du Port                                                                      Oui            4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                           Satellite
+
+  190 m              999 Route du Port                                                                      Oui            4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                           Satellite
+
+  191 m              1145 Route du Port                                                                     Oui            4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                           Satellite
+
+  208 m              895 Route du Port                                                                      Oui            4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                           Satellite
+
+  226 m              1001 Route du Port                                                                     Oui            4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                           Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                      24 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                           Hinx · D 346
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  DISTANCE           ADRESSE                                                                   FIBRE              AUTRES ACCÈS
+
+  227 m              1177 Route du Port                                                        Oui                4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+
+
+Source : Arcep, « Ma connexion internet », éligibilité déclarée par les opérateurs, adresse par adresse. Le tracé des câbles n'est
+pas public : la présence de la fibre en limite de terrain se vérifie auprès de l'opérateur ou par une déclaration de projet de travaux
+(DT).
+
+
+6.7 Qui contacter pour les réseaux
+  RÉSEAU                                    INTERLOCUTEUR                                         CE QU'IL FAUT DEMANDER
+
+  Eau potable et                            Mairie ou service des eaux de la                      Attestation de desserte et conditions de
+  assainissement collectif                  commune                                               raccordement
+
+  Assainissement individuel                 SPANC (communauté de communes)                        Contrôle de conception sur la base de l'étude
+                                                                                                  de sol
+
+  Électricité                               Enedis (gestionnaire du réseau de                     Étude de raccordement et devis
+                                            distribution)
+
+  Fibre et téléphone                        Opérateur d'infrastructure et                         Raccordement du futur logement
+                                            fournisseur d'accès
+
+  Tous réseaux                              Guichet unique des réseaux                            Déclaration de projet de travaux (DT) pour
+                                            (reseaux-et-canalisations.gouv.fr)                    localiser les réseaux existants
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             25 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Hinx · D 346
+         TerrenUrbanisme
+                                                                                                               07 · Conditions de vente du terrain
+
+
+
+
+    07             Conditions de vente du terrain
+     DANS CETTE SECTION
+
+     Terrain agricole ou naturel : droit de préemption de la SAFER, fermier en place, autorisation
+     d'exploiter et repère officiel de prix.
+
+
+Terrain situé en zone A : vente encadrée par le code rural et de la pêche maritime.
+
+
+
+7.1 Pourquoi aucune fourchette de prix n'est donnée
+La parcelle est classée en zone A (agricole), où les constructions nouvelles ne sont en principe pas admises.
+Sa valeur ne se déduit pas des ventes de terrains à bâtir du secteur : elle dépend de l'usage agricole ou naturel
+du sol, de sa qualité, de son accès, de l'eau disponible et de l'existence éventuelle d'un bail rural. Une
+estimation automatique serait trompeuse : la valeur doit être établie au cas par cas par un notaire ou un expert
+foncier et agricole.
+
+
+7.2 Le droit de préemption de la SAFER
+Principe                                        La vente d'un terrain agricole ou naturel est en principe soumise au droit de
+                                                préemption de la SAFER (articles L. 143-1 et suivants du code rural et de la
+                                                pêche maritime). Une surface minimale, fixée par département, peut en
+                                                exclure les plus petites parcelles.
+
+Information obligatoire                         Le notaire informe la SAFER du projet de vente au moins deux mois avant la
+                                                signature : prix, conditions et identité de l'acquéreur.
+
+Ce que peut faire la SAFER                      Renoncer, acheter au prix et aux conditions notifiés, ou proposer un prix
+                                                inférieur si elle estime le prix exagéré. Le vendeur peut alors accepter,
+                                                retirer son terrain de la vente ou demander au tribunal judiciaire de fixer le
+                                                prix.
+
+Pourquoi elle intervient                        Installation de jeunes agriculteurs, consolidation des exploitations,
+                                                protection de l'environnement et des paysages, lutte contre la spéculation
+                                                foncière.
+
+
+
+7.3 Les autres règles à connaître
+Fermier en place                                Si le terrain est loué par bail rural, l'exploitant en place bénéficie d'un droit
+                                                de préemption prioritaire, avant la SAFER.
+
+Autorisation d'exploiter                        Un acquéreur qui souhaite exploiter le terrain peut devoir obtenir une
+                                                autorisation d'exploiter auprès de la DDT(M), selon le schéma directeur
+                                                régional des exploitations agricoles.
+
+Espace naturel sensible                         Dans un espace naturel sensible, le département peut également disposer
+                                                d'un droit de préemption.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       26 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Hinx · D 346
+         TerrenUrbanisme
+                                                                                                               07 · Conditions de vente du terrain
+
+
+
+
+Constructions                                   Seules les constructions nécessaires à l'exploitation agricole ou forestière,
+                                                ou à des équipements collectifs, sont en règle générale admises : l'achat ne
+                                                donne pas de droit à bâtir une habitation.
+
+
+
+7.4 Repère officiel de prix
+Le ministère de l'Agriculture publie chaque année le barème indicatif de la valeur vénale moyenne des terres
+agricoles, par région agricole et par nature de culture (arrêté publié au Journal officiel). C'est la référence à
+consulter, avec l'avis d'un notaire ou d'un expert foncier et agricole, avant de fixer un prix.
+
+     Avant toute mise en vente, rapprochez-vous de votre notaire : il notifie la vente à la SAFER, vérifie
+     l'existence d'un bail et sécurise le calendrier de la transaction.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       27 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Hinx · D 346
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+   08              Environnement et marché immobilier
+     DANS CETTE SECTION
+
+     Les espaces naturels protégés autour du terrain et les prix de vente réels des maisons,
+     appartements et terrains alentour.
+
+
+Inventaire national du patrimoine naturel et demandes de valeurs foncières (DVF).
+
+
+
+8.1 Espaces naturels protégés ou inventoriés
+  TYPE                                                      NOM DU SITE
+
+  Abords de monument historique                             Chateau de Castera
+
+
+
+La présence d'un site Natura 2000 peut imposer une évaluation des incidences avant certains travaux. Une ZNIEFF
+est un inventaire scientifique sans portée réglementaire directe, mais elle signale un intérêt écologique pris en
+compte dans l'instruction des autorisations.
+
+
+8.2 Espèces protégées observées près du terrain
+108 espèces protégées ont été observées dans un rayon de 1 km autour du terrain depuis 1990 ; les 14 plus
+fréquemment signalées figurent ci-dessous.
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Gomphe à pattes jaunes (Stylurus                                Insecte                Nationale (espèce et              107 · dernière en
+  flavipes)                                                                              habitat)                          2014
+
+  Grue cendrée (Grus grus)                                        Oiseau                 Nationale (espèce et              10 · dernière en
+                                                                                         habitat)                          2021
+
+  Pic vert (Picus viridis)                                        Oiseau                 Nationale (espèce et              8 · dernière en
+                                                                                         habitat)                          2022
+
+  Pic noir (Dryocopus martius)                                    Oiseau                 Nationale (espèce et              7 · dernière en 2022
+                                                                                         habitat)
+
+  Grand épeiche (Dendrocopos major)                               Oiseau                 Nationale (espèce et              7 · dernière en 2022
+                                                                                         habitat)
+
+  Buse commune (Buteo buteo)                                      Oiseau                 Nationale (espèce et              7 · dernière en 2022
+                                                                                         habitat)
+
+  Pinson des arbres (Fringilla coelebs)                           Oiseau                 Nationale (espèce et              7 · dernière en 2022
+                                                                                         habitat)
+
+  Bergeronnette grise (Motacilla alba)                            Oiseau                 Nationale (espèce et              7 · dernière en 2021
+                                                                                         habitat)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         28 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Hinx · D 346
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Elanion Blanc (Elanus caeruleus)                                Oiseau                 Nationale (espèce et              6 · dernière en 2021
+                                                                                         habitat)
+
+  Héron garde-boeufs (Bubulcus ibis)                              Oiseau                 Nationale (espèce et              6 · dernière en 2021
+                                                                                         habitat)
+
+  Sittelle d'Europe (Sitta europaea)                              Oiseau                 Nationale (espèce et              6 · dernière en 2021
+                                                                                         habitat)
+
+  Mésange bleue (Cyanistes caeruleus)                             Oiseau                 Nationale (espèce et              6 · dernière en 2021
+                                                                                         habitat)
+
+  Moineau domestique (Passer                                      Oiseau                 Nationale (espèce et              6 · dernière en 2021
+  domesticus)                                                                            habitat)
+
+  Troglodyte mignon (Troglodytes                                  Oiseau                 Nationale (espèce et              6 · dernière en 2021
+  troglodytes)                                                                           habitat)
+
+
+
+     Une observation à proximité ne signifie pas que l'espèce vit sur le terrain. Mais si elle y est présente, il
+     est interdit de détruire, capturer ou déranger les individus et, pour la plupart de ces espèces, de
+     détruire leurs lieux de reproduction et de repos (articles L. 411-1 et suivants du Code de
+     l'environnement). L'infraction est punie de 3 ans d'emprisonnement et 150 000 € d'amende.
+
+
+
+Que faire avant de construire ?
+    Pour une maison individuelle, aucune étude écologique n'est imposée en règle générale, et l'étude de sol porte
+    sur le terrain (fondations), pas sur la faune ni la flore. Vous restez cependant responsable si une espèce
+    protégée vit sur la parcelle : en cas de doute (espèce observée tout près, vieux arbres, murets, maquis, zone
+    humide), faites passer un écologue avant de défricher.
+    Si un enjeu est confirmé : inventaire faune-flore aux saisons utiles (printemps et été en général), puis mesures
+    pour éviter et réduire l'impact : implantation de la maison sur la partie la moins sensible, travaux hors période de
+    reproduction, clôture de chantier adaptée, déplacement d'individus par un spécialiste habilité.
+    Si la destruction d'individus ou d'habitats ne peut pas être évitée : demande de dérogation « espèces protégées »
+    auprès de la préfecture (DREAL), avec avis du conseil scientifique. Comptez 4 à 12 mois d'instruction, à anticiper
+    avant le dépôt du permis.
+
+Combien prévoir ?
+Pré-diagnostic écologique                                800 à 2 000 € (une visite et une note de synthèse)
+
+Inventaire faune-flore                                   3 000 à 10 000 € selon la surface et le nombre de passages
+
+Mesures d'évitement et de réduction                      500 à 5 000 € (balisage, calendrier, suivi de chantier)
+
+Dossier de dérogation                                    8 000 à 25 000 €, hors mesures de compensation éventuelles
+
+Ordres de prix indicatifs, honoraires de bureaux d'études en environnement, si une étude est nécessaire. Pour une maison sur un
+terrain déjà entouré de constructions, aucune étude n'est le plus souvent requise.
+
+Sources : statuts de protection TAXREF et base de connaissance des statuts (INPN, Muséum national d'Histoire naturelle) ;
+observations naturalistes GBIF, qui rassemble notamment les données de l'INPN et du SINP.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      29 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Hinx · D 346
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+8.3 Prix de l'immobilier à Hinx
+Prix au mètre carré des ventes enregistrées sur la commune au cours des cinq dernières années publiées.
+Seules les ventes portant sur un bien unique sont retenues.
+
+  TYPE DE BIEN                                       VENTES                       €/M² MÉDIAN                              €/M² MOYEN
+
+  Maisons                                            122                          2 318 €/m²                               2 227 €/m²
+
+  Appartements                                       3                            2 188 €/m²                               2 277 €/m²
+
+  Locaux commerciaux                                 6                            354 €/m²                                 643 €/m²
+
+
+
+Source : statistiques des demandes de valeurs foncières (DGFiP, Etalab). Prix des actes, hors frais : un ordre de grandeur,
+pas une estimation du bien.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        30 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                             Hinx · D 346
+         TerrenUrbanisme
+                                                                                                                                09 · Historique du site
+
+
+
+
+   09              Historique du site
+     DANS CETTE SECTION
+
+     Le terrain vu du ciel au fil des décennies et les permis de construire accordés autour : l'évolution
+     du secteur en un coup d'œil.
+
+
+Photographies aériennes de l'IGN et permis de construire délivrés (Sitadel).
+
+
+
+9.1 Le terrain vu du ciel, d'hier à aujourd'hui
+
+    1950-1965                                             2000-2005                                              2006-2010
+
+
+
+
+    2011-2015                                             Aujourd'hui
+
+
+
+
+Ces vues montrent l'évolution du terrain et du quartier, des années 1950 à aujourd'hui (photographies aériennes de l'IGN).
+
+     Bon à savoir : l'existence ancienne d'une construction peut ouvrir, sous conditions, un droit à
+     reconstruire ou à restaurer un bâtiment dont il reste l'essentiel des murs porteurs (articles L. 111-15 et L.
+     111-23 du Code de l'urbanisme).
+
+
+
+
+9.2 Permis de construire délivrés autour du terrain
+Autorisations sur la commune (3 ans)                                    11 · dernière recensée le 08/04/2026
+
+Logements autorisés (3 ans)                                             15
+
+Dont maisons individuelles                                              9
+
+Autorisations dans la section D                                         1 depuis 2013
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  26/09/2024            Permis de construire                   D 301              4              –                         ROUTE DU PORT
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             31 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                         Hinx · D 346
+         TerrenUrbanisme
+                                                                                                                             09 · Historique du site
+
+
+
+
+Permis accordés à moins de 500 m du terrain
+  DATE                 AUTORISATION                       PARCELLE          DISTANCE         LOGTS        SURFACE          LIEU-DIT / VOIE
+
+  07/05/2020           Permis de construire               F 142             390 m            1            128 m²           501 ROUTE DE MESTEPES
+
+
+
+1 autorisation créant des logements recensée dans un rayon de 500 m : la construction a été admise récemment
+dans le voisinage immédiat.
+
+Source : base Sitadel des autorisations d'urbanisme créant des logements (SDES). Un permis accordé à proximité montre
+que des constructions ont été admises dans le secteur, sans préjuger de la décision sur votre propre projet.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         32 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Hinx · D 346
+         TerrenUrbanisme
+                                                                                                              10 · Opportunités autour du terrain
+
+
+
+
+    10             Opportunités autour du terrain
+     DANS CETTE SECTION
+
+     Ce qui se passe autour de la parcelle : grands terrains peu bâtis, sociétés propriétaires en
+     difficulté, logements énergivores. Des pistes pour un investisseur, un voisin ou un professionnel.
+
+
+Bodacc (procédures collectives), ADEME (diagnostics énergétiques), cadastre, BD TOPO et Géoportail de l'Urbanisme.
+
+
+
+10.1 Grands terrains peu bâtis à proximité
+Parcelles de plus de 1 200 m², situées en zone urbaine ou à urbaniser du PLU, dans un rayon de 250 m, dont
+moins de 8 % de la surface est bâtie, hors terrains publics : un potentiel de construction ou de division à
+étudier.
+
+  PARCELLE           SURFACE                BÂTI               ZONE               DISTANCE           PROPRIÉTAIRE
+
+  F 1184             11 754 m²              non bâti           UC                 410 m              particulier (non publié)
+
+
+
+
+10.2 Logements classés F ou G autour du terrain
+Logements diagnostiqués F ou G dans un rayon de 350 m. Leur location est déjà interdite (G) ou le sera en
+2028 (F) : leurs propriétaires sont souvent vendeurs, ou doivent engager des travaux de rénovation.
+
+  PARCELLE                   ADRESSE                                        CLASSE LOGEMENT                   SURFACE      DISTANCE DPE DU
+
+  Section F n° 701           1145 Route du Port 40180 Hinx                  F            Maison               94 m²        200 m    14/05/2025
+
+
+
+La parcelle est celle du point d'adresse du logement (cadastre). Pour connaître son propriétaire lorsqu'il s'agit d'un particulier,
+demandez un relevé de propriété au service de la publicité foncière ou à la mairie.
+
+Ces informations proviennent de bases publiques et ne préjugent ni de l'intention de vendre des propriétaires ni de la
+constructibilité des parcelles citées, qui relève d'une étude au cas par cas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        33 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                         Hinx · D 346
+           TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+      11           Votre projet, étape par étape
+De l'achat du terrain à la déclaration aux impôts : démarches, délais, coûts et contacts.
+
+
+
+11.1 Analyse
+Le terrain est soumis au plan local d'urbanisme intercommunal (PLUi) de Hinx. Il est classé en zone A.
+Zone agricole : secteur protégé en raison du potentiel agronomique, biologique ou économique des
+terres. Seules y sont admises les constructions et installations nécessaires à l'exploitation agricole et
+aux services publics, ainsi que l'extension limitée des habitations existantes.
+
+En l'état, une construction nouvelle n'est pas possible. Seules des évolutions limitées peuvent être
+envisagées selon le règlement de la zone (extension mesurée d'une habitation existante, annexes,
+équipements publics). Le classement ne peut évoluer qu'à l'occasion d'une modification ou d'une révision
+du document d'urbanisme, à l'initiative de la commune.
+
+
+11.2 Votre projet, étape par étape
+Les étapes ci-dessous suivent l'ordre réel d'un projet de construction, de l'achat du terrain à la déclaration aux
+impôts. Les montants sont indicatifs et à confirmer par devis.
+
+  1      Avant d'acheter le terrain
+         Vérifiez les règles de la zone (chapitres précédents), puis demandez un certificat d'urbanisme opérationnel
+         (Cerfa 13410, sans frais, réponse sous 2 mois) : il fige les règles pendant 18 mois. En zone d'argiles d'aléa
+         moyen ou fort, le vendeur doit fournir une étude de sol préalable.
+         Contact : Mairie de Hinx · 05 58 89 50 24 · mairie@hinx.fr · formulaire sur service-public.fr (rechercher « Cerfa 13410
+         »)
+
+  2      Les études
+         Étude de sol géotechnique (G2) pour dimensionner les fondations : 1 500 à 3 000 €. Étude thermique RE2020,
+         obligatoire pour le permis : 500 à 1 500 €. Bornage par un géomètre si les limites sont incertaines. L'étude de
+         sol ne porte pas sur les espèces protégées : un écologue n'intervient qu'en cas d'enjeu (chapitre
+         Environnement).
+         Géomètres proches du terrain : liste à la fin de ce chapitre
+
+  3      Les plans
+         Architecte obligatoire si la surface de plancher totale dépasse 150 m². En dessous, vous pouvez dessiner les
+         plans vous-même ou faire appel à un dessinateur ou maître d'œuvre (environ 1 500 à 4 000 € le dossier de
+         permis). Architecte : 3 000 à 8 000 € pour la seule mission de permis, 8 à 12 % du coût des travaux pour une
+         mission complète avec suivi du chantier.
+         Trouver un architecte : annuaire de l'Ordre des architectes sur architectes.org
+
+  4      Déposer le permis
+         Formulaire Cerfa 13406 (maison individuelle) et pièces PCMI1 à PCMI8 : plan de situation, plan de masse,
+         coupe, notice, plans des façades et toitures, insertion dans le paysage, photos, attestation RE2020. Dépôt en
+         mairie ou en ligne sur le guichet numérique de la commune. La mairie a 1 mois pour réclamer une pièce
+         manquante ; l'instruction dure 2 mois à partir du dossier complet, plus en secteur protégé.
+         Dépôt : Mairie de Hinx · 05 58 89 50 24 · mairie@hinx.fr · formulaire sur service-public.fr (rechercher « Cerfa 13406
+         »)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         34 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                         Hinx · D 346
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+  5      Affichage et recours
+         Dès l'accord, installez le panneau de permis sur le terrain, lisible depuis la voie, pendant toute la durée du
+         chantier. Les tiers ont 2 mois à compter du premier jour d'affichage pour contester ; la mairie peut retirer un
+         permis illégal pendant 3 mois. Faites constater l'affichage par un commissaire de justice (environ 300 à 600 €
+         pour les trois constats).
+         Commissaires de justice : annuaire sur commissaire-justice.fr
+
+  6      Avant les travaux
+         Souscrivez l'assurance dommages-ouvrage, obligatoire (souvent 2 à 4 % du coût de la construction). Signez
+         le contrat de construction de maison individuelle ou les marchés des artisans. Déposez la déclaration
+         d'ouverture de chantier (Cerfa 13407) le jour du démarrage. Le permis est valable 3 ans, prorogeable deux
+         fois d'un an.
+         Déclaration d'ouverture : Mairie de Hinx · 05 58 89 50 24 · mairie@hinx.fr
+
+  7      Le financement
+         La banque débloque le prêt au fur et à mesure du chantier, sur présentation des factures des entreprises ou
+         des appels de fonds du constructeur. Avec un contrat de construction de maison individuelle, l'échéancier
+         est encadré par la loi : 15 % à l'ouverture du chantier, 25 % aux fondations, 40 % aux murs, 60 % hors d'eau,
+         75 % hors d'air et cloisons, 95 % aux équipements, le solde à la réception. Des intérêts intercalaires peuvent
+         courir sur les sommes débloquées.
+         Votre banque ou votre courtier
+
+  8      La fin du chantier
+         Réception des travaux avec le constructeur ou les artisans, avec réserves si nécessaire. Déposez ensuite la
+         déclaration attestant l'achèvement et la conformité des travaux (DAACT, Cerfa 13408), avec l'attestation
+         RE2020 de fin de chantier. La mairie a 3 mois pour la contester (5 mois en secteur protégé).
+         Dépôt : Mairie de Hinx · 05 58 89 50 24 · mairie@hinx.fr
+
+  9      Les impôts
+         Dans les 90 jours suivant l'achèvement, déclarez la construction sur impots.gouv.fr, espace « Gérer mes
+         biens immobiliers ». Cette déclaration sert au calcul de la taxe d'aménagement (payée en une fois sous 1 500
+         €, sinon en deux fois, estimation plus bas dans ce chapitre) et de la taxe foncière, avec une exonération
+         possible les deux premières années selon la commune.
+         impots.gouv.fr › Espace particulier › Gérer mes biens immobiliers
+
+
+11.3 Les points à vérifier pour ce terrain
+  1      Certificat d'urbanisme opérationnel
+         Le demander en mairie (formulaire Cerfa 13410), en décrivant le projet. Délivré sans frais, il indique si le
+         terrain peut accueillir le projet et fige les règles d'urbanisme pendant 18 mois.
+
+  2      Règlement de la zone
+         Lire le règlement écrit de la zone A et, le cas échéant, les orientations d'aménagement, disponibles sur
+         le Géoportail de l'Urbanisme.
+
+  3      Réseaux et accès
+         Vérifier l'accès à une voie publique ou privée adaptée, la desserte en eau potable et en électricité, et le
+         mode d'assainissement. En l'absence de réseau collectif, une étude de sol et l'avis du service public
+         d'assainissement non collectif (SPANC) sont nécessaires.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         35 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                         Hinx · D 346
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+  4      Débroussaillement et défrichement
+         Prévoir le débroussaillement obligatoire autour des constructions et, si le terrain est boisé, une
+         demande d'autorisation de défrichement auprès de la DDT avant le permis.
+
+  5      Architecte des Bâtiments de France
+         Le projet sera soumis à l'architecte des Bâtiments de France : le rencontrer avant de dessiner le projet
+         (rendez-vous par la mairie ou l'unité départementale de l'architecture et du patrimoine), soigner
+         matériaux, teintes et toitures, et compter un mois de plus pour l'instruction.
+
+  6      Bornage
+         Faire réaliser un bornage par un géomètre-expert pour fixer les limites exactes et la surface réelle du
+         terrain.
+
+  7      Sécuriser un achat
+         Pour une acquisition, prévoir dans le compromis une condition suspensive d'obtention d'un permis de
+         construire purgé de tout recours.
+
+
+11.4 Délais indicatifs d'instruction
+  DEMANDE                                                                                 DÉLAI DE DROIT COMMUN
+
+  Certificat d'urbanisme d'information (CUa)                                              1 mois
+
+  Certificat d'urbanisme opérationnel (CUb)                                               2 mois
+
+  Déclaration préalable                                                                   1 mois
+
+  Permis de construire une maison individuelle                                            2 mois
+
+  Permis d'aménager, autres permis de construire                                          3 mois
+
+
+
+Ces délais peuvent être majorés, notamment en site classé ou inscrit, aux abords d'un monument historique ou lorsque la
+consultation d'un service extérieur est nécessaire.
+
+
+11.5 Implanter une entreprise : zone France Ruralités Revitalisation
+      La commune de Hinx est classée en zone France Ruralités Revitalisation (FRR) depuis le 1er juillet 2024.
+      Une entreprise qui s'y crée ou y est reprise peut être exonérée d'impôt sur les bénéfices pendant 5 ans,
+      puis partiellement pendant 3 ans.
+
+
+
+Impôt sur les bénéfices (IS ou IR)                    Exonération totale pendant 5 ans, puis exonération de 75 %, 50 % et 25
+                                                      % des bénéfices les 3 années suivantes
+
+Création ou reprise                                   Entre le 1er juillet 2024 et le 31 décembre 2029
+
+Activités concernées                                  Industrielle, commerciale, artisanale ou libérale
+
+Taille de l'entreprise                                Moins de 11 salariés
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         36 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                         Hinx · D 346
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+Régime d'imposition                                   Régime réel obligatoire (micro-entreprise exclue, sauf option pour le
+                                                      réel)
+
+Implantation                                          Siège et totalité de l'activité dans la zone (activité sédentaire : 25 % du
+                                                      chiffre d'affaires au plus réalisé hors zone)
+
+Plafond                                               Aides de minimis : 300 000 € sur trois exercices
+
+Taxe foncière et CFE                                  Exonération possible si la commune ou l'intercommunalité l'a votée : à
+                                                      vérifier en mairie
+
+
+Exclus : les activités agricoles, la gestion ou la location d'immeubles (une SCI de location nue n'est pas éligible) et la
+location meublée sans services de type hôtelier. Une location touristique ou des chambres d'hôtes peuvent être éligibles si
+le ménage quotidien et le linge sont fournis et inclus dans le prix.
+
+Ces avantages dépendent de la situation de l'entreprise (article 44 quindecies A du code général des impôts). Faites valider
+votre éligibilité par votre expert-comptable ou le service des impôts des entreprises avant de vous installer.
+
+Source : ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 (collectivites-locales.gouv.fr).
+
+
+11.6 Géomètres proches du terrain
+Le géomètre-expert est le seul professionnel habilité à fixer les limites de propriété (bornage) et à établir les
+documents d'arpentage déposés au cadastre. Il intervient aussi pour les relevés topographiques et les
+divisions de terrain.
+
+9,2 km            JEAN MROZIK
+                                                                                                                           Coordonnées
+                  BOULEVARD ALBERT CAMUS 40100 DAX
+
+
+9,3 km            JEAN MESPLEDE
+                                                                                                                           Coordonnées
+                  16 RUE DU MARECHAL JOFFRE 40990 SAINT-PAUL-LES-DAX
+
+
+9,3 km            FREDERIC BOUTGES
+                                                                                                                           Coordonnées
+                  16 RUE DU MARECHAL JOFFRE 40990 SAINT-PAUL-LES-DAX
+
+
+9,6 km            OLIVIER BONNET GEOMETRE EXPERT
+                                                                                                                           Coordonnées
+                  31 RUE JOSEPH DE LAURENS 40100 DAX
+
+
+9,7 km            GUILLAUME TUQUOI
+                                                                                                                           Coordonnées
+                  17 PLACE ROGER DUCOS 40100 DAX
+
+
+10 km             DUNE
+                                                                                                                           Coordonnées
+                  6 RUE DU 22 AOUT 1944 40990 SAINT-PAUL-LES-DAX
+
+
+Source : répertoire Sirene de l'INSEE (activité des géomètres), classé par distance au terrain. L'inscription d'un cabinet à l'Ordre
+des géomètres-experts se vérifie sur geometre-expert.fr. Le bouton « Coordonnées » ouvre la fiche du cabinet (téléphone,
+horaires, itinéraire). Cette liste est fournie à titre indicatif, sans partenariat ni recommandation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         37 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                            Hinx · D 346
+         TerrenUrbanisme
+                                                                                                           12 · État des risques (ERP) pré-rempli
+
+
+
+
+    12             État des risques (ERP) pré-rempli
+     DANS CETTE SECTION
+
+     Le formulaire réglementaire à remettre à l'acquéreur ou au locataire, pré-rempli à partir des
+     bases officielles : plans de prévention, sismicité, radon, sols pollués, trait de côte, bruit des
+     aérodromes.
+
+
+Articles L. 125-5 à L. 125-7 et R. 125-23 à R. 125-27 du Code de l'environnement · modèle fixé par l'arrêté du 27 septembre
+2022.
+
+
+     Formulaire pré-rempli à partir de Géorisques et du Géoportail de l'Urbanisme à la date du rapport.
+     Avant de le remettre à l'acquéreur ou au locataire, le vendeur ou le bailleur le vérifie, le complète
+     (sinistres indemnisés) et le signe ; il doit dater de moins de six mois à la signature de la promesse, du
+     bail ou de l'acte.
+
+
+
+
+12.1 Situation du bien
+Commune                                                  Hinx (40126)
+
+Département                                              Landes (40)
+
+Références cadastrales                                   Section D, parcelle n° 346 · 401260000D0346
+
+Surface cadastrale                                       13 424 m²
+
+
+
+12.2 Plans de prévention des risques
+  L'IMMEUBLE EST SITUÉ DANS LE PÉRIMÈTRE…                                         RÉPONSE                DÉTAIL
+
+  d'un plan de prévention des risques naturels (PPRN)                             Non                    Aléas à l'adresse : feu de forêt
+  prescrit, appliqué par anticipation ou approuvé
+
+  d'un plan de prévention des risques miniers (PPRM)                              Non                    Non recensé
+
+  d'un plan de prévention des risques technologiques                              Non                    Risques technologiques sur la commune
+  (PPRT)                                                                                                 : pollution des sols
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            38 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Hinx · D 346
+         TerrenUrbanisme
+                                                                                                           12 · État des risques (ERP) pré-rempli
+
+
+
+
+12.3 Autres zonages réglementaires
+  L'IMMEUBLE EST SITUÉ…                                                           RÉPONSE                DÉTAIL
+
+  dans une commune de sismicité (zones 2 à 5 : règles de                          Oui                    Zone 2 – faible
+  construction parasismique)
+
+  dans une commune à potentiel radon de niveau 3                                  Non                    Catégorie 1 (potentiel faible)
+
+  dans un secteur d'information sur les sols (SIS)                                Non                    Aucun SIS recensé à proximité
+
+  dans une zone exposée au recul du trait de côte                                 Non                    Non concerné selon Géorisques
+
+  dans une zone de bruit d'un plan d'exposition au bruit                          À vérifier             Aucun PEB annexé au document
+  d'aérodrome (PEB)                                                                                      d'urbanisme ; vérifier auprès de la mairie
+
+  dans une zone de retrait-gonflement des argiles                                 Oui                    Existant – faible
+  (information)
+
+
+
+
+12.4 Sinistres indemnisés et déclarations
+Arrêtés de catastrophe naturelle sur la commune : 6 (liste en section Risques). Le vendeur ou le bailleur
+déclare ci-dessous les sinistres ayant donné lieu à une indemnisation au titre des catastrophes naturelles ou
+technologiques pendant la période où il a été propriétaire.
+
+Sinistres indemnisés                                     [ ] Oui [ ] Non
+
+Vendeur ou bailleur                                      Nom : ____________________ Date : ___/___/______ Signature :
+
+Acquéreur ou locataire                                   Nom : ____________________ Date : ___/___/______ Signature :
+
+
+L'état des risques officiel peut aussi être édité sans frais sur Géorisques (errial.georisques.gouv.fr). Les informations
+ci-dessus sont établies à partir des bases nationales ; en cas de divergence, l'arrêté préfectoral relatif à l'information des
+acquéreurs et des locataires fait foi.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          39 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Hinx · D 346
+         TerrenUrbanisme
+                                                                                                                      13 · Avertissement et sources
+
+
+
+
+    13             Avertissement et sources
+     DANS CETTE SECTION
+
+     La portée de ce rapport et la liste des sources publiques consultées.
+
+
+
+13.1 Nature du document
+Ce rapport est un document d'information établi automatiquement, à la date indiquée en page de garde, à
+partir des données publiques officielles alors disponibles. Il n'a aucune valeur contractuelle, réglementaire ou
+juridique.
+
+
+13.2 Ce que ce rapport n'est pas
+Il ne constitue ni un certificat d'urbanisme au sens de l'article L. 410-1 du Code de l'urbanisme, ni une
+autorisation d'urbanisme (permis de construire, permis d'aménager, déclaration préalable), ni un état des
+risques au sens de l'article L. 125-5 du Code de l'environnement, ni un bornage, ni une expertise, ni une
+évaluation immobilière, ni une consultation juridique. Il n'engage en rien l'administration.
+
+
+13.3 Permis de construire
+Ce rapport ne peut en aucun cas être joint, produit ou invoqué à l'appui d'une demande de permis de
+construire, de permis d'aménager ou de déclaration préalable, ni opposé à la mairie ou à un service de l'État. Il
+ne garantit pas l'obtention d'une autorisation : seule l'autorité compétente se prononce, au vu d'un projet
+précis et de l'ensemble des règles applicables à la date de sa décision.
+
+
+13.4 Limites des données
+Les données sont produites par des organismes publics dont l'éditeur n'est ni l'auteur ni le garant. Elles
+peuvent être incomplètes, imprécises ou ne pas refléter une modification, une révision, une mise en
+compatibilité, une annulation contentieuse, un sursis à statuer ou une procédure en cours. Le plan cadastral,
+document fiscal, ne fait pas foi des limites de propriété. Surfaces, distances, altitudes et pentes sont
+approchées. Les extraits et analyses du règlement sont une aide à la lecture : seul le texte intégral du
+document d'urbanisme approuvé, consultable en mairie, fait foi.
+
+
+13.5 Avant toute décision
+Avant toute acquisition, cession, financement, promesse de vente ou dépôt d'une demande, le lecteur doit
+obtenir un certificat d'urbanisme opérationnel auprès de la mairie, consulter le document d'urbanisme en
+vigueur et recueillir l'avis d'un professionnel habilité (notaire, architecte, géomètre-expert, avocat). Pour un
+achat, il est recommandé de stipuler une condition suspensive d'obtention d'un permis de construire purgé de
+tout recours.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        40 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Hinx · D 346
+         TerrenUrbanisme
+                                                                                                                      13 · Avertissement et sources
+
+
+
+
+13.6 Responsabilité
+L'éditeur ne saurait être tenu responsable d'une décision prise sur le seul fondement de ce rapport, ni d'un
+refus d'autorisation, d'une erreur ou d'une omission des sources publiques, dans les limites prévues par les
+conditions générales de vente acceptées lors de la commande.
+
+
+13.7 Sources consultées
+  DONNÉE                                                    SOURCE
+
+  Cadastre                                                  DGFiP, plan cadastral informatisé, via API Carto (IGN)
+
+  Photographies et plans                                    IGN, Géoplateforme : orthophotographies, Plan IGN, parcellaire express
+
+  Urbanisme                                                 Géoportail de l'Urbanisme : zonage, prescriptions, informations, servitudes
+                                                            d'utilité publique
+
+  Littoral                                                  IGN, BD TOPO (limite terre-mer) ; communes littorales (Géoportail de
+                                                            l'Urbanisme)
+
+  Montagne                                                  Ministère de la Cohésion des territoires, communes de la loi Montagne
+
+  Risques                                                   Géorisques (ministère de la Transition écologique) : rapport de risques,
+                                                            arrêtés CatNat, sismicité, radon, ICPE, sites pollués
+
+  Environnement                                             Inventaire national du patrimoine naturel (PatriNat), via API Carto
+
+  Altitude, pente et exposition                             IGN, RGE ALTI
+
+  Ensoleillement                                            Calcul astronomique de la course du soleil ; masque du relief (IGN, RGE
+                                                            ALTI) et des bâtiments (IGN, BD TOPO)
+
+  Voirie et accès                                           IGN, BD TOPO (tronçons de route)
+
+  Permis de construire                                      Sitadel, service des données et études statistiques (SDES) du ministère
+                                                            chargé du logement
+
+  Photographies anciennes                                   IGN, BD ORTHO historique
+
+  Fibre et internet                                         Arcep, Ma connexion internet (éligibilité par adresse)
+
+  Géomètres                                                 Répertoire Sirene (INSEE), activité des géomètres
+
+  Propriétaires personnes morales                           DGFiP, fichiers des parcelles des personnes morales (diffusion Koumoul)
+
+  Diagnostics énergétiques                                  ADEME, base des DPE des logements existants
+
+  Procédures collectives                                    Bodacc, annonces commerciales (DILA)
+
+  Bâtiments                                                 IGN, BD TOPO
+
+  Réseau électrique                                         Agence ORE (gestionnaires de réseaux de distribution : Enedis, EDF Corse
+                                                            et entreprises locales) : réseau basse tension et postes de distribution
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        41 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Hinx · D 346
+         TerrenUrbanisme
+                                                                                                                      13 · Avertissement et sources
+
+
+
+
+  DONNÉE                                                    SOURCE
+
+  Taxe d'aménagement                                        DGFiP, éléments de taxation votés par les collectivités ; valeurs forfaitaires
+                                                            fixées par arrêté
+
+  Rapport officiel de risques                               Géorisques, ministère chargé de l'environnement
+
+  Zone France Ruralités Revitalisation                      ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 ; article
+                                                            44 quindecies A du code général des impôts
+
+  Marché immobilier                                         Statistiques des demandes de valeurs foncières (DVF) par commune, DGFiP
+                                                            et Etalab
+
+  Date d'extraction                                         20/11/2026
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        42 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Hinx · D 346
+         TerrenUrbanisme
+                                                                                                                     Annexe · règlement de la zone
+
+
+
+
+ANNEXE
+
+
+Règlement écrit · zone A
+Les pages suivantes reproduisent le chapitre du règlement officiel applicable à la zone de la parcelle
+(pages 183 à 196 du document approuvé), tel que publié sur le Géoportail de l'Urbanisme. Il s'agit d'une
+reproduction à titre d'information : seule la version approuvée tenue à disposition en mairie fait foi, avec
+ses annexes, plans et éventuelles modifications ultérieures.
+Règlement complet :
+https://data.geopf.fr/annexes/gpu/documents/DU_200069631_A/a8d1c51aa86fac4a03522bbb7285e6d5/200069631_reglement_
+20260617_A.pdf
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        43 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                COMMUNAUTE DE COMMUNES TERRES DE CHALOSSE
+                                     PLUI DU SECTEUR DE MONTFORT-EN-CHALOSSE
+                                                                          PIECE 4 : REGLEMENT
+
+
+
+
+                                     ZONES A
+
+
+
+
+                                   ZONES A
+
+Les zones A concernent les secteurs agricoles, équipés ou non, à protéger en raison du potentiel
+agronomique, biologique ou économique des terres agricoles. Les zones Ap caractérisent les
+zones agricoles à forte sensibilité paysagère.
+
+
+
+
+      / 4 36 1004 / JUILLET 2021                                                            177
+                                    COMMUNAUTE DE COMMUNES TERRES DE CHALOSSE
+                             PLUI DU SECTEUR DE MONTFORT-EN-CHALOSSE
+                                                          PIECE 4 : REGLEMENT
+
+
+
+
+                             ZONES A
+
+
+
+
+/ 4 36 1004 / JUILLET 2021                                               178
+                                                           COMMUNAUTE DE COMMUNES TERRES DE CHALOSSE
+                                              PLUI DU SECTEUR DE MONTFORT-EN-CHALOSSE
+                                                                                       PIECE 4 : REGLEMENT
+
+
+
+
+                                              ZONES A
+
+
+              SECTION 1   DESTINATION DES CONSTRUCTIONS,
+                   USAGES DES SOLS ET NATURES D'ACTIVITE
+
+
+ARTICLE 1-1 : INTERDICTION ET LIMITATION DE CERTAINS USAGES ET AFFECTATIONS
+              DES SOLS, CONSTRUCTIONS ET ACTIVITES
+            Sont interdites :
+                 Toute construction ou usage ou affectation des sols qui n’est pas autorisé dans le
+                  paragraphe « Limitation de certains usages et affectations des sols, constructions et
+                  activités »,
+                 L’implantation de constructions à moins de 10 mètres des cours d’eau depuis le haut de
+                  talus de la berge afin de permettre l’entretien des berges et limiter les risques liés à
+                  l’érosion.
+
+
+            En zone A, limitation de certains usages et affectations des sols, constructions et
+            activités :
+            Sous réserve de dessertes et réseaux suffisants et d’une compatibilité avec l'exercice d'une
+            activité agricole, pastorale ou forestière dans le terrain d’assiette du projet où elles sont
+            implantées et sous réserve qu'elles ne portent pas atteinte à la sauvegarde des espaces
+            naturels et des paysages, sont autorisées les affectations des sols, les constructions et
+            activités suivantes :
+                 Les constructions et installations nécessaires à l’exploitation agricole,
+                 Les constructions et installations nécessaires à la transformation, au conditionnement et
+                  à la commercialisation des produits agricoles, lorsque ces activités constituent le
+                  prolongement de l'acte de production,
+                 Les constructions et installations nécessaires à l'exploitation agricole ou au stockage et
+                  à l'entretien de matériel agricole par les coopératives d'utilisation de matériel agricole
+                  agréées au titre de l'article L. 525-1 du code rural et de la pêche maritime,
+                 Les constructions, ouvrages et installations techniques nécessaires au fonctionnement
+                  des services et réseaux publics,
+                 L’adaptation et la réfection des constructions existantes à la date d’approbation du
+                  PLUi,
+                 L’extension des bâtiments d’habitation existants limitée à 30% d’emprise au sol
+                  supplémentaire par rapport à l’emprise au sol existante à la date d’approbation du PLUi.
+                  Cette limitation peut être portée à 50% maximum pour les habitations d’une emprise au
+                  sol existante inférieure à 100 m².
+                  Cette possibilité d’extension n’est offerte qu’une fois tous les 10 ans, à compter de la
+                  date d’approbation du PLUi.
+
+
+
+
+             / 4 36 1004 / JUILLET 2021                                                                 179
+                                              COMMUNAUTE DE COMMUNES TERRES DE CHALOSSE
+                                 PLUI DU SECTEUR DE MONTFORT-EN-CHALOSSE
+                                                                         PIECE 4 : REGLEMENT
+
+
+
+
+                                 ZONES A
+    Les annexes aux bâtiments d’habitation sont autorisées dans la limite de 40 m²
+     supplémentaire d’emprise au sol et d’une hauteur maximale de 3,5 m à la sablière ou à
+     l’acrotère. Cette contrainte ne s’applique pas aux piscines. Les annexes et piscines
+     seront implantées à une distance inférieure à 30 mètres par rapport au bâtiment
+     principal d’habitation.
+     La fréquence de réalisation des annexes (hors piscines) sera limitée à 40 m2 tous les
+     10 ans à compter de la date d’approbation du PLUi.
+
+
+En zone Ap, limitation de certains usages et affectations des sols, constructions et
+activités :
+Sous réserve de dessertes et réseaux suffisants et d’une compatibilité avec l'exercice d'une
+activité agricole, pastorale ou forestière dans l'unité foncière où elles sont implantées et sous
+réserve qu'elles ne portent pas atteinte à la sauvegarde des espaces naturels et des
+paysages, sont autorisées les affectations des sols, constructions et activités suivantes :
+    Les constructions, ouvrages et installations techniques nécessaires au fonctionnement
+     des services et réseaux publics,
+    La reconstruction à l’identique après sinistre. Conformément à l’article L.111-15 du code
+     de l’urbanisme, la reconstruction à l'identique d'un bâtiment détruit ou démoli est
+     autorisée dès lors qu'il a été régulièrement édifié.
+     Sous réserve des dispositions de l'article L 111-23 du même code, la restauration d'un
+     bâtiment dont il reste l'essentiel des murs porteurs est également autorisée lorsque son
+     intérêt architectural ou patrimonial en justifie le maintien et sous réserve de respecter
+     les principales caractéristiques de ce bâtiment,
+    L’extension des constructions à destination agricole limitée à 30% de l’emprise au sol
+     existante à la date d’approbation du PLUi,
+    L’extension des constructions et installations nécessaires à la transformation, au
+     conditionnement et à la commercialisation des produits agricoles, lorsque ces activités
+     constituent le prolongement de l'acte de production et dans la limite de 30% de
+     l’emprise au sol existante à la date d’approbation du PLUi.
+
+
+En zones A et Ap, limitation de certains usages et affectations des sols, constructions
+et activités :
+Les constructions identifiées sur le document graphique au titre de l’article L.151-11, 2° du
+code de l’urbanisme peuvent faire l'objet d'un changement de destination, dès lors que ce
+changement de destination ne compromet pas l'activité agricole ou la qualité paysagère du
+site. Le changement de destination est soumis à l'avis conforme de la commission
+départementale de la préservation des espaces agricoles, naturels et forestiers prévue à
+l'article L. 112-1-1 du code rural et de la pêche maritime.
+
+Dans le secteur concerné par le risque inondation identifié par une trame hachurée bleue au
+document graphique :
+    Les occupations et utilisations du sol sont soumises aux conditions particulières figurant
+     dans le PPRi lorsqu’il existe,
+    En l’absence règlement de PPRi, les occupations et utilisations du sol autorisées sont
+     admises à condition que le plancher bas soit à 0,5 mètre au moins au-dessus de la côte
+     de référence (sauf impossibilité fonctionnelle dûment justifiée et présence d’un niveau
+     refuge adapté). Si la cote PHEC (Plus Hautes Eaux Connues) n’est pas connue, il
+     conviendra de situer le premier plancher à 0,5 m au-dessus du terrain naturel.
+
+
+
+
+/ 4 36 1004 / JUILLET 2021                                                                   180
+                                            COMMUNAUTE DE COMMUNES TERRES DE CHALOSSE
+                                PLUI DU SECTEUR DE MONTFORT-EN-CHALOSSE
+                                                                      PIECE 4 : REGLEMENT
+
+
+
+
+                               ZONES A
+Dans la zone de danger liée aux canalisations de transport de matières dangereuses
+identifiée par une trame grisée au document graphique, les occupations et utilisations des
+sols devront être compatibles avec l’Arrêté du 5 mars 2014 définissant les modalités
+d'application du chapitre V du titre V du livre V du code de l'environnement et portant
+règlement de la sécurité des canalisations de transport de gaz naturel ou assimilé. Ces
+conditions portent sur l’affectation des sols (notamment habitations, établissements recevant
+du public, …), règles d’implantation, hauteur et densité d’occupation.
+Conformément à l’article R.111-4 du code de l’urbanisme, dans les périmètres de sites
+archéologiques identifiés sur le document graphique, le projet peut être refusé ou n'être
+accepté que sous réserve de l'observation de prescriptions spéciales s'il est de nature, par
+sa localisation et ses caractéristiques, à compromettre la conservation ou la mise en valeur
+d’un site ou de vestiges archéologiques.
+
+
+
+
+/ 4 36 1004 / JUILLET 2021                                                               181
+                                                       COMMUNAUTE DE COMMUNES TERRES DE CHALOSSE
+                                           PLUI DU SECTEUR DE MONTFORT-EN-CHALOSSE
+                                                                                  PIECE 4 : REGLEMENT
+
+
+
+
+                                           ZONES A
+
+
+
+                    SECTION 2   CARACTERISTIQUES URBAINE,
+                       ARCHITECTURALE, ENVIRONNEMENTALE
+                                 ET PAYSAGERE
+            Le projet peut être refusé où n'être accepté que sous réserve de l'observation de
+            prescriptions spéciales si les constructions, par leur situation, leur architecture, leurs
+            dimensions ou l'aspect extérieur des bâtiments ou ouvrages à édifier ou à modifier, sont de
+            nature à porter atteinte au caractère ou à l'intérêt des lieux avoisinants, aux sites, aux
+            paysages naturels ou urbains ainsi qu'à la conservation des perspectives monumentales.
+
+
+
+ARTICLE 2-1 : VOLUMETRIE ET IMPLANTATION DES CONSTRUCTIONS
+             EMPRISE AU SOL DES CONSTRUCTIONS
+            Non réglementé.
+
+
+
+             HAUTEUR MAXIMALE DES CONSTRUCTIONS
+            Constructions à destination d’habitation
+            La hauteur des constructions à destination d’habitation, mesurée tel que mentionné dans
+            l’alinéa ci-dessus, ne doit pas excéder 10 mètres au faitage.
+            La hauteur des constructions d’annexes à une habitation ne peut excéder une hauteur
+            maximum de 4 mètres au faitage ou à 3 m à l’acrotère.
+            Toutefois, une hauteur différente peut être accordée en cas de réhabilitation, de rénovation
+            ou d’extension d’une construction d’habitation existante à la date d’approbation du PLU. La
+            hauteur maximale autorisée étant celle de la construction existante avant travaux.
+
+
+            Constructions et installations nécessaires à la transformation, au conditionnement et
+            à la commercialisation des produits agricoles
+            La hauteur des constructions, mesurée tel que mentionné dans l’alinéa ci-dessus, ne doit
+            pas excéder 10 mètres au faitage.
+
+
+            Constructions et installations nécessaires à l’activité agricole
+            La hauteur maximale des bâtiments agricoles ne doit pas excéder 12 mètres.
+            Toutefois, une hauteur différente peut être accordée en cas de réhabilitation, de rénovation
+            ou d’extension d’une construction d’habitation existante à la date d’approbation du PLU. La
+            hauteur maximale autorisée étant celle de la construction existante avant travaux.
+
+
+
+
+            / 4 36 1004 / JUILLET 2021                                                              182
+                                             COMMUNAUTE DE COMMUNES TERRES DE CHALOSSE
+                                  PLUI DU SECTEUR DE MONTFORT-EN-CHALOSSE
+                                                                       PIECE 4 : REGLEMENT
+
+
+
+
+                                  ZONES A
+ IMPLANTATION DES CONSTRUCTIONS PAR RAPPORT AUX VOIES ET EMPRISES PUBLIQUES
+Les constructions doivent être implantées à une distance minimale de 5 mètres par rapport
+aux limites d’emprise des voies et emprises publiques.
+En dehors des zones agglomérées et en fonction de la catégorie de la route départementale,
+le recul minimum par rapport aux RD doit correspondre aux dispositions du tableau suivant :
+
+
+
+
+            Catégorie de la route départementale        Recul minimum imposé par
+                             (RD)                        rapport à l’axe de la voie
+                               2ème
+                                                                    35 m
+                       RD10, RD32, RD15
+                               3ème
+                                                                    25 m
+                             RD7, RD2
+                               4ème
+            RD110, RD341, RD368, RD411, RD58,                       15 m
+            RD76, RD107, RD405, RD420, RD339,
+           RD107E, RD415, RD391, RD324, RD424
+
+
+
+Toutefois, des implantations autres que celles définies ci-dessus sont possibles :
+    Pour les extensions et aménagements des constructions existantes qui pourront être
+     réalisées dans le prolongement de la construction existante avec un recul au moins
+     égal à cette dernière,
+    Pour les annexes d’une hauteur inférieure à 3,5 m à la sablière ou à l’acrotère dans le
+     cas d’une toiture terrasse,
+    Pour l’implantation des ouvrages techniques nécessaires au fonctionnement des
+     services publics.
+
+
+
+
+/ 4 36 1004 / JUILLET 2021                                                              183
+                                                        COMMUNAUTE DE COMMUNES TERRES DE CHALOSSE
+                                           PLUI DU SECTEUR DE MONTFORT-EN-CHALOSSE
+                                                                                   PIECE 4 : REGLEMENT
+
+
+
+
+                                           ZONES A
+            IMPLANTATION DES CONSTRUCTIONS PAR RAPPORT AUX LIMITES SEPARATIVES
+           Les constructions doivent s’implanter à une distance minimale de 5 mètres des limites
+           séparatives.
+
+           Toutefois, des implantations autres que celles définies ci-dessus sont possibles :
+               Pour les extensions et aménagements des constructions existantes qui pourront être
+                réalisées dans le prolongement de la construction existante avec un recul au moins
+                égal à cette dernière,
+               Pour les annexes d’une hauteur inférieure à 3,5 m à la sablière ou à l’acrotère dans le
+                cas d’une toiture terrasse,
+               Pour l’implantation des ouvrages techniques nécessaires au fonctionnement des
+                services publics.
+
+
+
+ARTICLE 2-2 : QUALITE URBAINE, ARCHITECTURALE, ENVIRONNEMENTALE ET
+              PAYSAGERE
+            ASPECT EXTERIEUR, FAÇADES ET TOITURE DES CONSTRUCTIONS
+           DISPOSITIONS POUR :
+               Les constructions à destination autres que celles à destination agricole,
+               Les constructions, ouvrages et installations techniques nécessaires au fonctionnement
+                des services et réseaux publics.
+
+
+
+           VOLUMETRIE
+
+           Les constructions présenteront des volumes simples.
+
+
+
+           FAÇADES
+
+           L’emploi à nu des matériaux destinés à être enduits est interdit.
+
+           Les enduits seront de type enduits à la chaux ou enduit de substitution d'aspect équivalent.
+
+           La couleur des façades sera de teinte claire et chaude, neutre (par exemple : blanc, beige
+           léger, sable, gris) ou légèrement colorée (ocre jaune, brique) sans être vive.
+
+           Dans le cas d'une réfection partielle de façade, les travaux devront reprendre le même
+           coloris et la même finition que l'enduit conservé.
+
+           Les façades en bardages bois seront soit peintes comme les façades enduites (teinte claire
+           et chaude, neutre), soit de teinte naturelle, soit lasurées brun foncé ou gris foncé.
+
+
+
+
+           / 4 36 1004 / JUILLET 2021                                                                184
+                                             COMMUNAUTE DE COMMUNES TERRES DE CHALOSSE
+                                  PLUI DU SECTEUR DE MONTFORT-EN-CHALOSSE
+                                                                        PIECE 4 : REGLEMENT
+
+
+
+
+                                  ZONES A
+MENUISERIES ET OUVERTURES
+
+Les volets et menuiseries extérieures respecteront les teintes suivantes :
+    Châssis : blanc, gris, beige, brun,
+    Volets, avants-toits, colombages, ossatures : blanc, gris, beige, bleu, gris coloré, vert,
+     brun, marron, rouge brique ou bordeaux, ou dans les teintes naturelles du bois.
+
+
+
+COUVERTURES
+
+Les toitures des constructions principales sont à deux, trois ou quatre pans. La pente de
+toiture sera comprise entre 30 et 45 %.
+
+Les toitures terrasses, les toitures à un pan et les pentes inférieures à 30% ne seront
+autorisées que pour réaliser:
+    Des éléments de liaison, entre bâtiments principaux eux-mêmes couverts en couverture
+     de type tuile canal ou assimilés,
+    Les volumes secondaires à la construction principale (garage, véranda, appentis, …),
+    Les annexes.
+
+Les matériaux de couverture (hors toits terrasses) seront en tuile creuse (canal) ou la tuile
+mécanique (dite de Marseille ou romane, océane, méridionale, etc.) pour des pentes plus
+importantes, ou assimilées dans la forme, de teinte rouge ou de plusieurs tonalités proches,
+à dominante rouge.
+
+Les toitures pourront être restaurées en respectant l’architecture, les formes et les pentes
+d’origine.
+
+
+
+ CLOTURES
+Divers types de clôtures peuvent être autorisées en fonction de l’aspect du quartier et des
+types de clôture dominants :
+    Murs pleins,
+    Clôtures végétales, éventuellement en doublage d’une grille, d’un grillage,
+    Murs bahuts surmontés d’une grille ou doublés d’un rideau végétal,
+    Clôtures claire-voie.
+
+Les palissades sont interdites.
+
+Les clôtures végétales seront constituées d’espèces végétales adaptées, notamment afin
+d’exclure les espèces dites exotiques (liste présente en annexe).
+
+Les haies végétales seront constituées d’un mélange d’espèces.
+
+
+
+
+/ 4 36 1004 / JUILLET 2021                                                                 185
+                                             COMMUNAUTE DE COMMUNES TERRES DE CHALOSSE
+                                  PLUI DU SECTEUR DE MONTFORT-EN-CHALOSSE
+                                                                        PIECE 4 : REGLEMENT
+
+
+
+
+                                  ZONES A
+Clôtures en limites séparatives
+
+La hauteur de la clôture ne peut excéder :
+    0.60 mètre pour les murs de clôtures (soubassement),
+    1.80 mètre pour les autres types de clôtures.
+
+
+Clôtures sur l’espace public
+
+La hauteur de la clôture ne peut excéder :
+    0.60 mètre pour les murs de clôtures (soubassement),
+    1.80 mètre pour les autres types de clôtures.
+
+L’emploi à nu des matériaux destinés à être enduits, est interdit.
+
+
+
+DISPOSITIONS POUR LES CONSTRUCTIONS A DESTINATION AGRICOLE
+
+Les constructions doivent présenter un aspect compatible avec le caractère ou l’intérêt des
+lieux avoisinants, des sites, des paysages.
+
+L’entretien, la restauration et la modification des constructions anciennes ne doivent pas être
+susceptibles de dénaturer l’aspect de l’ensemble existant et doivent tenir compte de la
+composition des volumes bâtis, de l’organisation des baies dans les façades, de la
+disposition des toitures et des matériaux de construction apparents.
+
+
+
+FAÇADES ET MENUISERIES
+
+L’usage à nu de tous matériaux destinés à être enduits, tels que briques creuses, parpaings
+de ciment, carreaux de plâtre, panneaux agglomérés, est interdit.
+
+
+
+TOITURES
+
+Les toitures sont à deux pans, par unité de volume, ou éventuellement avec croupe. Une
+dissymétrie de la toiture est acceptée : dans ce cas, la plus petite pente de toit L2 aura une
+longueur supérieure au tiers de la plus grande longueur L1 :
+
+
+
+
+/ 4 36 1004 / JUILLET 2021                                                                 186
+                                             COMMUNAUTE DE COMMUNES TERRES DE CHALOSSE
+                                 PLUI DU SECTEUR DE MONTFORT-EN-CHALOSSE
+                                                                         PIECE 4 : REGLEMENT
+
+
+
+
+                                ZONES A
+                                           L2>L1/3
+
+
+
+
+                                                        L2
+                                     L1
+
+
+
+
+ OUVRAGES TECHNIQUES APPARENTS
+Les citernes à gaz liquéfié ou à mazout, ainsi que les installations similaires seront
+implantées de telle manière qu’elles ne soient pas visibles de la voie publique.
+
+La pose des antennes paraboliques, les appareils de climatisation et des extracteurs en
+façade, sur balcon, en appui de fenêtre sont interdits. L’installation pourra être refusée en
+toiture si par sa situation et son aspect elle porte atteinte à l’environnement ou à l’aspect
+architectural de l’immeuble.
+
+
+
+ DISPOSITION POUR LES EDIFICES ET ENSEMBLES D’INTERET PATRIMONIAL IDENTIFIE ET
+   FIGURANT AU PLAN DE ZONAGE AU TITRE DE L’ARTICLE L.151-19 DU CODE DE L’URBANISME
+
+Pour les constructions repérées au titre de l’article L.151-19 sur le document graphique du
+règlement, l'entretien, la restauration et la modification des constructions doivent faire appel
+aux techniques anciennes ou aux matériaux de substitution d'origine naturelle destinés à
+maintenir l'aspect et l'unité architecturale d'ensemble.
+
+
+
+ OBLIGATIONS   IMPOSEES        EN    MATIERE     DE    PERFORMANCES       ENERGETIQUES      ET
+   ENVIRONNEMENTALES
+
+L’installation de dispositifs de production d’énergie renouvelable pour l’approvisionnement
+énergétique des constructions (chaudière bois, eau chaude sanitaire solaire, pompes à
+chaleur, photovoltaïque, géothermie…) est recommandée.
+Les équipements basés sur l’usage d’énergies alternatives, qu’elles soient géothermiques
+ou aérothermiques, tels que climatiseurs et pompes à chaleur, seront, sauf justification
+technique, non visibles depuis le domaine public. Ils pourront faire l’objet d’une insertion
+paysagère ou être intégrés à la composition architecturale.
+
+
+
+
+/ 4 36 1004 / JUILLET 2021                                                                  187
+                                                       COMMUNAUTE DE COMMUNES TERRES DE CHALOSSE
+                                               PLUI DU SECTEUR DE MONTFORT-EN-CHALOSSE
+                                                                                    PIECE 4 : REGLEMENT
+
+
+
+
+                                               ZONES A
+
+ARTICLE 2-3 : TRAITEMENT ENVIRONNEMENTAL ET PAYSAGER DES ESPACES NON
+              BATIS ET ABORDS DES CONSTRUCTIONS
+            OBLIGATIONS IMPOSEES EN MATIERE DE SURFACES NON IMPERMEABILISEES OU ECO-
+                AMENAGEABLES
+
+           Non réglementé.
+
+
+
+            OBLIGATIONS IMPOSEES EN MATIERE DE REALISATION D’ESPACES LIBRES, DE PLANTATIONS,
+                D’AIRE DE JEUX ET DE LOISIRS
+
+           Les éléments de paysage identifiés au titre de l’article L151-23 du Code de l’Urbanisme
+           doivent être conservés.
+           De façon dérogatoire, un remplacement ponctuel peut être autorisé au regard de l’état
+           sanitaire des arbres identifiés ; dans ce cas, il sera remplacé par un plant d’essence locale.
+           De façon dérogatoire, une destruction ponctuelle peut-être autorisée :
+                Pour des critères de sécurité,
+                Ou dans le cas d’un élargissement de voirie, de création d’un accès ou de passage de
+                 réseaux.
+           Dans ces deux cas, cette destruction doit être la plus limitée possible dans son ampleur et le
+           projet doit être étudié pour prendre en compte les enjeux patrimoniaux et paysagers du site.
+
+
+
+ ARTICLE 4 : STATIONNEMENT
+           Le stationnement des véhicules des occupants et usagers des constructions doit être assuré
+           en dehors des voies publiques, sur le terrain propre de l’opération et correspondre aux
+           besoins nouveaux de la construction.
+
+
+
+
+           / 4 36 1004 / JUILLET 2021                                                                188
+                                                          COMMUNAUTE DE COMMUNES TERRES DE CHALOSSE
+                                             PLUI DU SECTEUR DE MONTFORT-EN-CHALOSSE
+                                                                                     PIECE 4 : REGLEMENT
+
+
+
+
+                                             ZONES A
+
+
+                         SECTION 3               EQUIPEMENTS ET RESEAUX
+
+
+ARTICLE 3-1 : DESSERTE PAR LES VOIES PUBLIQUES OU PRIVEES
+             Les terrains doivent être desservis par des voies publiques ou privées dans des conditions
+             répondant à l’importance ou la destination des constructions ou aménagements envisagés.
+             Les caractéristiques des accès et voiries doivent permettre la circulation ou l’utilisation des
+             engins de secours et de lutte contre l’incendie et la collecte des ordures ménagères.
+             En fonction de la nature de la voie et de la situation des accès, les règles du tableau suivant
+             s’appliqueront :
+
+
+                  Catégorie de la route              Accès situé en                 Accès situé hors
+                    départementale                   agglomération                   agglomération
+
+
+                           2ème
+                                                                        Les accès individuels directs
+                  RD10, RD32, RD15       Possibles sous réserve des      à une nouvelle construction
+                                           conditions de sécurité à     sont interdits, sauf dérogation
+                                            appréhender selon les              du Département
+                       3ème
+                                       critères suivants : intensité du
+                     RD7, RD2           trafic, position, configuration
+                        ème
+                                             et nature de l’accès.
+                       4               Par ailleurs, leur nombre sera Accès individuels autorisés
+                                          limité à un seul par unité     sous réserve des conditions
+               RD110, RD341, RD368,
+                                                  parcellaire                     de sécurité
+             RD411, RD58, RD76, RD107,
+               RD405, RD420, RD339,                                      Un regroupement des accès
+              RD107E, RD415, RD391,                                        sera systématiquement
+                  RD324, RD424                                                    recherché
+
+
+
+ARTICLE 3-2 : DESSERTE PAR LES RESEAUX
+             L'ensemble des dessertes par les réseaux doit être conforme aux législations,
+             réglementations et prescriptions en vigueur et doit être adapté à la nature et à l'importance
+             des occupations et utilisations du sol. Les réseaux non souterrains (de type canalisation
+             aérienne) doivent respecter le caractère des lieux et des constructions principales ou
+             avoisinantes, notamment en termes de couleur et d’aspect.
+
+
+
+             2.1 EAU POTABLE
+             Toute construction ou installation qui le nécessite devra être raccordée au réseau public de
+             distribution d’eau potable.
+
+
+
+
+             / 4 36 1004 / JUILLET 2021                                                                 189
+                                                 COMMUNAUTE DE COMMUNES TERRES DE CHALOSSE
+                                     PLUI DU SECTEUR DE MONTFORT-EN-CHALOSSE
+                                                                              PIECE 4 : REGLEMENT
+
+
+
+
+                                     ZONES A
+2.2 EAUX USEES
+En l’absence d’assainissement collectif, les constructions ou installations nouvelles doivent
+être dotées d’un assainissement autonome conforme aux dispositions règlementaires.
+
+
+
+2.3 EAUX PLUVIALES
+Sur l’ensemble de la zone, le débit de fuite maximal à l’aval de l’aménagement pouvant être
+rejeté dans le milieu hydraulique superficiel ou dans le réseau communal est fixé à :
+                             3 litres par seconde et par hectare (3 l/s/ha)
+
+La gestion des eaux pluviales devra se faire, prioritairement à la parcelle, au travers d’une
+approche globale privilégiant l’infiltration, lorsque localement la nature du sol et du sous-sol
+le permet.
+
+Dans le cas d’opérations groupées (lotissement, permis groupés, ZAC, PAE, PVR, AFU, …)
+et lorsque les filières d’infiltration ne peuvent être envisagées, la gestion des eaux pluviales
+des espaces publics et privés sera traitée de manière collective par des ouvrages à la
+charge de l’aménageur.
+
+Le raccordement devra être autorisé par le gestionnaire de l’exutoire.
+
+Les ouvrages de gestion des eaux pluviales seront établis sur la base des techniques
+alternatives de gestion (noues, fossés, tranchées drainantes, puits d’infiltration, mares et
+bassins, chaussées à structure réservoir, structures poreuses, etc.).
+
+Dans les zones d’habitat éparse et zones urbaines à très faible développement, des
+volumes de rétention sont imposés à toutes les opérations nouvelles ou extensions dont la
+surface imperméabilisée est supérieure ou égale à 250 m², voiries et parking compris et
+selon une période de retour de 10 ans.
+
+Dans les zones urbaines et à urbaniser, des volumes de rétention sont imposés à toutes les
+opérations nouvelles ou extensions dont la surface imperméabilisée est supérieure ou égale
+à 50 m², voiries et parking compris et selon une période de retour de 20 ans.
+
+Lorsqu’une (des) parcelles(s) à bâtir est (sont) déjà desservie(s) par un dispositif individuel
+ou collectif de rétention, seule l’augmentation de la surface imperméabilisée par rapport à
+l’état d’origine sert au calcul du volume de rétention, sans rattrapage de la solution pré-
+existante.
+
+
+
+2.4 AUTRES RESEAUX
+Sauf impossibilités techniques, les réseaux de télécommunication et de distribution d'énergie
+seront installés en souterrain.
+
+
+
+
+/ 4 36 1004 / JUILLET 2021                                                                   190
+                    TerrenUrbanisme
+
+    Merci de votre confiance
+Ce rapport a été établi à partir des sources publiques officielles pour vous
+  aider à décider en connaissance de cause. Pour toute question, nous
+                        restons à votre disposition.
+
+
+
+
+   Vous êtes professionnel ? Travaillons ensemble
+      Agents immobiliers, notaires, architectes, géomètres, diagnostiqueurs,
+promoteurs, mairies : faisons équipe. Crédits professionnels sans abonnement, 5
+€ le rapport dès 50 crédits, votre logo sur les rapports, offre communale pour les
+                       mairies et partenariats sur mesure.
+
+               Écrivez-nous : contact@terrenurbanisme.com
+
+
+
+
+                        terrenurbanisme.com
+                         contact@terrenurbanisme.com
+

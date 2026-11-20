@@ -1,0 +1,48 @@
+règlement lecture directe IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"prompt is too long: 1120112 tokens > 1000000 maximum"},"request_id":"req_011ChEX3XSzQgHXwa42rRpj9"}
+règlement plages lecture par plages 500 lecture par plages impossible (HTTP 200)
+règlement trop volumineux règlement trop long 74aac303ec808fb2fb0ea9c227f/200067999_reglement_20260917.pdf
+règlement GitHub : lecture lancée UBp2 DU_200067999/7621574aac303ec808fb2fb0ea9c227f/200067999_reglement_20260917.pdf
+règlement lecture directe IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"prompt is too long: 1120112 tokens > 1000000 maximum"},"request_id":"req_011ChEX4dqyvJVQA1jwqP8Re"}
+règlement trop volumineux règlement trop long /pieces_ecrites/3_Reglement/200067999_reglement_20260917.pdf
+règlement GitHub : lecture lancée UBp2 pieces_ecrites/3_Reglement/200067999_reglement_20260917.pdf
+règlement GitHub : lecture lancée Ntvb DU_200027183/167b224efb12cfe46434c0d86a79b669/200027183_reglement_20260224.pdf
+règlement lecture directe IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"The file exceeds the maximum allowed size."},"request_id":"req_011ChEXAaS2RYdnZbgU1Lcyz"}
+règlement plages lecture par plages 500 lecture par plages impossible (HTTP 200)
+règlement trop volumineux fichier > 32 Mo 5a1a95f566bc362ed95252f74a1/200030385_reglement_20260630.pdf
+règlement GitHub : lecture lancée Ui2 DU_200030385/fa3b65a1a95f566bc362ed95252f74a1/200030385_reglement_20260630.pdf
+règlement lecture directe IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"The file exceeds the maximum allowed size."},"request_id":"req_011ChEXCGJfkDYS9Vrj1aALP"}
+règlement plages lecture par plages 500 lecture par plages impossible (HTTP 200)
+règlement trop volumineux fichier > 32 Mo 5a1a95f566bc362ed95252f74a1/200030385_reglement_20260630.pdf
+règlement GitHub : lecture lancée N DU_200030385/fa3b65a1a95f566bc362ed95252f74a1/200030385_reglement_20260630.pdf
+règlement lecture directe IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"The file exceeds the maximum allowed size."},"request_id":"req_011ChEXDhN5R6e9hj2oyjAKM"}
+règlement plages lecture par plages 500 lecture par plages impossible (HTTP 200)
+règlement trop volumineux fichier > 32 Mo 2135724b64f7d3198c60884ab/200035459_reglement_20260430_A.pdf
+règlement GitHub : lecture lancée UB DU_200035459_A/6673b882135724b64f7d3198c60884ab/200035459_reglement_20260430_A.pdf
+règlement lecture directe IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"prompt is too long: 1441003 tokens > 1000000 maximum"},"request_id":"req_011ChEXb171DtKESuysUaZqA"}
+règlement plages lecture par plages 500 lecture par plages impossible (HTTP 200)
+règlement trop volumineux règlement trop long 739df91562887f9e4623801ace5/200057990_reglement_20250630.pdf
+règlement GitHub : lecture lancée UR5h2 DU_200057990/35b89739df91562887f9e4623801ace5/200057990_reglement_20250630.pdf
+règlement lecture directe IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"messages.0.content.0.image.source.base64.data: The file format is invalid or unsupported"},"request_id":"req_011ChEXexkEs6wDpg
+règlement source e7f5da48a16e8ddc59668dd2e07eb67/2A198_reglement_20210329.pdf IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"messages.0.content.0.image.source.base64.data: The file format is inva
+règlement GitHub : lecture lancée UA DU_244900015/7640aa29d4f032e8b31b96b910e96c91/244900015_reglement_20251117.pdf
+règlement lecture directe IA (relais) 500 IA : réponse tronquée
+règlement source 802109b8e104f06f087e71fe4bf/200066371_reglement_20250707.pdf IA (relais) 500 IA : réponse tronquée
+règlement lecture directe IA (relais) 500 The signal has been aborted
+règlement source 802109b8e104f06f087e71fe4bf/200066371_reglement_20250707.pdf IA (relais) 500 The signal has been aborted
+règlement lecture directe IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"prompt is too long: 1320152 tokens > 1000000 maximum"},"request_id":"req_011ChEYJoxwvBeSKBjA1Ys62"}
+règlement plages lecture par plages 500 lecture par plages impossible (HTTP 200)
+règlement trop volumineux règlement trop long ac1aa1d3cc718bf7ed2512196c8/200067254_reglement_20241219.pdf
+règlement GitHub : lecture lancée UD DU_200067254/702a5ac1aa1d3cc718bf7ed2512196c8/200067254_reglement_20241219.pdf
+règlement lecture directe IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"The file exceeds the maximum allowed size."},"request_id":"req_011ChEYjZiuJXifziu4AhApF"}
+règlement plages lecture par plages 500 lecture par plages impossible (HTTP 200)
+règlement trop volumineux fichier > 32 Mo aad7e25effb980f4d34d2d7829c/200058014_reglement_20251216.pdf
+règlement GitHub : lecture lancée UEXXXXXX DU_200058014/2e018aad7e25effb980f4d34d2d7829c/200058014_reglement_20251216.pdf
+règlement lecture directe IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"The file exceeds the maximum allowed size."},"request_id":"req_011ChEYmuQctYzoT2p1ZKcxg"}
+règlement plages lecture par plages 500 lecture par plages impossible (HTTP 200)
+règlement trop volumineux fichier > 32 Mo 52f5b5cb705e290937219555b4e/200058006_reglement_20261023.pdf
+règlement GitHub : lecture lancée AAAAAAA DU_200058006/48bb652f5b5cb705e290937219555b4e/200058006_reglement_20261023.pdf
+règlement lecture directe IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"This URL is disallowed by the website's robots.txt file."},"request_id":"req_011ChEYw4Yo1cCnWNdGqJWMR"}
+règlement source jon.fr/adscs/reglements/21/PLUIDM/5_1_Reglement_litteral.pdf IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"This URL is disallowed by the website's robots.txt file."},"request_id
+règlement GitHub : lecture lancée A DU_200089456_B/a31e12d5d9c34ca964cd7dc3b702cc20/200089456_reglement_20260205_B.pdf
+règlement GitHub : lecture lancée UP14 DU_243300316/0b6c6621184959caf3fa5b684f929657/243300316_reglement_20260505.pdf
+règlement GitHub : lecture lancée Nc DU_200057867/9ac270d37a778fa1bed02998270ab1b3/200057867_reglement_20251216.pdf
