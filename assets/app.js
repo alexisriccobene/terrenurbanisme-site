@@ -708,10 +708,10 @@
   }
   var f = document.getElementById('devis');
   if (f) {
-    var type = 'offre', demoL = f.querySelector('.devis-demo'), msg = f.querySelector('.devis-msg'), sb = f.querySelector('button[type="submit"]');
-    var setT = function(t){ type = t; f.querySelectorAll('.devis-type button').forEach(function(b){ b.setAttribute('aria-pressed', b.getAttribute('data-t') === t ? 'true' : 'false'); }); if (demoL) demoL.hidden = t !== 'demo'; sb.textContent = t === 'demo' ? 'Demander ma démonstration' : 'Envoyer ma demande'; };
+    var type = f.getAttribute('data-type') || 'offre', fixed = !!f.getAttribute('data-type'), demoL = f.querySelector('.devis-demo'), msg = f.querySelector('.devis-msg'), sb = f.querySelector('button[type="submit"]');
+    var setT = function(t){ type = t; f.querySelectorAll('.devis-type button').forEach(function(b){ b.setAttribute('aria-pressed', b.getAttribute('data-t') === t ? 'true' : 'false'); }); if (demoL) demoL.hidden = t !== 'demo'; sb.textContent = fixed ? (f.getAttribute('data-label') || 'Envoyer ma demande') : t === 'demo' ? 'Demander ma démonstration' : 'Envoyer ma demande'; };
     f.querySelectorAll('.devis-type button').forEach(function(b){ b.addEventListener('click', function(){ setT(b.getAttribute('data-t')); }); });
-    var fromHash = function(){ if (location.hash === '#demo') setT('demo'); else if (location.hash === '#offre') setT('offre'); };
+    var fromHash = function(){ if (fixed) return; if (location.hash === '#demo') setT('demo'); else if (location.hash === '#offre') setT('offre'); };
     fromHash(); window.addEventListener('hashchange', fromHash);
     f.addEventListener('submit', function(ev){
       ev.preventDefault(); msg.className = 'devis-msg'; msg.textContent = '';
@@ -723,9 +723,67 @@
         .then(function(r){ return r.json().then(function(j){ return { ok: r.ok && j.ok, j: j }; }); })
         .then(function(x){
           sb.disabled = false; sb.textContent = lab;
-          if (x.ok) { f.reset(); setT(type); msg.className = 'devis-msg ok'; msg.textContent = type === 'demo' ? 'Merci, votre demande de démonstration est bien reçue. Nous vous contactons sous 24 heures ouvrées pour fixer le rendez-vous.' : 'Merci, votre demande est bien reçue. Nous revenons vers vous sous 24 heures ouvrées avec une offre adaptée.'; }
+          if (x.ok) { f.reset(); setT(type); msg.className = 'devis-msg ok'; msg.textContent = type === 'demo' ? 'Merci, votre demande de démonstration est bien reçue. Nous vous contactons sous 24 heures ouvrées pour fixer le rendez-vous.' : type === 'partenaire' ? 'Merci, votre candidature est bien reçue. Nous revenons vers vous sous 48 heures ouvrées.' : type === 'integration' ? 'Merci, votre demande est bien reçue. Nous revenons vers vous sous 24 heures ouvrées.' : 'Merci, votre demande est bien reçue. Nous revenons vers vous sous 24 heures ouvrées avec une offre adaptée.'; }
           else { msg.className = 'devis-msg ko'; msg.textContent = x.j && x.j.error === 'limite' ? 'Trop de demandes en peu de temps. Réessayez dans une heure ou écrivez à contact@terrenurbanisme.com.' : 'La demande n\'a pas pu être envoyée. Vérifiez les champs ou écrivez à contact@terrenurbanisme.com.'; }
         }).catch(function(){ sb.disabled = false; sb.textContent = lab; msg.className = 'devis-msg ko'; msg.textContent = 'La demande n\'a pas pu être envoyée. Réessayez ou écrivez à contact@terrenurbanisme.com.'; });
     });
   }
+})();
+
+/* ---------- Assistant virtuel (réponses issues de la FAQ, sans service externe) ---------- */
+(function(){
+  if (/^\/(espace|connexion|espace-pro|espace-mairie|merci|tiktok)/.test(location.pathname) || document.getElementById('tu-bot')) return;
+  var KB = [
+    { q: 'Mon terrain est-il constructible ?', k: ['constructible', 'construire', 'zone', 'plu', 'terrain', 'parcelle', 'batir'], a: 'Saisissez l\'adresse ou la référence cadastrale dans la recherche : la parcelle s\'affiche avec sa zone et ses principales contraintes avant tout paiement. Le rapport complet détaille ensuite ce que vous pouvez construire.', l: [['Vérifier mon terrain', '/#recherche']] },
+    { q: 'Que contient le rapport ?', k: ['contient', 'contenu', 'rapport', 'pages', 'quoi', 'exemple', 'detail'], a: 'Environ 45 pages : verdict, plan de zonage, règlement de la zone lu pour vous avec les extraits officiels, surface constructible estimée, risques, servitudes, lois Littoral et Montagne, réseaux et fibre, taxe d\'aménagement, prix du marché, photos aériennes depuis 1950 et état des risques pré-rempli.', l: [['Voir un exemple', '/exemple.html']] },
+    { q: 'Combien ça coûte ?', k: ['prix', 'tarif', 'cout', 'coute', 'combien', 'euros', 'payer', 'lot'], a: 'Particuliers : 19,90 € le rapport complet, 14,90 € le rapport par lot de 2, 12,90 € par lot de 3. Professionnels : 5 € le rapport en crédits (pack de 50), 3,50 € en abonnement Pro.', l: [['Voir les tarifs', '/tarifs.html']] },
+    { q: 'En combien de temps je le reçois ?', k: ['delai', 'temps', 'recevoir', 'quand', 'minutes', 'rapidement', 'vite'], a: 'Le rapport vous est envoyé par e-mail en quelques minutes après le paiement. Il reste disponible dans votre espace.', l: [] },
+    { q: 'Le rapport a-t-il une valeur officielle ?', k: ['officiel', 'officielle', 'certificat', 'valeur', 'juridique', 'mairie', 'garantie'], a: 'Non. C\'est un document d\'information établi à partir des sources publiques officielles. Seul le certificat d\'urbanisme, délivré par la mairie, engage l\'administration : le rapport vous aide à décider avant de le demander.', l: [['Le certificat d\'urbanisme', '/guides/certificat-urbanisme.html']] },
+    { q: 'Je n\'ai pas reçu mon rapport', k: ['recu', 'reçu', 'pas recu', 'mail', 'email', 'spam', 'introuvable', 'probleme'], a: 'Vérifiez vos courriers indésirables. Votre rapport est aussi disponible depuis votre espace, avec le bouton « Se connecter ». Sinon, écrivez-nous en indiquant la référence de la parcelle : contact@terrenurbanisme.com.', l: [['Se connecter', '/connexion.html']] },
+    { q: 'Je suis professionnel', k: ['pro', 'professionnel', 'agence', 'agent', 'notaire', 'geometre', 'architecte', 'logo', 'credits', 'abonnement', 'diagnostiqueur'], a: 'Votre logo et vos coordonnées sur chaque rapport, un back-office pour vos collaborateurs, des crédits sans limite de durée ou un abonnement sans engagement. Au-delà de 100 rapports, nous établissons une offre personnalisée.', l: [['Tarifs professionnels', '/tarifs.html#pro'], ['Réserver une démonstration', '/tarifs.html#demo']] },
+    { q: 'Quelles communes sont couvertes ?', k: ['commune', 'couvert', 'couverture', 'france', 'corse', 'outre', 'region', 'ville'], a: 'Toute la France : métropole, Corse et outre-mer, soit près de 35 000 communes.', l: [] },
+    { q: 'Puis-je avoir une facture ?', k: ['facture', 'tva', 'societe', 'entreprise', 'comptable'], a: 'Oui. Une facture est envoyée automatiquement à chaque paiement, au nom de votre société si vous l\'indiquez lors du paiement.', l: [] },
+    { q: 'Et si une information manque ?', k: ['manque', 'manquant', 'source', 'erreur', 'incomplet', 'regenerer'], a: 'Si une source publique ne répond pas, le rapport le signale clairement. Écrivez-nous dans les 30 jours : nous le régénérons sans frais dès que la source est de nouveau disponible.', l: [] },
+    { q: 'Comment résilier mon abonnement ?', k: ['resilier', 'resiliation', 'annuler', 'engagement', 'arreter'], a: 'L\'abonnement est sans engagement : il se résilie en un clic depuis votre espace, rubrique « Gérer mon abonnement ».', l: [['Mon espace', '/connexion.html']] },
+    { q: 'Je représente une mairie', k: ['mairie', 'commune', 'maire', 'collectivite', 'intercommunalite', 'habitants'], a: 'Les communes peuvent mettre le rapport complet à la disposition de leurs habitants, depuis le site de la mairie.', l: [['L\'offre pour les communes', '/mairies.html']] },
+    { q: 'Parler à quelqu\'un', k: ['contact', 'parler', 'humain', 'telephone', 'appeler', 'joindre', 'conseiller'], a: 'Écrivez-nous à contact@terrenurbanisme.com : nous répondons sous 24 heures ouvrées. Les professionnels peuvent aussi réserver une démonstration en visio.', l: [['Réserver une démonstration', '/tarifs.html#demo']] }
+  ];
+  var QUICK = [0, 2, 1, 6, 4, 12];
+  var norm = function(t){ return String(t || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9 ]+/g, ' '); };
+  var find = function(t){
+    var n = ' ' + norm(t) + ' ', best = -1, bs = 0;
+    KB.forEach(function(e, i){ var sc = 0; e.k.forEach(function(k){ if (n.indexOf(' ' + norm(k)) >= 0) sc++; }); if (sc > bs) { bs = sc; best = i; } });
+    return best;
+  };
+  var el = function(tag, cls, txt){ var e = document.createElement(tag); if (cls) e.className = cls; if (txt != null) e.textContent = txt; return e; };
+  var root = el('div', 'tu-bot'); root.id = 'tu-bot';
+  var btn = el('button', 'tu-bot-btn'); btn.type = 'button'; btn.setAttribute('aria-label', 'Ouvrir l\'assistant'); btn.setAttribute('aria-expanded', 'false');
+  btn.innerHTML = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v11H8l-4 4z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg><span>Une question ?</span>';
+  var pan = el('div', 'tu-bot-pan'); pan.hidden = true; pan.setAttribute('role', 'dialog'); pan.setAttribute('aria-label', 'Assistant TerrenUrbanisme');
+  var head = el('div', 'tu-bot-head'); head.appendChild(el('b', '', 'Assistant TerrenUrbanisme')); var cl = el('button', 'tu-bot-x', '×'); cl.type = 'button'; cl.setAttribute('aria-label', 'Fermer'); head.appendChild(cl);
+  var log = el('div', 'tu-bot-log'); log.setAttribute('aria-live', 'polite');
+  var qk = el('div', 'tu-bot-q');
+  var fm = el('form', 'tu-bot-f'); var inp = el('input'); inp.placeholder = 'Posez votre question'; inp.maxLength = 200; inp.setAttribute('aria-label', 'Votre question'); var go = el('button', '', 'Envoyer'); go.type = 'submit'; fm.appendChild(inp); fm.appendChild(go);
+  pan.appendChild(head); pan.appendChild(log); pan.appendChild(qk); pan.appendChild(fm); root.appendChild(pan); root.appendChild(btn);
+  var say = function(who, txt, links){
+    var m = el('div', 'tu-bot-m ' + who); m.appendChild(el('p', '', txt));
+    (links || []).forEach(function(x){ var a = el('a', '', x[0] + ' →'); a.href = x[1]; m.appendChild(a); });
+    log.appendChild(m); log.scrollTop = log.scrollHeight;
+  };
+  var answer = function(i){ var e = KB[i]; say('bot', e.a, e.l); };
+  QUICK.forEach(function(i){ var b = el('button', '', KB[i].q); b.type = 'button'; b.addEventListener('click', function(){ say('me', KB[i].q); answer(i); }); qk.appendChild(b); });
+  var started = false;
+  var open = function(o){
+    pan.hidden = !o; btn.setAttribute('aria-expanded', o ? 'true' : 'false'); root.classList.toggle('on', o);
+    if (o && !started) { started = true; say('bot', 'Bonjour, je réponds à vos questions sur le rapport, les tarifs et votre terrain. Choisissez une question ou écrivez la vôtre.'); }
+    if (o) setTimeout(function(){ inp.focus(); }, 50);
+  };
+  btn.addEventListener('click', function(){ open(pan.hidden); });
+  cl.addEventListener('click', function(){ open(false); });
+  fm.addEventListener('submit', function(ev){
+    ev.preventDefault(); var t = inp.value.trim(); if (!t) return; inp.value = ''; say('me', t);
+    var i = find(t);
+    if (i >= 0) answer(i); else say('bot', 'Je n\'ai pas de réponse précise à cette question. Écrivez-nous à contact@terrenurbanisme.com : nous répondons sous 24 heures ouvrées.', [['Voir la FAQ', '/faq.html']]);
+  });
+  document.body.appendChild(root);
 })();
