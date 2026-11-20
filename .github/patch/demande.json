@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "synthese_compacte.py", "demande": "page 4 presque vide"}
+{"fonction": "stripe-webhook", "script": "synthese_compacte2.py", "demande": "points info retirés si débordement"}
