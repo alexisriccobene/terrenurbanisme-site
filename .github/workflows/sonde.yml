@@ -26,7 +26,12 @@ jobs:
               try:
                   with urllib.request.urlopen(urllib.request.Request(u, headers={'User-Agent': 'TerrenUrbanisme/1.0'}), timeout=60) as resp:
                       b = resp.read(); r['status'] = resp.status; r['type'] = resp.headers.get('Content-Type'); r['bytes'] = len(b)
-                      r['corps'] = b[:20000].decode('utf-8', 'replace')
+                      txt = b.decode('utf-8', 'replace')
+                      try:
+                          j = json.loads(txt)
+                          if isinstance(j, dict) and 'features' in j: txt = json.dumps([f.get('properties') for f in j['features']], ensure_ascii=False)
+                      except Exception: pass
+                      r['corps'] = txt[:30000]
               except Exception as e: r['erreur'] = str(e)[:300]
               out.append(r)
           q = "insert into public.tu_debug (k, v) values ('sonde', $tu$" + json.dumps(out, ensure_ascii=False).replace('$tu$', '') + "$tu$::jsonb)"
