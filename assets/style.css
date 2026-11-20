@@ -730,3 +730,27 @@ footer .social{display:flex;gap:10px;margin-top:18px}footer .social a{display:in
 @media (max-width:640px){.devis-g{grid-template-columns:1fr}.devis{padding:18px}.sur-mesure{padding:18px}.sm-btns,.sm-btns .btn{width:100%}}
 @media (max-width:960px){.plans .plan.feat{order:-1;margin-top:10px}}
 #offre,#demo{scroll-margin-top:90px}
+
+/* ---------- Blog ---------- */
+.blog-chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px}
+.blog-chips a{font-size:14px;font-weight:700;color:var(--ink);background:var(--surface);border:1px solid var(--ligne);border-radius:999px;padding:8px 14px;text-decoration:none}
+.blog-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.blog-card{display:flex;flex-direction:column;gap:10px;background:var(--surface);border:1px solid var(--ligne);border-radius:18px;padding:22px;color:var(--ink);text-decoration:none;min-width:0}
+.blog-card:hover{border-color:var(--t)}
+.blog-card strong{font-size:18px;line-height:1.3}
+.blog-ex{color:var(--muet);font-size:14.5px;line-height:1.5}
+.blog-meta{font-size:13px;color:var(--muet);margin-top:auto}
+.page-head .blog-meta{margin:14px 0 0}
+.blog-tag{display:inline-block;align-self:flex-start;font-size:11.5px;font-weight:800;letter-spacing:.05em;text-transform:uppercase;color:var(--t);background:var(--soft2);border-radius:999px;padding:4px 10px;margin-right:6px}
+.blog-guides{list-style:none;padding:0;margin:20px 0 0;display:grid;grid-template-columns:repeat(2,1fr);gap:8px 24px}
+.blog-guides a{font-weight:600}
+.blog-cta{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:14px;margin:28px 0;background:var(--soft2);border:1px solid var(--ligne);border-radius:18px;padding:20px 22px}
+.blog-cta strong{display:block;font-size:17px}.blog-cta span{color:var(--muet);font-size:14.5px}
+.blog-cta .btn.ghost{color:var(--ink);box-shadow:inset 0 0 0 1.5px var(--ink);background:transparent}
+.sources{font-size:14px}
+.qsn-stats{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+.qsn-stats div{background:var(--surface);border:1px solid var(--ligne);border-radius:18px;padding:20px}
+.qsn-stats b{display:block;font-size:26px;letter-spacing:-.02em;color:var(--t)}
+.qsn-stats span{color:var(--muet);font-size:14px}
+@media (max-width:960px){.blog-grid,.qsn-stats{grid-template-columns:1fr 1fr}}
+@media (max-width:640px){.blog-grid,.qsn-stats,.blog-guides{grid-template-columns:1fr}.blog-cta .sm-btns,.blog-cta .btn{width:100%}}
