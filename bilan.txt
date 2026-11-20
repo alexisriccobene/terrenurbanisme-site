@@ -1,0 +1,8 @@
+60057:C:873 http=200 30s pages=38 non_lu=1
+66205:BP:13 http=200 31s pages=36 non_lu=1
+35271:D:652 http=200 17s pages=36 non_lu=1
+41018:BW:350 http=200 35s pages=38 non_lu=1
+41134:ZB:59 http=200 35s pages=35 non_lu=1
+47001:AM:670 http=200 27s pages=38 non_lu=1
+53130:BY:339 http=200 21s pages=40 non_lu=1
+59350:NS:136 http=200 19s pages=39 non_lu=1

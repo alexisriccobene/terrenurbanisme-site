@@ -1,0 +1,496 @@
+[0m[32mDownload[0m https://deno.land/x/denomailer@1.6.0/mod.ts
+[0m[32mDownload[0m https://registry.npmjs.org/@supabase%2fsupabase-js
+[0m[32mDownload[0m https://registry.npmjs.org/pdf-lib
+[0m[32mDownload[0m https://registry.npmjs.org/@pdf-lib%2ffontkit
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fturf
+[0m[32mDownload[0m https://deno.land/x/denomailer@1.6.0/client/mod.ts
+[0m[32mDownload[0m https://deno.land/x/denomailer@1.6.0/config/mail/encoding.ts
+[0m[32mDownload[0m https://deno.land/x/denomailer@1.6.0/client/pool.ts
+[0m[32mDownload[0m https://deno.land/x/denomailer@1.6.0/client/worker/worker.ts
+[0m[32mDownload[0m https://deno.land/x/denomailer@1.6.0/client/basic/client.ts
+[0m[32mDownload[0m https://deno.land/x/denomailer@1.6.0/config/client.ts
+[0m[32mDownload[0m https://deno.land/x/denomailer@1.6.0/config/mail/mod.ts
+[0m[32mDownload[0m https://deno.land/x/denomailer@1.6.0/deps.ts
+[0m[32mDownload[0m https://deno.land/x/denomailer@1.6.0/client/basic/connection.ts
+[0m[32mDownload[0m https://deno.land/x/denomailer@1.6.0/client/basic/QUE.ts
+[0m[32mDownload[0m https://deno.land/x/denomailer@1.6.0/config/mail/attachments.ts
+[0m[32mDownload[0m https://deno.land/x/denomailer@1.6.0/config/mail/content.ts
+[0m[32mDownload[0m https://deno.land/x/denomailer@1.6.0/config/mail/email.ts
+[0m[32mDownload[0m https://deno.land/x/denomailer@1.6.0/config/mail/headers.ts
+[0m[32mDownload[0m https://deno.land/std@0.173.0/encoding/base64.ts
+[0m[32mDownload[0m https://deno.land/x/denomailer@1.6.0/client/basic/transforms.ts
+[0m[32mDownload[0m https://registry.npmjs.org/@opentelemetry%2fapi
+[0m[32mDownload[0m https://registry.npmjs.org/@supabase%2fauth-js
+[0m[32mDownload[0m https://registry.npmjs.org/@supabase%2ffunctions-js
+[0m[32mDownload[0m https://registry.npmjs.org/@supabase%2fpostgrest-js
+[0m[32mDownload[0m https://registry.npmjs.org/@supabase%2frealtime-js
+[0m[32mDownload[0m https://registry.npmjs.org/@supabase%2fstorage-js
+[0m[32mDownload[0m https://registry.npmjs.org/@pdf-lib%2fstandard-fonts
+[0m[32mDownload[0m https://registry.npmjs.org/@pdf-lib%2fupng
+[0m[32mDownload[0m https://registry.npmjs.org/pako
+[0m[32mDownload[0m https://registry.npmjs.org/tslib
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2falong
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fangle
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2farea
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fbbox
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fbbox-clip
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fbbox-polygon
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fbearing
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fbezier-spline
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fboolean-clockwise
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fboolean-contains
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fboolean-crosses
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fboolean-disjoint
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fboolean-equal
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fboolean-intersects
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fboolean-overlap
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fboolean-parallel
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fboolean-point-in-polygon
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fboolean-point-on-line
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fboolean-within
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fbuffer
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fcenter
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fcenter-mean
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fcenter-median
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fcenter-of-mass
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fcentroid
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fcircle
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fclean-coords
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fclone
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fclusters
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fclusters-dbscan
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fclusters-kmeans
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fcollect
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fcombine
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fconcave
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fconvex
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fdestination
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fdifference
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fdissolve
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fdistance
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fdistance-weight
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fellipse
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fenvelope
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fexplode
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fflatten
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fflip
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fgreat-circle
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fhelpers
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fhex-grid
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2finterpolate
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fintersect
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2finvariant
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fisobands
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fisolines
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fkinks
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2flength
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fline-arc
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fline-chunk
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fline-intersect
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fline-offset
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fline-overlap
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fline-segment
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fline-slice
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fline-slice-along
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fline-split
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fline-to-polygon
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fmask
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fmeta
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fmidpoint
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fmoran-index
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fnearest-point
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fnearest-point-on-line
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fnearest-point-to-line
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fplanepoint
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fpoint-grid
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fpoint-on-feature
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fpoint-to-line-distance
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fpoints-within-polygon
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fpolygon-smooth
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fpolygon-tangents
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fpolygon-to-line
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fpolygonize
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fprojection
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2frandom
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2frewind
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2frhumb-bearing
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2frhumb-destination
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2frhumb-distance
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fsample
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fsector
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fshortest-path
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fsimplify
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fsquare
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fsquare-grid
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fstandard-deviational-ellipse
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2ftag
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2ftesselate
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2ftin
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2ftransform-rotate
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2ftransform-scale
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2ftransform-translate
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2ftriangle-grid
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2ftruncate
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2funion
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2funkink-polygon
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2fvoronoi
+[0m[32mDownload[0m https://registry.npmjs.org/@supabase%2fphoenix
+[0m[32mDownload[0m https://registry.npmjs.org/iceberg-js
+[0m[32mDownload[0m https://registry.npmjs.org/geojson-equality
+[0m[32mDownload[0m https://registry.npmjs.org/d3-geo
+[0m[32mDownload[0m https://registry.npmjs.org/turf-jsts
+[0m[32mDownload[0m https://registry.npmjs.org/density-clustering
+[0m[32mDownload[0m https://registry.npmjs.org/skmeans
+[0m[32mDownload[0m https://registry.npmjs.org/rbush
+[0m[32mDownload[0m https://registry.npmjs.org/topojson-client
+[0m[32mDownload[0m https://registry.npmjs.org/topojson-server
+[0m[32mDownload[0m https://registry.npmjs.org/concaveman
+[0m[32mDownload[0m https://registry.npmjs.org/polygon-clipping
+[0m[32mDownload[0m https://registry.npmjs.org/object-assign
+[0m[32mDownload[0m https://registry.npmjs.org/geojson-rbush
+[0m[32mDownload[0m https://registry.npmjs.org/deep-equal
+[0m[32mDownload[0m https://registry.npmjs.org/@turf%2frectangle-grid
+[0m[32mDownload[0m https://registry.npmjs.org/earcut
+[0m[32mDownload[0m https://registry.npmjs.org/d3-voronoi
+[0m[32mDownload[0m https://registry.npmjs.org/d3-array
+[0m[32mDownload[0m https://registry.npmjs.org/quickselect
+[0m[32mDownload[0m https://registry.npmjs.org/commander
+[0m[32mDownload[0m https://registry.npmjs.org/point-in-polygon
+[0m[32mDownload[0m https://registry.npmjs.org/robust-predicates
+[0m[32mDownload[0m https://registry.npmjs.org/tinyqueue
+[0m[32mDownload[0m https://registry.npmjs.org/splaytree
+[0m[32mDownload[0m https://registry.npmjs.org/@types%2fgeojson
+[0m[32mDownload[0m https://registry.npmjs.org/is-arguments
+[0m[32mDownload[0m https://registry.npmjs.org/is-date-object
+[0m[32mDownload[0m https://registry.npmjs.org/is-regex
+[0m[32mDownload[0m https://registry.npmjs.org/object-is
+[0m[32mDownload[0m https://registry.npmjs.org/object-keys
+[0m[32mDownload[0m https://registry.npmjs.org/regexp.prototype.flags
+[0m[32mDownload[0m https://registry.npmjs.org/call-bound
+[0m[32mDownload[0m https://registry.npmjs.org/has-tostringtag
+[0m[32mDownload[0m https://registry.npmjs.org/gopd
+[0m[32mDownload[0m https://registry.npmjs.org/hasown
+[0m[32mDownload[0m https://registry.npmjs.org/call-bind
+[0m[32mDownload[0m https://registry.npmjs.org/define-properties
+[0m[32mDownload[0m https://registry.npmjs.org/es-errors
+[0m[32mDownload[0m https://registry.npmjs.org/get-proto
+[0m[32mDownload[0m https://registry.npmjs.org/set-function-name
+[0m[32mDownload[0m https://registry.npmjs.org/call-bind-apply-helpers
+[0m[32mDownload[0m https://registry.npmjs.org/get-intrinsic
+[0m[32mDownload[0m https://registry.npmjs.org/has-symbols
+[0m[32mDownload[0m https://registry.npmjs.org/function-bind
+[0m[32mDownload[0m https://registry.npmjs.org/es-define-property
+[0m[32mDownload[0m https://registry.npmjs.org/set-function-length
+[0m[32mDownload[0m https://registry.npmjs.org/define-data-property
+[0m[32mDownload[0m https://registry.npmjs.org/has-property-descriptors
+[0m[32mDownload[0m https://registry.npmjs.org/dunder-proto
+[0m[32mDownload[0m https://registry.npmjs.org/es-object-atoms
+[0m[32mDownload[0m https://registry.npmjs.org/functions-have-names
+[0m[32mDownload[0m https://registry.npmjs.org/math-intrinsics
+[0m[32mDownload[0m https://registry.npmjs.org/@supabase/supabase-js/-/supabase-js-2.119.2.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@pdf-lib/fontkit/-/fontkit-1.1.1.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/pdf-lib/-/pdf-lib-1.17.1.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/turf/-/turf-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@supabase/realtime-js/-/realtime-js-2.119.2.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@supabase/storage-js/-/storage-js-2.119.2.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@supabase/auth-js/-/auth-js-2.119.2.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@supabase/functions-js/-/functions-js-2.119.2.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@supabase/postgrest-js/-/postgrest-js-2.119.2.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/pako/-/pako-1.0.11.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@pdf-lib/upng/-/upng-1.0.1.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@pdf-lib/standard-fonts/-/standard-fonts-1.0.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/tslib/-/tslib-1.14.1.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/line-segment/-/line-segment-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/boolean-intersects/-/boolean-intersects-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/center-median/-/center-median-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/boolean-clockwise/-/boolean-clockwise-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/boolean-disjoint/-/boolean-disjoint-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/boolean-contains/-/boolean-contains-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/line-chunk/-/line-chunk-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/points-within-polygon/-/points-within-polygon-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/convex/-/convex-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/boolean-parallel/-/boolean-parallel-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/line-to-polygon/-/line-to-polygon-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/polygon-smooth/-/polygon-smooth-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/center/-/center-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/explode/-/explode-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/bbox-clip/-/bbox-clip-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/polygon-to-line/-/polygon-to-line-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/bearing/-/bearing-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/line-slice/-/line-slice-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/random/-/random-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/simplify/-/simplify-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/union/-/union-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/voronoi/-/voronoi-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/envelope/-/envelope-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/interpolate/-/interpolate-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/line-split/-/line-split-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/line-offset/-/line-offset-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/line-slice-along/-/line-slice-along-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/sample/-/sample-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/invariant/-/invariant-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/unkink-polygon/-/unkink-polygon-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/along/-/along-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/planepoint/-/planepoint-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/transform-rotate/-/transform-rotate-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/flip/-/flip-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/moran-index/-/moran-index-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/boolean-equal/-/boolean-equal-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/bbox/-/bbox-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/triangle-grid/-/triangle-grid-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/boolean-point-on-line/-/boolean-point-on-line-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/buffer/-/buffer-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/midpoint/-/midpoint-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/shortest-path/-/shortest-path-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/destination/-/destination-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/isolines/-/isolines-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/square/-/square-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/hex-grid/-/hex-grid-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/truncate/-/truncate-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/line-intersect/-/line-intersect-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/rhumb-bearing/-/rhumb-bearing-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/bbox-polygon/-/bbox-polygon-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/mask/-/mask-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/meta/-/meta-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/polygon-tangents/-/polygon-tangents-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/polygonize/-/polygonize-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/ellipse/-/ellipse-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/centroid/-/centroid-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/angle/-/angle-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/rewind/-/rewind-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/standard-deviational-ellipse/-/standard-deviational-ellipse-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/great-circle/-/great-circle-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/tag/-/tag-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/tesselate/-/tesselate-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/collect/-/collect-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/intersect/-/intersect-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/line-arc/-/line-arc-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/nearest-point/-/nearest-point-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/point-grid/-/point-grid-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/circle/-/circle-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/clusters-dbscan/-/clusters-dbscan-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/distance/-/distance-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/nearest-point-to-line/-/nearest-point-to-line-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/center-of-mass/-/center-of-mass-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/combine/-/combine-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/area/-/area-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/difference/-/difference-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/distance-weight/-/distance-weight-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/helpers/-/helpers-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/boolean-overlap/-/boolean-overlap-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/nearest-point-on-line/-/nearest-point-on-line-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/clone/-/clone-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/center-mean/-/center-mean-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/dissolve/-/dissolve-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/kinks/-/kinks-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/line-overlap/-/line-overlap-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/length/-/length-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/boolean-crosses/-/boolean-crosses-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/flatten/-/flatten-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/point-on-feature/-/point-on-feature-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/projection/-/projection-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/rhumb-destination/-/rhumb-destination-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/concave/-/concave-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/rhumb-distance/-/rhumb-distance-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/boolean-point-in-polygon/-/boolean-point-in-polygon-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/bezier-spline/-/bezier-spline-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/clean-coords/-/clean-coords-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/clusters/-/clusters-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/clusters-kmeans/-/clusters-kmeans-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/isobands/-/isobands-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/point-to-line-distance/-/point-to-line-distance-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/sector/-/sector-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/boolean-within/-/boolean-within-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/square-grid/-/square-grid-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/tin/-/tin-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/transform-scale/-/transform-scale-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/transform-translate/-/transform-translate-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/tslib/-/tslib-2.8.1.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@supabase/phoenix/-/phoenix-0.4.5.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/iceberg-js/-/iceberg-js-0.8.1.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/concaveman/-/concaveman-2.0.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/polygon-clipping/-/polygon-clipping-0.15.7.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/d3-voronoi/-/d3-voronoi-1.1.2.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/geojson-rbush/-/geojson-rbush-3.2.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/rbush/-/rbush-2.0.2.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/geojson-equality/-/geojson-equality-0.1.6.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/d3-geo/-/d3-geo-1.7.1.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/turf-jsts/-/turf-jsts-1.2.3.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/object-assign/-/object-assign-4.1.1.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/earcut/-/earcut-2.2.4.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/density-clustering/-/density-clustering-1.3.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/deep-equal/-/deep-equal-1.1.2.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/topojson-server/-/topojson-server-3.0.1.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/topojson-client/-/topojson-client-3.1.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/skmeans/-/skmeans-0.9.7.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/rectangle-grid/-/rectangle-grid-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/robust-predicates/-/robust-predicates-3.0.3.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/rbush/-/rbush-4.0.1.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/tinyqueue/-/tinyqueue-3.0.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/point-in-polygon/-/point-in-polygon-1.1.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/splaytree/-/splaytree-3.2.4.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/rbush/-/rbush-3.0.1.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@types/geojson/-/geojson-7946.0.8.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/quickselect/-/quickselect-1.1.1.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/d3-array/-/d3-array-1.2.4.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/is-arguments/-/is-arguments-1.2.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/is-regex/-/is-regex-1.2.1.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/is-date-object/-/is-date-object-1.1.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/regexp.prototype.flags/-/regexp.prototype.flags-1.5.4.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/object-keys/-/object-keys-1.1.1.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/object-is/-/object-is-1.1.6.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/commander/-/commander-2.20.3.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/quickselect/-/quickselect-3.0.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/quickselect/-/quickselect-2.0.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/has-tostringtag/-/has-tostringtag-1.0.2.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/call-bound/-/call-bound-1.0.4.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/hasown/-/hasown-2.0.4.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/gopd/-/gopd-1.2.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/call-bind/-/call-bind-1.0.9.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/es-errors/-/es-errors-1.3.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/define-properties/-/define-properties-1.2.1.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/set-function-name/-/set-function-name-2.0.2.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/get-proto/-/get-proto-1.0.1.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/has-symbols/-/has-symbols-1.1.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/call-bind-apply-helpers/-/call-bind-apply-helpers-1.0.2.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/get-intrinsic/-/get-intrinsic-1.3.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/function-bind/-/function-bind-1.1.2.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/set-function-length/-/set-function-length-1.2.2.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/es-define-property/-/es-define-property-1.0.1.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/define-data-property/-/define-data-property-1.1.4.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/has-property-descriptors/-/has-property-descriptors-1.0.2.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/functions-have-names/-/functions-have-names-1.2.3.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/es-object-atoms/-/es-object-atoms-1.1.2.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/dunder-proto/-/dunder-proto-1.0.1.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/math-intrinsics/-/math-intrinsics-1.1.0.tgz
+Listening on http://0.0.0.0:8000/ (http://localhost:8000/)
+règlement lecture directe IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"re
+règlement source 74aac303ec808fb2fb0ea9c227f/200067999_reglement_20260917.pdf IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go 
+règlement lecture directe IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"re
+règlement source /pieces_ecrites/3_Reglement/200067999_reglement_20260917.pdf IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go 
+source indisponible photo 1980-1995
+pdf chrono début 808 ms
+pdf chrono Identification de la parcelle 816 ms
+pdf chrono Règles d'urbanisme applicables 819 ms
+pdf chrono Ce que vous pouvez construire 820 ms
+pdf chrono Loi Littoral et loi Montagne 822 ms
+pdf chrono Risques naturels et technologiques 827 ms
+pdf chrono Le terrain : accès, relief et réseaux 843 ms
+pdf chrono Environnement et marché immobilier 851 ms
+pdf chrono Historique du site 882 ms
+pdf chrono Opportunités autour du terrain 891 ms
+pdf chrono Votre projet, étape par étape 897 ms
+pdf chrono État des risques (ERP) pré-rempli 900 ms
+pdf chrono Avertissement et sources 904 ms (fin des chapitres)
+source indisponible photo 1980-1995
+pdf chrono début 9 ms
+pdf chrono Identification de la parcelle 15 ms
+pdf chrono Règles d'urbanisme applicables 20 ms
+pdf chrono Ce que vous pouvez construire 21 ms
+pdf chrono Loi Littoral et loi Montagne 23 ms
+pdf chrono Risques naturels et technologiques 27 ms
+pdf chrono Le terrain : accès, relief et réseaux 42 ms
+pdf chrono Conditions de vente du terrain 45 ms
+pdf chrono Environnement et marché immobilier 50 ms
+pdf chrono Historique du site 73 ms
+pdf chrono Votre projet, étape par étape 85 ms
+pdf chrono État des risques (ERP) pré-rempli 90 ms
+pdf chrono Avertissement et sources 101 ms (fin des chapitres)
+règlement lecture directe IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"re
+règlement source fd65b91e4f4037f994552c584244f27/35271_reglement_20130121.pdf IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go 
+règlement lecture directe IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"re
+règlement source eres-agglo.bzh/reglements/35271/35271_reglement_20130121.pdf IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go 
+pdf chrono début 8 ms
+pdf chrono Identification de la parcelle 12 ms
+pdf chrono Règles d'urbanisme applicables 15 ms
+pdf chrono Ce que vous pouvez construire 16 ms
+pdf chrono Loi Littoral et loi Montagne 16 ms
+pdf chrono Risques naturels et technologiques 19 ms
+pdf chrono Le terrain : accès, relief et réseaux 34 ms
+pdf chrono Conditions de vente du terrain 36 ms
+pdf chrono Environnement et marché immobilier 40 ms
+pdf chrono Historique du site 62 ms
+pdf chrono Opportunités autour du terrain 64 ms
+pdf chrono Votre projet, étape par étape 78 ms
+pdf chrono État des risques (ERP) pré-rempli 85 ms
+pdf chrono Avertissement et sources 98 ms (fin des chapitres)
+règlement lecture directe IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"re
+règlement source 5a1a95f566bc362ed95252f74a1/200030385_reglement_20260630.pdf IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go 
+source indisponible photo 1980-1995
+pdf chrono début 7 ms
+pdf chrono Identification de la parcelle 13 ms
+pdf chrono Règles d'urbanisme applicables 16 ms
+pdf chrono Ce que vous pouvez construire 17 ms
+pdf chrono Loi Littoral et loi Montagne 18 ms
+pdf chrono Risques naturels et technologiques 23 ms
+pdf chrono Le terrain : accès, relief et réseaux 41 ms
+pdf chrono Environnement et marché immobilier 48 ms
+pdf chrono Historique du site 69 ms
+pdf chrono Opportunités autour du terrain 76 ms
+pdf chrono Votre projet, étape par étape 91 ms
+pdf chrono État des risques (ERP) pré-rempli 95 ms
+pdf chrono Avertissement et sources 100 ms (fin des chapitres)
+règlement lecture directe IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"re
+règlement source 5a1a95f566bc362ed95252f74a1/200030385_reglement_20260630.pdf IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go 
+source indisponible photo 1980-1995
+pdf chrono début 6 ms
+pdf chrono Identification de la parcelle 10 ms
+pdf chrono Règles d'urbanisme applicables 13 ms
+pdf chrono Ce que vous pouvez construire 15 ms
+pdf chrono Loi Littoral et loi Montagne 15 ms
+pdf chrono Risques naturels et technologiques 19 ms
+pdf chrono Le terrain : accès, relief et réseaux 31 ms
+pdf chrono Conditions de vente du terrain 33 ms
+pdf chrono Environnement et marché immobilier 38 ms
+pdf chrono Historique du site 113 ms
+pdf chrono Votre projet, étape par étape 119 ms
+pdf chrono État des risques (ERP) pré-rempli 122 ms
+pdf chrono Avertissement et sources 126 ms (fin des chapitres)
+règlement lecture directe IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"re
+règlement source 2135724b64f7d3198c60884ab/200035459_reglement_20260430_A.pdf IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go 
+source indisponible photo 1980-1995
+pdf chrono début 8 ms
+pdf chrono Identification de la parcelle 13 ms
+pdf chrono Règles d'urbanisme applicables 15 ms
+pdf chrono Ce que vous pouvez construire 16 ms
+pdf chrono Loi Littoral et loi Montagne 17 ms
+pdf chrono Risques naturels et technologiques 22 ms
+pdf chrono Le terrain : accès, relief et réseaux 43 ms
+pdf chrono Environnement et marché immobilier 50 ms
+pdf chrono Historique du site 76 ms
+pdf chrono Opportunités autour du terrain 83 ms
+pdf chrono Votre projet, étape par étape 96 ms
+pdf chrono État des risques (ERP) pré-rempli 100 ms
+pdf chrono Avertissement et sources 105 ms (fin des chapitres)
+règlement lecture directe IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"re
+règlement source 2515e4cecb9b4b055aff54504/200083392_reglement_20260629_A.pdf IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go 
+pdf chrono début 9 ms
+pdf chrono Identification de la parcelle 15 ms
+pdf chrono Règles d'urbanisme applicables 19 ms
+pdf chrono Ce que vous pouvez construire 20 ms
+pdf chrono Loi Littoral et loi Montagne 21 ms
+pdf chrono Risques naturels et technologiques 26 ms
+pdf chrono Le terrain : accès, relief et réseaux 41 ms
+pdf chrono Conditions de vente du terrain 43 ms
+pdf chrono Environnement et marché immobilier 48 ms
+pdf chrono Historique du site 92 ms
+pdf chrono Opportunités autour du terrain 100 ms
+pdf chrono Votre projet, étape par étape 107 ms
+pdf chrono État des risques (ERP) pré-rempli 109 ms
+pdf chrono Avertissement et sources 114 ms (fin des chapitres)
+règlement lecture directe IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."},"re
+règlement source fdf6122bab3268eab8e154e3161/200093201_reglement_20260520.pdf IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go 
+source indisponible photo 1980-1995
+pdf chrono début 8 ms
+pdf chrono Identification de la parcelle 14 ms
+pdf chrono Règles d'urbanisme applicables 19 ms
+pdf chrono Ce que vous pouvez construire 20 ms
+pdf chrono Loi Littoral et loi Montagne 21 ms
+pdf chrono Risques naturels et technologiques 26 ms
+pdf chrono Le terrain : accès, relief et réseaux 42 ms
+pdf chrono Environnement et marché immobilier 48 ms
+pdf chrono Historique du site 72 ms
+pdf chrono Opportunités autour du terrain 79 ms
+pdf chrono Votre projet, étape par étape 90 ms
+pdf chrono État des risques (ERP) pré-rempli 99 ms
+pdf chrono Avertissement et sources 102 ms (fin des chapitres)
