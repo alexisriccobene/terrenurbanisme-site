@@ -680,7 +680,7 @@
       document.querySelectorAll('.plans-pro .plan, .sur-mesure').forEach(function(c){ var m = c.getAttribute('data-m'); c.hidden = mode === 'credits' ? m !== 'credits' : m !== 'abo'; });
       document.querySelectorAll('.plans-pro .plan[data-ab]').forEach(function(c){
         var n = c.getAttribute('data-ab'), A = AB[n], amt = c.querySelector('.amt'), u = c.querySelector('.unit'), btn = c.querySelector('.go'), nom = c.querySelector('h3').textContent, ulx = c.querySelector('ul');
-        if (ulx) ulx.innerHTML = (mode === 'an' ? LIY : LIM).map(function(t){ return '<li>' + t + '</li>'; }).join('');
+        if (ulx) ulx.innerHTML = LIM.map(function(t){ return '<li>' + t + '</li>'; }).join('');
         btn.textContent = 'S\'abonner · ' + nom + ' →';
         if (mode === 'an') { amt.innerHTML = eur(A[0] * 10) + ' <small>/ an</small>'; u.textContent = (A[1] * 12) + ' rapports pour l\'année · ' + eur(A[0] * 10 / (A[1] * 12)) + ' le rapport'; btn.setAttribute('data-kind', 'ab' + n + '_an'); }
         else { amt.innerHTML = eur(A[0]) + ' <small>/ mois</small>'; u.textContent = eur(A[0] / A[1]) + ' le rapport'; btn.setAttribute('data-kind', 'ab' + n); }
