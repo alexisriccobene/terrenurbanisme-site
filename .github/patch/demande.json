@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "lire.py", "demande": "lecture zfrr 3"}
+{"fonction": "stripe-webhook", "script": "zfrr.py", "demande": "zone FRR dans le rapport"}
