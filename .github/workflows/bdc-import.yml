@@ -1,0 +1,35 @@
+name: Import espèces protégées (TAXREF / INPN)
+# Lit les statuts de protection déposés dans depot_tmp et écrit data/especes-protegees.json
+on:
+  push:
+    branches: [main]
+    paths: ['.github/sync/bdc.json']
+permissions:
+  contents: write
+jobs:
+  i:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          set -euo pipefail
+          curl -sf -X POST "https://api.supabase.com/v1/projects/nmoigruxnhsidrhqtzid/database/query" -H "Authorization: Bearer $SUPABASE_ACCESS_TOKEN" -H "Content-Type: application/json" \
+            -d '{"query":"select v from depot_tmp where k = '\''3186510a5aa83954739ea75a3b82b458'\'' order by id"}' > /tmp/bdc.json
+          python3 - <<'PY'
+          import json, re
+          rows = [r for x in json.load(open('/tmp/bdc.json')) for r in x['v']]
+          out = {}
+          for sci, ref, t, code, loc, locn, sname in rows:
+              k = ' '.join(re.sub(r'[^A-Za-z\- ]', ' ', sci).lower().split()[:2])
+              e = [t, loc, locn, code, sname]
+              out.setdefault(k, [])
+              if e not in out[k]: out[k].append(e)
+          json.dump({'source': 'TAXREF / INPN, base de connaissance des statuts (MNHN)', 'maj': __import__('datetime').date.today().isoformat(), 'especes': out}, open('data/especes-protegees.json', 'w'), ensure_ascii=False, separators=(',', ':'))
+          print(len(rows), 'lignes', len(out), 'espèces')
+          PY
+          ls -la data/especes-protegees.json
+          git config user.name "TerrenUrbanisme"; git config user.email "contact@terrenurbanisme.com"
+          git add data/especes-protegees.json && git commit -qm "Données : espèces protégées (TAXREF, INPN)" && git pull -q --rebase origin main && git push -q
