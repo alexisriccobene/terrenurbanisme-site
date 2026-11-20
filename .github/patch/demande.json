@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "zfrr.py", "demande": "zone FRR dans le rapport"}
+{"fonction": "stripe-webhook", "script": "zfrr2.py", "demande": "FRR mentions groupées"}
