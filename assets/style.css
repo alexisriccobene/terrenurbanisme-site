@@ -801,7 +801,7 @@ body:has(.ck-banner:not([hidden])) .tu-bot{display:none}
 .six-q li::before{content:counter(q);position:absolute;left:16px;top:16px;width:28px;height:28px;border-radius:50%;background:var(--t);color:#fff;font-weight:800;display:flex;align-items:center;justify-content:center;font-size:14px}
 .six-q strong{display:block}.six-q span{color:var(--muet);font-size:14px}
 @media (max-width:960px){.six-q{grid-template-columns:1fr}}
-.tu-bot-inl{display:inline!important;margin:0!important;font-weight:600!important;word-break:break-all}
+.tu-bot-inl{display:inline!important;margin:0!important;font-weight:600!important;overflow-wrap:anywhere}
 .tu-bot-typing{display:flex;gap:4px;align-items:center;min-height:20px}
 .tu-bot-typing span{width:6px;height:6px;border-radius:50%;background:var(--muet);opacity:.4;animation:tubot 1s infinite}
 .tu-bot-typing span:nth-child(2){animation-delay:.15s}.tu-bot-typing span:nth-child(3){animation-delay:.3s}
@@ -861,3 +861,12 @@ body:has(.ck-banner:not([hidden])) .tu-bot{display:none}
 @media (max-width:900px){.vf-g{grid-template-columns:repeat(2,minmax(0,1fr))}.st-g{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media (max-width:560px){.vf-g{grid-template-columns:1fr}.vf-c{padding:18px}}
 @media (max-width:1180px){.menu .dd-b{font-size:14px;padding:8px 16px;line-height:1.3}}
+.lien-ex{margin-left:18px;font-weight:700;color:var(--t);text-decoration:none;white-space:nowrap}
+.lien-ex:hover{text-decoration:underline}
+.avis-g{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.avis-c{margin:0;background:var(--surface);border:1px solid var(--ligne);border-radius:18px;padding:22px;display:flex;flex-direction:column;gap:12px}
+.avis-n{color:#E0A100;letter-spacing:2px;font-size:17px}.avis-n span{color:var(--ligne)}
+.avis-c blockquote{margin:0;font-size:15px;line-height:1.55;color:var(--ink)}
+.avis-c figcaption{font-size:14px;color:var(--muet);display:flex;flex-wrap:wrap;gap:4px 8px}.avis-c figcaption span{margin-left:auto}
+@media (max-width:900px){.avis-g{grid-template-columns:1fr}}
+@media (max-width:560px){.lien-ex{display:inline-block;margin:14px 0 0}}

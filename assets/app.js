@@ -766,16 +766,21 @@
   var fm = el('form', 'tu-bot-f'); var inp = el('input'); inp.placeholder = 'Posez votre question'; inp.maxLength = 200; inp.setAttribute('aria-label', 'Votre question'); var go = el('button', '', 'Envoyer'); go.type = 'submit'; fm.appendChild(inp); fm.appendChild(go);
   pan.appendChild(head); pan.appendChild(log); pan.appendChild(qk); pan.appendChild(fm); root.appendChild(pan); root.appendChild(btn);
   var hist = [];
+  var LBL = { '/#recherche': 'Vérifier un terrain', '/exemple.html': 'Exemple de rapport', '/tarifs.html': 'Tarifs', '/tarifs.html#offre': 'Demander une offre', '/tarifs.html#demo': 'Réserver une démo', '/tarifs.html#pro': 'Tarifs professionnels', '/fonctionnalites.html': 'Fonctionnalités', '/sources.html': 'Nos sources', '/faq.html': 'Questions fréquentes', '/blog/': 'Blog', '/mairies.html': 'Offre mairies', '/partenaires.html': 'Programme partenaires', '/integration.html': 'Intégration', '/qui-sommes-nous.html': 'Qui sommes-nous', '/pourquoi-terrenurbanisme.html': 'Pourquoi TerrenUrbanisme', '/connexion.html': 'Se connecter', '/presse.html': 'Espace presse', '/couverture.html': 'Couverture', '/comment-ca-marche.html': 'Comment ça marche' };
   var linkify = function(p, txt){
-    var re = /(contact@terrenurbanisme\.com|https?:\/\/terrenurbanisme\.com[^\s,;)]*|\/(?:#recherche|[a-z0-9-]+(?:\/[a-z0-9-]+)*(?:\.html)?\/?(?:#[a-z]+)?))/g, last = 0, mt;
+    txt = txt.replace(/\*\*([^*]+)\*\*/g, '$1');
+    var re = /\[([^\]]{1,60})\]\(([^)\s]+)\)|(contact@terrenurbanisme\.com|https?:\/\/terrenurbanisme\.com[^\s,;)]*|\/(?:#recherche|[a-z0-9-]+(?:\/[a-z0-9-]+)*(?:\.html)?\/?(?:#[a-z]+)?))/g, last = 0, mt;
     while ((mt = re.exec(txt))) {
-      var u = mt[0].replace(/[.]+$/, ''); if (u.charAt(0) === '/' && !/^\/(#recherche|exemple|tarifs|fonctionnalites|sources|faq|blog|mairies|partenaires|integration|outils|guides|qui-sommes-nous|pourquoi|connexion|presse)/.test(u)) continue;
+      var lab = mt[1] || null, u = (mt[2] || mt[3]).replace(/[.]+$/, ''), full = mt[1] ? mt[0] : u;
+      u = u.replace(/^https?:\/\/terrenurbanisme\.com/, '') || '/';
+      if (u.charAt(0) === '/' && !/^\/(#recherche|exemple|tarifs|fonctionnalites|sources|faq|blog|mairies|partenaires|integration|outils|guides|qui-sommes-nous|pourquoi|connexion|presse|couverture|comment|agences|notaires|geometres|architectes|diagnostiqueurs|$)/.test(u)) continue;
       p.appendChild(document.createTextNode(txt.slice(last, mt.index)));
-      var a = document.createElement('a'); a.textContent = u; a.href = u.indexOf('@') > 0 ? 'mailto:' + u : u; a.className = 'tu-bot-inl'; p.appendChild(a); last = mt.index + u.length;
+      var a = document.createElement('a'); a.textContent = lab || LBL[u] || (u.indexOf('@') > 0 ? u : (u === '/' ? 'terrenurbanisme.com' : u)); a.href = u.indexOf('@') > 0 ? 'mailto:' + u : u; a.className = 'tu-bot-inl'; p.appendChild(a); last = mt.index + full.length;
     }
     p.appendChild(document.createTextNode(txt.slice(last)));
   };
   var say = function(who, txt, links){
+    if (who === 'me') qk.hidden = true;
     var m = el('div', 'tu-bot-m ' + who); var pp = el('p'); if (who === 'bot') linkify(pp, txt); else pp.textContent = txt; m.appendChild(pp);
     hist.push({ role: who === 'me' ? 'user' : 'assistant', content: txt });
     (links || []).forEach(function(x){ var a = el('a', '', x[0] + ' →'); a.href = x[1]; m.appendChild(a); });
@@ -837,4 +842,15 @@
   var top = document.querySelector('.top'); if (!top) return;
   var tick = false; var onS = function(){ if (tick) return; tick = true; requestAnimationFrame(function(){ top.classList.toggle('scrolled', window.scrollY > 8); tick = false; }); };
   window.addEventListener('scroll', onS, { passive: true }); onS();
+})();
+
+/* ---------- Avis clients (accueil) : affichés seulement quand de vrais avis existent dans /avis.json ---------- */
+(function(){
+  var sec = document.getElementById('avis'), g = document.getElementById('avis-g'); if (!sec || !g) return;
+  var esc = function(t){ return String(t).replace(/[&<>"]/g, function(c){ return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); };
+  fetch('/avis.json', { cache: 'no-store' }).then(function(r){ return r.ok ? r.json() : []; }).then(function(L){
+    if (!L || !L.length) return;
+    g.innerHTML = L.slice(0, 6).map(function(a){ var n = Math.max(1, Math.min(5, a.note || 5)); return '<figure class="avis-c"><div class="avis-n" aria-label="' + n + ' sur 5">' + '★★★★★'.slice(0, n) + '<span>' + '★★★★★'.slice(n) + '</span></div><blockquote>' + esc(a.texte) + '</blockquote><figcaption><b>' + esc(a.nom) + '</b>' + (a.ville ? ' · ' + esc(a.ville) : '') + (a.date ? '<span>' + esc(a.date) + '</span>' : '') + '</figcaption></figure>'; }).join('');
+    sec.hidden = false;
+  }).catch(function(){});
 })();
