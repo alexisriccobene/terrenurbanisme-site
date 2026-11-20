@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "lot_qualite.py", "demande": "fibre attente et generation github"}
+{"fonction": "stripe-webhook", "script": "fibre_vide.py", "demande": "fibre commune sans adresse proche"}
