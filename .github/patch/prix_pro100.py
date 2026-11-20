@@ -1,8 +1,8 @@
 # Pack de 100 crédits professionnels : 390 € (3,90 € le rapport) au lieu de 450 €
-import sys
+import sys, re
 p = sys.argv[1]; s = open(p, encoding='utf-8').read()
-a = "pro100: { mode: 'payment', amount: 45000, credits: 100,"
-assert s.count(a) == 1, s.count(a)
-s = s.replace(a, "pro100: { mode: 'payment', amount: 39000, credits: 100,")
-s = s.replace("// TerrenUrbanisme · fonction « create-checkout » (v20)\n", "// TerrenUrbanisme · fonction « create-checkout » (v21)\n// v21 : 100 crédits professionnels à 390 € (3,90 € le rapport).\n", 1)
-open(p, 'w', encoding='utf-8').write(s); print('prix pro100 = 390 €')
+s2, n = re.subn(r"(pro100\s*:\s*\{[^}]*?amount\s*:\s*)45000\b", r"\g<1>39000", s)
+if n != 1:
+    for m in re.finditer(r"pro100", s): print(repr(s[m.start():m.start()+120]))
+    sys.exit('pro100 introuvable : %d' % n)
+open(p, 'w', encoding='utf-8').write(s2); print('prix pro100 = 390 €')
