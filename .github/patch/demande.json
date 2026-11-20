@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "demande_pro.py", "demande": "formulaire offre personnalisée"}
+{"fonction": "stripe-webhook", "script": "demande_offre.py", "demande": "table demandes_offre"}
