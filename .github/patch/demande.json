@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "ta_piscine.py", "demande": "piscine 251"}
+{"fonction": "stripe-webhook", "script": "demande_types.py", "demande": "types partenaire integration"}
