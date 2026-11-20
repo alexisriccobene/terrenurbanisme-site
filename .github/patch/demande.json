@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "marqueurs.py", "demande": "marqueurs dans le cadre"}
+{"fonction": "stripe-webhook", "script": "lire.py", "demande": "lecture getjson retry"}
