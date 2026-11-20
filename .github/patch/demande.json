@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "lire.py", "demande": "lecture bloc reglement"}
+{"fonction": "stripe-webhook", "script": "urlfic.py", "demande": "urlfic ancre page"}
