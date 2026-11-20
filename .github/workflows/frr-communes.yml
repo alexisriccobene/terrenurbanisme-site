@@ -21,7 +21,7 @@ jobs:
         run: |
           set -euo pipefail
           pip install -q openpyxl
-          curl -sSfL -A 'TerrenUrbanisme/1.0' -o frr.xlsx "https://www.collectivites-locales.gouv.fr/files/Coh%C3%A9sion%20territoriale/Liste%20communes%20FRR_mai2025.xlsx"
+          curl -sSfL -A 'TerrenUrbanisme/1.0' -o frr.xlsx "https://www.collectivites-locales.gouv.fr/files/files/3.%20Animer%20les%20territoires/5.%20La%20coh%C3%A9sion%20territoriale%20et%20l'am%C3%A9nagement%20du%20territoire/Liste%20communes%20FRR_juillet2025.xlsx"
           ls -l frr.xlsx
           python3 .github/scripts/frr.py frr.xlsx frr.json
       - name: Déposer
