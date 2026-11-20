@@ -787,3 +787,20 @@
   });
   document.body.appendChild(root);
 })();
+
+/* ---------- Blog : articles programmés (un par jour à 17 h), affichés à leur date de parution ---------- */
+(function(){
+  var der = document.getElementById('blog-derniers'); if (!der) return;
+  var esc = function(t){ return String(t).replace(/[&<>"]/g, function(c){ return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); };
+  fetch('/blog/a-paraitre.json', { cache: 'no-store' }).then(function(r){ return r.ok ? r.json() : []; }).then(function(L){
+    var now = Date.now();
+    L.filter(function(a){ return Date.parse(a.pub) <= now; }).forEach(function(a){
+      if (document.querySelector('a.blog-card[href="/blog/' + a.slug + '.html"]')) return;
+      var h = '<a class="blog-card" href="/blog/' + esc(a.slug) + '.html"><span class="blog-tag">' + esc(a.catn) + '</span><strong>' + esc(a.title) + '</strong><span class="blog-ex">' + esc(a.desc) + '</span><span class="blog-meta">' + esc(a.date) + ' · ' + a.min + ' min de lecture</span></a>';
+      der.insertAdjacentHTML('afterbegin', h);
+      var g = document.querySelector('.blog-grid[data-cat="' + a.cat + '"]');
+      if (g) { g.hidden = false; g.insertAdjacentHTML('afterbegin', h); }
+    });
+    while (der.children.length > 6) der.removeChild(der.lastElementChild);
+  }).catch(function(){});
+})();
