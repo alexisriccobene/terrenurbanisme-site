@@ -765,8 +765,19 @@
   var qk = el('div', 'tu-bot-q');
   var fm = el('form', 'tu-bot-f'); var inp = el('input'); inp.placeholder = 'Posez votre question'; inp.maxLength = 200; inp.setAttribute('aria-label', 'Votre question'); var go = el('button', '', 'Envoyer'); go.type = 'submit'; fm.appendChild(inp); fm.appendChild(go);
   pan.appendChild(head); pan.appendChild(log); pan.appendChild(qk); pan.appendChild(fm); root.appendChild(pan); root.appendChild(btn);
+  var hist = [];
+  var linkify = function(p, txt){
+    var re = /(contact@terrenurbanisme\.com|https?:\/\/terrenurbanisme\.com[^\s,;)]*|\/(?:#recherche|[a-z0-9-]+(?:\/[a-z0-9-]+)*(?:\.html)?\/?(?:#[a-z]+)?))/g, last = 0, mt;
+    while ((mt = re.exec(txt))) {
+      var u = mt[0].replace(/[.]+$/, ''); if (u.charAt(0) === '/' && !/^\/(#recherche|exemple|tarifs|fonctionnalites|sources|faq|blog|mairies|partenaires|integration|outils|guides|qui-sommes-nous|pourquoi|connexion|presse)/.test(u)) continue;
+      p.appendChild(document.createTextNode(txt.slice(last, mt.index)));
+      var a = document.createElement('a'); a.textContent = u; a.href = u.indexOf('@') > 0 ? 'mailto:' + u : u; a.className = 'tu-bot-inl'; p.appendChild(a); last = mt.index + u.length;
+    }
+    p.appendChild(document.createTextNode(txt.slice(last)));
+  };
   var say = function(who, txt, links){
-    var m = el('div', 'tu-bot-m ' + who); m.appendChild(el('p', '', txt));
+    var m = el('div', 'tu-bot-m ' + who); var pp = el('p'); if (who === 'bot') linkify(pp, txt); else pp.textContent = txt; m.appendChild(pp);
+    hist.push({ role: who === 'me' ? 'user' : 'assistant', content: txt });
     (links || []).forEach(function(x){ var a = el('a', '', x[0] + ' →'); a.href = x[1]; m.appendChild(a); });
     log.appendChild(m); log.scrollTop = log.scrollHeight;
   };
@@ -780,10 +791,17 @@
   };
   btn.addEventListener('click', function(){ open(pan.hidden); });
   cl.addEventListener('click', function(){ open(false); });
+  var busy = false;
   fm.addEventListener('submit', function(ev){
-    ev.preventDefault(); var t = inp.value.trim(); if (!t) return; inp.value = ''; say('me', t);
-    var i = find(t);
-    if (i >= 0) answer(i); else say('bot', 'Je n\'ai pas de réponse précise à cette question. Écrivez-nous à contact@terrenurbanisme.com : nous répondons sous 24 heures ouvrées.', [['Voir la FAQ', '/faq.html']]);
+    ev.preventDefault(); var t = inp.value.trim(); if (!t || busy) return; inp.value = ''; say('me', t);
+    var fallback = function(){ var i = find(t); if (i >= 0) answer(i); else say('bot', 'Je n\'ai pas de réponse précise à cette question. Écrivez-nous à contact@terrenurbanisme.com : nous répondons sous 24 heures ouvrées.', [['Voir la FAQ', '/faq.html']]); };
+    var dots = el('div', 'tu-bot-m bot tu-bot-typing'); dots.innerHTML = '<span></span><span></span><span></span>'; log.appendChild(dots); log.scrollTop = log.scrollHeight; busy = true; go.disabled = true;
+    var C = window.TU_CONFIG || {};
+    fetch((C.supabaseUrl || 'https://nmoigruxnhsidrhqtzid.supabase.co') + '/functions/v1/stripe-webhook?assistant=1', { method: 'POST', headers: { 'Content-Type': 'text/plain;charset=UTF-8' }, body: JSON.stringify({ page: location.pathname, messages: hist.slice(-8) }) })
+      .then(function(r){ return r.json(); })
+      .then(function(j){ dots.remove(); if (j && j.reply) say('bot', j.reply); else fallback(); })
+      .catch(function(){ dots.remove(); fallback(); })
+      .then(function(){ busy = false; go.disabled = false; });
   });
   document.body.appendChild(root);
 })();
@@ -803,4 +821,20 @@
     });
     while (der.children.length > 6) der.removeChild(der.lastElementChild);
   }).catch(function(){});
+})();
+
+/* ---------- Menu déroulant : mobile (accordéon), clavier, page courante, en-tête au défilement ---------- */
+(function(){
+  document.querySelectorAll('.dd').forEach(function(d){
+    var b = d.querySelector('.dd-t');
+    b.addEventListener('click', function(){
+      if (window.matchMedia('(min-width:1181px)').matches) return;
+      var o = d.classList.toggle('open'); b.setAttribute('aria-expanded', o ? 'true' : 'false');
+    });
+  });
+  var here = location.pathname.replace(/index\.html$/, '');
+  document.querySelectorAll('.menu a[href]').forEach(function(a){ var hr = a.getAttribute('href'), h = hr.split('#')[0]; if (hr.indexOf('#') < 0 && h && h !== '/' && h === here) { a.setAttribute('aria-current', 'page'); var dd = a.closest('.dd'); if (dd) dd.querySelector('.dd-t').classList.add('cur'); } });
+  var top = document.querySelector('.top'); if (!top) return;
+  var tick = false; var onS = function(){ if (tick) return; tick = true; requestAnimationFrame(function(){ top.classList.toggle('scrolled', window.scrollY > 8); tick = false; }); };
+  window.addEventListener('scroll', onS, { passive: true }); onS();
 })();
