@@ -704,3 +704,29 @@ footer .social{display:flex;gap:10px;margin-top:18px}footer .social a{display:in
 .billing button[aria-pressed="true"]{background:var(--ink);color:#fff;border-color:var(--ink)}
 .billing button[aria-pressed="true"] em{color:#F2B9A3}
 @media (max-width:560px){.billing{justify-content:flex-start}.billing-l{width:100%}.billing button{flex:1 1 auto}}
+
+/* ---------- Tarifs v2 : Particuliers / Professionnels ---------- */
+.aud{display:flex;gap:6px;max-width:420px;margin:0 auto 22px;background:var(--soft2);border:1px solid var(--ligne);border-radius:999px;padding:5px}
+.aud button{flex:1;font:inherit;font-size:16px;font-weight:700;border:0;background:transparent;color:var(--muet);padding:12px 10px;border-radius:999px;cursor:pointer}
+.aud button[aria-pressed="true"]{background:var(--ink);color:#fff}
+.plan[hidden],.tu-pan[hidden],.sur-mesure[hidden]{display:none!important}
+.sur-mesure{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:16px;margin-top:20px;background:var(--surface);border:1px solid var(--ligne);border-radius:18px;padding:20px 24px}
+.sur-mesure strong{display:block;font-size:17px}
+.sur-mesure span{color:var(--muet);font-size:14.5px}
+.sm-btns{display:flex;flex-wrap:wrap;gap:10px}
+.sur-mesure .btn.ghost{color:var(--ink);box-shadow:inset 0 0 0 1.5px var(--ink);background:transparent}
+.pro-note{text-align:center;font-size:14px;color:var(--muet);margin:16px 0 0}
+.devis{max-width:760px;margin:0 auto;background:var(--surface);border:1px solid var(--ligne);border-radius:20px;padding:24px}
+.devis-type{max-width:460px;margin-bottom:18px}
+.devis-g{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-bottom:18px}
+.devis-g label{display:flex;flex-direction:column;gap:6px;font-size:13.5px;font-weight:700;color:var(--ink);min-width:0}
+.devis-g input,.devis-g select,.devis-g textarea{font:inherit;font-size:15px;font-weight:400;padding:12px;border:1.5px solid var(--ligne);border-radius:10px;background:#fff;color:var(--ink);width:100%;box-sizing:border-box}
+.devis-g .devis-full{grid-column:1/-1}
+.devis-hp{position:absolute!important;left:-9999px;width:1px;height:1px;overflow:hidden}
+.devis .btn{width:100%}
+.devis-msg{margin:12px 0 0;font-size:14.5px;font-weight:600}
+.devis-msg:empty{display:none}
+.devis-msg.ok{color:var(--ok)}.devis-msg.ko{color:#B3402F}
+@media (max-width:640px){.devis-g{grid-template-columns:1fr}.devis{padding:18px}.sur-mesure{padding:18px}.sm-btns,.sm-btns .btn{width:100%}}
+@media (max-width:960px){.plans .plan.feat{order:-1;margin-top:10px}}
+#offre,#demo{scroll-margin-top:90px}

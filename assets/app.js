@@ -482,13 +482,13 @@
       found.push(['ok', 'Plan de prévention des risques', sups.some(function(x){ return /^pm[1-3]/.test(x); }) ? 'Parcelle concernée par un PPR : règles détaillées dans le rapport' : 'Aucun PPR recensé sur la parcelle']);
     }
     var locked = ['Verdict : constructible ou non, et pourquoi', 'Plan de zonage et chapitre officiel du règlement en annexe', 'Règlement de la zone : hauteur, reculs, aspect, avec extraits', 'Surface constructible estimée en m² et plan d\'implantation', (/^2[AB]/.test(String(parcel && parcel.properties && parcel.properties.code_insee || '')) ? 'PADDUC, distance au rivage, loi Montagne' : 'Loi Littoral, distance au rivage, loi Montagne'), 'Risques à la parcelle, arrêtés de catastrophe naturelle', 'Accès, pente, assainissement et fibre', 'Photos aériennes depuis 1950 et permis accordés autour', 'Prix au m² de la commune et ventes de terrains alentour', 'État des risques (ERP) pré-rempli et rapport officiel Géorisques', 'Démarches, délais et interlocuteurs'];
-    var OFF = { synth: { n: 1, u: '9,90 €', t: '9,90 €' }, unit: { n: 1, u: '19,90 €', t: '19,90 €' }, pack2: { n: 2, u: '14,90 €', t: '29,80 €' }, pack3: { n: 3, u: '12,90 €', t: '38,70 €' } }, kind = 'unit';
-    var btnTxt = function(){ var o = OFF[kind]; return kind === 'synth' ? 'Obtenir le rapport synthétique · ' + o.t : o.n > 1 ? 'Obtenir ' + o.n + ' rapports complets · ' + o.t : 'Obtenir le rapport complet · ' + o.t; };
+    var OFF = { unit: { n: 1, u: '19,90 €', t: '19,90 €' }, pack2: { n: 2, u: '14,90 €', t: '29,80 €' }, pack3: { n: 3, u: '12,90 €', t: '38,70 €' } }, kind = 'unit';
+    var btnTxt = function(){ var o = OFF[kind]; return o.n > 1 ? 'Obtenir ' + o.n + ' rapports complets · ' + o.t : 'Obtenir le rapport complet · ' + o.t; };
     var BTN = btnTxt();
     var opt = function(k, lbl, off, sub){ var o = OFF[k]; return '<label class="v-opt"><input type="radio" name="v-kind" value="' + k + '"' + (k === kind ? ' checked' : '') + '><span class="v-opt-l">' + lbl + (sub ? '<small class="v-opt-s">' + sub + '</small>' : '') + '</span>' + (off ? '<em>' + off + '</em>' : '') + '<b>' + o.u + (o.n > 1 ? '<small>/ rapport</small>' : '') + '</b></label>'; };
     var OFFER = '<div class="v-offer" role="radiogroup" aria-label="Nombre de rapports"><div class="v-offer-top"><b class="v-offer-u">' + OFF[kind].u + '</b> <span>/ rapport</span><div class="v-offer-t">Prix total ' + OFF[kind].t + '</div></div>' +
-      opt('synth', 'Rapport synthétique', '', '2 pages : la réponse en un coup d\'œil, constructible ou non.') + opt('unit', 'Rapport complet', '', '<span class="v-opt-tag">Recommandé pour acheter, vendre ou construire</span>Environ 45 pages, tout pour décider :<span class="v-opt-ul"><span>Ce que vous pouvez construire : surface, hauteur, emprise, implantation d\'une maison</span><span>Le règlement du PLU lu pour vous, avec les extraits officiels</span><span>Risques, servitudes, loi Littoral, patrimoine et architecte des Bâtiments de France</span><span>Eau, électricité, assainissement : coûts et démarches de raccordement</span><span>Ventes réelles autour du terrain et photos aériennes depuis 1950</span><span>Démarches, délais, taxe d\'aménagement et état des risques pour la vente</span></span>') + '<div class="v-opt-sep">Plusieurs biens ? Rapports complets moins chers</div>' + opt('pack2', '2 rapports complets', '−25 %') + opt('pack3', '3 rapports complets', '−35 %') +
-      '<p class="v-opt-note">Rapport synthétique : passez au rapport complet plus tard pour 10 € depuis votre espace. Lots : le premier rapport porte sur cette parcelle, les autres restent sur votre compte, sans limite de durée.</p><p class="v-opt-note"><a href="/tarifs.html#comparer">Comparer le rapport synthétique et le rapport complet</a></p></div>';
+      opt('unit', 'Rapport complet', '', '<span class="v-opt-tag">Recommandé pour acheter, vendre ou construire</span>Environ 45 pages, tout pour décider :<span class="v-opt-ul"><span>Ce que vous pouvez construire : surface, hauteur, emprise, implantation d\'une maison</span><span>Le règlement du PLU lu pour vous, avec les extraits officiels</span><span>Risques, servitudes, loi Littoral, patrimoine et architecte des Bâtiments de France</span><span>Eau, électricité, assainissement : coûts et démarches de raccordement</span><span>Ventes réelles autour du terrain et photos aériennes depuis 1950</span><span>Démarches, délais, taxe d\'aménagement et état des risques pour la vente</span></span>') + '<div class="v-opt-sep">Plusieurs biens ? Rapports complets moins chers</div>' + opt('pack2', '2 rapports complets', '−25 %') + opt('pack3', '3 rapports complets', '−35 %') +
+      '<p class="v-opt-note">Lots : le premier rapport porte sur cette parcelle, les autres restent sur votre compte, sans limite de durée.</p></div>';
     resultEl.innerHTML =
       '<div class="v-ref">' + esc(ref) + '</div>' +
       '<span class="v-badge v-found"><i></i>Parcelle trouvée</span>' +
@@ -501,7 +501,7 @@
       '<ul class="v-found-list">' + found.map(function(f){ return '<li>' + (f[0] === 'warn' ? WARNI : OKI) + '<div><strong>' + esc(f[1]) + '</strong><span>' + esc(f[2]) + '</span></div></li>'; }).join('') + '</ul>' +
       '<ul class="v-locked">' + locked.map(function(t){ return '<li>' + LOCK + '<span>' + esc(t) + '</span><i class="blur" aria-hidden="true">████████</i></li>'; }).join('') + '</ul>' +
       '<button type="button" class="v-cta buy">' + BTN + '</button>' +
-      '<p class="v-buy-note">Rapport PDF envoyé par e-mail en quelques minutes : synthétique en 2 pages, ou complet d\'environ 45 pages avec sommaire cliquable · paiement sécurisé par Stripe<br><a href="/tarifs.html">Professionnels : dès 39 € par mois pour 10 rapports</a> · <a href="/exemple.html">Voir un exemple</a></p><p class="v-buy-err" role="alert"></p>' +
+      '<p class="v-buy-note">Rapport complet d\'environ 45 pages, avec sommaire cliquable, envoyé par e-mail en quelques minutes · paiement sécurisé par Stripe<br><a href="/tarifs.html">Professionnels : dès 39 € par mois pour 10 rapports</a> · <a href="/exemple.html">Voir un exemple</a></p><p class="v-buy-err" role="alert"></p>' +
       '<p class="v-disc">Information indicative, établie à partir des sources publiques consultées à la date de la recherche. Elle ne vaut ni certificat d\'urbanisme, ni autorisation, ni avis juridique : seule la mairie peut confirmer la constructibilité de la parcelle.</p>' +
       '<a class="v-owner" href="https://france-cadastre.fr/" target="_blank" rel="noopener">Connaître le propriétaire de cette parcelle <span>via France Cadastre ↗</span></a>';
     var parcelRef = { insee:inseeOf(p), commune:(inseeOf(p) !== p.code_insee ? arrLabel(p) : p.nom_com), section:sec, numero:num };
@@ -660,69 +660,72 @@
   bindCommuneInput($('cov-com'), $('cov-list'));
 })();
 
-/* ---------- Page Tarifs : formules et paiement ---------- */
+/* ---------- Tarifs : Particuliers / Professionnels, paiement, offre personnalisée ---------- */
 (function(){
-  var root = document.getElementById('plans'); if (!root) return;
-  var UNIT = { unit: ['19,90 €', 'Paiement unique', 'Choisir · 1 rapport'], pack2: ['14,90 € <small>/ rapport</small>', 'Lot de 2 · 29,80 € au total · −25 %', 'Choisir · 2 rapports'], pack3: ['12,90 € <small>/ rapport</small>', 'Lot de 3 · 38,70 € au total', 'Choisir · 3 rapports'] };
-  // Crédits professionnels : 5 € le rapport au plus, dégressif
-  var PRO = { pro10: [10, 60], pro50: [50, 250], pro100: [100, 450], pro250: [250, 1000], pro500: [500, 1750] };
-  // Abonnements : même nombre de rapports chaque mois ; annuel = 10 mois payés pour 12
-  var AB = { pro10: 39, pro50: 175, pro100: 299, pro250: 690, pro500: 1190 };
-  var mode = 'credits', renders = [];
-  var LI = {
-    credits: ['<strong>Votre logo et vos coordonnées sur chaque rapport</strong>', 'Crédits sans limite de durée, aucun engagement', 'Back-office de l\'agence : collaborateurs, rapports par agent, suivi mois par mois', 'Rechargez quand vos crédits sont épuisés', 'Facture automatique au nom de votre société'],
-    mois: ['<strong>Votre logo et vos coordonnées sur chaque rapport</strong>', 'Rapports renouvelés chaque mois, au meilleur prix', 'Rapports non utilisés reportés sur le mois suivant', 'Sans engagement, résiliable en un clic depuis votre espace', 'Back-office de l\'agence et facture à chaque échéance'],
-    an: ['<strong>Votre logo et vos coordonnées sur chaque rapport</strong>', 'Tous les rapports de l\'année disponibles dès le paiement', '10 mois payés pour 12, le prix le plus bas', 'Rappel par e-mail avant le renouvellement', 'Back-office de l\'agence et facture immédiate']
-  };
-  var eur = function(v){ return (Math.round(v * 100) / 100).toLocaleString('fr-FR', { minimumFractionDigits: v % 1 ? 2 : 0, maximumFractionDigits: 2 }) + ' €'; };
-  var bill = document.querySelector('.billing');
-  if (bill) bill.querySelectorAll('button').forEach(function(b){ b.addEventListener('click', function(){
-    mode = b.getAttribute('data-m');
-    bill.querySelectorAll('button').forEach(function(x){ x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });
-    renders.forEach(function(f){ f(); });
-  }); });
-  root.querySelectorAll('.plan').forEach(function(card){
-    var group = card.getAttribute('data-group'), amt = card.querySelector('.amt'), unit = card.querySelector('.unit'), btn = card.querySelector('.go'), err = card.querySelector('.plan-err'), ul = card.querySelector('.pro-li'), big = !!card.getAttribute('data-def');
-    if (!btn) return;
-    var segs = card.querySelectorAll('.seg button');
-    var cur = card.getAttribute('data-def') || (group === 'unit' ? 'pack3' : 'pro10');
-    function render(){
-      segs.forEach(function(b){ b.setAttribute('aria-pressed', b.getAttribute('data-k') === cur ? 'true' : 'false'); });
-      if (group === 'unit') { var o = UNIT[cur]; amt.innerHTML = o[0]; unit.textContent = o[1]; btn.textContent = o[2] + ' →'; btn.setAttribute('data-kind', cur); return; }
-      var P = PRO[cur]; if (!P) return;
-      var h3 = card.querySelector('h3');
-      if (ul) ul.innerHTML = (big ? ['Tous les avantages des formules professionnelles', 'Rapports partagés entre les collaborateurs de votre structure'].concat(LI[mode].slice(1, 4)) : LI[mode]).map(function(t){ return '<li>' + t + '</li>'; }).join('');
-      if (mode === 'credits') {
-        if (h3 && !big) h3.textContent = 'Crédits professionnels';
-        amt.innerHTML = eur(P[1] / P[0]) + ' <small>/ rapport</small>';
-        unit.textContent = P[0] + ' rapports · ' + eur(P[1]) + ' au total';
-        btn.textContent = 'Acheter ' + P[0] + ' rapports →'; btn.setAttribute('data-kind', cur);
-        return;
-      }
-      var m = AB[cur], k = cur.replace('pro', 'ab');
-      if (h3 && !big) h3.textContent = 'Abonnement professionnel';
-      if (mode === 'mois') {
-        amt.innerHTML = eur(m) + ' <small>/ mois</small>';
-        unit.textContent = P[0] + ' rapports par mois · ' + eur(m / P[0]) + ' le rapport · −' + Math.round((1 - m / P[1]) * 100) + '\u00a0% sur les\u00a0crédits';
-        btn.textContent = 'S\'abonner · ' + P[0] + ' rapports par mois →'; btn.setAttribute('data-kind', k);
-      } else {
-        amt.innerHTML = eur(m * 10) + ' <small>/ an</small>';
-        unit.textContent = (P[0] * 12).toLocaleString('fr-FR') + ' rapports pour l\'année · ' + eur(m * 10 / (P[0] * 12)) + ' le rapport';
-        btn.textContent = 'S\'abonner pour un an →'; btn.setAttribute('data-kind', k + '_an');
-      }
-    }
-    renders.push(render);
-    segs.forEach(function(b){ b.addEventListener('click', function(){ cur = b.getAttribute('data-k'); render(); }); });
-    btn.addEventListener('click', function(){
-      var A = window.TUAuth, kind = btn.getAttribute('data-kind'), label = btn.textContent;
-      err.textContent = '';
-      if (!A || !A.ready){ err.textContent = 'Le paiement n\'est pas encore activé.'; return; }
-      btn.disabled = true; btn.textContent = 'Redirection vers le paiement…';
-      A.checkout(kind).catch(function(e){
-        btn.disabled = false; btn.textContent = label;
-        err.textContent = e && e.code === 'deja_abonne' ? 'Vous avez déjà un abonnement actif. Modifiez-le depuis votre espace, rubrique « Gérer mon abonnement ».' : 'Le paiement n\'a pas pu démarrer. Réessayez dans un instant.';
+  var eur = function(v){ return (Math.round(v * 100) / 100).toLocaleString('fr-FR', { minimumFractionDigits: v % 1 ? 2 : 0, maximumFractionDigits: 2 }).replace(/[\u202f\u00a0]/g, '\u00a0') + '\u00a0€'; };
+  var LIM = ['<strong>Votre logo et vos coordonnées sur chaque rapport</strong>', 'Rapports renouvelés chaque mois, au meilleur prix', 'Rapports non utilisés reportés sur le mois suivant', 'Sans engagement, résiliable en un clic'];
+  var LIY = ['<strong>Votre logo et vos coordonnées sur chaque rapport</strong>', 'Tous les rapports de l\'année disponibles dès le paiement', '10 mois payés pour 12, le prix le plus bas', 'Rappel par e-mail avant le renouvellement'];
+  var aud = document.querySelector('.aud');
+  if (aud) {
+    var pans = document.querySelectorAll('.tu-pan');
+    var setAud = function(a){
+      aud.querySelectorAll('button').forEach(function(b){ b.setAttribute('aria-pressed', b.getAttribute('data-a') === a ? 'true' : 'false'); });
+      pans.forEach(function(p){ p.hidden = p.getAttribute('data-pan') !== a; });
+    };
+    aud.querySelectorAll('button').forEach(function(b){ b.addEventListener('click', function(){ setAud(b.getAttribute('data-a')); }); });
+    if (/^#(pro|professionnels|offre|demo)$/.test(location.hash)) setAud('pro');
+    window.addEventListener('hashchange', function(){ if (/^#(pro|professionnels)$/.test(location.hash)) setAud('pro'); });
+    var AB = { '10': [39, 10], '50': [175, 50] }, mode = 'credits', bill = document.querySelector('.tu-pan .billing');
+    var render = function(){
+      document.querySelectorAll('.plans-pro .plan, .sur-mesure').forEach(function(c){ var m = c.getAttribute('data-m'); c.hidden = mode === 'credits' ? m !== 'credits' : m !== 'abo'; });
+      document.querySelectorAll('.plans-pro .plan[data-ab]').forEach(function(c){
+        var n = c.getAttribute('data-ab'), A = AB[n], amt = c.querySelector('.amt'), u = c.querySelector('.unit'), btn = c.querySelector('.go'), nom = c.querySelector('h3').textContent, ulx = c.querySelector('ul');
+        if (ulx) ulx.innerHTML = (mode === 'an' ? LIY : LIM).map(function(t){ return '<li>' + t + '</li>'; }).join('');
+        btn.textContent = 'S\'abonner · ' + nom + ' →';
+        if (mode === 'an') { amt.innerHTML = eur(A[0] * 10) + ' <small>/ an</small>'; u.textContent = (A[1] * 12) + ' rapports pour l\'année · ' + eur(A[0] * 10 / (A[1] * 12)) + ' le rapport'; btn.setAttribute('data-kind', 'ab' + n + '_an'); }
+        else { amt.innerHTML = eur(A[0]) + ' <small>/ mois</small>'; u.textContent = eur(A[0] / A[1]) + ' le rapport'; btn.setAttribute('data-kind', 'ab' + n); }
+      });
+    };
+    if (bill) bill.querySelectorAll('button').forEach(function(b){ b.addEventListener('click', function(){
+      mode = b.getAttribute('data-m');
+      bill.querySelectorAll('button').forEach(function(x){ x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });
+      render();
+    }); });
+    document.querySelectorAll('.tu-pan .plan .go').forEach(function(btn){
+      var err = btn.parentNode.querySelector('.plan-err');
+      btn.addEventListener('click', function(){
+        var A = window.TUAuth, kind = btn.getAttribute('data-kind'), label = btn.textContent;
+        if (err) err.textContent = '';
+        if (!A || !A.ready){ if (err) err.textContent = 'Le paiement n\'est pas encore activé.'; return; }
+        btn.disabled = true; btn.textContent = 'Redirection vers le paiement…';
+        A.checkout(kind).catch(function(e){
+          btn.disabled = false; btn.textContent = label;
+          if (err) err.textContent = e && e.code === 'deja_abonne' ? 'Vous avez déjà un abonnement actif. Modifiez-le depuis votre espace, rubrique « Gérer mon abonnement ».' : 'Le paiement n\'a pas pu démarrer. Réessayez dans un instant.';
+        });
       });
     });
     render();
-  });
+  }
+  var f = document.getElementById('devis');
+  if (f) {
+    var type = 'offre', demoL = f.querySelector('.devis-demo'), msg = f.querySelector('.devis-msg'), sb = f.querySelector('button[type="submit"]');
+    var setT = function(t){ type = t; f.querySelectorAll('.devis-type button').forEach(function(b){ b.setAttribute('aria-pressed', b.getAttribute('data-t') === t ? 'true' : 'false'); }); if (demoL) demoL.hidden = t !== 'demo'; sb.textContent = t === 'demo' ? 'Demander ma démonstration' : 'Envoyer ma demande'; };
+    f.querySelectorAll('.devis-type button').forEach(function(b){ b.addEventListener('click', function(){ setT(b.getAttribute('data-t')); }); });
+    var fromHash = function(){ if (location.hash === '#demo') setT('demo'); else if (location.hash === '#offre') setT('offre'); };
+    fromHash(); window.addEventListener('hashchange', fromHash);
+    f.addEventListener('submit', function(ev){
+      ev.preventDefault(); msg.className = 'devis-msg'; msg.textContent = '';
+      var d = { type: type, page: location.pathname };
+      ['nom', 'societe', 'email', 'telephone', 'profession', 'volume', 'creneau', 'message', 'site_web'].forEach(function(k){ var el = f.elements[k]; d[k] = el ? el.value.trim() : ''; });
+      if (!d.nom || !/^[^@\s]+@[^@\s]+\.[a-z]{2,}$/i.test(d.email)) { msg.className = 'devis-msg ko'; msg.textContent = 'Indiquez votre nom et une adresse e-mail valide.'; return; }
+      var C = window.TU_CONFIG || {}; sb.disabled = true; var lab = sb.textContent; sb.textContent = 'Envoi en cours…';
+      fetch((C.supabaseUrl || 'https://nmoigruxnhsidrhqtzid.supabase.co') + '/functions/v1/stripe-webhook?demande=pro', { method: 'POST', headers: { 'Content-Type': 'text/plain;charset=UTF-8' }, body: JSON.stringify(d) })
+        .then(function(r){ return r.json().then(function(j){ return { ok: r.ok && j.ok, j: j }; }); })
+        .then(function(x){
+          sb.disabled = false; sb.textContent = lab;
+          if (x.ok) { f.reset(); setT(type); msg.className = 'devis-msg ok'; msg.textContent = type === 'demo' ? 'Merci, votre demande de démonstration est bien reçue. Nous vous contactons sous 24 heures ouvrées pour fixer le rendez-vous.' : 'Merci, votre demande est bien reçue. Nous revenons vers vous sous 24 heures ouvrées avec une offre adaptée.'; }
+          else { msg.className = 'devis-msg ko'; msg.textContent = x.j && x.j.error === 'limite' ? 'Trop de demandes en peu de temps. Réessayez dans une heure ou écrivez à contact@terrenurbanisme.com.' : 'La demande n\'a pas pu être envoyée. Vérifiez les champs ou écrivez à contact@terrenurbanisme.com.'; }
+        }).catch(function(){ sb.disabled = false; sb.textContent = lab; msg.className = 'devis-msg ko'; msg.textContent = 'La demande n\'a pas pu être envoyée. Réessayez ou écrivez à contact@terrenurbanisme.com.'; });
+    });
+  }
 })();
