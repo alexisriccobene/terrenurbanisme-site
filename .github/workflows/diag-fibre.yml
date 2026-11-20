@@ -1,0 +1,38 @@
+name: Diagnostic fibre
+on:
+  push:
+    branches: [main]
+    paths: ['.github/diag/fibre.txt']
+permissions:
+  contents: read
+jobs:
+  d:
+    runs-on: ubuntu-latest
+    env:
+      SR: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+      U: https://nmoigruxnhsidrhqtzid.supabase.co
+    steps:
+      - uses: actions/checkout@v4
+        with: { sparse-checkout: .github/diag }
+      - run: pip install -q pyproj
+      - run: |
+          python3 - <<'PY'
+          import json, os, math, urllib.request, urllib.parse
+          from pyproj import Transformer
+          l93 = Transformer.from_crs(2154, 4326, always_xy=True); wm = Transformer.from_crs(3857, 4326, always_xy=True)
+          for line in open('.github/diag/fibre.txt').read().split():
+              insee, sec, num = line.split(':')
+              rq = urllib.request.Request(f"{os.environ['U']}/storage/v1/object/foncier/fibre/{insee}.json", headers={'Authorization': 'Bearer ' + os.environ['SR'], 'apikey': os.environ['SR']})
+              j = json.loads(urllib.request.urlopen(rq, timeout=60).read())
+              p = json.loads(urllib.request.urlopen(f"https://apicarto.ign.fr/api/cadastre/parcelle?code_insee={insee}&section={sec.zfill(2)}&numero={num.zfill(4)}", timeout=60).read())
+              c = p['features'][0]['geometry']['coordinates'][0][0][0]
+              rows = j['rows']; print('==', insee, 'lignes', len(rows), 'parcelle', c, 'ex', rows[:2])
+              best = {}
+              for r in rows:
+                  x, y = r[0], r[1]
+                  for k, t in (('l93', l93), ('wm', wm)):
+                      lo, la = (x, y) if abs(x) < 200 else t.transform(x, y)
+                      d = math.hypot((lo - c[0]) * 111320 * math.cos(math.radians(c[1])), (la - c[1]) * 110574)
+                      best[k] = min(best.get(k, 9e9), d)
+              print('   distance mini (m) :', {k: round(v) for k, v in best.items()}, 'fibrées', sum(1 for r in rows if r[7]))
+          PY

@@ -1,0 +1,8 @@
+règlement lecture directe IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"messages.0.content.0.image.source.base64.data: The file format is invalid or unsupported"},"request_id":"req_011ChEZckrHhYtEuo
+règlement source e7f5da48a16e8ddc59668dd2e07eb67/2A198_reglement_20210329.pdf IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"messages.0.content.0.image.source.base64.data: The file format is inva
+règlement lecture directe IA (relais) 500 IA : réponse tronquée
+règlement source 802109b8e104f06f087e71fe4bf/200066371_reglement_20250707.pdf IA (relais) 500 IA : réponse tronquée
+règlement lecture directe IA (relais) 500 The signal has been aborted
+règlement source 802109b8e104f06f087e71fe4bf/200066371_reglement_20250707.pdf IA (relais) 500 The signal has been aborted
+règlement lecture directe IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"This URL is disallowed by the website's robots.txt file."},"request_id":"req_011ChEZxjSH1dGMpRHcU4she"}
+règlement source jon.fr/adscs/reglements/21/PLUIDM/5_1_Reglement_litteral.pdf IA (relais) 500 IA 400 {"type":"error","error":{"type":"invalid_request_error","message":"This URL is disallowed by the website's robots.txt file."},"request_id
