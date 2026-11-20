@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "zfrr2.py", "demande": "FRR mentions groupées"}
+{"fonction": "stripe-webhook", "script": "lire.py", "demande": "lecture routeur"}
