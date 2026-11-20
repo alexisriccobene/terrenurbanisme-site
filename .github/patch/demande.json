@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "lire.py", "demande": "lecture relancer"}
+{"fonction": "stripe-webhook", "script": "lot_qualite.py", "demande": "fibre attente et generation github"}
