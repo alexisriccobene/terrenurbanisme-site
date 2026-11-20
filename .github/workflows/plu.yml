@@ -1,0 +1,34 @@
+name: PLU non publiés
+# Exécute .github/foncier/<script> (indiqué dans .github/plu-demande.json) ; sorties sur la branche plu-sorties/<demande>/
+on:
+  push:
+    branches: [main]
+    paths: ['.github/plu-demande.json']
+permissions:
+  contents: write
+concurrency: { group: plu, cancel-in-progress: false }
+jobs:
+  p:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    env:
+      SR: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+      REF: nmoigruxnhsidrhqtzid
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install -q shapely pyproj requests pymupdf opencv-python-headless scipy pytesseract numpy
+      - run: sudo apt-get install -y -qq tesseract-ocr > /dev/null
+      - run: |
+          mkdir -p /tmp/out
+          S=$(python3 -c "import json;print(json.load(open('.github/plu-demande.json'))['script'])")
+          python3 -u .github/foncier/$S 2>&1 | tee /tmp/out/log.txt
+      - if: always()
+        run: |
+          D=$(python3 -c "import json;print(json.load(open('.github/plu-demande.json'))['demande'])")
+          git config user.name bot; git config user.email bot@users.noreply.github.com
+          git fetch -q origin plu-sorties && git checkout -q plu-sorties || git checkout -q --orphan plu-sorties
+          git rm -rqf --cached . > /dev/null 2>&1 || true
+          find . -maxdepth 1 ! -name .git ! -name . ! -name "plu-sorties-*" -exec rm -rf {} + 2>/dev/null || true
+          git checkout -q origin/plu-sorties -- . 2>/dev/null || true
+          mkdir -p "$D"; cp -r /tmp/out/* "$D"/
+          git add -A . && git commit -qm "PLU $D [skip ci]" && git push -q origin HEAD:plu-sorties || true
