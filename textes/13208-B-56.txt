@@ -1,0 +1,2437 @@
+                  TerrenUrbanisme
+                  Le terrain constructible, partout en France
+
+
+
+
+RAPPORT D'URBANISME
+
+
+
+Marseille
+Section B · Parcelle n° 56
+      Non constructible
+
+
+
+
+Référence cadastrale                                                        Surface cadastrale
+132088370B0056                                                              113 m²
+
+Rapport établi le                                                           Référence du rapport
+20/11/2026                                                                  APERCU
+
+
+
+
+terrenurbanisme.com                                                                      contact@terrenurbanisme.com
+
+Document d'information sans valeur contractuelle ni réglementaire. Il ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme
+et ne peut en aucun cas être joint à une demande de permis de construire ou de déclaration préalable. Seuls les actes de l'administration font foi.
+                                                                                                                           Marseille · B 56
+         TerrenUrbanisme
+                                                                                                                              Sommaire
+
+
+
+
+Sommaire
+Le rapport suit l'ordre d'une étude de terrain : où se trouve la parcelle, ce que dit la règle, ce qui pèse sur le
+projet, puis les démarches.
+
+              Synthèse
+   S                                                                                                                                 p. 3
+              Le verdict, les indicateurs clés et les points d'attention en une page.
+
+              Identification de la parcelle
+   01                                                                                                                                p. 4
+              Localisation, surface, références cadastrales et voisinage du terrain.
+
+              Règles d'urbanisme applicables
+  02                                                                                                                                 p. 7
+              Document d'urbanisme, zone du terrain, prescriptions et servitudes.
+
+              Ce que vous pouvez construire
+  03                                                                                                                                p. 10
+              Surface constructible, hauteur, reculs, aspect et usages autorisés.
+
+              Loi Littoral et loi Montagne
+  04                                                                                                                                p. 16
+              Les lois qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+              Risques naturels et technologiques
+  05                                                                                                                                p. 17
+              Inondation, feu de forêt, argiles, catastrophes naturelles et sites pollués.
+
+              Le terrain : accès, relief et réseaux
+  06                                                                                                                                p. 21
+              Accès, pente, ensoleillement, eaux usées, électricité, eau et fibre.
+
+              Conditions de vente du terrain
+  07                                                                                                                                p. 28
+              Terrain agricole ou naturel : SAFER, fermier en place et repère officiel de prix.
+
+              Environnement et marché immobilier
+  08                                                                                                                               p. 30
+              Espaces naturels, espèces protégées et ventes immobilières alentour.
+
+              Historique du site
+  09                                                                                                                                p. 33
+              Le terrain vu du ciel au fil des années et les permis accordés autour.
+
+              Votre projet, étape par étape
+   10                                                                                                                               p. 35
+              De l'achat aux impôts : démarches, délais, coûts, contacts et taxe.
+
+              État des risques (ERP) pré-rempli
+   11                                                                                                                               p. 39
+              Le formulaire réglementaire à remettre à l'acquéreur, pré-rempli.
+
+              Avertissement et sources
+   12                                                                                                                               p. 41
+              La portée de ce rapport et les sources publiques consultées.
+
+
+
+
+Astuce : cliquez sur un chapitre pour y accéder directement.
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                2 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Marseille · B 56
+         TerrenUrbanisme
+                                                                                                                                       Synthèse
+
+
+
+
+Synthèse
+     Document d'information. Ce rapport ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme,
+     n'engage pas l'administration et ne peut pas servir de pièce à une demande de permis de construire.
+     L'appréciation ci-dessous est indicative : seule la mairie se prononce sur la constructibilité d'un terrain,
+     au vu d'un projet précis.
+
+
+
+
+       NON CONSTRUCTIBLE
+
+       Ce terrain n'est pas constructible en l'état
+       La parcelle est classée en zone Ns (naturelle et forestière) du PLU intercommunal de
+       Marseille. Les constructions nouvelles n'y sont pas admises, sauf exceptions encadrées.
+       La commune est littorale : la loi Littoral s'applique (rivage à environ 160 m). Le terrain est
+       situé dans un site classé ou inscrit (Site Inscrit - Ensemble formé par les Calanques et
+       leurs abords, à Cassis et à Marseille) : l'architecte des Bâtiments de France donne son avis
+       sur les travaux et peut imposer des prescriptions (matériaux, couleurs, volumes).
+
+
+
+
+      Zone principale                                        Document d'urbanisme                                  Loi Littoral
+
+   Ns · 100 %                                             PLUI                                                   S'applique · rivage à 160 m
+
+
+
+
+      Loi Montagne                                           Risques à la parcelle
+
+   Ne s'applique pas                                      Séisme · Mouvement de
+                                                          terrain (+2)
+
+
+
+
+Points d'attention
+    Zone Ns (100 % de la parcelle) : non constructible.
+    Risque de feu de forêt : obligation légale de débroussaillement, autorisation de défrichement possible pour un
+    terrain boisé.
+    Site classé ou inscrit (Site Inscrit - Ensemble formé par les Calanques et leurs abords, à Cassis et à Marseille) : avis
+    de l'architecte des Bâtiments de France, autorisation spéciale en site classé.
+    Site Natura 2000 (directive Habitats) « Calanques et îles marseillaises - Cap Canaille et massif du Grand Caunet » :
+    une évaluation des incidences peut être exigée.
+    Terrain en pente marquée (environ 41 %) : surcoût probable de terrassement.
+    Logement : le règlement de la zone Ns n'admet pas de logement neuf, sauf exceptions prévues par la zone
+    (logement de gardiennage, par exemple) : voir le chapitre « Ce que vous pouvez construire ».
+    Pollution des sols : concerné à l'adresse de la parcelle (voir le chapitre « Risques naturels et technologiques »).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        3 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Marseille · B 56
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+    01             Identification de la parcelle
+     DANS CETTE SECTION
+
+     Où se trouve le terrain, sa surface, ses références cadastrales, son propriétaire lorsqu'il s'agit
+     d'une société ou d'une collectivité, et la performance énergétique du bâti existant.
+
+
+Données du cadastre (DGFiP) et de l'IGN.
+
+
+     Plan de situation
+
+
+
+
+                                                                                                                            1 km
+
+
+
+Plan IGN · © IGN
+
+
+
+     Vue aérienne et plan cadastral
+
+
+
+
+                                                                                                                                     25 m
+
+
+
+Photographie aérienne et plan cadastral · © IGN
+
+
+Commune                                                  Marseille (13208)
+
+Département                                              Bouches-du-Rhône (13)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           4 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Marseille · B 56
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+Section et numéro                                        Section B, parcelle n° 56, feuille 1
+
+Identifiant cadastral                                    132088370B0056
+
+Surface cadastrale                                       113 m²
+
+Surface calculée (SIG)                                   117 m² · périmètre 49 m
+
+Coordonnées du centre                                    43.21344 N, 5.35531 E (WGS 84)
+
+Altitude                                                 de 6 à 10 m
+
+Pente estimée                                            41 % (terrain en pente marquée)
+
+Parcelles voisines                                       B 44, B 55, B 57
+
+
+Le plan cadastral est un document fiscal : il ne fait pas foi des limites de propriété. Seul un bornage réalisé par un
+géomètre-expert fixe les limites de manière certaine.
+
+
+1.1 Propriétaire et voisinage
+     La parcelle appartient à une personne morale : SCI VILLAGES (SCI) · SIREN 326115417. Le gérant ou le
+     représentant légal se retrouve à partir du numéro SIREN sur annuaire-entreprises.data.gouv.fr.
+
+
+
+Parcelles voisines détenues par des sociétés ou des collectivités
+  PARCELLE              PROPRIÉTAIRE                                                                     SURFACE            SIREN
+
+  B 57                  SCI VILLAGES (SCI)                                                               140 m²             326115417
+
+  B 55                  SCI VILLAGES (SCI)                                                               113 m²             326115417
+
+  B 44                  DEPARTEMENT DES BOUCHES DU RHONE (DEPT)                                          137 608 m²         221300015
+
+
+
+Principaux propriétaires personnes morales dans un rayon de 280 m
+  PROPRIÉTAIRE                                                              PARCELLES             SURFACE TOTALE            SIREN
+
+  SCI VILLAGES (SCI)                                                        59                    7 316 m²                  326115417
+
+  ETAT PAR DIRECTION DE L IMMOBILIER DE L                                   1                     1 950 m²                  –
+  ETAT (ETAT)
+
+  DEPARTEMENT DES BOUCHES DU RHONE (DEPT)                                   13                    499 m²                    221300015
+
+
+
+Source : fichiers des parcelles des personnes morales (DGFiP) : sociétés, SCI, collectivités, établissements publics et associations.
+Les propriétaires personnes physiques n'y figurent pas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             5 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Marseille · B 56
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+1.2 La commune de Marseille
+Code postal                                              13001, 13002, 13003, 13004, 13005, 13006, 13007, 13008, 13009, 13010,
+                                                         13011, 13012, 13013, 13014, 13015, 13016
+
+Département                                              Bouches-du-Rhône (13)
+
+Intercommunalité                                         Métropole d'Aix-Marseille-Provence
+
+Population                                               886 040 habitants
+
+Superficie                                               237,93 km²
+
+Densité                                                  3 724 habitants par km²
+
+Commune littorale                                        Oui : la loi Littoral s'applique
+
+Commune de montagne                                      Non
+
+Document d'urbanisme                                     Plan local d'urbanisme intercommunal (PLUi)
+
+Risques sur la commune                                   53 arrêtés de catastrophe naturelle · détail en section Risques et en
+                                                         annexe
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           6 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Marseille · B 56
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+    02             Règles d'urbanisme applicables
+     DANS CETTE SECTION
+
+     Le document d'urbanisme de la commune, la zone dans laquelle se trouve le terrain, et les
+     prescriptions et servitudes qui s'y ajoutent.
+
+
+Géoportail de l'Urbanisme : zonage, prescriptions et servitudes.
+
+
+
+2.1 Document d'urbanisme en vigueur
+Type de document                                         Plan local d'urbanisme intercommunal (PLUi)
+
+Date d'approbation                                       Non renseigné
+
+Statut                                                   Publié au Géoportail de l'Urbanisme
+
+Règlement officiel                                       Ouvrir le document officiel (PDF)
+
+
+
+     Plan de zonage du PLU
+
+
+
+
+                                                                              Ns
+
+
+
+
+                                                                                                                           50 m
+
+
+
+Zonage : Géoportail de l'Urbanisme · fond : © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       7 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Marseille · B 56
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.2 Zonage de la parcelle
+  ZONE                  DÉSIGNATION                                                         PART               CONSTRUCTIBILITÉ
+
+  Ns                    Zone naturelle stricte                                              100 %              Non constructible
+
+
+
+Zone Ns · Naturelle et forestière
+Zone naturelle et forestière : secteur protégé en raison de la qualité des sites, des milieux naturels et des
+paysages, ou de son caractère d'espace naturel. Les constructions nouvelles n'y sont pas admises, sauf
+exceptions encadrées (équipements publics, extension limitée des habitations existantes, secteurs de taille et
+de capacité limitées).
+
+
+2.3 Prescriptions applicables à la parcelle
+  PRESCRIPTION                                                                                       TYPE
+
+  Mouvement de terrain - prescription simple ou renforcée Marseille                                  Prescription du PLU (type 02)
+
+  Forme d'habitat spécifique                                                                         Élément de patrimoine ou de paysage
+                                                                                                     protégé
+
+  Espace naturel remarquable                                                                         Prescription du PLU (type 31)
+
+
+
+
+2.4 Informations complémentaires du PLU
+  INFORMATION                                                                                        TYPE
+
+  Fôret domaniale                                                                                    Information du PLU (type 37)
+
+  Enveloppe d'application du PPR Incendie de Forêt approuvé ou en                                    Information du PLU (type 21)
+  cours (PPRIF)
+
+  Règlement Local de Publicité Intercommunal (RLPi)                                                  Information du PLU (type 20)
+
+  Espace proche du rivage                                                                            Information du PLU (type 99)
+
+
+
+
+2.5 Servitudes d'utilité publique
+  CODE               SERVITUDE                                                                    DÉTAIL
+
+  PM1                Plan de prévention des risques naturels (PPRN)                               PM1 MARSEILLE ass
+
+  AC2                Site inscrit ou classé                                                       AC2 ensemble forme par les calanques et
+                                                                                                  leurs abords a cassis et a marseille ass
+
+  AC2                Site inscrit ou classé                                                       AC2 massif des calanques ass
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          8 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Marseille · B 56
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+  CODE               SERVITUDE                                                                    DÉTAIL
+
+  EL10               Servitude d'utilité publique                                                 EL10 Calanques ass
+
+
+
+
+2.6 Patrimoine : l'architecte des Bâtiments de France
+     En clair : le terrain est dans un site classé ou inscrit. L'architecte des Bâtiments de France donne son
+     avis sur les travaux ; en site classé, une autorisation spéciale est nécessaire.
+
+
+
+  PROTECTION                                NOM                                                CE QUE CELA IMPLIQUE
+
+  Site classé ou inscrit                    Site Inscrit - Ensemble formé par                  Site inscrit : avis de l'architecte. Site classé :
+                                            les Calanques et leurs abords, à                   autorisation spéciale du préfet ou du ministre
+                                            Cassis et à Marseille
+
+  Site classé ou inscrit                    Site Classé - Massif des Calanques                 Site inscrit : avis de l'architecte. Site classé :
+                                                                                               autorisation spéciale du préfet ou du ministre
+
+
+
+Conseils : consulter l'architecte des Bâtiments de France (unité départementale de l'architecture et du patrimoine,
+joignable par la mairie) avant de dessiner le projet ; prévoir un délai d'instruction majoré d'un mois ; soigner
+l'insertion (matériaux, teintes, toitures, clôtures) dès l'esquisse.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           9 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Marseille · B 56
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    03             Ce que vous pouvez construire
+     DANS CETTE SECTION
+
+     La lecture du règlement de votre zone : surface constructible estimée, hauteur, reculs, aspect,
+     usages autorisés ou interdits, avec les extraits du texte officiel.
+
+
+Lecture du règlement écrit de la zone Ns, pages 422 à 437 du règlement officiel.
+
+
+
+3.1 Potentiel constructible estimé
+     Le règlement de la zone Ns n'admet pas de construction nouvelle à usage de logement. Seules restent
+     possibles les constructions expressément admises par la zone et les évolutions encadrées des
+     constructions existantes.
+
+
+
+Constructions admises dans la zone :
+
+    Exploitation agricole ou forestière, sous conditions (art. 1h et 1i)
+    Locaux techniques et industriels des administrations publiques et assimilés, sous conditions (art. 1d)
+    Installations, constructions et aménagements de nouvelles routes et ouvrages nécessaires à la sécurité
+    maritime et aérienne, à la défense nationale et à la sécurité civile, ou au fonctionnement des aérodromes et des
+    services publics portuaires autres que les ports de plaisance, si la localisation résulte d'une nécessité technique
+    impérative (art. 1c)
+    Travaux liés à la conservation ou à la protection des espaces et milieux : stabilisation de dunes, travaux
+    hydrauliques ou forestiers (art. 1e)
+
+
+3.2 Caractère de la zone
+La zone N regroupe les zones naturelles. Le secteur Ns couvre la grande majorité des secteurs naturels
+du territoire. Il requiert une protection forte en raison des enjeux paysagers (massifs emblématiques,
+lignes de crêtes majeures) et écologiques (réservoirs de biodiversité). La gestion des risques naturels
+(feux de forêts, ruissellement) y pèse aussi. Les constructions y sont très limitées.
+
+
+3.3 Règles de construction
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Surface minimale ou                          Non précisé dans le règlement de la zone                                         art. 1 à 13 zone
+  caractéristiques du terrain                                                                                                   N
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        10 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Marseille · B 56
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Accès et voirie                              Terrain desservi par une emprise publique ou une voie dont les                   art. 12
+                                               caractéristiques répondent aux besoins, à la sécurité routière,
+                                               à la défense incendie, à la sécurité civile et à la collecte des
+                                               ordures. Voie en impasse de plus de 30 m : aire de
+                                               retournement à moins de 30 m de sa terminaison. Accès
+                                               interdits sur autoroutes et voies majeures, sauf impossibilité
+                                               technique justifiée et accord du gestionnaire. Un seul accès par
+                                               emprise publique ou voie (deux admis si le terrain n'est bordé
+                                               que d'une voie et si nécessité justifiée).
+
+  Réseaux et assainissement                    Eau potable : raccordement au réseau public, ou à défaut à un                    art. 13
+                                               réseau privé (captage, forage). Eaux usées : raccordement
+                                               obligatoire au réseau public d'assainissement collectif. Règle
+                                               alternative : assainissement non collectif conforme admis si le
+                                               terrain est difficilement raccordable ou sans réseau, avec
+                                               attestation du SPANC jointe à la demande, et construction
+                                               pouvant être reliée au réseau collectif ultérieurement. Rejet
+                                               d'eaux usées interdit dans les réseaux pluviaux et les cours
+                                               d'eau non pérennes. Eaux pluviales : drainage, stockage ou
+                                               infiltration pour limiter le ruissellement, avec traitement
+                                               qualitatif. Branchements électriques et télécoms en souterrain.
+                                               Défense incendie conforme au RDDECI 13.
+
+  Implantation par rapport                     Distance horizontale supérieure ou égale à 5 m entre toute                       art. 6a
+  aux voies                                    construction et aménagement et les limites des emprises
+                                               publiques, pistes DFCI ou voies (à défaut d'indication
+                                               graphique). Locaux techniques non concernés. Règle
+                                               alternative pour les annexes et plateformes de stationnement
+                                               (implantation possible à l'alignement ou plus loin pour
+                                               difficultés techniques).
+
+  Implantation par rapport                     Distance d >= différence d'altitude DA avec la limite, et d >= 3                 art. 7a
+  aux limites séparatives                      m. L'altitude de la limite est mesurée sur le fonds voisin.
+                                               Constructions enterrées, débords de toiture et modénatures
+                                               de 0,30 m maximum, clôtures non concernés.
+
+  Implantation des                             Les constructions annexes sont implantées intégralement à                        art. 8a
+  constructions entre elles                    moins de 15 m de la construction principale à laquelle elles sont
+                                               liées.
+
+  Emprise au sol                               Dans les polygones d'implantation, l'emprise au sol de                           art. 4a
+                                               l'ensemble des constructions et aménagements d'exploitation
+                                               agricole ou forestière est <= 600 m². Les règles d'emprise des
+                                               annexes et extensions de logement (art. 4b et 4c) ne visent que
+                                               Nh et Nt, donc pas Ns.
+
+  Hauteur maximale                             Hauteur de façade <= 13 m pour les équipements d'intérêt                         art. 5a et 5b
+                                               collectif et services publics, 10 m pour l'exploitation agricole ou
+                                               forestière, 7 m pour le logement et les autres destinations.
+                                               Hauteur totale = hauteur de façade constatée ou projetée + 3
+                                               m. Clôtures, débords de toiture et modénatures de 0,30 m,
+                                               installations techniques industrielles non concernés.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           11 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Marseille · B 56
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Aspect extérieur et toitures                 Constructions pouvant être interdites ou soumises à                              art. 9a à 9h
+                                               prescriptions si elles portent atteinte aux lieux avoisinants,
+                                               sites, paysages ou perspectives. Insertion harmonieuse dans le
+                                               paysage. Toiture plate (pente <= 10 %) ou pente comprise entre
+                                               25 et 35 %. Installations techniques encastrées en façade sur
+                                               espace public, sauf panneaux solaires concourant à la
+                                               composition architecturale. Extensions et annexes traitées
+                                               avec le même soin que le bâtiment principal.
+
+  Matériaux et couleurs                        Le choix des matériaux et coloris doit concourir à la qualité                    art. 9c
+                                               architecturale et ne pas compromettre l'insertion dans le site
+                                               (nature, aspect, couleur). Pas de palette chiffrée.
+
+  Clôtures                                     Hauteur totale <= 2 m par rapport au terrain naturel (3 m en                     art. 9i à 9n ; DG
+                                               NG). Clôtures ajourées (grillage, claustra) et/ou en haie vive                   art. 3.4
+                                               et/ou en pierres sèches. En limite des voies, pas de doublage
+                                               opaque des parties ajourées, sauf haie vive. Elles ne doivent
+                                               pas faire obstacle à l'écoulement des eaux pluviales et doivent
+                                               être perméables à la petite faune. Règles des dispositions
+                                               générales pour les clôtures sur murs de soutènement ou de
+                                               plateforme.
+
+  Stationnement                                Stationnement et manœuvres, y compris des visiteurs, assurés                     art. 11
+                                               en dehors des emprises publiques et des voies. Pas de norme
+                                               chiffrée. Pas d'aggravation de la non-conformité existante en
+                                               cas de projet sans division.
+
+  Espaces verts et plantations                 Non réglementé                                                                   art. 10
+
+  Densité ou coefficient                       Non précisé dans le règlement de la zone (pas de COS)                            zone N
+
+
+
+
+3.4 Usages autorisés
+    Exploitation agricole ou forestière, sous conditions (art. 1h et 1i)
+    Locaux techniques et industriels des administrations publiques et assimilés, sous conditions (art. 1d)
+    Installations, constructions et aménagements de nouvelles routes et ouvrages nécessaires à la sécurité
+    maritime et aérienne, à la défense nationale et à la sécurité civile, ou au fonctionnement des aérodromes
+    et des services publics portuaires autres que les ports de plaisance, si la localisation résulte d'une
+    nécessité technique impérative (art. 1c)
+    Travaux liés à la conservation ou à la protection des espaces et milieux : stabilisation de dunes, travaux
+    hydrauliques ou forestiers (art. 1e)
+    Cheminements piétonniers, cyclables et sentes équestres ni cimentés ni bitumés, objets mobiliers
+    d'accueil ou d'information du public, postes d'observation de la faune, équipements démontables d'hygiène
+    et de sécurité, sous conditions (art. 1f)
+    Aires de stationnement non cimentées ni bitumées, sous conditions (art. 1g)
+    Cimetières hors espaces naturels remarquables (ENR) et espaces proches du rivage (EPR), sous conditions
+    (art. 1j)
+    Affouillements et exhaussements du sol, sous conditions (art. 1k)
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          12 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Marseille · B 56
+          TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    Extensions limitées des constructions légales d'exploitation agricole ou forestière existantes à la date
+    d'approbation du PLUi, hors ENR (art. 2b)
+    Changement de destination des bâtiments identifiés au règlement graphique, sous conditions (art. 2e)
+    Reconstruction à l'identique d'une construction légale détruite par sinistre depuis moins de 10 ans, ou
+    démolie volontairement depuis moins de 5 ans, sous conditions (DG art. 2.3)
+
+
+3.5 Usages interdits ou soumis à conditions
+    Logement et hébergement : interdits (art. 1b). Les extensions et annexes de logement de l'art. 2c ne sont
+    admises qu'en Nh et Nt, donc pas en Ns.
+    Toutes les sous-destinations de commerce et activité de service : interdites (art. 1b)
+    Autres activités des secteurs secondaire ou tertiaire (industrie, entrepôt, bureau, centre de congrès) :
+    interdites (art. 1b)
+    Équipements d'intérêt collectif autres que les locaux techniques et industriels : interdits. Les locaux et
+    bureaux accueillant du public des administrations sont admis seulement en Nt (art. 1l), donc pas en Ns.
+    Carrières, gravières et exploitations du sous-sol : interdites, sauf dans les secteurs délimités au titre de
+    l'article R.151-34 (2°) du Code de l'urbanisme (art. 1a)
+    Dépôts et stockages de plein air : interdits, sauf s'ils sont directement liés à une activité autorisée ou
+    admise (art. 1a)
+    Exploitation agricole ou forestière : nécessaire à l'exploitation, localisation indispensable par des
+    nécessités techniques (pas une simple commodité), implantation dans un polygone d'implantation au
+    règlement graphique hors ENR et EPR, sans atteinte à la sauvegarde des paysages (art. 1h)
+    Locaux techniques et industriels des administrations publiques : nécessaires au fonctionnement du
+    territoire et des services publics (eau, écoulement ou stockage des eaux, gestion des risques, traitement
+    collectif des eaux usées), localisation par nécessité technique impérative, sans atteinte aux paysages (art.
+    1d)
+    Affouillements et exhaussements en Ns : parties de 2 m de haut ou plus limitées à 100 m² de surface, et
+    nécessaires aux aménagements et activités admis ou à la restauration de restanques (art. 1k)
+    Bâtiments pouvant changer de destination : sans compromettre la qualité paysagère et sans extension,
+    même mesurée (art. 2e)
+    Aires de stationnement : indispensables à la maîtrise de la fréquentation, sans accroissement des
+    capacités effectives, conçues pour permettre un retour du site à l'état naturel (art. 1g)
+
+
+3.6 Points de vigilance pour votre projet
+    Un logement nouveau est interdit en Ns. Les extensions et annexes de logement (art. 2c, 4b, 4c) ne sont
+    admises qu'en Nh et Nt, donc pas en Ns : l'extension d'une habitation existante semble exclue, hors cas
+    particuliers des dispositions générales.
+    Les constructions agricoles ou forestières ne sont admises que dans un polygone d'implantation du
+    règlement graphique, hors ENR et EPR. Vérifier le plan de zonage.
+    Le règlement graphique prime sur le règlement écrit (polygones, prescriptions de hauteur, bâtiment
+    pouvant changer de destination, voies majeures).
+    Vérifier les risques (feux de forêt, ruissellement, mouvement de terrain), les espaces boisés classés, les
+    espaces verts protégés et les dispositions de la loi Littoral (ENR, EPR, bande littorale) : articles 5 et 6 des
+    dispositions générales.
+    Vérifier les OAP sectorielles, qui peuvent être plus restrictives, et les servitudes d'utilité publique.
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       13 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Marseille · B 56
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    Vérifier l'existence d'un site patrimonial remarquable (AVAP), dont les règles se cumulent avec celles du
+    PLUi.
+    Reconstruction à l'identique et restauration de bâtiments protégés : possibles sous conditions (DG art. 2.3
+    et 2.4).
+
+
+3.7 Extraits du règlement
+
+     Division en sous-zones · page 422
+     « Ns Zones couvrant la grande majorité des secteurs naturels du territoire qui requiert une protection
+     forte du fait des enjeux paysagers »
+
+
+     art. 1b · page 423
+     « Logement* Hébergement* interdites »
+
+
+     art. 1h · page 425
+     « et qu’ils s’implantent dans un polygone d’implantation porté au règlement graphique et positionné en
+     dehors des Espaces Naturels Remarquables (ENR) et des Espaces Proches du Rivage (EPR) »
+
+
+     art. 6a · page 430
+     « est supérieure ou égale à 5 mètres. »
+
+
+     art. 7a · page 430
+     «     >=                     >= 3      è              »
+
+
+     art. 9i · page 433
+     « La hauteur totale des clôtures (parties pleine et/ou ajourée) mesurée par rapport au terrain naturel*
+     est inférieure ou égale à »
+
+
+
+3.8 Démarches probables
+    Consultation du règlement graphique (zonage, polygones d'implantation, prescriptions, risques) et
+    certificat d'urbanisme opérationnel pour valider la faisabilité
+    Permis de construire ou déclaration préalable selon la nature des travaux, en cas de projet agricole,
+    forestier ou d'équipement admis
+    Autorisation pour affouillements et exhaussements du sol selon les seuils
+    Attestation du SPANC en cas d'assainissement non collectif
+    Avis ou accord du gestionnaire de la voie pour un accès sur voie majeure
+    Étude préalable éventuelle selon les risques (incendie de forêt, mouvement de terrain, inondation) et
+    consultation des services compétents
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       14 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Marseille · B 56
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+     Cette lecture est établie automatiquement, par intelligence artificielle, à partir du règlement officiel en
+     vigueur. Elle peut comporter des imprécisions : seul le texte du règlement (pages 422 à 437 du
+     document approuvé), fait foi, avec les dispositions générales, les orientations d'aménagement et les
+     servitudes.
+
+
+
+Règlement officiel complet :
+https://data.geopf.fr/annexes/gpu/documents/DU_200054807_A/3d0841039550457a0a87bb57879cdab4/200054807_reglement_
+20260803_A.pdf
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       15 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Marseille · B 56
+         TerrenUrbanisme
+                                                                                                                    04 · Loi Littoral et loi Montagne
+
+
+
+
+   04              Loi Littoral et loi Montagne
+     DANS CETTE SECTION
+
+     Les lois nationales qui s'ajoutent au document d'urbanisme sur le littoral et en montagne. Elles
+     peuvent rendre un terrain inconstructible même en zone constructible.
+
+
+Les lois d'aménagement qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+
+
+4.1 Loi Littoral
+Commune littorale                                        Oui
+
+Distance au rivage                                       environ 160 m
+
+Bande des 100 mètres                                     La parcelle est hors de la bande des 100 m
+
+
+La loi Littoral s'applique sur l'ensemble du territoire de la commune. Elle impose trois règles principales :
+
+    Continuité : l'extension de l'urbanisation ne peut se faire qu'en continuité d'une agglomération ou d'un
+    village existant. Une construction isolée, au milieu d'un espace naturel, n'est pas admise.
+    Bande des 100 mètres : en dehors des espaces urbanisés, toute construction est interdite à moins de 100
+    mètres du rivage.
+    Espaces proches du rivage : l'extension de l'urbanisation y est seulement limitée, justifiée et motivée. Les
+    espaces remarquables et caractéristiques du littoral sont protégés.
+
+     La parcelle est à moins d'un kilomètre du rivage : elle peut être située dans les espaces proches du
+     rivage délimités par le SCoT et le PLU.
+
+
+
+
+4.2 Loi Montagne
+Commune en zone de montagne                              Non
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           16 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Marseille · B 56
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+   05              Risques naturels et technologiques
+     DANS CETTE SECTION
+
+     Les risques connus à l'adresse du terrain (inondation, feu de forêt, mouvement de terrain,
+     radon…) et les catastrophes naturelles reconnues sur la commune.
+
+
+Base nationale Géorisques (ministère de la Transition écologique).
+
+
+
+5.1 Risques naturels à l'adresse de la parcelle
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Inondation                                      Non connu                                       Existant
+
+  Remontée de nappe                               Non connu                                       Existant
+
+  Submersion marine                               Inconnu                                         Existant
+
+  Séisme                                          Existant – faible                               Existant – faible
+
+  Mouvement de terrain                            Existant                                        Existant
+
+  Recul du trait de côte                          Inconnu                                         Existant
+
+  Retrait-gonflement des                          Non connu                                       Existant – important
+  argiles
+
+  Feu de forêt                                    Existant                                        Existant · Votre bien est concerné par les
+                                                                                                  obligations légales de débroussaillement
+
+  Radon                                           Existant – faible                               Existant – modéré
+
+
+
+
+5.2 Risques technologiques
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Installations industrielles                     Non concerné                                    Concerné
+  (ICPE)
+
+  Nucléaire                                       Non concerné                                    Concerné
+
+  Canalisations de matières                       Non concerné                                    Concerné
+  dangereuses
+
+  Pollution des sols                              Concerné                                        Concerné
+
+  Risque minier                                   Inconnu                                         Existant
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      17 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Marseille · B 56
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.3 Indicateurs réglementaires
+Zone de sismicité                                        Zone 2 – faible
+
+Potentiel radon                                          Catégorie 1 (potentiel faible)
+
+Retrait-gonflement des argiles                           Non connu
+
+Plans de prévention (PPR)                                AZI13 - bassin de l'huveaune
+
+
+     La parcelle est exposée au risque de feu de forêt. L'obligation légale de débroussaillement s'applique
+     (en général 50 mètres autour des constructions), et un terrain boisé peut nécessiter une autorisation
+     de défrichement avant toute construction.
+
+
+
+
+5.4 Arrêtés de catastrophe naturelle
+53 arrêtés de reconnaissance de l'état de catastrophe naturelle concernent la commune.
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Inondations et/ou Coulées de Boue                                         18/10/2026 au 19/10/2026                       28/10/2026
+
+  Inondations et/ou Coulées de Boue                                         24/07/2026                                     22/10/2026
+
+  Inondations et/ou Coulées de Boue                                         07/10/2024                                     05/02/2025
+
+  Inondations et/ou Coulées de Boue                                         03/09/2024                                     20/12/2024
+
+  Sécheresse                                                                01/04/2023 au 30/06/2023                       02/07/2024
+
+  Inondations et/ou Coulées de Boue                                         17/08/2022                                     12/10/2022
+
+  Sécheresse                                                                01/04/2022 au 30/09/2022                       03/05/2023
+
+  Inondations et/ou Coulées de Boue                                         03/10/2021 au 05/10/2021                       17/10/2021
+
+  Inondations et/ou Coulées de Boue                                         22/10/2019 au 23/10/2019                       31/10/2019
+
+  Sécheresse                                                                01/07/2019 au 30/09/2019                       03/09/2020
+
+  Sécheresse                                                                01/07/2017 au 30/09/2017                       27/07/2018
+
+  Sécheresse                                                                01/07/2016 au 30/09/2016                       01/09/2017
+
+  Inondations et/ou Coulées de Boue                                         10/11/2012 au 11/11/2012                       28/02/2013
+
+  Inondations et/ou Coulées de Boue                                         26/10/2012                                     28/02/2013
+
+  Inondations et/ou Coulées de Boue                                         16/09/2009                                     14/11/2009
+
+  Inondations et/ou Coulées de Boue                                         14/12/2008                                     22/04/2009
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            18 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Marseille · B 56
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Sécheresse                                                                01/01/2008 au 31/03/2008                       21/10/2009
+
+  Sécheresse                                                                01/07/2007 au 30/09/2007                       13/08/2008
+
+  Sécheresse                                                                01/01/2007 au 31/03/2007                       13/08/2008
+
+  Sécheresse                                                                01/01/2006 au 31/03/2006                       14/06/2008
+
+  Sécheresse                                                                01/01/2005 au 31/03/2005                       14/06/2008
+
+  Inondations et/ou Coulées de Boue                                         12/09/2004                                     01/02/2005
+
+  Sécheresse                                                                01/01/2004 au 31/03/2004                       14/06/2008
+
+  Inondations et/ou Coulées de Boue                                         01/12/2003 au 02/12/2003                       13/12/2003
+
+  Sécheresse                                                                01/01/2002 au 30/06/2002                       26/08/2004
+
+  Inondations et/ou Coulées de Boue                                         19/09/2000                                     22/11/2000
+
+  Inondations et/ou Coulées de Boue                                         20/10/1999 au 21/10/1999                       19/03/2000
+
+  Inondations et/ou Coulées de Boue                                         07/09/1998                                     13/01/1999
+
+  Sécheresse                                                                01/01/1998 au 30/06/1998                       29/12/2000
+
+  Inondations et/ou Coulées de Boue                                         06/10/1997                                     28/03/1998
+
+  Inondations et/ou Coulées de Boue                                         26/08/1996                                     17/10/1996
+
+  Inondations et/ou Coulées de Boue                                         21/08/1995 au 23/08/1995                       28/01/1996
+
+  Mouvement de Terrain                                                      01/10/1994 au 31/10/1994                       09/07/1996
+
+  Mouvement de Terrain                                                      01/09/1994 au 30/09/1994                       09/07/1996
+
+  Mouvement de Terrain                                                      01/08/1994 au 31/08/1994                       09/07/1996
+
+  Mouvement de Terrain                                                      01/06/1994 au 30/06/1994                       09/07/1996
+
+  Mouvement de Terrain                                                      01/02/1994 au 28/02/1994                       09/07/1996
+
+  Mouvement de Terrain                                                      01/01/1994 au 31/01/1994                       09/07/1996
+
+  Inondations et/ou Coulées de Boue                                         22/09/1993 au 24/09/1993                       12/10/1993
+
+  Inondations et/ou Coulées de Boue                                         24/06/1992                                     27/02/1993
+
+  Sécheresse                                                                01/01/1992 au 30/06/1993                       29/12/2000
+
+  Inondations et/ou Coulées de Boue                                         13/10/1991 au 14/10/1991                       15/10/1992
+
+  Inondations et/ou Coulées de Boue                                         25/09/1991 au 26/09/1991                       23/08/1992
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            19 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Marseille · B 56
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Inondations et/ou Coulées de Boue                                         12/09/1991                                     23/08/1992
+
+  Inondations et/ou Coulées de Boue                                         10/09/1989 au 11/09/1989                       07/02/1990
+
+  Sécheresse                                                                01/05/1989 au 31/12/1991                       07/02/1993
+
+  Inondations et/ou Coulées de Boue                                         25/02/1989 au 26/02/1989                       21/06/1989
+
+  Inondations et/ou Coulées de Boue                                         05/10/1988                                     13/05/1989
+
+  Inondations et/ou Coulées de Boue                                         14/01/1987                                     16/01/1988
+
+  Inondations et/ou Coulées de Boue                                         11/01/1987                                     16/01/1988
+
+  Inondations et/ou Coulées de Boue                                         26/08/1986 au 27/08/1986                       09/01/1987
+
+  Tempête                                                                   06/11/1982 au 10/11/1982                       19/11/1982
+
+  Inondations et/ou Coulées de Boue                                         06/11/1982 au 10/11/1982                       19/11/1982
+
+
+
+
+5.5 Sites et sols pollués à proximité
+    usine de traitement de plomb · ancien site industriel ou d'activité de service (CASIAS)
+    raffinerie de soufre des Goudes · ancien site industriel ou d'activité de service (CASIAS)
+    usine de soude chimique · ancien site industriel ou d'activité de service (CASIAS)
+    usine de Callelongue · ancien site industriel ou d'activité de service (CASIAS)
+    1 ancien site industriel ou d'activité de service (CASIAS) recensé
+
+
+5.6 Rapport officiel Géorisques
+Les risques recensés ci-dessus proviennent des bases officielles de Géorisques, service public d'information
+sur les risques. Le rapport officiel complet peut être édité gratuitement, à tout moment et à jour, à partir de
+l'adresse du terrain sur le site Géorisques.
+
+
+    Éditer le rapport officiel Géorisques
+
+
+Lors d'une vente ou d'une location, le vendeur ou le bailleur doit remettre un état des risques de moins de six mois,
+complété et signé, et l'information sur les sinistres indemnisés au titre des catastrophes naturelles.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            20 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Marseille · B 56
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+   06              Le terrain : accès, relief et réseaux
+      DANS CETTE SECTION
+
+      Les contraintes physiques du terrain : accès à une voie, pente et exposition, assainissement,
+      raccordement à l'électricité et à l'eau, fibre. Ce sont elles qui pèsent le plus sur le coût d'un
+      projet.
+
+
+Voirie (IGN, BD TOPO), altimétrie (IGN, RGE ALTI), règlement de la zone, réseau électrique (Agence ORE) et éligibilité
+internet (Arcep).
+
+
+
+6.1 Accès
+Accès direct à une voie                                  Non identifié
+
+Voie carrossable la plus proche                          Route à 1 chaussée · Avenue des pebrons · à 9 m
+
+
+     Une voie passe à 9 m de la parcelle : l'accès peut se faire par une bande du domaine public ou une
+     parcelle intermédiaire. Il faut vérifier sur le plan cadastral et sur place que le terrain y est bien relié, ou
+     qu'une servitude de passage existe (article 682 du Code civil).
+
+
+
+
+6.2 Relief et exposition
+Pente moyenne                                            18 %
+
+Exposition                                               Versant orienté ouest
+
+Altitude                                                 6 à 10 m
+
+Appréciation                                             Pente marquée
+
+
+
+
+ 12 m
+
+
+
+
+ 6m
+
+
+           Coupe du terrain dans le sens de la pente · longueur 24 m
+
+
+     Terrassements, murs de soutènement et gestion des eaux de ruissellement à prévoir : surcoût
+     sensible. Une étude de sol (mission G2) est recommandée.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       21 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Marseille · B 56
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.3 Ensoleillement
+Appréciation                                             Ensoleillement moyen
+
+Soleil direct le 21 juin                                 11 h 18 (de 08 h 20 à 19 h 30)
+
+Soleil direct aux équinoxes                              7 h 12 (de 09 h 50 à 16 h 50)
+
+Soleil direct le 21 décembre                             4 h 42 (de 11 h 20 à 15 h 50)
+
+Ensoleillement annuel possible                           2 823 h par an, soit 64 % du maximum à cette latitude
+
+Hauteur du relief vers le sud                            25°
+
+
+
+ 75°
+
+
+
+ 60°
+
+
+
+ 45°
+
+
+
+ 30°
+
+
+
+ 15°
+
+
+
+ 0°
+                                Est                  Sud-est                    Sud                 Sud-ouest               Ouest
+
+          21 juin          Équinoxes               21 décembre                 Horizon : relief et bâtiments voisins
+
+
+
+       Le relief ou les constructions voisines privent le terrain d'une part notable du soleil, en particulier
+       l'hiver. L'implantation et l'orientation des pièces de vie seront déterminantes.
+
+
+
+Ensoleillement mois par mois (le 21 de chaque mois)
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Janvier                         9 h 30                             5 h 12                                    11 h 20 – 16 h 20
+
+  Février                         10 h 42                            5 h 48                                    10 h 50 – 16 h 30
+
+  Mars                            12 h                               7 h 12                                    09 h 50 – 16 h 50
+
+  Avril                           13 h 30                            9 h 18                                    09 h 40 – 18 h 50
+
+  Mai                             14 h 42                            10 h 48                                   08 h 40 – 19 h 20
+
+  Juin                            15 h 12                            11 h 18                                   08 h 20 – 19 h 30
+
+  Juillet                         14 h 42                            10 h 48                                   08 h 50 – 19 h 30
+
+  Août                            13 h 30                            9 h 18                                    09 h 40 – 18 h 50
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        22 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Marseille · B 56
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Septembre                       12 h 12                            7 h 12                                    10 h 30 – 17 h 30
+
+  Octobre                         10 h 42                            5 h 48                                    11 h 20 – 17 h 00
+
+  Novembre                        9 h 18                             5 h 18                                    10 h 50 – 16 h 00
+
+  Décembre                        8 h 48                             4 h 42                                    11 h 20 – 15 h 50
+
+
+
+Calcul théorique par ciel dégagé, au centre de la parcelle et à hauteur d'homme : course du soleil heure par heure, masque du relief
+sur 6 km (IGN, RGE ALTI) et des bâtiments voisins sur 120 m (IGN, BD TOPO, 113 bâtiments pris en compte). La végétation et les
+constructions récentes ne sont pas prises en compte.
+
+
+6.4 Quel raccordement pour les eaux usées ?
+Raccordement à prévoir                                       Assainissement individuel probable
+
+Zone du PLU                                                  Ns · Naturelle et forestière
+
+Zonage d'assainissement                                      Non publié au Géoportail de l'Urbanisme (consultable en mairie)
+
+Réseau collectif sur la commune                              Oui · Métropole Aix Marseille Provence (MAMP) · délégation à
+                                                             SERAMM
+
+
+     Le terrain est hors zone urbaine (zone Ns) : ces secteurs sont rarement desservis par le réseau public.
+     Sauf canalisation existante dans la voie, prévoyez une fosse toutes eaux avec épandage ou une
+     micro-station agréée.
+
+
+
+Ce que dit le règlement de la zone
+Raccordement obligatoire au réseau public d'assainissement collectif (art. 13c). Règle alternative : l'assainissement
+non collectif conforme à la réglementation est admis si le terrain est difficilement raccordable ou sans réseau. Il faut
+alors joindre à la demande un document du SPANC attestant que l'installation est adaptée au terrain, à la nature du
+sol et au dimensionnement de la construction, et qu'elle est conforme. La construction doit pouvoir être reliée au
+réseau collectif s'il est réalisé ultérieurement. Aucune surface minimale n'est fixée. Le rejet d'eaux usées, même
+traitées, est interdit dans les réseaux pluviaux, ruisseaux, caniveaux et cours d'eau non pérennes.
+
+Ce que cela coûte
+Assainissement individuel : 5 000 à 15 000 € selon la filière (détail ci-dessous), plus l'étude de sol à la parcelle (500 à
+1 000 €). Étapes : étude de sol, puis avis favorable du SPANC sur le projet, à joindre à la demande de permis de
+construire. Besoin d'un installateur agréé ? Nous vous mettons en relation : contact@terrenurbanisme.com.
+
+Qui contacter pour obtenir la confirmation
+Service d'assainissement                                     Métropole Aix Marseille Provence (MAMP) · exploitant : SERAMM
+
+Mairie                                                       Mairie de Marseille - 6e et 8e arrondissements
+
+Téléphone                                                    04 91 55 15 84
+
+E-mail                                                       mairie6-8@marseille.fr
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       23 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                         Marseille · B 56
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+    Demandez au service d'assainissement, avec la référence cadastrale, si une canalisation publique passe au droit
+    du terrain, à quelle profondeur, et le montant de la PFAC. Sa réponse écrite vaut attestation de raccordabilité.
+    Certificat d'urbanisme opérationnel (formulaire Cerfa 13410, gratuit) : la mairie y indique officiellement si le
+    terrain est desservi par le réseau d'assainissement.
+    Plan des réseaux : la présence des canalisations enterrées près du terrain peut être vérifiée sur
+    reseaux-et-canalisations.gouv.fr, le guichet unique des réseaux.
+Sources : zonage d'assainissement et règlement (Géoportail de l'Urbanisme) ; services publics d'assainissement (SISPEA, Office
+français de la biodiversité) ; annuaire de l'administration (service-public.fr).
+
+Les solutions d'assainissement individuel
+  FILIÈRE                                    QUAND ELLE CONVIENT                                                           ORDRE DE PRIX
+
+  Fosse toutes eaux et                       Sol perméable, terrain assez grand et peu pentu                               5 000 à 10 000 €
+  épandage
+
+  Filtre à sable                             Sol peu perméable, place suffisante                                           8 000 à 12 000 €
+
+  Micro-station agréée                       Petit terrain ou sol défavorable ; entretien et électricité                   7 000 à 15 000 €
+
+  Filtre compact agréé                       Petit terrain, sans électricité                                               9 000 à 14 000 €
+
+
+
+Ordres de prix indicatifs (fourniture et pose, hors étude de sol et terrassements particuliers). La filière est choisie au vu de l'étude
+de sol et validée par le SPANC.
+
+
+6.5 Électricité et eau potable
+Gestionnaire du réseau                                       Enedis
+
+Réseau basse tension le plus proche                          à environ 5 m (ligne aérienne)
+
+Ligne aérienne la plus proche                                à environ 5 m
+
+Ligne souterraine la plus proche                             à environ 100 m
+
+Poste de transformation le plus proche                       à environ 170 m
+
+Appréciation                                                 Branchement simple probable
+
+
+     Le réseau basse tension passe à environ 5 m : un branchement simple est en principe possible (de
+     l'ordre de 1 500 à 3 000 € pour une maison, selon la longueur et la puissance), sous réserve de la
+     capacité du réseau et des coffrets existants.
+
+
+
+Ce qu'il faut vérifier avant d'acheter
+    La capacité du réseau : même un réseau proche peut être saturé (coffret ou câble plein, poste de transformation
+    au maximum). Seule une étude du gestionnaire permet de le savoir ; c'est la cause la plus fréquente de surcoûts
+    imprévus.
+    Électricité : demander au gestionnaire du réseau une étude de raccordement ou un devis à partir de l'adresse et
+    du plan de situation (gratuit). Elle indique le type de raccordement, son coût et son délai.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             24 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Marseille · B 56
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+    Eau potable : les plans du réseau d'eau ne sont pas publics. Interroger le service des eaux (coordonnées
+    ci-dessous) sur la présence d'une canalisation au droit du terrain, sa capacité et le coût du branchement, ainsi
+    que sur la défense incendie (borne à moins de 200 m environ).
+    Certificat d'urbanisme opérationnel : la mairie y indique si le terrain est desservi par les réseaux publics (eau,
+    électricité, assainissement) et, à défaut, si et quand ils seront étendus. Un refus de permis peut être fondé sur
+    l'insuffisance des réseaux (article L. 111-11 du Code de l'urbanisme).
+
+Qui contacter
+Service de l'eau potable                                     Métropole Aix Marseille Provence (MAMP)
+
+Mode de gestion                                              Délégation de service public à SEMM
+
+Contact pour le branchement                                  SEMM, pour le compte de : Métropole Aix Marseille Provence
+                                                             (MAMP)
+
+Mairie                                                       Mairie de Marseille - 6e et 8e arrondissements
+
+Téléphone de la mairie                                       04 91 55 15 84
+
+E-mail de la mairie                                          mairie6-8@marseille.fr
+
+Électricité (raccordement)                                   Enedis · demande en ligne sur enedis.fr (raccordement)
+
+La mairie oriente vers le bon interlocuteur et confirme, dans le certificat d'urbanisme, la desserte du terrain par les réseaux.
+Sources : SISPEA, observatoire des services publics d'eau (OFB) ; annuaire de l'administration (service-public.fr).
+
+Dans une promesse de vente, une condition suspensive portant sur le coût du raccordement aux réseaux protège
+l'acquéreur. Source de la cartographie électrique : Agence ORE, données des gestionnaires de réseaux de distribution ;
+tracés indicatifs.
+
+
+6.6 Fibre et internet
+     Le terrain est déjà fibré : 1 adresse située sur la parcelle (38 avenue des pebrons) est déclarée
+     raccordable à la fibre.
+
+
+
+Adresse la plus proche                                          38 avenue des pebrons · à 1 m · raccordable
+
+Point fibré le plus proche                                      38 avenue des pebrons · à 1 m
+
+Adresses fibrées à moins de 100 m                               41 sur 41
+
+Adresses fibrées à moins de 400 m                               67 sur 69
+
+Technologies disponibles à proximité                            4G fixe, Cuivre (ADSL, VDSL), Fibre, Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       25 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Marseille · B 56
+         TerrenUrbanisme
+                                                                                                          06 · Le terrain : accès, relief et réseaux
+
+
+
+
+     Points fibrés autour du terrain
+
+
+
+                                                                                           F
+
+
+
+
+                                                                                  F
+
+                                                                                   FF F
+                                                                                    F
+                                                                                  FF        FFF
+                                                                                           FF
+                                                                                        FF
+                                                                                         F
+                                                                                 F     F
+                                                                               F
+                                                                                     FFF
+                                                                                   F
+                                                                                F F
+                                                                              FF
+                                                                F  F       FFF
+                                                               F          F
+                                                             FFF FFF FFF
+                                                            FF       FF
+                                                                F FFF
+                                                       FFF        F
+                                                    FFFF FF
+                                                      F               F
+                                                                        F
+                                                                      FF
+
+                                              F
+
+
+
+
+                                                                                                                                    100 m
+
+
+
+Repères F : adresses déclarées raccordables à la fibre (Arcep) · en terracotta : sur la parcelle · fond © IGN
+
+
+Vérifiez la fibre à l'adresse du terrain :
+
+                     Carte fibre Orange                                                                   Carte de l'Arcep
+
+
+  DISTANCE           ADRESSE                                                                      FIBRE           AUTRES ACCÈS
+
+  1m                 38 avenue des pebrons                                                        Oui             4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+  7m                 40 avenue des pebrons                                                        Oui             4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+  8m                 36 avenue des pebrons                                                        Oui             4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+  12 m               42 avenue des pebrons                                                        Oui             4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+  17 m               34 avenue des pebrons                                                        Oui             4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+  22 m               44 avenue des pebrons                                                        Oui             4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+  25 m               25 Avenue des pebrons                                                        Oui             4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             26 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Marseille · B 56
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  DISTANCE           ADRESSE                                                                   FIBRE              AUTRES ACCÈS
+
+  25 m               32 Avenue des pebrons                                                     Oui                4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+
+
+Source : Arcep, « Ma connexion internet », éligibilité déclarée par les opérateurs, adresse par adresse. Le tracé des câbles n'est
+pas public : la présence de la fibre en limite de terrain se vérifie auprès de l'opérateur ou par une déclaration de projet de travaux
+(DT).
+
+
+6.7 Qui contacter pour les réseaux
+  RÉSEAU                                    INTERLOCUTEUR                                         CE QU'IL FAUT DEMANDER
+
+  Eau potable et                            Mairie ou service des eaux de la                      Attestation de desserte et conditions de
+  assainissement collectif                  commune                                               raccordement
+
+  Assainissement individuel                 SPANC (communauté de communes)                        Contrôle de conception sur la base de l'étude
+                                                                                                  de sol
+
+  Électricité                               Enedis (gestionnaire du réseau de                     Étude de raccordement et devis
+                                            distribution)
+
+  Fibre et téléphone                        Opérateur d'infrastructure et                         Raccordement du futur logement
+                                            fournisseur d'accès
+
+  Tous réseaux                              Guichet unique des réseaux                            Déclaration de projet de travaux (DT) pour
+                                            (reseaux-et-canalisations.gouv.fr)                    localiser les réseaux existants
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             27 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Marseille · B 56
+         TerrenUrbanisme
+                                                                                                               07 · Conditions de vente du terrain
+
+
+
+
+    07             Conditions de vente du terrain
+     DANS CETTE SECTION
+
+     Terrain agricole ou naturel : droit de préemption de la SAFER, fermier en place, autorisation
+     d'exploiter et repère officiel de prix.
+
+
+Terrain situé en zone Ns : vente encadrée par le code rural et de la pêche maritime.
+
+
+
+7.1 Pourquoi aucune fourchette de prix n'est donnée
+La parcelle est classée en zone Ns (naturelle et forestière), où les constructions nouvelles ne sont en principe
+pas admises. Sa valeur ne se déduit pas des ventes de terrains à bâtir du secteur : elle dépend de l'usage
+agricole ou naturel du sol, de sa qualité, de son accès, de l'eau disponible et de l'existence éventuelle d'un bail
+rural. Une estimation automatique serait trompeuse : la valeur doit être établie au cas par cas par un notaire
+ou un expert foncier et agricole.
+
+
+7.2 Le droit de préemption de la SAFER
+Principe                                        La vente d'un terrain agricole ou naturel est en principe soumise au droit de
+                                                préemption de la SAFER (articles L. 143-1 et suivants du code rural et de la
+                                                pêche maritime). Une surface minimale, fixée par département, peut en
+                                                exclure les plus petites parcelles.
+
+Information obligatoire                         Le notaire informe la SAFER du projet de vente au moins deux mois avant la
+                                                signature : prix, conditions et identité de l'acquéreur.
+
+Ce que peut faire la SAFER                      Renoncer, acheter au prix et aux conditions notifiés, ou proposer un prix
+                                                inférieur si elle estime le prix exagéré. Le vendeur peut alors accepter,
+                                                retirer son terrain de la vente ou demander au tribunal judiciaire de fixer le
+                                                prix.
+
+Pourquoi elle intervient                        Installation de jeunes agriculteurs, consolidation des exploitations,
+                                                protection de l'environnement et des paysages, lutte contre la spéculation
+                                                foncière.
+
+
+
+7.3 Les autres règles à connaître
+Fermier en place                                Si le terrain est loué par bail rural, l'exploitant en place bénéficie d'un droit
+                                                de préemption prioritaire, avant la SAFER.
+
+Autorisation d'exploiter                        Un acquéreur qui souhaite exploiter le terrain peut devoir obtenir une
+                                                autorisation d'exploiter auprès de la DDT(M), selon le schéma directeur
+                                                régional des exploitations agricoles.
+
+Espace naturel sensible                         Dans un espace naturel sensible, le département peut également disposer
+                                                d'un droit de préemption.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        28 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Marseille · B 56
+         TerrenUrbanisme
+                                                                                                               07 · Conditions de vente du terrain
+
+
+
+
+Constructions                                   Seules les constructions nécessaires à l'exploitation agricole ou forestière,
+                                                ou à des équipements collectifs, sont en règle générale admises : l'achat ne
+                                                donne pas de droit à bâtir une habitation.
+
+
+
+7.4 Repère officiel de prix
+Le ministère de l'Agriculture publie chaque année le barème indicatif de la valeur vénale moyenne des terres
+agricoles, par région agricole et par nature de culture (arrêté publié au Journal officiel). C'est la référence à
+consulter, avec l'avis d'un notaire ou d'un expert foncier et agricole, avant de fixer un prix.
+
+     Avant toute mise en vente, rapprochez-vous de votre notaire : il notifie la vente à la SAFER, vérifie
+     l'existence d'un bail et sécurise le calendrier de la transaction.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        29 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Marseille · B 56
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+   08              Environnement et marché immobilier
+     DANS CETTE SECTION
+
+     Les espaces naturels protégés autour du terrain et les prix de vente réels des maisons,
+     appartements et terrains alentour.
+
+
+Inventaire national du patrimoine naturel et demandes de valeurs foncières (DVF).
+
+
+
+8.1 Espaces naturels protégés ou inventoriés
+  TYPE                                                      NOM DU SITE
+
+  Natura 2000 (directive Habitats)                          Calanques et îles marseillaises - Cap Canaille et massif du Grand
+                                                            Caunet
+
+  ZNIEFF de type 2                                          MONTAGNE DE MARSEILLEVEYRE
+
+  Parc national                                             Calanques
+
+  Site classé ou inscrit                                    ensemble forme par les calanques et leurs abords a cassis et a
+                                                            marseille ass
+
+  Site classé ou inscrit                                    massif des calanques ass
+
+
+
+La présence d'un site Natura 2000 peut imposer une évaluation des incidences avant certains travaux. Une ZNIEFF
+est un inventaire scientifique sans portée réglementaire directe, mais elle signale un intérêt écologique pris en
+compte dans l'instruction des autorisations.
+
+
+8.2 Espèces protégées observées près du terrain
+57 espèces protégées ont été observées dans un rayon de 1 km autour du terrain depuis 1990 ; les 14 plus
+fréquemment signalées figurent ci-dessous.
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Gabian (Larus michahellis)                                      Oiseau                 Nationale (espèce et              53 · dernière en
+                                                                                         habitat)                          2026
+
+  Fauvette mélanocéphale (Sylvia                                  Oiseau                 Nationale (espèce et              43 · dernière en
+  melanocephala)                                                                         habitat)                          2023
+
+  Astragale de Marseille (Astragalus                              Plante                 Nationale                         36 · dernière en
+  tragacantha)                                                                                                             2026
+
+  Hélianthème de Syrie (Helianthemum                              Plante                 Nationale                         32 · dernière en
+  syriacum)                                                                                                                2026
+
+  Passerine Tartonraire (Thymelaea                                Plante                 Nationale                         32 · dernière en
+  tartonraira)                                                                                                             2026
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         30 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Marseille · B 56
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Rouge-queue noir (Phoenicurus                                   Oiseau                 Nationale (espèce et              31 · dernière en
+  ochruros)                                                                              habitat)                          2026
+
+  Plantain caréné (Plantago subulata)                             Plante                 Régionale                         28 · dernière en
+                                                                                                                           2026
+
+  Cresserelle (Falco tinnunculus)                                 Oiseau                 Nationale (espèce et              18 · dernière en
+                                                                                         habitat)                          2026
+
+  Cormoran huppé (Phalacrocorax                                   Oiseau                 Nationale (espèce et              17 · dernière en
+  aristotelis)                                                                           habitat)                          2025
+
+  Limonium presque nain (Limonium                                 Plante                 Nationale                         17 · dernière en
+  pseudominutum)                                                                                                           2026
+
+  Corbin crave (Pyrrhocorax pyrrhocorax)                          Oiseau                 Nationale (espèce et              14 · dernière en
+                                                                                         habitat)                          2026
+
+  Sabline de Provence (Arenaria                                   Plante                 Nationale                         14 · dernière en
+  provincialis)                                                                                                            2025
+
+  Fauvette pitchou (Sylvia undata)                                Oiseau                 Nationale (espèce et              13 · dernière en
+                                                                                         habitat)                          2026
+
+  Hirondelle de rochers (Ptyonoprogne                             Oiseau                 Nationale (espèce et              13 · dernière en
+  rupestris)                                                                             habitat)                          2025
+
+
+
+     Une observation à proximité ne signifie pas que l'espèce vit sur le terrain. Mais si elle y est présente, il
+     est interdit de détruire, capturer ou déranger les individus et, pour la plupart de ces espèces, de
+     détruire leurs lieux de reproduction et de repos (articles L. 411-1 et suivants du Code de
+     l'environnement). L'infraction est punie de 3 ans d'emprisonnement et 150 000 € d'amende.
+
+
+
+Pour les plantes, la protection vise les populations sauvages : un spécimen planté dans un jardin n'est pas concerné.
+
+Que faire avant de construire ?
+    Pour une maison individuelle, aucune étude écologique n'est imposée en règle générale, et l'étude de sol porte
+    sur le terrain (fondations), pas sur la faune ni la flore. Vous restez cependant responsable si une espèce
+    protégée vit sur la parcelle : en cas de doute (espèce observée tout près, vieux arbres, murets, maquis, zone
+    humide), faites passer un écologue avant de défricher.
+    Si un enjeu est confirmé : inventaire faune-flore aux saisons utiles (printemps et été en général), puis mesures
+    pour éviter et réduire l'impact : implantation de la maison sur la partie la moins sensible, travaux hors période de
+    reproduction, clôture de chantier adaptée, déplacement d'individus par un spécialiste habilité.
+    Si la destruction d'individus ou d'habitats ne peut pas être évitée : demande de dérogation « espèces protégées »
+    auprès de la préfecture (DREAL), avec avis du conseil scientifique. Comptez 4 à 12 mois d'instruction, à anticiper
+    avant le dépôt du permis.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         31 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Marseille · B 56
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+Combien prévoir ?
+Pré-diagnostic écologique                                800 à 2 000 € (une visite et une note de synthèse)
+
+Inventaire faune-flore                                   3 000 à 10 000 € selon la surface et le nombre de passages
+
+Mesures d'évitement et de réduction                      500 à 5 000 € (balisage, calendrier, suivi de chantier)
+
+Dossier de dérogation                                    8 000 à 25 000 €, hors mesures de compensation éventuelles
+
+Ordres de prix indicatifs, honoraires de bureaux d'études en environnement, si une étude est nécessaire. Pour une maison sur un
+terrain déjà entouré de constructions, aucune étude n'est le plus souvent requise.
+
+Sources : statuts de protection TAXREF et base de connaissance des statuts (INPN, Muséum national d'Histoire naturelle) ;
+observations naturalistes GBIF, qui rassemble notamment les données de l'INPN et du SINP.
+
+
+8.3 Prix de l'immobilier à Marseille
+Prix au mètre carré des ventes enregistrées sur la commune au cours des cinq dernières années publiées.
+Seules les ventes portant sur un bien unique sont retenues.
+
+  TYPE DE BIEN                                       VENTES                       €/M² MÉDIAN                              €/M² MOYEN
+
+  Maisons                                            7 202                        4 749 €/m²                               5 332 €/m²
+
+  Appartements                                       56 638                       3 095 €/m²                               3 307 €/m²
+
+  Locaux commerciaux                                 3 528                        2 236 €/m²                               3 080 €/m²
+
+
+
+Source : statistiques des demandes de valeurs foncières (DGFiP, Etalab). Prix des actes, hors frais : un ordre de grandeur,
+pas une estimation du bien.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            32 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Marseille · B 56
+         TerrenUrbanisme
+                                                                                                                                09 · Historique du site
+
+
+
+
+   09              Historique du site
+     DANS CETTE SECTION
+
+     Le terrain vu du ciel au fil des décennies et les permis de construire accordés autour : l'évolution
+     du secteur en un coup d'œil.
+
+
+Photographies aériennes de l'IGN et permis de construire délivrés (Sitadel).
+
+
+
+9.1 Le terrain vu du ciel, d'hier à aujourd'hui
+
+    1950-1965                                             2000-2005                                              2006-2010
+
+
+
+
+    2011-2015                                             Aujourd'hui
+
+
+
+
+Ces vues montrent l'évolution du terrain et du quartier, des années 1950 à aujourd'hui (photographies aériennes de l'IGN).
+
+     Bon à savoir : l'existence ancienne d'une construction peut ouvrir, sous conditions, un droit à
+     reconstruire ou à restaurer un bâtiment dont il reste l'essentiel des murs porteurs (articles L. 111-15 et L.
+     111-23 du Code de l'urbanisme).
+
+
+
+
+9.2 Permis de construire délivrés autour du terrain
+Autorisations sur la commune (3 ans)                                    693 · dernière recensée le 29/09/2026
+
+Logements autorisés (3 ans)                                             7 796
+
+Dont maisons individuelles                                              432
+
+Autorisations dans la section B                                         683 depuis 2013
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  25/09/2026            Permis de construire                   B 74               34             2 198 m²                  BD FRUCTIDOR
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              33 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                           Marseille · B 56
+         TerrenUrbanisme
+                                                                                                                                09 · Historique du site
+
+
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  20/09/2026            Déclaration préalable                  B1                 1              –                         QUAI DE RIVE NEUVE
+
+  13/09/2026            Permis de construire                   B 27               1              –                         AVENUE DE LA ROSIERE
+
+  10/09/2026            Permis de construire                   B 232              4              250 m²                    RUE DES PETITES MARIES
+
+  06/09/2026            Permis de construire                   B 213              9              819 m²                    IMP. DE L'ERABLE
+
+  31/08/2026            Permis de construire                   B 333              16             –                         RUE DES HEROS
+
+  30/08/2026            Permis de construire                   B 108              1              3 m²                      RUE TILSIT
+
+  20/08/2026            Permis de construire                   B 48               48             2 796 m²                  AVENUE DES OLIVES
+
+  15/08/2026            Déclaration préalable                  B 66               1              –                         RUE DE FORBIN
+
+  10/07/2026            Déclaration préalable                  B 130              1              –                         AVENUE DE KALLISTE
+
+  06/07/2026            Déclaration préalable                  B 75               1              13 m²                     AVENUE DES CHARTREUX
+
+  01/07/2026            Déclaration préalable                  B 75               1              19 m²                     AVENUE DES CHARTREUX
+
+
+
+Source : base Sitadel des autorisations d'urbanisme créant des logements (SDES). Un permis accordé à proximité montre
+que des constructions ont été admises dans le secteur, sans préjuger de la décision sur votre propre projet.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                               34 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Marseille · B 56
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+      10           Votre projet, étape par étape
+De l'achat du terrain à la déclaration aux impôts : démarches, délais, coûts et contacts.
+
+
+
+10.1 Analyse
+Le terrain est soumis au plan local d'urbanisme intercommunal (PLUi) de Marseille. Il est classé en zone
+Ns. Zone naturelle et forestière : secteur protégé en raison de la qualité des sites, des milieux naturels et
+des paysages, ou de son caractère d'espace naturel. Les constructions nouvelles n'y sont pas admises,
+sauf exceptions encadrées (équipements publics, extension limitée des habitations existantes, secteurs
+de taille et de capacité limitées).
+
+En l'état, une construction nouvelle n'est pas possible. Seules des évolutions limitées peuvent être
+envisagées selon le règlement de la zone (extension mesurée d'une habitation existante, annexes,
+équipements publics). Le classement ne peut évoluer qu'à l'occasion d'une modification ou d'une révision
+du document d'urbanisme, à l'initiative de la commune.
+
+Marseille est une commune littorale. Indépendamment du PLU, la loi Littoral exige que toute extension
+de l'urbanisation se fasse en continuité d'une agglomération ou d'un village existant. Un terrain isolé,
+même classé constructible, peut se voir opposer un refus sur ce fondement.
+
+
+10.2 Votre projet, étape par étape
+Les étapes ci-dessous suivent l'ordre réel d'un projet de construction, de l'achat du terrain à la déclaration aux
+impôts. Les montants sont indicatifs et à confirmer par devis.
+
+  1      Avant d'acheter le terrain
+         Vérifiez les règles de la zone (chapitres précédents), puis demandez un certificat d'urbanisme opérationnel
+         (Cerfa 13410, sans frais, réponse sous 2 mois) : il fige les règles pendant 18 mois. En zone d'argiles d'aléa
+         moyen ou fort, le vendeur doit fournir une étude de sol préalable.
+         Contact : Mairie de Marseille - 6e et 8e arrondissements · 04 91 55 15 84 · mairie6-8@marseille.fr · formulaire sur
+         service-public.fr (rechercher « Cerfa 13410 »)
+
+  2      Les études
+         Étude de sol géotechnique (G2) pour dimensionner les fondations : 1 500 à 3 000 €. Étude thermique RE2020,
+         obligatoire pour le permis : 500 à 1 500 €. Bornage par un géomètre si les limites sont incertaines. L'étude de
+         sol ne porte pas sur les espèces protégées : un écologue n'intervient qu'en cas d'enjeu (chapitre
+         Environnement).
+         Géomètres proches du terrain : liste à la fin de ce chapitre
+
+  3      Les plans
+         Architecte obligatoire si la surface de plancher totale dépasse 150 m². En dessous, vous pouvez dessiner les
+         plans vous-même ou faire appel à un dessinateur ou maître d'œuvre (environ 1 500 à 4 000 € le dossier de
+         permis). Architecte : 3 000 à 8 000 € pour la seule mission de permis, 8 à 12 % du coût des travaux pour une
+         mission complète avec suivi du chantier.
+         Trouver un architecte : annuaire de l'Ordre des architectes sur architectes.org
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         35 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Marseille · B 56
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+  4      Déposer le permis
+         Formulaire Cerfa 13406 (maison individuelle) et pièces PCMI1 à PCMI8 : plan de situation, plan de masse,
+         coupe, notice, plans des façades et toitures, insertion dans le paysage, photos, attestation RE2020. Dépôt en
+         mairie ou en ligne sur le guichet numérique de la commune. La mairie a 1 mois pour réclamer une pièce
+         manquante ; l'instruction dure 2 mois à partir du dossier complet, plus en secteur protégé.
+         Dépôt : Mairie de Marseille - 6e et 8e arrondissements · 04 91 55 15 84 · mairie6-8@marseille.fr · formulaire sur
+         service-public.fr (rechercher « Cerfa 13406 »)
+
+  5      Affichage et recours
+         Dès l'accord, installez le panneau de permis sur le terrain, lisible depuis la voie, pendant toute la durée du
+         chantier. Les tiers ont 2 mois à compter du premier jour d'affichage pour contester ; la mairie peut retirer un
+         permis illégal pendant 3 mois. Faites constater l'affichage par un commissaire de justice (environ 300 à 600 €
+         pour les trois constats).
+         Commissaires de justice : annuaire sur commissaire-justice.fr
+
+  6      Avant les travaux
+         Souscrivez l'assurance dommages-ouvrage, obligatoire (souvent 2 à 4 % du coût de la construction). Signez
+         le contrat de construction de maison individuelle ou les marchés des artisans. Déposez la déclaration
+         d'ouverture de chantier (Cerfa 13407) le jour du démarrage. Le permis est valable 3 ans, prorogeable deux
+         fois d'un an.
+         Déclaration d'ouverture : Mairie de Marseille - 6e et 8e arrondissements · 04 91 55 15 84 · mairie6-8@marseille.fr
+
+  7      Le financement
+         La banque débloque le prêt au fur et à mesure du chantier, sur présentation des factures des entreprises ou
+         des appels de fonds du constructeur. Avec un contrat de construction de maison individuelle, l'échéancier
+         est encadré par la loi : 15 % à l'ouverture du chantier, 25 % aux fondations, 40 % aux murs, 60 % hors d'eau,
+         75 % hors d'air et cloisons, 95 % aux équipements, le solde à la réception. Des intérêts intercalaires peuvent
+         courir sur les sommes débloquées.
+         Votre banque ou votre courtier
+
+  8      La fin du chantier
+         Réception des travaux avec le constructeur ou les artisans, avec réserves si nécessaire. Déposez ensuite la
+         déclaration attestant l'achèvement et la conformité des travaux (DAACT, Cerfa 13408), avec l'attestation
+         RE2020 de fin de chantier. La mairie a 3 mois pour la contester (5 mois en secteur protégé).
+         Dépôt : Mairie de Marseille - 6e et 8e arrondissements · 04 91 55 15 84 · mairie6-8@marseille.fr
+
+  9      Les impôts
+         Dans les 90 jours suivant l'achèvement, déclarez la construction sur impots.gouv.fr, espace « Gérer mes
+         biens immobiliers ». Cette déclaration sert au calcul de la taxe d'aménagement (payée en une fois sous 1 500
+         €, sinon en deux fois, estimation plus bas dans ce chapitre) et de la taxe foncière, avec une exonération
+         possible les deux premières années selon la commune.
+         impots.gouv.fr › Espace particulier › Gérer mes biens immobiliers
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         36 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Marseille · B 56
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+10.3 Les points à vérifier pour ce terrain
+  1      Certificat d'urbanisme opérationnel
+         Le demander en mairie (formulaire Cerfa 13410), en décrivant le projet. Gratuit, il indique si le terrain
+         peut accueillir le projet et fige les règles d'urbanisme pendant 18 mois.
+
+  2      Règlement de la zone
+         Lire le règlement écrit de la zone Ns et, le cas échéant, les orientations d'aménagement, disponibles sur
+         le Géoportail de l'Urbanisme.
+
+  3      Réseaux et accès
+         Vérifier l'accès à une voie publique ou privée adaptée, la desserte en eau potable et en électricité, et le
+         mode d'assainissement. En l'absence de réseau collectif, une étude de sol et l'avis du service public
+         d'assainissement non collectif (SPANC) sont nécessaires.
+
+  4      Débroussaillement et défrichement
+         Prévoir le débroussaillement obligatoire autour des constructions et, si le terrain est boisé, une
+         demande d'autorisation de défrichement auprès de la DDT avant le permis.
+
+  5      Loi Littoral
+         Faire confirmer par la mairie ou un professionnel la situation de la parcelle au regard de la continuité
+         avec l'urbanisation existante.
+
+  6      Architecte des Bâtiments de France
+         Le projet sera soumis à l'architecte des Bâtiments de France : le rencontrer avant de dessiner le projet
+         (rendez-vous par la mairie ou l'unité départementale de l'architecture et du patrimoine), soigner
+         matériaux, teintes et toitures, et compter un mois de plus pour l'instruction.
+
+  7      Bornage
+         Faire réaliser un bornage par un géomètre-expert pour fixer les limites exactes et la surface réelle du
+         terrain.
+
+  8      Sécuriser un achat
+         Pour une acquisition, prévoir dans le compromis une condition suspensive d'obtention d'un permis de
+         construire purgé de tout recours.
+
+
+10.4 Délais indicatifs d'instruction
+  DEMANDE                                                                                 DÉLAI DE DROIT COMMUN
+
+  Certificat d'urbanisme d'information (CUa)                                              1 mois
+
+  Certificat d'urbanisme opérationnel (CUb)                                               2 mois
+
+  Déclaration préalable                                                                   1 mois
+
+  Permis de construire une maison individuelle                                            2 mois
+
+  Permis d'aménager, autres permis de construire                                          3 mois
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         37 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Marseille · B 56
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+Ces délais peuvent être majorés, notamment en site classé ou inscrit, aux abords d'un monument historique ou lorsque la
+consultation d'un service extérieur est nécessaire.
+
+
+10.5 Implanter une entreprise : zone France Ruralités Revitalisation
+     La commune de Marseille n'est pas classée en zone France Ruralités Revitalisation (FRR). Une
+     entreprise qui s'y installe ne bénéficie pas de l'exonération d'impôt sur les bénéfices liée à ce zonage.
+
+
+
+Source : ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 (collectivites-locales.gouv.fr).
+
+
+10.6 Géomètres proches du terrain
+Le géomètre-expert est le seul professionnel habilité à fixer les limites de propriété (bornage) et à établir les
+documents d'arpentage déposés au cadastre. Il intervient aussi pour les relevés topographiques et les
+divisions de terrain.
+
+4,6 km            ATGTSM
+                                                                                                                           Coordonnées
+                  BUROPARC BATIMENT C 18 RUE JACQUES REATTU 13009 MARSEILLE
+
+
+6,3 km            CG EXPERT
+                                                                                                                           Coordonnées
+                  LE CORBUSIER LOT 327 - ETAGE 3 280 BOULEVARD MICHELET 13008
+                  MARSEILLE
+
+
+7,6 km            CABINET GEM
+                                                                                                                           Coordonnées
+                  226 RUE BRETEUIL 13006 MARSEILLE
+
+
+7,9 km            PATRICK MICHEL
+                                                                                                                           Coordonnées
+                  20 ALLEE TURCAT MERY 13008 MARSEILLE
+
+
+8,3 km            SCP FRAISSE-ARNEL-DE COMBARIEU
+                                                                                                                           Coordonnées
+                  14 RUE SAINT SEBASTIEN 13006 MARSEILLE
+
+
+8,3 km            ARNEL DE COMBARIEU
+                                                                                                                           Coordonnées
+                  14 RUE SAINT SEBASTIEN 13006 MARSEILLE
+
+
+Source : répertoire Sirene de l'INSEE (activité des géomètres), classé par distance au terrain. L'inscription d'un cabinet à l'Ordre
+des géomètres-experts se vérifie sur geometre-expert.fr. Le bouton « Coordonnées » ouvre la fiche du cabinet (téléphone,
+horaires, itinéraire). Cette liste est fournie à titre indicatif, sans partenariat ni recommandation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         38 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Marseille · B 56
+          TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+     11            État des risques (ERP) pré-rempli
+     DANS CETTE SECTION
+
+     Le formulaire réglementaire à remettre à l'acquéreur ou au locataire, pré-rempli à partir des
+     bases officielles : plans de prévention, sismicité, radon, sols pollués, trait de côte, bruit des
+     aérodromes.
+
+
+Articles L. 125-5 à L. 125-7 et R. 125-23 à R. 125-27 du Code de l'environnement · modèle fixé par l'arrêté du 27 septembre
+2022.
+
+
+     Formulaire pré-rempli à partir de Géorisques et du Géoportail de l'Urbanisme à la date du rapport.
+     Avant de le remettre à l'acquéreur ou au locataire, le vendeur ou le bailleur le vérifie, le complète
+     (sinistres indemnisés) et le signe ; il doit dater de moins de six mois à la signature de la promesse, du
+     bail ou de l'acte.
+
+
+
+
+11.1 Situation du bien
+Commune                                                  Marseille (13208)
+
+Département                                              Bouches-du-Rhône (13)
+
+Références cadastrales                                   Section B, parcelle n° 56 · 132088370B0056
+
+Surface cadastrale                                       113 m²
+
+
+
+11.2 Plans de prévention des risques
+  L'IMMEUBLE EST SITUÉ DANS LE PÉRIMÈTRE…                                         RÉPONSE                DÉTAIL
+
+  d'un plan de prévention des risques naturels (PPRN)                             Oui                    PM1 MARSEILLE ass
+  prescrit, appliqué par anticipation ou approuvé
+
+  d'un plan de prévention des risques miniers (PPRM)                              Non                    Non recensé
+
+  d'un plan de prévention des risques technologiques                              Non                    Risques technologiques sur la commune
+  (PPRT)                                                                                                 : installations industrielles (icpe),
+                                                                                                         nucléaire, canalisations de matières
+                                                                                                         dangereuses
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        39 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Marseille · B 56
+         TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+11.3 Autres zonages réglementaires
+  L'IMMEUBLE EST SITUÉ…                                                           RÉPONSE                DÉTAIL
+
+  dans une commune de sismicité (zones 2 à 5 : règles de                          Oui                    Zone 2 – faible
+  construction parasismique)
+
+  dans une commune à potentiel radon de niveau 3                                  Non                    Catégorie 1 (potentiel faible)
+
+  dans un secteur d'information sur les sols (SIS)                                Non                    Aucun SIS recensé à proximité
+
+  dans une zone exposée au recul du trait de côte                                 Non                    Non concerné selon Géorisques
+
+  dans une zone de bruit d'un plan d'exposition au bruit                          À vérifier             Aucun PEB annexé au document
+  d'aérodrome (PEB)                                                                                      d'urbanisme ; vérifier auprès de la mairie
+
+  dans une zone de retrait-gonflement des argiles                                 Oui                    Non connu
+  (information)
+
+
+
+
+11.4 Sinistres indemnisés et déclarations
+Arrêtés de catastrophe naturelle sur la commune : 53 (liste en section Risques). Le vendeur ou le bailleur
+déclare ci-dessous les sinistres ayant donné lieu à une indemnisation au titre des catastrophes naturelles ou
+technologiques pendant la période où il a été propriétaire.
+
+Sinistres indemnisés                                     [ ] Oui [ ] Non
+
+Vendeur ou bailleur                                      Nom : ____________________ Date : ___/___/______ Signature :
+
+Acquéreur ou locataire                                   Nom : ____________________ Date : ___/___/______ Signature :
+
+
+L'état des risques officiel peut aussi être édité gratuitement sur Géorisques (errial.georisques.gouv.fr). Les informations
+ci-dessus sont établies à partir des bases nationales ; en cas de divergence, l'arrêté préfectoral relatif à l'information des
+acquéreurs et des locataires fait foi.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             40 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Marseille · B 56
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+    12             Avertissement et sources
+     DANS CETTE SECTION
+
+     La portée de ce rapport et la liste des sources publiques consultées.
+
+
+
+12.1 Nature du document
+Ce rapport est un document d'information établi automatiquement, à la date indiquée en page de garde, à
+partir des données publiques officielles alors disponibles. Il n'a aucune valeur contractuelle, réglementaire ou
+juridique.
+
+
+12.2 Ce que ce rapport n'est pas
+Il ne constitue ni un certificat d'urbanisme au sens de l'article L. 410-1 du Code de l'urbanisme, ni une
+autorisation d'urbanisme (permis de construire, permis d'aménager, déclaration préalable), ni un état des
+risques au sens de l'article L. 125-5 du Code de l'environnement, ni un bornage, ni une expertise, ni une
+évaluation immobilière, ni une consultation juridique. Il n'engage en rien l'administration.
+
+
+12.3 Permis de construire
+Ce rapport ne peut en aucun cas être joint, produit ou invoqué à l'appui d'une demande de permis de
+construire, de permis d'aménager ou de déclaration préalable, ni opposé à la mairie ou à un service de l'État. Il
+ne garantit pas l'obtention d'une autorisation : seule l'autorité compétente se prononce, au vu d'un projet
+précis et de l'ensemble des règles applicables à la date de sa décision.
+
+
+12.4 Limites des données
+Les données sont produites par des organismes publics dont l'éditeur n'est ni l'auteur ni le garant. Elles
+peuvent être incomplètes, imprécises ou ne pas refléter une modification, une révision, une mise en
+compatibilité, une annulation contentieuse, un sursis à statuer ou une procédure en cours. Le plan cadastral,
+document fiscal, ne fait pas foi des limites de propriété. Surfaces, distances, altitudes et pentes sont
+approchées. Les extraits et analyses du règlement sont une aide à la lecture : seul le texte intégral du
+document d'urbanisme approuvé, consultable en mairie, fait foi.
+
+
+12.5 Avant toute décision
+Avant toute acquisition, cession, financement, promesse de vente ou dépôt d'une demande, le lecteur doit
+obtenir un certificat d'urbanisme opérationnel auprès de la mairie, consulter le document d'urbanisme en
+vigueur et recueillir l'avis d'un professionnel habilité (notaire, architecte, géomètre-expert, avocat). Pour un
+achat, il est recommandé de stipuler une condition suspensive d'obtention d'un permis de construire purgé de
+tout recours.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          41 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Marseille · B 56
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+12.6 Responsabilité
+L'éditeur ne saurait être tenu responsable d'une décision prise sur le seul fondement de ce rapport, ni d'un
+refus d'autorisation, d'une erreur ou d'une omission des sources publiques, dans les limites prévues par les
+conditions générales de vente acceptées lors de la commande.
+
+
+12.7 Sources consultées
+  DONNÉE                                                    SOURCE
+
+  Cadastre                                                  DGFiP, plan cadastral informatisé, via API Carto (IGN)
+
+  Photographies et plans                                    IGN, Géoplateforme : orthophotographies, Plan IGN, parcellaire express
+
+  Urbanisme                                                 Géoportail de l'Urbanisme : zonage, prescriptions, informations, servitudes
+                                                            d'utilité publique
+
+  Littoral                                                  IGN, BD TOPO (limite terre-mer) ; communes littorales (Géoportail de
+                                                            l'Urbanisme)
+
+  Montagne                                                  Ministère de la Cohésion des territoires, communes de la loi Montagne
+
+  Risques                                                   Géorisques (ministère de la Transition écologique) : rapport de risques,
+                                                            arrêtés CatNat, sismicité, radon, ICPE, sites pollués
+
+  Environnement                                             Inventaire national du patrimoine naturel (PatriNat), via API Carto
+
+  Altitude, pente et exposition                             IGN, RGE ALTI
+
+  Ensoleillement                                            Calcul astronomique de la course du soleil ; masque du relief (IGN, RGE
+                                                            ALTI) et des bâtiments (IGN, BD TOPO)
+
+  Voirie et accès                                           IGN, BD TOPO (tronçons de route)
+
+  Permis de construire                                      Sitadel, service des données et études statistiques (SDES) du ministère
+                                                            chargé du logement
+
+  Photographies anciennes                                   IGN, BD ORTHO historique
+
+  Fibre et internet                                         Arcep, Ma connexion internet (éligibilité par adresse)
+
+  Géomètres                                                 Répertoire Sirene (INSEE), activité des géomètres
+
+  Propriétaires personnes morales                           DGFiP, fichiers des parcelles des personnes morales (diffusion Koumoul)
+
+  Diagnostics énergétiques                                  ADEME, base des DPE des logements existants
+
+  Procédures collectives                                    Bodacc, annonces commerciales (DILA)
+
+  Bâtiments                                                 IGN, BD TOPO
+
+  Réseau électrique                                         Agence ORE (gestionnaires de réseaux de distribution : Enedis, EDF Corse
+                                                            et entreprises locales) : réseau basse tension et postes de distribution
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          42 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Marseille · B 56
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+  DONNÉE                                                    SOURCE
+
+  Taxe d'aménagement                                        DGFiP, éléments de taxation votés par les collectivités ; valeurs forfaitaires
+                                                            fixées par arrêté
+
+  Rapport officiel de risques                               Géorisques, ministère chargé de l'environnement
+
+  Zone France Ruralités Revitalisation                      ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 ; article
+                                                            44 quindecies A du code général des impôts
+
+  Marché immobilier                                         Statistiques des demandes de valeurs foncières (DVF) par commune, DGFiP
+                                                            et Etalab
+
+  Date d'extraction                                         20/11/2026
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          43 / 44
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                    TerrenUrbanisme
+
+    Merci de votre confiance
+Ce rapport a été établi à partir des sources publiques officielles pour vous
+  aider à décider en connaissance de cause. Pour toute question, nous
+                        restons à votre disposition.
+
+
+
+
+   Vous êtes professionnel ? Travaillons ensemble
+      Agents immobiliers, notaires, architectes, géomètres, diagnostiqueurs,
+promoteurs, mairies : faisons équipe. Crédits professionnels sans abonnement, 5
+€ le rapport dès 50 crédits, votre logo sur les rapports, offre communale pour les
+                       mairies et partenariats sur mesure.
+
+               Écrivez-nous : contact@terrenurbanisme.com
+
+
+
+
+                        terrenurbanisme.com
+                         contact@terrenurbanisme.com
+

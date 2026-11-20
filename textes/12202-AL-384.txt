@@ -1,0 +1,3126 @@
+                  TerrenUrbanisme
+                  Le terrain constructible, partout en France
+
+
+
+
+RAPPORT D'URBANISME
+
+
+
+Rodez
+Section AL · Parcelle n° 384
+      Constructible
+
+
+Référence cadastrale                                                        Surface cadastrale
+12202000AL0384                                                              2 113 m²
+
+Rapport établi le                                                           Référence du rapport
+20/11/2026                                                                  APERCU
+
+
+
+
+terrenurbanisme.com                                                                      contact@terrenurbanisme.com
+
+Document d'information sans valeur contractuelle ni réglementaire. Il ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme
+et ne peut en aucun cas être joint à une demande de permis de construire ou de déclaration préalable. Seuls les actes de l'administration font foi.
+                                                                                                                           Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                                             Sommaire
+
+
+
+
+Sommaire
+Le rapport suit l'ordre d'une étude de terrain : où se trouve la parcelle, ce que dit la règle, ce qui pèse sur le
+projet, puis les démarches.
+
+              Synthèse
+   S                                                                                                                                p. 3
+              Le verdict, les indicateurs clés et les points d'attention en une page.
+
+              Identification de la parcelle
+   01                                                                                                                               p. 4
+              Localisation, surface, références cadastrales et voisinage du terrain.
+
+              Règles d'urbanisme applicables
+  02                                                                                                                                p. 7
+              Document d'urbanisme, zone du terrain, prescriptions et servitudes.
+
+              Ce que vous pouvez construire
+  03                                                                                                                               p. 10
+              Surface constructible, hauteur, reculs, aspect et usages autorisés.
+
+              Loi Littoral et loi Montagne
+  04                                                                                                                               p. 17
+              Les lois qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+              Risques naturels et technologiques
+  05                                                                                                                               p. 18
+              Inondation, feu de forêt, argiles, catastrophes naturelles et sites pollués.
+
+              Le terrain : accès, relief et réseaux
+  06                                                                                                                               p. 21
+              Accès, pente, ensoleillement, eaux usées, électricité, eau et fibre.
+
+              Environnement et marché immobilier
+  07                                                                                                                              p. 27
+              Espaces naturels, espèces protégées et ventes immobilières alentour.
+
+              Historique du site
+  08                                                                                                                               p. 31
+              Le terrain vu du ciel au fil des années et les permis accordés autour.
+
+              Opportunités autour du terrain
+  09                                                                                                                              p. 33
+              Grands terrains peu bâtis et logements énergivores à proximité.
+
+              Votre projet, étape par étape
+   10                                                                                                                             p. 35
+              De l'achat aux impôts : démarches, délais, coûts, contacts et taxe.
+
+              État des risques (ERP) pré-rempli
+   11                                                                                                                             p. 40
+              Le formulaire réglementaire à remettre à l'acquéreur, pré-rempli.
+
+              Avertissement et sources
+   12                                                                                                                             p. 42
+              La portée de ce rapport et les sources publiques consultées.
+
+              Annexe : règlement de la zone
+   A                                                                                                                              p. 45
+              Les pages officielles du règlement de la zone, telles qu'approuvées.
+
+
+
+
+Astuce : cliquez sur un chapitre pour y accéder directement.
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                              2 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                                                        Synthèse
+
+
+
+
+Synthèse
+     Document d'information. Ce rapport ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme,
+     n'engage pas l'administration et ne peut pas servir de pièce à une demande de permis de construire.
+     L'appréciation ci-dessous est indicative : seule la mairie se prononce sur la constructibilité d'un terrain,
+     au vu d'un projet précis.
+
+
+
+
+       CONSTRUCTIBLE
+
+       Le PLU autorise la construction
+       La parcelle est classée en zone UC (urbaine) du PLU intercommunal de Rodez. Les
+       constructions y sont admises dans le respect du règlement de la zone.
+
+
+
+
+      Zone principale                                        Document d'urbanisme                                  Loi Littoral
+
+   UC · 100 %                                             PLUI                                                   Ne s'applique pas
+
+
+
+
+      Loi Montagne                                           Risques à la parcelle
+
+   Ne s'applique pas                                      Séisme ·
+                                                          Retrait-gonflement des
+
+
+
+
+Points d'attention
+    Zone UC (100 % de la parcelle) : constructible.
+    Terrain en pente marquée (environ 22 %) : surcoût probable de terrassement.
+    Retrait-gonflement des argiles (exposition moyenne) : en cas de vente d'un terrain non bâti
+    constructible, le vendeur doit fournir une étude géotechnique préalable (loi ELAN, article L. 132-5 du
+    Code de la construction et de l'habitation) ; une étude géotechnique de conception est exigée avant
+    de construire.
+    Entreprise : la commune est classée en zone France Ruralités Revitalisation (FRR) : une entreprise qui
+    s'y crée peut être exonérée d'impôt sur les bénéfices pendant 5 ans, sous conditions (voir le chapitre
+    « Votre projet, étape par étape »).
+    Pollution des sols : concerné à l'adresse de la parcelle (voir le chapitre « Risques naturels et
+    technologiques »).
+    8 arrêtés de catastrophe naturelle sur la commune.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        3 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+    01             Identification de la parcelle
+     DANS CETTE SECTION
+
+     Où se trouve le terrain, sa surface, ses références cadastrales, son propriétaire lorsqu'il s'agit
+     d'une société ou d'une collectivité, et la performance énergétique du bâti existant.
+
+
+Données du cadastre (DGFiP) et de l'IGN.
+
+
+     Plan de situation
+
+
+
+
+                                                                                                                            1 km
+
+
+
+Plan IGN · © IGN
+
+
+Commune                                                  Rodez (12202)
+
+Département                                              12
+
+Section et numéro                                        Section AL, parcelle n° 384, feuille 1
+
+Identifiant cadastral                                    12202000AL0384
+
+Surface cadastrale                                       2 113 m²
+
+Surface calculée (SIG)                                   2 110 m² · périmètre 191 m
+
+Coordonnées du centre                                    44.35903 N, 2.57065 E (WGS 84)
+
+Altitude                                                 de 540 à 554 m
+
+Pente estimée                                            22 % (terrain en pente marquée)
+
+Parcelles voisines                                       AL 250, AL 306, AL 392
+
+
+Le plan cadastral est un document fiscal : il ne fait pas foi des limites de propriété. Seul un bornage réalisé par un
+géomètre-expert fixe les limites de manière certaine.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          4 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+1.1 Propriétaire et voisinage
+     La parcelle appartient à une personne morale : RODEZ AGGLO HABITAT (EPIC) · SIREN 271200024. Le
+     gérant ou le représentant légal se retrouve à partir du numéro SIREN sur
+     annuaire-entreprises.data.gouv.fr.
+
+
+
+Parcelles voisines détenues par des sociétés ou des collectivités
+  PARCELLE              PROPRIÉTAIRE                                                                     SURFACE            SIREN
+
+  AL 306                COMMUNE DE RODEZ (COM)                                                           200 m²             211202023
+
+  AL 392                RODEZ AGGLO HABITAT (EPIC)                                                       11 635 m²          271200024
+
+  AL 250                RODEZ AGGLO HABITAT (EPIC)                                                       6 294 m²           271200024
+
+
+
+Principaux propriétaires personnes morales dans un rayon de 280 m
+  PROPRIÉTAIRE                                                              PARCELLES             SURFACE TOTALE            SIREN
+
+  RODEZ AGGLO HABITAT (EPIC)                                                8                     35 363 m²                 271200024
+
+  COMMUNE DE RODEZ (COM)                                                    29                    30 156 m²                 211202023
+
+  REGION DE MIDI PYRENEES (COLL)                                            13                    12 202 m²                 233100015
+
+  SARL ICORAD (SARL)                                                        2                     11 826 m²                 828597526
+
+  RODEZ AGGLOMERATION (COAG)                                                3                     6 754 m²                  241200187
+
+  MCDONALD'S FRANCE (SAS)                                                   3                     5 674 m²                  722003936
+
+  ETAT PAR DIRECTION DE L IMMOBILIER DE L                                   3                     4 875 m²                  –
+  ETAT (ETAT)
+
+  ECONOMIQUE HOTELIERE RODEZ (SAS)                                          3                     4 434 m²                  492604970
+
+
+
+Source : fichiers des parcelles des personnes morales (DGFiP) : sociétés, SCI, collectivités, établissements publics et associations.
+Les propriétaires personnes physiques n'y figurent pas.
+
+
+1.2 Bâti existant : diagnostics de performance énergétique
+  DATE                  LOGEMENT                SURFACE             ÉNERGIE          CLIMAT          ADRESSE
+
+  05/07/2023            Maison                  72 m²               C                C               16 Impasse Citoyenne Sorgue 12000 Rodez
+
+  05/07/2023            Maison                  90 m²               C                C               8 Impasse Citoyenne Sorgue 12000 Rodez
+
+  05/07/2023            Maison                  72 m²               C                C               12 Impasse Citoyenne Sorgue 12000 Rodez
+
+  05/07/2023            Maison                  72 m²               C                C               14 Impasse Citoyenne Sorgue 12000 Rodez
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           5 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+  DATE                  LOGEMENT                SURFACE             ÉNERGIE          CLIMAT          ADRESSE
+
+  05/07/2023            Maison                  90 m²               C                C               10 Impasse Citoyenne Sorgue 12000 Rodez
+
+  05/07/2023            Maison                  90 m²               C                C               6 Rue Citoyenne Sorgue 12000 Rodez
+
+  05/07/2023            Maison                  90 m²               C                C               4 Rue Citoyenne Sorgue 12000 Rodez
+
+  05/07/2023            Maison                  90 m²               C                C               2 Rue Citoyenne Sorgue 12000 Rodez
+
+
+
+Source : ADEME, diagnostics établis depuis juillet 2021 et géolocalisés à l'adresse. Un diagnostic se rapporte à un logement précis
+et reste valable dix ans.
+
+
+1.3 La commune de Rodez
+Code postal                                              12000
+
+Département                                              12
+
+Intercommunalité                                         CA Rodez Agglomération
+
+Population                                               23 981 habitants
+
+Superficie                                               11,26 km²
+
+Densité                                                  2 129 habitants par km²
+
+Commune littorale                                        Non
+
+Commune de montagne                                      Non
+
+Document d'urbanisme                                     Plan local d'urbanisme intercommunal (PLUi)
+
+Risques sur la commune                                   8 arrêtés de catastrophe naturelle · détail en section Risques et en
+                                                         annexe
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          6 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+    02             Règles d'urbanisme applicables
+     DANS CETTE SECTION
+
+     Le document d'urbanisme de la commune, la zone dans laquelle se trouve le terrain, et les
+     prescriptions et servitudes qui s'y ajoutent.
+
+
+Géoportail de l'Urbanisme : zonage, prescriptions et servitudes.
+
+
+
+2.1 Document d'urbanisme en vigueur
+Type de document                                         Plan local d'urbanisme intercommunal (PLUi)
+
+Date d'approbation                                       Non renseigné
+
+Statut                                                   Publié au Géoportail de l'Urbanisme
+
+Règlement officiel                                       Ouvrir la page officielle
+
+
+
+     Plan de zonage du PLU
+
+
+
+
+                                                                              UC
+
+
+
+
+                                                                                                                             50 m
+
+
+
+Zonage : Géoportail de l'Urbanisme · fond : © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       7 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.2 Zonage de la parcelle
+  ZONE                  DÉSIGNATION                                                         PART               CONSTRUCTIBILITÉ
+
+  UC                    UC : Zone recouvre des quartiers présentant                         100 %              Constructible
+                        actuellement un tissu de grands collectifs
+                        isolés. Elle est destinée à accueillir l'habitat
+
+
+
+Zone UC · Urbaine
+Zone urbaine : secteur déjà urbanisé où les équipements publics existants ou en cours de réalisation
+permettent d'accueillir des constructions. Les constructions y sont admises dans le respect du règlement de la
+zone (destinations, implantation, hauteur, emprise, aspect).
+
+
+2.3 Prescriptions applicables à la parcelle
+Aucune prescription graphique du PLU (emplacement réservé, espace boisé classé, élément de paysage
+protégé, etc.) n'est recensée sur la parcelle.
+
+
+2.4 Informations complémentaires du PLU
+  INFORMATION                                                                                        TYPE
+
+  Zone à risque d'exposition au plomb                                                                Information du PLU (type 17)
+
+  Droit de préemption au bénéfice de la commune (RODEZ)                                              Information du PLU (type 04)
+
+  ZONAGE PLUVIAL : 0_45%_jaune                                                                       Information du PLU (type 19)
+
+  ZONE CABLE 2                                                                                       Information du PLU (type 99)
+
+  BRUIT ROUTIER : Catégorie 2                                                                        Information du PLU (type 14)
+
+  Zonage d'assainissement : Zonage EU                                                                Information du PLU (type 19)
+
+
+
+
+2.5 Servitudes d'utilité publique
+Aucune servitude d'utilité publique numérisée n'est recensée sur la parcelle au Géoportail de l'Urbanisme. Les
+servitudes non encore numérisées figurent en annexe du PLU.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       8 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.6 Patrimoine : l'architecte des Bâtiments de France
+Aucun site patrimonial remarquable, site classé ou inscrit, ni monument historique à moins de 500 m n'est
+recensé : l'avis de l'architecte des Bâtiments de France n'est pas requis au titre du patrimoine.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                     9 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    03             Ce que vous pouvez construire
+     DANS CETTE SECTION
+
+     La lecture du règlement de votre zone : surface constructible estimée, hauteur, reculs, aspect,
+     usages autorisés ou interdits, avec les extraits du texte officiel.
+
+
+Lecture du règlement écrit de la zone UC, pages 42 à 54 du règlement officiel.
+
+
+
+3.1 Potentiel constructible estimé
+     En clair : le règlement de la zone ne fixe pas de surface maximale au sol. La construction doit
+     seulement rester dans la zone d'implantation, en retrait des limites et des voies, avec une hauteur de 16
+     m au plus (5 niveaux environ). Cette zone de 533 m² n'est pas une surface à construire : c'est l'espace à
+     l'intérieur duquel la maison doit se placer. Une maison de 70 m² au sol, soit environ 119 m² habitables, y
+     trouve sa place, comme le montre l'étude d'implantation ci-dessous.
+
+
+
+Surface du terrain                                       2 113 m²
+
+Zone d'implantation possible                             533 m² après reculs (8 m des limites, 3 m des voies)
+
+Emprise au sol maximale                                  Non fixée par le règlement
+
+Maison étudiée (exemple)                                 70 m² au sol, environ 119 m² habitables
+
+Hauteur maximale                                         16 m, soit 5 niveaux environ
+
+
+
+3.2 Étude d'implantation indicative
+Maison proposée                                          Maison à étage de 10 × 7 m
+
+Emprise au sol                                           70 m²
+
+Surface habitable indicative                             environ 119 m² sur 2 niveaux
+
+Façade principale                                        orientée sud
+
+Distance à la voie                                       environ 6 m
+
+Distance minimale aux limites                            9,4 m
+
+Piscine de 8 × 4 m                                       possible dans la zone constructible
+
+Taxe d'aménagement estimée                               environ 4 000 € (résidence principale)
+
+
+Esquisse automatique : la maison est placée dans la zone constructible, au plus près de la voie, en dégageant le jardin vers
+le sud, sans tenir compte des constructions existantes ni de la végétation. Elle ne remplace pas l'étude d'un architecte,
+obligatoire au-delà de 150 m² de surface de plancher, ni la vérification des règles d'aspect, de stationnement, de pente et
+d'assainissement.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      10 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+Estimation théorique établie à partir des règles chiffrées du règlement (reculs, emprise, hauteur) et de la géométrie
+cadastrale. Elle ne tient pas compte des servitudes, des risques, de la pente, des règles de stationnement et d'aspect, ni
+des dispositions particulières : seul un architecte ou un géomètre peut confirmer le potentiel réel.
+
+
+3.3 Caractère de la zone
+La zone UC recouvre des quartiers présentant actuellement un tissu de grands collectifs isolés. Elle est
+destinée à accueillir l'habitat ainsi que les occupations et utilisations du sol qui confortent la mixité de
+ces quartiers, dès lors qu'elles sont compatibles avec la sécurité, la salubrité et la tranquillité du
+voisinage. Elle vise à favoriser la construction en retrait de l'alignement et en ordre discontinu, avec une
+diversification du bâti. Elle comprend deux sous-secteurs (UCc1 et UCc3) qui ne s'appliquent pas à la
+zone UC sans indice. En UC sans indice, l'artisanat et le commerce de détail sont limités à 150 m² de
+surface de plancher.
+
+
+3.4 Règles de construction
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Surface minimale ou                          Non précisé dans le règlement de la zone                                         Zone UC
+  caractéristiques du terrain
+
+  Accès et voirie                              Les accès et voiries doivent satisfaire aux règles minimales de                  III.1
+                                               desserte, de défense contre l'incendie, de protection civile et
+                                               de collecte des ordures ménagères. Les accès sur une voie
+                                               publique peuvent être limités ou refusés pour la sécurité des
+                                               usagers. Voies nouvelles : la voie principale doit être repérable
+                                               par une largeur adaptée, dimensionnée selon la voie de
+                                               raccordement ou le besoin (voie en impasse). Compatibilité
+                                               avec l'OAP Mobilités.
+
+  Réseaux et assainissement                    Raccordement obligatoire à l'eau potable et défense incendie                     III.2.1 à III.2.4
+                                               conforme. Eaux usées : raccordement obligatoire au réseau
+                                               public d'assainissement ; l'évacuation des eaux usées non
+                                               domestiques est subordonnée à l'autorisation de Rodez
+                                               Agglomération. Eaux pluviales : gestion à la source (infiltration
+                                               ou écoulement en eaux superficielles), règlement pluvial
+                                               annexé à respecter, rejet dans les collecteurs de l'Aveyron et
+                                               de l'Auterne interdit, rejet au réseau public à débit limité à
+                                               défaut de solution sans rejet. Réseaux divers en souterrain ou
+                                               encastrés dans le bâti sauf impossibilité technique.
+
+  Implantation par rapport                     Soit à l'alignement actuel ou à la limite qui s'y substitue                      II.1.1
+  aux voies                                    (emplacement réservé, marge de recul, plan général
+                                               d'alignement), soit en retrait d'au moins 3 mètres. Exceptions :
+                                               saillies, piscines, équipements d'intérêt collectif justifiés,
+                                               ordonnance architecturale ou trame bâtie à respecter, angle de
+                                               2 rues, extensions de constructions existantes ne respectant
+                                               pas l'alignement ou le recul imposé (dans la configuration du
+                                               bâti existant), OAP.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           11 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Implantation par rapport                     Sur une ou plusieurs limites séparatives, ou en retrait d'au                     II.1.2
+  aux limites séparatives                      moins 3 mètres avec H <= 2 × D (D = H/2, distance calculée
+                                               horizontalement au point le plus proche de la limite).
+                                               Implantation par rapport au fond de parcelle non réglementée.
+                                               Exceptions : saillies, piscines, équipements d'intérêt collectif,
+                                               salubrité des locaux voisins, ordonnance architecturale, appui
+                                               sur un bâtiment contigu (volumétrie maximale du bâtiment
+                                               contigu), OAP.
+
+  Implantation des                             Non précisé dans le règlement de la zone                                         Zone UC
+  constructions entre elles
+
+  Emprise au sol                               Non réglementé                                                                   Zone UC
+
+  Hauteur maximale                             18 mètres maximum au faîtage, calculés à partir du terrain                       II.1.3
+                                               naturel avant travaux. La règle ne s'applique pas aux
+                                               équipements d'intérêt collectif. La hauteur d'une extension ne
+                                               doit pas dépasser celle du bâtiment existant et doit être
+                                               cohérente avec lui. Une hauteur de 20 m peut être admise pour
+                                               : garantir la continuité volumétrique d'un ensemble bâti contigu
+                                               en bon état par adossement à des pignons existants sans les
+                                               dépasser, marquer un angle de rue ou créer un effet
+                                               architectural volontaire, s'harmoniser avec la hauteur des
+                                               immeubles voisins.
+
+  Aspect extérieur et toitures                 Architecture faisant référence, sans interprétation, à des                       II.2, II.2.3,
+                                               architectures traditionnelles extérieures à la région interdite.                 II.2.5
+                                               Habitations individuelles neuves : toitures en pente couvertes
+                                               en ardoises, lauze ou matériau similaire plat de couleur
+                                               sombre, pente >= 50 % (sauf coyaux), au plus 2 versants (4
+                                               avec croupes). Extensions, rénovations et annexes : formes et
+                                               pentes différentes admises si elles s'harmonisent avec les
+                                               constructions voisines ou si le matériau d'origine est conservé.
+                                               Toitures terrasses : pente minimale de 5 %, dalles sur plot à
+                                               éviter. Immeubles collectifs : toitures en pente en ardoise,
+                                               lauze ou matériau similaire sombre ; autre type de toiture
+                                               admis s'il est intégré de façon cohérente au contexte bâti.
+                                               Coffrets, compteurs et boîtes aux lettres intégrés au bâti ou à
+                                               la clôture ; stockage des conteneurs à déchets sur le terrain ;
+                                               dépôts de matériaux dissimulés.
+
+  Matériaux et couleurs                        Emploi à nu en parement extérieur de matériaux destinés à                        II.2.2
+                                               être recouverts d'un enduit interdit. Rythme des façades
+                                               harmonisé avec les bâtiments voisins et le parcellaire. Toutes
+                                               les façades traitées avec le même soin. La couleur blanche est
+                                               interdite, ses nuances peuvent être admises. Matériaux et
+                                               couleurs compatibles avec l'OAP Paysage.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           12 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Clôtures                                     Hauteur limitée à 1,60 m, dont 0,60 m maximum pour les murs                      II.2.4 ;
+                                               ou soubassements pleins (s'applique aux murs de soutènement                      Dispositions
+                                               en limite non nécessaires au terrain naturel). Hauteurs                          générales 4.1
+                                               différentes admises pour la nature spécifique des
+                                               constructions ou la sécurité. Harmonie avec les clôtures
+                                               avoisinantes ; unité d'aspect sur voie pour les lotissements et
+                                               permis groupés. Haies composées de plusieurs espèces ; haies
+                                               de sapinettes ou de thuyas interdites. Clôtures entièrement en
+                                               grillage non plantées d'une haie, et clôtures en bardages ou
+                                               panneaux pleins (métal, béton, plastique, bois) interdites. En
+                                               trame verte : ouvertures de 15 cm × 15 cm tous les 8 m linéaires
+                                               dans les soubassements pleins. Les clôtures sont soumises à
+                                               déclaration préalable sur l'ensemble du territoire.
+
+  Stationnement                                Logements : 1,5 place par 80 m² de surface de plancher (hors                     II.4.1 à II.4.4
+                                               extension sans création de logement) ; places visiteurs : 1 place
+                                               pour 10 logements ou lots en logement collectif ou lotissement
+                                               ; hébergement : 1 place par chambre ; EHPAD ou résidence
+                                               universitaire : 1 place pour 3 lits ; logements sociaux : 1 place
+                                               par logement. Commerce : néant sous 50 m², puis 1 place pour
+                                               30 m² de surface de vente. Hébergement hôtelier : 1 place par
+                                               chambre. Bureau et service : 1 place par 30 m² de surface de
+                                               plancher. Artisanat et industrie : néant sous 80 m², puis 1 place
+                                               par 80 m². Entrepôt : 1 place par 200 m². Restauration : 1,5
+                                               place par 10 m² de salle. Équipements d'intérêt collectif : selon
+                                               notice, avec aire deux-roues. Réduction de 20 % (habitat,
+                                               hôtellerie) ou 40 % (autres) si au moins les deux tiers de l'unité
+                                               foncière sont dans un périmètre de desserte spécifique en
+                                               transport en commun. Mutualisation admise. Au-delà de 10
+                                               places, stationnement visible limité (arrière des bâtiments ou
+                                               dissimulation paysagère). Revêtements perméables privilégiés.
+                                               Solutions alternatives (concession ou acquisition dans un parc
+                                               à proximité) en cas d'impossibilité.
+
+  Espaces verts et plantations                 Espaces libres paysagers et végétalisés, avec des espèces                        II.3, II.3.1
+                                               présentes dans l'environnement proche, de préférence issues
+                                               de la palette de l'OAP Paysage. Pas de pourcentage minimal
+                                               d'espaces verts fixé pour la zone UC. En secteur « nature en
+                                               ville » de l'OAP TVBN, éviter une imperméabilisation trop
+                                               importante. Espaces boisés classés (L. 113-1 et L. 113-2) et
+                                               éléments en trame paysagère (L. 151-23) protégés.
+
+  Densité ou coefficient                       Non réglementé (pas de COS)                                                      Zone UC
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          13 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.5 Usages autorisés
+    Habitat et occupations du sol favorisant la mixité, compatibles avec la sécurité, la salubrité et la tranquillité
+    du voisinage
+    Constructions à sous-destination d'artisanat et commerce de détail dans la limite de 150 m² de surface de
+    plancher
+    Extensions des constructions existantes
+    Affouillements et exhaussements, dépôts de matériaux liés à une opération de construction ou
+    d'aménagement autorisée
+    En bordure des cours d'eau : modes d'occupation du sol et clôtures, avec un recul minimum de 5 m par
+    rapport aux berges et passage des engins d'entretien
+    Travaux d'aménagement et d'extension des bâtiments protégés au titre de l'article L. 151-19, conçus pour
+    mettre en valeur leurs caractéristiques esthétiques ou historiques
+    Équipements d'intérêt collectif (dérogations possibles aux règles d'implantation et de hauteur si elles sont
+    justifiées)
+    Installations classées soumises à déclaration, extension des installations classées existantes à la date
+    d'approbation du PLU, et installations classées pour les équipements d'intérêt collectif
+
+
+3.6 Usages interdits ou soumis à conditions
+    Interdits : carrières, habitations légères de loisirs, caravanes isolées, exploitations agricoles et forestières,
+    terrains aménagés pour l'accueil des campeurs et des caravanes
+    Interdites : installations classées, sauf celles soumises à déclaration, l'extension de celles déjà existantes
+    à la date d'approbation du PLU et celles pour les équipements d'intérêt collectif
+    Artisanat et commerce de détail : 150 m² de surface de plancher maximum. Extension des constructions
+    existantes à la date d'entrée en vigueur de la révision n°6 limitée à 50 % de la surface existante. Si la
+    surface avant extension est inférieure à 75 m², l'extension peut dépasser 50 % tant que le résultat
+    n'excède pas 150 m²
+    Secteurs de mixité sociale (SMS) : tout programme de logements doit affecter un pourcentage minimum
+    (20, 25 ou 30 % selon le secteur) à du logement locatif conventionné aidé par l'État, sauf si ce taux est
+    atteint à l'échelle du secteur
+    Toutes les occupations et utilisations du sol doivent être compatibles avec les orientations
+    d'aménagement et de programmation (OAP) lorsqu'elles existent
+    Espaces boisés classés : toute occupation du sol compromettant la conservation, la protection ou la
+    création des boisements est interdite
+    Éléments en trame paysagère (L. 151-23) : seuls sont admis les travaux d'accueil du public, d'entretien et de
+    mise en valeur, les rétentions d'eaux pluviales paysagères, les accès et voiries ne remettant pas en cause
+    la qualité paysagère
+    Bâtiments protégés (L. 151-19) et site patrimonial remarquable (SPR) : respect de l'annexe 1 et du règlement
+    du SPR
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      14 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.7 Points de vigilance pour votre projet
+    Vérifier sur le plan de zonage que la parcelle est bien en UC sans indice (et non en UCc1 ou UCc3, où les
+    plafonds commerciaux diffèrent) et qu'elle n'est pas dans un secteur de mixité sociale
+    Vérifier la présence d'un emplacement réservé, d'une marge de recul, d'un alignement obligatoire ou d'un
+    plan général d'alignement au document graphique
+    Vérifier l'existence d'une OAP sectorielle ou thématique (Paysage, TVBN, Mobilités) : le projet doit y être
+    compatible
+    Vérifier les protections : espaces boisés classés, trame paysagère L. 151-23, bâtiment repéré L. 151-19,
+    périmètre SPR ou abords de monuments historiques
+    Vérifier les servitudes d'utilité publique et les risques (zones inondables, PPRI, bruit des infrastructures,
+    archéologie), ainsi que la bande de 75 m ou 100 m le long des grands axes routiers (article L. 111-6)
+    En bordure de cours d'eau, respecter un recul de 5 m par rapport aux berges
+    Le calcul des places de stationnement s'applique à la surface de plancher créée ; prévoir les places
+    visiteurs pour les opérations collectives ou les lotissements
+    Prévoir la fiche de gestion des eaux pluviales et le respect du règlement pluvial annexé
+    La hauteur est mesurée au faîtage depuis le terrain naturel avant travaux ; la dérogation à 20 m n'est
+    possible que dans les cas listés
+    Les règles du règlement sont appréciées au regard de l'ensemble du projet en cas de lotissement ou de
+    division en propriété (sauf disposition contraire)
+
+
+3.8 Extraits du règlement
+
+     II.1.1 · page 46
+     « Toute construction doit être implantée soit : - à l’alignement actuel ou à la limite qui s’y substitue
+     repérable au document graphique (emplacement réservé, marge de recul ou plan général
+     d’alignement) ; - en retrait d’au moins 3 mètres. »
+
+
+     II.1.2 · page 46
+     « ou en retrait à une distance de 3 mètres au moins des limites et la hauteur (H) de tout point des
+     constructions mesurée à partir du sol fini ne peut être supérieure à deux fois la distance (D) »
+
+
+     II.1.3 · page 47
+     « La hauteur de toute construction ne pourra excéder 18 mètres, calculée à partir du terrain naturel
+     avant travaux. Cette règle ne s’applique pas pour les équipements d’intérêt collectif. »
+
+
+     I.2 · page 43
+     « Les constructions à sous-destination d’artisanat et commerce de détail sont autorisées dans la limite
+     de 150 m² de surface de plancher. »
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      15 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+     II.4.2 · page 51
+     « Logements : 1,5 place par 80m² de Surface de Plancher (la règle ne s’applique pas dans le cas
+     d’extensions de constructions existantes sans création de nouveaux logements). »
+
+
+     III.2.2 · page 53
+     « Les constructions seront obligatoirement raccordées au réseau public d’assainissement. »
+
+
+
+3.9 Démarches probables
+    Permis de construire ou déclaration préalable selon la nature et la surface des travaux
+    Déclaration préalable pour toute clôture (délibération du conseil d'agglomération)
+    Permis d'aménager en cas de lotissement
+    Consultation de l'architecte des bâtiments de France en abords de monuments historiques ou dans le SPR
+    Fiche de gestion des eaux pluviales à joindre à la demande d'autorisation d'urbanisme
+    Demande d'autorisation de rejet auprès de Rodez Agglomération pour les eaux usées non domestiques
+    Autorisation pour coupes et abattages en espaces boisés classés
+    Aucun permis de démolir institué dans les communes de Rodez Agglomération, sauf cas de l'article R.
+    421-28 (SPR, abords de monuments historiques, éléments protégés)
+
+     Cette lecture est établie automatiquement, par intelligence artificielle, à partir du règlement officiel en
+     vigueur. Elle peut comporter des imprécisions : seul le texte du règlement, reproduit en annexe (pages
+     42 à 54 du document approuvé), fait foi, avec les dispositions générales, les orientations
+     d'aménagement et les servitudes.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      16 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                                    04 · Loi Littoral et loi Montagne
+
+
+
+
+   04              Loi Littoral et loi Montagne
+     DANS CETTE SECTION
+
+     Les lois nationales qui s'ajoutent au document d'urbanisme sur le littoral et en montagne. Elles
+     peuvent rendre un terrain inconstructible même en zone constructible.
+
+
+Les lois d'aménagement qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+
+
+4.1 Loi Littoral
+Commune littorale                                        Non
+
+Distance au rivage                                       Sans objet
+
+Bande des 100 mètres                                     Sans objet
+
+
+La commune n'est pas riveraine de la mer : la loi Littoral ne s'applique pas (sauf rives de grands lacs).
+
+
+4.2 Loi Montagne
+Commune en zone de montagne                              Non
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          17 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+   05              Risques naturels et technologiques
+     DANS CETTE SECTION
+
+     Les risques connus à l'adresse du terrain (inondation, feu de forêt, mouvement de terrain,
+     radon…) et les catastrophes naturelles reconnues sur la commune.
+
+
+Base nationale Géorisques (ministère de la Transition écologique).
+
+
+
+5.1 Risques naturels à l'adresse de la parcelle
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Inondation                                      Non connu                                       Existant
+
+  Remontée de nappe                               Non connu                                       Existant
+
+  Séisme                                          Existant – faible                               Existant – faible
+
+  Mouvement de terrain                            Inconnu                                         Existant
+
+  Retrait-gonflement des                          Existant – modéré                               Existant – modéré
+  argiles
+
+  Radon                                           Existant – important                            Existant – important
+
+
+
+
+5.2 Risques technologiques
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Installations industrielles                     Non concerné                                    Concerné
+  (ICPE)
+
+  Canalisations de matières                       Non concerné                                    Concerné
+  dangereuses
+
+  Pollution des sols                              Concerné                                        Concerné
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                    18 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.3 Indicateurs réglementaires
+Zone de sismicité                                        Zone 2 – faible
+
+Potentiel radon                                          Catégorie 3 (potentiel significatif)
+
+Retrait-gonflement des argiles                           Existant – modéré
+
+Plans de prévention (PPR)                                Aveyron
+
+
+
+5.4 Arrêtés de catastrophe naturelle
+8 arrêtés de reconnaissance de l'état de catastrophe naturelle concernent la commune.
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Mouvement de Terrain                                                      10/02/2026 au 18/02/2026                       21/09/2026
+
+  Inondations et/ou Coulées de Boue                                         08/02/2026 au 23/02/2026                       03/03/2026
+
+  Sécheresse                                                                01/07/2022 au 30/09/2022                       03/05/2023
+
+  Inondations et/ou Coulées de Boue                                         03/12/2003 au 04/12/2003                       13/12/2003
+
+  Inondations et/ou Coulées de Boue                                         04/11/1994 au 06/11/1994                       25/11/1994
+
+  Inondations et/ou Coulées de Boue                                         19/06/1990                                     15/12/1990
+
+  Tempête                                                                   06/11/1982 au 10/11/1982                       19/11/1982
+
+  Inondations et/ou Coulées de Boue                                         06/11/1982 au 10/11/1982                       19/11/1982
+
+
+
+
+5.5 Installations classées à proximité (moins de 1 km)
+    COMMUNAUTE D'AGGLOMERATION GRAND RODEZ · Autorisation · En exploitation avec titre
+
+
+5.6 Sites et sols pollués à proximité
+    Ancienne usine à gaz · ancien site industriel ou d'activité de service (CASIAS)
+    9 anciens sites industriels ou d'activités de service (CASIAS) recensés
+    CENTRE EDF GDF SERVICES AVEYRON LOZERE (ANCIENNE USINE A GAZ) · site pollué en cours
+    d'instruction
+    Collège public Amans-Joseph Fabre n° 0120101V · site pollué en cours d'instruction
+    CENTRE EDF GDF SERVICES AVEYRON LOZERE (ANCIENNE USINE A GAZ) · secteur d'information sur les
+    sols (SIS)
+    Collège public Amans-Joseph Fabre n° 0120101V · secteur d'information sur les sols (SIS)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           19 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.7 Rapport officiel Géorisques
+Les risques recensés ci-dessus proviennent des bases officielles de Géorisques, service public d'information
+sur les risques. Le rapport officiel complet peut être édité sans frais, à tout moment et à jour, à partir de
+l'adresse du terrain sur le site Géorisques.
+
+
+    Éditer le rapport officiel Géorisques
+
+
+Lors d'une vente ou d'une location, le vendeur ou le bailleur doit remettre un état des risques de moins de six mois,
+complété et signé, et l'information sur les sinistres indemnisés au titre des catastrophes naturelles.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                   20 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+   06              Le terrain : accès, relief et réseaux
+     DANS CETTE SECTION
+
+     Les contraintes physiques du terrain : accès à une voie, pente et exposition, assainissement,
+     raccordement à l'électricité et à l'eau, fibre. Ce sont elles qui pèsent le plus sur le coût d'un
+     projet.
+
+
+Voirie (IGN, BD TOPO), altimétrie (IGN, RGE ALTI), règlement de la zone, réseau électrique (Agence ORE) et éligibilité
+internet (Arcep).
+
+
+
+6.1 Accès
+Accès direct à une voie                                  Oui
+
+Voie                                                     Route à 1 chaussée · Rue Citoyenne Sorgue
+
+Largeur de chaussée                                      3m
+
+Accès des véhicules                                      Libre
+
+
+La parcelle touche une voie carrossable. L'autorisation d'urbanisme vérifiera que l'accès est adapté au projet et sûr,
+et peut imposer une permission de voirie ou un aménagement de l'entrée.
+
+
+6.2 Relief et exposition
+Pente moyenne                                            19 %
+
+Exposition                                               Versant orienté nord
+
+Altitude                                                 540 à 554 m
+
+Appréciation                                             Pente marquée
+
+
+
+
+ 554 m
+
+
+
+
+ 536 m
+
+
+           Coupe du terrain dans le sens de la pente · longueur 81 m
+
+
+     Terrassements, murs de soutènement et gestion des eaux de ruissellement à prévoir : surcoût
+     sensible. Une étude de sol (mission G2) est recommandée.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       21 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Rodez · AL 384
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.3 Ensoleillement
+Appréciation                                             Bien ensoleillé
+
+Soleil direct le 21 juin                                 12 h 42 (de 07 h 40 à 20 h 10)
+
+Soleil direct aux équinoxes                              10 h 18 (de 08 h 00 à 18 h 10)
+
+Soleil direct le 21 décembre                             5 h 48 (de 09 h 30 à 15 h 10)
+
+Ensoleillement annuel possible                           3 551 h par an, soit 81 % du maximum à cette latitude
+
+Hauteur du relief vers le sud                            16°
+
+
+ 75°
+
+
+
+ 60°
+
+
+
+ 45°
+
+
+
+ 30°
+
+
+
+ 15°
+
+
+
+ 0°
+                                Est                  Sud-est                    Sud                 Sud-ouest               Ouest
+
+          21 juin          Équinoxes               21 décembre                 Horizon : relief et bâtiments voisins
+
+
+
+       Le soleil est un peu masqué en début ou en fin de journée, surtout en hiver, mais le terrain reste bien
+       exposé sur l'année.
+
+
+
+Ensoleillement mois par mois (le 21 de chaque mois)
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Janvier                         9 h 12                             6 h 42                                    09 h 10 – 15 h 40
+
+  Février                         10 h 42                            8 h 42                                    08 h 10 – 16 h 40
+
+  Mars                            12 h                               10 h 18                                   08 h 00 – 18 h 10
+
+  Avril                           13 h 30                            11 h 18                                   08 h 30 – 19 h 40
+
+  Mai                             14 h 48                            12 h 12                                   08 h 00 – 20 h 00
+
+  Juin                            15 h 18                            12 h 42                                   07 h 40 – 20 h 10
+
+  Juillet                         14 h 48                            12 h 12                                   08 h 10 – 20 h 10
+
+  Août                            13 h 42                            11 h 18                                   08 h 30 – 19 h 40
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      22 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Septembre                       12 h                               10 h 12                                   08 h 50 – 18 h 50
+
+  Octobre                         10 h 42                            8 h 30                                    08 h 50 – 17 h 10
+
+  Novembre                        9 h 18                             6 h 48                                    08 h 40 – 15 h 20
+
+  Décembre                        8 h 42                             5 h 48                                    09 h 30 – 15 h 10
+
+
+
+Calcul théorique par ciel dégagé, au centre de la parcelle et à hauteur d'homme : course du soleil heure par heure, masque du relief
+sur 6 km (IGN, RGE ALTI) et des bâtiments voisins sur 120 m (IGN, BD TOPO, 25 bâtiments pris en compte). La végétation et les
+constructions récentes ne sont pas prises en compte.
+
+
+6.4 Quel raccordement pour les eaux usées ?
+Raccordement à prévoir                                       Tout-à-l'égout très probable
+
+Zone du PLU                                                  UC · Urbaine
+
+Zonage d'assainissement                                      Zonage d'assainissement : Zonage EU
+
+Réseau collectif sur la commune                              Oui · RODEZ AGGLOMERATION · délégation à VEOLIA
+
+
+     Le terrain est en zone urbaine (UC) et la commune dispose d'un réseau public d'assainissement
+     collectif. Dans ces zones, le réseau passe en général dans la voie et le règlement impose le
+     raccordement lorsqu'il existe. À confirmer par le service d'assainissement pour ce terrain précis.
+
+
+
+Ce que dit le règlement de la zone
+Raccordement obligatoire au réseau public d'assainissement pour toutes les constructions de la zone UC.
+L'assainissement non collectif n'est pas prévu. L'évacuation des eaux usées non domestiques dans le réseau est
+subordonnée à l'autorisation de Rodez Agglomération (Code de la santé publique).
+
+Le règlement admet un assainissement individuel uniquement là où le réseau public n'existe pas : cette mention ne signifie
+pas que le terrain n'est pas desservi.
+
+Ce que cela coûte
+Raccordement au tout-à-l'égout : branchement sous la voie réalisé par le service d'assainissement (souvent 1 500 à
+5 000 € selon la distance), canalisation sur le terrain jusqu'à la maison, et participation pour le financement de
+l'assainissement collectif (PFAC) fixée par la commune ou l'intercommunalité, généralement de 1 000 à 5 000 €. Le
+service remet un devis à partir du plan de situation.
+
+Qui contacter pour obtenir la confirmation
+Service d'assainissement                                     RODEZ AGGLOMERATION · exploitant : VEOLIA
+
+Mairie                                                       Mairie de Rodez
+
+Téléphone                                                    05 65 77 88 00
+
+E-mail                                                       contact@mairie-rodez.fr
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      23 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                         Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+    Demandez au service d'assainissement, avec la référence cadastrale, si une canalisation publique passe au droit
+    du terrain, à quelle profondeur, et le montant de la PFAC. Sa réponse écrite vaut attestation de raccordabilité.
+    Certificat d'urbanisme opérationnel (formulaire Cerfa 13410, délivré sans frais) : la mairie y indique officiellement
+    si le terrain est desservi par le réseau d'assainissement.
+    Plan des réseaux : la présence des canalisations enterrées près du terrain peut être vérifiée sur
+    reseaux-et-canalisations.gouv.fr, le guichet unique des réseaux.
+Sources : zonage d'assainissement et règlement (Géoportail de l'Urbanisme) ; services publics d'assainissement (SISPEA, Office
+français de la biodiversité) ; annuaire de l'administration (service-public.fr).
+
+Si le réseau public n'était finalement pas accessible
+  FILIÈRE                                    QUAND ELLE CONVIENT                                                           ORDRE DE PRIX
+
+  Fosse toutes eaux et                       Sol perméable, terrain assez grand et peu pentu                               5 000 à 10 000 €
+  épandage
+
+  Filtre à sable                             Sol peu perméable, place suffisante                                           8 000 à 12 000 €
+
+  Micro-station agréée                       Petit terrain ou sol défavorable ; entretien et électricité                   7 000 à 15 000 €
+
+  Filtre compact agréé                       Petit terrain, sans électricité                                               9 000 à 14 000 €
+
+
+
+Ordres de prix indicatifs (fourniture et pose, hors étude de sol et terrassements particuliers). La filière est choisie au vu de l'étude
+de sol et validée par le SPANC.
+
+
+6.5 Électricité et eau potable
+Gestionnaire du réseau                                       Enedis
+
+Réseau basse tension le plus proche                          au contact de la parcelle (ligne souterraine)
+
+Ligne aérienne la plus proche                                à environ 125 m
+
+Ligne souterraine la plus proche                             au contact de la parcelle
+
+Poste de transformation le plus proche                       à environ 135 m
+
+Appréciation                                                 Branchement simple probable
+
+
+     Le réseau basse tension passe au contact de la parcelle : un branchement simple est en principe
+     possible (de l'ordre de 1 500 à 3 000 € pour une maison, selon la longueur et la puissance), sous
+     réserve de la capacité du réseau et des coffrets existants.
+
+
+
+Ce qu'il faut vérifier avant d'acheter
+    La capacité du réseau : même un réseau proche peut être saturé (coffret ou câble plein, poste de transformation
+    au maximum). Seule une étude du gestionnaire permet de le savoir ; c'est la cause la plus fréquente de surcoûts
+    imprévus.
+    Électricité : demander au gestionnaire du réseau une étude de raccordement ou un devis à partir de l'adresse et
+    du plan de situation (sans frais). Elle indique le type de raccordement, son coût et son délai.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           24 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+    Eau potable : les plans du réseau d'eau ne sont pas publics. Interroger le service des eaux (coordonnées
+    ci-dessous) sur la présence d'une canalisation au droit du terrain, sa capacité et le coût du branchement, ainsi
+    que sur la défense incendie (borne à moins de 200 m environ).
+    Certificat d'urbanisme opérationnel : la mairie y indique si le terrain est desservi par les réseaux publics (eau,
+    électricité, assainissement) et, à défaut, si et quand ils seront étendus. Un refus de permis peut être fondé sur
+    l'insuffisance des réseaux (article L. 111-11 du Code de l'urbanisme).
+
+Qui contacter
+Service de l'eau potable                                     RODEZ AGGLOMERATION
+
+Mode de gestion                                              Régie publique
+
+Contact pour le branchement                                  RODEZ AGGLOMERATION
+
+Mairie                                                       Mairie de Rodez
+
+Téléphone de la mairie                                       05 65 77 88 00
+
+E-mail de la mairie                                          contact@mairie-rodez.fr
+
+Électricité (raccordement)                                   Enedis · demande en ligne sur enedis.fr (raccordement)
+
+La mairie oriente vers le bon interlocuteur et confirme, dans le certificat d'urbanisme, la desserte du terrain par les réseaux.
+Sources : SISPEA, observatoire des services publics d'eau (OFB) ; annuaire de l'administration (service-public.fr).
+
+Dans une promesse de vente, une condition suspensive portant sur le coût du raccordement aux réseaux protège
+l'acquéreur. Source de la cartographie électrique : Agence ORE, données des gestionnaires de réseaux de distribution ;
+tracés indicatifs.
+
+
+6.6 Fibre et internet
+     Le terrain est déjà fibré : 9 adresses situées sur la parcelle (4 Rue Citoyenne Sorgue, 16 Impasse
+     Citoyenne Sorgue, 14 Impasse Citoyenne Sorgue, 2 Rue Citoyenne Sorgue, 6 Rue Citoyenne Sorgue, 12
+     Impasse Citoyenne Sorgue, 7 Rue Jean Alauzet, 5 Rue Jean Alauzet, 9 Rue Jean Alauzet) sont
+     déclarées raccordables à la fibre.
+
+
+
+Adresse la plus proche                                          4 Rue Citoyenne Sorgue · à 9 m · raccordable
+
+Point fibré le plus proche                                      4 Rue Citoyenne Sorgue · à 9 m
+
+Adresses fibrées à moins de 100 m                               20 sur 20
+
+Adresses fibrées à moins de 400 m                               296 sur 302
+
+Technologies disponibles à proximité                            Cuivre (ADSL, VDSL), Fibre, Satellite, Câble, 4G fixe
+
+
+Vérifiez la fibre à l'adresse du terrain :
+
+                     Carte fibre Orange                                                                  Carte de l'Arcep
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      25 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  DISTANCE           ADRESSE                                                                   FIBRE              AUTRES ACCÈS
+
+  9m                 4 Rue Citoyenne Sorgue                                                    Oui                Cuivre (ADSL, VDSL), Satellite
+
+  11 m               16 Impasse Citoyenne Sorgue                                               Oui                Câble, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+  13 m               14 Impasse Citoyenne Sorgue                                               Oui                Câble, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+  13 m               2 Rue Citoyenne Sorgue                                                    Oui                Cuivre (ADSL, VDSL), Satellite
+
+  14 m               6 Rue Citoyenne Sorgue                                                    Oui                Cuivre (ADSL, VDSL), Satellite
+
+  19 m               12 Impasse Citoyenne Sorgue                                               Oui                4G fixe, Câble, Cuivre (ADSL,
+                                                                                                                  VDSL), Satellite
+
+  31 m               7 Rue Jean Alauzet                                                        Oui                Câble, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+  31 m               5 Rue Jean Alauzet                                                        Oui                Câble, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+
+
+Source : Arcep, « Ma connexion internet », éligibilité déclarée par les opérateurs, adresse par adresse. Le tracé des câbles n'est
+pas public : la présence de la fibre en limite de terrain se vérifie auprès de l'opérateur ou par une déclaration de projet de travaux
+(DT).
+
+
+6.7 Qui contacter pour les réseaux
+  RÉSEAU                                    INTERLOCUTEUR                                         CE QU'IL FAUT DEMANDER
+
+  Eau potable et                            Mairie ou service des eaux de la                      Attestation de desserte et conditions de
+  assainissement collectif                  commune                                               raccordement
+
+  Assainissement individuel                 SPANC (communauté de communes)                        Contrôle de conception sur la base de l'étude
+                                                                                                  de sol
+
+  Électricité                               Enedis (gestionnaire du réseau de                     Étude de raccordement et devis
+                                            distribution)
+
+  Fibre et téléphone                        Opérateur d'infrastructure et                         Raccordement du futur logement
+                                            fournisseur d'accès
+
+  Tous réseaux                              Guichet unique des réseaux                            Déclaration de projet de travaux (DT) pour
+                                            (reseaux-et-canalisations.gouv.fr)                    localiser les réseaux existants
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              26 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+    07             Environnement et marché immobilier
+     DANS CETTE SECTION
+
+     Les espaces naturels protégés autour du terrain et les prix de vente réels des maisons,
+     appartements et terrains alentour.
+
+
+Inventaire national du patrimoine naturel et demandes de valeurs foncières (DVF).
+
+
+
+7.1 Espaces naturels protégés ou inventoriés
+La parcelle n'est concernée par aucun site Natura 2000, ZNIEFF, parc ou réserve naturelle.
+
+
+7.2 Espèces protégées observées près du terrain
+92 espèces protégées ont été observées dans un rayon de 1 km autour du terrain depuis 1990 ; les 14 plus
+fréquemment signalées figurent ci-dessous.
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Moineau domestique (Passer                                      Oiseau                 Nationale (espèce et              107 · dernière en
+  domesticus)                                                                            habitat)                          2024
+
+  Mésange charbonnière (Parus major)                              Oiseau                 Nationale (espèce et              94 · dernière en
+                                                                                         habitat)                          2022
+
+  Mésange bleue (Cyanistes caeruleus)                             Oiseau                 Nationale (espèce et              76 · dernière en
+                                                                                         habitat)                          2022
+
+  Corneille noire (Corvus corone)                                 Oiseau                 Nationale (espèce et              44 · dernière en
+                                                                                         habitat)                          2026
+
+  Rouge-gorge familier (Erithacus                                 Oiseau                 Nationale (espèce et              41 · dernière en
+  rubecula)                                                                              habitat)                          2022
+
+  Verdier (Chloris chloris)                                       Oiseau                 Nationale (espèce et              34 · dernière en
+                                                                                         habitat)                          2022
+
+  Rouge-queue noir (Phoenicurus                                   Oiseau                 Nationale (espèce et              32 · dernière en
+  ochruros)                                                                              habitat)                          2024
+
+  Martinet noir (Apus apus)                                       Oiseau                 Nationale (espèce et              31 · dernière en
+                                                                                         habitat)                          2026
+
+  Serin cini (Serinus serinus)                                    Oiseau                 Nationale (espèce et              26 · dernière en
+                                                                                         habitat)                          2022
+
+  Troglodyte mignon (Troglodytes                                  Oiseau                 Nationale (espèce et              26 · dernière en
+  troglodytes)                                                                           habitat)                          2022
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         27 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Gabian (Larus michahellis)                                      Oiseau                 Nationale (espèce et              25 · dernière en
+                                                                                         habitat)                          2025
+
+  Chardonneret élégant (Carduelis                                 Oiseau                 Nationale (espèce et              24 · dernière en
+  carduelis)                                                                             habitat)                          2022
+
+  Héron cendré (Ardea cinerea)                                    Oiseau                 Nationale (espèce et              22 · dernière en
+                                                                                         habitat)                          2021
+
+  Pinson des arbres (Fringilla coelebs)                           Oiseau                 Nationale (espèce et              21 · dernière en
+                                                                                         habitat)                          2022
+
+
+
+     Une observation à proximité ne signifie pas que l'espèce vit sur le terrain. Mais si elle y est présente, il
+     est interdit de détruire, capturer ou déranger les individus et, pour la plupart de ces espèces, de
+     détruire leurs lieux de reproduction et de repos (articles L. 411-1 et suivants du Code de
+     l'environnement). L'infraction est punie de 3 ans d'emprisonnement et 150 000 € d'amende.
+
+
+
+Que faire avant de construire ?
+    Pour une maison individuelle, aucune étude écologique n'est imposée en règle générale, et l'étude de sol porte
+    sur le terrain (fondations), pas sur la faune ni la flore. Vous restez cependant responsable si une espèce
+    protégée vit sur la parcelle : en cas de doute (espèce observée tout près, vieux arbres, murets, maquis, zone
+    humide), faites passer un écologue avant de défricher.
+    Si un enjeu est confirmé : inventaire faune-flore aux saisons utiles (printemps et été en général), puis mesures
+    pour éviter et réduire l'impact : implantation de la maison sur la partie la moins sensible, travaux hors période de
+    reproduction, clôture de chantier adaptée, déplacement d'individus par un spécialiste habilité.
+    Si la destruction d'individus ou d'habitats ne peut pas être évitée : demande de dérogation « espèces protégées »
+    auprès de la préfecture (DREAL), avec avis du conseil scientifique. Comptez 4 à 12 mois d'instruction, à anticiper
+    avant le dépôt du permis.
+
+Combien prévoir ?
+Pré-diagnostic écologique                                800 à 2 000 € (une visite et une note de synthèse)
+
+Inventaire faune-flore                                   3 000 à 10 000 € selon la surface et le nombre de passages
+
+Mesures d'évitement et de réduction                      500 à 5 000 € (balisage, calendrier, suivi de chantier)
+
+Dossier de dérogation                                    8 000 à 25 000 €, hors mesures de compensation éventuelles
+
+Ordres de prix indicatifs, honoraires de bureaux d'études en environnement, si une étude est nécessaire. Pour une maison sur un
+terrain déjà entouré de constructions, aucune étude n'est le plus souvent requise.
+
+Sources : statuts de protection TAXREF et base de connaissance des statuts (INPN, Muséum national d'Histoire naturelle) ;
+observations naturalistes GBIF, qui rassemble notamment les données de l'INPN et du SINP.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         28 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+7.3 Prix de l'immobilier à Rodez
+Prix au mètre carré des ventes enregistrées sur la commune au cours des cinq dernières années publiées.
+Seules les ventes portant sur un bien unique sont retenues.
+
+  TYPE DE BIEN                                       VENTES                       €/M² MÉDIAN                              €/M² MOYEN
+
+  Maisons                                            331                          2 069 €/m²                               2 266 €/m²
+
+  Appartements                                       2 257                        2 052 €/m²                               2 068 €/m²
+
+  Locaux commerciaux                                 223                          1 037 €/m²                               1 179 €/m²
+
+
+
+Source : statistiques des demandes de valeurs foncières (DGFiP, Etalab). Prix des actes, hors frais : un ordre de grandeur,
+pas une estimation du bien.
+
+
+7.4 Ventes de terrains autour de la parcelle
+Période observée                                         2021 à 2026
+
+Ventes de terrains recensées                             26
+
+Prix médian                                              100 €/m²
+
+Prix courants (une vente sur deux)                       25 à 164 €/m²
+
+
+  DATE                    PARCELLE                          NATURE                                SURFACE              PRIX             €/M²
+
+  12/02/2026              AM 276                            sols                                  405 m²               190 000 €        469
+
+  23/04/2025              AM 528                            sols                                  100 m²               3 000 €          30
+
+  04/04/2025              AS 409 (+1)                       Parc, sols                            396 m²               65 000 €         164
+
+  06/08/2024              AK 440                            sols                                  196 m²               69 000 €         352
+
+  26/02/2024              AL 726                            sols                                  172 m²               3 440 €          20
+
+  10/10/2022              AL 709                            sols                                  217 m²               3 102 €          14
+
+  07/09/2022              BC 1433 (+1)                      Chemin de fer                         1 672 m²             18 470 €         11
+
+  26/08/2022              AS 409                            sols                                  259 m²               80 000 €         309
+
+  18/02/2022              AM 479                            Jardin potager                        118 m²               5 000 €          42
+
+  24/09/2021              AK 919                            Parc                                  651 m²               80 000 €         123
+
+  27/08/2021              AK 932 (+2)                       sols, Dépendances                     3 541 m²             1 070 000 €      302
+                                                            d'ensemble immobilier
+
+  27/07/2021              AM 43                             sols                                  508 m²               210 000 €        413
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          29 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+Source : DVF, ventes enregistrées par la DGFiP. Les prix au mètre carré dépendent fortement de la constructibilité, de la
+vue, de l'accès et de la viabilisation : ils donnent un ordre de grandeur, pas une estimation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                  30 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                            Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                                                08 · Historique du site
+
+
+
+
+   08              Historique du site
+     DANS CETTE SECTION
+
+     Le terrain vu du ciel au fil des décennies et les permis de construire accordés autour : l'évolution
+     du secteur en un coup d'œil.
+
+
+Photographies aériennes de l'IGN et permis de construire délivrés (Sitadel).
+
+
+
+8.1 Le terrain vu du ciel, d'hier à aujourd'hui
+
+    1950-1965                                             2000-2005                                              2006-2010
+
+
+
+
+    2011-2015                                             Aujourd'hui
+
+
+
+
+Ces vues montrent l'évolution du terrain et du quartier, des années 1950 à aujourd'hui (photographies aériennes de l'IGN).
+
+     Bon à savoir : l'existence ancienne d'une construction peut ouvrir, sous conditions, un droit à
+     reconstruire ou à restaurer un bâtiment dont il reste l'essentiel des murs porteurs (articles L. 111-15 et L.
+     111-23 du Code de l'urbanisme).
+
+
+
+
+8.2 Permis de construire délivrés autour du terrain
+Autorisations sur la commune (3 ans)                                    52 · dernière recensée le 11/09/2026
+
+Logements autorisés (3 ans)                                             793
+
+Dont maisons individuelles                                              24
+
+Autorisations dans la section AL                                        10 depuis 2013
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  02/12/2025            Déclaration préalable                  AL 228             1              –                         RUE SAINT ELOI
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                               31 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                           Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                                                08 · Historique du site
+
+
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS           SURFACE CRÉÉE            LIEU-DIT / VOIE
+
+  19/07/2021            Permis de construire                   AL 526             30              997 m²                   RUE LOUIS DAUSSE
+
+  27/05/2021            Permis de construire                   AL 43              15              –                        AV DE BORDEAUX
+
+  09/12/2019            Permis de construire                   AL 490             57              5 079 m²                 BD PAUL RAMADIER
+
+  06/08/2019            Permis de construire                   AL 328             68              3 951 m²                 BD PAUL RAMADIER
+
+  25/04/2019            Permis de construire                   AL 567             20              150 m²                   AVENU DE LA GINESTE
+
+  04/12/2018            Permis de construire                   AL 619             2               –                        AV DE LA GINESTE
+
+  16/07/2018            Permis de construire                   AL 441             1               30 m²                    RUE DU GAZ
+
+  05/08/2016            Permis de construire                   AL 97              5               –                        RUE DE CAMONIL
+
+  19/02/2015            Permis de construire                   AL 328             40              1 786 m²                 BOULE PAUL RAMADIER
+
+
+
+Permis accordés à moins de 500 m du terrain
+  DATE                 AUTORISATION                       PARCELLE          DISTANCE         LOGTS         SURFACE            LIEU-DIT / VOIE
+
+  02/12/2025           Déclaration préalable              AL 228            340 m            1             –                  RUE SAINT ELOI
+
+  17/03/2025           Permis de construire               AK 930            320 m            68            4 480 m²           IMP CARNUS
+
+  21/02/2023           Permis de construire               AK 930            320 m            67            4 489 m²           IMPAS CARNUS
+
+  19/07/2021           Permis de construire               AL 526            210 m            30            997 m²             RUE LOUIS DAUSSE
+
+  07/07/2021           Permis de construire               AK 919            440 m            1             159 m²             RUE DU ONZE NOVEMBRE
+
+  27/05/2021           Permis de construire               AL 43             380 m            15            –                  AV DE BORDEAUX
+
+
+
+6 autorisations créant des logements recensées dans un rayon de 500 m : la construction a été admise récemment
+dans le voisinage immédiat.
+
+Source : base Sitadel des autorisations d'urbanisme créant des logements (SDES). Un permis accordé à proximité montre
+que des constructions ont été admises dans le secteur, sans préjuger de la décision sur votre propre projet.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             32 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                              09 · Opportunités autour du terrain
+
+
+
+
+      09           Opportunités autour du terrain
+      DANS CETTE SECTION
+
+      Ce qui se passe autour de la parcelle : grands terrains peu bâtis, sociétés propriétaires en
+      difficulté, logements énergivores. Des pistes pour un investisseur, un voisin ou un professionnel.
+
+
+Bodacc (procédures collectives), ADEME (diagnostics énergétiques), cadastre, BD TOPO et Géoportail de l'Urbanisme.
+
+
+
+9.1 Grands terrains peu bâtis à proximité
+Parcelles de plus de 1 200 m², situées en zone urbaine ou à urbaniser du PLU, dans un rayon de 250 m, dont
+moins de 8 % de la surface est bâtie, hors terrains publics : un potentiel de construction ou de division à
+étudier.
+
+  PARCELLE           SURFACE                BÂTI               ZONE               DISTANCE           PROPRIÉTAIRE
+
+  AL 478             3 790 m²               non bâti           UC                 300 m              particulier (non publié)
+
+  AL 712             3 398 m²               non bâti           UC                 190 m              MCDONALD'S FRANCE (SAS)
+
+  AL 386             2 773 m²               non bâti           UC                 110 m              CONCEPTO (SARL)
+
+  AL 4               2 113 m²               non bâti           UC                 160 m              particulier (non publié)
+
+  AL 550             2 059 m²               non bâti           UC                 310 m              particulier (non publié)
+
+  AK 39              1 821 m²               140 m²             UBb                320 m              particulier (non publié)
+
+
+
+
+9.2 Logements classés F ou G autour du terrain
+Logements diagnostiqués F ou G dans un rayon de 350 m. Leur location est déjà interdite (G) ou le sera en
+2028 (F) : leurs propriétaires sont souvent vendeurs, ou doivent engager des travaux de rénovation.
+
+  PARCELLE                   ADRESSE                                        CLASSE LOGEMENT                   SURFACE      DISTANCE DPE DU
+
+  –                          27 Rue de Camonil 12000 Rodez                  G            Maison               99 m²        140 m    05/01/2022
+
+  –                          72 Rue de Camonil 12000 Rodez                  F            Maison               92 m²        160 m    05/02/2025
+
+  –                          Rue de Camonil 12000 Rodez                     G            Appartemen           33 m²        160 m    08/04/2024
+                                                                                         t
+
+  Section AL n°              7 Camonil 12000 Rodez                          F            Maison               100 m²       220 m    03/03/2023
+  161
+
+  –                          59 Rue de Camonil 12000 Rodez                  F            Maison               127 m²       220 m    08/07/2025
+
+  –                          77 Rue Carnus 12000 Rodez                      F            Appartemen           33 m²        230 m    04/02/2025
+                                                                                         t
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        33 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                              09 · Opportunités autour du terrain
+
+
+
+
+  PARCELLE                   ADRESSE                                        CLASSE LOGEMENT                   SURFACE      DISTANCE DPE DU
+
+  Section AL n°              Boulevard Paul Ramadier 12000                  F            Maison               118 m²       230 m    30/03/2025
+  490                        Rodez · propriétaire : RODEZ
+                             AGGLO HABITAT (EPIC)
+
+  –                          4 Rue de l'Occitanie 12000                     F            Appartemen           32 m²        240 m    02/06/2026
+                             Rodez                                                       t
+
+  –                          63 Rue Carnus 12000 Rodez                      G            Appartemen           71 m²        240 m    05/02/2025
+                                                                                         t
+
+  –                          85bis Rue Carnus 12000 Rodez                   F            Maison               91 m²        240 m    16/05/2023
+
+
+
+La parcelle est celle du point d'adresse du logement (cadastre). Pour connaître son propriétaire lorsqu'il s'agit d'un particulier,
+demandez un relevé de propriété au service de la publicité foncière ou à la mairie.
+
+Ces informations proviennent de bases publiques et ne préjugent ni de l'intention de vendre des propriétaires ni de la
+constructibilité des parcelles citées, qui relève d'une étude au cas par cas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        34 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+      10           Votre projet, étape par étape
+De l'achat du terrain à la déclaration aux impôts : démarches, délais, coûts et contacts.
+
+
+
+10.1 Analyse
+Le terrain est soumis au plan local d'urbanisme intercommunal (PLUi) de Rodez. Il est classé en zone UC.
+Zone urbaine : secteur déjà urbanisé où les équipements publics existants ou en cours de réalisation
+permettent d'accueillir des constructions. Les constructions y sont admises dans le respect du
+règlement de la zone (destinations, implantation, hauteur, emprise, aspect).
+
+En l'état des documents consultés, un projet de construction est envisageable. Sa faisabilité dépend du
+règlement écrit de la zone : destinations autorisées, implantation par rapport aux voies et aux limites,
+hauteur maximale, emprise au sol, coefficient d'espaces verts, stationnement et aspect extérieur.
+
+
+10.2 Votre projet, étape par étape
+Les étapes ci-dessous suivent l'ordre réel d'un projet de construction, de l'achat du terrain à la déclaration aux
+impôts. Les montants sont indicatifs et à confirmer par devis.
+
+  1      Avant d'acheter le terrain
+         Vérifiez les règles de la zone (chapitres précédents), puis demandez un certificat d'urbanisme opérationnel
+         (Cerfa 13410, sans frais, réponse sous 2 mois) : il fige les règles pendant 18 mois. En zone d'argiles d'aléa
+         moyen ou fort, le vendeur doit fournir une étude de sol préalable.
+         Contact : Mairie de Rodez · 05 65 77 88 00 · contact@mairie-rodez.fr · formulaire sur service-public.fr (rechercher «
+         Cerfa 13410 »)
+
+  2      Les études
+         Étude de sol géotechnique (G2) pour dimensionner les fondations : 1 500 à 3 000 €. Étude thermique RE2020,
+         obligatoire pour le permis : 500 à 1 500 €. Bornage par un géomètre si les limites sont incertaines. L'étude de
+         sol ne porte pas sur les espèces protégées : un écologue n'intervient qu'en cas d'enjeu (chapitre
+         Environnement).
+         Géomètres proches du terrain : liste à la fin de ce chapitre
+
+  3      Les plans
+         Architecte obligatoire si la surface de plancher totale dépasse 150 m². En dessous, vous pouvez dessiner les
+         plans vous-même ou faire appel à un dessinateur ou maître d'œuvre (environ 1 500 à 4 000 € le dossier de
+         permis). Architecte : 3 000 à 8 000 € pour la seule mission de permis, 8 à 12 % du coût des travaux pour une
+         mission complète avec suivi du chantier.
+         Trouver un architecte : annuaire de l'Ordre des architectes sur architectes.org
+
+  4      Déposer le permis
+         Formulaire Cerfa 13406 (maison individuelle) et pièces PCMI1 à PCMI8 : plan de situation, plan de masse,
+         coupe, notice, plans des façades et toitures, insertion dans le paysage, photos, attestation RE2020. Dépôt en
+         mairie ou en ligne sur le guichet numérique de la commune. La mairie a 1 mois pour réclamer une pièce
+         manquante ; l'instruction dure 2 mois à partir du dossier complet, plus en secteur protégé.
+         Dépôt : Mairie de Rodez · 05 65 77 88 00 · contact@mairie-rodez.fr · formulaire sur service-public.fr (rechercher «
+         Cerfa 13406 »)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        35 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+  5      Affichage et recours
+         Dès l'accord, installez le panneau de permis sur le terrain, lisible depuis la voie, pendant toute la durée du
+         chantier. Les tiers ont 2 mois à compter du premier jour d'affichage pour contester ; la mairie peut retirer un
+         permis illégal pendant 3 mois. Faites constater l'affichage par un commissaire de justice (environ 300 à 600 €
+         pour les trois constats).
+         Commissaires de justice : annuaire sur commissaire-justice.fr
+
+  6      Avant les travaux
+         Souscrivez l'assurance dommages-ouvrage, obligatoire (souvent 2 à 4 % du coût de la construction). Signez
+         le contrat de construction de maison individuelle ou les marchés des artisans. Déposez la déclaration
+         d'ouverture de chantier (Cerfa 13407) le jour du démarrage. Le permis est valable 3 ans, prorogeable deux
+         fois d'un an.
+         Déclaration d'ouverture : Mairie de Rodez · 05 65 77 88 00 · contact@mairie-rodez.fr
+
+  7      Le financement
+         La banque débloque le prêt au fur et à mesure du chantier, sur présentation des factures des entreprises ou
+         des appels de fonds du constructeur. Avec un contrat de construction de maison individuelle, l'échéancier
+         est encadré par la loi : 15 % à l'ouverture du chantier, 25 % aux fondations, 40 % aux murs, 60 % hors d'eau,
+         75 % hors d'air et cloisons, 95 % aux équipements, le solde à la réception. Des intérêts intercalaires peuvent
+         courir sur les sommes débloquées.
+         Votre banque ou votre courtier
+
+  8      La fin du chantier
+         Réception des travaux avec le constructeur ou les artisans, avec réserves si nécessaire. Déposez ensuite la
+         déclaration attestant l'achèvement et la conformité des travaux (DAACT, Cerfa 13408), avec l'attestation
+         RE2020 de fin de chantier. La mairie a 3 mois pour la contester (5 mois en secteur protégé).
+         Dépôt : Mairie de Rodez · 05 65 77 88 00 · contact@mairie-rodez.fr
+
+  9      Les impôts
+         Dans les 90 jours suivant l'achèvement, déclarez la construction sur impots.gouv.fr, espace « Gérer mes
+         biens immobiliers ». Cette déclaration sert au calcul de la taxe d'aménagement (payée en une fois sous 1 500
+         €, sinon en deux fois, estimation plus bas dans ce chapitre) et de la taxe foncière, avec une exonération
+         possible les deux premières années selon la commune.
+         impots.gouv.fr › Espace particulier › Gérer mes biens immobiliers
+
+
+10.3 Les points à vérifier pour ce terrain
+  1      Certificat d'urbanisme opérationnel
+         Le demander en mairie (formulaire Cerfa 13410), en décrivant le projet. Délivré sans frais, il indique si le
+         terrain peut accueillir le projet et fige les règles d'urbanisme pendant 18 mois.
+
+  2      Règlement de la zone
+         Lire le règlement écrit de la zone UC et, le cas échéant, les orientations d'aménagement, disponibles sur
+         le Géoportail de l'Urbanisme.
+
+  3      Réseaux et accès
+         Vérifier l'accès à une voie publique ou privée adaptée, la desserte en eau potable et en électricité, et le
+         mode d'assainissement. En l'absence de réseau collectif, une étude de sol et l'avis du service public
+         d'assainissement non collectif (SPANC) sont nécessaires.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        36 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+  4      Bornage
+         Faire réaliser un bornage par un géomètre-expert pour fixer les limites exactes et la surface réelle du
+         terrain.
+
+  5      Sécuriser un achat
+         Pour une acquisition, prévoir dans le compromis une condition suspensive d'obtention d'un permis de
+         construire purgé de tout recours.
+
+
+10.4 Délais indicatifs d'instruction
+  DEMANDE                                                                                 DÉLAI DE DROIT COMMUN
+
+  Certificat d'urbanisme d'information (CUa)                                              1 mois
+
+  Certificat d'urbanisme opérationnel (CUb)                                               2 mois
+
+  Déclaration préalable                                                                   1 mois
+
+  Permis de construire une maison individuelle                                            2 mois
+
+  Permis d'aménager, autres permis de construire                                          3 mois
+
+
+
+Ces délais peuvent être majorés, notamment en site classé ou inscrit, aux abords d'un monument historique ou lorsque la
+consultation d'un service extérieur est nécessaire.
+
+
+10.5 Taxe d'aménagement à prévoir
+      Exemple : une maison de 120 m² en résidence principale, avec une piscine de 3 × 6 m. Sur ce terrain, la
+      taxe d'aménagement à prévoir est d'environ 4 350 €.
+
+
+
+  PROJET                                                                                                       TAXE ESTIMÉE
+
+  Maison de 120 m², résidence principale                                                                       4 060 €
+
+  Piscine de 3 × 6 m (18 m²)                                                                                   290 €
+
+  Total à prévoir                                                                                              4 350 €
+
+
+
+Taux appliqués : 5 % pour la commune et 1,5 % pour le département, sur une valeur forfaitaire de 892 € par m² en 2026 (251
+€ par m² de bassin pour une piscine). Une résidence principale bénéficie d'un abattement de 50 % sur ses 100 premiers m².
+
+La taxe est due une fois les travaux terminés : elle se déclare sur impots.gouv.fr dans les 90 jours suivant l'achèvement, et
+se paie en deux fois au-delà de 1 500 €. Pour calculer votre propre projet :
+terrenurbanisme.com/outils/taxe-amenagement.html
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        37 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+10.6 Implanter une entreprise : zone France Ruralités Revitalisation
+     La commune de Rodez est classée en zone France Ruralités Revitalisation (FRR) depuis le 1er juillet
+     2024. Une entreprise qui s'y crée ou y est reprise peut être exonérée d'impôt sur les bénéfices pendant
+     5 ans, puis partiellement pendant 3 ans.
+
+
+
+Impôt sur les bénéfices (IS ou IR)                    Exonération totale pendant 5 ans, puis exonération de 75 %, 50 % et 25
+                                                      % des bénéfices les 3 années suivantes
+
+Création ou reprise                                   Entre le 1er juillet 2024 et le 31 décembre 2029
+
+Activités concernées                                  Industrielle, commerciale, artisanale ou libérale
+
+Taille de l'entreprise                                Moins de 11 salariés
+
+Régime d'imposition                                   Régime réel obligatoire (micro-entreprise exclue, sauf option pour le
+                                                      réel)
+
+Implantation                                          Siège et totalité de l'activité dans la zone (activité sédentaire : 25 % du
+                                                      chiffre d'affaires au plus réalisé hors zone)
+
+Plafond                                               Aides de minimis : 300 000 € sur trois exercices
+
+Taxe foncière et CFE                                  Exonération possible si la commune ou l'intercommunalité l'a votée : à
+                                                      vérifier en mairie
+
+
+Exclus : les activités agricoles, la gestion ou la location d'immeubles (une SCI de location nue n'est pas éligible) et la
+location meublée sans services de type hôtelier. Une location touristique ou des chambres d'hôtes peuvent être éligibles si
+le ménage quotidien et le linge sont fournis et inclus dans le prix.
+
+Ces avantages dépendent de la situation de l'entreprise (article 44 quindecies A du code général des impôts). Faites valider
+votre éligibilité par votre expert-comptable ou le service des impôts des entreprises avant de vous installer.
+
+Source : ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 (collectivites-locales.gouv.fr).
+
+
+10.7 Géomètres proches du terrain
+Le géomètre-expert est le seul professionnel habilité à fixer les limites de propriété (bornage) et à établir les
+documents d'arpentage déposés au cadastre. Il intervient aussi pour les relevés topographiques et les
+divisions de terrain.
+
+0,3 km            SCP BOIS CHRISTOPHE GEOMETRE EXPERT
+                                                                                                                           Coordonnées
+                  23 A 25 23 AVENUE DE LA GINESTE 12000 RODEZ
+
+
+0,5 km            GEORGES LABROUE
+                                                                                                                           Coordonnées
+                  87 RUE BETEILLE 12000 RODEZ
+
+
+0,5 km            HOLDING TEYSSEDRE
+                                                                                                                           Coordonnées
+                  87 RUE BETEILLE 12000 RODEZ
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        38 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+0,7 km            GEOFIT (FIT)
+                                                                                                                           Coordonnées
+                  ZONE LA GINESTE 103 RUE DU DOCTEUR THEODOR MATHIEU 12000
+                  RODEZ
+
+
+0,8 km            DELPHINE CORTHIER (BURGUIERE)
+                                                                                                                           Coordonnées
+                  LES CORNICHES DE BOURRAN RUE DE VIENNE 12000 RODEZ
+
+
+0,9 km            SCP BOIS CHRISTOPHE GEOMETRE EXPERT
+                                                                                                                           Coordonnées
+                  1709 AVENUE DU ROUERGUE 12000 RODEZ
+
+
+Source : répertoire Sirene de l'INSEE (activité des géomètres), classé par distance au terrain. L'inscription d'un cabinet à l'Ordre
+des géomètres-experts se vérifie sur geometre-expert.fr. Le bouton « Coordonnées » ouvre la fiche du cabinet (téléphone,
+horaires, itinéraire). Cette liste est fournie à titre indicatif, sans partenariat ni recommandation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        39 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Rodez · AL 384
+          TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+     11            État des risques (ERP) pré-rempli
+     DANS CETTE SECTION
+
+     Le formulaire réglementaire à remettre à l'acquéreur ou au locataire, pré-rempli à partir des
+     bases officielles : plans de prévention, sismicité, radon, sols pollués, trait de côte, bruit des
+     aérodromes.
+
+
+Articles L. 125-5 à L. 125-7 et R. 125-23 à R. 125-27 du Code de l'environnement · modèle fixé par l'arrêté du 27 septembre
+2022.
+
+
+     Formulaire pré-rempli à partir de Géorisques et du Géoportail de l'Urbanisme à la date du rapport.
+     Avant de le remettre à l'acquéreur ou au locataire, le vendeur ou le bailleur le vérifie, le complète
+     (sinistres indemnisés) et le signe ; il doit dater de moins de six mois à la signature de la promesse, du
+     bail ou de l'acte.
+
+
+
+
+11.1 Situation du bien
+Commune                                                  Rodez (12202)
+
+Département                                              12
+
+Références cadastrales                                   Section AL, parcelle n° 384 · 12202000AL0384
+
+Surface cadastrale                                       2 113 m²
+
+
+
+11.2 Plans de prévention des risques
+  L'IMMEUBLE EST SITUÉ DANS LE PÉRIMÈTRE…                                         RÉPONSE                DÉTAIL
+
+  d'un plan de prévention des risques naturels (PPRN)                             Non                    Aucun plan recensé sur la parcelle
+  prescrit, appliqué par anticipation ou approuvé
+
+  d'un plan de prévention des risques miniers (PPRM)                              Non                    Non recensé
+
+  d'un plan de prévention des risques technologiques                              Non                    Risques technologiques sur la commune
+  (PPRT)                                                                                                 : installations industrielles (icpe),
+                                                                                                         canalisations de matières dangereuses,
+                                                                                                         pollution des sols
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         40 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+11.3 Autres zonages réglementaires
+  L'IMMEUBLE EST SITUÉ…                                                           RÉPONSE                DÉTAIL
+
+  dans une commune de sismicité (zones 2 à 5 : règles de                          Oui                    Zone 2 – faible
+  construction parasismique)
+
+  dans une commune à potentiel radon de niveau 3                                  Oui                    Catégorie 3 (potentiel significatif)
+
+  dans un secteur d'information sur les sols (SIS)                                À vérifier             SIS recensé à proximité : CENTRE EDF
+                                                                                                         GDF SERVICES AVEYRON LOZERE
+                                                                                                         (ANCIENNE USINE A GAZ) ; Collège
+                                                                                                         public Amans-Joseph Fabre n°
+                                                                                                         0120101V. Vérifier l'arrêté préfectoral.
+
+  dans une zone exposée au recul du trait de côte                                 Non                    Non concerné selon Géorisques
+
+  dans une zone de bruit d'un plan d'exposition au bruit                          À vérifier             Aucun PEB annexé au document
+  d'aérodrome (PEB)                                                                                      d'urbanisme ; vérifier auprès de la mairie
+
+  dans une zone de retrait-gonflement des argiles                                 Oui                    Existant – modéré
+  (information)
+
+
+
+
+11.4 Sinistres indemnisés et déclarations
+Arrêtés de catastrophe naturelle sur la commune : 8 (liste en section Risques). Le vendeur ou le bailleur
+déclare ci-dessous les sinistres ayant donné lieu à une indemnisation au titre des catastrophes naturelles ou
+technologiques pendant la période où il a été propriétaire.
+
+Sinistres indemnisés                                     [ ] Oui [ ] Non
+
+Vendeur ou bailleur                                      Nom : ____________________ Date : ___/___/______ Signature :
+
+Acquéreur ou locataire                                   Nom : ____________________ Date : ___/___/______ Signature :
+
+
+L'état des risques officiel peut aussi être édité sans frais sur Géorisques (errial.georisques.gouv.fr). Les informations
+ci-dessus sont établies à partir des bases nationales ; en cas de divergence, l'arrêté préfectoral relatif à l'information des
+acquéreurs et des locataires fait foi.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           41 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+    12             Avertissement et sources
+     DANS CETTE SECTION
+
+     La portée de ce rapport et la liste des sources publiques consultées.
+
+
+
+12.1 Nature du document
+Ce rapport est un document d'information établi automatiquement, à la date indiquée en page de garde, à
+partir des données publiques officielles alors disponibles. Il n'a aucune valeur contractuelle, réglementaire ou
+juridique.
+
+
+12.2 Ce que ce rapport n'est pas
+Il ne constitue ni un certificat d'urbanisme au sens de l'article L. 410-1 du Code de l'urbanisme, ni une
+autorisation d'urbanisme (permis de construire, permis d'aménager, déclaration préalable), ni un état des
+risques au sens de l'article L. 125-5 du Code de l'environnement, ni un bornage, ni une expertise, ni une
+évaluation immobilière, ni une consultation juridique. Il n'engage en rien l'administration.
+
+
+12.3 Permis de construire
+Ce rapport ne peut en aucun cas être joint, produit ou invoqué à l'appui d'une demande de permis de
+construire, de permis d'aménager ou de déclaration préalable, ni opposé à la mairie ou à un service de l'État. Il
+ne garantit pas l'obtention d'une autorisation : seule l'autorité compétente se prononce, au vu d'un projet
+précis et de l'ensemble des règles applicables à la date de sa décision.
+
+
+12.4 Limites des données
+Les données sont produites par des organismes publics dont l'éditeur n'est ni l'auteur ni le garant. Elles
+peuvent être incomplètes, imprécises ou ne pas refléter une modification, une révision, une mise en
+compatibilité, une annulation contentieuse, un sursis à statuer ou une procédure en cours. Le plan cadastral,
+document fiscal, ne fait pas foi des limites de propriété. Surfaces, distances, altitudes et pentes sont
+approchées. Les extraits et analyses du règlement sont une aide à la lecture : seul le texte intégral du
+document d'urbanisme approuvé, consultable en mairie, fait foi.
+
+
+12.5 Avant toute décision
+Avant toute acquisition, cession, financement, promesse de vente ou dépôt d'une demande, le lecteur doit
+obtenir un certificat d'urbanisme opérationnel auprès de la mairie, consulter le document d'urbanisme en
+vigueur et recueillir l'avis d'un professionnel habilité (notaire, architecte, géomètre-expert, avocat). Pour un
+achat, il est recommandé de stipuler une condition suspensive d'obtention d'un permis de construire purgé de
+tout recours.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        42 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+12.6 Responsabilité
+L'éditeur ne saurait être tenu responsable d'une décision prise sur le seul fondement de ce rapport, ni d'un
+refus d'autorisation, d'une erreur ou d'une omission des sources publiques, dans les limites prévues par les
+conditions générales de vente acceptées lors de la commande.
+
+
+12.7 Sources consultées
+  DONNÉE                                                    SOURCE
+
+  Cadastre                                                  DGFiP, plan cadastral informatisé, via API Carto (IGN)
+
+  Photographies et plans                                    IGN, Géoplateforme : orthophotographies, Plan IGN, parcellaire express
+
+  Urbanisme                                                 Géoportail de l'Urbanisme : zonage, prescriptions, informations, servitudes
+                                                            d'utilité publique
+
+  Littoral                                                  IGN, BD TOPO (limite terre-mer) ; communes littorales (Géoportail de
+                                                            l'Urbanisme)
+
+  Montagne                                                  Ministère de la Cohésion des territoires, communes de la loi Montagne
+
+  Risques                                                   Géorisques (ministère de la Transition écologique) : rapport de risques,
+                                                            arrêtés CatNat, sismicité, radon, ICPE, sites pollués
+
+  Environnement                                             Inventaire national du patrimoine naturel (PatriNat), via API Carto
+
+  Altitude, pente et exposition                             IGN, RGE ALTI
+
+  Ensoleillement                                            Calcul astronomique de la course du soleil ; masque du relief (IGN, RGE
+                                                            ALTI) et des bâtiments (IGN, BD TOPO)
+
+  Voirie et accès                                           IGN, BD TOPO (tronçons de route)
+
+  Permis de construire                                      Sitadel, service des données et études statistiques (SDES) du ministère
+                                                            chargé du logement
+
+  Photographies anciennes                                   IGN, BD ORTHO historique
+
+  Fibre et internet                                         Arcep, Ma connexion internet (éligibilité par adresse)
+
+  Géomètres                                                 Répertoire Sirene (INSEE), activité des géomètres
+
+  Propriétaires personnes morales                           DGFiP, fichiers des parcelles des personnes morales (diffusion Koumoul)
+
+  Diagnostics énergétiques                                  ADEME, base des DPE des logements existants
+
+  Procédures collectives                                    Bodacc, annonces commerciales (DILA)
+
+  Bâtiments                                                 IGN, BD TOPO
+
+  Réseau électrique                                         Agence ORE (gestionnaires de réseaux de distribution : Enedis, EDF Corse
+                                                            et entreprises locales) : réseau basse tension et postes de distribution
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        43 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+  DONNÉE                                                    SOURCE
+
+  Taxe d'aménagement                                        DGFiP, éléments de taxation votés par les collectivités ; valeurs forfaitaires
+                                                            fixées par arrêté
+
+  Rapport officiel de risques                               Géorisques, ministère chargé de l'environnement
+
+  Zone France Ruralités Revitalisation                      ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 ; article
+                                                            44 quindecies A du code général des impôts
+
+  Marché immobilier                                         Statistiques des demandes de valeurs foncières (DVF) par commune, DGFiP
+                                                            et Etalab
+
+  Date d'extraction                                         20/11/2026
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        44 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Rodez · AL 384
+         TerrenUrbanisme
+                                                                                                                     Annexe · règlement de la zone
+
+
+
+
+ANNEXE
+
+
+Règlement écrit · zone UC
+Les pages suivantes reproduisent le chapitre du règlement officiel applicable à la zone de la parcelle
+(pages 42 à 54 du document approuvé), tel que publié sur le Géoportail de l'Urbanisme. Il s'agit d'une
+reproduction à titre d'information : seule la version approuvée tenue à disposition en mairie fait foi, avec
+ses annexes, plans et éventuelles modifications ultérieures.
+Règlement complet :
+https://data.geopf.fr/annexes/gpu/documents/DU_241200187/24a18e190640dde1ef68515e3be4b026/241200187_reglement_
+20251216.pdf
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       45 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                         Zone UC
+
+
+
+
+                                            DISPOSITIONS APPLICABLES
+                                            A LA ZONE UC
+
+
+
+
+                                                                                    Page 42 / 153
+Plan local d’urbanisme intercommunal – Révision n°6 approuvée le 16 décembre 2025
+                                                                                           Zone UC
+
+
+I-        DESTINATION DES CONSTRUCTIONS, USAGES DES SOLS ET NATURES
+          D’ACTIVITES
+
+
+         1. Destinations et sous-destinations
+
+La zone UC recouvre des quartiers présentant actuellement un tissu de grands collectifs isolés.
+
+Elle est destinée à accueillir l’habitat, mais également toutes les occupations et utilisations du
+sol susceptibles de conforter la mixité de ces quartiers, dès lors qu’elles sont compatibles avec
+la sécurité, la salubrité et la tranquillité du voisinage. Les constructions à sous-destination
+d’artisanat et commerce de détail y sont autorisées dans la limite de 150 m² de surface de
+plancher (avec des exceptions pour les sous -secteurs précisés ci-dessous).
+
+De manière générale, elle vise à favoriser la construction en retrait de l’alignement et en ordre
+discontinu en encourageant une diversification du bâti.
+
+La zone UC comprend :
+- un sous-secteur UCc1 où la surface de plancher des constructions à sous-destination d’artisanat et
+commerce de détail est plafonnée à 400 m².
+- un sous-secteur UCc3 où la surface de plancher des constructions à sous-destination d’artisanat et
+commerce de détail est d’au moins 400 m² (seuil plancher) et d’au plus 2500 m² (plafond par unité ou
+par ensemble commercial).
+
+         2. Interdiction et limitation de certains usages et affectations des sols,
+            constructions et activités
+
+
+Sont interdites les occupations et utilisations du sol suivantes :
+
+     -    les carrières
+     -    les habitations légères de loisir
+     -    les installations classées (excepté celles soumises à déclaration, l’extension de celles
+          déjà existantes à la date d’approbation du PLU et celles pour les équipements d’intérêt
+          collectif)
+     -    les caravanes isolées
+     -    les exploitations agricoles et forestières
+     -    les terrains aménagés pour l’accueil des campeurs et des caravanes
+
+
+Toutefois, sont néanmoins autorisés :
+
+•    Les extensions des constructions existantes.
+
+•  Les affouillements et exhaussements, les dépôts de matériaux s’ils sont liés à une opération
+de construction ou d’aménagement autorisée.
+
+•   En bordure des cours d’eau, les modes d’occupations ou d’utilisations du sol et les clôtures,
+sous réserve d'assurer le passage et les manœuvres des engins mécaniques nécessaires à
+l’entretien de ces cours d’eau avec un recul minimum de 5 mètres par rapport aux berges.
+
+• Les travaux d’aménagement et d’extension des bâtiments faisant l’objet d’une protection
+au titre de l’article L. 151-19 du Code de l’Urbanisme s’ils sont conçus dans le sens d’une mise
+en valeur des caractéristiques esthétiques ou historiques des dits bâtiments.
+
+
+Constructions à sous-destination d’artisanat et commerce de détail :
+
+     •    Les constructions à sous-destination d’artisanat et commerce de détail sont
+          autorisées dans la limite de 150 m² de surface de plancher. L’extension des
+                                                                                     Page 43 / 153
+Plan local d’urbanisme intercommunal – Révision n°6 approuvée le 16 décembre 2025
+                                                                                          Zone UC
+
+
+         constructions à sous-destination d’artisanat et commerce de détail existantes à la
+         date de l’entrée en vigueur de la révision n°6 est autorisée dans la seule limite d’un
+         accroissement de 50 % de la surface existante ; si la surface existante avant
+         extension est inférieure à 75 m² à la date de l’entrée en vigueur de la révision n°6,
+         il est possible d’autoriser une extension de plus de 50% de la surface de plancher
+         tant que le résultat n’excède pas 150 m².
+
+    •    Dans le sous-secteur UCc1, la surface de plancher des constructions à sous -
+         destination d’artisanat et commerce de détail est plafonnée à 400 m².
+         L’extension des constructions à sous-destination d’artisanat et commerce de détail
+         existantes à la date de l’entrée en vigueur de la modification n°5 est autorisée
+         dans la seule limite d’un accroissement de 50 % de la surface existante.
+
+
+    •    Dans le sous-secteur UCc3, la surface de plancher des constructions à sous -
+         destination d’artisanat et commerce de détail est d’au moins 400 m² et d’au plus
+         2500 m² (plafond par unité ou par ensemble commercial).
+
+L’extension des constructions à sous-destination d’artisanat et commerce de détail existantes
+à la date de l’entrée en vigueur de la révision n°6 est autorisée, dans la seule limite d’un
+accroissement de 50 % de la surface existante dans la limite du respe ct du plafond maxi de
+2500m², ou si ce plafond est déjà atteint dans la limite de 150m² supplémentaire maximum.
+
+
+En outre, toutes les occupations et utilisations du sol doivent être compatibles avec les OAP
+lorsqu’elles existent.
+
+
+
+
+        3. Mixité fonctionnelle et sociale
+
+
+3.1 Mixité sociale
+
+Dans les secteurs de mixité sociale (SMS) identifiés au plan de zonage, toute réalisation d’un
+programme de logement devra affecter un pourcentage, défini ci -dessous, à du logement
+locatif conventionné bénéficiant d’un financement aidé par l’Etat (PLAI, PL US, PLS, BRS…) hors
+PSLA ; à moins que ce taux soit ou puisse être atteint à l’échelle de l’ensemble du secteur
+identifié en SMS.
+
+Le taux est variable selon les secteurs :
+
+    -    Un minimum de 30% devra être appliqué à :
+            o Rodez - secteur sud de la ZAC de Bourran (zone 1AUba) ;
+            o Rodez - secteur de la rue de la barrière/boulevard de Flaugergues
+            o Rodez – secteur du Val Saint Jean
+
+    -    Un minimum de 25% devra être appliqué à :
+            o Olemps – secteur de la Crouzette ;
+            o Onet-le-Château – secteur de l’avenue des Roziers/route de Séverac ;
+            o Sébazac- Concourès – secteur de l’avenue Tabardel.
+            o Luc-la Primaube – secteur de l’Entrée Est de la Primaube ;
+            o Luc-la-Primaube – secteur de l’avenue du stade/Sud-Ouest du Bes Grand ;
+            o Rodez – secteur de la ZAC de Bourran (zone UBa) ;
+
+    -    Un minimum de 20% devra être appliqué à :
+            o Druelle Balsac – secteur du Bouldou ;
+            o Druelle Balsac – secteur des Bastides
+            o Le Monastère – secteur de la Croix de Buffaux ;
+            o Onet-le-Château – secteur de Cantagrelh ;
+
+                                                                                     Page 44 / 153
+Plan local d’urbanisme intercommunal – Révision n°6 approuvée le 16 décembre 2025
+                                                                                         Zone UC
+
+
+             o   Onet-le-Château – secteur de la route d’Espalion ;
+             o   Sébazac-Concourès – secteur du Cambon ;
+             o   Sainte-Radegonde – secteur les Grands Champs ;
+
+
+
+
+                                                                                    Page 45 / 153
+Plan local d’urbanisme intercommunal – Révision n°6 approuvée le 16 décembre 2025
+                                                                                              Zone UC
+
+
+
+
+II-            CARACTERISTIQUES URBAINE, ARCHITECTURALE, ENVIRONNEMENTALE ET
+               PAYSAGERE
+
+Le principe est de construire plutôt en retrait de l’alignement et en ordre discontinu pour
+favoriser la diversité du bâti. Les espaces identifiés en trame verte ou en espace boisé classé
+doivent permettre en outre de conserver les habitats favorables aux chiroptères et rapaces
+représentant un intérêt pour le patrimoine naturel urbain et de permettre des continuums
+écologiques.
+
+Les constructions devront viser à maintenir la qualité et l’homogénéité des volumes et des
+couvertures de toit.
+
+Les constructions nouvelles comme les extensions doivent s’insérer parfaitement dans
+l’environnement proche et lointain, bâti ou non bâti.
+
+
+
+              1. Volumétrie et implantation des constructions
+
+
+               1.1 Implantation des constructions par rapport aux emprises publiques et aux voies
+
+Toute construction doit être implantée soit :
+
+          -    à l’alignement actuel ou à la limite qui s’y substitue repérable au document graphique
+               (emplacement réservé, marge de recul ou plan général d’alignement) ;
+          -    en retrait d’au moins 3 mètres.
+
+
+Cette règle ne s’applique pas :
+
+          -    pour les saillies dans les limites précisées dans le lexique ;
+          -    pour les piscines ;
+          -    pour les équipements d’intérêt collectif sous réserve que la dérogation à la règle soit
+               rendue nécessaire et soit justifiée dans le cadre de la constitution du projet ;
+          -    pour maintenir ou conforter une ordonnance architecturale méritant d’être
+               sauvegardée ou respecter la trame bâtie aux abords du projet ;
+          -    pour mettre en valeur l’angle de 2 rues.
+          -    Pour les extensions des constructions existantes lorsque ces dernières ne respectent
+               déjà pas « l’alignement obligatoire » ou le recul imposé (portés au document
+               graphique) à condition que l’extension reste dans la configuration du bâti existant.
+          -    pour respecter l’implantation précisée aux orientations d’aménagement et de
+               programmation lorsqu’elles existent.
+
+
+
+               1.2 Implantations des constructions par rapport aux limites séparatives
+
+Toute construction doit être implantée :
+
+      -        Sur une ou plusieurs limites séparatives ;
+      -        ou en retrait à une distance de 3 mètres au moins des limites et la hauteur (H) de tout
+               point des constructions mesurée à partir du sol fini ne peut être supérieure à deux fois
+               la distance (D) – calculée horizontalement – de ce point au point le plus proche de la
+               limite séparative (D= H/2).
+
+
+
+
+                                                                                         Page 46 / 153
+Plan local d’urbanisme intercommunal – Révision n°6 approuvée le 16 décembre 2025
+                                                                                         Zone UC
+
+
+Illustration de la règle (croquis indicatif) :
+
+
+
+
+Exemple : si D = 3m alors H = 6m
+
+
+L’implantation par rapport au fond de parcelle n’est pas réglementée pour permettre la
+faisabilité d’opération sur des parcelles étroites en profondeur.
+
+Cette règle ne s’applique pas pour :
+
+     -    pour les saillies dans les limites précisées dans le lexique ;
+     -    pour les piscines ;
+     -    pour les équipements d’intérêt collectif sous réserve que la dérogation à la règle soit
+          rendue nécessaire et soit justifiée dans le cadre de la constitution du projet ;
+     -    pour éviter de porter atteinte à la salubrité et aux conditions d’habitabilité de locaux
+          appartenant à un bâtiment voisin ;
+     -    pour maintenir ou conforter une ordonnance architecturale méritant d’être
+          sauvegardée ou respecter la trame bâtie aux abords du projet ;
+     -    pour s’appuyer sur un bâtiment contigu. Dans ce cas, la partie de construction
+          implantée en limite doit correspondre au maximum à la volumétrie du bâtiment
+          contigu ;
+     -    pour respecter l’implantation précisée aux orientations d’aménagement et de
+          programmation lorsqu’elles existent.
+
+
+
+          1.3 Hauteur maximum des constructions au faitage
+
+La hauteur de toute construction ne pourra excéder 18 mètres, calculée à partir du terrain
+naturel avant travaux. Cette règle ne s’applique pas pour les équipements d’intérêt collectif.
+
+La hauteur des extensions ne doit pas dépasser la hauteur du bâtiment existant et être en
+cohérence avec ce dernier.
+
+Autres hauteurs :
+
+Une hauteur de 20m peut être admise pour :
+
+     -    garantir la continuité volumétrique d’un ensemble bâti contigu en bon état existant à
+          la date d’approbation du PLU, par adossement à des pignons existants, sans pouvoir
+          les dépasser ;
+     -    marquer un angle de rue ou créer un effet architectural volontaire (effet de signal, de
+          repère,…) ;
+     -    s’harmoniser avec la hauteur des immeubles voisins.
+
+
+
+         2. Qualité urbaine, architecturale, environnementale et paysagère
+
+Toute architecture faisant référence, sans interprétation, à des architectures traditionnelles (ou
+à des éléments d’architectures traditionnelles) extérieures à la région est interdite (exemple :
+le pastiche de maison basque ou savoyarde).
+
+
+
+                                                                                    Page 47 / 153
+Plan local d’urbanisme intercommunal – Révision n°6 approuvée le 16 décembre 2025
+                                                                                               Zone UC
+
+
+Tous les travaux exécutés sur un bâtiment existant, et notamment sur ceux faisant l’objet d’une
+protection au titre du L. 151-19 du Code de l’Urbanisme, doivent être conçus en évitant toute
+dénaturation des caractéristiques constituant leurs intérêts. Les prescriptions, en matière de
+restauration, édictées en annexe n° 1 devront être respectées.
+En outre les projets situés à proximité immédiate des bâtiments repérés au titre du L. 151-19,
+doivent être élaborés dans la perspective d’une mise en valeur de ce patrimoine.
+
+Au sein du périmètre du Site Patrimonial Remarquable (SPR) :
+Concernant l’aspect extérieur des aménagements, des constructions et des extensions, se
+référer et se conformer au règlement spécifique du SPR correspondant, en plus des règles ci-
+dessous.
+
+En outre, tout projet devra être compatible avec les dispositions                   des    Orientations
+d’Aménagement et de programmation (OAP) sectorielles et thématiques
+
+
+
+        2.1 Adaptation à la topographie
+
+Toute construction ou aménagement doit être adaptée à la topographie du lieu et son
+implantation doit tenir compte du tissu environnant urbain ou rural.
+
+Les murs de soutènement devront s’intégrer avec l’environnement naturel ou urbain. Tout
+apport artificiel de terre d’une hauteur supérieure à 0,60 m est interdit à moins de 3 mètres des
+limites de la parcelle. Cette règle ne s’applique pas sur les limites des emprises publiques des
+voies dans le cas d’une voie d’accès en surplomb du terrain nature l.
+
+
+
+        2.2 Façades et murs extérieurs
+
+L’emploi à nu - ou juste recouvert d’une peinture- en parements extérieurs, de matériaux de
+remplissage ou fabriqués en vue d’être recouverts d’un enduit est interdit.
+
+Le rythme des façades doit s’harmoniser avec le rythme des bâtiments voisins et du parcellaire.
+
+Toutes les façades et les murs extérieurs doivent être traités avec le même soin.
+
+La couleur blanche est interdite, ses nuances peuvent être admises.
+
+
+
+        2.3 Toitures
+
+
+➢   Pour les habitations individuelles :
+
+Dans le cas d’une construction neuve, les toitures en pente doivent être couvertes en ardoises
+ou en lauze ou matériau similaire de forme plate et de couleur sombre.
+
+Leurs pentes doivent être supérieures ou égales à 50% sauf pour les coyaux.
+
+Les volumes doivent être simples : la toiture de chaque corps de bâtiment ne peut comporter
+plus de deux versants – quatre dans le cas d’une toiture avec croupes -, coyaux et toitures des
+lucarnes exceptés.
+
+Tout autre type de toiture ne pourra être admis qu’à la condition d’être intégré de manière
+cohérente et harmonieuse au contexte bâti environnant en prenant compte les lieux
+avoisinants, les sites, et les paysages naturels et urbains.
+Pour les extensions, les rénovations et les annexes à l’habitation, des formes et des pentes
+différentes sont autorisées à condition de s’harmoniser avec les constructions voisines
+existantes ou dans le cas où le matériau d’origine serait conservé (constructions couvertes en
+tuiles mécaniques rouges par exemple).
+
+                                                                                          Page 48 / 153
+Plan local d’urbanisme intercommunal – Révision n°6 approuvée le 16 décembre 2025
+                                                                                            Zone UC
+
+
+Pour ces 2 derniers cas, lorsque le projet prévoit une toiture terrasse, le recours aux dalles sur
+plot est à éviter. La pente de toit devra être au minimum de 5% afin d’empêcher toute
+stagnation d’eau en toiture.
+
+
+
+
+➢   Pour les immeubles de logements collectifs :
+
+Les toitures en pente doivent être couvertes en ardoises ou en lauze ou matériau similaire de
+forme plate et de couleur sombre.
+
+Tout autre type de toiture ne pourra être admis qu’à la condition d’être intégré de manière
+cohérente et harmonieuse au contexte bâti environnant en prenant compte les lieux
+avoisinants, les sites, et les paysages naturels et urbains y compris pour les extensions et
+annexes des bâtiments collectifs.
+Lorsque le projet prévoit une toiture terrasse, le recours aux dalles sur plot est à éviter. La pente
+de toit devra être au minimum de 5% afin d’empêcher toute stagnation d’eau en toiture.
+
+
+
+
+        2.4 Clôtures
+
+Leur hauteur est limitée à 1,60 m et 0,60 m pour les murs ou soubassements pleins.
+
+Cette règle s’applique aux murs de soutènement implantés en limite de propriété d ès lors qu’ils
+ne sont pas rendus nécessaires par la configuration du terrain naturel avant travaux.
+
+Des hauteurs différentes peuvent être admises pour des motifs liés à la nature spécifique des
+constructions (ex : dispositif pare ballon) ou pour respecter des règles de sécurité particulières.
+
+Elles doivent, par leur dessin et par leur dimension, s’harmoniser aux hauteurs et au caractère
+des clôtures avoisinantes.
+
+Les clôtures sur l’alignement des voies et emprises publiques doivent présenter, pour les
+lotissements et dans toute opération d’ensemble (permis groupé), une unité d’aspect.
+
+Les clôtures-haies devront associer plusieurs espèces de végétaux dans leur composition. Les
+haies de sapinettes ou de thuyas sont interdites. Les essences de préférence doivent être
+locales et sélectionnées dans la palette des végétaux présente dans l’OAP Paysage.
+
+Les clôtures composées intégralement de grillage et non plantées d’ une haie, et celles
+constituées de bardages ou de panneaux d’aspect plein, métalliques, en béton, ou en
+plastique (poly carbonate…), et en bois sont interdites.
+
+En secteur de trame verte, identifié dans l’OAP Trame Verte Bleue et Noire, les soubassements
+pleins doivent intégrer des espaces ouverts de 15cm x 15cm tous les 8m linéaires pour
+permettre les continuités écologiques et le passage de la microfaune terrestre.
+
+
+
+        2.5 Locaux techniques et divers
+
+Les coffrets, compteurs, boîtes aux lettres doivent être intégrés au bâti principal ou dans la
+clôture.
+
+De manière générale, toute construction nouvelle doit prévoir le stockage et l’intégration des
+conteneurs à déchets sur le terrain de l’opération, sauf lorsque la collecte par conteneurs
+collectifs enterrés est prévue ou déjà en place. Dans tous les cas, l e règlement de collecte des
+ordures ménagères devra être respecté (annexé au PLUi).
+
+Les dépôts de matériaux doivent être dissimulés à l’arrière des bâtiments ou par des dispositifs
+appropriés (murets en pierre, haie basse, …).
+                                                                                      Page 49 / 153
+Plan local d’urbanisme intercommunal – Révision n°6 approuvée le 16 décembre 2025
+                                                                                         Zone UC
+
+
+
+
+        3. Traitement environnemental et paysager des espaces non bâtis et abords
+           des constructions
+
+
+Les espaces libres doivent être paysagers et végétalisés. Les plantations doivent être réalisées
+avec des espèces végétales présentes dans l’environnement proche de préférence listées
+dans la palette de végétaux présente dans l’OAP Paysage.
+
+En secteur de « nature en ville » de l’OAP trame verte, bleue et noire (TVBN) , les aménagements
+des jardins ne doivent pas conduire à une imperméabilisation trop importante des parcelles
+de manière à assurer la continuité écologique (cf OAP TVBN).
+
+
+
+         3.1 Espaces boisés classés et protection paysagère
+
+Les espaces boisés classés à conserver, à protéger ou à créer, inscrits aux documents
+graphiques, sont soumis aux dispositions des articles L. 113-1 et L. 113-2 du Code de l’Urbanisme
+qui précise qu’est interdite toute occupation du sol de nature à compromettre la conservation,
+la protection ou la création de boisements.
+
+Dans les espaces ou pour les éléments repérés aux documents graphiques par une trame
+paysagère au titre de l’article L. 151-23 (et R. 151-43 5°), sont admis uniquement les travaux
+nécessaires à l’accueil du public (mobilier urbain, cheminements doux, …), les travaux
+nécessaires à l’entretien de ces espaces et à leur mise en valeur, les espaces de rétention des
+eaux pluviales paysagers (à ciel ouver t, noues, fossés), les accès et voiries à condition qu’ils
+ne remettent pas en cause la qualité paysagère du se cteur et son environnement naturel.
+
+
+
+
+        4. Stationnement
+
+
+         4.1 Règles générales
+
+Le stationnement de véhicules correspondant aux besoins des constructions et installations et
+leurs annexes (rampes d’accès, aires de manœuvre, aires de refuges…) doivent être réalisés
+à l’intérieur de l’unité foncière faisant l’objet de la demande d’autorisation d’occupation et
+d’utilisation du sol ou dans son environnement immédiat, soit en dehors des voies publiques .
+
+Pour les opérations réalisées sous forme de permis groupés ou les lotissements, la moitié des
+places exigées pourra être réalisée sur les espaces communs de l’opération.
+
+Sauf dispositions particulières définies dans les normes à l’article suivant, les obligations en
+matière de réalisation d’aires de stationnement sont applicables :
+
+    -    à toutes les occupations et utilisations du sol nouvelles ;
+    -    aux modifications d’une construction existante (extension, réhabilitation, restauration
+         ou changement de destination) pour le surplus requis (augmentation de la surface de
+         plancher, augmentation du nombre de logements, augmentation de la capacité
+         d’accueil). En cas de démolition/reconstruction, il n’est pas exigé de place de
+         stationnement dès lors qu’il n’y a pas d’augmentation de surface de plancher.
+
+
+
+
+                                                                                    Page 50 / 153
+Plan local d’urbanisme intercommunal – Révision n°6 approuvée le 16 décembre 2025
+                                                                                         Zone UC
+
+
+        4.2 Nombre de places de stationnement
+
+Le nombre de places minimal, suivant la destination, est fixé comme suit :
+
+•   Logements :
+
+    -   Logements : 1,5 place par 80m² de Surface de Plancher (la règle ne s’applique pas
+        dans le cas d’extensions de constructions existantes sans création de nouveaux
+        logements).
+    -   Logements collectifs ou lotissement : il sera réalisé des stationnements supplémentaires
+        banalisés (visiteurs) sur les espaces communs et représentant au minimum 1 place pour
+        10 logements ou lots.
+    -   Hébergement : 1 place par chambre.
+    -   EHPAD ou résidence universitaire : 1 place de stationnement pour 3 lits.
+    -   Logements sociaux : 1 place par logement.
+
+•   Commerce :
+
+    -   En deçà de 50m² : néant
+    -   Au-delà : 1 place pour 30 m² de surface de vente.
+
+•   Hébergement hôtelier et touristique : 1 place par chambre.
+
+•   Bureau et service : 1 place par 30 m² de surface de plancher
+
+•   Artisanat et industrie :
+    -   En deçà de 80m² de surface de plancher : néant.
+    -   Au-delà : 1 place par 80 m² de surface de plancher
+
+•   Entrepôt : 1 place par 200 m² de surface de plancher
+
+•   Restauration : 1,5 places par 10 m² de surface de salle.
+
+    Equipements d’intérêt collectif : le nombre de places de stationnement doit être
+    déterminé en fonction de la nature de la construction et de ses besoins et spécifié dans
+    une notice relative au nombre de stationnement. En outre, une aire de stationnement pour
+    les deux-roues doit être prévue.
+
+La règle applicable aux constructions ou établissements non prévus ci -dessus est celle à
+laquelle ces établissements sont le plus directement assimilables.
+Lorsqu’un projet comporte plusieurs destinations ou sous -destinations la mutualisation de tout
+ou partie des aires de stationnement est admise dès lors qu’une notice justifie le cadencement
+des besoins.
+
+Pour les opérations portant sur une unité foncière dont les deux tiers au moins sont inclus dans
+les périmètres de « desserte spécifique en transport en commun » définis aux documents
+graphiques, les normes de stationnement relatives à l'habitat et l'hébergement hôtelier
+pourront être réduites de 20%. Les normes de stationnement relatives aux autres catégories de
+constructions pourront être réduites de 40%.
+
+
+
+        4.3 Conception et traitement des aires de stationnement
+
+
+Les accès, dégagements et voies de circulation internes des stationnements doivent être
+conçus et dimensionnés de façon à permettre la manœuvre aisée des véhicules et
+l’accessibilité effective des places.
+
+Quel que soit leur dimensionnement, les espaces de stationnement devront privilégier des
+revêtements de surface favorisant la perméabilité et l’infiltration des eaux pluviales et
+
+
+                                                                                    Page 51 / 153
+Plan local d’urbanisme intercommunal – Révision n°6 approuvée le 16 décembre 2025
+                                                                                              Zone UC
+
+
+préservant les fonctions écologiques des sols (dalles alvéolaires, revêtements drainants, …) En
+outre, ils seront compatibles avec les dispositions de l’OAP Mobilités.
+
+Au-delà de 10 places de stationnement, les espaces de stationnement visibles depuis les voies
+publiques seront limités. Ils seront soit réalisés à l’arrière des bâtiments, soit ils seront, pour la
+majeure partie, dissimulés par des dispositifs pays agers (murets, haies basses …).
+
+
+
+            4.4 Solutions alternatives en cas d’impossibilité pour le constructeur de satisfaire lui-
+                même aux obligations en matière de stationnement
+
+
+En application de l’article L.151-33 du Code de l’Urbanisme, lorsque le pétitionnaire ne peut
+réaliser en tout ou partie les places de stationnement dans les conditions imposées par le
+présent règlement, en raison d’impossibilités objectives et insurmontables résultant de motifs
+techniques, d’architecture ou d’urbanisme, celui -ci pourra être tenu quitte de ces obligations
+par la mise en œuvre de solutions alternatives suivantes :
+
+
+        -   Obtention d’une concession à long terme dans un parc public de stationnement
+            existant ou en cours de réalisation et située à proximité de l’opération. Un parc public
+            sera considéré en cours de réalisation si la collectivité a acquis les terrains d’assise et
+            que les moyens financiers ont été précisés.
+
+    -       Acquisition ou concession de places dans un parc privé de stationnement situé à
+            proximité de l’opération.
+
+
+
+
+                                                                                        Page 52 / 153
+Plan local d’urbanisme intercommunal – Révision n°6 approuvée le 16 décembre 2025
+                                                                                           Zone UC
+
+
+III-        EQUIPEMENTS ET RESEAUX
+
+
+           1. Desserte par les voies publiques ou privées
+
+
+Les caractéristiques des accès et des voiries privées et publiques, doivent permettre de
+satisfaire aux règles minimales de desserte, de défense contre l’incendie, de la protection
+civile, de la collecte des ordures ménagères.
+
+Les accès sur une voie publique peuvent être limités ou refusés dans l’intérêt de la sécurité des
+usagers.
+
+Hiérarchisation des voies nouvelles créées :
+
+En présence de plusieurs voies, la voie principale doit être repérable par une largeur adaptée.
+
+Selon le contexte et le site d’implantation du projet, le dimensionnement de la voie projetée
+sera adapté :
+
+       -    Au dimensionnement de la voie sur laquelle le projet se raccorde
+       -    Au besoin, dans le cas de la réalisation d’une voie en impasse
+
+Dans tous les cas l’aménagement de voiries doit être adapté au site environnant, tenir compte
+de la topographie et viser à assurer une couture entre les tissus urbanisés. En outre, il sera
+compatible avec les dispositions de l’OAP Mobilités.
+
+
+
+           2. Desserte par les réseaux
+
+
+            2.1 Eau potable et défense incendie
+
+Toute construction ou installation nouvelle susceptible de requérir une alimentation en eau
+doit être raccordée à une conduite d’eau potable.
+
+Les canalisations ou tout autre moyen équivalent doivent être suffisants pour assurer une
+défense incendie conforme aux règles en vigueur.
+
+
+
+            2.2 Eaux usées
+
+Les constructions seront obligatoirement raccordées au réseau public d’assainissement.
+
+Conformément au Code de la Santé Publique, l’évacuation des eaux usées non domestiques
+dans le réseau d’assainissement est subordonnée à l’autorisation de Rodez Agglomération.
+
+
+
+            2.3 Eaux pluviales
+
+La collectivité n’a pas d’obligation de collecte des eaux pluviales issues des propriétés privées.
+Le principe est la gestion à la source des eaux pluviales et leur retour vers le milieu naturel. Il
+est de la responsabilité de l’usager. Ce rejet au milieu naturel peut s’effectuer par infiltration
+dans le sol (tranchées ou puits d’infiltration ou par écoulement dans des eaux superficielles.
+Dans tous les cas, l’usager doit rechercher des solutions limitant l’impact du rejet sur les milieux
+naturels, notamment la non aggravation des inondations à l’aval et la non dégradation de la
+qualité de ces milieux. Le règlement pluvial annexé au PLU devra être respecté.
+
+
+                                                                                     Page 53 / 153
+Plan local d’urbanisme intercommunal – Révision n°6 approuvée le 16 décembre 2025
+                                                                                         Zone UC
+
+
+Le raccordement d’évacuations d’eaux pluviales dans les collecteurs généraux de l’Aveyron
+et de l’Auterne est rigoureusement interdit.
+
+Conditions de raccordement :
+Pour toute construction nouvelle, la recherche de solutions permettant l’absence de rejet
+d’eaux pluviales dans le réseau public doit être privilégiée. A défaut, il peut être admis au
+réseau public un rejet d’eaux pluviales, dont le débit doit obligatoirem ent être limité,
+conformément aux prescriptions des documents d’urbanisme et de leurs annexes (zonage et
+règlement pluvial).
+
+
+
+        2.4 Réseaux divers
+
+(Electricité, gaz, téléphone, télé distributeur, éclairage public)
+
+Sauf impossibilité technique dûment démontrée, les installations nouvelles et branchements
+doivent être réalisés en souterrain ou s’encastrer dans le bâti.
+
+
+
+
+                                                                                    Page 54 / 153
+Plan local d’urbanisme intercommunal – Révision n°6 approuvée le 16 décembre 2025
+                    TerrenUrbanisme
+
+    Merci de votre confiance
+Ce rapport a été établi à partir des sources publiques officielles pour vous
+  aider à décider en connaissance de cause. Pour toute question, nous
+                        restons à votre disposition.
+
+
+
+
+   Vous êtes professionnel ? Travaillons ensemble
+      Agents immobiliers, notaires, architectes, géomètres, diagnostiqueurs,
+promoteurs, mairies : faisons équipe. Crédits professionnels sans abonnement, 5
+€ le rapport dès 50 crédits, votre logo sur les rapports, offre communale pour les
+                       mairies et partenariats sur mesure.
+
+               Écrivez-nous : contact@terrenurbanisme.com
+
+
+
+
+                        terrenurbanisme.com
+                         contact@terrenurbanisme.com
+

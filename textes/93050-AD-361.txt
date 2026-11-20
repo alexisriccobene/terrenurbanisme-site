@@ -1,0 +1,2475 @@
+                  TerrenUrbanisme
+                  Le terrain constructible, partout en France
+
+
+
+
+RAPPORT D'URBANISME
+
+
+
+Neuilly-sur-Marne
+Section AD · Parcelle n° 361
+      Sous conditions
+
+
+
+
+Référence cadastrale                                                        Surface cadastrale
+93050000AD0361                                                              15 079 m²
+
+Rapport établi le                                                           Référence du rapport
+20/11/2026                                                                  APERCU
+
+
+
+
+terrenurbanisme.com                                                                      contact@terrenurbanisme.com
+
+Document d'information sans valeur contractuelle ni réglementaire. Il ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme
+et ne peut en aucun cas être joint à une demande de permis de construire ou de déclaration préalable. Seuls les actes de l'administration font foi.
+                                                                                                                           Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                                                         Sommaire
+
+
+
+
+Sommaire
+Le rapport suit l'ordre d'une étude de terrain : où se trouve la parcelle, ce que dit la règle, ce qui pèse sur le
+projet, puis les démarches.
+
+              Synthèse
+   S                                                                                                                                            p. 3
+              Le verdict, les indicateurs clés et les points d'attention en une page.
+
+              Identification de la parcelle
+   01                                                                                                                                           p. 5
+              Localisation, surface, références cadastrales et voisinage du terrain.
+
+              Règles d'urbanisme applicables
+  02                                                                                                                                            p. 8
+              Document d'urbanisme, zone du terrain, prescriptions et servitudes.
+
+              Ce que vous pouvez construire
+  03                                                                                                                                           p. 12
+              Surface constructible, hauteur, reculs, aspect et usages autorisés.
+
+              Loi Littoral et loi Montagne
+  04                                                                                                                                           p. 18
+              Les lois qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+              Risques naturels et technologiques
+  05                                                                                                                                           p. 19
+              Inondation, feu de forêt, argiles, catastrophes naturelles et sites pollués.
+
+              Le terrain : accès, relief et réseaux
+  06                                                                                                                                          p. 22
+              Accès, pente, ensoleillement, eaux usées, électricité, eau et fibre.
+
+              Environnement et marché immobilier
+  07                                                                                                                                          p. 29
+              Espaces naturels, espèces protégées et ventes immobilières alentour.
+
+              Historique du site
+  08                                                                                                                                          p. 33
+              Le terrain vu du ciel au fil des années et les permis accordés autour.
+
+              Opportunités autour du terrain
+  09                                                                                                                                          p. 35
+              Grands terrains peu bâtis et logements énergivores à proximité.
+
+              Votre projet, étape par étape
+   10                                                                                                                                         p. 37
+              De l'achat aux impôts : démarches, délais, coûts, contacts et taxe.
+
+              État des risques (ERP) pré-rempli
+   11                                                                                                                                          p. 41
+              Le formulaire réglementaire à remettre à l'acquéreur, pré-rempli.
+
+              Avertissement et sources
+   12                                                                                                                                         p. 43
+              La portée de ce rapport et les sources publiques consultées.
+
+
+
+
+Astuce : cliquez sur un chapitre pour y accéder directement.
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          2 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                                                            Synthèse
+
+
+
+
+Synthèse
+     Document d'information. Ce rapport ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme,
+     n'engage pas l'administration et ne peut pas servir de pièce à une demande de permis de construire.
+     L'appréciation ci-dessous est indicative : seule la mairie se prononce sur la constructibilité d'un terrain,
+     au vu d'un projet précis.
+
+
+
+
+       SOUS CONDITIONS
+
+       Accord de l'architecte des Bâtiments de France obligatoire
+       La parcelle est classée en zone UE (urbaine) du PLU intercommunal de Neuilly-sur-Marne.
+       Les constructions y sont admises dans le respect du règlement de la zone. Des contraintes
+       particulières (risques ou protection du littoral) encadrent les projets. Le terrain est situé
+       aux abords d'un monument historique (HÃ´pital psychiatrique de Ville Evrard) : l'architecte
+       des Bâtiments de France donne son avis sur les travaux et peut imposer des prescriptions
+       (matériaux, couleurs, volumes).
+
+
+
+
+      Zone principale                                        Document d'urbanisme                                  Loi Littoral
+
+   UE · 100 %                                             PLUI                                                   Ne s'applique pas
+
+
+
+
+      Loi Montagne                                           Risques à la parcelle
+
+   Ne s'applique pas                                      Remontée de nappe ·
+                                                          Séisme (+2)
+
+
+
+
+Points d'attention
+    Zone UE (100 % de la parcelle) : constructible.
+    Prescription du PLU : Aléa du retrait gonflement des argiles arrêté en 2020 - Moyen.
+    Prescription du PLU : Zonage réglementaire du PPRi Marne - Jaune.
+    Abords de monument historique (HÃ´pital psychiatrique de Ville Evrard) : accord de l'architecte des
+    Bâtiments de France pour les travaux.
+    Retrait-gonflement des argiles (exposition moyenne) : en cas de vente d'un terrain non bâti
+    constructible, le vendeur doit fournir une étude géotechnique préalable (loi ELAN, article L. 132-5 du
+    Code de la construction et de l'habitation) ; une étude géotechnique de conception est exigée avant
+    de construire.
+    Installations industrielles (ICPE) : concerné à l'adresse de la parcelle (voir le chapitre « Risques
+    naturels et technologiques »).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            3 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                                                          Synthèse
+
+
+
+
+    Canalisations de matières dangereuses : concerné à l'adresse de la parcelle (voir le chapitre «
+    Risques naturels et technologiques »).
+    Pollution des sols : concerné à l'adresse de la parcelle (voir le chapitre « Risques naturels et
+    technologiques »).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          4 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+    01             Identification de la parcelle
+     DANS CETTE SECTION
+
+     Où se trouve le terrain, sa surface, ses références cadastrales, son propriétaire lorsqu'il s'agit
+     d'une société ou d'une collectivité, et la performance énergétique du bâti existant.
+
+
+Données du cadastre (DGFiP) et de l'IGN.
+
+
+     Plan de situation
+
+
+
+
+                                                                                                                            1 km
+
+
+
+Plan IGN · © IGN
+
+
+
+     Vue aérienne et plan cadastral
+
+
+
+
+                                                                                                                                   200 m
+
+
+
+Photographie aérienne et plan cadastral · © IGN
+
+
+Commune                                                  Neuilly-sur-Marne (93050)
+
+Département                                              Seine-Saint-Denis (93)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          5 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+Section et numéro                                        Section AD, parcelle n° 361, feuille 1
+
+Identifiant cadastral                                    93050000AD0361
+
+Surface cadastrale                                       15 079 m²
+
+Surface calculée (SIG)                                   15 120 m² · périmètre 716 m
+
+Coordonnées du centre                                    48.86388 N, 2.54226 E (WGS 84)
+
+Altitude                                                 de 39 à 41 m
+
+Pente estimée                                            9 % (pente modérée)
+
+Parcelles voisines                                       AD 356, AD 358, AD 360, AD 362, AD 456
+
+
+Le plan cadastral est un document fiscal : il ne fait pas foi des limites de propriété. Seul un bornage réalisé par un
+géomètre-expert fixe les limites de manière certaine.
+
+
+1.1 Propriétaire et voisinage
+     La parcelle appartient à une personne morale : GROUPE HOSPITALIER UNIVERSITAIRE PARIS -
+     PSYCHIATRIE ET NEUR (HOSP) · SIREN 200082105. Le gérant ou le représentant légal se retrouve à
+     partir du numéro SIREN sur annuaire-entreprises.data.gouv.fr.
+
+
+
+Parcelles voisines détenues par des sociétés ou des collectivités
+  PARCELLE              PROPRIÉTAIRE                                                                     SURFACE            SIREN
+
+  AD 456                GROUPE HOSPITALIER UNIVERSITAIRE PARIS -                                         1 579 m²           200082105
+                        PSYCHIATRIE ET NEUR (HOSP)
+
+  AD 360                COMMUNE DE NEUILLY S-MARNE (COM)                                                 48 573 m²          219300506
+
+  AD 358                JARDINERIE RN 34 (SCI)                                                           245 m²             378931307
+
+  AD 362                JARDINERIE RN 34 (SCI)                                                           4 170 m²           378931307
+
+  AD 356                COMMUNE DE NEUILLY S-MARNE (COM)                                                 702 m²             219300506
+
+
+
+Principaux propriétaires personnes morales dans un rayon de 322 m
+  PROPRIÉTAIRE                                                              PARCELLES             SURFACE TOTALE            SIREN
+
+  GROUPE HOSPITALIER UNIVERSITAIRE PARIS -                                  5                     44 890 m²                 200082105
+  PSYCHIATRIE ET NEUR (HOSP)
+
+  COMMUNE DE NEUILLY S-MARNE (COM)                                          10                    33 473 m²                 219300506
+
+  CDC HABITAT SOCIAL SOCIETE ANONYME                                        2                     32 764 m²                 552046484
+  D'HABITATIONS A LOYER MOD (SA)
+
+  GRAND PARIS AMENAGEMENT (EPIC)                                            7                     17 238 m²                 642036941
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          6 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+  PROPRIÉTAIRE                                                              PARCELLES             SURFACE TOTALE            SIREN
+
+  ETS PUBLIC DE SANTE DE VILLE-EVRARD (HOSP)                                1                     9 790 m²                  269300935
+
+  SEINE-SAINT-DENIS HABITAT (EPIC)                                          1                     2 673 m²                  279300198
+
+  JARDINERIE RN 34 (SCI)                                                    1                     65 m²                     378931307
+
+  ENEDIS (SA)                                                               1                     31 m²                     444608442
+
+
+
+Source : fichiers des parcelles des personnes morales (DGFiP) : sociétés, SCI, collectivités, établissements publics et associations.
+Les propriétaires personnes physiques n'y figurent pas.
+
+
+1.2 La commune de Neuilly-sur-Marne
+Code postal                                              93330
+
+Département                                              Seine-Saint-Denis (93)
+
+Intercommunalité                                         Métropole du Grand Paris
+
+Population                                               39 800 habitants
+
+Superficie                                               6,95 km²
+
+Densité                                                  5 724 habitants par km²
+
+Commune littorale                                        Non
+
+Commune de montagne                                      Non
+
+Document d'urbanisme                                     Plan local d'urbanisme intercommunal (PLUi)
+
+Risques sur la commune                                   16 arrêtés de catastrophe naturelle · détail en section Risques et en
+                                                         annexe
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           7 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+    02             Règles d'urbanisme applicables
+     DANS CETTE SECTION
+
+     Le document d'urbanisme de la commune, la zone dans laquelle se trouve le terrain, et les
+     prescriptions et servitudes qui s'y ajoutent.
+
+
+Géoportail de l'Urbanisme : zonage, prescriptions et servitudes.
+
+
+
+2.1 Document d'urbanisme en vigueur
+Type de document                                         Plan local d'urbanisme intercommunal (PLUi)
+
+Date d'approbation                                       Non renseigné
+
+Statut                                                   Publié au Géoportail de l'Urbanisme
+
+Règlement officiel                                       Ouvrir le document officiel (PDF)
+
+
+
+     Plan de zonage du PLU
+
+
+
+
+                                                                     Nl
+
+                                                                       Na         UE
+
+
+
+
+                                                                          Na
+
+
+
+
+                                                                                                                                   200 m
+
+
+
+Zonage : Géoportail de l'Urbanisme · fond : © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          8 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.2 Zonage de la parcelle
+  ZONE                  DÉSIGNATION                                                         PART               CONSTRUCTIBILITÉ
+
+  UE                    Zone de grands équipements                                          100 %              Constructible
+
+
+
+Zone UE · Urbaine
+Zone urbaine : secteur déjà urbanisé où les équipements publics existants ou en cours de réalisation
+permettent d'accueillir des constructions. Les constructions y sont admises dans le respect du règlement de la
+zone (destinations, implantation, hauteur, emprise, aspect).
+
+
+2.3 Prescriptions applicables à la parcelle
+  PRESCRIPTION                                                                                       TYPE
+
+  Les règles relatives aux zones de projets, aux zones de grands                                     Prescription du PLU (type 42)
+  équipements, aux zones urbaines vertes, aux zones naturelles et aux
+  zones agricoles figurent au sein du règlement écrit
+
+  Les règles relatives aux zones de projets, aux zones de grands                                     Prescription du PLU (type 38)
+  équipements, aux zones urbaines vertes, aux zones naturelles et aux
+  zones agricoles figurent au sein du règlement écrit
+
+  Aléa du retrait gonflement des argiles arrêté en 2020 - Moyen                                      Prescription du PLU (type 99)
+
+  Secteur d'attention écologique                                                                     Élément de patrimoine ou de paysage
+                                                                                                     protégé
+
+  Les règles relatives aux zones de projets, aux zones de grands                                     Prescription du PLU (type 39)
+  équipements, aux zones urbaines vertes, aux zones naturelles et aux
+  zones agricoles figurent au sein du règlement écrit
+
+  Zonage réglementaire du PPRi Marne - Jaune                                                         Prescription du PLU (type 02)
+
+  Les règles relatives aux zones de projet, aux zones urbaines vertes,                               Prescription du PLU (type 15)
+  aux zones naturelles et aux zones agricoles figurent au sein du
+  règlement écrit
+
+  Les règles relatives aux zones de projets, aux zones de grands                                     Prescription du PLU (type 15)
+  équipements, aux zones urbaines vertes, aux zones naturelles et aux
+  zones agricoles figurent au sein du règlement écrit
+
+  Implantation à l'alignement ou en retrait, non réglementé                                          Prescription du PLU (type 15)
+
+  Règles non représentées, se référer au règlement écrit                                             Prescription du PLU (type 15)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          9 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.4 Informations complémentaires du PLU
+  INFORMATION                                                                                        TYPE
+
+  Secteur de taxe d'aménagement                                                                      Information du PLU (type 32)
+
+  Secteur dans lequel l'édification d'une clôture doit être précédée                                 Information du PLU (type 42)
+  d'une déclaration préalable
+
+  Secteur dans lequel les travaux de démolition sont soumis à permis                                 Information du PLU (type 42)
+  de démolir
+
+  Règlement local de publicité                                                                       Information du PLU (type 20)
+
+  Périmètre de droit de préemption urbain renforcé                                                   Information du PLU (type 04)
+
+  Secteur affecté par le bruit des infrastructures de transport                                      Information du PLU (type 14)
+  terrestres (routier)
+
+  Zone d'aménagement concerté                                                                        Information du PLU (type 02)
+
+  Périmètre de développement prioritaire du réseau de chaleur                                        Information du PLU (type 07)
+
+  Zone à risque d'exposition au plomb                                                                Information du PLU (type 17)
+
+  Secteur dans lequel les travaux de ravalement sont soumis à                                        Information du PLU (type 42)
+  déclaration préalable
+
+
+
+
+2.5 Servitudes d'utilité publique
+  CODE               SERVITUDE                                                                    DÉTAIL
+
+  PM1                Plan de prévention des risques naturels (PPRN)                               PM1 PPRi Marne 093 ass
+
+  AC1                Monument historique (abords)                                                 AC1
+                                                                                                  Hopital-psychiatrique-de-Ville-Evrard-
+                                                                                                  IR1R8L abor
+
+
+
+
+2.6 Patrimoine : l'architecte des Bâtiments de France
+     En clair : le terrain est aux abords d'un monument historique. Les travaux visibles de l'extérieur doivent
+     recevoir l'accord de l'architecte des Bâtiments de France, qui peut imposer des prescriptions.
+
+
+
+  PROTECTION                                NOM                                                CE QUE CELA IMPLIQUE
+
+  Abords de monument                        HÃ´pital psychiatrique de Ville                    Accord de l'architecte pour les travaux visibles
+  historique                                Evrard                                             (périmètre publié)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          10 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+Conseils : consulter l'architecte des Bâtiments de France (unité départementale de l'architecture et du patrimoine,
+joignable par la mairie) avant de dessiner le projet ; prévoir un délai d'instruction majoré d'un mois ; soigner
+l'insertion (matériaux, teintes, toitures, clôtures) dès l'esquisse.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          11 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    03             Ce que vous pouvez construire
+     DANS CETTE SECTION
+
+     La lecture du règlement de votre zone : surface constructible estimée, hauteur, reculs, aspect,
+     usages autorisés ou interdits, avec les extraits du texte officiel.
+
+
+Lecture du règlement écrit de la zone UE, pages 257 à 267 du règlement officiel.
+
+
+
+3.1 Potentiel constructible estimé
+     En clair : le règlement de la zone ne fixe pas de surface maximale au sol. La construction doit
+     seulement rester dans la zone d'implantation, en retrait des limites et des voies. Cette zone de 9 803
+     m² n'est pas une surface à construire : c'est l'espace à l'intérieur duquel la maison doit se placer. Une
+     maison de 122 m² au sol, soit environ 104 m² habitables, y trouve sa place, comme le montre l'étude
+     d'implantation ci-dessous.
+
+
+
+Surface du terrain                                       15 079 m²
+
+Zone d'implantation possible                             9 803 m² après reculs (8 m des limites)
+
+Emprise au sol maximale                                  Non fixée par le règlement
+
+Maison étudiée (exemple)                                 122 m² au sol, environ 104 m² habitables
+
+Hauteur maximale                                         Non précisée
+
+
+
+     Zone d'implantation possible (estimation)
+
+
+
+
+                                                                                                                                 200 m
+
+
+
+En vert : partie du terrain hors reculs réglementaires · fond © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          12 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.2 Étude d'implantation indicative
+
+     Implantation d'une maison de plain-pied (esquisse)
+
+
+
+
+                                                                                                                                 200 m
+
+
+
+En rouge : la maison · en orange : une piscine de 8 × 4 m · en vert : zone constructible · fond © IGN
+
+
+Maison proposée                                          Maison de plain-pied de 13,5 × 9 m
+
+Emprise au sol                                           122 m²
+
+Surface habitable indicative                             environ 104 m²
+
+Façade principale                                        orientée sud-est
+
+Distance à la voie                                       environ 0 m
+
+Distance minimale aux limites                            9,9 m
+
+Piscine de 8 × 4 m                                       possible dans la zone constructible
+
+Taxe d'aménagement estimée                               environ 4 090 € (résidence principale)
+
+
+Esquisse automatique : la maison est placée dans la zone constructible, au plus près de la voie, en dégageant le jardin vers
+le sud, sans tenir compte des constructions existantes ni de la végétation. Elle ne remplace pas l'étude d'un architecte,
+obligatoire au-delà de 150 m² de surface de plancher, ni la vérification des règles d'aspect, de stationnement, de pente et
+d'assainissement.
+
+Estimation théorique établie à partir des règles chiffrées du règlement (reculs, emprise, hauteur) et de la géométrie
+cadastrale. Elle ne tient pas compte des servitudes, des risques, de la pente, des règles de stationnement et d'aspect, ni
+des dispositions particulières : seul un architecte ou un géomètre peut confirmer le potentiel réel.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          13 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.3 Caractère de la zone
+La zone UE est la zone urbaine de grands équipements du PLUi de Grand Paris Grand Est. Elle est dédiée
+aux équipements d'intérêt collectif et services publics, les autres destinations n'y étant admises qu'à titre
+accessoire et sous conditions. Le chapitre renvoie aux dispositions communes aux zones urbaines et
+aux dispositions thématiques particulières pour la pleine terre, le stationnement, les réseaux, la voirie et
+la mixité.
+
+
+3.4 Règles de construction
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                   ARTICLE
+
+  Surface minimale ou                          Non précisé dans le règlement de la zone                                           chapitre UE
+  caractéristiques du terrain
+
+  Accès et voirie                              Renvoi aux dispositions communes applicables aux zones                             art. 8
+                                               urbaines (article 8 de la zone UE) ; contenu non fourni dans
+                                               l'extrait
+
+  Réseaux et assainissement                    Renvoi aux dispositions thématiques particulières (article 9 de                    art. 9
+                                               la zone UE) ; contenu non fourni dans l'extrait
+
+  Implantation par rapport                     Non réglementé                                                                     art. 3.3.1
+  aux voies
+
+  Implantation par rapport                     Façade en vis-à-vis aveugle ou sans baie créant des vues : non                     art. 3.3.2
+  aux limites séparatives                      réglementé. Façade avec baies créant des vues : distance
+                                               horizontale, perpendiculaire aux façades, entre tout point du
+                                               bâtiment (balcons et terrasses compris) et les limites latérales
+                                               au moins égale à la hauteur de la façade, avec un minimum de
+                                               8 mètres.
+
+  Implantation des                             Non réglementé                                                                     art. 3.3.3
+  constructions entre elles
+
+  Emprise au sol                               Non réglementé                                                                     art. 3.1
+
+  Hauteur maximale                             Non réglementé                                                                     art. 3.2
+
+  Aspect extérieur et toitures                 Intégration harmonieuse dans le paysage urbain et naturel                          art. 4.2, 4.6
+                                               (volume, architecture, matériaux, couleurs). Toitures terrasses
+                                               traitées comme une façade et en harmonie avec la
+                                               construction. Capteurs solaires et panneaux photovoltaïques
+                                               autorisés s'ils s'intègrent à la toiture, à la composition
+                                               architecturale et au site. Les articles 4.2 à 4.5 ne s'appliquent
+                                               pas aux équipements d'intérêt collectif et services publics, sauf
+                                               lieux de culte et autres équipements recevant du public ;
+                                               ceux-ci doivent faire l'objet d'une ambition architecturale,
+                                               paysagère et écologique.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             14 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                   ARTICLE
+
+  Matériaux et couleurs                        Façade en harmonie avec les façades avoisinantes ; toutes les                      art. 4.3
+                                               façades traitées avec le même soin ; emploi à nu de matériaux
+                                               destinés à être recouverts (briques creuses, parpaings) interdit
+                                               ; devanture commerciale limitée à trois couleurs par boutique ;
+                                               extensions cohérentes avec la construction existante ;
+                                               annexes traitées avec le même soin que le bâtiment principal.
+
+  Clôtures                                     Hauteur maximale de 2,50 m, à l'alignement comme en limites                        art. 4.4
+                                               séparatives, sans bonus de hauteur ; la hauteur n'est pas
+                                               réglementée à Neuilly-sur-Marne pour les équipements
+                                               d'intérêt collectif et services publics posant des contraintes de
+                                               sécurité. Sur rue à Neuilly-sur-Marne : soit une clôture ajourée
+                                               (grille) sur toute sa hauteur doublée d'une haie vive, soit un mur
+                                               bahut de 0,50 à 1,10 m surmonté d'une grille à barreaudage
+                                               (espacement minimal de 5 cm) entre piles en maçonnerie.
+                                               Clôtures sur rue implantées à l'alignement. Limites séparatives
+                                               : mur, mur bahut surmonté d'une grille, ou grille ou grillage ;
+                                               passages pour la petite faune. Interdits : lices ou barrières
+                                               plastiques, grillage à simple torsion, barbelés visibles, tôle,
+                                               matériaux bruts destinés à être recouverts, matériaux
+                                               hétéroclites. Portillons de 1,50 m de large au maximum ;
+                                               débattements à l'intérieur de la parcelle.
+
+  Stationnement                                Renvoi aux dispositions thématiques particulières ; contenu                        art. 7
+                                               non fourni dans l'extrait
+
+  Espaces verts et plantations                 Renvoi aux dispositions communes applicables aux zones                             art. 6
+                                               urbaines (pleine terre, objectifs de plantation, coefficient
+                                               d'anticipation environnementale) ; pourcentage non fourni dans
+                                               l'extrait
+
+  Densité ou coefficient                       Non précisé dans le règlement de la zone                                           chapitre UE
+
+
+
+
+3.5 Usages autorisés
+    Équipements d'intérêt collectif et services publics (locaux administratifs, locaux techniques, enseignement,
+    santé et action sociale, salles d'art et de spectacles, équipements sportifs, lieux de culte, autres
+    équipements recevant du public) : le tableau ne les range pas dans les destinations soumises à conditions
+    Exploitation agricole et forestière : admise sous réserve de prendre en compte les nuisances, les
+    caractéristiques et le fonctionnement de la zone
+    Logement : uniquement pour les personnes dont la présence permanente est nécessaire au
+    fonctionnement, au gardiennage ou à la surveillance, dans la limite de 90 m² de surface de plancher et
+    inséré dans le bâtiment d'équipement
+    Artisanat et commerce de détail, restauration : s'ils apportent un service en lien avec les constructions et
+    installations nécessaires
+    Activités de services avec accueil d'une clientèle : s'ils apportent un service en lien avec les constructions
+    et installations nécessaires
+    Entrepôts et bureaux : s'ils sont nécessaires au fonctionnement des équipements d'intérêt collectif et
+    services publics
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           15 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    Affouillements et exhaussements du sol sous conditions (amélioration de l'environnement, recherche ou
+    mise en valeur d'un site, raisons fonctionnelles, réseau de transport public du Grand Paris, réseau de
+    transport d'électricité)
+    Dépôts nécessaires à l'exécution des services publics ou d'intérêt collectif
+    Installations classées pour la protection de l'environnement (ICPE) soumises à autorisation,
+    enregistrement ou déclaration si les nuisances et dangers peuvent être prévenus de façon satisfaisante
+    Extension ou aménagement des constructions existantes non conformes, dans les limites de 30 % (surface
+    de plancher existante <= 150 m²) ou 20 % (> 150 m²)
+
+
+3.6 Usages interdits ou soumis à conditions
+    Garages collectifs de caravanes, stationnement isolé de caravanes de plus de trois mois et carrières :
+    interdits
+    Dans les secteurs du PPRI de la Marne, les remblais doivent être compensés par un volume de déblais au
+    moins égal (le volume de déblais des piscines n'est pas pris en compte)
+    Les destinations hors équipements (logement, commerces, bureaux, entrepôts, services) ne sont admises
+    que si elles sont liées et nécessaires aux équipements, aux conditions décrites
+    Travaux sur constructions existantes non conformes : bonne intégration architecturale, respect des autres
+    règles, mesures contre les nuisances pour les destinations autres que l'habitation, et plafond de surface de
+    plancher supplémentaire de 30 % ou 20 %
+    Dispositions communes : espaces boisés classés, espaces verts paysagers et écologiques, cœurs d'îlots,
+    zones humides, retraits des cours d'eau, risques (PPRI, carrières, gypse, retrait-gonflement des argiles),
+    emplacements réservés, périmètres d'attente de projet global, linéaires commerciaux, patrimoine protégé
+    : règles spécifiques éventuelles
+    Industrie, commerce de gros, hôtels, autres hébergements touristiques, cinéma, centre de congrès et
+    d'exposition, cuisine dédiée à la vente en ligne : le tableau fourni ne rend pas lisible la colonne
+    d'autorisation ; à vérifier sur le règlement original
+
+
+3.7 Points de vigilance pour votre projet
+    Vérifier la nature du projet : seuls les équipements d'intérêt collectif et services publics sont le cœur de la
+    zone ; logement, commerce, bureaux et entrepôts ne sont admis qu'en lien direct avec ces équipements
+    Logement de fonction limité à 90 m² de surface de plancher et intégré au bâtiment d'équipement
+    Implantation sur limites séparatives : si la façade comporte des baies, retrait au moins égal à la hauteur de
+    façade avec minimum de 8 m
+    Consulter les plans graphiques : espaces boisés classés, espaces verts paysagers, cœurs d'îlots, zones
+    humides, retrait des berges de la Marne ou du canal, bande de lisière de 50 m, secteurs d'attention
+    écologique
+    Risques : PPRI de la Marne, anciennes carrières et gypse, retrait-gonflement des argiles
+    Vérifier emplacements réservés, périmètres d'attente de projet global, linéaires commerciaux, secteurs de
+    mixité sociale et de taille minimale de logements, éléments de patrimoine protégés
+    Pleine terre, plantations, stationnement, voirie et réseaux : consulter les dispositions communes aux zones
+    urbaines et les dispositions thématiques non reproduites ici
+    Pour un lieu de culte ou un autre équipement recevant du public, les règles d'aspect extérieur 4.2 à 4.5
+    s'appliquent
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          16 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.8 Extraits du règlement
+
+     art. 1.1.1 · page 257
+     « Les constructions et locaux destinés à l’habitation ne sont admis que s’ils sont destinés
+     exclusivement aux personnes dont la présence permanente est nécessaire »
+
+
+     art. 3.1 · page 260
+     « L’emprise au sol maximale des constructions n’est pas règlementée. »
+
+
+     art. 3.2 · page 260
+     « La hauteur maximale des constructions n’est pas règlementée. »
+
+
+     art. 3.3.2 · page 261
+     « doit être au moins égale à la hauteur de la façade du bâtiment avec un minimum de 8 mètres. »
+
+
+     art. 4.4.2.1 · page 263
+     « La hauteur maximale autorisée des clôtures est de 2,50 mètres. »
+
+
+     art. 3.3.1 · page 261
+     « L’implantation des constructions par rapport aux voies et emprises publiques n’est pas réglementée.
+     »
+
+
+
+3.9 Démarches probables
+    Permis de construire ou déclaration préalable selon l'ampleur des travaux
+    Autorisation spécifique pour affouillements et exhaussements du sol (autorisation au titre du code de
+    l'urbanisme)
+    Déclaration préalable pour les clôtures, selon les règles locales
+    Dossier ICPE (autorisation, enregistrement ou déclaration) le cas échéant
+    Consultation de l'Inspection Générale des Carrières, études géotechniques, respect du PPRI selon la
+    localisation
+    Déclaration préalable ou demande préalable pour tout travail touchant des éléments de paysage ou arbres
+    remarquables identifiés
+
+     Cette lecture est établie automatiquement, par intelligence artificielle, à partir du règlement officiel en
+     vigueur. Elle peut comporter des imprécisions : seul le texte du règlement (pages 257 à 267 du
+     document approuvé), fait foi, avec les dispositions générales, les orientations d'aménagement et les
+     servitudes.
+
+
+
+Règlement officiel complet :
+https://data.geopf.fr/annexes/gpu/documents/DU_200058790/1e91a9ffdb4cf43667905010b77437ab/200058790_reglement_
+20260930.pdf
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          17 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                                    04 · Loi Littoral et loi Montagne
+
+
+
+
+   04              Loi Littoral et loi Montagne
+     DANS CETTE SECTION
+
+     Les lois nationales qui s'ajoutent au document d'urbanisme sur le littoral et en montagne. Elles
+     peuvent rendre un terrain inconstructible même en zone constructible.
+
+
+Les lois d'aménagement qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+
+
+4.1 Loi Littoral
+Commune littorale                                        Non
+
+Distance au rivage                                       Sans objet
+
+Bande des 100 mètres                                     Sans objet
+
+
+La commune n'est pas riveraine de la mer : la loi Littoral ne s'applique pas (sauf rives de grands lacs).
+
+
+4.2 Loi Montagne
+Commune en zone de montagne                              Non
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           18 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+   05              Risques naturels et technologiques
+     DANS CETTE SECTION
+
+     Les risques connus à l'adresse du terrain (inondation, feu de forêt, mouvement de terrain,
+     radon…) et les catastrophes naturelles reconnues sur la commune.
+
+
+Base nationale Géorisques (ministère de la Transition écologique).
+
+
+
+5.1 Risques naturels à l'adresse de la parcelle
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Inondation                                      Non connu                                       Existant
+
+  Remontée de nappe                               Existant                                        Existant
+
+  Séisme                                          Existant – faible                               Existant – faible
+
+  Mouvement de terrain                            Inconnu                                         Existant
+
+  Retrait-gonflement des                          Existant – modéré                               Existant – important
+  argiles
+
+  Radon                                           Existant – faible                               Existant – faible
+
+
+
+
+5.2 Risques technologiques
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Installations industrielles                     Concerné                                        Concerné
+  (ICPE)
+
+  Canalisations de matières                       Concerné                                        Concerné
+  dangereuses
+
+  Pollution des sols                              Concerné                                        Concerné
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          19 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.3 Indicateurs réglementaires
+Zone de sismicité                                        Zone 1 – très faible
+
+Potentiel radon                                          Catégorie 1 (potentiel faible)
+
+Retrait-gonflement des argiles                           Existant – modéré
+
+Plans de prévention (PPR)                                Marne
+
+
+
+5.4 Arrêtés de catastrophe naturelle
+16 arrêtés de reconnaissance de l'état de catastrophe naturelle concernent la commune.
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Inondations et/ou Coulées de Boue                                         18/06/2021 au 20/06/2021                       20/07/2021
+
+  Sécheresse                                                                01/07/2020 au 30/09/2020                       07/05/2021
+
+  Inondations et/ou Coulées de Boue                                         11/06/2018 au 12/06/2018                       03/11/2018
+
+  Inondations et/ou Coulées de Boue                                         06/06/2018                                     03/11/2018
+
+  Inondations et/ou Coulées de Boue                                         29/05/2018 au 30/05/2018                       03/11/2018
+
+  Inondations et/ou Coulées de Boue                                         15/01/2018 au 05/02/2018                       15/02/2018
+
+  Inondations et/ou Coulées de Boue                                         19/06/2013                                     13/09/2013
+
+  Inondations et/ou Coulées de Boue                                         13/05/2006                                     08/12/2006
+
+  Sécheresse                                                                01/07/2003 au 30/09/2003                       01/02/2005
+
+  Inondations et/ou Coulées de Boue                                         26/06/2001 au 27/06/2001                       19/12/2001
+
+  Mouvement de Terrain                                                      25/12/1999 au 29/12/1999                       30/12/1999
+
+  Inondations et/ou Coulées de Boue                                         25/12/1999 au 29/12/1999                       30/12/1999
+
+  Sécheresse                                                                01/01/1996 au 31/03/1998                       29/07/1998
+
+  Inondations et/ou Coulées de Boue                                         23/12/1993 au 18/01/1994                       29/04/1994
+
+  Inondations et/ou Coulées de Boue                                         27/06/1990                                     17/04/1991
+
+  Inondations et/ou Coulées de Boue                                         01/04/1983 au 28/04/1983                       18/05/1983
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         20 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.5 Installations classées à proximité (moins de 1 km)
+    E.P.S. DE VILLE EVRARD · Autres régimes
+    HOPITAL MAISON BLANCHE · Non ICPE
+    SOCIETE GEOTHERMALE DES RIVES DE MARNE · Autres régimes
+    AUCHAN - BAOBAB · Autres régimes
+    SGRM (Sté Géothermale des Rives de Seine · Autres régimes
+    GCS - BLANCHISSERIE DE L'EST FRANCILIEN · Non ICPE
+    NEUILLY PRESSING 93 · Non ICPE
+    GIMA DISTRIBUTION · Non ICPE
+
+
+5.6 Sites et sols pollués à proximité
+    HOPITAL MAISON BLANCHE · ancien site industriel ou d'activité de service (CASIAS)
+    GCS - BLANCHISSERIE DE L'EST FRANCILIEN · ancien site industriel ou d'activité de service (CASIAS)
+    6 anciens sites industriels ou d'activités de service (CASIAS) recensés
+
+
+5.7 Rapport officiel Géorisques
+Les risques recensés ci-dessus proviennent des bases officielles de Géorisques, service public d'information
+sur les risques. Le rapport officiel complet peut être édité sans frais, à tout moment et à jour, à partir de
+l'adresse du terrain sur le site Géorisques.
+
+
+    Éditer le rapport officiel Géorisques
+
+
+Lors d'une vente ou d'une location, le vendeur ou le bailleur doit remettre un état des risques de moins de six mois,
+complété et signé, et l'information sur les sinistres indemnisés au titre des catastrophes naturelles.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          21 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+   06              Le terrain : accès, relief et réseaux
+     DANS CETTE SECTION
+
+     Les contraintes physiques du terrain : accès à une voie, pente et exposition, assainissement,
+     raccordement à l'électricité et à l'eau, fibre. Ce sont elles qui pèsent le plus sur le coût d'un
+     projet.
+
+
+Voirie (IGN, BD TOPO), altimétrie (IGN, RGE ALTI), règlement de la zone, réseau électrique (Agence ORE) et éligibilité
+internet (Arcep).
+
+
+
+6.1 Accès
+Accès direct à une voie                                  Oui
+
+Voie                                                     Route à 1 chaussée
+
+Largeur de chaussée                                      4m
+
+Accès des véhicules                                      Restreint aux ayants droit
+
+
+La parcelle touche une voie carrossable. L'autorisation d'urbanisme vérifiera que l'accès est adapté au projet et sûr,
+et peut imposer une permission de voirie ou un aménagement de l'entrée.
+
+
+6.2 Relief et exposition
+Pente moyenne                                            0%
+
+Exposition                                               Terrain plat
+
+Altitude                                                 39 à 41 m
+
+Appréciation                                             Terrain plat ou presque plat
+
+
+
+
+ 42 m
+
+
+
+
+ 39 m
+
+
+           Coupe du terrain dans le sens de la pente · longueur 381 m
+
+
+     Terrassements limités ; pas de surcoût notable lié au relief.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         22 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Neuilly-sur-Marne · AD 361
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.3 Ensoleillement
+Appréciation                                             Très bien ensoleillé
+
+Soleil direct le 21 juin                                 15 h 18 (de 06 h 20 à 21 h 30)
+
+Soleil direct aux équinoxes                              12 h (de 07 h 00 à 18 h 50)
+
+Soleil direct le 21 décembre                             7 h 30 (de 09 h 20 à 16 h 40)
+
+Ensoleillement annuel possible                           4 254 h par an, soit 97 % du maximum à cette latitude
+
+Hauteur du relief vers le sud                            1°
+
+
+ 75°
+
+
+
+ 60°
+
+
+
+ 45°
+
+
+
+ 30°
+
+
+
+ 15°
+
+
+
+ 0°
+                                Est                  Sud-est                    Sud                 Sud-ouest               Ouest
+
+          21 juin          Équinoxes               21 décembre                 Horizon : relief et bâtiments voisins
+
+
+
+       Le relief et les constructions voisines ne masquent presque pas le soleil : le terrain profite de la
+       quasi-totalité de l'ensoleillement possible à cette latitude.
+
+
+
+Ensoleillement mois par mois (le 21 de chaque mois)
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Janvier                         8 h 48                             8 h 30                                    09 h 00 – 17 h 20
+
+  Février                         10 h 18                            10 h 12                                   08 h 10 – 18 h 10
+
+  Mars                            12 h                               12 h                                      07 h 00 – 18 h 50
+
+  Avril                           13 h 48                            13 h 12                                   07 h 30 – 20 h 30
+
+  Mai                             15 h 18                            14 h 42                                   06 h 40 – 21 h 10
+
+  Juin                            16 h                               15 h 18                                   06 h 20 – 21 h 30
+
+  Juillet                         15 h 18                            14 h 42                                   06 h 50 – 21 h 20
+
+  Août                            13 h 48                            13 h 12                                   07 h 30 – 20 h 30
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           23 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Septembre                       12 h 12                            12 h                                      07 h 50 – 19 h 40
+
+  Octobre                         10 h 18                            10 h 12                                   08 h 40 – 18 h 40
+
+  Novembre                        8 h 42                             8 h 18                                    08 h 40 – 16 h 50
+
+  Décembre                        8h                                 7 h 30                                    09 h 20 – 16 h 40
+
+
+
+Calcul théorique par ciel dégagé, au centre de la parcelle et à hauteur d'homme : course du soleil heure par heure, masque du relief
+sur 6 km (IGN, RGE ALTI) et des bâtiments voisins sur 120 m (IGN, BD TOPO, 10 bâtiments pris en compte). La végétation et les
+constructions récentes ne sont pas prises en compte.
+
+
+6.4 Quel raccordement pour les eaux usées ?
+Raccordement à prévoir                                       Tout-à-l'égout très probable
+
+Zone du PLU                                                  UE · Urbaine
+
+Zonage d'assainissement                                      Non publié au Géoportail de l'Urbanisme (consultable en mairie)
+
+Réseau collectif sur la commune                              Oui · Grand Paris Grand Est (T9) · régie publique
+
+
+     Le terrain est en zone urbaine (UE) et la commune dispose d'un réseau public d'assainissement
+     collectif. Dans ces zones, le réseau passe en général dans la voie et le règlement impose le
+     raccordement lorsqu'il existe. À confirmer par le service d'assainissement pour ce terrain précis.
+
+
+
+Ce que dit le règlement de la zone
+Non précisé dans l'extrait de la zone UE : l'article 9 (desserte par les réseaux) renvoie aux dispositions thématiques
+particulières, qui ne sont pas reproduites. Il faut s'y reporter pour savoir si le raccordement au réseau collectif est
+obligatoire.
+
+Ce que cela coûte
+Raccordement au tout-à-l'égout : branchement sous la voie réalisé par le service d'assainissement (souvent 1 500 à
+5 000 € selon la distance), canalisation sur le terrain jusqu'à la maison, et participation pour le financement de
+l'assainissement collectif (PFAC) fixée par la commune ou l'intercommunalité, généralement de 1 000 à 5 000 €. Le
+service remet un devis à partir du plan de situation.
+
+Qui contacter pour obtenir la confirmation
+Service d'assainissement                                     Grand Paris Grand Est (T9)
+
+Mairie                                                       Mairie de Neuilly-sur-Marne
+
+Téléphone                                                    01 43 08 96 96
+
+E-mail                                                       site.ville@neuillysurmarne.fr
+
+
+    Demandez au service d'assainissement, avec la référence cadastrale, si une canalisation publique passe au droit
+    du terrain, à quelle profondeur, et le montant de la PFAC. Sa réponse écrite vaut attestation de raccordabilité.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          24 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+    Certificat d'urbanisme opérationnel (formulaire Cerfa 13410, délivré sans frais) : la mairie y indique officiellement
+    si le terrain est desservi par le réseau d'assainissement.
+    Plan des réseaux : la présence des canalisations enterrées près du terrain peut être vérifiée sur
+    reseaux-et-canalisations.gouv.fr, le guichet unique des réseaux.
+Sources : zonage d'assainissement et règlement (Géoportail de l'Urbanisme) ; services publics d'assainissement (SISPEA, Office
+français de la biodiversité) ; annuaire de l'administration (service-public.fr).
+
+Si le réseau public n'était finalement pas accessible
+  FILIÈRE                                    QUAND ELLE CONVIENT                                                           ORDRE DE PRIX
+
+  Fosse toutes eaux et                       Sol perméable, terrain assez grand et peu pentu                               5 000 à 10 000 €
+  épandage
+
+  Filtre à sable                             Sol peu perméable, place suffisante                                           8 000 à 12 000 €
+
+  Micro-station agréée                       Petit terrain ou sol défavorable ; entretien et électricité                   7 000 à 15 000 €
+
+  Filtre compact agréé                       Petit terrain, sans électricité                                               9 000 à 14 000 €
+
+
+
+Ordres de prix indicatifs (fourniture et pose, hors étude de sol et terrassements particuliers). La filière est choisie au vu de l'étude
+de sol et validée par le SPANC.
+
+
+6.5 Électricité et eau potable
+Gestionnaire du réseau                                       Enedis
+
+Réseau basse tension le plus proche                          à environ 55 m (ligne souterraine)
+
+Ligne aérienne la plus proche                                à environ 245 m
+
+Ligne souterraine la plus proche                             à environ 55 m
+
+Poste de transformation le plus proche                       à environ 85 m
+
+Appréciation                                                 Extension du réseau probable
+
+
+     Le réseau basse tension le plus proche est à environ 55 m. Au-delà d'une trentaine de mètres, le
+     gestionnaire réalise en général une extension du réseau : compter plusieurs milliers à une dizaine de
+     milliers d'euros, et plusieurs mois de délai.
+
+
+
+Ce qu'il faut vérifier avant d'acheter
+    La capacité du réseau : même un réseau proche peut être saturé (coffret ou câble plein, poste de transformation
+    au maximum). Seule une étude du gestionnaire permet de le savoir ; c'est la cause la plus fréquente de surcoûts
+    imprévus.
+    Électricité : demander au gestionnaire du réseau une étude de raccordement ou un devis à partir de l'adresse et
+    du plan de situation (sans frais). Elle indique le type de raccordement, son coût et son délai.
+    Eau potable : les plans du réseau d'eau ne sont pas publics. Interroger le service des eaux (coordonnées
+    ci-dessous) sur la présence d'une canalisation au droit du terrain, sa capacité et le coût du branchement, ainsi
+    que sur la défense incendie (borne à moins de 200 m environ).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            25 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+    Certificat d'urbanisme opérationnel : la mairie y indique si le terrain est desservi par les réseaux publics (eau,
+    électricité, assainissement) et, à défaut, si et quand ils seront étendus. Un refus de permis peut être fondé sur
+    l'insuffisance des réseaux (article L. 111-11 du Code de l'urbanisme).
+
+Qui contacter
+Service de l'eau potable                                     Syndicat des Eaux D'Île-de-France (SEDIF)
+
+Mode de gestion                                              Délégation de service public
+
+Contact pour le branchement                                  Syndicat des Eaux D'Île-de-France (SEDIF)
+
+Mairie                                                       Mairie de Neuilly-sur-Marne
+
+Téléphone de la mairie                                       01 43 08 96 96
+
+E-mail de la mairie                                          site.ville@neuillysurmarne.fr
+
+Électricité (raccordement)                                   Enedis · demande en ligne sur enedis.fr (raccordement)
+
+La mairie oriente vers le bon interlocuteur et confirme, dans le certificat d'urbanisme, la desserte du terrain par les réseaux.
+Sources : SISPEA, observatoire des services publics d'eau (OFB) ; annuaire de l'administration (service-public.fr).
+
+Dans une promesse de vente, une condition suspensive portant sur le coût du raccordement aux réseaux protège
+l'acquéreur. Source de la cartographie électrique : Agence ORE, données des gestionnaires de réseaux de distribution ;
+tracés indicatifs.
+
+
+6.6 Fibre et internet
+     La fibre est déployée dans le secteur, la plus proche à 163 m (2 a Rue Duguay Trouin) : le raccordement
+     d'une construction neuve suppose une extension du réseau, à demander à l'opérateur.
+
+
+
+Adresse la plus proche                                          2 a Rue Duguay Trouin · à 163 m · raccordable
+
+Point fibré le plus proche                                      2 a Rue Duguay Trouin · à 163 m
+
+Adresses fibrées à moins de 100 m                               Aucune adresse recensée
+
+Adresses fibrées à moins de 400 m                               150 sur 150
+
+Technologies disponibles à proximité                            4G fixe, Fibre, Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         26 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Neuilly-sur-Marne · AD 361
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+     Points fibrés autour Fdu terrain
+               F F F
+        F                   F        F
+         F
+                            F       F
+         F
+                                         FF F
+          F                 F
+                                             F
+                                          FF
+        F                                  F             F
+         F                                               F F
+                                                 F
+         FF
+          F            F F
+                 F F
+    F                                                F
+                                         F           F
+                                         F
+                                                     F
+                                             F       F
+                                             F
+                                                 F
+                                             F   F
+                                             F
+                                               F FF
+                                               F
+                                                   F
+                                             F      F
+                                              F      F                                                                     F
+                                                     F
+                                              F       F
+                                               F      F
+                                                F       F
+                                                        F
+                                                  F      F
+                                         F F F F
+                                   F F F           F F
+                       FF       F                          F
+                                F                    F      F
+                       F                       FF  F
+                                                             F
+                       F         F F FF FF                   F
+                        F         F F         F F     F
+                                                       F
+                        F                                     F                                                                        100 m
+
+
+
+Repères F : adresses déclarées raccordables à la fibre (Arcep) · en terracotta : sur la parcelle · fond © IGN
+
+
+Vérifiez la fibre à l'adresse du terrain :
+
+                       Carte fibre Orange                                                                Carte de l'Arcep
+
+
+  DISTANCE             ADRESSE                                                                 FIBRE              AUTRES ACCÈS
+
+  163 m                2 a Rue Duguay Trouin                                                   Oui                4G fixe, Satellite
+
+  176 m                2 b Rue Duguay Trouin                                                   Oui                4G fixe, Satellite
+
+  179 m                2 Rue Duguay Trouin                                                     Oui                4G fixe, Satellite
+
+  179 m                38 Avenue de Blancheville                                               Oui                4G fixe, Satellite
+
+  179 m                44 Avenue de Blancheville                                               Oui                4G fixe, Satellite
+
+  179 m                40 Avenue de Blancheville                                               Oui                4G fixe, Satellite
+
+  180 m                42 Avenue de Blancheville                                               Oui                4G fixe, Satellite
+
+  182 m                36 Avenue de Blancheville                                               Oui                4G fixe, Satellite
+
+
+
+Source : Arcep, « Ma connexion internet », éligibilité déclarée par les opérateurs, adresse par adresse. Le tracé des câbles n'est
+pas public : la présence de la fibre en limite de terrain se vérifie auprès de l'opérateur ou par une déclaration de projet de travaux
+(DT).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             27 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.7 Qui contacter pour les réseaux
+  RÉSEAU                                    INTERLOCUTEUR                                         CE QU'IL FAUT DEMANDER
+
+  Eau potable et                            Mairie ou service des eaux de la                      Attestation de desserte et conditions de
+  assainissement collectif                  commune                                               raccordement
+
+  Assainissement individuel                 SPANC (communauté de communes)                        Contrôle de conception sur la base de l'étude
+                                                                                                  de sol
+
+  Électricité                               Enedis (gestionnaire du réseau de                     Étude de raccordement et devis
+                                            distribution)
+
+  Fibre et téléphone                        Opérateur d'infrastructure et                         Raccordement du futur logement
+                                            fournisseur d'accès
+
+  Tous réseaux                              Guichet unique des réseaux                            Déclaration de projet de travaux (DT) pour
+                                            (reseaux-et-canalisations.gouv.fr)                    localiser les réseaux existants
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         28 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+    07             Environnement et marché immobilier
+     DANS CETTE SECTION
+
+     Les espaces naturels protégés autour du terrain et les prix de vente réels des maisons,
+     appartements et terrains alentour.
+
+
+Inventaire national du patrimoine naturel et demandes de valeurs foncières (DVF).
+
+
+
+7.1 Espaces naturels protégés ou inventoriés
+  TYPE                                                      NOM DU SITE
+
+  Abords de monument historique                             Hopital psychiatrique de Ville Evrard
+
+
+
+La présence d'un site Natura 2000 peut imposer une évaluation des incidences avant certains travaux. Une ZNIEFF
+est un inventaire scientifique sans portée réglementaire directe, mais elle signale un intérêt écologique pris en
+compte dans l'instruction des autorisations.
+
+
+7.2 Espèces protégées observées près du terrain
+69 espèces protégées ont été observées dans un rayon de 1 km autour du terrain depuis 1990 ; les 14 plus
+fréquemment signalées figurent ci-dessous.
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                          OBSERVATIONS
+
+  Mésange charbonnière (Parus major)                              Oiseau                 Nationale (espèce et                150 · dernière en
+                                                                                         habitat)                            2023
+
+  Carotte commune (Daucus carota)                                 Plante                 Nationale                           126 · dernière en
+                                                                                                                             2026
+
+  Rouge-gorge familier (Erithacus                                 Oiseau                 Nationale (espèce et                120 · dernière en
+  rubecula)                                                                              habitat)                            2023
+
+  Pinson des arbres (Fringilla coelebs)                           Oiseau                 Nationale (espèce et                101 · dernière en
+                                                                                         habitat)                            2023
+
+  Mésange bleue (Cyanistes caeruleus)                             Oiseau                 Nationale (espèce et                99 · dernière en
+                                                                                         habitat)                            2023
+
+  Corneille noire (Corvus corone)                                 Oiseau                 Nationale (espèce et                96 · dernière en
+                                                                                         habitat)                            2023
+
+  Troglodyte mignon (Troglodytes                                  Oiseau                 Nationale (espèce et                91 · dernière en
+  troglodytes)                                                                           habitat)                            2023
+
+  Fauvette à tête noire (Sylvia atricapilla)                      Oiseau                 Nationale (espèce et                86 · dernière en
+                                                                                         habitat)                            2023
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           29 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                          OBSERVATIONS
+
+  Grand épeiche (Dendrocopos major)                               Oiseau                 Nationale (espèce et                72 · dernière en
+                                                                                         habitat)                            2023
+
+  Pic vert (Picus viridis)                                        Oiseau                 Nationale (espèce et                71 · dernière en
+                                                                                         habitat)                            2023
+
+  Grimpereau brachydactyle (Certhia                               Oiseau                 Nationale (espèce et                65 · dernière en
+  brachydactyla)                                                                         habitat)                            2023
+
+  Pouillot véloce (Phylloscopus collybita)                        Oiseau                 Nationale (espèce et                52 · dernière en
+                                                                                         habitat)                            2023
+
+  Pipistrelle commune (Pipistrellus                               Mammifère              Nationale (espèce et                45 · dernière en
+  pipistrellus)                                                                          habitat)                            2023
+
+  Ecureuil d'Eurasie (Sciurus vulgaris)                           Mammifère              Nationale (espèce et                45 · dernière en
+                                                                                         habitat)                            2023
+
+
+
+     Une observation à proximité ne signifie pas que l'espèce vit sur le terrain. Mais si elle y est présente, il
+     est interdit de détruire, capturer ou déranger les individus et, pour la plupart de ces espèces, de
+     détruire leurs lieux de reproduction et de repos (articles L. 411-1 et suivants du Code de
+     l'environnement). L'infraction est punie de 3 ans d'emprisonnement et 150 000 € d'amende.
+
+
+
+Pour les plantes, la protection vise les populations sauvages : un spécimen planté dans un jardin n'est pas concerné.
+
+Que faire avant de construire ?
+    Pour une maison individuelle, aucune étude écologique n'est imposée en règle générale, et l'étude de sol porte
+    sur le terrain (fondations), pas sur la faune ni la flore. Vous restez cependant responsable si une espèce
+    protégée vit sur la parcelle : en cas de doute (espèce observée tout près, vieux arbres, murets, maquis, zone
+    humide), faites passer un écologue avant de défricher.
+    Si un enjeu est confirmé : inventaire faune-flore aux saisons utiles (printemps et été en général), puis mesures
+    pour éviter et réduire l'impact : implantation de la maison sur la partie la moins sensible, travaux hors période de
+    reproduction, clôture de chantier adaptée, déplacement d'individus par un spécialiste habilité.
+    Si la destruction d'individus ou d'habitats ne peut pas être évitée : demande de dérogation « espèces protégées »
+    auprès de la préfecture (DREAL), avec avis du conseil scientifique. Comptez 4 à 12 mois d'instruction, à anticiper
+    avant le dépôt du permis.
+
+Combien prévoir ?
+Pré-diagnostic écologique                                800 à 2 000 € (une visite et une note de synthèse)
+
+Inventaire faune-flore                                   3 000 à 10 000 € selon la surface et le nombre de passages
+
+Mesures d'évitement et de réduction                      500 à 5 000 € (balisage, calendrier, suivi de chantier)
+
+Dossier de dérogation                                    8 000 à 25 000 €, hors mesures de compensation éventuelles
+
+Ordres de prix indicatifs, honoraires de bureaux d'études en environnement, si une étude est nécessaire. Pour une maison sur un
+terrain déjà entouré de constructions, aucune étude n'est le plus souvent requise.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           30 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+Sources : statuts de protection TAXREF et base de connaissance des statuts (INPN, Muséum national d'Histoire naturelle) ;
+observations naturalistes GBIF, qui rassemble notamment les données de l'INPN et du SINP.
+
+
+7.3 Prix de l'immobilier à Neuilly-sur-Marne
+Prix au mètre carré des ventes enregistrées sur la commune au cours des cinq dernières années publiées.
+Seules les ventes portant sur un bien unique sont retenues.
+
+  TYPE DE BIEN                                       VENTES                       €/M² MÉDIAN                              €/M² MOYEN
+
+  Maisons                                            327                          4 077 €/m²                               4 165 €/m²
+
+  Appartements                                       1 167                        3 351 €/m²                               3 394 €/m²
+
+  Locaux commerciaux                                 38                           1 814 €/m²                               1 815 €/m²
+
+
+
+Source : statistiques des demandes de valeurs foncières (DGFiP, Etalab). Prix des actes, hors frais : un ordre de grandeur,
+pas une estimation du bien.
+
+
+7.4 Ventes de terrains autour de la parcelle
+Période observée                                          2021 à 2025
+
+Ventes de terrains recensées                              11
+
+Prix médian                                               610 €/m²
+
+Prix courants (une vente sur deux)                        496 à 746 €/m²
+
+
+  DATE                    PARCELLE                             NATURE                             SURFACE              PRIX              €/M²
+
+  03/03/2025              AE 895                               terrains à bâtir                   233 m²               410 000 €         1 760
+
+  25/02/2025              AE 911                               sols                               481 m²               5 000 €           10
+
+  12/06/2024              AL 538                               terrains à bâtir                   121 m²               85 000 €          702
+
+  23/01/2024              AH 786                               sols                               287 m²               214 000 €         746
+
+  30/06/2023              AL 537                               terrains à bâtir                   121 m²               140 000 €         1 157
+
+  12/05/2023              AL 540                               terrains à bâtir                   199 m²               130 000 €         653
+
+  27/04/2022              AL 540                               terrains à bâtir                   199 m²               100 000 €         503
+
+  21/01/2022              AE 427                               terrains à bâtir                   620 m²               250 000 €         403
+
+  19/11/2021              AC 479                               terrains d'agrément                663 m²               145 500 €         219
+
+  13/10/2021              AL 538 (+1)                          terrains à bâtir                   242 m²               120 000 €         496
+
+  30/07/2021              AH 782                               sols                               164 m²               100 000 €         610
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             31 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+Source : DVF, ventes enregistrées par la DGFiP. Les prix au mètre carré dépendent fortement de la constructibilité, de la
+vue, de l'accès et de la viabilisation : ils donnent un ordre de grandeur, pas une estimation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         32 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                                                08 · Historique du site
+
+
+
+
+   08              Historique du site
+     DANS CETTE SECTION
+
+     Le terrain vu du ciel au fil des décennies et les permis de construire accordés autour : l'évolution
+     du secteur en un coup d'œil.
+
+
+Photographies aériennes de l'IGN et permis de construire délivrés (Sitadel).
+
+
+
+8.1 Le terrain vu du ciel, d'hier à aujourd'hui
+
+    1950-1965                                             2000-2005                                              2006-2010
+
+
+
+
+    2011-2015                                             Aujourd'hui
+
+
+
+
+Ces vues montrent l'évolution du terrain et du quartier, des années 1950 à aujourd'hui (photographies aériennes de l'IGN).
+
+     Bon à savoir : l'existence ancienne d'une construction peut ouvrir, sous conditions, un droit à
+     reconstruire ou à restaurer un bâtiment dont il reste l'essentiel des murs porteurs (articles L. 111-15 et L.
+     111-23 du Code de l'urbanisme).
+
+
+
+
+8.2 Permis de construire délivrés autour du terrain
+Autorisations sur la commune (3 ans)                                    15 · dernière recensée le 25/09/2026
+
+Logements autorisés (3 ans)                                             223
+
+Dont maisons individuelles                                              8
+
+Autorisations dans la section AD                                        7 depuis 2013
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  12/12/2023            Permis de construire                   AD 202             10             711 m²                    PLACE DU ROUSSILLON ET
+                                                                                                                           334
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             33 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                                                08 · Historique du site
+
+
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  25/10/2022            Permis de construire                   AD 436             6              –                         ALLEE DE VERSAILLES
+
+  07/05/2018            Permis de construire                   AD 35              157            9 795 m²                  AVENU DU 8 MAI 1945 ANGLE
+                                                                                                                           RUE DE
+
+  03/07/2017            Permis de construire                   AD 34              49             2 734 m²                  147 AVENUE DU MARECHAL
+                                                                                                                           LECLERC
+
+  21/03/2017            Permis de construire                   AD 204             65             4 202 m²                  AVENUE DU 8 MAI 1945 RUES
+
+  02/11/2016            Permis de construire                   AD 36              117            8 371 m²                  PLACE JEAN BART
+
+  08/07/2014            Permis de construire                   AD 36              1              85 m²                     RUES DE SUFFREN DUGAY
+                                                                                                                           TRO
+
+
+
+Source : base Sitadel des autorisations d'urbanisme créant des logements (SDES). Un permis accordé à proximité montre
+que des constructions ont été admises dans le secteur, sans préjuger de la décision sur votre propre projet.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             34 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                              09 · Opportunités autour du terrain
+
+
+
+
+      09           Opportunités autour du terrain
+      DANS CETTE SECTION
+
+      Ce qui se passe autour de la parcelle : grands terrains peu bâtis, sociétés propriétaires en
+      difficulté, logements énergivores. Des pistes pour un investisseur, un voisin ou un professionnel.
+
+
+Bodacc (procédures collectives), ADEME (diagnostics énergétiques), cadastre, BD TOPO et Géoportail de l'Urbanisme.
+
+
+
+9.1 Grands terrains peu bâtis à proximité
+Parcelles de plus de 1 200 m², situées en zone urbaine ou à urbaniser du PLU, dans un rayon de 250 m, dont
+moins de 8 % de la surface est bâtie, hors terrains publics : un potentiel de construction ou de division à
+étudier.
+
+  PARCELLE           SURFACE                BÂTI               ZONE               DISTANCE           PROPRIÉTAIRE
+
+  AR 178             260 183 m²             non bâti           UP                 680 m              particulier (non publié)
+
+  AS 8               236 825 m²             3 234 m²           UE                 610 m              particulier (non publié)
+
+  AR 177             116 983 m²             4 499 m²           UP                 270 m              particulier (non publié)
+
+  AT 23              100 800 m²             non bâti           UC                 670 m              particulier (non publié)
+
+  AD 250             47 085 m²              non bâti           UV                 310 m              particulier (non publié)
+
+  AD 469             27 459 m²              1 791 m²           UP                 470 m              particulier (non publié)
+
+  AS 2               13 827 m²              54 m²              UE                 320 m              particulier (non publié)
+
+  AR 27              8 526 m²               non bâti           UP                 440 m              particulier (non publié)
+
+
+
+
+9.2 Logements classés F ou G autour du terrain
+Logements diagnostiqués F ou G dans un rayon de 350 m. Leur location est déjà interdite (G) ou le sera en
+2028 (F) : leurs propriétaires sont souvent vendeurs, ou doivent engager des travaux de rénovation.
+
+  PARCELLE                   ADRESSE                                        CLASSE LOGEMENT                   SURFACE      DISTANCE DPE DU
+
+  –                          23 Avenue de Blancheville                      G            Maison               74 m²        200 m      04/06/2023
+                             93330 Neuilly-sur-Marne
+
+  –                          8 Avenue de Blancheville 93330                 G            Maison               56 m²        290 m      15/03/2025
+                             Neuilly-sur-Marne
+
+  –                          7 Avenue de Blancheville 93330                 F            Maison               76 m²        300 m      16/08/2024
+                             Neuilly-sur-Marne
+
+  –                          4 Avenue de Blancheville 93330                 F            Maison               62 m²        310 m      02/02/2026
+                             Neuilly-sur-Marne
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         35 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                              09 · Opportunités autour du terrain
+
+
+
+
+  PARCELLE                   ADRESSE                                        CLASSE LOGEMENT                   SURFACE      DISTANCE DPE DU
+
+  Section AD n°              12 Rue de Suffren 93330                        F            Appartemen           82 m²        330 m      10/02/2024
+  469                        Neuilly-sur-Marne                                           t
+
+  –                          18 Rocade de Blancheville                      F            Maison               76 m²        350 m      26/03/2026
+                             93330 Neuilly-sur-Marne
+
+
+
+La parcelle est celle du point d'adresse du logement (cadastre). Pour connaître son propriétaire lorsqu'il s'agit d'un particulier,
+demandez un relevé de propriété au service de la publicité foncière ou à la mairie.
+
+Ces informations proviennent de bases publiques et ne préjugent ni de l'intention de vendre des propriétaires ni de la
+constructibilité des parcelles citées, qui relève d'une étude au cas par cas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         36 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+      10           Votre projet, étape par étape
+De l'achat du terrain à la déclaration aux impôts : démarches, délais, coûts et contacts.
+
+
+
+10.1 Analyse
+Le terrain est soumis au plan local d'urbanisme intercommunal (PLUi) de Neuilly-sur-Marne. Il est classé
+en zone UE. Zone urbaine : secteur déjà urbanisé où les équipements publics existants ou en cours de
+réalisation permettent d'accueillir des constructions. Les constructions y sont admises dans le respect
+du règlement de la zone (destinations, implantation, hauteur, emprise, aspect).
+
+La construction n'est pas exclue, mais elle est subordonnée à des conditions qu'il faut lever avant tout
+engagement : lecture du règlement et des orientations d'aménagement, desserte par les réseaux,
+contraintes de risques ou de protection.
+
+
+10.2 Votre projet, étape par étape
+Les étapes ci-dessous suivent l'ordre réel d'un projet de construction, de l'achat du terrain à la déclaration aux
+impôts. Les montants sont indicatifs et à confirmer par devis.
+
+  1      Avant d'acheter le terrain
+         Vérifiez les règles de la zone (chapitres précédents), puis demandez un certificat d'urbanisme opérationnel
+         (Cerfa 13410, sans frais, réponse sous 2 mois) : il fige les règles pendant 18 mois. En zone d'argiles d'aléa
+         moyen ou fort, le vendeur doit fournir une étude de sol préalable.
+         Contact : Mairie de Neuilly-sur-Marne · 01 43 08 96 96 · site.ville@neuillysurmarne.fr · formulaire sur
+         service-public.fr (rechercher « Cerfa 13410 »)
+
+  2      Les études
+         Étude de sol géotechnique (G2) pour dimensionner les fondations : 1 500 à 3 000 €. Étude thermique RE2020,
+         obligatoire pour le permis : 500 à 1 500 €. Bornage par un géomètre si les limites sont incertaines. L'étude de
+         sol ne porte pas sur les espèces protégées : un écologue n'intervient qu'en cas d'enjeu (chapitre
+         Environnement).
+         Géomètres proches du terrain : liste à la fin de ce chapitre
+
+  3      Les plans
+         Architecte obligatoire si la surface de plancher totale dépasse 150 m². En dessous, vous pouvez dessiner les
+         plans vous-même ou faire appel à un dessinateur ou maître d'œuvre (environ 1 500 à 4 000 € le dossier de
+         permis). Architecte : 3 000 à 8 000 € pour la seule mission de permis, 8 à 12 % du coût des travaux pour une
+         mission complète avec suivi du chantier.
+         Trouver un architecte : annuaire de l'Ordre des architectes sur architectes.org
+
+  4      Déposer le permis
+         Formulaire Cerfa 13406 (maison individuelle) et pièces PCMI1 à PCMI8 : plan de situation, plan de masse,
+         coupe, notice, plans des façades et toitures, insertion dans le paysage, photos, attestation RE2020. Dépôt en
+         mairie ou en ligne sur le guichet numérique de la commune. La mairie a 1 mois pour réclamer une pièce
+         manquante ; l'instruction dure 2 mois à partir du dossier complet, plus en secteur protégé.
+         Dépôt : Mairie de Neuilly-sur-Marne · 01 43 08 96 96 · site.ville@neuillysurmarne.fr · formulaire sur service-public.fr
+         (rechercher « Cerfa 13406 »)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         37 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+  5      Affichage et recours
+         Dès l'accord, installez le panneau de permis sur le terrain, lisible depuis la voie, pendant toute la durée du
+         chantier. Les tiers ont 2 mois à compter du premier jour d'affichage pour contester ; la mairie peut retirer un
+         permis illégal pendant 3 mois. Faites constater l'affichage par un commissaire de justice (environ 300 à 600 €
+         pour les trois constats).
+         Commissaires de justice : annuaire sur commissaire-justice.fr
+
+  6      Avant les travaux
+         Souscrivez l'assurance dommages-ouvrage, obligatoire (souvent 2 à 4 % du coût de la construction). Signez
+         le contrat de construction de maison individuelle ou les marchés des artisans. Déposez la déclaration
+         d'ouverture de chantier (Cerfa 13407) le jour du démarrage. Le permis est valable 3 ans, prorogeable deux
+         fois d'un an.
+         Déclaration d'ouverture : Mairie de Neuilly-sur-Marne · 01 43 08 96 96 · site.ville@neuillysurmarne.fr
+
+  7      Le financement
+         La banque débloque le prêt au fur et à mesure du chantier, sur présentation des factures des entreprises ou
+         des appels de fonds du constructeur. Avec un contrat de construction de maison individuelle, l'échéancier
+         est encadré par la loi : 15 % à l'ouverture du chantier, 25 % aux fondations, 40 % aux murs, 60 % hors d'eau,
+         75 % hors d'air et cloisons, 95 % aux équipements, le solde à la réception. Des intérêts intercalaires peuvent
+         courir sur les sommes débloquées.
+         Votre banque ou votre courtier
+
+  8      La fin du chantier
+         Réception des travaux avec le constructeur ou les artisans, avec réserves si nécessaire. Déposez ensuite la
+         déclaration attestant l'achèvement et la conformité des travaux (DAACT, Cerfa 13408), avec l'attestation
+         RE2020 de fin de chantier. La mairie a 3 mois pour la contester (5 mois en secteur protégé).
+         Dépôt : Mairie de Neuilly-sur-Marne · 01 43 08 96 96 · site.ville@neuillysurmarne.fr
+
+  9      Les impôts
+         Dans les 90 jours suivant l'achèvement, déclarez la construction sur impots.gouv.fr, espace « Gérer mes
+         biens immobiliers ». Cette déclaration sert au calcul de la taxe d'aménagement (payée en une fois sous 1 500
+         €, sinon en deux fois, estimation plus bas dans ce chapitre) et de la taxe foncière, avec une exonération
+         possible les deux premières années selon la commune.
+         impots.gouv.fr › Espace particulier › Gérer mes biens immobiliers
+
+
+10.3 Les points à vérifier pour ce terrain
+  1      Certificat d'urbanisme opérationnel
+         Le demander en mairie (formulaire Cerfa 13410), en décrivant le projet. Délivré sans frais, il indique si le
+         terrain peut accueillir le projet et fige les règles d'urbanisme pendant 18 mois.
+
+  2      Règlement de la zone
+         Lire le règlement écrit de la zone UE et, le cas échéant, les orientations d'aménagement, disponibles sur
+         le Géoportail de l'Urbanisme.
+
+  3      Réseaux et accès
+         Vérifier l'accès à une voie publique ou privée adaptée, la desserte en eau potable et en électricité, et le
+         mode d'assainissement. En l'absence de réseau collectif, une étude de sol et l'avis du service public
+         d'assainissement non collectif (SPANC) sont nécessaires.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         38 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+  4      Architecte des Bâtiments de France
+         Le projet sera soumis à l'architecte des Bâtiments de France : le rencontrer avant de dessiner le projet
+         (rendez-vous par la mairie ou l'unité départementale de l'architecture et du patrimoine), soigner
+         matériaux, teintes et toitures, et compter un mois de plus pour l'instruction.
+
+  5      Bornage
+         Faire réaliser un bornage par un géomètre-expert pour fixer les limites exactes et la surface réelle du
+         terrain.
+
+  6      Sécuriser un achat
+         Pour une acquisition, prévoir dans le compromis une condition suspensive d'obtention d'un permis de
+         construire purgé de tout recours.
+
+
+10.4 Délais indicatifs d'instruction
+  DEMANDE                                                                                 DÉLAI DE DROIT COMMUN
+
+  Certificat d'urbanisme d'information (CUa)                                              1 mois
+
+  Certificat d'urbanisme opérationnel (CUb)                                               2 mois
+
+  Déclaration préalable                                                                   1 mois
+
+  Permis de construire une maison individuelle                                            2 mois
+
+  Permis d'aménager, autres permis de construire                                          3 mois
+
+
+
+Ces délais peuvent être majorés, notamment en site classé ou inscrit, aux abords d'un monument historique ou lorsque la
+consultation d'un service extérieur est nécessaire.
+
+
+10.5 Taxe d'aménagement à prévoir
+      Exemple : une maison de 120 m² en résidence principale, avec une piscine de 3 × 6 m. Sur ce terrain, la
+      taxe d'aménagement à prévoir est d'environ 5 650 €.
+
+
+
+  PROJET                                                                                                       TAXE ESTIMÉE
+
+  Maison de 120 m², résidence principale                                                                       5 310 €
+
+  Piscine de 3 × 6 m (18 m²)                                                                                   340 €
+
+  Total à prévoir                                                                                              5 650 €
+
+
+
+Taux appliqués : 4 % pour la commune et 2,5 % pour le département, 1 % pour la région, sur une valeur forfaitaire de 1 011 €
+par m² en 2026 (251 € par m² de bassin pour une piscine). Une résidence principale bénéficie d'un abattement de 50 % sur
+ses 100 premiers m².
+
+La taxe est due une fois les travaux terminés : elle se déclare sur impots.gouv.fr dans les 90 jours suivant l'achèvement, et
+se paie en deux fois au-delà de 1 500 €. Pour calculer votre propre projet :
+terrenurbanisme.com/outils/taxe-amenagement.html
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         39 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+10.6 Implanter une entreprise : zone France Ruralités Revitalisation
+     La commune de Neuilly-sur-Marne n'est pas classée en zone France Ruralités Revitalisation (FRR). Une
+     entreprise qui s'y installe ne bénéficie pas de l'exonération d'impôt sur les bénéfices liée à ce zonage.
+
+
+
+Source : ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 (collectivites-locales.gouv.fr).
+
+
+10.7 Géomètres proches du terrain
+Le géomètre-expert est le seul professionnel habilité à fixer les limites de propriété (bornage) et à établir les
+documents d'arpentage déposés au cadastre. Il intervient aussi pour les relevés topographiques et les
+divisions de terrain.
+
+0,2 km            3 G TOPOGRAPHIE
+                                                                                                                           Coordonnées
+                  32 AVENUE DE BLANCHEVILLE 93330 NEUILLY-SUR-MARNE
+
+
+0,9 km            ALPHA TOPO
+                                                                                                                           Coordonnées
+                  72 B RUE PIERRE BROSSOLETTE 93330 NEUILLY-SUR-MARNE
+
+
+2,3 km            SCP BOURDON FRAGNE
+                                                                                                                           Coordonnées
+                  81 AVENUE EMILE COSSONNEAU 93160 NOISY-LE-GRAND
+
+
+2,3 km            FRANCK BOURDON
+                                                                                                                           Coordonnées
+                  81 AVENUE EMILE COSSONNEAU 93160 NOISY-LE-GRAND
+
+
+2,3 km            VERONIQUE FRAGNE
+                                                                                                                           Coordonnées
+                  81 AVENUE EMILE COSSONNEAU 93160 NOISY-LE-GRAND
+
+
+2,3 km            GEO-INFRA
+                                                                                                                           Coordonnées
+                  3 RUE FLOBERT 93220 GAGNY
+
+
+Source : répertoire Sirene de l'INSEE (activité des géomètres), classé par distance au terrain. L'inscription d'un cabinet à l'Ordre
+des géomètres-experts se vérifie sur geometre-expert.fr. Le bouton « Coordonnées » ouvre la fiche du cabinet (téléphone,
+horaires, itinéraire). Cette liste est fournie à titre indicatif, sans partenariat ni recommandation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         40 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Neuilly-sur-Marne · AD 361
+          TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+     11            État des risques (ERP) pré-rempli
+     DANS CETTE SECTION
+
+     Le formulaire réglementaire à remettre à l'acquéreur ou au locataire, pré-rempli à partir des
+     bases officielles : plans de prévention, sismicité, radon, sols pollués, trait de côte, bruit des
+     aérodromes.
+
+
+Articles L. 125-5 à L. 125-7 et R. 125-23 à R. 125-27 du Code de l'environnement · modèle fixé par l'arrêté du 27 septembre
+2022.
+
+
+     Formulaire pré-rempli à partir de Géorisques et du Géoportail de l'Urbanisme à la date du rapport.
+     Avant de le remettre à l'acquéreur ou au locataire, le vendeur ou le bailleur le vérifie, le complète
+     (sinistres indemnisés) et le signe ; il doit dater de moins de six mois à la signature de la promesse, du
+     bail ou de l'acte.
+
+
+
+
+11.1 Situation du bien
+Commune                                                  Neuilly-sur-Marne (93050)
+
+Département                                              Seine-Saint-Denis (93)
+
+Références cadastrales                                   Section AD, parcelle n° 361 · 93050000AD0361
+
+Surface cadastrale                                       15 079 m²
+
+
+
+11.2 Plans de prévention des risques
+  L'IMMEUBLE EST SITUÉ DANS LE PÉRIMÈTRE…                                         RÉPONSE                DÉTAIL
+
+  d'un plan de prévention des risques naturels (PPRN)                             Oui                    PM1 PPRi Marne 093 ass
+  prescrit, appliqué par anticipation ou approuvé
+
+  d'un plan de prévention des risques miniers (PPRM)                              Non                    Non recensé
+
+  d'un plan de prévention des risques technologiques                              Non                    Risques technologiques sur la commune
+  (PPRT)                                                                                                 : installations industrielles (icpe),
+                                                                                                         canalisations de matières dangereuses,
+                                                                                                         pollution des sols
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          41 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+11.3 Autres zonages réglementaires
+  L'IMMEUBLE EST SITUÉ…                                                           RÉPONSE                DÉTAIL
+
+  dans une commune de sismicité (zones 2 à 5 : règles de                          Non                    Zone 1 – très faible
+  construction parasismique)
+
+  dans une commune à potentiel radon de niveau 3                                  Non                    Catégorie 1 (potentiel faible)
+
+  dans un secteur d'information sur les sols (SIS)                                Non                    Aucun SIS recensé à proximité
+
+  dans une zone exposée au recul du trait de côte                                 Non                    Non concerné selon Géorisques
+
+  dans une zone de bruit d'un plan d'exposition au bruit                          À vérifier             Aucun PEB annexé au document
+  d'aérodrome (PEB)                                                                                      d'urbanisme ; vérifier auprès de la mairie
+
+  dans une zone de retrait-gonflement des argiles                                 Oui                    Existant – modéré
+  (information)
+
+
+
+
+11.4 Sinistres indemnisés et déclarations
+Arrêtés de catastrophe naturelle sur la commune : 16 (liste en section Risques). Le vendeur ou le bailleur
+déclare ci-dessous les sinistres ayant donné lieu à une indemnisation au titre des catastrophes naturelles ou
+technologiques pendant la période où il a été propriétaire.
+
+Sinistres indemnisés                                     [ ] Oui [ ] Non
+
+Vendeur ou bailleur                                      Nom : ____________________ Date : ___/___/______ Signature :
+
+Acquéreur ou locataire                                   Nom : ____________________ Date : ___/___/______ Signature :
+
+
+L'état des risques officiel peut aussi être édité sans frais sur Géorisques (errial.georisques.gouv.fr). Les informations
+ci-dessus sont établies à partir des bases nationales ; en cas de divergence, l'arrêté préfectoral relatif à l'information des
+acquéreurs et des locataires fait foi.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         42 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+    12             Avertissement et sources
+     DANS CETTE SECTION
+
+     La portée de ce rapport et la liste des sources publiques consultées.
+
+
+
+12.1 Nature du document
+Ce rapport est un document d'information établi automatiquement, à la date indiquée en page de garde, à
+partir des données publiques officielles alors disponibles. Il n'a aucune valeur contractuelle, réglementaire ou
+juridique.
+
+
+12.2 Ce que ce rapport n'est pas
+Il ne constitue ni un certificat d'urbanisme au sens de l'article L. 410-1 du Code de l'urbanisme, ni une
+autorisation d'urbanisme (permis de construire, permis d'aménager, déclaration préalable), ni un état des
+risques au sens de l'article L. 125-5 du Code de l'environnement, ni un bornage, ni une expertise, ni une
+évaluation immobilière, ni une consultation juridique. Il n'engage en rien l'administration.
+
+
+12.3 Permis de construire
+Ce rapport ne peut en aucun cas être joint, produit ou invoqué à l'appui d'une demande de permis de
+construire, de permis d'aménager ou de déclaration préalable, ni opposé à la mairie ou à un service de l'État. Il
+ne garantit pas l'obtention d'une autorisation : seule l'autorité compétente se prononce, au vu d'un projet
+précis et de l'ensemble des règles applicables à la date de sa décision.
+
+
+12.4 Limites des données
+Les données sont produites par des organismes publics dont l'éditeur n'est ni l'auteur ni le garant. Elles
+peuvent être incomplètes, imprécises ou ne pas refléter une modification, une révision, une mise en
+compatibilité, une annulation contentieuse, un sursis à statuer ou une procédure en cours. Le plan cadastral,
+document fiscal, ne fait pas foi des limites de propriété. Surfaces, distances, altitudes et pentes sont
+approchées. Les extraits et analyses du règlement sont une aide à la lecture : seul le texte intégral du
+document d'urbanisme approuvé, consultable en mairie, fait foi.
+
+
+12.5 Avant toute décision
+Avant toute acquisition, cession, financement, promesse de vente ou dépôt d'une demande, le lecteur doit
+obtenir un certificat d'urbanisme opérationnel auprès de la mairie, consulter le document d'urbanisme en
+vigueur et recueillir l'avis d'un professionnel habilité (notaire, architecte, géomètre-expert, avocat). Pour un
+achat, il est recommandé de stipuler une condition suspensive d'obtention d'un permis de construire purgé de
+tout recours.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          43 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+12.6 Responsabilité
+L'éditeur ne saurait être tenu responsable d'une décision prise sur le seul fondement de ce rapport, ni d'un
+refus d'autorisation, d'une erreur ou d'une omission des sources publiques, dans les limites prévues par les
+conditions générales de vente acceptées lors de la commande.
+
+
+12.7 Sources consultées
+  DONNÉE                                                    SOURCE
+
+  Cadastre                                                  DGFiP, plan cadastral informatisé, via API Carto (IGN)
+
+  Photographies et plans                                    IGN, Géoplateforme : orthophotographies, Plan IGN, parcellaire express
+
+  Urbanisme                                                 Géoportail de l'Urbanisme : zonage, prescriptions, informations, servitudes
+                                                            d'utilité publique
+
+  Littoral                                                  IGN, BD TOPO (limite terre-mer) ; communes littorales (Géoportail de
+                                                            l'Urbanisme)
+
+  Montagne                                                  Ministère de la Cohésion des territoires, communes de la loi Montagne
+
+  Risques                                                   Géorisques (ministère de la Transition écologique) : rapport de risques,
+                                                            arrêtés CatNat, sismicité, radon, ICPE, sites pollués
+
+  Environnement                                             Inventaire national du patrimoine naturel (PatriNat), via API Carto
+
+  Altitude, pente et exposition                             IGN, RGE ALTI
+
+  Ensoleillement                                            Calcul astronomique de la course du soleil ; masque du relief (IGN, RGE
+                                                            ALTI) et des bâtiments (IGN, BD TOPO)
+
+  Voirie et accès                                           IGN, BD TOPO (tronçons de route)
+
+  Permis de construire                                      Sitadel, service des données et études statistiques (SDES) du ministère
+                                                            chargé du logement
+
+  Photographies anciennes                                   IGN, BD ORTHO historique
+
+  Fibre et internet                                         Arcep, Ma connexion internet (éligibilité par adresse)
+
+  Géomètres                                                 Répertoire Sirene (INSEE), activité des géomètres
+
+  Propriétaires personnes morales                           DGFiP, fichiers des parcelles des personnes morales (diffusion Koumoul)
+
+  Diagnostics énergétiques                                  ADEME, base des DPE des logements existants
+
+  Procédures collectives                                    Bodacc, annonces commerciales (DILA)
+
+  Bâtiments                                                 IGN, BD TOPO
+
+  Réseau électrique                                         Agence ORE (gestionnaires de réseaux de distribution : Enedis, EDF Corse
+                                                            et entreprises locales) : réseau basse tension et postes de distribution
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          44 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            Neuilly-sur-Marne · AD 361
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+  DONNÉE                                                    SOURCE
+
+  Taxe d'aménagement                                        DGFiP, éléments de taxation votés par les collectivités ; valeurs forfaitaires
+                                                            fixées par arrêté
+
+  Rapport officiel de risques                               Géorisques, ministère chargé de l'environnement
+
+  Zone France Ruralités Revitalisation                      ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 ; article
+                                                            44 quindecies A du code général des impôts
+
+  Marché immobilier                                         Statistiques des demandes de valeurs foncières (DVF) par commune, DGFiP
+                                                            et Etalab
+
+  Date d'extraction                                         20/11/2026
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          45 / 46
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                    TerrenUrbanisme
+
+    Merci de votre confiance
+Ce rapport a été établi à partir des sources publiques officielles pour vous
+  aider à décider en connaissance de cause. Pour toute question, nous
+                        restons à votre disposition.
+
+
+
+
+   Vous êtes professionnel ? Travaillons ensemble
+      Agents immobiliers, notaires, architectes, géomètres, diagnostiqueurs,
+promoteurs, mairies : faisons équipe. Crédits professionnels sans abonnement, 5
+€ le rapport dès 50 crédits, votre logo sur les rapports, offre communale pour les
+                       mairies et partenariats sur mesure.
+
+               Écrivez-nous : contact@terrenurbanisme.com
+
+
+
+
+                        terrenurbanisme.com
+                         contact@terrenurbanisme.com
+

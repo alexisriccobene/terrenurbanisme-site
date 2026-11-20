@@ -1,0 +1,3029 @@
+                  TerrenUrbanisme
+                  Le terrain constructible, partout en France
+
+
+
+
+RAPPORT D'URBANISME
+
+
+
+Villedubert
+Section AD · Parcelle n° 66
+      Constructible sous conditions
+
+
+
+
+Référence cadastrale                                                        Surface cadastrale
+11422000AD0066                                                              13 575 m²
+
+Rapport établi le                                                           Référence du rapport
+20/11/2026                                                                  APERCU
+
+
+
+
+terrenurbanisme.com                                                                      contact@terrenurbanisme.com
+
+Document d'information sans valeur contractuelle ni réglementaire. Il ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme
+et ne peut en aucun cas être joint à une demande de permis de construire ou de déclaration préalable. Seuls les actes de l'administration font foi.
+                                                                                                                           Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                                                 Sommaire
+
+
+
+
+Sommaire
+Le rapport suit l'ordre d'une étude de terrain : où se trouve la parcelle, ce que dit la règle, ce qui pèse sur le
+projet, puis les démarches.
+
+              Synthèse
+   S                                                                                                                                     p. 3
+              Le verdict, les indicateurs clés et les points d'attention en une page.
+
+              Identification de la parcelle
+   01                                                                                                                                   p. 5
+              Localisation, surface, références cadastrales et voisinage du terrain.
+
+              Règles d'urbanisme applicables
+  02                                                                                                                                    p. 8
+              Document d'urbanisme, zone du terrain, prescriptions et servitudes.
+
+              Ce que vous pouvez construire
+  03                                                                                                                                    p. 11
+              Surface constructible, hauteur, reculs, aspect et usages autorisés.
+
+              Loi Littoral et loi Montagne
+  04                                                                                                                                   p. 20
+              Les lois qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+              Risques naturels et technologiques
+  05                                                                                                                                   p. 21
+              Inondation, feu de forêt, argiles, catastrophes naturelles et sites pollués.
+
+              Le terrain : accès, relief et réseaux
+  06                                                                                                                                   p. 24
+              Accès, pente, ensoleillement, eaux usées, électricité, eau et fibre.
+
+              Conditions de vente du terrain
+  07                                                                                                                                   p. 31
+              Terrain agricole ou naturel : SAFER, fermier en place et repère officiel de prix.
+
+              Environnement et marché immobilier
+  08                                                                                                                                   p. 33
+              Espaces naturels, espèces protégées et ventes immobilières alentour.
+
+              Historique du site
+  09                                                                                                                                   p. 36
+              Le terrain vu du ciel au fil des années et les permis accordés autour.
+
+              Opportunités autour du terrain
+   10                                                                                                                                  p. 38
+              Grands terrains peu bâtis et logements énergivores à proximité.
+
+              Votre projet, étape par étape
+   11                                                                                                                                  p. 39
+              De l'achat aux impôts : démarches, délais, coûts, contacts et taxe.
+
+              État des risques (ERP) pré-rempli
+   12                                                                                                                                  p. 43
+              Le formulaire réglementaire à remettre à l'acquéreur, pré-rempli.
+
+              Avertissement et sources
+   13                                                                                                                                  p. 45
+              La portée de ce rapport et les sources publiques consultées.
+
+              Annexe : règlement de la zone
+   A                                                                                                                                   p. 48
+              Les pages officielles du règlement de la zone, telles qu'approuvées.
+
+
+
+
+Astuce : cliquez sur un chapitre pour y accéder directement.
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                   2 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                                                         Synthèse
+
+
+
+
+Synthèse
+     Document d'information. Ce rapport ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme,
+     n'engage pas l'administration et ne peut pas servir de pièce à une demande de permis de construire.
+     L'appréciation ci-dessous est indicative : seule la mairie se prononce sur la constructibilité d'un terrain,
+     au vu d'un projet précis.
+
+
+
+
+       CONSTRUCTIBLE SOUS CONDITIONS
+
+       Constructible uniquement sur la partie en zone UA
+       Le terrain est à cheval sur 2 zones du plan local d'urbanisme de Villedubert. Environ 8 050
+       m² (59 % du terrain) sont en zone A (agricole) : non constructible, sauf exceptions
+       encadrées. Environ 5 550 m² (41 % du terrain) sont en zone UA (urbaine) : constructible.
+       Une construction nouvelle ne peut donc s'implanter que sur la partie en zone UA, dans le
+       respect de son règlement. Le terrain est situé dans un site classé ou inscrit (Les paysages
+       du canal du Midi) : l'architecte des Bâtiments de France donne son avis sur les travaux et
+       peut imposer des prescriptions (matériaux, couleurs, volumes).
+
+
+
+
+      Zones du PLU                                           Document d'urbanisme                                  Loi Littoral
+
+   A 59 % · UA 41 %                                       PLU                                                    Ne s'applique pas
+
+
+
+
+      Loi Montagne                                           Risques à la parcelle
+
+   Ne s'applique pas                                      Séisme ·
+                                                          Retrait-gonflement des
+
+
+
+
+Points d'attention
+    Zone A (agricole) : environ 8 050 m², soit 59 % du terrain, non constructible.
+    Zone UA (urbaine) : environ 5 550 m², soit 41 % du terrain, constructible.
+    Risque de feu de forêt : obligation légale de débroussaillement, autorisation de défrichement possible
+    pour un terrain boisé.
+    Site classé ou inscrit (Les paysages du canal du Midi) : avis de l'architecte des Bâtiments de France,
+    autorisation spéciale en site classé.
+    Terrain en pente marquée (environ 26 %) : surcoût probable de terrassement.
+    Logement : le règlement de la zone A n'admet pas de logement neuf, sauf exceptions prévues par la
+    zone (logement de gardiennage, par exemple) : voir le chapitre « Ce que vous pouvez construire ».
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          3 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                                                  Synthèse
+
+
+
+
+    Retrait-gonflement des argiles (exposition forte) : en cas de vente d'un terrain non bâti constructible,
+    le vendeur doit fournir une étude géotechnique préalable (loi ELAN, article L. 132-5 du Code de la
+    construction et de l'habitation) ; une étude géotechnique de conception est exigée avant de
+    construire.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                   4 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+    01             Identification de la parcelle
+     DANS CETTE SECTION
+
+     Où se trouve le terrain, sa surface, ses références cadastrales, son propriétaire lorsqu'il s'agit
+     d'une société ou d'une collectivité, et la performance énergétique du bâti existant.
+
+
+Données du cadastre (DGFiP) et de l'IGN.
+
+
+     Plan de situation
+
+
+
+
+                                                                                                                            1 km
+
+
+
+Plan IGN · © IGN
+
+
+
+     Vue aérienne et plan cadastral
+
+
+
+
+                                                                                                                              100 m
+
+
+
+Photographie aérienne et plan cadastral · © IGN
+
+
+Commune                                                  Villedubert (11422)
+
+Département                                              Aude (11)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           5 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+Section et numéro                                        Section AD, parcelle n° 66, feuille 1
+
+Identifiant cadastral                                    11422000AD0066
+
+Surface cadastrale                                       13 575 m²
+
+Surface calculée (SIG)                                   13 601 m² · périmètre 483 m
+
+Coordonnées du centre                                    43.23085 N, 2.41832 E (WGS 84)
+
+Altitude                                                 de 97 à 114 m
+
+Pente estimée                                            26 % (terrain en pente marquée)
+
+Parcelles voisines                                       AD 29, AD 32, AE 105, AE 106, AE 107, AE 108, AE 115, AD 30, AD 33,
+                                                         AD 34, AD 65
+
+
+Le plan cadastral est un document fiscal : il ne fait pas foi des limites de propriété. Seul un bornage réalisé par un
+géomètre-expert fixe les limites de manière certaine.
+
+
+1.1 Propriétaire et voisinage
+La parcelle ne figure pas au fichier des personnes morales : son propriétaire est vraisemblablement un
+particulier. Le nom des propriétaires particuliers n'est pas public ; il peut être demandé au service des impôts
+fonciers (relevé de propriété) ou obtenu par l'intermédiaire d'un notaire.
+
+Parcelles voisines détenues par des sociétés ou des collectivités
+  PARCELLE              PROPRIÉTAIRE                                                                     SURFACE            SIREN
+
+  AD 65                 COMMUNE DE VILLEDUBERT (COM)                                                     120 m²             211104229
+
+
+
+Principaux propriétaires personnes morales dans un rayon de 280 m
+  PROPRIÉTAIRE                                                              PARCELLES             SURFACE TOTALE            SIREN
+
+  COMMUNE DE VILLEDUBERT (COM)                                              11                    20 408 m²                 211104229
+
+  LOISIRS II (SCI)                                                          2                     10 014 m²                 417582194
+
+  DEPARTEMENT DE L AUDE (DEPT)                                              3                     165 m²                    221100019
+
+  S C I PAUCLO (SCI)                                                        1                     132 m²                    539162263
+
+
+
+Source : fichiers des parcelles des personnes morales (DGFiP) : sociétés, SCI, collectivités, établissements publics et associations.
+Les propriétaires personnes physiques n'y figurent pas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            6 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+1.2 La commune de Villedubert
+Code postal                                              11800
+
+Département                                              Aude (11)
+
+Intercommunalité                                         CA Carcassonne Agglo
+
+Population                                               349 habitants
+
+Superficie                                               3,22 km²
+
+Densité                                                  108 habitants par km²
+
+Commune littorale                                        Non
+
+Commune de montagne                                      Non
+
+Document d'urbanisme                                     Plan local d'urbanisme (PLU)
+
+Risques sur la commune                                   14 arrêtés de catastrophe naturelle · détail en section Risques et en
+                                                         annexe
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           7 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+    02             Règles d'urbanisme applicables
+     DANS CETTE SECTION
+
+     Le document d'urbanisme de la commune, la zone dans laquelle se trouve le terrain, et les
+     prescriptions et servitudes qui s'y ajoutent.
+
+
+Géoportail de l'Urbanisme : zonage, prescriptions et servitudes.
+
+
+
+2.1 Document d'urbanisme en vigueur
+Type de document                                         Plan local d'urbanisme (PLU)
+
+Date d'approbation                                       Non renseigné
+
+Statut                                                   Publié au Géoportail de l'Urbanisme
+
+Règlement officiel                                       Ouvrir la page officielle
+
+
+
+     Plan de zonage du PLU
+
+
+
+                                                                                             N
+
+
+
+
+                                                                                                                    UA
+                                                        A
+
+
+
+
+                                                                                                                            100 m
+
+
+
+Zonage : Géoportail de l'Urbanisme · fond : © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       8 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.2 Zonage de la parcelle
+  ZONE                  DÉSIGNATION                                                         PART               CONSTRUCTIBILITÉ
+
+  A                     Zone agricole                                                       59 %               Non constructible
+
+  UA                    Zone urbaine de centre bourg                                        41 %               Constructible
+
+
+
+Zone A · Agricole
+Zone agricole : secteur protégé en raison du potentiel agronomique, biologique ou économique des terres.
+Seules y sont admises les constructions et installations nécessaires à l'exploitation agricole et aux services
+publics, ainsi que l'extension limitée des habitations existantes.
+
+Zone UA · Urbaine
+Zone urbaine : secteur déjà urbanisé où les équipements publics existants ou en cours de réalisation
+permettent d'accueillir des constructions. Les constructions y sont admises dans le respect du règlement de la
+zone (destinations, implantation, hauteur, emprise, aspect).
+
+
+2.3 Prescriptions applicables à la parcelle
+Aucune prescription graphique du PLU (emplacement réservé, espace boisé classé, élément de paysage
+protégé, etc.) n'est recensée sur la parcelle.
+
+
+2.4 Informations complémentaires du PLU
+  INFORMATION                                                                                        TYPE
+
+  Secteurs dans lesquels s'applique le droit de preemption urbain                                    Information du PLU (type 04)
+  renforce (DPUr)
+
+
+
+
+2.5 Servitudes d'utilité publique
+  CODE               SERVITUDE                                                                     DÉTAIL
+
+  AC2                Site inscrit ou classé                                                        AC2 SC Paysages canal du Midi ass
+
+
+
+
+2.6 Patrimoine : l'architecte des Bâtiments de France
+      En clair : le terrain est dans un site classé ou inscrit. L'architecte des Bâtiments de France donne son
+      avis sur les travaux ; en site classé, une autorisation spéciale est nécessaire.
+
+
+
+  PROTECTION                                NOM                                                CE QUE CELA IMPLIQUE
+
+  Site classé ou inscrit                    Les paysages du canal du Midi                      Site inscrit : avis de l'architecte. Site classé :
+                                                                                               autorisation spéciale du préfet ou du ministre
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           9 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+Conseils : consulter l'architecte des Bâtiments de France (unité départementale de l'architecture et du patrimoine,
+joignable par la mairie) avant de dessiner le projet ; prévoir un délai d'instruction majoré d'un mois ; soigner
+l'insertion (matériaux, teintes, toitures, clôtures) dès l'esquisse.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      10 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    03             Ce que vous pouvez construire
+      DANS CETTE SECTION
+
+      La lecture du règlement de votre zone : surface constructible estimée, hauteur, reculs, aspect,
+      usages autorisés ou interdits, avec les extraits du texte officiel.
+
+
+Lecture du règlement écrit des zones A et UA, sur lesquelles le terrain est à cheval.
+
+
+
+3.1 Un terrain à cheval sur 2 zones
+  ZONE                  NATURE                                           SURFACE                         PART              CONSTRUCTIBILITÉ
+
+  A                     Agricole                                         environ 8 050 m²                59 %              Non constructible
+
+  UA                    Urbaine                                          environ 5 550 m²                41 %              Constructible
+
+
+
+      Les règles ne sont pas les mêmes d'une zone à l'autre : chaque titre ci-dessous indique la zone à
+      laquelle la règle s'applique. Une maison ou un autre bâtiment neuf ne peut être construit que sur la
+      partie en zone UA (environ 5 550 m²) ; sur la partie en zone A, seules les constructions listées pour
+      cette zone sont admises.
+
+
+
+
+3.2 Zone A · Potentiel constructible estimé
+      Le règlement de la zone A n'admet pas de construction nouvelle à usage de logement. Seules restent
+      possibles les constructions expressément admises par la zone et les évolutions encadrées des
+      constructions existantes : extension limitée à 30 % de l'emprise existante, annexes de 50 m² au plus.
+
+
+
+Constructions admises dans la zone :
+
+      Constructions et installations nécessaires à l'exploitation agricole ou au stockage et à l'entretien de matériel
+      agricole
+      Aménagements et installations rendus nécessaires pour assurer le service public du Canal du Midi
+      Constructions à usage d'habitation nécessaires à l'exploitation agricole, implantées à proximité des bâtiments
+      d'exploitation, dans un rayon de 50 mètres (sauf contraintes techniques liées au terrain ou à la pente)
+      Constructions et installations nécessaires à des équipements collectifs, à condition de ne pas être incompatibles
+      avec l'activité agricole, pastorale ou forestière du terrain et de ne pas porter atteinte à la sauvegarde des
+      espaces naturels et des paysages
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            11 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.3 Zone A · Caractère de la zone
+La zone A est la zone agricole de la commune de Villedubert. Y sont interdites toutes les constructions et
+installations autres que celles expressément listées à l'article A-1.2 : exploitation agricole, logement
+nécessaire à l'exploitation, équipements collectifs, service public du Canal du Midi, extension mesurée et
+annexes des habitations existantes. Toutes les constructions doivent respecter les Plans de Prévention
+des Risques annexés au PLU (risque inondation, submersion de l'Aude et de l'Orbiel, retrait-gonflement
+des argiles, feux de forêt). Aucun secteur n'est applicable ici : ce sont les règles générales de la zone A
+qui s'appliquent.
+
+
+3.4 Zone A · Règles de construction
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Surface minimale ou                          Non réglementé (aucune surface minimale de terrain n'est                         art. A-2 / A-3
+  caractéristiques du terrain                  fixée).
+
+  Accès et voirie                              Terrain desservi par des voies publiques ou privées. Les accès                   art. A-3.1 ; art.
+                                               et voies doivent répondre aux normes minimales de défense                        7 des
+                                               contre l'incendie, de protection civile et de circulation des                    dispositions
+                                               véhicules de service public (prescriptions du SDIS en annexe 3                   générales ;
+                                               : largeur 3 m, pente inférieure à 15 %, rayon intérieur 11 m). Le                annexe 3
+                                               nombre d'accès sur la voie publique peut être limité pour la
+                                               sécurité. Règles d'accessibilité pour les personnes à mobilité
+                                               réduite à respecter. Pistes cyclables et cheminements
+                                               piétonniers végétalisés ou en matériaux perméables. Deux
+                                               accès véhicule (passages bateau) au maximum par unité
+                                               foncière (dispositions générales).
+
+  Réseaux et assainissement                    Eau potable : raccordement obligatoire au réseau public pour                     art. A-3.2
+                                               toute construction nouvelle nécessitant de l'eau. Défense
+                                               incendie selon le règlement départemental (arrêté préfectoral
+                                               du 4 juillet 2017). Eaux usées : raccordement au réseau public
+                                               d'assainissement ; en l'absence de réseau ou en cas
+                                               d'insuffisance, assainissement individuel autorisé s'il est
+                                               conforme à la législation, avec étude géologique possible, et
+                                               dispositif conçu pour être raccordable ultérieurement. Eaux
+                                               pluviales : écoulement garanti dans le réseau collecteur, sinon
+                                               aménagements sur le terrain ; gestion à la parcelle encouragée
+                                               ; rejet dans le Canal du Midi interdit. Électricité et téléphone en
+                                               souterrain sauf impossibilité technique ; raccordement haut ou
+                                               très haut débit obligatoire pour les nouvelles constructions
+                                               lorsque le réseau existe.
+
+  Implantation par rapport                     Au moins 15 m de l'axe des routes départementales et au moins                    art. A-2.1.1
+  aux voies                                    10 m des autres voies et emprises publiques. Implantations
+                                               différentes possibles pour les aménagements et extensions de
+                                               constructions existantes (sans diminuer le retrait existant ni
+                                               nuire à la sécurité ou aux travaux publics) et pour les ouvrages
+                                               techniques d'intérêt public. Non applicable aux équipements
+                                               d'intérêt collectif et services publics.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          12 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Implantation par rapport                     Distance au moins égale à la moitié de la hauteur, sans être                     art. A-2.1.2
+  aux limites séparatives                      inférieure à 3 m. Les annexes peuvent s'implanter sur au moins
+                                               une limite séparative ou à une distance au moins égale à la
+                                               moitié de leur hauteur, minimum 3 m. Non applicable aux
+                                               équipements d'intérêt collectif et services publics.
+
+  Implantation des                             Non réglementé.                                                                  art. A-2.1.3
+  constructions entre elles
+
+  Emprise au sol                               Non réglementé pour les constructions destinées à                                art. A-2.1.6
+                                               l'exploitation agricole et forestière. Pour les autres
+                                               constructions et installations : maximum 30 % de la superficie
+                                               de l'unité foncière (non applicable aux équipements d'intérêt
+                                               collectif et services publics).
+
+  Hauteur maximale                             Hauteur mesurée entre le sol naturel et l'égout du toit.                         art. A-2.1.5
+                                               Constructions agricoles : 8 m maximum. Constructions à usage
+                                               d'habitation : 6 m maximum (R+1). Non applicable aux
+                                               équipements d'intérêt collectif et services publics.
+
+  Aspect extérieur et toitures                 Bâtiments d'exploitation agricole non soumis aux dispositions                    art. A-2.2, 2.2.2
+                                               de l'article A-2.2, mais ils doivent s'inspirer de l'architecture                et 2.2.5
+                                               rurale de la région. Pour les autres constructions : toitures en
+                                               tuiles de forme courbe, pente comprise entre 30 et 40 cm par
+                                               mètre ; annexes : couverture de type rouleau d'asphalte
+                                               possible, pente maximale 40 cm par mètre ; toitures
+                                               contemporaines (toitures terrasses, végétalisées) admises si
+                                               bien intégrées ; panneaux solaires intégrés au plan de toiture.
+                                               Retrait de ces règles pour services publics, vérandas, serres et
+                                               couvertures de piscines. Recours aux énergies renouvelables
+                                               autorisé sous réserve d'intégration paysagère.
+
+  Matériaux et couleurs                        Façades à traitement harmonieux ; emploi brut en parement de                     art. A-2.2.1
+                                               matériaux destinés à être enduits (brique creuse, parpaing)
+                                               interdit ; couleurs vives, brillantes ou réfléchissantes interdites
+                                               ; fausses pierres peintes, dessinées ou en placage interdites ;
+                                               murs en général en enduit, brique apparente ou bois ; volets et
+                                               menuiseries en harmonie avec la construction et les
+                                               constructions voisines.
+
+  Clôtures                                     Sur voies et sur limites séparatives : hauteur maximale 1,60 m,                  art. A-2.2.3 ;
+                                               constituées par une haie vive doublée ou non d'un grillage.                      art. 9.4 des
+                                               Toute clôture est soumise à déclaration préalable.                               dispositions
+                                                                                                                                générales
+
+  Stationnement                                Stationnement assuré en dehors des voies publiques, selon les                    art. A-2.4 ; art.
+                                               besoins déterminés en fonction du type de construction et de                     6 des
+                                               sa fréquentation. Places à l'air libre en matériaux perméables.                  dispositions
+                                               Dimensions minimales des places fixées à l'article 6 des                         générales
+                                               dispositions générales (5 m x 2,50 m en perpendiculaire).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          13 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Espaces verts et plantations                 Plantations existantes maintenues ou remplacées par des                          art. A-2.3
+                                               plantations au moins équivalentes ; espaces non bâtis plantés
+                                               d'arbres d'essence locale (liste en annexe 2). Prévention des
+                                               feux de forêts : respect des arrêtés préfectoraux de
+                                               débroussaillement et d'emploi du feu, haies en essences peu
+                                               inflammables. Pas de pourcentage d'espaces verts imposé.
+
+  Densité ou coefficient                       Non précisé dans le règlement de la zone (pas de coefficient                     art. A-2
+                                               d'occupation des sols).
+
+
+
+
+3.5 Zone A · Usages autorisés
+    Constructions et installations nécessaires à l'exploitation agricole ou au stockage et à l'entretien de
+    matériel agricole
+    Aménagements et installations rendus nécessaires pour assurer le service public du Canal du Midi
+    Constructions à usage d'habitation nécessaires à l'exploitation agricole, implantées à proximité des
+    bâtiments d'exploitation, dans un rayon de 50 mètres (sauf contraintes techniques liées au terrain ou à la
+    pente)
+    Constructions et installations nécessaires à des équipements collectifs, à condition de ne pas être
+    incompatibles avec l'activité agricole, pastorale ou forestière du terrain et de ne pas porter atteinte à la
+    sauvegarde des espaces naturels et des paysages
+    Aménagement et extension des constructions existantes à usage d'habitation, dans la limite de 30 %
+    d'augmentation de la surface de plancher à la date d'approbation du PLU
+    Annexes des habitations existantes (garage, piscine, abris de jardin), dans la limite d'une augmentation
+    cumulée de 50 m² d'emprise à la date d'approbation du PLU, dans un rayon de 30 m de la construction
+    principale
+    Ouvrages techniques nécessaires aux réseaux et aux voies, même s'ils ne respectent pas les règles de la
+    zone (dispositions générales, art. 5), avec justification technique du lieu d'implantation
+
+
+3.6 Zone A · Usages interdits ou soumis à conditions
+    Interdit : toutes les constructions et installations autres que celles mentionnées à l'article A-1.2 (donc pas
+    de logement neuf non lié à l'exploitation agricole)
+    Interdits : terrains de camping et de caravaning, parcs résidentiels de loisirs, habitations légères de loisirs,
+    parcs d'attraction, terrains de sports motorisés, dépôts de véhicules, garages collectifs de caravanes,
+    carrières, décharges, affouillements et exhaussements non liés à une opération autorisée
+    Dans les continuités écologiques repérées au document graphique : interdits tous travaux, aménagements,
+    occupations et utilisations du sol susceptibles de compromettre leur existence et leur qualité
+    environnementale, ainsi que le défrichement des bois, haies et ripisylves
+    Extension et annexes des habitations : à condition de ne porter atteinte ni à la préservation des sols
+    agricoles et forestiers, ni à la sauvegarde des sites, milieux naturels et paysages
+    Toutes les constructions et installations doivent respecter les prescriptions des Plans de Prévention des
+    Risques annexés au PLU
+    Éléments de paysage protégés (art. L.151-19 et L.151-23) : travaux admis à condition de ne pas porter
+    atteinte à l'intégrité de l'élément protégé
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        14 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    Évacuation des eaux pluviales dans le Canal du Midi formellement interdite
+
+
+3.7 Zone A · Points de vigilance pour votre projet
+    Vérifier que le projet relève de l'une des catégories admises à l'article A-1.2 : toute autre construction, y
+    compris un logement neuf non agricole, est interdite
+    Pour un logement de fonction agricole, justifier sa nécessité pour l'exploitation et son implantation dans un
+    rayon de 50 m des bâtiments d'exploitation
+    Extension d'une habitation existante : plafonnée à 30 % de la surface de plancher existante à la date
+    d'approbation du PLU ; annexes limitées à 50 m² d'emprise cumulée dans un rayon de 30 m
+    Consulter les Plans de Prévention des Risques annexés (inondation du bassin du Trapel, submersion de
+    l'Aude et de l'Orbiel, argiles, feux de forêt), qui peuvent être plus restrictifs
+    Contrôler la présence éventuelle de continuités écologiques, d'éléments de paysage protégés ou
+    d'espaces proches du Canal du Midi (recul de 15 m depuis la limite d'emprise du canal ; 7 m des cours d'eau
+    et fossés depuis le haut des berges)
+    Recul de 15 m de l'axe des routes départementales et de 10 m des autres voies
+    Emprise au sol limitée à 30 % pour les constructions non agricoles
+    Hauteur : 6 m (R+1) pour l'habitation, 8 m pour les bâtiments agricoles
+    Vérifier la possibilité de raccordement aux réseaux (eau, assainissement collectif ou non collectif) et la
+    défense incendie
+    Risque feux de forêt : respecter l'obligation légale de débroussaillement
+
+
+3.8 Zone A · Extraits du règlement
+
+     art. A-1.1 · page 41
+     « Toutes les constructions et installations autres que celles mentionnées à l’article A-1.2 »
+
+
+     art. A-1.2 · page 41
+     « l’aménagement et l’extension des constructions existantes à usage d’habitation à condition qu’elle
+     soit mesurée dans la limite d'une augmentation de 30% de la surface de plancher à la date
+     d’approbation du PLU »
+
+
+     art. A-1.2 · page 41
+     « les annexes des constructions d’habitation existantes (garage, piscine et abris de jardin) dans la
+     limite d'une augmentation cumulée de 50 m² d’emprise à la date d’approbation du PLU »
+
+
+     art. A-2.1.1 · page 42
+     « Les constructions et installations doivent être implantées à une distance de l’axe des routes
+     départementales au moins égale à 15 m. »
+
+
+     art. A-2.1.5 · page 42
+     « Les constructions à usage agricoles ne doivent pas dépasser la hauteur maximale de 8 mètres. »
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       15 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+     art. A-2.1.6 · page 43
+     « Pour les autres constructions et installations, l’emprise au sol ne doit pas excéder 30 % de la
+     superficie de l’unité foncière. »
+
+
+
+3.9 Zone A · Démarches probables
+    Permis de construire (ou déclaration préalable selon la surface créée) pour les constructions, extensions
+    et annexes
+    Déclaration préalable pour toute clôture (art. 9.4 des dispositions générales)
+    Permis de démolir pour toute démolition (art. 9.5)
+    Déclaration préalable ou permis de démolir pour tout travail modifiant un élément de paysage protégé
+    Étude géologique et contrôle du dispositif d'assainissement individuel auprès du service compétent
+    (SPANC) si absence de réseau collectif
+    Consultation des services : SDIS pour accès et défense incendie, gestionnaire des réseaux ; respect des
+    prescriptions des Plans de Prévention des Risques
+    Pour un logement ou bâtiment agricole : justification de la qualité d'exploitant agricole et de la nécessité du
+    projet
+
+
+3.10 Zone UA (urbaine) : environ 5 550 m², 41 % du terrain
+     Sur cette partie du terrain, une construction est possible dans le respect des règles ci-dessous.
+
+
+
+Zone UA · Caractère de la zone
+La zone UA correspond à la zone urbaine de centre bourg de Villedubert. Elle admet principalement l'habitat,
+les activités artisanales, commerciales et de services compatibles avec le voisinage, ainsi que les
+équipements d'intérêt collectif. Les destinations agricole et forestière, industrielle et d'entrepôt y sont
+interdites. Elle est soumise aux Plans de Prévention des Risques (inondation, retrait-gonflement des argiles,
+feux de forêt) annexés au PLU.
+
+Zone UA · Règles de construction
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Accès et voirie                              Terrain desservi par une voie publique ou privée. Accès et voies                 art. UA-3.1 ;
+                                               conformes aux normes de défense contre l'incendie et de                          dispositions
+                                               protection civile (prescriptions du SDIS en annexe 3 : largeur 3 m,              générales art. 7
+                                               pente inférieure à 15 %, etc.). Nombre d'accès pouvant être limité
+                                               pour la sécurité. Voies en impasse avec dispositif de
+                                               retournement. Opérations de 5 à 10 lots ou logements : au moins
+                                               un trottoir de 1,50 m minimum ; plus de 10 lots : trottoirs des deux
+                                               côtés de 1,50 m minimum. Pistes cyclables : 1,50 m (sens unique)
+                                               ou 3 m (double sens) ; chemins piétonniers : 1,50 m. Deux accès
+                                               véhicule maximum par unité foncière (dispositions générales, art.
+                                               7).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       16 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Réseaux et assainissement                    Raccordement obligatoire au réseau public d'eau potable.                         art. UA-3.2
+                                               Raccordement au réseau public d'assainissement ; en l'absence
+                                               de réseau ou en cas d'insuffisance, assainissement individuel
+                                               conforme à la législation, pouvant être mis hors circuit et
+                                               raccordé ultérieurement (étude géologique pouvant être
+                                               demandée). Eaux pluviales : écoulement garanti, gestion à la
+                                               parcelle possible, débourbage-déshuilage pour les parkings de
+                                               plus de 10 places. Réseaux d'électricité et de téléphone enterrés
+                                               sauf impossibilité technique. Raccordement obligatoire au haut
+                                               ou très haut débit lorsqu'il existe. Local à ordures ménagères
+                                               dans les opérations d'ensemble et les logements collectifs.
+                                               Défense incendie selon le RDDECI.
+
+  Implantation par rapport aux                 Soit à l'alignement des voies et emprises publiques, soit à 5                    art. UA-2.1.1
+  voies                                        mètres de celles-ci. Implantation différente possible pour
+                                               l'extension ou l'aménagement d'une construction existante (sans
+                                               réduire le recul existant) et pour combler un espace interstitiel en
+                                               second rideau. Piscines et annexes d'habitation : au moins 3 m de
+                                               l'alignement (distance calculée à partir du bassin). Ne s'applique
+                                               pas aux équipements d'intérêt collectif et services publics.
+
+  Implantation par rapport aux                 Dans une bande de 20 m depuis l'alignement : implantation sur au                 art. UA-2.1.2 et
+  limites séparatives                          moins une des deux limites séparatives aboutissant aux voies ; si                UA-2.1.4
+                                               une seule limite est utilisée, distance à l'autre limite au moins
+                                               égale à la moitié de la hauteur (sol naturel à l'égout du toit ou
+                                               acrotère), minimum 3 m. Au-delà de 20 m : retrait au moins égal à
+                                               la moitié de la hauteur, minimum 3 m. Annexes : sur au moins une
+                                               limite séparative ou à une distance au moins égale à la moitié de
+                                               leur hauteur, minimum 3 m. Marge de recul de 7 m par rapport
+                                               aux cours d'eau et fossés depuis le haut des berges (art.
+                                               UA-2.1.4). Ne s'applique pas aux équipements d'intérêt collectif.
+
+  Implantation des                             Non réglementé.                                                                  art. UA-2.1.3
+  constructions entre elles
+
+  Emprise au sol                               Non réglementé.                                                                  art. UA-2.1.6
+
+  Hauteur maximale                             Hauteur mesurée entre le sol naturel et l'égout du toit. Les                     art. UA-2.1.5
+                                               constructions nouvelles ne doivent pas dépasser 6 mètres, soit
+                                               R+1. Ne s'applique pas aux équipements d'intérêt collectif et
+                                               services publics.
+
+  Aspect extérieur et toitures                 Aspect compatible avec le caractère des lieux avoisinants ; unité                art. UA-2.2 et
+                                               de style, de forme, de volume. Toitures en tuiles de forme courbe                UA-2.2.2
+                                               avec pente comprise entre 30 et 40 cm par mètre. Annexes :
+                                               couverture de type rouleau d'asphalte possible, pente maximale
+                                               40 cm par mètre. Toitures contemporaines (terrasses végétales,
+                                               toitures terrasses) possibles si bien intégrées. Panneaux solaires
+                                               intégrés dans le plan de toiture. Ces dispositions ne s'appliquent
+                                               pas aux équipements publics ou d'intérêt collectif, vérandas,
+                                               serres et couvertures de piscines.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           17 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Matériaux et couleurs                        Traitement architectural harmonieux des façades. Interdits :                     art. UA-2.2.1
+                                               emploi brut de matériaux destinés à être enduits (brique creuse,
+                                               parpaing), couleurs vives, brillantes ou réfléchissantes,
+                                               appareillages de fausses pierres peintes, dessinées ou en
+                                               placage. Matériaux de façade en général : enduit, brique
+                                               apparente ou bois (si intégré). Volets et menuiseries dans un
+                                               nuancier en harmonie avec la construction et les constructions
+                                               voisines.
+
+  Clôtures                                     Sur voies comme sur limites séparatives : hauteur maximale 1,60                  art. UA-2.2.3 ;
+                                               m. Soit mur plein de mêmes matériaux et teintes que le bâtiment                  dispositions
+                                               principal, enduit sur les deux faces ; soit haie vive doublée ou non             générales art.
+                                               d'un grillage, avec ou sans soubassement ; soit mur bahut de 0,40                9.4
+                                               à 0,70 m surmonté d'une grille ou d'un grillage, enduit sur les
+                                               deux faces. Clôture soumise à déclaration préalable (dispositions
+                                               générales 9.4).
+
+  Stationnement                                Stationnement assuré en dehors des voies publiques. Habitation :                 art. UA-2.4 ;
+                                               une place par tranche de 50 m² de surface de plancher.                           dispositions
+                                               Dérogation possible en cas d'impossibilité technique, uniquement                 générales art. 6
+                                               pour un changement de destination ou la division d'une
+                                               construction d'habitation en plusieurs logements. Dimensions
+                                               minimales des places : 5 m x 2,50 m (perpendiculaire), 3,30 m de
+                                               large pour les places handicapés ; places à l'air libre en matériaux
+                                               perméables (dispositions générales art. 6). Ne s'applique pas aux
+                                               équipements d'intérêt collectif.
+
+  Espaces verts et plantations                 Sur chaque unité foncière, 20 % au moins de la superficie totale                 art. UA-2.3.1 et
+                                               en espace vert (jardin planté d'arbres d'essence locale et                       UA-2.3.2
+                                               gazonné). Aires de stationnement plantées d'un arbre d'essence
+                                               locale au moins pour 4 emplacements. Haies d'essences peu
+                                               inflammables ; liste des essences locales en annexe 2.
+
+
+
+Zone UA · Usages autorisés
+    Habitation (constructions neuves, extensions, annexes et piscines)
+    Activités artisanales, commerciales et de services, à condition de ne pas présenter de dangers ou
+    d'inconvénients pour l'environnement, le voisinage, la santé, la sécurité et la salubrité publique, ou que des
+    dispositions soient prises pour en réduire les effets
+    Installations Classées pour la Protection de l'Environnement (ICPE) soumises à déclaration, aux mêmes
+    conditions
+    Constructions et installations destinées aux équipements d'intérêt collectif et de services publics
+    (dispensées de plusieurs règles d'implantation, de hauteur et de stationnement)
+    Ouvrages techniques nécessaires aux réseaux et aux voies (dispositions générales, art. 5), avec
+    justification du lieu d'implantation
+    Toitures et dispositifs contemporains ou bioclimatiques (toitures végétalisées, toitures terrasses,
+    panneaux solaires intégrés) sous réserve d'une bonne intégration
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        18 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+Zone UA · Usages interdits ou soumis à conditions
+    Interdits : constructions et installations destinées à l'exploitation agricole et forestière, à l'industrie et aux
+    entrepôts (art. UA-1.1)
+    Interdits : terrains de camping et de caravaning, parcs résidentiels de loisirs, habitations légères de loisirs,
+    parcs d'attraction, terrains de sports motorisés, dépôts de véhicules, garages collectifs de caravanes,
+    carrières et décharges (art. UA-1.3)
+    Interdits : affouillements et exhaussements du sol non liés à une opération autorisée (art. UA-1.3)
+    Interdites : ICPE soumises à autorisation (art. UA-1.4)
+    Conditionné : toutes les constructions et installations doivent respecter les prescriptions des Plans de
+    Prévention des Risques annexés au PLU (art. UA-1.2)
+    Conditionné : travaux sur les éléments de paysage protégés au titre de l'article L.151-19 du Code de
+    l'urbanisme, à conduire sans dénaturation (art. UA-2.2.4 et dispositions générales 9.3)
+    Conditionné : respect des arrêtés préfectoraux de débroussaillement et d'emploi du feu (art. UA-2.3.2 et
+    9.7)
+Zone UA · Points de vigilance
+    Consulter les Plans de Prévention des Risques annexés au PLU (inondation du bassin du Trapel, surfaces
+    submersibles de l'Aude et de l'Orbiel, retrait-gonflement des argiles, feux de forêt) : leurs prescriptions
+    s'imposent au projet.
+    Vérifier si la parcelle porte un élément de paysage protégé (L.151-19 / L.151-23) ou un emplacement réservé
+    sur le plan de zonage.
+    Vérifier le recul de 7 m par rapport aux cours d'eau et fossés.
+    Implantation obligatoire en alignement ou à 5 m des voies : vérifier le contexte d'application (règle
+    présentée pour les nouvelles parcelles issues de lotissement ou de divisions).
+    Hauteur limitée à 6 m à l'égout (R+1) ; toiture en tuiles courbes de pente 30 à 40 cm/m.
+    Prévoir 20 % d'espace vert planté et le stationnement d'une place par tranche de 50 m² de surface de
+    plancher.
+    Application de la bande de 20 m depuis l'alignement pour l'implantation sur limites séparatives.
+    Respecter les prescriptions de débroussaillement et d'emploi du feu (arrêtés préfectoraux).
+    Accès et défense incendie conformes aux prescriptions du SDIS (annexe 3).
+    Clôtures limitées à 1,60 m, avec mur bahut entre 0,40 et 0,70 m.
+
+     Cette lecture est établie automatiquement, par intelligence artificielle, à partir du règlement officiel en
+     vigueur. Elle peut comporter des imprécisions : seul le texte du règlement, reproduit en annexe (pages
+     41 à 47 du document approuvé), fait foi, avec les dispositions générales, les orientations
+     d'aménagement et les servitudes.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       19 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                                    04 · Loi Littoral et loi Montagne
+
+
+
+
+   04              Loi Littoral et loi Montagne
+     DANS CETTE SECTION
+
+     Les lois nationales qui s'ajoutent au document d'urbanisme sur le littoral et en montagne. Elles
+     peuvent rendre un terrain inconstructible même en zone constructible.
+
+
+Les lois d'aménagement qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+
+
+4.1 Loi Littoral
+Commune littorale                                        Non
+
+Distance au rivage                                       Sans objet
+
+Bande des 100 mètres                                     Sans objet
+
+
+La commune n'est pas riveraine de la mer : la loi Littoral ne s'applique pas (sauf rives de grands lacs).
+
+
+4.2 Loi Montagne
+Commune en zone de montagne                              Non
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          20 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+   05              Risques naturels et technologiques
+     DANS CETTE SECTION
+
+     Les risques connus à l'adresse du terrain (inondation, feu de forêt, mouvement de terrain,
+     radon…) et les catastrophes naturelles reconnues sur la commune.
+
+
+Base nationale Géorisques (ministère de la Transition écologique).
+
+
+
+5.1 Risques naturels à l'adresse de la parcelle
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Inondation                                      Non connu                                       Existant
+
+  Remontée de nappe                               Non connu                                       Existant
+
+  Séisme                                          Existant – faible                               Existant – faible
+
+  Mouvement de terrain                            Inconnu                                         Existant
+
+  Retrait-gonflement des                          Existant – important                            Existant – important
+  argiles
+
+  Feu de forêt                                    Existant                                        Existant · Votre bien est concerné par les
+                                                                                                  obligations légales de débroussaillement
+
+  Radon                                           Existant – faible                               Existant – faible
+
+
+
+
+5.2 Risques technologiques
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Pollution des sols                              Non connu                                       Concerné
+
+  Rupture de barrage                              Inconnu                                         Concerné
+
+
+
+
+5.3 Indicateurs réglementaires
+Zone de sismicité                                        Zone 1 – très faible
+
+Potentiel radon                                          Catégorie 1 (potentiel faible)
+
+Retrait-gonflement des argiles                           Existant – important
+
+Plans de prévention (PPR)                                Ognon ; Atlas des zones inondables du bassin versant de l'Aude Aval
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                     21 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+     La parcelle est exposée au risque de feu de forêt. L'obligation légale de débroussaillement s'applique
+     (en général 50 mètres autour des constructions), et un terrain boisé peut nécessiter une autorisation
+     de défrichement avant toute construction.
+
+
+
+
+5.4 Arrêtés de catastrophe naturelle
+14 arrêtés de reconnaissance de l'état de catastrophe naturelle concernent la commune.
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Sécheresse                                                                01/04/2021 au 30/06/2021                       08/12/2022
+
+  Inondations et/ou Coulées de Boue                                         11/05/2020                                     29/07/2020
+
+  Inondations et/ou Coulées de Boue                                         22/01/2020 au 23/01/2020                       13/03/2020
+
+  Inondations et/ou Coulées de Boue                                         14/10/2018 au 15/10/2018                       18/10/2018
+
+  Chocs Mécaniques liés à l'action des Vagues                               24/01/2009 au 27/01/2009                       29/01/2009
+
+  Inondations et/ou Coulées de Boue                                         24/01/2009 au 27/01/2009                       29/01/2009
+
+  Sécheresse                                                                01/07/2003 au 30/09/2003                       13/08/2008
+
+  Inondations et/ou Coulées de Boue                                         12/11/1999 au 14/11/1999                       18/11/1999
+
+  Inondations et/ou Coulées de Boue                                         06/12/1996 au 12/12/1996                       05/02/1997
+
+  Inondations et/ou Coulées de Boue                                         26/09/1992 au 27/09/1992                       13/10/1992
+
+  Poids de la Neige                                                         22/01/1992 au 25/01/1992                       24/09/1992
+
+  Inondations et/ou Coulées de Boue                                         22/01/1992 au 25/01/1992                       24/09/1992
+
+  Tempête                                                                   06/11/1982 au 10/11/1982                       19/11/1982
+
+  Inondations et/ou Coulées de Boue                                         06/11/1982 au 10/11/1982                       19/11/1982
+
+
+
+
+5.5 Sites et sols pollués à proximité
+    Décharge brute LES PEIRIERES · ancien site industriel ou d'activité de service (CASIAS)
+    Vallée de l'Orbiel - Aval Pont Romain · site pollué en cours d'instruction
+    Vallée de l'Orbiel - Aval Pont Romain · site pollué en cours d'instruction
+    Vallée de l'Orbiel - Aval Pont Romain · site pollué en cours d'instruction
+    Vallée de l'Orbiel - Aval Pont Romain · site pollué en cours d'instruction
+    Vallée de l'Orbiel - Aval Pont Romain · secteur d'information sur les sols (SIS)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         22 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.6 Rapport officiel Géorisques
+Les risques recensés ci-dessus proviennent des bases officielles de Géorisques, service public d'information
+sur les risques. Le rapport officiel complet peut être édité gratuitement, à tout moment et à jour, à partir de
+l'adresse du terrain sur le site Géorisques.
+
+
+    Éditer le rapport officiel Géorisques
+
+
+Lors d'une vente ou d'une location, le vendeur ou le bailleur doit remettre un état des risques de moins de six mois,
+complété et signé, et l'information sur les sinistres indemnisés au titre des catastrophes naturelles.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                     23 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+   06              Le terrain : accès, relief et réseaux
+     DANS CETTE SECTION
+
+     Les contraintes physiques du terrain : accès à une voie, pente et exposition, assainissement,
+     raccordement à l'électricité et à l'eau, fibre. Ce sont elles qui pèsent le plus sur le coût d'un
+     projet.
+
+
+Voirie (IGN, BD TOPO), altimétrie (IGN, RGE ALTI), règlement de la zone, réseau électrique (Agence ORE) et éligibilité
+internet (Arcep).
+
+
+
+6.1 Accès
+Accès direct à une voie                                  Oui
+
+Voie                                                     Route à 1 chaussée
+
+Largeur de chaussée                                      3m
+
+Accès des véhicules                                      Libre
+
+
+La parcelle touche une voie carrossable. L'autorisation d'urbanisme vérifiera que l'accès est adapté au projet et sûr,
+et peut imposer une permission de voirie ou un aménagement de l'entrée.
+
+
+6.2 Relief et exposition
+Pente moyenne                                            8%
+
+Exposition                                               Versant orienté ouest
+
+Altitude                                                 97 à 114 m
+
+Appréciation                                             Pente modérée
+
+
+
+
+ 115 m
+
+
+
+
+ 97 m
+
+
+           Coupe du terrain dans le sens de la pente · longueur 203 m
+
+
+     Implantation courante ; terrassements et soutènements légers à prévoir.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       24 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Villedubert · AD 66
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.3 Ensoleillement
+Appréciation                                             Très bien ensoleillé
+
+Soleil direct le 21 juin                                 14 h 18 (de 07 h 10 à 21 h 20)
+
+Soleil direct aux équinoxes                              11 h 12 (de 07 h 50 à 18 h 50)
+
+Soleil direct le 21 décembre                             8 h 12 (de 09 h 00 à 17 h 00)
+
+Ensoleillement annuel possible                           4 130 h par an, soit 94 % du maximum à cette latitude
+
+Hauteur du relief vers le sud                            2°
+
+
+
+ 75°
+
+
+
+ 60°
+
+
+
+ 45°
+
+
+
+ 30°
+
+
+
+ 15°
+
+
+
+ 0°
+                                Est                  Sud-est                    Sud                 Sud-ouest               Ouest
+
+          21 juin          Équinoxes               21 décembre                 Horizon : relief et bâtiments voisins
+
+
+
+       Le relief et les constructions voisines ne masquent presque pas le soleil : le terrain profite de la
+       quasi-totalité de l'ensoleillement possible à cette latitude.
+
+
+
+Ensoleillement mois par mois (le 21 de chaque mois)
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Janvier                         9 h 18                             8 h 48                                    09 h 00 – 17 h 40
+
+  Février                         10 h 42                            10 h                                      08 h 30 – 18 h 20
+
+  Mars                            12 h                               11 h 12                                   07 h 50 – 18 h 50
+
+  Avril                           13 h 30                            12 h 48                                   07 h 50 – 20 h 30
+
+  Mai                             14 h 42                            13 h 48                                   07 h 20 – 21 h 00
+
+  Juin                            15 h 12                            14 h 18                                   07 h 10 – 21 h 20
+
+  Juillet                         14 h 42                            13 h 48                                   07 h 30 – 21 h 10
+
+  Août                            13 h 30                            12 h 42                                   08 h 00 – 20 h 30
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           25 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Septembre                       12 h                               11 h 18                                   08 h 30 – 19 h 40
+
+  Octobre                         10 h 42                            10 h                                      09 h 00 – 18 h 50
+
+  Novembre                        9 h 18                             8 h 48                                    08 h 30 – 17 h 10
+
+  Décembre                        8 h 48                             8 h 12                                    09 h 00 – 17 h 00
+
+
+
+Calcul théorique par ciel dégagé, au centre de la parcelle et à hauteur d'homme : course du soleil heure par heure, masque du relief
+sur 6 km (IGN, RGE ALTI) et des bâtiments voisins sur 120 m (IGN, BD TOPO, 12 bâtiments pris en compte). La végétation et les
+constructions récentes ne sont pas prises en compte.
+
+
+6.4 Quel raccordement pour les eaux usées ?
+Raccordement à prévoir                                       Assainissement individuel probable
+
+Zone du PLU                                                  A · Agricole
+
+Zonage d'assainissement                                      Non publié au Géoportail de l'Urbanisme (consultable en mairie)
+
+Réseau collectif sur la commune                              Oui · CARCASSONNE AGGLO · délégation à SUEZ
+
+
+     Le terrain est hors zone urbaine (zone A) : ces secteurs sont rarement desservis par le réseau public.
+     Sauf canalisation existante dans la voie, prévoyez une fosse toutes eaux avec épandage ou une
+     micro-station agréée.
+
+
+
+Ce que dit le règlement de la zone
+Raccordement obligatoire au réseau public d'assainissement pour toute construction ou installation qui requiert une
+évacuation des eaux usées. En l'absence de réseau collectif ou en cas d'insuffisance, l'assainissement individuel est
+autorisé à condition que les dispositifs de traitement soient conformes à la législation en vigueur ; une étude
+géologique pour définir la filière adaptée peut être demandée au propriétaire ; le dispositif doit pouvoir être mis hors
+circuit et raccordé au réseau public quand celui-ci sera réalisé. Aucune surface minimale de terrain n'est fixée.
+L'évacuation des eaux usées non traitées dans les rivières, fossés ou égouts d'eaux pluviales est interdite.
+
+Ce que cela coûte
+Assainissement individuel : 5 000 à 15 000 € selon la filière (détail ci-dessous), plus l'étude de sol à la parcelle (500 à
+1 000 €). Étapes : étude de sol, puis avis favorable du SPANC sur le projet, à joindre à la demande de permis de
+construire. Besoin d'un installateur agréé ? Nous vous mettons en relation : contact@terrenurbanisme.com.
+
+Qui contacter pour obtenir la confirmation
+Service d'assainissement                                     CARCASSONNE AGGLO · exploitant : SUEZ
+
+Mairie                                                       Mairie de Villedubert
+
+Téléphone                                                    04 68 78 73 55
+
+E-mail                                                       mairie.villedubert@wanadoo.fr
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          26 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+    Demandez au service d'assainissement, avec la référence cadastrale, si une canalisation publique passe au droit
+    du terrain, à quelle profondeur, et le montant de la PFAC. Sa réponse écrite vaut attestation de raccordabilité.
+    Certificat d'urbanisme opérationnel (formulaire Cerfa 13410, gratuit) : la mairie y indique officiellement si le
+    terrain est desservi par le réseau d'assainissement.
+    Plan des réseaux : la présence des canalisations enterrées près du terrain peut être vérifiée sur
+    reseaux-et-canalisations.gouv.fr, le guichet unique des réseaux.
+Sources : zonage d'assainissement et règlement (Géoportail de l'Urbanisme) ; services publics d'assainissement (SISPEA, Office
+français de la biodiversité) ; annuaire de l'administration (service-public.fr).
+
+Les solutions d'assainissement individuel
+  FILIÈRE                                    QUAND ELLE CONVIENT                                                           ORDRE DE PRIX
+
+  Fosse toutes eaux et                       Sol perméable, terrain assez grand et peu pentu                               5 000 à 10 000 €
+  épandage
+
+  Filtre à sable                             Sol peu perméable, place suffisante                                           8 000 à 12 000 €
+
+  Micro-station agréée                       Petit terrain ou sol défavorable ; entretien et électricité                   7 000 à 15 000 €
+
+  Filtre compact agréé                       Petit terrain, sans électricité                                               9 000 à 14 000 €
+
+
+
+Ordres de prix indicatifs (fourniture et pose, hors étude de sol et terrassements particuliers). La filière est choisie au vu de l'étude
+de sol et validée par le SPANC.
+
+
+6.5 Électricité et eau potable
+Gestionnaire du réseau                                       Enedis
+
+Réseau basse tension le plus proche                          au contact de la parcelle (ligne souterraine)
+
+Ligne aérienne la plus proche                                à environ 75 m
+
+Ligne souterraine la plus proche                             au contact de la parcelle
+
+Poste de transformation le plus proche                       à environ 205 m
+
+Appréciation                                                 Branchement simple probable
+
+
+     Le réseau basse tension passe au contact de la parcelle : un branchement simple est en principe
+     possible (de l'ordre de 1 500 à 3 000 € pour une maison, selon la longueur et la puissance), sous
+     réserve de la capacité du réseau et des coffrets existants.
+
+
+
+Ce qu'il faut vérifier avant d'acheter
+    La capacité du réseau : même un réseau proche peut être saturé (coffret ou câble plein, poste de transformation
+    au maximum). Seule une étude du gestionnaire permet de le savoir ; c'est la cause la plus fréquente de surcoûts
+    imprévus.
+    Électricité : demander au gestionnaire du réseau une étude de raccordement ou un devis à partir de l'adresse et
+    du plan de situation (gratuit). Elle indique le type de raccordement, son coût et son délai.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             27 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+    Eau potable : les plans du réseau d'eau ne sont pas publics. Interroger le service des eaux (coordonnées
+    ci-dessous) sur la présence d'une canalisation au droit du terrain, sa capacité et le coût du branchement, ainsi
+    que sur la défense incendie (borne à moins de 200 m environ).
+    Certificat d'urbanisme opérationnel : la mairie y indique si le terrain est desservi par les réseaux publics (eau,
+    électricité, assainissement) et, à défaut, si et quand ils seront étendus. Un refus de permis peut être fondé sur
+    l'insuffisance des réseaux (article L. 111-11 du Code de l'urbanisme).
+
+Qui contacter
+Service de l'eau potable                                     CARCASSONNE AGGLO
+
+Mode de gestion                                              Délégation de service public à SUEZ
+
+Contact pour le branchement                                  SUEZ, pour le compte de : CARCASSONNE AGGLO
+
+Mairie                                                       Mairie de Villedubert
+
+Téléphone de la mairie                                       04 68 78 73 55
+
+E-mail de la mairie                                          mairie.villedubert@wanadoo.fr
+
+Électricité (raccordement)                                   Enedis · demande en ligne sur enedis.fr (raccordement)
+
+La mairie oriente vers le bon interlocuteur et confirme, dans le certificat d'urbanisme, la desserte du terrain par les réseaux.
+Sources : SISPEA, observatoire des services publics d'eau (OFB) ; annuaire de l'administration (service-public.fr).
+
+Dans une promesse de vente, une condition suspensive portant sur le coût du raccordement aux réseaux protège
+l'acquéreur. Source de la cartographie électrique : Agence ORE, données des gestionnaires de réseaux de distribution ;
+tracés indicatifs.
+
+
+6.6 Fibre et internet
+     La fibre est déployée dans le secteur, la plus proche à 101 m (1 Rue de l'Eglise) : le raccordement d'une
+     construction neuve suppose une extension du réseau, à demander à l'opérateur.
+
+
+
+Adresse la plus proche                                          1 Rue de l'Eglise · à 101 m · raccordable
+
+Point fibré le plus proche                                      1 Rue de l'Eglise · à 101 m
+
+Adresses fibrées à moins de 100 m                               Aucune adresse recensée
+
+Adresses fibrées à moins de 400 m                               109 sur 113
+
+Technologies disponibles à proximité                            4G fixe, Cuivre (ADSL, VDSL), Fibre, Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       28 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                                              Villedubert · AD 66
+          TerrenUrbanisme
+                                                                                                         06 · Le terrain : accès, relief et réseaux
+
+
+
+
+                                                                                                     F
+     Points fibrés autour du terrain                                                                                              F                   F
+                                                                                                                     F
+                                                                                                                                  F
+                                                                                                                                                  F       F
+                                                                                                             F                                                    F
+                                                                                                                              F                                               F
+                                                                                                                 F                                F
+                                                                                                                          F                                   F
+                                                                                                                                                                      F
+                                                                                                         F                                F                                           F
+                                                                                                             F                                                                    F
+                                                                                                         F           F
+                                                                                                                                  F  F
+                                                                                                                          F                                                   F
+                                                                                                                                         F
+                                                                                                             F          F F F                                             F         F
+                                                                                                                      F       F                                                   FF FF
+                                                                                                        F           F    FF
+                                                                                                            F FF F F F F F          F                                               F
+                                                                                                          F F               F F
+                                                                                                             FF F F               F    F
+                                                                                                          F F F         F   F              F
+                                                                                                    F          F
+                                                                                                            F      F            F                                                 F
+                                                                                                                  F                                                       F
+                                                                                                           F
+                                                                                                   F            F         FF F           F                                            F
+                                                                                                      F                          F                                        F
+                                                                                                                F     F
+                                                                                                                                        F                                     F
+                                                                                                 F
+                                                                                                                                                                      F
+                                                                                                                     F                                F
+                                                                                                                                                                      F
+
+                                                                                                                                                          F
+                                                                                                                                      F
+                                                                                                     F
+                                                                                                                                          F                       F
+
+                                                                                                                                              F
+
+                                                                                                                                                              100 m
+
+
+
+Repères F : adresses déclarées raccordables à la fibre (Arcep) · en terracotta : sur la parcelle · fond © IGN
+
+
+Vérifiez la fibre à l'adresse du terrain :
+
+                     Carte fibre Orange                                                                      Carte de l'Arcep
+
+
+  DISTANCE           ADRESSE                                                                   FIBRE                     AUTRES ACCÈS
+
+  101 m              1 Rue de l'Eglise                                                         Oui                       4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                         Satellite
+
+  103 m              1 bis Rue de l'Eglise                                                     Oui                       4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                         Satellite
+
+  117 m              0 chemin des périères                                                     Oui                       4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                         Satellite
+
+  132 m              0 rue des jardins                                                         Oui                       4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                         Satellite
+
+  139 m              4 Rue de la Joucayrolle                                                   Oui                       4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                         Satellite
+
+  140 m              0 a rue de la joucayrolle                                                 Oui                       4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                         Satellite
+
+  144 m              2 Rue de la Joucayrolle                                                   Oui                       4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                         Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                                                     29 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Villedubert · AD 66
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  DISTANCE           ADRESSE                                                                   FIBRE              AUTRES ACCÈS
+
+  148 m              6 Rue de la Joucayrolle                                                   Non                4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+
+
+Source : Arcep, « Ma connexion internet », éligibilité déclarée par les opérateurs, adresse par adresse. Le tracé des câbles n'est
+pas public : la présence de la fibre en limite de terrain se vérifie auprès de l'opérateur ou par une déclaration de projet de travaux
+(DT).
+
+
+6.7 Qui contacter pour les réseaux
+  RÉSEAU                                    INTERLOCUTEUR                                         CE QU'IL FAUT DEMANDER
+
+  Eau potable et                            Mairie ou service des eaux de la                      Attestation de desserte et conditions de
+  assainissement collectif                  commune                                               raccordement
+
+  Assainissement individuel                 SPANC (communauté de communes)                        Contrôle de conception sur la base de l'étude
+                                                                                                  de sol
+
+  Électricité                               Enedis (gestionnaire du réseau de                     Étude de raccordement et devis
+                                            distribution)
+
+  Fibre et téléphone                        Opérateur d'infrastructure et                         Raccordement du futur logement
+                                            fournisseur d'accès
+
+  Tous réseaux                              Guichet unique des réseaux                            Déclaration de projet de travaux (DT) pour
+                                            (reseaux-et-canalisations.gouv.fr)                    localiser les réseaux existants
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             30 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                               07 · Conditions de vente du terrain
+
+
+
+
+    07             Conditions de vente du terrain
+     DANS CETTE SECTION
+
+     Terrain agricole ou naturel : droit de préemption de la SAFER, fermier en place, autorisation
+     d'exploiter et repère officiel de prix.
+
+
+Terrain situé en zone A : vente encadrée par le code rural et de la pêche maritime.
+
+
+
+7.1 Pourquoi aucune fourchette de prix n'est donnée
+La parcelle est classée en zone A (agricole), où les constructions nouvelles ne sont en principe pas admises.
+Sa valeur ne se déduit pas des ventes de terrains à bâtir du secteur : elle dépend de l'usage agricole ou naturel
+du sol, de sa qualité, de son accès, de l'eau disponible et de l'existence éventuelle d'un bail rural. Une
+estimation automatique serait trompeuse : la valeur doit être établie au cas par cas par un notaire ou un expert
+foncier et agricole.
+
+
+7.2 Le droit de préemption de la SAFER
+Principe                                        La vente d'un terrain agricole ou naturel est en principe soumise au droit de
+                                                préemption de la SAFER (articles L. 143-1 et suivants du code rural et de la
+                                                pêche maritime). Une surface minimale, fixée par département, peut en
+                                                exclure les plus petites parcelles.
+
+Information obligatoire                         Le notaire informe la SAFER du projet de vente au moins deux mois avant la
+                                                signature : prix, conditions et identité de l'acquéreur.
+
+Ce que peut faire la SAFER                      Renoncer, acheter au prix et aux conditions notifiés, ou proposer un prix
+                                                inférieur si elle estime le prix exagéré. Le vendeur peut alors accepter,
+                                                retirer son terrain de la vente ou demander au tribunal judiciaire de fixer le
+                                                prix.
+
+Pourquoi elle intervient                        Installation de jeunes agriculteurs, consolidation des exploitations,
+                                                protection de l'environnement et des paysages, lutte contre la spéculation
+                                                foncière.
+
+
+
+7.3 Les autres règles à connaître
+Fermier en place                                Si le terrain est loué par bail rural, l'exploitant en place bénéficie d'un droit
+                                                de préemption prioritaire, avant la SAFER.
+
+Autorisation d'exploiter                        Un acquéreur qui souhaite exploiter le terrain peut devoir obtenir une
+                                                autorisation d'exploiter auprès de la DDT(M), selon le schéma directeur
+                                                régional des exploitations agricoles.
+
+Espace naturel sensible                         Dans un espace naturel sensible, le département peut également disposer
+                                                d'un droit de préemption.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        31 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                               07 · Conditions de vente du terrain
+
+
+
+
+Constructions                                   Seules les constructions nécessaires à l'exploitation agricole ou forestière,
+                                                ou à des équipements collectifs, sont en règle générale admises : l'achat ne
+                                                donne pas de droit à bâtir une habitation.
+
+
+
+7.4 Repère officiel de prix
+Le ministère de l'Agriculture publie chaque année le barème indicatif de la valeur vénale moyenne des terres
+agricoles, par région agricole et par nature de culture (arrêté publié au Journal officiel). C'est la référence à
+consulter, avec l'avis d'un notaire ou d'un expert foncier et agricole, avant de fixer un prix.
+
+     Avant toute mise en vente, rapprochez-vous de votre notaire : il notifie la vente à la SAFER, vérifie
+     l'existence d'un bail et sécurise le calendrier de la transaction.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        32 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+   08              Environnement et marché immobilier
+     DANS CETTE SECTION
+
+     Les espaces naturels protégés autour du terrain et les prix de vente réels des maisons,
+     appartements et terrains alentour.
+
+
+Inventaire national du patrimoine naturel et demandes de valeurs foncières (DVF).
+
+
+
+8.1 Espaces naturels protégés ou inventoriés
+  TYPE                                                      NOM DU SITE
+
+  Site classé ou inscrit                                    SC Paysages canal du Midi ass
+
+
+
+La présence d'un site Natura 2000 peut imposer une évaluation des incidences avant certains travaux. Une ZNIEFF
+est un inventaire scientifique sans portée réglementaire directe, mais elle signale un intérêt écologique pris en
+compte dans l'instruction des autorisations.
+
+
+8.2 Espèces protégées observées près du terrain
+97 espèces protégées ont été observées dans un rayon de 1 km autour du terrain depuis 1990 ; les 14 plus
+fréquemment signalées figurent ci-dessous.
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Rossignol commun (Luscinia                                      Oiseau                 Nationale (espèce et              63 · dernière en
+  megarhynchos)                                                                          habitat)                          2024
+
+  Fauvette à tête noire (Sylvia atricapilla)                      Oiseau                 Nationale (espèce et              45 · dernière en
+                                                                                         habitat)                          2025
+
+  Serin cini (Serinus serinus)                                    Oiseau                 Nationale (espèce et              44 · dernière en
+                                                                                         habitat)                          2022
+
+  Bouscarle de Cetti (Cettia cetti)                               Oiseau                 Nationale (espèce et              37 · dernière en
+                                                                                         habitat)                          2024
+
+  Alouette lulu (Lullula arborea)                                 Oiseau                 Nationale (espèce et              34 · dernière en
+                                                                                         habitat)                          2024
+
+  Chardonneret élégant (Carduelis                                 Oiseau                 Nationale (espèce et              30 · dernière en
+  carduelis)                                                                             habitat)                          2022
+
+  Corneille noire (Corvus corone)                                 Oiseau                 Nationale (espèce et              29 · dernière en
+                                                                                         habitat)                          2023
+
+  Fauvette mélanocéphale (Sylvia                                  Oiseau                 Nationale (espèce et              28 · dernière en
+  melanocephala)                                                                         habitat)                          2022
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         33 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Bruant zizi (Emberiza cirlus)                                   Oiseau                 Nationale (espèce et              27 · dernière en
+                                                                                         habitat)                          2022
+
+  Guêpier d'Europe (Merops apiaster)                              Oiseau                 Nationale (espèce et              25 · dernière en
+                                                                                         habitat)                          2024
+
+  Mésange charbonnière (Parus major)                              Oiseau                 Nationale (espèce et              25 · dernière en
+                                                                                         habitat)                          2024
+
+  Bruant proyer (Emberiza calandra)                               Oiseau                 Nationale (espèce et              19 · dernière en
+                                                                                         habitat)                          2022
+
+  Héron cendré (Ardea cinerea)                                    Oiseau                 Nationale (espèce et              18 · dernière en
+                                                                                         habitat)                          2022
+
+  Cisticole des joncs (Cisticola juncidis)                        Oiseau                 Nationale (espèce et              17 · dernière en
+                                                                                         habitat)                          2022
+
+
+
+     Une observation à proximité ne signifie pas que l'espèce vit sur le terrain. Mais si elle y est présente, il
+     est interdit de détruire, capturer ou déranger les individus et, pour la plupart de ces espèces, de
+     détruire leurs lieux de reproduction et de repos (articles L. 411-1 et suivants du Code de
+     l'environnement). L'infraction est punie de 3 ans d'emprisonnement et 150 000 € d'amende.
+
+
+
+Que faire avant de construire ?
+    Pour une maison individuelle, aucune étude écologique n'est imposée en règle générale, et l'étude de sol porte
+    sur le terrain (fondations), pas sur la faune ni la flore. Vous restez cependant responsable si une espèce
+    protégée vit sur la parcelle : en cas de doute (espèce observée tout près, vieux arbres, murets, maquis, zone
+    humide), faites passer un écologue avant de défricher.
+    Si un enjeu est confirmé : inventaire faune-flore aux saisons utiles (printemps et été en général), puis mesures
+    pour éviter et réduire l'impact : implantation de la maison sur la partie la moins sensible, travaux hors période de
+    reproduction, clôture de chantier adaptée, déplacement d'individus par un spécialiste habilité.
+    Si la destruction d'individus ou d'habitats ne peut pas être évitée : demande de dérogation « espèces protégées »
+    auprès de la préfecture (DREAL), avec avis du conseil scientifique. Comptez 4 à 12 mois d'instruction, à anticiper
+    avant le dépôt du permis.
+
+Combien prévoir ?
+Pré-diagnostic écologique                                800 à 2 000 € (une visite et une note de synthèse)
+
+Inventaire faune-flore                                   3 000 à 10 000 € selon la surface et le nombre de passages
+
+Mesures d'évitement et de réduction                      500 à 5 000 € (balisage, calendrier, suivi de chantier)
+
+Dossier de dérogation                                    8 000 à 25 000 €, hors mesures de compensation éventuelles
+
+Ordres de prix indicatifs, honoraires de bureaux d'études en environnement, si une étude est nécessaire. Pour une maison sur un
+terrain déjà entouré de constructions, aucune étude n'est le plus souvent requise.
+
+Sources : statuts de protection TAXREF et base de connaissance des statuts (INPN, Muséum national d'Histoire naturelle) ;
+observations naturalistes GBIF, qui rassemble notamment les données de l'INPN et du SINP.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         34 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+8.3 Prix de l'immobilier à Villedubert
+Prix au mètre carré des ventes enregistrées sur la commune au cours des cinq dernières années publiées.
+Seules les ventes portant sur un bien unique sont retenues.
+
+  TYPE DE BIEN                                       VENTES                       €/M² MÉDIAN                              €/M² MOYEN
+
+  Maisons                                            25                           1 173 €/m²                               1 657 €/m²
+
+
+
+Source : statistiques des demandes de valeurs foncières (DGFiP, Etalab). Prix des actes, hors frais : un ordre de grandeur,
+pas une estimation du bien.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                               35 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                                                09 · Historique du site
+
+
+
+
+   09              Historique du site
+     DANS CETTE SECTION
+
+     Le terrain vu du ciel au fil des décennies et les permis de construire accordés autour : l'évolution
+     du secteur en un coup d'œil.
+
+
+Photographies aériennes de l'IGN et permis de construire délivrés (Sitadel).
+
+
+
+9.1 Le terrain vu du ciel, d'hier à aujourd'hui
+
+    1950-1965                                             2000-2005                                              2006-2010
+
+
+
+
+    2011-2015                                             Aujourd'hui
+
+
+
+
+Ces vues montrent l'évolution du terrain et du quartier, des années 1950 à aujourd'hui (photographies aériennes de l'IGN).
+
+     Bon à savoir : l'existence ancienne d'une construction peut ouvrir, sous conditions, un droit à
+     reconstruire ou à restaurer un bâtiment dont il reste l'essentiel des murs porteurs (articles L. 111-15 et L.
+     111-23 du Code de l'urbanisme).
+
+
+
+
+9.2 Permis de construire délivrés autour du terrain
+Autorisations sur la commune (3 ans)                                    3 · dernière recensée le 12/03/2025
+
+Logements autorisés (3 ans)                                             3
+
+Dont maisons individuelles                                              3
+
+Autorisations dans la section AD                                        2 depuis 2013
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  17/11/2014            Permis de construire                   AD 87              1              94 m²                     CHEM DES AMANDIERS
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             36 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                                                09 · Historique du site
+
+
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  18/03/2013            Permis de construire                   AD 87              1              166 m²                    CHEM DES AMANDIERS
+
+
+
+Permis accordés à moins de 500 m du terrain
+  DATE                 AUTORISATION                       PARCELLE          DISTANCE         LOGTS        SURFACE             LIEU-DIT / VOIE
+
+  12/03/2025           Permis de construire               AE 26             240 m            1            149 m²              CHEMIN DES PERIERES
+
+  19/06/2024           Permis de construire               AK 120            480 m            1            192 m²              CHEMIN DE CANASTELLE
+
+  27/05/2024           Permis de construire               AA 205            450 m            1            144 m²              LOTISSEMENT ""LE
+                                                                                                                              DOMAINE DU
+
+  05/06/2023           Permis de construire               AA 219            390 m            1            121 m²              AU PUITS LE DOMAINE
+                                                                                                                              DU PU
+
+  23/04/2023           Permis de construire               AA 190            360 m            1            113 m²              ROUTE D'ORBIEL
+
+  21/03/2023           Permis de construire               AA 217            340 m            1            133 m²              DU LOTISSEMENT ""LE
+                                                                                                                              DOMAINE
+
+  16/12/2022           Permis de construire               AA 215            310 m            1            154 m²              LOTISSEMENT LE
+                                                                                                                              DOMAINE DU PUISATIER
+
+  24/06/2022           Permis de construire               AA 204            460 m            1            149 m²              LOTISSEMENT LE
+                                                                                                                              DOMAINE DU PUISATIER
+
+  12/04/2022           Permis de construire               AE 64             240 m            1            –                   LE VILLAGE
+
+  17/02/2022           Permis de construire               AA 203            490 m            1            149 m²              LOTISSEMENT ""LE
+                                                                                                                              DOMAINE DU
+
+  12/01/2022           Permis de construire               AE 153            330 m            1            66 m²               CHEMIN DE CANASTELLE
+
+  03/01/2022           Permis de construire               AA 214            340 m            1            149 m²              DOMAINE DU PUISATIER
+
+  03/01/2022           Permis de construire               AA 168            460 m            1            93 m²               LOTISSEMENT"" LES
+                                                                                                                              HAUTS M
+
+  24/11/2021           Permis de construire               AA 218            360 m            1            118 m²              LOTISSEMENT ""LE
+                                                                                                                              DOMAINE DU PUISATIER
+
+  21/10/2021           Permis de construire               AA 202            470 m            1            102 m²              LOTISSEMENT
+                                                                                                                              ""DOMAINE DU PU
+
+
+
+21 autorisations créant des logements recensées dans un rayon de 500 m : la construction a été admise récemment
+dans le voisinage immédiat.
+
+Source : base Sitadel des autorisations d'urbanisme créant des logements (SDES). Un permis accordé à proximité montre
+que des constructions ont été admises dans le secteur, sans préjuger de la décision sur votre propre projet.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             37 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                              10 · Opportunités autour du terrain
+
+
+
+
+      10           Opportunités autour du terrain
+      DANS CETTE SECTION
+
+      Ce qui se passe autour de la parcelle : grands terrains peu bâtis, sociétés propriétaires en
+      difficulté, logements énergivores. Des pistes pour un investisseur, un voisin ou un professionnel.
+
+
+Bodacc (procédures collectives), ADEME (diagnostics énergétiques), cadastre, BD TOPO et Géoportail de l'Urbanisme.
+
+
+
+10.1 Grands terrains peu bâtis à proximité
+Parcelles de plus de 1 200 m², situées en zone urbaine ou à urbaniser du PLU, dans un rayon de 250 m, dont
+moins de 8 % de la surface est bâtie, hors terrains publics : un potentiel de construction ou de division à
+étudier.
+
+  PARCELLE           SURFACE                BÂTI               ZONE               DISTANCE           PROPRIÉTAIRE
+
+  AL 36              8 503 m²               280 m²             UB                 190 m              particulier (non publié)
+
+  AD 18              4 515 m²               278 m²             UB                 330 m              particulier (non publié)
+
+  AE 123             3 004 m²               193 m²             UB                 330 m              particulier (non publié)
+
+  AD 90              2 957 m²               47 m²              UB                 230 m              particulier (non publié)
+
+  AE 117             2 620 m²               non bâti           UB                 270 m              particulier (non publié)
+
+  AE 124             2 150 m²               161 m²             UB                 300 m              particulier (non publié)
+
+  AE 108             2 073 m²               non bâti           UA                 110 m              particulier (non publié)
+
+  AE 26              1 642 m²               119 m²             UB                 240 m              particulier (non publié)
+
+
+
+
+10.2 Logements classés F ou G autour du terrain
+Logements diagnostiqués F ou G dans un rayon de 350 m. Leur location est déjà interdite (G) ou le sera en
+2028 (F) : leurs propriétaires sont souvent vendeurs, ou doivent engager des travaux de rénovation.
+
+  PARCELLE                   ADRESSE                                        CLASSE LOGEMENT                   SURFACE      DISTANCE DPE DU
+
+  –                          4 Chemin des Perieres 11800                    F            Maison               190 m²       240 m      04/09/2024
+                             Villedubert
+
+
+
+La parcelle est celle du point d'adresse du logement (cadastre). Pour connaître son propriétaire lorsqu'il s'agit d'un particulier,
+demandez un relevé de propriété au service de la publicité foncière ou à la mairie.
+
+Ces informations proviennent de bases publiques et ne préjugent ni de l'intention de vendre des propriétaires ni de la
+constructibilité des parcelles citées, qui relève d'une étude au cas par cas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          38 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Villedubert · AD 66
+           TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+      11           Votre projet, étape par étape
+De l'achat du terrain à la déclaration aux impôts : démarches, délais, coûts et contacts.
+
+
+
+11.1 Analyse
+Le terrain est soumis au plan local d'urbanisme (PLU) de Villedubert. Il est classé principalement en zone
+A. Zone agricole : secteur protégé en raison du potentiel agronomique, biologique ou économique des
+terres. Seules y sont admises les constructions et installations nécessaires à l'exploitation agricole et
+aux services publics, ainsi que l'extension limitée des habitations existantes.
+
+La construction n'est pas exclue, mais elle est subordonnée à des conditions qu'il faut lever avant tout
+engagement : lecture du règlement et des orientations d'aménagement, desserte par les réseaux,
+contraintes de risques ou de protection.
+
+
+11.2 Votre projet, étape par étape
+Les étapes ci-dessous suivent l'ordre réel d'un projet de construction, de l'achat du terrain à la déclaration aux
+impôts. Les montants sont indicatifs et à confirmer par devis.
+
+  1      Avant d'acheter le terrain
+         Vérifiez les règles de la zone (chapitres précédents), puis demandez un certificat d'urbanisme opérationnel
+         (Cerfa 13410, sans frais, réponse sous 2 mois) : il fige les règles pendant 18 mois. En zone d'argiles d'aléa
+         moyen ou fort, le vendeur doit fournir une étude de sol préalable.
+         Contact : Mairie de Villedubert · 04 68 78 73 55 · mairie.villedubert@wanadoo.fr · formulaire sur service-public.fr
+         (rechercher « Cerfa 13410 »)
+
+  2      Les études
+         Étude de sol géotechnique (G2) pour dimensionner les fondations : 1 500 à 3 000 €. Étude thermique RE2020,
+         obligatoire pour le permis : 500 à 1 500 €. Bornage par un géomètre si les limites sont incertaines. L'étude de
+         sol ne porte pas sur les espèces protégées : un écologue n'intervient qu'en cas d'enjeu (chapitre
+         Environnement).
+         Géomètres proches du terrain : liste à la fin de ce chapitre
+
+  3      Les plans
+         Architecte obligatoire si la surface de plancher totale dépasse 150 m². En dessous, vous pouvez dessiner les
+         plans vous-même ou faire appel à un dessinateur ou maître d'œuvre (environ 1 500 à 4 000 € le dossier de
+         permis). Architecte : 3 000 à 8 000 € pour la seule mission de permis, 8 à 12 % du coût des travaux pour une
+         mission complète avec suivi du chantier.
+         Trouver un architecte : annuaire de l'Ordre des architectes sur architectes.org
+
+  4      Déposer le permis
+         Formulaire Cerfa 13406 (maison individuelle) et pièces PCMI1 à PCMI8 : plan de situation, plan de masse,
+         coupe, notice, plans des façades et toitures, insertion dans le paysage, photos, attestation RE2020. Dépôt en
+         mairie ou en ligne sur le guichet numérique de la commune. La mairie a 1 mois pour réclamer une pièce
+         manquante ; l'instruction dure 2 mois à partir du dossier complet, plus en secteur protégé.
+         Dépôt : Mairie de Villedubert · 04 68 78 73 55 · mairie.villedubert@wanadoo.fr · formulaire sur service-public.fr
+         (rechercher « Cerfa 13406 »)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          39 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+  5      Affichage et recours
+         Dès l'accord, installez le panneau de permis sur le terrain, lisible depuis la voie, pendant toute la durée du
+         chantier. Les tiers ont 2 mois à compter du premier jour d'affichage pour contester ; la mairie peut retirer un
+         permis illégal pendant 3 mois. Faites constater l'affichage par un commissaire de justice (environ 300 à 600 €
+         pour les trois constats).
+         Commissaires de justice : annuaire sur commissaire-justice.fr
+
+  6      Avant les travaux
+         Souscrivez l'assurance dommages-ouvrage, obligatoire (souvent 2 à 4 % du coût de la construction). Signez
+         le contrat de construction de maison individuelle ou les marchés des artisans. Déposez la déclaration
+         d'ouverture de chantier (Cerfa 13407) le jour du démarrage. Le permis est valable 3 ans, prorogeable deux
+         fois d'un an.
+         Déclaration d'ouverture : Mairie de Villedubert · 04 68 78 73 55 · mairie.villedubert@wanadoo.fr
+
+  7      Le financement
+         La banque débloque le prêt au fur et à mesure du chantier, sur présentation des factures des entreprises ou
+         des appels de fonds du constructeur. Avec un contrat de construction de maison individuelle, l'échéancier
+         est encadré par la loi : 15 % à l'ouverture du chantier, 25 % aux fondations, 40 % aux murs, 60 % hors d'eau,
+         75 % hors d'air et cloisons, 95 % aux équipements, le solde à la réception. Des intérêts intercalaires peuvent
+         courir sur les sommes débloquées.
+         Votre banque ou votre courtier
+
+  8      La fin du chantier
+         Réception des travaux avec le constructeur ou les artisans, avec réserves si nécessaire. Déposez ensuite la
+         déclaration attestant l'achèvement et la conformité des travaux (DAACT, Cerfa 13408), avec l'attestation
+         RE2020 de fin de chantier. La mairie a 3 mois pour la contester (5 mois en secteur protégé).
+         Dépôt : Mairie de Villedubert · 04 68 78 73 55 · mairie.villedubert@wanadoo.fr
+
+  9      Les impôts
+         Dans les 90 jours suivant l'achèvement, déclarez la construction sur impots.gouv.fr, espace « Gérer mes
+         biens immobiliers ». Cette déclaration sert au calcul de la taxe d'aménagement (payée en une fois sous 1 500
+         €, sinon en deux fois, estimation plus bas dans ce chapitre) et de la taxe foncière, avec une exonération
+         possible les deux premières années selon la commune.
+         impots.gouv.fr › Espace particulier › Gérer mes biens immobiliers
+
+
+11.3 Les points à vérifier pour ce terrain
+  1      Certificat d'urbanisme opérationnel
+         Le demander en mairie (formulaire Cerfa 13410), en décrivant le projet. Gratuit, il indique si le terrain
+         peut accueillir le projet et fige les règles d'urbanisme pendant 18 mois.
+
+  2      Règlement de la zone
+         Lire le règlement écrit de la zone A et, le cas échéant, les orientations d'aménagement, disponibles sur
+         le Géoportail de l'Urbanisme.
+
+  3      Réseaux et accès
+         Vérifier l'accès à une voie publique ou privée adaptée, la desserte en eau potable et en électricité, et le
+         mode d'assainissement. En l'absence de réseau collectif, une étude de sol et l'avis du service public
+         d'assainissement non collectif (SPANC) sont nécessaires.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          40 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+  4      Débroussaillement et défrichement
+         Prévoir le débroussaillement obligatoire autour des constructions et, si le terrain est boisé, une
+         demande d'autorisation de défrichement auprès de la DDT avant le permis.
+
+  5      Architecte des Bâtiments de France
+         Le projet sera soumis à l'architecte des Bâtiments de France : le rencontrer avant de dessiner le projet
+         (rendez-vous par la mairie ou l'unité départementale de l'architecture et du patrimoine), soigner
+         matériaux, teintes et toitures, et compter un mois de plus pour l'instruction.
+
+  6      Bornage
+         Faire réaliser un bornage par un géomètre-expert pour fixer les limites exactes et la surface réelle du
+         terrain.
+
+  7      Sécuriser un achat
+         Pour une acquisition, prévoir dans le compromis une condition suspensive d'obtention d'un permis de
+         construire purgé de tout recours.
+
+
+11.4 Délais indicatifs d'instruction
+  DEMANDE                                                                                 DÉLAI DE DROIT COMMUN
+
+  Certificat d'urbanisme d'information (CUa)                                              1 mois
+
+  Certificat d'urbanisme opérationnel (CUb)                                               2 mois
+
+  Déclaration préalable                                                                   1 mois
+
+  Permis de construire une maison individuelle                                            2 mois
+
+  Permis d'aménager, autres permis de construire                                          3 mois
+
+
+
+Ces délais peuvent être majorés, notamment en site classé ou inscrit, aux abords d'un monument historique ou lorsque la
+consultation d'un service extérieur est nécessaire.
+
+
+11.5 Taxe d'aménagement à prévoir
+      Exemple : une maison de 120 m² en résidence principale, avec une piscine de 3 × 6 m. Sur ce terrain, la
+      taxe d'aménagement à prévoir est d'environ 4 020 €.
+
+
+
+  PROJET                                                                                                       TAXE ESTIMÉE
+
+  Maison de 120 m², résidence principale                                                                       3 750 €
+
+  Piscine de 3 × 6 m (18 m²)                                                                                   270 €
+
+  Total à prévoir                                                                                              4 020 €
+
+
+
+Taux appliqués : 3,5 % pour la commune et 2,5 % pour le département, sur une valeur forfaitaire de 892 € par m² en 2026
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          41 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+(251 € par m² de bassin pour une piscine). Une résidence principale bénéficie d'un abattement de 50 % sur ses 100 premiers
+m².
+
+La taxe est due une fois les travaux terminés : elle se déclare sur impots.gouv.fr dans les 90 jours suivant l'achèvement, et
+se paie en deux fois au-delà de 1 500 €. Pour calculer votre propre projet :
+terrenurbanisme.com/outils/taxe-amenagement.html
+
+
+11.6 Implanter une entreprise : zone France Ruralités Revitalisation
+     La commune de Villedubert n'est pas classée en zone France Ruralités Revitalisation (FRR). Une
+     entreprise qui s'y installe ne bénéficie pas de l'exonération d'impôt sur les bénéfices liée à ce zonage.
+
+
+
+Source : ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 (collectivites-locales.gouv.fr).
+
+
+11.7 Géomètres proches du terrain
+Le géomètre-expert est le seul professionnel habilité à fixer les limites de propriété (bornage) et à établir les
+documents d'arpentage déposés au cadastre. Il intervient aussi pour les relevés topographiques et les
+divisions de terrain.
+
+5,2 km            CABINET BRAHEM - GUENERET
+                                                                                                                           Coordonnées
+                  17 RUE DE MAZAGRAN 11000 CARCASSONNE
+
+
+6,3 km            GEO SUD OUEST
+                                                                                                                           Coordonnées
+                  31 ALLEE D'IENA 11000 CARCASSONNE
+
+
+7,3 km            AXIOME
+                                                                                                                           Coordonnées
+                  2 RUE PIERRE PUGET 11000 CARCASSONNE
+
+
+8,1 km            CABINET LEFEVRE
+                                                                                                                           Coordonnées
+                  LIEU DIT SAINT JEAN ROUTE DE BRAM 11000 CARCASSONNE
+
+
+15,1 km           INFRA CONCEPT SERVICE
+                                                                                                                           Coordonnées
+                  2 RUE DU 8 MAI 11170 VILLESEQUELANDE
+
+
+24,7 km           VALORIS GEOMETRE-EXPERT
+                                                                                                                           Coordonnées
+                  10 AVENUE GENERAL DE GAULLE 11150 BRAM
+
+
+Source : répertoire Sirene de l'INSEE (activité des géomètres), classé par distance au terrain. L'inscription d'un cabinet à l'Ordre
+des géomètres-experts se vérifie sur geometre-expert.fr. Le bouton « Coordonnées » ouvre la fiche du cabinet (téléphone,
+horaires, itinéraire). Cette liste est fournie à titre indicatif, sans partenariat ni recommandation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          42 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                           12 · État des risques (ERP) pré-rempli
+
+
+
+
+    12             État des risques (ERP) pré-rempli
+     DANS CETTE SECTION
+
+     Le formulaire réglementaire à remettre à l'acquéreur ou au locataire, pré-rempli à partir des
+     bases officielles : plans de prévention, sismicité, radon, sols pollués, trait de côte, bruit des
+     aérodromes.
+
+
+Articles L. 125-5 à L. 125-7 et R. 125-23 à R. 125-27 du Code de l'environnement · modèle fixé par l'arrêté du 27 septembre
+2022.
+
+
+     Formulaire pré-rempli à partir de Géorisques et du Géoportail de l'Urbanisme à la date du rapport.
+     Avant de le remettre à l'acquéreur ou au locataire, le vendeur ou le bailleur le vérifie, le complète
+     (sinistres indemnisés) et le signe ; il doit dater de moins de six mois à la signature de la promesse, du
+     bail ou de l'acte.
+
+
+
+
+12.1 Situation du bien
+Commune                                                  Villedubert (11422)
+
+Département                                              Aude (11)
+
+Références cadastrales                                   Section AD, parcelle n° 66 · 11422000AD0066
+
+Surface cadastrale                                       13 575 m²
+
+
+
+12.2 Plans de prévention des risques
+  L'IMMEUBLE EST SITUÉ DANS LE PÉRIMÈTRE…                                         RÉPONSE                DÉTAIL
+
+  d'un plan de prévention des risques naturels (PPRN)                             Non                    Aléas à l'adresse : feu de forêt
+  prescrit, appliqué par anticipation ou approuvé
+
+  d'un plan de prévention des risques miniers (PPRM)                              Non                    Non recensé
+
+  d'un plan de prévention des risques technologiques                              Non                    Risques technologiques sur la commune
+  (PPRT)                                                                                                 : pollution des sols, rupture de barrage
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          43 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                           12 · État des risques (ERP) pré-rempli
+
+
+
+
+12.3 Autres zonages réglementaires
+  L'IMMEUBLE EST SITUÉ…                                                           RÉPONSE                DÉTAIL
+
+  dans une commune de sismicité (zones 2 à 5 : règles de                          Non                    Zone 1 – très faible
+  construction parasismique)
+
+  dans une commune à potentiel radon de niveau 3                                  Non                    Catégorie 1 (potentiel faible)
+
+  dans un secteur d'information sur les sols (SIS)                                À vérifier             SIS recensé à proximité : Vallée de
+                                                                                                         l'Orbiel - Aval Pont Romain. Vérifier
+                                                                                                         l'arrêté préfectoral.
+
+  dans une zone exposée au recul du trait de côte                                 Non                    Non concerné selon Géorisques
+
+  dans une zone de bruit d'un plan d'exposition au bruit                          À vérifier             Aucun PEB annexé au document
+  d'aérodrome (PEB)                                                                                      d'urbanisme ; vérifier auprès de la mairie
+
+  dans une zone de retrait-gonflement des argiles                                 Oui                    Existant – important
+  (information)
+
+
+
+
+12.4 Sinistres indemnisés et déclarations
+Arrêtés de catastrophe naturelle sur la commune : 14 (liste en section Risques). Le vendeur ou le bailleur
+déclare ci-dessous les sinistres ayant donné lieu à une indemnisation au titre des catastrophes naturelles ou
+technologiques pendant la période où il a été propriétaire.
+
+Sinistres indemnisés                                     [ ] Oui [ ] Non
+
+Vendeur ou bailleur                                      Nom : ____________________ Date : ___/___/______ Signature :
+
+Acquéreur ou locataire                                   Nom : ____________________ Date : ___/___/______ Signature :
+
+
+L'état des risques officiel peut aussi être édité gratuitement sur Géorisques (errial.georisques.gouv.fr). Les informations
+ci-dessus sont établies à partir des bases nationales ; en cas de divergence, l'arrêté préfectoral relatif à l'information des
+acquéreurs et des locataires fait foi.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            44 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                                      13 · Avertissement et sources
+
+
+
+
+    13             Avertissement et sources
+     DANS CETTE SECTION
+
+     La portée de ce rapport et la liste des sources publiques consultées.
+
+
+
+13.1 Nature du document
+Ce rapport est un document d'information établi automatiquement, à la date indiquée en page de garde, à
+partir des données publiques officielles alors disponibles. Il n'a aucune valeur contractuelle, réglementaire ou
+juridique.
+
+
+13.2 Ce que ce rapport n'est pas
+Il ne constitue ni un certificat d'urbanisme au sens de l'article L. 410-1 du Code de l'urbanisme, ni une
+autorisation d'urbanisme (permis de construire, permis d'aménager, déclaration préalable), ni un état des
+risques au sens de l'article L. 125-5 du Code de l'environnement, ni un bornage, ni une expertise, ni une
+évaluation immobilière, ni une consultation juridique. Il n'engage en rien l'administration.
+
+
+13.3 Permis de construire
+Ce rapport ne peut en aucun cas être joint, produit ou invoqué à l'appui d'une demande de permis de
+construire, de permis d'aménager ou de déclaration préalable, ni opposé à la mairie ou à un service de l'État. Il
+ne garantit pas l'obtention d'une autorisation : seule l'autorité compétente se prononce, au vu d'un projet
+précis et de l'ensemble des règles applicables à la date de sa décision.
+
+
+13.4 Limites des données
+Les données sont produites par des organismes publics dont l'éditeur n'est ni l'auteur ni le garant. Elles
+peuvent être incomplètes, imprécises ou ne pas refléter une modification, une révision, une mise en
+compatibilité, une annulation contentieuse, un sursis à statuer ou une procédure en cours. Le plan cadastral,
+document fiscal, ne fait pas foi des limites de propriété. Surfaces, distances, altitudes et pentes sont
+approchées. Les extraits et analyses du règlement sont une aide à la lecture : seul le texte intégral du
+document d'urbanisme approuvé, consultable en mairie, fait foi.
+
+
+13.5 Avant toute décision
+Avant toute acquisition, cession, financement, promesse de vente ou dépôt d'une demande, le lecteur doit
+obtenir un certificat d'urbanisme opérationnel auprès de la mairie, consulter le document d'urbanisme en
+vigueur et recueillir l'avis d'un professionnel habilité (notaire, architecte, géomètre-expert, avocat). Pour un
+achat, il est recommandé de stipuler une condition suspensive d'obtention d'un permis de construire purgé de
+tout recours.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          45 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                                      13 · Avertissement et sources
+
+
+
+
+13.6 Responsabilité
+L'éditeur ne saurait être tenu responsable d'une décision prise sur le seul fondement de ce rapport, ni d'un
+refus d'autorisation, d'une erreur ou d'une omission des sources publiques, dans les limites prévues par les
+conditions générales de vente acceptées lors de la commande.
+
+
+13.7 Sources consultées
+  DONNÉE                                                    SOURCE
+
+  Cadastre                                                  DGFiP, plan cadastral informatisé, via API Carto (IGN)
+
+  Photographies et plans                                    IGN, Géoplateforme : orthophotographies, Plan IGN, parcellaire express
+
+  Urbanisme                                                 Géoportail de l'Urbanisme : zonage, prescriptions, informations, servitudes
+                                                            d'utilité publique
+
+  Littoral                                                  IGN, BD TOPO (limite terre-mer) ; communes littorales (Géoportail de
+                                                            l'Urbanisme)
+
+  Montagne                                                  Ministère de la Cohésion des territoires, communes de la loi Montagne
+
+  Risques                                                   Géorisques (ministère de la Transition écologique) : rapport de risques,
+                                                            arrêtés CatNat, sismicité, radon, ICPE, sites pollués
+
+  Environnement                                             Inventaire national du patrimoine naturel (PatriNat), via API Carto
+
+  Altitude, pente et exposition                             IGN, RGE ALTI
+
+  Ensoleillement                                            Calcul astronomique de la course du soleil ; masque du relief (IGN, RGE
+                                                            ALTI) et des bâtiments (IGN, BD TOPO)
+
+  Voirie et accès                                           IGN, BD TOPO (tronçons de route)
+
+  Permis de construire                                      Sitadel, service des données et études statistiques (SDES) du ministère
+                                                            chargé du logement
+
+  Photographies anciennes                                   IGN, BD ORTHO historique
+
+  Fibre et internet                                         Arcep, Ma connexion internet (éligibilité par adresse)
+
+  Géomètres                                                 Répertoire Sirene (INSEE), activité des géomètres
+
+  Propriétaires personnes morales                           DGFiP, fichiers des parcelles des personnes morales (diffusion Koumoul)
+
+  Diagnostics énergétiques                                  ADEME, base des DPE des logements existants
+
+  Procédures collectives                                    Bodacc, annonces commerciales (DILA)
+
+  Bâtiments                                                 IGN, BD TOPO
+
+  Réseau électrique                                         Agence ORE (gestionnaires de réseaux de distribution : Enedis, EDF Corse
+                                                            et entreprises locales) : réseau basse tension et postes de distribution
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          46 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                                      13 · Avertissement et sources
+
+
+
+
+  DONNÉE                                                    SOURCE
+
+  Taxe d'aménagement                                        DGFiP, éléments de taxation votés par les collectivités ; valeurs forfaitaires
+                                                            fixées par arrêté
+
+  Rapport officiel de risques                               Géorisques, ministère chargé de l'environnement
+
+  Zone France Ruralités Revitalisation                      ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 ; article
+                                                            44 quindecies A du code général des impôts
+
+  Marché immobilier                                         Statistiques des demandes de valeurs foncières (DVF) par commune, DGFiP
+                                                            et Etalab
+
+  Date d'extraction                                         20/11/2026
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          47 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Villedubert · AD 66
+         TerrenUrbanisme
+                                                                                                                     Annexe · règlement de la zone
+
+
+
+
+ANNEXE
+
+
+Règlement écrit · zone A
+Les pages suivantes reproduisent le chapitre du règlement officiel applicable à la zone de la parcelle
+(pages 41 à 47 du document approuvé), tel que publié sur le Géoportail de l'Urbanisme. Il s'agit d'une
+reproduction à titre d'information : seule la version approuvée tenue à disposition en mairie fait foi, avec
+ses annexes, plans et éventuelles modifications ultérieures.
+Règlement complet :
+https://data.geopf.fr/annexes/gpu/documents/DU_11422/9f7146c01ae390f3671fe6b993e38600/11422_reglement_20200603.pdf
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         48 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                            Plan Local d’Urbanisme de Villedubert
+
+
+
+
+                                                    ZONE A
+
+ARTICLE A-1 : DESTINATION DES CONSTRUCTIONS, USAGES DES SOLS ET NATURES D’ACTIVITE
+    • ARTICLE A-1.1 : DESTINATIONS OU SOUS DESTINATIONS DES CONSTRUCTIONS INTERDITES
+                Toutes les constructions et installations autres que celles mentionnées à l’article A-1.2
+
+    • ARTICLE A-1.2 : DESTINATIONS OU SOUS DESTINATIONS DES CONSTRUCTIONS SOUMISES A DES CONDITIONS
+       PARTICULIERES
+                Toutes les constructions et installations autorisées dans cette zone et ce secteur
+                 doivent respecter les prescriptions des Plans de Prévention des Risques joints en
+                 annexes du PLU.
+                Les constructions et installations nécessaires à l'exploitation agricole ou au stockage et
+                 à l'entretien de matériel agricole ;
+                Les aménagements et installations rendus nécessaires pour assurer le service public du
+                 Canal du Midi.
+                Les constructions à usage d'habitation nécessaires à l'exploitation agricole et sous
+                 réserve d'être implantées à proximité des bâtiments d'exploitation dans un rayon de 50
+                 mètres (sauf contraintes techniques liées au terrain ou à la pente).
+                Les constructions et installations nécessaires à des équipements collectifs à condition
+                 qu'elles ne soient pas incompatibles avec l'exercice d'une activité agricole, pastorale ou
+                 forestière du terrain sur lequel elles sont implantées et qu'elles ne portent pas atteinte
+                 à la sauvegarde des espaces naturels et des paysages
+                l’aménagement et l’extension des constructions existantes à usage d’habitation à
+                 condition qu’elle soit mesurée dans la limite d'une augmentation de 30% de la surface
+                 de plancher à la date d’approbation du PLU et à condition qu’elle ne porte atteinte ni à
+                 la préservation des sols agricoles et forestiers ni à la sauvegarde des sites, milieux
+                 naturels et paysages ;
+                les annexes des constructions d’habitation existantes (garage, piscine et abris de jardin)
+                 dans la limite d'une augmentation cumulée de 50 m² d’emprise à la date d’approbation
+                 du PLU, à condition qu’elles soient implantées dans un rayon de 30 m de la construction
+                 à usage d’habitation mesuré à partir de la limite d’emprise de la construction principale
+                 et qu’elle ne porte atteinte ni à la préservation des sols agricoles et forestiers ni à la
+                 sauvegarde des sites, milieux naturels et paysages.
+
+    • ARTICLE A-1.3 : USAGES ET AFFECTATIONS DES SOLS INTERDITS
+                Les terrains de camping et de caravaning et les parcs résidentiels de loisirs
+                Les habitations légères de loisirs
+                Les parcs d’attraction et les terrains de sports motorisés
+                Les dépôts de véhicules et les garages collectifs de caravanes
+                L'ouverture et l'exploitation de carrières ainsi que les décharges
+                Les affouillements et les exhaussements du sol non liés à une opération autorisée
+
+o     Dans les continuités écologiques repérées au document graphique :
+            Tous les travaux et aménagements ainsi que toutes les occupations et utilisations du sol
+               susceptibles de compromette l’existence et la qualité environnementale des continuités
+               écologiques
+            Le défrichement des bois, haies et ripisylves.
+
+    • ARTICLE A-1.4 : TYPES D’ACTIVITES INTERDITS
+Non réglementé.
+
+Pièces Ecrites                                                                                             40/67
+                                                                        Plan Local d’Urbanisme de Villedubert
+
+
+
+  • ARTICLE A-1.5 : TYPES D’ACTIVITES SOUMIS A DES CONDITIONS PARTICULIERES
+Non réglementé.
+
+  • ARTICLE A-1.6 : MIXITE FONCTIONNELLE ET SOCIALE
+Non réglementé.
+
+ARTICLE A-2 : CARACTERISTIQUES URBAINE, ARCHITECTURALE, ENVIRONNEMENTALE ET
+PAYSAGERE
+  • ARTICLE A-2.1 VOLUMETRIE ET IMPLANTATION DES CONSTRUCTIONS
+
+2.1.1 - IMPLANTATION DES CONSTRUCTIONS PAR RAPPORT AUX VOIES ET EMPRISES PUBLIQUES
+
+Les constructions et installations doivent être implantées à une distance de l’axe des routes
+départementales au moins égale à 15 m.
+
+Les constructions et installations doivent être implantées à une distance des autres voies et emprises
+publiques existantes ou à créer au moins égale à 10 m.
+
+Des implantations différentes pourront être autorisées pour les aménagements et extensions de
+constructions existantes à condition qu’elles ne diminuent pas le retrait existant ou ne nuisent pas à
+la sécurité ou à l’exécution de travaux publics et pour les bâtiments et ouvrages techniques d’intérêt
+public.
+
+Ces dispositions ne s’appliquent pas aux constructions et installations destinées aux équipements
+d’intérêt collectif et de services publics.
+
+2.1.2 - IMPLANTATION DES CONSTRUCTIONS PAR RAPPORT AUX LIMITES SEPARATIVES
+
+Les constructions et installations doivent être implantées à une distance des limites séparatives au
+moins égale à la moitié de leur hauteur, sans toutefois être inférieure à 3 mètres.
+
+Les annexes doivent être implantées soit sur une au moins des limites séparatives ou à une distance
+des limites séparatives au moins égale à la moitié de leur hauteur, sans toutefois être inférieure à 3
+mètres.
+
+Ces dispositions ne s’appliquent pas aux constructions et installations destinées aux équipements
+d’intérêt collectif et de services publics.
+
+2.1.3 - IMPLANTATION DES CONSTRUCTIONS LES UNES PAR RAPPORT AUX AUTRES SUR UNE MEME PROPRIETE
+Non règlementé
+
+2.1.4 - IMPLANTATION DES CONSTRUCTIONS PAR RAPPORT AU RESEAU HYDRAULIQUE
+Les constructions et installations doivent s’implanter avec une marge de recul au moins égale à 15
+mètres par rapport Canal du Midi depuis la limite d’emprise.
+
+Les constructions et installations doivent s’implanter avec une marge de recul au moins égale à 7
+mètres par rapport aux cours d’eau et aux fossés depuis le haut des berges.
+
+2.1.5 - HAUTEUR MAXIMUM DES CONSTRUCTIONS
+Définition de la hauteur : la hauteur des constructions est mesurée entre le niveau du sol naturel et
+l'égout du toit.
+
+Les constructions à usage agricoles ne doivent pas dépasser la hauteur maximale de 8 mètres.
+Pièces Ecrites                                                                                         41/67
+                                                                        Plan Local d’Urbanisme de Villedubert
+
+
+
+Les constructions à usage d’habitation ne doivent pas dépasser 6 mètres soit R+1.
+
+Ces dispositions ne s’appliquent pas aux constructions et installations destinées aux équipements
+d’intérêt collectif et de services publics.
+
+2.1.6 - EMPRISE AU SOL
+Non réglementé pour les constructions et installations destinées à l’exploitation agricole et forestière
+
+Pour les autres constructions et installations, l’emprise au sol ne doit pas excéder 30 % de la
+superficie de l’unité foncière.
+
+Ces dispositions ne s’appliquent pas aux constructions et installations destinées aux équipements
+d’intérêt collectif et de services publics.
+
+ • ARTICLE A-2.2 QUALITE URBAINE, ARCHITECTURALE, ENVIRONNEMENTALE ET PAYSAGERE
+Les bâtiments d'exploitation agricole ne sont pas soumis aux dispositions de cet article. Ils doivent
+cependant s'inspirer de l’architecture rurale de la région, afin de ne pas porter atteinte au caractère
+des lieux auxquels ils doivent s'intégrer.
+
+Les constructions et installations doivent présenter un aspect extérieur compatible avec le caractère
+ou l’intérêt des lieux avoisinants, en harmonie avec leur environnement architectural et paysager.
+
+Pour être autorisé, tout projet de construction nouvelle ou d’aménagement de construction déjà
+existante, doit garantir :
+           le respect des conditions satisfaisantes en matière de salubrité, de commodité,
+              d’ensoleillement et d’aspect général ;
+           une bonne adaptation au sol, la préservation de l’environnement, celle du caractère, de
+              l’intérêt et de l’harmonie des lieux ou paysages avoisinants (sites naturels, urbains,
+              perspectives monumentales…), celle de la nature du village existant, celle enfin du
+              caractère de la région, sans exclure une architecture contemporaine bien intégrée
+           la recherche d’une certaine unité de style, de forme, de volume, de proportions de
+              matériaux, de couleurs…
+
+Les matériaux pour les façades et les toitures sont ceux décrits ci-dessous, toutefois, d’autres
+matériaux peuvent être autorisés si l’architecture du bâtiment l’exige et s’ils garantissent une
+parfaite intégration à l’environnement et au site.
+
+Dans le cadre de réaménagement ou de réfection de constructions, les matériaux employés doivent
+être en harmonie avec le caractère architectural du bâti originel.
+
+2.2.1 – FAÇADES, COULEURS ET MATERIAUX
+Toutes les façades doivent présenter un traitement architectural harmonieux.
+
+L’emploi brut en parement extérieur de matériaux destinés à être recouverts d’un enduit (brique
+creuse, parpaing…) est interdit.
+
+Les couleurs vives, brillantes ou réfléchissantes sont interdites.
+
+Les appareillages de fausses pierres peintes, dessinés ou en placage sont interdits.
+
+Les matériaux utilisés pour les murs de façade doivent être en général l’enduit, la brique apparente
+ou le bois (dès lors qu’il s’intègre dans l’environnement existant).
+
+
+
+Pièces Ecrites                                                                                         42/67
+                                                                        Plan Local d’Urbanisme de Villedubert
+
+
+
+Les volets et les menuiseries faisant partie intégrante des constructions doivent être traités dans un
+nuancier de couleurs en harmonie avec la couleur de la construction concernée et des constructions
+voisines. Dans certains cas, des couleurs différentes peuvent être acceptées si elles ne sont pas de
+nature à porter atteinte au caractère du bâtiment et à l’intérêt des lieux avoisinants.
+
+2.2.2 - TOITURES
+Les toitures ne doivent pas nuire, ni à l’harmonie, ni à l’unité de la construction ou de l’ensemble des
+constructions.
+
+Pour les constructions, les toitures doivent être en tuiles de forme courbe et leur pente comprise
+entre 30 et 40 cm par mètre.
+
+Pour les annexes, des couvertures de toit de type rouleau d’asphalte pourront être employées. La
+pente de toiture des annexes ne doit pas dépasser 40 cm par mètre.
+
+Des toitures de type contemporain (terrasses végétales, toitures terrasses, etc.…) pourront être
+autorisées dès lors qu’elles s’intègrent dans le milieu environnant.
+
+La pose de capteurs ou de panneaux solaires destinés à la production d’énergie électrique et/ou
+thermique doit être intégrée dans le plan de toiture des constructions.
+Ces dispositions ne s’appliquent pas aux constructions et installations nécessaires aux services
+publics ou d’intérêt collectif, aux vérandas, aux serres et aux couvertures de piscines.
+
+2.2.3 - CLOTURES
+o Clôtures sur voies :
+Elles ne doivent pas dépasser une hauteur maximale de 1,60 mètre.
+Elles doivent être constituées par une haie vive, doublée ou non d’un grillage.
+
+o Clôtures sur limites séparatives :
+Elles ne doivent pas dépasser une hauteur maximale de 1,60 mètre.
+Elles doivent être constituées par une haie vive, doublée ou non d’un grillage.
+
+2.2.4 PRESCRIPTIONS PARTICULIERES DE NATURE A ASSURER LA PROTECTION DU PATRIMOINE BATI ET PAYSAGER
+Tous les travaux exécutés sur les constructions ou les éléments naturels faisant l’objet d’une
+protection au titre de l’article L.151-19 du Code de l’Urbanisme (éléments paysagers à préserver)
+doivent être conçus en évitant toute dénaturation des caractéristiques constituant leur intérêt. Les
+matériaux employés doivent être en harmonie avec le caractère architectural du bâti originel.
+
+2.2.5 PERFORMANCES ENERGETIQUES ET ENVIRONNEMENTALES DES CONSTRUCTIONS
+o Recours aux énergies renouvelables et aux éco-constructions :
+Le recours aux technologies et matériaux nécessaires à l’utilisation ou à la production d’énergies
+renouvelables et/ou à la conception de constructions de qualité environnementale (bâtiment basse
+consommation, bâtiment à énergie positive, construction écologique, construction bioclimatique,
+construction intégrant des procédés de récupération des eaux pluviales pour un ré-usage
+domestique…) est autorisé sous réserve d’une bonne intégration dans le paysage urbain et naturel
+environnant.
+
+Les dispositifs d’architecture bioclimatique tels que murs et toitures végétalisés sont autorisés sous
+réserve d’une bonne intégration dans le paysage urbain et naturel environnant.
+
+
+
+
+Pièces Ecrites                                                                                         43/67
+                                                                         Plan Local d’Urbanisme de Villedubert
+
+
+
+  • ARTICLE A-2.3 TRAITEMENT ENVIRONNEMENTAL ET PAYSAGER DES ESPACES NON BATIS ET ABORDS DES
+      CONSTRUCTIONS
+2.3.1 ESPACES LIBRES ET PLANTATIONS, AIRES DE JEUX ET DE LOISIRS
+Les plantations existantes doivent être maintenues ou remplacées par des plantations au moins
+équivalentes.
+
+Les espaces non bâtis doivent être plantés d’arbres d’essence locale*.
+
+*Arbres et arbustes d’essence locale : en annexes
+
+2.3.2 PREVENTION DES FEUX DE FORETS :
+Afin de limiter les risques liés aux incendies de forêts les occupations et utilisation du sol devront
+respecter les prescriptions de l’arrêté préfectoral relatif au débroussaillement n°2014143-0006 ainsi
+que les règles d’emploi du feu (arrêté préfectoral n°2013352-0003).
+
+Les plantations constituant les haies devront être constituées par des essences le moins inflammable
+possible.
+
+Les interfaces entre les nouveaux projets et les espaces naturels combustibles devront être étudiés
+afin de limiter les risques de propagation d’un incendie de l’un vers l’autre.
+
+  • ARTICLE A-2.4 – STATIONNEMENT
+Le stationnement des véhicules correspondant aux besoins des constructions et installations doit
+être assuré en dehors des voies publiques. Ces besoins doivent être déterminés en fonction du type
+de constructions et de leur fréquentation.
+
+Les places de stationnement à l’air libre doivent être constituées de matériaux perméables.
+
+ARTICLE A-3 : EQUIPEMENTS ET RESEAUX
+ • ARTICLE A-3.1 - ACCES ET VOIRIE
+Les règles d’accessibilité pour les personnes à mobilité réduite doivent être respectées.
+
+3.1.1 - ACCES
+Tous les terrains faisant l’objet de projet doivent être desservis par des voies publiques ou privées.
+
+Les caractéristiques des accès doivent répondre aux normes minimales en vigueur concernant
+l'approche des moyens de défense contre l'incendie et de protection civile ainsi que la circulation des
+véhicules des services publics. Les prescriptions spécifiques du Service Départemental d’Incendie et
+de Secours sont jointes en annexe du présent règlement.
+
+Le nombre des accès sur la voie publique peut être limité dans l'intérêt de la sécurité. En particulier
+lorsque le terrain est desservi par plusieurs voies, les constructions peuvent être autorisées sous
+réserve que l'accès soit établi sur la voie où la gêne pour la circulation sera la moindre.
+
+Les accès doivent être adaptés à la nature et à l'importance des usages qu'ils supportent et des
+opérations qu'ils desservent et aménagés de façon à apporter la moindre gêne et le moindre risque
+pour la circulation publique automobile, cycliste, piétonnière et des personnes à mobilité réduite.
+
+
+
+
+Pièces Ecrites                                                                                          44/67
+                                                                        Plan Local d’Urbanisme de Villedubert
+
+
+
+3.1.2 - VOIRIE
+Les caractéristiques des voies publiques ou privées doivent répondre aux normes minimales en
+vigueur concernant l'approche des moyens de défense contre l'incendie et de protection civile ainsi
+que la circulation des véhicules des services publics. Les prescriptions spécifiques du Service
+Départemental d’Incendie et de Secours sont jointes en annexe du présent règlement.
+
+3.1.3 – PISTES CYCLABLES ET CHEMINEMENTS PIETONNIERS
+
+Les pistes cyclables et cheminements piétonniers doivent être végétalisés ou constitués de matériaux
+perméables.
+
+  • ARTICLE A-3.2 - DESSERTE PAR LES RESEAUX
+3.2.1 - EAU
+Toute construction ou installation nouvelle qui requiert une alimentation en eau doit être raccordée
+au réseau public de distribution d'eau potable.
+
+La défense incendie (DECI) est déterminée en fonction du risque à défendre par l’arrêté préfectoral
+n°SIDPC-2017-06-13-01 du 4 Juillet 2017 portant sur le Règlement Départemental de Défense
+Extérieure Contre l’Incendie (RDDECI).
+La DECI concernant les éventuelles ICPE sera déterminée par la DREAL.
+
+3.2.2 - ASSAINISSEMENT
+1 - Eaux usées :
+Toute construction ou installation qui requiert une évacuation des eaux usées doit être raccordée au
+réseau public d'assainissement.
+
+En l’absence de réseau collectif ou en cas d’insuffisance de ce dernier, l’assainissement individuel est
+autorisé à condition que les dispositifs de traitement soient conformes à la législation en vigueur.
+Une étude géologique permettant de définir la filière d’assainissement adaptée pourra être
+demandée au propriétaire.
+
+Les dispositifs d'assainissement individuel doivent être conçus de façon à pouvoir être mis hors
+circuit et raccordés au réseau public quand celui-ci sera réalisé.
+
+L'évacuation des eaux usées non traitées dans les rivières, fossés (ou égouts d'eaux pluviales) est
+interdite.
+
+2 - Eaux pluviales, irrigation et drainage :
+Les aménagements réalisés sur le terrain doivent garantir l'écoulement des eaux pluviales dans le
+réseau collecteur.
+
+En l'absence de réseau ou en cas d’insuffisance de ce dernier, les aménagements nécessaires au libre
+écoulement des eaux pluviales (et éventuellement ceux visant à la limitation des débits évacués de la
+propriété) sont à réaliser sur le terrain.
+
+La gestion des eaux pluviales pourra se faire à la parcelle afin que les aménagements et les
+constructions puissent intégrer, dans la mesure du possible, des dispositions techniques alternatives
+telles que l’infiltration, le stockage, la récupération des eaux de toitures (citernes, bacs, …) pour une
+utilisation aux fins d’arrosage ou d’usages techniques sans rapport avec l’hygiène et l’alimentation.
+
+L’évacuation des eaux pluviales dans le Canal du Midi est formellement interdite.
+
+
+
+
+Pièces Ecrites                                                                                         45/67
+                                                                   Plan Local d’Urbanisme de Villedubert
+
+
+
+3.2.3 - ELECTRICITE ET TELECOMMUNICATION
+Les réseaux d'électricité et de téléphone ainsi que les branchements sur parcelles privées doivent
+être réalisés en souterrain, sauf en cas d’impossibilité technique justifiée.
+
+Les locaux et les installations techniques (boitiers, coffrets, armoires, regards…) nécessaires au
+fonctionnement des réseaux doivent être intégrés aux constructions (bâtiments, murs de clôtures…)
+ou enterrés sous le domaine public.
+
+3.2.4 – COMMUNICATIONS ELECTRONIQUES
+Pour les nouvelles constructions, le raccordement aux réseaux de communication électronique haut
+débit ou très haut débit est obligatoire lorsqu’ils existent.
+
+
+
+
+Pièces Ecrites                                                                                    46/67
+                    TerrenUrbanisme
+
+    Merci de votre confiance
+Ce rapport a été établi à partir des sources publiques officielles pour vous
+  aider à décider en connaissance de cause. Pour toute question, nous
+                        restons à votre disposition.
+
+
+
+
+   Vous êtes professionnel ? Travaillons ensemble
+      Agents immobiliers, notaires, architectes, géomètres, diagnostiqueurs,
+promoteurs, mairies : faisons équipe. Crédits professionnels sans abonnement, 5
+€ le rapport dès 50 crédits, votre logo sur les rapports, offre communale pour les
+                       mairies et partenariats sur mesure.
+
+               Écrivez-nous : contact@terrenurbanisme.com
+
+
+
+
+                        terrenurbanisme.com
+                         contact@terrenurbanisme.com
+

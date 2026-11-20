@@ -1,0 +1,2618 @@
+                  TerrenUrbanisme
+                  Le terrain constructible, partout en France
+
+
+
+
+RAPPORT D'URBANISME
+
+
+
+Lyon
+Section AL · Parcelle n° 24
+      Sous conditions
+
+
+
+
+Référence cadastrale                                                        Surface cadastrale
+69382000AL0024                                                              535 m²
+
+Rapport établi le                                                           Référence du rapport
+20/11/2026                                                                  APERCU
+
+
+
+
+terrenurbanisme.com                                                                      contact@terrenurbanisme.com
+
+Document d'information sans valeur contractuelle ni réglementaire. Il ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme
+et ne peut en aucun cas être joint à une demande de permis de construire ou de déclaration préalable. Seuls les actes de l'administration font foi.
+                                                                                                                           Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                                           Sommaire
+
+
+
+
+Sommaire
+Le rapport suit l'ordre d'une étude de terrain : où se trouve la parcelle, ce que dit la règle, ce qui pèse sur le
+projet, puis les démarches.
+
+              Synthèse
+   S                                                                                                                              p. 3
+              Le verdict, les indicateurs clés et les points d'attention en une page.
+
+              Identification de la parcelle
+   01                                                                                                                             p. 4
+              Localisation, surface, références cadastrales et voisinage du terrain.
+
+              Règles d'urbanisme applicables
+  02                                                                                                                              p. 7
+              Document d'urbanisme, zone du terrain, prescriptions et servitudes.
+
+              Ce que vous pouvez construire
+  03                                                                                                                             p. 13
+              Surface constructible, hauteur, reculs, aspect et usages autorisés.
+
+              Loi Littoral et loi Montagne
+  04                                                                                                                             p. 19
+              Les lois qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+              Risques naturels et technologiques
+  05                                                                                                                            p. 20
+              Inondation, feu de forêt, argiles, catastrophes naturelles et sites pollués.
+
+              Le terrain : accès, relief et réseaux
+  06                                                                                                                            p. 24
+              Accès, pente, ensoleillement, eaux usées, électricité, eau et fibre.
+
+              Environnement et marché immobilier
+  07                                                                                                                             p. 31
+              Espaces naturels, espèces protégées et ventes immobilières alentour.
+
+              Historique du site
+  08                                                                                                                            p. 34
+              Le terrain vu du ciel au fil des années et les permis accordés autour.
+
+              Opportunités autour du terrain
+  09                                                                                                                            p. 36
+              Grands terrains peu bâtis et logements énergivores à proximité.
+
+              Votre projet, étape par étape
+   10                                                                                                                           p. 38
+              De l'achat aux impôts : démarches, délais, coûts, contacts et taxe.
+
+              État des risques (ERP) pré-rempli
+   11                                                                                                                           p. 42
+              Le formulaire réglementaire à remettre à l'acquéreur, pré-rempli.
+
+              Avertissement et sources
+   12                                                                                                                           p. 44
+              La portée de ce rapport et les sources publiques consultées.
+
+
+
+
+Astuce : cliquez sur un chapitre pour y accéder directement.
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                            2 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                                                      Synthèse
+
+
+
+
+Synthèse
+     Document d'information. Ce rapport ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme,
+     n'engage pas l'administration et ne peut pas servir de pièce à une demande de permis de construire.
+     L'appréciation ci-dessous est indicative : seule la mairie se prononce sur la constructibilité d'un terrain,
+     au vu d'un projet précis.
+
+
+
+
+       SOUS CONDITIONS
+
+       Accord de l'architecte des Bâtiments de France obligatoire
+       La parcelle est classée en zone UCe1b (urbaine) du PLU intercommunal de Lyon. Les
+       constructions y sont admises dans le respect du règlement de la zone. Des contraintes
+       particulières (risques ou protection du littoral) encadrent les projets. Le terrain est situé
+       aux abords d'un monument historique (3 place Bellecour, 9 place Bellecour 20 rue
+       Gasparin) : l'architecte des Bâtiments de France donne son avis sur les travaux et peut
+       imposer des prescriptions (matériaux, couleurs, volumes).
+
+
+
+
+      Zone principale                                        Document d'urbanisme                                  Loi Littoral
+
+   UCe1b · 100 %                                          PLUI                                                   Ne s'applique pas
+
+
+
+
+      Loi Montagne                                           Risques à la parcelle
+
+   Ne s'applique pas                                      Inondation · Remontée de
+                                                          nappe (+3)
+
+
+
+
+Points d'attention
+    Zone UCe1b (100 % de la parcelle) : constructible.
+    Prescription du PLU : Risque d inondation par ruissellement-ZONE PRODUCTION.
+    Abords de monument historique (3 place Bellecour, 9 place Bellecour 20 rue Gasparin) : accord de l'architecte des
+    Bâtiments de France pour les travaux.
+    Site classé ou inscrit (Centre Historique de Lyon) : avis de l'architecte des Bâtiments de France, autorisation
+    spéciale en site classé.
+    Retrait-gonflement des argiles (exposition moyenne) : en cas de vente d'un terrain non bâti constructible, le
+    vendeur doit fournir une étude géotechnique préalable (loi ELAN, article L. 132-5 du Code de la construction et de
+    l'habitation) ; une étude géotechnique de conception est exigée avant de construire.
+    Pollution des sols : concerné à l'adresse de la parcelle (voir le chapitre « Risques naturels et technologiques »).
+    24 arrêtés de catastrophe naturelle sur la commune.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      3 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                         Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+    01             Identification de la parcelle
+     DANS CETTE SECTION
+
+     Où se trouve le terrain, sa surface, ses références cadastrales, son propriétaire lorsqu'il s'agit
+     d'une société ou d'une collectivité, et la performance énergétique du bâti existant.
+
+
+Données du cadastre (DGFiP) et de l'IGN.
+
+
+     Plan de situation
+
+
+
+
+                                                                                                                            1 km
+
+
+
+Plan IGN · © IGN
+
+
+
+     Vue aérienne et plan cadastral
+
+
+
+
+                                                                                                                                     25 m
+
+
+
+Photographie aérienne et plan cadastral · © IGN
+
+
+Commune                                                  Lyon (69382)
+
+Département                                              Rhône (69)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           4 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                         Lyon · AL 24
+          TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+Section et numéro                                        Section AL, parcelle n° 24, feuille 1
+
+Identifiant cadastral                                    69382000AL0024
+
+Surface cadastrale                                       535 m²
+
+Surface calculée (SIG)                                   535 m² · périmètre 132 m
+
+Coordonnées du centre                                    45.75800 N, 4.83487 E (WGS 84)
+
+Altitude                                                 de 167 à 168 m
+
+Pente estimée                                            4 % (terrain plutôt plat)
+
+Parcelles voisines                                       AL 20, AL 21, AL 22, AL 23, AL 25
+
+
+Le plan cadastral est un document fiscal : il ne fait pas foi des limites de propriété. Seul un bornage réalisé par un
+géomètre-expert fixe les limites de manière certaine.
+
+
+1.1 Propriétaire et voisinage
+     La parcelle appartient à une personne morale : 6EME SENS RETAIL (SAS) · SIREN 801626193. Le gérant
+     ou le représentant légal se retrouve à partir du numéro SIREN sur annuaire-entreprises.data.gouv.fr.
+
+
+
+Parcelles voisines détenues par des sociétés ou des collectivités
+  PARCELLE              PROPRIÉTAIRE                                                                     SURFACE            SIREN
+
+  AL 20                 NAMI INVESTMENT (AUDP)                                                           1 568 m²           505183731
+
+  AL 21                 5 RUE DE LA BARRE (SC)                                                           228 m²             839226099
+
+
+
+Principaux propriétaires personnes morales dans un rayon de 280 m
+  PROPRIÉTAIRE                                                              PARCELLES             SURFACE TOTALE            SIREN
+
+  GHD COMMERCES (SAS)                                                       2                     23 103 m²                 534628367
+
+  FAVRE DE FOS SAS (SAS)                                                    5                     4 369 m²                  957524010
+
+  LAMY SA (SA)                                                              2                     2 666 m²                  323842450
+
+  SCI LYON 2 (SCI)                                                          4                     2 639 m²                  789278488
+
+  SCI LYON 1 (SCI)                                                          7                     2 582 m²                  789277910
+
+  PETITPIERRE ET SABATIER - RIL (SAS)                                       4                     2 080 m²                  973507999
+
+  FONCIA LIMOUZI LYON (SAS)                                                 2                     2 078 m²                  958513426
+
+  GALYO (SA)                                                                3                     2 013 m²                  351155668
+
+
+
+Source : fichiers des parcelles des personnes morales (DGFiP) : sociétés, SCI, collectivités, établissements publics et associations.
+Les propriétaires personnes physiques n'y figurent pas.
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           5 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                         Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+1.2 Bâti existant : diagnostics de performance énergétique
+  DATE                  LOGEMENT                SURFACE             ÉNERGIE          CLIMAT          ADRESSE
+
+  14/09/2026            Appartement             67 m²               E                C               Lyon
+
+  28/06/2025            Appartement             71 m²               D                D               Lyon
+
+  04/04/2025            Immeuble                –                   D                D               Lyon
+
+  04/03/2025            Appartement             49 m²               D                B               Lyon
+
+  25/11/2024            Appartement             31 m²               D                B               4 Place Le Viste 69002 Lyon
+
+  25/11/2024            Appartement             31 m²               D                B               4 Place Le Viste 69002 Lyon
+
+  19/09/2024            Appartement             55 m²               F                F               4 Place Le Viste 69002 Lyon
+
+
+
+Logement classé F ou G : il est considéré comme une passoire énergétique. La location des logements G est interdite depuis 2025
+et celle des logements F le sera en 2028 ; un audit énergétique est obligatoire pour les vendre. Source : ADEME, diagnostics établis
+depuis juillet 2021 et géolocalisés à l'adresse. Un diagnostic se rapporte à un logement précis et reste valable dix ans.
+
+
+1.3 La commune de Lyon
+Code postal                                              69001, 69002, 69003, 69004, 69005, 69006, 69007, 69008, 69009
+
+Département                                              Rhône (69)
+
+Intercommunalité                                         Métropole de Lyon
+
+Population                                               519 127 habitants
+
+Superficie                                               47,97 km²
+
+Densité                                                  10 821 habitants par km²
+
+Commune littorale                                        Non
+
+Commune de montagne                                      Non
+
+Document d'urbanisme                                     Plan local d'urbanisme intercommunal (PLUi)
+
+Risques sur la commune                                   24 arrêtés de catastrophe naturelle · détail en section Risques et en
+                                                         annexe
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           6 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+    02             Règles d'urbanisme applicables
+     DANS CETTE SECTION
+
+     Le document d'urbanisme de la commune, la zone dans laquelle se trouve le terrain, et les
+     prescriptions et servitudes qui s'y ajoutent.
+
+
+Géoportail de l'Urbanisme : zonage, prescriptions et servitudes.
+
+
+
+2.1 Document d'urbanisme en vigueur
+Type de document                                         Plan local d'urbanisme intercommunal (PLUi)
+
+Date d'approbation                                       Non renseigné
+
+Statut                                                   Publié au Géoportail de l'Urbanisme
+
+Règlement officiel                                       Ouvrir le document officiel (PDF)
+
+
+
+     Plan de zonage du PLU
+
+
+
+
+                                                                            UCe1b
+
+
+
+
+                                                                                                                           50 m
+
+
+
+Zonage : Géoportail de l'Urbanisme · fond : © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                     7 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.2 Zonage de la parcelle
+  ZONE                  DÉSIGNATION                                                         PART               CONSTRUCTIBILITÉ
+
+  UCe1b                 Tissu urbain dense a caractere patrimonial                          100 %              Constructible
+                        qui regroupe toutes les fonctions des centres
+                        urbains. Il est constitue d ilots profonds tres
+                        occupes par le bati avec peu d espaces
+                        vegetalises.
+
+
+
+Zone UCe1b · Urbaine
+Zone urbaine : secteur déjà urbanisé où les équipements publics existants ou en cours de réalisation
+permettent d'accueillir des constructions. Les constructions y sont admises dans le respect du règlement de la
+zone (destinations, implantation, hauteur, emprise, aspect).
+
+
+2.3 Prescriptions applicables à la parcelle
+  PRESCRIPTION                                                                                       TYPE
+
+  Polarite commerciale                                                                               Prescription du PLU (type 51)
+
+  Secteur de stationnement-Aa                                                                        Prescription du PLU (type 44)
+
+  OAP-0.1                                                                                            Prescription du PLU (type 18)
+
+  Secteur de mixite sociale                                                                          Prescription du PLU (type 17)
+
+  Secteur de taille minimale des logements-1                                                         Prescription du PLU (type 23)
+
+  Risque d inondation par ruissellement-ZONE PRODUCTION                                              Prescription du PLU (type 02)
+
+  Diversite commerciale a proteger ou a developper-TOUTACTI                                          Prescription du PLU (type 22)
+
+  Polarite d hebergement hotelier et touristique                                                     Prescription du PLU (type 51)
+
+  Hauteur Max-22                                                                                     Prescription du PLU (type 39)
+
+
+
+
+2.4 Informations complémentaires du PLU
+  INFORMATION                                                                                        TYPE
+
+  Zone d assainissement-NONZONE                                                                      Information du PLU (type 19)
+
+  Zone d exposition au bruit                                                                         Information du PLU (type 14)
+
+  Perimetre d un bien inscrit au patrimoine mondial                                                  Information du PLU (type 40)
+
+  Zone d assainissement-COLLECTI                                                                     Information du PLU (type 19)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      8 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+  INFORMATION                                                                                        TYPE
+
+  Reseau de chaleur urbain                                                                           Information du PLU (type 99)
+
+
+
+
+2.5 Servitudes d'utilité publique
+  CODE               SERVITUDE                                                                    DÉTAIL
+
+  AC1                Monument historique (abords)                                                 AC1 3-place-Bellecour-I7NVER abor
+
+  AC1                Monument historique (abords)                                                 AC1
+                                                                                                  9-place-Bellecour---20-rue-Gasparin-
+                                                                                                  I1CJZU abor
+
+  AC1                Monument historique (abords)                                                 AC1 Porte-sur-rue-IPVFRN abor
+
+  AC1                Monument historique (abords)                                                 AC1 36-place-Bellecour-IQ590H abor
+
+  AC1                Monument historique (abords)                                                 AC1
+                                                                                                  7-rue-Antoine-de-Saint-Exupery---place-
+                                                                                                  Bellecour-IWKKO5 abor
+
+  AC1                Monument historique (abords)                                                 AC1 22-place-Bellecour-IANDWR abor
+
+  AC1                Monument historique (abords)                                                 AC1
+                                                                                                  1-place-Le-Viste---1-rue-de-la-Barre-
+                                                                                                  IUJ6SB mh
+
+  AC1                Monument historique (abords)                                                 AC1 30-place-Bellecour-IQO36G abor
+
+  AC1                Monument historique (abords)                                                 AC1 29-place-Bellecour-ISGI5F abor
+
+  AC1                Monument historique (abords)                                                 AC1 26-place-Bellecour-I7JSEY abor
+
+  AC1                Monument historique (abords)                                                 AC1 16-place-Bellecour-IOA7DI abor
+
+  AC1                Monument historique (abords)                                                 AC1 21-place-Bellecour-IV0BD4 abor
+
+  AC1                Monument historique (abords)                                                 AC1
+                                                                                                  12-place-Bellecour---106-rue-Ed-Herriot-
+                                                                                                  IJVTAV abor
+
+  AC1                Monument historique (abords)                                                 AC1 28-place-Bellecour-INVZS7 abor
+
+  AC1                Monument historique (abords)                                                 AC1
+                                                                                                  15-place-Bellecour---2-place-Le-Viste-
+                                                                                                  I5H39H abor
+
+  AC1                Monument historique (abords)                                                 AC1 Immeuble-I02U16 abor
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                     9 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+  CODE               SERVITUDE                                                                    DÉTAIL
+
+  AC1                Monument historique (abords)                                                 AC1
+                                                                                                  24-bis-place-Bellecour-1-rue-Auguste-
+                                                                                                  Comte-IXVFOS abor
+
+  AC1                Monument historique (abords)                                                 AC1 5-place-Bellecour-IE3NYN abor
+
+  AC1                Monument historique (abords)                                                 AC1 5-place-Le-Viste---68-rue-de-la-
+                                                                                                  Republique-ICZC8O abor
+
+  AC1                Monument historique (abords)                                                 AC1 1-rue-de-Boissac-IO40D5 abor
+
+  AC1                Monument historique (abords)                                                 AC1 Theatre-des-Celestins-IRLN9U abor
+
+  AC1                Monument historique (abords)                                                 AC1 Fontaine-des-Jacobins-ICXLO7 abor
+
+  AC1                Monument historique (abords)                                                 AC1 6-place-Bellecour-IUX76B abor
+
+  AC1                Monument historique (abords)                                                 AC1 Statue-de-Louis-XIV-situee-place-
+                                                                                                  Bellecour-I7MB3O abor
+
+  AC1                Monument historique (abords)                                                 AC1 Hotel-Horace-Cardon-Ancien-I8PR0P
+                                                                                                  abor
+
+  AC1                Monument historique (abords)                                                 AC1 24-place-Bellecour-IU4WG2 abor
+
+  AC1                Monument historique (abords)                                                 AC1 4-place-Bellecour-I0X2L3 abor
+
+  AC1                Monument historique (abords)                                                 AC1 Immeuble-INB9KW abor
+
+  AC1                Monument historique (abords)                                                 AC1 Hotel-hors-parties-classees-IBUNEJ
+                                                                                                  abor
+
+  AC1                Monument historique (abords)                                                 AC1
+                                                                                                  1-place-Le-Viste---1-rue-de-la-Barre-
+                                                                                                  IUJ6SB abor
+
+  AC1                Monument historique (abords)                                                 AC1
+                                                                                                  33-place-Bellecour---3-rue-Paul-Lintier-
+                                                                                                  IMTQLP abor
+
+  AC1                Monument historique (abords)                                                 AC1
+                                                                                                  19-place-Bellecour---1-place-Antonin-
+                                                                                                  Poncet-IB9VGP abor
+
+  AC1                Monument historique (abords)                                                 AC1 18-place-Bellecour-IFPIB2 abor
+
+  AC1                Monument historique (abords)                                                 AC1 23-place-Bellecour-IU93VD abor
+
+  AC1                Monument historique (abords)                                                 AC1 Hotel-de-Varey-IVS5F3 abor
+
+  AC1                Monument historique (abords)                                                 AC1 31-place-Bellecour-IEBG8H abor
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                     10 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+  CODE               SERVITUDE                                                                    DÉTAIL
+
+  PM1                Plan de prévention des risques naturels (PPRN)                               PM1 GlLynVlBn ass
+
+  AC1                Monument historique (abords)                                                 AC1 7-place-Bellecour---rue-Emile-Zola-
+                                                                                                  ICQCJ7 abor
+
+  AC1                Monument historique (abords)                                                 AC1 20-place-Bellecour---2-rue-de-la-
+                                                                                                  Charite-I6BU04 abor
+
+  AC1                Monument historique (abords)                                                 AC1 11-place-Bellecour-IEGAUB abor
+
+  AC1                Monument historique (abords)                                                 AC1
+                                                                                                  27-place-Bellecour---2-rue-de-Boissac-
+                                                                                                  I88PGS abor
+
+  AC1                Monument historique (abords)                                                 AC1 4-rue-Paul-Lintier---place-Bellecour-
+                                                                                                  ILT3ON abor
+
+  AC1                Monument historique (abords)                                                 AC1 35-place-Bellecour-I5ICTE abor
+
+  AC1                Monument historique (abords)                                                 AC1 17-place-Bellecour-IAQNPN abor
+
+  AC1                Monument historique (abords)                                                 AC1 4-rue-Victor-Hugo-IE0A2K abor
+
+  AC1                Monument historique (abords)                                                 AC1 1-rue-Victor-Hugo---place-Bellecour-
+                                                                                                  IS58OV abor
+
+  AC1                Monument historique (abords)                                                 AC1
+                                                                                                  10-place-Bellecour---29-rue-Gasparin-
+                                                                                                  IM368R abor
+
+  AC1                Monument historique (abords)                                                 AC1 25-place-Bellecour-IUOE3I abor
+
+  AC1                Monument historique (abords)                                                 AC1 4-place-Le-Viste---rue-de-la-
+                                                                                                  Republique-I6O7XR mh
+
+  AC1                Monument historique (abords)                                                 AC1 Place-Le-Viste--105-rue-Ed-Herriot-
+                                                                                                  ISY3OE abor
+
+  AC1                Monument historique (abords)                                                 AC1 2-place-Bellecour-I5KEI2 abor
+
+  AC1                Monument historique (abords)                                                 AC1 4-place-Le-Viste---rue-de-la-
+                                                                                                  Republique-I6O7XR abor
+
+  AC1                Monument historique (abords)                                                 AC1
+                                                                                                  8-place-Bellecour---17-rue-Emile-Zola-
+                                                                                                  IEYPLY abor
+
+  AC1                Monument historique (abords)                                                 AC1 1-place-Bellecour-I5LCCU abor
+
+  AC1                Monument historique (abords)                                                 AC1 Immeuble-IQALET abor
+
+  AC1                Monument historique (abords)                                                 AC1 Hotel-Dieu-ISD3LQ abor
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                     11 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                         Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+  CODE               SERVITUDE                                                                    DÉTAIL
+
+  AC2                Site inscrit ou classé                                                       AC2 SI409 ass
+
+  AC1                Monument historique (abords)                                                 AC1 Immeuble-II1X57 abor
+
+  AC1                Monument historique (abords)                                                 AC1 37-place-Bellecour---rue-Col-
+                                                                                                  Chambonnet-ISVWF0 abor
+
+  AC1                Monument historique (abords)                                                 AC1 34-place-Bellecour-INAGI5 abor
+
+
+
+
+2.6 Patrimoine : l'architecte des Bâtiments de France
+     En clair : le terrain est aux abords d'un monument historique. Les travaux visibles de l'extérieur doivent
+     recevoir l'accord de l'architecte des Bâtiments de France, qui peut imposer des prescriptions.
+
+
+
+  PROTECTION                                NOM                                                CE QUE CELA IMPLIQUE
+
+  Site classé ou inscrit                    Centre Historique de Lyon                          Site inscrit : avis de l'architecte. Site classé :
+                                                                                               autorisation spéciale du préfet ou du ministre
+
+  Abords de monument                        3 place Bellecour                                  Accord de l'architecte pour les travaux visibles
+  historique                                                                                   (périmètre publié)
+
+  Abords de monument                        9 place Bellecour 20 rue Gasparin                  Accord de l'architecte pour les travaux visibles
+  historique                                                                                   (périmètre publié)
+
+  Abords de monument                        Porte sur rue                                      Accord de l'architecte pour les travaux visibles
+  historique                                                                                   (périmètre publié)
+
+  Abords de monument                        36 place Bellecour                                 Accord de l'architecte pour les travaux visibles
+  historique                                                                                   (périmètre publié)
+
+  Abords de monument                        7 rue Antoine de Saint Exupéry                     Accord de l'architecte pour les travaux visibles
+  historique                                place Bellecour                                    (périmètre publié)
+
+  Abords de monument                        22 place Bellecour                                 Accord de l'architecte pour les travaux visibles
+  historique                                                                                   (périmètre publié)
+
+
+
+Conseils : consulter l'architecte des Bâtiments de France (unité départementale de l'architecture et du patrimoine,
+joignable par la mairie) avant de dessiner le projet ; prévoir un délai d'instruction majoré d'un mois ; soigner
+l'insertion (matériaux, teintes, toitures, clôtures) dès l'esquisse.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           12 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    03             Ce que vous pouvez construire
+     DANS CETTE SECTION
+
+     La lecture du règlement de votre zone : surface constructible estimée, hauteur, reculs, aspect,
+     usages autorisés ou interdits, avec les extraits du texte officiel.
+
+
+Lecture du règlement écrit de la zone UCe1b, pages 121 à 134 du règlement officiel.
+
+
+
+3.1 Potentiel constructible estimé
+     En clair : le règlement de la zone ne fixe pas de surface maximale au sol. La construction doit
+     seulement rester dans la zone d'implantation, en retrait des limites et des voies. Cette zone de 101 m²
+     n'est pas une surface à construire : c'est l'espace à l'intérieur duquel la maison doit se placer. La
+     surface réellement constructible dépend de l'accès, du stationnement, de l'assainissement et de la
+     pente.
+
+
+
+Surface du terrain                                       535 m²
+
+Zone d'implantation possible                             101 m² après reculs (4 m des limites)
+
+Emprise au sol maximale                                  Non fixée par le règlement
+
+Hauteur maximale                                         Non précisée
+
+Espaces verts imposés                                    15 % du terrain au moins
+
+
+
+     Zone d'implantation possible (estimation)
+
+
+
+
+                                                                                                                                  25 m
+
+
+
+En vert : partie du terrain hors reculs réglementaires · fond © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      13 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.2 Étude d'implantation indicative
+     La zone constructible est trop étroite pour y placer une maison courante (moins de 50 m² au sol d'un
+     seul tenant). Une construction reste envisageable avec un plan sur mesure ; un architecte pourra le
+     confirmer.
+
+
+
+Estimation théorique établie à partir des règles chiffrées du règlement (reculs, emprise, hauteur) et de la géométrie
+cadastrale. Elle ne tient pas compte des servitudes, des risques, de la pente, des règles de stationnement et d'aspect, ni
+des dispositions particulières : seul un architecte ou un géomètre peut confirmer le potentiel réel.
+
+
+3.3 Caractère de la zone
+La zone UCe1 (centre ancien imbriqué) est un tissu urbain dense à caractère patrimonial, regroupant
+toutes les fonctions des centres urbains, avec des îlots profonds très occupés par le bâti et peu
+d'espaces végétalisés. Les objectifs sont de conserver la structure urbaine patrimoniale (front bâti
+continu le long des rues, urbanisme de cours en cœur d'îlot), de préserver les volumétries et de favoriser
+la mixité fonctionnelle. Le secteur UCe1b (notamment la Presqu'île de Lyon) se distingue par une bande
+de constructibilité principale plus profonde (30 m) qu'en UCe1a (17 m).
+
+
+3.4 Règles de construction
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Surface minimale ou                          Non précisé dans le règlement de la zone                                         Chapitre 1 –
+  caractéristiques du terrain                                                                                                   Zone UCe1
+
+  Accès et voirie                              Non précisé dans le règlement de la zone (extrait fourni)                        Non précisé
+
+  Réseaux et assainissement                    Non précisé dans le règlement de la zone (extrait fourni). La                    Non précisé
+                                               gestion de l'eau pluviale renvoie au chapitre 6 de la partie I
+                                               (non fourni).
+
+  Implantation par rapport                     Les constructions de premier rang sont implantées en limite de                   art. 2.1.1 et 2.1.2
+  aux voies                                    référence ou en limite de la marge de recul. Reculs ponctuels
+                                               de façade admis pour motifs de composition architecturale ou
+                                               façades végétalisées. Équipements d'intérêt collectif et
+                                               services publics : implantation en limite ou en recul possible en
+                                               cas de contraintes. Règles alternatives prévues (séquence
+                                               urbaine, éléments végétaux ou patrimoniaux, terrain d'angle,
+                                               extension, isolation en saillie de 30 cm maximum...).
+
+  Implantation par rapport                     Dans la bande de constructibilité principale (30 m en UCe1b) :                   art. 2.2.1.1,
+  aux limites séparatives                      implantation sur les deux limites séparatives latérales (césure                  2.2.1.2 b et
+                                               ou fractionnement possibles). Dans la bande de constructibilité                  2.2.2
+                                               secondaire en UCe1b : constructions en retrait des limites
+                                               séparatives, retrait d'au moins 4 mètres. Règles alternatives
+                                               prévues (2.2.2).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           14 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Implantation des                             Distance minimale entre constructions non contiguës sur un                       art. 2.3.1
+  constructions entre elles                    même terrain, hors césures et fractionnements : 4 mètres dans
+                                               le secteur UCe1b. Non réglementée pour les annexes et pour
+                                               les équipements d'intérêt collectif et services publics.
+
+  Emprise au sol                               Non réglementé (sauf coefficient d'emprise au sol figurant aux                   art. 2.4.1, 2.4.2
+                                               documents graphiques, qui se substitue, hors équipements                         et 2.4.3
+                                               d'intérêt collectif). Extension de constructions existantes
+                                               dépassant la règle : limitée à +5 % de l'emprise existante.
+
+  Hauteur maximale                             La hauteur de façade maximale est fixée par les documents                        art. 2.5.1 et
+                                               graphiques (plan des hauteurs) ; valeur non précisée dans le                     2.5.2
+                                               texte. Rez-de-chaussée en limite de référence concerné par
+                                               un linéaire, de destination autre que l'habitation ou de hauteur
+                                               de façade >= 16 m : hauteur minimale de 3,50 m sur 7 m de
+                                               profondeur. Dans la bande de constructibilité secondaire en
+                                               limite d'une zone URi1, URi2, AURi1 ou AURi2 : gabarit de 3,50 m
+                                               à l'aplomb de la limite sur 5 m de profondeur. Volume
+                                               enveloppe de toiture et de couronnement (VETC) à respecter.
+                                               Modulation possible d'un niveau pour épannelage harmonieux ;
+                                               dépassement jusqu'à 20 % de la hauteur de façade (limité à un
+                                               niveau) pour exemplarité énergétique ou environnementale.
+
+  Aspect extérieur et toitures                 Volume enveloppe de toiture et de couronnement (VETC)                            art. 2.5.1.2
+                                               intermédiaire ; seul le VETC bas s'applique aux constructions
+                                               d'un seul niveau. Les dispositions détaillées figurent au
+                                               chapitre 4 (non fourni dans l'extrait).
+
+  Matériaux et couleurs                        Non précisé dans l'extrait fourni (chapitre 4 non inclus)                        Non précisé
+
+  Clôtures                                     Non précisé dans l'extrait fourni (chapitre 4 non inclus)                        Non précisé
+
+  Stationnement                                Non précisé dans l'extrait fourni (chapitre 5 non inclus).                       art. 1.2.2.2
+                                               Stationnements en sous-sol ou en silo admis dans la bande de
+                                               constructibilité secondaire.
+
+  Espaces verts et plantations                 Coefficient de pleine terre d'au moins 15 % (sauf valeur                         art. 3.2.1, 3.3.1
+                                               graphique ; non applicable aux équipements d'intérêt collectif                   et 3.3.2
+                                               en cas de contraintes). Un arbre de haute tige par tranche
+                                               complète de 50 m² de pleine terre minimale. Espaces de pleine
+                                               terre intégralement végétalisés. Aires de stationnement en
+                                               surface : un arbre pour 4 places (<= 1 500 m²) ou un arbre pour
+                                               8 places avec ombrières photovoltaïques sur au moins la
+                                               moitié de la surface (> 1 500 m²).
+
+  Densité ou coefficient                       Pas de COS. Densité encadrée par la hauteur graphique, la                        art. 1.2.2.1,
+                                               bande de constructibilité (30 m en UCe1b) et le coefficient de                   2.5.1.1 et 3.2.1
+                                               pleine terre de 15 %.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           15 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.5 Usages autorisés
+    Toutes les destinations sont admises (aucune destination interdite : « Néant »), sous réserve des conditions
+    ci-après.
+    Commerce de détail et artisanat destiné principalement à la vente de biens et services : jusqu'à 100 m² de
+    surface de plancher par unité (ou plafond de la polarité commerciale).
+    Hébergement hôtelier et touristique : jusqu'à 40 chambres (ou plafond de la polarité).
+    Bureaux : jusqu'à 5 000 m² de surface de plancher (ou plafond de la polarité bureau).
+    Dans la bande de constructibilité secondaire (secteur UCe1b) : équipements d'intérêt collectif et services
+    publics ; démolition/reconstruction ou restructuration lourde de constructions existantes ; annexes ;
+    extensions de constructions existantes ; stationnements en sous-sol ou en silo.
+    Dans la bande de constructibilité principale (30 m) : constructions neuves implantées en front bâti continu.
+
+
+3.6 Usages interdits ou soumis à conditions
+    Interdit : occupations et utilisations du sol de nature à porter atteinte au caractère de la zone.
+    Interdit : terrains de camping et parcs résidentiels de loisirs, sauf équipements d'intérêt collectif et
+    services publics.
+    Interdit hors terrains aménagés : résidences démontables, résidences mobiles de loisirs et des gens du
+    voyage, habitations légères de loisirs, caravanes et tentes.
+    Interdit : garages collectifs de caravanes et de résidences mobiles de loisirs.
+    Interdit : cuisines dédiées à la vente en ligne.
+    Commerce de détail et artisanat : maximum 100 m² de surface de plancher par unité commerciale (ou
+    plafond de la polarité) ; seuil non applicable aux commerces liés aux deux-roues et à l'automobile ;
+    augmentation de 10 % de la surface existante toujours admise.
+    Hébergement hôtelier et touristique : maximum 40 chambres (ou plafond de la polarité) ; augmentation de
+    20 % du nombre de chambres existantes admise.
+    Bureaux : maximum 5 000 m² de surface de plancher (ou plafond de la polarité bureau).
+    Ouvrages d'infrastructure terrestre et fluviale : conception, localisation et dimensions assurant leur
+    insertion avec le tissu urbain.
+    Dépôts de véhicules (au moins 10 unités) : soumis à conditions.
+    Dépôts de matériaux non couverts : liés et nécessaires à des travaux de construction ou occupations
+    admises.
+    Affouillements et exhaussements : liés et nécessaires à des constructions admises ou à la lutte contre des
+    risques ou nuisances.
+    Stockage de terres excavées à l'air libre : hauteur maximale de 4 m, nuisances et impact visuel minimisés.
+    Dans la bande de constructibilité secondaire du secteur UCe1b : seules les constructions listées
+    (équipements publics, démolition/reconstruction, annexes, extensions, stationnement en sous-sol ou silo)
+    sont admises.
+    Linéaires commerciaux/artisanaux ou toutes activités éventuels : destination du rez-de-chaussée imposée
+    sur 7 m de profondeur (partie I).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      16 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.7 Points de vigilance pour votre projet
+    Consulter les documents graphiques : hauteur de façade maximale (plan des hauteurs), éventuel
+    coefficient d'emprise au sol, coefficient de pleine terre graphique, linéaires commerciaux, polarités.
+    Vérifier la profondeur de la bande de constructibilité principale (30 m en UCe1b) et si la parcelle est en
+    bande secondaire.
+    Vérifier la partie III du règlement (périmètres d'intérêt patrimonial, éléments bâtis patrimoniaux, SMF, SMS,
+    taille minimale des logements).
+    Vérifier les seuils de surface de plancher : 100 m² par commerce, 40 chambres, 5 000 m² de bureaux.
+    Vérifier si le site est situé dans un site patrimonial remarquable (AVAP) dont le règlement prévaut sur
+    certaines règles.
+    Chapitres 4 (qualité urbaine), 5 (stationnement) et 6 (réseaux) non fournis dans l'extrait : à consulter.
+    Vérifier le plan d'exposition au bruit, les servitudes d'utilité publique et le règlement de voirie (saillies et
+    débords).
+
+
+3.8 Extraits du règlement
+
+     art. 1.2.2.1 · page 123
+     « La profondeur de la bande de constructibilité principale* est fixée à : - 17 mètres dans le secteur
+     UCe1a - 30 mètres dans le secteur UCe1b »
+
+
+     art. 2.1.1 · page 124
+     « Les constructions sont implantées en limite de référence* ou en limite de la marge de recul*. »
+
+
+     art. 2.2.1.2 b · page 126
+     « Les constructions sont implantées en retrait* des limites séparatives*. Le retrait* est au moins égal à
+     4 mètres. »
+
+
+     art. 2.3.1 · page 127
+     « dans le secteur UCe1b, à 4 mètres. »
+
+
+     art. 2.4.1 · page 128
+     « L'emprise au sol* des constructions n'est pas réglementée. »
+
+
+     art. 3.2.1 · page 133
+     « Le coefficient de pleine terre* est au minimum de 15%. »
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      17 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.9 Démarches probables
+    Permis de construire ou déclaration préalable selon la nature et l'ampleur des travaux.
+    Permis de démolir si démolition (secteur patrimonial).
+    Consultation de la partie III du règlement et des documents graphiques de la commune.
+    Autorisation d'urbanisme spécifique et avis de l'architecte des Bâtiments de France si abords de
+    monument historique ou site patrimonial remarquable.
+    Respect du règlement de voirie métropolitain pour les saillies et débords.
+
+     Cette lecture est établie automatiquement, par intelligence artificielle, à partir du règlement officiel en
+     vigueur. Elle peut comporter des imprécisions : seul le texte du règlement (pages 121 à 134 du
+     document approuvé), fait foi, avec les dispositions générales, les orientations d'aménagement et les
+     servitudes.
+
+
+
+Règlement officiel complet :
+https://data.geopf.fr/annexes/gpu/documents/DU_200046977/d5cbf3109419689d1261ee3a03183224/200046977_reglement_
+20261103.pdf
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      18 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                         Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                                    04 · Loi Littoral et loi Montagne
+
+
+
+
+   04              Loi Littoral et loi Montagne
+     DANS CETTE SECTION
+
+     Les lois nationales qui s'ajoutent au document d'urbanisme sur le littoral et en montagne. Elles
+     peuvent rendre un terrain inconstructible même en zone constructible.
+
+
+Les lois d'aménagement qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+
+
+4.1 Loi Littoral
+Commune littorale                                        Non
+
+Distance au rivage                                       Sans objet
+
+Bande des 100 mètres                                     Sans objet
+
+
+La commune n'est pas riveraine de la mer : la loi Littoral ne s'applique pas (sauf rives de grands lacs).
+
+
+4.2 Loi Montagne
+Commune en zone de montagne                              Non
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          19 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+   05              Risques naturels et technologiques
+     DANS CETTE SECTION
+
+     Les risques connus à l'adresse du terrain (inondation, feu de forêt, mouvement de terrain,
+     radon…) et les catastrophes naturelles reconnues sur la commune.
+
+
+Base nationale Géorisques (ministère de la Transition écologique).
+
+
+
+5.1 Risques naturels à l'adresse de la parcelle
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Inondation                                      Existant                                        Existant
+
+  Remontée de nappe                               Existant                                        Existant
+
+  Séisme                                          Existant – faible                               Existant – faible
+
+  Mouvement de terrain                            Non connu                                       Existant
+
+  Retrait-gonflement des                          Existant – modéré                               Existant – modéré
+  argiles
+
+  Radon                                           Existant – faible                               Existant – important
+
+
+
+
+5.2 Risques technologiques
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Installations industrielles                     Non concerné                                    Concerné
+  (ICPE)
+
+  Canalisations de matières                       Non concerné                                    Concerné
+  dangereuses
+
+  Pollution des sols                              Concerné                                        Concerné
+
+  Rupture de barrage                              Inconnu                                         Concerné
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                   20 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.3 Indicateurs réglementaires
+Zone de sismicité                                        Zone 2 – faible
+
+Potentiel radon                                          Catégorie 1 (potentiel faible)
+
+Retrait-gonflement des argiles                           Existant – modéré
+
+Plans de prévention (PPR)                                AZI SAONE ; Atlas des zones inondables des ruisseaux du grand
+                                                         lyon
+
+
+
+5.4 Arrêtés de catastrophe naturelle
+24 arrêtés de reconnaissance de l'état de catastrophe naturelle concernent la commune.
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Inondations et/ou Coulées de Boue                                         03/06/2023                                     30/01/2024
+
+  Inondations et/ou Coulées de Boue                                         06/08/2007                                     13/01/2008
+
+  Mouvement de Terrain                                                      17/04/2005 au 18/04/2005                       14/10/2005
+
+  Inondations et/ou Coulées de Boue                                         20/03/2001 au 23/03/2001                       28/04/2001
+
+  Inondations Remontée Nappe                                                18/03/2001 au 28/03/2001                       09/02/2002
+
+  Inondations et/ou Coulées de Boue                                         10/06/2000                                     23/08/2000
+
+  Inondations et/ou Coulées de Boue                                         22/10/1999 au 24/10/1999                       26/02/2000
+
+  Inondations et/ou Coulées de Boue                                         07/09/1995                                     28/01/1996
+
+  Inondations et/ou Coulées de Boue                                         07/01/1994 au 21/01/1994                       25/06/1994
+
+  Inondations et/ou Coulées de Boue                                         07/01/1994 au 21/01/1994                       25/09/1994
+
+  Inondations et/ou Coulées de Boue                                         18/10/1993                                     10/06/1994
+
+  Inondations et/ou Coulées de Boue                                         10/10/1993                                     03/08/1995
+
+  Inondations et/ou Coulées de Boue                                         05/10/1993 au 10/10/1993                       24/10/1993
+
+  Inondations et/ou Coulées de Boue                                         05/10/1993 au 10/10/1993                       18/02/1994
+
+  Inondations et/ou Coulées de Boue                                         05/10/1993 au 10/10/1993                       09/07/1996
+
+  Inondations et/ou Coulées de Boue                                         29/07/1990                                     15/12/1990
+
+  Glissement de Terrain                                                     01/05/1983 au 31/05/1983                       24/06/1983
+
+  Inondations et/ou Coulées de Boue                                         01/05/1983 au 31/05/1983                       24/06/1983
+
+  Inondations et/ou Coulées de Boue                                         01/04/1983 au 30/04/1983                       24/06/1983
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         21 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Glissement de Terrain                                                     01/04/1983 au 30/04/1983                       24/06/1983
+
+  Inondations et/ou Coulées de Boue                                         08/12/1982 au 31/12/1982                       13/01/1983
+
+  Poids de la Neige                                                         26/11/1982 au 28/11/1982                       22/12/1982
+
+  Inondations et/ou Coulées de Boue                                         06/11/1982 au 10/11/1982                       19/11/1982
+
+  Tempête                                                                   06/11/1982 au 10/11/1982                       19/11/1982
+
+
+
+
+5.5 Installations classées à proximité (moins de 1 km)
+    RODOT FERNAND · Enregistrement · En fin d'exploitation
+    GARAGE BELLECOUR · Autres régimes
+    SAEML LYON CONFLUENCE · Autorisation · En fin d'exploitation
+    SOLAG · Non ICPE
+    OIL FRANCE · Autres régimes
+    [NC] VEYRET S.A.S. · Non ICPE
+    Eiffage Immobilier · Autres régimes
+    REACH HORS ICPE · Non ICPE
+
+
+5.6 Sites et sols pollués à proximité
+    Garage automobile avec réservoirs souterrains de carburant · ancien site industriel ou d'activité de service
+    (CASIAS)
+    Affinage de métaux précieux · ancien site industriel ou d'activité de service (CASIAS)
+    Garage avec desserte d'essence · ancien site industriel ou d'activité de service (CASIAS)
+    Garage Ampère · ancien site industriel ou d'activité de service (CASIAS)
+    "Grand Garage de Condé" avec desserte · ancien site industriel ou d'activité de service (CASIAS)
+    Atelier de soudure avec générateur d'acétylène, anc. Atelier de chaudronnerie · ancien site industriel ou
+    d'activité de service (CASIAS)
+    "Garage ATLAS" (Garage avec dessert d'essence) ;anc, dépot d'ess., huiles, pétrole, graisse, garage ·
+    ancien site industriel ou d'activité de service (CASIAS)
+    Dépôt de mazout en réservoirs souterrains · ancien site industriel ou d'activité de service (CASIAS)
+    2 anciens sites industriels ou d'activités de service (CASIAS) recensés
+    2 sites pollués en cours d'instruction recensés
+    1 secteur d'information sur les sols (SIS) recensé
+    1 site soumis à restrictions d'usage recensé
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        22 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.7 Rapport officiel Géorisques
+Les risques recensés ci-dessus proviennent des bases officielles de Géorisques, service public d'information
+sur les risques. Le rapport officiel complet peut être édité gratuitement, à tout moment et à jour, à partir de
+l'adresse du terrain sur le site Géorisques.
+
+
+    Éditer le rapport officiel Géorisques
+
+
+Lors d'une vente ou d'une location, le vendeur ou le bailleur doit remettre un état des risques de moins de six mois,
+complété et signé, et l'information sur les sinistres indemnisés au titre des catastrophes naturelles.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                   23 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+   06              Le terrain : accès, relief et réseaux
+     DANS CETTE SECTION
+
+     Les contraintes physiques du terrain : accès à une voie, pente et exposition, assainissement,
+     raccordement à l'électricité et à l'eau, fibre. Ce sont elles qui pèsent le plus sur le coût d'un
+     projet.
+
+
+Voirie (IGN, BD TOPO), altimétrie (IGN, RGE ALTI), règlement de la zone, réseau électrique (Agence ORE) et éligibilité
+internet (Arcep).
+
+
+
+6.1 Accès
+Accès direct à une voie                                  Non identifié
+
+Voie carrossable la plus proche                          Route à 1 chaussée · Place Le Viste · à 11 m
+
+
+     Une voie passe à 11 m de la parcelle : l'accès peut se faire par une bande du domaine public ou une
+     parcelle intermédiaire. Il faut vérifier sur le plan cadastral et sur place que le terrain y est bien relié, ou
+     qu'une servitude de passage existe (article 682 du Code civil).
+
+
+
+
+6.2 Relief et exposition
+Pente moyenne                                            2%
+
+Exposition                                               Terrain plat
+
+Altitude                                                 167 à 168 m
+
+Appréciation                                             Terrain plat ou presque plat
+
+
+
+
+ 168 m
+
+ 167 m
+
+
+           Coupe du terrain dans le sens de la pente · longueur 64 m
+
+
+     Terrassements limités ; pas de surcoût notable lié au relief.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       24 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Lyon · AL 24
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.3 Ensoleillement
+Appréciation                                             Ensoleillement moyen
+
+Soleil direct le 21 juin                                 10 h 48 (de 08 h 20 à 19 h 00)
+
+Soleil direct aux équinoxes                              8 h 30 (de 08 h 50 à 18 h 00)
+
+Soleil direct le 21 décembre                             Aucun
+
+Ensoleillement annuel possible                           2 436 h par an, soit 55 % du maximum à cette latitude
+
+Hauteur du relief vers le sud                            32°
+
+
+ 75°
+
+
+
+ 60°
+
+
+
+ 45°
+
+
+
+ 30°
+
+
+
+ 15°
+
+
+
+ 0°
+                                Est                  Sud-est                   Sud                  Sud-ouest               Ouest
+
+          21 juin          Équinoxes               21 décembre                Horizon : relief et bâtiments voisins
+
+
+
+       Le relief ou les constructions voisines privent le terrain d'une part notable du soleil, en particulier
+       l'hiver. L'implantation et l'orientation des pièces de vie seront déterminantes.
+
+
+
+Ensoleillement mois par mois (le 21 de chaque mois)
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Janvier                         9 h 12                             Aucun                                     —
+
+  Février                         10 h 42                            4 h 48                                    10 h 00 – 14 h 40
+
+  Mars                            12 h                               8 h 30                                    08 h 50 – 18 h 00
+
+  Avril                           13 h 42                            10 h 30                                   08 h 40 – 19 h 00
+
+  Mai                             15 h                               10 h 42                                   08 h 20 – 18 h 50
+
+  Juin                            15 h 30                            10 h 48                                   08 h 20 – 19 h 00
+
+  Juillet                         15 h                               10 h 42                                   08 h 30 – 19 h 00
+
+  Août                            13 h 42                            10 h 30                                   08 h 40 – 19 h 00
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       25 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Septembre                       12 h                               8 h 42                                    09 h 40 – 18 h 50
+
+  Octobre                         10 h 18                            4 h 48                                    10 h 30 – 15 h 10
+
+  Novembre                        9h                                 Aucun                                     —
+
+  Décembre                        8 h 30                             Aucun                                     —
+
+
+
+Calcul théorique par ciel dégagé, au centre de la parcelle et à hauteur d'homme : course du soleil heure par heure, masque du relief
+sur 6 km (IGN, RGE ALTI) et des bâtiments voisins sur 120 m (IGN, BD TOPO, 128 bâtiments pris en compte). La végétation et les
+constructions récentes ne sont pas prises en compte.
+
+
+6.4 Quel raccordement pour les eaux usées ?
+Raccordement à prévoir                                       Tout-à-l'égout très probable
+
+Zone du PLU                                                  UCe1b · Urbaine
+
+Zonage d'assainissement                                      Zone d assainissement-NONZONE
+
+Réseau collectif sur la commune                              Oui · Métropole de Lyon (Grand Lyon) · régie publique
+
+
+     Le terrain est en zone urbaine (UCe1b) et la commune dispose d'un réseau public d'assainissement
+     collectif. Dans ces zones, le réseau passe en général dans la voie et le règlement impose le
+     raccordement lorsqu'il existe. À confirmer par le service d'assainissement pour ce terrain précis.
+
+
+
+Ce que dit le règlement de la zone
+Non précisé dans l'extrait du règlement de la zone UCe1 (les dispositions relatives aux réseaux et à l'eau pluviale
+renvoient au chapitre 6 de la partie I, non fourni). En zone urbaine dense, le raccordement au réseau collectif est la
+situation normale, mais le texte fourni ne le précise pas.
+
+Ce que cela coûte
+Raccordement au tout-à-l'égout : branchement sous la voie réalisé par le service d'assainissement (souvent 1 500 à
+5 000 € selon la distance), canalisation sur le terrain jusqu'à la maison, et participation pour le financement de
+l'assainissement collectif (PFAC) fixée par la commune ou l'intercommunalité, généralement de 1 000 à 5 000 €. Le
+service remet un devis à partir du plan de situation.
+
+Qui contacter pour obtenir la confirmation
+Service d'assainissement                                     Métropole de Lyon (Grand Lyon)
+
+Mairie                                                       Mairie de Lyon - 2e arrondissement
+
+Téléphone                                                    04 78 92 73 00
+
+E-mail                                                       mairie2@mairie-lyon.fr
+
+
+    Demandez au service d'assainissement, avec la référence cadastrale, si une canalisation publique passe au droit
+    du terrain, à quelle profondeur, et le montant de la PFAC. Sa réponse écrite vaut attestation de raccordabilité.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       26 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                              Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+    Certificat d'urbanisme opérationnel (formulaire Cerfa 13410, gratuit) : la mairie y indique officiellement si le
+    terrain est desservi par le réseau d'assainissement.
+    Plan des réseaux : la présence des canalisations enterrées près du terrain peut être vérifiée sur
+    reseaux-et-canalisations.gouv.fr, le guichet unique des réseaux.
+Sources : zonage d'assainissement et règlement (Géoportail de l'Urbanisme) ; services publics d'assainissement (SISPEA, Office
+français de la biodiversité) ; annuaire de l'administration (service-public.fr).
+
+Si le réseau public n'était finalement pas accessible
+  FILIÈRE                                    QUAND ELLE CONVIENT                                                           ORDRE DE PRIX
+
+  Fosse toutes eaux et                       Sol perméable, terrain assez grand et peu pentu                               5 000 à 10 000 €
+  épandage
+
+  Filtre à sable                             Sol peu perméable, place suffisante                                           8 000 à 12 000 €
+
+  Micro-station agréée                       Petit terrain ou sol défavorable ; entretien et électricité                   7 000 à 15 000 €
+
+  Filtre compact agréé                       Petit terrain, sans électricité                                               9 000 à 14 000 €
+
+
+
+Ordres de prix indicatifs (fourniture et pose, hors étude de sol et terrassements particuliers). La filière est choisie au vu de l'étude
+de sol et validée par le SPANC.
+
+
+6.5 Électricité et eau potable
+Gestionnaire du réseau                                       Enedis
+
+Réseau basse tension le plus proche                          à environ 5 m (ligne souterraine)
+
+Ligne souterraine la plus proche                             à environ 5 m
+
+Poste de transformation le plus proche                       à environ 50 m
+
+Appréciation                                                 Branchement simple probable
+
+
+     Le réseau basse tension passe à environ 5 m : un branchement simple est en principe possible (de
+     l'ordre de 1 500 à 3 000 € pour une maison, selon la longueur et la puissance), sous réserve de la
+     capacité du réseau et des coffrets existants.
+
+
+
+Ce qu'il faut vérifier avant d'acheter
+    La capacité du réseau : même un réseau proche peut être saturé (coffret ou câble plein, poste de transformation
+    au maximum). Seule une étude du gestionnaire permet de le savoir ; c'est la cause la plus fréquente de surcoûts
+    imprévus.
+    Électricité : demander au gestionnaire du réseau une étude de raccordement ou un devis à partir de l'adresse et
+    du plan de situation (gratuit). Elle indique le type de raccordement, son coût et son délai.
+    Eau potable : les plans du réseau d'eau ne sont pas publics. Interroger le service des eaux (coordonnées
+    ci-dessous) sur la présence d'une canalisation au droit du terrain, sa capacité et le coût du branchement, ainsi
+    que sur la défense incendie (borne à moins de 200 m environ).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              27 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+    Certificat d'urbanisme opérationnel : la mairie y indique si le terrain est desservi par les réseaux publics (eau,
+    électricité, assainissement) et, à défaut, si et quand ils seront étendus. Un refus de permis peut être fondé sur
+    l'insuffisance des réseaux (article L. 111-11 du Code de l'urbanisme).
+
+Qui contacter
+Service de l'eau potable                                     Métropole de Lyon (Grand Lyon)
+
+Mode de gestion                                              Régie publique (Eau publique du Grand Lyon)
+
+Contact pour le branchement                                  Eau publique du Grand Lyon, pour le compte de : Métropole de
+                                                             Lyon (Grand Lyon)
+
+Mairie                                                       Mairie de Lyon - 2e arrondissement
+
+Téléphone de la mairie                                       04 78 92 73 00
+
+E-mail de la mairie                                          mairie2@mairie-lyon.fr
+
+Électricité (raccordement)                                   Enedis · demande en ligne sur enedis.fr (raccordement)
+
+La mairie oriente vers le bon interlocuteur et confirme, dans le certificat d'urbanisme, la desserte du terrain par les réseaux.
+Sources : SISPEA, observatoire des services publics d'eau (OFB) ; annuaire de l'administration (service-public.fr).
+
+Dans une promesse de vente, une condition suspensive portant sur le coût du raccordement aux réseaux protège
+l'acquéreur. Source de la cartographie électrique : Agence ORE, données des gestionnaires de réseaux de distribution ;
+tracés indicatifs.
+
+
+6.6 Fibre et internet
+     Le terrain est déjà fibré : 1 adresse située sur la parcelle (4 Place Le Viste) est déclarée raccordable à la
+     fibre.
+
+
+
+Adresse la plus proche                                          1 Rue de la Barre · à 7 m · raccordable
+
+Point fibré le plus proche                                      1 Rue de la Barre · à 7 m
+
+Adresses fibrées à moins de 100 m                               65 sur 66
+
+Adresses fibrées à moins de 400 m                               489 sur 496
+
+Technologies disponibles à proximité                            4G fixe, Câble, Cuivre (ADSL, VDSL), Fibre, Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       28 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                             Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                           06 · Le terrain : accès, relief et réseaux
+
+
+
+
+     Points fibrés autour du terrain
+
+
+
+                                                                         F
+                                                                 F FF F F             F
+                                                                   F          F      F      FF F
+                                                               F     F       F                   F
+                                                                            F                    F F
+                                                                           F        F                 F
+                                                         F
+                                                            F F      F            F           F FF FF F
+                                                                          F       F         F
+                                                        FF
+                                                         F F             F                          FF
+                                                      F              F                     F       F
+                                                        F          F                              FF F
+                                                              F F F F
+                                                                                   F              F F F
+                                                      F F         F             F          F FF          F
+                                                              F                           F                    F
+                                                           F           F       F                F         F
+                                                           F                  F           F         F
+                                                                   F          F              F F
+                                                                                         F F
+                                                                                 F          FF FF            F
+                                                                                    F       FF       F      F
+                                                                        FF F          F      F FF       F
+                                                                F                           FF F       F  F
+                                                                              F F               F F       F
+                                                                        F             F
+                                                                                  F        F
+                                                                              FF        F     F
+                                                                      F        F                 F F
+                                                                    F       F         F
+                                                                   F             F                F F
+                                                                          F    F                F
+                                                                  F
+                                                                                          F       F
+                                                                       FF F
+                                                                                F F
+
+
+
+
+                                                                                                                                     100 m
+
+
+
+Repères F : adresses déclarées raccordables à la fibre (Arcep) · en terracotta : sur la parcelle · fond © IGN
+
+
+Vérifiez la fibre à l'adresse du terrain :
+
+                     Carte fibre Orange                                                                      Carte de l'Arcep
+
+
+  DISTANCE           ADRESSE                                                                      FIBRE            AUTRES ACCÈS
+
+  7m                 1 Rue de la Barre                                                            Oui              4G fixe, Câble, Cuivre (ADSL,
+                                                                                                                   VDSL), Satellite
+
+  9m                 4 Place Le Viste                                                             Oui              4G fixe, Câble, Cuivre (ADSL,
+                                                                                                                   VDSL), Satellite
+
+  23 m               3 Rue de la Barre                                                            Oui              4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                   Satellite
+
+  26 m               87 Rue de la République                                                      Oui              4G fixe, Câble, Cuivre (ADSL,
+                                                                                                                   VDSL), Satellite
+
+  34 m               5 Rue de la Barre                                                            Oui              4G fixe, Câble, Cuivre (ADSL,
+                                                                                                                   VDSL), Satellite
+
+  34 m               85 Rue de la République                                                      Oui              4G fixe, Câble, Cuivre (ADSL,
+                                                                                                                   VDSL), Satellite
+
+  38 m               4 Rue de la Barre                                                            Oui              4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                   Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              29 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  DISTANCE           ADRESSE                                                                   FIBRE              AUTRES ACCÈS
+
+  41 m               2 Rue de la Barre                                                         Oui                4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+
+
+Source : Arcep, « Ma connexion internet », éligibilité déclarée par les opérateurs, adresse par adresse. Le tracé des câbles n'est
+pas public : la présence de la fibre en limite de terrain se vérifie auprès de l'opérateur ou par une déclaration de projet de travaux
+(DT).
+
+
+6.7 Qui contacter pour les réseaux
+  RÉSEAU                                    INTERLOCUTEUR                                         CE QU'IL FAUT DEMANDER
+
+  Eau potable et                            Mairie ou service des eaux de la                      Attestation de desserte et conditions de
+  assainissement collectif                  commune                                               raccordement
+
+  Assainissement individuel                 SPANC (communauté de communes)                        Contrôle de conception sur la base de l'étude
+                                                                                                  de sol
+
+  Électricité                               Enedis (gestionnaire du réseau de                     Étude de raccordement et devis
+                                            distribution)
+
+  Fibre et téléphone                        Opérateur d'infrastructure et                         Raccordement du futur logement
+                                            fournisseur d'accès
+
+  Tous réseaux                              Guichet unique des réseaux                            Déclaration de projet de travaux (DT) pour
+                                            (reseaux-et-canalisations.gouv.fr)                    localiser les réseaux existants
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             30 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+    07             Environnement et marché immobilier
+     DANS CETTE SECTION
+
+     Les espaces naturels protégés autour du terrain et les prix de vente réels des maisons,
+     appartements et terrains alentour.
+
+
+Inventaire national du patrimoine naturel et demandes de valeurs foncières (DVF).
+
+
+
+7.1 Espaces naturels protégés ou inventoriés
+  TYPE                                                      NOM DU SITE
+
+  Site classé ou inscrit                                    SI409 ass
+
+  Abords de monument historique                             55 monuments, dont 3 place Bellecour, 9 place Bellecour 20 rue
+                                                            Gasparin, Porte sur rue…
+
+
+
+La présence d'un site Natura 2000 peut imposer une évaluation des incidences avant certains travaux. Une ZNIEFF
+est un inventaire scientifique sans portée réglementaire directe, mais elle signale un intérêt écologique pris en
+compte dans l'instruction des autorisations.
+
+
+7.2 Espèces protégées observées près du terrain
+128 espèces protégées ont été observées dans un rayon de 1 km autour du terrain depuis 1990 ; les 14 plus
+fréquemment signalées figurent ci-dessous.
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Moineau domestique (Passer                                      Oiseau                 Nationale (espèce et              346 · dernière en
+  domesticus)                                                                            habitat)                          2026
+
+  Cygne muet (Cygnus olor)                                        Oiseau                 Nationale (espèce et              267 · dernière en
+                                                                                         habitat)                          2026
+
+  Mésange bleue (Cyanistes caeruleus)                             Oiseau                 Nationale (espèce et              264 · dernière en
+                                                                                         habitat)                          2026
+
+  Mésange charbonnière (Parus major)                              Oiseau                 Nationale (espèce et              228 · dernière en
+                                                                                         habitat)                          2026
+
+  Corneille noire (Corvus corone)                                 Oiseau                 Nationale (espèce et              193 · dernière en
+                                                                                         habitat)                          2026
+
+  Mouette rieuse (Chroicocephalus                                 Oiseau                 Nationale (espèce et              147 · dernière en
+  ridibundus)                                                                            habitat)                          2026
+
+  Grand Cormoran (Phalacrocorax carbo)                            Oiseau                 Nationale (espèce et              134 · dernière en
+                                                                                         habitat)                          2026
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       31 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Rouge-gorge familier (Erithacus                                 Oiseau                 Nationale (espèce et              131 · dernière en
+  rubecula)                                                                              habitat)                          2026
+
+  Martinet noir (Apus apus)                                       Oiseau                 Nationale (espèce et              117 · dernière en
+                                                                                         habitat)                          2026
+
+  Gabian (Larus michahellis)                                      Oiseau                 Nationale (espèce et              89 · dernière en
+                                                                                         habitat)                          2026
+
+  Héron cendré (Ardea cinerea)                                    Oiseau                 Nationale (espèce et              88 · dernière en
+                                                                                         habitat)                          2026
+
+  Fauvette à tête noire (Sylvia atricapilla)                      Oiseau                 Nationale (espèce et              63 · dernière en
+                                                                                         habitat)                          2025
+
+  Pouillot véloce (Phylloscopus collybita)                        Oiseau                 Nationale (espèce et              42 · dernière en
+                                                                                         habitat)                          2025
+
+  Rouge-queue noir (Phoenicurus                                   Oiseau                 Nationale (espèce et              40 · dernière en
+  ochruros)                                                                              habitat)                          2025
+
+
+
+     Une observation à proximité ne signifie pas que l'espèce vit sur le terrain. Mais si elle y est présente, il
+     est interdit de détruire, capturer ou déranger les individus et, pour la plupart de ces espèces, de
+     détruire leurs lieux de reproduction et de repos (articles L. 411-1 et suivants du Code de
+     l'environnement). L'infraction est punie de 3 ans d'emprisonnement et 150 000 € d'amende.
+
+
+
+Que faire avant de construire ?
+    Pour une maison individuelle, aucune étude écologique n'est imposée en règle générale, et l'étude de sol porte
+    sur le terrain (fondations), pas sur la faune ni la flore. Vous restez cependant responsable si une espèce
+    protégée vit sur la parcelle : en cas de doute (espèce observée tout près, vieux arbres, murets, maquis, zone
+    humide), faites passer un écologue avant de défricher.
+    Si un enjeu est confirmé : inventaire faune-flore aux saisons utiles (printemps et été en général), puis mesures
+    pour éviter et réduire l'impact : implantation de la maison sur la partie la moins sensible, travaux hors période de
+    reproduction, clôture de chantier adaptée, déplacement d'individus par un spécialiste habilité.
+    Si la destruction d'individus ou d'habitats ne peut pas être évitée : demande de dérogation « espèces protégées »
+    auprès de la préfecture (DREAL), avec avis du conseil scientifique. Comptez 4 à 12 mois d'instruction, à anticiper
+    avant le dépôt du permis.
+
+Combien prévoir ?
+Pré-diagnostic écologique                                800 à 2 000 € (une visite et une note de synthèse)
+
+Inventaire faune-flore                                   3 000 à 10 000 € selon la surface et le nombre de passages
+
+Mesures d'évitement et de réduction                      500 à 5 000 € (balisage, calendrier, suivi de chantier)
+
+Dossier de dérogation                                    8 000 à 25 000 €, hors mesures de compensation éventuelles
+
+Ordres de prix indicatifs, honoraires de bureaux d'études en environnement, si une étude est nécessaire. Pour une maison sur un
+terrain déjà entouré de constructions, aucune étude n'est le plus souvent requise.
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          32 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+Sources : statuts de protection TAXREF et base de connaissance des statuts (INPN, Muséum national d'Histoire naturelle) ;
+observations naturalistes GBIF, qui rassemble notamment les données de l'INPN et du SINP.
+
+
+7.3 Prix de l'immobilier à Lyon
+Prix au mètre carré des ventes enregistrées sur la commune au cours des cinq dernières années publiées.
+Seules les ventes portant sur un bien unique sont retenues.
+
+  TYPE DE BIEN                                       VENTES                       €/M² MÉDIAN                              €/M² MOYEN
+
+  Maisons                                            912                          5 954 €/m²                               6 564 €/m²
+
+  Appartements                                       36 041                       4 768 €/m²                               4 962 €/m²
+
+  Locaux commerciaux                                 2 202                        3 485 €/m²                               6 955 €/m²
+
+
+
+Source : statistiques des demandes de valeurs foncières (DGFiP, Etalab). Prix des actes, hors frais : un ordre de grandeur,
+pas une estimation du bien.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        33 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                                           08 · Historique du site
+
+
+
+
+   08              Historique du site
+     DANS CETTE SECTION
+
+     Le terrain vu du ciel au fil des décennies et les permis de construire accordés autour : l'évolution
+     du secteur en un coup d'œil.
+
+
+Photographies aériennes de l'IGN et permis de construire délivrés (Sitadel).
+
+
+
+8.1 Le terrain vu du ciel, d'hier à aujourd'hui
+
+    2000-2005                                                                         2006-2010
+
+
+
+
+    2011-2015                                                                         Aujourd'hui
+
+
+
+
+Ces vues montrent l'évolution du terrain et du quartier, des années 1950 à aujourd'hui (photographies aériennes de l'IGN).
+
+     Bon à savoir : l'existence ancienne d'une construction peut ouvrir, sous conditions, un droit à
+     reconstruire ou à restaurer un bâtiment dont il reste l'essentiel des murs porteurs (articles L. 111-15 et L.
+     111-23 du Code de l'urbanisme).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       34 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                             Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                                                08 · Historique du site
+
+
+
+
+8.2 Permis de construire délivrés autour du terrain
+Autorisations sur la commune (3 ans)                                    301 · dernière recensée le 02/10/2026
+
+Logements autorisés (3 ans)                                             4 982
+
+Dont maisons individuelles                                              152
+
+Autorisations dans la section AL                                        39 depuis 2013
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  02/10/2026            Déclaration préalable                  AL 64              1              121 m²                    RUE DUQUESNE
+
+  10/03/2026            Déclaration préalable                  AL 84              –              –                         RUE DES PIERRES
+                                                                                                                           PLANTAÂ ES
+
+  02/03/2026            Permis de construire                   AL 75              1              6 m²                      COURS GAMBETTA
+
+  23/09/2025            Permis de construire                   AL 59              2              –                         RUE PAUL BERT
+
+  11/09/2025            Permis de construire                   AL 29              4              80 m²                     AVENUE MARECHAL FOCH
+
+  06/08/2025            Déclaration préalable                  AL 33              1              64 m²                     RUE DE LA THIBAUDIERE
+
+  08/07/2025            Déclaration préalable                  AL 8               1              35 m²                     RUE DE CRIMEE
+
+  01/04/2025            Déclaration préalable                  AL 33              1              64 m²                     RUE DE LA THIBAUDIERE
+
+  07/01/2025            Déclaration préalable                  AL 81              1              –                         RUE VICTOR DE LAPRADE
+
+  19/12/2024            Permis de construire                   AL 35              5              331 m²                    RUE DE LA THIBAUDIERE
+
+  10/07/2023            Permis de construire                   AL 85              1              35 m²                     IMPASSE RIVAL
+
+  09/12/2022            Permis de construire                   AL 235             2              –                         9001 RUE DE CRIMEE
+
+
+
+Permis accordés à moins de 500 m du terrain
+  DATE                 AUTORISATION                       PARCELLE          DISTANCE         LOGTS        SURFACE             LIEU-DIT / VOIE
+
+  30/06/2026           Permis de construire               AM 45             140 m            1            –                   QUAI DOCTEUR
+                                                                                                                              GAILLETON
+
+  09/06/2026           Permis de construire               AE 157            400 m            1            64 m²               MONTAÂ E SAINT
+                                                                                                                              BARTHAÂ LAÂ MY
+
+  10/03/2026           Permis de construire               AR 70             380 m            4            –                   BOULEVARD DES BELGES
+
+
+
+3 autorisations créant des logements recensées dans un rayon de 500 m : la construction a été admise récemment
+dans le voisinage immédiat.
+
+Source : base Sitadel des autorisations d'urbanisme créant des logements (SDES). Un permis accordé à proximité montre
+que des constructions ont été admises dans le secteur, sans préjuger de la décision sur votre propre projet.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              35 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                              09 · Opportunités autour du terrain
+
+
+
+
+      09           Opportunités autour du terrain
+      DANS CETTE SECTION
+
+      Ce qui se passe autour de la parcelle : grands terrains peu bâtis, sociétés propriétaires en
+      difficulté, logements énergivores. Des pistes pour un investisseur, un voisin ou un professionnel.
+
+
+Bodacc (procédures collectives), ADEME (diagnostics énergétiques), cadastre, BD TOPO et Géoportail de l'Urbanisme.
+
+
+
+9.1 Logements classés F ou G autour du terrain
+Logements diagnostiqués F ou G dans un rayon de 350 m. Leur location est déjà interdite (G) ou le sera en
+2028 (F) : leurs propriétaires sont souvent vendeurs, ou doivent engager des travaux de rénovation.
+
+  PARCELLE                   ADRESSE                                        CLASSE LOGEMENT                   SURFACE      DISTANCE DPE DU
+
+  –                          5 Rue de la Barre 69002 Lyon                   F            Appartemen           36 m²        40 m     07/10/2025
+                                                                                         t
+
+  Section AM n°              12 Rue de la Barre 69002 Lyon ·                F            Appartemen           31 m²        80 m     14/09/2026
+  28                         propriétaire : FONCIA SAINT                                 t
+                             ANTOINE (SAS)
+
+  –                          106 Rue Président Edouard                      G            Appartemen           35 m²        90 m     10/12/2025
+                             Herriot 69002 Lyon                                          t
+
+  Section AL n° 27           75 Rue de la République 69002                  F            Appartemen           75 m²        100 m    19/02/2026
+                             Lyon                                                        t
+
+  Section AM n°              7 Rue des Marronniers 69002                    F            Appartemen           41 m²        100 m    31/03/2026
+  22                         Lyon · propriétaire : FONCIA                                t
+                             LYON (SAS)
+
+  Section AL n° 15           12 Rue Bellecordière 69002                     F            Appartemen           67 m²        100 m    05/10/2026
+                             Lyon · propriétaire : GESTRIM                               t
+                             GRAND LYON (SAS)
+
+  –                          16 Rue de la Barre 69002 Lyon                  F            Appartemen           103 m²       110 m    08/08/2025
+                                                                                         t
+
+  –                          11 Place Bellecour 69002 Lyon                  G            Appartemen           25 m²        110 m    07/09/2026
+                                                                                         t
+
+  Section AL n° 14           10 Rue Bellecordière 69002                     F            Appartemen           72 m²        110 m    25/06/2025
+                             Lyon · propriétaire : FONCIA                                t
+                             LIMOUZI LYON (SAS)
+
+  –                          9 Rue des Marronniers 69002                    F            Appartemen           56 m²        120 m    12/01/2026
+                             Lyon                                                        t
+
+
+
+La parcelle est celle du point d'adresse du logement (cadastre). Pour connaître son propriétaire lorsqu'il s'agit d'un particulier,
+demandez un relevé de propriété au service de la publicité foncière ou à la mairie.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        36 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                              09 · Opportunités autour du terrain
+
+
+
+
+Ces informations proviennent de bases publiques et ne préjugent ni de l'intention de vendre des propriétaires ni de la
+constructibilité des parcelles citées, qui relève d'une étude au cas par cas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      37 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+      10           Votre projet, étape par étape
+De l'achat du terrain à la déclaration aux impôts : démarches, délais, coûts et contacts.
+
+
+
+10.1 Analyse
+Le terrain est soumis au plan local d'urbanisme intercommunal (PLUi) de Lyon. Il est classé en zone
+UCe1b. Zone urbaine : secteur déjà urbanisé où les équipements publics existants ou en cours de
+réalisation permettent d'accueillir des constructions. Les constructions y sont admises dans le respect
+du règlement de la zone (destinations, implantation, hauteur, emprise, aspect).
+
+La construction n'est pas exclue, mais elle est subordonnée à des conditions qu'il faut lever avant tout
+engagement : lecture du règlement et des orientations d'aménagement, desserte par les réseaux,
+contraintes de risques ou de protection.
+
+
+10.2 Votre projet, étape par étape
+Les étapes ci-dessous suivent l'ordre réel d'un projet de construction, de l'achat du terrain à la déclaration aux
+impôts. Les montants sont indicatifs et à confirmer par devis.
+
+  1      Avant d'acheter le terrain
+         Vérifiez les règles de la zone (chapitres précédents), puis demandez un certificat d'urbanisme opérationnel
+         (Cerfa 13410, sans frais, réponse sous 2 mois) : il fige les règles pendant 18 mois. En zone d'argiles d'aléa
+         moyen ou fort, le vendeur doit fournir une étude de sol préalable.
+         Contact : Mairie de Lyon - 2e arrondissement · 04 78 92 73 00 · mairie2@mairie-lyon.fr · formulaire sur
+         service-public.fr (rechercher « Cerfa 13410 »)
+
+  2      Les études
+         Étude de sol géotechnique (G2) pour dimensionner les fondations : 1 500 à 3 000 €. Étude thermique RE2020,
+         obligatoire pour le permis : 500 à 1 500 €. Bornage par un géomètre si les limites sont incertaines. L'étude de
+         sol ne porte pas sur les espèces protégées : un écologue n'intervient qu'en cas d'enjeu (chapitre
+         Environnement).
+         Géomètres proches du terrain : liste à la fin de ce chapitre
+
+  3      Les plans
+         Architecte obligatoire si la surface de plancher totale dépasse 150 m². En dessous, vous pouvez dessiner les
+         plans vous-même ou faire appel à un dessinateur ou maître d'œuvre (environ 1 500 à 4 000 € le dossier de
+         permis). Architecte : 3 000 à 8 000 € pour la seule mission de permis, 8 à 12 % du coût des travaux pour une
+         mission complète avec suivi du chantier.
+         Trouver un architecte : annuaire de l'Ordre des architectes sur architectes.org
+
+  4      Déposer le permis
+         Formulaire Cerfa 13406 (maison individuelle) et pièces PCMI1 à PCMI8 : plan de situation, plan de masse,
+         coupe, notice, plans des façades et toitures, insertion dans le paysage, photos, attestation RE2020. Dépôt en
+         mairie ou en ligne sur le guichet numérique de la commune. La mairie a 1 mois pour réclamer une pièce
+         manquante ; l'instruction dure 2 mois à partir du dossier complet, plus en secteur protégé.
+         Dépôt : Mairie de Lyon - 2e arrondissement · 04 78 92 73 00 · mairie2@mairie-lyon.fr · formulaire sur
+         service-public.fr (rechercher « Cerfa 13406 »)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        38 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+  5      Affichage et recours
+         Dès l'accord, installez le panneau de permis sur le terrain, lisible depuis la voie, pendant toute la durée du
+         chantier. Les tiers ont 2 mois à compter du premier jour d'affichage pour contester ; la mairie peut retirer un
+         permis illégal pendant 3 mois. Faites constater l'affichage par un commissaire de justice (environ 300 à 600 €
+         pour les trois constats).
+         Commissaires de justice : annuaire sur commissaire-justice.fr
+
+  6      Avant les travaux
+         Souscrivez l'assurance dommages-ouvrage, obligatoire (souvent 2 à 4 % du coût de la construction). Signez
+         le contrat de construction de maison individuelle ou les marchés des artisans. Déposez la déclaration
+         d'ouverture de chantier (Cerfa 13407) le jour du démarrage. Le permis est valable 3 ans, prorogeable deux
+         fois d'un an.
+         Déclaration d'ouverture : Mairie de Lyon - 2e arrondissement · 04 78 92 73 00 · mairie2@mairie-lyon.fr
+
+  7      Le financement
+         La banque débloque le prêt au fur et à mesure du chantier, sur présentation des factures des entreprises ou
+         des appels de fonds du constructeur. Avec un contrat de construction de maison individuelle, l'échéancier
+         est encadré par la loi : 15 % à l'ouverture du chantier, 25 % aux fondations, 40 % aux murs, 60 % hors d'eau,
+         75 % hors d'air et cloisons, 95 % aux équipements, le solde à la réception. Des intérêts intercalaires peuvent
+         courir sur les sommes débloquées.
+         Votre banque ou votre courtier
+
+  8      La fin du chantier
+         Réception des travaux avec le constructeur ou les artisans, avec réserves si nécessaire. Déposez ensuite la
+         déclaration attestant l'achèvement et la conformité des travaux (DAACT, Cerfa 13408), avec l'attestation
+         RE2020 de fin de chantier. La mairie a 3 mois pour la contester (5 mois en secteur protégé).
+         Dépôt : Mairie de Lyon - 2e arrondissement · 04 78 92 73 00 · mairie2@mairie-lyon.fr
+
+  9      Les impôts
+         Dans les 90 jours suivant l'achèvement, déclarez la construction sur impots.gouv.fr, espace « Gérer mes
+         biens immobiliers ». Cette déclaration sert au calcul de la taxe d'aménagement (payée en une fois sous 1 500
+         €, sinon en deux fois, estimation plus bas dans ce chapitre) et de la taxe foncière, avec une exonération
+         possible les deux premières années selon la commune.
+         impots.gouv.fr › Espace particulier › Gérer mes biens immobiliers
+
+
+10.3 Les points à vérifier pour ce terrain
+  1      Certificat d'urbanisme opérationnel
+         Le demander en mairie (formulaire Cerfa 13410), en décrivant le projet. Gratuit, il indique si le terrain
+         peut accueillir le projet et fige les règles d'urbanisme pendant 18 mois.
+
+  2      Règlement de la zone
+         Lire le règlement écrit de la zone UCe1b et, le cas échéant, les orientations d'aménagement, disponibles
+         sur le Géoportail de l'Urbanisme.
+
+  3      Réseaux et accès
+         Vérifier l'accès à une voie publique ou privée adaptée, la desserte en eau potable et en électricité, et le
+         mode d'assainissement. En l'absence de réseau collectif, une étude de sol et l'avis du service public
+         d'assainissement non collectif (SPANC) sont nécessaires.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        39 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+  4      Architecte des Bâtiments de France
+         Le projet sera soumis à l'architecte des Bâtiments de France : le rencontrer avant de dessiner le projet
+         (rendez-vous par la mairie ou l'unité départementale de l'architecture et du patrimoine), soigner
+         matériaux, teintes et toitures, et compter un mois de plus pour l'instruction.
+
+  5      Bornage
+         Faire réaliser un bornage par un géomètre-expert pour fixer les limites exactes et la surface réelle du
+         terrain.
+
+  6      Sécuriser un achat
+         Pour une acquisition, prévoir dans le compromis une condition suspensive d'obtention d'un permis de
+         construire purgé de tout recours.
+
+
+10.4 Délais indicatifs d'instruction
+  DEMANDE                                                                                 DÉLAI DE DROIT COMMUN
+
+  Certificat d'urbanisme d'information (CUa)                                              1 mois
+
+  Certificat d'urbanisme opérationnel (CUb)                                               2 mois
+
+  Déclaration préalable                                                                   1 mois
+
+  Permis de construire une maison individuelle                                            2 mois
+
+  Permis d'aménager, autres permis de construire                                          3 mois
+
+
+
+Ces délais peuvent être majorés, notamment en site classé ou inscrit, aux abords d'un monument historique ou lorsque la
+consultation d'un service extérieur est nécessaire.
+
+
+10.5 Taxe d'aménagement à prévoir
+      Exemple : une maison de 120 m² en résidence principale, avec une piscine de 3 × 6 m. Sur ce terrain, la
+      taxe d'aménagement à prévoir est d'environ 4 690 €.
+
+
+
+  PROJET                                                                                                       TAXE ESTIMÉE
+
+  Maison de 120 m², résidence principale                                                                       4 370 €
+
+  Piscine de 3 × 6 m (18 m²)                                                                                   320 €
+
+  Total à prévoir                                                                                              4 690 €
+
+
+
+Taux appliqués : 4,5 % pour la commune et 2,5 % pour le département, sur une valeur forfaitaire de 892 € par m² en 2026
+(251 € par m² de bassin pour une piscine). Une résidence principale bénéficie d'un abattement de 50 % sur ses 100 premiers
+m².
+
+La taxe est due une fois les travaux terminés : elle se déclare sur impots.gouv.fr dans les 90 jours suivant l'achèvement, et
+se paie en deux fois au-delà de 1 500 €. Pour calculer votre propre projet :
+terrenurbanisme.com/outils/taxe-amenagement.html
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        40 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+10.6 Implanter une entreprise : zone France Ruralités Revitalisation
+     La commune de Lyon n'est pas classée en zone France Ruralités Revitalisation (FRR). Une entreprise
+     qui s'y installe ne bénéficie pas de l'exonération d'impôt sur les bénéfices liée à ce zonage.
+
+
+
+Source : ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 (collectivites-locales.gouv.fr).
+
+
+10.7 Géomètres proches du terrain
+Le géomètre-expert est le seul professionnel habilité à fixer les limites de propriété (bornage) et à établir les
+documents d'arpentage déposés au cadastre. Il intervient aussi pour les relevés topographiques et les
+divisions de terrain.
+
+1 km              ARGEOL, GEOMETRISE
+                                                                                                                           Coordonnées
+                  63 MONTEE DU CHEMIN NEUF 69005 LYON
+
+
+1 km              ROGER DUPIN
+                                                                                                                           Coordonnées
+                  CHEZ MME PELISSIER NICOLE 8 RUE BUGEAUD 69006 LYON
+
+
+1,4 km            ARCHEOSUB
+                                                                                                                           Coordonnées
+                  139 GRANDE RUE DE LA GUILLOTIERE 69007 LYON
+
+
+1,5 km            RIVOLIER MOUNIER GEOMETRES EXPERTS
+                                                                                                                           Coordonnées
+                  115 RUE GARIBALDI 69006 LYON
+
+
+1,7 km            CABINET PERRAUD
+                                                                                                                           Coordonnées
+                  31 RUE SMITH 69002 LYON
+
+
+1,7 km            JEAN PERRAUD
+                                                                                                                           Coordonnées
+                  31 RUE SMITH 69002 LYON
+
+
+Source : répertoire Sirene de l'INSEE (activité des géomètres), classé par distance au terrain. L'inscription d'un cabinet à l'Ordre
+des géomètres-experts se vérifie sur geometre-expert.fr. Le bouton « Coordonnées » ouvre la fiche du cabinet (téléphone,
+horaires, itinéraire). Cette liste est fournie à titre indicatif, sans partenariat ni recommandation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         41 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Lyon · AL 24
+          TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+     11            État des risques (ERP) pré-rempli
+     DANS CETTE SECTION
+
+     Le formulaire réglementaire à remettre à l'acquéreur ou au locataire, pré-rempli à partir des
+     bases officielles : plans de prévention, sismicité, radon, sols pollués, trait de côte, bruit des
+     aérodromes.
+
+
+Articles L. 125-5 à L. 125-7 et R. 125-23 à R. 125-27 du Code de l'environnement · modèle fixé par l'arrêté du 27 septembre
+2022.
+
+
+     Formulaire pré-rempli à partir de Géorisques et du Géoportail de l'Urbanisme à la date du rapport.
+     Avant de le remettre à l'acquéreur ou au locataire, le vendeur ou le bailleur le vérifie, le complète
+     (sinistres indemnisés) et le signe ; il doit dater de moins de six mois à la signature de la promesse, du
+     bail ou de l'acte.
+
+
+
+
+11.1 Situation du bien
+Commune                                                  Lyon (69382)
+
+Département                                              Rhône (69)
+
+Références cadastrales                                   Section AL, parcelle n° 24 · 69382000AL0024
+
+Surface cadastrale                                       535 m²
+
+
+
+11.2 Plans de prévention des risques
+  L'IMMEUBLE EST SITUÉ DANS LE PÉRIMÈTRE…                                         RÉPONSE                DÉTAIL
+
+  d'un plan de prévention des risques naturels (PPRN)                             Oui                    PM1 GlLynVlBn ass
+  prescrit, appliqué par anticipation ou approuvé
+
+  d'un plan de prévention des risques miniers (PPRM)                              Non                    Non recensé
+
+  d'un plan de prévention des risques technologiques                              Non                    Risques technologiques sur la commune
+  (PPRT)                                                                                                 : installations industrielles (icpe),
+                                                                                                         canalisations de matières dangereuses,
+                                                                                                         pollution des sols
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       42 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+11.3 Autres zonages réglementaires
+  L'IMMEUBLE EST SITUÉ…                                                           RÉPONSE                DÉTAIL
+
+  dans une commune de sismicité (zones 2 à 5 : règles de                          Oui                    Zone 2 – faible
+  construction parasismique)
+
+  dans une commune à potentiel radon de niveau 3                                  Non                    Catégorie 1 (potentiel faible)
+
+  dans un secteur d'information sur les sols (SIS)                                À vérifier             SIS recensé à proximité : Garage
+                                                                                                         CITROEN LYON 7. Vérifier l'arrêté
+                                                                                                         préfectoral.
+
+  dans une zone exposée au recul du trait de côte                                 Non                    Non concerné selon Géorisques
+
+  dans une zone de bruit d'un plan d'exposition au bruit                          Oui                    Zone d exposition au bruit
+  d'aérodrome (PEB)
+
+  dans une zone de retrait-gonflement des argiles                                 Oui                    Existant – modéré
+  (information)
+
+
+
+
+11.4 Sinistres indemnisés et déclarations
+Arrêtés de catastrophe naturelle sur la commune : 24 (liste en section Risques). Le vendeur ou le bailleur
+déclare ci-dessous les sinistres ayant donné lieu à une indemnisation au titre des catastrophes naturelles ou
+technologiques pendant la période où il a été propriétaire.
+
+Sinistres indemnisés                                     [ ] Oui [ ] Non
+
+Vendeur ou bailleur                                      Nom : ____________________ Date : ___/___/______ Signature :
+
+Acquéreur ou locataire                                   Nom : ____________________ Date : ___/___/______ Signature :
+
+
+L'état des risques officiel peut aussi être édité gratuitement sur Géorisques (errial.georisques.gouv.fr). Les informations
+ci-dessus sont établies à partir des bases nationales ; en cas de divergence, l'arrêté préfectoral relatif à l'information des
+acquéreurs et des locataires fait foi.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          43 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+    12             Avertissement et sources
+     DANS CETTE SECTION
+
+     La portée de ce rapport et la liste des sources publiques consultées.
+
+
+
+12.1 Nature du document
+Ce rapport est un document d'information établi automatiquement, à la date indiquée en page de garde, à
+partir des données publiques officielles alors disponibles. Il n'a aucune valeur contractuelle, réglementaire ou
+juridique.
+
+
+12.2 Ce que ce rapport n'est pas
+Il ne constitue ni un certificat d'urbanisme au sens de l'article L. 410-1 du Code de l'urbanisme, ni une
+autorisation d'urbanisme (permis de construire, permis d'aménager, déclaration préalable), ni un état des
+risques au sens de l'article L. 125-5 du Code de l'environnement, ni un bornage, ni une expertise, ni une
+évaluation immobilière, ni une consultation juridique. Il n'engage en rien l'administration.
+
+
+12.3 Permis de construire
+Ce rapport ne peut en aucun cas être joint, produit ou invoqué à l'appui d'une demande de permis de
+construire, de permis d'aménager ou de déclaration préalable, ni opposé à la mairie ou à un service de l'État. Il
+ne garantit pas l'obtention d'une autorisation : seule l'autorité compétente se prononce, au vu d'un projet
+précis et de l'ensemble des règles applicables à la date de sa décision.
+
+
+12.4 Limites des données
+Les données sont produites par des organismes publics dont l'éditeur n'est ni l'auteur ni le garant. Elles
+peuvent être incomplètes, imprécises ou ne pas refléter une modification, une révision, une mise en
+compatibilité, une annulation contentieuse, un sursis à statuer ou une procédure en cours. Le plan cadastral,
+document fiscal, ne fait pas foi des limites de propriété. Surfaces, distances, altitudes et pentes sont
+approchées. Les extraits et analyses du règlement sont une aide à la lecture : seul le texte intégral du
+document d'urbanisme approuvé, consultable en mairie, fait foi.
+
+
+12.5 Avant toute décision
+Avant toute acquisition, cession, financement, promesse de vente ou dépôt d'une demande, le lecteur doit
+obtenir un certificat d'urbanisme opérationnel auprès de la mairie, consulter le document d'urbanisme en
+vigueur et recueillir l'avis d'un professionnel habilité (notaire, architecte, géomètre-expert, avocat). Pour un
+achat, il est recommandé de stipuler une condition suspensive d'obtention d'un permis de construire purgé de
+tout recours.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        44 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+12.6 Responsabilité
+L'éditeur ne saurait être tenu responsable d'une décision prise sur le seul fondement de ce rapport, ni d'un
+refus d'autorisation, d'une erreur ou d'une omission des sources publiques, dans les limites prévues par les
+conditions générales de vente acceptées lors de la commande.
+
+
+12.7 Sources consultées
+  DONNÉE                                                    SOURCE
+
+  Cadastre                                                  DGFiP, plan cadastral informatisé, via API Carto (IGN)
+
+  Photographies et plans                                    IGN, Géoplateforme : orthophotographies, Plan IGN, parcellaire express
+
+  Urbanisme                                                 Géoportail de l'Urbanisme : zonage, prescriptions, informations, servitudes
+                                                            d'utilité publique
+
+  Littoral                                                  IGN, BD TOPO (limite terre-mer) ; communes littorales (Géoportail de
+                                                            l'Urbanisme)
+
+  Montagne                                                  Ministère de la Cohésion des territoires, communes de la loi Montagne
+
+  Risques                                                   Géorisques (ministère de la Transition écologique) : rapport de risques,
+                                                            arrêtés CatNat, sismicité, radon, ICPE, sites pollués
+
+  Environnement                                             Inventaire national du patrimoine naturel (PatriNat), via API Carto
+
+  Altitude, pente et exposition                             IGN, RGE ALTI
+
+  Ensoleillement                                            Calcul astronomique de la course du soleil ; masque du relief (IGN, RGE
+                                                            ALTI) et des bâtiments (IGN, BD TOPO)
+
+  Voirie et accès                                           IGN, BD TOPO (tronçons de route)
+
+  Permis de construire                                      Sitadel, service des données et études statistiques (SDES) du ministère
+                                                            chargé du logement
+
+  Photographies anciennes                                   IGN, BD ORTHO historique
+
+  Fibre et internet                                         Arcep, Ma connexion internet (éligibilité par adresse)
+
+  Géomètres                                                 Répertoire Sirene (INSEE), activité des géomètres
+
+  Propriétaires personnes morales                           DGFiP, fichiers des parcelles des personnes morales (diffusion Koumoul)
+
+  Diagnostics énergétiques                                  ADEME, base des DPE des logements existants
+
+  Procédures collectives                                    Bodacc, annonces commerciales (DILA)
+
+  Bâtiments                                                 IGN, BD TOPO
+
+  Réseau électrique                                         Agence ORE (gestionnaires de réseaux de distribution : Enedis, EDF Corse
+                                                            et entreprises locales) : réseau basse tension et postes de distribution
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        45 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Lyon · AL 24
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+  DONNÉE                                                    SOURCE
+
+  Taxe d'aménagement                                        DGFiP, éléments de taxation votés par les collectivités ; valeurs forfaitaires
+                                                            fixées par arrêté
+
+  Rapport officiel de risques                               Géorisques, ministère chargé de l'environnement
+
+  Zone France Ruralités Revitalisation                      ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 ; article
+                                                            44 quindecies A du code général des impôts
+
+  Marché immobilier                                         Statistiques des demandes de valeurs foncières (DVF) par commune, DGFiP
+                                                            et Etalab
+
+  Date d'extraction                                         20/11/2026
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        46 / 47
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                    TerrenUrbanisme
+
+    Merci de votre confiance
+Ce rapport a été établi à partir des sources publiques officielles pour vous
+  aider à décider en connaissance de cause. Pour toute question, nous
+                        restons à votre disposition.
+
+
+
+
+   Vous êtes professionnel ? Travaillons ensemble
+      Agents immobiliers, notaires, architectes, géomètres, diagnostiqueurs,
+promoteurs, mairies : faisons équipe. Crédits professionnels sans abonnement, 5
+€ le rapport dès 50 crédits, votre logo sur les rapports, offre communale pour les
+                       mairies et partenariats sur mesure.
+
+               Écrivez-nous : contact@terrenurbanisme.com
+
+
+
+
+                        terrenurbanisme.com
+                         contact@terrenurbanisme.com
+

@@ -1,0 +1,1772 @@
+                  TerrenUrbanisme
+                  Le terrain constructible, partout en France
+
+
+
+
+RAPPORT D'URBANISME
+
+
+
+Saint-Martin
+Section D · Parcelle n° 100
+      Non constructible
+
+
+
+
+Référence cadastrale                                                        Surface cadastrale
+653920000D0100                                                              7 600 m²
+
+Rapport établi le                                                           Référence du rapport
+20/11/2026                                                                  APERCU
+
+
+
+
+terrenurbanisme.com                                                                      contact@terrenurbanisme.com
+
+Document d'information sans valeur contractuelle ni réglementaire. Il ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme
+et ne peut en aucun cas être joint à une demande de permis de construire ou de déclaration préalable. Seuls les actes de l'administration font foi.
+                                                                                                                           Saint-Martin · D 100
+         TerrenUrbanisme
+                                                                                                                                  Sommaire
+
+
+
+
+Sommaire
+Le rapport suit l'ordre d'une étude de terrain : où se trouve la parcelle, ce que dit la règle, ce qui pèse sur le
+projet, puis les démarches.
+
+              Synthèse
+   S                                                                                                                                     p. 3
+              Le verdict, les indicateurs clés et les points d'attention en une page.
+
+              Identification de la parcelle
+   01                                                                                                                                    p. 4
+              Localisation, surface, références cadastrales et voisinage du terrain.
+
+              Règles d'urbanisme applicables
+  02                                                                                                                                      p. 7
+              Document d'urbanisme, zone du terrain, prescriptions et servitudes.
+
+              Ce que vous pouvez construire
+  03                                                                                                                                     p. 9
+              Surface constructible, hauteur, reculs, aspect et usages autorisés.
+
+              Loi Littoral et loi Montagne
+  04                                                                                                                                    p. 10
+              Les lois qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+              Risques naturels et technologiques
+  05                                                                                                                                     p. 11
+              Inondation, feu de forêt, argiles, catastrophes naturelles et sites pollués.
+
+              Le terrain : accès, relief et réseaux
+  06                                                                                                                                    p. 13
+              Accès, pente, ensoleillement, eaux usées, électricité, eau et fibre.
+
+              Conditions de vente du terrain
+  07                                                                                                                                    p. 19
+              Terrain agricole ou naturel : SAFER, fermier en place et repère officiel de prix.
+
+              Environnement et marché immobilier
+  08                                                                                                                                    p. 21
+              Espaces naturels, espèces protégées et ventes immobilières alentour.
+
+              Historique du site
+  09                                                                                                                                    p. 24
+              Le terrain vu du ciel au fil des années et les permis accordés autour.
+
+              Votre projet, étape par étape
+   10                                                                                                                                   p. 25
+              De l'achat aux impôts : démarches, délais, coûts, contacts et taxe.
+
+              État des risques (ERP) pré-rempli
+   11                                                                                                                                   p. 29
+              Le formulaire réglementaire à remettre à l'acquéreur, pré-rempli.
+
+              Avertissement et sources
+   12                                                                                                                                   p. 31
+              La portée de ce rapport et les sources publiques consultées.
+
+
+
+
+Astuce : cliquez sur un chapitre pour y accéder directement.
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                    2 / 34
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Saint-Martin · D 100
+         TerrenUrbanisme
+                                                                                                                                          Synthèse
+
+
+
+
+Synthèse
+     Document d'information. Ce rapport ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme,
+     n'engage pas l'administration et ne peut pas servir de pièce à une demande de permis de construire.
+     L'appréciation ci-dessous est indicative : seule la mairie se prononce sur la constructibilité d'un terrain,
+     au vu d'un projet précis.
+
+
+
+
+       NON CONSTRUCTIBLE
+
+       Ce terrain n'est pas constructible en l'état
+       La parcelle est classée dans le secteur non constructible « ZNC » de la carte communale
+       de Saint-Martin. Les constructions nouvelles n'y sont pas admises, sauf exceptions
+       encadrées.
+
+
+
+
+      Zone principale                                        Document d'urbanisme                                  Loi Littoral
+
+   ZNC · 100 %                                            CC · 23/04/2024                                        Ne s'applique pas
+
+
+
+
+      Loi Montagne                                           Risques à la parcelle
+
+   Ne s'applique pas                                      Séisme ·
+                                                          Retrait-gonflement des
+
+
+
+
+Points d'attention
+    Zone ZNC (100 % de la parcelle) : non constructible.
+    Aucune ligne électrique basse tension recensée à moins de 387 m : raccordement électrique coûteux
+    à prévoir (extension du réseau).
+    Retrait-gonflement des argiles (exposition moyenne) : en cas de vente d'un terrain non bâti
+    constructible, le vendeur doit fournir une étude géotechnique préalable (loi ELAN, article L. 132-5 du
+    Code de la construction et de l'habitation) ; une étude géotechnique de conception est exigée avant
+    de construire.
+    Canalisations de matières dangereuses : concerné à l'adresse de la parcelle (voir le chapitre «
+    Risques naturels et technologiques »).
+    5 arrêtés de catastrophe naturelle sur la commune.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           3 / 34
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Saint-Martin · D 100
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+    01             Identification de la parcelle
+     DANS CETTE SECTION
+
+     Où se trouve le terrain, sa surface, ses références cadastrales, son propriétaire lorsqu'il s'agit
+     d'une société ou d'une collectivité, et la performance énergétique du bâti existant.
+
+
+Données du cadastre (DGFiP) et de l'IGN.
+
+
+     Plan de situation
+
+
+
+
+                                                                                                                            1 km
+
+
+
+Plan IGN · © IGN
+
+
+
+     Vue aérienne et plan cadastral
+
+
+
+
+                                                                                                                                   100 m
+
+
+
+Photographie aérienne et plan cadastral · © IGN
+
+
+Commune                                                  Saint-Martin (65392)
+
+Département                                              Hautes-Pyrénées (65)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              4 / 34
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Saint-Martin · D 100
+          TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+Section et numéro                                        Section D, parcelle n° 100, feuille 1
+
+Identifiant cadastral                                    653920000D0100
+
+Surface cadastrale                                       7 600 m²
+
+Surface calculée (SIG)                                   8 057 m² · périmètre 374 m
+
+Coordonnées du centre                                    43.16831 N, 0.06640 E (WGS 84)
+
+Altitude                                                 de 388 à 391 m
+
+Pente estimée                                            3 % (terrain plutôt plat)
+
+Parcelles voisines                                       D 101, D 102, A 215, A 216
+
+
+Le plan cadastral est un document fiscal : il ne fait pas foi des limites de propriété. Seul un bornage réalisé par un
+géomètre-expert fixe les limites de manière certaine.
+
+
+1.1 Propriétaire et voisinage
+La parcelle ne figure pas au fichier des personnes morales : son propriétaire est vraisemblablement un
+particulier. Le nom des propriétaires particuliers n'est pas public ; il peut être demandé au service des impôts
+fonciers (relevé de propriété) ou obtenu par l'intermédiaire d'un notaire.
+
+Parcelles voisines détenues par des sociétés ou des collectivités
+  PARCELLE              PROPRIÉTAIRE                                                                     SURFACE            SIREN
+
+  A 216                 COMMUNE DE MOMERES (COM)                                                         2 540 m²           216503136
+
+  A 215                 COMMUNE DE MOMERES (COM)                                                         1 280 m²           216503136
+
+
+
+Principaux propriétaires personnes morales dans un rayon de 280 m
+  PROPRIÉTAIRE                                                              PARCELLES             SURFACE TOTALE            SIREN
+
+  COMMUNE DE MOMERES (COM)                                                  6                     44 004 m²                 216503136
+
+
+
+Source : fichiers des parcelles des personnes morales (DGFiP) : sociétés, SCI, collectivités, établissements publics et associations.
+Les propriétaires personnes physiques n'y figurent pas.
+
+
+1.2 La commune de Saint-Martin
+Code postal                                              65360
+
+Département                                              Hautes-Pyrénées (65)
+
+Intercommunalité                                         CA Tarbes-Lourdes-Pyrénées
+
+Population                                               436 habitants
+
+Superficie                                               8,32 km²
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             5 / 34
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Saint-Martin · D 100
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+Densité                                                  52 habitants par km²
+
+Commune littorale                                        Non
+
+Commune de montagne                                      Non
+
+Document d'urbanisme                                     Carte communale, approuvé le 23/04/2024
+
+Risques sur la commune                                   5 arrêtés de catastrophe naturelle · détail en section Risques et en
+                                                         annexe
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           6 / 34
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              Saint-Martin · D 100
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+    02             Règles d'urbanisme applicables
+     DANS CETTE SECTION
+
+     Le document d'urbanisme de la commune, la zone dans laquelle se trouve le terrain, et les
+     prescriptions et servitudes qui s'y ajoutent.
+
+
+Géoportail de l'Urbanisme : zonage, prescriptions et servitudes.
+
+
+
+2.1 Document d'urbanisme en vigueur
+Type de document                                         Carte communale
+
+Date d'approbation                                       23/04/2024
+
+Statut                                                   Publié au Géoportail de l'Urbanisme
+
+Règlement officiel                                       Non publié en ligne : à consulter en mairie
+
+
+
+     Plan de la carte communale
+
+
+
+
+                                                                             ZNC
+
+
+
+
+                                                                                                                            100 m
+
+
+
+Zonage : Géoportail de l'Urbanisme · fond : © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       7 / 34
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Saint-Martin · D 100
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.2 Zonage de la parcelle
+  ZONE                  DÉSIGNATION                                                         PART               CONSTRUCTIBILITÉ
+
+  ZNC                   Secteur non constructible                                           100 %              Non constructible
+
+
+
+Zone ZNC · Secteur non constructible
+Secteur de la carte communale où les constructions ne sont pas admises, à l'exception de l'adaptation, du
+changement de destination, de la réfection ou de l'extension des constructions existantes, des constructions
+nécessaires à des équipements collectifs, à l'exploitation agricole ou forestière et à la mise en valeur des
+ressources naturelles.
+
+
+2.3 Prescriptions applicables à la parcelle
+Aucune prescription graphique du PLU (emplacement réservé, espace boisé classé, élément de paysage
+protégé, etc.) n'est recensée sur la parcelle.
+
+
+2.4 Servitudes d'utilité publique
+  CODE               SERVITUDE                                                                    DÉTAIL
+
+  I4                 Ligne électrique                                                             I4 444619258 BASTIL51LANNE ass
+
+
+
+
+2.5 Patrimoine : l'architecte des Bâtiments de France
+Aucun site patrimonial remarquable, site classé ou inscrit, ni monument historique à moins de 500 m n'est
+recensé : l'avis de l'architecte des Bâtiments de France n'est pas requis au titre du patrimoine.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            8 / 34
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Saint-Martin · D 100
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    03             Ce que vous pouvez construire
+     DANS CETTE SECTION
+
+     La lecture du règlement de votre zone : surface constructible estimée, hauteur, reculs, aspect,
+     usages autorisés ou interdits, avec les extraits du texte officiel.
+
+
+Carte communale : les règles de construction sont celles du règlement national d'urbanisme (RNU).
+
+
+
+3.1 Potentiel constructible estimé
+     La parcelle est en secteur non constructible de la carte communale. Seules y sont admises
+     l'adaptation, le changement de destination, la réfection et l'extension des constructions existantes,
+     ainsi que les constructions nécessaires à des équipements collectifs, à l'exploitation agricole ou
+     forestière et à la mise en valeur des ressources naturelles (article L. 161-4 du Code de l'urbanisme).
+
+
+
+
+3.2 Règles nationales applicables
+  CRITÈRE                                   RÈGLE                                                                               ARTICLE
+
+  Sécurité et salubrité                     Le projet peut être refusé ou soumis à prescriptions s'il porte                     R. 111-2
+                                            atteinte à la sécurité ou à la salubrité publiques, notamment en
+                                            raison des risques.
+
+  Accès et desserte                         Le terrain doit être desservi par une voie publique ou privée                       R. 111-5
+                                            adaptée à l'importance du projet, avec un accès sûr pour les
+                                            usagers et les secours.
+
+  Réseaux                                   Le permis peut être refusé si des travaux de réseaux (eau,                          L. 111-11
+                                            électricité, assainissement) sont nécessaires sans que la collectivité
+                                            puisse indiquer quand ils seront réalisés.
+
+  Implantation par rapport                  Hors construction en limite, distance au moins égale à la moitié de                 R. 111-17
+  aux limites                               la différence d'altitude entre la construction et la limite, sans être
+                                            inférieure à 3 m.
+
+  Implantation par rapport                  En bordure de voie publique, distance à l'alignement opposé au                      R. 111-16
+  aux voies                                 moins égale à la différence d'altitude.
+
+  Aspect et paysage                         Refus ou prescriptions si le projet porte atteinte au caractère ou à                R. 111-27
+                                            l'intérêt des lieux avoisinants, des sites et des paysages.
+
+  Environnement                             Le projet doit respecter les préoccupations d'environnement ; des                   R. 111-26
+                                            prescriptions spéciales peuvent être imposées.
+
+
+
+La loi Littoral et la loi Montagne s'ajoutent à ces règles lorsqu'elles s'appliquent : voir la section correspondante.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        9 / 34
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Saint-Martin · D 100
+         TerrenUrbanisme
+                                                                                                                    04 · Loi Littoral et loi Montagne
+
+
+
+
+   04              Loi Littoral et loi Montagne
+     DANS CETTE SECTION
+
+     Les lois nationales qui s'ajoutent au document d'urbanisme sur le littoral et en montagne. Elles
+     peuvent rendre un terrain inconstructible même en zone constructible.
+
+
+Les lois d'aménagement qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+
+
+4.1 Loi Littoral
+Commune littorale                                        Non
+
+Distance au rivage                                       Sans objet
+
+Bande des 100 mètres                                     Sans objet
+
+
+La commune n'est pas riveraine de la mer : la loi Littoral ne s'applique pas (sauf rives de grands lacs).
+
+
+4.2 Loi Montagne
+Commune en zone de montagne                              Non
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           10 / 34
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Saint-Martin · D 100
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+   05              Risques naturels et technologiques
+     DANS CETTE SECTION
+
+     Les risques connus à l'adresse du terrain (inondation, feu de forêt, mouvement de terrain,
+     radon…) et les catastrophes naturelles reconnues sur la commune.
+
+
+Base nationale Géorisques (ministère de la Transition écologique).
+
+
+
+5.1 Risques naturels à l'adresse de la parcelle
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Inondation                                      Non connu                                       Existant
+
+  Remontée de nappe                               Non connu                                       Existant
+
+  Séisme                                          Existant – modéré                               Existant – modéré
+
+  Mouvement de terrain                            Inconnu                                         Existant
+
+  Retrait-gonflement des                          Existant – modéré                               Existant – modéré
+  argiles
+
+  Radon                                           Existant – faible                               Existant – faible
+
+
+
+
+5.2 Risques technologiques
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Canalisations de matières                       Concerné                                        Concerné
+  dangereuses
+
+  Pollution des sols                              Non connu                                       Concerné
+
+
+
+
+5.3 Indicateurs réglementaires
+Zone de sismicité                                        Zone 4 – moyenne
+
+Potentiel radon                                          Catégorie 1 (potentiel faible)
+
+Retrait-gonflement des argiles                           Existant – modéré
+
+Plans de prévention (PPR)                                Adour
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      11 / 34
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Saint-Martin · D 100
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.4 Arrêtés de catastrophe naturelle
+5 arrêtés de reconnaissance de l'état de catastrophe naturelle concernent la commune.
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Inondations et/ou Coulées de Boue                                         24/01/2009 au 27/01/2009                       29/01/2009
+
+  Mouvement de Terrain                                                      25/12/1999 au 29/12/1999                       30/12/1999
+
+  Inondations et/ou Coulées de Boue                                         25/12/1999 au 29/12/1999                       30/12/1999
+
+  Tempête                                                                   06/11/1982 au 10/11/1982                       19/11/1982
+
+  Inondations et/ou Coulées de Boue                                         06/11/1982 au 10/11/1982                       19/11/1982
+
+
+
+
+5.5 Installations classées à proximité (moins de 1 km)
+    BIOMETHADOUR SAS · Enregistrement · En exploitation avec titre
+
+
+5.6 Sites et sols pollués à proximité
+    1 ancien site industriel ou d'activité de service (CASIAS) recensé
+
+
+5.7 Rapport officiel Géorisques
+Les risques recensés ci-dessus proviennent des bases officielles de Géorisques, service public d'information
+sur les risques. Le rapport officiel complet peut être édité sans frais, à tout moment et à jour, à partir de
+l'adresse du terrain sur le site Géorisques.
+
+
+    Éditer le rapport officiel Géorisques
+
+
+Lors d'une vente ou d'une location, le vendeur ou le bailleur doit remettre un état des risques de moins de six mois,
+complété et signé, et l'information sur les sinistres indemnisés au titre des catastrophes naturelles.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         12 / 34
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Saint-Martin · D 100
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+   06              Le terrain : accès, relief et réseaux
+     DANS CETTE SECTION
+
+     Les contraintes physiques du terrain : accès à une voie, pente et exposition, assainissement,
+     raccordement à l'électricité et à l'eau, fibre. Ce sont elles qui pèsent le plus sur le coût d'un
+     projet.
+
+
+Voirie (IGN, BD TOPO), altimétrie (IGN, RGE ALTI), règlement de la zone, réseau électrique (Agence ORE) et éligibilité
+internet (Arcep).
+
+
+
+6.1 Accès
+Accès direct à une voie                                  Oui
+
+Voie                                                     Route empierrée
+
+Accès des véhicules                                      Libre
+
+
+La parcelle touche une voie carrossable. L'autorisation d'urbanisme vérifiera que l'accès est adapté au projet et sûr,
+et peut imposer une permission de voirie ou un aménagement de l'entrée.
+
+
+6.2 Relief et exposition
+Pente moyenne                                            3%
+
+Exposition                                               Versant orienté nord-est
+
+Altitude                                                 388 à 391 m
+
+Appréciation                                             Terrain plat ou presque plat
+
+
+
+
+ 391 m
+
+
+
+
+ 386 m
+
+
+           Coupe du terrain dans le sens de la pente · longueur 168 m
+
+
+     Terrassements limités ; pas de surcoût notable lié au relief.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        13 / 34
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Saint-Martin · D 100
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.3 Ensoleillement
+Appréciation                                             Très bien ensoleillé
+
+Soleil direct le 21 juin                                 15 h 12 (de 06 h 30 à 21 h 30)
+
+Soleil direct aux équinoxes                              11 h 42 (de 07 h 20 à 18 h 50)
+
+Soleil direct le 21 décembre                             8 h 18 (de 08 h 50 à 17 h 00)
+
+Ensoleillement annuel possible                           4 318 h par an, soit 98 % du maximum à cette latitude
+
+Hauteur du relief vers le sud                            3°
+
+
+
+ 75°
+
+
+
+ 60°
+
+
+
+ 45°
+
+
+
+ 30°
+
+
+
+ 15°
+
+
+
+ 0°
+                                Est                  Sud-est                    Sud                 Sud-ouest               Ouest
+
+          21 juin          Équinoxes               21 décembre                 Horizon : relief et bâtiments voisins
+
+
+
+       Le relief et les constructions voisines ne masquent presque pas le soleil : le terrain profite de la
+       quasi-totalité de l'ensoleillement possible à cette latitude.
+
+
+
+Ensoleillement mois par mois (le 21 de chaque mois)
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Janvier                         9 h 18                             9h                                        08 h 40 – 17 h 30
+
+  Février                         10 h 42                            10 h 30                                   08 h 00 – 18 h 20
+
+  Mars                            12 h                               11 h 42                                   07 h 20 – 18 h 50
+
+  Avril                           13 h 30                            13 h 30                                   07 h 20 – 20 h 40
+
+  Mai                             14 h 42                            14 h 42                                   06 h 40 – 21 h 10
+
+  Juin                            15 h 12                            15 h 12                                   06 h 30 – 21 h 30
+
+  Juillet                         14 h 42                            14 h 42                                   06 h 50 – 21 h 20
+
+  Août                            13 h 30                            13 h 30                                   07 h 20 – 20 h 40
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            14 / 34
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Saint-Martin · D 100
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Septembre                       12 h                               11 h 48                                   08 h 00 – 19 h 40
+
+  Octobre                         10 h 42                            10 h 12                                   08 h 40 – 18 h 40
+
+  Novembre                        9 h 18                             8 h 48                                    08 h 20 – 17 h 00
+
+  Décembre                        8 h 48                             8 h 18                                    08 h 50 – 17 h 00
+
+
+
+Calcul théorique par ciel dégagé, au centre de la parcelle et à hauteur d'homme : course du soleil heure par heure, masque du relief
+sur 6 km (IGN, RGE ALTI) et des bâtiments voisins sur 120 m (IGN, BD TOPO). La végétation et les constructions récentes ne sont
+pas prises en compte.
+
+
+6.4 Quel raccordement pour les eaux usées ?
+Raccordement à prévoir                                       Assainissement individuel (fosse ou micro-station)
+
+Zone du PLU                                                  ZNC · Secteur non constructible
+
+Zonage d'assainissement                                      Non publié au Géoportail de l'Urbanisme (consultable en mairie)
+
+Réseau collectif sur la commune                              Aucun service collectif recensé
+
+
+     Aucun service public d'assainissement collectif n'est recensé pour cette commune : les constructions y
+     sont équipées d'un assainissement individuel, contrôlé par le SPANC.
+
+
+
+Ce que cela coûte
+Assainissement individuel : 5 000 à 15 000 € selon la filière (détail ci-dessous), plus l'étude de sol à la parcelle (500 à
+1 000 €). Étapes : étude de sol, puis avis favorable du SPANC sur le projet, à joindre à la demande de permis de
+construire. Besoin d'un installateur agréé ? Nous vous mettons en relation : contact@terrenurbanisme.com.
+
+Qui contacter pour obtenir la confirmation
+Service d'assainissement                                     SPANC (service public d'assainissement non collectif), via la
+                                                             mairie
+
+Mairie                                                       Mairie de Saint-Martin
+
+Téléphone                                                    05 62 45 98 73
+
+E-mail                                                       mairie.saintmartin@orange.fr
+
+
+    Demandez au service d'assainissement, avec la référence cadastrale, si une canalisation publique passe au droit
+    du terrain, à quelle profondeur, et le montant de la PFAC. Sa réponse écrite vaut attestation de raccordabilité.
+    Certificat d'urbanisme opérationnel (formulaire Cerfa 13410, délivré sans frais) : la mairie y indique officiellement
+    si le terrain est desservi par le réseau d'assainissement.
+    Plan des réseaux : la présence des canalisations enterrées près du terrain peut être vérifiée sur
+    reseaux-et-canalisations.gouv.fr, le guichet unique des réseaux.
+Sources : zonage d'assainissement et règlement (Géoportail de l'Urbanisme) ; services publics d'assainissement (SISPEA, Office
+français de la biodiversité) ; annuaire de l'administration (service-public.fr).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           15 / 34
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Saint-Martin · D 100
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+Les solutions d'assainissement individuel
+  FILIÈRE                                    QUAND ELLE CONVIENT                                                           ORDRE DE PRIX
+
+  Fosse toutes eaux et                       Sol perméable, terrain assez grand et peu pentu                               5 000 à 10 000 €
+  épandage
+
+  Filtre à sable                             Sol peu perméable, place suffisante                                           8 000 à 12 000 €
+
+  Micro-station agréée                       Petit terrain ou sol défavorable ; entretien et électricité                   7 000 à 15 000 €
+
+  Filtre compact agréé                       Petit terrain, sans électricité                                               9 000 à 14 000 €
+
+
+
+Ordres de prix indicatifs (fourniture et pose, hors étude de sol et terrassements particuliers). La filière est choisie au vu de l'étude
+de sol et validée par le SPANC.
+
+
+6.5 Électricité et eau potable
+Gestionnaire du réseau                                       Enedis
+
+Réseau basse tension le plus proche                          Aucun à moins de 387 m
+
+Poste de transformation le plus proche                       à environ 530 m
+
+Appréciation                                                 Raccordement lourd à prévoir
+
+
+     Aucune ligne basse tension n'est recensée à moins de 387 m. Le raccordement suppose une extension
+     du réseau, voire un nouveau poste de transformation : le coût peut atteindre plusieurs dizaines de
+     milliers d'euros et les délais plusieurs mois.
+
+
+
+Ce qu'il faut vérifier avant d'acheter
+    La capacité du réseau : même un réseau proche peut être saturé (coffret ou câble plein, poste de transformation
+    au maximum). Seule une étude du gestionnaire permet de le savoir ; c'est la cause la plus fréquente de surcoûts
+    imprévus.
+    Électricité : demander au gestionnaire du réseau une étude de raccordement ou un devis à partir de l'adresse et
+    du plan de situation (sans frais). Elle indique le type de raccordement, son coût et son délai.
+    Eau potable : les plans du réseau d'eau ne sont pas publics. Interroger le service des eaux (coordonnées
+    ci-dessous) sur la présence d'une canalisation au droit du terrain, sa capacité et le coût du branchement, ainsi
+    que sur la défense incendie (borne à moins de 200 m environ).
+    Certificat d'urbanisme opérationnel : la mairie y indique si le terrain est desservi par les réseaux publics (eau,
+    électricité, assainissement) et, à défaut, si et quand ils seront étendus. Un refus de permis peut être fondé sur
+    l'insuffisance des réseaux (article L. 111-11 du Code de l'urbanisme).
+
+Qui contacter
+Service de l'eau potable                                     Communauté d'Agglomération Tarbes-Lourdes-Pyrénées
+
+Mode de gestion                                              Régie publique
+
+Contact pour le branchement                                  Communauté d'Agglomération Tarbes-Lourdes-Pyrénées
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             16 / 34
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Saint-Martin · D 100
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+Mairie                                                       Mairie de Saint-Martin
+
+Téléphone de la mairie                                       05 62 45 98 73
+
+E-mail de la mairie                                          mairie.saintmartin@orange.fr
+
+Électricité (raccordement)                                   Enedis · demande en ligne sur enedis.fr (raccordement)
+
+La mairie oriente vers le bon interlocuteur et confirme, dans le certificat d'urbanisme, la desserte du terrain par les réseaux.
+Sources : SISPEA, observatoire des services publics d'eau (OFB) ; annuaire de l'administration (service-public.fr).
+
+Dans une promesse de vente, une condition suspensive portant sur le coût du raccordement aux réseaux protège
+l'acquéreur. Source de la cartographie électrique : Agence ORE, données des gestionnaires de réseaux de distribution ;
+tracés indicatifs.
+
+
+6.6 Fibre et internet
+     La fibre est déployée dans le secteur, la plus proche à 981 m (36 Chemin de Beyréde) : le raccordement
+     d'une construction neuve suppose une extension du réseau, à demander à l'opérateur.
+
+
+
+Adresse la plus proche                                          36 Chemin de Beyréde · à 981 m · raccordable
+
+Point fibré le plus proche                                      36 Chemin de Beyréde · à 981 m
+
+Adresses fibrées à moins de 100 m                               Aucune adresse recensée
+
+Adresses fibrées à moins de 400 m                               0 sur 0
+
+Technologies disponibles à proximité                            4G fixe, Fibre, Satellite
+
+
+Vérifiez la fibre à l'adresse du terrain :
+
+                     Carte fibre Orange                                                                  Carte de l'Arcep
+
+
+  DISTANCE           ADRESSE                                                                   FIBRE              AUTRES ACCÈS
+
+  981 m              36 Chemin de Beyréde                                                      Oui                4G fixe, Satellite
+
+  1 009 m            38 Chemin de Beyréde                                                      Oui                4G fixe, Satellite
+
+  1 236 m            19 Chemin des Hourquets                                                   Oui                4G fixe, Satellite
+
+  1 270 m            17 Chemin des Hourquets                                                   Oui                4G fixe, Satellite
+
+  1 294 m            16 Chemin de Beyréde                                                      Oui                4G fixe, Satellite
+
+
+
+Source : Arcep, « Ma connexion internet », éligibilité déclarée par les opérateurs, adresse par adresse. Le tracé des câbles n'est
+pas public : la présence de la fibre en limite de terrain se vérifie auprès de l'opérateur ou par une déclaration de projet de travaux
+(DT).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                               17 / 34
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Saint-Martin · D 100
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.7 Qui contacter pour les réseaux
+  RÉSEAU                                    INTERLOCUTEUR                                         CE QU'IL FAUT DEMANDER
+
+  Eau potable et                            Mairie ou service des eaux de la                      Attestation de desserte et conditions de
+  assainissement collectif                  commune                                               raccordement
+
+  Assainissement individuel                 SPANC (communauté de communes)                        Contrôle de conception sur la base de l'étude
+                                                                                                  de sol
+
+  Électricité                               Enedis (gestionnaire du réseau de                     Étude de raccordement et devis
+                                            distribution)
+
+  Fibre et téléphone                        Opérateur d'infrastructure et                         Raccordement du futur logement
+                                            fournisseur d'accès
+
+  Tous réseaux                              Guichet unique des réseaux                            Déclaration de projet de travaux (DT) pour
+                                            (reseaux-et-canalisations.gouv.fr)                    localiser les réseaux existants
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        18 / 34
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Saint-Martin · D 100
+         TerrenUrbanisme
+                                                                                                               07 · Conditions de vente du terrain
+
+
+
+
+    07             Conditions de vente du terrain
+     DANS CETTE SECTION
+
+     Terrain agricole ou naturel : droit de préemption de la SAFER, fermier en place, autorisation
+     d'exploiter et repère officiel de prix.
+
+
+Terrain situé en zone ZNC : vente encadrée par le code rural et de la pêche maritime.
+
+
+
+7.1 Pourquoi aucune fourchette de prix n'est donnée
+La parcelle est classée en zone ZNC (secteur non constructible), où les constructions nouvelles ne sont en
+principe pas admises. Sa valeur ne se déduit pas des ventes de terrains à bâtir du secteur : elle dépend de
+l'usage agricole ou naturel du sol, de sa qualité, de son accès, de l'eau disponible et de l'existence éventuelle
+d'un bail rural. Une estimation automatique serait trompeuse : la valeur doit être établie au cas par cas par un
+notaire ou un expert foncier et agricole.
+
+
+7.2 Le droit de préemption de la SAFER
+Principe                                        La vente d'un terrain agricole ou naturel est en principe soumise au droit de
+                                                préemption de la SAFER (articles L. 143-1 et suivants du code rural et de la
+                                                pêche maritime). Une surface minimale, fixée par département, peut en
+                                                exclure les plus petites parcelles.
+
+Information obligatoire                         Le notaire informe la SAFER du projet de vente au moins deux mois avant la
+                                                signature : prix, conditions et identité de l'acquéreur.
+
+Ce que peut faire la SAFER                      Renoncer, acheter au prix et aux conditions notifiés, ou proposer un prix
+                                                inférieur si elle estime le prix exagéré. Le vendeur peut alors accepter,
+                                                retirer son terrain de la vente ou demander au tribunal judiciaire de fixer le
+                                                prix.
+
+Pourquoi elle intervient                        Installation de jeunes agriculteurs, consolidation des exploitations,
+                                                protection de l'environnement et des paysages, lutte contre la spéculation
+                                                foncière.
+
+
+
+7.3 Les autres règles à connaître
+Fermier en place                                Si le terrain est loué par bail rural, l'exploitant en place bénéficie d'un droit
+                                                de préemption prioritaire, avant la SAFER.
+
+Autorisation d'exploiter                        Un acquéreur qui souhaite exploiter le terrain peut devoir obtenir une
+                                                autorisation d'exploiter auprès de la DDT(M), selon le schéma directeur
+                                                régional des exploitations agricoles.
+
+Espace naturel sensible                         Dans un espace naturel sensible, le département peut également disposer
+                                                d'un droit de préemption.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         19 / 34
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Saint-Martin · D 100
+         TerrenUrbanisme
+                                                                                                               07 · Conditions de vente du terrain
+
+
+
+
+Constructions                                   Seules les constructions nécessaires à l'exploitation agricole ou forestière,
+                                                ou à des équipements collectifs, sont en règle générale admises : l'achat ne
+                                                donne pas de droit à bâtir une habitation.
+
+
+
+7.4 Repère officiel de prix
+Le ministère de l'Agriculture publie chaque année le barème indicatif de la valeur vénale moyenne des terres
+agricoles, par région agricole et par nature de culture (arrêté publié au Journal officiel). C'est la référence à
+consulter, avec l'avis d'un notaire ou d'un expert foncier et agricole, avant de fixer un prix.
+
+     Avant toute mise en vente, rapprochez-vous de votre notaire : il notifie la vente à la SAFER, vérifie
+     l'existence d'un bail et sécurise le calendrier de la transaction.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         20 / 34
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Saint-Martin · D 100
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+   08              Environnement et marché immobilier
+     DANS CETTE SECTION
+
+     Les espaces naturels protégés autour du terrain et les prix de vente réels des maisons,
+     appartements et terrains alentour.
+
+
+Inventaire national du patrimoine naturel et demandes de valeurs foncières (DVF).
+
+
+
+8.1 Espaces naturels protégés ou inventoriés
+La parcelle n'est concernée par aucun site Natura 2000, ZNIEFF, parc ou réserve naturelle.
+
+
+8.2 Espèces protégées observées près du terrain
+39 espèces protégées ont été observées dans un rayon de 1 km autour du terrain depuis 1990 ; les 14 plus
+fréquemment signalées figurent ci-dessous.
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Crossope aquatique (Neomys fodiens)                             Mammifère              Nationale (espèce et              6 · dernière en 2011
+                                                                                         habitat)
+
+  Héron garde-boeufs (Bubulcus ibis)                              Oiseau                 Nationale (espèce et              6 · dernière en 2021
+                                                                                         habitat)
+
+  Vipère aspic (Vipera aspis)                                     Reptile                Nationale (espèce et              5 · dernière en 2001
+                                                                                         habitat)
+
+  Grenouille agile (Rana dalmatina)                               Amphibien              Nationale (espèce et              4 · dernière en 2016
+                                                                                         habitat)
+
+  Grand Corbeau (Corvus corax)                                    Oiseau                 Nationale (espèce et              4 · dernière en 2021
+                                                                                         habitat)
+
+  Triton palmé (Lissotriton helveticus)                           Amphibien              Nationale                         4 · dernière en 2016
+
+  Couleuvre verte et jaune (Hierophis                             Reptile                Nationale (espèce et              3 · dernière en 1996
+  viridiflavus)                                                                          habitat)
+
+  Pic vert (Picus viridis)                                        Oiseau                 Nationale (espèce et              3 · dernière en 2021
+                                                                                         habitat)
+
+  Elanion Blanc (Elanus caeruleus)                                Oiseau                 Nationale (espèce et              3 · dernière en
+                                                                                         habitat)                          2023
+
+  Buse commune (Buteo buteo)                                      Oiseau                 Nationale (espèce et              3 · dernière en 2021
+                                                                                         habitat)
+
+  Milan noir (Milvus migrans)                                     Oiseau                 Nationale (espèce et              3 · dernière en
+                                                                                         habitat)                          2022
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        21 / 34
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Saint-Martin · D 100
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Campagnol amphibie (Arvicola sapidus)                           Mammifère              Nationale (espèce et              2 · dernière en 2011
+                                                                                         habitat)
+
+  Pic noir (Dryocopus martius)                                    Oiseau                 Nationale (espèce et              2 · dernière en
+                                                                                         habitat)                          2020
+
+  Loriot d'Europe (Oriolus oriolus)                               Oiseau                 Nationale (espèce et              2 · dernière en
+                                                                                         habitat)                          2022
+
+
+
+     Une observation à proximité ne signifie pas que l'espèce vit sur le terrain. Mais si elle y est présente, il
+     est interdit de détruire, capturer ou déranger les individus et, pour la plupart de ces espèces, de
+     détruire leurs lieux de reproduction et de repos (articles L. 411-1 et suivants du Code de
+     l'environnement). L'infraction est punie de 3 ans d'emprisonnement et 150 000 € d'amende.
+
+
+
+Que faire avant de construire ?
+    Pour une maison individuelle, aucune étude écologique n'est imposée en règle générale, et l'étude de sol porte
+    sur le terrain (fondations), pas sur la faune ni la flore. Vous restez cependant responsable si une espèce
+    protégée vit sur la parcelle : en cas de doute (espèce observée tout près, vieux arbres, murets, maquis, zone
+    humide), faites passer un écologue avant de défricher.
+    Si un enjeu est confirmé : inventaire faune-flore aux saisons utiles (printemps et été en général), puis mesures
+    pour éviter et réduire l'impact : implantation de la maison sur la partie la moins sensible, travaux hors période de
+    reproduction, clôture de chantier adaptée, déplacement d'individus par un spécialiste habilité.
+    Si la destruction d'individus ou d'habitats ne peut pas être évitée : demande de dérogation « espèces protégées »
+    auprès de la préfecture (DREAL), avec avis du conseil scientifique. Comptez 4 à 12 mois d'instruction, à anticiper
+    avant le dépôt du permis.
+
+Combien prévoir ?
+Pré-diagnostic écologique                                800 à 2 000 € (une visite et une note de synthèse)
+
+Inventaire faune-flore                                   3 000 à 10 000 € selon la surface et le nombre de passages
+
+Mesures d'évitement et de réduction                      500 à 5 000 € (balisage, calendrier, suivi de chantier)
+
+Dossier de dérogation                                    8 000 à 25 000 €, hors mesures de compensation éventuelles
+
+Ordres de prix indicatifs, honoraires de bureaux d'études en environnement, si une étude est nécessaire. Pour une maison sur un
+terrain déjà entouré de constructions, aucune étude n'est le plus souvent requise.
+
+Sources : statuts de protection TAXREF et base de connaissance des statuts (INPN, Muséum national d'Histoire naturelle) ;
+observations naturalistes GBIF, qui rassemble notamment les données de l'INPN et du SINP.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        22 / 34
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Saint-Martin · D 100
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+8.3 Prix de l'immobilier à Saint-Martin
+Prix au mètre carré des ventes enregistrées sur la commune au cours des cinq dernières années publiées.
+Seules les ventes portant sur un bien unique sont retenues.
+
+  TYPE DE BIEN                                       VENTES                       €/M² MÉDIAN                              €/M² MOYEN
+
+  Maisons                                            17                           2 196 €/m²                               2 021 €/m²
+
+
+
+Source : statistiques des demandes de valeurs foncières (DGFiP, Etalab). Prix des actes, hors frais : un ordre de grandeur,
+pas une estimation du bien.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            23 / 34
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Saint-Martin · D 100
+         TerrenUrbanisme
+                                                                                                                             09 · Historique du site
+
+
+
+
+   09              Historique du site
+     DANS CETTE SECTION
+
+     Le terrain vu du ciel au fil des décennies et les permis de construire accordés autour : l'évolution
+     du secteur en un coup d'œil.
+
+
+Photographies aériennes de l'IGN et permis de construire délivrés (Sitadel).
+
+
+
+9.1 Le terrain vu du ciel, d'hier à aujourd'hui
+
+    1950-1965                                             2000-2005                                              2006-2010
+
+
+
+
+    2011-2015                                             Aujourd'hui
+
+
+
+
+Ces vues montrent l'évolution du terrain et du quartier, des années 1950 à aujourd'hui (photographies aériennes de l'IGN).
+
+     Bon à savoir : l'existence ancienne d'une construction peut ouvrir, sous conditions, un droit à
+     reconstruire ou à restaurer un bâtiment dont il reste l'essentiel des murs porteurs (articles L. 111-15 et L.
+     111-23 du Code de l'urbanisme).
+
+
+
+
+9.2 Permis de construire délivrés autour du terrain
+Autorisations sur la commune (3 ans)                                    4 · dernière recensée le 19/06/2026
+
+Logements autorisés (3 ans)                                             4
+
+Dont maisons individuelles                                              4
+
+Autorisations dans la section D                                         0 depuis 2013
+
+
+Source : base Sitadel des autorisations d'urbanisme créant des logements (SDES). Un permis accordé à proximité montre
+que des constructions ont été admises dans le secteur, sans préjuger de la décision sur votre propre projet.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          24 / 34
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Saint-Martin · D 100
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+      10           Votre projet, étape par étape
+De l'achat du terrain à la déclaration aux impôts : démarches, délais, coûts et contacts.
+
+
+
+10.1 Analyse
+Le terrain est soumis au carte communale de Saint-Martin, approuvé le 23/04/2024. Il est classé en
+zone ZNC. Secteur de la carte communale où les constructions ne sont pas admises, à l'exception de
+l'adaptation, du changement de destination, de la réfection ou de l'extension des constructions
+existantes, des constructions nécessaires à des équipements collectifs, à l'exploitation agricole ou
+forestière et à la mise en valeur des ressources naturelles.
+
+En l'état, une construction nouvelle n'est pas possible. Seules des évolutions limitées peuvent être
+envisagées selon le règlement de la zone (extension mesurée d'une habitation existante, annexes,
+équipements publics). Le classement ne peut évoluer qu'à l'occasion d'une modification ou d'une révision
+du document d'urbanisme, à l'initiative de la commune.
+
+
+10.2 Votre projet, étape par étape
+Les étapes ci-dessous suivent l'ordre réel d'un projet de construction, de l'achat du terrain à la déclaration aux
+impôts. Les montants sont indicatifs et à confirmer par devis.
+
+  1      Avant d'acheter le terrain
+         Vérifiez les règles de la zone (chapitres précédents), puis demandez un certificat d'urbanisme opérationnel
+         (Cerfa 13410, sans frais, réponse sous 2 mois) : il fige les règles pendant 18 mois. En zone d'argiles d'aléa
+         moyen ou fort, le vendeur doit fournir une étude de sol préalable.
+         Contact : Mairie de Saint-Martin · 05 62 45 98 73 · mairie.saintmartin@orange.fr · formulaire sur service-public.fr
+         (rechercher « Cerfa 13410 »)
+
+  2      Les études
+         Étude de sol géotechnique (G2) pour dimensionner les fondations : 1 500 à 3 000 €. Étude thermique RE2020,
+         obligatoire pour le permis : 500 à 1 500 €. Bornage par un géomètre si les limites sont incertaines. L'étude de
+         sol ne porte pas sur les espèces protégées : un écologue n'intervient qu'en cas d'enjeu (chapitre
+         Environnement).
+         Géomètres proches du terrain : liste à la fin de ce chapitre
+
+  3      Les plans
+         Architecte obligatoire si la surface de plancher totale dépasse 150 m². En dessous, vous pouvez dessiner les
+         plans vous-même ou faire appel à un dessinateur ou maître d'œuvre (environ 1 500 à 4 000 € le dossier de
+         permis). Architecte : 3 000 à 8 000 € pour la seule mission de permis, 8 à 12 % du coût des travaux pour une
+         mission complète avec suivi du chantier.
+         Trouver un architecte : annuaire de l'Ordre des architectes sur architectes.org
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         25 / 34
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Saint-Martin · D 100
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+  4      Déposer le permis
+         Formulaire Cerfa 13406 (maison individuelle) et pièces PCMI1 à PCMI8 : plan de situation, plan de masse,
+         coupe, notice, plans des façades et toitures, insertion dans le paysage, photos, attestation RE2020. Dépôt en
+         mairie ou en ligne sur le guichet numérique de la commune. La mairie a 1 mois pour réclamer une pièce
+         manquante ; l'instruction dure 2 mois à partir du dossier complet, plus en secteur protégé.
+         Dépôt : Mairie de Saint-Martin · 05 62 45 98 73 · mairie.saintmartin@orange.fr · formulaire sur service-public.fr
+         (rechercher « Cerfa 13406 »)
+
+  5      Affichage et recours
+         Dès l'accord, installez le panneau de permis sur le terrain, lisible depuis la voie, pendant toute la durée du
+         chantier. Les tiers ont 2 mois à compter du premier jour d'affichage pour contester ; la mairie peut retirer un
+         permis illégal pendant 3 mois. Faites constater l'affichage par un commissaire de justice (environ 300 à 600 €
+         pour les trois constats).
+         Commissaires de justice : annuaire sur commissaire-justice.fr
+
+  6      Avant les travaux
+         Souscrivez l'assurance dommages-ouvrage, obligatoire (souvent 2 à 4 % du coût de la construction). Signez
+         le contrat de construction de maison individuelle ou les marchés des artisans. Déposez la déclaration
+         d'ouverture de chantier (Cerfa 13407) le jour du démarrage. Le permis est valable 3 ans, prorogeable deux
+         fois d'un an.
+         Déclaration d'ouverture : Mairie de Saint-Martin · 05 62 45 98 73 · mairie.saintmartin@orange.fr
+
+  7      Le financement
+         La banque débloque le prêt au fur et à mesure du chantier, sur présentation des factures des entreprises ou
+         des appels de fonds du constructeur. Avec un contrat de construction de maison individuelle, l'échéancier
+         est encadré par la loi : 15 % à l'ouverture du chantier, 25 % aux fondations, 40 % aux murs, 60 % hors d'eau,
+         75 % hors d'air et cloisons, 95 % aux équipements, le solde à la réception. Des intérêts intercalaires peuvent
+         courir sur les sommes débloquées.
+         Votre banque ou votre courtier
+
+  8      La fin du chantier
+         Réception des travaux avec le constructeur ou les artisans, avec réserves si nécessaire. Déposez ensuite la
+         déclaration attestant l'achèvement et la conformité des travaux (DAACT, Cerfa 13408), avec l'attestation
+         RE2020 de fin de chantier. La mairie a 3 mois pour la contester (5 mois en secteur protégé).
+         Dépôt : Mairie de Saint-Martin · 05 62 45 98 73 · mairie.saintmartin@orange.fr
+
+  9      Les impôts
+         Dans les 90 jours suivant l'achèvement, déclarez la construction sur impots.gouv.fr, espace « Gérer mes
+         biens immobiliers ». Cette déclaration sert au calcul de la taxe d'aménagement (payée en une fois sous 1 500
+         €, sinon en deux fois, estimation plus bas dans ce chapitre) et de la taxe foncière, avec une exonération
+         possible les deux premières années selon la commune.
+         impots.gouv.fr › Espace particulier › Gérer mes biens immobiliers
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         26 / 34
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Saint-Martin · D 100
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+10.3 Les points à vérifier pour ce terrain
+  1      Certificat d'urbanisme opérationnel
+         Le demander en mairie (formulaire Cerfa 13410), en décrivant le projet. Délivré sans frais, il indique si le
+         terrain peut accueillir le projet et fige les règles d'urbanisme pendant 18 mois.
+
+  2      Règlement de la zone
+         Consulter le règlement du document d'urbanisme en mairie.
+
+  3      Réseaux et accès
+         Vérifier l'accès à une voie publique ou privée adaptée, la desserte en eau potable et en électricité, et le
+         mode d'assainissement. En l'absence de réseau collectif, une étude de sol et l'avis du service public
+         d'assainissement non collectif (SPANC) sont nécessaires.
+
+  4      Bornage
+         Faire réaliser un bornage par un géomètre-expert pour fixer les limites exactes et la surface réelle du
+         terrain.
+
+  5      Sécuriser un achat
+         Pour une acquisition, prévoir dans le compromis une condition suspensive d'obtention d'un permis de
+         construire purgé de tout recours.
+
+
+10.4 Délais indicatifs d'instruction
+  DEMANDE                                                                                 DÉLAI DE DROIT COMMUN
+
+  Certificat d'urbanisme d'information (CUa)                                              1 mois
+
+  Certificat d'urbanisme opérationnel (CUb)                                               2 mois
+
+  Déclaration préalable                                                                   1 mois
+
+  Permis de construire une maison individuelle                                            2 mois
+
+  Permis d'aménager, autres permis de construire                                          3 mois
+
+
+
+Ces délais peuvent être majorés, notamment en site classé ou inscrit, aux abords d'un monument historique ou lorsque la
+consultation d'un service extérieur est nécessaire.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         27 / 34
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Saint-Martin · D 100
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+10.5 Implanter une entreprise : zone France Ruralités Revitalisation
+     La commune de Saint-Martin n'est pas classée en zone France Ruralités Revitalisation (FRR). Une
+     entreprise qui s'y installe ne bénéficie pas de l'exonération d'impôt sur les bénéfices liée à ce zonage.
+
+
+
+Source : ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 (collectivites-locales.gouv.fr).
+
+
+10.6 Géomètres proches du terrain
+Le géomètre-expert est le seul professionnel habilité à fixer les limites de propriété (bornage) et à établir les
+documents d'arpentage déposés au cadastre. Il intervient aussi pour les relevés topographiques et les
+divisions de terrain.
+
+3,4 km            JACQUES LANGLOIS
+                                                                                                                           Coordonnées
+                  455 RUE DE L'ARBIZON 65360 ARCIZAC-ADOUR
+
+
+5,6 km            SCP DE GEOMETRES EXPERTS, SMTB, DAVID LARROZE, DAMIEN BREGLE
+                                                                         Coordonnées
+                  11 IMPASSE DUCOS 65000 TARBES
+
+
+5,7 km            ECTAUR EXPERT
+                                                                                                                           Coordonnées
+                  CENTRE KENNEDY RUE JEAN LOUP CHRETIEN 65000 TARBES
+
+
+5,7 km            GEOXITANE
+                                                                                                                           Coordonnées
+                  3 RUE DU CHATEAU D'EAU 65000 TARBES
+
+
+5,9 km            CABINET DEPOND ARNAUDIN
+                                                                                                                           Coordonnées
+                  RUE JEAN LOUP CHRETIEN 65000 TARBES
+
+
+6,3 km            LEGAPOLE GEOMETRES-EXPERTS
+                                                                                                                           Coordonnées
+                  19 RUE AMPERE 65000 TARBES
+
+
+Source : répertoire Sirene de l'INSEE (activité des géomètres), classé par distance au terrain. L'inscription d'un cabinet à l'Ordre
+des géomètres-experts se vérifie sur geometre-expert.fr. Le bouton « Coordonnées » ouvre la fiche du cabinet (téléphone,
+horaires, itinéraire). Cette liste est fournie à titre indicatif, sans partenariat ni recommandation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         28 / 34
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Saint-Martin · D 100
+          TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+     11            État des risques (ERP) pré-rempli
+     DANS CETTE SECTION
+
+     Le formulaire réglementaire à remettre à l'acquéreur ou au locataire, pré-rempli à partir des
+     bases officielles : plans de prévention, sismicité, radon, sols pollués, trait de côte, bruit des
+     aérodromes.
+
+
+Articles L. 125-5 à L. 125-7 et R. 125-23 à R. 125-27 du Code de l'environnement · modèle fixé par l'arrêté du 27 septembre
+2022.
+
+
+     Formulaire pré-rempli à partir de Géorisques et du Géoportail de l'Urbanisme à la date du rapport.
+     Avant de le remettre à l'acquéreur ou au locataire, le vendeur ou le bailleur le vérifie, le complète
+     (sinistres indemnisés) et le signe ; il doit dater de moins de six mois à la signature de la promesse, du
+     bail ou de l'acte.
+
+
+
+
+11.1 Situation du bien
+Commune                                                  Saint-Martin (65392)
+
+Département                                              Hautes-Pyrénées (65)
+
+Références cadastrales                                   Section D, parcelle n° 100 · 653920000D0100
+
+Surface cadastrale                                       7 600 m²
+
+
+
+11.2 Plans de prévention des risques
+  L'IMMEUBLE EST SITUÉ DANS LE PÉRIMÈTRE…                                         RÉPONSE                DÉTAIL
+
+  d'un plan de prévention des risques naturels (PPRN)                             Non                    Aucun plan recensé sur la parcelle
+  prescrit, appliqué par anticipation ou approuvé
+
+  d'un plan de prévention des risques miniers (PPRM)                              Non                    Non recensé
+
+  d'un plan de prévention des risques technologiques                              Non                    Risques technologiques sur la commune
+  (PPRT)                                                                                                 : canalisations de matières dangereuses,
+                                                                                                         pollution des sols
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         29 / 34
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Saint-Martin · D 100
+         TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+11.3 Autres zonages réglementaires
+  L'IMMEUBLE EST SITUÉ…                                                           RÉPONSE                DÉTAIL
+
+  dans une commune de sismicité (zones 2 à 5 : règles de                          Oui                    Zone 4 – moyenne
+  construction parasismique)
+
+  dans une commune à potentiel radon de niveau 3                                  Non                    Catégorie 1 (potentiel faible)
+
+  dans un secteur d'information sur les sols (SIS)                                Non                    Aucun SIS recensé à proximité
+
+  dans une zone exposée au recul du trait de côte                                 Non                    Non concerné selon Géorisques
+
+  dans une zone de bruit d'un plan d'exposition au bruit                          À vérifier             Aucun PEB annexé au document
+  d'aérodrome (PEB)                                                                                      d'urbanisme ; vérifier auprès de la mairie
+
+  dans une zone de retrait-gonflement des argiles                                 Oui                    Existant – modéré
+  (information)
+
+
+
+
+11.4 Sinistres indemnisés et déclarations
+Arrêtés de catastrophe naturelle sur la commune : 5 (liste en section Risques). Le vendeur ou le bailleur
+déclare ci-dessous les sinistres ayant donné lieu à une indemnisation au titre des catastrophes naturelles ou
+technologiques pendant la période où il a été propriétaire.
+
+Sinistres indemnisés                                     [ ] Oui [ ] Non
+
+Vendeur ou bailleur                                      Nom : ____________________ Date : ___/___/______ Signature :
+
+Acquéreur ou locataire                                   Nom : ____________________ Date : ___/___/______ Signature :
+
+
+L'état des risques officiel peut aussi être édité sans frais sur Géorisques (errial.georisques.gouv.fr). Les informations
+ci-dessus sont établies à partir des bases nationales ; en cas de divergence, l'arrêté préfectoral relatif à l'information des
+acquéreurs et des locataires fait foi.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           30 / 34
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Saint-Martin · D 100
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+    12             Avertissement et sources
+     DANS CETTE SECTION
+
+     La portée de ce rapport et la liste des sources publiques consultées.
+
+
+
+12.1 Nature du document
+Ce rapport est un document d'information établi automatiquement, à la date indiquée en page de garde, à
+partir des données publiques officielles alors disponibles. Il n'a aucune valeur contractuelle, réglementaire ou
+juridique.
+
+
+12.2 Ce que ce rapport n'est pas
+Il ne constitue ni un certificat d'urbanisme au sens de l'article L. 410-1 du Code de l'urbanisme, ni une
+autorisation d'urbanisme (permis de construire, permis d'aménager, déclaration préalable), ni un état des
+risques au sens de l'article L. 125-5 du Code de l'environnement, ni un bornage, ni une expertise, ni une
+évaluation immobilière, ni une consultation juridique. Il n'engage en rien l'administration.
+
+
+12.3 Permis de construire
+Ce rapport ne peut en aucun cas être joint, produit ou invoqué à l'appui d'une demande de permis de
+construire, de permis d'aménager ou de déclaration préalable, ni opposé à la mairie ou à un service de l'État. Il
+ne garantit pas l'obtention d'une autorisation : seule l'autorité compétente se prononce, au vu d'un projet
+précis et de l'ensemble des règles applicables à la date de sa décision.
+
+
+12.4 Limites des données
+Les données sont produites par des organismes publics dont l'éditeur n'est ni l'auteur ni le garant. Elles
+peuvent être incomplètes, imprécises ou ne pas refléter une modification, une révision, une mise en
+compatibilité, une annulation contentieuse, un sursis à statuer ou une procédure en cours. Le plan cadastral,
+document fiscal, ne fait pas foi des limites de propriété. Surfaces, distances, altitudes et pentes sont
+approchées. Les extraits et analyses du règlement sont une aide à la lecture : seul le texte intégral du
+document d'urbanisme approuvé, consultable en mairie, fait foi.
+
+
+12.5 Avant toute décision
+Avant toute acquisition, cession, financement, promesse de vente ou dépôt d'une demande, le lecteur doit
+obtenir un certificat d'urbanisme opérationnel auprès de la mairie, consulter le document d'urbanisme en
+vigueur et recueillir l'avis d'un professionnel habilité (notaire, architecte, géomètre-expert, avocat). Pour un
+achat, il est recommandé de stipuler une condition suspensive d'obtention d'un permis de construire purgé de
+tout recours.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          31 / 34
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Saint-Martin · D 100
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+12.6 Responsabilité
+L'éditeur ne saurait être tenu responsable d'une décision prise sur le seul fondement de ce rapport, ni d'un
+refus d'autorisation, d'une erreur ou d'une omission des sources publiques, dans les limites prévues par les
+conditions générales de vente acceptées lors de la commande.
+
+
+12.7 Sources consultées
+  DONNÉE                                                    SOURCE
+
+  Cadastre                                                  DGFiP, plan cadastral informatisé, via API Carto (IGN)
+
+  Photographies et plans                                    IGN, Géoplateforme : orthophotographies, Plan IGN, parcellaire express
+
+  Urbanisme                                                 Géoportail de l'Urbanisme : zonage, prescriptions, informations, servitudes
+                                                            d'utilité publique
+
+  Littoral                                                  IGN, BD TOPO (limite terre-mer) ; communes littorales (Géoportail de
+                                                            l'Urbanisme)
+
+  Montagne                                                  Ministère de la Cohésion des territoires, communes de la loi Montagne
+
+  Risques                                                   Géorisques (ministère de la Transition écologique) : rapport de risques,
+                                                            arrêtés CatNat, sismicité, radon, ICPE, sites pollués
+
+  Environnement                                             Inventaire national du patrimoine naturel (PatriNat), via API Carto
+
+  Altitude, pente et exposition                             IGN, RGE ALTI
+
+  Ensoleillement                                            Calcul astronomique de la course du soleil ; masque du relief (IGN, RGE
+                                                            ALTI) et des bâtiments (IGN, BD TOPO)
+
+  Voirie et accès                                           IGN, BD TOPO (tronçons de route)
+
+  Permis de construire                                      Sitadel, service des données et études statistiques (SDES) du ministère
+                                                            chargé du logement
+
+  Photographies anciennes                                   IGN, BD ORTHO historique
+
+  Fibre et internet                                         Arcep, Ma connexion internet (éligibilité par adresse)
+
+  Géomètres                                                 Répertoire Sirene (INSEE), activité des géomètres
+
+  Propriétaires personnes morales                           DGFiP, fichiers des parcelles des personnes morales (diffusion Koumoul)
+
+  Diagnostics énergétiques                                  ADEME, base des DPE des logements existants
+
+  Procédures collectives                                    Bodacc, annonces commerciales (DILA)
+
+  Bâtiments                                                 IGN, BD TOPO
+
+  Réseau électrique                                         Agence ORE (gestionnaires de réseaux de distribution : Enedis, EDF Corse
+                                                            et entreprises locales) : réseau basse tension et postes de distribution
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          32 / 34
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Saint-Martin · D 100
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+  DONNÉE                                                    SOURCE
+
+  Taxe d'aménagement                                        DGFiP, éléments de taxation votés par les collectivités ; valeurs forfaitaires
+                                                            fixées par arrêté
+
+  Rapport officiel de risques                               Géorisques, ministère chargé de l'environnement
+
+  Zone France Ruralités Revitalisation                      ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 ; article
+                                                            44 quindecies A du code général des impôts
+
+  Marché immobilier                                         Statistiques des demandes de valeurs foncières (DVF) par commune, DGFiP
+                                                            et Etalab
+
+  Date d'extraction                                         20/11/2026
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          33 / 34
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                    TerrenUrbanisme
+
+    Merci de votre confiance
+Ce rapport a été établi à partir des sources publiques officielles pour vous
+  aider à décider en connaissance de cause. Pour toute question, nous
+                        restons à votre disposition.
+
+
+
+
+   Vous êtes professionnel ? Travaillons ensemble
+      Agents immobiliers, notaires, architectes, géomètres, diagnostiqueurs,
+promoteurs, mairies : faisons équipe. Crédits professionnels sans abonnement, 5
+€ le rapport dès 50 crédits, votre logo sur les rapports, offre communale pour les
+                       mairies et partenariats sur mesure.
+
+               Écrivez-nous : contact@terrenurbanisme.com
+
+
+
+
+                        terrenurbanisme.com
+                         contact@terrenurbanisme.com
+

@@ -1,0 +1,3271 @@
+                  TerrenUrbanisme
+                  Le terrain constructible, partout en France
+
+
+
+
+RAPPORT D'URBANISME
+
+
+
+Meaux
+Section AZ · Parcelle n° 39
+      Sous conditions
+
+
+
+
+Référence cadastrale                                                        Surface cadastrale
+77284000AZ0039                                                              4 978 m²
+
+Rapport établi le                                                           Référence du rapport
+20/11/2026                                                                  APERCU
+
+
+
+
+terrenurbanisme.com                                                                      contact@terrenurbanisme.com
+
+Document d'information sans valeur contractuelle ni réglementaire. Il ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme
+et ne peut en aucun cas être joint à une demande de permis de construire ou de déclaration préalable. Seuls les actes de l'administration font foi.
+                                                                                                                           Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                                            Sommaire
+
+
+
+
+Sommaire
+Le rapport suit l'ordre d'une étude de terrain : où se trouve la parcelle, ce que dit la règle, ce qui pèse sur le
+projet, puis les démarches.
+
+              Synthèse
+   S                                                                                                                               p. 3
+              Le verdict, les indicateurs clés et les points d'attention en une page.
+
+              Identification de la parcelle
+   01                                                                                                                              p. 4
+              Localisation, surface, références cadastrales et voisinage du terrain.
+
+              Règles d'urbanisme applicables
+  02                                                                                                                               p. 7
+              Document d'urbanisme, zone du terrain, prescriptions et servitudes.
+
+              Ce que vous pouvez construire
+  03                                                                                                                              p. 10
+              Surface constructible, hauteur, reculs, aspect et usages autorisés.
+
+              Loi Littoral et loi Montagne
+  04                                                                                                                              p. 18
+              Les lois qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+              Risques naturels et technologiques
+  05                                                                                                                              p. 19
+              Inondation, feu de forêt, argiles, catastrophes naturelles et sites pollués.
+
+              Le terrain : accès, relief et réseaux
+  06                                                                                                                             p. 22
+              Accès, pente, ensoleillement, eaux usées, électricité, eau et fibre.
+
+              Environnement et marché immobilier
+  07                                                                                                                             p. 29
+              Espaces naturels, espèces protégées et ventes immobilières alentour.
+
+              Historique du site
+  08                                                                                                                             p. 33
+              Le terrain vu du ciel au fil des années et les permis accordés autour.
+
+              Opportunités autour du terrain
+  09                                                                                                                             p. 35
+              Grands terrains peu bâtis et logements énergivores à proximité.
+
+              Votre projet, étape par étape
+   10                                                                                                                            p. 36
+              De l'achat aux impôts : démarches, délais, coûts, contacts et taxe.
+
+              État des risques (ERP) pré-rempli
+   11                                                                                                                            p. 40
+              Le formulaire réglementaire à remettre à l'acquéreur, pré-rempli.
+
+              Avertissement et sources
+   12                                                                                                                            p. 42
+              La portée de ce rapport et les sources publiques consultées.
+
+              Annexe : règlement de la zone
+   A                                                                                                                             p. 45
+              Les pages officielles du règlement de la zone, telles qu'approuvées.
+
+
+
+
+Astuce : cliquez sur un chapitre pour y accéder directement.
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                              2 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                                                       Synthèse
+
+
+
+
+Synthèse
+     Document d'information. Ce rapport ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme,
+     n'engage pas l'administration et ne peut pas servir de pièce à une demande de permis de construire.
+     L'appréciation ci-dessous est indicative : seule la mairie se prononce sur la constructibilité d'un terrain,
+     au vu d'un projet précis.
+
+
+
+
+       SOUS CONDITIONS
+
+       Accord de l'architecte des Bâtiments de France obligatoire
+       La parcelle est classée en zone UBa (urbaine) du plan local d'urbanisme de Meaux. Les
+       constructions y sont admises dans le respect du règlement de la zone. Le terrain est situé
+       dans le site patrimonial remarquable de Meaux : tout projet modifiant l'aspect extérieur
+       (construction, extension, clôture, piscine, façade, toiture, menuiseries) doit recevoir
+       l'accord de l'architecte des Bâtiments de France, qui peut imposer des prescriptions ou
+       refuser ; en l'absence de règlement approuvé pour ce site, l'architecte apprécie chaque
+       projet au cas par cas.
+
+
+
+
+      Zone principale                                        Document d'urbanisme                                  Loi Littoral
+
+   UBa · 100 %                                            PLU                                                    Ne s'applique pas
+
+
+
+
+      Loi Montagne                                           Risques à la parcelle
+
+   Ne s'applique pas                                      Remontée de nappe ·
+                                                          Séisme (+2)
+
+
+
+
+Points d'attention
+    Zone UBa (100 % de la parcelle) : constructible.
+    Site patrimonial remarquable (Site patrimonial remarquable de Meaux) : accord obligatoire de l'architecte des
+    Bâtiments de France pour tout projet visible de l'extérieur, apprécié au cas par cas.
+    Retrait-gonflement des argiles (exposition moyenne) : en cas de vente d'un terrain non bâti constructible, le
+    vendeur doit fournir une étude géotechnique préalable (loi ELAN, article L. 132-5 du Code de la construction et de
+    l'habitation) ; une étude géotechnique de conception est exigée avant de construire.
+    Installations industrielles (ICPE) : concerné à l'adresse de la parcelle (voir le chapitre « Risques naturels et
+    technologiques »).
+    Canalisations de matières dangereuses : concerné à l'adresse de la parcelle (voir le chapitre « Risques naturels et
+    technologiques »).
+    Pollution des sols : concerné à l'adresse de la parcelle (voir le chapitre « Risques naturels et technologiques »).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        3 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+    01             Identification de la parcelle
+     DANS CETTE SECTION
+
+     Où se trouve le terrain, sa surface, ses références cadastrales, son propriétaire lorsqu'il s'agit
+     d'une société ou d'une collectivité, et la performance énergétique du bâti existant.
+
+
+Données du cadastre (DGFiP) et de l'IGN.
+
+
+     Plan de situation
+
+
+
+
+                                                                                                                            1 km
+
+
+
+Plan IGN · © IGN
+
+
+
+     Vue aérienne et plan cadastral
+
+
+
+
+                                                                                                                                   50 m
+
+
+
+Photographie aérienne et plan cadastral · © IGN
+
+
+Commune                                                  Meaux (77284)
+
+Département                                              Seine-et-Marne (77)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             4 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                         Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                                    01 · Identification de la parcelle
+
+
+
+
+Section et numéro                                        Section AZ, parcelle n° 39, feuille 1
+
+Identifiant cadastral                                    77284000AZ0039
+
+Surface cadastrale                                       4 978 m²
+
+Surface calculée (SIG)                                   4 981 m² · périmètre 316 m
+
+Coordonnées du centre                                    48.95729 N, 2.90305 E (WGS 84)
+
+Altitude                                                 de 57 à 63 m
+
+Pente estimée                                            10 % (pente modérée)
+
+Parcelles voisines                                       AZ 41, AH 147, AZ 37, AZ 38, AZ 40
+
+
+Le plan cadastral est un document fiscal : il ne fait pas foi des limites de propriété. Seul un bornage réalisé par un
+géomètre-expert fixe les limites de manière certaine.
+
+
+1.1 Propriétaire et voisinage
+     La parcelle appartient à une personne morale : SOCIETE DES GARAGES METIN (SAS) · SIREN
+     745751115. Le gérant ou le représentant légal se retrouve à partir du numéro SIREN sur
+     annuaire-entreprises.data.gouv.fr.
+
+
+
+Parcelles voisines détenues par des sociétés ou des collectivités
+  PARCELLE              PROPRIÉTAIRE                                                                     SURFACE             SIREN
+
+  AZ 38                 SOCIETE DES GARAGES METIN (SAS)                                                  570 m²              745751115
+
+  AZ 37                 SOCIETE DES GARAGES METIN (SAS)                                                  3 115 m²            745751115
+
+
+
+Principaux propriétaires personnes morales dans un rayon de 280 m
+  PROPRIÉTAIRE                                                              PARCELLES             SURFACE TOTALE             SIREN
+
+  COMMUNE MEAUX (COM)                                                       28                    70 797 m²                  217702844
+
+  GENESTO (SCI)                                                             2                     19 267 m²                  481276418
+
+  LA MAISON DU TREIZIEME (SAS)                                              3                     19 202 m²                  304141203
+
+  ETAT PAR DIRECTION DE L IMMOBILIER DE L                                   2                     13 376 m²                  –
+  ETAT (ETAT)
+
+  67 FR (SCI)                                                               5                     5 754 m²                   499296788
+
+  SCI ALBA (SCI)                                                            2                     4 587 m²                   330828211
+
+  FICOMMERCE (SC)                                                           1                     3 349 m²                   337633861
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            5 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+  PROPRIÉTAIRE                                                              PARCELLES             SURFACE TOTALE            SIREN
+
+  ASS FONCIERE URBAINE DES MAISONS DE                                       5                     2 656 m²                  –
+  L'OURCQ (AUPM)
+
+
+
+Source : fichiers des parcelles des personnes morales (DGFiP) : sociétés, SCI, collectivités, établissements publics et associations.
+Les propriétaires personnes physiques n'y figurent pas.
+
+
+1.2 La commune de Meaux
+Code postal                                              77100
+
+Département                                              Seine-et-Marne (77)
+
+Intercommunalité                                         CA du Pays de Meaux
+
+Population                                               56 905 habitants
+
+Superficie                                               15,37 km²
+
+Densité                                                  3 701 habitants par km²
+
+Commune littorale                                        Non
+
+Commune de montagne                                      Non
+
+Document d'urbanisme                                     Plan local d'urbanisme (PLU)
+
+Risques sur la commune                                   18 arrêtés de catastrophe naturelle · détail en section Risques et en
+                                                         annexe
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          6 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+    02             Règles d'urbanisme applicables
+     DANS CETTE SECTION
+
+     Le document d'urbanisme de la commune, la zone dans laquelle se trouve le terrain, et les
+     prescriptions et servitudes qui s'y ajoutent.
+
+
+Géoportail de l'Urbanisme : zonage, prescriptions et servitudes.
+
+
+
+2.1 Document d'urbanisme en vigueur
+Type de document                                         Plan local d'urbanisme (PLU)
+
+Date d'approbation                                       Non renseigné
+
+Statut                                                   Publié au Géoportail de l'Urbanisme
+
+Règlement officiel                                       Ouvrir le document officiel (PDF)
+
+
+
+     Plan de zonage du PLU
+
+
+
+
+                                                  UBa
+
+                                                                                                    UZa
+
+
+
+
+                                                                                                                             50 m
+
+
+
+Zonage : Géoportail de l'Urbanisme · fond : © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       7 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.2 Zonage de la parcelle
+  ZONE                  DÉSIGNATION                                                         PART               CONSTRUCTIBILITÉ
+
+  UBa                   Urbaine                                                             100 %              Constructible
+
+
+
+Zone UBa · Urbaine
+Zone urbaine : secteur déjà urbanisé où les équipements publics existants ou en cours de réalisation
+permettent d'accueillir des constructions. Les constructions y sont admises dans le respect du règlement de la
+zone (destinations, implantation, hauteur, emprise, aspect).
+
+
+2.3 Prescriptions applicables à la parcelle
+Aucune prescription graphique du PLU (emplacement réservé, espace boisé classé, élément de paysage
+protégé, etc.) n'est recensée sur la parcelle.
+
+
+2.4 Informations complémentaires du PLU
+  INFORMATION                                                                                        TYPE
+
+  2_route                                                                                            Information du PLU (type 14)
+
+  OAP                                                                                                Information du PLU (type 99)
+
+  2                                                                                                  Information du PLU (type 16)
+
+  20%                                                                                                Information du PLU (type 32)
+
+  5%                                                                                                 Information du PLU (type 32)
+
+  Simple                                                                                             Information du PLU (type 04)
+
+
+
+
+2.5 Servitudes d'utilité publique
+  CODE               SERVITUDE                                                                    DÉTAIL
+
+  AC1                Monument historique (abords)                                                 AC1
+                                                                                                  Memorial-americain-et-Sanctuaire-gallo-
+                                                                                                  romain-de-la-Bauve-Ancien-Seminaire-
+                                                                                                  et-Hotel-Mace abor
+
+  AC4                Site patrimonial remarquable                                                 AC4
+                                                                                                  Site-patrimonial-remarquable-de-Meaux
+                                                                                                  ass
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       8 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.6 Patrimoine : l'architecte des Bâtiments de France
+     En clair : le terrain est dans un site patrimonial remarquable. Toute construction, extension, clôture,
+     piscine ou modification de façade, de toiture ou de menuiseries doit recevoir l'accord de l'architecte
+     des Bâtiments de France. Il peut imposer des matériaux, des couleurs, des volumes, ou refuser le
+     projet.
+
+
+
+  PROTECTION                                NOM                                                CE QUE CELA IMPLIQUE
+
+  Site patrimonial                          Site patrimonial remarquable de                    Accord obligatoire de l'architecte (avis
+  remarquable                               Meaux                                              conforme) pour tout projet modifiant l'aspect
+                                                                                               extérieur ; pas de règlement approuvé publié :
+                                                                                               appréciation au cas par cas
+
+  Abords de monument                        MÃ©morial amÃ©ricain et                            Accord de l'architecte pour les travaux visibles
+  historique                                Sanctuaire gallo romain de la                      (périmètre publié)
+                                            Bauve, Ancien SÃ©minaire et
+                                            HÃ´tel MacÃ©
+
+
+
+                                             Ouvrir le document officiel (PDF)
+Acte de création du site patrimonial remarquable
+
+
+Conseils : consulter l'architecte des Bâtiments de France (unité départementale de l'architecture et du patrimoine,
+joignable par la mairie) avant de dessiner le projet ; prévoir un délai d'instruction majoré d'un mois ; soigner
+l'insertion (matériaux, teintes, toitures, clôtures) dès l'esquisse.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       9 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    03             Ce que vous pouvez construire
+     DANS CETTE SECTION
+
+     La lecture du règlement de votre zone : surface constructible estimée, hauteur, reculs, aspect,
+     usages autorisés ou interdits, avec les extraits du texte officiel.
+
+
+Lecture du règlement écrit de la zone UBa, pages 22 à 34 du règlement officiel.
+
+
+
+3.1 Potentiel constructible estimé
+     En clair : le règlement autorise au maximum 2 493 m² de construction au sol sur ce terrain (emprise de
+     60 %). C'est un plafond réglementaire, pas un projet : l'étude d'implantation ci-dessous place par
+     exemple une maison de 122 m² au sol.
+
+
+
+Surface du terrain                                       4 978 m²
+
+Zone d'implantation possible                             2 493 m² après reculs (8 m des limites, 4 m des voies)
+
+Emprise au sol maximale                                  60 % du terrain, soit 2 987 m²
+
+Emprise constructible retenue                            2 493 m²
+
+Maison étudiée (exemple)                                 122 m² au sol, environ 104 m² habitables
+
+Hauteur maximale                                         Non précisée
+
+Surface de plancher maximale                             environ 12 465 m²
+
+Espaces verts imposés                                    40 % du terrain au moins
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      10 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+     Zone d'implantation possible (estimation)
+
+
+
+
+                                                                                                                             50 m
+
+
+
+En vert : partie du terrain hors reculs réglementaires · fond © IGN
+
+
+
+3.2 Étude d'implantation indicative
+
+     Implantation d'une maison de plain-pied (esquisse)
+
+
+
+
+                                                                                                                             50 m
+
+
+
+En rouge : la maison · en orange : une piscine de 8 × 4 m · en vert : zone constructible · fond © IGN
+
+
+Maison proposée                                          Maison de plain-pied de 13,5 × 9 m
+
+Emprise au sol                                           122 m²
+
+Surface habitable indicative                             environ 104 m²
+
+Façade principale                                        orientée sud
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      11 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+Distance à la voie                                       environ 10 m
+
+Distance minimale aux limites                            9,3 m
+
+Piscine de 8 × 4 m                                       possible dans la zone constructible
+
+Taxe d'aménagement estimée                               environ 12 830 € (résidence principale)
+
+
+Esquisse automatique : la maison est placée dans la zone constructible, au plus près de la voie, en dégageant le jardin vers
+le sud, sans tenir compte des constructions existantes ni de la végétation. Elle ne remplace pas l'étude d'un architecte,
+obligatoire au-delà de 150 m² de surface de plancher, ni la vérification des règles d'aspect, de stationnement, de pente et
+d'assainissement.
+
+Estimation théorique établie à partir des règles chiffrées du règlement (reculs, emprise, hauteur) et de la géométrie
+cadastrale. Elle ne tient pas compte des servitudes, des risques, de la pente, des règles de stationnement et d'aspect, ni
+des dispositions particulières : seul un architecte ou un géomètre peut confirmer le potentiel réel.
+
+
+3.3 Caractère de la zone
+La zone UB est destinée à recevoir essentiellement des ensembles d'habitat collectif dense, ainsi que
+des commerces et activités de proximité. Le secteur UBa est caractérisé par un habitat collectif de
+moyenne hauteur ; il comprend deux périmètres de constructibilité limitée (PCL1 et PCL2) et trois
+sous-ensembles dédiés aux équipements collectifs (Orgemont, Saint Fiacre, Sablons Bouillants). Une
+partie du secteur est concernée par le PPRI de la Vallée de la Marne et par le PPRT de l'usine BASF, dont
+les règlements s'appliquent en complément.
+
+
+3.4 Règles de construction
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Surface minimale ou                          Non réglementé                                                                   art. UB 5
+  caractéristiques du terrain
+
+  Accès et voirie                              Terrain accessible par une voie publique ou privée ouverte à la                  art. UB 3
+                                               circulation automobile et en bon état de viabilité (directement,
+                                               par passage aménagé ou servitude de l'article 682 du Code
+                                               civil). Accès particuliers : desservir au plus 5 logements ou des
+                                               établissements de 10 personnes au plus, largeur d'au moins
+                                               3,50 m, longueur inférieure à 50 m. Voies secondaires :
+                                               emprise d'au moins 8 m avec chaussée pour deux files de
+                                               voitures (emprise plus étroite admise sur 50 m maximum avec
+                                               bonne visibilité) ; hauteur sous porche d'au moins 3,30 m ;
+                                               toute construction accessible depuis une voie d'au moins 3,50
+                                               m de largeur. Dérogations possibles pour les extensions
+                                               mesurées de moins de 20 m² de surface de plancher et pour
+                                               les services publics ou d'intérêt collectif.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       12 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Réseaux et assainissement                    Branchement obligatoire au réseau public d'eau potable. Eaux                     art. UB 4
+                                               usées : raccordement obligatoire au réseau collectif pour toute
+                                               construction en bordure d'une voie équipée ; à défaut,
+                                               assainissement individuel conforme à la réglementation. Rejet
+                                               des eaux résiduaires industrielles pouvant être soumis à
+                                               conditions (traitement préalable). Eaux pluviales : libre
+                                               écoulement, rejet en rivière soumis à autorisation, garantie
+                                               d'écoulement vers le réseau public s'il existe. Raccordements
+                                               aux réseaux concessionnaires en souterrain ; réseaux
+                                               intérieurs enterrés dans les opérations d'ensemble.
+                                               Raccordement obligatoire au réseau de chaleur s'il existe et si
+                                               la puissance dépasse 30 kW.
+
+  Implantation par rapport                     Construction nouvelle à l'alignement ou avec un recul d'au                       art. UB 6
+  aux voies                                    moins 4 m par rapport à l'alignement actuel ou futur. Pour les
+                                               façades sur alignement de plus de 10 m de linéaire, certaines
+                                               parties peuvent observer un recul compris entre 0 et 4 m. Le
+                                               long du canal de l'Ourcq : recul de 10 m à partir de l'emprise du
+                                               canal. Règles d'angle spécifiques. Dérogations pour extensions
+                                               de moins de 20 m² et services publics ou d'intérêt collectif.
+
+  Implantation par rapport                     Implantation sur une ou plusieurs limites pour les façades sans                  art. UB 7
+  aux limites séparatives                      baie (hors jours de souffrance), ou en retrait. En retrait : marge
+                                               au moins égale à la hauteur de façade avec un minimum de 8 m
+                                               si la façade comporte des baies ; au moins la moitié de la
+                                               hauteur avec un minimum de 2,50 m dans le cas contraire (ou
+                                               véranda à vitrage opaque/translucide et châssis non ouvrant).
+                                               Abris de jardin de 6 m² de surface de plancher maximum :
+                                               implantation libre. Dans les ZAC de l'Étang aux Cygnes, des
+                                               Berges de l'Ourcq et du Parc Chenonceau : moitié de la hauteur
+                                               de façade avec un minimum de 6 m si baies, 2,50 m sinon.
+
+  Implantation des                             Bâtiments non contigus sur une même propriété : distance au                      art. UB 8
+  constructions entre elles                    moins égale à la hauteur de façade avec un minimum de 8 m si
+                                               la façade comporte des baies (5 m pour constructions sur patio
+                                               à un seul niveau) ; moitié de la hauteur avec un minimum de 4
+                                               m si la façade est aveugle. Dérogations : extensions de moins
+                                               de 20 m², services publics ou d'intérêt collectif, plan de
+                                               composition d'ensemble approuvé.
+
+  Emprise au sol                               L'emprise au sol de toutes les constructions, annexes                            art. UB 9
+                                               comprises, ne peut excéder 60 % de la superficie de la
+                                               propriété. Dans les secteurs du PPRI, appréciation selon les
+                                               dispositions de la zone du PPRI. Dérogations : extensions de
+                                               moins de 20 m² et services publics ou d'intérêt collectif.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       13 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Hauteur maximale                             En secteur UBa : nombre de niveaux habitables (combles                           art. UB 10
+                                               aménagés ou aménageables ou attique inclus) limité à 5 (R+4,
+                                               R+3+combles ou R+3+attique). Porté à R+5 à l'intérieur de la
+                                               ZAC « Monthabor II », pour les îlots de renouvellement urbain
+                                               du quartier de Beauval et pour les constructions ayant une
+                                               façade sur l'avenue Foch. Hauteurs moindres possibles selon
+                                               les héberges voisines ou pour motifs d'architecture. Toiture à
+                                               la Mansart : dernier niveau assimilé à un niveau complet. Dans
+                                               le PPRI : cote du premier plancher selon le règlement du PPRI.
+                                               Aucune hauteur en mètres n'est fixée.
+
+  Aspect extérieur et toitures                 Démonstration du respect de l'identité de la ville et du quartier ;              art. UB 11
+                                               projet pouvant être refusé ou soumis à prescriptions s'il porte
+                                               atteinte aux lieux avoisinants. Composition simple, marquage
+                                               de la base, du corps et du couronnement en harmonie avec les
+                                               bâtiments environnants. Rez-de-chaussée sur domaine public :
+                                               murs aveugles interdits sur plus de 50 % du linéaire pour les
+                                               bâtiments à l'alignement ; en retrait, murs aveugles interdits
+                                               sauf murets bahut surmontés d'une grille ajourée avec
+                                               traitement paysager. Façades arrière et latérales traitées avec
+                                               le même soin. Pastiche d'une architecture étrangère à la région
+                                               interdit ; enduits à gros relief et faux joints interdits ;
+                                               climatiseurs, ventouses et conduits non en saillie sur la façade
+                                               ; dispositifs rapportés sur garde-corps (canisses, bâches)
+                                               interdits ; descentes d'eaux pluviales intégrées ; gargouilles
+                                               interdites sur façades principales. Ouvertures : châssis de toit
+                                               plus hauts que larges, en pose encastrée ; somme des largeurs
+                                               des lucarnes et châssis ne dépassant pas la moitié de la
+                                               longueur de la toiture ; coffrets de volets roulants extérieurs
+                                               apparents interdits ; volets bois persiennés à conserver.
+                                               Toitures : simplicité de volume et unité de conception ;
+                                               dispositifs solaires intégrés à la couverture et posés à fleur.
+                                               Pas de règle de pente ni de matériau de couverture dans cet
+                                               article.
+
+  Matériaux et couleurs                        Emploi à nu de matériaux destinés à être recouverts (carreaux                    art. UB 11
+                                               de plâtre, briques creuses, parpaings) interdit. Matériaux
+                                               naturels, renouvelables, recyclés ou biosourcés privilégiés.
+                                               Couleurs de parement et de peinture harmonisées entre elles
+                                               et avec le site ; dans le Site Patrimonial Remarquable, couleur
+                                               des menuiseries conforme au nuancier de l'AVAP. Isolation par
+                                               l'extérieur adaptée aux caractéristiques de la façade, sans
+                                               porter atteinte à la qualité architecturale.
+
+  Clôtures                                     Sur le domaine public ou dans les marges de recul imposées :                     art. UB 11
+                                               de préférence dispositif à claire-voie sur mur bahut de 0,60 m
+                                               de hauteur maximum, l'ensemble ne pouvant excéder 2 m au
+                                               total, de préférence doublé d'une haie arbustive d'essences
+                                               variées. Dérogation possible pour les services publics ou
+                                               d'intérêt collectif si recherche architecturale cohérente.
+                                               Matériaux à nu interdits. Dans le PPRI, respect des
+                                               prescriptions de la zone concernée.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        14 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Stationnement                                Stationnement hors voie publique. Habitat : 1 place par tranche                  art. UB 12
+                                               de 55 m² de surface de plancher créée ; 1 place par logement
+                                               supplémentaire en cas de réhabilitation ; restitution des places
+                                               supprimées en cas de transformation de garage ; pas de place
+                                               exigée pour une extension d'un logement existant ; logements
+                                               sociaux : exigence pouvant être supprimée sur îlots bien
+                                               desservis en transports en commun ; résidences thématiques :
+                                               possibilité de réduire à 1 place pour 4 chambres. Local vélos
+                                               obligatoire pour l'habitat et les bureaux. Hôtel : 1 place pour 2
+                                               chambres. Bureaux : surface de stationnement au moins égale
+                                               à 30 % de la surface de plancher. Commerces : 30 % de la
+                                               surface de plancher si la surface de plancher créée est d'au
+                                               moins 200 m², rien en dessous de 200 m². Industrie, artisanat,
+                                               entrepôt : selon les besoins, avec aire de manœuvre pour
+                                               camions. Équipements publics : selon capacité d'accueil. Place
+                                               type : 5 m x 2,50 m, dégagement de 5,50 m (environ 24 m²).
+
+  Espaces verts et plantations                 Espaces libres végétalisés sur au moins 40 % de leur                             art. UB 13
+                                               superficie, avec au moins un arbre de haute tige par 200 m² de
+                                               surface végétalisée (par tranche entamée). Plantations
+                                               existantes maintenues ou remplacées. Aires de stationnement
+                                               en surface de plus de 4 emplacements : au moins un arbre par
+                                               100 m² de surface de stationnement. Règles cumulatives.
+
+  Densité ou coefficient                       Non réglementé                                                                   art. UB 14
+
+
+
+
+3.5 Usages autorisés
+    Habitat collectif dense (logements neufs admis), commerces et activités de proximité
+    Bâtiments et installations de commerce, d'artisanat ou industriels, si les nuisances sont compatibles avec
+    l'environnement d'habitat
+    Installations classées pour la protection de l'environnement, si elles n'entraînent aucune nuisance pour le
+    voisinage
+    Équipements collectifs et constructions ou installations nécessaires aux services publics ou d'intérêt
+    collectif (y compris en périmètres de constructibilité limitée, sans seuil)
+    Extensions mesurées de moins de 20 m² de surface de plancher, avec dérogation possible à plusieurs
+    règles (accès, implantation, emprise, hauteur)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        15 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.6 Usages interdits ou soumis à conditions
+    Interdits : bâtiments d'exploitation agricole ; terrains aménagés de camping et de caravanes ;
+    stationnement des caravanes isolées ; ouverture et exploitation de carrières ; modes d'utilisation du sol
+    interdits par le PPRI (article 1) et par le règlement du PPRT selon la zone concernée
+    Périmètres de constructibilité limitée PCL1 et PCL2 : seules sont autorisées les extensions des
+    constructions existantes dans la limite de 20 % de la surface de plancher existante, les constructions
+    nouvelles dans la limite de 20 % de la superficie du terrain d'assiette, et les équipements d'intérêt collectif
+    sans seuil (dans l'attente d'un plan d'aménagement d'ensemble ; durée de 5 ans à compter de l'approbation
+    du PLU)
+    Secteurs d'Orgemont, Saint Fiacre et Sablons Bouillants : les opérations d'ensemble de logements ne sont
+    autorisées qu'au regard de la capacité d'accueil des équipements publics, notamment scolaires, et le cas
+    échéant dans le cadre d'un projet urbain partenarial (PUP) préalablement approuvé par la commune
+    Dans les secteurs délimités au document graphique : 2 à 4 logements, au moins 30 % de T3 ou plus ; 5
+    logements, 40 % ; 6 à 9 logements, 50 % ; 10 logements ou plus, 65 % (arrondi à l'unité supérieure). Règle
+    applicable aux constructions neuves, extensions et réaménagements, mais non aux logements sociaux ni
+    aux résidences thématiques (étudiante, sénior, habitat inclusif, intergénérationnelle...)
+    Modes d'utilisation du sol soumis à conditions par le PPRI (article 2) et le PPRT selon la zone concernée
+
+
+3.7 Points de vigilance pour votre projet
+    Vérifier si la parcelle est située dans l'un des périmètres de constructibilité limitée PCL1 ou PCL2
+    (document graphique n° 6) : constructibilité très restreinte, et durée de 5 ans à compter de l'approbation
+    du PLU à vérifier
+    Vérifier si la parcelle est dans un secteur d'Orgemont, Saint Fiacre ou Sablons Bouillants (équipements
+    collectifs) : opérations de logements soumises à la capacité des équipements et éventuellement à un PUP
+    Consulter le PPRI de la Vallée de la Marne et le PPRT de l'usine BASF (pièce 8-1) : emprise au sol, cote du
+    premier plancher, clôtures et usages possibles
+    Vérifier si la parcelle est dans les secteurs délimités au document graphique soumis aux quotas de
+    logements T3 ou plus
+    Vérifier le droit à R+5 (ZAC Monthabor II, Beauval, avenue Foch) ; sinon limite à 5 niveaux ; aucune hauteur
+    en mètres n'est fixée
+    Vérifier la proximité du canal de l'Ourcq (recul de 10 m) et des ZAC (retraits spécifiques)
+    Vérifier le Site Patrimonial Remarquable / AVAP pour les menuiseries et l'aspect
+    Dispositions générales : les adaptations mineures aux articles 3 à 13 ne sont possibles que pour la nature
+    du sol, la configuration des parcelles ou le caractère des constructions avoisinantes
+    Le règlement fait référence à d'anciens articles du Code de l'urbanisme (L.123-1 et suivants) : à vérifier au
+    regard de la version en vigueur
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      16 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.8 Extraits du règlement
+
+     art. UB 9 · page 28
+     « L'emprise au sol des constructions de toute nature, y compris les annexes ne peut excéder 60% de la
+     superficie de la propriété. »
+
+
+     art. UB 10 · page 28
+     « Le nombre de niveaux habitables y compris combles aménagés ou aménageables ou attique est
+     limité à 5 (R+4 ou R+3+c ou R+3+attique). »
+
+
+     art. UB 6 · page 26
+     « Toute construction nouvelle doit être implantée soit à l’alignement, soit en observant une marge de
+     recul au moins égale à 4 m de profondeur par rapport à l'alignement actuel ou futur des voies. »
+
+
+     art. UB 13 · page 34
+     « Les espaces libres doivent être végétalisés sur un minimum de 40% de leur superficie et plantés d'au
+     moins un arbre de haute tige / 200 m² de surface végétalisée. »
+
+
+     art. UB 12 · page 32
+     « Il sera réalisé un emplacement par tranche de 55 m² de surface de plancher créés. »
+
+
+     art. UB 2 · page 23
+     « Les extensions des constructions et installations existantes, dans la limite de 20% de la surface de
+     plancher existante. »
+
+
+
+3.9 Démarches probables
+    Permis de construire ou déclaration préalable selon la nature et la surface des travaux
+    Consultation du PPRI et du PPRT et du règlement de la zone concernée avant dépôt
+    Certificat d'urbanisme opérationnel pour sécuriser la faisabilité
+    Autorisation préalable ou avis liés au Site Patrimonial Remarquable (AVAP) le cas échéant
+    Autorisation de voirie pour les saillies sur le domaine public ; accord du service concessionnaire pour les
+    branchements
+    Notice de présentation explicitant l'insertion urbaine, la morphologie et l'aspect extérieur (recommandée
+    par le règlement)
+    Autorisation d'exploitation commerciale si la surface de vente l'exige
+
+     Cette lecture est établie automatiquement, par intelligence artificielle, à partir du règlement officiel en
+     vigueur. Elle peut comporter des imprécisions : seul le texte du règlement, reproduit en annexe (pages
+     22 à 34 du document approuvé), fait foi, avec les dispositions générales, les orientations
+     d'aménagement et les servitudes.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      17 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                                    04 · Loi Littoral et loi Montagne
+
+
+
+
+   04              Loi Littoral et loi Montagne
+     DANS CETTE SECTION
+
+     Les lois nationales qui s'ajoutent au document d'urbanisme sur le littoral et en montagne. Elles
+     peuvent rendre un terrain inconstructible même en zone constructible.
+
+
+Les lois d'aménagement qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+
+
+4.1 Loi Littoral
+Commune littorale                                        Non
+
+Distance au rivage                                       Sans objet
+
+Bande des 100 mètres                                     Sans objet
+
+
+La commune n'est pas riveraine de la mer : la loi Littoral ne s'applique pas (sauf rives de grands lacs).
+
+
+4.2 Loi Montagne
+Commune en zone de montagne                              Non
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          18 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+   05              Risques naturels et technologiques
+     DANS CETTE SECTION
+
+     Les risques connus à l'adresse du terrain (inondation, feu de forêt, mouvement de terrain,
+     radon…) et les catastrophes naturelles reconnues sur la commune.
+
+
+Base nationale Géorisques (ministère de la Transition écologique).
+
+
+
+5.1 Risques naturels à l'adresse de la parcelle
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Inondation                                      Non connu                                       Existant
+
+  Remontée de nappe                               Existant                                        Existant
+
+  Séisme                                          Existant – faible                               Existant – faible
+
+  Mouvement de terrain                            Inconnu                                         Existant
+
+  Retrait-gonflement des                          Existant – modéré                               Existant – important
+  argiles
+
+  Radon                                           Existant – faible                               Existant – faible
+
+
+
+
+5.2 Risques technologiques
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Installations industrielles                     Concerné                                        Concerné
+  (ICPE)
+
+  Canalisations de matières                       Concerné                                        Concerné
+  dangereuses
+
+  Pollution des sols                              Concerné                                        Concerné
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                   19 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.3 Indicateurs réglementaires
+Zone de sismicité                                        Zone 1 – très faible
+
+Potentiel radon                                          Catégorie 1 (potentiel faible)
+
+Retrait-gonflement des argiles                           Existant – modéré
+
+Plans de prévention (PPR)                                Marne
+
+
+
+5.4 Arrêtés de catastrophe naturelle
+18 arrêtés de reconnaissance de l'état de catastrophe naturelle concernent la commune.
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Sécheresse                                                                01/04/2022 au 30/09/2022                       27/12/2023
+
+  Inondations et/ou Coulées de Boue                                         19/06/2021 au 20/06/2021                       02/07/2021
+
+  Inondations et/ou Coulées de Boue                                         15/01/2018 au 05/02/2018                       15/02/2018
+
+  Sécheresse                                                                03/06/2011 au 30/06/2011                       14/03/2013
+
+  Sécheresse                                                                01/07/2003 au 30/09/2003                       01/02/2005
+
+  Inondations et/ou Coulées de Boue                                         20/10/2001 au 21/10/2001                       23/08/2002
+
+  Inondations et/ou Coulées de Boue                                         25/12/1999 au 29/12/1999                       30/12/1999
+
+  Mouvement de Terrain                                                      25/12/1999 au 29/12/1999                       30/12/1999
+
+  Inondations et/ou Coulées de Boue                                         17/01/1995 au 31/01/1995                       08/02/1995
+
+  Inondations et/ou Coulées de Boue                                         19/12/1993 au 15/01/1994                       29/04/1994
+
+  Inondations et/ou Coulées de Boue                                         30/04/1993 au 01/05/1993                       03/09/1993
+
+  Sécheresse                                                                01/01/1992 au 31/12/1992                       03/09/1993
+
+  Sécheresse                                                                01/05/1989 au 31/12/1991                       05/11/1992
+
+  Inondations et/ou Coulées de Boue                                         23/06/1983 au 26/06/1983                       08/10/1983
+
+  Inondations et/ou Coulées de Boue                                         30/05/1983 au 06/06/1983                       26/07/1983
+
+  Glissement de Terrain                                                     30/05/1983 au 06/06/1983                       26/07/1983
+
+  Inondations et/ou Coulées de Boue                                         01/04/1983 au 28/04/1983                       18/05/1983
+
+  Inondations et/ou Coulées de Boue                                         08/12/1982 au 31/12/1982                       13/01/1983
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         20 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.5 Installations classées à proximité (moins de 1 km)
+    VANDEMOORTELE (ex PANALOG) · Autorisation · En fin d'exploitation
+    PRIM O'FRUITS · Autres régimes
+    SERIOPLAST (ex GRAHAM EMBALLAGES PLAST) · Enregistrement · En fin d'exploitation
+    ANEMOSTAT SANAIR CARYLON SA · Enregistrement · En fin d'exploitation
+    SAPAR · Enregistrement · En fin d'exploitation
+    CACI COMPAGNIE D'APPLICATIONS CHIMIQUES · Autorisation · En fin d'exploitation
+    UDEPA MEAUX · Enregistrement · En fin d'exploitation
+    BOWDEN PLASTICS · Enregistrement · En fin d'exploitation
+
+
+5.6 Sites et sols pollués à proximité
+    WIPELEC (ex CACI COMPAGNIE D'APPLICATIONS CHIMIQUES) · ancien site industriel ou d'activité de
+    service (CASIAS)
+    Atelier de traitement de surface des métaux · ancien site industriel ou d'activité de service (CASIAS)
+    Garage · ancien site industriel ou d'activité de service (CASIAS)
+    Laboratoire de cosmétologie · ancien site industriel ou d'activité de service (CASIAS)
+    Usine de fabrication de papiers carbones stencils et encres · ancien site industriel ou d'activité de service
+    (CASIAS)
+    Traitement des métaux · ancien site industriel ou d'activité de service (CASIAS)
+    Garage de poids lourds · ancien site industriel ou d'activité de service (CASIAS)
+    Station-service · ancien site industriel ou d'activité de service (CASIAS)
+    2 anciens sites industriels ou d'activités de service (CASIAS) recensés
+    8 sites pollués en cours d'instruction recensés
+    5 secteurs d'information sur les sols (SIS) recensés
+
+
+5.7 Rapport officiel Géorisques
+Les risques recensés ci-dessus proviennent des bases officielles de Géorisques, service public d'information
+sur les risques. Le rapport officiel complet peut être édité sans frais, à tout moment et à jour, à partir de
+l'adresse du terrain sur le site Géorisques.
+
+
+    Éditer le rapport officiel Géorisques
+
+
+Lors d'une vente ou d'une location, le vendeur ou le bailleur doit remettre un état des risques de moins de six mois,
+complété et signé, et l'information sur les sinistres indemnisés au titre des catastrophes naturelles.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                   21 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+   06              Le terrain : accès, relief et réseaux
+     DANS CETTE SECTION
+
+     Les contraintes physiques du terrain : accès à une voie, pente et exposition, assainissement,
+     raccordement à l'électricité et à l'eau, fibre. Ce sont elles qui pèsent le plus sur le coût d'un
+     projet.
+
+
+Voirie (IGN, BD TOPO), altimétrie (IGN, RGE ALTI), règlement de la zone, réseau électrique (Agence ORE) et éligibilité
+internet (Arcep).
+
+
+
+6.1 Accès
+Accès direct à une voie                                  Oui
+
+Voie                                                     Route à 1 chaussée
+
+Largeur de chaussée                                      4m
+
+Accès des véhicules                                      Libre
+
+
+La parcelle touche une voie carrossable. L'autorisation d'urbanisme vérifiera que l'accès est adapté au projet et sûr,
+et peut imposer une permission de voirie ou un aménagement de l'entrée.
+
+
+6.2 Relief et exposition
+Pente moyenne                                            5%
+
+Exposition                                               Versant orienté nord
+
+Altitude                                                 57 à 63 m
+
+Appréciation                                             Terrain plat ou presque plat
+
+
+
+
+ 63 m
+
+
+
+
+ 56 m
+
+
+           Coupe du terrain dans le sens de la pente · longueur 120 m
+
+
+     Terrassements limités ; pas de surcoût notable lié au relief.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      22 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Meaux · AZ 39
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.3 Ensoleillement
+Appréciation                                             Très bien ensoleillé
+
+Soleil direct le 21 juin                                 15 h 42 (de 06 h 10 à 21 h 40)
+
+Soleil direct aux équinoxes                              11 h 30 (de 07 h 10 à 18 h 30)
+
+Soleil direct le 21 décembre                             7 h 42 (de 09 h 00 à 16 h 30)
+
+Ensoleillement annuel possible                           4 291 h par an, soit 98 % du maximum à cette latitude
+
+Hauteur du relief vers le sud                            3°
+
+
+ 75°
+
+
+
+ 60°
+
+
+
+ 45°
+
+
+
+ 30°
+
+
+
+ 15°
+
+
+
+ 0°
+                                Est                  Sud-est                    Sud                 Sud-ouest               Ouest
+
+          21 juin          Équinoxes               21 décembre                 Horizon : relief et bâtiments voisins
+
+
+
+       Le relief et les constructions voisines ne masquent presque pas le soleil : le terrain profite de la
+       quasi-totalité de l'ensoleillement possible à cette latitude.
+
+
+
+Ensoleillement mois par mois (le 21 de chaque mois)
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Janvier                         8 h 48                             8 h 18                                    08 h 50 – 17 h 00
+
+  Février                         10 h 18                            10 h 12                                   08 h 00 – 18 h 00
+
+  Mars                            12 h                               11 h 30                                   07 h 10 – 18 h 30
+
+  Avril                           13 h 48                            13 h 42                                   07 h 00 – 20 h 30
+
+  Mai                             15 h 18                            15 h 12                                   06 h 20 – 21 h 20
+
+  Juin                            15 h 48                            15 h 42                                   06 h 10 – 21 h 40
+
+  Juillet                         15 h 18                            15 h 12                                   06 h 30 – 21 h 30
+
+  Août                            13 h 48                            13 h 30                                   07 h 10 – 20 h 30
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      23 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Septembre                       12 h 12                            11 h 42                                   07 h 50 – 19 h 20
+
+  Octobre                         10 h 18                            10 h                                      08 h 40 – 18 h 30
+
+  Novembre                        8 h 42                             8 h 18                                    08 h 30 – 16 h 40
+
+  Décembre                        8h                                 7 h 42                                    09 h 00 – 16 h 30
+
+
+
+Calcul théorique par ciel dégagé, au centre de la parcelle et à hauteur d'homme : course du soleil heure par heure, masque du relief
+sur 6 km (IGN, RGE ALTI) et des bâtiments voisins sur 120 m (IGN, BD TOPO, 9 bâtiments pris en compte). La végétation et les
+constructions récentes ne sont pas prises en compte.
+
+
+6.4 Quel raccordement pour les eaux usées ?
+Raccordement à prévoir                                       Tout-à-l'égout très probable
+
+Zone du PLU                                                  UBa · Urbaine
+
+Zonage d'assainissement                                      Non publié au Géoportail de l'Urbanisme (consultable en mairie)
+
+Réseau collectif sur la commune                              Oui · CA du Pays de Meaux (CAPM) · régie publique
+
+
+     Le terrain est en zone urbaine (UBa) et la commune dispose d'un réseau public d'assainissement
+     collectif. Dans ces zones, le réseau passe en général dans la voie et le règlement impose le
+     raccordement lorsqu'il existe. À confirmer par le service d'assainissement pour ce terrain précis.
+
+
+
+Ce que dit le règlement de la zone
+Raccordement obligatoire au réseau collectif d'assainissement pour toute construction ou installation engendrant
+des eaux usées et située en bordure d'une voie équipée d'un réseau d'eaux usées. À défaut de réseau, une filière
+d'assainissement individuel peut être mise en place conformément à la réglementation technique en vigueur (aucune
+surface minimale ni étude de sol précisée). L'évacuation des eaux ménagères et effluents non traités dans les
+fossés, cours d'eau et égouts pluviaux est interdite. Les eaux résiduaires industrielles peuvent être soumises à
+conditions, notamment un traitement préalable (art. UB 4).
+
+Le règlement admet un assainissement individuel uniquement là où le réseau public n'existe pas : cette mention ne signifie
+pas que le terrain n'est pas desservi.
+
+Ce que cela coûte
+Raccordement au tout-à-l'égout : branchement sous la voie réalisé par le service d'assainissement (souvent 1 500 à
+5 000 € selon la distance), canalisation sur le terrain jusqu'à la maison, et participation pour le financement de
+l'assainissement collectif (PFAC) fixée par la commune ou l'intercommunalité, généralement de 1 000 à 5 000 €. Le
+service remet un devis à partir du plan de situation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      24 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+Qui contacter pour obtenir la confirmation
+Service d'assainissement                                     CA du Pays de Meaux (CAPM)
+
+Mairie                                                       Mairie de Meaux
+
+Téléphone                                                    01 60 09 97 00
+
+E-mail                                                       contact@meaux.fr
+
+
+    Demandez au service d'assainissement, avec la référence cadastrale, si une canalisation publique passe au droit
+    du terrain, à quelle profondeur, et le montant de la PFAC. Sa réponse écrite vaut attestation de raccordabilité.
+    Certificat d'urbanisme opérationnel (formulaire Cerfa 13410, délivré sans frais) : la mairie y indique officiellement
+    si le terrain est desservi par le réseau d'assainissement.
+    Plan des réseaux : la présence des canalisations enterrées près du terrain peut être vérifiée sur
+    reseaux-et-canalisations.gouv.fr, le guichet unique des réseaux.
+Sources : zonage d'assainissement et règlement (Géoportail de l'Urbanisme) ; services publics d'assainissement (SISPEA, Office
+français de la biodiversité) ; annuaire de l'administration (service-public.fr).
+
+Si le réseau public n'était finalement pas accessible
+  FILIÈRE                                    QUAND ELLE CONVIENT                                                           ORDRE DE PRIX
+
+  Fosse toutes eaux et                       Sol perméable, terrain assez grand et peu pentu                               5 000 à 10 000 €
+  épandage
+
+  Filtre à sable                             Sol peu perméable, place suffisante                                           8 000 à 12 000 €
+
+  Micro-station agréée                       Petit terrain ou sol défavorable ; entretien et électricité                   7 000 à 15 000 €
+
+  Filtre compact agréé                       Petit terrain, sans électricité                                               9 000 à 14 000 €
+
+
+
+Ordres de prix indicatifs (fourniture et pose, hors étude de sol et terrassements particuliers). La filière est choisie au vu de l'étude
+de sol et validée par le SPANC.
+
+
+6.5 Électricité et eau potable
+Gestionnaire du réseau                                       Enedis
+
+Réseau basse tension le plus proche                          au contact de la parcelle (ligne souterraine)
+
+Ligne aérienne la plus proche                                à environ 70 m
+
+Ligne souterraine la plus proche                             au contact de la parcelle
+
+Poste de transformation le plus proche                       à environ 155 m
+
+Appréciation                                                 Branchement simple probable
+
+
+     Le réseau basse tension passe au contact de la parcelle : un branchement simple est en principe
+     possible (de l'ordre de 1 500 à 3 000 € pour une maison, selon la longueur et la puissance), sous
+     réserve de la capacité du réseau et des coffrets existants.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           25 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+Ce qu'il faut vérifier avant d'acheter
+    La capacité du réseau : même un réseau proche peut être saturé (coffret ou câble plein, poste de transformation
+    au maximum). Seule une étude du gestionnaire permet de le savoir ; c'est la cause la plus fréquente de surcoûts
+    imprévus.
+    Électricité : demander au gestionnaire du réseau une étude de raccordement ou un devis à partir de l'adresse et
+    du plan de situation (sans frais). Elle indique le type de raccordement, son coût et son délai.
+    Eau potable : les plans du réseau d'eau ne sont pas publics. Interroger le service des eaux (coordonnées
+    ci-dessous) sur la présence d'une canalisation au droit du terrain, sa capacité et le coût du branchement, ainsi
+    que sur la défense incendie (borne à moins de 200 m environ).
+    Certificat d'urbanisme opérationnel : la mairie y indique si le terrain est desservi par les réseaux publics (eau,
+    électricité, assainissement) et, à défaut, si et quand ils seront étendus. Un refus de permis peut être fondé sur
+    l'insuffisance des réseaux (article L. 111-11 du Code de l'urbanisme).
+
+Qui contacter
+Service de l'eau potable                                     CA du Pays de Meaux (CAPM)
+
+Mode de gestion                                              Régie publique
+
+Contact pour le branchement                                  CA du Pays de Meaux (CAPM)
+
+Mairie                                                       Mairie de Meaux
+
+Téléphone de la mairie                                       01 60 09 97 00
+
+E-mail de la mairie                                          contact@meaux.fr
+
+Électricité (raccordement)                                   Enedis · demande en ligne sur enedis.fr (raccordement)
+
+La mairie oriente vers le bon interlocuteur et confirme, dans le certificat d'urbanisme, la desserte du terrain par les réseaux.
+Sources : SISPEA, observatoire des services publics d'eau (OFB) ; annuaire de l'administration (service-public.fr).
+
+Dans une promesse de vente, une condition suspensive portant sur le coût du raccordement aux réseaux protège
+l'acquéreur. Source de la cartographie électrique : Agence ORE, données des gestionnaires de réseaux de distribution ;
+tracés indicatifs.
+
+
+6.6 Fibre et internet
+     Le terrain est déjà fibré : 1 adresse située sur la parcelle (81 Avenue du President Roosevelt) est
+     déclarée raccordable à la fibre.
+
+
+
+Adresse la plus proche                                          81 Avenue du President Roosevelt · à 20 m · raccordable
+
+Point fibré le plus proche                                      81 Avenue du President Roosevelt · à 20 m
+
+Adresses fibrées à moins de 100 m                               2 sur 2
+
+Adresses fibrées à moins de 400 m                               181 sur 181
+
+Technologies disponibles à proximité                            4G fixe, Fibre, Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      26 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                                                  Meaux · AZ 39
+          TerrenUrbanisme
+                                                                                                           06 · Le terrain : accès, relief et réseaux
+
+
+
+
+     Points fibrés autour du terrain                                                                                              F                   F
+                                                                                                                      F
+
+                                                                                                                                                  F
+                                                                                     F
+                                                                                                                                                      F
+
+
+
+              F
+              F                                                                                                                                           F
+                                                                                                                                                                   F
+                                                                                                                           F
+
+             FF                                                                                                   F
+                   F F F FF F        F                               F
+                                 F                       F
+                                         F    F                                  F                                     F                          F
+                                                                                                                                                                   F
+                   F     F   F                                                                                                    F                           F
+                                 F                                                                                                                                     FF
+                                               F
+
+                                                                                                                                  F
+                                                                                                                  F                        F
+                                                                                                             F    F                                           F
+                                                                                                            F      F
+                                                                                                           F      F
+                                                                                                           F      F              F
+                                                                                                      FF         FFF F                  F FF
+                                                                                                    FF                                       FF
+                                                                                                   F                                    F
+                                                                                                  FF                                    F       F FF
+                                                                                                                 FF F F
+                                                                                  F
+                                                                                               FF      F                         F
+                                                                                                                                 F    FF F F FF
+                                                                                                                                                  F
+                                                                                               F       F          F              F
+                                                                                                        F        F
+                                                                                  F      F                                            F FF F
+                                                                                                       FF FF                   F FF
+                                                                                                                                 FF                   100 m
+
+
+
+Repères F : adresses déclarées raccordables à la fibre (Arcep) · en terracotta : sur la parcelle · fond © IGN
+
+
+Vérifiez la fibre à l'adresse du terrain :
+
+                       Carte fibre Orange                                                                   Carte de l'Arcep
+
+
+  DISTANCE             ADRESSE                                                                 FIBRE                       AUTRES ACCÈS
+
+  20 m                 81 Avenue du President Roosevelt                                        Oui                         4G fixe, Satellite
+
+  64 m                 79 Avenue du President Roosevelt                                        Oui                         4G fixe, Satellite
+
+  129 m                77 Avenue du President Roosevelt                                        Oui                         4G fixe, Satellite
+
+  152 m                19 Avenue des Sablons Bouillants                                        Oui                         4G fixe, Satellite
+
+  153 m                4 Avenue des Sablons Bouillants                                         Oui                         4G fixe, Satellite
+
+  170 m                2 Avenue des Sablons Bouillants                                         Oui                         4G fixe, Satellite
+
+  179 m                27 Impasse Miguel Angel Asturias                                        Oui                         4G fixe, Satellite
+
+  181 m                25 Impasse Miguel Angel Asturias                                        Oui                         4G fixe, Satellite
+
+
+
+Source : Arcep, « Ma connexion internet », éligibilité déclarée par les opérateurs, adresse par adresse. Le tracé des câbles n'est
+pas public : la présence de la fibre en limite de terrain se vérifie auprès de l'opérateur ou par une déclaration de projet de travaux
+(DT).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                                       27 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.7 Qui contacter pour les réseaux
+  RÉSEAU                                    INTERLOCUTEUR                                         CE QU'IL FAUT DEMANDER
+
+  Eau potable et                            Mairie ou service des eaux de la                      Attestation de desserte et conditions de
+  assainissement collectif                  commune                                               raccordement
+
+  Assainissement individuel                 SPANC (communauté de communes)                        Contrôle de conception sur la base de l'étude
+                                                                                                  de sol
+
+  Électricité                               Enedis (gestionnaire du réseau de                     Étude de raccordement et devis
+                                            distribution)
+
+  Fibre et téléphone                        Opérateur d'infrastructure et                         Raccordement du futur logement
+                                            fournisseur d'accès
+
+  Tous réseaux                              Guichet unique des réseaux                            Déclaration de projet de travaux (DT) pour
+                                            (reseaux-et-canalisations.gouv.fr)                    localiser les réseaux existants
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        28 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+    07             Environnement et marché immobilier
+     DANS CETTE SECTION
+
+     Les espaces naturels protégés autour du terrain et les prix de vente réels des maisons,
+     appartements et terrains alentour.
+
+
+Inventaire national du patrimoine naturel et demandes de valeurs foncières (DVF).
+
+
+
+7.1 Espaces naturels protégés ou inventoriés
+  TYPE                                                      NOM DU SITE
+
+  Abords de monument historique                             Memorial americain et Sanctuaire gallo romain de la Bauve Ancien
+                                                            Seminaire et Hotel Mace
+
+
+
+La présence d'un site Natura 2000 peut imposer une évaluation des incidences avant certains travaux. Une ZNIEFF
+est un inventaire scientifique sans portée réglementaire directe, mais elle signale un intérêt écologique pris en
+compte dans l'instruction des autorisations.
+
+
+7.2 Espèces protégées observées près du terrain
+86 espèces protégées ont été observées dans un rayon de 1 km autour du terrain depuis 1990 ; les 14 plus
+fréquemment signalées figurent ci-dessous.
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Moineau domestique (Passer                                      Oiseau                 Nationale (espèce et              163 · dernière en
+  domesticus)                                                                            habitat)                          2025
+
+  Pinson des arbres (Fringilla coelebs)                           Oiseau                 Nationale (espèce et              160 · dernière en
+                                                                                         habitat)                          2025
+
+  Mésange charbonnière (Parus major)                              Oiseau                 Nationale (espèce et              157 · dernière en
+                                                                                         habitat)                          2025
+
+  Verdier (Chloris chloris)                                       Oiseau                 Nationale (espèce et              147 · dernière en
+                                                                                         habitat)                          2024
+
+  Rouge-gorge familier (Erithacus                                 Oiseau                 Nationale (espèce et              137 · dernière en
+  rubecula)                                                                              habitat)                          2025
+
+  Mésange bleue (Cyanistes caeruleus)                             Oiseau                 Nationale (espèce et              122 · dernière en
+                                                                                         habitat)                          2025
+
+  Corneille noire (Corvus corone)                                 Oiseau                 Nationale (espèce et              121 · dernière en
+                                                                                         habitat)                          2025
+
+  Chardonneret élégant (Carduelis                                 Oiseau                 Nationale (espèce et              105 · dernière en
+  carduelis)                                                                             habitat)                          2023
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      29 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Accenteur mouchet (Prunella modularis)                          Oiseau                 Nationale (espèce et              74 · dernière en
+                                                                                         habitat)                          2023
+
+  Mouette rieuse (Chroicocephalus                                 Oiseau                 Nationale (espèce et              49 · dernière en
+  ridibundus)                                                                            habitat)                          2023
+
+  Rouge-queue noir (Phoenicurus                                   Oiseau                 Nationale (espèce et              38 · dernière en
+  ochruros)                                                                              habitat)                          2025
+
+  Bergeronnette grise (Motacilla alba)                            Oiseau                 Nationale (espèce et              35 · dernière en
+                                                                                         habitat)                          2023
+
+  Troglodyte mignon (Troglodytes                                  Oiseau                 Nationale (espèce et              31 · dernière en
+  troglodytes)                                                                           habitat)                          2023
+
+  Serin cini (Serinus serinus)                                    Oiseau                 Nationale (espèce et              30 · dernière en
+                                                                                         habitat)                          2023
+
+
+
+     Une observation à proximité ne signifie pas que l'espèce vit sur le terrain. Mais si elle y est présente, il
+     est interdit de détruire, capturer ou déranger les individus et, pour la plupart de ces espèces, de
+     détruire leurs lieux de reproduction et de repos (articles L. 411-1 et suivants du Code de
+     l'environnement). L'infraction est punie de 3 ans d'emprisonnement et 150 000 € d'amende.
+
+
+
+Que faire avant de construire ?
+    Pour une maison individuelle, aucune étude écologique n'est imposée en règle générale, et l'étude de sol porte
+    sur le terrain (fondations), pas sur la faune ni la flore. Vous restez cependant responsable si une espèce
+    protégée vit sur la parcelle : en cas de doute (espèce observée tout près, vieux arbres, murets, maquis, zone
+    humide), faites passer un écologue avant de défricher.
+    Si un enjeu est confirmé : inventaire faune-flore aux saisons utiles (printemps et été en général), puis mesures
+    pour éviter et réduire l'impact : implantation de la maison sur la partie la moins sensible, travaux hors période de
+    reproduction, clôture de chantier adaptée, déplacement d'individus par un spécialiste habilité.
+    Si la destruction d'individus ou d'habitats ne peut pas être évitée : demande de dérogation « espèces protégées »
+    auprès de la préfecture (DREAL), avec avis du conseil scientifique. Comptez 4 à 12 mois d'instruction, à anticiper
+    avant le dépôt du permis.
+
+Combien prévoir ?
+Pré-diagnostic écologique                                800 à 2 000 € (une visite et une note de synthèse)
+
+Inventaire faune-flore                                   3 000 à 10 000 € selon la surface et le nombre de passages
+
+Mesures d'évitement et de réduction                      500 à 5 000 € (balisage, calendrier, suivi de chantier)
+
+Dossier de dérogation                                    8 000 à 25 000 €, hors mesures de compensation éventuelles
+
+Ordres de prix indicatifs, honoraires de bureaux d'études en environnement, si une étude est nécessaire. Pour une maison sur un
+terrain déjà entouré de constructions, aucune étude n'est le plus souvent requise.
+
+Sources : statuts de protection TAXREF et base de connaissance des statuts (INPN, Muséum national d'Histoire naturelle) ;
+observations naturalistes GBIF, qui rassemble notamment les données de l'INPN et du SINP.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         30 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+7.3 Prix de l'immobilier à Meaux
+Prix au mètre carré des ventes enregistrées sur la commune au cours des cinq dernières années publiées.
+Seules les ventes portant sur un bien unique sont retenues.
+
+  TYPE DE BIEN                                       VENTES                       €/M² MÉDIAN                              €/M² MOYEN
+
+  Maisons                                            632                          3 010 €/m²                               3 132 €/m²
+
+  Appartements                                       3 085                        3 231 €/m²                               3 199 €/m²
+
+  Locaux commerciaux                                 571                          6 889 €/m²                               8 708 €/m²
+
+
+
+Source : statistiques des demandes de valeurs foncières (DGFiP, Etalab). Prix des actes, hors frais : un ordre de grandeur,
+pas une estimation du bien.
+
+
+7.4 Ventes de terrains autour de la parcelle
+Période observée                                         2021 à 2025
+
+Ventes de terrains recensées                             18
+
+Prix médian                                              73 €/m²
+
+Prix courants (une vente sur deux)                       37 à 342 €/m²
+
+
+  DATE                    PARCELLE                          NATURE                                SURFACE              PRIX             €/M²
+
+  12/12/2025              AE 793 (+2)                       terrains à bâtir                      7 047 m²             600 000 €        85
+
+  28/11/2025              AE 560                            terres                                3 792 m²             276 000 €        73
+
+  21/03/2025              AK 544 (+1)                       sols                                  1 970 m²             3 200 000 €      1 624
+
+  07/01/2025              AK 241 (+1)                       terrains à bâtir                      2 100 m²             150 000 €        71
+
+  19/11/2024              AZ 263 (+1)                       sols                                  600 m²               75 000 €         125
+
+  24/10/2024              AZ 218                            terrains à bâtir                      208 m²               120 000 €        577
+
+  01/02/2023              AK 242 (+1)                       terrains à bâtir                      2 100 m²             90 000 €         43
+
+  15/12/2022              AI 162 (+3)                       sols, terrains à bâtir                8 164 m²             6 000 000 €      735
+
+  09/12/2022              AZ 243 (+1)                       sols                                  508 m²               90 550 €         178
+
+  20/04/2022              AH 192                            sols                                  5 803 m²             372 000 €        64
+
+  30/11/2021              AH 131 (+2)                       terres, Chemin de fer                 8 260 m²             43 700 €         5
+
+  22/10/2021              AH 115 (+2)                       terres, Chemin de fer                 8 260 m²             21 500 €         3
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           31 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+Source : DVF, ventes enregistrées par la DGFiP. Les prix au mètre carré dépendent fortement de la constructibilité, de la
+vue, de l'accès et de la viabilisation : ils donnent un ordre de grandeur, pas une estimation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                 32 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                             Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                                                08 · Historique du site
+
+
+
+
+   08              Historique du site
+     DANS CETTE SECTION
+
+     Le terrain vu du ciel au fil des décennies et les permis de construire accordés autour : l'évolution
+     du secteur en un coup d'œil.
+
+
+Photographies aériennes de l'IGN et permis de construire délivrés (Sitadel).
+
+
+
+8.1 Le terrain vu du ciel, d'hier à aujourd'hui
+
+    1950-1965                                             2000-2005                                              2006-2010
+
+
+
+
+    2011-2015                                             Aujourd'hui
+
+
+
+
+Ces vues montrent l'évolution du terrain et du quartier, des années 1950 à aujourd'hui (photographies aériennes de l'IGN).
+
+     Bon à savoir : l'existence ancienne d'une construction peut ouvrir, sous conditions, un droit à
+     reconstruire ou à restaurer un bâtiment dont il reste l'essentiel des murs porteurs (articles L. 111-15 et L.
+     111-23 du Code de l'urbanisme).
+
+
+
+
+8.2 Permis de construire délivrés autour du terrain
+Autorisations sur la commune (3 ans)                                    10 · dernière recensée le 13/05/2026
+
+Logements autorisés (3 ans)                                             204
+
+Dont maisons individuelles                                              5
+
+Autorisations dans la section AZ                                        7 depuis 2013
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  28/08/2020            Permis de construire                   AZ 218             1              160 m²                    AVENU DU MAR CHAL
+                                                                                                                           JOFFRE
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              33 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                             Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                                                08 · Historique du site
+
+
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  20/08/2020            Permis de construire                   AZ 162             2              81 m²                     AVENU DU MAR CHAL
+                                                                                                                           JOFFRE (DP 19.
+
+  03/12/2019            Permis de construire                   AZ 24              80             5 668 m²                  RUE DE LA LOUPI RE
+
+  22/07/2015            Permis de construire                   AZ 152             1              83 m²                     AVENU DU PRESIDENT
+                                                                                                                           ROOSEVELT
+
+  29/01/2014            Permis de construire                   AZ 15              1              71 m²                     RUE DU DOCTEUR HAPPERT
+
+  04/11/2013            Permis de construire                   AZ 106             1              176 m²                    AVENU DU MAR CHAL
+                                                                                                                           JOFFRE
+
+  21/03/2013            Permis de construire                   AZ 11              4              211 m²                    AVENU DU MARECHAL
+                                                                                                                           JOFFRE
+
+
+
+Source : base Sitadel des autorisations d'urbanisme créant des logements (SDES). Un permis accordé à proximité montre
+que des constructions ont été admises dans le secteur, sans préjuger de la décision sur votre propre projet.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              34 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                              09 · Opportunités autour du terrain
+
+
+
+
+      09           Opportunités autour du terrain
+      DANS CETTE SECTION
+
+      Ce qui se passe autour de la parcelle : grands terrains peu bâtis, sociétés propriétaires en
+      difficulté, logements énergivores. Des pistes pour un investisseur, un voisin ou un professionnel.
+
+
+Bodacc (procédures collectives), ADEME (diagnostics énergétiques), cadastre, BD TOPO et Géoportail de l'Urbanisme.
+
+
+
+9.1 Grands terrains peu bâtis à proximité
+Parcelles de plus de 1 200 m², situées en zone urbaine ou à urbaniser du PLU, dans un rayon de 250 m, dont
+moins de 8 % de la surface est bâtie, hors terrains publics : un potentiel de construction ou de division à
+étudier.
+
+  PARCELLE           SURFACE                BÂTI               ZONE               DISTANCE           PROPRIÉTAIRE
+
+  AY 348             38 853 m²              non bâti           ULa                460 m              particulier (non publié)
+
+  AH 2               30 048 m²              459 m²             UXb                430 m              particulier (non publié)
+
+  AY 277             26 368 m²              190 m²             UBa                330 m              particulier (non publié)
+
+  AZ 259             23 130 m²              non bâti           UBa                440 m              particulier (non publié)
+
+  AH 147             22 394 m²              non bâti           UBa                190 m              particulier (non publié)
+
+  AK 518             15 444 m²              non bâti           UCa                410 m              particulier (non publié)
+
+  AK 467             8 768 m²               non bâti           UBa                380 m              particulier (non publié)
+
+  AH 118             6 622 m²               non bâti           UXb                500 m              particulier (non publié)
+
+
+
+
+9.2 Logements classés F ou G autour du terrain
+Logements diagnostiqués F ou G dans un rayon de 350 m. Leur location est déjà interdite (G) ou le sera en
+2028 (F) : leurs propriétaires sont souvent vendeurs, ou doivent engager des travaux de rénovation.
+
+  PARCELLE                   ADRESSE                                        CLASSE LOGEMENT                   SURFACE      DISTANCE DPE DU
+
+  –                          65 Avenue du President                         G            Appartemen           42 m²        260 m    27/01/2022
+                             Roosevelt 77100 Meaux                                       t
+
+
+
+La parcelle est celle du point d'adresse du logement (cadastre). Pour connaître son propriétaire lorsqu'il s'agit d'un particulier,
+demandez un relevé de propriété au service de la publicité foncière ou à la mairie.
+
+Ces informations proviennent de bases publiques et ne préjugent ni de l'intention de vendre des propriétaires ni de la
+constructibilité des parcelles citées, qui relève d'une étude au cas par cas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        35 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+      10           Votre projet, étape par étape
+De l'achat du terrain à la déclaration aux impôts : démarches, délais, coûts et contacts.
+
+
+
+10.1 Analyse
+Le terrain est soumis au plan local d'urbanisme (PLU) de Meaux. Il est classé en zone UBa. Zone urbaine :
+secteur déjà urbanisé où les équipements publics existants ou en cours de réalisation permettent
+d'accueillir des constructions. Les constructions y sont admises dans le respect du règlement de la zone
+(destinations, implantation, hauteur, emprise, aspect).
+
+La construction n'est pas exclue, mais elle est subordonnée à des conditions qu'il faut lever avant tout
+engagement : lecture du règlement et des orientations d'aménagement, desserte par les réseaux,
+contraintes de risques ou de protection.
+
+
+10.2 Votre projet, étape par étape
+Les étapes ci-dessous suivent l'ordre réel d'un projet de construction, de l'achat du terrain à la déclaration aux
+impôts. Les montants sont indicatifs et à confirmer par devis.
+
+  1      Avant d'acheter le terrain
+         Vérifiez les règles de la zone (chapitres précédents), puis demandez un certificat d'urbanisme opérationnel
+         (Cerfa 13410, sans frais, réponse sous 2 mois) : il fige les règles pendant 18 mois. En zone d'argiles d'aléa
+         moyen ou fort, le vendeur doit fournir une étude de sol préalable.
+         Contact : Mairie de Meaux · 01 60 09 97 00 · contact@meaux.fr · formulaire sur service-public.fr (rechercher « Cerfa
+         13410 »)
+
+  2      Les études
+         Étude de sol géotechnique (G2) pour dimensionner les fondations : 1 500 à 3 000 €. Étude thermique RE2020,
+         obligatoire pour le permis : 500 à 1 500 €. Bornage par un géomètre si les limites sont incertaines. L'étude de
+         sol ne porte pas sur les espèces protégées : un écologue n'intervient qu'en cas d'enjeu (chapitre
+         Environnement).
+         Géomètres proches du terrain : liste à la fin de ce chapitre
+
+  3      Les plans
+         Architecte obligatoire si la surface de plancher totale dépasse 150 m². En dessous, vous pouvez dessiner les
+         plans vous-même ou faire appel à un dessinateur ou maître d'œuvre (environ 1 500 à 4 000 € le dossier de
+         permis). Architecte : 3 000 à 8 000 € pour la seule mission de permis, 8 à 12 % du coût des travaux pour une
+         mission complète avec suivi du chantier.
+         Trouver un architecte : annuaire de l'Ordre des architectes sur architectes.org
+
+  4      Déposer le permis
+         Formulaire Cerfa 13406 (maison individuelle) et pièces PCMI1 à PCMI8 : plan de situation, plan de masse,
+         coupe, notice, plans des façades et toitures, insertion dans le paysage, photos, attestation RE2020. Dépôt en
+         mairie ou en ligne sur le guichet numérique de la commune. La mairie a 1 mois pour réclamer une pièce
+         manquante ; l'instruction dure 2 mois à partir du dossier complet, plus en secteur protégé.
+         Dépôt : Mairie de Meaux · 01 60 09 97 00 · contact@meaux.fr · formulaire sur service-public.fr (rechercher « Cerfa
+         13406 »)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        36 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+  5      Affichage et recours
+         Dès l'accord, installez le panneau de permis sur le terrain, lisible depuis la voie, pendant toute la durée du
+         chantier. Les tiers ont 2 mois à compter du premier jour d'affichage pour contester ; la mairie peut retirer un
+         permis illégal pendant 3 mois. Faites constater l'affichage par un commissaire de justice (environ 300 à 600 €
+         pour les trois constats).
+         Commissaires de justice : annuaire sur commissaire-justice.fr
+
+  6      Avant les travaux
+         Souscrivez l'assurance dommages-ouvrage, obligatoire (souvent 2 à 4 % du coût de la construction). Signez
+         le contrat de construction de maison individuelle ou les marchés des artisans. Déposez la déclaration
+         d'ouverture de chantier (Cerfa 13407) le jour du démarrage. Le permis est valable 3 ans, prorogeable deux
+         fois d'un an.
+         Déclaration d'ouverture : Mairie de Meaux · 01 60 09 97 00 · contact@meaux.fr
+
+  7      Le financement
+         La banque débloque le prêt au fur et à mesure du chantier, sur présentation des factures des entreprises ou
+         des appels de fonds du constructeur. Avec un contrat de construction de maison individuelle, l'échéancier
+         est encadré par la loi : 15 % à l'ouverture du chantier, 25 % aux fondations, 40 % aux murs, 60 % hors d'eau,
+         75 % hors d'air et cloisons, 95 % aux équipements, le solde à la réception. Des intérêts intercalaires peuvent
+         courir sur les sommes débloquées.
+         Votre banque ou votre courtier
+
+  8      La fin du chantier
+         Réception des travaux avec le constructeur ou les artisans, avec réserves si nécessaire. Déposez ensuite la
+         déclaration attestant l'achèvement et la conformité des travaux (DAACT, Cerfa 13408), avec l'attestation
+         RE2020 de fin de chantier. La mairie a 3 mois pour la contester (5 mois en secteur protégé).
+         Dépôt : Mairie de Meaux · 01 60 09 97 00 · contact@meaux.fr
+
+  9      Les impôts
+         Dans les 90 jours suivant l'achèvement, déclarez la construction sur impots.gouv.fr, espace « Gérer mes
+         biens immobiliers ». Cette déclaration sert au calcul de la taxe d'aménagement (payée en une fois sous 1 500
+         €, sinon en deux fois, estimation plus bas dans ce chapitre) et de la taxe foncière, avec une exonération
+         possible les deux premières années selon la commune.
+         impots.gouv.fr › Espace particulier › Gérer mes biens immobiliers
+
+
+10.3 Les points à vérifier pour ce terrain
+  1      Certificat d'urbanisme opérationnel
+         Le demander en mairie (formulaire Cerfa 13410), en décrivant le projet. Délivré sans frais, il indique si le
+         terrain peut accueillir le projet et fige les règles d'urbanisme pendant 18 mois.
+
+  2      Règlement de la zone
+         Lire le règlement écrit de la zone UBa et, le cas échéant, les orientations d'aménagement, disponibles
+         sur le Géoportail de l'Urbanisme.
+
+  3      Réseaux et accès
+         Vérifier l'accès à une voie publique ou privée adaptée, la desserte en eau potable et en électricité, et le
+         mode d'assainissement. En l'absence de réseau collectif, une étude de sol et l'avis du service public
+         d'assainissement non collectif (SPANC) sont nécessaires.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        37 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+  4      Architecte des Bâtiments de France
+         Le projet sera soumis à l'architecte des Bâtiments de France : le rencontrer avant de dessiner le projet
+         (rendez-vous par la mairie ou l'unité départementale de l'architecture et du patrimoine), soigner
+         matériaux, teintes et toitures, et compter un mois de plus pour l'instruction.
+
+  5      Bornage
+         Faire réaliser un bornage par un géomètre-expert pour fixer les limites exactes et la surface réelle du
+         terrain.
+
+  6      Sécuriser un achat
+         Pour une acquisition, prévoir dans le compromis une condition suspensive d'obtention d'un permis de
+         construire purgé de tout recours.
+
+
+10.4 Délais indicatifs d'instruction
+  DEMANDE                                                                                 DÉLAI DE DROIT COMMUN
+
+  Certificat d'urbanisme d'information (CUa)                                              1 mois
+
+  Certificat d'urbanisme opérationnel (CUb)                                               2 mois
+
+  Déclaration préalable                                                                   1 mois
+
+  Permis de construire une maison individuelle                                            2 mois
+
+  Permis d'aménager, autres permis de construire                                          3 mois
+
+
+
+Ces délais peuvent être majorés, notamment en site classé ou inscrit, aux abords d'un monument historique ou lorsque la
+consultation d'un service extérieur est nécessaire.
+
+
+10.5 Taxe d'aménagement à prévoir
+      Exemple : une maison de 120 m² en résidence principale, avec une piscine de 3 × 6 m. Sur ce terrain, la
+      taxe d'aménagement à prévoir est d'environ 17 690 €.
+
+
+
+  PROJET                                                                                                       TAXE ESTIMÉE
+
+  Maison de 120 m², résidence principale                                                                       16 630 €
+
+  Piscine de 3 × 6 m (18 m²)                                                                                   1 060 €
+
+  Total à prévoir                                                                                              17 690 €
+
+
+
+Taux appliqués : 20 % pour la commune (taux de secteur) et 2,5 % pour le département, 1 % pour la région, sur une valeur
+forfaitaire de 1 011 € par m² en 2026 (251 € par m² de bassin pour une piscine). Une résidence principale bénéficie d'un
+abattement de 50 % sur ses 100 premiers m².
+
+La taxe est due une fois les travaux terminés : elle se déclare sur impots.gouv.fr dans les 90 jours suivant l'achèvement, et
+se paie en deux fois au-delà de 1 500 €. Pour calculer votre propre projet :
+terrenurbanisme.com/outils/taxe-amenagement.html
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        38 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+10.6 Implanter une entreprise : zone France Ruralités Revitalisation
+     La commune de Meaux n'est pas classée en zone France Ruralités Revitalisation (FRR). Une entreprise
+     qui s'y installe ne bénéficie pas de l'exonération d'impôt sur les bénéfices liée à ce zonage.
+
+
+
+Source : ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 (collectivites-locales.gouv.fr).
+
+
+10.7 Géomètres proches du terrain
+Le géomètre-expert est le seul professionnel habilité à fixer les limites de propriété (bornage) et à établir les
+documents d'arpentage déposés au cadastre. Il intervient aussi pour les relevés topographiques et les
+divisions de terrain.
+
+1,1 km            YVES DURIS-MAUGER
+                                                                                                                           Coordonnées
+                  30 AVENUE DU MARECHAL FOCH 77100 MEAUX
+
+
+1,2 km            CABINET DML GEOMETRES-EXPERTS
+                                                                                                                           Coordonnées
+                  30 RUE ARISTIDE BRIAND 77100 MEAUX
+
+
+2 km              A&S CONSEILS - GEOMETRES EXPERTS
+                                                                                                                           Coordonnées
+                  12 RUE DE LA GRANDE ILE 77100 MEAUX
+
+
+2 km              POURTOUT PLANS
+                                                                                                                           Coordonnées
+                  12 RUE DE LA GRANDE ILE 77100 MEAUX
+
+
+2 km              AXEGEO (AXEGEO)
+                                                                                                                           Coordonnées
+                  18 RUE JEANNE D'ARC 77100 MEAUX
+
+
+2,7 km            CABINET ADAM
+                                                                                                                           Coordonnées
+                  71 RUE ARISTIDE BRIAND 77124 VILLENOY
+
+
+Source : répertoire Sirene de l'INSEE (activité des géomètres), classé par distance au terrain. L'inscription d'un cabinet à l'Ordre
+des géomètres-experts se vérifie sur geometre-expert.fr. Le bouton « Coordonnées » ouvre la fiche du cabinet (téléphone,
+horaires, itinéraire). Cette liste est fournie à titre indicatif, sans partenariat ni recommandation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        39 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Meaux · AZ 39
+          TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+     11            État des risques (ERP) pré-rempli
+     DANS CETTE SECTION
+
+     Le formulaire réglementaire à remettre à l'acquéreur ou au locataire, pré-rempli à partir des
+     bases officielles : plans de prévention, sismicité, radon, sols pollués, trait de côte, bruit des
+     aérodromes.
+
+
+Articles L. 125-5 à L. 125-7 et R. 125-23 à R. 125-27 du Code de l'environnement · modèle fixé par l'arrêté du 27 septembre
+2022.
+
+
+     Formulaire pré-rempli à partir de Géorisques et du Géoportail de l'Urbanisme à la date du rapport.
+     Avant de le remettre à l'acquéreur ou au locataire, le vendeur ou le bailleur le vérifie, le complète
+     (sinistres indemnisés) et le signe ; il doit dater de moins de six mois à la signature de la promesse, du
+     bail ou de l'acte.
+
+
+
+
+11.1 Situation du bien
+Commune                                                  Meaux (77284)
+
+Département                                              Seine-et-Marne (77)
+
+Références cadastrales                                   Section AZ, parcelle n° 39 · 77284000AZ0039
+
+Surface cadastrale                                       4 978 m²
+
+
+
+11.2 Plans de prévention des risques
+  L'IMMEUBLE EST SITUÉ DANS LE PÉRIMÈTRE…                                         RÉPONSE                DÉTAIL
+
+  d'un plan de prévention des risques naturels (PPRN)                             Non                    Aléas à l'adresse : remontée de nappe
+  prescrit, appliqué par anticipation ou approuvé
+
+  d'un plan de prévention des risques miniers (PPRM)                              Non                    Non recensé
+
+  d'un plan de prévention des risques technologiques                              Non                    Risques technologiques sur la commune
+  (PPRT)                                                                                                 : installations industrielles (icpe),
+                                                                                                         canalisations de matières dangereuses,
+                                                                                                         pollution des sols
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       40 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+11.3 Autres zonages réglementaires
+  L'IMMEUBLE EST SITUÉ…                                                           RÉPONSE                DÉTAIL
+
+  dans une commune de sismicité (zones 2 à 5 : règles de                          Non                    Zone 1 – très faible
+  construction parasismique)
+
+  dans une commune à potentiel radon de niveau 3                                  Non                    Catégorie 1 (potentiel faible)
+
+  dans un secteur d'information sur les sols (SIS)                                À vérifier             SIS recensé à proximité : SOVALES ;
+                                                                                                         Parcelles sous le vent de la fonderie
+                                                                                                         DEVAUX WERTS. Vérifier l'arrêté
+                                                                                                         préfectoral.
+
+  dans une zone exposée au recul du trait de côte                                 Non                    Non concerné selon Géorisques
+
+  dans une zone de bruit d'un plan d'exposition au bruit                          À vérifier             Aucun PEB annexé au document
+  d'aérodrome (PEB)                                                                                      d'urbanisme ; vérifier auprès de la mairie
+
+  dans une zone de retrait-gonflement des argiles                                 Oui                    Existant – modéré
+  (information)
+
+
+
+
+11.4 Sinistres indemnisés et déclarations
+Arrêtés de catastrophe naturelle sur la commune : 18 (liste en section Risques). Le vendeur ou le bailleur
+déclare ci-dessous les sinistres ayant donné lieu à une indemnisation au titre des catastrophes naturelles ou
+technologiques pendant la période où il a été propriétaire.
+
+Sinistres indemnisés                                     [ ] Oui [ ] Non
+
+Vendeur ou bailleur                                      Nom : ____________________ Date : ___/___/______ Signature :
+
+Acquéreur ou locataire                                   Nom : ____________________ Date : ___/___/______ Signature :
+
+
+L'état des risques officiel peut aussi être édité sans frais sur Géorisques (errial.georisques.gouv.fr). Les informations
+ci-dessus sont établies à partir des bases nationales ; en cas de divergence, l'arrêté préfectoral relatif à l'information des
+acquéreurs et des locataires fait foi.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            41 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+    12             Avertissement et sources
+     DANS CETTE SECTION
+
+     La portée de ce rapport et la liste des sources publiques consultées.
+
+
+
+12.1 Nature du document
+Ce rapport est un document d'information établi automatiquement, à la date indiquée en page de garde, à
+partir des données publiques officielles alors disponibles. Il n'a aucune valeur contractuelle, réglementaire ou
+juridique.
+
+
+12.2 Ce que ce rapport n'est pas
+Il ne constitue ni un certificat d'urbanisme au sens de l'article L. 410-1 du Code de l'urbanisme, ni une
+autorisation d'urbanisme (permis de construire, permis d'aménager, déclaration préalable), ni un état des
+risques au sens de l'article L. 125-5 du Code de l'environnement, ni un bornage, ni une expertise, ni une
+évaluation immobilière, ni une consultation juridique. Il n'engage en rien l'administration.
+
+
+12.3 Permis de construire
+Ce rapport ne peut en aucun cas être joint, produit ou invoqué à l'appui d'une demande de permis de
+construire, de permis d'aménager ou de déclaration préalable, ni opposé à la mairie ou à un service de l'État. Il
+ne garantit pas l'obtention d'une autorisation : seule l'autorité compétente se prononce, au vu d'un projet
+précis et de l'ensemble des règles applicables à la date de sa décision.
+
+
+12.4 Limites des données
+Les données sont produites par des organismes publics dont l'éditeur n'est ni l'auteur ni le garant. Elles
+peuvent être incomplètes, imprécises ou ne pas refléter une modification, une révision, une mise en
+compatibilité, une annulation contentieuse, un sursis à statuer ou une procédure en cours. Le plan cadastral,
+document fiscal, ne fait pas foi des limites de propriété. Surfaces, distances, altitudes et pentes sont
+approchées. Les extraits et analyses du règlement sont une aide à la lecture : seul le texte intégral du
+document d'urbanisme approuvé, consultable en mairie, fait foi.
+
+
+12.5 Avant toute décision
+Avant toute acquisition, cession, financement, promesse de vente ou dépôt d'une demande, le lecteur doit
+obtenir un certificat d'urbanisme opérationnel auprès de la mairie, consulter le document d'urbanisme en
+vigueur et recueillir l'avis d'un professionnel habilité (notaire, architecte, géomètre-expert, avocat). Pour un
+achat, il est recommandé de stipuler une condition suspensive d'obtention d'un permis de construire purgé de
+tout recours.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        42 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+12.6 Responsabilité
+L'éditeur ne saurait être tenu responsable d'une décision prise sur le seul fondement de ce rapport, ni d'un
+refus d'autorisation, d'une erreur ou d'une omission des sources publiques, dans les limites prévues par les
+conditions générales de vente acceptées lors de la commande.
+
+
+12.7 Sources consultées
+  DONNÉE                                                    SOURCE
+
+  Cadastre                                                  DGFiP, plan cadastral informatisé, via API Carto (IGN)
+
+  Photographies et plans                                    IGN, Géoplateforme : orthophotographies, Plan IGN, parcellaire express
+
+  Urbanisme                                                 Géoportail de l'Urbanisme : zonage, prescriptions, informations, servitudes
+                                                            d'utilité publique
+
+  Littoral                                                  IGN, BD TOPO (limite terre-mer) ; communes littorales (Géoportail de
+                                                            l'Urbanisme)
+
+  Montagne                                                  Ministère de la Cohésion des territoires, communes de la loi Montagne
+
+  Risques                                                   Géorisques (ministère de la Transition écologique) : rapport de risques,
+                                                            arrêtés CatNat, sismicité, radon, ICPE, sites pollués
+
+  Environnement                                             Inventaire national du patrimoine naturel (PatriNat), via API Carto
+
+  Altitude, pente et exposition                             IGN, RGE ALTI
+
+  Ensoleillement                                            Calcul astronomique de la course du soleil ; masque du relief (IGN, RGE
+                                                            ALTI) et des bâtiments (IGN, BD TOPO)
+
+  Voirie et accès                                           IGN, BD TOPO (tronçons de route)
+
+  Permis de construire                                      Sitadel, service des données et études statistiques (SDES) du ministère
+                                                            chargé du logement
+
+  Photographies anciennes                                   IGN, BD ORTHO historique
+
+  Fibre et internet                                         Arcep, Ma connexion internet (éligibilité par adresse)
+
+  Géomètres                                                 Répertoire Sirene (INSEE), activité des géomètres
+
+  Propriétaires personnes morales                           DGFiP, fichiers des parcelles des personnes morales (diffusion Koumoul)
+
+  Diagnostics énergétiques                                  ADEME, base des DPE des logements existants
+
+  Procédures collectives                                    Bodacc, annonces commerciales (DILA)
+
+  Bâtiments                                                 IGN, BD TOPO
+
+  Réseau électrique                                         Agence ORE (gestionnaires de réseaux de distribution : Enedis, EDF Corse
+                                                            et entreprises locales) : réseau basse tension et postes de distribution
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        43 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+  DONNÉE                                                    SOURCE
+
+  Taxe d'aménagement                                        DGFiP, éléments de taxation votés par les collectivités ; valeurs forfaitaires
+                                                            fixées par arrêté
+
+  Rapport officiel de risques                               Géorisques, ministère chargé de l'environnement
+
+  Zone France Ruralités Revitalisation                      ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 ; article
+                                                            44 quindecies A du code général des impôts
+
+  Marché immobilier                                         Statistiques des demandes de valeurs foncières (DVF) par commune, DGFiP
+                                                            et Etalab
+
+  Date d'extraction                                         20/11/2026
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        44 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Meaux · AZ 39
+         TerrenUrbanisme
+                                                                                                                     Annexe · règlement de la zone
+
+
+
+
+ANNEXE
+
+
+Règlement écrit · zone UBa
+Les pages suivantes reproduisent le chapitre du règlement officiel applicable à la zone de la parcelle
+(pages 22 à 34 du document approuvé), tel que publié sur le Géoportail de l'Urbanisme. Il s'agit d'une
+reproduction à titre d'information : seule la version approuvée tenue à disposition en mairie fait foi, avec
+ses annexes, plans et éventuelles modifications ultérieures.
+Règlement complet :
+https://data.geopf.fr/annexes/gpu/documents/DU_77284/559c8cbae70c81555f0ed07c3bd8aec2/77284_reglement_20240329.pdf
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       45 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+Plan Local d’Urbanisme – Approuvé le 08/04/2004 – Révisé le 21/06/2012 - Modifié le 08 octobre 2015 et le 29
+septembre 2017 - Mis à jour le 14 mai 2018 – Modification simplifiée n°2 approuvée le 29 mars 2024
+
+
+CHAPITRE II – DISPOSITIONS APPLICABLES A LA
+ZONE UB
+
+Cette zone est destinée à recevoir essentiellement des ensembles d’habitat collectif dense, ainsi que
+des commerces et activités de proximité.
+
+Elle est divisée en 3 secteurs :
+       UBa, caractérisé par un habitat collectif de moyenne hauteur,
+       UBb, caractérisé par un habitat collectif de grande hauteur (bâtiments existants)
+       UBc, caractérisé par la présence d’une friche industrielle devant muter vers une affectation
+        d’habitat.
+
+Une partie de la zone UBa comprend en application de l’article L.123-2 a et R.123-12 b deux périmètres
+de constructibilité limitée signifiée PCL1 et PCL2 au document graphique N° 6 et définis à l’article UB2
+du présent règlement ; dans l’attente de l’approbation d’un plan d’aménagement d’ensemble de ces
+secteurs. Ces dispositions sont applicables pour une durée de 5 ans qui court à compter de
+l’approbation du présent PLU.
+
+La zone UBa comprend en outre trois sous-ensembles exclusivement dédiés à des équipements
+collectifs :
+       Le secteur d’Orgemont à l’Ouest, affecté au lycée Coubertin, ainsi qu’à des services hospitaliers
+        et leurs annexes,
+       Le secteur Saint Fiacre, au Nord, affecté au Centre Hospitalier de Meaux et des établissements
+        d’enseignement,
+                                                                                                               21
+       Le secteur des Sablons Bouillants, à l’Est du canal de l’Ourcq, affecté à des équipements
+        administratifs et d’enseignement.
+
+Une partie de la zone UBa est comprise dans le périmètre du Plan de Prévention des Risques
+Technologiques (PPRT) de l’usine BASF, approuvé par arrêté préfectoral du 12 février 2013. Les
+dispositions particulières à ce secteur figurent dans le règlement du PPRT (Pièce 8-1 – Servitudes
+d’Utilité Publique), tant en ce qui concerne les possibilités d’occupation du sol, que les prescriptions
+constructives édictées pour chaque zone concernée.
+
+Une partie de la zone UB est comprise dans le périmètre du Plan de Prévention des Risques
+d’Inondation de la Vallée de la Marne, les dispositions particulières à ces secteurs figurent dans le
+règlement du PPRI (Pièce n° 8-1 – Servitudes d’Utilité Publique), tant en ce qui concerne les possibilités
+d’occupation du sol, que les prescriptions urbanistiques et constructives édictées pour chaque zone
+concernée.
+
+
+
+
+Pièce N° 7 - REGLEMENT
+Plan Local d’Urbanisme – Approuvé le 08/04/2004 – Révisé le 21/06/2012 - Modifié le 08 octobre 2015 et le 29
+septembre 2017 - Mis à jour le 14 mai 2018 – Modification simplifiée n°2 approuvée le 29 mars 2024
+
+
+
+SECTION I : NATURE DE L'OCCUPATION DU SOL
+
+
+ARTICLE UB 1 – TYPES D'OCCUPATION DU SOL INTERDITS
+
+
+Sont interdits dans tous les secteurs :
+
+      les bâtiments d’exploitation agricole,
+      les terrains aménagés de camping et de caravanes ;
+      le stationnement des caravanes isolées ;
+      l’ouverture et l’exploitation des carrières,
+      les modes d’utilisation du sol interdits par le PPRI (article 1 du règlement), en fonction de la zone
+       concernée.
+      Les modes d’utilisation du sol interdits par le règlement du PPRT en fonction de la zone
+       concernée.
+
+
+ARTICLE UB 2 – TYPES D'OCCUPATION DU SOL SOUMIS A CONDITIONS PARTICULIERES
+
+Sont admis sous conditions particulières :
+
+    Les installations classées pour la protection de l’environnement, quels que soient les régimes
+      auxquels elles sont soumises, ne sont admises qu’à la condition qu’elles n’entrainent aucune             22
+      nuisance pour le voisinage.
+    Les bâtiments et installations à usage de commerce, d’artisanat ou industriels, à condition que les
+      nuisances émises soient compatibles avec l'environnement d'habitat.
+    Les modes d’utilisation du sol soumis à conditions par le règlement de PPRI (article 2) en fonction
+      de la zone concernée.
+    Les modes d’utilisation du sol soumis à conditions par le règlement de PPRT en fonction de la
+      zone concernée.
+    Dans les périmètres de constructibilité limitée délimités au document graphique N° 6 en
+      application des articles L.123-2 (a) et R.123-12 (b) sous la dénomination PCL1 et PCL2, seules
+      sont autorisées :
+                Les extensions des constructions et installations existantes, dans la limite de 20% de
+                 la surface de plancher existante.
+                Les constructions nouvelles autorisées dans la zone, dans la limite du seuil de 20% de
+                 la superficie du terrain d’assiette de l’opération.
+                Les équipements d’intérêt collectif, sans considération de seuil de constructibilité.
+    Dans les secteurs d’Orgemont, Saint Fiacre et Sablons Bouillants, les opérations d’ensemble de
+      logements ne pourront être autorisées qu’en regard de la capacité d’accueil des équipements
+      publics, notamment scolaires, et le cas échéant, dans le cadre d’un programme urbain
+      partenarial (PUP) préalablement approuvé par la commune.
+     Dans les secteurs délimités au document graphique :
+- lorsque le projet prévoit la réalisation de 2 à 4 logements, il devra prévoir au minimum un taux de 30
+% de logements de type T3 ou plus.
+- lorsque le projet prévoit la réalisation de 5 logements, il devra prévoir au minimum un taux de 40% de
+logements de type T3 ou plus.
+- lorsque le projet la réalisation de 6 à 9 logements, il devra prévoir au minimum un taux de 50% de
+logements de type T3 ou plus.
+
+
+Pièce N° 7 - REGLEMENT
+Plan Local d’Urbanisme – Approuvé le 08/04/2004 – Révisé le 21/06/2012 - Modifié le 08 octobre 2015 et le 29
+septembre 2017 - Mis à jour le 14 mai 2018 – Modification simplifiée n°2 approuvée le 29 mars 2024
+
+- lorsque le projet prévoir la réalisation de 10 logements ou plus, il devra prévoir au minimum un taux
+de 65% de logements de type T3 ou plus.
+Cette règle s'applique que les logements soient créés dans le cadre d'une construction neuve, d'une
+extension ou du réaménagement d'un bâtiment existant. Elle ne s’applique pas à la construction de
+logements sociaux ni à celle de résidences thématiques répondant à une population cible prioritaire
+(ex. résidence étudiante, résidence sénior, habitat inclusif, résidence intergénérationnelle…).
+Le cas échéant, le nombre de logements issu des calculs ci-dessus est arrondi à l'unité supérieure.
+
+
+
+
+                                                                                                               23
+
+
+
+
+Pièce N° 7 - REGLEMENT
+Plan Local d’Urbanisme – Approuvé le 08/04/2004 – Révisé le 21/06/2012 - Modifié le 08 octobre 2015 et le 29
+septembre 2017 - Mis à jour le 14 mai 2018 – Modification simplifiée n°2 approuvée le 29 mars 2024
+
+
+
+SECTION II – CONDITIONS DE L’OCCUPATION DES SOLS
+
+ARTICLE UB 3 – ACCES ET VOIRIE
+
+
+Pour être constructible, un terrain doit avoir accès à une voie publique ou privée, ouverte à la circulation
+automobile et en bon état de viabilité soit directement, soit par l'intermédiaire d'un passage aménagé
+sur les fonds voisins, ou éventuellement, obtenu par application de l'article 682 du Code Civil.
+
+Les conditions techniques applicables aux accès et voies de desserte sont les suivantes :
+
+1- Accès particuliers : ils doivent présenter les caractéristiques suivantes :
+
+       desservir au plus 5 logements ou des établissements occupant au plus 10 personnes,
+       avoir au moins 3,50 m de largeur
+       avoir moins de 50 m de longueur
+
+2 - Voies secondaires : elles devront présenter les caractéristiques suivantes :
+
+     avoir une largeur totale d'emprise au moins égale à 8 m avec une chaussée aménagée pour le
+      passage de deux files de voitures. Une emprise plus étroite sera autorisée à condition que la
+      longueur de la partie étroite n'excède pas 50 m et qu'une bonne visibilité soit assurée.
+     les caractéristiques des accès doivent permettre de satisfaire aux règles minimales de desserte,
+      défense contre l'incendie, protection civile, brancardage, etc…
+                                                                                                               24
+       la hauteur sous porche sera au moins égale à 3,30 m.
+
+A l'intérieur d'une propriété, toute construction devra pouvoir être accessible à partir d'une voie d'au
+moins 3,50 m de largeur.
+
+Les règles du présent article pourront ne pas être appliquées :
+
+     Dans le cas d’extensions mesurées de constructions existantes à condition que la surface de
+      plancher créée soit inférieure à 20 m²,
+     Dans le cas de constructions ou installations nécessaires aux services publics ou d’intérêt
+      collectif.
+
+
+ARTICLE UB 4 – DESSERTE PAR LES RESEAUX
+
+1 - Alimentation en eau potable
+Le branchement sur le réseau public de distribution d’eau potable est obligatoire pour toute construction
+ou utilisation du sol qui requiert une alimentation en eau.
+
+
+2 - Assainissement
+
+
+ Eaux usées : Le branchement sur le réseau collectif d’assainissement est obligatoire pour toute
+   construction ou installation engendrant des eaux usées et située en bordure d’une voie équipée
+   d’un réseau eaux usées. Dans le cas contraire, une filière d’assainissement individuel pourra être
+   mise en place conformément à la réglementation technique en vigueur. L’évacuation des eaux
+   ménagères et des effluents non traités dans les fossés, cours d’eau et égouts pluviaux est interdite.
+
+
+Pièce N° 7 - REGLEMENT
+Plan Local d’Urbanisme – Approuvé le 08/04/2004 – Révisé le 21/06/2012 - Modifié le 08 octobre 2015 et le 29
+septembre 2017 - Mis à jour le 14 mai 2018 – Modification simplifiée n°2 approuvée le 29 mars 2024
+
+    Le rejet dans le réseau collectif des eaux résiduaires industrielles pourra être soumis à certaines
+    conditions et notamment leur traitement préalable.
+ Eaux pluviales : Les aménagements réalisés sur un terrain ne doivent pas faire obstacle au libre
+   écoulement des eaux pluviales (article 640 et 641 du Code Civil). Le rejet de ces eaux en rivière
+   doit faire l’objet de l’autorisation des services compétents. Lorsqu’il existe un réseau public
+   recueillant les eaux pluviales, les aménagements sur le terrain devront être tels qu’ils garantissent
+   l’écoulement des eaux pluviales dans ledit réseau.
+
+
+3 – Réseaux divers
+
+
+Le raccordement des constructions aux réseaux concessionnaires (Télécommunication, ERDF) doit
+être effectué en souterrain jusqu'à la limite du domaine public en un point à déterminer avec le service
+concessionnaire.
+
+Dans les opérations d'ensemble telles que lotissement ou ensemble de constructions groupées, la
+desserte des réseaux intérieurs doit être enterrée.
+
+Rappel Articles 5 et 7 de la loi du 15/07/1980 et loi Grenelle II : lorsqu’il existe un réseau de chaleur
+(géothermie), le raccordement au réseau est obligatoire lorsque la puissance pour le chauffage, la
+climatisation ou la production d’eau chaude dépasse 30 kilowatts.
+
+ARTICLE UB 5 – CARACTERISTIQUES DES TERRAINS
+
+NON REGLEMENTE
+
+ARTICLE UB 6 –– IMPLANTATION DES CONSTRUCTIONS PAR RAPPORT AUX VOIES ET
+EMPRISES PUBLIQUES
+                                                                                                               25
+
+Toute construction nouvelle doit être implantée soit à l’alignement, soit en observant une marge de recul
+au moins égale à 4 m de profondeur par rapport à l'alignement actuel ou futur des voies.
+
+Pour les constructions nouvelles à édifier à l’angle de deux voies, les règles d’alignement s’appliqueront
+de manière parallèle dans le prolongement de chaque voie. Dans le cas où l’angle des deux voies forme
+un angle coupé, les règles d’alignement pourront ne pas s’appliquer sur l’angle coupé exclusivement.
+
+Les saillies et encorbellements sur le domaine public sont autorisés au vu du règlement de la voirie
+municipale.
+
+Toutefois, pour les constructions présentant un linéaire de façade sur alignement supérieur à 10 m,
+certaines parties de cette façade pourront observer une marge de recul comprise entre 0 et 4m.
+
+Au long du canal de l'Ourcq, les constructions nouvelles devront observer une marge de reculement de
+10 mètres mesurée à partir de l'emprise du canal.
+
+
+Les règles du présent article pourront ne pas être appliquées :
+
+     Dans le cas d’extensions mesurées de constructions existantes à condition que la surface de
+      plancher créée soit inférieure à 20 m²,
+     Dans le cas de constructions ou installations nécessaires aux services publics ou d’intérêt
+      collectif.
+
+
+
+ARTICLE UB 7 – IMPLANTATION DES CONSTRUCTIONS PAR RAPPORT AUX LIMITES
+SEPARATIVES
+
+
+Pièce N° 7 - REGLEMENT
+Plan Local d’Urbanisme – Approuvé le 08/04/2004 – Révisé le 21/06/2012 - Modifié le 08 octobre 2015 et le 29
+septembre 2017 - Mis à jour le 14 mai 2018 – Modification simplifiée n°2 approuvée le 29 mars 2024
+
+
+
+
+Les constructions peuvent s’implanter :
+
+       Soit sur une ou plusieurs limites séparatives de propriété, pour les façades ne comportant pas
+        de baies assurant l’éclairement des locaux, à l’exception des jours de souffrance au sens du
+        code civil.
+            Soit en retrait des limites séparatives de propriété
+
+En cas de retrait, les marges de reculement définies ci-dessous sont calculées par rapport à la projection
+axonométrique et perpendiculaire de la façade du bâtiment au regard de la limite séparative
+immédiatement opposée.
+
+La marge de reculement sera au moins égale :
+
+       à la hauteur de façade telle que définie à l’article UB 10, avec un minimum de 8 m si celle-ci
+        comporte des baies assurant l'éclairement des locaux, à l’exception des jours de souffrance
+        au sens du code civil.
+       à la moitié de cette hauteur avec un minimum de 2,50 m dans le cas contraire ou dans le cas
+        d'une véranda dont la baie est munie d'un verre opaque ou translucide et d'un châssis non
+        ouvrant, si cette implantation est cohérente avec celle de la construction principale..
+
+Les abris de jardins d’une surface de plancher inférieure ou égale à 6 m² pourront s’implanter librement.
+
+Dans les Zones d’Aménagement Concerté du périmètre de rénovation urbaine : ZAC de l’Etang aux
+Cygnes, ZAC des Berges de l’Ourcq, ZAC du Parc Chenonceau, la marge de recul des constructions
+nouvelles par rapport aux limites séparatives de propriété sera au moins égale :
+
+       à la moitié de la hauteur de la façade avec un minimum de 6 m si celle-ci comporte des baies
+        assurant l’éclairement des locaux, à l’exception des jours de souffrance au sens du code civil.        26
+       à une distance d’au moins 2,50 m dans le cas contraire ou dans le cas d'une véranda dont la
+        baie est munie d'un verre opaque ou translucide et d'un châssis non ouvrant, si cette
+        implantation est cohérente avec celle de la construction principale..
+
+Les règles de prospect définies ci-dessus ne sont pas applicables aux ouvrages destinés à la distribution
+d’électricité et dans le cas de constructions ou installations nécessaires aux services publics ou d’intérêt
+collectif.
+
+
+
+ARTICLE UB 8 – IMPLANTATION DE PLUSIEURS CONSTRUCTIONS SUR UNE MEME PROPRIETE
+
+
+La construction de plusieurs bâtiments non contigus sur une même propriété est autorisée à condition
+que la distance comptée horizontalement entre tous points des bâtiments en regard soit au moins égale
+à:
+
+       à la hauteur de façade (cf art.10) avec un minimum de 8 m si celle-ci comporte des baies
+        assurant l'éclairement des locaux. Pour les constructions sur patio ne comportant qu'un seul
+        niveau, cette dimension peut être ramenée à 5 m.
+       à la moitié de cette hauteur avec un minimum de 4 m lorsque la façade est aveugle.
+
+Les règles du présent article pourront ne pas être appliquées :
+
+     Dans le cas d’extensions mesurées de constructions existantes à condition que la surface de
+      plancher créée soit inférieure à 20 m²,
+
+
+
+Pièce N° 7 - REGLEMENT
+Plan Local d’Urbanisme – Approuvé le 08/04/2004 – Révisé le 21/06/2012 - Modifié le 08 octobre 2015 et le 29
+septembre 2017 - Mis à jour le 14 mai 2018 – Modification simplifiée n°2 approuvée le 29 mars 2024
+
+     Dans le cas de constructions ou installations nécessaires aux services publics ou d’intérêt
+      collectif.
+     Dans le cadre d’un plan de composition d’ensemble approuvé.
+
+
+ARTICLE UB 9 – EMPRISE AU SOL DES CONSTRUCTIONS
+
+
+L'emprise au sol des constructions de toute nature, y compris les annexes ne peut excéder 60% de la
+superficie de la propriété.
+Dans les secteurs concernés par le PPRI (Plan n° 8-3), les possibilités maximales d’emprise au sol
+devront être appréciées en fonction des dispositions réglementaires de la zone concernée.
+
+Les règles du présent article pourront ne pas être appliquées :
+
+     Dans le cas d’extensions mesurées de constructions existantes à condition que la surface de
+      plancher créée soit inférieure à 20 m²,
+     Dans le cas de constructions ou installations nécessaires aux services publics ou d’intérêt
+      collectif.
+
+
+ARTICLE UB 10 – HAUTEUR DES CONSTRUCTIONS
+
+Définition :
+
+La hauteur de façade mesure la dimension verticale du nu de la façade prise depuis le sol naturel jusqu'à
+son niveau le plus élevé. Pour les façades surmontées d'une toiture en pente, la hauteur est prise entre
+le sol naturel et la gouttière ou sablière. Pour les façades surmontées d'une terrasse, le niveau le plus
+élevé est la rive supérieure de la façade. Dans le cas d'une toiture à la Mansart, la hauteur de façade        27
+sera calculée depuis le sol naturel jusqu' à la ligne de cassure entre le brisis et le terrasson.
+
+La hauteur "plafond" mesure la différence d'altitude entre le sol naturel et le point le plus élevée du
+bâtiment y compris la toiture mais non compris les ouvrages techniques de faible emprise tels que
+souche de cheminée, paratonnerres, appareils d'ascenseurs.
+
+Lorsque le sol naturel est en pente, la hauteur prise en compte se mesure au milieu des façades des
+bâtiments de longueur inférieure à 30 m ou au milieu de sections égales entre elles et au plus égales à
+30 m provenant de la division des façades dont la longueur est supérieure à 30 m.
+
+En secteur UBa :
+
+Le nombre de niveaux habitables y compris combles aménagés ou aménageables ou attique est limité
+à 5 (R+4 ou R+3+c ou R+3+attique).
+Le nombre de niveaux habitables pourra être porté à R+5 pour l’ensemble des constructions situées à
+l’intérieur du périmètre de la ZAC « MONTHABOR II »; pour les ilots de renouvellement urbain du
+quartier de Beauval ; ainsi que pour les constructions présentant une façade sur l’Avenue Foch.
+
+En secteur UBb :
+
+Le nombre de niveaux habitables y compris combles aménagés ou aménageables est limité à 8 (R+7).
+
+
+
+
+En secteur UBc :
+
+
+
+
+Pièce N° 7 - REGLEMENT
+Plan Local d’Urbanisme – Approuvé le 08/04/2004 – Révisé le 21/06/2012 - Modifié le 08 octobre 2015 et le 29
+septembre 2017 - Mis à jour le 14 mai 2018 – Modification simplifiée n°2 approuvée le 29 mars 2024
+
+Le nombre de niveaux habitables y compris combles aménagés ou aménageables ou attique est limité
+à 5 (R+4 ou R+3+combles ou attique).
+
+
+Dans tous les secteurs
+
+Des hauteurs moindres pourront être imposées en fonction des héberges des immeubles avoisinants
+ou pour des motifs d’architecture (alignement de balcons, rattrapage de niveaux).
+
+En cas de toiture à la Mansart, le dernier niveau habitable sera assimilé à un niveau complet et en
+aucun cas à un comble ou un attique.
+
+Dans les secteurs concernés par le PPRI (plan n° 8-3), la cote du premier plancher habitable ou
+fonctionnel des constructions admises devra respecter la réglementation de chaque zone du PPRI
+(article 4-1 du règlement de PPRI).
+
+Les règles du présent article pourront ne pas être appliquées :
+
+     Dans le cas d’extensions mesurées de constructions existantes à condition que la surface de
+      plancher créée soit inférieure à 20 m²,
+     Dans le cas de constructions ou installations nécessaires aux services publics ou d’intérêt
+      collectif.
+
+
+
+ARTICLE UB 11 – ASPECT EXTERIEUR – CLOTURES
+
+
+Il est recommandé d'expliciter clairement dans la notice décrivant le terrain et présentant le projet les
+partis retenus et la démarche qui a mené aux choix en matière d’insertion urbaine, de morphologie, de            28
+composition et d’aspect extérieur du projet.
+Le respect de l’identité de la ville et plus spécifiquement du quartier d’implantation devra être démontré.
+
+Dans les secteurs présentant une unité architecturale, la volumétrie et la modénature des nouvelles
+constructions doivent établir la continuité des éléments, sans remettre en cause le gabarit fixé.
+Afin de préserver les caractéristiques des espaces urbains existants, une attention particulière sera
+portée au sens des faîtages, au vocabulaire architectural des constructions déjà présentes dans la rue
+ou l'îlot.
+
+Le projet peut être refusé ou n’être accepté que sous réserve de l’observation de prescriptions
+spéciales, si les constructions, par leur situation, leur architecture, leurs dimensions ou l’aspect extérieur
+des bâtiments ou ouvrages à édifier ou à modifier, sont de nature à porter atteinte au caractère ou à
+l’intérêt des lieux avoisinants, aux sites, et aux paysages naturels ou urbains.
+
+Dans le cas d’extensions de constructions existantes, il conviendra de rechercher la meilleure
+intégration possible au volume principal existant.
+
+Les garages et les annexes doivent être construits en harmonie de couleurs, de matériaux et d’aspect
+avec la construction principale.
+Les locaux techniques ou installations techniques doivent être intégrés au bâti principal ou faire l'objet
+d'une recherche prenant en compte les constructions voisines.
+Les coffrets, compteurs, boîtes aux lettres doivent être intégrés dans la construction ou la clôture.
+Les matériaux et teintes des menuiseries, serrureries, garde-corps et clôtures doivent contribuer à l’unité
+de style du projet.
+
+
+Façades :
+
+
+
+
+Pièce N° 7 - REGLEMENT
+Plan Local d’Urbanisme – Approuvé le 08/04/2004 – Révisé le 21/06/2012 - Modifié le 08 octobre 2015 et le 29
+septembre 2017 - Mis à jour le 14 mai 2018 – Modification simplifiée n°2 approuvée le 29 mars 2024
+
+L’architecture de Meaux se caractérise par une simplicité des formes et des volumes, une sobriété des
+matériaux, des modénatures et des teintes. Il sera privilégié une composition simple qui clarifie la lecture
+du bâtiment.
+Le marquage des différentes strates du bâtiment (la base, le corps et le couronnement) devra être fait
+en cohérence et en harmonie avec les bâtiments environnants.
+Les matériaux et couleurs des façades doivent être en harmonie avec ceux et celles des constructions
+environnantes (surface des façades et leur impact dans la rue ou le quartier, …).
+Le traitement des rez-de-chaussée bordant le domaine public doit éviter le plus largement possible les
+locaux aveugles en façade et limiter les parties pleines, préjudiciables à la qualité de l’ambiance
+urbaine :
+    -   Dans les bâtiments à l’alignement : les murs aveugles sur des linéaires importants (plus de
+        50 % du linéaire total de la façade) sont interdits. Le linéaire doit être rythmé par des ouvertures,
+        des failles et l’identification des points d’entrées (illustration)
+    -   Dans les bâtiments en retrait : les murs aveugles sont interdits, sauf murets bahut surmontés
+        d’une grille ajourée et traitement paysager. Le linéaire de clôture doit être rythmé et végétalisé
+        en fonction de l'affectation du rez-de-chaussée.
+Des dispositions différentes pourront être appliquées dans le cas de constructions ou installations
+nécessaires aux services publics ou d’intérêt collectif si le projet architectural le justifie.
+
+Le traitement des limites doit assurer une continuité et harmonie avec voisinage.
+
+Les façades arrière et latérales seront traitées avec autant de soin que la façade principale, elles devront
+être en harmonie avec celles-ci.
+
+L’emploi à nu de matériaux destinés à être recouverts (carreaux de plâtre, briques creuses, parpaings,
+etc...) est interdit.
+L'emploi de matériaux naturels (enduits chaux, plâtre), renouvelables, recyclés ou biosourcés est               29
+privilégié.
+En cas de mise en place d'une isolation par l'extérieur, la surépaisseur et/ou la surélévation doit être
+adaptées aux modes constructifs et aux caractéristiques techniques et architecturales de la façade et/ou
+de la toiture et ne doit pas porter atteinte à la qualité architecturale du bâtiment et à son insertion dans
+le cadre bâti environnant ; lorsqu'ils contribuent à la qualité architecturale du bâtiment concerné, les
+éléments tels que volets et marquises devront alors être repositionnés sur la façade.
+
+Tout pastiche d’une architecture étrangère à la région est interdit.
+
+
+Les enduits à gros relief, les faux joints ou autres effets d’enduits sont interdits. Les soubassements des
+constructions seront traités avec autant de soin que la partie supérieure ; les modénatures seront
+réalisées sans surcharge et de même teinte.
+
+Les couleurs de matériaux de parement et des peintures extérieures devront s’harmoniser entre elles
+et ne pas porter atteinte au caractère des sites ou paysages naturels ou urbains. Pour Les projets situés
+dans le périmètre du Site Patrimonial Remarquable de Meaux, la couleur des menuiseries (portes,
+fenêtres, volets) devra être conforme au nuancier annexé au règlement de l’AVAP.
+
+Les climatiseurs, bouches d’aération, ventouses de chaudières, conduits de fumées, extracteurs, boites
+à lettres ne doivent pas être installés en saillie sur la façade, mais dissimulés.
+La mise en place de dispositifs rapportés sur les garde-corps de type canisses, treillis, bâches… qui
+sont susceptibles d'altérer l'aspect extérieur du bâtiment est interdite. Dans les projets neufs, les garde-
+corps des balcons devront dans leur conception initiale assurer un niveau d'intimité suffisant.
+Les descentes d’eaux pluviales devront être limitées en nombre et intégrées dans la composition
+architecturale de la façade. L’écoulement des eaux des balcons au moyen de gargouilles, pissettes ou
+barbacanes est interdite sur les façades principales ou donnant sur le domaine public. Dans ces cas,
+cette évacuation doit être assurée à l'intérieur du bâtiment.
+
+
+Pièce N° 7 - REGLEMENT
+Plan Local d’Urbanisme – Approuvé le 08/04/2004 – Révisé le 21/06/2012 - Modifié le 08 octobre 2015 et le 29
+septembre 2017 - Mis à jour le 14 mai 2018 – Modification simplifiée n°2 approuvée le 29 mars 2024
+
+
+
+Ouvertures :
+
+Les châssis de toit seront de proportions plus hauts que larges et réalisés en pose encastrée sans
+saillie.
+La pose des mécanismes de fermeture des baies (volets roulants, rideaux de fer…) ne doit pas
+dénaturer la composition architecturale des façades et la qualité des percements. Les coffrets extérieurs
+apparents sont interdits.
+Les volets en bois persiennés doivent être conservés.
+
+L’éclairement éventuel des combles sera assuré par des ouvertures en lucarnes ou par des châssis de
+toit dont la somme des largeurs ne devra pas excéder la moitié de la longueur de la toiture.
+
+Leur inscription doit être soucieuse du rapport au volume bâti et doit respecter une hiérarchie entre les
+percements de la façade et ceux en combles. L'écriture des percements en combles et leur importance
+doivent être moindres que ceux des façades du bâtiment.
+Les dispositifs d’éclairage naturel créés dans un comble (lucarnes, châssis, verrières, etc.) doivent
+présenter des dimensions en cohérence avec la composition des façades, en particulier pour celles
+donnant sur les emprises publiques ou voies.
+
+
+Toitures :
+
+Les combles et toitures doivent présenter une simplicité de volume et une unité de conception.
+
+Les dispositifs d’utilisation de l’énergie solaire positionnés en toiture devront être intégrés à la couverture
+et posés à fleur du matériau ; leur implantation doit être étudiée en relation avec le bâtiment ; les
+réservoirs des chauffe-eau solaires seront dissociés des capteurs et posés soit en intérieur, soit dans
+les cours ou jardins.
+
+Clôtures :                                                                                                        30
+Les clôtures ainsi que les portails participent à la qualité du paysage urbain. Pour ces raisons, elles
+doivent :
+- être traitées en harmonie avec la construction principale;
+- s’intégrer au paysage environnant, participer à la qualité des espaces publics, en prenant en compte
+les typologies des clôtures et l'ambiance paysagère du quartier;
+- en limite des secteurs naturels, dans leurs compositions, leurs dimensions et les matériaux employés,
+favoriser la biodiversité et les continuités écologiques ainsi que le respect du cycle naturel de l’eau.
+La clôture sur le domaine public ou dans les marges de recul imposées doit être de préférence réalisée
+à l'aide un dispositif à claire-voie posé le cas échéant sur un mur bahut de 0,6 m de hauteur maximum.
+Le tout ne peut excéder au total 2 m Cette clôture est de préférence doublée d'une haie arbustive
+d’essences variées.
+Si le projet proposé répond à une recherche architecturale cohérente, cette règle pourra ne pas être
+appliquées dans le cas de constructions ou installations nécessaires aux services publics ou d’intérêt
+collectif.
+L’emploi à nu de matériaux destinés à être recouverts (carreaux de plâtre, briques creuses, parpaings,
+etc...) est interdit.
+Dans les secteurs concernés par le PPRI (plan n° 8-3) les clôtures devront respecter les prescriptions
+ou interdictions édictées dans le règlement de la zone concernée.
+
+Dispositions diverses :
+
+L’aménagement de bâtiments existants à usage industriel pourra être subordonné à des conditions
+particulières d’aspect extérieur.
+Les citernes à gaz liquéfiés ou à mazout ainsi que les installations similaires seront implantées de telle
+manière qu’elles ne soient pas visibles de la voie publique.
+Toutefois pour les secteurs soumis aux risques d'inondation délimités au document graphique n° 8-3,
+et en vue de prévenir les risques de pollution des eaux, l'implantation des réservoirs simple enveloppe
+
+Pièce N° 7 - REGLEMENT
+Plan Local d’Urbanisme – Approuvé le 08/04/2004 – Révisé le 21/06/2012 - Modifié le 08 octobre 2015 et le 29
+septembre 2017 - Mis à jour le 14 mai 2018 – Modification simplifiée n°2 approuvée le 29 mars 2024
+
+enterrés pour le stockage des liquides inflammables est interdite. Tous les réservoirs enterrés devront
+être à double paroi acier, soit placés dans une fosse, tels que prescrits dans l'arrêté du 22 juin 1998
+relatif aux réservoirs enterrés de liquides inflammables et de leurs équipements annexes.
+
+
+ARTICLE UB 12 – STATIONNEMENT
+
+
+1 - Principes :
+Le stationnement des véhicules automobiles correspondant aux besoins des constructions et
+installations doit être assuré en dehors de la voie publique. A cet effet, il devra être réalisé sur le terrain
+propre à l’opération, ou dans son environnement proche, des aires de stationnement dont les normes
+sont définies ci-après.
+
+
+
+Le calcul des places de stationnement sera effectué dès la première tranche entamée, et en
+arrondissant à l’unité supérieure le résultat obtenu par application de la norme, dès que la première
+décimale est supérieure ou égale à 5. Les places commandées ne sont pas prises en compte pour le
+calcul réglementaire du nombre de places plancher à réaliser.
+
+En cas d’impossibilité technique ou architecturale de réaliser sur le terrain propre à l’opération le nombre
+d’emplacements requis, le constructeur pourra être tenu quitte de ces obligations en justifiant pour les
+places qu’il ne peut réaliser lui-même, soit de l’obtention d’une concession à long terme dans un parc
+public de stationnement existant ou en cours de réalisation et situé à proximité de l’opération, soit de
+l’acquisition de places dans un parc privé de stationnement répondant aux mêmes conditions.
+
+
+Chaque emplacement doit répondre aux caractéristiques minimales suivantes :
+                                                                                                                  31
+      -   longueur :                                5,00 mètres
+      -   largeur :                                 2,50 mètres
+      -   dégagement orthogonal :                   5,50 mètres
+
+       soit une surface moyenne d’environ 24 m² par emplacement, accès et dégagements compris.
+
+
+Les normes précisées ci-dessus ne s’appliquent pas aux projets de construction d’aires et parcs de
+stationnements ouverts au public dès lors qu’ils ne génèrent pas eux-mêmes de besoin en termes de
+stationnement, ainsi qu’aux constructions ou installations nécessaires aux services publics ou d’intérêt
+collectif.
+
+
+2 - Nombre d’emplacements
+
+   a) Constructions à usage d’habitat
+
+
+Il sera réalisé un emplacement par tranche de 55 m² de surface de plancher créés. En cas de
+changement de destination, il convient d’appliquer cette même règle, lorsque la transformation de la
+construction créée de nouveaux besoins non couverts par les places existantes et dans la seule mesure
+correspondant à ces besoins supplémentaires.
+
+En cas de réhabilitation d'immeubles, il sera exigé une place de stationnement par logement
+supplémentaire créé par rapport à l’existant.
+
+En cas de transformation d’un garage existant en pièce habitable d’une habitation, il conviendra de
+restituer le nombre de places de stationnement supprimées. En cas de transformation d’un garage
+existant en nouveaux logements, il conviendra de restituer une place de stationnement par logement
+créé ainsi que le nombre de places de stationnement supprimées.
+
+
+Pièce N° 7 - REGLEMENT
+Plan Local d’Urbanisme – Approuvé le 08/04/2004 – Révisé le 21/06/2012 - Modifié le 08 octobre 2015 et le 29
+septembre 2017 - Mis à jour le 14 mai 2018 – Modification simplifiée n°2 approuvée le 29 mars 2024
+
+En cas de travaux d’extension d’un logement existant, la réalisation de nouveaux emplacements de
+stationnement n’est pas exigée.
+
+
+Constructions à usage de logements sociaux : il pourra ne pas être exigé d’emplacements de
+stationnements dans le cadre d’opérations réalisées sur des ilots desservis par des axes de circulation
+supportant un réseau de transports en communs suffisant.
+
+Constructions de résidences thématiques destinées à population cible (résidences étudiantes,
+résidences-foyer, résidences intergénérationnelle, résidences pour personnes âgées, …) : le nombre
+de place de stationnement pourra être réduit à 1 place de stationnement pour 4 chambres.
+
+
+
+Stationnement des vélos : Chaque opération à vocation d’habitat devra prévoir un local ou un
+emplacement couvert affecté au stationnement des vélos et spécialement aménagé à cet effet. Il devra
+être facilement accessible depuis l’espace de desserte de l’immeuble. Il sera situé de préférence en
+rez-de-chaussée, ou à défaut, au 1er niveau de sous-sol dans le volume imparti au stationnement des
+véhicules. Il sera sécurisé et équipé de points d’ancrage.
+
+
+
+   b) Construction à destination hôtelière
+Il sera réalisé un emplacement de stationnement pour deux chambres.
+
+   c) Constructions à usage de bureaux privés ou publics :
+Une surface au moins égale à 30 % de la surface de plancher de la construction sera affectée au
+stationnement. En cas de changement de destination, il convient d’appliquer cette même règle, lorsque
+la transformation de la construction créée de nouveaux besoins non couverts par les places existantes
+et dans la seule mesure correspondant à ces besoins supplémentaires.                                           32
+
+Stationnement des vélos : Chaque opération à usage de bureaux devra prévoir un local ou un
+emplacement couvert affecté au stationnement des vélos et spécialement aménagé à cet effet. Il devra
+être facilement accessible depuis l’espace de desserte de l’immeuble. Il sera situé de préférence en
+rez-de-chaussée, ou à défaut, au 1er niveau de sous-sol dans le volume imparti au stationnement des
+véhicules. Il sera sécurisé et équipé de points d’ancrage.
+
+   d) Constructions à usage commercial :
+
+Une surface au moins égale à 30% de la surface de plancher de la construction sera affectée au
+stationnement, dès lors que la surface de plancher créée est supérieure ou égale à 200 m². Pour les
+commerces ayant une surface de plancher inférieure à 200m², aucune place de stationnement n’est
+exigible.
+
+En cas de changement de destination, il convient d’appliquer cette même règle, lorsque la
+transformation de la construction créée de nouveaux besoins non couverts par les places existantes et
+dans la seule mesure correspondant à ces besoins supplémentaires.
+
+Il ne sera pas exigé d’emplacements de stationnement supplémentaires en cas d’extension de la
+surface commerciale à l’intérieur du volume bâti.
+
+
+
+Rappel Article L.111-19 du Code de l’Urbanisme : l’emprise au sol des surfaces bâties ou non, affectées
+aux aires de stationnement annexes d’un commerce soumis à l’autorisation d’exploitation commerciale
+prévue aux 1° et 4° du I de l’article L.752-1 du Code de Commerce, ne peut excéder un plafond
+correspondant aux ¾ de la surface de plancher des bâtiments affectés au commerce.
+Les espaces paysagers en pleine terre, les surfaces des aménagements relevant de l'article L. 3114-1
+du code des transports, les surfaces réservées à l'auto-partage et les places de stationnement destinées
+à l'alimentation des véhicules électriques ou hybrides rechargeables sont déduits de l'emprise au sol
+
+Pièce N° 7 - REGLEMENT
+Plan Local d’Urbanisme – Approuvé le 08/04/2004 – Révisé le 21/06/2012 - Modifié le 08 octobre 2015 et le 29
+septembre 2017 - Mis à jour le 14 mai 2018 – Modification simplifiée n°2 approuvée le 29 mars 2024
+
+des surfaces affectées au stationnement. La surface des places de stationnement non imperméabilisées
+compte pour la moitié de leur surface.
+
+
+   e) Constructions à usage industriel, artisanal ou d’entrepôt
+
+Les emplacements de stationnements nécessaires au fonctionnement de ces activités seront réalisés
+en dehors des voies et emprises publiques. Leur nombre sera apprécié en fonction de la destination
+des bâtiments et des différentes activités exercées à l’intérieur de ceux-ci.
+
+En outre, il devra être aménagé une surface suffisante pour le stationnement et l’évolution des camions
+et véhicules utilitaires divers.
+
+
+   f) Constructions destinées au fonctionnement d’un service public ou équipement d’intérêt
+   collectif :
+Les obligations en matière de stationnement seront à déterminer en fonction de la capacité d’accueil,
+de l’offre en matière de transports collectifs, ainsi que des possibilités de stationnement public offertes
+à proximité directe.
+
+
+
+
+ARTICLE UB 13 – ESPACES LIBRES – PLANTATIONS – ESPACES BOISES
+
+
+Les espaces libres doivent être végétalisés sur un minimum de 40% de leur superficie et plantés d'au
+moins un arbre de haute tige / 200 m² de surface végétalisée. Le nombre d’arbres haute tige à planter
+sera calculé par tranche entamée.                                                                              33
+
+La règle ci-dessus s’applique à tous les projets de construction et à tous les aménagements, à
+l’exception de ceux portant sur le domaine public.
+
+Les autres plantations existantes hors de l'emprise de la construction projetée doivent être maintenues
+ou remplacées par des plantations équivalentes.
+Les aires de stationnement en surface comportant plus de quatre emplacements doivent être plantées
+à raison d’au moins un arbre pour 100 m² de la superficie affectée à cet usage. Ces plantations seront
+organisées selon un projet paysagé adapté.
+La clôture prévue à l’article 11 du présent règlement en ce qui concerne les établissements industriels
+ou les dépôts, sera doublée, si elle n’est pas totalement opaque, d’une rangée de plantations de basses
+tiges susceptible de créer un masque de visibilité jusqu’à une hauteur de 2 mètres, sous réserve, le
+cas échéant, du respect de la réglementation édictée dans le PPRI.
+Ces dispositions s’appliquent de manière cumulative.
+
+
+SECTION III : POSSIBILITES D'OCCUPATION DU SOL
+ARTICLE UB 14 – POSSIBILITES MAXIMALES D'OCCUPATION DU SOL
+NON REGLEMENTE
+
+
+
+
+Pièce N° 7 - REGLEMENT
+                    TerrenUrbanisme
+
+    Merci de votre confiance
+Ce rapport a été établi à partir des sources publiques officielles pour vous
+  aider à décider en connaissance de cause. Pour toute question, nous
+                        restons à votre disposition.
+
+
+
+
+   Vous êtes professionnel ? Travaillons ensemble
+      Agents immobiliers, notaires, architectes, géomètres, diagnostiqueurs,
+promoteurs, mairies : faisons équipe. Crédits professionnels sans abonnement, 5
+€ le rapport dès 50 crédits, votre logo sur les rapports, offre communale pour les
+                       mairies et partenariats sur mesure.
+
+               Écrivez-nous : contact@terrenurbanisme.com
+
+
+
+
+                        terrenurbanisme.com
+                         contact@terrenurbanisme.com
+

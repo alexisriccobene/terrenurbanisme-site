@@ -1,0 +1,3191 @@
+                  TerrenUrbanisme
+                  Le terrain constructible, partout en France
+
+
+
+
+RAPPORT D'URBANISME
+
+
+
+Brive-la-Gaillarde
+Section DT · Parcelle n° 436
+      Non constructible
+
+
+
+
+Référence cadastrale                                                        Surface cadastrale
+19031000DT0436                                                              1 923 m²
+
+Rapport établi le                                                           Référence du rapport
+20/11/2026                                                                  APERCU
+
+
+
+
+terrenurbanisme.com                                                                      contact@terrenurbanisme.com
+
+Document d'information sans valeur contractuelle ni réglementaire. Il ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme
+et ne peut en aucun cas être joint à une demande de permis de construire ou de déclaration préalable. Seuls les actes de l'administration font foi.
+                                                                                                                           Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                                                         Sommaire
+
+
+
+
+Sommaire
+Le rapport suit l'ordre d'une étude de terrain : où se trouve la parcelle, ce que dit la règle, ce qui pèse sur le
+projet, puis les démarches.
+
+              Synthèse
+   S                                                                                                                                             p. 3
+              Le verdict, les indicateurs clés et les points d'attention en une page.
+
+              Identification de la parcelle
+   01                                                                                                                                           p. 4
+              Localisation, surface, références cadastrales et voisinage du terrain.
+
+              Règles d'urbanisme applicables
+  02                                                                                                                                             p. 7
+              Document d'urbanisme, zone du terrain, prescriptions et servitudes.
+
+              Ce que vous pouvez construire
+  03                                                                                                                                             p. 9
+              Surface constructible, hauteur, reculs, aspect et usages autorisés.
+
+              Loi Littoral et loi Montagne
+  04                                                                                                                                           p. 15
+              Les lois qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+              Risques naturels et technologiques
+  05                                                                                                                                           p. 16
+              Inondation, feu de forêt, argiles, catastrophes naturelles et sites pollués.
+
+              Le terrain : accès, relief et réseaux
+  06                                                                                                                                           p. 19
+              Accès, pente, ensoleillement, eaux usées, électricité, eau et fibre.
+
+              Conditions de vente du terrain
+  07                                                                                                                                           p. 26
+              Terrain agricole ou naturel : SAFER, fermier en place et repère officiel de prix.
+
+              Environnement et marché immobilier
+  08                                                                                                                                           p. 28
+              Espaces naturels, espèces protégées et ventes immobilières alentour.
+
+              Historique du site
+  09                                                                                                                                           p. 31
+              Le terrain vu du ciel au fil des années et les permis accordés autour.
+
+              Opportunités autour du terrain
+   10                                                                                                                                          p. 33
+              Grands terrains peu bâtis et logements énergivores à proximité.
+
+              Votre projet, étape par étape
+   11                                                                                                                                          p. 35
+              De l'achat aux impôts : démarches, délais, coûts, contacts et taxe.
+
+              État des risques (ERP) pré-rempli
+   12                                                                                                                                          p. 40
+              Le formulaire réglementaire à remettre à l'acquéreur, pré-rempli.
+
+              Avertissement et sources
+   13                                                                                                                                          p. 42
+              La portée de ce rapport et les sources publiques consultées.
+
+              Annexe : règlement de la zone
+   A                                                                                                                                           p. 45
+              Les pages officielles du règlement de la zone, telles qu'approuvées.
+
+
+
+
+Astuce : cliquez sur un chapitre pour y accéder directement.
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           2 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                                                             Synthèse
+
+
+
+
+Synthèse
+     Document d'information. Ce rapport ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme,
+     n'engage pas l'administration et ne peut pas servir de pièce à une demande de permis de construire.
+     L'appréciation ci-dessous est indicative : seule la mairie se prononce sur la constructibilité d'un terrain,
+     au vu d'un projet précis.
+
+
+
+
+       NON CONSTRUCTIBLE
+
+       Ce terrain n'est pas constructible en l'état
+       La parcelle est classée en zone N (naturelle et forestière) du plan local d'urbanisme de
+       Brive-la-Gaillarde. Les constructions nouvelles n'y sont pas admises, sauf exceptions
+       encadrées.
+
+
+
+
+      Zone principale                                        Document d'urbanisme                                  Loi Littoral
+
+   N · 100 %                                              PLU                                                    Ne s'applique pas
+
+
+
+
+      Loi Montagne                                           Risques à la parcelle
+
+   Ne s'applique pas                                      Séisme ·
+                                                          Retrait-gonflement des
+
+
+
+
+Points d'attention
+    Zone N (100 % de la parcelle) : non constructible.
+    Terrain en pente marquée (environ 43 %) : surcoût probable de terrassement.
+    Logement : le règlement de la zone N n'admet pas de logement neuf, sauf exceptions prévues par la
+    zone (logement de gardiennage, par exemple) : voir le chapitre « Ce que vous pouvez construire ».
+    Retrait-gonflement des argiles (exposition moyenne) : en cas de vente d'un terrain non bâti
+    constructible, le vendeur doit fournir une étude géotechnique préalable (loi ELAN, article L. 132-5 du
+    Code de la construction et de l'habitation) ; une étude géotechnique de conception est exigée avant
+    de construire.
+    17 arrêtés de catastrophe naturelle sur la commune.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              3 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+    01             Identification de la parcelle
+     DANS CETTE SECTION
+
+     Où se trouve le terrain, sa surface, ses références cadastrales, son propriétaire lorsqu'il s'agit
+     d'une société ou d'une collectivité, et la performance énergétique du bâti existant.
+
+
+Données du cadastre (DGFiP) et de l'IGN.
+
+
+     Plan de situation
+
+
+
+
+                                                                                                                            1 km
+
+
+
+Plan IGN · © IGN
+
+
+
+     Vue aérienne et plan cadastral
+
+
+
+
+                                                                                                                             100 m
+
+
+
+Photographie aérienne et plan cadastral · © IGN
+
+
+Commune                                                  Brive-la-Gaillarde (19031)
+
+Département                                              Corrèze (19)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            4 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+Section et numéro                                        Section DT, parcelle n° 436, feuille 1
+
+Identifiant cadastral                                    19031000DT0436
+
+Surface cadastrale                                       1 923 m²
+
+Surface calculée (SIG)                                   1 935 m² · périmètre 289 m
+
+Coordonnées du centre                                    45.14474 N, 1.51451 E (WGS 84)
+
+Altitude                                                 de 177 à 190 m
+
+Pente estimée                                            43 % (terrain en pente marquée)
+
+Parcelles voisines                                       DT 407, DT 474, DT 155, DT 386, DT 412, DT 414, DT 416, DT 460, DT
+                                                         473
+
+
+Le plan cadastral est un document fiscal : il ne fait pas foi des limites de propriété. Seul un bornage réalisé par un
+géomètre-expert fixe les limites de manière certaine.
+
+
+1.1 Propriétaire et voisinage
+La parcelle ne figure pas au fichier des personnes morales : son propriétaire est vraisemblablement un
+particulier. Le nom des propriétaires particuliers n'est pas public ; il peut être demandé au service des impôts
+fonciers (relevé de propriété) ou obtenu par l'intermédiaire d'un notaire.
+
+Parcelles voisines détenues par des sociétés ou des collectivités
+  PARCELLE              PROPRIÉTAIRE                                                                     SURFACE            SIREN
+
+  DT 460                COMMUNE DE BRIVE LA GAILLARDE (COM)                                              6 323 m²           211903109
+
+
+
+Principaux propriétaires personnes morales dans un rayon de 280 m
+  PROPRIÉTAIRE                                                              PARCELLES             SURFACE TOTALE            SIREN
+
+  OFFICE PUBLIC DE L'HABITAT PAYS DE BRIVE                                  3                     4 076 m²                  271903106
+  (EPIC)
+
+  ASS LOCALE POUR LE CULTE DES TEMOINS DE                                   2                     3 025 m²                  –
+  JEHOVAH DE BRIVE (AUPM)
+
+  COMMUNE DE BRIVE LA GAILLARDE (COM)                                       14                    1 544 m²                  211903109
+
+
+
+Source : fichiers des parcelles des personnes morales (DGFiP) : sociétés, SCI, collectivités, établissements publics et associations.
+Les propriétaires personnes physiques n'y figurent pas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            5 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+1.2 La commune de Brive-la-Gaillarde
+Code postal                                              19100
+
+Département                                              Corrèze (19)
+
+Intercommunalité                                         CA du Bassin de Brive
+
+Population                                               47 095 habitants
+
+Superficie                                               48,65 km²
+
+Densité                                                  968 habitants par km²
+
+Commune littorale                                        Non
+
+Commune de montagne                                      Non
+
+Document d'urbanisme                                     Plan local d'urbanisme (PLU)
+
+Risques sur la commune                                   17 arrêtés de catastrophe naturelle · détail en section Risques et en
+                                                         annexe
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            6 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+    02             Règles d'urbanisme applicables
+     DANS CETTE SECTION
+
+     Le document d'urbanisme de la commune, la zone dans laquelle se trouve le terrain, et les
+     prescriptions et servitudes qui s'y ajoutent.
+
+
+Géoportail de l'Urbanisme : zonage, prescriptions et servitudes.
+
+
+
+2.1 Document d'urbanisme en vigueur
+Type de document                                         Plan local d'urbanisme (PLU)
+
+Date d'approbation                                       Non renseigné
+
+Statut                                                   Publié au Géoportail de l'Urbanisme
+
+Règlement officiel                                       Ouvrir le document officiel (PDF)
+
+
+
+     Plan de zonage du PLU
+
+
+
+
+                                                                                     N
+
+
+
+
+                                                                                                                              100 m
+
+
+
+Zonage : Géoportail de l'Urbanisme · fond : © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           7 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.2 Zonage de la parcelle
+  ZONE                  DÉSIGNATION                                                         PART               CONSTRUCTIBILITÉ
+
+  N                     N : Secteurs naturels stricts                                       100 %              Non constructible
+
+
+
+Zone N · Naturelle et forestière
+Zone naturelle et forestière : secteur protégé en raison de la qualité des sites, des milieux naturels et des
+paysages, ou de son caractère d'espace naturel. Les constructions nouvelles n'y sont pas admises, sauf
+exceptions encadrées (équipements publics, extension limitée des habitations existantes, secteurs de taille et
+de capacité limitées).
+
+
+2.3 Prescriptions applicables à la parcelle
+  PRESCRIPTION                                                                                       TYPE
+
+  Espace Boisé Classé (EBC) (art.L.113-1 du Code de l'Urbanisme)                                     Espace boisé classé (EBC)
+
+
+
+
+2.4 Informations complémentaires du PLU
+  INFORMATION                                                                                        TYPE
+
+  Règlement local de publicité - zone 3                                                              Information du PLU (type 20)
+
+  Zone d'assainissement non collectif                                                                Information du PLU (type 19)
+
+  Site archéologique - Planchetorte / Courolle                                                       Information du PLU (type 16)
+
+
+
+
+2.5 Servitudes d'utilité publique
+Aucune servitude d'utilité publique numérisée n'est recensée sur la parcelle au Géoportail de l'Urbanisme. Les
+servitudes non encore numérisées figurent en annexe du PLU.
+
+
+2.6 Patrimoine : l'architecte des Bâtiments de France
+Aucun site patrimonial remarquable, site classé ou inscrit, ni monument historique à moins de 500 m n'est
+recensé : l'avis de l'architecte des Bâtiments de France n'est pas requis au titre du patrimoine.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           8 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    03             Ce que vous pouvez construire
+     DANS CETTE SECTION
+
+     La lecture du règlement de votre zone : surface constructible estimée, hauteur, reculs, aspect,
+     usages autorisés ou interdits, avec les extraits du texte officiel.
+
+
+Lecture du règlement écrit de la zone N, pages 136 à 147 du règlement officiel.
+
+
+
+3.1 Potentiel constructible estimé
+     Le règlement de la zone N n'admet pas de construction nouvelle à usage de logement. Seules restent
+     possibles les constructions expressément admises par la zone et les évolutions encadrées des
+     constructions existantes : extension limitée à 50 % de l'emprise existante, dans la limite de 250 m²,
+     annexes de 50 m² au plus.
+
+
+
+Constructions admises dans la zone :
+
+    Les constructions nécessaires aux services publics et les installations d'intérêt général.
+    Les constructions et installations nécessaires à l'exploitation forestière.
+    Les affouillements et exhaussements du sol liés aux travaux agricoles, aux constructions et aux occupations du
+    sol admises dans la zone, ainsi que leur accès.
+    Les extensions et les annexes des constructions existantes à usage d'habitation, dès lors qu'elles ne
+    compromettent pas l'activité agricole ou la qualité paysagère du site (dans les limites de surface fixées aux
+    articles N8 et N9).
+
+
+3.2 Caractère de la zone
+La zone N correspond aux espaces naturels de la commune, protégés en raison de la qualité des sites,
+des milieux naturels, des paysages ou de leur intérêt historique. Le secteur N, dit « strict », a une
+vocation strictement naturelle et paysagère. Il rassemble les espaces boisés et les espaces entretenus
+par l'agriculture, où une construction (habitation ou exploitation) aurait un fort impact visuel ou
+environnemental. La zone est soumise au risque d'inondation et peut l'être à l'aléa mouvement de terrain.
+
+
+3.3 Règles de construction
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                   ARTICLE
+
+  Surface minimale ou                          Non réglementé.                                                                    art. N5
+  caractéristiques du terrain
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           9 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                   ARTICLE
+
+  Accès et voirie                              Le terrain doit avoir accès à une voie publique ou privée                          art. N3
+                                               ouverte au public, directement ou par un passage aménagé sur
+                                               fonds voisin (art. 682 du Code civil). Les voies doivent
+                                               permettre l'approche du matériel de lutte contre l'incendie, le
+                                               passage des véhicules de ramassage des ordures ménagères,
+                                               de nettoiement et de viabilité hivernale. Les voies en impasse
+                                               doivent comporter à leur extrémité une plateforme de
+                                               demi-tour. La création d'une voie nouvelle doit limiter au
+                                               maximum l'impact visuel dans le paysage.
+
+  Réseaux et assainissement                    Eau potable : raccordement obligatoire au réseau collectif de                      art. N4
+                                               distribution pour toute construction nécessitant de l'eau
+                                               potable. Eaux usées : raccordement au réseau collectif
+                                               d'assainissement, avec demande d'autorisation auprès des
+                                               Services Techniques de l'Agglomération de Brive-La-Gaillarde.
+                                               En l'absence de réseau collectif, le traitement autonome des
+                                               eaux vannes et usées est autorisé. Eaux pluviales : ne pas
+                                               accroître les débits par rapport à l'état actuel
+                                               d'imperméabilisation, avec rétention à la parcelle pour
+                                               compenser les nouvelles imperméabilisations. Réseaux
+                                               électriques et de télécommunication enterrés, sauf incapacité
+                                               technique. Autres réseaux enterrés, sauf impératif technique
+                                               justifié.
+
+  Implantation par rapport                     Non réglementé dans le secteur N. Hors espaces urbanisés,                          art. N6
+  aux voies                                    interdiction de construire dans une bande de 100 m de part et
+                                               d'autre de l'A20 et de 75 m de part et d'autre de la RD1089 et de
+                                               la RD920. RD38 : recul de 35 m pour les habitations et de 25 m
+                                               pour les autres constructions hors agglomération. Routes
+                                               départementales de deuxième catégorie (RD57, RD59, RD74,
+                                               RD154, RD170) : recul de 10 m pour les habitations hors
+                                               agglomération.
+
+  Implantation par rapport                     Non réglementé dans le secteur N.                                                  art. N7
+  aux limites séparatives
+
+  Implantation des                             Non réglementé pour les constructions dans le secteur N. Les                       art. N8
+  constructions entre elles                    annexes sont situées sur l'unité foncière de l'habitation dont
+                                               elles dépendent, à 10 m maximum des murs extérieurs de
+                                               l'habitation principale (piscines : 20 m maximum ; abris de
+                                               jardin de 20 m² maximum et abris pour animaux hors activité
+                                               agricole principale : 50 m maximum).
+
+  Emprise au sol                               Non réglementé pour les constructions. Annexe (hors piscines,                      art. N9
+                                               abris de jardin, abris pour animaux) : 50 m² maximum
+                                               d'emprise au sol. Abri de jardin : 20 m² maximum. En cas de
+                                               plusieurs annexes sur la même unité foncière : 3 annexes au
+                                               maximum pour 70 m² d'emprise totale. Extensions d'habitation
+                                               limitées à 50 % de la surface de plancher existante, sans
+                                               dépasser 250 m² de surface de plancher totale (150 m² si la
+                                               surface existante est inférieure à 100 m²).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          10 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                   ARTICLE
+
+  Hauteur maximale                             Non réglementé pour les constructions dans le secteur N. Les                       art. N10
+                                               annexes sont limitées à un seul niveau. La hauteur des
+                                               extensions au faîtage doit être inférieure ou égale à celle de la
+                                               construction principale, ou égale à 4 m à l'acrotère en cas de
+                                               toiture terrasse. Ces dispositions ne s'appliquent pas aux
+                                               ouvrages nécessaires aux services publics.
+
+  Aspect extérieur et toitures                 Les constructions doivent respecter le caractère et l'intérêt                      art. N11
+                                               des ensembles paysagers et bâtis. Façades : simplicité de
+                                               composition, pierre naturelle à privilégier. Toitures : en règle
+                                               générale en ardoises naturelles, pentes symétriques de 35°
+                                               minimum (70 %). Les éléments particuliers (pavillons, combles
+                                               à brisis) peuvent être refusés s'ils sont disproportionnés. En
+                                               architecture contemporaine et sous réserve d'une bonne
+                                               intégration : couvertures métalliques de pente 35° minimum,
+                                               terrasson en retrait derrière l'acrotère, toitures-terrasses
+                                               accessibles ou plantées. Capteurs solaires en toiture autorisés
+                                               sous conditions (teinte gris foncé ardoise, encastrés, dessin
+                                               simple). Remblais limités à 2 m de hauteur, plantés et
+                                               végétalisés ; enrochements visibles proscrits.
+
+  Matériaux et couleurs                        Interdits : toute expression architecturale, matériau ou                           art. N11
+                                               peinture d'imitation, placage de pierres étrangers au style de la
+                                               région ; emploi à nu de matériaux destinés à être recouverts
+                                               (parpaings, briques creuses) ; polychromies et teintes vives et
+                                               brillantes ; emploi du blanc pur en grandes surfaces.
+                                               Association d'autres matériaux de façade possible en
+                                               architecture contemporaine, en respectant le nuancier façades
+                                               de la Ville.
+
+  Clôtures                                     Les murs en pierre existants doivent être conservés et                             art. N11
+                                               restaurés. Les clôtures doivent être proportionnées aux
+                                               constructions existantes ou projetées et en cohérence avec le
+                                               bâti et les structures paysagères. Sur domaine public : 1,80 m
+                                               maximum, mur bahut de 0,80 m maximum surmonté d'une
+                                               grille ou d'un grillage doublé d'une haie vive. Portails d'accès
+                                               en retrait de 5,00 m minimum à l'intérieur de l'unité foncière.
+
+  Stationnement                                Non précisé dans le règlement du secteur N (l'article N12 ne                       art. N12
+                                               fixe de règles que pour les secteurs Nh, Nl, Nr et Nx).
+
+  Espaces verts et plantations                 Pas de pourcentage d'espaces verts imposé. Tout projet de                          art. N13
+                                               construction doit être accompagné d'un projet d'aménagement
+                                               des espaces libres et des plantations. Toutes les plantations ou
+                                               surfaces boisées existantes doivent être conservées et
+                                               entretenues. Les espaces boisés classés sont soumis à l'article
+                                               L130-1 du Code de l'urbanisme. Les éléments végétaux repérés
+                                               au titre de l'article L123-1-5 7° sont gérés selon les
+                                               prescriptions annexées.
+
+  Densité ou coefficient                       Non réglementé.                                                                    art. N14
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           11 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.4 Usages autorisés
+    Les constructions nécessaires aux services publics et les installations d'intérêt général.
+    Les constructions et installations nécessaires à l'exploitation forestière.
+    Les affouillements et exhaussements du sol liés aux travaux agricoles, aux constructions et aux
+    occupations du sol admises dans la zone, ainsi que leur accès.
+    Les extensions et les annexes des constructions existantes à usage d'habitation, dès lors qu'elles ne
+    compromettent pas l'activité agricole ou la qualité paysagère du site (dans les limites de surface fixées aux
+    articles N8 et N9).
+    La reconstruction à l'identique après sinistre (dispositions générales, art. 11), dans le respect des servitudes
+    d'utilité publique.
+
+
+3.5 Usages interdits ou soumis à conditions
+    Sont interdites toutes les occupations et utilisations du sol non mentionnées à l'article N2, notamment les
+    logements nouveaux, les constructions agricoles neuves et les constructions de toute autre nature.
+    Les extensions d'habitation sont limitées à 50 % de la surface de plancher existante, sans dépasser 250 m²
+    de surface de plancher totale. Si la surface de plancher existante est inférieure à 100 m², la surface de
+    l'ensemble peut être portée à 150 m² maximum.
+    Les annexes doivent être situées sur l'unité foncière de l'habitation, à 10 m maximum des murs extérieurs
+    de l'habitation (20 m pour les piscines, 50 m pour les abris de jardin et les abris pour animaux hors activité
+    agricole principale).
+    Les annexes sont limitées à 50 m² d'emprise au sol (abri de jardin : 20 m²), à 3 annexes au maximum et 70
+    m² d'emprise totale par unité foncière. Elles ne peuvent pas être transformées en logement.
+    Dans les secteurs soumis à un risque, il faut se référer au Plan de Prévention des Risques. Dans les
+    secteurs soumis à l'aléa mouvement de terrain, les déblais et remblais sont limités à 1 m.
+    Les travaux modifiant ou supprimant un élément identifié au titre de l'article L123-1 pour son intérêt
+    patrimonial ou paysager sont soumis à déclaration préalable. La démolition d'une construction identifiée
+    est soumise à permis de démolir.
+    Hors espaces urbanisés, les constructions et installations autorisées sont interdites dans une bande de 100
+    m de part et d'autre de l'axe de l'A20 et de 75 m de part et d'autre de l'axe de la RD1089 et de la RD920
+    (article L111-1-4).
+
+
+3.6 Points de vigilance pour votre projet
+    Vérifier que le projet relève bien de l'article N2 : toute construction nouvelle d'habitation, d'activité ou
+    agricole est interdite dans le secteur N strict.
+    Pour une extension ou une annexe d'habitation, vérifier l'existence d'un bâtiment d'habitation, les plafonds
+    de surface (50 % d'extension, 250 m² de surface de plancher totale ; annexes 50 m², 3 annexes et 70 m² au
+    total) et la distance maximale de 10 m (20 m pour une piscine, 50 m pour un abri de jardin).
+    Consulter le plan de zonage : espaces boisés classés, éléments protégés au titre de l'article L123-1-5 7°,
+    arbres remarquables (recul de 4 m par rapport au houppier), emplacements réservés.
+    Consulter les plans de prévention des risques (inondation) et la cartographie des mouvements de terrain
+    annexée : étude géotechnique NF P 94-500 exigée en zone de glissement superficiel ; déblais et remblais
+    limités à 1 m dans les secteurs d'aléa.
+    Vérifier la proximité de l'A20, de la RD1089, de la RD920 et des routes départementales (marges de recul).
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          12 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    Vérifier le raccordement aux réseaux : en l'absence de réseau d'assainissement collectif, un dispositif
+    autonome conforme aux normes est exigé.
+    Vérifier l'impact paysager et agricole : l'extension ou l'annexe ne doit pas compromettre l'activité agricole
+    ou la qualité paysagère du site.
+    Les règles d'implantation, de hauteur et de stationnement du secteur N sont peu ou pas précisées :
+    l'instruction se fera au regard de l'insertion paysagère (article R111-21 rappelé dans les dispositions
+    générales).
+
+
+3.7 Extraits du règlement
+
+     art. N1 · page 136
+     « Les occupations et utilisations du sol non mentionnées à l'article N2. »
+
+
+     art. N2 · page 136
+     « Les constructions nécessaires aux services publics ainsi que les installations d'intérêt général. »
+
+
+     art. N2 · page 136
+     « Les constructions et installations nécessaires à l'exploitation forestière. »
+
+
+     art. N4 · page 139
+     « En l'absence d'un réseau d'assainissement collectif, le traitement des eaux vannes et usées est
+     autorisé en traitement autonome. »
+
+
+     art. N9 · page 141
+     « Les extensions des constructions existantes à usage d'habitation seront limitées à 50 % de la surface
+     de plancher du bâtiment existant sans dépasser 250 m² de surface de plancher totale. »
+
+
+
+3.8 Démarches probables
+    Permis de construire ou déclaration préalable selon la surface créée pour une extension ou une annexe
+    (seuils du Code de l'urbanisme).
+    Déclaration préalable pour les travaux touchant un élément protégé au titre de l'article L123-1-5 7° ; permis
+    de démolir pour toute démolition (obligatoire sur l'ensemble du territoire communal).
+    Déclaration préalable pour les clôtures si le conseil municipal a décidé de les soumettre à déclaration, et
+    pour les affouillements et exhaussements de plus de 2 m et de 100 m² ou plus.
+    Autorisation de défrichement ou de coupe et abattage dans les espaces boisés classés (articles L130-1 et
+    suivants).
+    Demande de raccordement auprès de l'Agglomération de Brive-La-Gaillarde ou conception d'un
+    assainissement autonome avec étude de sol.
+    Permission de voirie auprès du Département pour tout accès sur route départementale.
+    Consultation éventuelle du service régional de l'archéologie dans les zones de présomption de
+    prescriptions archéologiques.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          13 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+     Cette lecture est établie automatiquement, par intelligence artificielle, à partir du règlement officiel en
+     vigueur. Elle peut comporter des imprécisions : seul le texte du règlement, reproduit en annexe (pages
+     136 à 147 du document approuvé), fait foi, avec les dispositions générales, les orientations
+     d'aménagement et les servitudes.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          14 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                                    04 · Loi Littoral et loi Montagne
+
+
+
+
+   04              Loi Littoral et loi Montagne
+     DANS CETTE SECTION
+
+     Les lois nationales qui s'ajoutent au document d'urbanisme sur le littoral et en montagne. Elles
+     peuvent rendre un terrain inconstructible même en zone constructible.
+
+
+Les lois d'aménagement qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+
+
+4.1 Loi Littoral
+Commune littorale                                        Non
+
+Distance au rivage                                       Sans objet
+
+Bande des 100 mètres                                     Sans objet
+
+
+La commune n'est pas riveraine de la mer : la loi Littoral ne s'applique pas (sauf rives de grands lacs).
+
+
+4.2 Loi Montagne
+Commune en zone de montagne                              Non
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           15 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+   05              Risques naturels et technologiques
+     DANS CETTE SECTION
+
+     Les risques connus à l'adresse du terrain (inondation, feu de forêt, mouvement de terrain,
+     radon…) et les catastrophes naturelles reconnues sur la commune.
+
+
+Base nationale Géorisques (ministère de la Transition écologique).
+
+
+
+5.1 Risques naturels à l'adresse de la parcelle
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Inondation                                      Non connu                                       Existant
+
+  Remontée de nappe                               Non connu                                       Existant
+
+  Séisme                                          Existant – faible                               Existant – faible
+
+  Mouvement de terrain                            Non connu                                       Existant
+
+  Retrait-gonflement des                          Existant – modéré                               Existant – important
+  argiles
+
+  Feu de forêt                                    Non connu                                       Existant
+
+  Radon                                           Existant – important                            Existant – important
+
+
+
+
+5.2 Risques technologiques
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Installations industrielles                     Non concerné                                    Concerné
+  (ICPE)
+
+  Canalisations de matières                       Non concerné                                    Concerné
+  dangereuses
+
+  Pollution des sols                              Non connu                                       Concerné
+
+  Rupture de barrage                              Inconnu                                         Concerné
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          16 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.3 Indicateurs réglementaires
+Zone de sismicité                                        Zone 1 – très faible
+
+Potentiel radon                                          Catégorie 3 (potentiel significatif)
+
+Retrait-gonflement des argiles                           Existant – modéré
+
+Plans de prévention (PPR)                                CORREZE
+
+
+
+5.4 Arrêtés de catastrophe naturelle
+17 arrêtés de reconnaissance de l'état de catastrophe naturelle concernent la commune.
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Sécheresse                                                                31/12/2024 au 30/12/2025                       12/06/2026
+
+  Sécheresse                                                                01/07/2022 au 31/12/2022                       14/09/2023
+
+  Sécheresse                                                                01/07/2020 au 30/09/2020                       06/06/2021
+
+  Sécheresse                                                                01/07/2019 au 30/09/2019                       12/06/2020
+
+  Sécheresse                                                                01/07/2018 au 31/12/2018                       09/08/2019
+
+  Inondations et/ou Coulées de Boue                                         03/06/2018                                     20/10/2018
+
+  Inondations et/ou Coulées de Boue                                         24/06/2016                                     29/04/2017
+
+  Sécheresse                                                                01/04/2011 au 30/06/2011                       17/07/2012
+
+  Inondations et/ou Coulées de Boue                                         03/07/2010                                     05/12/2010
+
+  Inondations et/ou Coulées de Boue                                         05/07/2001 au 06/07/2001                       11/08/2001
+
+  Inondations et/ou Coulées de Boue                                         25/12/1999 au 29/12/1999                       30/12/1999
+
+  Mouvement de Terrain                                                      25/12/1999 au 29/12/1999                       30/12/1999
+
+  Mouvement de Terrain                                                      21/02/1995                                     03/08/1995
+
+  Inondations et/ou Coulées de Boue                                         21/12/1993 au 12/01/1994                       29/04/1994
+
+  Sécheresse                                                                01/05/1989 au 30/09/1990                       29/12/2000
+
+  Tempête                                                                   06/11/1982 au 10/11/1982                       19/11/1982
+
+  Inondations et/ou Coulées de Boue                                         06/11/1982 au 10/11/1982                       19/11/1982
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          17 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.5 Installations classées à proximité (moins de 1 km)
+    BERGSON GARAGE M. DEMNATI · Non ICPE
+    RUISSEAU LE PIAN · Non ICPE
+    CARREFOUR HYPERMARCHE · Autres régimes
+    POUZAUD MICHEL · Non ICPE
+    LACOMBE ECOBOIS · Non ICPE
+    RECUPER'AUTO BRIVE - JALADI · Enregistrement · En exploitation avec titre
+    SCEA PORCILIM · Enregistrement · En exploitation avec titre
+    DISTRICASH ACCESSOIRES JPA · Autres régimes
+
+
+5.6 Sites et sols pollués à proximité
+    Exploitation de carrière de grès à ciel ouvert · ancien site industriel ou d'activité de service (CASIAS)
+    Compagnies Réunies de Gaz et d'Electricité. · ancien site industriel ou d'activité de service (CASIAS)
+    LA MECANIQUE GENERALE DE BRIVE · ancien site industriel ou d'activité de service (CASIAS)
+    FABRIQUE DE CLOTURE · ancien site industriel ou d'activité de service (CASIAS)
+    CARRIERES JEANSAVI LAVAGE DE SABLE · ancien site industriel ou d'activité de service (CASIAS)
+    2 anciens sites industriels ou d'activités de service (CASIAS) recensés
+    ALVEA · site pollué en cours d'instruction
+    SITA SUD-OUEST ex MGB3000 · site pollué en cours d'instruction
+    2 secteurs d'information sur les sols (SIS) recensés
+
+
+5.7 Rapport officiel Géorisques
+Les risques recensés ci-dessus proviennent des bases officielles de Géorisques, service public d'information
+sur les risques. Le rapport officiel complet peut être édité gratuitement, à tout moment et à jour, à partir de
+l'adresse du terrain sur le site Géorisques.
+
+
+    Éditer le rapport officiel Géorisques
+
+
+Lors d'une vente ou d'une location, le vendeur ou le bailleur doit remettre un état des risques de moins de six mois,
+complété et signé, et l'information sur les sinistres indemnisés au titre des catastrophes naturelles.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          18 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+   06              Le terrain : accès, relief et réseaux
+     DANS CETTE SECTION
+
+     Les contraintes physiques du terrain : accès à une voie, pente et exposition, assainissement,
+     raccordement à l'électricité et à l'eau, fibre. Ce sont elles qui pèsent le plus sur le coût d'un
+     projet.
+
+
+Voirie (IGN, BD TOPO), altimétrie (IGN, RGE ALTI), règlement de la zone, réseau électrique (Agence ORE) et éligibilité
+internet (Arcep).
+
+
+
+6.1 Accès
+Accès direct à une voie                                  Non identifié
+
+Voie carrossable la plus proche                          Route à 1 chaussée · Chemin Du Rechaulier · à 30 m
+
+
+     Aucune voie carrossable ne touche la parcelle d'après la BD TOPO. Un terrain enclavé n'est
+     constructible qu'avec un accès suffisant : il faut vérifier l'existence d'une servitude de passage (article
+     682 du Code civil) ou d'un chemin d'exploitation, et son aptitude au passage des véhicules de secours.
+
+
+
+
+6.2 Relief et exposition
+Pente moyenne                                            30 %
+
+Exposition                                               Versant orienté ouest
+
+Altitude                                                 177 à 190 m
+
+Appréciation                                             Pente marquée
+
+
+
+
+ 202 m
+
+
+
+
+ 162 m
+
+
+           Coupe du terrain dans le sens de la pente · longueur 141 m
+
+
+     Terrassements, murs de soutènement et gestion des eaux de ruissellement à prévoir : surcoût
+     sensible. Une étude de sol (mission G2) est recommandée.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          19 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Brive-la-Gaillarde · DT 436
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.3 Ensoleillement
+Appréciation                                             Très bien ensoleillé
+
+Soleil direct le 21 juin                                 14 h (de 07 h 20 à 21 h 10)
+
+Soleil direct aux équinoxes                              10 h 48 (de 08 h 00 à 18 h 40)
+
+Soleil direct le 21 décembre                             7 h 30 (de 09 h 30 à 16 h 50)
+
+Ensoleillement annuel possible                           3 923 h par an, soit 89 % du maximum à cette latitude
+
+Hauteur du relief vers le sud                            4°
+
+
+ 75°
+
+
+
+ 60°
+
+
+
+ 45°
+
+
+
+ 30°
+
+
+
+ 15°
+
+
+
+ 0°
+                                Est                  Sud-est                    Sud                 Sud-ouest               Ouest
+
+          21 juin          Équinoxes               21 décembre                 Horizon : relief et bâtiments voisins
+
+
+
+       Le relief et les constructions voisines ne masquent presque pas le soleil : le terrain profite de la
+       quasi-totalité de l'ensoleillement possible à cette latitude.
+
+
+
+Ensoleillement mois par mois (le 21 de chaque mois)
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Janvier                         9 h 12                             8h                                        09 h 30 – 17 h 20
+
+  Février                         10 h 30                            9 h 18                                    08 h 50 – 18 h 00
+
+  Mars                            12 h                               10 h 48                                   08 h 00 – 18 h 40
+
+  Avril                           13 h 42                            12 h 12                                   08 h 20 – 20 h 20
+
+  Mai                             14 h 48                            13 h 18                                   07 h 40 – 20 h 50
+
+  Juin                            15 h 18                            14 h                                      07 h 20 – 21 h 10
+
+  Juillet                         14 h 48                            13 h 30                                   07 h 40 – 21 h 00
+
+  Août                            13 h 42                            12 h 12                                   08 h 20 – 20 h 20
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            20 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Septembre                       12 h                               10 h 48                                   08 h 50 – 19 h 30
+
+  Octobre                         10 h 30                            9 h 18                                    09 h 20 – 18 h 30
+
+  Novembre                        9 h 12                             8h                                        09 h 00 – 16 h 50
+
+  Décembre                        8 h 30                             7 h 30                                    09 h 30 – 16 h 50
+
+
+
+Calcul théorique par ciel dégagé, au centre de la parcelle et à hauteur d'homme : course du soleil heure par heure, masque du relief
+sur 6 km (IGN, RGE ALTI) et des bâtiments voisins sur 120 m (IGN, BD TOPO, 29 bâtiments pris en compte). La végétation et les
+constructions récentes ne sont pas prises en compte.
+
+
+6.4 Quel raccordement pour les eaux usées ?
+Raccordement à prévoir                                       Assainissement individuel (fosse ou micro-station)
+
+Zone du PLU                                                  N · Naturelle et forestière
+
+Zonage d'assainissement                                      Zone d'assainissement non collectif
+
+Réseau collectif sur la commune                              Oui · Communauté d'agglomération du bassin de Brive · délégation
+                                                             à SUEZ Eau France via une société dédiée "société des eaux de
+                                                             l'agglomération du bassin de Brive".
+
+
+     Le terrain est classé en zone d'assainissement non collectif par le zonage d'assainissement de la
+     commune : il n'est pas prévu de le raccorder au réseau public.
+
+
+
+Ce que dit le règlement de la zone
+Raccordement obligatoire aux réseaux collectifs d'assainissement pour toute construction ou installation nouvelle,
+avec demande d'autorisation auprès des Services Techniques de l'Agglomération de Brive-La-Gaillarde. En
+l'absence de réseau collectif, l'assainissement autonome est autorisé, sans autre condition précisée dans la zone N
+(pas de surface minimale de terrain fixée). Le règlement de la zone N ne mentionne pas d'étude de sol ni d'avis du
+SPANC. Tout déversement d'eaux usées non domestiques dans le réseau public doit être préalablement traité et
+autorisé par l'autorité compétente.
+
+Ce que cela coûte
+Assainissement individuel : 5 000 à 15 000 € selon la filière (détail ci-dessous), plus l'étude de sol à la parcelle (500 à
+1 000 €). Étapes : étude de sol, puis avis favorable du SPANC sur le projet, à joindre à la demande de permis de
+construire. Besoin d'un installateur agréé ? Nous vous mettons en relation : contact@terrenurbanisme.com.
+
+Qui contacter pour obtenir la confirmation
+Service d'assainissement                                     Communauté d'agglomération du bassin de Brive · exploitant :
+                                                             SUEZ Eau France via une société dédiée "société des eaux de
+                                                             l'agglomération du bassin de Brive".
+
+Mairie                                                       Mairie de Brive-la-Gaillarde
+
+Téléphone                                                    05 55 92 39 39
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           21 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+E-mail                                                       contact@brive.fr
+
+
+    Demandez au service d'assainissement, avec la référence cadastrale, si une canalisation publique passe au droit
+    du terrain, à quelle profondeur, et le montant de la PFAC. Sa réponse écrite vaut attestation de raccordabilité.
+    Certificat d'urbanisme opérationnel (formulaire Cerfa 13410, gratuit) : la mairie y indique officiellement si le
+    terrain est desservi par le réseau d'assainissement.
+    Plan des réseaux : la présence des canalisations enterrées près du terrain peut être vérifiée sur
+    reseaux-et-canalisations.gouv.fr, le guichet unique des réseaux.
+Sources : zonage d'assainissement et règlement (Géoportail de l'Urbanisme) ; services publics d'assainissement (SISPEA, Office
+français de la biodiversité) ; annuaire de l'administration (service-public.fr).
+
+Les solutions d'assainissement individuel
+  FILIÈRE                                    QUAND ELLE CONVIENT                                                           ORDRE DE PRIX
+
+  Fosse toutes eaux et                       Sol perméable, terrain assez grand et peu pentu                               5 000 à 10 000 €
+  épandage
+
+  Filtre à sable                             Sol peu perméable, place suffisante                                           8 000 à 12 000 €
+
+  Micro-station agréée                       Petit terrain ou sol défavorable ; entretien et électricité                   7 000 à 15 000 €
+
+  Filtre compact agréé                       Petit terrain, sans électricité                                               9 000 à 14 000 €
+
+
+
+Ordres de prix indicatifs (fourniture et pose, hors étude de sol et terrassements particuliers). La filière est choisie au vu de l'étude
+de sol et validée par le SPANC.
+
+
+6.5 Électricité et eau potable
+Gestionnaire du réseau                                       Enedis
+
+Réseau basse tension le plus proche                          à environ 30 m (ligne aérienne)
+
+Ligne aérienne la plus proche                                à environ 30 m
+
+Ligne souterraine la plus proche                             à environ 50 m
+
+Poste de transformation le plus proche                       à environ 150 m
+
+Appréciation                                                 Branchement simple probable
+
+
+     Le réseau basse tension passe à environ 30 m : un branchement simple est en principe possible (de
+     l'ordre de 1 500 à 3 000 € pour une maison, selon la longueur et la puissance), sous réserve de la
+     capacité du réseau et des coffrets existants.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             22 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+Ce qu'il faut vérifier avant d'acheter
+    La capacité du réseau : même un réseau proche peut être saturé (coffret ou câble plein, poste de transformation
+    au maximum). Seule une étude du gestionnaire permet de le savoir ; c'est la cause la plus fréquente de surcoûts
+    imprévus.
+    Électricité : demander au gestionnaire du réseau une étude de raccordement ou un devis à partir de l'adresse et
+    du plan de situation (gratuit). Elle indique le type de raccordement, son coût et son délai.
+    Eau potable : les plans du réseau d'eau ne sont pas publics. Interroger le service des eaux (coordonnées
+    ci-dessous) sur la présence d'une canalisation au droit du terrain, sa capacité et le coût du branchement, ainsi
+    que sur la défense incendie (borne à moins de 200 m environ).
+    Certificat d'urbanisme opérationnel : la mairie y indique si le terrain est desservi par les réseaux publics (eau,
+    électricité, assainissement) et, à défaut, si et quand ils seront étendus. Un refus de permis peut être fondé sur
+    l'insuffisance des réseaux (article L. 111-11 du Code de l'urbanisme).
+
+Qui contacter
+Service de l'eau potable                                     Communauté d'agglomération du bassin de Brive
+
+Mode de gestion                                              Délégation de service public à SUEZ Eau France via une société
+                                                             dédiée: société des eaux de l'agglomération du bassin de Brive
+                                                             (SEABB).
+
+Contact pour le branchement                                  SUEZ Eau France via une société dédiée: société des eaux de
+                                                             l'agglomération du bassin de Brive (SEABB)., pour le compte de :
+                                                             Communauté d'agglomération du bassin de Brive
+
+Mairie                                                       Mairie de Brive-la-Gaillarde
+
+Téléphone de la mairie                                       05 55 92 39 39
+
+E-mail de la mairie                                          contact@brive.fr
+
+Électricité (raccordement)                                   Enedis · demande en ligne sur enedis.fr (raccordement)
+
+La mairie oriente vers le bon interlocuteur et confirme, dans le certificat d'urbanisme, la desserte du terrain par les réseaux.
+Sources : SISPEA, observatoire des services publics d'eau (OFB) ; annuaire de l'administration (service-public.fr).
+
+Dans une promesse de vente, une condition suspensive portant sur le coût du raccordement aux réseaux protège
+l'acquéreur. Source de la cartographie électrique : Agence ORE, données des gestionnaires de réseaux de distribution ;
+tracés indicatifs.
+
+
+6.6 Fibre et internet
+     Le terrain n'a pas encore d'adresse propre, mais la fibre est déployée à 43 m (11 Chemin Du Rechaulier)
+     : un logement construit sur le terrain pourra en principe y être raccordé.
+
+
+
+Adresse la plus proche                                          11 Chemin Du Rechaulier · à 43 m · raccordable
+
+Point fibré le plus proche                                      11 Chemin Du Rechaulier · à 43 m
+
+Adresses fibrées à moins de 100 m                               6 sur 6
+
+Adresses fibrées à moins de 400 m                               193 sur 194
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          23 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                                                                           Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                                                                 06 · Le terrain : accès, relief et réseaux
+
+
+
+
+Technologies disponibles à proximité                                                            4G fixe, Cuivre (ADSL, VDSL), Fibre, Satellite
+
+
+
+                       F du terrain
+     Points fibrés autour       F                                 F                    F                   F               F F            F                                    F
+                                                                           F                           F                                                         F
+                                                                                       F                                                 F
+                                                                          F                                                                                            F           F
+                              F       F                                            F
+                                                              F           F
+                                          F F                                                   F
+                          F
+                           F                                              F        F
+                                                      F           F
+                     F                                                     F           F
+                     F                                                F                     F
+                                                                               F                                   F
+                     F            F                                                        F
+                                                                                   F
+                                  F               F                                F        F
+                     F            F                                                          F                                       F                   F
+               F          F        F                                                                                                                                       F                     F
+                                                                                                 F                                                                                 F
+              F FF                                                                 F                               F
+                     F            F                                                         F
+                                                                                                                                                                                       F
+                     F                F                                                                                                      F
+                      F                   F                                                                                                                                F
+                          F                                                                                                F
+                              F
+                                                                                                                                                             F
+                                                                                                                                         F
+
+                                                                                                 F                                                   F
+
+
+                                                                                                                                                 F
+
+                                                              F                                                                              F
+                                                                                                       F
+                                              F
+
+                                                          F
+                                                                                                                       F       F
+                                                                                                               F                                                                                     100 m
+
+
+
+Repères F : adresses déclarées raccordables à la fibre (Arcep) · en terracotta : sur la parcelle · fond © IGN
+
+
+Vérifiez la fibre à l'adresse du terrain :
+
+                         Carte fibre Orange                                                                                                      Carte de l'Arcep
+
+
+  DISTANCE               ADRESSE                                                                                                   FIBRE                             AUTRES ACCÈS
+
+  43 m                   11 Chemin Du Rechaulier                                                                                   Oui                               4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                                                                     Satellite
+
+  76 m                   27 Rue Jean Guillaumie                                                                                    Oui                               4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                                                                     Satellite
+
+  87 m                   9 Chemin Du Rechaulier                                                                                    Oui                               4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                                                                     Satellite
+
+  87 m                   15 Chemin Du Rechaulier                                                                                   Oui                               4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                                                                     Satellite
+
+  89 m                   29 Rue Jean Guillaumie                                                                                    Oui                               4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                                                                     Satellite
+
+  93 m                   25 Rue Jean Guillaumie                                                                                    Oui                               4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                                                                     Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                                                                          24 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            Brive-la-Gaillarde · DT 436
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  DISTANCE           ADRESSE                                                                   FIBRE              AUTRES ACCÈS
+
+  105 m              23 Rue Jean Guillaumie                                                    Oui                4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+  112 m              8 b impasse du rechaulier                                                 Oui                4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+
+
+Source : Arcep, « Ma connexion internet », éligibilité déclarée par les opérateurs, adresse par adresse. Le tracé des câbles n'est
+pas public : la présence de la fibre en limite de terrain se vérifie auprès de l'opérateur ou par une déclaration de projet de travaux
+(DT).
+
+
+6.7 Qui contacter pour les réseaux
+  RÉSEAU                                    INTERLOCUTEUR                                         CE QU'IL FAUT DEMANDER
+
+  Eau potable et                            Mairie ou service des eaux de la                      Attestation de desserte et conditions de
+  assainissement collectif                  commune                                               raccordement
+
+  Assainissement individuel                 SPANC (communauté de communes)                        Contrôle de conception sur la base de l'étude
+                                                                                                  de sol
+
+  Électricité                               Enedis (gestionnaire du réseau de                     Étude de raccordement et devis
+                                            distribution)
+
+  Fibre et téléphone                        Opérateur d'infrastructure et                         Raccordement du futur logement
+                                            fournisseur d'accès
+
+  Tous réseaux                              Guichet unique des réseaux                            Déclaration de projet de travaux (DT) pour
+                                            (reseaux-et-canalisations.gouv.fr)                    localiser les réseaux existants
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             25 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                               07 · Conditions de vente du terrain
+
+
+
+
+    07             Conditions de vente du terrain
+     DANS CETTE SECTION
+
+     Terrain agricole ou naturel : droit de préemption de la SAFER, fermier en place, autorisation
+     d'exploiter et repère officiel de prix.
+
+
+Terrain situé en zone N : vente encadrée par le code rural et de la pêche maritime.
+
+
+
+7.1 Pourquoi aucune fourchette de prix n'est donnée
+La parcelle est classée en zone N (naturelle et forestière), où les constructions nouvelles ne sont en principe
+pas admises. Sa valeur ne se déduit pas des ventes de terrains à bâtir du secteur : elle dépend de l'usage
+agricole ou naturel du sol, de sa qualité, de son accès, de l'eau disponible et de l'existence éventuelle d'un bail
+rural. Une estimation automatique serait trompeuse : la valeur doit être établie au cas par cas par un notaire
+ou un expert foncier et agricole.
+
+
+7.2 Le droit de préemption de la SAFER
+Principe                                        La vente d'un terrain agricole ou naturel est en principe soumise au droit de
+                                                préemption de la SAFER (articles L. 143-1 et suivants du code rural et de la
+                                                pêche maritime). Une surface minimale, fixée par département, peut en
+                                                exclure les plus petites parcelles.
+
+Information obligatoire                         Le notaire informe la SAFER du projet de vente au moins deux mois avant la
+                                                signature : prix, conditions et identité de l'acquéreur.
+
+Ce que peut faire la SAFER                      Renoncer, acheter au prix et aux conditions notifiés, ou proposer un prix
+                                                inférieur si elle estime le prix exagéré. Le vendeur peut alors accepter,
+                                                retirer son terrain de la vente ou demander au tribunal judiciaire de fixer le
+                                                prix.
+
+Pourquoi elle intervient                        Installation de jeunes agriculteurs, consolidation des exploitations,
+                                                protection de l'environnement et des paysages, lutte contre la spéculation
+                                                foncière.
+
+
+
+7.3 Les autres règles à connaître
+Fermier en place                                Si le terrain est loué par bail rural, l'exploitant en place bénéficie d'un droit
+                                                de préemption prioritaire, avant la SAFER.
+
+Autorisation d'exploiter                        Un acquéreur qui souhaite exploiter le terrain peut devoir obtenir une
+                                                autorisation d'exploiter auprès de la DDT(M), selon le schéma directeur
+                                                régional des exploitations agricoles.
+
+Espace naturel sensible                         Dans un espace naturel sensible, le département peut également disposer
+                                                d'un droit de préemption.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          26 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                               07 · Conditions de vente du terrain
+
+
+
+
+Constructions                                   Seules les constructions nécessaires à l'exploitation agricole ou forestière,
+                                                ou à des équipements collectifs, sont en règle générale admises : l'achat ne
+                                                donne pas de droit à bâtir une habitation.
+
+
+
+7.4 Repère officiel de prix
+Le ministère de l'Agriculture publie chaque année le barème indicatif de la valeur vénale moyenne des terres
+agricoles, par région agricole et par nature de culture (arrêté publié au Journal officiel). C'est la référence à
+consulter, avec l'avis d'un notaire ou d'un expert foncier et agricole, avant de fixer un prix.
+
+     Avant toute mise en vente, rapprochez-vous de votre notaire : il notifie la vente à la SAFER, vérifie
+     l'existence d'un bail et sécurise le calendrier de la transaction.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          27 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+   08              Environnement et marché immobilier
+     DANS CETTE SECTION
+
+     Les espaces naturels protégés autour du terrain et les prix de vente réels des maisons,
+     appartements et terrains alentour.
+
+
+Inventaire national du patrimoine naturel et demandes de valeurs foncières (DVF).
+
+
+
+8.1 Espaces naturels protégés ou inventoriés
+La parcelle n'est concernée par aucun site Natura 2000, ZNIEFF, parc ou réserve naturelle.
+
+
+8.2 Espèces protégées observées près du terrain
+132 espèces protégées ont été observées dans un rayon de 1 km autour du terrain depuis 1990 ; les 14 plus
+fréquemment signalées figurent ci-dessous.
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                          OBSERVATIONS
+
+  Fauvette à tête noire (Sylvia atricapilla)                      Oiseau                 Nationale (espèce et                78 · dernière en
+                                                                                         habitat)                            2023
+
+  Mésange bleue (Cyanistes caeruleus)                             Oiseau                 Nationale (espèce et                72 · dernière en
+                                                                                         habitat)                            2021
+
+  Corneille noire (Corvus corone)                                 Oiseau                 Nationale (espèce et                64 · dernière en
+                                                                                         habitat)                            2024
+
+  Rouge-gorge familier (Erithacus                                 Oiseau                 Nationale (espèce et                62 · dernière en
+  rubecula)                                                                              habitat)                            2024
+
+  Mésange charbonnière (Parus major)                              Oiseau                 Nationale (espèce et                62 · dernière en
+                                                                                         habitat)                            2021
+
+  Troglodyte mignon (Troglodytes                                  Oiseau                 Nationale (espèce et                48 · dernière en
+  troglodytes)                                                                           habitat)                            2021
+
+  Pinson des arbres (Fringilla coelebs)                           Oiseau                 Nationale (espèce et                43 · dernière en
+                                                                                         habitat)                            2021
+
+  Martinet noir (Apus apus)                                       Oiseau                 Nationale (espèce et                43 · dernière en
+                                                                                         habitat)                            2021
+
+  Pic vert (Picus viridis)                                        Oiseau                 Nationale (espèce et                34 · dernière en
+                                                                                         habitat)                            2021
+
+  Moineau domestique (Passer                                      Oiseau                 Nationale (espèce et                33 · dernière en
+  domesticus)                                                                            habitat)                            2021
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           28 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                          OBSERVATIONS
+
+  Pouillot véloce (Phylloscopus collybita)                        Oiseau                 Nationale (espèce et                28 · dernière en
+                                                                                         habitat)                            2023
+
+  Grimpereau brachydactyle (Certhia                               Oiseau                 Nationale (espèce et                26 · dernière en
+  brachydactyla)                                                                         habitat)                            2021
+
+  Huppe d'Europe (Upupa epops)                                    Oiseau                 Nationale (espèce et                24 · dernière en
+                                                                                         habitat)                            2021
+
+  Serin cini (Serinus serinus)                                    Oiseau                 Nationale (espèce et                22 · dernière en
+                                                                                         habitat)                            2021
+
+
+
+     Une observation à proximité ne signifie pas que l'espèce vit sur le terrain. Mais si elle y est présente, il
+     est interdit de détruire, capturer ou déranger les individus et, pour la plupart de ces espèces, de
+     détruire leurs lieux de reproduction et de repos (articles L. 411-1 et suivants du Code de
+     l'environnement). L'infraction est punie de 3 ans d'emprisonnement et 150 000 € d'amende.
+
+
+
+Que faire avant de construire ?
+    Pour une maison individuelle, aucune étude écologique n'est imposée en règle générale, et l'étude de sol porte
+    sur le terrain (fondations), pas sur la faune ni la flore. Vous restez cependant responsable si une espèce
+    protégée vit sur la parcelle : en cas de doute (espèce observée tout près, vieux arbres, murets, maquis, zone
+    humide), faites passer un écologue avant de défricher.
+    Si un enjeu est confirmé : inventaire faune-flore aux saisons utiles (printemps et été en général), puis mesures
+    pour éviter et réduire l'impact : implantation de la maison sur la partie la moins sensible, travaux hors période de
+    reproduction, clôture de chantier adaptée, déplacement d'individus par un spécialiste habilité.
+    Si la destruction d'individus ou d'habitats ne peut pas être évitée : demande de dérogation « espèces protégées »
+    auprès de la préfecture (DREAL), avec avis du conseil scientifique. Comptez 4 à 12 mois d'instruction, à anticiper
+    avant le dépôt du permis.
+
+Combien prévoir ?
+Pré-diagnostic écologique                                800 à 2 000 € (une visite et une note de synthèse)
+
+Inventaire faune-flore                                   3 000 à 10 000 € selon la surface et le nombre de passages
+
+Mesures d'évitement et de réduction                      500 à 5 000 € (balisage, calendrier, suivi de chantier)
+
+Dossier de dérogation                                    8 000 à 25 000 €, hors mesures de compensation éventuelles
+
+Ordres de prix indicatifs, honoraires de bureaux d'études en environnement, si une étude est nécessaire. Pour une maison sur un
+terrain déjà entouré de constructions, aucune étude n'est le plus souvent requise.
+
+Sources : statuts de protection TAXREF et base de connaissance des statuts (INPN, Muséum national d'Histoire naturelle) ;
+observations naturalistes GBIF, qui rassemble notamment les données de l'INPN et du SINP.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           29 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+8.3 Prix de l'immobilier à Brive-la-Gaillarde
+Prix au mètre carré des ventes enregistrées sur la commune au cours des cinq dernières années publiées.
+Seules les ventes portant sur un bien unique sont retenues.
+
+  TYPE DE BIEN                                       VENTES                       €/M² MÉDIAN                              €/M² MOYEN
+
+  Maisons                                            2 044                        1 916 €/m²                               2 000 €/m²
+
+  Appartements                                       2 071                        1 750 €/m²                               1 840 €/m²
+
+  Locaux commerciaux                                 223                          988 €/m²                                 1 042 €/m²
+
+
+
+Source : statistiques des demandes de valeurs foncières (DGFiP, Etalab). Prix des actes, hors frais : un ordre de grandeur,
+pas une estimation du bien.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             30 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                                                09 · Historique du site
+
+
+
+
+   09              Historique du site
+     DANS CETTE SECTION
+
+     Le terrain vu du ciel au fil des décennies et les permis de construire accordés autour : l'évolution
+     du secteur en un coup d'œil.
+
+
+Photographies aériennes de l'IGN et permis de construire délivrés (Sitadel).
+
+
+
+9.1 Le terrain vu du ciel, d'hier à aujourd'hui
+
+    1950-1965                                             2000-2005                                              2006-2010
+
+
+
+
+    2011-2015                                             Aujourd'hui
+
+
+
+
+Ces vues montrent l'évolution du terrain et du quartier, des années 1950 à aujourd'hui (photographies aériennes de l'IGN).
+
+     Bon à savoir : l'existence ancienne d'une construction peut ouvrir, sous conditions, un droit à
+     reconstruire ou à restaurer un bâtiment dont il reste l'essentiel des murs porteurs (articles L. 111-15 et L.
+     111-23 du Code de l'urbanisme).
+
+
+
+
+9.2 Permis de construire délivrés autour du terrain
+Autorisations sur la commune (3 ans)                                    121 · dernière recensée le 28/09/2026
+
+Logements autorisés (3 ans)                                             454
+
+Dont maisons individuelles                                              83
+
+Autorisations dans la section DT                                        9 depuis 2013
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  14/01/2026            Permis de construire                   DT 442             1              140 m²                    IMPASSE JOSEPH YERNAUX
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              31 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                                                09 · Historique du site
+
+
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  04/09/2023            Permis de construire                   DT 567             1              159 m²                    LE RECHAULIER NORD
+
+  31/03/2021            Permis de construire                   DT 326             1              97 m²                     RUE JOSEPH YERNAUX
+
+  26/09/2017            Permis de construire                   DT 553             1              60 m²                     RUE GERMAIN QUINTEL
+
+  21/07/2017            Permis de construire                   DT 530             1              115 m²                    CHEMIN DE BASSALER
+
+  07/06/2017            Permis de construire                   DT 529             1              111 m²                    CHEMIN DE BASSALER
+
+  24/04/2017            Permis de construire                   DT 554             1              81 m²                     RUE GERMAIN QUINTEL
+
+  04/01/2016            Permis de construire                   DT 378             1              85 m²                     RUE JOSEPH YERNAUX
+
+  02/07/2015            Permis de construire                   DT 528             1              117 m²                    CHEMIN DE BASSALER
+
+
+
+Permis accordés à moins de 500 m du terrain
+  DATE                 AUTORISATION                       PARCELLE          DISTANCE         LOGTS        SURFACE             LIEU-DIT / VOIE
+
+  14/01/2026           Permis de construire               DT 442            480 m            1            140 m²              IMPASSE JOSEPH
+                                                                                                                              YERNAUX
+
+  04/09/2023           Permis de construire               DT 567            230 m            1            159 m²              LE RECHAULIER NORD
+
+  09/01/2018           Permis de construire               DV 375            330 m            1            145 m²              LA BORIE
+
+  23/11/2017           Permis de construire               DS 295            500 m            1            147 m²              RUE MAURICE ROUEL
+
+  26/09/2017           Permis de construire               DT 553            220 m            1            60 m²               RUE GERMAIN QUINTEL
+
+  28/07/2017           Permis de construire               DS 365            290 m            1            225 m²              CHEMIN DE BASSALER
+
+  21/07/2017           Permis de construire               DT 530            370 m            1            115 m²              CHEMIN DE BASSALER
+
+  26/06/2017           Permis de construire               DV 377            380 m            1            107 m²              LA BORIE
+
+  07/06/2017           Permis de construire               DT 529            410 m            1            111 m²              CHEMIN DE BASSALER
+
+  24/04/2017           Permis de construire               DT 554            230 m            1            81 m²               RUE GERMAIN QUINTEL
+
+
+
+10 autorisations créant des logements recensées dans un rayon de 500 m : la construction a été admise récemment
+dans le voisinage immédiat.
+
+Source : base Sitadel des autorisations d'urbanisme créant des logements (SDES). Un permis accordé à proximité montre
+que des constructions ont été admises dans le secteur, sans préjuger de la décision sur votre propre projet.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              32 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                              10 · Opportunités autour du terrain
+
+
+
+
+    10             Opportunités autour du terrain
+     DANS CETTE SECTION
+
+     Ce qui se passe autour de la parcelle : grands terrains peu bâtis, sociétés propriétaires en
+     difficulté, logements énergivores. Des pistes pour un investisseur, un voisin ou un professionnel.
+
+
+Bodacc (procédures collectives), ADEME (diagnostics énergétiques), cadastre, BD TOPO et Géoportail de l'Urbanisme.
+
+
+
+10.1 Grands terrains peu bâtis à proximité
+Parcelles de plus de 1 200 m², situées en zone urbaine ou à urbaniser du PLU, dans un rayon de 250 m, dont
+moins de 8 % de la surface est bâtie, hors terrains publics : un potentiel de construction ou de division à
+étudier.
+
+  PARCELLE           SURFACE                BÂTI               ZONE               DISTANCE           PROPRIÉTAIRE
+
+  DT 544             19 259 m²              83 m²              UEa                240 m              particulier (non publié)
+
+  DT 349             5 447 m²               non bâti           UEa                180 m              particulier (non publié)
+
+  DT 534             4 923 m²               non bâti           UEa                210 m              particulier (non publié)
+
+  DT 468             4 561 m²               323 m²             UEa                90 m               particulier (non publié)
+
+  DT 300             4 055 m²               244 m²             UEa                160 m              particulier (non publié)
+
+  DT 301             3 894 m²               238 m²             UEa                210 m              particulier (non publié)
+
+  DT 267             3 848 m²               218 m²             UEa                110 m              particulier (non publié)
+
+  DT 464             3 187 m²               134 m²             UEa                160 m              particulier (non publié)
+
+
+
+
+10.2 Logements classés F ou G autour du terrain
+Logements diagnostiqués F ou G dans un rayon de 350 m. Leur location est déjà interdite (G) ou le sera en
+2028 (F) : leurs propriétaires sont souvent vendeurs, ou doivent engager des travaux de rénovation.
+
+  PARCELLE                   ADRESSE                                        CLASSE LOGEMENT                   SURFACE      DISTANCE DPE DU
+
+  Section DT n°              34 Rue Germain Quintel 19100                   F            Maison               80 m²        250 m       10/04/2025
+  167                        Brive-la-Gaillarde
+
+  Section DV n° 78           35 Rue Germain Quintel 19100                   F            Maison               62 m²        260 m       14/11/2022
+                             Brive-la-Gaillarde
+
+  Section DT n°              30 Rue Germain Quintel 19100                   F            Maison               93 m²        260 m       19/05/2025
+  165                        Brive-la-Gaillarde
+
+  Section DT n°              6 Rue Andre Salsac 19100                       F            Maison               66 m²        270 m       23/03/2022
+  253                        Brive-la-Gaillarde
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           33 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                              10 · Opportunités autour du terrain
+
+
+
+
+La parcelle est celle du point d'adresse du logement (cadastre). Pour connaître son propriétaire lorsqu'il s'agit d'un particulier,
+demandez un relevé de propriété au service de la publicité foncière ou à la mairie.
+
+Ces informations proviennent de bases publiques et ne préjugent ni de l'intention de vendre des propriétaires ni de la
+constructibilité des parcelles citées, qui relève d'une étude au cas par cas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          34 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Brive-la-Gaillarde · DT 436
+           TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+      11           Votre projet, étape par étape
+De l'achat du terrain à la déclaration aux impôts : démarches, délais, coûts et contacts.
+
+
+
+11.1 Analyse
+Le terrain est soumis au plan local d'urbanisme (PLU) de Brive-la-Gaillarde. Il est classé en zone N. Zone
+naturelle et forestière : secteur protégé en raison de la qualité des sites, des milieux naturels et des
+paysages, ou de son caractère d'espace naturel. Les constructions nouvelles n'y sont pas admises, sauf
+exceptions encadrées (équipements publics, extension limitée des habitations existantes, secteurs de
+taille et de capacité limitées).
+
+En l'état, une construction nouvelle n'est pas possible. Seules des évolutions limitées peuvent être
+envisagées selon le règlement de la zone (extension mesurée d'une habitation existante, annexes,
+équipements publics). Le classement ne peut évoluer qu'à l'occasion d'une modification ou d'une révision
+du document d'urbanisme, à l'initiative de la commune.
+
+
+11.2 Votre projet, étape par étape
+Les étapes ci-dessous suivent l'ordre réel d'un projet de construction, de l'achat du terrain à la déclaration aux
+impôts. Les montants sont indicatifs et à confirmer par devis.
+
+  1      Avant d'acheter le terrain
+         Vérifiez les règles de la zone (chapitres précédents), puis demandez un certificat d'urbanisme opérationnel
+         (Cerfa 13410, sans frais, réponse sous 2 mois) : il fige les règles pendant 18 mois. En zone d'argiles d'aléa
+         moyen ou fort, le vendeur doit fournir une étude de sol préalable.
+         Contact : Mairie de Brive-la-Gaillarde · 05 55 92 39 39 · contact@brive.fr · formulaire sur service-public.fr
+         (rechercher « Cerfa 13410 »)
+
+  2      Les études
+         Étude de sol géotechnique (G2) pour dimensionner les fondations : 1 500 à 3 000 €. Étude thermique RE2020,
+         obligatoire pour le permis : 500 à 1 500 €. Bornage par un géomètre si les limites sont incertaines. L'étude de
+         sol ne porte pas sur les espèces protégées : un écologue n'intervient qu'en cas d'enjeu (chapitre
+         Environnement).
+         Géomètres proches du terrain : liste à la fin de ce chapitre
+
+  3      Les plans
+         Architecte obligatoire si la surface de plancher totale dépasse 150 m². En dessous, vous pouvez dessiner les
+         plans vous-même ou faire appel à un dessinateur ou maître d'œuvre (environ 1 500 à 4 000 € le dossier de
+         permis). Architecte : 3 000 à 8 000 € pour la seule mission de permis, 8 à 12 % du coût des travaux pour une
+         mission complète avec suivi du chantier.
+         Trouver un architecte : annuaire de l'Ordre des architectes sur architectes.org
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          35 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+  4      Déposer le permis
+         Formulaire Cerfa 13406 (maison individuelle) et pièces PCMI1 à PCMI8 : plan de situation, plan de masse,
+         coupe, notice, plans des façades et toitures, insertion dans le paysage, photos, attestation RE2020. Dépôt en
+         mairie ou en ligne sur le guichet numérique de la commune. La mairie a 1 mois pour réclamer une pièce
+         manquante ; l'instruction dure 2 mois à partir du dossier complet, plus en secteur protégé.
+         Dépôt : Mairie de Brive-la-Gaillarde · 05 55 92 39 39 · contact@brive.fr · formulaire sur service-public.fr (rechercher
+         « Cerfa 13406 »)
+
+  5      Affichage et recours
+         Dès l'accord, installez le panneau de permis sur le terrain, lisible depuis la voie, pendant toute la durée du
+         chantier. Les tiers ont 2 mois à compter du premier jour d'affichage pour contester ; la mairie peut retirer un
+         permis illégal pendant 3 mois. Faites constater l'affichage par un commissaire de justice (environ 300 à 600 €
+         pour les trois constats).
+         Commissaires de justice : annuaire sur commissaire-justice.fr
+
+  6      Avant les travaux
+         Souscrivez l'assurance dommages-ouvrage, obligatoire (souvent 2 à 4 % du coût de la construction). Signez
+         le contrat de construction de maison individuelle ou les marchés des artisans. Déposez la déclaration
+         d'ouverture de chantier (Cerfa 13407) le jour du démarrage. Le permis est valable 3 ans, prorogeable deux
+         fois d'un an.
+         Déclaration d'ouverture : Mairie de Brive-la-Gaillarde · 05 55 92 39 39 · contact@brive.fr
+
+  7      Le financement
+         La banque débloque le prêt au fur et à mesure du chantier, sur présentation des factures des entreprises ou
+         des appels de fonds du constructeur. Avec un contrat de construction de maison individuelle, l'échéancier
+         est encadré par la loi : 15 % à l'ouverture du chantier, 25 % aux fondations, 40 % aux murs, 60 % hors d'eau,
+         75 % hors d'air et cloisons, 95 % aux équipements, le solde à la réception. Des intérêts intercalaires peuvent
+         courir sur les sommes débloquées.
+         Votre banque ou votre courtier
+
+  8      La fin du chantier
+         Réception des travaux avec le constructeur ou les artisans, avec réserves si nécessaire. Déposez ensuite la
+         déclaration attestant l'achèvement et la conformité des travaux (DAACT, Cerfa 13408), avec l'attestation
+         RE2020 de fin de chantier. La mairie a 3 mois pour la contester (5 mois en secteur protégé).
+         Dépôt : Mairie de Brive-la-Gaillarde · 05 55 92 39 39 · contact@brive.fr
+
+  9      Les impôts
+         Dans les 90 jours suivant l'achèvement, déclarez la construction sur impots.gouv.fr, espace « Gérer mes
+         biens immobiliers ». Cette déclaration sert au calcul de la taxe d'aménagement (payée en une fois sous 1 500
+         €, sinon en deux fois, estimation plus bas dans ce chapitre) et de la taxe foncière, avec une exonération
+         possible les deux premières années selon la commune.
+         impots.gouv.fr › Espace particulier › Gérer mes biens immobiliers
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          36 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+11.3 Les points à vérifier pour ce terrain
+  1      Certificat d'urbanisme opérationnel
+         Le demander en mairie (formulaire Cerfa 13410), en décrivant le projet. Gratuit, il indique si le terrain
+         peut accueillir le projet et fige les règles d'urbanisme pendant 18 mois.
+
+  2      Règlement de la zone
+         Lire le règlement écrit de la zone N et, le cas échéant, les orientations d'aménagement, disponibles sur
+         le Géoportail de l'Urbanisme.
+
+  3      Réseaux et accès
+         Vérifier l'accès à une voie publique ou privée adaptée, la desserte en eau potable et en électricité, et le
+         mode d'assainissement. En l'absence de réseau collectif, une étude de sol et l'avis du service public
+         d'assainissement non collectif (SPANC) sont nécessaires.
+
+  4      Bornage
+         Faire réaliser un bornage par un géomètre-expert pour fixer les limites exactes et la surface réelle du
+         terrain.
+
+  5      Sécuriser un achat
+         Pour une acquisition, prévoir dans le compromis une condition suspensive d'obtention d'un permis de
+         construire purgé de tout recours.
+
+
+11.4 Délais indicatifs d'instruction
+  DEMANDE                                                                                 DÉLAI DE DROIT COMMUN
+
+  Certificat d'urbanisme d'information (CUa)                                              1 mois
+
+  Certificat d'urbanisme opérationnel (CUb)                                               2 mois
+
+  Déclaration préalable                                                                   1 mois
+
+  Permis de construire une maison individuelle                                            2 mois
+
+  Permis d'aménager, autres permis de construire                                          3 mois
+
+
+
+Ces délais peuvent être majorés, notamment en site classé ou inscrit, aux abords d'un monument historique ou lorsque la
+consultation d'un service extérieur est nécessaire.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          37 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+11.5 Taxe d'aménagement à prévoir
+     Exemple : une maison de 120 m² en résidence principale, avec une piscine de 3 × 6 m. Sur ce terrain, la
+     taxe d'aménagement à prévoir est d'environ 2 010 €.
+
+
+
+  PROJET                                                                                                       TAXE ESTIMÉE
+
+  Maison de 120 m², résidence principale                                                                       1 870 €
+
+  Piscine de 3 × 6 m (18 m²)                                                                                   140 €
+
+  Total à prévoir                                                                                              2 010 €
+
+
+
+Taux appliqués : 2 % pour la commune et 1 % pour le département, sur une valeur forfaitaire de 892 € par m² en 2026 (251 €
+par m² de bassin pour une piscine). Une résidence principale bénéficie d'un abattement de 50 % sur ses 100 premiers m².
+
+La taxe est due une fois les travaux terminés : elle se déclare sur impots.gouv.fr dans les 90 jours suivant l'achèvement, et
+se paie en deux fois au-delà de 1 500 €. Pour calculer votre propre projet :
+terrenurbanisme.com/outils/taxe-amenagement.html
+
+
+11.6 Implanter une entreprise : zone France Ruralités Revitalisation
+     La commune de Brive-la-Gaillarde n'est pas classée en zone France Ruralités Revitalisation (FRR). Une
+     entreprise qui s'y installe ne bénéficie pas de l'exonération d'impôt sur les bénéfices liée à ce zonage.
+
+
+
+Source : ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 (collectivites-locales.gouv.fr).
+
+
+11.7 Géomètres proches du terrain
+Le géomètre-expert est le seul professionnel habilité à fixer les limites de propriété (bornage) et à établir les
+documents d'arpentage déposés au cadastre. Il intervient aussi pour les relevés topographiques et les
+divisions de terrain.
+
+2,2 km            MESURES
+                                                                                                                           Coordonnées
+                  10 RUE BARBES 19100 BRIVE-LA-GAILLARDE
+
+
+2,3 km            GEOFIT (FIT)
+                                                                                                                           Coordonnées
+                  3 AVENUE ROGER RONCIER 19100 BRIVE-LA-GAILLARDE
+
+
+2,5 km            GEOSAT
+                                                                                                                           Coordonnées
+                  58 AVENUE DU 18 JUIN 19100 BRIVE-LA-GAILLARDE
+
+
+2,8 km            FLORENCE CORGNET SOCIETE DE GEOMETRE-EXPERT
+                                                                                                                           Coordonnées
+                  27 RUE DOCTEUR BARDON 19100 BRIVE-LA-GAILLARDE
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           38 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+4 km              GEXEO
+                                                                                                                           Coordonnées
+                  107 RUE ROGER LARIVIERE 19600 SAINT-PANTALEON-DE-LARCHE
+
+
+4,5 km            GEOD SOCIETE DE GEOMETRE EXPERT
+                                                                                                                           Coordonnées
+                  6 AV MARIE ET PIERRE CURIE 19360 MALEMORT
+
+
+Source : répertoire Sirene de l'INSEE (activité des géomètres), classé par distance au terrain. L'inscription d'un cabinet à l'Ordre
+des géomètres-experts se vérifie sur geometre-expert.fr. Le bouton « Coordonnées » ouvre la fiche du cabinet (téléphone,
+horaires, itinéraire). Cette liste est fournie à titre indicatif, sans partenariat ni recommandation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           39 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                           12 · État des risques (ERP) pré-rempli
+
+
+
+
+    12             État des risques (ERP) pré-rempli
+     DANS CETTE SECTION
+
+     Le formulaire réglementaire à remettre à l'acquéreur ou au locataire, pré-rempli à partir des
+     bases officielles : plans de prévention, sismicité, radon, sols pollués, trait de côte, bruit des
+     aérodromes.
+
+
+Articles L. 125-5 à L. 125-7 et R. 125-23 à R. 125-27 du Code de l'environnement · modèle fixé par l'arrêté du 27 septembre
+2022.
+
+
+     Formulaire pré-rempli à partir de Géorisques et du Géoportail de l'Urbanisme à la date du rapport.
+     Avant de le remettre à l'acquéreur ou au locataire, le vendeur ou le bailleur le vérifie, le complète
+     (sinistres indemnisés) et le signe ; il doit dater de moins de six mois à la signature de la promesse, du
+     bail ou de l'acte.
+
+
+
+
+12.1 Situation du bien
+Commune                                                  Brive-la-Gaillarde (19031)
+
+Département                                              Corrèze (19)
+
+Références cadastrales                                   Section DT, parcelle n° 436 · 19031000DT0436
+
+Surface cadastrale                                       1 923 m²
+
+
+
+12.2 Plans de prévention des risques
+  L'IMMEUBLE EST SITUÉ DANS LE PÉRIMÈTRE…                                         RÉPONSE                DÉTAIL
+
+  d'un plan de prévention des risques naturels (PPRN)                             Non                    Aucun plan recensé sur la parcelle
+  prescrit, appliqué par anticipation ou approuvé
+
+  d'un plan de prévention des risques miniers (PPRM)                              Non                    Non recensé
+
+  d'un plan de prévention des risques technologiques                              Non                    Risques technologiques sur la commune
+  (PPRT)                                                                                                 : installations industrielles (icpe),
+                                                                                                         canalisations de matières dangereuses,
+                                                                                                         pollution des sols
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          40 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                           12 · État des risques (ERP) pré-rempli
+
+
+
+
+12.3 Autres zonages réglementaires
+  L'IMMEUBLE EST SITUÉ…                                                           RÉPONSE                DÉTAIL
+
+  dans une commune de sismicité (zones 2 à 5 : règles de                          Non                    Zone 1 – très faible
+  construction parasismique)
+
+  dans une commune à potentiel radon de niveau 3                                  Oui                    Catégorie 3 (potentiel significatif)
+
+  dans un secteur d'information sur les sols (SIS)                                À vérifier             SIS recensé à proximité : ALVEA ; SITA
+                                                                                                         SUD-OUEST ex MGB3000. Vérifier
+                                                                                                         l'arrêté préfectoral.
+
+  dans une zone exposée au recul du trait de côte                                 Non                    Non concerné selon Géorisques
+
+  dans une zone de bruit d'un plan d'exposition au bruit                          À vérifier             Aucun PEB annexé au document
+  d'aérodrome (PEB)                                                                                      d'urbanisme ; vérifier auprès de la mairie
+
+  dans une zone de retrait-gonflement des argiles                                 Oui                    Existant – modéré
+  (information)
+
+
+
+
+12.4 Sinistres indemnisés et déclarations
+Arrêtés de catastrophe naturelle sur la commune : 17 (liste en section Risques). Le vendeur ou le bailleur
+déclare ci-dessous les sinistres ayant donné lieu à une indemnisation au titre des catastrophes naturelles ou
+technologiques pendant la période où il a été propriétaire.
+
+Sinistres indemnisés                                     [ ] Oui [ ] Non
+
+Vendeur ou bailleur                                      Nom : ____________________ Date : ___/___/______ Signature :
+
+Acquéreur ou locataire                                   Nom : ____________________ Date : ___/___/______ Signature :
+
+
+L'état des risques officiel peut aussi être édité gratuitement sur Géorisques (errial.georisques.gouv.fr). Les informations
+ci-dessus sont établies à partir des bases nationales ; en cas de divergence, l'arrêté préfectoral relatif à l'information des
+acquéreurs et des locataires fait foi.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           41 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                                      13 · Avertissement et sources
+
+
+
+
+    13             Avertissement et sources
+     DANS CETTE SECTION
+
+     La portée de ce rapport et la liste des sources publiques consultées.
+
+
+
+13.1 Nature du document
+Ce rapport est un document d'information établi automatiquement, à la date indiquée en page de garde, à
+partir des données publiques officielles alors disponibles. Il n'a aucune valeur contractuelle, réglementaire ou
+juridique.
+
+
+13.2 Ce que ce rapport n'est pas
+Il ne constitue ni un certificat d'urbanisme au sens de l'article L. 410-1 du Code de l'urbanisme, ni une
+autorisation d'urbanisme (permis de construire, permis d'aménager, déclaration préalable), ni un état des
+risques au sens de l'article L. 125-5 du Code de l'environnement, ni un bornage, ni une expertise, ni une
+évaluation immobilière, ni une consultation juridique. Il n'engage en rien l'administration.
+
+
+13.3 Permis de construire
+Ce rapport ne peut en aucun cas être joint, produit ou invoqué à l'appui d'une demande de permis de
+construire, de permis d'aménager ou de déclaration préalable, ni opposé à la mairie ou à un service de l'État. Il
+ne garantit pas l'obtention d'une autorisation : seule l'autorité compétente se prononce, au vu d'un projet
+précis et de l'ensemble des règles applicables à la date de sa décision.
+
+
+13.4 Limites des données
+Les données sont produites par des organismes publics dont l'éditeur n'est ni l'auteur ni le garant. Elles
+peuvent être incomplètes, imprécises ou ne pas refléter une modification, une révision, une mise en
+compatibilité, une annulation contentieuse, un sursis à statuer ou une procédure en cours. Le plan cadastral,
+document fiscal, ne fait pas foi des limites de propriété. Surfaces, distances, altitudes et pentes sont
+approchées. Les extraits et analyses du règlement sont une aide à la lecture : seul le texte intégral du
+document d'urbanisme approuvé, consultable en mairie, fait foi.
+
+
+13.5 Avant toute décision
+Avant toute acquisition, cession, financement, promesse de vente ou dépôt d'une demande, le lecteur doit
+obtenir un certificat d'urbanisme opérationnel auprès de la mairie, consulter le document d'urbanisme en
+vigueur et recueillir l'avis d'un professionnel habilité (notaire, architecte, géomètre-expert, avocat). Pour un
+achat, il est recommandé de stipuler une condition suspensive d'obtention d'un permis de construire purgé de
+tout recours.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           42 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                                      13 · Avertissement et sources
+
+
+
+
+13.6 Responsabilité
+L'éditeur ne saurait être tenu responsable d'une décision prise sur le seul fondement de ce rapport, ni d'un
+refus d'autorisation, d'une erreur ou d'une omission des sources publiques, dans les limites prévues par les
+conditions générales de vente acceptées lors de la commande.
+
+
+13.7 Sources consultées
+  DONNÉE                                                    SOURCE
+
+  Cadastre                                                  DGFiP, plan cadastral informatisé, via API Carto (IGN)
+
+  Photographies et plans                                    IGN, Géoplateforme : orthophotographies, Plan IGN, parcellaire express
+
+  Urbanisme                                                 Géoportail de l'Urbanisme : zonage, prescriptions, informations, servitudes
+                                                            d'utilité publique
+
+  Littoral                                                  IGN, BD TOPO (limite terre-mer) ; communes littorales (Géoportail de
+                                                            l'Urbanisme)
+
+  Montagne                                                  Ministère de la Cohésion des territoires, communes de la loi Montagne
+
+  Risques                                                   Géorisques (ministère de la Transition écologique) : rapport de risques,
+                                                            arrêtés CatNat, sismicité, radon, ICPE, sites pollués
+
+  Environnement                                             Inventaire national du patrimoine naturel (PatriNat), via API Carto
+
+  Altitude, pente et exposition                             IGN, RGE ALTI
+
+  Ensoleillement                                            Calcul astronomique de la course du soleil ; masque du relief (IGN, RGE
+                                                            ALTI) et des bâtiments (IGN, BD TOPO)
+
+  Voirie et accès                                           IGN, BD TOPO (tronçons de route)
+
+  Permis de construire                                      Sitadel, service des données et études statistiques (SDES) du ministère
+                                                            chargé du logement
+
+  Photographies anciennes                                   IGN, BD ORTHO historique
+
+  Fibre et internet                                         Arcep, Ma connexion internet (éligibilité par adresse)
+
+  Géomètres                                                 Répertoire Sirene (INSEE), activité des géomètres
+
+  Propriétaires personnes morales                           DGFiP, fichiers des parcelles des personnes morales (diffusion Koumoul)
+
+  Diagnostics énergétiques                                  ADEME, base des DPE des logements existants
+
+  Procédures collectives                                    Bodacc, annonces commerciales (DILA)
+
+  Bâtiments                                                 IGN, BD TOPO
+
+  Réseau électrique                                         Agence ORE (gestionnaires de réseaux de distribution : Enedis, EDF Corse
+                                                            et entreprises locales) : réseau basse tension et postes de distribution
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           43 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                                      13 · Avertissement et sources
+
+
+
+
+  DONNÉE                                                    SOURCE
+
+  Taxe d'aménagement                                        DGFiP, éléments de taxation votés par les collectivités ; valeurs forfaitaires
+                                                            fixées par arrêté
+
+  Rapport officiel de risques                               Géorisques, ministère chargé de l'environnement
+
+  Zone France Ruralités Revitalisation                      ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 ; article
+                                                            44 quindecies A du code général des impôts
+
+  Marché immobilier                                         Statistiques des demandes de valeurs foncières (DVF) par commune, DGFiP
+                                                            et Etalab
+
+  Date d'extraction                                         20/11/2026
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           44 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            Brive-la-Gaillarde · DT 436
+         TerrenUrbanisme
+                                                                                                                     Annexe · règlement de la zone
+
+
+
+
+ANNEXE
+
+
+Règlement écrit · zone N
+Les pages suivantes reproduisent le chapitre du règlement officiel applicable à la zone de la parcelle
+(pages 136 à 147 du document approuvé), tel que publié sur le Géoportail de l'Urbanisme. Il s'agit d'une
+reproduction à titre d'information : seule la version approuvée tenue à disposition en mairie fait foi, avec
+ses annexes, plans et éventuelles modifications ultérieures.
+Règlement complet :
+https://data.geopf.fr/annexes/gpu/documents/DU_19031/92d9ee55ef8de4a93f5f3730ae7da2f4/19031_reglement_20250402.pdf
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           45 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+3ODQ/RFDOG 8UEDQLVPHGHODFRPPXQHGH%ULYH/D*DLOODUGH                                                         5qJOHPHQW
+
+
+
+
+                                                   =21(1
+
+/D ]RQH 1FRUUHVSRQG DX[HVSDFHVQDWXUHOV GH ODFRPPXQH jSURWpJHUHQ UDLVRQGH ODTXDOLWpGHV
+VLWHVGHVPLOLHX[QDWXUHOVGHVSD\VDJHVRXGHOHXULQWpUrWKLVWRULTXH
+,OH[LVWH
+      XQVHFWHXU1TXLDYRFDWLRQ©VWULFWHPHQWªQDWXUHOOHHWSD\VDJqUH,OUDVVHPEOHOHVHVSDFHV
+          ERLVpV HW OHV HVSDFHV HQWUHWHQXV SDU O¶DJULFXOWXUH VXU OHVTXHOV O¶LPSODQWDWLRQ G¶XQH
+          FRQVWUXFWLRQ KDELWDWLRQ RX H[SORLWDWLRQ  SRXUUDLW DYRLU XQ IRUW LPSDFW YLVXHO HWRX
+          HQYLURQQHPHQWDO
+      8QVHFWHXU1UFRUUHVSRQGDQWDX[HVSDFHVQDWXUHOVUHPDUTXDEOHVGHODFRPPXQHjSURWpJHU
+          HQ UDLVRQ GH OD TXDOLWp GHV VLWHV GHV PLOLHX[ QDWXUHOV GHV SD\VDJHV RX GH OHXU LQWpUrW
+          KLVWRULTXH
+      XQVHFWHXU1KFRUUHVSRQGDQWDX[]RQHVQDWXUHOOHVKDELWpHV
+      XQVHFWHXU1OFRUUHVSRQGDQWDX[VHFWHXUVQDWXUHOVDFFXHLOODQWGHVpTXLSHPHQWVGHORLVLUV
+      XQVHFWHXU1FFRUUHVSRQGDQWDX[FDUULqUHVDXWRULVpHV
+      XQVHFWHXU1]TXLFRUUHVSRQGDX[HVSDFHVQDWXUHOVjSUpVHUYHUjO¶LQWpULHXUGXSpULPqWUHGHOD
+          =$&%ULYH2XHVW
+      XQ VHFWHXU 1[ FRUUHVSRQGDQW DX VHFWHXU GH 3HUERXVLH VLWH GH WUDLWHPHQW HW GH YDORULVDWLRQ
+          GHVGpFKHWV
+
+&HWWH]RQHHVWVRXPLVHDX[ULVTXHV LQRQGDWLRQ HWSHXWrWUHVRXPLVHpJDOHPHQWjO¶DOpDPRXYHPHQW
+GHWHUUDLQ
+
+
+
+
+$UWLFOH12FFXSDWLRQVHWXWLOLVDWLRQVGHVVROVLQWHUGLWHV
+
+'DQVO¶HQVHPEOHGHOD]RQH1KRUPLVGDQVOHVHFWHXU1]
+
+/HVRFFXSDWLRQVHWXWLOLVDWLRQVGXVROQRQPHQWLRQQpHVjO DUWLFOH1
+
+'DQVOHVHXOVHFWHXU1]
+     /HVFRQVWUXFWLRQVGHWRXWHQDWXUH
+     /HVWHUUDLQVGHFDPSLQJHWGHFDUDYDQLQJ
+     /¶RXYHUWXUHGHFDUULqUHV
+     /HVGpS{WVGHWRXWHQDWXUH
+     /HVSDUFVG¶DWWUDFWLRQVHWOHVDLUHVGHMHXHWGHVSRUWV
+     /HVDLUHVGHVWDWLRQQHPHQW
+
+
+$UWLFOH1/HVRFFXSDWLRQVHWXWLOLVDWLRQVGXVROVRXPLVHVjGHVFRQGLWLRQVSDUWLFXOLqUHV
+
+'DQVO¶HQVHPEOHGHOD]RQH1KRUPLVGDQVOHVHFWHXU1]VHXOVVRQWDXWRULVpV
+
+/HVFRQVWUXFWLRQVQpFHVVDLUHVDX[VHUYLFHVSXEOLFVDLQVLTXHOHVLQVWDOODWLRQVG LQWpUrWJpQpUDO
+
+'DQVOHVVHXOVVHFWHXUV1VHXOVVRQWDXWRULVpV
+     /HVFRQVWUXFWLRQVHWLQVWDOODWLRQVQpFHVVDLUHVjO¶H[SORLWDWLRQIRUHVWLqUH
+     /HV DIIRXLOOHPHQWV HW H[KDXVVHPHQWV GX VRO OLpV DX[ WUDYDX[ DJULFROHV DX[ FRQVWUXFWLRQV HW
+                                                                               Accusé de réception en préfecture
+        RFFXSDWLRQVGXVRODGPLVHVGDQVOD]RQHHWOHXUDFFqV               019-211903109-20250407-75-02042025-DE
+                                                                                       Date de télétransmission : 07/04/2025
+                                                                                Date de réception préfecture : 07/04/2025
+       OHV H[WHQVLRQV HW OHV DQQH[HV GHV FRQVWUXFWLRQV H[LVWDQWHV j XVDJH     G¶KDELWDWLRQ GqV ORUV
+         TX¶HOOHVQHFRPSURPHWWHQWSDVO¶DFWLYLWpDJULFROHRXODTXDOLWpSD\VDJqUHGXVLWH
+
+
+                                                   0RGLILFDWLRQQ                                                          
+
+3ODQ/RFDOG 8UEDQLVPHGHODFRPPXQHGH%ULYH/D*DLOODUGH                                                   5qJOHPHQW
+
+
+
+'DQVOHVVHXOVVHFWHXUV1UVHXOVVRQWDXWRULVpV
+    /RUVTX LOVVRQWQpFHVVDLUHVjODJHVWLRQRXjO RXYHUWXUHDXSXEOLFGHFHVHVSDFHVRXPLOLHX[
+        OHV FKHPLQHPHQWVSLpWRQQLHUVHW F\FODEOHVHW OHVVHQWLHUVpTXHVWUHVQL FLPHQWpVQL ELWXPpV
+        OHV REMHWVPRELOLHUVGHVWLQpVjO DFFXHLORX j O LQIRUPDWLRQ GXSXEOLF OHVSRVWHV G REVHUYDWLRQ
+        GHODIDXQHDLQVLTXHOHVpTXLSHPHQWVGpPRQWDEOHVOLpVjO K\JLqQHHWjODVpFXULWpWHOVTXHOHV
+        VDQLWDLUHV HW OHV SRVWHV GH VHFRXUV ORUVTXH OHXU ORFDOLVDWLRQ GDQV FHV HVSDFHV HVW UHQGXH
+        LQGLVSHQVDEOHSDUO LPSRUWDQFHGHODIUpTXHQWDWLRQGXSXEOLF
+    /HVDLUHVGHVWDWLRQQHPHQWLQGLVSHQVDEOHVjODPDvWULVHGHODIUpTXHQWDWLRQDXWRPRELOHHWjOD
+        SUpYHQWLRQ GH OD GpJUDGDWLRQ GH FHV HVSDFHV SDU OD UpVRUSWLRQ GX VWDWLRQQHPHQW LUUpJXOLHU
+        VDQVTX LOHQUpVXOWHXQDFFURLVVHPHQWGHVFDSDFLWpVHIIHFWLYHVGHVWDWLRQQHPHQWjFRQGLWLRQ
+        TXH FHV DLUHV QH VRLHQW QL FLPHQWpHV QL ELWXPpHV HW TX DXFXQH DXWUH LPSODQWDWLRQ QH VRLW
+        SRVVLEOH
+    /DUpIHFWLRQGHVEkWLPHQWVH[LVWDQWV
+    /HV DIIRXLOOHPHQWV HW H[KDXVVHPHQWV GX VRO OLpV DX[ FRQVWUXFWLRQV HW RFFXSDWLRQV GX VRO
+        DGPLVHVGDQVOD]RQHHWOHXUDFFqV
+
+'DQVOHVVHXOVVHFWHXUV1OVHXOVVRQWDXWRULVpV
+    /H FKDQJHPHQW GH GHVWLQDWLRQ GHV FRQVWUXFWLRQV H[LVWDQWHV SRXU GHV SUDWLTXHV GXUDEOHV RX
+        GHVDFWLYLWpVFXOWXUHOOHVVSRUWLYHVHWGHORLVLUV/HVEkWLPHQWVHWLQVWDOODWLRQVOLpVDX[SUDWLTXHV
+        GXUDEOHVHWDX[DFWLYLWpVFXOWXUHOOHVVSRUWLYHVHWGHORLVLUV
+
+'DQVOHVVHXOVVHFWHXUV1KVHXOVVRQWDXWRULVpV
+    /HFKDQJHPHQWGHGHVWLQDWLRQGHVFRQVWUXFWLRQVH[LVWDQWHVHQORJHPHQW
+    /¶H[WHQVLRQRXODVXUpOpYDWLRQGHVFRQVWUXFWLRQVH[LVWDQWHVDXWUHVTXHFHOOHVQpFHVVDLUHVDX[
+        VHUYLFHV SXEOLFV RX G¶LQWpUrW FROOHFWLI DLQVL TXH OHV SLVFLQHV HW DQQH[HV j O KDELWDWLRQ VXU
+        O¶XQLWp IRQFLqUH VXU ODTXHOOH VH WURXYH O¶KDELWDWLRQ  HVW OLPLWpH j  Pð GH 685)$&(
+        3/$1&+(5 DQFLHQQRXYHDX 
+    /HVSLVFLQHVHWOHVDQQH[HVG¶KDELWDWVDQVFUpDWLRQGHORJHPHQW JDUDJHEXDQGHULHUHPLVH
+        « 
+    /HV DIIRXLOOHPHQWV HW H[KDXVVHPHQWV GX VRO GDQV OD OLPLWH G¶ PqWUH OLpV DX[ WUDYDX[
+        DJULFROHVDX[FRQVWUXFWLRQVHWRFFXSDWLRQVGXVRODGPLVHVGDQVOD]RQHHWOHXUDFFqV
+   
+'DQVOHVVHXOVVHFWHXUV1FVHXOVVRQWDXWRULVpV
+    /HVFRQVWUXFWLRQVHWLQVWDOODWLRQVQpFHVVDLUHVjO¶H[SORLWDWLRQGHVFDUULqUHV
+    /HV DIIRXLOOHPHQWV HW H[KDXVVHPHQWV GX VRO OLpV DX[ FRQVWUXFWLRQV HW RFFXSDWLRQV GX VRO
+        DGPLVHVGDQVOD]RQHHWOHXUDFFqV
+
+'DQVOHVHXOVHFWHXU1[VHXOVVRQWDXWRULVpV
+    /HVFRQVWUXFWLRQVHWLQVWDOODWLRQVQpFHVVDLUHVjO¶H[SORLWDWLRQGXVLWH
+              /HVFRQVWUXFWLRQVjGHVWLQDWLRQG¶KDELWDWLRQjFRQGLWLRQTXHFHVRLHQWGHVORJHPHQWVGH
+              IRQFWLRQRXGHVORJHPHQWVGHJDUGLHQVOLpHVHWQpFHVVDLUHVjGHVDFWLYLWpVpFRQRPLTXHV
+              LPSODQWpHVGDQVOD]RQH
+               /HV FRQVWUXFWLRQV j GHVWLQDWLRQ GHV DFWLYLWpV GHV VHFWHXUV VHFRQGDLUH RX WHUWLDLUH j
+              FRQGLWLRQTXHFHVRLHQWGHVDLUHVGHVWRFNDJHRXGHVEkWLPHQWVjGHVWLQDWLRQGHEXUHDX
+              G¶LQGXVWULHHQWUHS{WDWHOLHURXGXVWRFNDJH
+               /HV FRQVWUXFWLRQV j GHVWLQDWLRQ G¶pTXLSHPHQWV G LQWpUrW FROOHFWLI HW VHUYLFHV SXEOLFV j
+              FRQGLWLRQ TXH FH VRLHQW GHV ORFDX[ WHFKQLTXHV HW LQGXVWULHOV GHV DGPLQLVWUDWLRQV
+              SXEOLTXHVHWDVVLPLOpV
+    /HV DIIRXLOOHPHQWV HW H[KDXVVHPHQWV GX VRO OLpV DX[ FRQVWUXFWLRQV HW RFFXSDWLRQV GX VRO
+        DGPLVHVGDQVOD]RQHHWOHXUDFFqV
+
+'DQVO¶HQVHPEOHGHOD]RQH1WRXVVHFWHXUVFRQIRQGXV
+/HVWUDYDX[D\DQWSRXUHIIHWGHPRGLILHURXGHVXSSULPHUXQpOpPHQWTXHOHSODQORFDOG¶XUEDQLVPHD
+LGHQWLILp HQ DSSOLFDWLRQ GH O¶DUWLFOH / FRPPH SUpVHQWDQW XQ LQWpUrW SDWULPRQLDO RX SD\VDJHU
+GRLYHQW rWUH SUpFpGpV G¶XQH GpFODUDWLRQ SUpDODEOH DUWLFOHV 5Accusé   HW de5
+                                                                                             réception en GX     FRGH GH
+                                                                                                          préfecture
+                                                                                  019-211903109-20250407-75-02042025-DE
+O¶XUEDQLVPH 'RLYHQWrWUHHQRXWUHSUpFpGpVG¶XQSHUPLVGHGpPROLUOHVWUDYDX[D\DQWSRXUREMHWGH
+                                                                                  Date de télétransmission : 07/04/2025
+                                                                                  Date de réception préfecture : 07/04/2025
+GpPROLU RX GH UHQGUH LQXWLOLVDEOH WRXWH RX SDUWLH G¶XQH FRQVWUXFWLRQ LGHQWLILpH FRPPH GHYDQW rWUH
+SURWpJpHHQDSSOLFDWLRQGXPrPHDUWLFOH
+
+
+                                                    0RGLILFDWLRQQ                                                
+
+3ODQ/RFDOG 8UEDQLVPHGHODFRPPXQHGH%ULYH/D*DLOODUGH                                                          5qJOHPHQW
+
+
+
+'DQV OHV VHFWHXUV VRXPLV j XQ ULVTXH VH UpIpUHU j OD UpJOHPHQWDWLRQ GX 3ODQ GH 3UpYHQWLRQ GHV
+5LVTXHVHQTXHVWLRQ
+
+'DQVOHVVHFWHXUVVRXPLVjXQDOpDPRXYHPHQWGHWHUUDLQOHVGpEODLVUHPEODLVVHURQWOLPLWpVjP
+
+'DQV OH VHFWHXU 1[ OHV GpEODLV UHPEODLV VXU FDVLHUV VRQW LQWHUGLWV HW VXU OHV VHFWHXUV VLWXpV KRUV
+FDVLHUV LOV VHURQW OLPLWpV j  P GX IDLW GHV FRQWUDLQWHV WRSRJUDSKLTXHV HW SRXU YHLOOHU j OD ERQQH
+LQWpJUDWLRQGHVIXWXUHVFRQVWUXFWLRQV
+
+
+$UWLFOH 1   /HV FRQGLWLRQV GH GHVVHUWH GHV WHUUDLQV SDU OHV YRLHV SXEOLTXHV RX SULYpHV HW
+G·DFFqVDX[YRLHVRXYHUWHVDXSXEOLF
+
+ĐĐğƐ
+
+3RXUrWUHFRQVWUXFWLEOHXQWHUUDLQGRLWDYRLUDFFqVjXQHYRLHSXEOLTXHRXjXQHYRLHSULYpHRXYHUWHDX
+SXEOLF VRLW GLUHFWHPHQW VRLW SDU O¶LQWHUPpGLDLUH G¶XQ SDVVDJH DPpQDJp VXU IRQGV YRLVLQ RX
+pYHQWXHOOHPHQWREWHQXSDUDSSOLFDWLRQGHO¶DUWLFOHGX&RGH&LYLO
+sŽŝĞƐŽƵǀĞƌƚĞƐĂƵƉƵďůŝĐ
+
+(QFDVGHFUpDWLRQG¶XQHYRLHQRXYHOOHOHFKRL[GHVRQWUDFpGHVDWRSRJUDSKLHHWGHVRQWUDLWHPHQW
+GHYUDSHUPHWWUHG¶HQOLPLWHUDXPD[LPXPO¶LPSDFWYLVXHOGDQVOHSD\VDJH
+/HV FDUDFWpULVWLTXHV WHFKQLTXHV GHV YRLHV SXEOLTXHV RX SULYpHV VHURQW VXIILVDQWHV DX UHJDUG GH
+O¶LPSRUWDQFH HW GH OD QDWXUH GX SURMHW UpSRQGDQW j OD GHVWLQDWLRQ GH O¶LPPHXEOH RX GH O¶HQVHPEOH
+G¶LPPHXEOHVHQYLVDJp
+&HVYRLHVGRLYHQWQRWDPPHQWSHUPHWWUH
+                  O¶DSSURFKH GX PDWpULHO GH OXWWH FRQWUH O¶LQFHQGLH GHV VHUYLFHV GH VpFXULWp GHV
+                    YpKLFXOHVFRQIRUPpPHQWDX[UpJOHPHQWDWLRQVHQYLJXHXU
+                  OHSDVVDJHGHVYpKLFXOHVGHUDPDVVDJHGHVRUGXUHVPpQDJqUHVGHQHWWRLHPHQWHWGH
+                    YLDELOLWpKLYHUQDOHDX[UpJOHPHQWDWLRQVHQYLJXHXU
+            
+'H SOXV VL HOOHV VH WHUPLQHQW HQ LPSDVVH HOOHV GRLYHQW FRPSRUWHU j OHXU H[WUpPLWp XQH SODWHIRUPH
+SHUPHWWDQWOHGHPLWRXUGHVYpKLFXOHVGHVHFRXUVHWGHFROOHFWHGHVRUGXUHVPpQDJqUHV
+&HVGLVSRVLWLRQVQHSUpVDJHQWHQULHQGXFODVVHPHQWGHFHVYRLHVGDQVOHGRPDLQHSXEOLF
+
+
+
+$UWLFOH1/HVFRQGLWLRQVGHGHVVHUWHSDUOHVUpVHDX[
+
+ĂƵƉŽƚĂďůĞ
+7RXWH FRQVWUXFWLRQ RX LQVWDOODWLRQ QRXYHOOH TXL SDU VD GHVWLQDWLRQ LPSOLTXH XQH XWLOLVDWLRQ G¶HDX
+SRWDEOHGRLWrWUHREOLJDWRLUHPHQWDOLPHQWpHSDUEUDQFKHPHQWjXQUpVHDXFROOHFWLIGHGLVWULEXWLRQVRXV
+SUHVVLRQSUpVHQWDQWGHVFDUDFWpULVWLTXHVVXIILVDQWHV
+
+
+ĂƵǆĚ͛ĂƐƐĂŝŶŝƐƐĞŵĞŶƚ
+
+ĂƵǆƵƐĠĞƐ
+7RXWH FRQVWUXFWLRQ RX LQVWDOODWLRQ QRXYHOOH GRLW pYDFXHU VHV HDX[ YDQQHV HDX[ SOXYLDOHV HW HDX[
+XVpHV SDU GHV FDQDOLVDWLRQV VRXWHUUDLQHV HW pWDQFKHV UDFFRUGpHV              DX[ UpVHDX[ FROOHFWLIV
+                                                                                 Accusé de réception en préfecture
+G DVVDLQLVVHPHQW                                                               019-211903109-20250407-75-02042025-DE
+                                                                                 Date de télétransmission : 07/04/2025
+                                                                                       Date de réception préfecture : 07/04/2025
+
+
+
+
+    &DVLHUIRVVHVpWDQFKHVGHVWLQpHVjUHFHYRLUOHVGpFKHWVGDQVXQFHQWUHGHVWRFNDJH
+
+                                                    0RGLILFDWLRQQ                                                         
+
+3ODQ/RFDOG 8UEDQLVPHGHODFRPPXQHGH%ULYH/D*DLOODUGH                                                  5qJOHPHQW
+
+
+/ DXWRULWp FRPSpWHQWH LQGLTXHUD GDQV TXHO GpODL HW SDU TXHOOH FROOHFWLYLWp SXEOLTXH RX TXHO
+FRQFHVVLRQQDLUHGHVHUYLFHSXEOLFOHVWUDYDX[G pTXLSHPHQWHDXHWDVVDLQLVVHPHQWQpFHVVDLUHVjOD
+GHVVHUWHGXWHUUDLQVHURQWH[pFXWpV
+7RXW UDFFRUGHPHQW GHYUD IDLUH O REMHW G XQH GHPDQGH G DXWRULVDWLRQ GpSRVpH DXSUqV GHV 6HUYLFHV
+7HFKQLTXHVGHO¶$JJORPpUDWLRQGH%ULYH/D*DLOODUGH
+(Q O¶DEVHQFH G¶XQ UpVHDX G¶DVVDLQLVVHPHQW FROOHFWLI OH WUDLWHPHQW GHV HDX[ YDQQHV HW XVpHV HVW
+DXWRULVpHQWUDLWHPHQWDXWRQRPH
+
+ĂƵǆƉŽůůƵĂŶƚĞƐ͗
+7RXW GpYHUVHPHQW G¶HDX[ XVpHV DXWUHV TXH GRPHVWLTXHV GDQV OH UpVHDX SXEOLF GRLW rWUH
+SUpDODEOHPHQWWUDLWpHWDXWRULVpSDUXQHGpFLVLRQGHO¶DXWRULWpFRPSpWHQWH
+
+ĂƵǆƉůƵǀŝĂůĞƐ
+7RXWHFRQVWUXFWLRQRXLQVWDOODWLRQQRXYHOOHQHGHYUDSDVDYRLUSRXUFRQVpTXHQFHDPLQLPDG DFFURvWUH
+OHVGpELWVG HDX[SOXYLDOHVSDUUDSSRUWjODVLWXDWLRQUpVXOWDQWGHO pWDWDFWXHOG LPSHUPpDELOLVDWLRQGHV
+WHUUDLQV/HVQRXYHOOHVLPSHUPpDELOLVDWLRQVGHVROVGRLYHQWrWUHFRPSHQVpHVSDUODPLVHHQ°XYUHGH
+GLVSRVLWLIVGHUpWHQWLRQGHVHDX[SOXYLDOHV VWRFNDJHjODSDUFHOOH 
+
+
+ZĠƐĞĂƵǆĠůĞĐƚƌŝƋƵĞƐĞƚĚĞƚĠůĠĐŽŵŵƵŶŝĐĂƚŝŽŶƐ
+/HVEUDQFKHPHQWVHWUpVHDX[GHGLVWULEXWLRQpOHFWULTXHHWGHWpOpFRPPXQLFDWLRQVHURQWDPpQDJpVHQ
+VRXWHUUDLQVDXIHQFDVG¶LQFDSDFLWpWHFKQLTXH
+
+
+ŝĨĨƵƐŝŽŶƐŚĞƌƚǌŝĞŶŶĞƐ
+/HV FRQVWUXFWHXUV GHYURQW SUHQGUH WRXWHV PHVXUHV XWLOHV DILQ GH QH SDV SHUWXUEHU OD UpFHSWLRQ GHV
+VLJQDX[GHWpOpYLVLRQHWGHUDGLRGLIIXVLRQjPRGXODWLRQGHIUpTXHQFH'DQVOHFDVRGHVSHUWXUEDWLRQV
+VHUDLHQWRFFDVLRQQpHVLOVVHURQWWHQXVGHUpSDUHUOHVSUpMXGLFHVFDXVpV
+
+ƵƚƌĞƐƌĠƐĞĂƵǆ
+/HVDXWUHVUpVHDX[GHYURQWrWUHHQWHUUpVVDXILPSpUDWLIWHFKQLTXHjMXVWLILHU
+
+
+
+$UWLFOH1/DVXSHUILFLHPLQLPDOHGHVWHUUDLQVFRQVWUXFWLEOHV
+
+1RQUpJOHPHQWp
+
+
+
+$UWLFOH1,PSODQWDWLRQGHVFRQVWUXFWLRQVSDUUDSSRUWDX[YRLHVHWHPSULVHVSXEOLTXHV
+
+ĂŶƐůĞƐƐĞĐƚĞƵƌƐE͕EƌĞƚEǌ͗
+
+1RQUpJOHPHQWp
+
+ĂŶƐůĞƐƐĞƵůƐƐĞĐƚĞƵƌƐEů͗
+
+/D IDoDGH GH WRXW EkWLPHQW QRXYHDX GRLW rWUH LPSODQWpH j XQH GLVWDQFH GH  PqWUHVPLQLPXP GH OD
+OLPLWHG¶HPSULVHGHODYRLHSXEOLTXH
+7RXWH FRQVWUXFWLRQ FRPSULV EkWLPHQWV DQQH[HV JDUDJH UHPLVH HQWUHS{W  GHYUD rWUH LPSODQWpH DILQ
+GH OLPLWHUDXPD[LPXP OHVVXUIDFHVGH YRLULHV HWPRGLILFDWLRQVGXWHUUDLQ QDWXUHOQpFHVVDLUHVjOHXU
+GHVVHUWH
+                                                                                   Accusé de réception en préfecture
+                                                                                    019-211903109-20250407-75-02042025-DE
+ĂŶƐůĞƐƐĞƵůƐƐĞĐƚĞƵƌƐEŚ͗                                              Date de télétransmission : 07/04/2025
+                                                                           Date de réception préfecture : 07/04/2025
+
+7RXWH FRQVWUXFWLRQ FRPSULVEkWLPHQWVDQQH[HV JDUDJH UHPLVH GHYUDrWUH LPSODQWpHDILQ GH OLPLWHU
+DXPD[LPXPOHVVXUIDFHVGHYRLULHVHWPRGLILFDWLRQVGXWHUUDLQQDWXUHOQpFHVVDLUHVjOHXUGHVVHUWH
+
+                                                   0RGLILFDWLRQQ                                                 
+
+3ODQ/RFDOG 8UEDQLVPHGHODFRPPXQHGH%ULYH/D*DLOODUGH                                                 5qJOHPHQW
+
+
+
+/HV SLVFLQHV HQ OLPLWH GX GRPDLQH URXWLHU GpSDUWHPHQWDO GHYURQW UHVSHFWHU XQ UHWUDLW PLQLPXP GH 
+PqWUHVSDUUDSSRUWjODOLPLWHG¶HPSULVHGHFHVYRLHVSUpFLWpHV
+/¶H[WHQVLRQRXODVXUpOpYDWLRQGHFRQVWUXFWLRQVH[LVWDQWHV DYDQWODGDWHG¶DSSUREDWLRQGX3ODQ/RFDO
+G¶8UEDQLVPH 3/8 HWLPSODQWpHVGLIIpUHPPHQWHVWSRVVLEOH
+
+ĂŶƐůĞƐĞƵůƐĞĐƚĞƵƌEǆ͗
+
+/DIDoDGHGHWRXWEkWLPHQWQRXYHDXGRLWrWUHLPSODQWpHjXQHGLVWDQFHGHPqWUHVPLQLPXPGHOD
+OLPLWHG¶HPSULVHGHODYRLHSXEOLTXH
+
+
+ĂŶƐů͛ĞŶƐĞŵďůĞĚĞůĂǌŽŶĞE͗
+
+Ŷ ĚĞŚŽƌƐ ĚĞƐ ĞƐƉĂĐĞƐ ƵƌďĂŶŝƐĠƐ͕ HW FRQIRUPpPHQW j O¶DUWLFOH / GX &RGH GH O¶8UEDQLVPH OHV
+FRQVWUXFWLRQVRXLQVWDOODWLRQVDXWRULVpHVjO¶DUWLFOHVRQWLQWHUGLWHVGDQVXQHEDQGHGHFHQWPqWUHVGH
+SDUWHWG DXWUHGHO D[HGHO¶DXWRURXWH$HWGHVRL[DQWHTXLQ]HPqWUHVGHSDUWHWG DXWUHGHO D[HGHV
+5'HW5'pWDQWFODVVpHVURXWHVjJUDQGHFLUFXODWLRQ
+
+ŽŶĐĞƌŶĂŶƚůĞƐƌŽƵƚĞƐĚĠƉĂƌƚĞŵĞŶƚĂůĞƐĚĞƉƌĞŵŝğƌĞĐĂƚĠŐŽƌŝĞ;ZϯϴͿ͗
+              XQ UHFXO GH  P SDU UDSSRUW j O¶HPSULVH GH OD YRLH GHYUD rWUH REVHUYp SRXU OHV
+                KDELWDWLRQVKRUVDJJORPpUDWLRQ
+             XQUHFXOGHPSDUUDSSRUWjO¶HPSULVHGHODYRLHGHYUDrWUHREVHUYpSRXUOHVDXWUHV
+               FRQVWUXFWLRQVKRUVDJJORPpUDWLRQ
+ŽŶĐĞƌŶĂŶƚůĞƐƌŽƵƚĞƐĚĠƉĂƌƚĞŵĞŶƚĂůĞƐĚĞĚĞƵǆŝğŵĞĐĂƚĠŐŽƌŝĞ;ZϱϳͲZϱϵͲZϳϰͲZϭϱϰĞƚZϭϳϬͿ͗
+              XQ UHFXO GH  P SDU UDSSRUW j O¶HPSULVH GH OD YRLH GHYUD rWUH REVHUYp SRXU OHV
+                KDELWDWLRQVKRUVDJJORPpUDWLRQ
+
+
+$UWLFOH1/ LPSODQWDWLRQGHVFRQVWUXFWLRQVSDUUDSSRUWDX[OLPLWHVVpSDUDWLYHV
+
+ĂŶƐůĞƐƐĞĐƚĞƵƌƐE͕EƌĞƚEǌ͗
+
+1RQUpJOHPHQWp
+
+
+ĂŶƐůĞƐƐĞƵůƐƐĞĐƚĞƵƌƐEůĞƚEǆ͗
+
+/¶LPSODQWDWLRQHWO¶RULHQWDWLRQGHVFRQVWUXFWLRQVQRXYHOOHVGRLYHQWrWUHUpDOLVpHVHQFRKpUHQFHDYHFOH
+EkWLHWOHVVWUXFWXUHVSD\VDJqUHVH[LVWDQWVDILQGHOLPLWHUOHXULPSDFWGDQVO¶HQYLURQQHPHQW
+
+/HVFRQVWUXFWLRQVQRXYHOOHVGRLYHQWrWUHpGLILpHVHQUHWUDLWGHVOLPLWHVVpSDUDWLYHVjXQHGLVWDQFHGHV
+OLPLWHVDXPRLQVpJDOHjODPRLWLpGHODKDXWHXUGHODFRQVWUXFWLRQVDQVrWUHLQIpULHXUHjPqWUHV
+
+ĂŶƐůĞƐƐĞƵůƐƐĞĐƚĞƵƌƐEŚ͗
+
+/¶LPSODQWDWLRQHWO¶RULHQWDWLRQGHVFRQVWUXFWLRQVQRXYHOOHVGRLYHQWrWUHUpDOLVpHVHQFRKpUHQFHDYHFOH
+EkWLHWOHVVWUXFWXUHVSD\VDJqUHVH[LVWDQWVDILQGHOLPLWHUOHXULPSDFWGDQVO¶HQYLURQQHPHQW
+/HV DQQH[HV j O¶KDELWDWLRQ SLVFLQHV UHPLVHV JDUDJHV «  SHXYHQW rWUH LPSODQWpHV VDQV UpIpUHQFH
+SDUUDSSRUWDX[OLPLWHVVpSDUDWLYHV
+/¶H[WHQVLRQRXODVXUpOpYDWLRQGHFRQVWUXFWLRQVH[LVWDQWHV DYDQWODGDWHG¶DSSUREDWLRQGX3ODQ/RFDO
+G¶8UEDQLVPH 3/8 HWLPSODQWpHVGLIIpUHPPHQWHVWSRVVLEOH
+/HV RXYUDJHV QpFHVVDLUHV DX IRQFWLRQQHPHQW GHV VHUYLFHV SXEOLFV HW pTXLSHPHQWV SXEOLFV
+                                                                                Accusé de réception en préfecture
+  WUDQVIRUPDWHXUV S\O{QHV VWDWLRQ GH UHOHYDJH EDVVLQV GH UpWHQWLRQ   SHXYHQW        rWUH LPSODQWpV
+                                                                                019-211903109-20250407-75-02042025-DE
+                                                                                Date de télétransmission : 07/04/2025
+OLEUHPHQWSDUUDSSRUWDX[OLPLWHVVpSDUDWLYHV                                 Date de réception préfecture : 07/04/2025
+
+
+
+
+                                                   0RGLILFDWLRQQ                                               
+
+ 3ODQ/RFDOG 8UEDQLVPHGHODFRPPXQHGH%ULYH/D*DLOODUGH                                                5qJOHPHQW
+
+
+
+ $UWLFOH1/ LPSODQWDWLRQGHVFRQVWUXFWLRQVOHVXQHVSDUUDSSRUWDX[DXWUHVVXUXQHPrPH
+ SURSULpWp
+
+ ĂŶƐůĞƐƐĞĐƚĞƵƌƐ͕EƌĞƚEǌ͗
+ 
+ 1RQUpJOHPHQWp
+ 
+ ĂŶƐůĞƐƐĞƵůƐƐĞĐƚĞƵƌƐEů͕EǆĞƚEŚ͗
+ 
+ 'HX[FRQVWUXFWLRQVQRQFRQWLJXsV KRUVDQQH[HVGHPRLQVGHPð LPSODQWpHVVXUXQHPrPHXQLWp
+ IRQFLqUHGRLYHQWSHUPHWWUHO¶DFFqVGHVPR\HQVGHVHFRXUVHWGHOXWWHFRQWUHO¶LQFHQGLH
+ 
+ 
+ 'DQVOHVVHXOVVHFWHXUV1
+ 1RQUpJOHPHQWpSRXUOHVFRQVWUXFWLRQV
+ 
+/HV DQQH[HV VHURQW VLWXpHV VXU O¶XQLWp IRQFLqUH GX EkWLPHQW G¶KDELWDWLRQ GRQW HOOHV GpSHQGHQW (OOHV
+VHURQW LPSODQWpHV j XQH GLVWDQFH PHVXUpH j SDUWLU GHV PXUV H[WpULHXUV GX EkWLPHQW G¶KDELWDWLRQ
+SULQFLSDOjPPD[LPXPSDUGpIDXWjO¶H[FHSWLRQ
+     GHVSLVFLQHVTXLSHXYHQWrWUHLPSODQWpHVjPPD[LPXP
+      GHV DEULV GH MDUGLQ GH  P PD[LPXP  HW OHV DEULV SRXU DQLPDX[ KRUV DFWLYLWp DJULFROH
+       SULQFLSDOH TXLSHXYHQWrWUHLPSODQWpVjPPD[LPXP
+
+
+ $UWLFOH1/ HPSULVHDXVROGHVFRQVWUXFWLRQV
+
+ 1RQUpJOHPHQWp
+ 
+ 'DQVOHVVHXOVVHFWHXUV1
+ 1RQUpJOHPHQWpSRXUOHVFRQVWUXFWLRQV
+ /¶HPSULVHDXVROG¶XQHDQQH[H KRUVSLVFLQHVDEULVGHMDUGLQDEULVSRXUDQLPDX[ HVWOLPLWpHjPð
+ /¶HPSULVHDXVROG¶XQDEULGHMDUGLQHVWOLPLWpHjPð'DQVOHFDVGHSOXVLHXUVDQQH[HVVXUODPrPH
+ XQLWpIRQFLqUHOHQRPEUHPD[LPXPG¶DQQH[HVHVW GHSRXUXQHHPSULVHDXVROWRWDOHPD[LPDOHGH
+ Pð&HVDQQH[HVQHGHYURQWSDVrWUHWUDQVIRUPpHVHQQRXYHDXORJHPHQW
+ 
+ /HVH[WHQVLRQVGHVFRQVWUXFWLRQVH[LVWDQWHVjXVDJHG¶KDELWDWLRQVHURQWOLPLWpHVjGHODVXUIDFH
+ GHSODQFKHUGXEkWLPHQWH[LVWDQWVDQVGpSDVVHUPðGHVXUIDFHGHSODQFKHUWRWDOH
+ 
+ /RUVTXH OD VXUIDFH GH SODQFKHU GH OD FRQVWUXFWLRQ H[LVWDQWH HVW LQIpULHXUH j  Pð OD VXUIDFH GH
+ SODQFKHUGHO¶HQVHPEOHSHXWrWUHSRUWpHjPðPD[LPXP
+
+
+ $UWLFOH1/DKDXWHXUPD[LPDOHGHVFRQVWUXFWLRQV
+
+ ĂŶƐůĞƐƐĞĐƚĞƵƌƐEƌĞƚEǌ͗
+ 
+ 1RQUpJOHPHQWp
+ 
+ ĂŶƐůĞƐƐĞƵůƐƐĞĐƚĞƵƌƐE͗
+ 1RQUpJOHPHQWpSRXUOHVFRQVWUXFWLRQV
+ /HVDQQH[HVVRQWOLPLWpHVjXQVHXOQLYHDX
+ 
+ /DKDXWHXUPD[LPDOHDXIDLWDJHGHVH[WHQVLRQVGRLWrWUHLQIpULHXUHRXpJDOHjODKDXWHXUDXIDLWDJHGH
+                                                                               Accusé de réception en préfecture
+ ODFRQVWUXFWLRQSULQFLSDOHRXpJDOHjPjO¶DFURWqUHHQFDVGHWRLWXUHVWHUUDVVHV
+                                                                               019-211903109-20250407-75-02042025-DE
+                                                                               Date de télétransmission : 07/04/2025
+                                                                              Date de réception préfecture : 07/04/2025
+
+ 
+
+
+                                                    0RGLILFDWLRQQ                                             
+ 
+3ODQ/RFDOG 8UEDQLVPHGHODFRPPXQHGH%ULYH/D*DLOODUGH                                                     5qJOHPHQW
+
+
+ĂŶƐůĞƐƐĞƵůƐƐĞĐƚĞƵƌƐEů͗
+
+/D KDXWHXU PD[LPDOH GHV FRQVWUXFWLRQV QH SHXW H[FpGHU P j O¶pJRXW GX WRLW  pWDJHV VXU UH]GH
+FKDXVVpHXQQLYHDXGHFRPEOHDPpQDJHDEOH SRXUOHVEkWLPHQWVFROOHFWLIV
+
+/RUVTXH OH WHUUDLQ HVW HQ SHQWH OD KDXWHXU PD[LPXP GH OD FRQVWUXFWLRQ QH GHYUD SDV H[FpGHU OH
+SODIRQGGHVKDXWHXUV OLJQHSDUDOOqOHjODSHQWHGXWHUUDLQ IL[pjP
+
+ĂŶƐůĞƐƐĞƵůƐƐĞĐƚĞƵƌƐEŚ͗
+
+/D KDXWHXU PD[LPDOH GHV FRQVWUXFWLRQV QH SHXW H[FpGHU  P j O¶pJRXW GX WRLW  pWDJH VXU UH]GH
+FKDXVVpHXQQLYHDXGHFRPEOHDPpQDJHDEOH SRXUOHVEkWLPHQWVFROOHFWLIV
+
+/RUVTXH OH WHUUDLQ HVW HQ SHQWH OD KDXWHXU PD[LPXP GH OD FRQVWUXFWLRQ QH GHYUD SDV H[FpGHU OH
+SODIRQGGHVKDXWHXUV OLJQHSDUDOOqOHjODSHQWHGXWHUUDLQ IL[pjP
+
+ĂŶƐůĞƐĞƵůƐĞĐƚĞƵƌEǆ͗
+/D KDXWHXU PD[LPDOH GHV FRQVWUXFWLRQV j XVDJH G¶KDELWDWLRQ HW GH EXUHDX QH SHXW H[FpGHU  P j
+O¶pJRXWGXWRLWSDUUDSSRUWDXQLYHDXDFWXHOGXWHUUDLQQDWXUHO
+
+/D KDXWHXU PD[LPDOH GHV FRQVWUXFWLRQV j XVDJH LQGXVWULHO GH W\SH EkWLPHQW j GHVWLQDWLRQ GH
+&RPEXVWLEOH 6ROLGH GH 5pFXSpUDWLRQ &65  QH SHXW H[FpGHU  P j O¶pJRXW GX WRLW SDU UDSSRUW DX
+QLYHDXDFWXHOGXWHUUDLQQDWXUHOKRUVpOpPHQWWHFKQLTXHVSpFLILTXH W\SHFKHPLQpH 
+
+/D KDXWHXU PD[LPDOH GHV FRQVWUXFWLRQV j XVDJH WHFKQLTXH GH W\SH DWHOLHU QH SHXW H[FpGHU  P j
+O¶pJRXWGXWRLWSDUUDSSRUWDXQLYHDXDFWXHOGXWHUUDLQQDWXUHO
+
+ĂŶƐů͛ĞŶƐĞŵďůĞĚĞůĂǌŽŶĞEƚŽƵƐƐĞĐƚĞƵƌƐĐŽŶĨŽŶĚƵƐ͗
+
+/HVGLVSRVLWLRQVGXSUpVHQWDUWLFOHQHV DSSOLTXHQWSDVDX[FRQVWUXFWLRQVHWRXYUDJHVQpFHVVDLUHVDX
+IRQFWLRQQHPHQWGHVVHUYLFHVSXEOLFVHWpTXLSHPHQWVSXEOLFV WUDQVIRUPDWHXUVS\O{QHV 
+
+
+
+$UWLFOH1/ DVSHFWH[WpULHXUGHVFRQVWUXFWLRQVHWO DPpQDJHPHQWGHOHXUVDERUGV
+
+
+>ĞƐĚŝƐƉŽƐŝƚŝŽŶƐĚĞĐĞƚĂƌƚŝĐůĞƐ͛ĂƉƉůŝƋƵĞŶƚĚĂŶƐů͛ĞŶƐĞŵďůĞĚĞůĂǌŽŶĞEƚŽƵƐƐĞĐƚĞƵƌƐĐŽŶĨŽŶĚƵƐ͗
+
+
+'LVSRVLWLRQVJpQpUDOHV
+
+/HV FRQVWUXFWLRQV QRXYHOOHV H[WHQVLRQV GH EkWLPHQW H[LVWDQW HW OHXUV DPpQDJHPHQWV H[WpULHXUV
+GRLYHQW SDU OHXU LPSODQWDWLRQ OHXU YROXPpWULH OH FKRL[ GHV PDWpULDX[ OHXU DVSHFW HW OHXUV WHLQWHV
+UHVSHFWHUOHFDUDFWqUHHWO¶LQWpUrWGHVHQVHPEOHVSD\VDJHUVHWEkWLVGDQVOHVTXHOVHOOHVVRQWVLWXpHV
+
+/HV H[SUHVVLRQV DUFKLWHFWXUDOHV GHV FRQVWUXFWLRQV HW OHXUV DPpQDJHPHQWV GHV DERUGV LVVXV G¶XQH
+GpPDUFKH HQ PDWLqUH GH GpYHORSSHPHQW GXUDEOH HW GH TXDOLWp HQYLURQQHPHQWDOH FLEOHV +4(
++DXWH 4XDOLWp (QYLURQQHPHQWDOH  RX G¶XQH UHFKHUFKH FRQWHPSRUDLQH QH GHYURQW SDV SRUWHU DWWHLQWH
+DXFDUDFWqUHSD\VDJHUHWDUFKLWHFWXUDOGHVOLHX[
+
+
+&RQVWUXFWLRQVH[LVWDQWHV
+
+'pV ORUV TX¶XQH FRQVWUXFWLRQ SUpVHQWH XQ LQWpUrW DUFKLWHFWXUDO DX UHJDUGAccusé
+                                                                                     QRWDPPHQW           GHV PDWpULDX[
+                                                                                           de réception en préfecture
+FRQVWUXFWLIV HPSOR\pV GH VD FRPSRVLWLRQGH VRQ RUGRQQDQFHPHQWWRXVWUDYDX[UpDOLVpV                    \FRPSULV
+                                                                                    019-211903109-20250407-75-02042025-DE
+                                                                                    Date de télétransmission : 07/04/2025
+OHVUDYDOHPHQWVGRLYHQWPHWWHHQYDOHXUOHVFDUDFWpULVWLTXHVGHODGLWHFRQVWUXFWLRQ&HVGLVSRVLWLRQV
+                                                                                    Date de réception préfecture : 07/04/2025
+QHIRQWSDVREVWDFOHjODUpDOLVDWLRQG¶H[WHQVLRQVGHFRQFHSWLRQDUFKLWHFWXUDOHFRQWHPSRUDLQHGqVORUV
+TXHVRQWPLVHQYDOHXUOHVpOpPHQWVG¶LQWpUrWGHODFRQVWUXFWLRQLQLWLDOH
+
+                                                     0RGLILFDWLRQQ                                                 
+
+3ODQ/RFDOG 8UEDQLVPHGHODFRPPXQHGH%ULYH/D*DLOODUGH                                                   5qJOHPHQW
+
+
+
+
+)DoDGHV
+
+/HV IDoDGHV GHV FRQVWUXFWLRQV QRXYHOOHV GHV PRGLILFDWLRQV RX H[WHQVLRQV GH EkWLPHQWV H[LVWDQWV
+IDYRULVHURQWXQHVLPSOLFLWpGHFRPSRVLWLRQHWG¶RUGRQQDQFHPHQWSDUODOLPLWDWLRQGXQRPEUHGHW\SHV
+G¶RXYHUWXUHV OHXU DOLJQHPHQW GDQV OHV pWDJHV HW OHV FRPEOHV HW O¶KDUPRQLH GHV DFFHVVRLUHV GHV
+IDoDGHV JDUGHFRUSVDXYHQW« 
+
+6RQWLQWHUGLWVVXUODWRWDOLWpGHVSDUWLHVGXSURMHWFO{WXUHVFRPSULVHV
+    
+ WRXWHH[SUHVVLRQDUFKLWHFWXUDOHPDWpULDXRXSHLQWXUHG LPLWDWLRQSODFDJHGHSLHUUHVpWUDQJHUVDX
+    VW\OHGHODUpJLRQRXGHO LPPHXEOHFRQFHUQp
+ O HPSORLjQXGHPDWpULDX[GHVWLQpVjrWUHUHFRXYHUWV SDUSDLQJVEULTXHVFUHXVHVHWF 
+ OHVSRO\FKURPLHVHWOHVWHLQWHVYLYHVHWEULOODQWHV
+ O¶HPSORLGXEODQFSXUHQJUDQGHVVXUIDFHV
+
+/DSLHUUHQDWXUHOOHFRQVWLWXHOHFKRL[GXPDWpULDXGHIDoDGHjSULYLOpJLHU
+
+'DQVOHFDVG¶XQHUHFKHUFKHG¶H[SUHVVLRQDUFKLWHFWXUDOHFRQWHPSRUDLQHRXLVVXHG¶XQHGpPDUFKHHQ
+PDWLqUHGHGpYHORSSHPHQWGXUDEOHHWGHTXDOLWpHQYLURQQHPHQWDOHLOSRXUUDrWUHDXWRULVpO¶DVVRFLDWLRQ
+G¶DXWUHV PDWpULDX[ GH IDoDGH VRXV UpVHUYH G¶HQ OLPLWHU OH QRPEUH HW GX UHVSHFW GHV FRORULV GX
+QXDQFLHUIDoDGHVpWDEOLSDUOD9LOOH
+
+
+%DUGDJH9rWXUH
+/DSRVH GHPDWpULDX[GHYrWXUHRXGHEDUGDJHHQIDoDGHHVWDXWRULVpHVRXVUpVHUYHGHOHXUERQQH
+LQWpJUDWLRQGDQVO¶HQYLURQQHPHQWHQSDUWLFXOLHUSDUOHFKRL[G¶XQPDWpULDXHWG¶XQFRORULVDGDSWp
+
+%DOFRQV7HUUDVVHV
+/HXUVGLPHQVLRQVOHXUVGLVSRVLWLRQVHWOHXUWUDLWHPHQWGRLYHQWrWUHHQKDUPRQLHDYHFODIDoDGH
+
+&DVSDUWLFXOLHUGHOD]RQH1[
+3RXUOHVEkWLPHQWV j XVDJH GHEXUHDX[G¶KDELWDWLRQRXj XVDJHWHFKQLTXHGHW\SH DWHOLHUOHV
+IDoDGHVVHURQW VDXISUHVFULSWLRQWHFKQLTXHSDUWLFXOLqUHGpPRQWUDQWO¶LPSRVVLELOLWpG¶XWLOLVDWLRQ VRLW
+ HQEDUGDJHERLVGHWHLQWHQDWXUHOLOVHUDDORUVSRVpYLDXQHDOWHUQDQFHYHUWLFDOHKRUL]RQWDOHSRXU
+    FDVVHU O¶HIIHW PDVVH GX EkWLPHQW GqV TXH FHOXLFL GpSDVVH OHV  PqWUHV GH IDoDGHV /HV
+    IDoDGHVSRXUURQWpJDOHPHQWSUpVHQWHUXQEDUGDJHERLVjFODLUHYRLH
+ HQEDFDFLHUGHFRXOHXUVRPEUHHWPDW
+ HQPXUPDoRQQpDYHFXQHQGXLWGHFRXOHXUVRPEUHXQLTXHPHQWSRXUOHQLYHDXUH]GHFKDXVVpH
+ HQ EpWRQ EUXW VL OHV FRIIUDJHV RQW pWp SUpYXV j FHW HIIHW FRPPH SDU H[HPSOH OHV EpWRQV
+    DUFKLWHFWRQLTXHV,OVGHYURQWrWUHDORUVGHFRXOHXUVRPEUH
+ HQSODFDJHGHSLHUUHORFDOH
+
+3RXU OHV EkWLPHQWV j XVDJH LQGXVWULHO GH W\SH &65  OHV IDoDGHV VHURQW VDXI SUHVFULSWLRQ
+WHFKQLTXHSDUWLFXOLqUHGpPRQWUDQWO¶LPSRVVLELOLWpG¶XWLOLVDWLRQ 
+ H[SRVLWLRQ 1RUG(VW HW 6XG(VW REOLJDWRLUHPHQW HQ EDUGDJH ERLV GH WHLQWH QDWXUHO SRXU XQH
+    PHLOOHXUH LQWpJUDWLRQ SD\VDJqUH ,O VHUD DORUV SRVp YLD XQH DOWHUQDQFH YHUWLFDOHKRUL]RQWDOH SRXU
+    FDVVHU O¶HIIHW PDVVH GX EkWLPHQW GqV TXH FHOXLFL GpSDVVH OHV  PqWUHV GH IDoDGHV /HV
+    IDoDGHVSRXUURQWpJDOHPHQWSUpVHQWHUXQEDUGDJHERLVjFODLUHYRLH
+ H[SRVLWLRQ1RUG2XHVWHW6XG2XHVW
+            x 6RLW HQ EDUGDJH ERLV GH WHLQWH QDWXUHO LO VHUD SRVp YLD XQH DOWHUQDQFH
+                 YHUWLFDOHKRUL]RQWDOH SRXU FDVVHU O¶HIIHW PDVVH GX EkWLPHQW GqV TXH FHOXLFL GpSDVVH
+                 OHV  PqWUHV GH IDoDGHV /HV IDoDGHV SRXUURQW pJDOHPHQW SUpVHQWHU XQ EDUGDJH
+                 ERLVDMRXUp
+            x 6RLWHQEDFDFLHUGHFRXOHXUVRPEUHHWPDW                        Accusé de réception en préfecture
+                                                                                  019-211903109-20250407-75-02042025-DE
+            x 6RLWHQPXUPDoRQQpDYHFXQHQGXLWGHFRXOHXUVRPEUH Date de télétransmission : 07/04/2025
+                                                                                  Date de réception préfecture : 07/04/2025
+            x 6RLWHQEpWRQQRQHQGXLWGHFRXOHXUVRPEUH
+            x 6RLWHQSODFDJHGHSLHUUHORFDOH
+
+                                                    0RGLILFDWLRQQ                                                
+
+3ODQ/RFDOG 8UEDQLVPHGHODFRPPXQHGH%ULYH/D*DLOODUGH                                                  5qJOHPHQW
+
+
+
+
+ǆĞŵƉůĞĚĞďĂƌĚĂŐĞďŽŝƐĂƵƚŽƌŝƐĠ
+
+/HVFRQVWUXFWLRQVGpPRQWDEOHV HQEkFKHRXEDUGpHVGHPpWDO VRQWDXWRULVpHVjFRQGLWLRQTXHOHXU
+FRXOHXUVRLWVRPEUH
+
+6RQWLQWHUGLWVVXUODWRWDOLWpGHVSDUWLHVGXSURMHWFO{WXUHVFRPSULVHV
+ WRXWHH[SUHVVLRQDUFKLWHFWXUDOHPDWpULDXRXSHLQWXUHG LPLWDWLRQSODFDJHGHSLHUUHVpWUDQJHUVDX
+   VW\OHGHODUpJLRQRXGHO LPPHXEOHFRQFHUQp
+ O HPSORL j QX GH PDWpULDX[ GHVWLQpV j rWUH UHFRXYHUWV W\SH SDUSDLQJV EULTXHV FUHXVHV HWF j
+   O¶H[FHSWLRQGXEpWRQSRXUOHVFRQVWUXFWLRQVjXVDJHLQGXVWULHO
+ OHVSRO\FKURPLHVHWOHVWHLQWHVYLYHVHWEULOODQWHV
+ O¶HPSORLGXEODQFSXU
+
+
+%DLHVPHQXLVHULHVDFFHVVRLUHVGHVIDoDGHV
+
+3RUWHV)HQrWUHVHWSRUWHVGHJDUDJHV
+/HV FKRL[ GHV W\SHV GH PHQXLVHULHV OHXUV GLPHQVLRQV OHXU RUGRQQDQFHPHQW HW OHXU FRORULV
+IDYRULVHURQWXQHERQQHLQVHUWLRQGHVIDoDGHVGDQVO¶HQYLURQQHPHQWSD\VDJHU
+/DSRVHGHILOPUpIOpFKLVVDQWHIIHW©PLURLUªVXUYLWUDJHVHVWSURVFULWH
+
+9ROHWV6WRUHV
+/HVYROHWVHWOHVVWRUHVGHYURQWrWUHHQKDUPRQLHDYHFODIDoDGH
+/HVFRIIUHVGHYROHWVURXODQWVVHURQWGHSUpIpUHQFHHQFDVWUpVVDQVMDPDLVrWUHHQVDLOOLHSDUUDSSRUWj
+ODIDoDGH
+/HVIHUUXUHVGHVYROHWVEDWWDQWVGHYURQWrWUHSHLQWHVGHODWHLQWHGHVYROHWV
+/DFRXOHXUGHVVWRUHVVHUDXQLH
+
+(TXLSHPHQWVWHFKQLTXHV
+/D SRVH G¶pTXLSHPHQWV WHFKQLTXHV SDUDEROHV DSSDUHLOV GH FOLPDWLVDWLRQV UpFXSpUDWHXUV G¶HDX GH
+SOXLH DOLPHQWDWLRQV HQ HDX RX HQ pOHFWULFLWp SRPSHV GLYHUVHV HVW DXWRULVpH VRXV UpVHUYH G¶rWUH
+LQWpJUpVjODFRQVWUXFWLRQHWGHQHSDVSRUWHUDWWHLQWHDXFDUDFWqUHRXjO¶LQWpUrWGHO¶HQYLURQQHPHQW
+VDXIFRQWUDLQWHVWHFKQLTXHVSDUWLFXOLqUHV
+
+ĂƐƉĂƌƚŝĐƵůŝĞƌĚĞůĂǌŽŶĞEǆ
+/DFRXOHXUEODQFKHHVWLQWHUGLWH
+/HVFKHPLQpHVVHURQWGHWHLQWHVRPEUH
+/HVSHLQWXUHVFODLUHVHWEULOODQWHVVRQWLQWHUGLWHV
+/HVHQVHLJQHVVRQWLQWHUGLWHVVXUOHVEkWLPHQWVjXVDJHLQGXVWULHOGHW\SH&658QHVHXOHHWXQLTXH
+HQVHLJQHHVWDXWRULVpHjO¶HQWUpHGHVLWHVXUOHVEkWLPHQWVjXVDJHGHEXUHDX[
+                                                                                 Accusé de réception en préfecture
+                                                                                 019-211903109-20250407-75-02042025-DE
+                                                                                 Date de télétransmission : 07/04/2025
+                                                                                 Date de réception préfecture : 07/04/2025
+
+
+
+
+                                                    0RGLILFDWLRQQ                                                  
+3ODQ/RFDOG 8UEDQLVPHGHODFRPPXQHGH%ULYH/D*DLOODUGH                                                   5qJOHPHQW
+
+
+7RLWXUHV
+
+/HV WRLWXUHV GHV FRQVWUXFWLRQV QRXYHOOHV GHV PRGLILFDWLRQV RX H[WHQVLRQV GH EkWLPHQWV H[LVWDQWV
+GRLYHQWV¶LQWpJUHUGDQVO¶HQYLURQQHPHQWSD\VDJHUHWEkWLH[LVWDQWSDUOHXUYROXPpWULHOHXUKDXWHXUHW
+OHXUFRORULV
+
+(Q UqJOH JpQpUDOH OHV FRQVWUXFWLRQV GLVSRVHURQW GH WRLWXUHV UHFRXYHUWHV HQ DUGRLVHV QDWXUHOOHV HW
+DXURQWGHVSHQWHVV\PpWULTXHVGHPLQLPXP  
+
+/HV pOpPHQWV SDUWLFXOLHUV GH WRLWXUHV SDYLOORQV FRPEOHV j EULVLV «  SRXUURQW rWUH UHIXVpV VL OHXUV
+GLPHQVLRQVVRQWGLVSURSRUWLRQQpHVSDUUDSSRUWjO¶HQVHPEOHGHODFRQVWUXFWLRQSURMHWpH
+
+'DQV OH FDV G¶DUFKLWHFWXUHV FRQWHPSRUDLQHV HW VRXV UpVHUYH G¶XQH ERQQH LQWpJUDWLRQ GDQV
+O¶HQYLURQQHPHQWOHVWRLWXUHVGHVFRQVWUXFWLRQVQRXYHOOHVSRXUURQWGLVSRVHUSRXUSDUWLHV
+ GHFRXYHUWXUHVPpWDOOLTXHVDYHFSHQWHGHPLQLPXP
+ GHWHUUDVVRQ FRXYHUWXUHjIDLEOHSHQWH HQUHWUDLWGHUULqUHDFURWqUH
+ GHWRLWXUHVWHUUDVVHVVLHOOHVVRQWDFFHVVLEOHVRXSODQWpHV
+        
+
+/D SRVH GH SDQQHDX[ VRODLUHV HQ WRLWXUH HVW DXWRULVpH VRXV UpVHUYH GHV GLVSRVLWLRQV VXLYDQWHV
+SHUPHWWDQWG¶HQOLPLWHUO¶LPSDFWYLVXHO
+ OHFRORULVGXPDWpULDXGHODFRXYHUWXUHFRQFHUQpHVHUDJULVIRQFpWHLQWHDUGRLVH
+ OHVSDQQHDX[VHURQWHQFDVWUpVGDQVODFRXYHUWXUH
+ OHXUGHVVLQVHUDVLPSOHSURSRUWLRQQpjODVXUIDFHGXSDQGHWRLWXUH
+ OHXULPSODQWDWLRQUHVSHFWHUDODFRPSRVLWLRQGHODWRLWXUHHWGHODIDoDGHjXQHGLVWDQFH
+     UDLVRQQDEOHGHVOXFDUQHVGHVDUrWLHUVHWULYHVGXWRLW
+ GDQVODFDVG¶XQHFRQVWUXFWLRQH[LVWDQWHLOVQHGHYURQWSDVPRGLILHUO¶KDUPRQLHGHODWRLWXUH
+
+ĂƐƉĂƌƚŝĐƵůŝĞƌĚĞůĂǌŽŶĞEǆ
+/HV WRLWXUHV GHV FRQVWUXFWLRQV QRXYHOOHV GHV PRGLILFDWLRQV RX H[WHQVLRQV GH EkWLPHQWV H[LVWDQWV
+GRLYHQWV¶LQWpJUHUGDQVO¶HQYLURQQHPHQWSD\VDJHUHWEkWLH[LVWDQWSDUOHXUYROXPpWULHOHXUKDXWHXUHW
+OHXUFRORULV
+
+/DSHQWHGHVWRLWXUHVSRXUUDrWUHLQIpULHXUHjVLEHVRLQ/HVWRLWXUHVVHURQWUpDOLVpHVHQDUGRLVH
+]LQF RX DXWUHV PDWpULDX[ GH WHLQWH DUGRLVpH RX EUXQH HW QRQ UpIOpFKLVVDQWV /HV WRLWXUHV WHUUDVVHV
+VRQWDXWRULVpHVHWSRXUURQWrWUHYpJpWDOLVpHV
+
+/DSRVHGHSDQQHDX[VRODLUHVHVWDXWRULVpHHQWRLWXUHDLQVLTXHVXUOHVRPEULqUHVGHVWDWLRQQHPHQW
+/HVSDQQHDX[VRODLUHVVHURQWDORUVGHFRXOHXUQRLUHHWQRQUpIOpFKLVVDQWV
+
+
+&O{WXUHV
+
+/HVPXUVHQSLHUUHH[LVWDQWVGHYURQWrWUHFRQVHUYpVHWUHVWDXUpV
+/HV FO{WXUHV GRLYHQW SDU OHXUV GLPHQVLRQV HW SDU OHXU FRQFHSWLRQ rWUH SURSRUWLRQQpHV DX[
+FRQVWUXFWLRQV H[LVWDQWHV RX SURMHWpHV VXU O¶XQLWp IRQFLqUH HW rWUH FRKpUHQFH DYHF OH EkWL HW OHV
+VWUXFWXUHVSD\VDJqUHVH[LVWDQWVDILQGHOLPLWHUOHXULPSDFWGDQVO¶HQYLURQQHPHQWSD\VDJHU
+
+/HVFO{WXUHVVXUGRPDLQHSXEOLFQHGHYURQWSDVGpSDVVHUPFRQVWLWXpVG¶XQPXUEDKXWGHP
+PD[LPXPVXUPRQWpG¶XQHJULOOHRXJULOODJHGRXEOpG¶XQHKDLHYLYH
+(QUqJOHJpQpUDOH OHVSRUWDLOVG¶DFFqVVHURQWLPSODQWpVHQUHWUDLW GHPPLQLPXPjO¶LQWpULHXUGH
+O¶XQLWpIRQFLqUH
+
+ĂƐƉĂƌƚŝĐƵůŝĞƌĚĞůĂǌŽŶĞEǆ                                                    Accusé de réception en préfecture
+                                                                                  019-211903109-20250407-75-02042025-DE
+'HV FO{WXUHV DXWUHV TXH FHOOHV SUpFpGHPPHQW OLVWpHV SHXYHQW rWUH Date  DXWRULVpHV      VL GHV: 07/04/2025
+                                                                                       de télétransmission   FRQWUDLQWHV
+                                                                                  Date de réception préfecture : 07/04/2025
+WHFKQLTXHVOLpHVjO¶XVDJHHWO¶H[SORLWDWLRQGXVLWHOHQpFHVVLWH
+
+
+
+                                                    0RGLILFDWLRQQ                                                
+
+3ODQ/RFDOG 8UEDQLVPHGHODFRPPXQHGH%ULYH/D*DLOODUGH                                                   5qJOHPHQW
+
+
+$GDSWDWLRQGHVFRQVWUXFWLRQVjODWRSRJUDSKLH
+
+/H YROXPH OD FRQFHSWLRQ HW O¶LPSODQWDWLRQ GHV FRQVWUXFWLRQV GRLYHQW V¶LQVFULUH GDQV OH SOXV JUDQG
+UHVSHFWGHODWRSRJUDSKLHGXWHUUDLQ
+/¶LPSODQWDWLRQ HW O¶RULHQWDWLRQ GHV FRQVWUXFWLRQV QRXYHOOHV GRLYHQW rWUH UpDOLVpHV HQ FRKpUHQFH DYHF
+O¶HQYLURQQHPHQW HW OD WRSRJUDSKLH H[LVWDQW DILQ GH OLPLWHU DX PD[LPXP OHV PRGLILFDWLRQV GX WHUUDLQ
+QDWXUHO
+/HV PRGLILFDWLRQV GX QLYHOOHPHQW GX VRO SDU DIIRXLOOHPHQW RX H[KDXVVHPHQW ORUVTX¶HOOHV VRQW
+QpFHVVDLUHVjODUpDOLVDWLRQRXDXIRQFWLRQQHPHQWGHVFRQVWUXFWLRQVGHYURQWrWUHDGDSWpHVDXPRGHOp
+GXWHUUDLQQDWXUHOHWLQWpJUpHVjO¶HQYLURQQHPHQWSD\VDJHU
+/HVUHPEODLVVHURQWOLPLWpVjPGHKDXWHXUPD[LPXPHWWRXMRXUVHQWLqUHPHQWSODQWpVHWYpJpWDOLVpV
+OHVHQURFKHPHQWVYLVLEOHVVRQWSURVFULWV
+
+ĂƐƉĂƌƚŝĐƵůŝĞƌĚĞůĂǌŽŶĞEǆ
+/HVUHPEODLVVHURQWOLPLWpVjPGHKDXWHXUPD[LPXP KRUV]RQHVFDVLHUV  OHVHQURFKHPHQWVRQW
+DXWRULVpVHWOHXUYpJpWDOLVDWLRQHVWjSULYLOpJLHU
+
+
+$UWLFOH1/HVWDWLRQQHPHQW
+
+'DQVOHVVHXOVVHFWHXUV1KHW1O
+/HVWDWLRQQHPHQWGHVYpKLFXOHVFRUUHVSRQGDQWDX[EHVRLQVGHVFRQVWUXFWLRQVHWLQVWDOODWLRQVGRLWrWUH
+DVVXUpHQGHKRUVGHVYRLHVSXEOLTXHV
+
+/HV VXUIDFHV GH VWDWLRQQHPHQW HW GH YRLULHV HQ VXUIDFH VHURQW OLPLWpHV DX PD[LPXP HW UpDOLVpHV GH
+IDoRQjPLQLPLVHUOHXULPSDFWGDQVOHSD\VDJH
+
+'DQVOHVVHXOVVHFWHXUV1U
+/HVSDUNLQJVIHURQWO¶REMHWGHVRLQVSDUWLFXOLHUVVXUOHSODQSD\VDJHU
+
+'DQVOHVHXOVHFWHXU1[
+/HVWDWLRQQHPHQWGHVYpKLFXOHVFRUUHVSRQGDQWDX[EHVRLQVGHVFRQVWUXFWLRQVHWLQVWDOODWLRQVGRLWrWUH
+DVVXUpHQGHKRUVGHVYRLHVSXEOLTXHV
+
+/HV VXUIDFHV GH VWDWLRQQHPHQW HW GH YRLULHV HQ VXUIDFH VHURQW OLPLWpHV DX PD[LPXP HW UpDOLVpHV GH
+IDoRQ j PLQLPLVHU OHXU LPSDFW GDQV OH SD\VDJH /HV SDUNLQJV j GHVWLQDWLRQ GHV YpKLFXOHV OpJHUV
+XQLTXHPHQWGHYURQWrWUHWUDLWpVDYHFGHVPDWpULDX[SHUPpDEOHV
+
+
+
+$UWLFOH1/HVHVSDFHVOLEUHVHWOHVSODQWDWLRQV
+
+'DQVO¶HQVHPEOHGHOD]RQH1KRUPLVGDQVOHVHFWHXU1]
+
+7RXW SURMHW GH FRQVWUXFWLRQ GRLW rWUH DFFRPSDJQp G¶XQ SURMHW G¶DPpQDJHPHQW GHV HVSDFHV OLEUHV HW
+GHVSODQWDWLRQVjFRQVHUYHURXjFUpHUGDQVOHEXWGHIDYRULVHUXQHLQWpJUDWLRQGHVPRWLIVSD\VDJHUV
+HWpFRORJLTXHV SODQWDWLRQVERVTXHWVKDLHVSHUVSHFWLYHVSD\VDJqUHVWUDPHYHUWH«H[LVWDQWV GDQV
+O¶HQYLURQQHPHQW
+
+7RXWHVOHVSODQWDWLRQVRXVXUIDFHVERLVpHVH[LVWDQWHVGRLYHQWrWUHFRQVHUYpHVHWHQWUHWHQXHV
+
+/HV (VSDFHV %RLVpV &ODVVpV (%&  UHSpUpV VXU OH SODQ GH ]RQDJH VRQW VRXPLV DX[ GLVSRVLWLRQV GH
+O¶DUWLFOH/GX&RGHGHO¶8UEDQLVPH
+
+
+/HV SODQWDWLRQV MDUGLQV pOpPHQWV YpJpWDX[ UHSpUpV DX WLWUH GH O¶DUWLFOHAccusé
+                                                                                     /
+                                                                                          de réception  GX &RGH GH
+                                                                                                       en préfecture
+                                                                                  019-211903109-20250407-75-02042025-DE
+O¶8UEDQLVPH GHYURQW rWUH JpUpV HQ UHVSHFWDQW OHV SUHVFULSWLRQV MRLQWHV       HQ   DQQH[HV         GX SUpVHQW
+                                                                                  Date de télétransmission : 07/04/2025
+                                                                                  Date de réception préfecture : 07/04/2025
+UqJOHPHQW
+
+
+
+                                                    0RGLILFDWLRQQ                                                
+
+3ODQ/RFDOG 8UEDQLVPHGHODFRPPXQHGH%ULYH/D*DLOODUGH                                                5qJOHPHQW
+
+
+'DQVOHVHXOVHFWHXU1U
+
+/HVSDUNLQJVIHURQWO¶REMHWGHVRLQVSDUWLFXOLHUVVXUOHSODQSD\VDJHU
+
+
+'DQVOHVHXOVHFWHXU1]
+
+/HVHVSDFHVERLVpVVRQWjFRQVHUYHUHWOHVGpIULFKHPHQWVVRQWLQWHUGLWV
+
+/HV FRXSHV HW DEDWWDJHV QH SHXYHQW rWUH DXWRULVpV TXH GDQV OHV OLPLWHV GHV OpJLVODWLRQV HW GHV
+UpJOHPHQWDWLRQVHQHQYLJXHXUHWQRWDPPHQWGHVDUWLFOHV/j/GX&RGHGHO¶8UEDQLVPH
+
+/HVHVSDFHVQRQERLVpVVRQWjSURWpJHUHWjSODQWHU
+
+
+
+$UWLFOH1/HFRHIILFLHQWG RFFXSDWLRQGXVRO
+
+1RQUpJOHPHQWp
+
+
+
+
+
+                                                                               Accusé de réception en préfecture
+                                                                               019-211903109-20250407-75-02042025-DE
+                                                                               Date de télétransmission : 07/04/2025
+                                                                               Date de réception préfecture : 07/04/2025
+
+
+
+
+                                                   0RGLILFDWLRQQ                                                
+
+                    TerrenUrbanisme
+
+    Merci de votre confiance
+Ce rapport a été établi à partir des sources publiques officielles pour vous
+  aider à décider en connaissance de cause. Pour toute question, nous
+                        restons à votre disposition.
+
+
+
+
+   Vous êtes professionnel ? Travaillons ensemble
+      Agents immobiliers, notaires, architectes, géomètres, diagnostiqueurs,
+promoteurs, mairies : faisons équipe. Crédits professionnels sans abonnement, 5
+€ le rapport dès 50 crédits, votre logo sur les rapports, offre communale pour les
+                       mairies et partenariats sur mesure.
+
+               Écrivez-nous : contact@terrenurbanisme.com
+
+
+
+
+                        terrenurbanisme.com
+                         contact@terrenurbanisme.com
+

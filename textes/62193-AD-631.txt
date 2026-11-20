@@ -1,0 +1,3123 @@
+                  TerrenUrbanisme
+                  Le terrain constructible, partout en France
+
+
+
+
+RAPPORT D'URBANISME
+
+
+
+Calais
+Section AD · Parcelle n° 631
+      Constructible
+
+
+
+
+Référence cadastrale                                                        Surface cadastrale
+62193000AD0631                                                              489 m²
+
+Rapport établi le                                                           Référence du rapport
+20/11/2026                                                                  APERCU
+
+
+
+
+terrenurbanisme.com                                                                      contact@terrenurbanisme.com
+
+Document d'information sans valeur contractuelle ni réglementaire. Il ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme
+et ne peut en aucun cas être joint à une demande de permis de construire ou de déclaration préalable. Seuls les actes de l'administration font foi.
+                                                                                                                           Calais · AD 631
+         TerrenUrbanisme
+                                                                                                                             Sommaire
+
+
+
+
+Sommaire
+Le rapport suit l'ordre d'une étude de terrain : où se trouve la parcelle, ce que dit la règle, ce qui pèse sur le
+projet, puis les démarches.
+
+              Synthèse
+   S                                                                                                                                p. 3
+              Le verdict, les indicateurs clés et les points d'attention en une page.
+
+              Identification de la parcelle
+   01                                                                                                                               p. 4
+              Localisation, surface, références cadastrales et voisinage du terrain.
+
+              Règles d'urbanisme applicables
+  02                                                                                                                                 p. 7
+              Document d'urbanisme, zone du terrain, prescriptions et servitudes.
+
+              Ce que vous pouvez construire
+  03                                                                                                                               p. 10
+              Surface constructible, hauteur, reculs, aspect et usages autorisés.
+
+              Loi Littoral et loi Montagne
+  04                                                                                                                               p. 16
+              Les lois qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+              Risques naturels et technologiques
+  05                                                                                                                               p. 17
+              Inondation, feu de forêt, argiles, catastrophes naturelles et sites pollués.
+
+              Le terrain : accès, relief et réseaux
+  06                                                                                                                               p. 20
+              Accès, pente, ensoleillement, eaux usées, électricité, eau et fibre.
+
+              Environnement et marché immobilier
+  07                                                                                                                               p. 27
+              Espaces naturels, espèces protégées et ventes immobilières alentour.
+
+              Historique du site
+  08                                                                                                                               p. 31
+              Le terrain vu du ciel au fil des années et les permis accordés autour.
+
+              Opportunités autour du terrain
+  09                                                                                                                               p. 33
+              Grands terrains peu bâtis et logements énergivores à proximité.
+
+              Votre projet, étape par étape
+   10                                                                                                                              p. 35
+              De l'achat aux impôts : démarches, délais, coûts, contacts et taxe.
+
+              État des risques (ERP) pré-rempli
+   11                                                                                                                              p. 40
+              Le formulaire réglementaire à remettre à l'acquéreur, pré-rempli.
+
+              Avertissement et sources
+   12                                                                                                                              p. 42
+              La portée de ce rapport et les sources publiques consultées.
+
+              Annexe : règlement de la zone
+   A                                                                                                                               p. 45
+              Les pages officielles du règlement de la zone, telles qu'approuvées.
+
+
+
+
+Astuce : cliquez sur un chapitre pour y accéder directement.
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                               2 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Calais · AD 631
+         TerrenUrbanisme
+                                                                                                                                      Synthèse
+
+
+
+
+Synthèse
+     Document d'information. Ce rapport ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme,
+     n'engage pas l'administration et ne peut pas servir de pièce à une demande de permis de construire.
+     L'appréciation ci-dessous est indicative : seule la mairie se prononce sur la constructibilité d'un terrain,
+     au vu d'un projet précis.
+
+
+
+
+       CONSTRUCTIBLE
+
+       Le PLU autorise la construction
+       La parcelle est classée en zone UC (urbaine) du plan local d'urbanisme de Calais. Les
+       constructions y sont admises dans le respect du règlement de la zone. La commune est
+       littorale : la loi Littoral s'applique (rivage à environ 565 m).
+
+
+
+
+      Zone principale                                        Document d'urbanisme                                  Loi Littoral
+
+   UC · 100 %                                             PLU                                                    S'applique · rivage à 565 m
+
+
+
+
+      Loi Montagne                                           Risques à la parcelle
+
+   Ne s'applique pas                                      Remontée de nappe ·
+                                                          Séisme (+3)
+
+
+
+
+Points d'attention
+    Zone UC (100 % de la parcelle) : constructible.
+    Commune littorale : le rivage est à environ 565 m.
+    Retrait-gonflement des argiles (exposition moyenne) : en cas de vente d'un terrain non bâti
+    constructible, le vendeur doit fournir une étude géotechnique préalable (loi ELAN, article L. 132-5 du
+    Code de la construction et de l'habitation) ; une étude géotechnique de conception est exigée avant
+    de construire.
+    Nucléaire : concerné à l'adresse de la parcelle (voir le chapitre « Risques naturels et technologiques
+    »).
+    Pollution des sols : concerné à l'adresse de la parcelle (voir le chapitre « Risques naturels et
+    technologiques »).
+    9 arrêtés de catastrophe naturelle sur la commune.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       3 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Calais · AD 631
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+    01             Identification de la parcelle
+     DANS CETTE SECTION
+
+     Où se trouve le terrain, sa surface, ses références cadastrales, son propriétaire lorsqu'il s'agit
+     d'une société ou d'une collectivité, et la performance énergétique du bâti existant.
+
+
+Données du cadastre (DGFiP) et de l'IGN.
+
+
+     Plan de situation
+
+
+
+
+                                                                                                                            1 km
+
+
+
+Plan IGN · © IGN
+
+
+
+     Vue aérienne et plan cadastral
+
+
+
+
+                                                                                                                                     25 m
+
+
+
+Photographie aérienne et plan cadastral · © IGN
+
+
+Commune                                                  Calais (62193)
+
+Département                                              Pas-de-Calais (62)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           4 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Calais · AD 631
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+Section et numéro                                        Section AD, parcelle n° 631, feuille 1
+
+Identifiant cadastral                                    62193000AD0631
+
+Surface cadastrale                                       489 m²
+
+Surface calculée (SIG)                                   540 m² · périmètre 205 m
+
+Coordonnées du centre                                    50.95233 N, 1.86922 E (WGS 84)
+
+Altitude                                                 de 2 à 3 m
+
+Pente estimée                                            2 % (terrain plutôt plat)
+
+Parcelles voisines                                       AD 584, AD 630, AD 632, AD 633, AD 777
+
+
+Le plan cadastral est un document fiscal : il ne fait pas foi des limites de propriété. Seul un bornage réalisé par un
+géomètre-expert fixe les limites de manière certaine.
+
+
+1.1 Propriétaire et voisinage
+La parcelle ne figure pas au fichier des personnes morales : son propriétaire est vraisemblablement un
+particulier. Le nom des propriétaires particuliers n'est pas public ; il peut être demandé au service des impôts
+fonciers (relevé de propriété) ou obtenu par l'intermédiaire d'un notaire.
+
+Principaux propriétaires personnes morales dans un rayon de 280 m
+  PROPRIÉTAIRE                                                              PARCELLES             SURFACE TOTALE            SIREN
+
+  COMMUNE DE CALAIS (COM)                                                   7                     7 589 m²                  216201939
+
+  FTIMMO H (SA)                                                             2                     2 074 m²                  430107359
+
+  SCI RUE DIDEROT PROLONGEE (SCI)                                           1                     987 m²                    348942244
+
+  A B L (SCI)                                                               4                     702 m²                    487717993
+
+  CRDO (SCI)                                                                2                     599 m²                    438093130
+
+  FAUMA IMMO (SC)                                                           1                     580 m²                    904822590
+
+  DE LA RUE DU FOUR A CHAUX (SCI)                                           1                     425 m²                    453148389
+
+  LES JONQUILLES (SCI)                                                      1                     403 m²                    451791131
+
+
+
+Source : fichiers des parcelles des personnes morales (DGFiP) : sociétés, SCI, collectivités, établissements publics et associations.
+Les propriétaires personnes physiques n'y figurent pas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            5 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Calais · AD 631
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+1.2 Bâti existant : diagnostics de performance énergétique
+  DATE                  LOGEMENT                SURFACE             ÉNERGIE          CLIMAT          ADRESSE
+
+  10/11/2026            Maison                  75 m²               A                A               Mail James Clark 62100 Calais
+
+
+
+Source : ADEME, diagnostics établis depuis juillet 2021 et géolocalisés à l'adresse. Un diagnostic se rapporte à un logement précis
+et reste valable dix ans.
+
+
+1.3 La commune de Calais
+Code postal                                              62100
+
+Département                                              Pas-de-Calais (62)
+
+Intercommunalité                                         CA Grand Calais Terres et Mers
+
+Population                                               67 571 habitants
+
+Superficie                                               36,8 km²
+
+Densité                                                  1 836 habitants par km²
+
+Commune littorale                                        Oui : la loi Littoral s'applique
+
+Commune de montagne                                      Non
+
+Document d'urbanisme                                     Plan local d'urbanisme (PLU)
+
+Risques sur la commune                                   9 arrêtés de catastrophe naturelle · détail en section Risques et en
+                                                         annexe
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           6 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Calais · AD 631
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+    02             Règles d'urbanisme applicables
+     DANS CETTE SECTION
+
+     Le document d'urbanisme de la commune, la zone dans laquelle se trouve le terrain, et les
+     prescriptions et servitudes qui s'y ajoutent.
+
+
+Géoportail de l'Urbanisme : zonage, prescriptions et servitudes.
+
+
+
+2.1 Document d'urbanisme en vigueur
+Type de document                                         Plan local d'urbanisme (PLU)
+
+Date d'approbation                                       Non renseigné
+
+Statut                                                   Publié au Géoportail de l'Urbanisme
+
+Règlement officiel                                       Ouvrir le document officiel (PDF)
+
+
+
+     Plan de zonage du PLU
+
+
+
+
+                                                                              UC
+
+
+
+
+                                                                                                                           50 m
+
+
+
+Zonage : Géoportail de l'Urbanisme · fond : © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      7 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Calais · AD 631
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.2 Zonage de la parcelle
+  ZONE                  DÉSIGNATION                                                         PART               CONSTRUCTIBILITÉ
+
+  UC                    Zone urbaine UC                                                     100 %              Constructible
+
+
+
+Zone UC · Urbaine
+Zone urbaine : secteur déjà urbanisé où les équipements publics existants ou en cours de réalisation
+permettent d'accueillir des constructions. Les constructions y sont admises dans le respect du règlement de la
+zone (destinations, implantation, hauteur, emprise, aspect).
+
+
+2.3 Prescriptions applicables à la parcelle
+Aucune prescription graphique du PLU (emplacement réservé, espace boisé classé, élément de paysage
+protégé, etc.) n'est recensée sur la parcelle.
+
+
+2.4 Informations complémentaires du PLU
+  INFORMATION                                                                                        TYPE
+
+  Annexes Sanitaires - Plan Eau potable et industrielle                                              Information du PLU (type 19)
+
+  Zone de publicité restreinte                                                                       Information du PLU (type 20)
+
+  Annexes Sanitaires - Collecte des Déchets                                                          Information du PLU (type 19)
+
+  Annexes Sanitaires - Notice Sanitaire                                                              Information du PLU (type 19)
+
+  Droit de Préemption Urbain                                                                         Information du PLU (type 04)
+
+  Annexes Sanitaires - Assainissement                                                                Information du PLU (type 19)
+
+  Maintien des demandes de Permis de Démolir                                                         Information du PLU (type 99)
+
+  Règlementation des clôtures                                                                        Information du PLU (type 99)
+
+  Zone à risque Plomb                                                                                Information du PLU (type 17)
+
+
+
+
+2.5 Servitudes d'utilité publique
+Aucune servitude d'utilité publique numérisée n'est recensée sur la parcelle au Géoportail de l'Urbanisme. Les
+servitudes non encore numérisées figurent en annexe du PLU.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        8 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Calais · AD 631
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.6 Patrimoine : l'architecte des Bâtiments de France
+Aucun site patrimonial remarquable, site classé ou inscrit, ni monument historique à moins de 500 m n'est
+recensé : l'avis de l'architecte des Bâtiments de France n'est pas requis au titre du patrimoine.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      9 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Calais · AD 631
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    03             Ce que vous pouvez construire
+     DANS CETTE SECTION
+
+     La lecture du règlement de votre zone : surface constructible estimée, hauteur, reculs, aspect,
+     usages autorisés ou interdits, avec les extraits du texte officiel.
+
+
+Lecture du règlement écrit de la zone UC, pages 25 à 35 du règlement officiel.
+
+
+
+3.1 Potentiel constructible estimé
+Surface du terrain                                       489 m²
+
+Zone d'implantation possible                             Non déterminée
+
+Emprise au sol maximale                                  60 % du terrain, soit 293 m²
+
+Hauteur maximale                                         13 m, soit 4 niveaux environ
+
+Espaces verts imposés                                    20 % du terrain au moins
+
+
+Estimation théorique établie à partir des règles chiffrées du règlement (reculs, emprise, hauteur) et de la géométrie
+cadastrale. Elle ne tient pas compte des servitudes, des risques, de la pente, des règles de stationnement et d'aspect, ni
+des dispositions particulières : seul un architecte ou un géomètre peut confirmer le potentiel réel.
+
+
+3.2 Caractère de la zone
+La zone UC couvre les quartiers situés dans le prolongement du centre-ville de Calais. Elle comprend les
+secteurs UCa (équipements touristiques majeurs, soumis à OAP) et UCc (secteurs commerciaux), des
+secteurs indicés « l » (espaces proches du rivage) et « i » (aléa de submersion marine). Les règles
+ci-dessous sont celles de la zone UC sans indice (hors UCa et UCc). Une partie de la zone est concernée
+par le recul du trait de côte et par le périmètre du PPRT Calaire Chimie.
+
+
+3.3 Règles de construction
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Surface minimale ou                          Non réglementé                                                                   art. UC 5
+  caractéristiques du terrain
+
+  Accès et voirie                              Accès de 3,50 m de large minimum, 5 m minimum s'il dessert                       art. UC 3
+                                               plus de deux logements. Garages de 6 box et plus et parkings :
+                                               une seule sortie, à 10 m minimum des intersections. Un seul
+                                               accès automobile par terrain sur rue Mollien, avenue Louis
+                                               Blériot, boulevard Victor Hugo, avenue Roger Salengro, avenue
+                                               Saint-Exupéry et boulevard de l'Égalité. Voiries nouvelles :
+                                               plate-forme de 9 m, chaussée de 6 m et trottoirs de 1,50 m
+                                               minimum (sauf impossibilité technique), aire de retournement
+                                               en impasse.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       10 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Calais · AD 631
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Réseaux et assainissement                    Raccordement obligatoire au réseau public d'eau potable. Eaux                    art. UC 4
+                                               usées évacuées par canalisations souterraines vers le réseau
+                                               public d'assainissement, séparées des eaux pluviales, avec
+                                               accord de rejet préalable. Eaux pluviales gérées selon le
+                                               règlement d'assainissement de la Communauté
+                                               d'agglomération et le zonage pluvial (aucun rejet direct au
+                                               réseau dans les secteurs sensibles pour les projets de plus de 1
+                                               000 m² ou augmentant l'imperméabilisation ; au-delà de 1 ha
+                                               ailleurs). Branchements électriques enterrés. Emplacement
+                                               pour conteneurs de déchets pour toute construction principale
+                                               nouvelle ou création d'un logement.
+
+  Implantation par rapport                     Retrait de 10 m minimum de l'axe de l'avenue Salengro, du                        art. UC 6
+  aux voies                                    boulevard Gambetta, de l'avenue de Saint-Exupéry, du
+                                               boulevard Victor Hugo et de la RD 943 ; 10 m minimum de
+                                               l'alignement de l'A 216 et de ses échangeurs ; 17 m minimum de
+                                               l'axe de la rue de Verdun ; 20 m minimum de l'alignement de la
+                                               pénétrante Sud-Ouest. Autres voies : nu des façades à
+                                               l'alignement s'il est à au moins 4,5 m de l'axe de la voie, sinon
+                                               en retrait de 4,5 m minimum de l'axe (décrochés partiels
+                                               autorisés). Alignement sur l'existant si harmonisation. Pan
+                                               coupé de 3 m minimum à l'angle de deux voies. Domaines
+                                               ferroviaire et fluvial : habitation à 10 m minimum (annexes de
+                                               moins de 10 m² et moins de 3 m de haut : 2 m) ; autres
+                                               constructions 2 m (ferroviaire) et 4 m (fluvial). Berges des
+                                               watergangs : 4 m minimum. Saillies de 0,80 m maximum.
+
+  Implantation par rapport                     Bande de 15 m depuis l'alignement : implantation sur une ou                      art. UC 7
+  aux limites séparatives                      plusieurs limites ou en retrait de 2,50 m minimum (1,90 m pour
+                                               les extensions) avec L >= (H/2) − 1. Au-delà de 15 m : retrait de
+                                               2,50 m minimum (1,90 m pour les extensions) avec L >= H − 2 ;
+                                               implantation sur limite possible en adossement à une
+                                               construction ou un mur de hauteur au moins égale, ou pour un
+                                               bâtiment de moins de 3 m de hauteur. Annexes non accolées
+                                               de moins de 10 m² et moins de 3 m de haut : sur limite ou à 1 m
+                                               minimum.
+
+  Implantation des                             Constructions non contiguës : baies non masquées par une                         art. UC 8.1
+  constructions entre elles                    construction vue sous un angle de plus de 45° (modulation de
+                                               1,50 m possible) ; distance de 6 m minimum pour commerce,
+                                               artisanat, bureaux et entrepôts ; 2 m minimum pour
+                                               constructions de moins de 40 m² d'emprise et moins de 3 m de
+                                               haut ; 3,5 m minimum pour les autres.
+
+  Emprise au sol                               100 % du terrain si le rez-de-chaussée comprend du                               art. UC 9
+                                               commerce (emprise des étages limitée à 60 %) ; 60 % du
+                                               terrain dans les autres cas. Constructions existantes non
+                                               conformes : travaux d'amélioration admis jusqu'à 80 % du
+                                               terrain. Espaces verts protégés L.151-19 : 10 %.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         11 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Calais · AD 631
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Hauteur maximale                             15 m maximum (hauteur absolue au point le plus haut),                            art. UC 10
+                                               dépassement possible pour continuité des lignes d'égout avec
+                                               les voisins. Hauteur relative : H <= L par rapport à l'alignement
+                                               opposé (dépassement de 1,50 m pour étages droits, égout ou
+                                               pignons ; 0,80 m pour saillies). Édicules techniques admis en
+                                               dépassement.
+
+  Aspect extérieur et toitures                 Pas d'emploi à nu de matériaux destinés à être recouverts.                       art. UC 11
+                                               Toitures visibles de la rue : deux versants de 35 à 60°, Mansart,
+                                               un seul pan, ou toiture terrasse avec attique au-delà de R+1 ;
+                                               autres formes possibles pour motifs techniques ou
+                                               architecturaux. Conduits de cheminée en saillie sur façade sur
+                                               rue interdits. Bâtiments existants : respect des rythmes,
+                                               percements et modénatures, crépis interdits en ravalement,
+                                               sablage à sec interdit, nuancier de teintes. Parkings en
+                                               rez-de-chaussée ouverts sur l'espace public. Éléments
+                                               techniques intégrés. ZPPAUP à respecter.
+
+  Matériaux et couleurs                        Matériaux de couverture de couleur semblable aux matériaux                       art. UC 11.2 et
+                                               traditionnels du lieu ; enduits talochés finement ou feutrés                     11.4
+                                               préférés ; matériaux de recouvrement (plaquettes, bardages)
+                                               admis s'ils ne remettent pas en cause la qualité architecturale ;
+                                               fenêtres selon modèles d'origine ; portes en bois peint ou
+                                               vernis.
+
+  Clôtures                                     Sur rue et en limite séparative dans la marge de retrait : 2 m                   art. UC 11.3
+                                               maximum, constituées d'un mur plein, d'une ferronnerie (avec
+                                               mur bahut éventuel) ou d'une haie végétale ; grillages et
+                                               pare-vue interdits sauf doublement d'une haie persistante ;
+                                               lisses autorisées si non PVC. Clôtures en limite séparative :
+                                               2,20 m maximum.
+
+  Stationnement                                Habitation : 1 place par logement + 1 place visiteur par tranche                 art. UC 12
+                                               de 5 logements ; foyers et résidences : 1 place par 2 chambres ;
+                                               au plus 1 place par logement locatif aidé ; cycles : 1 m² par 100
+                                               m² de surface de plancher pour toute construction de 5
+                                               logements ou plus. Commerce de plus de 150 m² de surface de
+                                               vente ou 200 m² de surface de plancher : aire de livraison + 1
+                                               place par 50 m² de surface de vente ou par 100 m² de surface
+                                               de plancher (la solution la plus favorable). Artisanat et bureaux
+                                               : 1 place par 50 m² de surface de plancher ; cycles bureaux : 1
+                                               m² par 100 m². Hôtel : 1 place pour 2 chambres. Places de 2,50
+                                               m de large minimum.
+
+  Espaces verts et plantations                 Si commerce en rez-de-chaussée : surfaces libres plantées ou                     art. UC 13
+                                               traitées en espaces verts. Autres cas : 20 % minimum du
+                                               terrain en pleine terre, plantés ou traités en espaces verts.
+                                               Aires de stationnement découvertes : 1 arbre pour 4 places.
+                                               Espaces verts à créer : 1 arbre de haute tige par 100 m².
+                                               Plantations réalisées en même temps que la construction.
+                                               Espaces boisés classés : défrichement interdit.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          12 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Calais · AD 631
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Densité ou coefficient                       Sans objet                                                                       art. UC 14
+
+
+
+
+3.4 Usages autorisés
+    Habitation, bureaux, artisanat, commerce de 1 000 m² de surface de plancher au plus, hébergement
+    hôtelier (usages non interdits à l'art. UC 1)
+    Constructions et installations nécessaires aux services publics ou d'intérêt collectif
+    Entrepôts directement liés à une construction autorisée dans la zone (condition non applicable aux
+    entrepôts de service public)
+    Groupes de garages individuels de plus de 2 box et de 30 box au plus, sous conditions
+    Installations classées (création, extension, modification) sous conditions
+    Affouillements et exhaussements du sol liés aux occupations autorisées, aménagements paysagers ou
+    hydrauliques, infrastructures ou espace public, mise en valeur du paysage ou d'un vestige archéologique
+    Dans les espaces verts paysagers protégés (L.151-23) : aménagements de gestion, accueil du public,
+    circulations douces, loisirs de plein air
+    Dans les espaces verts paysagers protégés (L.151-19) : constructions dans la limite de 10 % d'emprise au sol
+    Dans les cœurs d'îlots protégés : annexes de type abris de jardin, 10 m² d'emprise au sol maximum
+
+
+3.5 Usages interdits ou soumis à conditions
+    Interdits : industrie et exploitation agricole ; carrières ; caravanes isolées et campings ; groupes de
+    garages individuels de plus de 30 box (sauf parkings en ouvrage) ; dépôts de ferrailles, véhicules
+    désaffectés, matériaux de démolition, déchets ; bâtiments annexes de type clapiers, poulaillers,
+    pigeonniers (art. UC 1.1)
+    Interdit : commerce de plus de 1 000 m² de surface de plancher (art. UC 1.2, hors secteur UCc)
+    Linéaires et pôles commerciaux protégés : changement de destination vers l'habitation interdit pour les
+    locaux commerciaux ou artisanaux en rez-de-chaussée sur rue, sauf justification par l'état du bâtiment
+    (abandon, dégradation avancée)
+    Espaces verts paysagers protégés et cœurs d'îlots : toute occupation interdite sauf celles admises à l'art.
+    UC 2.5
+    Zones humides protégées : toutes constructions et tous travaux de drainage, remblaiement ou
+    comblement interdits
+    Installations classées : compatibles avec l'habitation, mesures contre l'aggravation des nuisances et
+    risques, compatibles avec les infrastructures existantes
+    Secteurs de mixité : opération de plus de 20 logements = au moins 25 % de logements en accession à la
+    propriété
+    Secteurs indicés « l » : s'inscrire dans le gabarit des constructions voisines ou respecter l'extension limitée
+    de l'urbanisation
+    Secteurs indicés « i » : prise en compte du risque de submersion marine (information en annexe du PLU)
+    Périmètre d'OAP : constructions et aménagements compatibles avec l'OAP
+    Dispositions générales : terrains enclavés inconstructibles sans servitude de passage suffisante ;
+    constructions interdites dans les emplacements réservés ; PPRT et servitudes à respecter
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        13 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Calais · AD 631
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.6 Points de vigilance pour votre projet
+    Vérifier sur le plan de zonage la présence d'indices « l » (espaces proches du rivage) et « i » (submersion
+    marine) et se reporter au PPRL du 24 juillet 2018
+    Vérifier l'enveloppe du recul du trait de côte et le périmètre du PPRT Calaire Chimie (servitude d'utilité
+    publique s'ajoutant au règlement)
+    Vérifier les protections graphiques : linéaires commerciaux, espaces verts paysagers, cœurs d'îlots, zones
+    humides, alignements d'arbres, secteurs de mixité sociale (plus de 20 logements), emplacements réservés,
+    EBC
+    Vérifier la distance à l'axe des voies listées (Salengro, Gambetta, Saint-Exupéry, Victor Hugo, RD 943, rue
+    de Verdun, A 216) et la limitation à un accès automobile sur certaines voies
+    Vérifier que la parcelle n'est pas dans le secteur UCa ou UCc, ni dans un périmètre d'OAP
+    Prise en compte de la ZPPAUP (avis de l'architecte des Bâtiments de France) et du risque archéologique
+    Respecter la double règle de prospect aux limites : L >= (H/2) − 1 dans les 15 premiers mètres, L >= H − 2
+    au-delà
+    Sites et sols pollués, retrait-gonflement des argiles, sismicité 2 : études techniques à prévoir
+    Constructions existantes non conformes : seuls les travaux améliorant la conformité ou sans effet sont
+    admis (art. 5 des dispositions générales), isolation extérieure jusqu'à 30 cm
+
+
+3.7 Extraits du règlement
+
+     art. UC 9.1.1 · page 31
+     « 100 % de la superficie du terrain, dans le cas de constructions comprenant des rez-de-chaussée ou
+     parties de rez-de-chaussée destinés au commerce. »
+
+
+     art. UC 9.1.1 · page 31
+     « 60 % de la superficie du terrain, dans les autres cas. »
+
+
+     art. UC 10.2.2 · page 32
+     « La hauteur des constructions ne doit pas excéder 15 mètres »
+
+
+     art. UC 6.2.2 · page 28
+     « soit en retrait de 4,5 mètres minimum de l’axe des voies. »
+
+
+     art. UC 7.1.1.b · page 29
+     « la distance, comptée horizontalement (L), de tout point d’une construction au point le plus bas et le
+     plus proche de la limite séparative, doit être au moins égale à la moitié de la différence de niveau entre
+     ces deux points (H) moins un mètre, soit L>=(H/2)-1 »
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       14 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Calais · AD 631
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+     art. UC 13.3 · page 35
+     « Dans les autres cas, 20% de la superficie du terrain minimum doivent être maintenus en espaces de
+     pleine terre. »
+
+
+
+3.8 Démarches probables
+    Permis de construire (construction neuve, extension au-delà des seuils du Code de l'urbanisme) ou
+    déclaration préalable pour les travaux de moindre ampleur
+    Déclaration préalable pour l'édification de clôtures (délibération du 9 novembre 2007)
+    Permis de démolir pour toute démolition
+    Déclaration préalable pour la modification ou la suppression d'éléments protégés au titre du patrimoine et
+    des paysages
+    Accord de rejet préalable auprès du service assainissement avant raccordement
+    Avis de l'architecte des Bâtiments de France (ZPPAUP, abords de monuments historiques)
+    Consultation du préfet de région pour les zones archéologiques
+    Étude de compatibilité avec l'OAP et prise en compte du PPRL/PPRT selon la localisation
+
+     Cette lecture est établie automatiquement, par intelligence artificielle, à partir du règlement officiel en
+     vigueur. Elle peut comporter des imprécisions : seul le texte du règlement, reproduit en annexe (pages
+     25 à 35 du document approuvé), fait foi, avec les dispositions générales, les orientations
+     d'aménagement et les servitudes.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       15 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Calais · AD 631
+         TerrenUrbanisme
+                                                                                                                    04 · Loi Littoral et loi Montagne
+
+
+
+
+   04              Loi Littoral et loi Montagne
+     DANS CETTE SECTION
+
+     Les lois nationales qui s'ajoutent au document d'urbanisme sur le littoral et en montagne. Elles
+     peuvent rendre un terrain inconstructible même en zone constructible.
+
+
+Les lois d'aménagement qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+
+
+4.1 Loi Littoral
+Commune littorale                                        Oui
+
+Distance au rivage                                       environ 565 m
+
+Bande des 100 mètres                                     La parcelle est hors de la bande des 100 m
+
+
+La loi Littoral s'applique sur l'ensemble du territoire de la commune. Elle impose trois règles principales :
+
+    Continuité : l'extension de l'urbanisation ne peut se faire qu'en continuité d'une agglomération ou d'un
+    village existant. Une construction isolée, au milieu d'un espace naturel, n'est pas admise.
+    Bande des 100 mètres : en dehors des espaces urbanisés, toute construction est interdite à moins de 100
+    mètres du rivage.
+    Espaces proches du rivage : l'extension de l'urbanisation y est seulement limitée, justifiée et motivée. Les
+    espaces remarquables et caractéristiques du littoral sont protégés.
+
+     La parcelle est à moins d'un kilomètre du rivage : elle peut être située dans les espaces proches du
+     rivage délimités par le SCoT et le PLU.
+
+
+
+
+4.2 Loi Montagne
+Commune en zone de montagne                              Non
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          16 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Calais · AD 631
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+   05              Risques naturels et technologiques
+     DANS CETTE SECTION
+
+     Les risques connus à l'adresse du terrain (inondation, feu de forêt, mouvement de terrain,
+     radon…) et les catastrophes naturelles reconnues sur la commune.
+
+
+Base nationale Géorisques (ministère de la Transition écologique).
+
+
+
+5.1 Risques naturels à l'adresse de la parcelle
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Inondation                                      Non connu                                       Existant
+
+  Remontée de nappe                               Existant                                        Existant
+
+  Submersion marine                               Non connu                                       Existant
+
+  Séisme                                          Existant – faible                               Existant – faible
+
+  Mouvement de terrain                            Existant                                        Existant
+
+  Retrait-gonflement des                          Existant – modéré                               Existant – important
+  argiles
+
+  Radon                                           Existant – faible                               Existant – faible
+
+
+
+
+5.2 Risques technologiques
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Installations industrielles                     Non concerné                                    Concerné
+  (ICPE)
+
+  Nucléaire                                       Concerné                                        Concerné
+
+  Canalisations de matières                       Non concerné                                    Concerné
+  dangereuses
+
+  Pollution des sols                              Concerné                                        Concerné
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                    17 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Calais · AD 631
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.3 Indicateurs réglementaires
+Zone de sismicité                                        Zone 2 – faible
+
+Potentiel radon                                          Catégorie 1 (potentiel faible)
+
+Retrait-gonflement des argiles                           Existant – modéré
+
+Plans de prévention (PPR)                                Aucun plan de prévention des risques recensé
+
+
+
+5.4 Arrêtés de catastrophe naturelle
+9 arrêtés de reconnaissance de l'état de catastrophe naturelle concernent la commune.
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Inondations et/ou Coulées de Boue                                         13/11/2023 au 24/11/2023                       28/12/2023
+
+  Inondations et/ou Coulées de Boue                                         02/11/2023 au 12/11/2023                       15/11/2023
+
+  Sécheresse                                                                01/07/2022 au 30/09/2022                       08/09/2023
+
+  Sécheresse                                                                01/01/2022 au 31/03/2022                       08/09/2023
+
+  Inondations et/ou Coulées de Boue                                         12/08/2006 au 13/08/2006                       08/12/2006
+
+  Mouvement de Terrain                                                      20/09/2000 au 10/01/2002                       09/11/2002
+
+  Mouvement de Terrain                                                      25/12/1999 au 29/12/1999                       30/12/1999
+
+  Inondations et/ou Coulées de Boue                                         25/12/1999 au 29/12/1999                       30/12/1999
+
+  Sécheresse                                                                01/05/1989 au 31/12/1990                       05/02/1992
+
+
+
+
+5.5 Installations classées à proximité (moins de 1 km)
+    SOCIETE DES PETROLES SHELL · Non ICPE
+    Charcuterie des 2 Caps · Non ICPE
+    CSF MARKET CALAIS VIRVAL · Autres régimes
+    HOT CHICKEN · Non ICPE
+    LEROY MERLIN CALAIS · Non ICPE
+    BRICO DEPOT CALAIS · Non ICPE
+    TOTAL · Non ICPE
+    EG RETAIL (FRANCE) SAS · Non ICPE
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           18 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Calais · AD 631
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.6 Sites et sols pollués à proximité
+    Fonderie Cordier · ancien site industriel ou d'activité de service (CASIAS)
+    Florimont "Eau de Javel" · ancien site industriel ou d'activité de service (CASIAS)
+    Mallet : Fabrique d'Eau de Javel · ancien site industriel ou d'activité de service (CASIAS)
+    SOCARENAM · ancien site industriel ou d'activité de service (CASIAS)
+    Ets BRAMPTON · ancien site industriel ou d'activité de service (CASIAS)
+    Garage Nord-Auto · ancien site industriel ou d'activité de service (CASIAS)
+    Station Tisserand · ancien site industriel ou d'activité de service (CASIAS)
+    U.I.P. · ancien site industriel ou d'activité de service (CASIAS)
+    2 anciens sites industriels ou d'activités de service (CASIAS) recensés
+    1 site pollué en cours d'instruction recensé
+    1 secteur d'information sur les sols (SIS) recensé
+
+
+5.7 Rapport officiel Géorisques
+Les risques recensés ci-dessus proviennent des bases officielles de Géorisques, service public d'information
+sur les risques. Le rapport officiel complet peut être édité gratuitement, à tout moment et à jour, à partir de
+l'adresse du terrain sur le site Géorisques.
+
+
+    Éditer le rapport officiel Géorisques
+
+
+Lors d'une vente ou d'une location, le vendeur ou le bailleur doit remettre un état des risques de moins de six mois,
+complété et signé, et l'information sur les sinistres indemnisés au titre des catastrophes naturelles.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                    19 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Calais · AD 631
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+   06              Le terrain : accès, relief et réseaux
+      DANS CETTE SECTION
+
+      Les contraintes physiques du terrain : accès à une voie, pente et exposition, assainissement,
+      raccordement à l'électricité et à l'eau, fibre. Ce sont elles qui pèsent le plus sur le coût d'un
+      projet.
+
+
+Voirie (IGN, BD TOPO), altimétrie (IGN, RGE ALTI), règlement de la zone, réseau électrique (Agence ORE) et éligibilité
+internet (Arcep).
+
+
+
+6.1 Accès
+Accès direct à une voie                                  Non identifié
+
+Voie carrossable la plus proche                          Route à 1 chaussée · Rue Louguet · à 6 m
+
+
+      Une voie passe à 6 m de la parcelle : l'accès peut se faire par une bande du domaine public ou une
+      parcelle intermédiaire. Il faut vérifier sur le plan cadastral et sur place que le terrain y est bien relié, ou
+      qu'une servitude de passage existe (article 682 du Code civil).
+
+
+
+
+6.2 Relief et exposition
+Pente moyenne                                            0%
+
+Exposition                                               Terrain plat
+
+Altitude                                                 2à3m
+
+Appréciation                                             Terrain plat ou presque plat
+
+
+
+
+ 3m
+ 2m
+
+
+           Coupe du terrain dans le sens de la pente · longueur 111 m
+
+
+      Terrassements limités ; pas de surcoût notable lié au relief.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       20 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Calais · AD 631
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.3 Ensoleillement
+Appréciation                                             Bien ensoleillé
+
+Soleil direct le 21 juin                                 15 h (de 06 h 30 à 21 h 20)
+
+Soleil direct aux équinoxes                              10 h 18 (de 08 h 20 à 18 h 30)
+
+Soleil direct le 21 décembre                             6 h (de 09 h 40 à 15 h 30)
+
+Ensoleillement annuel possible                           3 683 h par an, soit 83 % du maximum à cette latitude
+
+Hauteur du relief vers le sud                            6°
+
+
+ 75°
+
+
+
+ 60°
+
+
+
+ 45°
+
+
+
+ 30°
+
+
+
+ 15°
+
+
+
+ 0°
+                                Est                  Sud-est                    Sud                 Sud-ouest               Ouest
+
+          21 juin          Équinoxes               21 décembre                 Horizon : relief et bâtiments voisins
+
+
+
+       Le soleil est un peu masqué en début ou en fin de journée, surtout en hiver, mais le terrain reste bien
+       exposé sur l'année.
+
+
+
+Ensoleillement mois par mois (le 21 de chaque mois)
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Janvier                         8 h 30                             6 h 30                                    09 h 40 – 16 h 00
+
+  Février                         10 h 18                            8 h 12                                    09 h 00 – 17 h 00
+
+  Mars                            12 h 12                            10 h 18                                   08 h 20 – 18 h 30
+
+  Avril                           14 h                               11 h 42                                   08 h 40 – 20 h 10
+
+  Mai                             15 h 30                            13 h 18                                   07 h 50 – 21 h 00
+
+  Juin                            16 h 18                            15 h                                      06 h 30 – 21 h 20
+
+  Juillet                         15 h 42                            13 h 18                                   08 h 00 – 21 h 10
+
+  Août                            14 h                               11 h 42                                   08 h 40 – 20 h 10
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       21 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Calais · AD 631
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Septembre                       12 h                               10 h 18                                   09 h 00 – 19 h 10
+
+  Octobre                         10 h 12                            8 h 12                                    09 h 30 – 17 h 30
+
+  Novembre                        8 h 30                             6 h 30                                    09 h 20 – 15 h 40
+
+  Décembre                        7 h 48                             6h                                        09 h 40 – 15 h 30
+
+
+
+Calcul théorique par ciel dégagé, au centre de la parcelle et à hauteur d'homme : course du soleil heure par heure, masque du relief
+sur 6 km (IGN, RGE ALTI) et des bâtiments voisins sur 120 m (IGN, BD TOPO, 224 bâtiments pris en compte). La végétation et les
+constructions récentes ne sont pas prises en compte.
+
+
+6.4 Quel raccordement pour les eaux usées ?
+Raccordement à prévoir                                       Tout-à-l'égout très probable
+
+Zone du PLU                                                  UC · Urbaine
+
+Zonage d'assainissement                                      Annexes Sanitaires - Assainissement
+
+Réseau collectif sur la commune                              Oui · GRAND CALAIS TERRES ET MERS · régie publique
+
+
+     Le terrain est en zone urbaine (UC) et la commune dispose d'un réseau public d'assainissement
+     collectif. Dans ces zones, le réseau passe en général dans la voie et le règlement impose le
+     raccordement lorsqu'il existe. À confirmer par le service d'assainissement pour ce terrain précis.
+
+
+
+Ce que dit le règlement de la zone
+Raccordement obligatoire au réseau public d'assainissement : toute construction ou installation nouvelle doit
+évacuer ses eaux usées sans stagnation, par canalisations souterraines, vers le réseau public lorsqu'il existe, en
+séparant les eaux pluviales. Le raccordement doit respecter le règlement d'assainissement collectif de la
+Communauté d'agglomération et un accord de rejet doit être sollicité avant chaque nouveau raccordement. Le
+règlement de la zone ne prévoit pas d'assainissement non collectif. Les eaux résiduaires non domestiques
+nécessitent une convention avec le gestionnaire et peuvent être soumises à prétraitement.
+
+Le règlement admet un assainissement individuel uniquement là où le réseau public n'existe pas : cette mention ne signifie
+pas que le terrain n'est pas desservi.
+
+Ce que cela coûte
+Raccordement au tout-à-l'égout : branchement sous la voie réalisé par le service d'assainissement (souvent 1 500 à
+5 000 € selon la distance), canalisation sur le terrain jusqu'à la maison, et participation pour le financement de
+l'assainissement collectif (PFAC) fixée par la commune ou l'intercommunalité, généralement de 1 000 à 5 000 €. Le
+service remet un devis à partir du plan de situation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       22 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Calais · AD 631
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+Qui contacter pour obtenir la confirmation
+Service d'assainissement                                     GRAND CALAIS TERRES ET MERS
+
+Mairie                                                       Mairie de Calais
+
+Téléphone                                                    03 21 46 62 00
+
+E-mail                                                       courrier@mairie-calais.fr
+
+
+    Demandez au service d'assainissement, avec la référence cadastrale, si une canalisation publique passe au droit
+    du terrain, à quelle profondeur, et le montant de la PFAC. Sa réponse écrite vaut attestation de raccordabilité.
+    Certificat d'urbanisme opérationnel (formulaire Cerfa 13410, gratuit) : la mairie y indique officiellement si le
+    terrain est desservi par le réseau d'assainissement.
+    Plan des réseaux : la présence des canalisations enterrées près du terrain peut être vérifiée sur
+    reseaux-et-canalisations.gouv.fr, le guichet unique des réseaux.
+Sources : zonage d'assainissement et règlement (Géoportail de l'Urbanisme) ; services publics d'assainissement (SISPEA, Office
+français de la biodiversité) ; annuaire de l'administration (service-public.fr).
+
+Si le réseau public n'était finalement pas accessible
+  FILIÈRE                                    QUAND ELLE CONVIENT                                                           ORDRE DE PRIX
+
+  Fosse toutes eaux et                       Sol perméable, terrain assez grand et peu pentu                               5 000 à 10 000 €
+  épandage
+
+  Filtre à sable                             Sol peu perméable, place suffisante                                           8 000 à 12 000 €
+
+  Micro-station agréée                       Petit terrain ou sol défavorable ; entretien et électricité                   7 000 à 15 000 €
+
+  Filtre compact agréé                       Petit terrain, sans électricité                                               9 000 à 14 000 €
+
+
+
+Ordres de prix indicatifs (fourniture et pose, hors étude de sol et terrassements particuliers). La filière est choisie au vu de l'étude
+de sol et validée par le SPANC.
+
+
+6.5 Électricité et eau potable
+Gestionnaire du réseau                                       Enedis
+
+Réseau basse tension le plus proche                          à environ 5 m (ligne aérienne)
+
+Ligne aérienne la plus proche                                à environ 5 m
+
+Ligne souterraine la plus proche                             à environ 10 m
+
+Poste de transformation le plus proche                       à environ 30 m
+
+Appréciation                                                 Branchement simple probable
+
+
+     Le réseau basse tension passe à environ 5 m : un branchement simple est en principe possible (de
+     l'ordre de 1 500 à 3 000 € pour une maison, selon la longueur et la puissance), sous réserve de la
+     capacité du réseau et des coffrets existants.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             23 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Calais · AD 631
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+Ce qu'il faut vérifier avant d'acheter
+    La capacité du réseau : même un réseau proche peut être saturé (coffret ou câble plein, poste de transformation
+    au maximum). Seule une étude du gestionnaire permet de le savoir ; c'est la cause la plus fréquente de surcoûts
+    imprévus.
+    Électricité : demander au gestionnaire du réseau une étude de raccordement ou un devis à partir de l'adresse et
+    du plan de situation (gratuit). Elle indique le type de raccordement, son coût et son délai.
+    Eau potable : les plans du réseau d'eau ne sont pas publics. Interroger le service des eaux (coordonnées
+    ci-dessous) sur la présence d'une canalisation au droit du terrain, sa capacité et le coût du branchement, ainsi
+    que sur la défense incendie (borne à moins de 200 m environ).
+    Certificat d'urbanisme opérationnel : la mairie y indique si le terrain est desservi par les réseaux publics (eau,
+    électricité, assainissement) et, à défaut, si et quand ils seront étendus. Un refus de permis peut être fondé sur
+    l'insuffisance des réseaux (article L. 111-11 du Code de l'urbanisme).
+
+Qui contacter
+Service de l'eau potable                                     GRAND CALAIS TERRES ET MERS
+
+Mode de gestion                                              Délégation de service public à SUEZ
+
+Contact pour le branchement                                  SUEZ, pour le compte de : GRAND CALAIS TERRES ET MERS
+
+Mairie                                                       Mairie de Calais
+
+Téléphone de la mairie                                       03 21 46 62 00
+
+E-mail de la mairie                                          courrier@mairie-calais.fr
+
+Électricité (raccordement)                                   Enedis · demande en ligne sur enedis.fr (raccordement)
+
+La mairie oriente vers le bon interlocuteur et confirme, dans le certificat d'urbanisme, la desserte du terrain par les réseaux.
+Sources : SISPEA, observatoire des services publics d'eau (OFB) ; annuaire de l'administration (service-public.fr).
+
+Dans une promesse de vente, une condition suspensive portant sur le coût du raccordement aux réseaux protège
+l'acquéreur. Source de la cartographie électrique : Agence ORE, données des gestionnaires de réseaux de distribution ;
+tracés indicatifs.
+
+
+6.6 Fibre et internet
+     Le terrain est déjà fibré : 1 adresse située sur la parcelle (29 Rue Louguet) est déclarée raccordable à la
+     fibre.
+
+
+
+Adresse la plus proche                                          55 Rue Lecocq · à 32 m · raccordable
+
+Point fibré le plus proche                                      55 Rue Lecocq · à 32 m
+
+Adresses fibrées à moins de 100 m                               84 sur 84
+
+Adresses fibrées à moins de 400 m                               1 340 sur 1 341
+
+Technologies disponibles à proximité                            4G fixe, Fibre, Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       24 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                                Calais · AD 631
+         TerrenUrbanisme
+                                                                                                                06 · Le terrain : accès, relief et réseaux
+
+
+
+
+     Points fibrés autour du terrain
+
+
+
+
+                                                                                      FFF
+                                                                           F FF FF             F F
+                                                                    FF              F
+                                                                                        FF FF
+                                                                                 F FF
+                                                                            F FF F F
+                                                                   FFFFFF                   FF F
+                                                             FF                                      F        F
+                                                                     FFF                              F
+                                                                       FF                     F FF F
+                                                                  F     F                              FF F F
+                                                             F           FF                    FFFF              F
+                                                        F           F F                                       FF
+                                                         F           F     FF               FF         F FFFF
+                                                                    F       F                      F
+                                                          F         F       FF                F
+                                                                                              FF F
+                                                           F       F         FF                      FF        F
+                                                                              F
+                                                                              FF                       F
+                                                             F        F                                F
+                                                              F        F      F                        F
+                                                                       F F                   F        FF
+                                                                               F
+                                                               F      FF       FF                F     F
+                                                                                                         F
+                                                                F F            FF
+                                                                         F F    F                       F
+                                                                 F                                        F
+                                                                       F F FF                    F       F
+                                                                                                         F
+                                                                          F       F              F
+                                                                          F       F                F
+                                                                                   F
+                                                                                   F
+
+
+
+
+                                                                                                                                            100 m
+
+
+
+Repères F : adresses déclarées raccordables à la fibre (Arcep) · en terracotta : sur la parcelle · fond © IGN
+
+
+Vérifiez la fibre à l'adresse du terrain :
+
+                     Carte fibre Orange                                                                          Carte de l'Arcep
+
+
+  DISTANCE           ADRESSE                                                                         FIBRE             AUTRES ACCÈS
+
+  32 m               55 Rue Lecocq                                                                   Oui               4G fixe, Satellite
+
+  34 m               53 Rue Lecocq                                                                   Oui               4G fixe, Satellite
+
+  38 m               51 Rue Lecocq                                                                   Oui               4G fixe, Satellite
+
+  43 m               23 Rue Louguet                                                                  Oui               4G fixe, Satellite
+
+  43 m               49 Rue Lecocq                                                                   Oui               4G fixe, Satellite
+
+  45 m               29 Rue Louguet                                                                  Oui               4G fixe, Satellite
+
+  46 m               27 Rue Louguet                                                                  Oui               4G fixe, Satellite
+
+  46 m               25 Rue Louguet                                                                  Oui               4G fixe, Satellite
+
+
+
+Source : Arcep, « Ma connexion internet », éligibilité déclarée par les opérateurs, adresse par adresse. Le tracé des câbles n'est
+pas public : la présence de la fibre en limite de terrain se vérifie auprès de l'opérateur ou par une déclaration de projet de travaux
+(DT).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                   25 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Calais · AD 631
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.7 Qui contacter pour les réseaux
+  RÉSEAU                                    INTERLOCUTEUR                                         CE QU'IL FAUT DEMANDER
+
+  Eau potable et                            Mairie ou service des eaux de la                      Attestation de desserte et conditions de
+  assainissement collectif                  commune                                               raccordement
+
+  Assainissement individuel                 SPANC (communauté de communes)                        Contrôle de conception sur la base de l'étude
+                                                                                                  de sol
+
+  Électricité                               Enedis (gestionnaire du réseau de                     Étude de raccordement et devis
+                                            distribution)
+
+  Fibre et téléphone                        Opérateur d'infrastructure et                         Raccordement du futur logement
+                                            fournisseur d'accès
+
+  Tous réseaux                              Guichet unique des réseaux                            Déclaration de projet de travaux (DT) pour
+                                            (reseaux-et-canalisations.gouv.fr)                    localiser les réseaux existants
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        26 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Calais · AD 631
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+    07             Environnement et marché immobilier
+     DANS CETTE SECTION
+
+     Les espaces naturels protégés autour du terrain et les prix de vente réels des maisons,
+     appartements et terrains alentour.
+
+
+Inventaire national du patrimoine naturel et demandes de valeurs foncières (DVF).
+
+
+
+7.1 Espaces naturels protégés ou inventoriés
+La parcelle n'est concernée par aucun site Natura 2000, ZNIEFF, parc ou réserve naturelle.
+
+
+7.2 Espèces protégées observées près du terrain
+120 espèces protégées ont été observées dans un rayon de 1 km autour du terrain depuis 1990 ; les 14 plus
+fréquemment signalées figurent ci-dessous.
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Goéland brun (Larus fuscus)                                     Oiseau                 Nationale (espèce et              1 097 · dernière en
+                                                                                         habitat)                          2025
+
+  Goéland argenté (Larus argentatus)                              Oiseau                 Nationale (espèce et              826 · dernière en
+                                                                                         habitat)                          2026
+
+  Mésange charbonnière (Parus major)                              Oiseau                 Nationale (espèce et              148 · dernière en
+                                                                                         habitat)                          2026
+
+  Moineau domestique (Passer                                      Oiseau                 Nationale (espèce et              144 · dernière en
+  domesticus)                                                                            habitat)                          2025
+
+  Ophrys abeille (Ophrys apifera)                                 Plante                 Régionale                         133 · dernière en
+                                                                                                                           2024
+
+  Mésange bleue (Cyanistes caeruleus)                             Oiseau                 Nationale (espèce et              113 · dernière en
+                                                                                         habitat)                          2026
+
+  Rouge-gorge familier (Erithacus                                 Oiseau                 Nationale (espèce et              113 · dernière en
+  rubecula)                                                                              habitat)                          2025
+
+  Accenteur mouchet (Prunella modularis)                          Oiseau                 Nationale (espèce et              103 · dernière en
+                                                                                         habitat)                          2025
+
+  Pinson des arbres (Fringilla coelebs)                           Oiseau                 Nationale (espèce et              98 · dernière en
+                                                                                         habitat)                          2025
+
+  Jonc noueux (Juncus subnodulosus)                               Plante                 Régionale                         71 · dernière en
+                                                                                                                           2017
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          27 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Calais · AD 631
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Goéland mélanocéphale (Ichthyaetus                              Oiseau                 Nationale (espèce et              55 · dernière en
+  melanocephalus)                                                                        habitat)                          2022
+
+  Troglodyte mignon (Troglodytes                                  Oiseau                 Nationale (espèce et              51 · dernière en
+  troglodytes)                                                                           habitat)                          2025
+
+  Pouillot véloce (Phylloscopus collybita)                        Oiseau                 Nationale (espèce et              49 · dernière en
+                                                                                         habitat)                          2026
+
+  Hirondelle de rivage (Riparia riparia)                          Oiseau                 Nationale (espèce et              45 · dernière en
+                                                                                         habitat)                          2021
+
+
+
+     Une observation à proximité ne signifie pas que l'espèce vit sur le terrain. Mais si elle y est présente, il
+     est interdit de détruire, capturer ou déranger les individus et, pour la plupart de ces espèces, de
+     détruire leurs lieux de reproduction et de repos (articles L. 411-1 et suivants du Code de
+     l'environnement). L'infraction est punie de 3 ans d'emprisonnement et 150 000 € d'amende.
+
+
+
+Pour les plantes, la protection vise les populations sauvages : un spécimen planté dans un jardin n'est pas concerné.
+
+Que faire avant de construire ?
+    Pour une maison individuelle, aucune étude écologique n'est imposée en règle générale, et l'étude de sol porte
+    sur le terrain (fondations), pas sur la faune ni la flore. Vous restez cependant responsable si une espèce
+    protégée vit sur la parcelle : en cas de doute (espèce observée tout près, vieux arbres, murets, maquis, zone
+    humide), faites passer un écologue avant de défricher.
+    Si un enjeu est confirmé : inventaire faune-flore aux saisons utiles (printemps et été en général), puis mesures
+    pour éviter et réduire l'impact : implantation de la maison sur la partie la moins sensible, travaux hors période de
+    reproduction, clôture de chantier adaptée, déplacement d'individus par un spécialiste habilité.
+    Si la destruction d'individus ou d'habitats ne peut pas être évitée : demande de dérogation « espèces protégées »
+    auprès de la préfecture (DREAL), avec avis du conseil scientifique. Comptez 4 à 12 mois d'instruction, à anticiper
+    avant le dépôt du permis.
+
+Combien prévoir ?
+Pré-diagnostic écologique                                800 à 2 000 € (une visite et une note de synthèse)
+
+Inventaire faune-flore                                   3 000 à 10 000 € selon la surface et le nombre de passages
+
+Mesures d'évitement et de réduction                      500 à 5 000 € (balisage, calendrier, suivi de chantier)
+
+Dossier de dérogation                                    8 000 à 25 000 €, hors mesures de compensation éventuelles
+
+Ordres de prix indicatifs, honoraires de bureaux d'études en environnement, si une étude est nécessaire. Pour une maison sur un
+terrain déjà entouré de constructions, aucune étude n'est le plus souvent requise.
+
+Sources : statuts de protection TAXREF et base de connaissance des statuts (INPN, Muséum national d'Histoire naturelle) ;
+observations naturalistes GBIF, qui rassemble notamment les données de l'INPN et du SINP.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         28 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Calais · AD 631
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+7.3 Prix de l'immobilier à Calais
+Prix au mètre carré des ventes enregistrées sur la commune au cours des cinq dernières années publiées.
+Seules les ventes portant sur un bien unique sont retenues.
+
+  TYPE DE BIEN                                       VENTES                       €/M² MÉDIAN                              €/M² MOYEN
+
+  Maisons                                            3 300                        1 519 €/m²                               1 548 €/m²
+
+  Appartements                                       1 069                        1 947 €/m²                               2 279 €/m²
+
+  Locaux commerciaux                                 225                          818 €/m²                                 1 385 €/m²
+
+
+
+Source : statistiques des demandes de valeurs foncières (DGFiP, Etalab). Prix des actes, hors frais : un ordre de grandeur,
+pas une estimation du bien.
+
+
+7.4 Ventes de terrains autour de la parcelle
+Période observée                                         2021 à 2026
+
+Ventes de terrains recensées                             16
+
+Prix médian                                              181 €/m²
+
+Prix courants (une vente sur deux)                       34 à 214 €/m²
+
+
+  DATE                    PARCELLE                          NATURE                                SURFACE              PRIX             €/M²
+
+  19/06/2026              AB 385 (+1)                       sols                                  1 391 m²             174 000 €        125
+
+  04/05/2026              AC 785 (+2)                       terrains à bâtir, sols                1 362 m²             274 215 €        201
+
+  18/12/2025              AC 802                            sols                                  5 038 m²             2 400 000 €      476
+
+  11/12/2025              AE 466 (+2)                       sols                                  132 m²               120 000 €        909
+
+  18/11/2024              AC 802                            sols                                  5 038 m²             1 080 000 €      214
+
+  03/04/2024              AE 658 (+1)                       sols                                  11 702 m²            80 000 €         7
+
+  24/10/2023              AC 425 (+11)                      terrains à bâtir                      3 416 m²             13 453 268 €     3 938
+
+  28/02/2023              AI 894 (+1)                       terrains d'agrément, sols             1 242 m²             32 000 €         26
+
+  20/04/2022              AD 949                            sols                                  193 m²               4 000 €          21
+
+  01/03/2022              AD 741                            jardins                               337 m²               11 500 €         34
+
+  17/12/2021              AE 854                            terrains à bâtir                      413 m²               60 000 €         145
+
+  11/10/2021              AH 153                            sols                                  134 m²               262 000 €        1 955
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           29 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Calais · AD 631
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+Source : DVF, ventes enregistrées par la DGFiP. Les prix au mètre carré dépendent fortement de la constructibilité, de la
+vue, de l'accès et de la viabilisation : ils donnent un ordre de grandeur, pas une estimation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                   30 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                             Calais · AD 631
+         TerrenUrbanisme
+                                                                                                                                08 · Historique du site
+
+
+
+
+   08              Historique du site
+     DANS CETTE SECTION
+
+     Le terrain vu du ciel au fil des décennies et les permis de construire accordés autour : l'évolution
+     du secteur en un coup d'œil.
+
+
+Photographies aériennes de l'IGN et permis de construire délivrés (Sitadel).
+
+
+
+8.1 Le terrain vu du ciel, d'hier à aujourd'hui
+
+    1950-1965                                             2000-2005                                              2006-2010
+
+
+
+
+    2011-2015                                             Aujourd'hui
+
+
+
+
+Ces vues montrent l'évolution du terrain et du quartier, des années 1950 à aujourd'hui (photographies aériennes de l'IGN).
+
+     Bon à savoir : l'existence ancienne d'une construction peut ouvrir, sous conditions, un droit à
+     reconstruire ou à restaurer un bâtiment dont il reste l'essentiel des murs porteurs (articles L. 111-15 et L.
+     111-23 du Code de l'urbanisme).
+
+
+
+
+8.2 Permis de construire délivrés autour du terrain
+Autorisations sur la commune (3 ans)                                    117 · dernière recensée le 30/09/2026
+
+Logements autorisés (3 ans)                                             1 242
+
+Dont maisons individuelles                                              69
+
+Autorisations dans la section AD                                        2 depuis 2013
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  07/03/2017            Permis de construire                   AD 113             2              214 m²                    RUE LA BRUYERE
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                31 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                             Calais · AD 631
+         TerrenUrbanisme
+                                                                                                                                08 · Historique du site
+
+
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS           SURFACE CRÉÉE            LIEU-DIT / VOIE
+
+  18/08/2016            Permis de construire                   AD 376             1               158 m²                   RUE VOLTAIRE
+
+
+
+Permis accordés à moins de 500 m du terrain
+  DATE                 AUTORISATION                       PARCELLE          DISTANCE         LOGTS         SURFACE            LIEU-DIT / VOIE
+
+  02/06/2025           Permis de construire               AK 232            440 m            1             132 m²             RUE DENEUVILLE
+
+  03/04/2025           Permis de construire               AC 501            480 m            12            1 305 m²           RUE MOLLIEN
+
+  10/12/2024           Permis de construire               AC 501            480 m            13            1 002 m²           RUE MOLLIEN
+
+  26/11/2024           Permis de construire               AC 391            470 m            27            2 258 m²           AVENUE LOUIS BLERIOT
+
+  28/08/2024           Permis de construire               AC 389            440 m            70            3 887 m²           AVENUE LOUIS BLERIOT
+                                                                                                                              - DES
+
+  22/09/2023           Permis de construire               AC 746            210 m            1             123 m²             RUE DIDEROT
+
+  08/04/2022           Permis de construire               AH 1139           450 m            1             86 m²              RUE LINNE
+
+
+
+7 autorisations créant des logements recensées dans un rayon de 500 m : la construction a été admise récemment
+dans le voisinage immédiat.
+
+Source : base Sitadel des autorisations d'urbanisme créant des logements (SDES). Un permis accordé à proximité montre
+que des constructions ont été admises dans le secteur, sans préjuger de la décision sur votre propre projet.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                32 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Calais · AD 631
+         TerrenUrbanisme
+                                                                                                              09 · Opportunités autour du terrain
+
+
+
+
+      09           Opportunités autour du terrain
+      DANS CETTE SECTION
+
+      Ce qui se passe autour de la parcelle : grands terrains peu bâtis, sociétés propriétaires en
+      difficulté, logements énergivores. Des pistes pour un investisseur, un voisin ou un professionnel.
+
+
+Bodacc (procédures collectives), ADEME (diagnostics énergétiques), cadastre, BD TOPO et Géoportail de l'Urbanisme.
+
+
+
+9.1 Grands terrains peu bâtis à proximité
+Parcelles de plus de 1 200 m², situées en zone urbaine ou à urbaniser du PLU, dans un rayon de 250 m, dont
+moins de 8 % de la surface est bâtie, hors terrains publics : un potentiel de construction ou de division à
+étudier.
+
+  PARCELLE           SURFACE                BÂTI               ZONE               DISTANCE           PROPRIÉTAIRE
+
+  AC 343             1 524 m²               non bâti           UC                 320 m              particulier (non publié)
+
+
+
+
+9.2 Logements classés F ou G autour du terrain
+Logements diagnostiqués F ou G dans un rayon de 350 m. Leur location est déjà interdite (G) ou le sera en
+2028 (F) : leurs propriétaires sont souvent vendeurs, ou doivent engager des travaux de rénovation.
+
+  PARCELLE                   ADRESSE                                        CLASSE LOGEMENT                   SURFACE      DISTANCE DPE DU
+
+  –                          55 Rue Lecocq 62100 Calais                     F            Maison               98 m²        50 m     19/06/2023
+
+  –                          47 Rue Lecocq 62100 Calais                     G            Maison               87 m²        50 m     14/04/2023
+
+  –                          2 Rue Louguet 62100 Calais                     F            Maison               108 m²       90 m     05/01/2026
+
+  –                          145 Rue Anatole France 62100                   G            Maison               148 m²       120 m    13/05/2022
+                             Calais
+
+  –                          117 Rue Anatole France 62100                   F            Maison               141 m²       140 m    18/10/2023
+                             Calais
+
+  –                          113 Rue Anatole France 62100                   F            Maison               202 m²       150 m    26/03/2022
+                             Calais
+
+  –                          82 Rue Voltaire 62100 Calais                   F            Maison               77 m²        210 m    22/07/2025
+
+  –                          70 Rue Voltaire 62100 Calais                   G            Maison               145 m²       220 m    03/08/2022
+
+  –                          83 Avenue Louis Blériot 62100                  F            Appartemen           24 m²        220 m    15/02/2022
+                             Calais                                                      t
+
+  –                          87 Rue Voltaire 62100 Calais                   G            Maison               75 m²        230 m    16/11/2023
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        33 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Calais · AD 631
+         TerrenUrbanisme
+                                                                                                              09 · Opportunités autour du terrain
+
+
+
+
+La parcelle est celle du point d'adresse du logement (cadastre). Pour connaître son propriétaire lorsqu'il s'agit d'un particulier,
+demandez un relevé de propriété au service de la publicité foncière ou à la mairie.
+
+Ces informations proviennent de bases publiques et ne préjugent ni de l'intention de vendre des propriétaires ni de la
+constructibilité des parcelles citées, qui relève d'une étude au cas par cas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       34 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Calais · AD 631
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+      10           Votre projet, étape par étape
+De l'achat du terrain à la déclaration aux impôts : démarches, délais, coûts et contacts.
+
+
+
+10.1 Analyse
+Le terrain est soumis au plan local d'urbanisme (PLU) de Calais. Il est classé en zone UC. Zone urbaine :
+secteur déjà urbanisé où les équipements publics existants ou en cours de réalisation permettent
+d'accueillir des constructions. Les constructions y sont admises dans le respect du règlement de la zone
+(destinations, implantation, hauteur, emprise, aspect).
+
+En l'état des documents consultés, un projet de construction est envisageable. Sa faisabilité dépend du
+règlement écrit de la zone : destinations autorisées, implantation par rapport aux voies et aux limites,
+hauteur maximale, emprise au sol, coefficient d'espaces verts, stationnement et aspect extérieur.
+
+Calais est une commune littorale. Indépendamment du PLU, la loi Littoral exige que toute extension de
+l'urbanisation se fasse en continuité d'une agglomération ou d'un village existant. Un terrain isolé, même
+classé constructible, peut se voir opposer un refus sur ce fondement.
+
+
+10.2 Votre projet, étape par étape
+Les étapes ci-dessous suivent l'ordre réel d'un projet de construction, de l'achat du terrain à la déclaration aux
+impôts. Les montants sont indicatifs et à confirmer par devis.
+
+  1      Avant d'acheter le terrain
+         Vérifiez les règles de la zone (chapitres précédents), puis demandez un certificat d'urbanisme opérationnel
+         (Cerfa 13410, sans frais, réponse sous 2 mois) : il fige les règles pendant 18 mois. En zone d'argiles d'aléa
+         moyen ou fort, le vendeur doit fournir une étude de sol préalable.
+         Contact : Mairie de Calais · 03 21 46 62 00 · courrier@mairie-calais.fr · formulaire sur service-public.fr (rechercher «
+         Cerfa 13410 »)
+
+  2      Les études
+         Étude de sol géotechnique (G2) pour dimensionner les fondations : 1 500 à 3 000 €. Étude thermique RE2020,
+         obligatoire pour le permis : 500 à 1 500 €. Bornage par un géomètre si les limites sont incertaines. L'étude de
+         sol ne porte pas sur les espèces protégées : un écologue n'intervient qu'en cas d'enjeu (chapitre
+         Environnement).
+         Géomètres proches du terrain : liste à la fin de ce chapitre
+
+  3      Les plans
+         Architecte obligatoire si la surface de plancher totale dépasse 150 m². En dessous, vous pouvez dessiner les
+         plans vous-même ou faire appel à un dessinateur ou maître d'œuvre (environ 1 500 à 4 000 € le dossier de
+         permis). Architecte : 3 000 à 8 000 € pour la seule mission de permis, 8 à 12 % du coût des travaux pour une
+         mission complète avec suivi du chantier.
+         Trouver un architecte : annuaire de l'Ordre des architectes sur architectes.org
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         35 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Calais · AD 631
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+  4      Déposer le permis
+         Formulaire Cerfa 13406 (maison individuelle) et pièces PCMI1 à PCMI8 : plan de situation, plan de masse,
+         coupe, notice, plans des façades et toitures, insertion dans le paysage, photos, attestation RE2020. Dépôt en
+         mairie ou en ligne sur le guichet numérique de la commune. La mairie a 1 mois pour réclamer une pièce
+         manquante ; l'instruction dure 2 mois à partir du dossier complet, plus en secteur protégé.
+         Dépôt : Mairie de Calais · 03 21 46 62 00 · courrier@mairie-calais.fr · formulaire sur service-public.fr (rechercher «
+         Cerfa 13406 »)
+
+  5      Affichage et recours
+         Dès l'accord, installez le panneau de permis sur le terrain, lisible depuis la voie, pendant toute la durée du
+         chantier. Les tiers ont 2 mois à compter du premier jour d'affichage pour contester ; la mairie peut retirer un
+         permis illégal pendant 3 mois. Faites constater l'affichage par un commissaire de justice (environ 300 à 600 €
+         pour les trois constats).
+         Commissaires de justice : annuaire sur commissaire-justice.fr
+
+  6      Avant les travaux
+         Souscrivez l'assurance dommages-ouvrage, obligatoire (souvent 2 à 4 % du coût de la construction). Signez
+         le contrat de construction de maison individuelle ou les marchés des artisans. Déposez la déclaration
+         d'ouverture de chantier (Cerfa 13407) le jour du démarrage. Le permis est valable 3 ans, prorogeable deux
+         fois d'un an.
+         Déclaration d'ouverture : Mairie de Calais · 03 21 46 62 00 · courrier@mairie-calais.fr
+
+  7      Le financement
+         La banque débloque le prêt au fur et à mesure du chantier, sur présentation des factures des entreprises ou
+         des appels de fonds du constructeur. Avec un contrat de construction de maison individuelle, l'échéancier
+         est encadré par la loi : 15 % à l'ouverture du chantier, 25 % aux fondations, 40 % aux murs, 60 % hors d'eau,
+         75 % hors d'air et cloisons, 95 % aux équipements, le solde à la réception. Des intérêts intercalaires peuvent
+         courir sur les sommes débloquées.
+         Votre banque ou votre courtier
+
+  8      La fin du chantier
+         Réception des travaux avec le constructeur ou les artisans, avec réserves si nécessaire. Déposez ensuite la
+         déclaration attestant l'achèvement et la conformité des travaux (DAACT, Cerfa 13408), avec l'attestation
+         RE2020 de fin de chantier. La mairie a 3 mois pour la contester (5 mois en secteur protégé).
+         Dépôt : Mairie de Calais · 03 21 46 62 00 · courrier@mairie-calais.fr
+
+  9      Les impôts
+         Dans les 90 jours suivant l'achèvement, déclarez la construction sur impots.gouv.fr, espace « Gérer mes
+         biens immobiliers ». Cette déclaration sert au calcul de la taxe d'aménagement (payée en une fois sous 1 500
+         €, sinon en deux fois, estimation plus bas dans ce chapitre) et de la taxe foncière, avec une exonération
+         possible les deux premières années selon la commune.
+         impots.gouv.fr › Espace particulier › Gérer mes biens immobiliers
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         36 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Calais · AD 631
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+10.3 Les points à vérifier pour ce terrain
+  1      Certificat d'urbanisme opérationnel
+         Le demander en mairie (formulaire Cerfa 13410), en décrivant le projet. Gratuit, il indique si le terrain
+         peut accueillir le projet et fige les règles d'urbanisme pendant 18 mois.
+
+  2      Règlement de la zone
+         Lire le règlement écrit de la zone UC et, le cas échéant, les orientations d'aménagement, disponibles sur
+         le Géoportail de l'Urbanisme.
+
+  3      Réseaux et accès
+         Vérifier l'accès à une voie publique ou privée adaptée, la desserte en eau potable et en électricité, et le
+         mode d'assainissement. En l'absence de réseau collectif, une étude de sol et l'avis du service public
+         d'assainissement non collectif (SPANC) sont nécessaires.
+
+  4      Loi Littoral
+         Faire confirmer par la mairie ou un professionnel la situation de la parcelle au regard de la continuité
+         avec l'urbanisation existante.
+
+  5      Bornage
+         Faire réaliser un bornage par un géomètre-expert pour fixer les limites exactes et la surface réelle du
+         terrain.
+
+  6      Sécuriser un achat
+         Pour une acquisition, prévoir dans le compromis une condition suspensive d'obtention d'un permis de
+         construire purgé de tout recours.
+
+
+10.4 Délais indicatifs d'instruction
+  DEMANDE                                                                                 DÉLAI DE DROIT COMMUN
+
+  Certificat d'urbanisme d'information (CUa)                                              1 mois
+
+  Certificat d'urbanisme opérationnel (CUb)                                               2 mois
+
+  Déclaration préalable                                                                   1 mois
+
+  Permis de construire une maison individuelle                                            2 mois
+
+  Permis d'aménager, autres permis de construire                                          3 mois
+
+
+
+Ces délais peuvent être majorés, notamment en site classé ou inscrit, aux abords d'un monument historique ou lorsque la
+consultation d'un service extérieur est nécessaire.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         37 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Calais · AD 631
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+10.5 Taxe d'aménagement à prévoir
+      Exemple : une maison de 120 m² en résidence principale, avec une piscine de 3 × 6 m. Sur ce terrain, la
+      taxe d'aménagement à prévoir est d'environ 3 550 €.
+
+
+
+  PROJET                                                                                                       TAXE ESTIMÉE
+
+  Maison de 120 m², résidence principale                                                                       3 310 €
+
+  Piscine de 3 × 6 m (18 m²)                                                                                   240 €
+
+  Total à prévoir                                                                                              3 550 €
+
+
+
+Taux appliqués : 3,5 % pour la commune et 1,8 % pour le département, sur une valeur forfaitaire de 892 € par m² en 2026
+(251 € par m² de bassin pour une piscine). Une résidence principale bénéficie d'un abattement de 50 % sur ses 100 premiers
+m².
+
+La taxe est due une fois les travaux terminés : elle se déclare sur impots.gouv.fr dans les 90 jours suivant l'achèvement, et
+se paie en deux fois au-delà de 1 500 €. Pour calculer votre propre projet :
+terrenurbanisme.com/outils/taxe-amenagement.html
+
+
+10.6 Implanter une entreprise : zone France Ruralités Revitalisation
+      La commune de Calais n'est pas classée en zone France Ruralités Revitalisation (FRR). Une entreprise
+      qui s'y installe ne bénéficie pas de l'exonération d'impôt sur les bénéfices liée à ce zonage.
+
+
+
+Source : ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 (collectivites-locales.gouv.fr).
+
+
+10.7 Géomètres proches du terrain
+Le géomètre-expert est le seul professionnel habilité à fixer les limites de propriété (bornage) et à établir les
+documents d'arpentage déposés au cadastre. Il intervient aussi pour les relevés topographiques et les
+divisions de terrain.
+
+28,5 km           LATITUDES
+                                                                                                                           Coordonnées
+                  2 RUE PIERRE MARTIN 62280 SAINT-MARTIN-BOULOGNE
+
+
+30,3 km           ARCHIMETRE
+                                                                                                                           Coordonnées
+                  132 RUE DE LA PAIX 62200 BOULOGNE-SUR-MER
+
+
+30,9 km           SCP BLEARD - LECOCQ - GEOMETRES EXPERTS
+                                                                                                                           Coordonnées
+                  RESIDENCE FELIX ADAM 1 BOULEVARD AUGUSTE MARIETTE 62200
+                  BOULOGNE-SUR-MER
+
+
+30,9 km           LATITUDES
+                                                                                                                           Coordonnées
+                  RESIDENCE FELIX ADAM 1 BOULEVARD AUGUSTE MARIETTE 62200
+                  BOULOGNE-SUR-MER
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         38 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Calais · AD 631
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+30,9 km           LECOCQ & ASSOCIES
+                                                                                                                           Coordonnées
+                  1 BOULEVARD AUGUSTE MARIETTE 62200 BOULOGNE-SUR-MER
+
+
+32,5 km           BETTY DE SAINTE MARESVILLE (BARON)
+                                                                                                                           Coordonnées
+                  10 ROUTE DE SAMER 62240 DESVRES
+
+
+Source : répertoire Sirene de l'INSEE (activité des géomètres), classé par distance au terrain. L'inscription d'un cabinet à l'Ordre
+des géomètres-experts se vérifie sur geometre-expert.fr. Le bouton « Coordonnées » ouvre la fiche du cabinet (téléphone,
+horaires, itinéraire). Cette liste est fournie à titre indicatif, sans partenariat ni recommandation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         39 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Calais · AD 631
+          TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+     11            État des risques (ERP) pré-rempli
+     DANS CETTE SECTION
+
+     Le formulaire réglementaire à remettre à l'acquéreur ou au locataire, pré-rempli à partir des
+     bases officielles : plans de prévention, sismicité, radon, sols pollués, trait de côte, bruit des
+     aérodromes.
+
+
+Articles L. 125-5 à L. 125-7 et R. 125-23 à R. 125-27 du Code de l'environnement · modèle fixé par l'arrêté du 27 septembre
+2022.
+
+
+     Formulaire pré-rempli à partir de Géorisques et du Géoportail de l'Urbanisme à la date du rapport.
+     Avant de le remettre à l'acquéreur ou au locataire, le vendeur ou le bailleur le vérifie, le complète
+     (sinistres indemnisés) et le signe ; il doit dater de moins de six mois à la signature de la promesse, du
+     bail ou de l'acte.
+
+
+
+
+11.1 Situation du bien
+Commune                                                  Calais (62193)
+
+Département                                              Pas-de-Calais (62)
+
+Références cadastrales                                   Section AD, parcelle n° 631 · 62193000AD0631
+
+Surface cadastrale                                       489 m²
+
+
+
+11.2 Plans de prévention des risques
+  L'IMMEUBLE EST SITUÉ DANS LE PÉRIMÈTRE…                                         RÉPONSE                DÉTAIL
+
+  d'un plan de prévention des risques naturels (PPRN)                             Non                    Aléas à l'adresse : remontée de nappe,
+  prescrit, appliqué par anticipation ou approuvé                                                        mouvement de terrain
+
+  d'un plan de prévention des risques miniers (PPRM)                              Non                    Non recensé
+
+  d'un plan de prévention des risques technologiques                              Non                    Risques technologiques sur la commune
+  (PPRT)                                                                                                 : installations industrielles (icpe),
+                                                                                                         nucléaire, canalisations de matières
+                                                                                                         dangereuses
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        40 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Calais · AD 631
+         TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+11.3 Autres zonages réglementaires
+  L'IMMEUBLE EST SITUÉ…                                                           RÉPONSE                DÉTAIL
+
+  dans une commune de sismicité (zones 2 à 5 : règles de                          Oui                    Zone 2 – faible
+  construction parasismique)
+
+  dans une commune à potentiel radon de niveau 3                                  Non                    Catégorie 1 (potentiel faible)
+
+  dans un secteur d'information sur les sols (SIS)                                À vérifier             SIS recensé à proximité : LU. Vérifier
+                                                                                                         l'arrêté préfectoral.
+
+  dans une zone exposée au recul du trait de côte                                 Non                    Non concerné selon Géorisques
+
+  dans une zone de bruit d'un plan d'exposition au bruit                          À vérifier             Aucun PEB annexé au document
+  d'aérodrome (PEB)                                                                                      d'urbanisme ; vérifier auprès de la mairie
+
+  dans une zone de retrait-gonflement des argiles                                 Oui                    Existant – modéré
+  (information)
+
+
+
+
+11.4 Sinistres indemnisés et déclarations
+Arrêtés de catastrophe naturelle sur la commune : 9 (liste en section Risques). Le vendeur ou le bailleur
+déclare ci-dessous les sinistres ayant donné lieu à une indemnisation au titre des catastrophes naturelles ou
+technologiques pendant la période où il a été propriétaire.
+
+Sinistres indemnisés                                     [ ] Oui [ ] Non
+
+Vendeur ou bailleur                                      Nom : ____________________ Date : ___/___/______ Signature :
+
+Acquéreur ou locataire                                   Nom : ____________________ Date : ___/___/______ Signature :
+
+
+L'état des risques officiel peut aussi être édité gratuitement sur Géorisques (errial.georisques.gouv.fr). Les informations
+ci-dessus sont établies à partir des bases nationales ; en cas de divergence, l'arrêté préfectoral relatif à l'information des
+acquéreurs et des locataires fait foi.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             41 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Calais · AD 631
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+    12             Avertissement et sources
+     DANS CETTE SECTION
+
+     La portée de ce rapport et la liste des sources publiques consultées.
+
+
+
+12.1 Nature du document
+Ce rapport est un document d'information établi automatiquement, à la date indiquée en page de garde, à
+partir des données publiques officielles alors disponibles. Il n'a aucune valeur contractuelle, réglementaire ou
+juridique.
+
+
+12.2 Ce que ce rapport n'est pas
+Il ne constitue ni un certificat d'urbanisme au sens de l'article L. 410-1 du Code de l'urbanisme, ni une
+autorisation d'urbanisme (permis de construire, permis d'aménager, déclaration préalable), ni un état des
+risques au sens de l'article L. 125-5 du Code de l'environnement, ni un bornage, ni une expertise, ni une
+évaluation immobilière, ni une consultation juridique. Il n'engage en rien l'administration.
+
+
+12.3 Permis de construire
+Ce rapport ne peut en aucun cas être joint, produit ou invoqué à l'appui d'une demande de permis de
+construire, de permis d'aménager ou de déclaration préalable, ni opposé à la mairie ou à un service de l'État. Il
+ne garantit pas l'obtention d'une autorisation : seule l'autorité compétente se prononce, au vu d'un projet
+précis et de l'ensemble des règles applicables à la date de sa décision.
+
+
+12.4 Limites des données
+Les données sont produites par des organismes publics dont l'éditeur n'est ni l'auteur ni le garant. Elles
+peuvent être incomplètes, imprécises ou ne pas refléter une modification, une révision, une mise en
+compatibilité, une annulation contentieuse, un sursis à statuer ou une procédure en cours. Le plan cadastral,
+document fiscal, ne fait pas foi des limites de propriété. Surfaces, distances, altitudes et pentes sont
+approchées. Les extraits et analyses du règlement sont une aide à la lecture : seul le texte intégral du
+document d'urbanisme approuvé, consultable en mairie, fait foi.
+
+
+12.5 Avant toute décision
+Avant toute acquisition, cession, financement, promesse de vente ou dépôt d'une demande, le lecteur doit
+obtenir un certificat d'urbanisme opérationnel auprès de la mairie, consulter le document d'urbanisme en
+vigueur et recueillir l'avis d'un professionnel habilité (notaire, architecte, géomètre-expert, avocat). Pour un
+achat, il est recommandé de stipuler une condition suspensive d'obtention d'un permis de construire purgé de
+tout recours.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         42 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Calais · AD 631
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+12.6 Responsabilité
+L'éditeur ne saurait être tenu responsable d'une décision prise sur le seul fondement de ce rapport, ni d'un
+refus d'autorisation, d'une erreur ou d'une omission des sources publiques, dans les limites prévues par les
+conditions générales de vente acceptées lors de la commande.
+
+
+12.7 Sources consultées
+  DONNÉE                                                    SOURCE
+
+  Cadastre                                                  DGFiP, plan cadastral informatisé, via API Carto (IGN)
+
+  Photographies et plans                                    IGN, Géoplateforme : orthophotographies, Plan IGN, parcellaire express
+
+  Urbanisme                                                 Géoportail de l'Urbanisme : zonage, prescriptions, informations, servitudes
+                                                            d'utilité publique
+
+  Littoral                                                  IGN, BD TOPO (limite terre-mer) ; communes littorales (Géoportail de
+                                                            l'Urbanisme)
+
+  Montagne                                                  Ministère de la Cohésion des territoires, communes de la loi Montagne
+
+  Risques                                                   Géorisques (ministère de la Transition écologique) : rapport de risques,
+                                                            arrêtés CatNat, sismicité, radon, ICPE, sites pollués
+
+  Environnement                                             Inventaire national du patrimoine naturel (PatriNat), via API Carto
+
+  Altitude, pente et exposition                             IGN, RGE ALTI
+
+  Ensoleillement                                            Calcul astronomique de la course du soleil ; masque du relief (IGN, RGE
+                                                            ALTI) et des bâtiments (IGN, BD TOPO)
+
+  Voirie et accès                                           IGN, BD TOPO (tronçons de route)
+
+  Permis de construire                                      Sitadel, service des données et études statistiques (SDES) du ministère
+                                                            chargé du logement
+
+  Photographies anciennes                                   IGN, BD ORTHO historique
+
+  Fibre et internet                                         Arcep, Ma connexion internet (éligibilité par adresse)
+
+  Géomètres                                                 Répertoire Sirene (INSEE), activité des géomètres
+
+  Propriétaires personnes morales                           DGFiP, fichiers des parcelles des personnes morales (diffusion Koumoul)
+
+  Diagnostics énergétiques                                  ADEME, base des DPE des logements existants
+
+  Procédures collectives                                    Bodacc, annonces commerciales (DILA)
+
+  Bâtiments                                                 IGN, BD TOPO
+
+  Réseau électrique                                         Agence ORE (gestionnaires de réseaux de distribution : Enedis, EDF Corse
+                                                            et entreprises locales) : réseau basse tension et postes de distribution
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         43 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Calais · AD 631
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+  DONNÉE                                                    SOURCE
+
+  Taxe d'aménagement                                        DGFiP, éléments de taxation votés par les collectivités ; valeurs forfaitaires
+                                                            fixées par arrêté
+
+  Rapport officiel de risques                               Géorisques, ministère chargé de l'environnement
+
+  Zone France Ruralités Revitalisation                      ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 ; article
+                                                            44 quindecies A du code général des impôts
+
+  Marché immobilier                                         Statistiques des demandes de valeurs foncières (DVF) par commune, DGFiP
+                                                            et Etalab
+
+  Date d'extraction                                         20/11/2026
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         44 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Calais · AD 631
+         TerrenUrbanisme
+                                                                                                                     Annexe · règlement de la zone
+
+
+
+
+ANNEXE
+
+
+Règlement écrit · zone UC
+Les pages suivantes reproduisent le chapitre du règlement officiel applicable à la zone de la parcelle
+(pages 25 à 35 du document approuvé), tel que publié sur le Géoportail de l'Urbanisme. Il s'agit d'une
+reproduction à titre d'information : seule la version approuvée tenue à disposition en mairie fait foi, avec
+ses annexes, plans et éventuelles modifications ultérieures.
+Règlement complet :
+https://data.geopf.fr/annexes/gpu/documents/DU_62193/a7f600df71f6af4403dc0b3f8f074ec1/62193_reglement_20261005.pdf
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         45 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                               Règlement de la zone UC
+
+
+
+
+                                                                                                                                                TITRE II – Zone UC
+   La zone UC couvre les quartiers situés dans le prolongement du centre-ville.
+   Elle comprend deux secteurs :
+       - le secteur UCa, spécifique au site dédié à accueillir des équipements majeurs en lien avec la politique de développement
+          touristique (hôtel, logement, etc.). Ce secteur fait l’objet d’une orientation d’aménagement et de programmation (OAP), au
+          titre de l’article L.151-6 du Code de l’urbanisme. Les autorisations d’urbanisme doivent être compatibles avec cette orientation
+          d’aménagement et de programmation.
+       - le secteur UCc, dédié aux secteurs commerciaux de l’avenue Guynemer, de la Route de Saint-Omer, de la rue Mollien.
+   L’indice « l » correspond aux secteurs situés dans les espaces proches du rivage, définis en application de le loi n°86-2 du
+   3 janvier 1986 relative à l’aménagement, la protection et la mise en valeur du Littoral (dite “ loi Littoral “)
+   Une partie de la zone UC est concernée par l'enveloppe "recul du trait de côte".
+   Une partie de la zone UC figure dans le périmètre de la Société Calaire Chimie, au sein duquel les dispositions du règlement du Plan
+   de Prévention des Risques Technologiques s’appliquent.
+   L'indice « i » correspond aux secteurs d'aléa de submersion marine.
+
+   Selon le principe de prévention, l’attention des constructeurs et de l’ensemble des usagers du Plan Local d’Urbanisme est attirée sur
+   les risques marquant le territoire de Calais.
+   Une partie du territoire communal est concernée :
+        - par des risques naturels littoraux : inondation par submersion marine. Le Plan de Prévention des Risques Naturels Littoraux sur
+           le territoire du Calaisis a été approuvé par arrêté préfectoral le 24 juillet 2018.
+           Figurent en annexe du présent PLU la carte de l’aléa submersion marine centennal et de la bande de 100 m débordement et
+           rupture de digue, ainsi que la grille de lecture pour les actes d’urbanisme au regard des aléas de submersion marine.
+        - par des risques liés aux mouvements de terrain. Le Plan de Prévention des Risque Naturel Mouvement de terrain de Calais a
+           été prescrit par arrêté du 7 février 2003,
+        - par des risques liés au phénomène de retrait-gonflement des sols argileux. L’information relative à ce risque figure en annexe du
+           présent PLU.
+        - par le risque sismique. La commune figure en zone de sismicité 2 (faible). L’information relative à ce risque figure en annexe du
+           présent PLU.
+        - par des risques technologiques. Le Plan de Prévention des Risques Technologiques (PPRT) de la Société Calaire Chimie a été
+           approuvé par arrêté du 23 décembre 2011. Le Plan de Prévention des Risques Technologiques (PPRT) de la Société des Usines
+           Chimiques Interor et Synthéxim de Calais a été approuvé par arrêté du 24 août 2012.
+           Les dispositions du PPRT, valant servitude d’utilité publique, s’imposent aux occupations du sol, en sus des dispositions du
+           présent règlement et sont annexées au présent PLU. Les enveloppes du zonage réglementaire des PPRT sont identifiées au
+           plan de zonage.
+        - par des risques liés à la présence de canalisations de transport de gaz. Le territoire de Calais est traversé par des canalisations
+           de transport de gaz et soumis aux dispositions de l’arrêté du 4 août 2006.
+           Il revient aux maîtres d’ouvrage de prendre les dispositions techniques nécessaires et adaptées pour garantir la pérennité et la
+           stabilité des ouvrages et des constructions à édifier.
+   Il est également rappelé que des sites et sols pollués sont recensés sur le territoire de Calais. Les risques liés à la pollution des sols
+   doivent être pris en compte dans tous les projets d’aménagement.
+   Il est rappelé qu’en dehors des espaces urbanisés des communes, les constructions ou installations sont interdites aux abords des
+   autoroutes, des routes express, des déviations et des autres routes classées à grande circulation, selon les modalités définies par le
+   Code de l’urbanisme et rappelée à l’article 12 du titre I - Dispositions générales du présent règlement.
+
+
+
+
+PLU Ville de Calais - Règlement                       Date de dernière validation : 30 avril 2026                                                      25
+     Article UC 1 -        Occupations et utilisations des sols interdites
+
+        1.1.   Occupations et utilisations du sol interdites en zone UC,
+               - Les constructions et installations destinées à l’industrie et à l’exploitation agricole,
+               - L'ouverture et l'exploitation de carrières,
+               - Les caravanes isolées et les campings de toutes natures,
+               - Les groupes de garages individuels de plus de 30 box, à l’exception des parkings en ouvrage (sillos, souterrains, etc.)
+               - Les dépôts de vieillies ferrailles, véhicules désaffectés, matériaux de démolition, déchets, etc.
+               - Les bâtiments annexes, tels que clapiers, poulaillers, pigeonniers, etc.
+        1.2.   En sus des dispositions de l’article 1.1, occupations et utilisations du sol interdites en zone UC, à l’exclusion du
+               secteur UCc
+               - Les constructions destinées au commerce de plus de 1 000 m² de surface de plancher.
+        1.3.   En sus des dispositions de l’article 1.1, occupations et utilisations du sol interdites dans les linéaires commerciaux
+               et pôles commerciaux, protégés aux documents graphiques, au titre de l’article L.151-16 du Code de l’Urbanisme
+               - Le changement de destination vers l’habitation des locaux, situés au rez-de-chaussée, en front de rue ou d’espace public,
+                 destinés au commerce et à l’artisanat, sauf si l’état du bâtiment le justifie (abandon depuis plusieurs années, état de
+                 dégradation avancé, …).
+        1.4.   Occupations et utilisations du sol interdites au sein des espaces verts paysagers protégés et à créer, et des cœurs
+               d’ilots protégés, identifiés aux documents graphiques, au titre de l’article L151-19 et L.151-23 du Code de
+               l’Urbanisme
+               - Toutes les occupations et utilisations du sol, à l’exception de celles admises à l’article UC 2.5.
+        1.5.   Occupations et utilisations du sol interdites au sein des zones humides protégées, identifiées aux documents
+               graphiques, au titre de l’article L.151-23 du Code de l’Urbanisme
+               - Toutes les constructions et tous travaux de drainage, remblaiement, comblement ou susceptible d’entrainer la dégradation
+                 des fonctions hydrologiques et écologiques de la zone humide protégée
+     Article UC 2 -        Occupations et utilisations du sol soumises à des conditions particulières
+
+        2.1.   Occupations et utilisations du sol soumises à des conditions particulières en zone UC, y compris ses secteurs
+               - La création, l’extension et la modification des installations classées pour la protection de l'environnement, à condition :
+                 > qu'elles soient compatibles par leur fonctionnement avec la présence de constructions destinées à l’habitation,
+                 > et que des dispositions soient prises afin d'éviter une aggravation des nuisances ou risques pour le voisinage [nuisance
+                   (livraison, bruit,…), incendie, explosion, ...],
+                 > et que les nécessités de leur fonctionnement lors de leur ouverture, comme à terme, soient compatibles avec les
+                   infrastructures existantes.
+               - Les entrepôts, à condition qu’ils soient directement liés à une construction autorisée sur la zone,
+                 > cette condition n’est pas applicable aux entrepôts liés au service public ou d’intérêt collectif.
+               - Les groupes de garages individuels de plus de 2 box et de 30 box au plus, à condition :
+                 > qu’ils soient liés à une opération de construction dont ils sont destinés à satisfaire les besoins,
+                 > ou qu’ils soient réalisés sur un terrain dont la façade sur voirie n’est constituée que par son accès,
+                 > ou qu’ils soient peu visibles depuis l’espace public (masqués par une construction existante ou en cours de réalisation,
+                   un mur de clôture qualitatif).
+               - Les affouillements et exhaussements de sol à condition que leurs réalisations soient liées :
+                 > aux occupations ou utilisations du sol autorisées sur la zone,
+                 > ou à des aménagements paysagers,
+                 > ou à des aménagements hydrauliques,
+                 > ou à des travaux d’infrastructures routières, de transports collectifs, de circulation douce ou d’aménagement d’espace
+                   public,
+                 > ou qu’elle contribue à la mise en valeur du paysage, d’un site ou d’un vestige archéologique.
+        2.2.   En sus des dispositions de l’article 2.1, dans les secteurs de mixité identifiés aux documents graphiques, au titre de
+               l’article L.151-15 du Code de l’Urbanisme
+               - Les constructions destinées à l’habitation, à condition :
+                  > que chaque opération entrainant la réalisation de plus de 20 logements, comporte au moins 25 % de logements en
+                     accession à la propriété (accession sociale ou privée)
+        2.3.   En sus des dispositions de l’article 2.1, dans les secteurs indicés “l“
+               - Les constructions doivent :
+                 > s’inscrire dans le gabarit des constructions existantes voisines (caractéristiques, hauteurs, et densité),
+                 > ou respecter le principe d’extension limitée de l’urbanisation, défini par une orientation d’aménagement et de
+                   programmation.
+        2.4.   En sus des dispositions de l’article 2.1, occupations et utilisations du sol soumises à des conditions particulières
+               dans le périmètre d’une orientation d’aménagement et de programmation
+               - Les constructions et aménagements doivent être compatibles avec l’orientation d’aménagement et de programmation.
+
+
+
+
+26                                                      Date de dernière validation : 30 avril 2026                  PLU Ville de Calais - Règlement
+       2.5.   Occupations et utilisations du sol soumises à des conditions particulières au sein des éléments de paysage,
+              identifiés aux documents graphiques, au titre de l’article L.151-19 et L.151-23 du Code de l’Urbanisme
+              - Au sein des espaces verts paysagers protégés et à créer, identifiés au titre de l’article L.151-23 du Code de l’Urbanisme,
+
+
+
+
+                                                                                                                                                   TITRE II – Zone UC
+                sont seul admis les aménagements nécessaires à la gestion des espaces verts, à l’accueil du public, aux circulations
+                douces ou aux activités de loisirs de plein air à condition qu’ils soient compatibles avec le maintien du caractère des lieux.
+              - Au sein des espaces verts paysagers protégés et à créer, identifiés au titre de l’article L.151-19 du Code de l’Urbanisme,
+                sont seules admises les constructions dans la limite de 10% d'emprise au sol.
+              - Au sein des cœurs d’ilots protégés, identifiés au titre de l’article L.151-19 du Code de l’Urbanisme, sont seules admises
+                les annexes de type abris de jardins, dans la limite de 10 m² d’emprise au sol
+       2.6.   En sus des dispositions de l’article 2.1, dans les secteurs indicés "i", identifiés aux documents graphiques
+              - L'ensemble des occupations et utilisations du sol autorisées doivent prendre en compte le risque lié à la submersion
+                marine, en se référant à l'information qui figure en annexe du présent PLU.
+   Article UC 3 -         Conditions de desserte des terrains par les voies publiques ou privées et d’accès aux
+                          voies ouvertes au public
+
+       3.1.   Accès
+              - Les accès doivent être adaptés à l’opération. Ils doivent présenter des caractéristiques permettant de satisfaire aux
+                exigences de la sécurité, de la défense contre l’incendie et de la protection civile.
+              - L’accès direct ou par l’intermédiaire d’un passage aménagé sur fonds voisin doit avoir une largeur minimum de 3,50
+                mètres. Cette largeur est portée à 5 mètres minimum pour tout accès desservant plus de deux logements.
+              - Les accès sur les voies ouvertes à la circulation publique doivent être aménagés en fonction de l’importance du trafic afin
+                d’éviter toute difficulté et tout danger pour la circulation automobile, des cycles et des piétons.
+              - La disposition des accès doit assurer la sécurité des usagers et leurs abords doivent être dégagés de façon à assurer la
+                visibilité. Les accès doivent être le plus éloignés possible des carrefours existants, des virages et autres endroits où la
+                visibilité est mauvaise.
+              - Lorsqu’un terrain est desservi par plusieurs voies, l’accès doit être établi sur la voie où la gêne pour la circulation sera la
+                moindre.
+              - Les groupes de garages individuels de 6 box et plus et les parkings ne doivent présenter qu’une seule sortie sur la voie
+                publique. Cette sortie doit être placée à au moins 10 mètres des intersections.
+              - Tout terrain ne peut avoir plus d’un accès automobile débouchant sur les voies suivantes : rue Mollien, avenue Louis
+                Blériot, boulevard Victor Hugo, avenue Roger Salengro, avenue Antoine de Saint-Exupéry et boulevard de l’Egalité.
+       3.2.   Voirie
+              - Les constructions et installations nouvelles doivent être édifiées sur des terrains desservis par des voies ouvertes à la
+                circulation publique présentant les caractéristiques suivantes :
+                > correspondre à la destination de la construction,
+                > permettre les manœuvres de véhicules lourds et encombrants tels que les véhicules d'ordures ménagères,
+                > satisfaire aux exigences de sécurité, de défense contre l'incendie et de protection civile.
+              - Les voiries nouvelles doivent présenter les caractéristiques suivantes, sauf impossibilité technique, à titre exceptionnel :
+                > largeur minimale de la plate-forme : 9 mètres,
+                   * largeur minimale de la chaussée : 6 mètres, encadrée de trottoirs de 1,50 mètres minimum chacun,
+                   * lorsque la largeur de la plate-forme est inférieure à 9 mètres, il doit être aménagé l’espace libre nécessaire à son
+                     élargissement à 9 mètres,
+                > un profil assurant un bon écoulement des eaux
+                Toutefois, des caractéristiques différentes sont admises pour les voiries spécifiques ou pour tenir compte de la taille des
+                voiries adjacentes (voie à sens unique, voie piétonne, etc.) sous réserve de l’accord du service compétent en matière de
+                voirie.
+              - Les voies nouvelles se terminant en impasse comportent à leur extrémité, une aire de retournement permettant le demi-
+                tour aisé des véhicules, conforme aux prescriptions des services compétents,
+                > Si l’aire de retournement ne permet pas le demi-tour des véhicules de ramassage des ordures ménagères, un point de
+                   regroupement des déchets en tête de voie, aménagé en limite d’alignement et conforme aux prescriptions des services
+                   compétents.
+              - Les voies nouvelles doivent permettre d’assurer, en toute sécurité et facilité, la circulation des piétons et des personnes à
+                mobilité réduite.
+   Article UC 4 -         Conditions de desserte des terrains par les réseaux publics
+
+       4.1.   Eau potable
+              - Toute construction ou installation nouvelle qui, de par sa destination, nécessite une utilisation d’eau potable, doit être
+                raccordée au réseau public de distribution d’eau potable, par un branchement sous pression de caractéristiques
+                satisfaisantes.
+       4.2.   Eaux industrielles
+              - Aucune construction ou installation nouvelle ne peut être autorisée si l'eau qui lui est nécessaire ne peut lui être fournie par
+                le réseau collectif de distribution d'eau potable sous pression, ou par des dispositifs techniques permettant d'y suppléer et
+                ayant reçu l'agrément des services appelés à en connaître.
+       4.3.   Eaux pluviales
+              - Les eaux pluviales doivent être gérées conformément aux dispositions du règlement d’assainissement de la Communauté
+                d’Agglomération du Calaisis et du volet eaux pluviales du zonage d’assainissement.
+
+
+PLU Ville de Calais - Règlement                         Date de dernière validation : 30 avril 2026                                                       27
+               - Dans les secteurs sensibles qu’il définit, aucun rejet des eaux pluviales, pour un projet de surface globale de terrain
+                 supérieure à 1000 m² quel qu’il soit et pour un projet de surface globale de terrain inférieure à 1000 m² dont
+                 l’imperméabilisation est augmentée par rapport à la situation avant travaux, ne peut être accepté en direct dans le réseau.
+               - En dehors des secteurs sensibles, tout projet d’urbanisation supérieur à 1 ha, quel qu’il soit et tout projet de surface globale
+                 inférieure à 1 ha dont l’imperméabilisation est augmentée par rapport à la situation avant travaux devra respecter les
+                 mêmes prescriptions que celles applicables aux secteurs sensibles.
+        4.4.   Assainissement
+               4.4.1. Eaux usées
+                     - Toute construction ou installation nouvelle doit obligatoirement évacuer ses eaux usées sans aucune stagnation, par
+                       des canalisations souterraines au réseau public d’assainissement, lorsqu’il existe, en respectant ses caractéristiques
+                       (système unitaire ou séparatif).
+                     - Le raccordement doit être conforme à la règlementation en vigueur et notamment au règlement d’assainissement
+                       collectif de la Communauté d’Agglomération du Calaisis. Un accord de rejet doit être sollicité auprès du service de
+                       l’assainissement avant chaque nouveau raccordement.
+               4.4.2. Eaux résiduaires industrielles
+                     - Sans préjudice de la réglementation applicable aux installations classées, l’évacuation des eaux usées liées aux
+                       activités autres que domestiques dans le réseau public d’assainissement est soumise aux prescriptions de qualité
+                       définies par la réglementation en vigueur et doit faire l’objet d’une convention avec le service gestionnaire du réseau
+                       d’assainissement.
+                     - L’évacuation des eaux résiduaires au réseau public d’assainissement, si elle est autorisée, peut être subordonnée à
+                       un prétraitement approprié.
+        4.5.   Electricité
+               - Tous les branchements au réseau d’électricité doivent être enterrés.
+        4.6.   Collecte des déchets
+               - Un emplacement suffisamment dimensionné pour accueillir les conteneurs de déchets, y compris de tri sélectif (en fonction
+                 de la nature de l’activité, du nombre de logements, etc.), doit être prévu :
+                 > pour toute nouvelle construction principale,
+                 > pour tous travaux (changement de destination, division, aménagement, extension d’une construction existante, etc.)
+                    entrainant la création d’un logement et plus.
+               - Dans le cas d’une opération d’ensemble, il peut être réalisé sous la forme d’un emplacement mutualisé, à condition d’être
+                 facilement accessible.
+               - la collecte des déchets peut être organisée sur le domaine public, sous la forme d’emplacements mutualisés sous réserve
+                 de l’accord du service compétent en matière de déchets.
+     Article UC 5 -        Superficie minimale des terrains
+        Non réglementé.
+     Article UC 6 -        Implantation des constructions par rapport aux voies et emprises publiques
+
+        6.1.   Définition
+               - Le terme alignement, au sens du présent règlement, désigne :
+                 > la limite du domaine public, au droit de la propriété riveraine,
+                 > la limite entre une parcelle privée et un chemin privé ouvert à la circulation publique automobile motorisée,
+                 > la limite interne au terrain d’un emplacement réservé crée en vue d’un aménagement de voirie.
+        6.2.   Principes d’implantation des constructions dans la zone UC, à l’exclusion du secteur UCa
+               6.2.1. Implantation des constructions par rapport à certaines voies
+                     - Les constructions doivent être implantées :
+                       > en retrait de 10 mètres minimum de l’axe de l’avenue Salengro, du boulevard Gambetta, de l’avenue de Saint-
+                         Exupéry, du boulevard Victor Hugo et de la RD 943,
+                       > en retrait de 10 mètres minimum de l’alignement de l’autoroute A 216 et de ses échangeurs,
+                       > en retrait de 17 mètres minimum de l’axe de la rue de Verdun,
+                       > en retrait de 20 mètres minimum de l’alignement de la pénétrante Sud-Ouest
+               6.2.2. Implantation des constructions par rapport aux autres voies et emprises publiques
+                    a.    Dispositions générales
+                          - Le nu des façades des constructions doit être implanté :
+                            > soit à l’alignement des voies, lorsqu’il est situé à au moins 4,5 mètres de l’axe de la voie,
+                            > soit en retrait de 4,5 mètres minimum de l’axe des voies.
+                            Toutefois, les décrochés partiels de façade sont autorisés.
+                    b.    Cas des constructions implantées sur un terrain ou contigües à terrain, sur lequel existe une ou plusieurs
+                          constructions.
+                          - Une implantation différente peut être imposée lorsqu’il existe sur le terrain sur lequel est projetée la construction
+                            ou sur le terrain contigu, une ou plusieurs constructions afin d’harmoniser les implantations avec les
+                            constructions existantes :
+                            > en ce cas, les constructions à édifier doivent être implantées avec un retrait identique à celui des constructions
+                              existantes
+
+28                                                       Date de dernière validation : 30 avril 2026                    PLU Ville de Calais - Règlement
+              6.2.3. Implantations des constructions par rapport aux domaines ferroviaire et fluvial
+                    - Les constructions destinées à l’habitation doivent être implantées en retrait de 10 mètres minimum de la limite des
+                      domaines ferroviaire et fluvial.
+
+
+
+
+                                                                                                                                                 TITRE II – Zone UC
+                      > Toutefois, les annexes non accolées, d’une emprise au sol inférieure à 10 m² et d’une hauteur totale inférieure à 3
+                        mètres, doivent être implantées en retrait de 2 mètres minimum du domaine ferroviaire et fluvial.
+                    - Les autres constructions doivent être implantées en retrait de 2 mètres minimum de la limite du domaine ferroviaire et
+                      de 4 mètres minimum de la limite du domaine fluvial.
+              6.2.4. Implantation des constructions par rapport aux berges des watergangs
+                    - Les constructions doivent être implantées en retrait de 4 mètres minimum des berges des watergangs.
+       6.3.   Principes d’implantation des constructions dans le secteur UCa
+              6.3.1. Implantations des constructions par rapport aux voies et emprises publiques
+                    - Le nu des façades des constructions doit être implanté entre 0 et 20 mètres à partir de l’alignement, ou selon les
+                      prescriptions intégrées à l’orientation d’aménagement et de programmation, le cas échéant,
+              6.3.2. Implantations des constructions par rapport au domaine fluvial
+                    - Les constructions destinées à l’habitation doivent être implantées en retrait de 10 mètres minimum de la limite du
+                      domaine fluvial.
+                      > Toutefois, les annexes non accolées, d’une emprise au sol inférieure à 10 m² et d’une hauteur totale inférieure à 3
+                        mètres, doivent être implantées en retrait de 2 mètres minimum du domaine fluvial.
+                    - Les autres constructions doivent être implantées en retrait de 2 mètres minimum de la limite du domaine ferroviaire et
+                      de 4 mètres minimum de la limite du domaine fluvial.
+              6.3.3. Implantation des constructions par rapport aux berges des watergangs
+                    - Les constructions doivent être implantées en retrait de 4 mètres minimum des berges des watergangs.
+       6.4.   Dispositions particulières
+              6.4.1. Cas des constructions édifiées à l’angle de deux voies
+                    - Dans le cas de constructions édifiées à l’angle de deux voies, le pan coupé à l’angle est imposé. Il doit être implanté
+                      en retrait d’une ligne joignant les deux alignements, d’une longueur minimum de 3 mètres et perpendiculaire à la
+                      bissectrice de l’angle formé par les deux alignements.
+              6.4.2. Cas des extensions et surélévations des constructions existantes non conformes aux dispositions du présent
+                      règlement
+                    - Une implantation différente de celle prescrite par l’article 6.2 est également admise dans le cas de la construction
+                       d’extensions ou de surélévations de constructions existantes implantées non conformément à l’article 6.2, afin
+                       d’harmoniser les implantations avec la construction existante :
+                       > les extensions ou surélévations doivent être implantées avec un retrait par rapport à l’alignement au moins égal à
+                         celui de la construction existante.
+       6.5.   Constructions en saillie
+              - En superstructure, à l’exclusion des rez-de-chaussée, les constructions en saillie de la façade, tels que balcons, bow-
+                windows, loggias, débords de toiture, sont admises. Les saillies ne doivent pas excéder 0,80 m de profondeur par rapport à
+                l’alignement.
+       6.6.   Dispositions spécifiques aux constructions et installations nécessaires aux services publics ou d’intérêt collectif
+              - Les constructions nécessaires aux services publics ou d’intérêt collectif peuvent être implantées à l’alignement ou en retrait
+                d’un mètre minimum de l’alignement, à condition que :
+                > leur implantation réponde à des besoins de fonctionnalités ou de sécurité liés à leur destination,
+                > et que leur intégration dans leur milieu environnant soit assurée.
+              - Les installations, ouvrages techniques et aménagements nécessaires aux services publics ou d’intérêt collectif peuvent être
+                implantés à l’alignement ou en retrait d’un mètre minimum de l’alignement.
+   Article UC 7 -         Implantation des constructions par rapport aux limites séparatives
+
+       7.1.   Dans la zone UC, à l’exclusion du secteur UCa
+              7.1.1. Dans une bande de 15 mètres de profondeur, mesurée à partir de l’alignement ou du retrait imposé par les
+                     articles UC 6.2.2 b et UC 6.4.2
+                   a.    Principe d’implantation des constructions par rapport aux limites séparatives
+                         - Les constructions, ou parties de constructions, doivent être implantées :
+                           > sur une ou plusieurs limites séparatives,
+                           > ou en retrait des limites séparatives, selon les modalités de calcul définies à l’article UC 7.1.1b
+                   b.    Modalités de calcul du retrait par rapport aux limites séparatives
+                         - Toute façade ou partie de façade de constructions en retrait des limites séparatives doit être implantée :
+                           > avec un retrait de 1,90 m minimum pour les extensions de constructions existantes, et un retrait de 2,50 m
+                             minimum dans les autres cas,
+                           > et respecter la condition suivante : la distance, comptée horizontalement (L), de tout point d’une construction
+                             au point le plus bas et le plus proche de la limite séparative, doit être au moins égale à la moitié de la
+                             différence de niveau entre ces deux points (H) moins un mètre, soit L≥(H/2)-1,
+
+
+
+
+PLU Ville de Calais - Règlement                         Date de dernière validation : 30 avril 2026                                                     29
+               7.1.2. Au-delà de la bande de 15 mètres de profondeur, mesurée à partir de l’alignement ou du retrait imposé par les
+                      articles UC 6.2.2 b et UC 6.4.2
+                    a.    Principe d’implantation des constructions par rapport aux limites séparatives
+                          - Les constructions doivent être implantées en retrait des limites séparatives, selon les modalités de calcul définies
+                            à l’article UC 7.1.2.b
+                          - Les constructions peuvent, toutefois, être implantées sur les limites séparatives :
+                            > lorsqu’il existe en limite séparative une construction ou un mur, d’une hauteur égale ou supérieure à celle à
+                               réaliser, permettant l’adossement,
+                            > ou lorsqu’il s’agit de bâtiments ou parties de bâtiments dont la hauteur totale est inférieure à 3 mètres, à
+                               compter du sol naturel du terrain, ou de celui du terrain voisin s’il est inférieur.
+                    b.    Modalités de calcul du retrait par rapport aux limites séparatives
+                          - Toute façade ou partie de façade de constructions en retrait des limites séparatives doit être implantée :
+                            > avec un retrait de 1,90 m minimum pour les extensions de constructions existantes, et un retrait de 2,50 m
+                              minimum dans les autres cas,
+                            > et respecter la condition suivante : la distance, comptée horizontalement (L), de tout point d’une construction
+                              au point le plus bas et le plus proche de la limite séparative, doit être au moins égale à la différence de niveau
+                              entre ces deux points (H) moins deux mètres, soit L≥H - 2,
+        7.2.   Dans le seul secteur UCa
+               - Les constructions, ou parties de constructions, doivent être implantées :
+                 > sur une ou plusieurs limites séparatives, ou en retrait d’un mètre minimum des limites séparatives,
+                 > ou selon les prescriptions intégrées à l’orientation d’aménagement et de programmation, le cas échéant.
+        7.3.   Dispositions particulières
+               7.3.1. Cas des annexes non accolées d’une emprise au sol inférieure à 10 m² et d’une hauteur totale inférieure à
+                       3 mètres
+                     - Les annexes non accolées, d’une emprise au sol inférieure à 10 m² et d’une hauteur totale inférieure à 3 mètres
+                        doivent être implantées sur les limites séparatives ou en retrait d’un mètre minimum des limites séparatives.
+                     - Pour l’application de la présente disposition, la hauteur est calculée :
+                        > à compter du sol naturel du terrain, ou de celui du terrain voisin s’il est inférieur,
+                        > jusqu’au sommet de la construction ou partie de construction.
+               7.3.2. Cas des extensions et surélévations des constructions existantes non conformes aux dispositions du présent
+                       règlement
+                     - Une implantation différente de celle autorisée à l’article 7.1. est également admise dans le cas de la construction
+                        d’extensions ou de surélévations de constructions existantes, afin d’harmoniser les implantations avec la construction
+                        existantes :
+                        > les extensions ou surélévations doivent être implantées avec un retrait par rapport aux limites séparatives au moins
+                          égal à celui de la construction existante,
+               7.3.3. Cas des constructions et installations nécessaires aux services publics ou d’intérêt collectif
+                     - Les constructions nécessaires aux services publics ou d’intérêt collectif d’une surface de plancher inférieure ou égale
+                       à 20 m² peuvent être implantées sur une ou plusieurs limites séparatives, ou en retrait d’un mètre minimum de la
+                       limite séparative, à condition que :
+                       > leur implantation réponde à des besoins de fonctionnalités ou de sécurité liés à leur destination,
+                       > et que leur intégration dans leur milieu environnant soit assurée.
+                     - Les installations, ouvrages techniques et aménagements nécessaires aux services publics ou d’intérêt collectif
+                       peuvent être implantés sur une ou plusieurs limites séparatives, ou en retrait d’un mètre minimum de la limite
+                       séparative.
+     Article UC 8 -        Implantation des constructions les unes par rapport aux autres, sur une même propriété
+
+        8.1.   Dans la zone UC, à l’exclusion du secteur UCa
+               8.1.1. Dispositions générales
+                     - Les constructions non contiguës doivent :
+                       > être implantées de manière que les baies ne soient masquées par aucune partie de construction, qui, à l’appui de
+                         ces baies, serait vue sous un angle de plus de 45° au-dessus du plan horizontal,
+                         * Toutefois, une modulation peut être admise, dans la limite de 1,50 mètre afin de permettre d'édifier un nombre
+                            entier d'étages droits ou pour tenir compte éventuellement de pointes de pignon.
+                       > et respecter une distance, en tous points de la façade :
+                         * de 6 mètres minimum pour les constructions destinées au commerce, à l’artisanat, aux bureaux et aux entrepôts.
+                         * de 2 mètres minimum pour les constructions de moins de 40 m² d’emprise au sol et dont la hauteur totale est
+                            inférieure à 3 mètres,
+                         * de 3,5 mètres minimum, pour les autres constructions.
+               8.1.2. Dispositions particulières
+                    a.    Cas des extensions et surélévations des constructions existantes non conformes aux dispositions du
+                          présent règlement
+
+
+
+
+30                                                       Date de dernière validation : 30 avril 2026                  PLU Ville de Calais - Règlement
+                         - Une implantation différente de celle autorisée à l’article 8.1. est également admise dans le cas de la construction
+                           d’extensions ou de surélévations de constructions existantes, afin d’harmoniser les implantations avec la
+                           construction existantes :
+
+
+
+
+                                                                                                                                                 TITRE II – Zone UC
+                           > les extensions ou surélévations doivent être implantées avec un retrait par rapport aux limites séparatives au
+                             moins égal à celui de la construction existante
+                   b.    Cas des constructions et installations nécessaires aux services publics ou d’intérêt collectif
+                         - La distance entre les constructions et installations nécessaires aux services publics ou d’intérêt collectif
+                           implantées sur une même propriété n’est pas règlementée.
+       8.2.   Dans le seul secteur UCa
+              - Non réglementé
+   Article UC 9 -         Emprise au sol
+
+       9.1.   Dispositions générales
+              9.1.1. Dans la zone UC et le secteur UCc
+                    - L’emprise au sol maximale des constructions ne peut excéder :
+                      > 100 % de la superficie du terrain, dans le cas de constructions comprenant des rez-de-chaussée ou parties de
+                         rez-de-chaussée destinés au commerce. Toutefois, l’emprise au sol formée par la projection des étages ne peut
+                         excéder 60 % de la superficie du terrain.
+                      > 60 % de la superficie du terrain, dans les autres cas.
+              9.1.2. Dans le seul secteur UCa
+                    - L’emprise au sol maximale des constructions ne peut excéder 50% de la superficie du terrain.
+       9.2.   Dispositions spécifiques aux constructions existantes non conformes aux dispositions du présent règlement
+              - Les surélévations et changements de destination des constructions existantes non conformes à l'article UC 9.1, sont
+                autorisés, à condition de ne pas augmenter l'emprise au sol de ces constructions existantes.
+              - Les travaux d’amélioration (extension de type vérandas, etc.) et de mise aux normes des constructions existantes non
+                conformes à l’article UC 9.1 sont autorisés, à condition que l’emprise au sol de la construction après travaux n’excède pas
+                80 % de la superficie du terrain
+       9.3.   Dispositions spécifiques aux espaces verts paysagers protégés et à créer, identifiés au titre de l’article L.151-19 du
+              Code de l’Urbanisme
+              - Dans les espaces verts protégés et à créer, identifiés au titre de l’article L.151-19 du Code de l’Urbanisme, l’emprise au sol
+                des constructions ne peut excéder 10% de la surface du terrain.
+              - Dans les coeurs d'ilots protégés, identifiés au titre de l'article L.151-19 du Code de l'Urbanisme, sont seules admises les
+                annexes de type abris de jardins, dans la limite de 10 m² d'emprise au sol.
+   Article UC 10 -        Hauteur maximale des constructions
+
+       10.1. Définition des modalités de calcul de la hauteur
+             - La hauteur absolue fixe la hauteur maximale autorisée des constructions. Elle se mesure :
+               > à partir du sol naturel existant avant les travaux,
+               > jusqu’au point le plus haut de la construction, correspondant au sommet du bâtiment,
+             - La hauteur relative fixe un plafond des hauteurs, variable selon la largeur de la voie. Elle est complétée par les règles de
+               prospect fixées par l’article 7 du présent règlement de zone.
+             - Sont admis en dépassement des hauteurs absolues et relatives maximales fixées, les édicules techniques suivants :
+               > les éléments et locaux techniques liés à la production d’énergie renouvelable, dispositifs de sécurité, panneaux solaires,
+                  pylônes, antennes, éoliennes, supports de lignes électrique et d’antennes, ainsi que, dans le cas des toitures terrasses,
+                  les édicules d’accès, cheminées, locaux techniques des ascenseurs et dispositifs d’aération et de climatisation.
+             - Dans le cas de constructions édifiées à l’angle de deux voies de largeurs différentes :
+               > sur une longueur qui n'excède pas 15 mètres mesurée à partir du point d'intersection des alignements les plus proches
+                  de la construction, la partie du bâtiment bordant la voie la plus étroite peut avoir la même hauteur que celle qui serait
+                  admise sur la voie la plus large
+             - Une harmonisation de la hauteur de la construction édifiée dans une dent creuse avec celle des constructions voisines doit
+               être recherchée.
+       10.2. Dispositions générales
+              10.2.1. Hauteur relative
+                    - La différence de niveau entre tout point d'un bâtiment et tout point de l'alignement opposé ( H) ne doit pas excéder la
+                      distance comptée horizontalement entre ces deux points (L), soit (H≤L)
+                      > Un dépassement de 1,50 mètre de la hauteur relative peut-être admis :
+                        * pour permettre d'édifier un nombre entier d'étages droits,
+                        * ou pour obtenir une continuité des lignes d'égout en façades avec les constructions existantes sur les terrains
+                           voisins,
+                        * ou pour tenir compte de pointes de pignons en façade.
+                      > Un dépassement de 0,80 mètre maximum de la hauteur relative peut-être admis pour permettre l'édification de
+                        saillies, tels que balcons, bow-windows, loggias, en avant de la façade à tout niveau du bâtiment à l'exclusion du
+                        rez-de-chaussée.
+
+
+
+PLU Ville de Calais - Règlement                        Date de dernière validation : 30 avril 2026                                                      31
+             10.2.2. Hauteur absolue
+                   a.    Dans la zone UC et le secteur UCc
+                         - La hauteur des constructions ne doit pas excéder 15 mètres
+                           > Une hauteur absolue plus importante peut toutefois être admise pour obtenir une continuité des lignes d'égout
+                             en façades avec les constructions existantes sur les terrains voisins.
+                   b.    Dans le seul secteur UCa,
+                         - La hauteur des constructions ne doit pas excéder 15 mètres. Toutefois, une hauteur plus importante est admise
+                           pour permettre la réalisation d’un signe architectural.
+        10.3. Dispositions particulières
+             10.3.1. Constructions existantes ne respectant pas les règles définies à l’article UC10.2.
+                   - Les dispositions précédentes ne s’appliquent pas aux travaux de changement de destination, d’entretien,
+                     d’amélioration et de mise aux normes des constructions existantes ne respectant pas la règle définie à l’article
+                     UC10.2.
+             10.3.2. Cas des installations nécessaires aux services publics ou d’intérêt collectif
+                   - Les dispositions précédentes ne s’appliquent pas aux installations, ouvrages techniques et aménagements
+                     nécessaires au fonctionnement des services publics ou d’intérêt collectif (château d’eau, pylônes, etc.)
+     Article UC 11 -       Aspect extérieur
+
+        11.1. Principe général
+              - Les constructions et installations ne doivent pas, pas leur situation, leur architecture, leurs dimensions ou leur aspect
+                extérieur, porter atteinte au caractère ou à l’intérêt des lieux avoisinants, aux sites, aux paysages naturels ou urbains, ainsi
+                qu’à la conservation des perspectives monumentales.
+              - S’ajoutent aux dispositions du présent article les prescriptions résultant de la Zone de Protection du Patrimoine
+                Architectural, Urbain et Paysager (ZPPAUP).
+        11.2. Aspect des constructions
+             11.2.1. Dispositions générales
+                   - Est interdit l’emploi à nu des matériaux destinés à être recouverts (briques creuses, parpaings, etc.)
+                   - Les murs séparatifs et les murs aveugles apparents d’un bâtiment doivent être traités en harmonie avec les façades
+                   - Les murs et toitures des bâtiments annexes et des extensions doivent être traités en harmonie avec ceux de la
+                     construction principale
+                   - Les saillies, auvents, appuis de fenêtre ne doivent pas imposer à l’immeuble un rythme général.
+                   - La réalisation de murs “ rideaux “ de qualité peut être autorisée.
+                   - Les constructions, à l’exception de celles destinées au commerce, à l’artisanat et des constructions et installations
+                     nécessaires aux services publics, doivent respecter les prescriptions des articles 11.2.2 et 11.2.3., sauf si le caractère
+                     des constructions avoisinantes ou déjà existantes le justifie.
+             11.2.2. En sus des dispositions de l’article 11.2.1, dispositions applicables aux bâtiments neufs
+                   - Dans le cas où le bâtiment projeté présente une façade d’une longueur notablement supérieure à celle des façades
+                     avoisinantes, le traitement architectural de la façade doit s’harmoniser avec le rythme des bâtiments bordant la voie.
+                   - La hauteur des rez-de-chaussée doit respecter l'harmonie des constructions adjacentes.
+                   - Les parkings en rez-de-chaussée doivent être ouverts sur l’espace public, par des baies vitrées ou des grilles.
+                   - Les bâtiments annexes, les ajouts et les clôtures doivent être traités en harmonie avec la construction principale.
+             11.2.3. En sus des dispositions de l’article 11.2.1, dispositions applicables aux bâtiments existants
+                   - Les transformations de façades doivent respecter les caractéristiques architecturales de l’immeuble concerné, en
+                     particulier les rythmes, les hauteurs des percements, les modénatures et décors.
+                   - Les lucarnes, balcons, garde-corps et balconnets sont à maintenir et à restaurer s’ils sont d’origine et si leur état
+                     sanitaire le permet.
+                   - A l’occasion du ravalement des façades de bâtiments existants, les modénatures ainsi que les balcons et volets
+                     d’origine doivent être maintenus dans la mesure du possible, ou remplacés à l’identique.
+                     > Les revêtements en crépis sont interdits, les enduits talochés finement ou feutrés leur sont préférés.
+                     > En cas de réfection de façades enduites, les enduits (y compris les moulurations, sculptures, modénatures
+                       particulières) doivent être maintenus, à l’exception des crépis.
+                   - Dans le cadre d’un ravalement de façade, les références de teintes doivent être précisées à l’aide d’un nuancier.
+                   - Le sablage à sec est interdit.
+                   - Les matériaux de recouvrements (plaquettes, bardages, coffrages) ne peuvent être employés que s’ils ne remettent
+                     pas en cause la qualité architecturale de l’immeuble et de son environnement.
+                   - Les fenêtres doivent être réalisées selon les modèles d’origine (composition, compartiments, dimensions). Les portes
+                     seront en bois peint ou vernis selon l’architecture de l’immeuble
+        11.3. Clôtures
+              - La conception et la réalisation des clôtures doivent faire l’objet d’une attention particulière. Les clôtures doivent être traitées
+                en harmonie avec la construction principale édifiée sur le terrain, le site environnant et les clôtures adjacentes.
+             11.3.1. Clôtures sur rue et clôtures en limite séparative situées dans la marge de retrait par rapport à l’alignement
+
+
+
+
+32                                                       Date de dernière validation : 30 avril 2026                     PLU Ville de Calais - Règlement
+                  - La hauteur des clôtures sur rue et des clôtures en limite séparative situées dans la marge de retrait par rapport à
+                    l’alignement, portails et pilastres compris, est limitée à 2 mètres, à compter du niveau du sol naturel du terrain
+                    d’implantation, ou du niveau de l’alignement, s’il est inférieur.
+
+
+
+
+                                                                                                                                                 TITRE II – Zone UC
+                  - Les clôtures sur rue doivent être constituées :
+                       > d’un mur plein,
+                       > ou d’une ferronnerie, éventuellement pourvue d’un mur bahut,
+                       > ou d’une haie végétale.
+                  - Les grillages, ainsi que tous dispositifs souples ou rigides visant à constituer un pare-vue (de type tôles ondulées,
+                    rouleaux de plastiques, etc.), sont interdits, sauf dans le cas du doublement d’une haie végétale persistante d’égale
+                    hauteur.
+                  - Les lisses sont autorisées, à condition de ne pas être en PVC ou assimilés.
+            11.3.2. Clôtures en limite séparative
+                  - La hauteur des clôtures en limite séparative est limitée à 2,20 mètres, à compter du niveau du sol naturel du terrain
+                    d’implantation, ou de celui du terrain voisin, s’il est inférieur.
+       11.4. Couvertures
+            11.4.1. Formes
+                  - Les constructions principales visibles de la rue doivent être couvertes par :
+                     > des toitures à deux versants droits, d’une pente variant de 35 à 60 degrés,
+                     > ou de toitures à “ La Mansart “
+                     > ou de toitures à une seule pente
+                     > ou de toitures terrasses, sous réserve que le dernier étage soit traité en attique pour les constructions supérieures à
+                       R+1
+                     > ou de toitures terrasses en secteur UCa.
+                  Des autres formes de toitures peuvent être autorisées pour des motifs techniques ou architecturaux.
+            11.4.2. Matériaux de couverture
+                 a.     Couleurs des matériaux
+                        - Les matériaux de couverture doivent avoir une couleur semblable aux matériaux traditionnels des toitures du lieu
+                 b.     Conduits de cheminée
+                        - La réalisation de conduits en saillie sur les façades sur rue est interdite
+                        - La réalisation de conduits de cheminée traversant la toiture le long des murs mitoyens et au niveau du faîtage
+                          est recommandée
+       11.5. Les éléments techniques
+             - Les branchements au réseau de télécommunication doivent être enterrés.
+             - Les coffrets, compteurs, boîtes aux lettres et autres dispositifs liés à la desserte par les réseaux doivent être dissimulés
+               dans l’épaisseur ou la composition de la façade, ou de la clôture. Leur aspect doit être intégré harmonieusement aux
+               constructions.
+             - Les éléments techniques doivent être intégrés de façon harmonieuse au site et à la construction, le cas échéant, de
+               manière à en réduire l’impact visuel depuis les espaces ouverts à l’usage du public, et notamment :
+               > les antennes paraboliques,
+               > les éléments des dispositifs de production d’énergie solaire (panneaux, tuiles, etc.) et de production d’énergie non
+                 nuisante,
+               > les éléments de climatiseurs et de pompes à chaleur, en les habillant d’un coffret technique, lorsqu’ils sont visibles depuis
+                 les espaces ouverts à l’usage du public.
+   Article UC 12 -       Stationnement
+
+       12.1. Dispositions générales
+            12.1.1. Modalités d’application des normes de stationnement
+                  - Le stationnement des véhicules correspondant aux besoins des constructions et installations doit être assuré en
+                    dehors des voies et emprises publiques.
+                    > il est rappelé que l’opposabilité des normes de stationnement définies ci-dessous n’est pas subordonnée à
+                      l’existence d’un régime d’autorisation ou de déclaration de travaux, mais s’applique à toute personne publique ou
+                      privée, pour l’exécution de tous travaux.
+                  - Les règles applicables aux établissements et constructions non prévus ci-dessous sont celles auxquelles ces
+                    établissements sont le plus directement assimilables.
+                  - Lorsque le projet comporte plusieurs destinations, il doit satisfaire aux règles fixées pour chacune de ces destinations
+                    au prorata, selon les cas, des surfaces de plancher et/ou du nombre de logements et/ou du nombre de chambres.
+                  - En cas de changement de destination des constructions existantes, il doit être aménagé le surplus de places
+                    nécessaires à la nouvelle destination.
+                  - En cas de division foncière :
+                    > les nouvelles constructions sont soumises aux dispositions du présent article,
+                    > le nombre de place(s) de stationnement existant et/ou déjà pris en compte dans le cadre d’une autorisation
+                      d’urbanisme doit être maintenu.
+
+
+
+
+PLU Ville de Calais - Règlement                        Date de dernière validation : 30 avril 2026                                                      33
+          12.1.2. Modalités de calcul des places de stationnement
+                - Lorsque le nombre de places de stationnement exigé est calculé par tranche de m² de surface de plancher réalisée ou
+                  de nombre de logements, le calcul se fait par tranche entière échue.
+                  > Par exemple, lorsqu’il est exigé 1 place de stationnement par tranche de 50 m² de surface de plancher réalisée, le
+                    nombre de places exigées pour une opération de 80 m² de surface de plancher, est de une.
+                - Pour les constructions destinées aux publics spécifiques, de type foyers, résidences pour personnes agées, pour
+                  étudiants, centres d’hébergement, la chambre s’entend comme étant l’hébergement, quel que soit le nombre de
+                  pièces constituant celui-ci.
+          12.1.3. Caractéristiques techniques des places de stationnement
+                - Les places de stationnement pour véhicules légers doivent être facilement accessibles (accès individualisé, etc.) et
+                  avoir une largeur minimum de 2,50 mètres.
+                - Les emplacements destinés au stationnement des cycles doivent être couverts et facilement accessibles.
+     12.2. Normes de stationnement
+          12.2.1. Dispositions applicables aux constructions destinées à l’habitation
+               a.    Normes de stationnement pour les véhicules motorisés
+                     - Les normes de stationnement définies ci-dessous sont applicables :
+                       > aux nouvelles constructions principales,
+                       > aux travaux (aménagements, divisions, changements de destination, extensions d’une construction existante
+                          etc.) aux termes desquels une construction comporte trois logements ou plus,
+                     - Il est exigé que soient réalisées, au minimum :
+                       > une place de stationnement par logement,
+                       > et une place de stationnement visiteur par tranche de 5 logements,
+                     - Pour les constructions destinées aux publics spécifiques, de type foyers, résidences pour personnes âgées, pour
+                       étudiants, centres d’hébergement, il est exigé que soit réalisé, au minimum, une place de stationnement par
+                       tranche de 2 chambres.
+                     - Conformément au Code de l’Urbanisme, il ne peut, nonobstant toute disposition, être exigé la réalisation de plus
+                       d’une aire de stationnement lors de la construction, la transformation ou l’amélioration de logements locatifs
+                       financés par un prêt aidé de l’Etat.
+               b.    Normes de stationnement pour les cycles non motorisés
+                     - Il est exigé, pour toute nouvelle construction principale comprenant cinq logements ou plus, que soit affectée au
+                       minimum, au stationnement des cycles non motorisés, une superficie correspondant à 1 m² pour 100 m² de
+                       surface de plancher.
+          12.2.2. Dispositions applicables aux constructions destinées au commerce, à l’artisanat et aux bureaux
+                - Les normes de stationnement définies ci-dessous sont applicables :
+                  > aux constructions destinées au commerce de plus de 150 m² de surface de vente ou 200 m² de surface de
+                     plancher, la solution la plus favorable au constructeur s’applique,
+                  > à tous travaux (changements de destination vers une destination commerciale, aménagement, extensions d‘une
+                     construction existante, etc.) portant sur une surface de moins de 150 m² de surface de vente ou 200 m² de surface
+                     de plancher, la solution la plus favorable au constructeur s’applique,
+                  > aux constructions destinées à l’artisanat et aux bureaux de plus de 150 m² de surface de plancher
+                  > et à tous travaux (changements de destination vers une destination artisanale ou de bureaux, aménagement,
+                     extensions d‘une construction existante, etc.) portant sur une surface de plus de 150 m² de surface de plancher
+               a.    Normes de stationnement pour les véhicules motorisés
+                     - Il est exigé que soient réalisées, au minimum
+                       > pour les constructions destinées au commerce, une aire de livraison dimensionnée en fonction des besoins
+                          de la construction et une place de stationnement par tranche de 50 m² de surface de vente ou par tranche de
+                          100 m² de surface de plancher.
+                          * la solution la plus favorable au constructeur s’applique,
+                       > pour les constructions destinées à l’artisanat et aux bureaux, une place de stationnement par tranche de
+                          50 m² de surface de plancher.
+               b.    Normes de stationnement pour les cycles non motorisés
+                     - Il est exigé, pour toute nouvelle construction destinée au bureau, que soit affecté au minimum, au stationnement
+                       des cycles non motorisés, une superficie correspondant à 1 m² pour 100 m² de surface de plancher.
+          12.2.3. Dispositions applicables aux constructions destinées à l’hébergement hôtelier
+                - Il est exigé que soit réalisée, au minimum, une place de stationnement pour 2 chambres.
+          12.2.4. Dispositions applicables aux constructions nécessaires aux services publics ou d’intérêt collectif
+                - Le nombre de places de stationnement pour les véhicules automobiles et le stationnement des cycles non motorisés
+                  est déterminé en fonction des besoins de la construction (personnel, personnes accueillies, etc.)
+                  > Il est recommandé, pour déterminer le nombre de places de stationnement à réaliser, de se référer aux
+                     recommandations figurant en annexe du présent règlement.
+     12.3. Impossibilité de réaliser les places de stationnement
+           - En cas d'impossibilité d'aménager sur le terrain d’assiette de l'opération, ou sur un autre terrain situé à proximité de
+             l’opération, le nombre d'emplacements nécessaires au stationnement, le constructeur peut être tenu quitte de ses
+             obligations en justifiant, conformément au Code de l’Urbanisme :
+
+
+34                                                 Date de dernière validation : 30 avril 2026                 PLU Ville de Calais - Règlement
+               > soit en acquérant les surfaces de stationnement qui lui font défaut, dans un parc privé, existant ou en cours de
+                 réalisation, et situé à proximité de l’opération,
+               > soit en obtenant une concession à long terme pour les surfaces de stationnement qui lui font défaut, dans un parc public
+
+
+
+
+                                                                                                                                                    TITRE II – Zone UC
+                 ou privé de stationnement existant ou en cours de réalisation, et situé à proximité de l’opération.
+   Article UC 13 -       Espaces libres et plantations
+
+       13.1. Espaces Boisés Classés
+             - Les terrains indiqués aux documents graphiques, repérés en légende par les lettres EBC, sont classés espaces boisés à
+               conserver, à protéger ou à créer, en application des dispositions de l’article L.113-1 du Code de l'Urbanisme.
+             - Ce classement interdit tout changement d'affectation ou tout mode d'occupation du sol de nature à compromettre la
+               conservation, la protection ou la création des boisements. Nonobstant toutes dispositions contraires, il entraîne le rejet de
+               plein droit la demande d'autorisation de défrichement prévue par l'article L 311-1 du Code Forestier.
+       13.2. Eléments de paysage identifiés au titre de l’article L.151-19 et L.151-23 du Code de l’Urbanisme
+             - Les espaces verts paysagers protégés et cœurs d’ilots protégés, identifiés au titre de l’article L.151-19 et L.151-23 du
+               Code de l’Urbanisme, doivent être préservés et mis en valeur. Leur dominante végétale doit être préservée. Les arbres de
+               haute tige doivent être maintenus ou remplacés par des plantations équivalentes.
+             - Les espaces verts paysagers à créer, identifiés au titre de l’article L.151-19 et L.151-23 du Code de l’Urbanisme, doivent
+               être paysagers et plantés à raison d’un arbre de haute tige par tranche de 100 m² de terrain.
+             - Au sein des alignements d’arbres protégés, identifiés au titre de l’article L.151-19 et L.151-23 du Code de l’Urbanisme,
+               les plantations existantes doivent être maintenues ou remplacées par des plantations équivalentes, en respectant un
+               principe d’alignement.
+               > la suppression de plantation est toutefois admise à condition qu’elle soit nécessaire à la création d’accès.
+       13.3. Obligation de végétalisation
+             - Le traitement des espaces libres de construction doit faire l’objet d’un soin particulier, afin de participer à son insertion dans
+               le site, à l’amélioration du cadre de vie, au développement de la biodiversité et à la gestion des eaux pluviales. Le projet
+               paysager doit être conçu comme un accompagnement ou un prolongement de la construction.
+             - Dans le cas de constructions comprenant des rez-de-chaussée ou parties de rez-de-chaussée destinés au
+               commerce, les surfaces libres de constructions, non affectées aux circulations et stationnements, doivent être plantées ou
+               traitées en espaces verts aménagés ou jardins d’agrément
+             - Dans les autres cas, 20% de la superficie du terrain minimum doivent être maintenus en espaces de pleine terre.
+               > Ces espaces doivent être plantés ou traités en espaces verts aménagés ou jardins d’agrément. Les aménagements
+                  doivent être conçus de façon à limiter l’imperméabilisation des sols par l’utilisation de matériaux perméables ou toute
+                  autre technique favorisant la pénétration des eaux.
+             - Les aires de stationnement découvertes doivent être plantées à raison d’un arbre pour quatre places de stationnement. Les
+               plantations doivent être uniformément réparties.
+             - Les plantations doivent être réalisées en même temps que la construction.
+   Article UC 14 - Coefficient d’Occupation des Sols
+       Sans objet.
+
+
+
+
+PLU Ville de Calais - Règlement                         Date de dernière validation : 30 avril 2026                                                        35
+                    TerrenUrbanisme
+
+    Merci de votre confiance
+Ce rapport a été établi à partir des sources publiques officielles pour vous
+  aider à décider en connaissance de cause. Pour toute question, nous
+                        restons à votre disposition.
+
+
+
+
+   Vous êtes professionnel ? Travaillons ensemble
+      Agents immobiliers, notaires, architectes, géomètres, diagnostiqueurs,
+promoteurs, mairies : faisons équipe. Crédits professionnels sans abonnement, 5
+€ le rapport dès 50 crédits, votre logo sur les rapports, offre communale pour les
+                       mairies et partenariats sur mesure.
+
+               Écrivez-nous : contact@terrenurbanisme.com
+
+
+
+
+                        terrenurbanisme.com
+                         contact@terrenurbanisme.com
+

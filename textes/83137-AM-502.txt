@@ -1,0 +1,3396 @@
+                  TerrenUrbanisme
+                  Le terrain constructible, partout en France
+
+
+
+
+RAPPORT D'URBANISME
+
+
+
+Toulon
+Section AM · Parcelle n° 502
+      Constructible
+
+
+
+
+Référence cadastrale                                                        Surface cadastrale
+83137000AM0502                                                              1 448 m²
+
+Rapport établi le                                                           Référence du rapport
+20/11/2026                                                                  APERCU
+
+
+
+
+terrenurbanisme.com                                                                      contact@terrenurbanisme.com
+
+Document d'information sans valeur contractuelle ni réglementaire. Il ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme
+et ne peut en aucun cas être joint à une demande de permis de construire ou de déclaration préalable. Seuls les actes de l'administration font foi.
+                                                                                                                           Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                                              Sommaire
+
+
+
+
+Sommaire
+Le rapport suit l'ordre d'une étude de terrain : où se trouve la parcelle, ce que dit la règle, ce qui pèse sur le
+projet, puis les démarches.
+
+              Synthèse
+   S                                                                                                                                 p. 3
+              Le verdict, les indicateurs clés et les points d'attention en une page.
+
+              Identification de la parcelle
+   01                                                                                                                                p. 4
+              Localisation, surface, références cadastrales et voisinage du terrain.
+
+              Règles d'urbanisme applicables
+  02                                                                                                                                 p. 7
+              Document d'urbanisme, zone du terrain, prescriptions et servitudes.
+
+              Ce que vous pouvez construire
+  03                                                                                                                                p. 10
+              Surface constructible, hauteur, reculs, aspect et usages autorisés.
+
+              Loi Littoral et loi Montagne
+  04                                                                                                                                p. 19
+              Les lois qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+              Risques naturels et technologiques
+  05                                                                                                                               p. 20
+              Inondation, feu de forêt, argiles, catastrophes naturelles et sites pollués.
+
+              Le terrain : accès, relief et réseaux
+  06                                                                                                                               p. 24
+              Accès, pente, ensoleillement, eaux usées, électricité, eau et fibre.
+
+              Environnement et marché immobilier
+  07                                                                                                                                p. 31
+              Espaces naturels, espèces protégées et ventes immobilières alentour.
+
+              Historique du site
+  08                                                                                                                               p. 35
+              Le terrain vu du ciel au fil des années et les permis accordés autour.
+
+              Opportunités autour du terrain
+  09                                                                                                                                p. 37
+              Grands terrains peu bâtis et logements énergivores à proximité.
+
+              Votre projet, étape par étape
+   10                                                                                                                              p. 39
+              De l'achat aux impôts : démarches, délais, coûts, contacts et taxe.
+
+              État des risques (ERP) pré-rempli
+   11                                                                                                                              p. 44
+              Le formulaire réglementaire à remettre à l'acquéreur, pré-rempli.
+
+              Avertissement et sources
+   12                                                                                                                              p. 46
+              La portée de ce rapport et les sources publiques consultées.
+
+              Annexe : règlement de la zone
+   A                                                                                                                               p. 49
+              Les pages officielles du règlement de la zone, telles qu'approuvées.
+
+
+
+
+Astuce : cliquez sur un chapitre pour y accéder directement.
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                2 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                                                      Synthèse
+
+
+
+
+Synthèse
+     Document d'information. Ce rapport ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme,
+     n'engage pas l'administration et ne peut pas servir de pièce à une demande de permis de construire.
+     L'appréciation ci-dessous est indicative : seule la mairie se prononce sur la constructibilité d'un terrain,
+     au vu d'un projet précis.
+
+
+
+
+       CONSTRUCTIBLE
+
+       Le PLU autorise la construction
+       La parcelle est classée en zone UEp (urbaine) du plan local d'urbanisme de Toulon. Les
+       constructions y sont admises dans le respect du règlement de la zone. La commune est
+       littorale : la loi Littoral s'applique (rivage à environ 1,6 km).
+
+
+
+
+      Zone principale                                        Document d'urbanisme                                  Loi Littoral
+
+   UEp · 100 %                                            PLU                                                    S'applique · rivage à 1,6 km
+
+
+
+
+      Loi Montagne                                           Risques à la parcelle
+
+   Ne s'applique pas                                      Séisme ·
+                                                          Retrait-gonflement des
+
+
+
+
+Points d'attention
+    Zone UEp (100 % de la parcelle) : constructible.
+    Commune littorale : le rivage est à environ 1,6 km.
+    Risque de feu de forêt : obligation légale de débroussaillement, autorisation de défrichement possible pour un
+    terrain boisé.
+    Terrain en pente marquée (environ 33 %) : surcoût probable de terrassement.
+    Retrait-gonflement des argiles (exposition moyenne) : en cas de vente d'un terrain non bâti constructible, le
+    vendeur doit fournir une étude géotechnique préalable (loi ELAN, article L. 132-5 du Code de la construction et de
+    l'habitation) ; une étude géotechnique de conception est exigée avant de construire.
+    Installations industrielles (ICPE) : concerné à l'adresse de la parcelle (voir le chapitre « Risques naturels et
+    technologiques »).
+    Nucléaire : concerné à l'adresse de la parcelle (voir le chapitre « Risques naturels et technologiques »).
+    Pollution des sols : concerné à l'adresse de la parcelle (voir le chapitre « Risques naturels et technologiques »).
+    26 arrêtés de catastrophe naturelle sur la commune.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       3 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+    01             Identification de la parcelle
+     DANS CETTE SECTION
+
+     Où se trouve le terrain, sa surface, ses références cadastrales, son propriétaire lorsqu'il s'agit
+     d'une société ou d'une collectivité, et la performance énergétique du bâti existant.
+
+
+Données du cadastre (DGFiP) et de l'IGN.
+
+
+     Plan de situation
+
+
+
+
+                                                                                                                            1 km
+
+
+
+Plan IGN · © IGN
+
+
+
+     Vue aérienne et plan cadastral
+
+
+
+
+                                                                                                                                     25 m
+
+
+
+Photographie aérienne et plan cadastral · © IGN
+
+
+Commune                                                  Toulon (83137)
+
+Département                                              Var (83)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          4 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+Section et numéro                                        Section AM, parcelle n° 502, feuille 1
+
+Identifiant cadastral                                    83137000AM0502
+
+Surface cadastrale                                       1 448 m²
+
+Surface calculée (SIG)                                   1 458 m² · périmètre 188 m
+
+Coordonnées du centre                                    43.13657 N, 5.93388 E (WGS 84)
+
+Altitude                                                 de 87 à 99 m
+
+Pente estimée                                            33 % (terrain en pente marquée)
+
+Parcelles voisines                                       AM 229, AM 465, AM 503, AM 505
+
+
+Le plan cadastral est un document fiscal : il ne fait pas foi des limites de propriété. Seul un bornage réalisé par un
+géomètre-expert fixe les limites de manière certaine.
+
+
+1.1 Propriétaire et voisinage
+La parcelle ne figure pas au fichier des personnes morales : son propriétaire est vraisemblablement un
+particulier. Le nom des propriétaires particuliers n'est pas public ; il peut être demandé au service des impôts
+fonciers (relevé de propriété) ou obtenu par l'intermédiaire d'un notaire.
+
+Principaux propriétaires personnes morales dans un rayon de 280 m
+  PROPRIÉTAIRE                                                              PARCELLES             SURFACE TOTALE            SIREN
+
+  DEPARTEMENT DU VAR (DEPT)                                                 1                     23 982 m²                 228300018
+
+  SUN IMMOBILIER (SAS)                                                      2                     9 205 m²                  351063490
+
+  HOTEL DE LA TOUR BLANCHE (SAS)                                            1                     7 235 m²                  403025893
+
+  VALLEXA (SCI)                                                             3                     3 618 m²                  509962908
+
+  NEXITY (AUPM)                                                             1                     3 400 m²                  –
+
+  REGIE EXPL ET DEVEL INSTAL TOUR FARO (SARL)                               3                     3 349 m²                  303789002
+
+  FRACAM (SCI)                                                              2                     1 740 m²                  914553441
+
+  PILI-PILI (SCI)                                                           1                     1 695 m²                  820808376
+
+
+
+Source : fichiers des parcelles des personnes morales (DGFiP) : sociétés, SCI, collectivités, établissements publics et associations.
+Les propriétaires personnes physiques n'y figurent pas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          5 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+1.2 Bâti existant : diagnostics de performance énergétique
+  DATE                  LOGEMENT                SURFACE             ÉNERGIE          CLIMAT          ADRESSE
+
+  25/02/2025            Maison                  230 m²              C                A               180 Rue Edouard Perrichi 83200 Toulon
+
+
+
+Source : ADEME, diagnostics établis depuis juillet 2021 et géolocalisés à l'adresse. Un diagnostic se rapporte à un logement précis
+et reste valable dix ans.
+
+
+1.3 La commune de Toulon
+Code postal                                              83000, 83100, 83200
+
+Département                                              Var (83)
+
+Intercommunalité                                         Métropole Toulon-Provence-Méditerranée
+
+Population                                               179 116 habitants
+
+Superficie                                               44,06 km²
+
+Densité                                                  4 065 habitants par km²
+
+Commune littorale                                        Oui : la loi Littoral s'applique
+
+Commune de montagne                                      Non
+
+Document d'urbanisme                                     Plan local d'urbanisme (PLU)
+
+Risques sur la commune                                   26 arrêtés de catastrophe naturelle · détail en section Risques et en
+                                                         annexe
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          6 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+    02             Règles d'urbanisme applicables
+     DANS CETTE SECTION
+
+     Le document d'urbanisme de la commune, la zone dans laquelle se trouve le terrain, et les
+     prescriptions et servitudes qui s'y ajoutent.
+
+
+Géoportail de l'Urbanisme : zonage, prescriptions et servitudes.
+
+
+
+2.1 Document d'urbanisme en vigueur
+Type de document                                         Plan local d'urbanisme (PLU)
+
+Date d'approbation                                       Non renseigné
+
+Statut                                                   Publié au Géoportail de l'Urbanisme
+
+Règlement officiel                                       Ouvrir le document officiel (PDF)
+
+
+
+     Plan de zonage du PLU
+
+
+
+
+                                                                             UEp
+
+
+
+
+                                                                                                                           50 m
+
+
+
+Zonage : Géoportail de l'Urbanisme · fond : © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       7 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.2 Zonage de la parcelle
+  ZONE                  DÉSIGNATION                                                         PART               CONSTRUCTIBILITÉ
+
+  UEp                   U - Secteurs déjà urbanisés et secteurs où                          100 %              Constructible
+                        les équipements publics existants ou en
+                        cours de réalisation ont une capacité
+                        suffisante pour desservir les constructions à
+                        implanter
+
+
+
+Zone UEp · Urbaine
+Zone urbaine : secteur déjà urbanisé où les équipements publics existants ou en cours de réalisation
+permettent d'accueillir des constructions. Les constructions y sont admises dans le respect du règlement de la
+zone (destinations, implantation, hauteur, emprise, aspect).
+
+
+2.3 Prescriptions applicables à la parcelle
+Aucune prescription graphique du PLU (emplacement réservé, espace boisé classé, élément de paysage
+protégé, etc.) n'est recensée sur la parcelle.
+
+
+2.4 Informations complémentaires du PLU
+  INFORMATION                                                                                        TYPE
+
+  Droit de préemption urbain simplifié                                                               Information du PLU (type 04)
+
+  Débit de rejets                                                                                    Information du PLU (type 19)
+
+  Aléa retrait gonflement sols argileux                                                              Information du PLU (type 99)
+
+  Règlement Local de Publicité intercommunal                                                         Information du PLU (type 20)
+
+  Obligation Légales de Débroussaillement                                                            Information du PLU (type 99)
+
+  Périmètre de protection de la Source Saint Antoine                                                 Information du PLU (type 99)
+
+  Réseau d'eau pluviale                                                                              Information du PLU (type 19)
+
+
+
+
+2.5 Servitudes d'utilité publique
+Aucune servitude d'utilité publique numérisée n'est recensée sur la parcelle au Géoportail de l'Urbanisme. Les
+servitudes non encore numérisées figurent en annexe du PLU.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       8 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.6 Patrimoine : l'architecte des Bâtiments de France
+Aucun site patrimonial remarquable, site classé ou inscrit, ni monument historique à moins de 500 m n'est
+recensé : l'avis de l'architecte des Bâtiments de France n'est pas requis au titre du patrimoine.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                     9 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    03             Ce que vous pouvez construire
+     DANS CETTE SECTION
+
+     La lecture du règlement de votre zone : surface constructible estimée, hauteur, reculs, aspect,
+     usages autorisés ou interdits, avec les extraits du texte officiel.
+
+
+Lecture du règlement écrit de la zone UEp, pages 70 à 83 du règlement officiel.
+
+
+
+3.1 Potentiel constructible estimé
+     En clair : le règlement autorise au maximum 217 m² de construction au sol sur ce terrain (emprise de 15
+     %), avec une hauteur de 6 m au plus (2 niveaux environ). C'est un plafond réglementaire, pas un projet :
+     l'étude d'implantation ci-dessous place par exemple une maison de 122 m² au sol.
+
+
+
+Surface du terrain                                       1 448 m²
+
+Zone d'implantation possible                             791 m² après reculs (4 m des limites)
+
+Emprise au sol maximale                                  15 % du terrain, soit 217 m²
+
+Emprise constructible retenue                            217 m²
+
+Maison étudiée (exemple)                                 122 m² au sol, environ 104 m² habitables
+
+Hauteur maximale                                         6 m, soit 2 niveaux environ
+
+Surface de plancher maximale                             environ 434 m²
+
+Espaces verts imposés                                    45 % du terrain au moins
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      10 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+     Zone d'implantation possible (estimation)
+
+
+
+
+                                                                                                                                  25 m
+
+
+
+En vert : partie du terrain hors reculs réglementaires · fond © IGN
+
+
+
+3.2 Étude d'implantation indicative
+
+     Implantation d'une maison de plain-pied (esquisse)
+
+
+
+
+                                                                                                                                  25 m
+
+
+
+En rouge : la maison · en orange : une piscine de 8 × 4 m · en vert : zone constructible · fond © IGN
+
+
+Maison proposée                                          Maison de plain-pied de 13,5 × 9 m
+
+Emprise au sol                                           122 m²
+
+Surface habitable indicative                             environ 104 m²
+
+Façade principale                                        orientée sud-ouest
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      11 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+Distance à la voie                                       environ 12 m
+
+Distance minimale aux limites                            4,6 m
+
+Piscine de 8 × 4 m                                       possible dans la zone constructible
+
+Taxe d'aménagement estimée                               environ 3 520 € (résidence principale)
+
+
+Esquisse automatique : la maison est placée dans la zone constructible, au plus près de la voie, en dégageant le jardin vers
+le sud, sans tenir compte des constructions existantes ni de la végétation. Elle ne remplace pas l'étude d'un architecte,
+obligatoire au-delà de 150 m² de surface de plancher, ni la vérification des règles d'aspect, de stationnement, de pente et
+d'assainissement.
+
+Estimation théorique établie à partir des règles chiffrées du règlement (reculs, emprise, hauteur) et de la géométrie
+cadastrale. Elle ne tient pas compte des servitudes, des risques, de la pente, des règles de stationnement et d'aspect, ni
+des dispositions particulières : seul un architecte ou un géomètre peut confirmer le potentiel réel.
+
+
+3.3 Caractère de la zone
+La zone UE est une zone urbaine essentiellement pavillonnaire. Elle comprend les sous-secteurs UEb
+(Baou), UEp (pentu) et UEr (la Ripelle). Le secteur UEp correspond aux secteurs pavillonnaires en pente,
+avec des règles plus restrictives que la zone UE générale sur l'emprise au sol et la hauteur. Les règles du
+secteur UEp se lisent dans le chapitre UE.
+
+
+3.4 Règles de construction
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Surface minimale ou                          Non réglementé                                                                   art. UE5
+  caractéristiques du terrain
+
+  Accès et voirie                              Terrain constructible s'il comporte un accès automobile à une                    art. UE3
+                                               voie publique ou privée (directement ou par passage sur fonds
+                                               voisin, servitude de l'article 682 du code civil). Voies nouvelles
+                                               d'intérêt privé desservant de l'habitation : 4 m minimum (3,50 m
+                                               en sens unique), avec cheminement piétons adapté aux
+                                               personnes à mobilité réduite pour les opérations de plus de 4
+                                               logements. Pente maximale des voies nouvelles : 15 % dans
+                                               l'axe et 5 % sur les 5 premiers mètres depuis la limite de
+                                               parcelle ; 18 % pour les rampes d'accès en sous-sol. Impasse
+                                               de plus de 60 m : aire de retournement obligatoire. Accès en
+                                               nombre limité, retrait de l'accès et pans coupés possibles.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      12 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Réseaux et assainissement                    Raccordement obligatoire au réseau public d'eau potable. Eaux                    art. UE4 ;
+                                               usées : raccordement par canalisations souterraines au réseau                    dispositions
+                                               public collectif d'assainissement ; évacuation dans les fossés                   communes
+                                               interdite ; un seul branchement en cas de plusieurs                              section 2 art. 1
+                                               constructions sur un même terrain. Eaux pluviales :                              et art. 5
+                                               dispositions communes (rétention obligatoire, volume 3 m³
+                                               pour terrain <= 500 m², 5 m³ pour terrain de 500 à 1050 m²,
+                                               calcul au-delà ; débit de fuite limité). Réseaux divers
+                                               (électricité, TIC, téléphone) souterrains. Local de stockage des
+                                               déchets pour tout nouveau programme. Cuve de récupération
+                                               des eaux pluviales pour toute nouvelle construction
+                                               d'habitation collective.
+
+  Implantation par rapport                     Recul minimal de 5 m de l'alignement (zone non aedificandi).                     art. UE6
+  aux voies                                    Sont toutefois autorisés dans cette zone : débords de toiture
+                                               de 50 cm, protections solaires jusqu'à 1 m pour les R+1, voies
+                                               internes, rampes et escaliers sous le terrain naturel ou jusqu'à
+                                               1,50 m au-dessus, clôture-séparation (muret de 50 cm
+                                               surmonté d'un grillage, 2 m maximum), piscines et bassins non
+                                               hors sol, constructions complètement enterrées, places de
+                                               stationnement à l'air libre, modénatures, ombrières
+                                               photovoltaïques sur dalles de stationnement. Terrain en forte
+                                               déclivité, en contrebas ou en contre-haut : garage ou
+                                               stationnement à l'alignement dans certains cas. Habitat en
+                                               bande : implantation différente possible. Distance inférieure
+                                               possible pour les services publics.
+
+  Implantation par rapport                     Distance au moins égale à la moitié de la hauteur de la                          art. UE7
+  aux limites séparatives                      construction (mesurée depuis le terrain naturel avant travaux),
+                                               jamais inférieure à 4 m dans le cas général, et 6 m pour tout
+                                               programme de logements neufs de plus de 800 m² de surface
+                                               de plancher (zones non aedificandi, avec les mêmes
+                                               exceptions qu'à l'article UE6, débords de toiture de 50 cm,
+                                               etc.). Cas particulier : tènement de moins de 15 m au droit de
+                                               l'alignement, construction sur une seule limite autorisée si
+                                               hauteur <= 3,50 m sur 6 m maximum (ou un tiers de la longueur
+                                               si supérieure à 18 m), sauf conditions d'exclusion. Habitat en
+                                               bande : implantation en limite si contiguë aux constructions
+                                               mitoyennes. Piscines : 2 m si enterrées, 4 m si hors sol (y
+                                               compris local technique). Aucun nouveau logement à moins de
+                                               10 m du domaine ferroviaire.
+
+  Implantation des                             Entre bâtiments non contigus : distance au moins égale à la                      art. UE8
+  constructions entre elles                    hauteur du plus haut bâtiment, sans être inférieure à 8 m (hors
+                                               débords de toiture) ; la règle ne s'applique pas à la zone UEr.
+                                               Entre une annexe et un bâtiment : 4 m minimum (sauf piscines
+                                               et ombrières photovoltaïques). Distance inférieure possible
+                                               pour les services publics et hébergements hôteliers.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        13 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Emprise au sol                               Habitation en UEp : terrain de plus de 1000 m² : 15 % ; terrain de               art. UE9 ;
+                                               moins de 1000 m² : 20 % ; terrain de moins de 1000 m² issu                       lexique
+                                               d'une division postérieure à l'approbation du PLU : 15 %.
+                                               Services publics ou d'intérêt collectif et hébergements
+                                               hôteliers : 50 %. Toutes autres destinations : 25 %. Centre de
+                                               vie : 30 % si rez-de-chaussée à usage commercial ou artisanal.
+                                               Exclusions du calcul : débords de toiture, saillies de balcon
+                                               jusqu'à 2 m, avancées de protection solaire, ombrières
+                                               photovoltaïques, etc. (cf. lexique).
+
+  Hauteur maximale                             Dans le secteur UEp : 6 m limitée à R+1, combles non compris,                    art. UE10
+                                               mesurée à l'égout du toit par rapport au terrain naturel avant
+                                               travaux. Habitat en bande : hauteur différente possible si
+                                               contiguë aux constructions mitoyennes. Services publics : 9 m
+                                               limité à R+2 (règle générale UE). Hébergement hôtelier : 8 m,
+                                               pouvant atteindre 12 m en R+2 sur 40 % maximum de l'emprise
+                                               des toitures. Majoration de 0,5 ou 1 m pour les constructions
+                                               soumises aux risques majeurs dont le premier plancher bas
+                                               doit être surélevé. Éléments techniques sur toiture-terrasse :
+                                               2,50 m maximum.
+
+  Aspect extérieur et toitures                 Simplicité de volume, unité d'aspect et de matériaux, harmonie                   art. UE11 ; art. 2
+                                               avec l'environnement ; implantation fractionnée à privilégier                    des
+                                               (éviter les effets de barre) ; volumes et toitures adaptés à la                  dispositions
+                                               morphologie du terrain naturel ; terrassements, affouillements                   applicables aux
+                                               et exhaussements strictement limités. Toitures à pentes :                        zones urbaines
+                                               pente de 25 à 35 % pour les tuiles, majoritairement à deux ou
+                                               quatre pentes ; monopentes appréciées au cas par cas.
+                                               Toitures terrasses admises, bien intégrées. Éléments
+                                               techniques : souches de cheminée et tourelles de 2 m
+                                               maximum en toiture à pentes ; en toiture-terrasse, intégrés au
+                                               volume ou sur le toit (2,50 m maximum, recul de 2 fois leur
+                                               hauteur). Ombrières sur toiture-terrasse : 2,5 m maximum,
+                                               retrait de 2 m minimum. Chaque logement neuf comporte au
+                                               moins une porte-fenêtre. Échangeurs de climatisation sans
+                                               saillie sur façade. Combles : 1 m maximum en bas de pente.
+
+  Matériaux et couleurs                        Mise en couleur en harmonie avec l'environnement bâti et                         art. UE11 ;
+                                               conforme au nuancier annexé au PLU ; peintures d'aspect                          dispositions
+                                               brillant interdites. Façades : unité de composition et                           communes
+                                               homogénéité des matériaux.                                                       section 2 art.
+                                                                                                                                2.1
+
+  Clôtures                                     Dispositions générales : hauteur maximale 2 m. En limite                         art. UE11-3 ;
+                                               séparative : grillage ou muret de 0,50 m maximum surmonté                        dispositions
+                                               d'un grillage ou d'une claire-voie, doublé éventuellement d'une                  communes
+                                               haie. Sur voie : grillage, mur bahut de 0,50 m maximum ou                        section 2 art.
+                                               muret de 0,50 à 1,20 m avec couronnement, surmonté                               2.2
+                                               éventuellement d'un grillage ou claire-voie ; éléments pleins
+                                               maçonnés (piliers, niches à compteurs) acceptés. Dans les
+                                               zones inondables : grillage uniquement. Clôtures soumises à
+                                               déclaration préalable en secteur protégé.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        14 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Stationnement                                Aires de stationnement réalisées sur l'unité foncière selon les                  art. UE12 ; art. 4
+                                               dispositions applicables aux zones urbaines : habitation 1 place                 des
+                                               par 80 m² de surface de plancher avec minimum de 2 places                        dispositions
+                                               par logement et 1 place visiteur pour 8 logements ; commerces                    applicables aux
+                                               et artisanat 1 place par 70 m² au-delà de 300 m² ; bureaux 1                     zones urbaines
+                                               place par 80 m² ; hébergement hôtelier 1 place pour 4
+                                               chambres. Aucune place exigée pour une extension inférieure
+                                               à 80 m² de surface de plancher. Surface de 20 m² par place. Au
+                                               moins 30 % de places éco-aménagées si 3 places ou plus à l'air
+                                               libre. Stationnement 2 roues : 2 % de la surface de plancher
+                                               créée (hors maisons individuelles). Dans la bande de 100 m des
+                                               autoroutes 50 et 57, nationales 8 et 97, D559 : stationnement à
+                                               l'air libre fractionné et intégré.
+
+  Espaces verts et plantations                 Au moins 45 % de la superficie de l'unité foncière en espaces                    art. UE13
+                                               verts de pleine terre (30 % pour les services publics ou
+                                               d'intérêt collectif et les hébergements hôteliers). Un arbre de
+                                               haute tige pour 100 m² d'espaces verts. Arbres d'ombrage sur
+                                               les aires de stationnement à l'air libre (1 arbre pour 1 ou 2
+                                               places isolées, 1 pour 3 places accolées). Plantations
+                                               existantes préservées au maximum ; plan paysager de
+                                               l'existant exigé ; arbres plantés à plus de 2 m de la limite
+                                               séparative ; restanques préservées ou reconstituées.
+                                               Exemptions pour constructions existantes réalisant une piscine
+                                               de 30 m² maximum ou 1 à 2 places de stationnement de 20 m².
+                                               Terrains cultivés à protéger soumis à l'article L151-23.
+
+  Densité ou coefficient                       Non réglementé                                                                   art. UE14
+
+
+
+
+3.5 Usages autorisés
+    Occupations et utilisations du sol liées à une zone à dominante d'habitat et non interdites à l'article UE1
+    (habitation, commerces et artisanat compatibles, bureaux, hébergement hôtelier, services publics ou
+    d'intérêt collectif).
+    Lignes et ouvrages de télécommunication et installations de distribution d'énergie électrique, à condition
+    d'être enterrés ou intégrés à une construction.
+    Travaux liés à la sécurisation du Mont Faron (plan de prévention des risques chutes de pierres et de blocs
+    révisé le 20 décembre 2013).
+    Constructions, installations et aménagements liés à la mise à 2x3 voies de l'A57 et à l'aménagement des
+    diffuseurs.
+    Constructions destinées à l'artisanat, sous réserve de ne pas provoquer de nuisances sonores au
+    voisinage immédiat.
+    Habitations légères de loisirs et résidences mobiles de loisirs, uniquement dans les campings et parcs
+    résidentiels de loisirs.
+    Piscines et bassins d'agrément (retrait de 2 m minimum de la limite séparative s'ils sont enterrés, 4 m s'ils
+    sont hors sol).
+    Immeubles collectifs sous réserve de la part de logements sociaux (30 %).
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        15 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.6 Usages interdits ou soumis à conditions
+    Interdits : constructions destinées à l'industrie, à l'exploitation agricole et forestière, à l'entrepôt ; dépôts à
+    ciel ouvert, ouverture et exploitation de carrière (art. UE1).
+    Interdites : installations classées pour la protection de l'environnement (ICPE), sauf celles compatibles
+    avec le caractère et la destination de la zone à dominante habitat (exemple : boulangerie).
+    Pour toute opération d'immeubles collectifs de plus de douze logements ou de plus de 800 m² de surface
+    de plancher : au moins 30 % de logements familiaux sociaux (hors logements des agents de la Défense sur
+    terrains du ministère des Armées et hors quartiers prioritaires de la politique de la ville).
+    Dans le périmètre de l'AVAP, respect de ses prescriptions.
+    Dans les secteurs de risques ou de nuisances (PPR, chapitre 7), application des dispositions les plus
+    restrictives.
+    Aucun nouveau logement dans une bande de 10 m par rapport à la limite du domaine ferroviaire (art. UE7).
+    Camping et stationnement de caravanes : autorisés dans la zone UE (exception à l'interdiction générale des
+    zones urbaines, art. 1 des dispositions applicables aux zones urbaines).
+    Combles : hauteur sous plafond de 1 m maximum en bas de pente, aucun logement entier dans les combles
+    ni porte-fenêtre dans cette partie.
+
+
+3.7 Points de vigilance pour votre projet
+    Vérifier sur le plan de zonage que la parcelle est bien en secteur UEp (et non UE ou UEb) et si elle est
+    concernée par des prescriptions graphiques (espace boisé classé, espace vert protégé, terrain cultivé à
+    protéger, centre de vie, emplacement réservé, linéaire commercial).
+    Emprise au sol très limitée en UEp (15 % si terrain de plus de 1000 m² ou division postérieure au PLU, 20 %
+    si moins de 1000 m²) : contrôler la superficie réelle du terrain et l'historique de division.
+    Hauteur de 6 m limitée à R+1 en UEp, mesurée à partir du terrain naturel avant travaux : attention aux
+    terrains pentus.
+    Recul de 5 m aux voies et retrait de la moitié de la hauteur (4 m minimum, 6 m pour programme de plus de
+    800 m² de surface de plancher) aux limites séparatives.
+    Distance entre bâtiments non contigus : hauteur du plus haut bâtiment, 8 m minimum ; 4 m minimum entre
+    annexe et bâtiment.
+    Espaces verts de pleine terre de 45 % minimum : forte contrainte sur l'imperméabilisation (voirie,
+    stationnement, terrasses non comptés) ; rétention des eaux pluviales obligatoire.
+    Opération de plus de 12 logements ou 800 m² de surface de plancher : 30 % de logements sociaux.
+    Vérifier le plan de prévention des risques (chutes de pierres Mont Faron, mouvements de terrain,
+    inondations), l'AVAP / Site patrimonial remarquable, les zones de présomption archéologique, le
+    défrichement, les bandes de bruit et le retrait-gonflement des argiles.
+    Annexe et extension : pas de plafond chiffré spécifique en UE ; elles restent soumises à l'emprise au sol,
+    aux reculs, aux espaces verts et à la distance de 4 m entre annexe et bâtiment.
+    Règlement dont la structure est celle d'avant la réforme (articles 1 à 14) : aucune règle de superficie
+    minimale ni de coefficient d'occupation du sol.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      16 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.8 Extraits du règlement
+
+     art. UE10 · page 78
+     « Dans les secteurs UEb et UEp, la hauteur maximale des constructions est fixée à 6 m limitée à R+1,
+     combles* non compris. »
+
+
+     art. UE9 · page 77
+     « 15% de la superficie de l’unité foncière en zone UEp »
+
+
+     art. UE6 · page 74
+     « toute construction doit être implantée à 5 m minimum de l’alignement, cette zone étant considérée
+     comme non aedificandi. »
+
+
+     art. UE7 · page 75
+     « doit être au moins égale à la moitié de la hauteur de la construction, mesurée à compter du terrain
+     naturel avant travaux, et ne jamais être inférieure à : - 4 m dans le cas général »
+
+
+     art. UE13 · page 81
+     « Au moins 45% de la superficie totale de l’unité foncière (hors emplacement réservé) doivent être
+     aménagés en espaces verts de pleine terre*. »
+
+
+     art. UE8 · page 76
+     « doit toujours être respectée une distance au moins égale à la hauteur du plus haut des bâtiments,
+     sans être inférieure à 8 m. »
+
+
+
+3.9 Démarches probables
+    Déclaration préalable (extension, annexe, piscine, clôture, ravalement) ou permis de construire selon les
+    surfaces créées.
+    Permis de construire pour une construction nouvelle ; permis d'aménager pour lotissement ou division
+    avec création de voie.
+    Étude et dossier de gestion des eaux pluviales (volume de rétention, débit de fuite) validés par le service
+    pluvial.
+    Consultation éventuelle de l'Architecte des Bâtiments de France en AVAP / Site patrimonial remarquable.
+    Respect des prescriptions du plan de prévention des risques et, le cas échéant, demande d'autorisation de
+    défrichement.
+    Consultation du service régional de l'archéologie en zone de présomption de prescription archéologique.
+    Fournir un plan paysager précis de l'existant (arbres, circonférence du tronc à 1,50 m, position).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      17 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+     Cette lecture est établie automatiquement, par intelligence artificielle, à partir du règlement officiel en
+     vigueur. Elle peut comporter des imprécisions : seul le texte du règlement, reproduit en annexe (pages
+     70 à 83 du document approuvé), fait foi, avec les dispositions générales, les orientations
+     d'aménagement et les servitudes.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      18 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                                    04 · Loi Littoral et loi Montagne
+
+
+
+
+   04              Loi Littoral et loi Montagne
+     DANS CETTE SECTION
+
+     Les lois nationales qui s'ajoutent au document d'urbanisme sur le littoral et en montagne. Elles
+     peuvent rendre un terrain inconstructible même en zone constructible.
+
+
+Les lois d'aménagement qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+
+
+4.1 Loi Littoral
+Commune littorale                                        Oui
+
+Distance au rivage                                       environ 1,6 km
+
+Bande des 100 mètres                                     La parcelle est hors de la bande des 100 m
+
+
+La loi Littoral s'applique sur l'ensemble du territoire de la commune. Elle impose trois règles principales :
+
+    Continuité : l'extension de l'urbanisation ne peut se faire qu'en continuité d'une agglomération ou d'un
+    village existant. Une construction isolée, au milieu d'un espace naturel, n'est pas admise.
+    Bande des 100 mètres : en dehors des espaces urbanisés, toute construction est interdite à moins de 100
+    mètres du rivage.
+    Espaces proches du rivage : l'extension de l'urbanisation y est seulement limitée, justifiée et motivée. Les
+    espaces remarquables et caractéristiques du littoral sont protégés.
+
+
+4.2 Loi Montagne
+Commune en zone de montagne                              Non
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          19 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+   05              Risques naturels et technologiques
+     DANS CETTE SECTION
+
+     Les risques connus à l'adresse du terrain (inondation, feu de forêt, mouvement de terrain,
+     radon…) et les catastrophes naturelles reconnues sur la commune.
+
+
+Base nationale Géorisques (ministère de la Transition écologique).
+
+
+
+5.1 Risques naturels à l'adresse de la parcelle
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Inondation                                      Non connu                                       Existant
+
+  Remontée de nappe                               Non connu                                       Existant
+
+  Submersion marine                               Non connu                                       Existant
+
+  Séisme                                          Existant – faible                               Existant – faible
+
+  Mouvement de terrain                            Inconnu                                         Existant
+
+  Retrait-gonflement des                          Existant – modéré                               Existant – important
+  argiles
+
+  Feu de forêt                                    Existant                                        Existant · Votre bien est concerné par les
+                                                                                                  obligations légales de débroussaillement
+
+  Radon                                           Existant – important                            Existant – important
+
+
+
+
+5.2 Risques technologiques
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Installations industrielles                     Existant – important                            Concerné
+  (ICPE)
+
+  Nucléaire                                       Concerné                                        Concerné
+
+  Canalisations de matières                       Non concerné                                    Concerné
+  dangereuses
+
+  Pollution des sols                              Concerné                                        Concerné
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                    20 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.3 Indicateurs réglementaires
+Zone de sismicité                                        Zone 2 – faible
+
+Potentiel radon                                          Catégorie 3 (potentiel significatif)
+
+Retrait-gonflement des argiles                           Existant – modéré
+
+Plans de prévention (PPR)                                Aucun plan de prévention des risques recensé
+
+
+     La parcelle est exposée au risque de feu de forêt. L'obligation légale de débroussaillement s'applique
+     (en général 50 mètres autour des constructions), et un terrain boisé peut nécessiter une autorisation
+     de défrichement avant toute construction.
+
+
+
+
+5.4 Arrêtés de catastrophe naturelle
+26 arrêtés de reconnaissance de l'état de catastrophe naturelle concernent la commune.
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Inondations et/ou Coulées de Boue                                         24/10/2023                                     06/01/2024
+
+  Sécheresse                                                                01/04/2022 au 30/09/2022                       03/05/2023
+
+  Inondations et/ou Coulées de Boue                                         03/10/2021 au 05/10/2021                       14/01/2022
+
+  Sécheresse                                                                01/01/2020 au 30/06/2020                       06/06/2021
+
+  Chocs Mécaniques liés à l'action des Vagues                               23/11/2019 au 24/11/2019                       29/01/2020
+
+  Inondations et/ou Coulées de Boue                                         22/10/2019 au 23/10/2019                       31/10/2019
+
+  Sécheresse                                                                01/07/2019 au 30/09/2019                       12/06/2020
+
+  Sécheresse                                                                01/07/2017 au 30/09/2017                       20/10/2018
+
+  Inondations et/ou Coulées de Boue                                         19/09/2014                                     07/12/2014
+
+  Mouvement de Terrain                                                      10/02/2014 au 11/02/2014                       07/11/2014
+
+  Inondations et/ou Coulées de Boue                                         26/10/2012                                     13/01/2013
+
+  Chocs Mécaniques liés à l'action des Vagues                               08/11/2011 au 09/11/2011                       07/03/2012
+
+  Inondations et/ou Coulées de Boue                                         04/11/2011 au 10/11/2011                       19/11/2011
+
+  Chocs Mécaniques liés à l'action des Vagues                               04/05/2010                                     26/06/2010
+
+  Inondations et/ou Coulées de Boue                                         15/12/2008                                     22/04/2009
+
+  Chocs Mécaniques liés à l'action des Vagues                               14/12/2008 au 15/12/2008                       22/04/2009
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            21 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Inondations et/ou Coulées de Boue                                         24/09/2006 au 25/09/2006                       10/03/2007
+
+  Inondations et/ou Coulées de Boue                                         17/01/1999 au 18/01/1999                       02/05/1999
+
+  Sécheresse                                                                01/01/1998 au 31/12/1998                       18/07/2001
+
+  Inondations et/ou Coulées de Boue                                         26/09/1992 au 27/09/1992                       08/07/1993
+
+  Inondations et/ou Coulées de Boue                                         13/10/1988 au 15/10/1988                       03/03/1989
+
+  Mouvement de Terrain                                                      28/08/1983 au 29/08/1983                       18/11/1983
+
+  Inondations et/ou Coulées de Boue                                         28/08/1983 au 29/08/1983                       18/11/1983
+
+  Inondations et/ou Coulées de Boue                                         23/08/1983 au 24/08/1983                       18/11/1983
+
+  Mouvement de Terrain                                                      23/08/1983 au 24/08/1983                       18/11/1983
+
+  Inondations et/ou Coulées de Boue                                         29/09/1982 au 30/09/1982                       26/12/1982
+
+
+
+
+5.5 Installations classées à proximité (moins de 1 km)
+    CENTRE HOSPITALIER INTERCOMMUNAL TOULON / LA SEINE-SUR-MER · Autres régimes
+    CARROSSERIE RUSSO · Non ICPE
+    RECUP DIGNE ALAIN · Enregistrement · En fin d'exploitation
+    Madame BARDIN Dominique · Autres régimes
+    Total fina france · Non ICPE
+    Société TOTAL · Autres régimes
+    SOCIETE TOULONNAISE DE COMBUSTIBLE · Autres régimes
+    plainte 13 (garage MOUELHI AUTO SERVICE · Non ICPE
+
+
+5.6 Sites et sols pollués à proximité
+    Dépôt de gaz · ancien site industriel ou d'activité de service (CASIAS)
+    Garage , réparation automobile · ancien site industriel ou d'activité de service (CASIAS)
+    Garage · ancien site industriel ou d'activité de service (CASIAS)
+    Atelier de réparation de voitures automobiles · ancien site industriel ou d'activité de service (CASIAS)
+    Imprimerie · ancien site industriel ou d'activité de service (CASIAS)
+    Dépôt de gaz · ancien site industriel ou d'activité de service (CASIAS)
+    Hôpital de Saint-Anne · ancien site industriel ou d'activité de service (CASIAS)
+    Total fina france · ancien site industriel ou d'activité de service (CASIAS)
+    2 anciens sites industriels ou d'activités de service (CASIAS) recensés
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           22 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.7 Rapport officiel Géorisques
+Les risques recensés ci-dessus proviennent des bases officielles de Géorisques, service public d'information
+sur les risques. Le rapport officiel complet peut être édité sans frais, à tout moment et à jour, à partir de
+l'adresse du terrain sur le site Géorisques.
+
+
+    Éditer le rapport officiel Géorisques
+
+
+Lors d'une vente ou d'une location, le vendeur ou le bailleur doit remettre un état des risques de moins de six mois,
+complété et signé, et l'information sur les sinistres indemnisés au titre des catastrophes naturelles.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                   23 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+   06              Le terrain : accès, relief et réseaux
+     DANS CETTE SECTION
+
+     Les contraintes physiques du terrain : accès à une voie, pente et exposition, assainissement,
+     raccordement à l'électricité et à l'eau, fibre. Ce sont elles qui pèsent le plus sur le coût d'un
+     projet.
+
+
+Voirie (IGN, BD TOPO), altimétrie (IGN, RGE ALTI), règlement de la zone, réseau électrique (Agence ORE) et éligibilité
+internet (Arcep).
+
+
+
+6.1 Accès
+Accès direct à une voie                                  Oui
+
+Voie                                                     Route à 1 chaussée · Rue Édouard Perrichi
+
+Largeur de chaussée                                      4m
+
+Accès des véhicules                                      Libre
+
+
+La parcelle touche une voie carrossable. L'autorisation d'urbanisme vérifiera que l'accès est adapté au projet et sûr,
+et peut imposer une permission de voirie ou un aménagement de l'entrée.
+
+
+6.2 Relief et exposition
+Pente moyenne                                            21 %
+
+Exposition                                               Versant orienté sud-ouest
+
+Altitude                                                 87 à 99 m
+
+Appréciation                                             Pente marquée
+
+
+
+
+ 102 m
+
+
+
+
+ 86 m
+
+
+           Coupe du terrain dans le sens de la pente · longueur 77 m
+
+
+     Terrassements, murs de soutènement et gestion des eaux de ruissellement à prévoir : surcoût
+     sensible. Une étude de sol (mission G2) est recommandée.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      24 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Toulon · AM 502
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.3 Ensoleillement
+Appréciation                                             Bien ensoleillé
+
+Soleil direct le 21 juin                                 11 h 30 (de 07 h 50 à 19 h 10)
+
+Soleil direct aux équinoxes                              10 h 18 (de 07 h 40 à 17 h 50)
+
+Soleil direct le 21 décembre                             7 h (de 09 h 30 à 16 h 20)
+
+Ensoleillement annuel possible                           3 532 h par an, soit 80 % du maximum à cette latitude
+
+Hauteur du relief vers le sud                            5°
+
+
+
+ 75°
+
+
+
+ 60°
+
+
+
+ 45°
+
+
+
+ 30°
+
+
+
+ 15°
+
+
+
+ 0°
+                                Est                  Sud-est                    Sud                 Sud-ouest               Ouest
+
+          21 juin          Équinoxes               21 décembre                 Horizon : relief et bâtiments voisins
+
+
+
+       Le soleil est un peu masqué en début ou en fin de journée, surtout en hiver, mais le terrain reste bien
+       exposé sur l'année.
+
+
+
+Ensoleillement mois par mois (le 21 de chaque mois)
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Janvier                         9 h 18                             7 h 30                                    09 h 30 – 16 h 50
+
+  Février                         10 h 42                            9 h 12                                    08 h 40 – 17 h 40
+
+  Mars                            12 h                               10 h 18                                   07 h 40 – 17 h 50
+
+  Avril                           13 h 42                            10 h 42                                   08 h 10 – 18 h 40
+
+  Mai                             14 h 42                            11 h 12                                   07 h 50 – 18 h 50
+
+  Juin                            15 h 12                            11 h 30                                   07 h 50 – 19 h 10
+
+  Juillet                         14 h 42                            11 h 12                                   08 h 00 – 19 h 00
+
+  Août                            13 h 30                            10 h 30                                   08 h 20 – 18 h 40
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       25 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Septembre                       12 h 12                            10 h 18                                   08 h 30 – 18 h 40
+
+  Octobre                         10 h 30                            9 h 12                                    09 h 10 – 18 h 10
+
+  Novembre                        9 h 18                             7 h 30                                    09 h 00 – 16 h 20
+
+  Décembre                        8 h 42                             7h                                        09 h 30 – 16 h 20
+
+
+
+Calcul théorique par ciel dégagé, au centre de la parcelle et à hauteur d'homme : course du soleil heure par heure, masque du relief
+sur 6 km (IGN, RGE ALTI) et des bâtiments voisins sur 120 m (IGN, BD TOPO, 84 bâtiments pris en compte). La végétation et les
+constructions récentes ne sont pas prises en compte.
+
+
+6.4 Quel raccordement pour les eaux usées ?
+Raccordement à prévoir                                       Tout-à-l'égout très probable
+
+Zone du PLU                                                  UEp · Urbaine
+
+Zonage d'assainissement                                      Non publié au Géoportail de l'Urbanisme (consultable en mairie)
+
+Réseau collectif sur la commune                              Oui · METROPOLE TOULON PROVENCE MÉDITERRANÉE (MTPM) ·
+                                                             délégation à VEOLIA
+
+
+     Le terrain est en zone urbaine (UEp) et la commune dispose d'un réseau public d'assainissement
+     collectif. Dans ces zones, le réseau passe en général dans la voie et le règlement impose le
+     raccordement lorsqu'il existe. À confirmer par le service d'assainissement pour ce terrain précis.
+
+
+
+Ce que dit le règlement de la zone
+Raccordement obligatoire au réseau public collectif d'assainissement : toute construction à usage d'habitation ou
+abritant des activités doit évacuer ses eaux et matières usées par des canalisations souterraines raccordées au
+réseau public. Le terrain doit être desservi par le réseau public (directement ou par un réseau privé). Évacuation
+dans les fossés interdite. Un seul branchement au réseau public en cas de plusieurs constructions sur un même
+terrain, sauf impossibilité technique. L'assainissement non collectif n'est pas prévu par l'article UE4. Eaux pluviales :
+dispositions communes (rétention obligatoire).
+
+Le règlement admet un assainissement individuel uniquement là où le réseau public n'existe pas : cette mention ne signifie
+pas que le terrain n'est pas desservi.
+
+Ce que cela coûte
+Raccordement au tout-à-l'égout : branchement sous la voie réalisé par le service d'assainissement (souvent 1 500 à
+5 000 € selon la distance), canalisation sur le terrain jusqu'à la maison, et participation pour le financement de
+l'assainissement collectif (PFAC) fixée par la commune ou l'intercommunalité, généralement de 1 000 à 5 000 €. Le
+service remet un devis à partir du plan de situation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      26 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+Qui contacter pour obtenir la confirmation
+Service d'assainissement                                     METROPOLE TOULON PROVENCE MÉDITERRANÉE (MTPM) ·
+                                                             exploitant : VEOLIA
+
+Mairie                                                       Mairie de Toulon
+
+Téléphone                                                    04 94 36 30 00
+
+
+    Demandez au service d'assainissement, avec la référence cadastrale, si une canalisation publique passe au droit
+    du terrain, à quelle profondeur, et le montant de la PFAC. Sa réponse écrite vaut attestation de raccordabilité.
+    Certificat d'urbanisme opérationnel (formulaire Cerfa 13410, délivré sans frais) : la mairie y indique officiellement
+    si le terrain est desservi par le réseau d'assainissement.
+    Plan des réseaux : la présence des canalisations enterrées près du terrain peut être vérifiée sur
+    reseaux-et-canalisations.gouv.fr, le guichet unique des réseaux.
+Sources : zonage d'assainissement et règlement (Géoportail de l'Urbanisme) ; services publics d'assainissement (SISPEA, Office
+français de la biodiversité) ; annuaire de l'administration (service-public.fr).
+
+Si le réseau public n'était finalement pas accessible
+  FILIÈRE                                    QUAND ELLE CONVIENT                                                           ORDRE DE PRIX
+
+  Fosse toutes eaux et                       Sol perméable, terrain assez grand et peu pentu                               5 000 à 10 000 €
+  épandage
+
+  Filtre à sable                             Sol peu perméable, place suffisante                                           8 000 à 12 000 €
+
+  Micro-station agréée                       Petit terrain ou sol défavorable ; entretien et électricité                   7 000 à 15 000 €
+
+  Filtre compact agréé                       Petit terrain, sans électricité                                               9 000 à 14 000 €
+
+
+
+Ordres de prix indicatifs (fourniture et pose, hors étude de sol et terrassements particuliers). La filière est choisie au vu de l'étude
+de sol et validée par le SPANC.
+
+
+6.5 Électricité et eau potable
+Gestionnaire du réseau                                       Enedis
+
+Réseau basse tension le plus proche                          à environ 5 m (ligne souterraine)
+
+Ligne aérienne la plus proche                                à environ 35 m
+
+Ligne souterraine la plus proche                             à environ 5 m
+
+Poste de transformation le plus proche                       à environ 50 m
+
+Appréciation                                                 Branchement simple probable
+
+
+     Le réseau basse tension passe à environ 5 m : un branchement simple est en principe possible (de
+     l'ordre de 1 500 à 3 000 € pour une maison, selon la longueur et la puissance), sous réserve de la
+     capacité du réseau et des coffrets existants.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            27 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+Ce qu'il faut vérifier avant d'acheter
+    La capacité du réseau : même un réseau proche peut être saturé (coffret ou câble plein, poste de transformation
+    au maximum). Seule une étude du gestionnaire permet de le savoir ; c'est la cause la plus fréquente de surcoûts
+    imprévus.
+    Électricité : demander au gestionnaire du réseau une étude de raccordement ou un devis à partir de l'adresse et
+    du plan de situation (sans frais). Elle indique le type de raccordement, son coût et son délai.
+    Eau potable : les plans du réseau d'eau ne sont pas publics. Interroger le service des eaux (coordonnées
+    ci-dessous) sur la présence d'une canalisation au droit du terrain, sa capacité et le coût du branchement, ainsi
+    que sur la défense incendie (borne à moins de 200 m environ).
+    Certificat d'urbanisme opérationnel : la mairie y indique si le terrain est desservi par les réseaux publics (eau,
+    électricité, assainissement) et, à défaut, si et quand ils seront étendus. Un refus de permis peut être fondé sur
+    l'insuffisance des réseaux (article L. 111-11 du Code de l'urbanisme).
+
+Qui contacter
+Service de l'eau potable                                     METROPOLE TOULON PROVENCE MÉDITERRANÉE (MTPM)
+
+Mode de gestion                                              Délégation de service public à CEO - VEOLIA
+
+Contact pour le branchement                                  CEO - VEOLIA, pour le compte de : METROPOLE TOULON
+                                                             PROVENCE MÉDITERRANÉE (MTPM)
+
+Mairie                                                       Mairie de Toulon
+
+Téléphone de la mairie                                       04 94 36 30 00
+
+Électricité (raccordement)                                   Enedis · demande en ligne sur enedis.fr (raccordement)
+
+La mairie oriente vers le bon interlocuteur et confirme, dans le certificat d'urbanisme, la desserte du terrain par les réseaux.
+Sources : SISPEA, observatoire des services publics d'eau (OFB) ; annuaire de l'administration (service-public.fr).
+
+Dans une promesse de vente, une condition suspensive portant sur le coût du raccordement aux réseaux protège
+l'acquéreur. Source de la cartographie électrique : Agence ORE, données des gestionnaires de réseaux de distribution ;
+tracés indicatifs.
+
+
+6.6 Fibre et internet
+     Le terrain est déjà fibré : 1 adresse située sur la parcelle (180 Rue Edouard Perrichi) est déclarée
+     raccordable à la fibre.
+
+
+
+Adresse la plus proche                                          180 Rue Edouard Perrichi · à 7 m · raccordable
+
+Point fibré le plus proche                                      180 Rue Edouard Perrichi · à 7 m
+
+Adresses fibrées à moins de 100 m                               31 sur 31
+
+Adresses fibrées à moins de 400 m                               440 sur 487
+
+Technologies disponibles à proximité                            4G fixe, Cuivre (ADSL, VDSL), Fibre, Satellite, Câble
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      28 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                                                                               Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                                                                    06 · Le terrain : accès, relief et réseaux
+
+
+
+
+     Points fibrés autour du terrain                                                                           F
+                                                                            F                 F       F   F            F    F
+                                                                                         F
+                                                                                                                   F
+                                                                        F
+                                                                                F                                                       F
+                                                           F                         F
+                                                                                                                       F
+                                                       F
+                                                           F        F                                     F                             F
+                                                                                     F                         F
+                                                  FF           FF F F F F                                                                               F
+                                                       F                                                                                F
+                                         F                                                                FF
+                                              F            F            F       F F F                              F                        F
+                                                                                                  F                                                             F
+                                                                            F FF F FF F                                                                                    F
+                                                        F  F                                                                                F
+                                         F             F  F                              F                         F
+                                                                                F                                      F                                    F
+                                          F            F                            F         F                                                                            F
+                                                                        F                             F                     F
+                                                                                                                                    F               F
+                                              F F                                         F                                                                 F         F
+                                               F                    F                                                                       F                                  F
+                                              FF                                    F F               F        F                F
+                                                                                                                                                                F
+                                                                                                                                                                      F        F
+                                                                                                                                                                F
+                                                                                              F                             F
+                                                               F F F                                                                            F                    F
+                                                                                                               F                                                F
+                                                                                     F            F                                     F F                 F                  F
+                                                           F F                  F                          F           F                                            FF F
+                                                                                         F                         F              F
+                                                   F        F                                     F                         FFF       F  F
+
+                                                       F
+                                                           F                                                               F F FF F F F FF
+                                                                                                                                F F
+                                                               FF                                                                   F
+
+
+
+
+                                                                                                                                                                                            100 m
+
+
+
+Repères F : adresses déclarées raccordables à la fibre (Arcep) · en terracotta : sur la parcelle · fond © IGN
+
+
+Vérifiez la fibre à l'adresse du terrain :
+
+                     Carte fibre Orange                                                                                                                 Carte de l'Arcep
+
+
+  DISTANCE           ADRESSE                                                                                                        FIBRE                                 AUTRES ACCÈS
+
+  7m                 180 Rue Edouard Perrichi                                                                                       Oui                                   4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                                                                          Satellite
+
+  30 m               130 Rue Edouard Perrichi                                                                                       Oui                                   4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                                                                          Satellite
+
+  37 m               171 Rue Edouard Perrichi                                                                                       Oui                                   4G fixe, Câble, Cuivre (ADSL,
+                                                                                                                                                                          VDSL), Satellite
+
+  38 m               177 Corniche Marius Escartefigue                                                                               Oui                                   4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                                                                          Satellite
+
+  52 m               50 Rue des Cottages Fleuris                                                                                    Oui                                   4G fixe, Câble, Cuivre (ADSL,
+                                                                                                                                                                          VDSL), Satellite
+
+  56 m               31 Montee Saint Charles                                                                                        Oui                                   4G fixe, Câble, Cuivre (ADSL,
+                                                                                                                                                                          VDSL), Satellite
+
+  62 m               51 Montee Saint Charles                                                                                        Oui                                   4G fixe, Câble, Cuivre (ADSL,
+                                                                                                                                                                          VDSL), Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                                                                     29 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  DISTANCE           ADRESSE                                                                   FIBRE              AUTRES ACCÈS
+
+  63 m               38 Rue des Cottages Fleuris                                               Oui                4G fixe, Câble, Cuivre (ADSL,
+                                                                                                                  VDSL), Satellite
+
+
+
+Source : Arcep, « Ma connexion internet », éligibilité déclarée par les opérateurs, adresse par adresse. Le tracé des câbles n'est
+pas public : la présence de la fibre en limite de terrain se vérifie auprès de l'opérateur ou par une déclaration de projet de travaux
+(DT).
+
+
+6.7 Qui contacter pour les réseaux
+  RÉSEAU                                    INTERLOCUTEUR                                         CE QU'IL FAUT DEMANDER
+
+  Eau potable et                            Mairie ou service des eaux de la                      Attestation de desserte et conditions de
+  assainissement collectif                  commune                                               raccordement
+
+  Assainissement individuel                 SPANC (communauté de communes)                        Contrôle de conception sur la base de l'étude
+                                                                                                  de sol
+
+  Électricité                               Enedis (gestionnaire du réseau de                     Étude de raccordement et devis
+                                            distribution)
+
+  Fibre et téléphone                        Opérateur d'infrastructure et                         Raccordement du futur logement
+                                            fournisseur d'accès
+
+  Tous réseaux                              Guichet unique des réseaux                            Déclaration de projet de travaux (DT) pour
+                                            (reseaux-et-canalisations.gouv.fr)                    localiser les réseaux existants
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             30 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+    07             Environnement et marché immobilier
+     DANS CETTE SECTION
+
+     Les espaces naturels protégés autour du terrain et les prix de vente réels des maisons,
+     appartements et terrains alentour.
+
+
+Inventaire national du patrimoine naturel et demandes de valeurs foncières (DVF).
+
+
+
+7.1 Espaces naturels protégés ou inventoriés
+La parcelle n'est concernée par aucun site Natura 2000, ZNIEFF, parc ou réserve naturelle.
+
+
+7.2 Espèces protégées observées près du terrain
+144 espèces protégées ont été observées dans un rayon de 1 km autour du terrain depuis 1990 ; les 14 plus
+fréquemment signalées figurent ci-dessous.
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Chou des montagnes (Brassica montana)                           Plante                 Régionale                         381 · dernière en
+                                                                                                                           2025
+
+  Lavatère maritime (Malva subovata)                              Plante                 Nationale                         142 · dernière en
+                                                                                                                           2025
+
+  Mésange charbonnière (Parus major)                              Oiseau                 Nationale (espèce et              51 · dernière en
+                                                                                         habitat)                          2025
+
+  Mésange bleue (Cyanistes caeruleus)                             Oiseau                 Nationale (espèce et              49 · dernière en
+                                                                                         habitat)                          2025
+
+  Cresserelle (Falco tinnunculus)                                 Oiseau                 Nationale (espèce et              40 · dernière en
+                                                                                         habitat)                          2025
+
+  Rouge-gorge familier (Erithacus                                 Oiseau                 Nationale (espèce et              39 · dernière en
+  rubecula)                                                                              habitat)                          2025
+
+  Pinson des arbres (Fringilla coelebs)                           Oiseau                 Nationale (espèce et              37 · dernière en
+                                                                                         habitat)                          2025
+
+  Mésange huppée (Lophophanes                                     Oiseau                 Nationale (espèce et              31 · dernière en
+  cristatus)                                                                             habitat)                          2025
+
+  Fauvette à tête noire (Sylvia atricapilla)                      Oiseau                 Nationale (espèce et              30 · dernière en
+                                                                                         habitat)                          2022
+
+  Rouge-queue noir (Phoenicurus                                   Oiseau                 Nationale (espèce et              30 · dernière en
+  ochruros)                                                                              habitat)                          2026
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         31 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Epervier d'Europe (Accipiter nisus)                             Oiseau                 Nationale (espèce et              29 · dernière en
+                                                                                         habitat)                          2021
+
+  Fauvette pitchou (Sylvia undata)                                Oiseau                 Nationale (espèce et              28 · dernière en
+                                                                                         habitat)                          2021
+
+  Martinet alpin (Tachymarptis melba)                             Oiseau                 Nationale (espèce et              26 · dernière en
+                                                                                         habitat)                          2025
+
+  Moineau domestique (Passer                                      Oiseau                 Nationale (espèce et              26 · dernière en
+  domesticus)                                                                            habitat)                          2025
+
+
+
+     Une observation à proximité ne signifie pas que l'espèce vit sur le terrain. Mais si elle y est présente, il
+     est interdit de détruire, capturer ou déranger les individus et, pour la plupart de ces espèces, de
+     détruire leurs lieux de reproduction et de repos (articles L. 411-1 et suivants du Code de
+     l'environnement). L'infraction est punie de 3 ans d'emprisonnement et 150 000 € d'amende.
+
+
+
+Pour les plantes, la protection vise les populations sauvages : un spécimen planté dans un jardin n'est pas concerné.
+
+Que faire avant de construire ?
+    Pour une maison individuelle, aucune étude écologique n'est imposée en règle générale, et l'étude de sol porte
+    sur le terrain (fondations), pas sur la faune ni la flore. Vous restez cependant responsable si une espèce
+    protégée vit sur la parcelle : en cas de doute (espèce observée tout près, vieux arbres, murets, maquis, zone
+    humide), faites passer un écologue avant de défricher.
+    Si un enjeu est confirmé : inventaire faune-flore aux saisons utiles (printemps et été en général), puis mesures
+    pour éviter et réduire l'impact : implantation de la maison sur la partie la moins sensible, travaux hors période de
+    reproduction, clôture de chantier adaptée, déplacement d'individus par un spécialiste habilité.
+    Si la destruction d'individus ou d'habitats ne peut pas être évitée : demande de dérogation « espèces protégées »
+    auprès de la préfecture (DREAL), avec avis du conseil scientifique. Comptez 4 à 12 mois d'instruction, à anticiper
+    avant le dépôt du permis.
+
+Combien prévoir ?
+Pré-diagnostic écologique                                800 à 2 000 € (une visite et une note de synthèse)
+
+Inventaire faune-flore                                   3 000 à 10 000 € selon la surface et le nombre de passages
+
+Mesures d'évitement et de réduction                      500 à 5 000 € (balisage, calendrier, suivi de chantier)
+
+Dossier de dérogation                                    8 000 à 25 000 €, hors mesures de compensation éventuelles
+
+Ordres de prix indicatifs, honoraires de bureaux d'études en environnement, si une étude est nécessaire. Pour une maison sur un
+terrain déjà entouré de constructions, aucune étude n'est le plus souvent requise.
+
+Sources : statuts de protection TAXREF et base de connaissance des statuts (INPN, Muséum national d'Histoire naturelle) ;
+observations naturalistes GBIF, qui rassemble notamment les données de l'INPN et du SINP.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         32 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+7.3 Prix de l'immobilier à Toulon
+Prix au mètre carré des ventes enregistrées sur la commune au cours des cinq dernières années publiées.
+Seules les ventes portant sur un bien unique sont retenues.
+
+  TYPE DE BIEN                                       VENTES                       €/M² MÉDIAN                              €/M² MOYEN
+
+  Maisons                                            2 210                        4 545 €/m²                               4 728 €/m²
+
+  Appartements                                       13 351                       2 606 €/m²                               2 836 €/m²
+
+  Locaux commerciaux                                 932                          2 000 €/m²                               2 403 €/m²
+
+
+
+Source : statistiques des demandes de valeurs foncières (DGFiP, Etalab). Prix des actes, hors frais : un ordre de grandeur,
+pas une estimation du bien.
+
+
+7.4 Ventes de terrains autour de la parcelle
+Période observée                                         2021 à 2026
+
+Ventes de terrains recensées                             16
+
+Prix médian                                              553 €/m²
+
+Prix courants (une vente sur deux)                       447 à 665 €/m²
+
+
+  DATE                    PARCELLE                          NATURE                                SURFACE              PRIX              €/M²
+
+  23/02/2026              AM 77                             sols                                  250 m²               150 000 €         600
+
+  06/08/2025              AM 498 (+1)                       terrains à bâtir, sols                7 235 m²             3 750 000 €       518
+
+  03/05/2024              AM 492 (+1)                       sols, terrains à bâtir                500 m²               340 000 €         680
+
+  26/06/2023              AN 594                            sols                                  633 m²               283 000 €         447
+
+  03/02/2023              AM 453                            terrains à bâtir                      774 m²               505 000 €         652
+
+  14/12/2022              AM 459 (+1)                       terrains à bâtir                      819 m²               545 000 €         665
+
+  24/11/2022              AL 276                            terrains à bâtir                      2 116 m²             200 000 €         95
+
+  07/10/2022              AM 458 (+1)                       terrains à bâtir                      1 164 m²             555 000 €         477
+
+  03/05/2022              AM 479                            sols                                  570 m²               285 000 €         500
+
+  29/04/2022              AP 566                            sols                                  3 045 m²             1 328 040 €       436
+
+  25/10/2021              AL 301                            sols                                  128 m²               101 000 €         789
+
+  30/09/2021              AP 554 (+1)                       sols                                  962 m²               127 500 €         133
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           33 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+Source : DVF, ventes enregistrées par la DGFiP. Les prix au mètre carré dépendent fortement de la constructibilité, de la
+vue, de l'accès et de la viabilisation : ils donnent un ordre de grandeur, pas une estimation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                 34 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                                                08 · Historique du site
+
+
+
+
+   08              Historique du site
+     DANS CETTE SECTION
+
+     Le terrain vu du ciel au fil des décennies et les permis de construire accordés autour : l'évolution
+     du secteur en un coup d'œil.
+
+
+Photographies aériennes de l'IGN et permis de construire délivrés (Sitadel).
+
+
+
+8.1 Le terrain vu du ciel, d'hier à aujourd'hui
+
+    1950-1965                                             2000-2005                                              2006-2010
+
+
+
+
+    2011-2015                                             Aujourd'hui
+
+
+
+
+Ces vues montrent l'évolution du terrain et du quartier, des années 1950 à aujourd'hui (photographies aériennes de l'IGN).
+
+     Bon à savoir : l'existence ancienne d'une construction peut ouvrir, sous conditions, un droit à
+     reconstruire ou à restaurer un bâtiment dont il reste l'essentiel des murs porteurs (articles L. 111-15 et L.
+     111-23 du Code de l'urbanisme).
+
+
+
+
+8.2 Permis de construire délivrés autour du terrain
+Autorisations sur la commune (3 ans)                                    141 · dernière recensée le 22/09/2026
+
+Logements autorisés (3 ans)                                             1 568
+
+Dont maisons individuelles                                              89
+
+Autorisations dans la section AM                                        15 depuis 2013
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  15/01/2024            Permis de construire                   AM 470             1              93 m²                     IMPASSE DU LIBAN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            35 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                                                08 · Historique du site
+
+
+
+
+  DATE                  AUTORISATION                           PARCELLE            LOGTS          SURFACE CRÉÉE            LIEU-DIT / VOIE
+
+  15/01/2024            Permis de construire                   AM 472              1              93 m²                    IMPASSE DU LIBAN
+
+  08/01/2024            Permis de construire                   AM 471              1              93 m²                    IMPASSE DU LIBAN
+
+  19/12/2023            Permis de construire                   AM 167              1              136 m²                   IMPASSE DU LIBAN
+
+  06/12/2022            Permis de construire                   AM 455              1              171 m²                   CHEMIN DE LA COLLINE
+
+  21/11/2022            Permis de construire                   AM 246              2              134 m²                   COR MARIUS ESCARTEFIGUE
+
+  02/11/2022            Permis de construire                   AM 453              1              167 m²                   CORNICHE EMILE FABRE
+
+  07/03/2022            Permis de construire                   AM 220              1              –                        VALLON BEAUSEJOUR
+
+  03/01/2022            Permis de construire                   AM 479              1              145 m²                   IMP DU LIBAN
+
+  03/05/2021            Permis de construire                   AM 67               34             81 m²                    BD AMIRAL VENCE
+
+  24/06/2019            Déclaration préalable                  AM 167              3              –                        IMP DU LIBAN
+
+  21/05/2019            Permis de construire                   AM 465              1              187 m²                   MONTEE SAINT CHARLES
+
+
+
+Permis accordés à moins de 500 m du terrain
+  DATE                 AUTORISATION                       PARCELLE          DISTANCE         LOGTS         SURFACE            LIEU-DIT / VOIE
+
+  20/03/2026           Permis de construire               AL 154            140 m            2             –                  TOULON
+
+  04/11/2024           Permis de construire               AL 134            280 m            1             –                  CORNICHE MARIUS
+                                                                                                                              ESCARTEFIG
+
+  24/07/2023           Permis de construire               AL 276            250 m            2             302 m²             ROUTE DU FARON
+
+  21/11/2022           Permis de construire               AM 246            120 m            2             134 m²             COR MARIUS
+                                                                                                                              ESCARTEFIGUE
+
+  07/03/2022           Permis de construire               AM 220            210 m            1             –                  VALLON BEAUSEJOUR
+
+  08/03/2021           Permis de construire               AL 133            280 m            1             93 m²              MONTEE DU VAL FLEURI
+
+  15/06/2020           Permis de construire               AO 40             470 m            1             75 m²              AV DE SIBLAS
+
+  21/05/2019           Permis de construire               AM 465            30 m             1             187 m²             MONTEE SAINT CHARLES
+
+  20/05/2019           Permis de construire               AO 531            420 m            34            1 835 m²           RUE GUSTAVE FLAUBERT
+
+  07/05/2019           Déclaration préalable              AM 124            220 m            1             –                  BD AMIRAL VENCE
+
+
+
+10 autorisations créant des logements recensées dans un rayon de 500 m : la construction a été admise récemment
+dans le voisinage immédiat.
+
+Source : base Sitadel des autorisations d'urbanisme créant des logements (SDES). Un permis accordé à proximité montre
+que des constructions ont été admises dans le secteur, sans préjuger de la décision sur votre propre projet.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             36 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                              09 · Opportunités autour du terrain
+
+
+
+
+      09           Opportunités autour du terrain
+      DANS CETTE SECTION
+
+      Ce qui se passe autour de la parcelle : grands terrains peu bâtis, sociétés propriétaires en
+      difficulté, logements énergivores. Des pistes pour un investisseur, un voisin ou un professionnel.
+
+
+Bodacc (procédures collectives), ADEME (diagnostics énergétiques), cadastre, BD TOPO et Géoportail de l'Urbanisme.
+
+
+
+9.1 Grands terrains peu bâtis à proximité
+Parcelles de plus de 1 200 m², situées en zone urbaine ou à urbaniser du PLU, dans un rayon de 250 m, dont
+moins de 8 % de la surface est bâtie, hors terrains publics : un potentiel de construction ou de division à
+étudier.
+
+  PARCELLE           SURFACE                BÂTI               ZONE               DISTANCE           PROPRIÉTAIRE
+
+  AN 558             96 311 m²              5 533 m²           UB                 310 m              particulier (non publié)
+
+  AM 163             16 131 m²              non bâti           UEp                380 m              particulier (non publié)
+
+  AM 220             4 582 m²               240 m²             UEp                210 m              particulier (non publié)
+
+  AL 276             2 120 m²               non bâti           UEp                250 m              particulier (non publié)
+
+  AM 407             1 893 m²               118 m²             UE                 70 m               particulier (non publié)
+
+  EY 180             1 780 m²               16 m²              UEp                220 m              VALLEXA (SCI)
+
+  AM 229             1 692 m²               133 m²             UEp                40 m               particulier (non publié)
+
+  AM 136             1 593 m²               non bâti           UEp                300 m              particulier (non publié)
+
+
+
+
+9.2 Logements classés F ou G autour du terrain
+Logements diagnostiqués F ou G dans un rayon de 350 m. Leur location est déjà interdite (G) ou le sera en
+2028 (F) : leurs propriétaires sont souvent vendeurs, ou doivent engager des travaux de rénovation.
+
+  PARCELLE                   ADRESSE                                        CLASSE LOGEMENT                   SURFACE      DISTANCE DPE DU
+
+  Section AM n°              Toulon                                         F            Appartemen           56 m²        40 m     30/11/2022
+  503                                                                                    t
+
+  –                          Rue des Cottages Fleuris 83000                 F            Appartemen           71 m²        80 m     20/04/2023
+                             Toulon                                                      t
+
+  Section AM n°              17 Boulevard Amiral Jean Vence                 F            Appartemen           75 m²        90 m     14/10/2025
+  94                         83200 Toulon                                                t
+
+  Section AM n°              136 Boulevard Amiral Jean                      F            Appartemen           28 m²        140 m    19/07/2026
+  63                         Vence 83200 Toulon                                          t
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        37 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                              09 · Opportunités autour du terrain
+
+
+
+
+  PARCELLE                   ADRESSE                                        CLASSE LOGEMENT                   SURFACE      DISTANCE DPE DU
+
+  Section AL n°              229 Corniche Marius                            F            Appartemen           46 m²        140 m    28/06/2023
+  154                        Escartefigue 83200 Toulon                                   t
+
+  Section AM n°              92 Rue de l’Iseran 83000                       F            Appartemen           63 m²        150 m    31/03/2023
+  290                        Toulon                                                      t
+
+  Section AL n°              21 Rue Francis Garnier 83000                   F            Appartemen           50 m²        150 m    30/06/2025
+  237                        Toulon                                                      t
+
+  Section AL n° 3            261 Route du Faron 83200                       F            Maison               65 m²        180 m    28/01/2025
+                             Toulon
+
+  Section AM n°              4 Boulevard du Faron 83200                     F            Appartemen           72 m²        190 m    01/09/2025
+  115                        Toulon · propriétaire : SUN                                 t
+                             IMMOBILIER (SAS)
+
+  Section EX n° 80           342 Impasse Corniche                           F            Appartemen           96 m²        250 m    09/02/2023
+                             Superieure 83000 Toulon                                     t
+
+
+
+La parcelle est celle du point d'adresse du logement (cadastre). Pour connaître son propriétaire lorsqu'il s'agit d'un particulier,
+demandez un relevé de propriété au service de la publicité foncière ou à la mairie.
+
+Ces informations proviennent de bases publiques et ne préjugent ni de l'intention de vendre des propriétaires ni de la
+constructibilité des parcelles citées, qui relève d'une étude au cas par cas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        38 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+      10           Votre projet, étape par étape
+De l'achat du terrain à la déclaration aux impôts : démarches, délais, coûts et contacts.
+
+
+
+10.1 Analyse
+Le terrain est soumis au plan local d'urbanisme (PLU) de Toulon. Il est classé en zone UEp. Zone urbaine :
+secteur déjà urbanisé où les équipements publics existants ou en cours de réalisation permettent
+d'accueillir des constructions. Les constructions y sont admises dans le respect du règlement de la zone
+(destinations, implantation, hauteur, emprise, aspect).
+
+En l'état des documents consultés, un projet de construction est envisageable. Sa faisabilité dépend du
+règlement écrit de la zone : destinations autorisées, implantation par rapport aux voies et aux limites,
+hauteur maximale, emprise au sol, coefficient d'espaces verts, stationnement et aspect extérieur.
+
+Toulon est une commune littorale. Indépendamment du PLU, la loi Littoral exige que toute extension de
+l'urbanisation se fasse en continuité d'une agglomération ou d'un village existant. Un terrain isolé, même
+classé constructible, peut se voir opposer un refus sur ce fondement.
+
+
+10.2 Votre projet, étape par étape
+Les étapes ci-dessous suivent l'ordre réel d'un projet de construction, de l'achat du terrain à la déclaration aux
+impôts. Les montants sont indicatifs et à confirmer par devis.
+
+  1      Avant d'acheter le terrain
+         Vérifiez les règles de la zone (chapitres précédents), puis demandez un certificat d'urbanisme opérationnel
+         (Cerfa 13410, sans frais, réponse sous 2 mois) : il fige les règles pendant 18 mois. En zone d'argiles d'aléa
+         moyen ou fort, le vendeur doit fournir une étude de sol préalable.
+         Contact : Mairie de Toulon · 04 94 36 30 00 · formulaire sur service-public.fr (rechercher « Cerfa 13410 »)
+
+  2      Les études
+         Étude de sol géotechnique (G2) pour dimensionner les fondations : 1 500 à 3 000 €. Étude thermique RE2020,
+         obligatoire pour le permis : 500 à 1 500 €. Bornage par un géomètre si les limites sont incertaines. L'étude de
+         sol ne porte pas sur les espèces protégées : un écologue n'intervient qu'en cas d'enjeu (chapitre
+         Environnement).
+         Géomètres proches du terrain : liste à la fin de ce chapitre
+
+  3      Les plans
+         Architecte obligatoire si la surface de plancher totale dépasse 150 m². En dessous, vous pouvez dessiner les
+         plans vous-même ou faire appel à un dessinateur ou maître d'œuvre (environ 1 500 à 4 000 € le dossier de
+         permis). Architecte : 3 000 à 8 000 € pour la seule mission de permis, 8 à 12 % du coût des travaux pour une
+         mission complète avec suivi du chantier.
+         Trouver un architecte : annuaire de l'Ordre des architectes sur architectes.org
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        39 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+  4      Déposer le permis
+         Formulaire Cerfa 13406 (maison individuelle) et pièces PCMI1 à PCMI8 : plan de situation, plan de masse,
+         coupe, notice, plans des façades et toitures, insertion dans le paysage, photos, attestation RE2020. Dépôt en
+         mairie ou en ligne sur le guichet numérique de la commune. La mairie a 1 mois pour réclamer une pièce
+         manquante ; l'instruction dure 2 mois à partir du dossier complet, plus en secteur protégé.
+         Dépôt : Mairie de Toulon · 04 94 36 30 00 · formulaire sur service-public.fr (rechercher « Cerfa 13406 »)
+
+  5      Affichage et recours
+         Dès l'accord, installez le panneau de permis sur le terrain, lisible depuis la voie, pendant toute la durée du
+         chantier. Les tiers ont 2 mois à compter du premier jour d'affichage pour contester ; la mairie peut retirer un
+         permis illégal pendant 3 mois. Faites constater l'affichage par un commissaire de justice (environ 300 à 600 €
+         pour les trois constats).
+         Commissaires de justice : annuaire sur commissaire-justice.fr
+
+  6      Avant les travaux
+         Souscrivez l'assurance dommages-ouvrage, obligatoire (souvent 2 à 4 % du coût de la construction). Signez
+         le contrat de construction de maison individuelle ou les marchés des artisans. Déposez la déclaration
+         d'ouverture de chantier (Cerfa 13407) le jour du démarrage. Le permis est valable 3 ans, prorogeable deux
+         fois d'un an.
+         Déclaration d'ouverture : Mairie de Toulon · 04 94 36 30 00
+
+  7      Le financement
+         La banque débloque le prêt au fur et à mesure du chantier, sur présentation des factures des entreprises ou
+         des appels de fonds du constructeur. Avec un contrat de construction de maison individuelle, l'échéancier
+         est encadré par la loi : 15 % à l'ouverture du chantier, 25 % aux fondations, 40 % aux murs, 60 % hors d'eau,
+         75 % hors d'air et cloisons, 95 % aux équipements, le solde à la réception. Des intérêts intercalaires peuvent
+         courir sur les sommes débloquées.
+         Votre banque ou votre courtier
+
+  8      La fin du chantier
+         Réception des travaux avec le constructeur ou les artisans, avec réserves si nécessaire. Déposez ensuite la
+         déclaration attestant l'achèvement et la conformité des travaux (DAACT, Cerfa 13408), avec l'attestation
+         RE2020 de fin de chantier. La mairie a 3 mois pour la contester (5 mois en secteur protégé).
+         Dépôt : Mairie de Toulon · 04 94 36 30 00
+
+  9      Les impôts
+         Dans les 90 jours suivant l'achèvement, déclarez la construction sur impots.gouv.fr, espace « Gérer mes
+         biens immobiliers ». Cette déclaration sert au calcul de la taxe d'aménagement (payée en une fois sous 1 500
+         €, sinon en deux fois, estimation plus bas dans ce chapitre) et de la taxe foncière, avec une exonération
+         possible les deux premières années selon la commune.
+         impots.gouv.fr › Espace particulier › Gérer mes biens immobiliers
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        40 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+10.3 Les points à vérifier pour ce terrain
+  1      Certificat d'urbanisme opérationnel
+         Le demander en mairie (formulaire Cerfa 13410), en décrivant le projet. Délivré sans frais, il indique si le
+         terrain peut accueillir le projet et fige les règles d'urbanisme pendant 18 mois.
+
+  2      Règlement de la zone
+         Lire le règlement écrit de la zone UEp et, le cas échéant, les orientations d'aménagement, disponibles
+         sur le Géoportail de l'Urbanisme.
+
+  3      Réseaux et accès
+         Vérifier l'accès à une voie publique ou privée adaptée, la desserte en eau potable et en électricité, et le
+         mode d'assainissement. En l'absence de réseau collectif, une étude de sol et l'avis du service public
+         d'assainissement non collectif (SPANC) sont nécessaires.
+
+  4      Débroussaillement et défrichement
+         Prévoir le débroussaillement obligatoire autour des constructions et, si le terrain est boisé, une
+         demande d'autorisation de défrichement auprès de la DDT avant le permis.
+
+  5      Loi Littoral
+         Faire confirmer par la mairie ou un professionnel la situation de la parcelle au regard de la continuité
+         avec l'urbanisation existante.
+
+  6      Bornage
+         Faire réaliser un bornage par un géomètre-expert pour fixer les limites exactes et la surface réelle du
+         terrain.
+
+  7      Sécuriser un achat
+         Pour une acquisition, prévoir dans le compromis une condition suspensive d'obtention d'un permis de
+         construire purgé de tout recours.
+
+
+10.4 Délais indicatifs d'instruction
+  DEMANDE                                                                                 DÉLAI DE DROIT COMMUN
+
+  Certificat d'urbanisme d'information (CUa)                                              1 mois
+
+  Certificat d'urbanisme opérationnel (CUb)                                               2 mois
+
+  Déclaration préalable                                                                   1 mois
+
+  Permis de construire une maison individuelle                                            2 mois
+
+  Permis d'aménager, autres permis de construire                                          3 mois
+
+
+
+Ces délais peuvent être majorés, notamment en site classé ou inscrit, aux abords d'un monument historique ou lorsque la
+consultation d'un service extérieur est nécessaire.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        41 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+10.5 Taxe d'aménagement à prévoir
+     Exemple : une maison de 120 m² en résidence principale, avec une piscine de 3 × 6 m. Sur ce terrain, la
+     taxe d'aménagement à prévoir est d'environ 4 890 €.
+
+
+
+  PROJET                                                                                                       TAXE ESTIMÉE
+
+  Maison de 120 m², résidence principale                                                                       4 560 €
+
+  Piscine de 3 × 6 m (18 m²)                                                                                   330 €
+
+  Total à prévoir                                                                                              4 890 €
+
+
+
+Taux appliqués : 5 % pour la commune et 2,3 % pour le département, sur une valeur forfaitaire de 892 € par m² en 2026 (251
+€ par m² de bassin pour une piscine). Une résidence principale bénéficie d'un abattement de 50 % sur ses 100 premiers m².
+
+La taxe est due une fois les travaux terminés : elle se déclare sur impots.gouv.fr dans les 90 jours suivant l'achèvement, et
+se paie en deux fois au-delà de 1 500 €. Pour calculer votre propre projet :
+terrenurbanisme.com/outils/taxe-amenagement.html
+
+
+10.6 Implanter une entreprise : zone France Ruralités Revitalisation
+     La commune de Toulon n'est pas classée en zone France Ruralités Revitalisation (FRR). Une entreprise
+     qui s'y installe ne bénéficie pas de l'exonération d'impôt sur les bénéfices liée à ce zonage.
+
+
+
+Source : ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 (collectivites-locales.gouv.fr).
+
+
+10.7 Géomètres proches du terrain
+Le géomètre-expert est le seul professionnel habilité à fixer les limites de propriété (bornage) et à établir les
+documents d'arpentage déposés au cadastre. Il intervient aussi pour les relevés topographiques et les
+divisions de terrain.
+
+0,7 km            PIERRE LAGARDE
+                                                                                                                           Coordonnées
+                  483 AVENUE DE SIBLAS 83000 TOULON
+
+
+1,4 km            BAILLEUL - GATTO
+                                                                                                                           Coordonnées
+                  PALAIS CLEMENCEAU 4 PLACE NOEL BLACHE 83000 TOULON
+
+
+2 km              AUTRAN GEOMETRE-EXPERT
+                                                                                                                           Coordonnées
+                  14 RUE REVEST 83100 TOULON
+
+
+4,5 km            GEORESO
+                                                                                                                           Coordonnées
+                  LES PEUPLIERS RUE AUGUSTE RENOIR 83160 LA VALETTE-DU-VAR
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        42 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+4,5 km            OPSIA MEDITERRANEE
+                                                                                                                           Coordonnées
+                  BT 54 RESIDENCE LA COUPIANE 83160 LA VALETTE-DU-VAR
+
+
+4,7 km            OPSIA
+                                                                                                                           Coordonnées
+                  BAT 54 RES LA COUPIANE RUE LOUIS JOUVET 83160 LA
+                  VALETTE-DU-VAR
+
+
+Source : répertoire Sirene de l'INSEE (activité des géomètres), classé par distance au terrain. L'inscription d'un cabinet à l'Ordre
+des géomètres-experts se vérifie sur geometre-expert.fr. Le bouton « Coordonnées » ouvre la fiche du cabinet (téléphone,
+horaires, itinéraire). Cette liste est fournie à titre indicatif, sans partenariat ni recommandation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        43 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Toulon · AM 502
+          TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+     11            État des risques (ERP) pré-rempli
+     DANS CETTE SECTION
+
+     Le formulaire réglementaire à remettre à l'acquéreur ou au locataire, pré-rempli à partir des
+     bases officielles : plans de prévention, sismicité, radon, sols pollués, trait de côte, bruit des
+     aérodromes.
+
+
+Articles L. 125-5 à L. 125-7 et R. 125-23 à R. 125-27 du Code de l'environnement · modèle fixé par l'arrêté du 27 septembre
+2022.
+
+
+     Formulaire pré-rempli à partir de Géorisques et du Géoportail de l'Urbanisme à la date du rapport.
+     Avant de le remettre à l'acquéreur ou au locataire, le vendeur ou le bailleur le vérifie, le complète
+     (sinistres indemnisés) et le signe ; il doit dater de moins de six mois à la signature de la promesse, du
+     bail ou de l'acte.
+
+
+
+
+11.1 Situation du bien
+Commune                                                  Toulon (83137)
+
+Département                                              Var (83)
+
+Références cadastrales                                   Section AM, parcelle n° 502 · 83137000AM0502
+
+Surface cadastrale                                       1 448 m²
+
+
+
+11.2 Plans de prévention des risques
+  L'IMMEUBLE EST SITUÉ DANS LE PÉRIMÈTRE…                                         RÉPONSE                DÉTAIL
+
+  d'un plan de prévention des risques naturels (PPRN)                             Non                    Aléas à l'adresse : feu de forêt
+  prescrit, appliqué par anticipation ou approuvé
+
+  d'un plan de prévention des risques miniers (PPRM)                              Non                    Non recensé
+
+  d'un plan de prévention des risques technologiques                              Non                    Risques technologiques sur la commune
+  (PPRT)                                                                                                 : installations industrielles (icpe),
+                                                                                                         nucléaire, canalisations de matières
+                                                                                                         dangereuses
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        44 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+11.3 Autres zonages réglementaires
+  L'IMMEUBLE EST SITUÉ…                                                           RÉPONSE                DÉTAIL
+
+  dans une commune de sismicité (zones 2 à 5 : règles de                          Oui                    Zone 2 – faible
+  construction parasismique)
+
+  dans une commune à potentiel radon de niveau 3                                  Oui                    Catégorie 3 (potentiel significatif)
+
+  dans un secteur d'information sur les sols (SIS)                                Non                    Aucun SIS recensé à proximité
+
+  dans une zone exposée au recul du trait de côte                                 Non                    Non concerné selon Géorisques
+
+  dans une zone de bruit d'un plan d'exposition au bruit                          À vérifier             Aucun PEB annexé au document
+  d'aérodrome (PEB)                                                                                      d'urbanisme ; vérifier auprès de la mairie
+
+  dans une zone de retrait-gonflement des argiles                                 Oui                    Existant – modéré
+  (information)
+
+
+
+
+11.4 Sinistres indemnisés et déclarations
+Arrêtés de catastrophe naturelle sur la commune : 26 (liste en section Risques). Le vendeur ou le bailleur
+déclare ci-dessous les sinistres ayant donné lieu à une indemnisation au titre des catastrophes naturelles ou
+technologiques pendant la période où il a été propriétaire.
+
+Sinistres indemnisés                                     [ ] Oui [ ] Non
+
+Vendeur ou bailleur                                      Nom : ____________________ Date : ___/___/______ Signature :
+
+Acquéreur ou locataire                                   Nom : ____________________ Date : ___/___/______ Signature :
+
+
+L'état des risques officiel peut aussi être édité sans frais sur Géorisques (errial.georisques.gouv.fr). Les informations
+ci-dessus sont établies à partir des bases nationales ; en cas de divergence, l'arrêté préfectoral relatif à l'information des
+acquéreurs et des locataires fait foi.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           45 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+    12             Avertissement et sources
+     DANS CETTE SECTION
+
+     La portée de ce rapport et la liste des sources publiques consultées.
+
+
+
+12.1 Nature du document
+Ce rapport est un document d'information établi automatiquement, à la date indiquée en page de garde, à
+partir des données publiques officielles alors disponibles. Il n'a aucune valeur contractuelle, réglementaire ou
+juridique.
+
+
+12.2 Ce que ce rapport n'est pas
+Il ne constitue ni un certificat d'urbanisme au sens de l'article L. 410-1 du Code de l'urbanisme, ni une
+autorisation d'urbanisme (permis de construire, permis d'aménager, déclaration préalable), ni un état des
+risques au sens de l'article L. 125-5 du Code de l'environnement, ni un bornage, ni une expertise, ni une
+évaluation immobilière, ni une consultation juridique. Il n'engage en rien l'administration.
+
+
+12.3 Permis de construire
+Ce rapport ne peut en aucun cas être joint, produit ou invoqué à l'appui d'une demande de permis de
+construire, de permis d'aménager ou de déclaration préalable, ni opposé à la mairie ou à un service de l'État. Il
+ne garantit pas l'obtention d'une autorisation : seule l'autorité compétente se prononce, au vu d'un projet
+précis et de l'ensemble des règles applicables à la date de sa décision.
+
+
+12.4 Limites des données
+Les données sont produites par des organismes publics dont l'éditeur n'est ni l'auteur ni le garant. Elles
+peuvent être incomplètes, imprécises ou ne pas refléter une modification, une révision, une mise en
+compatibilité, une annulation contentieuse, un sursis à statuer ou une procédure en cours. Le plan cadastral,
+document fiscal, ne fait pas foi des limites de propriété. Surfaces, distances, altitudes et pentes sont
+approchées. Les extraits et analyses du règlement sont une aide à la lecture : seul le texte intégral du
+document d'urbanisme approuvé, consultable en mairie, fait foi.
+
+
+12.5 Avant toute décision
+Avant toute acquisition, cession, financement, promesse de vente ou dépôt d'une demande, le lecteur doit
+obtenir un certificat d'urbanisme opérationnel auprès de la mairie, consulter le document d'urbanisme en
+vigueur et recueillir l'avis d'un professionnel habilité (notaire, architecte, géomètre-expert, avocat). Pour un
+achat, il est recommandé de stipuler une condition suspensive d'obtention d'un permis de construire purgé de
+tout recours.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        46 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+12.6 Responsabilité
+L'éditeur ne saurait être tenu responsable d'une décision prise sur le seul fondement de ce rapport, ni d'un
+refus d'autorisation, d'une erreur ou d'une omission des sources publiques, dans les limites prévues par les
+conditions générales de vente acceptées lors de la commande.
+
+
+12.7 Sources consultées
+  DONNÉE                                                    SOURCE
+
+  Cadastre                                                  DGFiP, plan cadastral informatisé, via API Carto (IGN)
+
+  Photographies et plans                                    IGN, Géoplateforme : orthophotographies, Plan IGN, parcellaire express
+
+  Urbanisme                                                 Géoportail de l'Urbanisme : zonage, prescriptions, informations, servitudes
+                                                            d'utilité publique
+
+  Littoral                                                  IGN, BD TOPO (limite terre-mer) ; communes littorales (Géoportail de
+                                                            l'Urbanisme)
+
+  Montagne                                                  Ministère de la Cohésion des territoires, communes de la loi Montagne
+
+  Risques                                                   Géorisques (ministère de la Transition écologique) : rapport de risques,
+                                                            arrêtés CatNat, sismicité, radon, ICPE, sites pollués
+
+  Environnement                                             Inventaire national du patrimoine naturel (PatriNat), via API Carto
+
+  Altitude, pente et exposition                             IGN, RGE ALTI
+
+  Ensoleillement                                            Calcul astronomique de la course du soleil ; masque du relief (IGN, RGE
+                                                            ALTI) et des bâtiments (IGN, BD TOPO)
+
+  Voirie et accès                                           IGN, BD TOPO (tronçons de route)
+
+  Permis de construire                                      Sitadel, service des données et études statistiques (SDES) du ministère
+                                                            chargé du logement
+
+  Photographies anciennes                                   IGN, BD ORTHO historique
+
+  Fibre et internet                                         Arcep, Ma connexion internet (éligibilité par adresse)
+
+  Géomètres                                                 Répertoire Sirene (INSEE), activité des géomètres
+
+  Propriétaires personnes morales                           DGFiP, fichiers des parcelles des personnes morales (diffusion Koumoul)
+
+  Diagnostics énergétiques                                  ADEME, base des DPE des logements existants
+
+  Procédures collectives                                    Bodacc, annonces commerciales (DILA)
+
+  Bâtiments                                                 IGN, BD TOPO
+
+  Réseau électrique                                         Agence ORE (gestionnaires de réseaux de distribution : Enedis, EDF Corse
+                                                            et entreprises locales) : réseau basse tension et postes de distribution
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         47 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+  DONNÉE                                                    SOURCE
+
+  Taxe d'aménagement                                        DGFiP, éléments de taxation votés par les collectivités ; valeurs forfaitaires
+                                                            fixées par arrêté
+
+  Rapport officiel de risques                               Géorisques, ministère chargé de l'environnement
+
+  Zone France Ruralités Revitalisation                      ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 ; article
+                                                            44 quindecies A du code général des impôts
+
+  Marché immobilier                                         Statistiques des demandes de valeurs foncières (DVF) par commune, DGFiP
+                                                            et Etalab
+
+  Date d'extraction                                         20/11/2026
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        48 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Toulon · AM 502
+         TerrenUrbanisme
+                                                                                                                     Annexe · règlement de la zone
+
+
+
+
+ANNEXE
+
+
+Règlement écrit · zone UEp
+Les pages suivantes reproduisent le chapitre du règlement officiel applicable à la zone de la parcelle
+(pages 70 à 83 du document approuvé), tel que publié sur le Géoportail de l'Urbanisme. Il s'agit d'une
+reproduction à titre d'information : seule la version approuvée tenue à disposition en mairie fait foi, avec
+ses annexes, plans et éventuelles modifications ultérieures.
+Règlement complet :
+https://data.geopf.fr/annexes/gpu/documents/DU_83137/ebbf4f303f381f66e4772a3ecc0b345d/83137_reglement_20250327.pdf
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       49 / 64
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                              RÈGLEMENT PLU TOULON
+
+
+                                                    ZONE UE
+Zone urbaine essentiellement pavillonnaire comprenant les sous-secteurs UEb (Baou), UEp (pentu) et UEr (la Ripelle).
+
+
+                                                  Carte zone UE
+
+
+
+
+                      Plan Local
+                     d’Urbanisme
+                                                                                                          70
+                                  RÈGLEMENT PLU TOULON
+
+ARTICLE UE1 OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+
+1 – Les constructions destinées à l’industrie
+
+2 – Les constructions destinées à l’exploitation agricole et forestière
+
+3 – Les dépôts à ciel ouvert, l’ouverture et l’exploitation de carrière.
+
+4 – Les constructions destinées à l’entrepôt.
+
+5 – Les installations classées pour la protection de l’environnement soumises aux dispositions du code de
+l’environnement (articles L511-9 et suivants et R511-9 et suivants), sauf celles qui sont compatibles avec le caractère
+et la destination de la zone à dominante habitat (exemple boulangerie)
+
+
+ARTICLE UE2 OCCUPATIONS ET UTILISATIONS DU SOL ADMISES A DES CONDITIONS PARTICULIÈRES
+
+Sont admis les types d'occupation ou d'utilisation du sol liés à une zone à dominante d'habitat et non interdits à l'article
+UE1.
+
+Sont autorisées les lignes et ouvrages de télécommunication ainsi que les installations de distribution d’énergie
+électrique, sous réserve qu’elles soient enterrées ou intégrées à une construction.
+
+Dans le cadre de la mise en œuvre du Plan de Prévention des Risques naturels Prévisibles Chute de Pierres et de
+blocs révisé le 20 décembre 2013, les travaux liés à la sécurisation du Mont Faron sont autorisés.
+
+Sont admis les constructions, les installations et les aménagements liés à la réalisation et au fonctionnement du projet
+de mise à 2x3 voies de l'A57 et à l'aménagement des diffuseurs.
+
+Les constructions destinées à l’artisanat sont autorisées sous réserve de ne pas provoquer de nuisances sonores au
+voisinage immédiat.
+
+Les habitations légères de loisirs, les résidences mobiles de loisirs sont autorisées uniquement dans les campings et
+les parcs résidentiels de loisirs.
+
+Dans le périmètre de l’AVAP, les constructions et installations autorisées devront en respecter les prescriptions.
+
+Dans les secteurs concernés par divers risques ou nuisances délimités aux documents graphiques ou en annexe du
+PLU, notamment les dispositions d’un plan de prévention des risques, toutes les occupations et autorisations du sol
+non interdit à l’article 1 doivent respecter les dispositions édictées au chapitre 7 du présent règlement et de l’annexe
+servitudes d’utilité publique. En tout état de cause, ce sont les dispositions les plus restrictives qui s’appliquent sur le
+dit terrain.
+
+Pour toute opération de construction d’immeubles collectifs de plus de douze logements ou de plus de 800 mètres
+carrés de surface de plancher, au moins 30% des logements familiaux seront des logements sociaux.
+
+Cette disposition ne s’applique pas :
+•       Pour les logements destinés aux agents de la Défense sur des terrains affectés aux besoins du ministère des
+Armées ;
+•       Dans les quartiers prioritaires au titre de la politique de la ville.
+
+
+
+
+                         Plan Local
+                        d’Urbanisme
+                                                                                                                  71
+                                  RÈGLEMENT PLU TOULON
+
+ARTICLE UE3 CONDITIONS DE DESSERTE DES TERRAINS PAR LES VOIES PUBLIQUES OU PRIVÉES ET ACCÈS AUX
+VOIES OUVERTES AU PUBLICS
+
+Les caractéristiques des accès et des voiries existantes doivent permettre de satisfaire aux règles minimales de
+desserte : défense contre l’incendie, protection civile, brancardage, etc...
+
+ 1°) Accès
+
+ a)      Pour être constructible, un terrain doit comporter un accès automobile à une voie publique ou privée, soit
+ directement, soit par l’intermédiaire d’un passage aménagé sur fonds voisin ou éventuellement obtenu par l’application
+ de l’article 682 du code civil relatif aux terrains enclavés. L’accès doit répondre à l’importance et à la destination de la
+ construction ou de l’ensemble des constructions qui y sont édifiées ou dont l’édification est demandée.
+
+ Toutefois cette disposition ne s’applique pas pour les terrains comportant des constructions existantes légalement
+ édifiées, sous réserve de ne pas créer de nouveau logement.
+
+ b)       Les accès doivent être en nombre limité, localisés et configurés en tenant compte des critères suivants :
+
+      -    La topographie et morphologie des lieux dans lesquels s’insère la construction ;
+      -    La nature des voies sur lesquelles les accès sont susceptibles d’être aménagés afin de préserver la sécurité
+           des personnes (visibilité, vitesse sur voie, intensité du trafic.) ;
+      -    Le type de trafic engendré par la construction (fréquence journalière et nombre de véhicules accédant à la
+           construction, type de véhicules concernés.) ;
+      -    Les conditions permettant l’entrée et la sortie des véhicules dans le terrain sans manœuvre sur la voie de
+           desserte.
+
+Pour des raisons de sécurité routière, un retrait de l’accès et des pans coupés pourront être demandés selon la nature
+de la voie concernée.
+
+2°) Desserte
+
+      -    Les terrains doivent être desservis par des voies publiques ou privées, répondant à l'importance et à la
+           destination de la construction ou de l'ensemble des constructions qui y sont édifiées ou dont l’édification est
+           demandée.
+
+      -    La largeur des voies nouvelles d’intérêt privé desservant des constructions à usage d'habitation est fixée à 4
+           m minimum ou 3,50 m lorsqu'elles sont en sens unique. Pour les opérations de plus de 4 logements, elles
+           devront en plus de ces 4 m ou 3,50 m comporter la réalisation d’un aménagement pour un cheminement
+           piétons adapté à la circulation des personnes à mobilité réduite.
+
+      -    Dans tous les cas, le pourcentage maximal de la pente de ces voies nouvelles sera de 15% en tout point dans
+           l’axe de la voie et de 5% en tous points sur les 5 premiers mètres depuis la limite de parcelle. Pour les rampes
+           d’accès en sous-sol, le pourcentage maximal de la pente sera de 18% en tout point dans l’axe de la voie.
+
+      -    Les terrains desservis par des voies en impasse doivent être aménagés pour permettre le retournement et la
+           manœuvre des véhicules y compris des véhicules de secours. Une aire de retournement aux dimensions
+           adaptées sera obligatoire pour toute impasse de plus de 60 m. Dans le cas de la création d’un lotissement de
+           plusieurs lots à bâtir, c’est la voie de desserte du lotissement qui devra être aménagée pour permettre le
+           retournement et la manœuvre des véhicules y compris des véhicules de secours.
+
+
+
+
+                         Plan Local
+                        d’Urbanisme
+                                                                                                                   72
+                                 RÈGLEMENT PLU TOULON
+
+ARTICLE UE4 CONDITIONS DE DESSERTE DES TERRAINS PAR LES RÉSEAUX PUBLICS. D’ÉLECTRICITÉ ET
+D’ASSAINISSEMENT
+
+
+1°) eau potable
+
+Un terrain doit être desservi par un réseau public de distribution d'eau potable soit directement soit par l’intermédiaire
+d’un réseau privé sous réserve de capacités techniques suffisantes.
+
+Toute construction à usage d'habitation ou abritant des activités, doit y être raccordée conformément aux règlements
+en vigueur.
+
+2°) Assainissement
+
+ a) Eaux usées
+
+Un terrain doit être desservi par un réseau public d'assainissement soit directement soit par l’intermédiaire d’un réseau
+privé sous réserve de capacités techniques suffisantes.
+
+Toute construction à usage d'habitation ou abritant des activités, doit évacuer ses eaux et matières usées sans aucune
+stagnation par des canalisations souterraines raccordées au réseau public collectif d'assainissement, conformément
+aux règlements en vigueur.
+
+Les eaux résiduaires non domestiques doivent être évacuées conformément à la réglementation en vigueur.
+
+L’évacuation des eaux et matières usées dans les fossés est interdite.
+
+En cas de plusieurs constructions sur un même terrain, un seul branchement au réseau public sera autorisé sauf
+impossibilité technique.
+
+ b) Eaux pluviales = se référer aux dispositions communes applicables à l’ensemble des zones
+
+ 3°) réseau incendie
+
+Pour toute opération nouvelle : suivant la nature et l'activité envisagées et la localisation du terrain, des dispositifs
+particuliers normalisés de protection contre les incendies résultant de l'avis du service compétent, seront réalisés.
+
+ Par ailleurs, il est rappelé l’application de l’arrêté préfectoral n°2017/01-004 du 8 février 2017 portant approbation du
+ nouveau règlement départemental de Défense Extérieure Contre l’incendie (DECI) du var.
+
+ 4°) réseaux divers
+
+Les branchements aux réseaux publics divers de distribution (électricité, TIC, téléphone, etc.…) doivent être souterrains.
+
+5°) Gestion des déchets
+
+Tout nouveau programme de constructions doit prévoir un local destiné à stocker ses déchets dans l’attente de leur
+transfert sur l’espace public en vue de leur collecte.
+
+Sauf impossibilité technique, dans le cas d’une réhabilitation complète d’un immeuble existant, il convient de prévoir un
+local destiné au stockage des déchets.
+
+
+
+
+                        Plan Local
+                       d’Urbanisme
+                                                                                                                73
+                                     RÈGLEMENT PLU TOULON
+
+ARTICLE UE5 SUPERFICIE MINIMALE DES TERRAINS
+
+Non réglementé.
+
+
+ARTICLE UE6 IMPLANTATION DES CONSTRUCTIONS PAR RAPPORT AUX VOIES (PUBLIQUES ET PRIVÉES) ET
+EMPRISE PUBLIQUES
+
+Les règles énoncées dans cet article s'apprécient par rapport à l'alignement des voies (publiques ou privées) et
+emprises publiques existantes ou à créer ou par rapport au front bâti observé.
+
+Pour l’application de l’article UE6 du règlement, la référence à l’alignement dans les dispositions de l’article UE6 ci-
+dessous vise aussi bien l’alignement que le front bâti observé.
+
+1°) toute construction doit être implantée à 5 m minimum de l’alignement, cette zone étant considérée comme non
+aedificandi.
+
+Toutefois dans cette zone sont autorisés :
+     - Les débords de toiture de 50 cm maximum.
+
+      -     Les protections solaires jusqu’à 1m pour les R+1.
+
+     - Les voies internes, rampes d’accès et escaliers situés en dessous du niveau du terrain naturel et jusqu’à 1m50
+au-dessus du terrain naturel ainsi que les garde-corps visant à assurer la sécurité des usagers de ceux-ci.
+
+    - Une séparation formant clôture entre différents espaces sur le terrain constituée d’un muret de 50 cm maximum
+surmonté d’un grillage ou d’un système à claire-voie, le tout n’excédant pas 2 m.
+
+          - Le repositionnement d’un mur existant lors d’un élargissement de voirie.
+
+          - Les piscines ou bassin d’agrément s’ils ne sont pas hors sol*.
+
+      -     Le repositionnement d’un mur existant lors d’un élargissement de voirie.
+
+       -    La fermeture d’un volume (ouvert et couvert) inclus dans le gabarit d’une construction légalement édifiée.
+
+       -    Les places de stationnement à l’air libre.
+
+       -    Les modénatures.
+
+          - Les ombrières photovoltaïques implantées sur les dalles de stationnements en surplomb.
+
+          - Les constructions complètement enterrées sous le terrain naturel avant travaux*.
+
+
+
+
+*
+    Voir lexique
+
+
+
+                            Plan Local
+                           d’Urbanisme
+                                                                                                                 74
+                                   RÈGLEMENT PLU TOULON
+
+2°) Dans le cas des terrains présentant soit une forte déclivité soit positionnés en contrebas ou contre haut de la voie,
+l’implantation du garage ou de l’emplacement de stationnement devra se faire à l’alignement de la voie existante ou à
+créer dans les deux situations suivantes (conditions non cumulatives) :
+     - Dès lors que la topographie du terrain ne permet pas de réaliser une voirie interne avec une pente < 18%, le
+         cas échéant avec un plateau d’attente adapté à la desserte
+     - Lorsque la réalisation de cette voirie interne porte atteinte au site et au paysage environnant.
+
+Pour les terrains en contre - haut des voies, les garages et emplacements de stationnement seront édifiés en
+excavation.
+
+Pour les terrains en contre - bas des voies, seule une dalle de stationnement n’excédant pas le niveau de la voie est
+autorisée.
+
+En cas d’impossibilité par rapport à la longueur du tènement foncier au droit de l’alignement, la desserte sur le terrain
+limitera les travaux d’affouillement et d’exhaussement et se justifiera par une insertion paysagère de qualité.
+
+3°) Dans l’habitat en bande, une implantation différente est autorisée si la construction projetée est contiguë aux
+constructions mitoyennes implantées en limites séparatives.
+
+4°) Pour les constructions et installations nécessaires aux services publics, une distance inférieure peut être autorisée.
+
+
+ARTICLE UE7 IMPLANTATION DES CONSTRUCTION PAR RAPPORT AUX LIMITES SÉPARATIVES
+
+La distance comptée horizontalement de tout point d'une construction au point le plus proche de la limite séparative du
+terrain doit être au moins égale à la moitié de la hauteur de la construction, mesurée à compter du terrain naturel avant
+travaux, et ne jamais être inférieure à :
+      - 4 m dans le cas général
+      - 6 m pour tout programme de logement neuf de plus de 800m² de surface de plancher.
+
+Ces zones sont considérées comme non aedificandi. Toutefois dans ces zones sont autorisés :
+
+      -    Les débords de toiture de 50 cm maximum
+
+      -    Les protections solaires jusqu’à 1m pour les R+1.
+
+    - Les voies internes, rampes d’accès et escaliers situés en dessous du niveau du terrain naturel et jusqu’à 50 cm
+hors sol* ainsi que les garde-corps visant à assurer la sécurité des usagers de ceux-ci
+
+   - Une séparation formant clôture entre différents espaces sur le terrain constituée d’un muret de 50 cm maximum
+surmonté d’un grillage ou d’un système à claire-voie, le tout n’excédant pas 2 m
+
+      -   Le repositionnement d’un mur existant lors d’un élargissement de voirie.
+
+      -   Les ombrières végétalisées visées à l’article UE 13.
+
+      -   Les piscines ou bassin d’agrément s’ils ne sont pas hors sol*.
+
+      -   Les constructions complètement enterrées sous le terrain naturel avant travaux*.
+
+
+*
+    Voir lexique
+
+
+
+                          Plan Local
+                         d’Urbanisme
+                                                                                                                75
+                                 RÈGLEMENT PLU TOULON
+
+
+    -   La fermeture d’un volume (ouvert et couvert) inclus dans le gabarit d’une construction légalement édifiée.
+
+    -   Les places de stationnement à l’air libre.
+
+    -   Les modénatures.
+
+Aucun nouveau logement n’est autorisé dans une bande de 10m par rapport à la limite du domaine ferroviaire.
+
+Cas particuliers :
+
+          1°) Pour les tènements fonciers présentant, au droit de l’alignement, une longueur inférieure à 15 m, la
+construction sur une seule limite séparative de l’unité foncière objet du projet est autorisée à condition que la hauteur
+n’excède pas 3,50 m en tous points sur la limite sur une distance maximale de 6 m ou un tiers de la longueur de celle-
+ci si elle est supérieure à 18 m.
+
+Cette disposition ne s’applique pas :
+
+    -   Si le terrain d’assiette est en contre haut de plus d’un mètre sur la limite
+
+    -   Si le terrain est issu d’une division postérieure à la date d’approbation du présent PLU
+
+    -   Pour les terrains dont la longueur au droit de l’alignement se limite à un accès ou qui ne présentent pas
+        d’alignement.
+
+        2°) Dans l’habitat en bande, l’implantation en limite séparative est autorisée si la construction projetée est
+ contiguë aux constructions mitoyennes implantées en limites séparatives.
+
+       3°) la distance comptée horizontalement de tout point d’une piscine ou d’un bassin d’agrément (y compris la
+ margelle et le système de filtration intégré) au point le plus proche de la limite séparative du terrain doit être :
+
+    -   Au moins égale à 2 m si ceux-ci sont enterrés
+    -   Au moins égale à 4 m si ceux-ci sont hors sol* de même que le système de filtration (bloc technique) s’il émerge
+        du terrain naturel.
+
+        4°) Pour les constructions et installations nécessaires aux services publics, une distance inférieure peut être
+ autorisée.
+
+
+ARTICLE UE8 IMPLANTATION DES CONSTRUCTIONS LES UNES PAR RAPPORT AUX AUTRES SUR UNE MÊME
+PROPRIÉTÉ
+
+À l’exception de la zone UEr, entre tout point de chaque bâtiment non contigu (hors débords de toiture), doit toujours
+être respectée une distance au moins égale à la hauteur du plus haut des bâtiments, sans être inférieure à 8 m.
+
+À l’exception des piscines et des ombrières photovoltaïques, entre tout point d’une annexe et d’un bâtiment, une
+distance d’au moins 4 m (hors débords de toiture) doit toujours être respectée.
+
+Pour les constructions et installations nécessaires aux services publics ainsi que pour les hébergements hôteliers, une
+distance inférieure peut être autorisée.
+
+
+
+
+                        Plan Local
+                       d’Urbanisme
+                                                                                                               76
+                                    RÈGLEMENT PLU TOULON
+
+ARTICLE UE9 EMPRISE AU SOL
+
+À l’exception des lots voués aux voies de lotissement, l'emprise au sol* de toutes constructions ne doit pas excéder :
+
+    1. Habitation :
+
+        -   Terrain dont la superficie est > 1000m² :
+
+20% de la superficie de l’unité foncière en UE
+
+15% de la superficie de l’unité foncière en zone UEp
+
+        -   Terrain dont la superficie est < 1000m² :
+
+25% de la superficie de l’unité foncière en UE 20% de la superficie de l’unité foncière en UEp
+
+        -   Terrain dont la superficie est < 1000m² mais résultant d’une division opérée après la date d’approbation
+            du PLU :
+
+20% de la superficie de l’unité foncière en UE 15% de la superficie de l’unité foncière en UEp
+
+    2. Constructions ou installations nécessaires aux services publics ou d’intérêt collectif et hébergements
+       hôteliers
+
+    50% de la superficie de l’unité foncière
+
+    3. Toutes autres destinations :
+
+25% de la superficie de l’unité foncière
+
+    4. Cas particuliers :
+
+Secteur UEb : 10% de la superficie de l’unité foncière Secteur UEr : 30% de la superficie de l’unité foncière
+
+Centre de vie : 30% de la superficie de l’unité foncière si le rez-de-chaussée de la construction est à usage commercial
+ou artisanal.
+ARTICLE UE10 HAUTEUR MAXIMALES DES CONSTRUCTIONS
+
+Conditions de mesure
+
+L’égout du toit ne doit pas dépasser un plan parallèle au sol naturel avant travaux, plan situé à une distance de celui-ci
+comptée verticalement égale à la hauteur absolue.
+
+Les hauteurs des superstructures sont précisées à l'article UE11.
+
+Hauteur absolue
+
+La hauteur maximale des constructions définie dans les conditions ci-dessus est fixée à 7 m limitée à R+1, combles
+
+
+*
+    Voir lexique
+
+
+
+                           Plan Local
+                          d’Urbanisme
+                                                                                                                77
+                                 RÈGLEMENT PLU TOULON
+
+non compris*.
+
+Dans l’habitat en bande, une hauteur différente est autorisée si la construction projetée est contiguë aux constructions
+mitoyennes implantées en limites séparatives.
+
+Pour les constructions ou installations nécessaires aux services publics, la hauteur maximale autorisée est fixée à 9 m
+limitée à R+2.
+
+Pour l’hébergement hôtelier, la hauteur maximale autorisée est fixée à 8 m et pourra être portée à12 m par rapport au
+TN R+2 sur 40% maximum de l’emprise des toitures totales projetées.
+
+Dans les secteurs UEb et UEp, la hauteur maximale des constructions est fixée à 6 m limitée à R+1, combles* non
+compris.
+
+Pour accompagner l’activité à vocation touristique des établissements hôteliers, il est autorisé l’installation de pergola
+bioclimatique en toiture nonobstant la hauteur existante.
+
+Ces hauteurs pourront être dépassées
+
+Les constructions soumises à la règlementation relative à la prise en compte des risques majeurs et dont le premier
+plancher bas doit être surélevé pourront bénéficier d’une majoration de la hauteur maximale de 0,5 ou 1 m selon les
+cas.
+
+
+
+ARTICLE UE11 ASPECT EXTÉRIEUR
+
+Les constructions, installations et aménagements devront être étudiés afin de ne pas porter atteinte au caractère ou à
+l’intérêt des lieux avoisinants, au site, paysage naturel ou urbain, ainsi qu’à la conservation des perspectives
+monumentales. Les gabarits des bâtiments seront étudiés en fonction des proportions des bâtiments composant
+l’environnement.
+
+Afin d’éviter les effets de barre et de maintenir des percées visuelles sur le paysage et d’en préserver certains éléments,
+l’implantation des bâtiments sous forme fractionnée sera à privilégier.
+
+Les constructions doivent présenter une simplicité de volume, une unité d'aspect et de matériaux, en harmonie avec
+leur environnement bâti et naturel.
+
+L’aménagement, l’extension et la restauration de constructions existantes devront mettre en valeur les éléments
+intéressants du bâti et conserver l’aspect général de proportions.
+
+L’organisation des volumes bâtis, la forme des toitures doivent s’adapter à la morphologie du terrain naturel.
+
+Les travaux de terrassements, d’affouillement et d’exhaussement seront strictement limités et justifiés par une insertion
+paysagère de qualité.
+
+1- toitures et superstructures
+
+          1-1 - toitures
+
+La toiture doit être cohérente avec la volumétrie générale et le style architectural du bâtiment.
+
+*
+    Voir lexique
+
+
+
+                            Plan Local
+                           d’Urbanisme
+                                                                                                                 78
+                                    RÈGLEMENT PLU TOULON
+
+
+                   1-1-1 - toitures à pentes
+
+La pente des toitures en tuiles devra être comprise entre 25 et 35 % et traitée avec des matériaux de qualité.
+
+Des pentes différentes et des matériaux différents pourront être acceptés pour des bâtiments de typologie particulière.
+
+Les pans de toits seront répartis harmonieusement afin de former une toiture homogène. Les toitures seront
+majoritairement à deux ou à quatre pentes. Les toitures monopentes, justifiées au plan architectural, seront appréciées
+au cas par cas.
+
+                 1-1-2 - toitures terrasses
+Elles doivent être traitées de telle sorte qu'elles s'intègrent au mieux dans leur environnement minéral ou végétal.
+
+La hauteur de l’acrotère sera étudiée en fonction des proportions du bâtiment.
+
+            1-2 - éléments techniques
+
+Dans le cas de toitures à pentes, les seuls éléments techniques seront les souches de cheminée et les bouches des
+tourelles d'extraction, dont la hauteur ne pourra dépasser 2 m, hauteur mesurée au bord aval de la souche ou de la
+tourelle. Pour les nouvelles souches leur distance par rapport au nu des façades devra être au moins égale à deux fois
+leur hauteur.
+
+Dans le cas des toitures terrasses, l'ensemble des éléments techniques est à organiser :
+
+    -       Soit intégré dans le volume bâti
+
+    -       Soit sur le toit avec une hauteur maximum de 2,50 m et leur distance du nu des façades devra être au moins
+            égale à 2 fois la hauteur par rapport au-dessus de l’acrotère
+
+L’implantation des capteurs solaires sera étudiée afin d’assurer une parfaite intégration dans l’environnement bâti et
+non bâti.
+
+            1-3 - Ombrière sur toiture-terrasse
+
+Les ombrières destinées au confort climatique sont autorisées sous réserve :
+
+        -    D’une hauteur maximale de 2,5 m
+
+        -    D’un retrait par rapport au nu de façade de 2 m minimum
+
+        -    D’une intégration dans le paysage environnant
+
+2 – Façades
+
+Autant pour les modifications ou extensions de bâtiments existants que pour les constructions nouvelles, les façades
+devront comprendre une unité dans la composition et une homogénéité dans le choix des matériaux.
+
+Pour les constructions nouvelles, une attention particulière devra être portée aux équipements de protection solaire
+dans la composition de façade
+
+Pour tout programme neuf, chaque logement devra comporter au moins une porte fenêtre.
+
+
+
+
+                           Plan Local
+                          d’Urbanisme
+                                                                                                                 79
+                                  RÈGLEMENT PLU TOULON
+
+
+Lorsqu’une façade existante comporte plusieurs loggias ou balcons, leur fermeture isolée est interdite. Par contre,
+pourra être admise une recomposition de façade englobant des fermetures simultanées dans le cadre d’un projet global
+et cohérent sur le plan architectural.
+
+Le changement des volets se fera généralement à partir d'un modèle identique à celui d'origine. Toutefois, et pour
+répondre à des exigences normatives, le changement pourra être effectué à partir d'un autre modèle. Ainsi, dans le
+cadre d'un projet cohérent au plan architectural, pourra être admise une recomposition d’ensemble de la façade
+englobant ce changement de manière simultanée.
+
+Dans les centres de vie définis aux documents graphiques au moins 50 % de la façade du rez-de-chaussée devra être
+traitée en vitrine pour favoriser l’implantation d’activités commerciales et artisanales.
+
+        2-1 – Les devantures
+
+La structure architecturale de l’immeuble doit être visible jusqu’au pied de la façade aussi bien verticalement (axes des
+percements, trumeaux, symétries) qu’horizontalement (rythme des hauteurs d’étages, planchers).
+
+Seules les fermetures ajourées sont autorisées et elles ne doivent pas avoir de saillie par rapport au nu extérieur de la
+façade.
+
+Dans le cas d’immeubles neufs, les devantures devront s’harmoniser avec l’écriture architecturale de l’immeuble et
+l’aspect général de la rue.
+
+        2-2 – Coloration
+
+Quelle que soit la nature des travaux, ravalements de façades, transformations de bâtiments existants ou constructions
+neuves, la mise en couleur des différentes composantes des ouvrages se fera dans un souci d’harmonisation avec
+l’environnement bâti et dans le respect des dispositions applicables aux zones urbaines (article 4).
+
+Les peintures d’aspect brillant sont interdites.
+
+        2-3 – Les échangeurs
+
+Aucun élément ne doit être posé en saillie du nu de la façade. Dans les autres cas, si le matériel est visible depuis la
+rue ou les immeubles voisins, il doit faire l’objet d’un traitement d’habillage.
+
+ 3 – Clôtures
+
+Les ouvrages seront édifiés en respectant les dispositions générales.
+
+
+ARTICLE UE12 STATIONNEMENT
+
+Des aires de stationnement correspondant à l'importance et à la destination de l'opération doivent être réalisées sur
+l'unité foncière conformément aux dispositions applicables aux zones urbaines.
+
+Dans la bande de 100 mètres de profondeur à compter de l’axe des autoroutes 50 et 57, des nationales 8 et 97, de la
+départementale 559 et de la déviation de l’autoroute 57, l’espace destiné au stationnement des véhicules à l’air libre
+sera fractionné ; tout projet comportera des aménagements destinés à favoriser son intégration dans l’environnement.
+
+
+
+
+                         Plan Local
+                        d’Urbanisme
+                                                                                                               80
+                                 RÈGLEMENT PLU TOULON
+
+ARTICLE UE13 ESPACES VERTS ET PLANTATIONS
+
+Au moins 45% de la superficie totale de l’unité foncière (hors emplacement réservé) doivent être aménagés en espaces
+verts de pleine terre*.
+Cette surface est portée à 30% pour les constructions et installations nécessaires aux services publics ou d’intérêt
+collectif ainsi que pour les hébergements hôteliers.
+
+Ces pourcentages ne s'appliquent pas pour les constructions existantes à la date d'approbation du PLU qui souhaitent
+réaliser :
+     - Une piscine dans la limite de 30m²
+     - 1 à 2 places de stationnement dans la limite de 20m² par place
+
+Ces pourcentages ne s'appliquent pas :
+   - Aux voies de lotissement qui seront plantées d’arbres au moins sur un des bas-côtés qui génèrera de l’ombre
+       à la voie, à raison d’un arbre tous les 10m minimum.
+   - Aux aménagements de parkings publics où seule la règle relative aux arbres d’ombrage devra être respectée
+
+Est pris en compte pour le calcul de cette superficie, l’ensemble des surfaces aménagées en espaces verts autres que
+les voies, les aires de stationnement, les massifs de moins de 10 m² et les emplacements réservés.
+
+Pour les extensions de constructions existantes, les espaces gravillonnés préexistants et perméables pourront être
+comptabilisés dans le calcul de cette superficie.
+
+Pour les constructions nouvelles, les espaces gravillonnés perméables ne pourront être comptabilisés que s’ils
+participent à un aménagement paysager de qualité.
+
+Pour les constructions et installations nécessaires aux services publics, les terrains de sport et les aires de jeux non
+imperméabilisés pourront être comptabilisés dans le calcul de cette superficie.
+
+Sauf impossibilité justifiée, les surfaces minimales règlementaires aménagées en espaces verts devront comporter au
+moins un arbre de haute tige pour 100m².
+Pour tout programme de logements neufs de plus de 800m² de surface de plancher, l'implantation de ces arbres sera
+à privilégier dans les zones non aedificandi de 6m visées à l'article UE7. Un traitement qualitatif sera recherché afin de
+limiter l’impact du projet sur les propriétés riveraines.
+
+Dans le cadre de l’aménagement de terrain pentu, les restanques seront préservées ou reconstituées avec les pierres
+du site.
+
+Tous les projets immobiliers, individuels et collectifs, devront préserver et conserver au maximum les plantations
+existantes (d’arbres et d’arbustes) non implantées dans les emprises du projet (constructions, voies, stationnements et
+piscines).
+
+LES ARBRES :
+
+Un plan paysager précis de l’existant devra être fourni avec le nom des arbres, la circonférence de leur tronc à 1,50m
+du sol et leur position précise.
+
+Si le projet induit l’abattage d’arbres remarquables, les sujets à planter devront prendre en compte les envergures
+préexistantes afin de conserver le caractère patrimonial végétal des lieux.
+
+
+*
+    Voir lexique
+
+
+
+                        Plan Local
+                       d’Urbanisme
+                                                                                                                81
+                                 RÈGLEMENT PLU TOULON
+
+En fonction de leur essence, leur âge et leurs dimensions, ils seront remplacés par des arbres de plus grandes forces
+de circonférence du tronc (20/25 cm, 30/35 cm) le minimum étant de 18/20 cm.
+
+En zone de mitoyenneté, les arbres devront être plantés au-delà des 2 mètres de la limite séparative avec le voisinage.
+
+De plus, le choix des essences devra être très diversifié. Dans les parties communes ou privatives, les agrumes et
+fruitiers seront privilégies.
+
+Sauf impossibilité justifiée, les espèces transplantables situées dans les emprises du projet seront réimplantées sur le
+terrain et positionnées sur le plan paysager.
+
+Sauf impossibilité technique, les éléments de patrimoine de l’art des jardins (fontaines, bassins, puits, fabriques de
+jardin, ferronneries, statuaires, poteries…) seront préservés ou déplacés.
+Les restanques en pierre sèche, destinées à maintenir les terres et la végétation, caractérisant les espaces naturels
+pentus, seront préservées.
+Les aires de stationnement à l’air libre hors toitures des parkings silo et hors dalles de stationnement en surplomb
+devront être plantées d’arbre d’ombrage :
+    * 1 arbre pour 1 ou 2 places de stationnement isolées.
+    * Pour les aires accolées : 1 arbre pour 3 places de stationnement.
+
+Ces arbres d’ombrage auront une hauteur de 2m50 au départ de leurs premières charpentières et une force minimum
+de 18/20cm de circonférence de tronc. Ils seront positionnés de façon à générer de l’ombre suivant l’orientation. Pour
+diversifier le choix des essences, le maître d’ouvrage pourra s’inspirer utilement du cahier de recommandations
+végétales et paysagères réalisé par la ville.
+
+Lorsqu’il est justifié que la plantation d’arbres est totalement inenvisageable, d’autres solutions d’ombrage telles que
+pergolas et ombrières végétalisées seront envisagées.
+
+LES HAIES COMMUNES ET PRIVEES :
+
+Elles devront être très diversifiées avec un choix de mélange d’arbustes à fleurs, à fruits, à feuillages décoratifs et à
+parfums.
+
+Les arbustes toxiques et allergisants ne seront pas acceptés (voir cahier des recommandations paysagères de la Ville).
+
+LES MASSIFS VEGETALISES ET PRAIRIES FLEURIES :
+
+Ils seront plantés d’arbustes, de vivaces, d’annuelles et de bulbeuses. Le gazon sera remplacé par de la prairie de
+vivaces, annuelles et bulbeuses à floraison basse (pâquerettes, achillées, campanules...).
+
+Les terrains Cultivés à Protéger, délimités sur les documents graphiques, sont soumis aux dispositions de l’article L151-
+23 du code de l’urbanisme.
+
+Pour les opérations d’habitat collectif et afin de réduire les nuisances et de préserver une meilleure habitabilité, un
+espace de 10m de profondeur à compter de la limite du domaine ferroviaire sera traité en aménagement paysager de
+qualité*, dans le respect de la servitude T1.
+
+En bordure des emprises des autoroutes 50 et 57, des arbres et arbustes diversifiés seront plantés sur toute la longueur
+du terrain en évitant l’effet monotone de paroi.
+
+
+*
+    Voir lexique
+
+
+
+                        Plan Local
+                       d’Urbanisme
+                                                                                                               82
+                         RÈGLEMENT PLU TOULON
+
+
+ARTICLE UE14 COEFFICIENT D’OCCUPATION DU SOL
+
+Non réglementé.
+
+
+
+
+                   Plan Local
+                  d’Urbanisme
+                                                83
+                    TerrenUrbanisme
+
+    Merci de votre confiance
+Ce rapport a été établi à partir des sources publiques officielles pour vous
+  aider à décider en connaissance de cause. Pour toute question, nous
+                        restons à votre disposition.
+
+
+
+
+   Vous êtes professionnel ? Travaillons ensemble
+      Agents immobiliers, notaires, architectes, géomètres, diagnostiqueurs,
+promoteurs, mairies : faisons équipe. Crédits professionnels sans abonnement, 5
+€ le rapport dès 50 crédits, votre logo sur les rapports, offre communale pour les
+                       mairies et partenariats sur mesure.
+
+               Écrivez-nous : contact@terrenurbanisme.com
+
+
+
+
+                        terrenurbanisme.com
+                         contact@terrenurbanisme.com
+

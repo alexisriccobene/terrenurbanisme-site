@@ -1,0 +1,3257 @@
+                  TerrenUrbanisme
+                  Le terrain constructible, partout en France
+
+
+
+
+RAPPORT D'URBANISME
+
+
+
+Bourges
+Section IL · Parcelle n° 336
+      Sous conditions
+
+
+
+
+Référence cadastrale                                                           Surface cadastrale
+18033000IL0336                                                                 2 677 m²
+
+Rapport établi le                                                              Référence du rapport
+20/11/2026                                                                     APERCU
+
+
+
+
+terrenurbanisme.com                                                                             contact@terrenurbanisme.com
+
+Document d'information sans valeur contractuelle ni réglementaire. Il ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme
+et ne peut en aucun cas être joint à une demande de permis de construire ou de déclaration préalable. Seuls les actes de l'administration font foi.
+                                                                                                                           Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                               Sommaire
+
+
+
+
+Sommaire
+Le rapport suit l'ordre d'une étude de terrain : où se trouve la parcelle, ce que dit la règle, ce qui pèse sur le projet,
+puis les démarches.
+
+               Synthèse
+    S                                                                                                                                 p. 3
+               Le verdict, les indicateurs clés et les points d'attention en une page.
+
+               Identification de la parcelle
+   01                                                                                                                                 p. 5
+               Localisation, surface, références cadastrales et voisinage du terrain.
+
+               Règles d'urbanisme applicables
+   02                                                                                                                                 p. 8
+               Document d'urbanisme, zone du terrain, prescriptions et servitudes.
+
+               Ce que vous pouvez construire
+   03                                                                                                                               p. 13
+               Surface constructible, hauteur, reculs, aspect et usages autorisés.
+
+               Loi Littoral et loi Montagne
+   04                                                                                                                               p. 20
+               Les lois qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+               Risques naturels et technologiques
+   05                                                                                                                               p. 21
+               Inondation, feu de forêt, argiles, catastrophes naturelles et sites pollués.
+
+               Le terrain : accès, relief et réseaux
+   06                                                                                                                               p. 24
+               Accès, pente, ensoleillement, eaux usées, électricité, eau et fibre.
+
+               Environnement et marché immobilier
+   07                                                                                                                               p. 31
+               Espaces naturels, espèces protégées et ventes immobilières alentour.
+
+               Historique du site
+   08                                                                                                                               p. 35
+               Le terrain vu du ciel au fil des années et les permis accordés autour.
+
+               Opportunités autour du terrain
+   09                                                                                                                               p. 37
+               Grands terrains peu bâtis et logements énergivores à proximité.
+
+               Votre projet, étape par étape
+   10                                                                                                                               p. 39
+               De l'achat aux impôts : démarches, délais, coûts, contacts et taxe.
+
+               État des risques (ERP) pré-rempli
+   11                                                                                                                               p. 43
+               Le formulaire réglementaire à remettre à l'acquéreur, pré-rempli.
+
+               Avertissement et sources
+   12                                                                                                                               p. 45
+               La portée de ce rapport et les sources publiques consultées.
+
+               Annexe : règlement de la zone
+   A                                                                                                                                p. 48
+               Les pages officielles du règlement de la zone, telles qu'approuvées.
+
+
+
+
+Astuce : cliquez sur un chapitre pour y accéder directement.
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                2 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                                               Synthèse
+
+
+
+
+Synthèse
+     Document d'information. Ce rapport ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme, n'engage
+     pas l'administration et ne peut pas servir de pièce à une demande de permis de construire. L'appréciation
+     ci-dessous est indicative : seule la mairie se prononce sur la constructibilité d'un terrain, au vu d'un projet
+     précis.
+
+
+
+
+       SOUS CONDITIONS
+
+       Accord de l'architecte des Bâtiments de France obligatoire
+       La parcelle est classée à 100 % en zone UL (urbaine) du PLU intercommunal de Bourges, et
+       pour le reste en zone UL (100 %). Les constructions y sont admises dans le respect du
+       règlement de la zone. Le terrain est situé dans le site patrimonial remarquable de Bourges :
+       tout projet modifiant l'aspect extérieur (construction, extension, clôture, piscine, façade, toiture,
+       menuiseries) doit recevoir l'accord de l'architecte des Bâtiments de France, qui peut imposer
+       des prescriptions ou refuser ; en l'absence de règlement approuvé pour ce site, l'architecte
+       apprécie chaque projet au cas par cas.
+
+
+
+
+      Zones du PLU                                              Document d'urbanisme                                       Loi Littoral
+
+    UL 100 % · UL 100 %                                      PLUI                                                     Ne s'applique pas
+
+
+
+
+      Loi Montagne                                              Risques à la parcelle
+
+    Ne s'applique pas                                        Séisme ·
+                                                             Retrait-gonflement des
+
+
+
+
+Points d'attention
+    Zone UL (urbaine) : environ 2 670 m², soit 100 % du terrain, constructible.
+    Zone UL (urbaine) : environ 2 670 m², soit 100 % du terrain, constructible.
+    Site patrimonial remarquable (Site patrimonial remarquable de Bourges) : accord obligatoire de l'architecte
+    des Bâtiments de France pour tout projet visible de l'extérieur, apprécié au cas par cas.
+    Terrain en pente marquée (environ 18 %) : surcoût probable de terrassement.
+    Logement : le règlement de la zone UL n'admet pas de logement neuf, sauf exceptions prévues par la
+    zone (logement de gardiennage, par exemple) : voir le chapitre « Ce que vous pouvez construire ».
+    Retrait-gonflement des argiles (exposition moyenne) : en cas de vente d'un terrain non bâti constructible,
+    le vendeur doit fournir une étude géotechnique préalable (loi ELAN, article L. 132-5 du Code de la
+    construction et de l'habitation) ; une étude géotechnique de conception est exigée avant de construire.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                               3 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                                Synthèse
+
+
+
+
+    Pollution des sols : concerné à l'adresse de la parcelle (voir le chapitre « Risques naturels et
+    technologiques »).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                4 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                             Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                           01 · Identification de la parcelle
+
+
+
+
+    01              Identification de la parcelle
+      DANS CETTE SECTION
+
+      Où se trouve le terrain, sa surface, ses références cadastrales, son propriétaire lorsqu'il s'agit d'une
+      société ou d'une collectivité, et la performance énergétique du bâti existant.
+
+
+Données du cadastre (DGFiP) et de l'IGN.
+
+
+     Plan de situation
+
+
+
+
+                                                                                                                                   1 km
+
+
+
+Plan IGN · © IGN
+
+
+
+     Vue aérienne et plan cadastral
+
+
+
+
+                                                                                                                                          100 m
+
+
+
+Photographie aérienne et plan cadastral · © IGN
+
+
+Commune                                                     Bourges (18033)
+
+Département                                                 Cher (18)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                   5 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                             Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                           01 · Identification de la parcelle
+
+
+
+
+Section et numéro                                           Section IL, parcelle n° 336, feuille 1
+
+Identifiant cadastral                                       18033000IL0336
+
+Surface cadastrale                                          2 677 m²
+
+Surface calculée (SIG)                                      2 669 m² · périmètre 417 m
+
+Coordonnées du centre                                       47.07814 N, 2.39806 E (WGS 84)
+
+Altitude                                                    de 141 à 149 m
+
+Pente estimée                                               18 % (terrain en pente marquée)
+
+Parcelles voisines                                          IL 335, IL 339, IL 341
+
+
+Le plan cadastral est un document fiscal : il ne fait pas foi des limites de propriété. Seul un bornage réalisé par un
+géomètre-expert fixe les limites de manière certaine.
+
+
+1.1 Propriétaire et voisinage
+La parcelle ne figure pas au fichier des personnes morales : son propriétaire est vraisemblablement un particulier.
+Le nom des propriétaires particuliers n'est pas public ; il peut être demandé au service des impôts fonciers (relevé
+de propriété) ou obtenu par l'intermédiaire d'un notaire.
+
+Principaux propriétaires personnes morales dans un rayon de 280 m
+  PROPRIÉTAIRE                                                                  PARCELLES              SURFACE TOTALE              SIREN
+
+  COMMUNE DE BOURGES (COM)                                                      14                     70 718 m²                   211800339
+
+  ETAT PAR DIRECTION DE L IMMOBILIER DE L                                       5                      19 839 m²                   –
+  ETAT (ETAT)
+
+  SCALIS (SA)                                                                   4                      18 848 m²                   815620463
+
+  ASSOCIATION DIOCESAINE DE BOURGES (ASS)                                       1                      4 035 m²                    329724447
+
+  COMMUNAUTE AGGLOMERATION BOURGES                                              1                      2 895 m²                    241800507
+  PLUS (COAG)
+
+  ASSOCIATION FORMATION RELIGIEUSE REGION                                       2                      1 822 m²                    390019289
+  BERRY (ASS)
+
+  LAMY SA (SA)                                                                  1                      1 634 m²                    323842450
+
+  DEPARTEMENT DU CHER (DEPT)                                                    1                      1 459 m²                    221800014
+
+
+
+Source : fichiers des parcelles des personnes morales (DGFiP) : sociétés, SCI, collectivités, établissements publics et associations. Les
+propriétaires personnes physiques n'y figurent pas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                   6 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                             Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                           01 · Identification de la parcelle
+
+
+
+
+1.2 La commune de Bourges
+Code postal                                                 18000
+
+Département                                                 Cher (18)
+
+Intercommunalité                                            CA Bourges Plus
+
+Population                                                  64 186 habitants
+
+Superficie                                                  68,65 km²
+
+Densité                                                     935 habitants par km²
+
+Commune littorale                                           Non
+
+Commune de montagne                                         Non
+
+Document d'urbanisme                                        Plan local d'urbanisme intercommunal (PLUi)
+
+Risques sur la commune                                      17 arrêtés de catastrophe naturelle · détail en section Risques et en
+                                                            annexe
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                   7 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                   02 · Règles d'urbanisme applicables
+
+
+
+
+    02              Règles d'urbanisme applicables
+      DANS CETTE SECTION
+
+      Le document d'urbanisme de la commune, la zone dans laquelle se trouve le terrain, et les
+      prescriptions et servitudes qui s'y ajoutent.
+
+
+Géoportail de l'Urbanisme : zonage, prescriptions et servitudes.
+
+
+
+2.1 Document d'urbanisme en vigueur
+Type de document                                            Plan local d'urbanisme intercommunal (PLUi)
+
+Date d'approbation                                          Non renseigné
+
+Statut                                                      Publié au Géoportail de l'Urbanisme
+
+Règlement officiel                                          Ouvrir le document officiel (PDF)
+
+
+
+     Plan de zonage du PLU
+
+
+
+
+                                                                  UL
+
+
+
+
+                                                                                                                                      100 m
+
+
+
+Zonage : Géoportail de l'Urbanisme · fond : © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             8 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                   02 · Règles d'urbanisme applicables
+
+
+
+
+2.2 Zonage de la parcelle
+  ZONE                    DÉSIGNATION                                                           PART                 CONSTRUCTIBILITÉ
+
+  UL                      Secteur à vocation d'équipements d'intérêt                            100 %                Constructible
+                          collectif (publics / privés)
+
+  UL                      Secteur à vocation d'équipements d'intérêt                            100 %                Constructible
+                          collectif (publics / privés)
+
+
+
+Zone UL · Urbaine
+Zone urbaine : secteur déjà urbanisé où les équipements publics existants ou en cours de réalisation permettent
+d'accueillir des constructions. Les constructions y sont admises dans le respect du règlement de la zone
+(destinations, implantation, hauteur, emprise, aspect).
+
+Zone UL · Urbaine
+Zone urbaine : secteur déjà urbanisé où les équipements publics existants ou en cours de réalisation permettent
+d'accueillir des constructions. Les constructions y sont admises dans le respect du règlement de la zone
+(destinations, implantation, hauteur, emprise, aspect).
+
+
+2.3 Prescriptions applicables à la parcelle
+  PRESCRIPTION                                                                                             TYPE
+
+  Haie, ripisylve ou alignement d'arbres protégé                                                           Élément de patrimoine ou de paysage
+                                                                                                           protégé
+
+
+
+
+2.4 Informations complémentaires du PLU
+  INFORMATION                                                                                              TYPE
+
+  Atlas des biens français inscrits sur la liste du patrimoine mondial                                     Information du PLU (type 40)
+
+  Trame noire                                                                                              Information du PLU (type 99)
+
+  Assainissement Collectif                                                                                 Information du PLU (type 19)
+
+  Classement sonore des infrastructures de transports terrestres :                                         Information du PLU (type 14)
+  Classement sonore
+
+  Zones de présomption de prescriptions archéologiques - Zone A                                            Information du PLU (type 40)
+
+  Zones à risques d'exposition au plomb                                                                    Information du PLU (type 17)
+
+  RLPI - Zone 2                                                                                            Information du PLU (type 20)
+
+  Périmètre de délégation BBES                                                                             Information du PLU (type 99)
+
+  Site patrimonial remarquable                                                                             Information du PLU (type 40)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                               9 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                   02 · Règles d'urbanisme applicables
+
+
+
+
+  INFORMATION                                                                                              TYPE
+
+  Taxe d'aménagement - Commune hors Marais                                                                 Information du PLU (type 32)
+
+  RLPI - Zone 3                                                                                            Information du PLU (type 20)
+
+  DPU                                                                                                      Information du PLU (type 04)
+
+  Classement sonore des infrastructures de transports terrestres : Rue                                     Information du PLU (type 14)
+  Jean Baffier
+
+  Eau potable : Canalisation                                                                               Information du PLU (type 19)
+
+  Eau usée : Canalisation                                                                                  Information du PLU (type 19)
+
+
+
+
+2.5 Servitudes d'utilité publique
+  CODE                SERVITUDE                                                                        DÉTAIL
+
+  AC1                 Monument historique (abords)                                                     AC1 Hotel-de-Charles-de-Chouys-I7LGLE
+                                                                                                       abor
+
+  AC1                 Monument historique (abords)                                                     AC1 Maison-dite-de-la-Tournelle-IWPZHV
+                                                                                                       abor
+
+  AC1                 Monument historique (abords)                                                     AC1
+                                                                                                       Maison-Guerin-77-rue-Bourbonnoux-I69XBM
+                                                                                                       abor
+
+  AC1                 Monument historique (abords)                                                     AC1 Collegiale-Saint-Ursin--IWQ0ZX abor
+
+  AC1                 Monument historique (abords)                                                     AC1 Prieure-de-Saint-Jean-le-Vieil-IM7ITY
+                                                                                                       abor
+
+  AC1                 Monument historique (abords)                                                     AC1 Grange-des-dimes-IMB79N abor
+
+  AC1                 Monument historique (abords)                                                     AC1 Eglise-Saint-Pierre-le-Guillard-IEPUCC
+                                                                                                       abor
+
+  AC1                 Monument historique (abords)                                                     AC1
+                                                                                                       Maison-canoniale-14-place-Etienne-Dolet-
+                                                                                                       IQO0JZ abor
+
+  AC4                 Site patrimonial remarquable                                                     AC4
+                                                                                                       Site-Patrimonial-Remarquable-de-Bourges
+                                                                                                       ass
+
+  AC1                 Monument historique (abords)                                                     AC1
+                                                                                                       Hotel-des-Tresoriers-de-la-Sainte-Chapelle-
+                                                                                                       IGCR6I abor
+
+  AC1                 Monument historique (abords)                                                     AC1 Enceinte-gallo-romaine-IPD2QY abor
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              10 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                   02 · Règles d'urbanisme applicables
+
+
+
+
+  CODE                SERVITUDE                                                                        DÉTAIL
+
+  AC1                 Monument historique (abords)                                                     AC1 Hotel-des-Postes-IGJQBN abor
+
+  AC1                 Monument historique (abords)                                                     AC1
+                                                                                                       Maison-2-et-4-rue-Henri-Ducrot-IYVYRS
+                                                                                                       abor
+
+  AC1                 Monument historique (abords)                                                     AC1 Maison-des-Trousseau-I7WMHA abor
+
+  AC1                 Monument historique (abords)                                                     AC1 Salle-des-fetes-et-ecole-de-musique-
+                                                                                                       IKAXXR abor
+
+  AC1                 Monument historique (abords)                                                     AC1 Hotel-Chambetin-I1P13E abor
+
+  AC1                 Monument historique (abords)                                                     AC1 Couvent-de-lAnnonciade-IY4IAP abor
+
+  AC1                 Monument historique (abords)                                                     AC1 Ensemble-cathedral-IFK1KI abor
+
+  AC1                 Monument historique (abords)                                                     AC1 Abbaye-Saint-Aoustregesile-dite-du-
+                                                                                                       Chateau-ISU1Y8 abor
+
+  AC1                 Monument historique (abords)                                                     AC1
+                                                                                                       Ensemble-monumental-gallo-romain-ILV3CZ
+                                                                                                       abor
+
+  AC1                 Monument historique (abords)                                                     AC1 Fontaine-dite-de-Bourdaloue-ID7AIX
+                                                                                                       abor
+
+  AC1                 Monument historique (abords)                                                     AC1
+                                                                                                       Immeuble-de-lentreprise--Jacob-Leiseing-et-
+                                                                                                       Fils-IGAFMM abor
+
+  AC1                 Monument historique (abords)                                                     AC1 Palais-du-duc-Jean-de-Berry-IZP34P
+                                                                                                       abor
+
+  AC1                 Monument historique (abords)                                                     AC1
+                                                                                                       Maison-canoniale-12-place-Etienne-Dolet-
+                                                                                                       IMZ1YC abor
+
+  AC1                 Monument historique (abords)                                                     AC1 Maison-de-Bernard-Pastoureau-I15FUD
+                                                                                                       abor
+
+  AC1                 Monument historique (abords)                                                     AC1
+                                                                                                       Couvent-de-Notre-Dame-et-Saint-Joseph-du-
+                                                                                                       Mont-Carmel-I8HSRI abor
+
+  AC1                 Monument historique (abords)                                                     AC1 Chateau-deau-IP5KKJ abor
+
+  AC1                 Monument historique (abords)                                                     AC1
+                                                                                                       Porte-du-cloitre-de-la-cathedrale-IF0P8L
+                                                                                                       abor
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             11 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                   02 · Règles d'urbanisme applicables
+
+
+
+
+2.6 Patrimoine : l'architecte des Bâtiments de France
+     En clair : le terrain est dans un site patrimonial remarquable. Toute construction, extension, clôture, piscine
+     ou modification de façade, de toiture ou de menuiseries doit recevoir l'accord de l'architecte des Bâtiments
+     de France. Il peut imposer des matériaux, des couleurs, des volumes, ou refuser le projet.
+
+
+
+  PROTECTION                                  NOM                                                   CE QUE CELA IMPLIQUE
+
+  Site patrimonial                            Site patrimonial remarquable de                       Accord obligatoire de l'architecte (avis conforme)
+  remarquable                                 Bourges                                               pour tout projet modifiant l'aspect extérieur ; pas
+                                                                                                    de règlement approuvé publié : appréciation au
+                                                                                                    cas par cas
+
+  Abords de monument                          HÃ´tel de Charles de Chouys                           Accord de l'architecte pour les travaux visibles
+  historique                                                                                        (périmètre publié)
+
+  Abords de monument                          Maison dite "de la Tournelle"                         Accord de l'architecte pour les travaux visibles
+  historique                                                                                        (périmètre publié)
+
+  Abords de monument                          Maison GuÃ©rin, 77 rue                                Accord de l'architecte pour les travaux visibles
+  historique                                  Bourbonnoux.                                          (périmètre publié)
+
+  Abords de monument                          CollÃ©giale Saint Ursin                               Accord de l'architecte pour les travaux visibles
+  historique                                                                                        (périmètre publié)
+
+  Abords de monument                          PrieurÃ© de Saint Jean le Vieil                       Accord de l'architecte pour les travaux visibles
+  historique                                                                                        (périmètre publié)
+
+  Abords de monument                          Grange des dÃ®mes                                     Accord de l'architecte pour les travaux visibles
+  historique                                                                                        (périmètre publié)
+
+
+
+Acte de création du site patrimonial remarquableOuvrir le document officiel (PDF)
+
+
+Conseils : consulter l'architecte des Bâtiments de France (unité départementale de l'architecture et du patrimoine,
+joignable par la mairie) avant de dessiner le projet ; prévoir un délai d'instruction majoré d'un mois ; soigner l'insertion
+(matériaux, teintes, toitures, clôtures) dès l'esquisse.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                  12 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                         Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                    03 · Ce que vous pouvez construire
+
+
+
+
+    03              Ce que vous pouvez construire
+      DANS CETTE SECTION
+
+      La lecture du règlement de votre zone : surface constructible estimée, hauteur, reculs, aspect, usages
+      autorisés ou interdits, avec les extraits du texte officiel.
+
+
+Lecture du règlement écrit des zones UL et UL, sur lesquelles le terrain est à cheval.
+
+
+
+3.1 Un terrain à cheval sur 2 zones
+  ZONE                    NATURE                                            SURFACE                           PART           CONSTRUCTIBILITÉ
+
+  UL                      Urbaine                                           environ 2 670 m²                  100 %          Constructible
+
+  UL                      Urbaine                                           environ 2 670 m²                  100 %          Constructible
+
+
+
+     Les règles ne sont pas les mêmes d'une zone à l'autre : chaque titre ci-dessous indique la zone à laquelle la
+     règle s'applique.
+
+
+
+
+3.2 Zone UL · Potentiel constructible estimé
+     Le règlement de la zone UL n'admet pas de construction nouvelle à usage de logement. Seules restent
+     possibles les constructions expressément admises par la zone et les évolutions encadrées des
+     constructions existantes : extension limitée à 30 % de l'emprise existante.
+
+
+
+Constructions admises dans la zone :
+
+    Équipements d'intérêt collectif et services publics (non interdits par l'article UL-1) : salles d'art et de spectacle,
+    équipements sportifs, établissements d'enseignement, de santé et d'action sociale, autres équipements recevant du
+    public, lieux de culte, administrations publiques.
+    Un seul logement par unité foncière, uniquement s'il est lié au gardiennage des constructions autorisées sur le terrain,
+    intégré dans le volume des constructions principales et limité à 150 m² de surface de plancher (art. UL-2).
+    Extensions et annexes de constructions à destination de logement régulièrement édifiées ; en cas de création
+    d'emprise au sol, l'augmentation est limitée à 30 % de l'emprise au sol existante (art. UL-2).
+    Affouillements et exhaussements des sols nécessaires aux destinations, usages ou activités autorisés, aux
+    aménagements paysagers ou hydrauliques, aux travaux d'infrastructures routières, de transports collectifs, de
+    circulation douce ou d'aménagement d'espace public, ou aux recherches archéologiques (art. UL-2).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             13 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                         Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                    03 · Ce que vous pouvez construire
+
+
+
+
+3.3 Zone UL · Caractère de la zone
+La zone UL est un secteur à vocation d'équipements d'intérêt collectif (publics ou privés). Elle comprend des
+secteurs ULn dédiés aux installations et équipements de production d'énergies. La parcelle étudiée est
+classée UL (sans indice) : les règles générales de la zone s'appliquent, et non celles du secteur ULn. Le
+règlement de la zone ne comporte pas de coefficient d'occupation des sols.
+
+
+3.4 Zone UL · Règles de construction
+  CRITÈRE                                        RÈGLE APPLICABLE                                                                     ARTICLE
+
+  Surface minimale ou                            Non précisé dans le règlement de la zone (aucune surface                             art. UL-16
+  caractéristiques du terrain                    minimale de terrain). Les terrains doivent être desservis par une
+                                                 voie publique ou privée ouverte à la circulation automobile pour
+                                                 être constructibles.
+
+  Accès et voirie                                Terrain desservi par une voie publique ou privée ouverte à la                        art. UL-16
+                                                 circulation automobile (directement ou par passage sur terrain
+                                                 voisin, article 682 du Code civil). En cas de terrain desservi par
+                                                 plusieurs voies, un seul accès peut être imposé. Voies à créer :
+                                                 emprise minimale de 8 m, ramenée à 4,5 m pour une voie
+                                                 partagée, une zone 30 ou une zone de rencontre, et à 3,5 m pour
+                                                 une voie à sens unique ou en impasse. Voies en impasse à éviter,
+                                                 avec aire de demi-tour. Largeur minimale des accès : 3 m. Aucun
+                                                 accès automobile sur route express, nationale ou départementale
+                                                 hors points aménagés sauf autorisation du gestionnaire de voirie,
+                                                 ni depuis les voies exclusivement piétonnes ou cyclables. Accès
+                                                 conformes aux exigences de sécurité, de défense contre
+                                                 l'incendie et de protection civile.
+
+  Réseaux et assainissement                      Défense incendie conforme au règlement départemental. Eau                            art. UL-14 et
+                                                 potable : raccordement au réseau public au droit du terrain. Eaux                    UL-17
+                                                 usées : séparées des eaux pluviales ; raccordement obligatoire au
+                                                 réseau collectif par canalisations souterraines ; en l'absence de
+                                                 réseau, dispositif autonome conforme à la réglementation, conçu
+                                                 pour être mis hors circuit et raccordé au réseau collectif dès que
+                                                 possible. Déversement non domestique soumis à autorisation
+                                                 préalable. Eaux pluviales : infiltration ou stockage sur l'unité
+                                                 foncière en priorité ; débit de fuite maximal de 3 l/s/ha ;
+                                                 dimensionnement au moins décennal. Réseaux d'énergie et de
+                                                 télécommunication en souterrain ; raccordement au réseau de
+                                                 chaleur urbain obligatoire dans son périmètre pour les
+                                                 constructions chauffées de plus de 500 m² de surface de plancher
+                                                 (et opérations de plus de 5 logements ou lots à chauffage collectif)
+                                                 ; éclairage public des voies créées ; containers à déchets stockés
+                                                 sur le terrain.
+
+  Implantation par rapport aux                   Non précisé dans le règlement pour la zone UL sans indice. La                        art. UL-4
+  voies                                          règle de recul (3 m, ramené à 2 m pour les locaux techniques) ne
+                                                 concerne que les panneaux photovoltaïques en secteur ULn.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              14 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                         Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                    03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                        RÈGLE APPLICABLE                                                                     ARTICLE
+
+  Implantation par rapport aux                   Les constructions peuvent s'implanter sur les limites séparatives                    art. UL-5
+  limites séparatives                            ou en retrait. Sauf pour les ouvrages d'intérêt collectif de
+                                                 production, transformation ou transport d'énergie, les piscines et
+                                                 les abris de jardin, toute construction doit s'implanter en retrait des
+                                                 limites avec un terrain situé en zone UB, UD ou 1AUd, d'une
+                                                 distance au moins égale à la moitié de la hauteur à l'égout du toit
+                                                 ou à l'acrotère, sans être inférieure à 5 m. Antennes relais au sol :
+                                                 au moins 8 m des limites avec les zones UA, UB, UC, UD, UN et
+                                                 1AUD. Constructions existantes non conformes : extensions
+                                                 possibles dans le prolongement ou en retrait des murs existants.
+
+  Implantation des                               Non réglementé (il n'est pas fixé de règle).                                         art. UL-6
+  constructions entre elles
+
+  Emprise au sol                                 Non réglementé (il n'est pas fixé de règle). Extensions de                           art. UL-7 et
+                                                 logements existants : augmentation maximale de 30 % de                               UL-2
+                                                 l'emprise au sol existante.
+
+  Hauteur maximale                               Non précisé dans le règlement pour la zone UL sans indice (seule                     art. UL-8
+                                                 la hauteur de 3 m des panneaux photovoltaïques est fixée en
+                                                 secteur ULn). Dans les cônes de vue sur la cathédrale de
+                                                 Bourges (communes de Bourges et Saint-Doulchard), les
+                                                 hauteurs sont plafonnées selon le plan de l'annexe 4 du
+                                                 règlement.
+
+  Aspect extérieur et toitures                   Les constructions nouvelles, aménagements et extensions                              art. UL-9 et
+                                                 présentent une simplicité d'aspect et de volume respectant                           UL-11
+                                                 l'environnement ; les volumes s'adaptent au relief du terrain.
+                                                 Façades traitées avec le même soin, y compris les pignons ;
+                                                 coffrets et compteurs intégrés à la construction ou à la clôture.
+                                                 Les toitures, y compris celles des annexes, présentent une
+                                                 simplicité de volume et une unité de conception. Des dispositions
+                                                 différentes peuvent être autorisées pour les équipements d'intérêt
+                                                 collectif. Obligations de valorisation des toitures et aires de
+                                                 stationnement en énergie renouvelable ou végétalisation à partir
+                                                 de 500 m² d'emprise au sol.
+
+  Matériaux et couleurs                          Les matériaux bruts (parpaings, carreaux de plâtre, briques                          art. UL-9
+                                                 creuses) destinés à être recouverts d'un parement ou d'un enduit
+                                                 ne peuvent pas être laissés apparents sur les parements
+                                                 extérieurs des constructions et des clôtures. Les matériaux
+                                                 apparents doivent conserver durablement un aspect satisfaisant.
+                                                 Les enduits et peintures s'harmonisent avec l'environnement ; les
+                                                 couleurs discordantes sont interdites. Toitures en matériaux
+                                                 respectant les tons de l'environnement immédiat.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                15 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                         Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                    03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                        RÈGLE APPLICABLE                                                                     ARTICLE
+
+  Clôtures                                       Aspect en harmonie avec les constructions principales. Hauteur                       art. UL-9
+                                                 totale maximale de 2 m, portée à 2,50 m pour les piliers, mesurée
+                                                 depuis le terrain naturel avant travaux. Clôtures en plaques de
+                                                 béton brut teintées dans la masse. En périmètre de PPRi, renvoi
+                                                 aux prescriptions du PPRi si plus contraignantes. Ces dispositions
+                                                 peuvent ne pas s'appliquer pour des exigences de fonctionnement
+                                                 ou de sécurité d'équipements d'intérêt collectif et de services
+                                                 publics.
+
+  Stationnement                                  Automobile : logement collectif, 1 place pour T1 à T3 et 2 places                    art. UL-15
+                                                 pour T4 et plus ; logement individuel, 1 place (maximum 2) si
+                                                 surface de plancher inférieure ou égale à 100 m², au moins 2
+                                                 places au-delà ; hébergement, 1 place pour 3 chambres ;
+                                                 administrations publiques (locaux et bureaux), 1 place par tranche
+                                                 de 75 m² de surface de plancher ; bureau, 1 place par tranche de
+                                                 75 m² ; enseignement, 1 place pour 2 salles ; santé, 1 place pour
+                                                 4 chambres ; salles d'art et de spectacle, équipements sportifs,
+                                                 lieux de culte et autres équipements recevant du public : nombre
+                                                 suffisant au regard des besoins. Réduction possible jusqu'à 25 %
+                                                 avec 20 % de places réservées aux véhicules électriques ou en
+                                                 auto-partage. Vélos : au moins 15 % des places automobiles
+                                                 (minimum 3 places) pour équipements, bureaux et établissements
+                                                 d'enseignement ou de santé ; espace couvert, 1,50 m² par place
+                                                 (1 m² à partir de 10 vélos) ; logement de 2 logements ou plus : 1
+                                                 place (T1-T2), 2 places (T3 et plus).
+
+  Espaces verts et plantations                   Pas de pourcentage minimal d'espaces verts fixé. Espaces libres                      art. UL-12 et
+                                                 aménagés selon une composition paysagère soignée ; surfaces                          UL-13
+                                                 d'espaces verts non morcelées. Arbres de haute tige existants
+                                                 maintenus ou remplacés par des plantations équivalentes. Aires
+                                                 de stationnement de plus de 4 emplacements : un arbre de haute
+                                                 tige pour 100 m² (sauf ombrières photovoltaïques). Secteur UL :
+                                                 un arbre de haute tige par tranche entamée de 150 m² d'espaces
+                                                 verts créés, planté dans un espace de pleine terre d'au moins 5
+                                                 m². Aires de dépôt masquées par un rideau végétal. Espèces
+                                                 invasives interdites. Éléments végétaux protégés, espaces boisés
+                                                 classés et espaces écologiques ou paysagers protégés à
+                                                 conserver (compensation en cas d'abattage).
+
+  Densité ou coefficient                         Non précisé dans le règlement de la zone (pas de coefficient                         art. UL-7
+                                                 d'occupation des sols).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              16 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                    03 · Ce que vous pouvez construire
+
+
+
+
+3.5 Zone UL · Usages autorisés
+    Équipements d'intérêt collectif et services publics (non interdits par l'article UL-1) : salles d'art et de spectacle,
+    équipements sportifs, établissements d'enseignement, de santé et d'action sociale, autres équipements
+    recevant du public, lieux de culte, administrations publiques.
+    Un seul logement par unité foncière, uniquement s'il est lié au gardiennage des constructions autorisées sur le
+    terrain, intégré dans le volume des constructions principales et limité à 150 m² de surface de plancher (art.
+    UL-2).
+    Extensions et annexes de constructions à destination de logement régulièrement édifiées ; en cas de création
+    d'emprise au sol, l'augmentation est limitée à 30 % de l'emprise au sol existante (art. UL-2).
+    Affouillements et exhaussements des sols nécessaires aux destinations, usages ou activités autorisés, aux
+    aménagements paysagers ou hydrauliques, aux travaux d'infrastructures routières, de transports collectifs, de
+    circulation douce ou d'aménagement d'espace public, ou aux recherches archéologiques (art. UL-2).
+    Ouvrages d'intérêt collectif de production, de transformation ou de transport d'énergie (dérogation aux règles de
+    retrait par rapport aux limites séparatives, art. UL-5).
+
+
+3.6 Zone UL · Usages interdits ou soumis à conditions
+    Interdits (art. UL-1) : exploitation agricole et forestière ; logement autre que celui autorisé à l'article UL-2 ;
+    commerce et activités de service ; industrie ; entrepôt ; cuisine dédiée à la vente en ligne.
+    Interdits : création de terrain de camping et de parc résidentiel de loisirs ; aménagement de terrains destinés à
+    l'hivernage des caravanes, résidences mobiles de loisirs et habitations légères de loisirs ; installation
+    permanente de caravanes ou d'habitations légères de loisirs à vocation d'habitat permanent.
+    Interdits : dépôts de matériaux divers et de flottes de véhicules non liés à une destination autorisée ou à un
+    service public ; éoliennes ; carrières.
+    Interdits hors secteur ULn : installations de panneaux photovoltaïques au sol, flottants ou sur des constructions
+    irrégulières.
+    Dans le périmètre de protection rapprochée des captages de Saint-Ursin en projet (avis d'un hydrogéologue
+    agréé) : installations classées pour la protection de l'environnement interdites, et toute construction,
+    aménagement ou installation incompatible avec les prescriptions annexées au règlement.
+    Dans les périmètres de protection de captages faisant l'objet d'une déclaration d'utilité publique : renvoi aux
+    prescriptions de la servitude d'utilité publique.
+    Logement de gardiennage : un seul par unité foncière, intégré au volume des constructions principales, 150 m²
+    de surface de plancher maximum.
+    Aucune construction n'est autorisée dans un espace écologique ou paysager protégé, hormis les extensions,
+    annexes, abris de jardin ou clôtures situés à la périphérie, sans atteinte à son intégrité (art. UL-13).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            17 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                    03 · Ce que vous pouvez construire
+
+
+
+
+3.7 Zone UL · Points de vigilance pour votre projet
+    Vérifier sur le plan de zonage qu'il s'agit bien de UL et non du secteur ULn (règles photovoltaïques spécifiques).
+    Le logement n'est admis que pour le gardiennage des constructions autorisées : un logement neuf indépendant
+    est exclu.
+    Commerces, activités de service, industrie, entrepôt et cuisine dédiée à la vente en ligne sont interdits : toute
+    destination non listée comme équipement d'intérêt collectif est à vérifier.
+    Retrait d'au moins 5 m (et moitié de la hauteur) si la parcelle jouxte une zone UB, UD ou 1AUd.
+    Hauteur et emprise au sol non réglementées, mais vérifier les cônes de vue sur la cathédrale de Bourges
+    (annexe 4) à Bourges et Saint-Doulchard.
+    Consulter les périmètres de protection de captages (DUP, Saint-Ursin en projet), le PPRi, les éléments de
+    patrimoine bâti (annexe 1), les espaces boisés classés et espaces écologiques ou paysagers protégés, et les
+    servitudes éventuelles.
+    Panneaux photovoltaïques au sol interdits hors secteur ULn ; obligations d'énergie renouvelable ou de
+    végétalisation à partir de 500 m² d'emprise au sol.
+    Vérifier le périmètre du réseau de chaleur urbain (annexe 7) et les capacités des réseaux d'eaux pluviales (débit
+    de fuite de 3 l/s/ha).
+    Le texte du PDF est partiellement illisible (extraction incomplète) : confronter aux articles UL-2, UL-9 et UL-12
+    dans le document officiel.
+
+
+3.8 Zone UL · Extraits du règlement
+
+     art. UL-1 · page 78
+     « Les constructions à destination de logement autres que celles autorisées à l’article UL-2 ; »
+
+
+     art. UL-2 · page 79
+     « Il ne peut y avoir plus d’un logement par unité foncière et celui-doit doit s’inscrire dans le volume des
+     constructions principales, et ne doit pas dépasser 150 m² de surface de plancher. »
+
+
+     art. UL-5 · page 80
+     « toutes les constructions doivent obligatoirement s’implanter en retrait des limites séparatives avec un
+     terrain situé en zone UB, UD ou 1AUd »
+
+
+     art. UL-7 · page 80
+     « Il n’est pas fixé de règle. »
+
+
+     art. UL-9 · page 81
+     « La hauteur totale des clôtures n’excédera pas 2 m, portés à 2,50 m pour les piliers. »
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            18 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                    03 · Ce que vous pouvez construire
+
+
+
+
+     art. UL-12 · page 82
+     « il est imposé la plantation d’un arbre de haute tige par tranche entamée de 150 m² d’espaces verts créés
+     »
+
+
+
+3.9 Zone UL · Démarches probables
+    Certificat d'urbanisme opérationnel pour valider la faisabilité du projet.
+    Permis de construire ou déclaration préalable selon la surface créée et la nature des travaux.
+    Permis d'aménager ou déclaration préalable pour les aménagements, affouillements et exhaussements
+    concernés.
+    Autorisation de déversement pour les eaux usées non domestiques ; demande de raccordement aux réseaux.
+    Consultation du gestionnaire de voirie pour les accès sur routes départementales ou nationales.
+    Avis de l'architecte des bâtiments de France si la parcelle est en périmètre de protection patrimoniale ;
+    autorisation au titre des établissements recevant du public pour les équipements.
+    Prescriptions de la servitude d'utilité publique si la parcelle est dans un périmètre de captage.
+
+     Cette lecture est établie automatiquement, par intelligence artificielle, à partir du règlement officiel en
+     vigueur. Elle peut comporter des imprécisions : seul le texte du règlement, reproduit en annexe (pages 78 à
+     89 du document approuvé), fait foi, avec les dispositions générales, les orientations d'aménagement et les
+     servitudes.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            19 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                             Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                           04 · Loi Littoral et loi Montagne
+
+
+
+
+    04              Loi Littoral et loi Montagne
+      DANS CETTE SECTION
+
+      Les lois nationales qui s'ajoutent au document d'urbanisme sur le littoral et en montagne. Elles
+      peuvent rendre un terrain inconstructible même en zone constructible.
+
+
+Les lois d'aménagement qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+
+
+4.1 Loi Littoral
+Commune littorale                                           Non
+
+Distance au rivage                                          Sans objet
+
+Bande des 100 mètres                                        Sans objet
+
+
+La commune n'est pas riveraine de la mer : la loi Littoral ne s'applique pas (sauf rives de grands lacs).
+
+
+4.2 Loi Montagne
+Commune en zone de montagne                                 Non
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                 20 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                              05 · Risques naturels et technologiques
+
+
+
+
+    05              Risques naturels et technologiques
+      DANS CETTE SECTION
+
+      Les risques connus à l'adresse du terrain (inondation, feu de forêt, mouvement de terrain, radon…) et
+      les catastrophes naturelles reconnues sur la commune.
+
+
+Base nationale Géorisques (ministère de la Transition écologique).
+
+
+
+5.1 Risques naturels à l'adresse de la parcelle
+  RISQUE                                             À LA PARCELLE                                     SUR LA COMMUNE
+
+  Inondation                                         Non connu                                         Existant
+
+  Remontée de nappe                                  Non connu                                         Existant
+
+  Séisme                                             Existant – faible                                 Existant – faible
+
+  Mouvement de terrain                               Inconnu                                           Existant
+
+  Retrait-gonflement des argiles                     Existant – modéré                                 Existant – important
+
+  Radon                                              Existant – faible                                 Existant – faible
+
+
+
+
+5.2 Risques technologiques
+  RISQUE                                             À LA PARCELLE                                     SUR LA COMMUNE
+
+  Installations industrielles                        Non concerné                                      Concerné
+  (ICPE)
+
+  Canalisations de matières                          Non concerné                                      Concerné
+  dangereuses
+
+  Pollution des sols                                 Concerné                                          Concerné
+
+
+
+
+5.3 Indicateurs réglementaires
+Zone de sismicité                                           Zone 2 – faible
+
+Potentiel radon                                             Catégorie 1 (potentiel faible)
+
+Retrait-gonflement des argiles                              Existant – modéré
+
+Plans de prévention (PPR)                                   Vallée de l'Yèvre, moulon, Auron
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           21 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                              05 · Risques naturels et technologiques
+
+
+
+
+5.4 Arrêtés de catastrophe naturelle
+17 arrêtés de reconnaissance de l'état de catastrophe naturelle concernent la commune.
+
+  ÉVÉNEMENT                                                                     PÉRIODE                                      JOURNAL OFFICIEL
+
+  Inondations et/ou Coulées de Boue                                             12/02/2026 au 26/02/2026                     13/05/2026
+
+  Sécheresse                                                                    31/12/2024 au 30/12/2025                     26/02/2026
+
+  Sécheresse                                                                    01/07/2019 au 30/09/2019                     12/06/2020
+
+  Sécheresse                                                                    01/07/2018 au 31/12/2018                     17/07/2019
+
+  Mouvement de Terrain                                                          02/06/2016                                   20/10/2018
+
+  Inondations et/ou Coulées de Boue                                             28/05/2016 au 06/06/2016                     16/06/2016
+
+  Sécheresse                                                                    01/04/2011 au 30/06/2011                     21/10/2012
+
+  Inondations et/ou Coulées de Boue                                             31/07/2008                                   13/02/2009
+
+  Inondations et/ou Coulées de Boue                                             26/05/2007                                   01/08/2007
+
+  Sécheresse                                                                    01/02/2002 au 31/12/2002                     26/08/2004
+
+  Inondations et/ou Coulées de Boue                                             07/05/2001                                   26/09/2001
+
+  Mouvement de Terrain                                                          25/12/1999 au 29/12/1999                     30/12/1999
+
+  Inondations et/ou Coulées de Boue                                             25/12/1999 au 29/12/1999                     30/12/1999
+
+  Sécheresse                                                                    01/01/1991 au 30/06/1998                     10/03/1999
+
+  Sécheresse                                                                    01/05/1989 au 31/12/1990                     12/06/1991
+
+  Tempête                                                                       06/11/1982 au 10/11/1982                     02/12/1982
+
+  Inondations et/ou Coulées de Boue                                             06/11/1982 au 10/11/1982                     02/12/1982
+
+
+
+
+5.5 Installations classées à proximité (moins de 1 km)
+    KNDS France · Autorisation · En exploitation avec titre
+    POSTE (LA) · Enregistrement · En fin d'exploitation
+    EG RETAIL (FRANCE) SAS · Autres régimes
+    SITA CENTRE OUEST · Autorisation · En fin d'exploitation
+    SOCIETE DES PETROLES SHELL · Autres régimes
+    EURL JD NET · Autres régimes
+    MONIN Georges SAS · Enregistrement · En fin d'exploitation
+    SARL CENTRE RADIA SERVICE · Autorisation · En fin d'exploitation
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           22 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                              05 · Risques naturels et technologiques
+
+
+
+
+5.6 Sites et sols pollués à proximité
+    dépôt de liquides inflammables · ancien site industriel ou d'activité de service (CASIAS)
+    dépôt de liquides inflammables · ancien site industriel ou d'activité de service (CASIAS)
+    Moulin de la Chappe · ancien site industriel ou d'activité de service (CASIAS)
+    atelier de décapage des métaux · ancien site industriel ou d'activité de service (CASIAS)
+    atelier de métallisation · ancien site industriel ou d'activité de service (CASIAS)
+    dépôt d'acétylène · ancien site industriel ou d'activité de service (CASIAS)
+    industrie alimentaire-usine à vapeur-biscuitetie · ancien site industriel ou d'activité de service (CASIAS)
+    métallurgie, dépôts de Zincs de la vieille montagne · ancien site industriel ou d'activité de service (CASIAS)
+    2 anciens sites industriels ou d'activités de service (CASIAS) recensés
+
+
+5.7 Rapport officiel Géorisques
+Les risques recensés ci-dessus proviennent des bases officielles de Géorisques, service public d'information sur les
+risques. Le rapport officiel complet peut être édité sans frais, à tout moment et à jour, à partir de l'adresse du terrain
+sur le site Géorisques.
+
+
+    Éditer le rapport officiel Géorisques
+
+
+Lors d'une vente ou d'une location, le vendeur ou le bailleur doit remettre un état des risques de moins de six mois, complété et
+signé, et l'information sur les sinistres indemnisés au titre des catastrophes naturelles.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           23 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                               06 · Le terrain : accès, relief et réseaux
+
+
+
+
+    06              Le terrain : accès, relief et réseaux
+      DANS CETTE SECTION
+
+      Les contraintes physiques du terrain : accès à une voie, pente et exposition, assainissement,
+      raccordement à l'électricité et à l'eau, fibre. Ce sont elles qui pèsent le plus sur le coût d'un projet.
+
+
+Voirie (IGN, BD TOPO), altimétrie (IGN, RGE ALTI), règlement de la zone, réseau électrique (Agence ORE) et éligibilité internet
+(Arcep).
+
+
+
+6.1 Accès
+Accès direct à une voie                                     Oui
+
+Voie                                                        Route à 1 chaussée · Rue Vieil-Castel
+
+Largeur de chaussée                                         5m
+
+Accès des véhicules                                         Libre
+
+
+La parcelle touche une voie carrossable. L'autorisation d'urbanisme vérifiera que l'accès est adapté au projet et sûr, et
+peut imposer une permission de voirie ou un aménagement de l'entrée.
+
+
+6.2 Relief et exposition
+Pente moyenne                                               8%
+
+Exposition                                                  Versant orienté ouest
+
+Altitude                                                    141 à 149 m
+
+Appréciation                                                Pente modérée
+
+
+
+
+ 150 m
+
+
+
+
+ 136 m
+
+
+           Coupe du terrain dans le sens de la pente · longueur 198 m
+
+
+     Implantation courante ; terrassements et soutènements légers à prévoir.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              24 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Bourges · IL 336
+           TerrenUrbanisme
+                                                                                                               06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.3 Ensoleillement
+Appréciation                                                Ensoleillement moyen
+
+Soleil direct le 21 juin                                    10 h 42 (de 06 h 50 à 17 h 20)
+
+Soleil direct aux équinoxes                                 8 h 42 (de 07 h 30 à 16 h 00)
+
+Soleil direct le 21 décembre                                4 h 30 (de 10 h 50 à 15 h 10)
+
+Ensoleillement annuel possible                              2 986 h par an, soit 68 % du maximum à cette latitude
+
+Hauteur du relief vers le sud                               14°
+
+
+  75°
+
+
+
+  60°
+
+
+
+  45°
+
+
+
+  30°
+
+
+
+  15°
+
+
+
+  0°
+                                 Est                    Sud-est                     Sud                  Sud-ouest               Ouest
+
+           21 juin           Équinoxes                21 décembre                 Horizon : relief et bâtiments voisins
+
+
+
+        Le relief ou les constructions voisines privent le terrain d'une part notable du soleil, en particulier l'hiver.
+        L'implantation et l'orientation des pièces de vie seront déterminantes.
+
+
+
+Ensoleillement mois par mois (le 21 de chaque mois)
+  MOIS                              SOLEIL POSSIBLE                      SOLEIL SUR LE TERRAIN                       PREMIER ET DERNIER RAYON
+
+  Janvier                           9h                                   5 h 18                                      10 h 10 – 15 h 20
+
+  Février                           10 h 18                              6 h 48                                      08 h 40 – 15 h 20
+
+  Mars                              12 h                                 8 h 42                                      07 h 30 – 16 h 00
+
+  Avril                             13 h 48                              10 h                                        07 h 40 – 17 h 30
+
+  Mai                               15 h 12                              10 h 30                                     07 h 00 – 17 h 20
+
+  Juin                              15 h 42                              10 h 42                                     06 h 50 – 17 h 20
+
+  Juillet                           15 h 12                              10 h 30                                     07 h 10 – 17 h 30
+
+  Août                              13 h 42                              10 h 12                                     07 h 40 – 17 h 40
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              25 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                               06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  MOIS                              SOLEIL POSSIBLE                      SOLEIL SUR LE TERRAIN                       PREMIER ET DERNIER RAYON
+
+  Septembre                         12 h                                 8 h 42                                      08 h 20 – 16 h 50
+
+  Octobre                           10 h 18                              6 h 42                                      09 h 20 – 15 h 50
+
+  Novembre                          9h                                   5 h 30                                      09 h 40 – 15 h 00
+
+  Décembre                          8 h 18                               4 h 30                                      10 h 50 – 15 h 10
+
+
+
+Calcul théorique par ciel dégagé, au centre de la parcelle et à hauteur d'homme : course du soleil heure par heure, masque du relief sur 6
+km (IGN, RGE ALTI) et des bâtiments voisins sur 120 m (IGN, BD TOPO, 19 bâtiments pris en compte). La végétation et les
+constructions récentes ne sont pas prises en compte.
+
+
+6.4 Quel raccordement pour les eaux usées ?
+Raccordement à prévoir                                          Tout-à-l'égout (assainissement collectif)
+
+Zone du PLU                                                     UL · Urbaine
+
+Zonage d'assainissement                                         Zone d'assainissement collectif
+
+Réseau collectif sur la commune                                 Oui · BOURGES Plus · régie publique
+
+
+     Le terrain est classé en zone d'assainissement collectif par le zonage d'assainissement de la commune : la
+     construction se raccorde au réseau public.
+
+
+
+Ce que dit le règlement de la zone
+Raccordement obligatoire par canalisations souterraines au réseau collectif d'assainissement des eaux usées,
+conformément au règlement d'assainissement collectif. En l'absence de réseau collectif et à défaut de sa réalisation
+pendant la validité de l'autorisation de construire, les eaux usées sont dirigées vers un dispositif autonome conforme au
+règlement du service d'assainissement non collectif et à la réglementation, conçu pour être mis hors circuit et raccordé au
+réseau collectif dès que possible. Eaux usées séparées des eaux pluviales ; déversement non domestique soumis à
+autorisation préalable, avec prétraitement possible. En PPR2 des captages de Saint-Ursin en projet : rejet dans le milieu
+naturel interdit et raccordement obligatoire au réseau collectif lorsqu'il existe.
+
+Le règlement admet un assainissement individuel uniquement là où le réseau public n'existe pas : cette mention ne signifie pas
+que le terrain n'est pas desservi.
+
+Ce que cela coûte
+Raccordement au tout-à-l'égout : branchement sous la voie réalisé par le service d'assainissement (souvent 1 500 à 5 000
+€ selon la distance), canalisation sur le terrain jusqu'à la maison, et participation pour le financement de l'assainissement
+collectif (PFAC) fixée par la commune ou l'intercommunalité, généralement de 1 000 à 5 000 €. Le service remet un devis
+à partir du plan de situation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              26 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                               06 · Le terrain : accès, relief et réseaux
+
+
+
+
+Qui contacter pour obtenir la confirmation
+Service d'assainissement                                        BOURGES Plus
+
+Mairie                                                          Mairie de Bourges
+
+Téléphone                                                       02 48 57 80 00
+
+
+    Demandez au service d'assainissement, avec la référence cadastrale, si une canalisation publique passe au droit du
+    terrain, à quelle profondeur, et le montant de la PFAC. Sa réponse écrite vaut attestation de raccordabilité.
+    Certificat d'urbanisme opérationnel (formulaire Cerfa 13410, délivré sans frais) : la mairie y indique officiellement si le
+    terrain est desservi par le réseau d'assainissement.
+    Plan des réseaux : la présence des canalisations enterrées près du terrain peut être vérifiée sur
+    reseaux-et-canalisations.gouv.fr, le guichet unique des réseaux.
+Sources : zonage d'assainissement et règlement (Géoportail de l'Urbanisme) ; services publics d'assainissement (SISPEA, Office
+français de la biodiversité) ; annuaire de l'administration (service-public.fr).
+
+Si le réseau public n'était finalement pas accessible
+  FILIÈRE                                      QUAND ELLE CONVIENT                                                         ORDRE DE PRIX
+
+  Fosse toutes eaux et                         Sol perméable, terrain assez grand et peu pentu                             5 000 à 10 000 €
+  épandage
+
+  Filtre à sable                               Sol peu perméable, place suffisante                                         8 000 à 12 000 €
+
+  Micro-station agréée                         Petit terrain ou sol défavorable ; entretien et électricité                 7 000 à 15 000 €
+
+  Filtre compact agréé                         Petit terrain, sans électricité                                             9 000 à 14 000 €
+
+
+
+Ordres de prix indicatifs (fourniture et pose, hors étude de sol et terrassements particuliers). La filière est choisie au vu de l'étude de sol
+et validée par le SPANC.
+
+
+6.5 Électricité et eau potable
+Gestionnaire du réseau                                          Enedis
+
+Réseau basse tension le plus proche                             à environ 25 m (ligne souterraine)
+
+Ligne aérienne la plus proche                                   à environ 75 m
+
+Ligne souterraine la plus proche                                à environ 25 m
+
+Poste de transformation le plus proche                          au contact de la parcelle
+
+Appréciation                                                    Branchement simple probable
+
+
+     Le réseau basse tension passe à environ 25 m : un branchement simple est en principe possible (de l'ordre
+     de 1 500 à 3 000 € pour une maison, selon la longueur et la puissance), sous réserve de la capacité du
+     réseau et des coffrets existants.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              27 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                               06 · Le terrain : accès, relief et réseaux
+
+
+
+
+Ce qu'il faut vérifier avant d'acheter
+    La capacité du réseau : même un réseau proche peut être saturé (coffret ou câble plein, poste de transformation au
+    maximum). Seule une étude du gestionnaire permet de le savoir ; c'est la cause la plus fréquente de surcoûts
+    imprévus.
+    Électricité : demander au gestionnaire du réseau une étude de raccordement ou un devis à partir de l'adresse et du
+    plan de situation (sans frais). Elle indique le type de raccordement, son coût et son délai.
+    Eau potable : les plans du réseau d'eau ne sont pas publics. Interroger le service des eaux (coordonnées ci-dessous)
+    sur la présence d'une canalisation au droit du terrain, sa capacité et le coût du branchement, ainsi que sur la défense
+    incendie (borne à moins de 200 m environ).
+    Certificat d'urbanisme opérationnel : la mairie y indique si le terrain est desservi par les réseaux publics (eau,
+    électricité, assainissement) et, à défaut, si et quand ils seront étendus. Un refus de permis peut être fondé sur
+    l'insuffisance des réseaux (article L. 111-11 du Code de l'urbanisme).
+
+Qui contacter
+Service de l'eau potable                                        BOURGES Plus
+
+Mode de gestion                                                 Régie publique
+
+Contact pour le branchement                                     BOURGES Plus
+
+Mairie                                                          Mairie de Bourges
+
+Téléphone de la mairie                                          02 48 57 80 00
+
+Électricité (raccordement)                                      Enedis · demande en ligne sur enedis.fr (raccordement)
+
+La mairie oriente vers le bon interlocuteur et confirme, dans le certificat d'urbanisme, la desserte du terrain par les réseaux. Sources :
+SISPEA, observatoire des services publics d'eau (OFB) ; annuaire de l'administration (service-public.fr).
+
+Dans une promesse de vente, une condition suspensive portant sur le coût du raccordement aux réseaux protège l'acquéreur.
+Source de la cartographie électrique : Agence ORE, données des gestionnaires de réseaux de distribution ; tracés indicatifs.
+
+
+6.6 Fibre et internet
+     Le terrain n'a pas encore d'adresse propre, mais la fibre est déployée à 20 m (12 Résidence Vieil Castel) :
+     un logement construit sur le terrain pourra en principe y être raccordé.
+
+
+
+Adresse la plus proche                                             12 Résidence Vieil Castel · à 20 m · raccordable
+
+Point fibré le plus proche                                         12 Résidence Vieil Castel · à 20 m
+
+Adresses fibrées à moins de 100 m                                  10 sur 10
+
+Adresses fibrées à moins de 400 m                                  514 sur 515
+
+Technologies disponibles à proximité                               4G fixe, Fibre, Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              28 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                                                 Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                           06 · Le terrain : accès, relief et réseaux
+
+
+
+
+     Points fibrés autour du terrain
+                                                                                              F
+                                                                                                                   F
+                                                                          F               F                      FF FF F
+                                               F
+                                                                                              F                    FF
+                                                                                                                                 F
+                                                                                                                                F
+                                                                                                                       F         FF               F
+                                                           F                                          F                     F         F
+                                                                                                                                          F
+                                                                   F                                                             FF           F
+                                                                                                          F
+                                                                          F                                                                FF F
+                                                                                  F                       F                                       F
+                                                                                                                                             FF
+                                                                      F               F                    F                                    F
+                                                       F                  F                                 F
+                                                F                                                                           F F           F F
+                                       F                    F                 F               F                 F
+                                       FF F                                                                      F            F          F F
+                                            F                   F                                                                     F  F F
+                                         F
+                                         F FF
+                                                                              F
+                                                                                      F
+                                                                                          F                       F         FF F FF
+                                                                 F         F F                                     F      F      F      FF
+                                         F    FF F                                                                     F F FF           F
+                                                                  F                                                                    FF
+                                          F FF                            F                                             F F
+                                                                                                                                       F F
+                                           F      F                                                                      FFF         F
+                                                                                                                          F         F F
+                                                   F                                                                        F      F
+                                          F        F                                                                          F       F F
+                                                            F F F                                                                  FF F
+                                              F        FF
+                                               F                                                                                     F
+                                                       F                                                                        FF FF
+                                                        F                                                                        F
+                                                   F                                                                               FF
+                                                           F
+
+                                                                                                  F
+                                                               F
+
+
+                                                                                                                                                               100 m
+
+
+
+Repères F : adresses déclarées raccordables à la fibre (Arcep) · en terracotta : sur la parcelle · fond © IGN
+
+
+Vérifiez la fibre à l'adresse du terrain :
+
+                       Carte fibre Orange                                                                                  Carte de l'Arcep
+
+
+  DISTANCE            ADRESSE                                                                             FIBRE                           AUTRES ACCÈS
+
+  20 m                12 Résidence Vieil Castel                                                           Oui                             4G fixe, Satellite
+
+  30 m                11 Résidence Vieil Castel                                                           Oui                             4G fixe, Satellite
+
+  44 m                10 Résidence Vieil Castel                                                           Oui                             4G fixe, Satellite
+
+  57 m                13 Résidence Vieil Castel                                                           Oui                             4G fixe, Satellite
+
+  63 m                9 résidence vieil castel                                                            Oui                             4G fixe, Satellite
+
+  75 m                18 Résidence Vieil Castel                                                           Oui                             4G fixe, Satellite
+
+  77 m                8 Résidence Vieil Castel                                                            Oui                             4G fixe, Satellite
+
+  78 m                14 Résidence Vieil Castel                                                           Oui                             4G fixe, Satellite
+
+
+
+Source : Arcep, « Ma connexion internet », éligibilité déclarée par les opérateurs, adresse par adresse. Le tracé des câbles n'est pas
+public : la présence de la fibre en limite de terrain se vérifie auprès de l'opérateur ou par une déclaration de projet de travaux (DT).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                                     29 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                               06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.7 Qui contacter pour les réseaux
+  RÉSEAU                                      INTERLOCUTEUR                                            CE QU'IL FAUT DEMANDER
+
+  Eau potable et                              Mairie ou service des eaux de la                         Attestation de desserte et conditions de
+  assainissement collectif                    commune                                                  raccordement
+
+  Assainissement individuel                   SPANC (communauté de communes)                           Contrôle de conception sur la base de l'étude
+                                                                                                       de sol
+
+  Électricité                                 Enedis (gestionnaire du réseau de                        Étude de raccordement et devis
+                                              distribution)
+
+  Fibre et téléphone                          Opérateur d'infrastructure et fournisseur                Raccordement du futur logement
+                                              d'accès
+
+  Tous réseaux                                Guichet unique des réseaux                               Déclaration de projet de travaux (DT) pour
+                                              (reseaux-et-canalisations.gouv.fr)                       localiser les réseaux existants
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                               30 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                           07 · Environnement et marché immobilier
+
+
+
+
+    07              Environnement et marché immobilier
+      DANS CETTE SECTION
+
+      Les espaces naturels protégés autour du terrain et les prix de vente réels des maisons, appartements
+      et terrains alentour.
+
+
+Inventaire national du patrimoine naturel et demandes de valeurs foncières (DVF).
+
+
+
+7.1 Espaces naturels protégés ou inventoriés
+  TYPE                                                         NOM DU SITE
+
+  Abords de monument historique                                27 monuments, dont Hotel de Charles de Chouys, Maison dite de la
+                                                               Tournelle, Maison Guerin 77 rue Bourbonnoux…
+
+
+
+La présence d'un site Natura 2000 peut imposer une évaluation des incidences avant certains travaux. Une ZNIEFF est
+un inventaire scientifique sans portée réglementaire directe, mais elle signale un intérêt écologique pris en compte dans
+l'instruction des autorisations.
+
+
+7.2 Espèces protégées observées près du terrain
+122 espèces protégées ont été observées dans un rayon de 1 km autour du terrain depuis 1990 ; les 14 plus
+fréquemment signalées figurent ci-dessous.
+
+  ESPÈCE                                                             GROUPE                  PROTECTION                      OBSERVATIONS
+
+  Mésange charbonnière (Parus major)                                 Oiseau                  Nationale (espèce et            781 · dernière en
+                                                                                             habitat)                        2025
+
+  Moineau domestique (Passer domesticus)                             Oiseau                  Nationale (espèce et            629 · dernière en
+                                                                                             habitat)                        2025
+
+  Mésange bleue (Cyanistes caeruleus)                                Oiseau                  Nationale (espèce et            548 · dernière en
+                                                                                             habitat)                        2024
+
+  Rouge-gorge familier (Erithacus rubecula)                          Oiseau                  Nationale (espèce et            537 · dernière en
+                                                                                             habitat)                        2024
+
+  Pinson des arbres (Fringilla coelebs)                              Oiseau                  Nationale (espèce et            530 · dernière en
+                                                                                             habitat)                        2026
+
+  Corneille noire (Corvus corone)                                    Oiseau                  Nationale (espèce et            458 · dernière en
+                                                                                             habitat)                        2024
+
+  Martinet noir (Apus apus)                                          Oiseau                  Nationale (espèce et            399 · dernière en
+                                                                                             habitat)                        2025
+
+  Fauvette à tête noire (Sylvia atricapilla)                         Oiseau                  Nationale (espèce et            396 · dernière en
+                                                                                             habitat)                        2023
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        31 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                           07 · Environnement et marché immobilier
+
+
+
+
+  ESPÈCE                                                             GROUPE                  PROTECTION                      OBSERVATIONS
+
+  Pouillot véloce (Phylloscopus collybita)                           Oiseau                  Nationale (espèce et            388 · dernière en
+                                                                                             habitat)                        2021
+
+  Rouge-queue noir (Phoenicurus                                      Oiseau                  Nationale (espèce et            387 · dernière en
+  ochruros)                                                                                  habitat)                        2025
+
+  Héron cendré (Ardea cinerea)                                       Oiseau                  Nationale (espèce et            325 · dernière en
+                                                                                             habitat)                        2026
+
+  Chardonneret élégant (Carduelis                                    Oiseau                  Nationale (espèce et            306 · dernière en
+  carduelis)                                                                                 habitat)                        2025
+
+  Troglodyte mignon (Troglodytes                                     Oiseau                  Nationale (espèce et            277 · dernière en
+  troglodytes)                                                                               habitat)                        2022
+
+  Grand Cormoran (Phalacrocorax carbo)                               Oiseau                  Nationale (espèce et            271 · dernière en
+                                                                                             habitat)                        2022
+
+
+
+     Une observation à proximité ne signifie pas que l'espèce vit sur le terrain. Mais si elle y est présente, il est
+     interdit de détruire, capturer ou déranger les individus et, pour la plupart de ces espèces, de détruire leurs
+     lieux de reproduction et de repos (articles L. 411-1 et suivants du Code de l'environnement). L'infraction est
+     punie de 3 ans d'emprisonnement et 150 000 € d'amende.
+
+
+
+Que faire avant de construire ?
+    Pour une maison individuelle, aucune étude écologique n'est imposée en règle générale, et l'étude de sol porte sur le
+    terrain (fondations), pas sur la faune ni la flore. Vous restez cependant responsable si une espèce protégée vit sur la
+    parcelle : en cas de doute (espèce observée tout près, vieux arbres, murets, maquis, zone humide), faites passer un
+    écologue avant de défricher.
+    Si un enjeu est confirmé : inventaire faune-flore aux saisons utiles (printemps et été en général), puis mesures pour
+    éviter et réduire l'impact : implantation de la maison sur la partie la moins sensible, travaux hors période de
+    reproduction, clôture de chantier adaptée, déplacement d'individus par un spécialiste habilité.
+    Si la destruction d'individus ou d'habitats ne peut pas être évitée : demande de dérogation « espèces protégées »
+    auprès de la préfecture (DREAL), avec avis du conseil scientifique. Comptez 4 à 12 mois d'instruction, à anticiper
+    avant le dépôt du permis.
+
+Combien prévoir ?
+Pré-diagnostic écologique                                   800 à 2 000 € (une visite et une note de synthèse)
+
+Inventaire faune-flore                                      3 000 à 10 000 € selon la surface et le nombre de passages
+
+Mesures d'évitement et de réduction                         500 à 5 000 € (balisage, calendrier, suivi de chantier)
+
+Dossier de dérogation                                       8 000 à 25 000 €, hors mesures de compensation éventuelles
+
+Ordres de prix indicatifs, honoraires de bureaux d'études en environnement, si une étude est nécessaire. Pour une maison sur un terrain
+déjà entouré de constructions, aucune étude n'est le plus souvent requise.
+
+Sources : statuts de protection TAXREF et base de connaissance des statuts (INPN, Muséum national d'Histoire naturelle) ; observations
+naturalistes GBIF, qui rassemble notamment les données de l'INPN et du SINP.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        32 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                           07 · Environnement et marché immobilier
+
+
+
+
+7.3 Prix de l'immobilier à Bourges
+Prix au mètre carré des ventes enregistrées sur la commune au cours des cinq dernières années publiées. Seules
+les ventes portant sur un bien unique sont retenues.
+
+  TYPE DE BIEN                                          VENTES                        €/M² MÉDIAN                            €/M² MOYEN
+
+  Maisons                                               2 564                         1 761 €/m²                             1 810 €/m²
+
+  Appartements                                          2 609                         1 530 €/m²                             1 581 €/m²
+
+  Locaux commerciaux                                    372                           908 €/m²                               1 077 €/m²
+
+
+
+Source : statistiques des demandes de valeurs foncières (DGFiP, Etalab). Prix des actes, hors frais : un ordre de grandeur, pas
+une estimation du bien.
+
+
+7.4 Ventes de terrains autour de la parcelle
+Période observée                                            2021 à 2025
+
+Ventes de terrains recensées                                35
+
+Prix médian                                                 92 €/m²
+
+Prix courants (une vente sur deux)                          14 à 252 €/m²
+
+
+  DATE                     PARCELLE                            NATURE                                  SURFACE             PRIX           €/M²
+
+  07/07/2025               DN 856                              sols                                    129 m²              131 990 €      1 023
+
+  05/03/2025               DO 33                               jardins                                 1 190 m²            2 000 €        2
+
+  25/03/2024               DN 852 (+1)                         sols                                    386 m²              41 000 €       106
+
+  18/12/2023               IL 185                              jardins                                 330 m²              3 000 €        9
+
+  08/12/2023               DK 429                              sols                                    940 m²              650 000 €      691
+
+  13/10/2023               DY 734 (+1)                         sols                                    318 m²              80 000 €       252
+
+  05/07/2023               DO 32 (+1)                          jardins                                 1 600 m²            3 200 €        2
+
+  25/11/2022               DY 49 (+3)                          jardins, sols                           370 m²              75 000 €       203
+
+  23/06/2022               IL 323 (+2)                         sols                                    114 m²              20 000 €       175
+
+  13/12/2021               DY 84                               jardins                                 124 m²              1 000 €        8
+
+  26/07/2021               DY 1012                             sols                                    457 m²              150 000 €      328
+
+  09/07/2021               DN 839                              sols                                    127 m²              15 000 €       118
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              33 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                           07 · Environnement et marché immobilier
+
+
+
+
+Source : DVF, ventes enregistrées par la DGFiP. Les prix au mètre carré dépendent fortement de la constructibilité, de la vue, de
+l'accès et de la viabilisation : ils donnent un ordre de grandeur, pas une estimation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        34 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                           Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                                   08 · Historique du site
+
+
+
+
+    08              Historique du site
+      DANS CETTE SECTION
+
+      Le terrain vu du ciel au fil des décennies et les permis de construire accordés autour : l'évolution du
+      secteur en un coup d'œil.
+
+
+Photographies aériennes de l'IGN et permis de construire délivrés (Sitadel).
+
+
+
+8.1 Le terrain vu du ciel, d'hier à aujourd'hui
+
+    1950-1965                                                2000-2005                                                 2006-2010
+
+
+
+
+    2011-2015                                                Aujourd'hui
+
+
+
+
+Ces vues montrent l'évolution du terrain et du quartier, des années 1950 à aujourd'hui (photographies aériennes de l'IGN).
+
+     Bon à savoir : l'existence ancienne d'une construction peut ouvrir, sous conditions, un droit à reconstruire ou
+     à restaurer un bâtiment dont il reste l'essentiel des murs porteurs (articles L. 111-15 et L. 111-23 du Code
+     de l'urbanisme).
+
+
+
+
+8.2 Permis de construire délivrés autour du terrain
+Autorisations sur la commune (3 ans)                                       179 · dernière recensée le 18/09/2026
+
+Logements autorisés (3 ans)                                                950
+
+Dont maisons individuelles                                                 127
+
+Autorisations dans la section IL                                           6 depuis 2013
+
+
+  DATE                    AUTORISATION                            PARCELLE            LOGTS           SURFACE CRÉÉE LIEU-DIT / VOIE
+
+  11/04/2022              Déclaration préalable                   IL 126              3               –                     BD LAMARCK
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                               35 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                         Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                                08 · Historique du site
+
+
+
+
+  DATE                    AUTORISATION                            PARCELLE            LOGTS            SURFACE CRÉÉE LIEU-DIT / VOIE
+
+  12/09/2019              Déclaration préalable                   IL 13               2                –                   RUE FERNAULT
+
+  01/04/2019              Permis de construire                    IL 67               1                154 m²              RUE JEAN MONTIGNY
+
+  12/06/2018              Permis de construire                    IL 46               1                64 m²               RUE DU CHARIOT
+
+  22/12/2016              Déclaration préalable                   IL 274              1                –                   RUE FULTON
+
+  30/03/2016              Déclaration préalable                   IL 167              1                –                   RUE HENRI SELLIER
+
+
+
+Permis accordés à moins de 500 m du terrain
+  DATE                  AUTORISATION                         PARCELLE           DISTANCE          LOGTS         SURFACE       LIEU-DIT / VOIE
+
+  25/06/2026            Permis de construire                 IK 600             340 m             3             224 m²        RUE DE BEAUMONT
+
+  04/03/2026            Déclaration préalable                IO 626             400 m             1             –             RUE MOYENNE
+
+  17/10/2025            Déclaration préalable                IK 323             390 m             1             –             RUE DU CHATEAU D'EAU
+
+  08/01/2024            Permis de construire                 IK 888             370 m             12            –             RUE BOURDALOUE
+
+
+
+4 autorisations créant des logements recensées dans un rayon de 500 m : la construction a été admise récemment dans
+le voisinage immédiat.
+
+Source : base Sitadel des autorisations d'urbanisme créant des logements (SDES). Un permis accordé à proximité montre que
+des constructions ont été admises dans le secteur, sans préjuger de la décision sur votre propre projet.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             36 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                            Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                       09 · Opportunités autour du terrain
+
+
+
+
+      09            Opportunités autour du terrain
+      DANS CETTE SECTION
+
+      Ce qui se passe autour de la parcelle : grands terrains peu bâtis, sociétés propriétaires en difficulté,
+      logements énergivores. Des pistes pour un investisseur, un voisin ou un professionnel.
+
+
+Bodacc (procédures collectives), ADEME (diagnostics énergétiques), cadastre, BD TOPO et Géoportail de l'Urbanisme.
+
+
+
+9.1 Grands terrains peu bâtis à proximité
+Parcelles de plus de 1 200 m², situées en zone urbaine ou à urbaniser du PLU, dans un rayon de 250 m, dont
+moins de 8 % de la surface est bâtie, hors terrains publics : un potentiel de construction ou de division à étudier.
+
+  PARCELLE            SURFACE                 BÂTI                ZONE                DISTANCE             PROPRIÉTAIRE
+
+  IL 337              3 667 m²                non bâti            UL                  200 m                particulier (non publié)
+
+  IL 227              2 231 m²                non bâti            UL                  320 m                particulier (non publié)
+
+
+
+
+9.2 Logements classés F ou G autour du terrain
+Logements diagnostiqués F ou G dans un rayon de 350 m. Leur location est déjà interdite (G) ou le sera en 2028
+(F) : leurs propriétaires sont souvent vendeurs, ou doivent engager des travaux de rénovation.
+
+  PARCELLE                     ADRESSE                                          CLASSE LOGEMENT                    SURFACE       DISTANCE DPE DU
+
+  –                            9 Rue de Séraucourt 18000                        F            Appartement           92 m²         100 m      16/07/2023
+                               Bourges
+
+  –                            21 Rue de Séraucourt 18000                       F            Immeuble              –             140 m      04/11/2025
+                               Bourges
+
+  –                            29 Rue de Séraucourt 18000                       F            Appartement           26 m²         190 m      01/12/2022
+                               Bourges
+
+  –                            6bis Avenue du 95e de Ligne                      F            Maison                71 m²         200 m      05/07/2022
+                               18000 Bourges
+
+  –                            8 Rue Jean Baffier 18000                         F            Appartement           36 m²         200 m      25/09/2023
+                               Bourges
+
+  –                            15bis Rue Jean Baffier 18000                     F            Appartement           56 m²         210 m      04/11/2021
+                               Bourges
+
+  –                            4 Rue Henri Sellier 18000                        G            Maison                121 m²        210 m      24/11/2023
+                               Bourges
+
+  –                            2 Rue Henri sellier 18000                        F            Appartement           63 m²         220 m      03/11/2026
+                               Bourges
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                37 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                     09 · Opportunités autour du terrain
+
+
+
+
+  PARCELLE                     ADRESSE                                          CLASSE LOGEMENT                    SURFACE     DISTANCE DPE DU
+
+  –                            8bis Rue Félix Pyat 18000                        F            Appartement           30 m²       220 m      24/08/2022
+                               Bourges
+
+  –                            17bis Rue Jean Baffier 18000                     G            Appartement           62 m²       220 m      16/05/2022
+                               Bourges
+
+
+
+La parcelle est celle du point d'adresse du logement (cadastre). Pour connaître son propriétaire lorsqu'il s'agit d'un particulier, demandez
+un relevé de propriété au service de la publicité foncière ou à la mairie.
+
+Ces informations proviennent de bases publiques et ne préjugent ni de l'intention de vendre des propriétaires ni de la constructibilité des
+parcelles citées, qui relève d'une étude au cas par cas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              38 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                              Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                           10 · Votre projet, étape par étape
+
+
+
+
+      10            Votre projet, étape par étape
+De l'achat du terrain à la déclaration aux impôts : démarches, délais, coûts et contacts.
+
+
+
+10.1 Analyse
+Le terrain est soumis au plan local d'urbanisme intercommunal (PLUi) de Bourges. Il est classé
+principalement en zone UL. Zone urbaine : secteur déjà urbanisé où les équipements publics existants ou en
+cours de réalisation permettent d'accueillir des constructions. Les constructions y sont admises dans le
+respect du règlement de la zone (destinations, implantation, hauteur, emprise, aspect).
+
+La construction n'est pas exclue, mais elle est subordonnée à des conditions qu'il faut lever avant tout
+engagement : lecture du règlement et des orientations d'aménagement, desserte par les réseaux, contraintes
+de risques ou de protection.
+
+
+10.2 Votre projet, étape par étape
+Les étapes ci-dessous suivent l'ordre réel d'un projet de construction, de l'achat du terrain à la déclaration aux
+impôts. Les montants sont indicatifs et à confirmer par devis.
+
+  1      Avant d'acheter le terrain
+         Vérifiez les règles de la zone (chapitres précédents), puis demandez un certificat d'urbanisme opérationnel (Cerfa
+         13410, sans frais, réponse sous 2 mois) : il fige les règles pendant 18 mois. En zone d'argiles d'aléa moyen ou
+         fort, le vendeur doit fournir une étude de sol préalable.
+         Contact : Mairie de Bourges · 02 48 57 80 00 · formulaire sur service-public.fr (rechercher « Cerfa 13410 »)
+
+  2      Les études
+         Étude de sol géotechnique (G2) pour dimensionner les fondations : 1 500 à 3 000 €. Étude thermique RE2020,
+         obligatoire pour le permis : 500 à 1 500 €. Bornage par un géomètre si les limites sont incertaines. L'étude de sol
+         ne porte pas sur les espèces protégées : un écologue n'intervient qu'en cas d'enjeu (chapitre Environnement).
+         Géomètres proches du terrain : liste à la fin de ce chapitre
+
+  3      Les plans
+         Architecte obligatoire si la surface de plancher totale dépasse 150 m². En dessous, vous pouvez dessiner les
+         plans vous-même ou faire appel à un dessinateur ou maître d'œuvre (environ 1 500 à 4 000 € le dossier de
+         permis). Architecte : 3 000 à 8 000 € pour la seule mission de permis, 8 à 12 % du coût des travaux pour une
+         mission complète avec suivi du chantier.
+         Trouver un architecte : annuaire de l'Ordre des architectes sur architectes.org
+
+  4      Déposer le permis
+         Formulaire Cerfa 13406 (maison individuelle) et pièces PCMI1 à PCMI8 : plan de situation, plan de masse, coupe,
+         notice, plans des façades et toitures, insertion dans le paysage, photos, attestation RE2020. Dépôt en mairie ou
+         en ligne sur le guichet numérique de la commune. La mairie a 1 mois pour réclamer une pièce manquante ;
+         l'instruction dure 2 mois à partir du dossier complet, plus en secteur protégé.
+         Dépôt : Mairie de Bourges · 02 48 57 80 00 · formulaire sur service-public.fr (rechercher « Cerfa 13406 »)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                  39 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                              Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                           10 · Votre projet, étape par étape
+
+
+
+
+  5      Affichage et recours
+         Dès l'accord, installez le panneau de permis sur le terrain, lisible depuis la voie, pendant toute la durée du
+         chantier. Les tiers ont 2 mois à compter du premier jour d'affichage pour contester ; la mairie peut retirer un permis
+         illégal pendant 3 mois. Faites constater l'affichage par un commissaire de justice (environ 300 à 600 € pour les
+         trois constats).
+         Commissaires de justice : annuaire sur commissaire-justice.fr
+
+  6      Avant les travaux
+         Souscrivez l'assurance dommages-ouvrage, obligatoire (souvent 2 à 4 % du coût de la construction). Signez le
+         contrat de construction de maison individuelle ou les marchés des artisans. Déposez la déclaration d'ouverture de
+         chantier (Cerfa 13407) le jour du démarrage. Le permis est valable 3 ans, prorogeable deux fois d'un an.
+         Déclaration d'ouverture : Mairie de Bourges · 02 48 57 80 00
+
+  7      Le financement
+         La banque débloque le prêt au fur et à mesure du chantier, sur présentation des factures des entreprises ou des
+         appels de fonds du constructeur. Avec un contrat de construction de maison individuelle, l'échéancier est encadré
+         par la loi : 15 % à l'ouverture du chantier, 25 % aux fondations, 40 % aux murs, 60 % hors d'eau, 75 % hors d'air et
+         cloisons, 95 % aux équipements, le solde à la réception. Des intérêts intercalaires peuvent courir sur les sommes
+         débloquées.
+         Votre banque ou votre courtier
+
+  8      La fin du chantier
+         Réception des travaux avec le constructeur ou les artisans, avec réserves si nécessaire. Déposez ensuite la
+         déclaration attestant l'achèvement et la conformité des travaux (DAACT, Cerfa 13408), avec l'attestation RE2020
+         de fin de chantier. La mairie a 3 mois pour la contester (5 mois en secteur protégé).
+         Dépôt : Mairie de Bourges · 02 48 57 80 00
+
+  9      Les impôts
+         Dans les 90 jours suivant l'achèvement, déclarez la construction sur impots.gouv.fr, espace « Gérer mes biens
+         immobiliers ». Cette déclaration sert au calcul de la taxe d'aménagement (payée en une fois sous 1 500 €, sinon
+         en deux fois, estimation plus bas dans ce chapitre) et de la taxe foncière, avec une exonération possible les deux
+         premières années selon la commune.
+         impots.gouv.fr › Espace particulier › Gérer mes biens immobiliers
+
+
+10.3 Les points à vérifier pour ce terrain
+  1      Certificat d'urbanisme opérationnel
+         Le demander en mairie (formulaire Cerfa 13410), en décrivant le projet. Délivré sans frais, il indique si le
+         terrain peut accueillir le projet et fige les règles d'urbanisme pendant 18 mois.
+
+  2      Règlement de la zone
+         Lire le règlement écrit de la zone UL et, le cas échéant, les orientations d'aménagement, disponibles sur le
+         Géoportail de l'Urbanisme.
+
+  3      Réseaux et accès
+         Vérifier l'accès à une voie publique ou privée adaptée, la desserte en eau potable et en électricité, et le
+         mode d'assainissement. En l'absence de réseau collectif, une étude de sol et l'avis du service public
+         d'assainissement non collectif (SPANC) sont nécessaires.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                  40 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                              Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                           10 · Votre projet, étape par étape
+
+
+
+
+  4      Architecte des Bâtiments de France
+         Le projet sera soumis à l'architecte des Bâtiments de France : le rencontrer avant de dessiner le projet
+         (rendez-vous par la mairie ou l'unité départementale de l'architecture et du patrimoine), soigner matériaux,
+         teintes et toitures, et compter un mois de plus pour l'instruction.
+
+  5      Bornage
+         Faire réaliser un bornage par un géomètre-expert pour fixer les limites exactes et la surface réelle du terrain.
+
+  6      Sécuriser un achat
+         Pour une acquisition, prévoir dans le compromis une condition suspensive d'obtention d'un permis de
+         construire purgé de tout recours.
+
+
+10.4 Délais indicatifs d'instruction
+  DEMANDE                                                                                      DÉLAI DE DROIT COMMUN
+
+  Certificat d'urbanisme d'information (CUa)                                                   1 mois
+
+  Certificat d'urbanisme opérationnel (CUb)                                                    2 mois
+
+  Déclaration préalable                                                                        1 mois
+
+  Permis de construire une maison individuelle                                                 2 mois
+
+  Permis d'aménager, autres permis de construire                                               3 mois
+
+
+
+Ces délais peuvent être majorés, notamment en site classé ou inscrit, aux abords d'un monument historique ou lorsque la
+consultation d'un service extérieur est nécessaire.
+
+
+10.5 Taxe d'aménagement à prévoir
+      Exemple : une maison de 120 m² en résidence principale, avec une piscine de 3 × 6 m. Sur ce terrain, la
+      taxe d'aménagement à prévoir est d'environ 4 820 €.
+
+
+
+  PROJET                                                                                                             TAXE ESTIMÉE
+
+  Maison de 120 m², résidence principale                                                                             4 500 €
+
+  Piscine de 3 × 6 m (18 m²)                                                                                         330 €
+
+  Total à prévoir                                                                                                    4 820 €
+
+
+
+Taux appliqués : 5 % pour la commune et 2,2 % pour le département, sur une valeur forfaitaire de 892 € par m² en 2026 (251 €
+par m² de bassin pour une piscine). Une résidence principale bénéficie d'un abattement de 50 % sur ses 100 premiers m².
+
+La taxe est due une fois les travaux terminés : elle se déclare sur impots.gouv.fr dans les 90 jours suivant l'achèvement, et se
+paie en deux fois au-delà de 1 500 €. Pour calculer votre propre projet : terrenurbanisme.com/outils/taxe-amenagement.html
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                  41 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                              Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                           10 · Votre projet, étape par étape
+
+
+
+
+10.6 Implanter une entreprise : zone France Ruralités Revitalisation
+     La commune de Bourges n'est pas classée en zone France Ruralités Revitalisation (FRR). Une entreprise
+     qui s'y installe ne bénéficie pas de l'exonération d'impôt sur les bénéfices liée à ce zonage.
+
+
+
+Source : ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 (collectivites-locales.gouv.fr).
+
+
+10.7 Géomètres proches du terrain
+Le géomètre-expert est le seul professionnel habilité à fixer les limites de propriété (bornage) et à établir les
+documents d'arpentage déposés au cadastre. Il intervient aussi pour les relevés topographiques et les divisions de
+terrain.
+
+1 km               AXIS CONSEILS (STELE DETECTION)
+                                                                                                                                   Coordonnées
+                   14 RUE CALVIN 18000 BOURGES
+
+
+4,1 km             EXPERT METRIC
+                                                                                                                                   Coordonnées
+                   2 ALLEE GRACE HOPPER 37 ROUTE DE MARMAGNE 18000 BOURGES
+
+
+9,3 km             SELAS NEUILLY
+                                                                                                                                   Coordonnées
+                   20 RUE DE MARMIGNOLLES 18500 MARMAGNE
+
+
+14,4 km            ETUDES 2L
+                                                                                                                                   Coordonnées
+                   5 LOTISSEMENT DES ORMES 18340 SENNECAY
+
+
+16 km              SELARL LOUIS BONHOMME
+                                                                                                                                   Coordonnées
+                   1 AVENUE PIERRE SEMARD 18500 MEHUN-SUR-YEVRE
+
+
+27,4 km            JEAN-NOEL GUILLAUMIN
+                                                                                                                                   Coordonnées
+                   REIGNY 2 CHEMIN DES CACHONS 18220 AZY
+
+
+Source : répertoire Sirene de l'INSEE (activité des géomètres), classé par distance au terrain. L'inscription d'un cabinet à l'Ordre des
+géomètres-experts se vérifie sur geometre-expert.fr. Le bouton « Coordonnées » ouvre la fiche du cabinet (téléphone, horaires,
+itinéraire). Cette liste est fournie à titre indicatif, sans partenariat ni recommandation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                  42 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                 11 · État des risques (ERP) pré-rempli
+
+
+
+
+    11              État des risques (ERP) pré-rempli
+      DANS CETTE SECTION
+
+      Le formulaire réglementaire à remettre à l'acquéreur ou au locataire, pré-rempli à partir des bases
+      officielles : plans de prévention, sismicité, radon, sols pollués, trait de côte, bruit des aérodromes.
+
+
+Articles L. 125-5 à L. 125-7 et R. 125-23 à R. 125-27 du Code de l'environnement · modèle fixé par l'arrêté du 27 septembre
+2022.
+
+
+     Formulaire pré-rempli à partir de Géorisques et du Géoportail de l'Urbanisme à la date du rapport. Avant de
+     le remettre à l'acquéreur ou au locataire, le vendeur ou le bailleur le vérifie, le complète (sinistres
+     indemnisés) et le signe ; il doit dater de moins de six mois à la signature de la promesse, du bail ou de
+     l'acte.
+
+
+
+
+11.1 Situation du bien
+Commune                                                     Bourges (18033)
+
+Département                                                 Cher (18)
+
+Références cadastrales                                      Section IL, parcelle n° 336 · 18033000IL0336
+
+Surface cadastrale                                          2 677 m²
+
+
+
+11.2 Plans de prévention des risques
+  L'IMMEUBLE EST SITUÉ DANS LE PÉRIMÈTRE…                                             RÉPONSE                 DÉTAIL
+
+  d'un plan de prévention des risques naturels (PPRN)                                 Non                     Aucun plan recensé sur la parcelle
+  prescrit, appliqué par anticipation ou approuvé
+
+  d'un plan de prévention des risques miniers (PPRM)                                  Non                     Non recensé
+
+  d'un plan de prévention des risques technologiques                                  Non                     Risques technologiques sur la commune :
+  (PPRT)                                                                                                      installations industrielles (icpe),
+                                                                                                              canalisations de matières dangereuses,
+                                                                                                              pollution des sols
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              43 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                               Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                 11 · État des risques (ERP) pré-rempli
+
+
+
+
+11.3 Autres zonages réglementaires
+  L'IMMEUBLE EST SITUÉ…                                                               RÉPONSE                 DÉTAIL
+
+  dans une commune de sismicité (zones 2 à 5 : règles de                              Oui                     Zone 2 – faible
+  construction parasismique)
+
+  dans une commune à potentiel radon de niveau 3                                      Non                     Catégorie 1 (potentiel faible)
+
+  dans un secteur d'information sur les sols (SIS)                                    Non                     Aucun SIS recensé à proximité
+
+  dans une zone exposée au recul du trait de côte                                     Non                     Non concerné selon Géorisques
+
+  dans une zone de bruit d'un plan d'exposition au bruit                              À vérifier              Aucun PEB annexé au document
+  d'aérodrome (PEB)                                                                                           d'urbanisme ; vérifier auprès de la mairie
+
+  dans une zone de retrait-gonflement des argiles                                     Oui                     Existant – modéré
+  (information)
+
+
+
+
+11.4 Sinistres indemnisés et déclarations
+Arrêtés de catastrophe naturelle sur la commune : 17 (liste en section Risques). Le vendeur ou le bailleur déclare
+ci-dessous les sinistres ayant donné lieu à une indemnisation au titre des catastrophes naturelles ou
+technologiques pendant la période où il a été propriétaire.
+
+Sinistres indemnisés                                        [ ] Oui [ ] Non
+
+Vendeur ou bailleur                                         Nom : ____________________ Date : ___/___/______ Signature :
+
+Acquéreur ou locataire                                      Nom : ____________________ Date : ___/___/______ Signature :
+
+
+L'état des risques officiel peut aussi être édité sans frais sur Géorisques (errial.georisques.gouv.fr). Les informations ci-dessus
+sont établies à partir des bases nationales ; en cas de divergence, l'arrêté préfectoral relatif à l'information des acquéreurs et des
+locataires fait foi.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                   44 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                           12 · Avertissement et sources
+
+
+
+
+    12              Avertissement et sources
+      DANS CETTE SECTION
+
+      La portée de ce rapport et la liste des sources publiques consultées.
+
+
+
+12.1 Nature du document
+Ce rapport est un document d'information établi automatiquement, à la date indiquée en page de garde, à partir des
+données publiques officielles alors disponibles. Il n'a aucune valeur contractuelle, réglementaire ou juridique.
+
+
+12.2 Ce que ce rapport n'est pas
+Il ne constitue ni un certificat d'urbanisme au sens de l'article L. 410-1 du Code de l'urbanisme, ni une autorisation
+d'urbanisme (permis de construire, permis d'aménager, déclaration préalable), ni un état des risques au sens de
+l'article L. 125-5 du Code de l'environnement, ni un bornage, ni une expertise, ni une évaluation immobilière, ni une
+consultation juridique. Il n'engage en rien l'administration.
+
+
+12.3 Permis de construire
+Ce rapport ne peut en aucun cas être joint, produit ou invoqué à l'appui d'une demande de permis de construire, de
+permis d'aménager ou de déclaration préalable, ni opposé à la mairie ou à un service de l'État. Il ne garantit pas
+l'obtention d'une autorisation : seule l'autorité compétente se prononce, au vu d'un projet précis et de l'ensemble
+des règles applicables à la date de sa décision.
+
+
+12.4 Limites des données
+Les données sont produites par des organismes publics dont l'éditeur n'est ni l'auteur ni le garant. Elles peuvent
+être incomplètes, imprécises ou ne pas refléter une modification, une révision, une mise en compatibilité, une
+annulation contentieuse, un sursis à statuer ou une procédure en cours. Le plan cadastral, document fiscal, ne fait
+pas foi des limites de propriété. Surfaces, distances, altitudes et pentes sont approchées. Les extraits et analyses
+du règlement sont une aide à la lecture : seul le texte intégral du document d'urbanisme approuvé, consultable en
+mairie, fait foi.
+
+
+12.5 Avant toute décision
+Avant toute acquisition, cession, financement, promesse de vente ou dépôt d'une demande, le lecteur doit obtenir
+un certificat d'urbanisme opérationnel auprès de la mairie, consulter le document d'urbanisme en vigueur et
+recueillir l'avis d'un professionnel habilité (notaire, architecte, géomètre-expert, avocat). Pour un achat, il est
+recommandé de stipuler une condition suspensive d'obtention d'un permis de construire purgé de tout recours.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              45 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                           12 · Avertissement et sources
+
+
+
+
+12.6 Responsabilité
+L'éditeur ne saurait être tenu responsable d'une décision prise sur le seul fondement de ce rapport, ni d'un refus
+d'autorisation, d'une erreur ou d'une omission des sources publiques, dans les limites prévues par les conditions
+générales de vente acceptées lors de la commande.
+
+
+12.7 Sources consultées
+  DONNÉE                                                       SOURCE
+
+  Cadastre                                                     DGFiP, plan cadastral informatisé, via API Carto (IGN)
+
+  Photographies et plans                                       IGN, Géoplateforme : orthophotographies, Plan IGN, parcellaire express
+
+  Urbanisme                                                    Géoportail de l'Urbanisme : zonage, prescriptions, informations, servitudes
+                                                               d'utilité publique
+
+  Littoral                                                     IGN, BD TOPO (limite terre-mer) ; communes littorales (Géoportail de
+                                                               l'Urbanisme)
+
+  Montagne                                                     Ministère de la Cohésion des territoires, communes de la loi Montagne
+
+  Risques                                                      Géorisques (ministère de la Transition écologique) : rapport de risques, arrêtés
+                                                               CatNat, sismicité, radon, ICPE, sites pollués
+
+  Environnement                                                Inventaire national du patrimoine naturel (PatriNat), via API Carto
+
+  Altitude, pente et exposition                                IGN, RGE ALTI
+
+  Ensoleillement                                               Calcul astronomique de la course du soleil ; masque du relief (IGN, RGE ALTI)
+                                                               et des bâtiments (IGN, BD TOPO)
+
+  Voirie et accès                                              IGN, BD TOPO (tronçons de route)
+
+  Permis de construire                                         Sitadel, service des données et études statistiques (SDES) du ministère
+                                                               chargé du logement
+
+  Photographies anciennes                                      IGN, BD ORTHO historique
+
+  Fibre et internet                                            Arcep, Ma connexion internet (éligibilité par adresse)
+
+  Géomètres                                                    Répertoire Sirene (INSEE), activité des géomètres
+
+  Propriétaires personnes morales                              DGFiP, fichiers des parcelles des personnes morales (diffusion Koumoul)
+
+  Diagnostics énergétiques                                     ADEME, base des DPE des logements existants
+
+  Procédures collectives                                       Bodacc, annonces commerciales (DILA)
+
+  Bâtiments                                                    IGN, BD TOPO
+
+  Réseau électrique                                            Agence ORE (gestionnaires de réseaux de distribution : Enedis, EDF Corse et
+                                                               entreprises locales) : réseau basse tension et postes de distribution
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              46 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                           12 · Avertissement et sources
+
+
+
+
+  DONNÉE                                                       SOURCE
+
+  Taxe d'aménagement                                           DGFiP, éléments de taxation votés par les collectivités ; valeurs forfaitaires
+                                                               fixées par arrêté
+
+  Rapport officiel de risques                                  Géorisques, ministère chargé de l'environnement
+
+  Zone France Ruralités Revitalisation                         ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 ; article
+                                                               44 quindecies A du code général des impôts
+
+  Marché immobilier                                            Statistiques des demandes de valeurs foncières (DVF) par commune, DGFiP
+                                                               et Etalab
+
+  Date d'extraction                                            20/11/2026
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              47 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Bourges · IL 336
+          TerrenUrbanisme
+                                                                                                                           Annexe · règlement de la zone
+
+
+
+
+ANNEXE
+
+
+Règlement écrit · zone UL
+Les pages suivantes reproduisent le chapitre du règlement officiel applicable à la zone de la parcelle (pages
+78 à 89 du document approuvé), tel que publié sur le Géoportail de l'Urbanisme. Il s'agit d'une reproduction à
+titre d'information : seule la version approuvée tenue à disposition en mairie fait foi, avec ses annexes, plans
+et éventuelles modifications ultérieures.
+Règlement complet :
+https://data.geopf.fr/annexes/gpu/documents/DU_241800507/f0f5fc941596e12045cda4d48ee9b4c4/241800507_reglement_20260128_
+U.pdf
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              48 / 61
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                           106                                       Règlement ZONES U
+
+
+
+
+                                           ZONE UL
+                   UL                                                                                        /
+
+La zone UL comprend des secteurs qui comportent des dispositions distinctes pour certaines règles :
+        des secteurs ULn pour les installations et équipements                        s.
+
+
+
+
+Section 1 : Destination des constructions, usage
+
+Article UL-1 :
+Dispositions générales
+Sont interdits :
+                                                                                   ;
+         Les constructions à destination de logement                                                  -2 ;
+                                                                                       ;
+                                                     ;
+                                                     ;
+         Les constructions à destination de cuisine dédiée à la vente en ligne ;
+
+                                    , des résidences mobiles de loisirs, des habitations légères de loisirs ou des résidences
+         démontables                                   ;
+                                                                                  ou de résidences démontables à vocation
+                              ;
+         Les dépôts couverts ou non couverts de matériaux divers et de flottes de véhicules non liés à une autre
+                                                                                         ;
+                                     ;
+         Les carrières ;
+         Hors secteur ULn : les installations de panneaux photovoltaïques au sol, flottant ou sur des constructions
+         irrégulières ;
+         En secteur ULn : toute construction, installation ou aménagement qui ne soit pas en rapport avec la production
+                    renouvelable.
+Dispositions particulières
+A ces interdictions                   périmètre de protection rapprochée de captages de Saint-Ursin en projet et
+                                                 (cf. annexe 2 du règlement et annexe 6.4 du PLUI) :
+                                                                       ;
+         Toute construction, aménagement ou installation qui ne soit pas compatible avec les prescriptions jointes en
+         annexe au présent règlement.
+                                                                                           (cf. annexe 2 du règlement et annexe
+6.4 du PLUI) :
+
+
+
+
+                                             PLUi Bourges Plus / Règlement écrit
+                                                        107                                  Règlement ZONES U
+
+
+
+Article UL-2 :
+conditions
+Les constructions, les aménagements, les installations et les travaux énumérés ne sont autorisés que dans le cadre du
+respect des conditions et des limitations décrites.
+    Les constructions à destination de logement uniquement :
+
+        logement par unité foncière et celui-
+        pas dépasser 150 m2 de surface de plancher.
+    Les extensions et les annexes liées à des constructions à destination de logements à condition de concerner des
+                                                                                             -ci est autorisée dans la
+                                                                              .
+    Les affouillements et exhaussement des sols, sous conditions et dans les limites suivantes :
+         Être nécessaires aux destinations, usages ou activité autorisés dans la zone ;
+         Ou être nécessaires à des aménagements paysagers ;
+         Ou être nécessaires à des aménagements hydrauliques (rétention des eaux pluviales par exemple) ;
+         O
+                                            ;
+         Ou être nécessaires à la réalisation de recherches archéologiques.
+A ces conditions
+                              (cf. annexe 2 du règlement) :
+        Toute construction, aménagement et installation se doit de respecter les prescriptions jointes en annexe au
+        présent règlement.
+
+Article UL-3 : Conditions particulières en faveur de la mixité sociale et fonctionnelle
+
+
+
+Section 2 : Caractéristiques urbaine, architecturale, environnementale et paysagère des
+constructions
+
+Sous-section 2.1. : Volumétrie et implantation des constructions
+
+Article UL-4 : Implantation des constructions par rapport aux voies et emprises publiques
+    En secteur ULn : Les installations de panneaux photovoltaïques                                  moins 3 m par
+                                                          . Ce recul est réduit à 2 mètres minimum pour les locaux
+
+
+Article UL-5 : Implantation des constructions par rapport aux limites séparatives
+
+
+                                                       :
+        Les éléments de modénature, marquises, auvents, débords de toiture ;
+        Les perrons non clos et escal          extérieurs ;
+        Les terrasses de moins de 60 cm de hauteur par rapport au niveau du sol naturel ;
+        Les ouvrages enterrés ;
+                                                                                            i, les dispositifs techniques
+        nécessaires                                                                                    .
+Dispositions générales
+                                             les limite(s) séparative(s) ou en retrait.
+
+
+
+                                          PLUi Bourges Plus / Règlement écrit
+                                                           108                                   Règlement ZONES U
+
+
+     En secteur ULn : Les installations de panneaux photovoltaïques                      ter à une distance minimale de 3
+     mètres des limites séparatives.
+Dispositions particulières
+                                                                                                                        des
+     piscines et des abris de jardin, toutes les constructions doivent obligatoirement               en retrait des limites
+     séparatives avec un terrain situé en zone UB, UD ou 1AUd, en respectant une distance minimale au moins égale à la
+                                                                   e de la construction à implanter, sans être inférieure à
+     5 m.
+     Dans le cas de constructions régulièrement autorisées                               i ne respectant pas les règles
+     définies au présent article, les extensions, surélévations ou améliorations peuvent être effectuées, à condition
+                                                                                   :    -à-dire être réalisées dans le
+     prolongement ou en retrait des murs existants.
+     Les antennes relais au sol et leurs équipements techniques
+     des limites séparatives avec les terrains classés en zones UA, UB, UC, UD, UN et 1AUD.
+
+Article UL-6 : Implantation des constructions par rapport aux autres constructions sur une même
+propriété
+Il
+
+Article UL-7 : Emprise au sol des constructions
+
+
+Article UL-8 : Hauteur des constructions
+
+
+Ne sont pas comptabilisés dans la hauteur maximale autorisée :
+        En cas de travaux sur des constructions existantes à la                                 i, les dispositifs techniques
+                                                         ;
+        L                                                                          ;
+        Les souches de cheminées ;
+        Les supports de                                                      m de hauteur ;
+        Les garde-corps dans la limite de 1,20 m                                       -voie.
+Dispositions générales
+     En secteur ULn, la hauteur maximum des installations de panneaux photovoltaïques au sol est limitée à 2.5 3 mètres.
+Dispositions particulières
+     Afin de préserver les vues sur la cathédrale de Bourges, les hauteurs des constructions sont limitées dans des parties
+     de territoires des communes de Bourges et de Saint-Doulchard : les hauteurs des constructions sont plafonnées
+     dans les cônes de vues repérés sur le plan mis en annexe 4 du règlement.
+
+Sous-section 2.2. : Qualité urbaine, architecturale, environnementale et paysagère des
+constructions
+
+Article UL-9 : Aspect extérieur des constructions et des clôtures
+Des dispositions différentes de celles édictées aux paragraphes suivants peuvent être autorisées ou imposées, pour
+prendre en compte, notamment au regard de l'environnement dans lequel ils s'insèrent, les contraintes fonctionnelles et
+techniques propres                 ainsi que l'affirmation de son identité par une architecture signifiante.
+Dispositions générales
+
+
+     volume respecta
+
+                                             PLUi Bourges Plus / Règlement écrit
+                                                            109                                   Règlement ZONES U
+
+
+
+
+Aspect et matériaux
+
+
+             ne peuvent pas être laissés apparents sur les parements extérieurs des constructions et des clôtures.
+
+
+    façon permanente, un aspect satisfaisant et respectueux du caractère des lieux.
+                                                                                              :
+
+
+Façades
+    Toutes les façades de constructions doivent être traitées avec le même soin en harmonie entre elles, y compris les
+    murs pignons.
+    Les coffrets, compteurs doivent être intégrés dans la construction ou les clôtures selon une logique de dissimulation
+    qui tienne compte des modénatures et des matériaux constitutifs.
+Toitures
+    Les toitures, y compris celles des annexes, doivent présenter une simplicité de volume, une unité de conception et
+
+
+Clôtures
+                   ôtures sera traité en harmonie avec les constructions principales à édifier ou existantes.
+                                                    m, portés à 2,50 m pour les piliers. La hauteur considérée est calculée
+    à partir du terrain naturel avant travaux au droit de la limite du terrain.
+    En périmètre de PPRi, il est fait renvoi aux prescriptions du PPRi lorsque celles-ci sont plus contraignantes que les
+    dispositions du présent règlement.
+    Les clôtures constituées de plaques de béton brut doivent être teintées dans la masse.
+
+
+
+
+Dispositions particulières
+En secteur ULn :
+    Les couleurs des façades, clôtures et voiries devront être choisies dans des teintes naturelles pour leur intégration
+    au paysage ;
+    Les systèmes de stockage (batteries solaires) doivent être installés soit :
+                                                                         ;
+                                                              e teintes naturelles pour leur intégration paysagère. En cas
+
+
+
+                                                                   ement et la sécurité du site, les clôtures devront
+    être perméables à la petite faune (cf.
+    prévu un passage de dimension 15 x 15 cm minimum, par section de 25 mètres linéaires de clôture.
+    Le choix technique permettant le passage de la faune sera défini en fonction des enjeux écologiques identifiés sur le
+    site.
+Restauration des constructions existantes :
+
+
+    respectées lors des ravalements et des réhabilitations.
+
+
+
+                                              PLUi Bourges Plus / Règlement écrit
+                                                          110                                   Règlement ZONES U
+
+
+                                                                                                proportions, du rythme et
+    des éléments de modénature).
+
+Article UL-10 : Conditions particulières pour le patrimoine bâti identifié
+    Différentes constructions protégées inventoriés au titre du patrimoine remarquable sont repérées sur le plan de
+    zonage et                                                          1 du règlement.
+                                                                                                  .
+                                                                                        ou les ravalements, réalisés
+    sur des constructions, murs et clôtures à protéger inventoriées comme patrimoine remarquable doivent mettre en
+    valeur ou améliorer les caractéristiques de ladite construction (volume, matériaux constructifs employés,
+    compositio
+    Les extensions, quand elles sont autorisées, doivent notamment :
+         Respecter la volumétrie des constructions.
+         Respecter et mettre en valeur les caractéristiques architecturales de la construction, et notamment la forme des
+         toitures, les modénatures, les baies en façade, les menuiseries extérieures.
+         Traiter les installations techniques de manière à ne pas altérer la qualité patrimoniale.
+
+Article UL-11 : Obligations de performances énergétiques et environnementales des constructions
+
+végétalisation prévues aux articles L.171-4 du Code de la Construction ou                      L.111-19-1 du Code de
+                      s                            à tous les bâtiments concernés à partir de 500 m2
+
+Sous-section 2.3. : Traitement environnemental et paysager des espaces non bâtis et
+abords de construction
+
+Article UL-12 : Obligations imposées en matière de réalisation de surfaces éco-aménageables,
+
+Dispositions générales
+    Les espaces libres doivent être aménagés selon une composition
+    et aux lieux environnants. Cette composition privilégiera la contiguïté avec les espaces libres des terrains voisins et
+                                                                                       le.
+
+
+Plantations et aménagements paysagers
+    Sous réserve de leur bon état phytosanitaire, les arbres de haute tige existants doivent être maintenus. En cas
+                                  ils doivent être remplacés par des plantations équivalentes en termes de superficie
+    occupée et de hauteur.
+                                                                              deau végétal.
+    Les aires de stationnement en surface comportant plus de 4 emplacements doivent être plantées à raison d'au moins
+    un arbre de haute tige pour 100 m² de la superficie affectée à cet usage, sauf si le parking est couvert par des
+    ombrières photovoltaïques.
+                             invasives identifiées par le Conservatoire Botanique National du Bassin Parisien est interdite
+    (cf. liste en annexe 3 du règlement).
+    NB : une liste des espèces locales préconisées
+    En secteur UL : il est imposé la plantation          de haute tige par tranche entamée de 150 m²
+    créés (incluant les arbres existants conservés ou à planter). Le nombre minimal est arrondi au nombre entier
+    supérieur. Les arbres doivent être plantés dans un espace vert de pleine terre au moins égal à 5 m².
+    En secteur ULn :
+
+
+                                            PLUi Bourges Plus / Règlement écrit
+                                                          111                                   Règlement ZONES U
+
+
+        Les plantations existantes aux lisières du secteur doivent être conservées et complétées autant que possible. En
+                                                                                            plantations.
+
+
+                                   ption du rideau végétal sera possible pour des raisons de biodiversité justifiées.
+                                                                                                 Les essences résistantes
+        au feu devront être privilégier.
+        Les implantations devront
+        de plusieurs positionnements possibles :
+
+
+
+
+        faune, végétalisation
+        Indépendamment du rideau végétal, la plantation de 100 m² de bosquet dans le périmètre du projet est exigée
+        par tranche complète de 10 ha de panneaux photovoltaïque (incluant la végétation existante à conserver).
+        Les voiries
+NB : une liste des espèces locales préconisées par                                               -Val de Loire et par le
+Conservatoire Botanique National du Bassin Parisien est également disponible en annexe 3 du règlement.
+
+Article UL-13 : Obligations imposées en faveur des continuités écologiques et des éléments de
+paysage à protéger
+
+
+                                                                                                               :
+                                                                                                         ;
+        De motifs impérieux pour la sécurité des circulations de tous les véhicules et les piétons ;
+        Des élagages réalisés de façon modérée ;
+
+
+                                              :
+                                      : la replantation sur le
+        abattu ;
+
+
+        se faire sur le terrain.
+        Dans le cas des haies
+
+
+Les espaces écologique et/ou paysagé protégé (EPP)
+    Ils doivent être conservés. Les arbres présents sur le terrain ne peuvent pas être abattus sauf en cas de risque avéré
+    sur la sécur
+
+
+
+                                            PLUi Bourges Plus / Règlement écrit
+                                                                   112                                  Règlement ZONES U
+
+
+                                                                  sur le terrain par arbre abattu ou toute autre plantation
+       de surface équivalente favorable au développement de la biodiversité.
+                                                               des extensions des constructions existantes, des annexes, des
+                                                                                         espaces écologiques et/ou paysagés
+       protégés, ne portant pas atteinte à leur intégrité.
+
+
+                                                                   ou toute autre plantation de surface équivalente favorable au
+       développement de la biodiversité.
+   .
+
+
+
+
+Les espaces boisés classés
+
+
+       création des boisements est interdit. Les défrichements sont irrecevables. Les coupes ne sont possibles que dans le
+
+
+                                                                                                                       s dans ces
+
+
+
+       démontré que la replantation au sein du périmètre est impossible.
+
+Article UL-14 :
+       Toute construction ou installation ou aménagement                                 de collecte et de traitement des
+       eaux pluviales, adapté à sa destination et à son importance, afin que la qualité des eaux pluviales rejetées soit
+       compatible avec la protection du milieu récepteur (milieu naturel ou réseau public de collecte des eaux pluviales le
+       cas échéant).
+       Les eaux pluviales doivent être recueillies séparément des eaux usées.
+       Les modalités de gestion des eaux pluviales, et de raccordement au réseau public de collecte des eaux pluviales le
+                                                                                                         .
+Dispositions générales
+                        e stockage                                                     doivent être les solutions recherchées pour
+       la gestion des eaux pluviales recueillies sur le terrain.
+
+
+
+                                                 PLUi Bourges Plus / Règlement écrit
+                                                           113                                       Règlement ZONES U
+
+
+    En cas
+    volume suffisant, il sera demandé                           dispositions techniques limitant le volume des eaux pluviales
+    à rejeter hors du terrain (espaces verts de pleine-
+
+
+    L                                     doit être dirigé de préférence vers le milieu naturel.
+    En cas de nécessité, un raccordement au réseau public de collecte des eaux pluviales peut éventuellement être
+    envisagé, si celui-ci
+    des dispositifs appropriés.                   raccordement dépend des capacités hydrauliques du réseau. Ce
+    raccordement reste à la charge exclusive du pétitionnaire.
+                                       e débit de                                                           doit être limité à
+    3 l/s/ha (3 litres par seconde et par hectare de projet).
+    Pour le dimensionnement des ouvrages, le niveau de protection retenu est au moins la période de retour de 10 ans.
+    Le service gestionnaire se réserve le droit de définir une période de retour de protection plus contraignante que la
+    décennale en fonction du contexte et des enjeux.
+    Aires de stationnement : les espaces de stationnement extérieurs sont conçus de façon à limiter l'imperméabilisation
+    des sols par :
+        La réduction des emprises des voies de circulation recouvertes d'une couche de roulement ;
+        L'utilisation de matériaux stabilisés ou toute technique favorisant la pénétration des eaux dans le sol ;
+        La recherche d'une conception adaptée à la topographie des lieux et à la bonne utilisation au sol.
+    Les eaux pluviales susceptibles d'être polluées (aux hydrocarbures et/ou aux métaux lourds, par le ruissellement sur
+    parkings par exemple) peuvent être soumises à des conditions de pré-traitement avant leur rejet en milieu naturel
+    ou dans le réseau public le cas échéant.
+Dispositions particulières
+
+
+                                                                                                                           du
+    service                                                                    des eaux pluviales.
+
+
+    hydrogéologue agréé (cf. annexe 2 du règlement) :
+        Tout ouvrage
+
+         peut être autorisée.
+         Les eaux pluviales doivent être dirigées vers le réseau public de collecte des eaux pluviales             ou vers un
+         milieu naturel situé hors du périmètre concerné le cas échéant, par des dispositifs appropriés.
+         Le débit de                                                          doit être limité à 3 l/s/ha pour toute nouvelle
+         construction ou
+         Les eaux pluviales susceptibles d'être polluées (aux hydrocarbures et/ou aux métaux lourds, par le ruissellement
+                                                                 -traitement avant leur rejet en milieu naturel ou dans le
+         réseau public le cas échéant.
+
+Sous-section 2.4. : Stationnement
+
+Article UL-15 :
+
+
+    Les règles applicables aux constructions ou établissements non prévus dans le tableau et les dispositions ci-dessous
+
+
+                                                                                                                        ment
+
+
+
+
+                                             PLUi Bourges Plus / Règlement écrit
+                                                         114                                 Règlement ZONES U
+
+
+    Le calcul des places de stationnement est effectué par tranche complète de surface de plancher ou est arrondi à
+     unité inférieure.
+Dispositions générales
+Normes de stationnement automobile pour les constructions nouvelles et extensions de constructions existantes :
+    Des places de stationnement doivent être réalisées en répondant aux normes ci-dessous, calculées au prorata de la
+    surface de plancher créée ou
+    Le stationnement des véhicules de
+                                                         -sol doit être aménagée de manière à donner de la visibilité à
+
+
+
+         Destination de la construction                  Norme minimale exigée de stationnement automobile
+                                                 Pour les logements collectifs :
+                                                          Au moins 1 place pour les typologies T1 à T3 comprises,
+                                                          Au moins 2 places pour les typologies T4 et plus,
+                                                 Pour les logements individuels :
+  Logement                                                Au moins 1 place par logement si surface de plancher
+                                                          inférieure ou égale à 100 m², sans dépasser 2 places par
+                                                          logement.
+                                                          Au moins 2 places par logement si surface de plancher
+                                                          supérieure à 100 m²,
+                                                 1 place pour 3 chambres
+  Hébergement
+
+  Locaux et bureaux des administrations          1 place par tranche de 75 m² de surface de plancher
+  publiques et assimilés
+  Locaux techniques et industriels des
+  administrations publiques et assimilés
+                                                 - Santé : 1 place pour 4 chambres
+  action sociale                                 - Enseignement : 1 place pour 2 salles
+  Salles
+                                                 Le nombre de places à réaliser doit être suffisant au regard des besoins
+  Equipements sportifs                           nécessaires à la nature de l'équipement, son mode de fonctionnement,
+  Autres équipements recevant du public, lieux   le nombre et le type d'utilisateurs et sa localisation.
+  de culte
+  Bureau                                         1 place par tranche de 75 m² de surface de plancher
+                                                 Le nombre de places à réaliser doit être suffisant au regard des besoins
+                                                 nécessaires à la nature de l'équipement, son mode de fonctionnement,
+                                                 le nombre et le type d'utilisateurs et sa localisation.
+
+Dispositions particulières
+     Les obligations en matière de stationnement automobile peuvent être réduites de 25 % au maximum en
+     contrepartie de la mise à disposition de 20 % des places de stationnement du projet réservées à des véhicules
+     électriques munis d'un dispositif de recharge adapté et/ou des véhicules propres en auto-partage. Une signalisation
+     spécifique devra matérialiser ces emplacements.
+
+
+Normes de stationnement des vélos pour les constructions nouvelles, extensions et changements de destination (ligne
+5 du tableau) de constructions existantes :
+L'espace destiné au stationnement sécurisé des vélos doit :
+         Etre couvert et se situer sur la même unité foncière que le bâtiment,
+         Etre identifié avec une signalétique adaptée sur façade et/ou au sol,
+         Etre équipé de mobiliers adaptés (appuis-vélos ou arceaux).
+
+
+
+                                           PLUi Bourges Plus / Règlement écrit
+                                                          115                                 Règlement ZONES U
+
+
+Il est compté une surface minimum de 1,50 m² par place dédiée aux vélos. A partir de 10 vélos cette moyenne peut être
+ramenée à 1 m².
+
+
+   Destination de la construction                       Norme minimale exigée de stationnement vélo
+                                       Pour les constructions ou extensions créant au moins 2 logements :
+  Logement                                      Au moins 1 place pour les typologies T1 et T2,
+                                           Au moins 2 places pour les typologies T3 et plus,
+  Activités des secteurs primaires,
+  secondaires ou tertiaires,
+  Locaux et bureaux accueillant
+  du public des administrations
+  publiques et assimilés,              Au minimum 15 % du nombre de places prévues pour le stationnement automobile,
+  Etablissement d'enseignement,        avec un minimum de 3 places vélos
+  de santé et d'action sociale,
+  salles d'art et de spectacles,
+  Equipements sportifs,
+  Autres équipements recevant
+  du public, lieux de culte
+  Artisanat et commerce de détail,
+  Restauration,                        Au minimum 10 % du nombre de places prévues pour le stationnement automobile,
+  Activités de         services ou     avec un minimum de 3 places vélos
+  s'effectue      l'accueil    d'une
+  clientèle,
+  Cinéma
+  Hébergement,
+  Hôtels,                              Au minimum 5 % du nombre de places prévues pour le stationnement automobile,
+  Autres hébergement                   avec un minimum de 3 places vélos
+  touristiques
+  Bâtiments existants faisant
+  l'objet d'un changement de
+  destination pour du logement
+  collectif,    du    bureau,     de
+                                       Au minimum 10 % du nombre de places de stationnement automobile, avec un
+  l'artisanat, du commerce ou de
+                                       minimum de 3 places vélos. La couverture des emplacements vélos n'est pas exigée.
+  l'activité de service et disposant
+  ou créant un parc de
+  stationnement automobile de
+  plus de 5 places.
+
+
+
+
+Section 3 : Equipements et réseaux
+
+Article UL-16 :
+voies publiques
+Conditions de desserte des terrains par des voies publiques ou privées
+    Pour être constructibles, les terrains doivent être desservis par des voies publiques ou privées ouvertes à la
+    circulation automobile, soit directement, soit le cas échéant, par l'intermédiaire d'un passage sur un terrain voisin
+    (consenti ou obtenu en application de l'article 682 du Code Civil).
+    Les voies de desserte doivent répondre                                      des constructions à édifier, notamment en
+    ce qui concerne la commodité, la sécurité de la circulation et des accès, ain
+
+
+
+    sur la voie offrant les meilleures conditions de fonctionnement et de sécurité.
+
+
+                                            PLUi Bourges Plus / Règlement écrit
+                                                           116                                   Règlement ZONES U
+
+
+
+
+    et de son voisinage immédiat, la voie en impasse doit présenter à son extrémité un aménagement spécial permettant
+    aux véhicules de faire demi-tour.
+    Les voies à créer doivent présenter les caractéristiques minimales suivantes :
+         Être réalisées en matériaux et procédés garantissant leur pérennité à long terme ;
+         A                                     de voie de 8 m, ramenée à 4.5
+         30 ou de zones de rencontre et à 3.5 m dans le cas de voie à sens unique ou en impasse,
+    Aucun accès automobile ne peut être autorisé :
+        Sur les voies publiques ayant le statut de route express, nationale, ou départementale en dehors des points
+        prévus et aménagés à cet effet, sauf sur autorisation du gestionnaire de voirie ;
+        A partir des voies affectées exclusivement aux piétons et aux cycles (celles-ci peuvent néanmoins être traversées
+        par des accès automobiles).
+
+
+    Les accès doivent être adaptés aux types d'occupation ou d'utilisation du sol envisagés. Ces accès doivent être
+    aménagés de façon à apporter la moindre gêne à la circulation publique. Ils ne peuvent avoir une largeur inférieure
+    à 3 m.
+    Ces accès doivent satisfaire aux exigences de la sécurité, de la défense contre l'incendie et de la protection civile.
+                                                                                                                    peuvent
+
+
+Article UL-17 : Conditions de desserte des terrains par les réseaux
+Défense incendie
+    La défense incendie doit être assurée par un dispositif, public ou privé, conforme aux prescriptions du Règlement
+    départemental de la défense extérieu
+Alimentation en Eau potable
+    Toute construction ou installation nouvelle susceptible de requérir une alimentation en eau potable doit être
+    desservie par un réseau de distribution public présent au droit du terrain et conforme aux règlements en vigueur.
+Assainissement des eaux usées
+Dispositions générales :
+    Les eaux usées doivent être recueillies séparément des eaux pluviales.
+    Toute construction ou installation nouvelle doit être raccordée par des canalisations souterraines au réseau collectif
+                                                                                           if des eaux usées.
+                                                                                                         des eaux usées doit
+                                                                                                                         .
+                                                                          et à défaut de sa réalisation dans la durée de
+                                            toutes les eaux usées doivent être dirigées par des canalisations souterraines
+
+    non collectif et à la règlementation en vigueur. Ces dispositifs doivent être conçus de façon à être mis hors circuit et
+    la construction directement raccordée au réseau collectif lorsque que cela sera possible.
+Dispositions particulières :
+                   u périmètre de protection rapprochée de captages de Saint Ursin en projet
+                               (cf. annexe 2 du règlement) :
+    En PPR2 des captages de Saint-Ursin :
+        Le rejet des eaux usées (brutes, prétraitées ou traitées) dans le milieu naturel est interdit.
+        Toute nouvelle construction devr
+        existe, conformément au règlement en vigueur.
+
+
+                                             PLUi Bourges Plus / Règlement écrit
+                                                          117                                   Règlement ZONES U
+
+
+
+
+         autonomes de tr
+         conditions énoncées ci-avant.
+
+         concerné. Ces rejets doivent être dirigés vers le réseau public de collecte des eaux pluviales par des dispositifs
+
+         traitées vers le réseau pluvial est possible techniquement et administrativement.
+Gestion des eaux pluviales
+Voir article UL-14.
+Réseau de chaleur
+    Dans le périmètre du réseau de chauffage urbain annexé au présent règlement (annexe 7), toute construction
+    nouvelle chauffée, générant une surface de plancher supér
+
+    secteurs primaire, secondaire ou tertiaire, doit être raccordée au réseau de chaleur urbain, sauf avis contraire du
+    gestionnaire de réseau.
+                                                                     nouvelles de plus de 5 logements ou lots disposant
+
+
+Communications él
+    Pour toute construction nouvelle, les réseaux de distribution d'énergie et de télécommunication (téléphonie,
+                                                                        point de raccordement avec le réseau public
+    situé en limite de terrain, sauf impossibilité technique démontrée.
+
+
+    et en gaz ainsi que pour les réseaux de télécommunication.
+    Les voies de desserte à réaliser et destinées à être ouvertes à la circulation piétonne ou motorisée doivent être
+
+
+Stockage et collecte des déchets
+    Les containers à déchets doiven
+
+
+
+
+                                            PLUi Bourges Plus / Règlement écrit
+                     TerrenUrbanisme
+
+      Merci de votre confiance
+Ce rapport a été établi à partir des sources publiques officielles pour vous aider
+à décider en connaissance de cause. Pour toute question, nous restons à votre
+                                    disposition.
+
+
+
+
+     Vous êtes professionnel ? Travaillons ensemble
+Agents immobiliers, notaires, architectes, géomètres, diagnostiqueurs, promoteurs,
+mairies : faisons équipe. Crédits professionnels sans abonnement, 5 € le rapport dès
+     50 crédits, votre logo sur les rapports, offre communale pour les mairies et
+                               partenariats sur mesure.
+
+                Écrivez-nous : contact@terrenurbanisme.com
+
+
+
+
+                          terrenurbanisme.com
+                          contact@terrenurbanisme.com
+

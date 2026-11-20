@@ -1,0 +1,2458 @@
+                  TerrenUrbanisme
+                  Le terrain constructible, partout en France
+
+
+
+
+RAPPORT D'URBANISME
+
+
+
+Nîmes
+Section ED · Parcelle n° 337
+      Sous conditions
+
+
+
+
+Référence cadastrale                                                        Surface cadastrale
+30189000ED0337                                                              293 m²
+
+Rapport établi le                                                           Référence du rapport
+20/11/2026                                                                  APERCU
+
+
+
+
+terrenurbanisme.com                                                                      contact@terrenurbanisme.com
+
+Document d'information sans valeur contractuelle ni réglementaire. Il ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme
+et ne peut en aucun cas être joint à une demande de permis de construire ou de déclaration préalable. Seuls les actes de l'administration font foi.
+                                                                                                                           Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                                             Sommaire
+
+
+
+
+Sommaire
+Le rapport suit l'ordre d'une étude de terrain : où se trouve la parcelle, ce que dit la règle, ce qui pèse sur le
+projet, puis les démarches.
+
+              Synthèse
+   S                                                                                                                                p. 3
+              Le verdict, les indicateurs clés et les points d'attention en une page.
+
+              Identification de la parcelle
+   01                                                                                                                               p. 4
+              Localisation, surface, références cadastrales et voisinage du terrain.
+
+              Règles d'urbanisme applicables
+  02                                                                                                                                p. 7
+              Document d'urbanisme, zone du terrain, prescriptions et servitudes.
+
+              Ce que vous pouvez construire
+  03                                                                                                                               p. 10
+              Surface constructible, hauteur, reculs, aspect et usages autorisés.
+
+              Loi Littoral et loi Montagne
+  04                                                                                                                               p. 17
+              Les lois qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+              Risques naturels et technologiques
+  05                                                                                                                               p. 18
+              Inondation, feu de forêt, argiles, catastrophes naturelles et sites pollués.
+
+              Le terrain : accès, relief et réseaux
+  06                                                                                                                               p. 21
+              Accès, pente, ensoleillement, eaux usées, électricité, eau et fibre.
+
+              Environnement et marché immobilier
+  07                                                                                                                              p. 28
+              Espaces naturels, espèces protégées et ventes immobilières alentour.
+
+              Historique du site
+  08                                                                                                                              p. 32
+              Le terrain vu du ciel au fil des années et les permis accordés autour.
+
+              Opportunités autour du terrain
+  09                                                                                                                              p. 34
+              Grands terrains peu bâtis et logements énergivores à proximité.
+
+              Votre projet, étape par étape
+   10                                                                                                                             p. 36
+              De l'achat aux impôts : démarches, délais, coûts, contacts et taxe.
+
+              État des risques (ERP) pré-rempli
+   11                                                                                                                             p. 40
+              Le formulaire réglementaire à remettre à l'acquéreur, pré-rempli.
+
+              Avertissement et sources
+   12                                                                                                                             p. 42
+              La portée de ce rapport et les sources publiques consultées.
+
+
+
+
+Astuce : cliquez sur un chapitre pour y accéder directement.
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                              2 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                                                        Synthèse
+
+
+
+
+Synthèse
+     Document d'information. Ce rapport ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme,
+     n'engage pas l'administration et ne peut pas servir de pièce à une demande de permis de construire.
+     L'appréciation ci-dessous est indicative : seule la mairie se prononce sur la constructibilité d'un terrain,
+     au vu d'un projet précis.
+
+
+
+
+       SOUS CONDITIONS
+
+       Accord de l'architecte des Bâtiments de France obligatoire
+       La parcelle est classée en zone UC (urbaine) du plan local d'urbanisme de Nîmes. Les
+       constructions y sont admises dans le respect du règlement de la zone. Le terrain est situé
+       aux abords d'un monument historique (Enceinte antique) : l'architecte des Bâtiments de
+       France donne son avis sur les travaux et peut imposer des prescriptions (matériaux,
+       couleurs, volumes).
+
+
+
+
+      Zone principale                                        Document d'urbanisme                                  Loi Littoral
+
+   UC · 100 %                                             PLU                                                    Ne s'applique pas
+
+
+
+
+      Loi Montagne                                           Risques à la parcelle
+
+   Ne s'applique pas                                      Remontée de nappe ·
+                                                          Séisme (+1)
+
+
+
+
+Points d'attention
+    Zone UC (100 % de la parcelle) : constructible.
+    Abords de monument historique (Enceinte antique) : accord de l'architecte des Bâtiments de France
+    pour les travaux.
+    Terrain en pente marquée (environ 18 %) : surcoût probable de terrassement.
+    Pollution des sols : concerné à l'adresse de la parcelle (voir le chapitre « Risques naturels et
+    technologiques »).
+    32 arrêtés de catastrophe naturelle sur la commune.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        3 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+    01             Identification de la parcelle
+     DANS CETTE SECTION
+
+     Où se trouve le terrain, sa surface, ses références cadastrales, son propriétaire lorsqu'il s'agit
+     d'une société ou d'une collectivité, et la performance énergétique du bâti existant.
+
+
+Données du cadastre (DGFiP) et de l'IGN.
+
+
+     Plan de situation
+
+
+
+
+                                                                                                                            1 km
+
+
+
+Plan IGN · © IGN
+
+
+
+     Vue aérienne et plan cadastral
+
+
+
+
+                                                                                                                                     25 m
+
+
+
+Photographie aérienne et plan cadastral · © IGN
+
+
+Commune                                                  Nîmes (30189)
+
+Département                                              Gard (30)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          4 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+Section et numéro                                        Section ED, parcelle n° 337, feuille 1
+
+Identifiant cadastral                                    30189000ED0337
+
+Surface cadastrale                                       293 m²
+
+Surface calculée (SIG)                                   308 m² · périmètre 78 m
+
+Coordonnées du centre                                    43.83218 N, 4.34291 E (WGS 84)
+
+Altitude                                                 de 80 à 82 m
+
+Pente estimée                                            18 % (terrain en pente marquée)
+
+Parcelles voisines                                       ED 245, ED 338, ED 355, ED 360, EH 875, EH 902
+
+
+Le plan cadastral est un document fiscal : il ne fait pas foi des limites de propriété. Seul un bornage réalisé par un
+géomètre-expert fixe les limites de manière certaine.
+
+
+1.1 Propriétaire et voisinage
+La parcelle ne figure pas au fichier des personnes morales : son propriétaire est vraisemblablement un
+particulier. Le nom des propriétaires particuliers n'est pas public ; il peut être demandé au service des impôts
+fonciers (relevé de propriété) ou obtenu par l'intermédiaire d'un notaire.
+
+Principaux propriétaires personnes morales dans un rayon de 280 m
+  PROPRIÉTAIRE                                                              PARCELLES             SURFACE TOTALE            SIREN
+
+  DEPARTEMENT DU GARD (DEPT)                                                1                     12 080 m²                 223000019
+
+  SCI FAMILIALE BASTID (SCI)                                                1                     5 240 m²                  348555053
+
+  VINCI IMMOBILIER PROPERTY MANAGEMENT                                      1                     4 780 m²                  –
+  (SAS)
+
+  MARIGNAN LANGUEDOC (SNC)                                                  6                     2 470 m²                  887490514
+
+  FONCIA CASTELLUM (SAS)                                                    1                     2 417 m²                  610105751
+
+  SOC H L M UN TOIT POUR TOUS (SA)                                          3                     1 588 m²                  680201365
+
+  NUMERICABLE (SAS)                                                         1                     1 201 m²                  379229529
+
+  L HORIZON (SCI)                                                           2                     1 023 m²                  420928434
+
+
+
+Source : fichiers des parcelles des personnes morales (DGFiP) : sociétés, SCI, collectivités, établissements publics et associations.
+Les propriétaires personnes physiques n'y figurent pas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           5 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+1.2 Bâti existant : diagnostics de performance énergétique
+  DATE                  LOGEMENT                SURFACE             ÉNERGIE          CLIMAT          ADRESSE
+
+  08/11/2021            Maison                  114 m²              C                C               14 Rue du Commandant René Mouchotte
+                                                                                                     30900 Nîmes
+
+
+
+Source : ADEME, diagnostics établis depuis juillet 2021 et géolocalisés à l'adresse. Un diagnostic se rapporte à un logement précis
+et reste valable dix ans.
+
+
+1.3 La commune de Nîmes
+Code postal                                              30000, 30900
+
+Département                                              Gard (30)
+
+Intercommunalité                                         CA de Nîmes Métropole
+
+Population                                               151 839 habitants
+
+Superficie                                               161,18 km²
+
+Densité                                                  942 habitants par km²
+
+Commune littorale                                        Non
+
+Commune de montagne                                      Non
+
+Document d'urbanisme                                     Plan local d'urbanisme (PLU)
+
+Risques sur la commune                                   32 arrêtés de catastrophe naturelle · détail en section Risques et en
+                                                         annexe
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          6 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+    02             Règles d'urbanisme applicables
+     DANS CETTE SECTION
+
+     Le document d'urbanisme de la commune, la zone dans laquelle se trouve le terrain, et les
+     prescriptions et servitudes qui s'y ajoutent.
+
+
+Géoportail de l'Urbanisme : zonage, prescriptions et servitudes.
+
+
+
+2.1 Document d'urbanisme en vigueur
+Type de document                                         Plan local d'urbanisme (PLU)
+
+Date d'approbation                                       Non renseigné
+
+Statut                                                   Publié au Géoportail de l'Urbanisme
+
+Règlement officiel                                       Ouvrir le document officiel (PDF)
+
+
+
+     Plan de zonage du PLU
+
+
+
+
+                                                             UD
+
+
+
+
+                                                                              UC
+
+
+
+
+                                                                                                                           50 m
+
+
+
+Zonage : Géoportail de l'Urbanisme · fond : © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                     7 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.2 Zonage de la parcelle
+  ZONE                  DÉSIGNATION                                                         PART               CONSTRUCTIBILITÉ
+
+  UC                    La zone UC est une zone de constructions                            100 %              Constructible
+                        denses, essentiellement composée d'habitat
+                        individuel et de petits collectifs et
+                        caractérisée par une naturalité importante de
+                        par l'instauration d'une forte proportion
+                        d'espaces verts privatifs.
+
+
+
+Zone UC · Urbaine
+Zone urbaine : secteur déjà urbanisé où les équipements publics existants ou en cours de réalisation
+permettent d'accueillir des constructions. Les constructions y sont admises dans le respect du règlement de la
+zone (destinations, implantation, hauteur, emprise, aspect).
+
+
+2.3 Prescriptions applicables à la parcelle
+Aucune prescription graphique du PLU (emplacement réservé, espace boisé classé, élément de paysage
+protégé, etc.) n'est recensée sur la parcelle.
+
+
+2.4 Informations complémentaires du PLU
+  INFORMATION                                                                                        TYPE
+
+  Droit de préemption Urbain Simple                                                                  Information du PLU (type 04)
+
+  Règlement local de publicité                                                                       Information du PLU (type 20)
+
+
+
+
+2.5 Servitudes d'utilité publique
+  CODE               SERVITUDE                                                                    DÉTAIL
+
+  AC1                Monument historique (abords)                                                 AC1 Enceinte-antique-IIMENH abor
+
+
+
+
+2.6 Patrimoine : l'architecte des Bâtiments de France
+     En clair : le terrain est aux abords d'un monument historique. Les travaux visibles de l'extérieur doivent
+     recevoir l'accord de l'architecte des Bâtiments de France, qui peut imposer des prescriptions.
+
+
+
+  PROTECTION                                NOM                                                CE QUE CELA IMPLIQUE
+
+  Abords de monument                        Enceinte antique                                   Accord de l'architecte pour les travaux visibles
+  historique                                                                                   (périmètre publié)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        8 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+Conseils : consulter l'architecte des Bâtiments de France (unité départementale de l'architecture et du patrimoine,
+joignable par la mairie) avant de dessiner le projet ; prévoir un délai d'instruction majoré d'un mois ; soigner
+l'insertion (matériaux, teintes, toitures, clôtures) dès l'esquisse.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                     9 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    03             Ce que vous pouvez construire
+     DANS CETTE SECTION
+
+     La lecture du règlement de votre zone : surface constructible estimée, hauteur, reculs, aspect,
+     usages autorisés ou interdits, avec les extraits du texte officiel.
+
+
+Lecture du règlement écrit de la zone UC, pages 131 à 144 du règlement officiel.
+
+
+
+3.1 Potentiel constructible estimé
+     En clair : le règlement autorise au maximum 47 m² de construction au sol sur ce terrain (emprise de 40
+     %), avec une hauteur de 9 m au plus (3 niveaux environ). C'est un plafond réglementaire, pas un projet :
+     la surface réellement construite dépend aussi de l'accès, du stationnement, de l'assainissement et de
+     la pente.
+
+
+
+Surface du terrain                                       293 m²
+
+Zone d'implantation possible                             47 m² après reculs (4,5 m des limites)
+
+Emprise au sol maximale                                  40 % du terrain, soit 117 m²
+
+Emprise constructible retenue                            47 m²
+
+Hauteur maximale                                         9 m, soit 3 niveaux environ
+
+Surface de plancher maximale                             environ 141 m²
+
+Espaces verts imposés                                    30 % du terrain au moins
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      10 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+     Zone d'implantation possible (estimation)
+
+
+
+
+                                                                                                                                  25 m
+
+
+
+En vert : partie du terrain hors reculs réglementaires · fond © IGN
+
+
+
+3.2 Étude d'implantation indicative
+     La zone constructible est trop étroite pour y placer une maison courante (moins de 50 m² au sol d'un
+     seul tenant). Une construction reste envisageable avec un plan sur mesure ; un architecte pourra le
+     confirmer.
+
+
+
+Estimation théorique établie à partir des règles chiffrées du règlement (reculs, emprise, hauteur) et de la géométrie
+cadastrale. Elle ne tient pas compte des servitudes, des risques, de la pente, des règles de stationnement et d'aspect, ni
+des dispositions particulières : seul un architecte ou un géomètre peut confirmer le potentiel réel.
+
+
+3.3 Caractère de la zone
+La zone UC est une zone de constructions denses, essentiellement composée d'habitat individuel et de
+petits collectifs, caractérisée par une forte proportion d'espaces verts privatifs. Elle forme une transition
+entre le centre de Nîmes et les zones d'habitat individuel de la garrigue et de la plaine. Elle comprend un
+secteur UCa (anciens lotissements et ZAC d'habitat clôturées), dont une petite partie est couverte par le
+PAPAG n°3 ; elle est en partie concernée par des zones de prudence liées aux lignes haute et très haute
+tension, et par des secteurs inondables (PPRi). Les règles retenues ici sont celles de la zone UC sans
+indice, hors secteur UCa.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      11 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.4 Règles de construction
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Surface minimale ou                          Non réglementé.                                                                  art. UC5
+  caractéristiques du terrain
+
+  Accès et voirie                              Terrain constructible s'il a accès à une voie publique ou privée                 art. UC3
+                                               ouverte à la circulation ; accès sécurisé, nombre d'accès limité,
+                                               établi sur la voie où la gêne est moindre ; voies en impasse
+                                               avec aire de retournement conforme au règlement
+                                               départemental d'incendie.
+
+  Réseaux et assainissement                    Raccordement obligatoire au réseau public d'eau potable ;                        art. UC4
+                                               eaux usées raccordées obligatoirement au réseau collectif
+                                               lorsqu'il existe sous la voie (autorisation et visite de
+                                               conformité), sinon assainissement individuel conforme à la
+                                               réglementation ; réseaux séparatifs ; eaux usées non
+                                               domestiques soumises à autorisation ; réseaux électricité, gaz
+                                               et télécommunication en souterrain ; eaux pluviales : rétention
+                                               obligatoire de 100 l/m² imperméabilisé, débit de fuite de 7
+                                               l/s/ha (dispositions générales, préambule § 9) ; locaux ou
+                                               emplacements de déchets et composteurs prévus.
+
+  Implantation par rapport                     Constructions implantées au ras de l'alignement existant                         art. UC6
+  aux voies                                    (marge de recul au plan ou réservation portée au plan), sans
+                                               retrait entre les niveaux sauf éventuellement le dernier ;
+                                               implantation en retrait éventuellement possible pour les
+                                               constructions nouvelles ; pan coupé à l'intersection des voies
+                                               de moins de 8 m d'emprise si l'angle est inférieur à 120 grades ;
+                                               marges de recul particulières le long des routes nationales et
+                                               départementales (préambule § 8).
+
+  Implantation par rapport                     Sauf bâtiment jouxtant la limite, distance au moins égale à la                   art. UC7
+  aux limites séparatives                      moitié de la différence d'altitude entre les deux points (H/2),
+                                               sans pouvoir être inférieure à 3 m.
+
+  Implantation des                             Non réglementé.                                                                  art. UC8
+  constructions entre elles
+
+  Emprise au sol                               40 % maximum de la surface de l'unité foncière en UC hors                        art. UC9
+                                               secteur UCa (60 % en UCa) ; majoration possible jusqu'à 30 %
+                                               pour exemplarité énergétique ou environnementale ou
+                                               bâtiment à énergie positive.
+
+  Hauteur maximale                             9 m à l'égout des couvertures de la toiture, soit R+2 maximum                    art. UC10 et
+                                               en UC hors UCa (7 m, R+1 en UCa) ; majoration possible jusqu'à                   préambule §
+                                               30 % pour exemplarité énergétique ou environnementale ;                          6.2
+                                               dérogation possible en zone inondable pour la mise hors d'eau
+                                               des planchers (PPRi).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      12 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Aspect extérieur et toitures                 Pas d'atteinte au caractère des lieux avoisinants ; simplicité de                art. UC11
+                                               volume et unité d'aspect ; façades traitées avec unité et
+                                               harmonie ; architecture contemporaine autorisée si elle met en
+                                               valeur le lieu ; toitures à pente (deux ou quatre pentes, pente
+                                               comprise entre 0 et 30 %) et toitures terrasses autorisées ;
+                                               panneaux solaires intégrés à la toiture ; climatiseurs peu
+                                               visibles du domaine public ; coffrets et boîtes aux lettres
+                                               encastrés.
+
+  Matériaux et couleurs                        Emploi à nu de matériaux destinés à être recouverts (carreaux                    art. UC11
+                                               de plâtre, briques creuses) interdit ; matériaux par plaques
+                                               (type fibro-ciment) interdits en clôture ; pas de règle sur les
+                                               couleurs.
+
+  Clôtures                                     En harmonie avec l'environnement : muret surmonté de                             art. UC11
+                                               barreaudage ou panneaux/lisses bois ou grillage avec haies
+                                               vives, ou mur plein, ou grille renforcée ; transparence
+                                               hydraulique dans tous les cas ; hauteur totale maximale de 2 m,
+                                               mesurée du côté où le terrain naturel est le plus élevé ;
+                                               déclaration préalable obligatoire pour toute clôture.
+
+  Stationnement                                Habitat collectif : 1,5 place par logement (1 place pour                         art. UC12
+                                               logements locatifs aidés, 0,5 place à moins de 500 m d'une
+                                               gare ou station TCSP ; 1 place pour les autres logements à
+                                               moins de 500 m d'une gare ou station TCSP) ; habitat individuel
+                                               : 2 places par logement sur l'îlot de propriété ; logements
+                                               étudiants : 1 place pour 2 chambres ; bureaux : surface de
+                                               stationnement égale à 60 % de la surface de plancher ; autres
+                                               activités : 45 % ; salles de spectacle, de réception ou de culte :
+                                               1/10 de la capacité d'accueil ; local vélo exigé sauf opérations
+                                               de moins de quatre logements.
+
+  Espaces verts et plantations                 Espaces libres d'au moins 30 % de la surface du terrain en UC                    art. UC13
+                                               (20 % en UCa) ; 50 % de ces espaces en pleine terre avec un
+                                               arbre de haute tige pour 100 m², le reste pouvant être remplacé
+                                               par une surface végétalisée pondérée ; stationnement et voies
+                                               d'accès non comptabilisés ; un arbre de haute tige pour quatre
+                                               places de stationnement ; arbre abattu remplacé ; plantations
+                                               des voies de 10 à 12 m d'emprise dans les lotissements ; règles
+                                               pour les bassins de rétention.
+
+  Densité ou coefficient                       Sans objet (pas de COS).                                                         art. UC14
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       13 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.5 Usages autorisés
+    Constructions à usage d'habitat individuel, groupé et de petits collectifs (usages non interdits à l'article
+    UC1)
+    Installations et constructions nécessaires aux services publics ou d'intérêt collectif, y compris les ICPE, si
+    leur aspect et leur fonction sont compatibles avec l'environnement (art. UC2)
+    Affouillements et exhaussements du sol nécessaires aux aménagements du programme CADEREAU
+    (TCSP) et de la Voie urbaine sud (art. UC2)
+    Affouillements et exhaussements nécessaires à l'exécution d'un permis de construire et aux fouilles
+    archéologiques (art. UC1)
+    Majoration de l'emprise au sol et de la hauteur jusqu'à 30 % pour les constructions justifiant d'une
+    exemplarité énergétique ou environnementale ou à énergie positive (art. UC9 et UC10)
+
+
+3.6 Usages interdits ou soumis à conditions
+    Interdits : ICPE soumises à déclaration, enregistrement ou autorisation (sauf celles visées à l'article UC2)
+    Interdits : parcs d'attraction ; terrains de loisirs motorisés ; terrains aménagés pour résidences mobiles,
+    résidences démontables ou habitations légères de loisirs ; stationnement des résidences mobiles
+    Interdits : affouillements et exhaussements du sol, sauf ceux nécessaires à un permis de construire, aux
+    fouilles archéologiques ou visés à l'article UC2
+    Interdits : dépôts de toute nature (ferraille, véhicules accidentés ou usagés, pièces détachées) ; ouverture
+    et exploitation de carrières
+    Secteur UCa sous PAPAG n°3 : toutes constructions interdites, sauf réhabilitation ou extension des
+    constructions existantes régulièrement édifiées dans la limite de 10 % de la surface de plancher existante
+    (hors zone UC sans indice, sauf mention contraire)
+    Dépassement des règles d'emprise et de hauteur (30 %) refusable si la construction ne respecte pas le
+    caractère de la zone ou l'intégration architecturale, urbaine et paysagère
+    Dans les zones de prudence HT/THT : implantation de bâtiments sensibles (hôpitaux, maternités, crèches,
+    établissements accueillant des enfants) interdite
+    Zones inondables : respect du PPRi (approuvé le 28/02/2012, modifié le 04/07/2014), les dispositions les
+    plus restrictives s'appliquent
+
+
+3.7 Points de vigilance pour votre projet
+    Vérifier si la parcelle est dans le secteur UCa (règles différentes : emprise 60 %, hauteur 7 m) ou dans le
+    périmètre PAPAG n°3 (rue Cristino Garcia)
+    Vérifier le zonage du PPRi (parcelle inondable) : les dispositions les plus restrictives s'appliquent, cote de
+    plancher PHE
+    Vérifier la présence de marges de recul (zones non aedificandi, article L.111-6) le long des routes nationales
+    et départementales, des autoroutes
+    Vérifier les zones de prudence liées aux lignes HT/THT (servitude I4), les zones de danger des gazoducs
+    et le classement sonore
+    Respecter le calcul de l'espace libre (30 %), de la pleine terre (50 % des espaces libres) et le ratio d'arbres
+    Dimensionner la rétention des eaux pluviales : 100 l/m² imperméabilisé, débit de fuite de 7 l/s/ha, rejet au
+    réseau unitaire interdit ; si projet d'au moins 3 lots, compensation collective obligatoire
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      14 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    Prévoir stationnement vélos, locaux déchets et composteurs
+    Obligation de débroussaillement si proximité de bois ou garrigue ; zone de sismicité 2 ; retrait-gonflement
+    des argiles
+    Raccordement obligatoire au réseau de chaleur urbain si la parcelle est dans la zone de développement
+    prioritaire et besoin supérieur à 60 kW
+
+
+3.8 Extraits du règlement
+
+     art. UC9 · page 136
+     « L'emprise au sol des constructions, ne peut excéder 40 % de la surface totale de l’unité foncière. »
+
+
+     art. UC10 · page 137
+     « La hauteur maximale des constructions ne devra pas excéder 9 m (neuf mètres) à l’égout des
+     couvertures de la toiture soit R+2 maximum. »
+
+
+     art. UC7 · page 136
+     « doit être au moins égale à la moitié de la différence d’altitude entre ces deux points, sans pouvoir
+     être inférieure à 3 m (trois mètres). »
+
+
+     art. UC6 · page 135
+     « les constructions devront être implantées, sans aucun retrait entre les niveaux sauf éventuellement
+     le dernier, au ras de : - l'alignement existant »
+
+
+     art. UC13 · page 140
+     « la surface d’espaces libres (Sel) doit présenter une surface au sol au moins égale à 30 % »
+
+
+     art. UC11 · page 138
+     « La hauteur totale des clôtures mesurée du côté où le terrain naturel est le plus élevé ne devra pas
+     excéder 2 m (deux mètres). »
+
+
+
+3.9 Démarches probables
+    Permis de construire ou déclaration préalable selon la nature et la surface des travaux
+    Déclaration préalable obligatoire pour l'édification d'une clôture
+    Permis d'aménager pour lotissement ; compensation collective des eaux pluviales si au moins 3 lots
+    Autorisation de raccordement au réseau public d'assainissement collectif et visite de conformité
+    Dossier loi sur l'eau (déclaration ou autorisation) si la surface du projet dépasse 1 ha ou soustrait plus de
+    400 m² à l'expansion des crues
+    Consultation du PPRi, saisine éventuelle du Préfet de Région pour l'archéologie préventive, information du
+    gestionnaire de gaz si proche d'une canalisation
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      15 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+     Cette lecture est établie automatiquement, par intelligence artificielle, à partir du règlement officiel en
+     vigueur. Elle peut comporter des imprécisions : seul le texte du règlement (pages 131 à 144 du
+     document approuvé), fait foi, avec les dispositions générales, les orientations d'aménagement et les
+     servitudes.
+
+
+
+Règlement officiel complet :
+https://data.geopf.fr/annexes/gpu/documents/DU_30189/53529d7aa0a0520e2551f2ce1f6dc29e/30189_reglement_20231104.pdf
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      16 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                                    04 · Loi Littoral et loi Montagne
+
+
+
+
+   04              Loi Littoral et loi Montagne
+     DANS CETTE SECTION
+
+     Les lois nationales qui s'ajoutent au document d'urbanisme sur le littoral et en montagne. Elles
+     peuvent rendre un terrain inconstructible même en zone constructible.
+
+
+Les lois d'aménagement qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+
+
+4.1 Loi Littoral
+Commune littorale                                        Non
+
+Distance au rivage                                       Sans objet
+
+Bande des 100 mètres                                     Sans objet
+
+
+La commune n'est pas riveraine de la mer : la loi Littoral ne s'applique pas (sauf rives de grands lacs).
+
+
+4.2 Loi Montagne
+Commune en zone de montagne                              Non
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          17 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+   05              Risques naturels et technologiques
+     DANS CETTE SECTION
+
+     Les risques connus à l'adresse du terrain (inondation, feu de forêt, mouvement de terrain,
+     radon…) et les catastrophes naturelles reconnues sur la commune.
+
+
+Base nationale Géorisques (ministère de la Transition écologique).
+
+
+
+5.1 Risques naturels à l'adresse de la parcelle
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Inondation                                      Non connu                                       Existant
+
+  Remontée de nappe                               Existant                                        Existant
+
+  Séisme                                          Existant – faible                               Existant – faible
+
+  Mouvement de terrain                            Inconnu                                         Existant
+
+  Retrait-gonflement des                          Non connu                                       Existant – important
+  argiles
+
+  Feu de forêt                                    Inconnu                                         Existant
+
+  Radon                                           Existant – faible                               Existant – faible
+
+
+
+
+5.2 Risques technologiques
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Installations industrielles                     Non concerné                                    Concerné
+  (ICPE)
+
+  Canalisations de matières                       Non concerné                                    Concerné
+  dangereuses
+
+  Pollution des sols                              Concerné                                        Concerné
+
+  Risque minier                                   Inconnu                                         Existant
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                    18 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.3 Indicateurs réglementaires
+Zone de sismicité                                        Zone 2 – faible
+
+Potentiel radon                                          Catégorie 1 (potentiel faible)
+
+Retrait-gonflement des argiles                           Non connu
+
+Plans de prévention (PPR)                                BV Vidourle, Vistre et Rhôny ; Atlas des zones inondables du bassin
+                                                         versant du Vidourle
+
+
+
+5.4 Arrêtés de catastrophe naturelle
+32 arrêtés de reconnaissance de l'état de catastrophe naturelle concernent la commune.
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Inondations et/ou Coulées de Boue                                         18/10/2026 au 19/10/2026                       28/10/2026
+
+  Inondations et/ou Coulées de Boue                                         10/03/2024                                     09/06/2024
+
+  Sécheresse                                                                31/03/2023 au 29/06/2023                       02/08/2024
+
+  Inondations et/ou Coulées de Boue                                         07/09/2022                                     29/10/2022
+
+  Sécheresse                                                                01/07/2022 au 30/09/2022                       10/06/2023
+
+  Inondations et/ou Coulées de Boue                                         14/09/2021 au 16/09/2021                       26/09/2021
+
+  Sécheresse                                                                01/04/2019 au 31/12/2019                       10/07/2020
+
+  Inondations et/ou Coulées de Boue                                         20/11/2018                                     04/05/2019
+
+  Sécheresse                                                                01/01/2018 au 31/03/2018                       09/08/2019
+
+  Sécheresse                                                                01/07/2017 au 30/09/2017                       05/07/2018
+
+  Inondations et/ou Coulées de Boue                                         09/10/2014 au 11/10/2014                       07/11/2014
+
+  Inondations et/ou Coulées de Boue                                         29/09/2014                                     07/11/2014
+
+  Sécheresse                                                                01/01/2012 au 31/12/2012                       02/08/2013
+
+  Sécheresse                                                                01/01/2007 au 31/03/2007                       13/08/2008
+
+  Inondations et/ou Coulées de Boue                                         06/09/2005 au 09/09/2005                       14/10/2005
+
+  Inondations et/ou Coulées de Boue                                         04/11/2004                                     01/02/2005
+
+  Inondations et/ou Coulées de Boue                                         22/09/2003                                     30/11/2003
+
+  Inondations et/ou Coulées de Boue                                         08/09/2002 au 10/09/2002                       20/09/2002
+
+  Inondations et/ou Coulées de Boue                                         27/05/1998 au 28/05/1998                       29/07/1998
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           19 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Inondations et/ou Coulées de Boue                                         13/10/1995 au 15/10/1995                       07/01/1996
+
+  Inondations et/ou Coulées de Boue                                         19/10/1994 au 21/10/1994                       17/03/1995
+
+  Inondations et/ou Coulées de Boue                                         12/10/1990                                     07/02/1991
+
+  Inondations et/ou Coulées de Boue                                         03/10/1988                                     08/10/1988
+
+  Glissement de Terrain                                                     03/10/1988                                     08/10/1988
+
+  Inondations et/ou Coulées de Boue                                         27/08/1987                                     11/11/1987
+
+  Inondations et/ou Coulées de Boue                                         24/08/1987                                     11/11/1987
+
+  Inondations et/ou Coulées de Boue                                         11/02/1987 au 13/02/1987                       10/07/1987
+
+  Inondations et/ou Coulées de Boue                                         23/08/1984                                     24/10/1984
+
+  Mouvement de Terrain                                                      14/10/1983                                     26/02/1984
+
+  Inondations et/ou Coulées de Boue                                         14/10/1983                                     26/02/1984
+
+  Tempête                                                                   06/11/1982 au 10/11/1982                       19/11/1982
+
+  Inondations et/ou Coulées de Boue                                         06/11/1982 au 10/11/1982                       19/11/1982
+
+
+
+
+5.5 Installations classées à proximité (moins de 1 km)
+    AVENIR HYGIENE MULTISERVICES · Non ICPE
+    BLATTES SERVICES 3D HYGIENE · Non ICPE
+
+
+5.6 Sites et sols pollués à proximité
+    10 anciens sites industriels ou d'activités de service (CASIAS) recensés
+
+
+5.7 Rapport officiel Géorisques
+Les risques recensés ci-dessus proviennent des bases officielles de Géorisques, service public d'information
+sur les risques. Le rapport officiel complet peut être édité gratuitement, à tout moment et à jour, à partir de
+l'adresse du terrain sur le site Géorisques.
+
+
+    Éditer le rapport officiel Géorisques
+
+
+Lors d'une vente ou d'une location, le vendeur ou le bailleur doit remettre un état des risques de moins de six mois,
+complété et signé, et l'information sur les sinistres indemnisés au titre des catastrophes naturelles.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          20 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+   06              Le terrain : accès, relief et réseaux
+     DANS CETTE SECTION
+
+     Les contraintes physiques du terrain : accès à une voie, pente et exposition, assainissement,
+     raccordement à l'électricité et à l'eau, fibre. Ce sont elles qui pèsent le plus sur le coût d'un
+     projet.
+
+
+Voirie (IGN, BD TOPO), altimétrie (IGN, RGE ALTI), règlement de la zone, réseau électrique (Agence ORE) et éligibilité
+internet (Arcep).
+
+
+
+6.1 Accès
+Accès direct à une voie                                  Oui
+
+Voie                                                     Route à 1 chaussée · Rue du Commandant René Mouchotte
+
+Largeur de chaussée                                      4m
+
+Accès des véhicules                                      Libre
+
+
+La parcelle touche une voie carrossable. L'autorisation d'urbanisme vérifiera que l'accès est adapté au projet et sûr,
+et peut imposer une permission de voirie ou un aménagement de l'entrée.
+
+
+6.2 Relief et exposition
+Pente moyenne                                            8%
+
+Exposition                                               Versant orienté sud
+
+Altitude                                                 80 à 82 m
+
+Appréciation                                             Pente modérée
+
+
+
+
+ 83 m
+
+
+
+
+ 80 m
+
+
+           Coupe du terrain dans le sens de la pente · longueur 33 m
+
+
+     Implantation courante ; terrassements et soutènements légers à prévoir.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       21 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Nîmes · ED 337
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.3 Ensoleillement
+Appréciation                                             Ensoleillement moyen
+
+Soleil direct le 21 juin                                 9 h 30 (de 08 h 10 à 17 h 30)
+
+Soleil direct aux équinoxes                              8 h 30 (de 08 h 20 à 16 h 40)
+
+Soleil direct le 21 décembre                             3 h 18 (de 09 h 50 à 14 h 20)
+
+Ensoleillement annuel possible                           2 786 h par an, soit 63 % du maximum à cette latitude
+
+Hauteur du relief vers le sud                            21°
+
+
+ 75°
+
+
+
+ 60°
+
+
+
+ 45°
+
+
+
+ 30°
+
+
+
+ 15°
+
+
+
+ 0°
+                                Est                  Sud-est                   Sud                  Sud-ouest               Ouest
+
+          21 juin          Équinoxes               21 décembre                Horizon : relief et bâtiments voisins
+
+
+
+       Le relief ou les constructions voisines privent le terrain d'une part notable du soleil, en particulier
+       l'hiver. L'implantation et l'orientation des pièces de vie seront déterminantes.
+
+
+
+Ensoleillement mois par mois (le 21 de chaque mois)
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Janvier                         9 h 18                             5 h 12                                    09 h 50 – 14 h 50
+
+  Février                         10 h 42                            7h                                        09 h 10 – 16 h 00
+
+  Mars                            12 h 12                            8 h 30                                    08 h 20 – 16 h 40
+
+  Avril                           13 h 30                            9 h 18                                    08 h 20 – 17 h 30
+
+  Mai                             14 h 48                            9 h 18                                    08 h 10 – 17 h 20
+
+  Juin                            15 h 18                            9 h 30                                    08 h 10 – 17 h 30
+
+  Juillet                         14 h 48                            9 h 18                                    08 h 20 – 17 h 30
+
+  Août                            13 h 42                            9 h 18                                    08 h 30 – 17 h 40
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      22 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Septembre                       12 h                               8 h 42                                    09 h 00 – 17 h 30
+
+  Octobre                         10 h 42                            7h                                        09 h 40 – 16 h 30
+
+  Novembre                        9 h 18                             5 h 12                                    09 h 20 – 14 h 20
+
+  Décembre                        8 h 48                             3 h 18                                    09 h 50 – 14 h 20
+
+
+
+Calcul théorique par ciel dégagé, au centre de la parcelle et à hauteur d'homme : course du soleil heure par heure, masque du relief
+sur 6 km (IGN, RGE ALTI) et des bâtiments voisins sur 120 m (IGN, BD TOPO, 92 bâtiments pris en compte). La végétation et les
+constructions récentes ne sont pas prises en compte.
+
+
+6.4 Quel raccordement pour les eaux usées ?
+Raccordement à prévoir                                       Tout-à-l'égout très probable
+
+Zone du PLU                                                  UC · Urbaine
+
+Zonage d'assainissement                                      Non publié au Géoportail de l'Urbanisme (consultable en mairie)
+
+Réseau collectif sur la commune                              Oui · COMMUNAUTE D'AGGLOMERATION DE NIMES METROPOLE
+                                                             · délégation à VEOLIA
+
+
+     Le terrain est en zone urbaine (UC) et la commune dispose d'un réseau public d'assainissement
+     collectif. Dans ces zones, le réseau passe en général dans la voie et le règlement impose le
+     raccordement lorsqu'il existe. À confirmer par le service d'assainissement pour ce terrain précis.
+
+
+
+Ce que dit le règlement de la zone
+Raccordement obligatoire au réseau public d'assainissement collectif lorsqu'il existe sous la voie publique
+(directement ou par voie privée ou servitude), avec autorisation du service public et visite de conformité. En
+l'absence de réseau ou en cas de dérogation ou exonération, dispositif d'assainissement individuel conforme à la
+réglementation ; il doit être déconnecté, désinfecté et remblayé si le réseau collectif vient à desservir la parcelle.
+Réseaux séparatifs obligatoires. Eaux usées non domestiques : autorisation de déversement, prétraitement possible,
+température inférieure à 30 °C.
+
+Le règlement admet un assainissement individuel uniquement là où le réseau public n'existe pas : cette mention ne signifie
+pas que le terrain n'est pas desservi.
+
+Ce que cela coûte
+Raccordement au tout-à-l'égout : branchement sous la voie réalisé par le service d'assainissement (souvent 1 500 à
+5 000 € selon la distance), canalisation sur le terrain jusqu'à la maison, et participation pour le financement de
+l'assainissement collectif (PFAC) fixée par la commune ou l'intercommunalité, généralement de 1 000 à 5 000 €. Le
+service remet un devis à partir du plan de situation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      23 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                         Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+Qui contacter pour obtenir la confirmation
+Service d'assainissement                                     COMMUNAUTE D'AGGLOMERATION DE NIMES METROPOLE ·
+                                                             exploitant : VEOLIA
+
+Mairie                                                       Mairie de Nîmes
+
+Téléphone                                                    04 66 76 70 01
+
+
+    Demandez au service d'assainissement, avec la référence cadastrale, si une canalisation publique passe au droit
+    du terrain, à quelle profondeur, et le montant de la PFAC. Sa réponse écrite vaut attestation de raccordabilité.
+    Certificat d'urbanisme opérationnel (formulaire Cerfa 13410, gratuit) : la mairie y indique officiellement si le
+    terrain est desservi par le réseau d'assainissement.
+    Plan des réseaux : la présence des canalisations enterrées près du terrain peut être vérifiée sur
+    reseaux-et-canalisations.gouv.fr, le guichet unique des réseaux.
+Sources : zonage d'assainissement et règlement (Géoportail de l'Urbanisme) ; services publics d'assainissement (SISPEA, Office
+français de la biodiversité) ; annuaire de l'administration (service-public.fr).
+
+Si le réseau public n'était finalement pas accessible
+  FILIÈRE                                    QUAND ELLE CONVIENT                                                           ORDRE DE PRIX
+
+  Fosse toutes eaux et                       Sol perméable, terrain assez grand et peu pentu                               5 000 à 10 000 €
+  épandage
+
+  Filtre à sable                             Sol peu perméable, place suffisante                                           8 000 à 12 000 €
+
+  Micro-station agréée                       Petit terrain ou sol défavorable ; entretien et électricité                   7 000 à 15 000 €
+
+  Filtre compact agréé                       Petit terrain, sans électricité                                               9 000 à 14 000 €
+
+
+
+Ordres de prix indicatifs (fourniture et pose, hors étude de sol et terrassements particuliers). La filière est choisie au vu de l'étude
+de sol et validée par le SPANC.
+
+
+6.5 Électricité et eau potable
+Gestionnaire du réseau                                       Enedis
+
+Réseau basse tension le plus proche                          au contact de la parcelle (ligne aérienne)
+
+Ligne aérienne la plus proche                                au contact de la parcelle
+
+Ligne souterraine la plus proche                             au contact de la parcelle
+
+Poste de transformation le plus proche                       à environ 125 m
+
+Appréciation                                                 Branchement simple probable
+
+
+     Le réseau basse tension passe au contact de la parcelle : un branchement simple est en principe
+     possible (de l'ordre de 1 500 à 3 000 € pour une maison, selon la longueur et la puissance), sous
+     réserve de la capacité du réseau et des coffrets existants.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           24 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+Ce qu'il faut vérifier avant d'acheter
+    La capacité du réseau : même un réseau proche peut être saturé (coffret ou câble plein, poste de transformation
+    au maximum). Seule une étude du gestionnaire permet de le savoir ; c'est la cause la plus fréquente de surcoûts
+    imprévus.
+    Électricité : demander au gestionnaire du réseau une étude de raccordement ou un devis à partir de l'adresse et
+    du plan de situation (gratuit). Elle indique le type de raccordement, son coût et son délai.
+    Eau potable : les plans du réseau d'eau ne sont pas publics. Interroger le service des eaux (coordonnées
+    ci-dessous) sur la présence d'une canalisation au droit du terrain, sa capacité et le coût du branchement, ainsi
+    que sur la défense incendie (borne à moins de 200 m environ).
+    Certificat d'urbanisme opérationnel : la mairie y indique si le terrain est desservi par les réseaux publics (eau,
+    électricité, assainissement) et, à défaut, si et quand ils seront étendus. Un refus de permis peut être fondé sur
+    l'insuffisance des réseaux (article L. 111-11 du Code de l'urbanisme).
+
+Qui contacter
+Service de l'eau potable                                     COMMUNAUTE D'AGGLOMERATION DE NIMES METROPOLE
+
+Mode de gestion                                              Délégation de service public à VEOLIA
+
+Contact pour le branchement                                  VEOLIA, pour le compte de : COMMUNAUTE D'AGGLOMERATION
+                                                             DE NIMES METROPOLE
+
+Mairie                                                       Mairie de Nîmes
+
+Téléphone de la mairie                                       04 66 76 70 01
+
+Électricité (raccordement)                                   Enedis · demande en ligne sur enedis.fr (raccordement)
+
+La mairie oriente vers le bon interlocuteur et confirme, dans le certificat d'urbanisme, la desserte du terrain par les réseaux.
+Sources : SISPEA, observatoire des services publics d'eau (OFB) ; annuaire de l'administration (service-public.fr).
+
+Dans une promesse de vente, une condition suspensive portant sur le coût du raccordement aux réseaux protège
+l'acquéreur. Source de la cartographie électrique : Agence ORE, données des gestionnaires de réseaux de distribution ;
+tracés indicatifs.
+
+
+6.6 Fibre et internet
+     Le terrain est déjà fibré : 1 adresse située sur la parcelle (14 Rue du Commandant René Mouchotte) est
+     déclarée raccordable à la fibre.
+
+
+
+Adresse la plus proche                                          14 Rue du Commandant René Mouchotte · à 6 m · raccordable
+
+Point fibré le plus proche                                      14 Rue du Commandant René Mouchotte · à 6 m
+
+Adresses fibrées à moins de 100 m                               27 sur 27
+
+Adresses fibrées à moins de 400 m                               444 sur 445
+
+Technologies disponibles à proximité                            4G fixe, Cuivre (ADSL, VDSL), Fibre, Satellite, Câble
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      25 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                                                                                             Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                                                                                       06 · Le terrain : accès, relief et réseaux
+
+
+
+
+     Points fibrés autour du terrain                                                         F                                             F
+                                                                                                                   F       FF                      F
+                                                                                                                             FF
+                                                                F                        F                             F
+                                                                                                           F
+                                                                    F                                     F                F           F                   F
+                                                            F                                    F         FF                                               F           F
+                                                                                         F                         F                               F                                      F
+                                                                                                 F                                                              F                 F
+                                            F                   F           F                                                                          F
+                                                    F                                                 F                F                                           F                  F
+                                                        FF                      F                                              F F
+                                        F                                                                                                                      F
+                                                                                         F
+                                                F                       FF                           F F
+                                                    F                     FF                                                       F                                    F         F               F
+                                     F                                       F      FF
+                                         F                                                                                                                                        F
+                                                                                                          F F
+                                    F                                                        F                                                                  F
+                                                                                F                              F           F
+                                                                        F                        F FF F F                                              F                                      F
+                                                                F               F                                              F
+                                                                                             F             F       F                   F
+                                                    F
+                                                                F F                                                            F
+                                                        F                       F                              F           F F                                          F
+                                            F       F                                                F                                                         F            FF
+                                                                                                                                                       F                                          FF
+
+                                                                                                                               F           F                                 FF
+                                                                                                                   F                               F
+                                                                                                                                   F                       F
+                                                                    F                            F                                                                  F
+                                                                                         F                                                                              F
+                                                     FF                                          F                                 F
+                                                                                                               F                               F                                  F
+                                                    F F                     F                                          F                                                           F
+                                                        F                                            F
+                                                                                     F                                             F
+                                                                                                                                               F
+                                                                    F                                                          F
+                                                                                F        F   F
+                                                                            F                F                                                 F
+                                                                                                                       F               F
+
+                                                                                                                                                                                                         100 m
+
+
+
+Repères F : adresses déclarées raccordables à la fibre (Arcep) · en terracotta : sur la parcelle · fond © IGN
+
+
+Vérifiez la fibre à l'adresse du terrain :
+
+                     Carte fibre Orange                                                                                                                                 Carte de l'Arcep
+
+
+  DISTANCE           ADRESSE                                                                                                                       FIBRE                               AUTRES ACCÈS
+
+  6m                 14 Rue du Commandant René Mouchotte                                                                                           Oui                                 4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                                                                                       Satellite
+
+  8m                 12 Rue du Commandant René Mouchotte                                                                                           Oui                                 4G fixe, Câble, Cuivre (ADSL,
+                                                                                                                                                                                       VDSL), Satellite
+
+  17 m               10 Rue du Commandant René Mouchotte                                                                                           Oui                                 4G fixe, Câble, Cuivre (ADSL,
+                                                                                                                                                                                       VDSL), Satellite
+
+  25 m               498 Avenue Kennedy                                                                                                            Oui                                 4G fixe, Câble, Cuivre (ADSL,
+                                                                                                                                                                                       VDSL), Satellite
+
+  25 m               39 Chemin de l'Alouette                                                                                                       Oui                                 4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                                                                                       Satellite
+
+  26 m               8 Rue du Commandant René Mouchotte                                                                                            Oui                                 4G fixe, Câble, Cuivre (ADSL,
+                                                                                                                                                                                       VDSL), Satellite
+
+  31 m               25 Rue Montaury                                                                                                               Oui                                 4G fixe, Câble, Cuivre (ADSL,
+                                                                                                                                                                                       VDSL), Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                                                                                  26 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  DISTANCE           ADRESSE                                                                   FIBRE              AUTRES ACCÈS
+
+  31 m               5 Rue du Commandant René Mouchotte                                        Oui                4G fixe, Câble, Cuivre (ADSL,
+                                                                                                                  VDSL), Satellite
+
+
+
+Source : Arcep, « Ma connexion internet », éligibilité déclarée par les opérateurs, adresse par adresse. Le tracé des câbles n'est
+pas public : la présence de la fibre en limite de terrain se vérifie auprès de l'opérateur ou par une déclaration de projet de travaux
+(DT).
+
+
+6.7 Qui contacter pour les réseaux
+  RÉSEAU                                    INTERLOCUTEUR                                         CE QU'IL FAUT DEMANDER
+
+  Eau potable et                            Mairie ou service des eaux de la                      Attestation de desserte et conditions de
+  assainissement collectif                  commune                                               raccordement
+
+  Assainissement individuel                 SPANC (communauté de communes)                        Contrôle de conception sur la base de l'étude
+                                                                                                  de sol
+
+  Électricité                               Enedis (gestionnaire du réseau de                     Étude de raccordement et devis
+                                            distribution)
+
+  Fibre et téléphone                        Opérateur d'infrastructure et                         Raccordement du futur logement
+                                            fournisseur d'accès
+
+  Tous réseaux                              Guichet unique des réseaux                            Déclaration de projet de travaux (DT) pour
+                                            (reseaux-et-canalisations.gouv.fr)                    localiser les réseaux existants
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             27 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+    07             Environnement et marché immobilier
+     DANS CETTE SECTION
+
+     Les espaces naturels protégés autour du terrain et les prix de vente réels des maisons,
+     appartements et terrains alentour.
+
+
+Inventaire national du patrimoine naturel et demandes de valeurs foncières (DVF).
+
+
+
+7.1 Espaces naturels protégés ou inventoriés
+  TYPE                                                      NOM DU SITE
+
+  Abords de monument historique                             Enceinte antique
+
+
+
+La présence d'un site Natura 2000 peut imposer une évaluation des incidences avant certains travaux. Une ZNIEFF
+est un inventaire scientifique sans portée réglementaire directe, mais elle signale un intérêt écologique pris en
+compte dans l'instruction des autorisations.
+
+
+7.2 Espèces protégées observées près du terrain
+69 espèces protégées ont été observées dans un rayon de 1 km autour du terrain depuis 1990 ; les 14 plus
+fréquemment signalées figurent ci-dessous.
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Moineau domestique (Passer                                      Oiseau                 Nationale (espèce et              629 · dernière en
+  domesticus)                                                                            habitat)                          2026
+
+  Fauvette à tête noire (Sylvia atricapilla)                      Oiseau                 Nationale (espèce et              620 · dernière en
+                                                                                         habitat)                          2025
+
+  Mésange charbonnière (Parus major)                              Oiseau                 Nationale (espèce et              603 · dernière en
+                                                                                         habitat)                          2025
+
+  Rouge-queue noir (Phoenicurus                                   Oiseau                 Nationale (espèce et              459 · dernière en
+  ochruros)                                                                              habitat)                          2025
+
+  Chardonneret élégant (Carduelis                                 Oiseau                 Nationale (espèce et              388 · dernière en
+  carduelis)                                                                             habitat)                          2025
+
+  Verdier (Chloris chloris)                                       Oiseau                 Nationale (espèce et              296 · dernière en
+                                                                                         habitat)                          2025
+
+  Martinet noir (Apus apus)                                       Oiseau                 Nationale (espèce et              286 · dernière en
+                                                                                         habitat)                          2026
+
+  Mésange bleue (Cyanistes caeruleus)                             Oiseau                 Nationale (espèce et              278 · dernière en
+                                                                                         habitat)                          2025
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                     28 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Pinson des arbres (Fringilla coelebs)                           Oiseau                 Nationale (espèce et              257 · dernière en
+                                                                                         habitat)                          2025
+
+  Rouge-gorge familier (Erithacus                                 Oiseau                 Nationale (espèce et              234 · dernière en
+  rubecula)                                                                              habitat)                          2025
+
+  Fauvette mélanocéphale (Sylvia                                  Oiseau                 Nationale (espèce et              223 · dernière en
+  melanocephala)                                                                         habitat)                          2022
+
+  Gabian (Larus michahellis)                                      Oiseau                 Nationale (espèce et              142 · dernière en
+                                                                                         habitat)                          2025
+
+  Bergeronnette grise (Motacilla alba)                            Oiseau                 Nationale (espèce et              138 · dernière en
+                                                                                         habitat)                          2025
+
+  Hirondelle de fenêtre (Delichon urbicum)                        Oiseau                 Nationale (espèce et              102 · dernière en
+                                                                                         habitat)                          2025
+
+
+
+     Une observation à proximité ne signifie pas que l'espèce vit sur le terrain. Mais si elle y est présente, il
+     est interdit de détruire, capturer ou déranger les individus et, pour la plupart de ces espèces, de
+     détruire leurs lieux de reproduction et de repos (articles L. 411-1 et suivants du Code de
+     l'environnement). L'infraction est punie de 3 ans d'emprisonnement et 150 000 € d'amende.
+
+
+
+Que faire avant de construire ?
+    Pour une maison individuelle, aucune étude écologique n'est imposée en règle générale, et l'étude de sol porte
+    sur le terrain (fondations), pas sur la faune ni la flore. Vous restez cependant responsable si une espèce
+    protégée vit sur la parcelle : en cas de doute (espèce observée tout près, vieux arbres, murets, maquis, zone
+    humide), faites passer un écologue avant de défricher.
+    Si un enjeu est confirmé : inventaire faune-flore aux saisons utiles (printemps et été en général), puis mesures
+    pour éviter et réduire l'impact : implantation de la maison sur la partie la moins sensible, travaux hors période de
+    reproduction, clôture de chantier adaptée, déplacement d'individus par un spécialiste habilité.
+    Si la destruction d'individus ou d'habitats ne peut pas être évitée : demande de dérogation « espèces protégées »
+    auprès de la préfecture (DREAL), avec avis du conseil scientifique. Comptez 4 à 12 mois d'instruction, à anticiper
+    avant le dépôt du permis.
+
+Combien prévoir ?
+Pré-diagnostic écologique                                800 à 2 000 € (une visite et une note de synthèse)
+
+Inventaire faune-flore                                   3 000 à 10 000 € selon la surface et le nombre de passages
+
+Mesures d'évitement et de réduction                      500 à 5 000 € (balisage, calendrier, suivi de chantier)
+
+Dossier de dérogation                                    8 000 à 25 000 €, hors mesures de compensation éventuelles
+
+Ordres de prix indicatifs, honoraires de bureaux d'études en environnement, si une étude est nécessaire. Pour une maison sur un
+terrain déjà entouré de constructions, aucune étude n'est le plus souvent requise.
+
+Sources : statuts de protection TAXREF et base de connaissance des statuts (INPN, Muséum national d'Histoire naturelle) ;
+observations naturalistes GBIF, qui rassemble notamment les données de l'INPN et du SINP.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      29 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+7.3 Prix de l'immobilier à Nîmes
+Prix au mètre carré des ventes enregistrées sur la commune au cours des cinq dernières années publiées.
+Seules les ventes portant sur un bien unique sont retenues.
+
+  TYPE DE BIEN                                       VENTES                       €/M² MÉDIAN                              €/M² MOYEN
+
+  Maisons                                            3 116                        2 852 €/m²                               3 097 €/m²
+
+  Appartements                                       8 873                        2 120 €/m²                               2 154 €/m²
+
+  Locaux commerciaux                                 693                          1 400 €/m²                               1 916 €/m²
+
+
+
+Source : statistiques des demandes de valeurs foncières (DGFiP, Etalab). Prix des actes, hors frais : un ordre de grandeur,
+pas une estimation du bien.
+
+
+7.4 Ventes de terrains autour de la parcelle
+Période observée                                         2021 à 2026
+
+Ventes de terrains recensées                             13
+
+Prix médian                                              288 €/m²
+
+Prix courants (une vente sur deux)                       165 à 462 €/m²
+
+
+  DATE                    PARCELLE                           NATURE                               SURFACE              PRIX             €/M²
+
+  27/01/2026              ED 633                             terrains d'agrément                  306 m²               102 000 €        333
+
+  20/11/2025              DZ 566 (+2)                        terrains d'agrément                  319 m²               80 000 €         251
+
+  22/07/2025              DZ 566 (+2)                        terrains d'agrément                  319 m²               32 000 €         100
+
+  22/07/2025              DZ 550 (+7)                        sols, terrains d'agrément            1 092 m²             180 000 €        165
+
+  03/06/2025              DV 657                             landes                               634 m²               307 500 €        485
+
+  28/10/2024              DY 442                             sols                                 374 m²               393 600 €        1 052
+
+  17/10/2024              ED 610                             terrains à bâtir                     3 227 m²             225 000 €        70
+
+  16/01/2023              EB 689 (+1)                        landes                               325 m²               150 000 €        462
+
+  27/12/2022              ED 611                             terrains à bâtir                     465 m²               18 000 €         39
+
+  02/11/2022              DZ 531 (+1)                        sols                                 454 m²               339 610 €        748
+
+  15/06/2022              ED 609                             sols                                 590 m²               170 000 €        288
+
+  24/11/2021              EB 766                             sols                                 516 m²               220 000 €        426
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           30 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+Source : DVF, ventes enregistrées par la DGFiP. Les prix au mètre carré dépendent fortement de la constructibilité, de la
+vue, de l'accès et de la viabilisation : ils donnent un ordre de grandeur, pas une estimation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                   31 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                         Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                                                08 · Historique du site
+
+
+
+
+   08              Historique du site
+     DANS CETTE SECTION
+
+     Le terrain vu du ciel au fil des décennies et les permis de construire accordés autour : l'évolution
+     du secteur en un coup d'œil.
+
+
+Photographies aériennes de l'IGN et permis de construire délivrés (Sitadel).
+
+
+
+8.1 Le terrain vu du ciel, d'hier à aujourd'hui
+
+    1950-1965                                             2000-2005                                              2006-2010
+
+
+
+
+    2011-2015                                             Aujourd'hui
+
+
+
+
+Ces vues montrent l'évolution du terrain et du quartier, des années 1950 à aujourd'hui (photographies aériennes de l'IGN).
+
+     Bon à savoir : l'existence ancienne d'une construction peut ouvrir, sous conditions, un droit à
+     reconstruire ou à restaurer un bâtiment dont il reste l'essentiel des murs porteurs (articles L. 111-15 et L.
+     111-23 du Code de l'urbanisme).
+
+
+
+
+8.2 Permis de construire délivrés autour du terrain
+Autorisations sur la commune (3 ans)                                    217 · dernière recensée le 22/09/2026
+
+Logements autorisés (3 ans)                                             1 558
+
+Dont maisons individuelles                                              139
+
+Autorisations dans la section ED                                        23 depuis 2013
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  30/05/2026            Permis de construire                   ED 633             1              139,23 m²                 ROUTE DE SAUVE
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            32 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                           Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                                                08 · Historique du site
+
+
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS           SURFACE CRÉÉE            LIEU-DIT / VOIE
+
+  01/08/2024            Permis de construire                   ED 610             1               146 m²                   RUE MONTAURY
+
+  07/06/2024            Permis de construire                   ED 254             26              1 792 m²                 IMPAS VIALA
+
+  01/03/2024            Permis de construire                   ED 282             16              1 315 m²                 IMPAS BONFILS
+
+  04/08/2023            Permis de construire                   ED 597             1               206 m²                   RUE MONTAURY
+
+  12/04/2022            Permis de construire                   ED 118             1               157 m²                   CHEMI DE L ALOUETTE
+
+  22/07/2021            Déclaration préalable                  ED 118             1               54 m²                    CHEMI DE L ALOUETTE
+
+  03/12/2019            Permis de construire                   ED 12              1               100 m²                   MONTEE DES 3 PILIERS
+
+  03/12/2019            Permis de construire                   ED 12              1               88 m²                    MONTEE DES 3 PILIERS
+
+  13/08/2019            Permis de construire                   ED 44              3               248 m²                   RUE DE SAUVE
+
+  25/09/2018            Permis de construire                   ED 598             1               146 m²                   RUE MONTAURY
+
+  24/08/2018            Permis de construire                   ED 64              15              901 m²                   IMPAS MONTAURY
+
+
+
+Permis accordés à moins de 500 m du terrain
+  DATE                 AUTORISATION                       PARCELLE          DISTANCE         LOGTS           SURFACE          LIEU-DIT / VOIE
+
+  23/09/2025           Permis de construire               EH 4              180 m            32              2 134 m²         RUE MONTAURY
+
+  09/09/2025           Permis de construire               EB 821            480 m            1               129 m²           RUE DES COTTAGES
+
+  01/08/2024           Permis de construire               ED 610            460 m            1               146 m²           RUE MONTAURY
+
+  07/06/2024           Permis de construire               ED 254            400 m            26              1 792 m²         IMPAS VIALA
+
+  04/08/2023           Permis de construire               ED 597            380 m            1               206 m²           RUE MONTAURY
+
+  25/07/2023           Permis de construire               EH 8              270 m            42              2 847 m²         AVENU KENNEDY
+
+  07/03/2023           Permis de construire               EC 60             460 m            131             9 195 m²         RUE EDOUARD LALO
+
+
+
+7 autorisations créant des logements recensées dans un rayon de 500 m : la construction a été admise récemment
+dans le voisinage immédiat.
+
+Source : base Sitadel des autorisations d'urbanisme créant des logements (SDES). Un permis accordé à proximité montre
+que des constructions ont été admises dans le secteur, sans préjuger de la décision sur votre propre projet.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             33 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                              09 · Opportunités autour du terrain
+
+
+
+
+      09           Opportunités autour du terrain
+      DANS CETTE SECTION
+
+      Ce qui se passe autour de la parcelle : grands terrains peu bâtis, sociétés propriétaires en
+      difficulté, logements énergivores. Des pistes pour un investisseur, un voisin ou un professionnel.
+
+
+Bodacc (procédures collectives), ADEME (diagnostics énergétiques), cadastre, BD TOPO et Géoportail de l'Urbanisme.
+
+
+
+9.1 Grands terrains peu bâtis à proximité
+Parcelles de plus de 1 200 m², situées en zone urbaine ou à urbaniser du PLU, dans un rayon de 250 m, dont
+moins de 8 % de la surface est bâtie, hors terrains publics : un potentiel de construction ou de division à
+étudier.
+
+  PARCELLE           SURFACE                BÂTI               ZONE               DISTANCE           PROPRIÉTAIRE
+
+  EC 235             64 707 m²              non bâti           IIUB               420 m              particulier (non publié)
+
+  EB 361             8 457 m²               278 m²             UC                 310 m              particulier (non publié)
+
+  EC 225             7 162 m²               non bâti           IIUB               520 m              particulier (non publié)
+
+  EC 176             5 069 m²               217 m²             VUB                270 m              particulier (non publié)
+
+  EC 160             4 834 m²               202 m²             VUB                210 m              particulier (non publié)
+
+  EH 4               3 025 m²               212 m²             UC                 180 m              particulier (non publié)
+
+  EB 524             2 242 m²               160 m²             UC                 70 m               particulier (non publié)
+
+  EH 755             2 069 m²               138 m²             UC                 220 m              particulier (non publié)
+
+
+
+
+9.2 Logements classés F ou G autour du terrain
+Logements diagnostiqués F ou G dans un rayon de 350 m. Leur location est déjà interdite (G) ou le sera en
+2028 (F) : leurs propriétaires sont souvent vendeurs, ou doivent engager des travaux de rénovation.
+
+  PARCELLE                   ADRESSE                                        CLASSE LOGEMENT                   SURFACE      DISTANCE DPE DU
+
+  –                          617 Chemin de Pissevin 30900                   F            Maison               155 m²       140 m    01/09/2026
+                             Nîmes
+
+  Section ED n°              34 Rue Montaury 30900 Nîmes                    F            Maison               92 m²        160 m    27/06/2022
+  157
+
+  Section EC n° 12           707 Chemin de Pissevin 30900                   F            Maison               101 m²       200 m    15/03/2025
+                             Nîmes
+
+  Section EH n° 14           6 Impasse Ducamp 30900                         F            Appartemen           33 m²        250 m    02/03/2023
+                             Nîmes                                                       t
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        34 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                              09 · Opportunités autour du terrain
+
+
+
+
+  PARCELLE                   ADRESSE                                        CLASSE LOGEMENT                   SURFACE      DISTANCE DPE DU
+
+  –                          179 Traverse de Pissevin 30900                 F            Maison               115 m²       280 m    09/02/2025
+                             Nîmes
+
+  Section EH n°              8 Rue Armand Coussens 30900                    F            Appartemen           27 m²        300 m    05/08/2025
+  648                        Nîmes                                                       t
+
+  Section EH n°              10 Rue Armand Coussens                         F            Appartemen           24 m²        310 m    15/12/2025
+  648                        30900 Nîmes                                                 t
+
+  Section EH n° 36           8 Impasse Armand Barbès                        G            Appartemen           31 m²        310 m    05/08/2022
+                             30900 Nîmes                                                 t
+
+  Section ED n°              2 Impasse Viala 30900 Nîmes                    F            Maison               60 m²        340 m    31/01/2022
+  219
+
+
+
+La parcelle est celle du point d'adresse du logement (cadastre). Pour connaître son propriétaire lorsqu'il s'agit d'un particulier,
+demandez un relevé de propriété au service de la publicité foncière ou à la mairie.
+
+Ces informations proviennent de bases publiques et ne préjugent ni de l'intention de vendre des propriétaires ni de la
+constructibilité des parcelles citées, qui relève d'une étude au cas par cas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        35 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+      10           Votre projet, étape par étape
+De l'achat du terrain à la déclaration aux impôts : démarches, délais, coûts et contacts.
+
+
+
+10.1 Analyse
+Le terrain est soumis au plan local d'urbanisme (PLU) de Nîmes. Il est classé en zone UC. Zone urbaine :
+secteur déjà urbanisé où les équipements publics existants ou en cours de réalisation permettent
+d'accueillir des constructions. Les constructions y sont admises dans le respect du règlement de la zone
+(destinations, implantation, hauteur, emprise, aspect).
+
+La construction n'est pas exclue, mais elle est subordonnée à des conditions qu'il faut lever avant tout
+engagement : lecture du règlement et des orientations d'aménagement, desserte par les réseaux,
+contraintes de risques ou de protection.
+
+
+10.2 Votre projet, étape par étape
+Les étapes ci-dessous suivent l'ordre réel d'un projet de construction, de l'achat du terrain à la déclaration aux
+impôts. Les montants sont indicatifs et à confirmer par devis.
+
+  1      Avant d'acheter le terrain
+         Vérifiez les règles de la zone (chapitres précédents), puis demandez un certificat d'urbanisme opérationnel
+         (Cerfa 13410, sans frais, réponse sous 2 mois) : il fige les règles pendant 18 mois. En zone d'argiles d'aléa
+         moyen ou fort, le vendeur doit fournir une étude de sol préalable.
+         Contact : Mairie de Nîmes · 04 66 76 70 01 · formulaire sur service-public.fr (rechercher « Cerfa 13410 »)
+
+  2      Les études
+         Étude de sol géotechnique (G2) pour dimensionner les fondations : 1 500 à 3 000 €. Étude thermique RE2020,
+         obligatoire pour le permis : 500 à 1 500 €. Bornage par un géomètre si les limites sont incertaines. L'étude de
+         sol ne porte pas sur les espèces protégées : un écologue n'intervient qu'en cas d'enjeu (chapitre
+         Environnement).
+         Géomètres proches du terrain : liste à la fin de ce chapitre
+
+  3      Les plans
+         Architecte obligatoire si la surface de plancher totale dépasse 150 m². En dessous, vous pouvez dessiner les
+         plans vous-même ou faire appel à un dessinateur ou maître d'œuvre (environ 1 500 à 4 000 € le dossier de
+         permis). Architecte : 3 000 à 8 000 € pour la seule mission de permis, 8 à 12 % du coût des travaux pour une
+         mission complète avec suivi du chantier.
+         Trouver un architecte : annuaire de l'Ordre des architectes sur architectes.org
+
+  4      Déposer le permis
+         Formulaire Cerfa 13406 (maison individuelle) et pièces PCMI1 à PCMI8 : plan de situation, plan de masse,
+         coupe, notice, plans des façades et toitures, insertion dans le paysage, photos, attestation RE2020. Dépôt en
+         mairie ou en ligne sur le guichet numérique de la commune. La mairie a 1 mois pour réclamer une pièce
+         manquante ; l'instruction dure 2 mois à partir du dossier complet, plus en secteur protégé.
+         Dépôt : Mairie de Nîmes · 04 66 76 70 01 · formulaire sur service-public.fr (rechercher « Cerfa 13406 »)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        36 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+  5      Affichage et recours
+         Dès l'accord, installez le panneau de permis sur le terrain, lisible depuis la voie, pendant toute la durée du
+         chantier. Les tiers ont 2 mois à compter du premier jour d'affichage pour contester ; la mairie peut retirer un
+         permis illégal pendant 3 mois. Faites constater l'affichage par un commissaire de justice (environ 300 à 600 €
+         pour les trois constats).
+         Commissaires de justice : annuaire sur commissaire-justice.fr
+
+  6      Avant les travaux
+         Souscrivez l'assurance dommages-ouvrage, obligatoire (souvent 2 à 4 % du coût de la construction). Signez
+         le contrat de construction de maison individuelle ou les marchés des artisans. Déposez la déclaration
+         d'ouverture de chantier (Cerfa 13407) le jour du démarrage. Le permis est valable 3 ans, prorogeable deux
+         fois d'un an.
+         Déclaration d'ouverture : Mairie de Nîmes · 04 66 76 70 01
+
+  7      Le financement
+         La banque débloque le prêt au fur et à mesure du chantier, sur présentation des factures des entreprises ou
+         des appels de fonds du constructeur. Avec un contrat de construction de maison individuelle, l'échéancier
+         est encadré par la loi : 15 % à l'ouverture du chantier, 25 % aux fondations, 40 % aux murs, 60 % hors d'eau,
+         75 % hors d'air et cloisons, 95 % aux équipements, le solde à la réception. Des intérêts intercalaires peuvent
+         courir sur les sommes débloquées.
+         Votre banque ou votre courtier
+
+  8      La fin du chantier
+         Réception des travaux avec le constructeur ou les artisans, avec réserves si nécessaire. Déposez ensuite la
+         déclaration attestant l'achèvement et la conformité des travaux (DAACT, Cerfa 13408), avec l'attestation
+         RE2020 de fin de chantier. La mairie a 3 mois pour la contester (5 mois en secteur protégé).
+         Dépôt : Mairie de Nîmes · 04 66 76 70 01
+
+  9      Les impôts
+         Dans les 90 jours suivant l'achèvement, déclarez la construction sur impots.gouv.fr, espace « Gérer mes
+         biens immobiliers ». Cette déclaration sert au calcul de la taxe d'aménagement (payée en une fois sous 1 500
+         €, sinon en deux fois, estimation plus bas dans ce chapitre) et de la taxe foncière, avec une exonération
+         possible les deux premières années selon la commune.
+         impots.gouv.fr › Espace particulier › Gérer mes biens immobiliers
+
+
+10.3 Les points à vérifier pour ce terrain
+  1      Certificat d'urbanisme opérationnel
+         Le demander en mairie (formulaire Cerfa 13410), en décrivant le projet. Gratuit, il indique si le terrain
+         peut accueillir le projet et fige les règles d'urbanisme pendant 18 mois.
+
+  2      Règlement de la zone
+         Lire le règlement écrit de la zone UC et, le cas échéant, les orientations d'aménagement, disponibles sur
+         le Géoportail de l'Urbanisme.
+
+  3      Réseaux et accès
+         Vérifier l'accès à une voie publique ou privée adaptée, la desserte en eau potable et en électricité, et le
+         mode d'assainissement. En l'absence de réseau collectif, une étude de sol et l'avis du service public
+         d'assainissement non collectif (SPANC) sont nécessaires.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        37 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+  4      Architecte des Bâtiments de France
+         Le projet sera soumis à l'architecte des Bâtiments de France : le rencontrer avant de dessiner le projet
+         (rendez-vous par la mairie ou l'unité départementale de l'architecture et du patrimoine), soigner
+         matériaux, teintes et toitures, et compter un mois de plus pour l'instruction.
+
+  5      Bornage
+         Faire réaliser un bornage par un géomètre-expert pour fixer les limites exactes et la surface réelle du
+         terrain.
+
+  6      Sécuriser un achat
+         Pour une acquisition, prévoir dans le compromis une condition suspensive d'obtention d'un permis de
+         construire purgé de tout recours.
+
+
+10.4 Délais indicatifs d'instruction
+  DEMANDE                                                                                 DÉLAI DE DROIT COMMUN
+
+  Certificat d'urbanisme d'information (CUa)                                              1 mois
+
+  Certificat d'urbanisme opérationnel (CUb)                                               2 mois
+
+  Déclaration préalable                                                                   1 mois
+
+  Permis de construire une maison individuelle                                            2 mois
+
+  Permis d'aménager, autres permis de construire                                          3 mois
+
+
+
+Ces délais peuvent être majorés, notamment en site classé ou inscrit, aux abords d'un monument historique ou lorsque la
+consultation d'un service extérieur est nécessaire.
+
+
+10.5 Taxe d'aménagement à prévoir
+      Exemple : une maison de 120 m² en résidence principale, avec une piscine de 3 × 6 m. Sur ce terrain, la
+      taxe d'aménagement à prévoir est d'environ 3 550 €.
+
+
+
+  PROJET                                                                                                       TAXE ESTIMÉE
+
+  Maison de 120 m², résidence principale                                                                       3 310 €
+
+  Piscine de 3 × 6 m (18 m²)                                                                                   240 €
+
+  Total à prévoir                                                                                              3 550 €
+
+
+
+Taux appliqués : 4 % pour la commune et 1,3 % pour le département, sur une valeur forfaitaire de 892 € par m² en 2026 (251
+€ par m² de bassin pour une piscine). Une résidence principale bénéficie d'un abattement de 50 % sur ses 100 premiers m².
+
+La taxe est due une fois les travaux terminés : elle se déclare sur impots.gouv.fr dans les 90 jours suivant l'achèvement, et
+se paie en deux fois au-delà de 1 500 €. Pour calculer votre propre projet :
+terrenurbanisme.com/outils/taxe-amenagement.html
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        38 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+10.6 Implanter une entreprise : zone France Ruralités Revitalisation
+     La commune de Nîmes n'est pas classée en zone France Ruralités Revitalisation (FRR). Une entreprise
+     qui s'y installe ne bénéficie pas de l'exonération d'impôt sur les bénéfices liée à ce zonage.
+
+
+
+Source : ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 (collectivites-locales.gouv.fr).
+
+
+10.7 Géomètres proches du terrain
+Le géomètre-expert est le seul professionnel habilité à fixer les limites de propriété (bornage) et à établir les
+documents d'arpentage déposés au cadastre. Il intervient aussi pour les relevés topographiques et les
+divisions de terrain.
+
+0,4 km            EQUINOX
+                                                                                                                           Coordonnées
+                  IMMEUBLE BEAUVALLON - 2EME ETAGE 97 RUE GRIEG 30900 NIMES
+
+
+0,8 km            FABIEN GABANON
+                                                                                                                           Coordonnées
+                  151 RUE GILLES ROBERVAL 30900 NIMES
+
+
+0,8 km            JEAN-PHILIPPE SANTOLIN
+                                                                                                                           Coordonnées
+                  PARC KENNEDY C 285 RUE GILLES ROBERVAL 30900 NIMES
+
+
+1 km              RELIEF GE
+                                                                                                                           Coordonnées
+                  65 AVENUE JEAN-JAURES 30900 NIMES
+
+
+1 km              LAURE PIETRI (PIETRI)
+                                                                                                                           Coordonnées
+                  65 AVENUE JEAN-JAURES 30900 NIMES
+
+
+1 km              CABINET BALP PIETRI
+                                                                                                                           Coordonnées
+                  65 AVENUE JEAN-JAURES 30900 NIMES
+
+
+Source : répertoire Sirene de l'INSEE (activité des géomètres), classé par distance au terrain. L'inscription d'un cabinet à l'Ordre
+des géomètres-experts se vérifie sur geometre-expert.fr. Le bouton « Coordonnées » ouvre la fiche du cabinet (téléphone,
+horaires, itinéraire). Cette liste est fournie à titre indicatif, sans partenariat ni recommandation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        39 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Nîmes · ED 337
+          TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+     11            État des risques (ERP) pré-rempli
+     DANS CETTE SECTION
+
+     Le formulaire réglementaire à remettre à l'acquéreur ou au locataire, pré-rempli à partir des
+     bases officielles : plans de prévention, sismicité, radon, sols pollués, trait de côte, bruit des
+     aérodromes.
+
+
+Articles L. 125-5 à L. 125-7 et R. 125-23 à R. 125-27 du Code de l'environnement · modèle fixé par l'arrêté du 27 septembre
+2022.
+
+
+     Formulaire pré-rempli à partir de Géorisques et du Géoportail de l'Urbanisme à la date du rapport.
+     Avant de le remettre à l'acquéreur ou au locataire, le vendeur ou le bailleur le vérifie, le complète
+     (sinistres indemnisés) et le signe ; il doit dater de moins de six mois à la signature de la promesse, du
+     bail ou de l'acte.
+
+
+
+
+11.1 Situation du bien
+Commune                                                  Nîmes (30189)
+
+Département                                              Gard (30)
+
+Références cadastrales                                   Section ED, parcelle n° 337 · 30189000ED0337
+
+Surface cadastrale                                       293 m²
+
+
+
+11.2 Plans de prévention des risques
+  L'IMMEUBLE EST SITUÉ DANS LE PÉRIMÈTRE…                                         RÉPONSE                DÉTAIL
+
+  d'un plan de prévention des risques naturels (PPRN)                             Non                    Aléas à l'adresse : remontée de nappe
+  prescrit, appliqué par anticipation ou approuvé
+
+  d'un plan de prévention des risques miniers (PPRM)                              Non                    Non recensé
+
+  d'un plan de prévention des risques technologiques                              Non                    Risques technologiques sur la commune
+  (PPRT)                                                                                                 : installations industrielles (icpe),
+                                                                                                         canalisations de matières dangereuses,
+                                                                                                         pollution des sols
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       40 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+11.3 Autres zonages réglementaires
+  L'IMMEUBLE EST SITUÉ…                                                           RÉPONSE                DÉTAIL
+
+  dans une commune de sismicité (zones 2 à 5 : règles de                          Oui                    Zone 2 – faible
+  construction parasismique)
+
+  dans une commune à potentiel radon de niveau 3                                  Non                    Catégorie 1 (potentiel faible)
+
+  dans un secteur d'information sur les sols (SIS)                                Non                    Aucun SIS recensé à proximité
+
+  dans une zone exposée au recul du trait de côte                                 Non                    Non concerné selon Géorisques
+
+  dans une zone de bruit d'un plan d'exposition au bruit                          À vérifier             Aucun PEB annexé au document
+  d'aérodrome (PEB)                                                                                      d'urbanisme ; vérifier auprès de la mairie
+
+  dans une zone de retrait-gonflement des argiles                                 Oui                    Non connu
+  (information)
+
+
+
+
+11.4 Sinistres indemnisés et déclarations
+Arrêtés de catastrophe naturelle sur la commune : 32 (liste en section Risques). Le vendeur ou le bailleur
+déclare ci-dessous les sinistres ayant donné lieu à une indemnisation au titre des catastrophes naturelles ou
+technologiques pendant la période où il a été propriétaire.
+
+Sinistres indemnisés                                     [ ] Oui [ ] Non
+
+Vendeur ou bailleur                                      Nom : ____________________ Date : ___/___/______ Signature :
+
+Acquéreur ou locataire                                   Nom : ____________________ Date : ___/___/______ Signature :
+
+
+L'état des risques officiel peut aussi être édité gratuitement sur Géorisques (errial.georisques.gouv.fr). Les informations
+ci-dessus sont établies à partir des bases nationales ; en cas de divergence, l'arrêté préfectoral relatif à l'information des
+acquéreurs et des locataires fait foi.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             41 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+    12             Avertissement et sources
+     DANS CETTE SECTION
+
+     La portée de ce rapport et la liste des sources publiques consultées.
+
+
+
+12.1 Nature du document
+Ce rapport est un document d'information établi automatiquement, à la date indiquée en page de garde, à
+partir des données publiques officielles alors disponibles. Il n'a aucune valeur contractuelle, réglementaire ou
+juridique.
+
+
+12.2 Ce que ce rapport n'est pas
+Il ne constitue ni un certificat d'urbanisme au sens de l'article L. 410-1 du Code de l'urbanisme, ni une
+autorisation d'urbanisme (permis de construire, permis d'aménager, déclaration préalable), ni un état des
+risques au sens de l'article L. 125-5 du Code de l'environnement, ni un bornage, ni une expertise, ni une
+évaluation immobilière, ni une consultation juridique. Il n'engage en rien l'administration.
+
+
+12.3 Permis de construire
+Ce rapport ne peut en aucun cas être joint, produit ou invoqué à l'appui d'une demande de permis de
+construire, de permis d'aménager ou de déclaration préalable, ni opposé à la mairie ou à un service de l'État. Il
+ne garantit pas l'obtention d'une autorisation : seule l'autorité compétente se prononce, au vu d'un projet
+précis et de l'ensemble des règles applicables à la date de sa décision.
+
+
+12.4 Limites des données
+Les données sont produites par des organismes publics dont l'éditeur n'est ni l'auteur ni le garant. Elles
+peuvent être incomplètes, imprécises ou ne pas refléter une modification, une révision, une mise en
+compatibilité, une annulation contentieuse, un sursis à statuer ou une procédure en cours. Le plan cadastral,
+document fiscal, ne fait pas foi des limites de propriété. Surfaces, distances, altitudes et pentes sont
+approchées. Les extraits et analyses du règlement sont une aide à la lecture : seul le texte intégral du
+document d'urbanisme approuvé, consultable en mairie, fait foi.
+
+
+12.5 Avant toute décision
+Avant toute acquisition, cession, financement, promesse de vente ou dépôt d'une demande, le lecteur doit
+obtenir un certificat d'urbanisme opérationnel auprès de la mairie, consulter le document d'urbanisme en
+vigueur et recueillir l'avis d'un professionnel habilité (notaire, architecte, géomètre-expert, avocat). Pour un
+achat, il est recommandé de stipuler une condition suspensive d'obtention d'un permis de construire purgé de
+tout recours.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        42 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+12.6 Responsabilité
+L'éditeur ne saurait être tenu responsable d'une décision prise sur le seul fondement de ce rapport, ni d'un
+refus d'autorisation, d'une erreur ou d'une omission des sources publiques, dans les limites prévues par les
+conditions générales de vente acceptées lors de la commande.
+
+
+12.7 Sources consultées
+  DONNÉE                                                    SOURCE
+
+  Cadastre                                                  DGFiP, plan cadastral informatisé, via API Carto (IGN)
+
+  Photographies et plans                                    IGN, Géoplateforme : orthophotographies, Plan IGN, parcellaire express
+
+  Urbanisme                                                 Géoportail de l'Urbanisme : zonage, prescriptions, informations, servitudes
+                                                            d'utilité publique
+
+  Littoral                                                  IGN, BD TOPO (limite terre-mer) ; communes littorales (Géoportail de
+                                                            l'Urbanisme)
+
+  Montagne                                                  Ministère de la Cohésion des territoires, communes de la loi Montagne
+
+  Risques                                                   Géorisques (ministère de la Transition écologique) : rapport de risques,
+                                                            arrêtés CatNat, sismicité, radon, ICPE, sites pollués
+
+  Environnement                                             Inventaire national du patrimoine naturel (PatriNat), via API Carto
+
+  Altitude, pente et exposition                             IGN, RGE ALTI
+
+  Ensoleillement                                            Calcul astronomique de la course du soleil ; masque du relief (IGN, RGE
+                                                            ALTI) et des bâtiments (IGN, BD TOPO)
+
+  Voirie et accès                                           IGN, BD TOPO (tronçons de route)
+
+  Permis de construire                                      Sitadel, service des données et études statistiques (SDES) du ministère
+                                                            chargé du logement
+
+  Photographies anciennes                                   IGN, BD ORTHO historique
+
+  Fibre et internet                                         Arcep, Ma connexion internet (éligibilité par adresse)
+
+  Géomètres                                                 Répertoire Sirene (INSEE), activité des géomètres
+
+  Propriétaires personnes morales                           DGFiP, fichiers des parcelles des personnes morales (diffusion Koumoul)
+
+  Diagnostics énergétiques                                  ADEME, base des DPE des logements existants
+
+  Procédures collectives                                    Bodacc, annonces commerciales (DILA)
+
+  Bâtiments                                                 IGN, BD TOPO
+
+  Réseau électrique                                         Agence ORE (gestionnaires de réseaux de distribution : Enedis, EDF Corse
+                                                            et entreprises locales) : réseau basse tension et postes de distribution
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        43 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Nîmes · ED 337
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+  DONNÉE                                                    SOURCE
+
+  Taxe d'aménagement                                        DGFiP, éléments de taxation votés par les collectivités ; valeurs forfaitaires
+                                                            fixées par arrêté
+
+  Rapport officiel de risques                               Géorisques, ministère chargé de l'environnement
+
+  Zone France Ruralités Revitalisation                      ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 ; article
+                                                            44 quindecies A du code général des impôts
+
+  Marché immobilier                                         Statistiques des demandes de valeurs foncières (DVF) par commune, DGFiP
+                                                            et Etalab
+
+  Date d'extraction                                         20/11/2026
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        44 / 45
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                    TerrenUrbanisme
+
+    Merci de votre confiance
+Ce rapport a été établi à partir des sources publiques officielles pour vous
+  aider à décider en connaissance de cause. Pour toute question, nous
+                        restons à votre disposition.
+
+
+
+
+   Vous êtes professionnel ? Travaillons ensemble
+      Agents immobiliers, notaires, architectes, géomètres, diagnostiqueurs,
+promoteurs, mairies : faisons équipe. Crédits professionnels sans abonnement, 5
+€ le rapport dès 50 crédits, votre logo sur les rapports, offre communale pour les
+                       mairies et partenariats sur mesure.
+
+               Écrivez-nous : contact@terrenurbanisme.com
+
+
+
+
+                        terrenurbanisme.com
+                         contact@terrenurbanisme.com
+

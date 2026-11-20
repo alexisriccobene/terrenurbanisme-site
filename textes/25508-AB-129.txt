@@ -1,0 +1,2885 @@
+                  TerrenUrbanisme
+                  Le terrain constructible, partout en France
+
+
+
+
+RAPPORT D'URBANISME
+
+
+
+Roulans
+Section AB · Parcelle n° 129
+      Constructible
+
+
+
+
+Référence cadastrale                                                        Surface cadastrale
+25508000AB0129                                                              353 m²
+
+Rapport établi le                                                           Référence du rapport
+20/11/2026                                                                  APERCU
+
+
+
+
+terrenurbanisme.com                                                                      contact@terrenurbanisme.com
+
+Document d'information sans valeur contractuelle ni réglementaire. Il ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme
+et ne peut en aucun cas être joint à une demande de permis de construire ou de déclaration préalable. Seuls les actes de l'administration font foi.
+                                                                                                                           Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                                               Sommaire
+
+
+
+
+Sommaire
+Le rapport suit l'ordre d'une étude de terrain : où se trouve la parcelle, ce que dit la règle, ce qui pèse sur le
+projet, puis les démarches.
+
+              Synthèse
+   S                                                                                                                                  p. 3
+              Le verdict, les indicateurs clés et les points d'attention en une page.
+
+              Identification de la parcelle
+   01                                                                                                                                 p. 4
+              Localisation, surface, références cadastrales et voisinage du terrain.
+
+              Règles d'urbanisme applicables
+  02                                                                                                                                  p. 7
+              Document d'urbanisme, zone du terrain, prescriptions et servitudes.
+
+              Ce que vous pouvez construire
+  03                                                                                                                                  p. 9
+              Surface constructible, hauteur, reculs, aspect et usages autorisés.
+
+              Loi Littoral et loi Montagne
+  04                                                                                                                                 p. 15
+              Les lois qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+              Risques naturels et technologiques
+  05                                                                                                                                 p. 16
+              Inondation, feu de forêt, argiles, catastrophes naturelles et sites pollués.
+
+              Le terrain : accès, relief et réseaux
+  06                                                                                                                                 p. 18
+              Accès, pente, ensoleillement, eaux usées, électricité, eau et fibre.
+
+              Environnement et marché immobilier
+  07                                                                                                                                p. 25
+              Espaces naturels, espèces protégées et ventes immobilières alentour.
+
+              Historique du site
+  08                                                                                                                                p. 29
+              Le terrain vu du ciel au fil des années et les permis accordés autour.
+
+              Opportunités autour du terrain
+  09                                                                                                                                p. 32
+              Grands terrains peu bâtis et logements énergivores à proximité.
+
+              Votre projet, étape par étape
+   10                                                                                                                               p. 33
+              De l'achat aux impôts : démarches, délais, coûts, contacts et taxe.
+
+              État des risques (ERP) pré-rempli
+   11                                                                                                                               p. 37
+              Le formulaire réglementaire à remettre à l'acquéreur, pré-rempli.
+
+              Avertissement et sources
+   12                                                                                                                               p. 39
+              La portée de ce rapport et les sources publiques consultées.
+
+              Annexe : règlement de la zone
+   A                                                                                                                                p. 42
+              Les pages officielles du règlement de la zone, telles qu'approuvées.
+
+
+
+
+Astuce : cliquez sur un chapitre pour y accéder directement.
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                2 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                                                       Synthèse
+
+
+
+
+Synthèse
+     Document d'information. Ce rapport ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme,
+     n'engage pas l'administration et ne peut pas servir de pièce à une demande de permis de construire.
+     L'appréciation ci-dessous est indicative : seule la mairie se prononce sur la constructibilité d'un terrain,
+     au vu d'un projet précis.
+
+
+
+
+       CONSTRUCTIBLE
+
+       Le PLU autorise la construction
+       La parcelle est classée en zone UB (urbaine) du plan local d'urbanisme de Roulans. Les
+       constructions y sont admises dans le respect du règlement de la zone.
+
+
+
+
+      Zone principale                                        Document d'urbanisme                                  Loi Littoral
+
+   UB · 100 %                                             PLU                                                    Ne s'applique pas
+
+
+
+
+      Loi Montagne                                           Risques à la parcelle
+
+   Ne s'applique pas                                      Séisme ·
+                                                          Retrait-gonflement des
+
+
+
+
+Points d'attention
+    Zone UB (100 % de la parcelle) : constructible.
+    Terrain en pente marquée (environ 15 %) : surcoût probable de terrassement.
+    Retrait-gonflement des argiles (exposition moyenne) : en cas de vente d'un terrain non bâti
+    constructible, le vendeur doit fournir une étude géotechnique préalable (loi ELAN, article L. 132-5 du
+    Code de la construction et de l'habitation) ; une étude géotechnique de conception est exigée avant
+    de construire.
+    Canalisations de matières dangereuses : concerné à l'adresse de la parcelle (voir le chapitre «
+    Risques naturels et technologiques »).
+    Pollution des sols : concerné à l'adresse de la parcelle (voir le chapitre « Risques naturels et
+    technologiques »).
+    6 arrêtés de catastrophe naturelle sur la commune.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       3 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+    01             Identification de la parcelle
+     DANS CETTE SECTION
+
+     Où se trouve le terrain, sa surface, ses références cadastrales, son propriétaire lorsqu'il s'agit
+     d'une société ou d'une collectivité, et la performance énergétique du bâti existant.
+
+
+Données du cadastre (DGFiP) et de l'IGN.
+
+
+     Plan de situation
+
+
+
+
+                                                                                                                            1 km
+
+
+
+Plan IGN · © IGN
+
+
+
+     Vue aérienne et plan cadastral
+
+
+
+
+                                                                                                                                     25 m
+
+
+
+Photographie aérienne et plan cadastral · © IGN
+
+
+Commune                                                  Roulans (25508)
+
+Département                                              Doubs (25)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          4 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+Section et numéro                                        Section AB, parcelle n° 129, feuille 1
+
+Identifiant cadastral                                    25508000AB0129
+
+Surface cadastrale                                       353 m²
+
+Surface calculée (SIG)                                   358 m² · périmètre 107 m
+
+Coordonnées du centre                                    47.31867 N, 6.23591 E (WGS 84)
+
+Altitude                                                 de 363 à 365 m
+
+Pente estimée                                            15 % (terrain en pente marquée)
+
+Parcelles voisines                                       AB 123, AB 124, AB 127, AB 128, AB 131, AB 397
+
+
+Le plan cadastral est un document fiscal : il ne fait pas foi des limites de propriété. Seul un bornage réalisé par un
+géomètre-expert fixe les limites de manière certaine.
+
+
+1.1 Propriétaire et voisinage
+La parcelle ne figure pas au fichier des personnes morales : son propriétaire est vraisemblablement un
+particulier. Le nom des propriétaires particuliers n'est pas public ; il peut être demandé au service des impôts
+fonciers (relevé de propriété) ou obtenu par l'intermédiaire d'un notaire.
+
+Principaux propriétaires personnes morales dans un rayon de 280 m
+  PROPRIÉTAIRE                                                              PARCELLES             SURFACE TOTALE            SIREN
+
+  COMMUNE DE ROULANS (COM)                                                  162                   53 329 m²                 212505085
+
+  POSEIDON (SCI)                                                            5                     3 674 m²                  523811842
+
+  BUNIMUZE (SCI)                                                            2                     1 440 m²                  844151431
+
+  LE CHALET DE MIREILLE (SCI)                                               1                     914 m²                    492293055
+
+  VONIN HOLDING (SAS)                                                       8                     872 m²                    538428558
+
+  GAUFFRE (SCI)                                                             1                     863 m²                    818870305
+
+  CHAMPONOT (SCI)                                                           1                     707 m²                    482863354
+
+  ROULANS SANTE (SCI)                                                       1                     496 m²                    504108325
+
+
+
+Source : fichiers des parcelles des personnes morales (DGFiP) : sociétés, SCI, collectivités, établissements publics et associations.
+Les propriétaires personnes physiques n'y figurent pas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             5 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+1.2 La commune de Roulans
+Code postal                                              25640
+
+Département                                              Doubs (25)
+
+Intercommunalité                                         CC du Doubs Baumois
+
+Population                                               1 125 habitants
+
+Superficie                                               8,31 km²
+
+Densité                                                  135 habitants par km²
+
+Commune littorale                                        Non
+
+Commune de montagne                                      Non
+
+Document d'urbanisme                                     Plan local d'urbanisme (PLU)
+
+Risques sur la commune                                   6 arrêtés de catastrophe naturelle · détail en section Risques et en
+                                                         annexe
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          6 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+    02             Règles d'urbanisme applicables
+     DANS CETTE SECTION
+
+     Le document d'urbanisme de la commune, la zone dans laquelle se trouve le terrain, et les
+     prescriptions et servitudes qui s'y ajoutent.
+
+
+Géoportail de l'Urbanisme : zonage, prescriptions et servitudes.
+
+
+
+2.1 Document d'urbanisme en vigueur
+Type de document                                         Plan local d'urbanisme (PLU)
+
+Date d'approbation                                       Non renseigné
+
+Statut                                                   Publié au Géoportail de l'Urbanisme
+
+Règlement officiel                                       Ouvrir le document officiel (PDF)
+
+
+
+     Plan de zonage du PLU
+
+
+
+
+                                                                              UB
+
+
+
+
+                                                                                                                           50 m
+
+
+
+Zonage : Géoportail de l'Urbanisme · fond : © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       7 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.2 Zonage de la parcelle
+  ZONE                  DÉSIGNATION                                                         PART               CONSTRUCTIBILITÉ
+
+  UB                    Zone urbaine du bourg à densifier                                   100 %              Constructible
+
+
+
+Zone UB · Urbaine
+Zone urbaine : secteur déjà urbanisé où les équipements publics existants ou en cours de réalisation
+permettent d'accueillir des constructions. Les constructions y sont admises dans le respect du règlement de la
+zone (destinations, implantation, hauteur, emprise, aspect).
+
+
+2.3 Prescriptions applicables à la parcelle
+Aucune prescription graphique du PLU (emplacement réservé, espace boisé classé, élément de paysage
+protégé, etc.) n'est recensée sur la parcelle.
+
+
+2.4 Informations complémentaires du PLU
+  INFORMATION                                                                                        TYPE
+
+  Classement sonore des infrastructures de transport terrestre                                       Information du PLU (type 14)
+
+  Liste des servitudes d'utilité publique                                                            Information du PLU (type 99)
+
+  Plan des servitudes d'utilité publique                                                             Information du PLU (type 99)
+
+  Zone de dangers significatifs Pipeline                                                             Information du PLU (type 99)
+
+  Plans des réseaux d'eau potable et d'assainissement                                                Information du PLU (type 19)
+
+  Droit de Préemption urbain                                                                         Information du PLU (type 04)
+
+
+
+
+2.5 Servitudes d'utilité publique
+Aucune servitude d'utilité publique numérisée n'est recensée sur la parcelle au Géoportail de l'Urbanisme. Les
+servitudes non encore numérisées figurent en annexe du PLU.
+
+
+2.6 Patrimoine : l'architecte des Bâtiments de France
+Aucun site patrimonial remarquable, site classé ou inscrit, ni monument historique à moins de 500 m n'est
+recensé : l'avis de l'architecte des Bâtiments de France n'est pas requis au titre du patrimoine.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       8 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    03             Ce que vous pouvez construire
+     DANS CETTE SECTION
+
+     La lecture du règlement de votre zone : surface constructible estimée, hauteur, reculs, aspect,
+     usages autorisés ou interdits, avec les extraits du texte officiel.
+
+
+Lecture du règlement écrit de la zone UB, pages 21 à 31 du règlement officiel.
+
+
+
+3.1 Potentiel constructible estimé
+Surface du terrain                                       353 m²
+
+Zone d'implantation possible                             Non déterminée
+
+Emprise au sol maximale                                  Non fixée par le règlement
+
+Hauteur maximale                                         9 m, soit 3 niveaux environ
+
+
+Estimation théorique établie à partir des règles chiffrées du règlement (reculs, emprise, hauteur) et de la géométrie
+cadastrale. Elle ne tient pas compte des servitudes, des risques, de la pente, des règles de stationnement et d'aspect, ni
+des dispositions particulières : seul un architecte ou un géomètre peut confirmer le potentiel réel.
+
+
+3.2 Caractère de la zone
+La zone UB couvre les espaces urbanisés du bourg (hors centre-bourg et secteurs historiques classés
+en UA) et le hameau des Trouillets. Ce sont des zones d'habitat moyennement denses, avec mixité des
+fonctions (habitation, équipements publics, activités). L'objectif est la densification progressive des
+espaces périphériques au centre-bourg, en autorisant les fonctions complémentaires de l'habitat. La
+zone sans indice est analysée ici : les règles des secteurs UBa, UBh, UBi et UBr1 ne s'appliquent pas.
+
+
+3.3 Règles de construction
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Surface minimale ou                          Non précisé dans le règlement de la zone                                         art. UB1 à UB9
+  caractéristiques du terrain
+
+  Accès et voirie                              Accès de dimension apte à assurer l'approche des secours, la                     art. UB7
+                                               circulation des engins de lutte contre l'incendie et la sécurité
+                                               des usagers. Les nouveaux accès sur voirie départementale
+                                               doivent obtenir l'accord du service gestionnaire. Voirie
+                                               suffisante exigée ; voies piétonnes d'au moins 3 m de large ;
+                                               voies en impasse de plus de 30 m avec aire de retournement.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       9 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Réseaux et assainissement                    Raccordement obligatoire au réseau public d'eau potable et au                    art. UB8
+                                               réseau public d'assainissement (existant, en cours de
+                                               réalisation ou en projet). Eaux pluviales de toiture infiltrées sur
+                                               le terrain (puits perdus, drains, fossés, noues) ; autres
+                                               dispositifs possibles en sols argileux (rejet au réseau avec
+                                               rétention). Débourbage-déshuilage des eaux de parkings et
+                                               voiries privés de plus de 20 places (véhicules légers) ou 10
+                                               places (poids lourds). Réseaux de télécommunication et
+                                               d'énergie en souterrain ; fourreau en attente pour la fibre
+                                               optique ; citernes recommandées.
+
+  Implantation par rapport                     Recul de 30 m par rapport à la limite de la forêt. Implantation à                art. UB3.1
+  aux voies                                    l'alignement ou au maximum à 8 m en recul de la limite de la
+                                               voie ou de l'emprise publique. En bordure de voie, distance
+                                               horizontale au point le plus proche de l'alignement opposé au
+                                               moins égale à la différence d'altitude (d=h). Exceptions :
+                                               constructions en deuxième rang, extensions (retrait similaire à
+                                               l'existant), équipements techniques et d'intérêt collectif ; recul
+                                               différent possible en circonstances particulières.
+
+  Implantation par rapport                     Recul de 30 m par rapport à la limite de la forêt. Retrait égal à                art. UB3.2
+  aux limites séparatives                      la moitié de la différence d'altitude (d = h/2), minimum 3 m.
+                                               Implantation en limite autorisée si la façade sur limite ne
+                                               dépasse pas 5 m de longueur et 5 m de hauteur (acrotère ou
+                                               faîtage), sans restriction en cas de projet architectural commun
+                                               à deux unités foncières limitrophes, ou en cas d'adossement à
+                                               un bâtiment existant sur le fonds voisin sans dépasser sa
+                                               longueur et sa hauteur. Les autres façades respectent d=h/2.
+
+  Implantation des                             Non précisé dans le règlement de la zone                                         art. UB3
+  constructions entre elles
+
+  Emprise au sol                               Non réglementé pour la zone UB sans indice (la limite de 20 %                    art. UB3.4
+                                               d'extension ne concerne que le secteur UBh).
+
+  Hauteur maximale                             9 m au sommet de l'acrotère ou 10 m au faîtage, mesurés par                      art. UB3.3
+                                               rapport au terrain naturel avant travaux. Dans la bande de
+                                               recul de 30 m par rapport à la forêt : 3 m au faîtage maximum.
+                                               Dépassement admis pour les dispositifs d'économie d'énergie
+                                               (isolation) ; éléments techniques en toiture exclus du calcul.
+                                               Bâtiments publics : possibilité de déroger.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        10 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Aspect extérieur et toitures                 Jeu de volumes simples ; architecture contemporaine admise                       art. UB4
+                                               si de qualité et bien intégrée ; pastiche d'architecture étrangère
+                                               à la région interdit. En terrain plat : talus artificiels proscrits,
+                                               rez-de-chaussée au niveau du sol naturel, caves et sous-sols
+                                               strictement interdits. En terrain pentu : minimiser les
+                                               mouvements de terre, drainage périphérique. Toitures : pas de
+                                               caractère insolite ou étranger à la région ; toits à systèmes
+                                               solaires de pente comprise entre 30 et 60° ; capteurs solaires
+                                               alignés, regroupés en un seul champ géométrique, de couleur
+                                               noire ; annexes couvertes du même matériau que le bâtiment
+                                               principal. Appareillages techniques dissimulés ou intégrés au
+                                               bâti.
+
+  Matériaux et couleurs                        Couleurs en harmonie avec les constructions voisines ;                           art. UB4 e)
+                                               couleurs vives et criardes proscrites ; blanc franc interdit.
+                                               Annexes traitées avec les mêmes matériaux et couleurs que
+                                               les façades du bâtiment principal.
+
+  Clôtures                                     Sur rue : éléments préservant les transparences (grillages,                      art. UB5.1 ; art.
+                                               grilles, bois) ; brise-vues artificiels, bardages plastique,                     3 dispositions
+                                               claustras et canisses interdits ; muret max 1 m ou mur bahut                     générales
+                                               max 0,60 m (par rapport à l'emprise publique), à l'identique du
+                                               mur de façade ; hauteur totale max 1,60 m, 1,80 m pour les
+                                               clôtures en grillage préservant les transparences. Sur limite
+                                               séparative : 2 m maximum, avec garantie d'ensoleillement des
+                                               voisins. Murs de soutènement drainés, en harmonie avec les
+                                               constructions. Clôtures soumises à déclaration préalable
+                                               (dispositions générales).
+
+  Stationnement                                Habitation : 1 place par tranche de 60 m² de surface de                          art. UB6
+                                               plancher créée (tranche commencée), dont 2 places sur le
+                                               terrain d'assiette directement accessibles depuis la voie.
+                                               Commerces et activités de services : 1 place par tranche de 50
+                                               m² de surface de plancher. Équipements d'intérêt collectif :
+                                               selon capacité d'accueil et besoins. Un arbre pour 6 places
+                                               extérieures. Habitat collectif, bureaux, ERP : local vélos
+                                               sécurisé (1,5 m² par emplacement ; 1 emplacement par
+                                               logement en collectif ; 1 emplacement pour 10 personnes en
+                                               bureaux et ERP). Règles alternatives en cas de faible extension
+                                               (L151-33).
+
+  Espaces verts et plantations                 Pas de pourcentage minimal d'espaces verts. Abords                               art. UB5.2 ; art.
+                                               perméables lorsqu'ils ne sont pas en pleine terre. Plantations                   UB5.3
+                                               d'essences locales ; distances aux limites : 0,5 m (plantations
+                                               <= 2 m) et 2 m (> 2 m). Sur rue : résineux à écailles (thuyas,
+                                               cyprès) et haies opaques interdits, haies de 1,80 m maximum ;
+                                               visibilité aux carrefours préservée (haies <= 1 m sur 30 m
+                                               depuis le centre du carrefour). Éléments de paysage protégés
+                                               (vergers, bosquet, puits) à maintenir.
+
+  Densité ou coefficient                       Non précisé dans le règlement de la zone (pas de COS).                           art. UB
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         11 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.4 Usages autorisés
+    Logement et hébergement (UB1)
+    Restauration
+    Activités de services où s'effectue l'accueil d'une clientèle
+    Locaux et bureaux accueillant du public des administrations publiques et assimilés
+    Locaux techniques et industriels des administrations publiques et assimilés
+    Établissements d'enseignement, de santé et d'action sociale
+    Salles d'art et de spectacles
+    Équipements sportifs
+    Autres équipements recevant du public
+    Artisanat et commerce de détail (sous conditions)
+    Industrie (sous conditions)
+    Exhaussements et affouillements du sol liés à une opération autorisée et s'intégrant au paysage
+
+
+3.5 Usages interdits ou soumis à conditions
+    Exploitation agricole : interdite (sauf secteurs UBa et UBh, non concernés ici)
+    Exploitation forestière : interdite
+    Commerce de gros, hébergement hôtelier et touristique, cinéma : interdits
+    Entrepôt, bureau, centre de congrès et d'exposition : interdits (bureau et entrepôt admis seulement en
+    secteur UBa)
+    Artisanat et commerce de détail : sans nuisances (sonores, olfactives, paysagères) ni dangers
+    incompatibles avec l'habitat, surface de vente limitée à 100 m²
+    Industrie : sans nuisances ni dangers incompatibles avec l'habitat, surface de plancher limitée à 200 m²
+    Dépôts de ferrailles, déchets, vieux matériaux et carcasses de voitures non autorisés, sauf s'ils sont liés et
+    nécessaires à une activité admise
+    Camping-caravaning et habitations légères de loisirs non autorisés (sauf parc résidentiel de loisirs, village
+    de vacances ou terrain de camping)
+    Carrières non autorisées
+    Comblement des dolines et cavités interdit
+    Opérations dans les secteurs d'orientations d'aménagement et de programmation (OAP2, OAP6, OAP7) : ne
+    pas compromettre les principes des OAP
+    Caves et sous-sols strictement interdits en terrain plat (art. UB4 c)
+    Construction à 30 m ou moins de la limite de la forêt : recul de 30 m exigé, avec hauteur limitée à 3 m au
+    faîtage dans la bande de recul
+    Bande inconstructible de 75 m de part et d'autre de l'axe de la RD683 (dispositions générales), et zone non
+    aedificandi de 15 m de part et d'autre de l'axe du pipeline
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       12 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.6 Points de vigilance pour votre projet
+    Vérifier sur le plan de zonage la présence d'une trame de risque (indices i, r1), de dolines ou de cavités :
+    étude géotechnique ou plancher au-dessus des plus hautes eaux selon le cas.
+    Vérifier la distance à la lisière de la forêt : recul de 30 m et hauteur limitée à 3 m dans la bande.
+    Vérifier si la parcelle est dans un secteur OAP (OAP2, OAP6, OAP7) ou concernée par un emplacement
+    réservé (n° 7, 8, 9, 11, 12, 14).
+    Vérifier la bande inconstructible de 75 m le long de la RD683, la zone non aedificandi de 15 m du pipeline et
+    les zones de bruit.
+    Vérifier le périmètre de réciprocité agricole (étoile sur le plan de zonage).
+    Caves et sous-sols strictement interdits en terrain plat.
+    Implantation en limite séparative limitée à 5 m de longueur et 5 m de hauteur ; sinon retrait d=h/2,
+    minimum 3 m.
+    Recul maximum de 8 m par rapport à la voie : pas de construction plus en retrait, sauf exceptions
+    (deuxième rang).
+    Zone sismique 3 : prescriptions parasismiques.
+
+
+3.7 Extraits du règlement
+
+     art. UB3.1 · page 23
+     « Les constructions s’implanteront soit à l’alignement des voies et emprises publiques soit au
+     maximum à 8 mètres en recul de la limite de la voie ou de l'emprise publique. »
+
+
+     art. UB3.2 · page 24
+     « Les constructions sont implantées avec un recul égal à la moitié de la différence d’altitude de tout
+     point d’un bâtiment au point le plus proche des limites séparatives, sans pouvoir être inférieure à 3
+     mètres »
+
+
+     art. UB3.3 · page 25
+     « La hauteur des constructions et installations admises ne devra pas excéder une hauteur de 9 mètres
+     au sommet de l'acrotère ou de 10 m au faitage. »
+
+
+     art. UB6.2 · page 29
+     « une place de stationnement par tranche de 60 m² de surface de plancher créée, chaque tranche
+     commencée étant prise en compte. »
+
+
+     art. UB8.2 · page 30
+     « Toute construction ou installation doit être raccordée au réseau public d'assainissement existant, en
+     cours de réalisation ou en projet. »
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       13 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+     art. UB2.3 · page 23
+     « sans que la surface de vente consacrée à l’activité admise n’excède 100 m², et 200 m² en secteur
+     UBh. »
+
+
+
+3.8 Démarches probables
+    Permis de construire pour les constructions nouvelles et extensions importantes ; déclaration préalable
+    pour les travaux de moindre ampleur, annexes et piscines selon les seuils du Code de l'urbanisme
+    Déclaration préalable obligatoire pour l'édification de clôtures (délibération communale)
+    Déclaration préalable pour travaux modifiant ou détruisant un élément de paysage protégé (L.151-23)
+    Étude géotechnique si le secteur est en aléa mouvement de terrain
+    Raccordement aux réseaux publics (eau potable, assainissement)
+    Accord du gestionnaire de la voirie départementale pour un nouvel accès
+    Consultation éventuelle de la DRAC en cas de découverte archéologique
+
+     Cette lecture est établie automatiquement, par intelligence artificielle, à partir du règlement officiel en
+     vigueur. Elle peut comporter des imprécisions : seul le texte du règlement, reproduit en annexe (pages
+     21 à 31 du document approuvé), fait foi, avec les dispositions générales, les orientations
+     d'aménagement et les servitudes.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       14 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                                    04 · Loi Littoral et loi Montagne
+
+
+
+
+   04              Loi Littoral et loi Montagne
+     DANS CETTE SECTION
+
+     Les lois nationales qui s'ajoutent au document d'urbanisme sur le littoral et en montagne. Elles
+     peuvent rendre un terrain inconstructible même en zone constructible.
+
+
+Les lois d'aménagement qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+
+
+4.1 Loi Littoral
+Commune littorale                                        Non
+
+Distance au rivage                                       Sans objet
+
+Bande des 100 mètres                                     Sans objet
+
+
+La commune n'est pas riveraine de la mer : la loi Littoral ne s'applique pas (sauf rives de grands lacs).
+
+
+4.2 Loi Montagne
+Commune en zone de montagne                              Non
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           15 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+   05              Risques naturels et technologiques
+     DANS CETTE SECTION
+
+     Les risques connus à l'adresse du terrain (inondation, feu de forêt, mouvement de terrain,
+     radon…) et les catastrophes naturelles reconnues sur la commune.
+
+
+Base nationale Géorisques (ministère de la Transition écologique).
+
+
+
+5.1 Risques naturels à l'adresse de la parcelle
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Inondation                                      Non connu                                       Existant
+
+  Remontée de nappe                               Non connu                                       Existant
+
+  Séisme                                          Existant – modéré                               Existant – modéré
+
+  Mouvement de terrain                            Non connu                                       Existant
+
+  Retrait-gonflement des                          Existant – modéré                               Existant – important
+  argiles
+
+  Radon                                           Existant – modéré                               Existant – modéré
+
+
+
+
+5.2 Risques technologiques
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Canalisations de matières                       Concerné                                        Concerné
+  dangereuses
+
+  Pollution des sols                              Concerné                                        Concerné
+
+
+
+
+5.3 Indicateurs réglementaires
+Zone de sismicité                                        Zone 3 – moderee
+
+Potentiel radon                                          Catégorie 2 (potentiel faible avec facteurs aggravants)
+
+Retrait-gonflement des argiles                           Existant – modéré
+
+Plans de prévention (PPR)                                Aucun plan de prévention des risques recensé
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                    16 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.4 Arrêtés de catastrophe naturelle
+6 arrêtés de reconnaissance de l'état de catastrophe naturelle concernent la commune.
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Sécheresse                                                                01/07/2022 au 30/09/2022                       03/05/2023
+
+  Sécheresse                                                                01/07/2018 au 31/12/2018                       17/07/2019
+
+  Inondations et/ou Coulées de Boue                                         10/06/2008                                     07/11/2008
+
+  Mouvement de Terrain                                                      25/12/1999 au 29/12/1999                       30/12/1999
+
+  Inondations et/ou Coulées de Boue                                         25/12/1999 au 29/12/1999                       30/12/1999
+
+  Inondations et/ou Coulées de Boue                                         24/10/1999 au 26/10/1999                       26/02/2000
+
+
+
+
+5.5 Installations classées à proximité (moins de 1 km)
+    SYTEVOM (Roulans) · Enregistrement · En exploitation avec titre
+    TOTAL/avia · Autres régimes
+
+
+5.6 Sites et sols pollués à proximité
+    Relais des Trouillets · ancien site industriel ou d'activité de service (CASIAS)
+    Garage · ancien site industriel ou d'activité de service (CASIAS)
+    Garage · ancien site industriel ou d'activité de service (CASIAS)
+    Garage avec application de peinture · ancien site industriel ou d'activité de service (CASIAS)
+    Décharge d'ordure ménagère · ancien site industriel ou d'activité de service (CASIAS)
+    Travail des métaux · ancien site industriel ou d'activité de service (CASIAS)
+    Station d'épuration · ancien site industriel ou d'activité de service (CASIAS)
+    Déchèterie · ancien site industriel ou d'activité de service (CASIAS)
+    2 anciens sites industriels ou d'activités de service (CASIAS) recensés
+    1 site pollué en cours d'instruction recensé
+    1 secteur d'information sur les sols (SIS) recensé
+
+
+5.7 Rapport officiel Géorisques
+Les risques recensés ci-dessus proviennent des bases officielles de Géorisques, service public d'information
+sur les risques. Le rapport officiel complet peut être édité gratuitement, à tout moment et à jour, à partir de
+l'adresse du terrain sur le site Géorisques.
+
+
+    Éditer le rapport officiel Géorisques
+
+
+Lors d'une vente ou d'une location, le vendeur ou le bailleur doit remettre un état des risques de moins de six mois,
+complété et signé, et l'information sur les sinistres indemnisés au titre des catastrophes naturelles.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         17 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+   06              Le terrain : accès, relief et réseaux
+     DANS CETTE SECTION
+
+     Les contraintes physiques du terrain : accès à une voie, pente et exposition, assainissement,
+     raccordement à l'électricité et à l'eau, fibre. Ce sont elles qui pèsent le plus sur le coût d'un
+     projet.
+
+
+Voirie (IGN, BD TOPO), altimétrie (IGN, RGE ALTI), règlement de la zone, réseau électrique (Agence ORE) et éligibilité
+internet (Arcep).
+
+
+
+6.1 Accès
+Accès direct à une voie                                  Oui
+
+Voie                                                     Route à 1 chaussée · Rue de Champonot
+
+Largeur de chaussée                                      5m
+
+Accès des véhicules                                      Libre
+
+
+La parcelle touche une voie carrossable. L'autorisation d'urbanisme vérifiera que l'accès est adapté au projet et sûr,
+et peut imposer une permission de voirie ou un aménagement de l'entrée.
+
+
+6.2 Relief et exposition
+Pente moyenne                                            12 %
+
+Exposition                                               Versant orienté sud
+
+Altitude                                                 363 à 365 m
+
+Appréciation                                             Pente modérée
+
+
+
+
+ 367 m
+
+
+
+
+ 361 m
+
+
+           Coupe du terrain dans le sens de la pente · longueur 55 m
+
+
+     Implantation courante ; terrassements et soutènements légers à prévoir.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       18 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Roulans · AB 129
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.3 Ensoleillement
+Appréciation                                             Très bien ensoleillé
+
+Soleil direct le 21 juin                                 14 h 30 (de 06 h 30 à 20 h 50)
+
+Soleil direct aux équinoxes                              11 h (de 07 h 20 à 18 h 10)
+
+Soleil direct le 21 décembre                             7 h (de 09 h 10 à 16 h 00)
+
+Ensoleillement annuel possible                           4 017 h par an, soit 91 % du maximum à cette latitude
+
+Hauteur du relief vers le sud                            13°
+
+
+ 75°
+
+
+
+ 60°
+
+
+
+ 45°
+
+
+
+ 30°
+
+
+
+ 15°
+
+
+
+ 0°
+                                Est                  Sud-est                   Sud                  Sud-ouest               Ouest
+
+          21 juin          Équinoxes               21 décembre                Horizon : relief et bâtiments voisins
+
+
+
+       Le relief et les constructions voisines ne masquent presque pas le soleil : le terrain profite de la
+       quasi-totalité de l'ensoleillement possible à cette latitude.
+
+
+
+Ensoleillement mois par mois (le 21 de chaque mois)
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Janvier                         9h                                 8h                                        09 h 00 – 16 h 50
+
+  Février                         10 h 30                            9 h 30                                    08 h 10 – 17 h 30
+
+  Mars                            12 h                               11 h                                      07 h 20 – 18 h 10
+
+  Avril                           13 h 42                            12 h 48                                   07 h 20 – 20 h 00
+
+  Mai                             15 h 12                            14 h                                      06 h 40 – 20 h 30
+
+  Juin                            15 h 42                            14 h 30                                   06 h 30 – 20 h 50
+
+  Juillet                         15 h 12                            14 h                                      06 h 50 – 20 h 40
+
+  Août                            13 h 48                            12 h 42                                   07 h 30 – 20 h 00
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        19 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Septembre                       12 h 12                            11 h                                      08 h 00 – 18 h 50
+
+  Octobre                         10 h 30                            9 h 30                                    08 h 40 – 18 h 00
+
+  Novembre                        8 h 48                             8h                                        08 h 30 – 16 h 20
+
+  Décembre                        8 h 18                             7h                                        09 h 10 – 16 h 00
+
+
+
+Calcul théorique par ciel dégagé, au centre de la parcelle et à hauteur d'homme : course du soleil heure par heure, masque du relief
+sur 6 km (IGN, RGE ALTI) et des bâtiments voisins sur 120 m (IGN, BD TOPO, 58 bâtiments pris en compte). La végétation et les
+constructions récentes ne sont pas prises en compte.
+
+
+6.4 Quel raccordement pour les eaux usées ?
+Raccordement à prévoir                                       Tout-à-l'égout très probable
+
+Zone du PLU                                                  UB · Urbaine
+
+Zonage d'assainissement                                      Plans des réseaux d'eau potable et d'assainissement
+
+Réseau collectif sur la commune                              Oui · COMMUNAUTE DE COMMUNES DU DOUBS BAUMOIS CCDB ·
+                                                             régie publique
+
+
+     Le terrain est en zone urbaine (UB) et la commune dispose d'un réseau public d'assainissement
+     collectif. Dans ces zones, le réseau passe en général dans la voie et le règlement impose le
+     raccordement lorsqu'il existe. À confirmer par le service d'assainissement pour ce terrain précis.
+
+
+
+Ce que dit le règlement de la zone
+Raccordement obligatoire au réseau public d'assainissement existant, en cours de réalisation ou en projet (art.
+UB8.2). Le règlement de la zone UB n'admet pas l'assainissement non collectif. Les eaux pluviales de toiture sont
+infiltrées sur le terrain ; les eaux des parkings et voiries privés (plus de 20 places de véhicules légers ou 10 places de
+poids lourds) sont débourbées et déshuilées.
+
+Le règlement admet un assainissement individuel uniquement là où le réseau public n'existe pas : cette mention ne signifie
+pas que le terrain n'est pas desservi.
+
+Ce que cela coûte
+Raccordement au tout-à-l'égout : branchement sous la voie réalisé par le service d'assainissement (souvent 1 500 à
+5 000 € selon la distance), canalisation sur le terrain jusqu'à la maison, et participation pour le financement de
+l'assainissement collectif (PFAC) fixée par la commune ou l'intercommunalité, généralement de 1 000 à 5 000 €. Le
+service remet un devis à partir du plan de situation.
+
+Qui contacter pour obtenir la confirmation
+Service d'assainissement                                     COMMUNAUTE DE COMMUNES DU DOUBS BAUMOIS CCDB
+
+Mairie                                                       Mairie de Roulans
+
+Téléphone                                                    03 81 55 52 88
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       20 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+E-mail                                                       mairie@roulans.fr
+
+
+    Demandez au service d'assainissement, avec la référence cadastrale, si une canalisation publique passe au droit
+    du terrain, à quelle profondeur, et le montant de la PFAC. Sa réponse écrite vaut attestation de raccordabilité.
+    Certificat d'urbanisme opérationnel (formulaire Cerfa 13410, gratuit) : la mairie y indique officiellement si le
+    terrain est desservi par le réseau d'assainissement.
+    Plan des réseaux : la présence des canalisations enterrées près du terrain peut être vérifiée sur
+    reseaux-et-canalisations.gouv.fr, le guichet unique des réseaux.
+Sources : zonage d'assainissement et règlement (Géoportail de l'Urbanisme) ; services publics d'assainissement (SISPEA, Office
+français de la biodiversité) ; annuaire de l'administration (service-public.fr).
+
+Si le réseau public n'était finalement pas accessible
+  FILIÈRE                                    QUAND ELLE CONVIENT                                                           ORDRE DE PRIX
+
+  Fosse toutes eaux et                       Sol perméable, terrain assez grand et peu pentu                               5 000 à 10 000 €
+  épandage
+
+  Filtre à sable                             Sol peu perméable, place suffisante                                           8 000 à 12 000 €
+
+  Micro-station agréée                       Petit terrain ou sol défavorable ; entretien et électricité                   7 000 à 15 000 €
+
+  Filtre compact agréé                       Petit terrain, sans électricité                                               9 000 à 14 000 €
+
+
+
+Ordres de prix indicatifs (fourniture et pose, hors étude de sol et terrassements particuliers). La filière est choisie au vu de l'étude
+de sol et validée par le SPANC.
+
+
+6.5 Électricité et eau potable
+Gestionnaire du réseau                                       Enedis
+
+Réseau basse tension le plus proche                          à environ 5 m (ligne aérienne)
+
+Ligne aérienne la plus proche                                à environ 5 m
+
+Ligne souterraine la plus proche                             à environ 40 m
+
+Poste de transformation le plus proche                       à environ 115 m
+
+Appréciation                                                 Branchement simple probable
+
+
+     Le réseau basse tension passe à environ 5 m : un branchement simple est en principe possible (de
+     l'ordre de 1 500 à 3 000 € pour une maison, selon la longueur et la puissance), sous réserve de la
+     capacité du réseau et des coffrets existants.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             21 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+Ce qu'il faut vérifier avant d'acheter
+    La capacité du réseau : même un réseau proche peut être saturé (coffret ou câble plein, poste de transformation
+    au maximum). Seule une étude du gestionnaire permet de le savoir ; c'est la cause la plus fréquente de surcoûts
+    imprévus.
+    Électricité : demander au gestionnaire du réseau une étude de raccordement ou un devis à partir de l'adresse et
+    du plan de situation (gratuit). Elle indique le type de raccordement, son coût et son délai.
+    Eau potable : les plans du réseau d'eau ne sont pas publics. Interroger le service des eaux (coordonnées
+    ci-dessous) sur la présence d'une canalisation au droit du terrain, sa capacité et le coût du branchement, ainsi
+    que sur la défense incendie (borne à moins de 200 m environ).
+    Certificat d'urbanisme opérationnel : la mairie y indique si le terrain est desservi par les réseaux publics (eau,
+    électricité, assainissement) et, à défaut, si et quand ils seront étendus. Un refus de permis peut être fondé sur
+    l'insuffisance des réseaux (article L. 111-11 du Code de l'urbanisme).
+
+Qui contacter
+Service de l'eau potable                                     syndicat des eaux de Fourbanne et Blafond
+
+Mode de gestion                                              Délégation de service public
+
+Contact pour le branchement                                  syndicat des eaux de Fourbanne et Blafond
+
+Mairie                                                       Mairie de Roulans
+
+Téléphone de la mairie                                       03 81 55 52 88
+
+E-mail de la mairie                                          mairie@roulans.fr
+
+Électricité (raccordement)                                   Enedis · demande en ligne sur enedis.fr (raccordement)
+
+La mairie oriente vers le bon interlocuteur et confirme, dans le certificat d'urbanisme, la desserte du terrain par les réseaux.
+Sources : SISPEA, observatoire des services publics d'eau (OFB) ; annuaire de l'administration (service-public.fr).
+
+Dans une promesse de vente, une condition suspensive portant sur le coût du raccordement aux réseaux protège
+l'acquéreur. Source de la cartographie électrique : Agence ORE, données des gestionnaires de réseaux de distribution ;
+tracés indicatifs.
+
+
+6.6 Fibre et internet
+     Le terrain est déjà fibré : 1 adresse située sur la parcelle (24 Rue de Champonot) est déclarée
+     raccordable à la fibre.
+
+
+
+Adresse la plus proche                                          24 Rue de Champonot · à 8 m · raccordable
+
+Point fibré le plus proche                                      24 Rue de Champonot · à 8 m
+
+Adresses fibrées à moins de 100 m                               23 sur 23
+
+Adresses fibrées à moins de 400 m                               235 sur 235
+
+Technologies disponibles à proximité                            4G fixe, Fibre, Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      22 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                                                                                                                                       Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                                                                                                         06 · Le terrain : accès, relief et réseaux
+
+
+
+
+     Points fibrés autour du terrain
+                                                                                             F           F       F
+                                                                                         F                               F
+                                                                             F
+                                                                                                                                     F
+                                                                                             FF          F           F
+                                                                 F           F           F                                               F
+                                                 F                                                       F       F           F
+                                         F                                               F   F
+                                                                             F
+                                                         F           F
+                                                                                                                                                                 F
+                                                                                             F                                                       F               F
+                                                                                 F                                   F                                                                       F                       F
+                                         F                   F           F                           F                                                                                                                                   F
+                                                                                     F                                                                                       F                                               F
+                             F                           F                                                                               F               F                                                       F
+                                         F                                                   F                                                                                       F                                                       F
+                                                                                                                                             F                   F           F                                               F
+                                                                                                                                                         F                                    F                                      F
+                                                                         F           F                           F
+                                                         F                                   F                                                                                                                       F
+                                             F                                                                                           F           F                           F                           F               F
+                                     F                                                                               F                                                               F               F
+                                                                     F                               F                                                                               F
+                                                 F                                   F                                                                               F           F                                       F       F               F
+                                                             F                                                                               F           F                                    F
+                                                                                                                 F           F                                                                                               F
+                                                                                                                                                                                 F   F           F           F
+                                 F                                                   F           F
+                                                                         F                                                                                   F       F                                                                       F
+                                                                                                                         F                                                                                                       F
+                                                                                                     F                                                                               F                               F
+                                                                                                                                                 F                                                   F
+                                                                                         F                   F           F           F                                   F           F
+                                                                                                 F                                                           F
+                                                     F                                                                                       F                                                                                   F
+                                                                                 F                                           F           F F                                                                         F
+                                                                                                                                                                                                 F       F
+                                                     F                                               F                                                                               F
+                                                                                                                                                     F
+                                                             F                                                                                                                                           F F
+                                                                                                                     F                                                                       F
+                                                                                                                                                 F                       F
+                                                                                                                                 F                                                       F       F
+                                                                                             F       F FF
+                                                                                         F               F                                                                                                                                           100 m
+
+
+
+Repères F : adresses déclarées raccordables à la fibre (Arcep) · en terracotta : sur la parcelle · fond © IGN
+
+
+Vérifiez la fibre à l'adresse du terrain :
+
+                     Carte fibre Orange                                                                                                                                                      Carte de l'Arcep
+
+
+  DISTANCE           ADRESSE                                                                                                                                         FIBRE                                   AUTRES ACCÈS
+
+  8m                 24 Rue de Champonot                                                                                                                             Oui                                     4G fixe, Satellite
+
+  23 m               22 Rue de Champonot                                                                                                                             Oui                                     4G fixe, Satellite
+
+  27 m               24 Rue de Champonot                                                                                                                             Oui                                     4G fixe, Satellite
+
+  43 m               1 Rue Bellevue                                                                                                                                  Oui                                     4G fixe, Satellite
+
+  44 m               3 Rue Bellevue                                                                                                                                  Oui                                     4G fixe, Satellite
+
+  49 m               26 Rue de Champonot                                                                                                                             Oui                                     4G fixe, Satellite
+
+  53 m               20 Rue de Champonot                                                                                                                             Oui                                     4G fixe, Satellite
+
+  56 m               5 Rue de Montperroux                                                                                                                            Oui                                     4G fixe, Satellite
+
+
+
+Source : Arcep, « Ma connexion internet », éligibilité déclarée par les opérateurs, adresse par adresse. Le tracé des câbles n'est
+pas public : la présence de la fibre en limite de terrain se vérifie auprès de l'opérateur ou par une déclaration de projet de travaux
+(DT).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                                                                                                                           23 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.7 Qui contacter pour les réseaux
+  RÉSEAU                                    INTERLOCUTEUR                                         CE QU'IL FAUT DEMANDER
+
+  Eau potable et                            Mairie ou service des eaux de la                      Attestation de desserte et conditions de
+  assainissement collectif                  commune                                               raccordement
+
+  Assainissement individuel                 SPANC (communauté de communes)                        Contrôle de conception sur la base de l'étude
+                                                                                                  de sol
+
+  Électricité                               Enedis (gestionnaire du réseau de                     Étude de raccordement et devis
+                                            distribution)
+
+  Fibre et téléphone                        Opérateur d'infrastructure et                         Raccordement du futur logement
+                                            fournisseur d'accès
+
+  Tous réseaux                              Guichet unique des réseaux                            Déclaration de projet de travaux (DT) pour
+                                            (reseaux-et-canalisations.gouv.fr)                    localiser les réseaux existants
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        24 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+    07             Environnement et marché immobilier
+     DANS CETTE SECTION
+
+     Les espaces naturels protégés autour du terrain et les prix de vente réels des maisons,
+     appartements et terrains alentour.
+
+
+Inventaire national du patrimoine naturel et demandes de valeurs foncières (DVF).
+
+
+
+7.1 Espaces naturels protégés ou inventoriés
+La parcelle n'est concernée par aucun site Natura 2000, ZNIEFF, parc ou réserve naturelle.
+
+
+7.2 Espèces protégées observées près du terrain
+57 espèces protégées ont été observées dans un rayon de 1 km autour du terrain depuis 1990 ; les 14 plus
+fréquemment signalées figurent ci-dessous.
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Mésange charbonnière (Parus major)                              Oiseau                 Nationale (espèce et              64 · dernière en
+                                                                                         habitat)                          2022
+
+  Mésange bleue (Cyanistes caeruleus)                             Oiseau                 Nationale (espèce et              61 · dernière en
+                                                                                         habitat)                          2022
+
+  Rouge-gorge familier (Erithacus                                 Oiseau                 Nationale (espèce et              61 · dernière en
+  rubecula)                                                                              habitat)                          2022
+
+  Moineau domestique (Passer                                      Oiseau                 Nationale (espèce et              61 · dernière en
+  domesticus)                                                                            habitat)                          2022
+
+  Pinson des arbres (Fringilla coelebs)                           Oiseau                 Nationale (espèce et              57 · dernière en
+                                                                                         habitat)                          2022
+
+  Mésange nonnette (Poecile palustris)                            Oiseau                 Nationale (espèce et              50 · dernière en
+                                                                                         habitat)                          2022
+
+  Verdier (Chloris chloris)                                       Oiseau                 Nationale (espèce et              32 · dernière en
+                                                                                         habitat)                          2022
+
+  Sittelle d'Europe (Sitta europaea)                              Oiseau                 Nationale (espèce et              27 · dernière en
+                                                                                         habitat)                          2022
+
+  Rouge-queue noir (Phoenicurus                                   Oiseau                 Nationale (espèce et              25 · dernière en
+  ochruros)                                                                              habitat)                          2022
+
+  Pic vert (Picus viridis)                                        Oiseau                 Nationale (espèce et              23 · dernière en
+                                                                                         habitat)                          2022
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         25 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Chardonneret élégant (Carduelis                                 Oiseau                 Nationale (espèce et              21 · dernière en
+  carduelis)                                                                             habitat)                          2022
+
+  Grosbec casse-noyaux (Coccothraustes                            Oiseau                 Nationale (espèce et              17 · dernière en
+  coccothraustes)                                                                        habitat)                          2025
+
+  Pinson des Ardennes (Fringilla                                  Oiseau                 Nationale (espèce et              12 · dernière en
+  montifringilla)                                                                        habitat)                          2022
+
+  Grand épeiche (Dendrocopos major)                               Oiseau                 Nationale (espèce et              7 · dernière en 2021
+                                                                                         habitat)
+
+
+
+     Une observation à proximité ne signifie pas que l'espèce vit sur le terrain. Mais si elle y est présente, il
+     est interdit de détruire, capturer ou déranger les individus et, pour la plupart de ces espèces, de
+     détruire leurs lieux de reproduction et de repos (articles L. 411-1 et suivants du Code de
+     l'environnement). L'infraction est punie de 3 ans d'emprisonnement et 150 000 € d'amende.
+
+
+
+Que faire avant de construire ?
+    Pour une maison individuelle, aucune étude écologique n'est imposée en règle générale, et l'étude de sol porte
+    sur le terrain (fondations), pas sur la faune ni la flore. Vous restez cependant responsable si une espèce
+    protégée vit sur la parcelle : en cas de doute (espèce observée tout près, vieux arbres, murets, maquis, zone
+    humide), faites passer un écologue avant de défricher.
+    Si un enjeu est confirmé : inventaire faune-flore aux saisons utiles (printemps et été en général), puis mesures
+    pour éviter et réduire l'impact : implantation de la maison sur la partie la moins sensible, travaux hors période de
+    reproduction, clôture de chantier adaptée, déplacement d'individus par un spécialiste habilité.
+    Si la destruction d'individus ou d'habitats ne peut pas être évitée : demande de dérogation « espèces protégées »
+    auprès de la préfecture (DREAL), avec avis du conseil scientifique. Comptez 4 à 12 mois d'instruction, à anticiper
+    avant le dépôt du permis.
+
+Combien prévoir ?
+Pré-diagnostic écologique                                800 à 2 000 € (une visite et une note de synthèse)
+
+Inventaire faune-flore                                   3 000 à 10 000 € selon la surface et le nombre de passages
+
+Mesures d'évitement et de réduction                      500 à 5 000 € (balisage, calendrier, suivi de chantier)
+
+Dossier de dérogation                                    8 000 à 25 000 €, hors mesures de compensation éventuelles
+
+Ordres de prix indicatifs, honoraires de bureaux d'études en environnement, si une étude est nécessaire. Pour une maison sur un
+terrain déjà entouré de constructions, aucune étude n'est le plus souvent requise.
+
+Sources : statuts de protection TAXREF et base de connaissance des statuts (INPN, Muséum national d'Histoire naturelle) ;
+observations naturalistes GBIF, qui rassemble notamment les données de l'INPN et du SINP.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         26 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+7.3 Prix de l'immobilier à Roulans
+Prix au mètre carré des ventes enregistrées sur la commune au cours des cinq dernières années publiées.
+Seules les ventes portant sur un bien unique sont retenues.
+
+  TYPE DE BIEN                                       VENTES                       €/M² MÉDIAN                              €/M² MOYEN
+
+  Maisons                                            36                           2 065 €/m²                               1 984 €/m²
+
+  Appartements                                       4                            742 €/m²                                 869 €/m²
+
+  Locaux commerciaux                                 2                            447 €/m²                                 447 €/m²
+
+
+
+Source : statistiques des demandes de valeurs foncières (DGFiP, Etalab). Prix des actes, hors frais : un ordre de grandeur,
+pas une estimation du bien.
+
+
+7.4 Ventes de terrains autour de la parcelle
+Période observée                                          2021 à 2025
+
+Ventes de terrains recensées                              51
+
+Prix médian                                               50 €/m²
+
+Prix courants (une vente sur deux)                        11 à 78 €/m²
+
+
+  DATE                    PARCELLE                          NATURE                                SURFACE              PRIX              €/M²
+
+  06/01/2025              AB 720 (+4)                       prés, taillis sous futaie             705 m²               54 973 €          78
+
+  19/12/2023              AB 670 (+7)                       Friche, prés, sols                    766 m²               59 873 €          78
+
+  23/01/2023              AB 783                            prés                                  327 m²               2 616 €           8
+
+  30/12/2022              AB 781                            prés                                  338 m²               2 704 €           8
+
+  30/12/2022              AB 782                            prés                                  519 m²               4 152 €           8
+
+  20/12/2022              AB 780                            prés                                  264 m²               2 112 €           8
+
+  08/06/2022              A 2054                            prés                                  545 m²               42 510 €          78
+
+  25/05/2022              AB 712                            prés                                  793 m²               63 702 €          80
+
+  25/04/2022              AB 702 (+1)                       taillis sous futaie, prés             711 m²               57 115 €          80
+
+  23/03/2022              AB 745 (+3)                       prés, Épicéas, terres                 897 m²               69 292 €          77
+
+  18/02/2022              AB 713 (+5)                       prés                                  773 m²               59 840 €          77
+
+  25/01/2022              AB 793 (+1)                       terrains à bâtir, prés                531 m²               42 655 €          80
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            27 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+Source : DVF, ventes enregistrées par la DGFiP. Les prix au mètre carré dépendent fortement de la constructibilité, de la
+vue, de l'accès et de la viabilisation : ils donnent un ordre de grandeur, pas une estimation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                  28 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                                                08 · Historique du site
+
+
+
+
+   08              Historique du site
+     DANS CETTE SECTION
+
+     Le terrain vu du ciel au fil des décennies et les permis de construire accordés autour : l'évolution
+     du secteur en un coup d'œil.
+
+
+Photographies aériennes de l'IGN et permis de construire délivrés (Sitadel).
+
+
+
+8.1 Le terrain vu du ciel, d'hier à aujourd'hui
+
+    1950-1965                                             2000-2005                                              2006-2010
+
+
+
+
+    2011-2015                                             Aujourd'hui
+
+
+
+
+Ces vues montrent l'évolution du terrain et du quartier, des années 1950 à aujourd'hui (photographies aériennes de l'IGN).
+
+     Bon à savoir : l'existence ancienne d'une construction peut ouvrir, sous conditions, un droit à
+     reconstruire ou à restaurer un bâtiment dont il reste l'essentiel des murs porteurs (articles L. 111-15 et L.
+     111-23 du Code de l'urbanisme).
+
+
+
+
+8.2 Permis de construire délivrés autour du terrain
+Autorisations sur la commune (3 ans)                                    9 · dernière recensée le 04/09/2026
+
+Logements autorisés (3 ans)                                             9
+
+Dont maisons individuelles                                              9
+
+Autorisations dans la section AB                                        27 depuis 2013
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  04/09/2026            Permis de construire                   AB 675             1              109 m²                    RUE DES BICHES
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            29 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                                                08 · Historique du site
+
+
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  17/04/2025            Permis de construire                   AB 632             1              121 m²                    RUE DE MONTPERROUX
+
+  08/01/2025            Permis de construire                   AB 675             1              116 m²                    RUE DES BICHES
+
+  08/11/2024            Permis de construire                   AB 704             1              110 m²                    RUE DES BICHES
+
+  25/10/2023            Permis de construire                   AB 657             1              118 m²                    RUE DES BICHES
+
+  20/09/2022            Permis de construire                   AB 625             1              89 m²                     LOT N_ 20 RUE DE
+                                                                                                                           CHAMPONOT
+
+  10/05/2022            Permis de construire                   AB 713             1              146 m²                    RUE DE MONTPERROUX
+
+  03/05/2022            Permis de construire                   AB 10              1              132 m²                    AUX VIGNES DE MORTEAU
+
+  19/04/2022            Permis de construire                   AB 702             1              132 m²                    LOT N_11 LOTISSEMENT AUX
+                                                                                                                           V
+
+  11/02/2022            Permis de construire                   AB DK              1              147 m²                    LOTISSEMENT AUX VIGNES
+                                                                                                                           DE
+
+  10/02/2022            Permis de construire                   AB B               1              115 m²                    LOTISSEMENT AUX VIGNES
+                                                                                                                           DE
+
+  07/01/2022            Permis de construire                   AB 18              1              120 m²                    AUX VIGNES DE MORTEAU
+
+
+
+Permis accordés à moins de 500 m du terrain
+  DATE                 AUTORISATION                       PARCELLE          DISTANCE         LOGTS        SURFACE             LIEU-DIT / VOIE
+
+  04/09/2026           Permis de construire               AB 675            160 m            1            109 m²              RUE DES BICHES
+
+  23/05/2025           Permis de construire               AA 181            300 m            1            99 m²               RUE DES ESSARTS
+
+  17/04/2025           Permis de construire               AB 632            240 m            1            121 m²              RUE DE MONTPERROUX
+
+  10/04/2025           Permis de construire               A 2097            250 m            1            134 m²              RUE DES CHEVREUILS
+
+  08/01/2025           Permis de construire               AB 675            160 m            1            116 m²              RUE DES BICHES
+
+  08/11/2024           Permis de construire               AB 704            150 m            1            110 m²              RUE DES BICHES
+
+  25/10/2023           Permis de construire               AB 657            170 m            1            118 m²              RUE DES BICHES
+
+  20/09/2022           Permis de construire               AB 625            220 m            1            89 m²               LOT N_ 20 RUE DE
+                                                                                                                              CHAMPONOT
+
+  10/05/2022           Permis de construire               AB 713            150 m            1            146 m²              RUE DE MONTPERROUX
+
+  19/04/2022           Permis de construire               AB 702            160 m            1            132 m²              LOT N_11 LOTISSEMENT
+                                                                                                                              AUX V
+
+  15/04/2022           Permis de construire               A 2054            100 m            1            99 m²               AUX VIGNOTTES
+
+  23/09/2019           Permis de construire               A 2052            110 m            1            88 m²               RUE DE MONTPERROUX
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            30 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                                             08 · Historique du site
+
+
+
+
+  DATE                 AUTORISATION                       PARCELLE          DISTANCE         LOGTS        SURFACE          LIEU-DIT / VOIE
+
+  23/09/2019           Permis de construire               A 2052            110 m            1            88 m²            RUE DE MONTPERROUX
+
+  16/10/2018           Permis de construire               AB 539            200 m            1            208 m²           A CAILLOTTE
+
+
+
+14 autorisations créant des logements recensées dans un rayon de 500 m : la construction a été admise récemment
+dans le voisinage immédiat.
+
+Source : base Sitadel des autorisations d'urbanisme créant des logements (SDES). Un permis accordé à proximité montre
+que des constructions ont été admises dans le secteur, sans préjuger de la décision sur votre propre projet.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          31 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                              09 · Opportunités autour du terrain
+
+
+
+
+   09              Opportunités autour du terrain
+     DANS CETTE SECTION
+
+     Ce qui se passe autour de la parcelle : grands terrains peu bâtis, sociétés propriétaires en
+     difficulté, logements énergivores. Des pistes pour un investisseur, un voisin ou un professionnel.
+
+
+Bodacc (procédures collectives), ADEME (diagnostics énergétiques), cadastre, BD TOPO et Géoportail de l'Urbanisme.
+
+
+
+9.1 Grands terrains peu bâtis à proximité
+Parcelles de plus de 1 200 m², situées en zone urbaine ou à urbaniser du PLU, dans un rayon de 250 m, dont
+moins de 8 % de la surface est bâtie, hors terrains publics : un potentiel de construction ou de division à
+étudier.
+
+  PARCELLE           SURFACE                BÂTI               ZONE               DISTANCE           PROPRIÉTAIRE
+
+  AB 211             3 835 m²               138 m²             UA                 200 m              particulier (non publié)
+
+  AB 526             2 229 m²               non bâti           UB                 270 m              particulier (non publié)
+
+  AB 563             2 218 m²               non bâti           UB                 300 m              particulier (non publié)
+
+  AB 73              2 139 m²               115 m²             UB                 170 m              particulier (non publié)
+
+  AB 245             2 115 m²               155 m²             UA                 300 m              particulier (non publié)
+
+  AB 72              2 078 m²               129 m²             UB                 260 m              particulier (non publié)
+
+  AB 205             1 692 m²               113 m²             UA                 260 m              particulier (non publié)
+
+  AB 533             1 650 m²               83 m²              UB                 70 m               particulier (non publié)
+
+
+
+
+9.2 Logements classés F ou G autour du terrain
+Logements diagnostiqués F ou G dans un rayon de 350 m. Leur location est déjà interdite (G) ou le sera en
+2028 (F) : leurs propriétaires sont souvent vendeurs, ou doivent engager des travaux de rénovation.
+
+  PARCELLE                   ADRESSE                                        CLASSE LOGEMENT                   SURFACE      DISTANCE DPE DU
+
+  Section AB n°              41 Grande Rue 25640 Roulans                    F            Maison               105 m²       230 m    17/08/2024
+  540
+
+
+
+La parcelle est celle du point d'adresse du logement (cadastre). Pour connaître son propriétaire lorsqu'il s'agit d'un particulier,
+demandez un relevé de propriété au service de la publicité foncière ou à la mairie.
+
+Ces informations proviennent de bases publiques et ne préjugent ni de l'intention de vendre des propriétaires ni de la
+constructibilité des parcelles citées, qui relève d'une étude au cas par cas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        32 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+      10           Votre projet, étape par étape
+De l'achat du terrain à la déclaration aux impôts : démarches, délais, coûts et contacts.
+
+
+
+10.1 Analyse
+Le terrain est soumis au plan local d'urbanisme (PLU) de Roulans. Il est classé en zone UB. Zone urbaine :
+secteur déjà urbanisé où les équipements publics existants ou en cours de réalisation permettent
+d'accueillir des constructions. Les constructions y sont admises dans le respect du règlement de la zone
+(destinations, implantation, hauteur, emprise, aspect).
+
+En l'état des documents consultés, un projet de construction est envisageable. Sa faisabilité dépend du
+règlement écrit de la zone : destinations autorisées, implantation par rapport aux voies et aux limites,
+hauteur maximale, emprise au sol, coefficient d'espaces verts, stationnement et aspect extérieur.
+
+
+10.2 Votre projet, étape par étape
+Les étapes ci-dessous suivent l'ordre réel d'un projet de construction, de l'achat du terrain à la déclaration aux
+impôts. Les montants sont indicatifs et à confirmer par devis.
+
+  1      Avant d'acheter le terrain
+         Vérifiez les règles de la zone (chapitres précédents), puis demandez un certificat d'urbanisme opérationnel
+         (Cerfa 13410, sans frais, réponse sous 2 mois) : il fige les règles pendant 18 mois. En zone d'argiles d'aléa
+         moyen ou fort, le vendeur doit fournir une étude de sol préalable.
+         Contact : Mairie de Roulans · 03 81 55 52 88 · mairie@roulans.fr · formulaire sur service-public.fr (rechercher « Cerfa
+         13410 »)
+
+  2      Les études
+         Étude de sol géotechnique (G2) pour dimensionner les fondations : 1 500 à 3 000 €. Étude thermique RE2020,
+         obligatoire pour le permis : 500 à 1 500 €. Bornage par un géomètre si les limites sont incertaines. L'étude de
+         sol ne porte pas sur les espèces protégées : un écologue n'intervient qu'en cas d'enjeu (chapitre
+         Environnement).
+         Géomètres proches du terrain : liste à la fin de ce chapitre
+
+  3      Les plans
+         Architecte obligatoire si la surface de plancher totale dépasse 150 m². En dessous, vous pouvez dessiner les
+         plans vous-même ou faire appel à un dessinateur ou maître d'œuvre (environ 1 500 à 4 000 € le dossier de
+         permis). Architecte : 3 000 à 8 000 € pour la seule mission de permis, 8 à 12 % du coût des travaux pour une
+         mission complète avec suivi du chantier.
+         Trouver un architecte : annuaire de l'Ordre des architectes sur architectes.org
+
+  4      Déposer le permis
+         Formulaire Cerfa 13406 (maison individuelle) et pièces PCMI1 à PCMI8 : plan de situation, plan de masse,
+         coupe, notice, plans des façades et toitures, insertion dans le paysage, photos, attestation RE2020. Dépôt en
+         mairie ou en ligne sur le guichet numérique de la commune. La mairie a 1 mois pour réclamer une pièce
+         manquante ; l'instruction dure 2 mois à partir du dossier complet, plus en secteur protégé.
+         Dépôt : Mairie de Roulans · 03 81 55 52 88 · mairie@roulans.fr · formulaire sur service-public.fr (rechercher « Cerfa
+         13406 »)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        33 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+  5      Affichage et recours
+         Dès l'accord, installez le panneau de permis sur le terrain, lisible depuis la voie, pendant toute la durée du
+         chantier. Les tiers ont 2 mois à compter du premier jour d'affichage pour contester ; la mairie peut retirer un
+         permis illégal pendant 3 mois. Faites constater l'affichage par un commissaire de justice (environ 300 à 600 €
+         pour les trois constats).
+         Commissaires de justice : annuaire sur commissaire-justice.fr
+
+  6      Avant les travaux
+         Souscrivez l'assurance dommages-ouvrage, obligatoire (souvent 2 à 4 % du coût de la construction). Signez
+         le contrat de construction de maison individuelle ou les marchés des artisans. Déposez la déclaration
+         d'ouverture de chantier (Cerfa 13407) le jour du démarrage. Le permis est valable 3 ans, prorogeable deux
+         fois d'un an.
+         Déclaration d'ouverture : Mairie de Roulans · 03 81 55 52 88 · mairie@roulans.fr
+
+  7      Le financement
+         La banque débloque le prêt au fur et à mesure du chantier, sur présentation des factures des entreprises ou
+         des appels de fonds du constructeur. Avec un contrat de construction de maison individuelle, l'échéancier
+         est encadré par la loi : 15 % à l'ouverture du chantier, 25 % aux fondations, 40 % aux murs, 60 % hors d'eau,
+         75 % hors d'air et cloisons, 95 % aux équipements, le solde à la réception. Des intérêts intercalaires peuvent
+         courir sur les sommes débloquées.
+         Votre banque ou votre courtier
+
+  8      La fin du chantier
+         Réception des travaux avec le constructeur ou les artisans, avec réserves si nécessaire. Déposez ensuite la
+         déclaration attestant l'achèvement et la conformité des travaux (DAACT, Cerfa 13408), avec l'attestation
+         RE2020 de fin de chantier. La mairie a 3 mois pour la contester (5 mois en secteur protégé).
+         Dépôt : Mairie de Roulans · 03 81 55 52 88 · mairie@roulans.fr
+
+  9      Les impôts
+         Dans les 90 jours suivant l'achèvement, déclarez la construction sur impots.gouv.fr, espace « Gérer mes
+         biens immobiliers ». Cette déclaration sert au calcul de la taxe d'aménagement (payée en une fois sous 1 500
+         €, sinon en deux fois, estimation plus bas dans ce chapitre) et de la taxe foncière, avec une exonération
+         possible les deux premières années selon la commune.
+         impots.gouv.fr › Espace particulier › Gérer mes biens immobiliers
+
+
+10.3 Les points à vérifier pour ce terrain
+  1      Certificat d'urbanisme opérationnel
+         Le demander en mairie (formulaire Cerfa 13410), en décrivant le projet. Gratuit, il indique si le terrain
+         peut accueillir le projet et fige les règles d'urbanisme pendant 18 mois.
+
+  2      Règlement de la zone
+         Lire le règlement écrit de la zone UB et, le cas échéant, les orientations d'aménagement, disponibles sur
+         le Géoportail de l'Urbanisme.
+
+  3      Réseaux et accès
+         Vérifier l'accès à une voie publique ou privée adaptée, la desserte en eau potable et en électricité, et le
+         mode d'assainissement. En l'absence de réseau collectif, une étude de sol et l'avis du service public
+         d'assainissement non collectif (SPANC) sont nécessaires.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        34 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+  4      Bornage
+         Faire réaliser un bornage par un géomètre-expert pour fixer les limites exactes et la surface réelle du
+         terrain.
+
+  5      Sécuriser un achat
+         Pour une acquisition, prévoir dans le compromis une condition suspensive d'obtention d'un permis de
+         construire purgé de tout recours.
+
+
+10.4 Délais indicatifs d'instruction
+  DEMANDE                                                                                 DÉLAI DE DROIT COMMUN
+
+  Certificat d'urbanisme d'information (CUa)                                              1 mois
+
+  Certificat d'urbanisme opérationnel (CUb)                                               2 mois
+
+  Déclaration préalable                                                                   1 mois
+
+  Permis de construire une maison individuelle                                            2 mois
+
+  Permis d'aménager, autres permis de construire                                          3 mois
+
+
+
+Ces délais peuvent être majorés, notamment en site classé ou inscrit, aux abords d'un monument historique ou lorsque la
+consultation d'un service extérieur est nécessaire.
+
+
+10.5 Taxe d'aménagement à prévoir
+      Exemple : une maison de 120 m² en résidence principale, avec une piscine de 3 × 6 m. Sur ce terrain, la
+      taxe d'aménagement à prévoir est d'environ 3 180 €.
+
+
+
+  PROJET                                                                                                       TAXE ESTIMÉE
+
+  Maison de 120 m², résidence principale                                                                       2 970 €
+
+  Piscine de 3 × 6 m (18 m²)                                                                                   210 €
+
+  Total à prévoir                                                                                              3 180 €
+
+
+
+Taux appliqués : 3,75 % pour la commune et 1 % pour le département, sur une valeur forfaitaire de 892 € par m² en 2026
+(251 € par m² de bassin pour une piscine). Une résidence principale bénéficie d'un abattement de 50 % sur ses 100 premiers
+m².
+
+La taxe est due une fois les travaux terminés : elle se déclare sur impots.gouv.fr dans les 90 jours suivant l'achèvement, et
+se paie en deux fois au-delà de 1 500 €. Pour calculer votre propre projet :
+terrenurbanisme.com/outils/taxe-amenagement.html
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        35 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+10.6 Implanter une entreprise : zone France Ruralités Revitalisation
+     La commune de Roulans n'est pas classée en zone France Ruralités Revitalisation (FRR). Une entreprise
+     qui s'y installe ne bénéficie pas de l'exonération d'impôt sur les bénéfices liée à ce zonage.
+
+
+
+Source : ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 (collectivites-locales.gouv.fr).
+
+
+10.7 Géomètres proches du terrain
+Le géomètre-expert est le seul professionnel habilité à fixer les limites de propriété (bornage) et à établir les
+documents d'arpentage déposés au cadastre. Il intervient aussi pour les relevés topographiques et les
+divisions de terrain.
+
+9,1 km            SARL CYRIL CRETIN
+                                                                                                                           Coordonnées
+                  2 RUE DE LA CORVEE 25360 AISSEY
+
+
+10,7 km           CABINET COQUARD
+                                                                                                                           Coordonnées
+                  4 RUE DES ROCHES 25110 BAUME-LES-DAMES
+
+
+15,2 km           SDF GILLOT JEANBOURQUIN
+                                                                                                                           Coordonnées
+                  1 B ROUTE DE MARCHAUX 25000 BESANCON
+
+
+18 km             PIERRE BOFFY
+                                                                                                                           Coordonnées
+                  6 RUE DU TUNNEL 25000 BESANCON
+
+
+18,4 km           CABINET KURY
+                                                                                                                           Coordonnées
+                  2 AVENUE COMMANDANT MARCEAU 25000 BESANCON
+
+
+19,2 km           SELARL BENOIT DEROCHE - GEOMETRE-EXPERT
+                                                                                                                           Coordonnées
+                  6 QUAI HENRI BUGNET 25000 BESANCON
+
+
+Source : répertoire Sirene de l'INSEE (activité des géomètres), classé par distance au terrain. L'inscription d'un cabinet à l'Ordre
+des géomètres-experts se vérifie sur geometre-expert.fr. Le bouton « Coordonnées » ouvre la fiche du cabinet (téléphone,
+horaires, itinéraire). Cette liste est fournie à titre indicatif, sans partenariat ni recommandation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        36 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Roulans · AB 129
+          TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+     11            État des risques (ERP) pré-rempli
+     DANS CETTE SECTION
+
+     Le formulaire réglementaire à remettre à l'acquéreur ou au locataire, pré-rempli à partir des
+     bases officielles : plans de prévention, sismicité, radon, sols pollués, trait de côte, bruit des
+     aérodromes.
+
+
+Articles L. 125-5 à L. 125-7 et R. 125-23 à R. 125-27 du Code de l'environnement · modèle fixé par l'arrêté du 27 septembre
+2022.
+
+
+     Formulaire pré-rempli à partir de Géorisques et du Géoportail de l'Urbanisme à la date du rapport.
+     Avant de le remettre à l'acquéreur ou au locataire, le vendeur ou le bailleur le vérifie, le complète
+     (sinistres indemnisés) et le signe ; il doit dater de moins de six mois à la signature de la promesse, du
+     bail ou de l'acte.
+
+
+
+
+11.1 Situation du bien
+Commune                                                  Roulans (25508)
+
+Département                                              Doubs (25)
+
+Références cadastrales                                   Section AB, parcelle n° 129 · 25508000AB0129
+
+Surface cadastrale                                       353 m²
+
+
+
+11.2 Plans de prévention des risques
+  L'IMMEUBLE EST SITUÉ DANS LE PÉRIMÈTRE…                                         RÉPONSE                DÉTAIL
+
+  d'un plan de prévention des risques naturels (PPRN)                             Non                    Aucun plan recensé sur la parcelle
+  prescrit, appliqué par anticipation ou approuvé
+
+  d'un plan de prévention des risques miniers (PPRM)                              Non                    Non recensé
+
+  d'un plan de prévention des risques technologiques                              Non                    Risques technologiques sur la commune
+  (PPRT)                                                                                                 : canalisations de matières dangereuses,
+                                                                                                         pollution des sols
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         37 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+11.3 Autres zonages réglementaires
+  L'IMMEUBLE EST SITUÉ…                                                           RÉPONSE                DÉTAIL
+
+  dans une commune de sismicité (zones 2 à 5 : règles de                          Oui                    Zone 3 – moderee
+  construction parasismique)
+
+  dans une commune à potentiel radon de niveau 3                                  Non                    Catégorie 2 (potentiel faible avec
+                                                                                                         facteurs aggravants)
+
+  dans un secteur d'information sur les sols (SIS)                                À vérifier             SIS recensé à proximité : Relais des
+                                                                                                         Trouillets. Vérifier l'arrêté préfectoral.
+
+  dans une zone exposée au recul du trait de côte                                 Non                    Non concerné selon Géorisques
+
+  dans une zone de bruit d'un plan d'exposition au bruit                          À vérifier             Aucun PEB annexé au document
+  d'aérodrome (PEB)                                                                                      d'urbanisme ; vérifier auprès de la mairie
+
+  dans une zone de retrait-gonflement des argiles                                 Oui                    Existant – modéré
+  (information)
+
+
+
+
+11.4 Sinistres indemnisés et déclarations
+Arrêtés de catastrophe naturelle sur la commune : 6 (liste en section Risques). Le vendeur ou le bailleur
+déclare ci-dessous les sinistres ayant donné lieu à une indemnisation au titre des catastrophes naturelles ou
+technologiques pendant la période où il a été propriétaire.
+
+Sinistres indemnisés                                     [ ] Oui [ ] Non
+
+Vendeur ou bailleur                                      Nom : ____________________ Date : ___/___/______ Signature :
+
+Acquéreur ou locataire                                   Nom : ____________________ Date : ___/___/______ Signature :
+
+
+L'état des risques officiel peut aussi être édité gratuitement sur Géorisques (errial.georisques.gouv.fr). Les informations
+ci-dessus sont établies à partir des bases nationales ; en cas de divergence, l'arrêté préfectoral relatif à l'information des
+acquéreurs et des locataires fait foi.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            38 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+    12             Avertissement et sources
+     DANS CETTE SECTION
+
+     La portée de ce rapport et la liste des sources publiques consultées.
+
+
+
+12.1 Nature du document
+Ce rapport est un document d'information établi automatiquement, à la date indiquée en page de garde, à
+partir des données publiques officielles alors disponibles. Il n'a aucune valeur contractuelle, réglementaire ou
+juridique.
+
+
+12.2 Ce que ce rapport n'est pas
+Il ne constitue ni un certificat d'urbanisme au sens de l'article L. 410-1 du Code de l'urbanisme, ni une
+autorisation d'urbanisme (permis de construire, permis d'aménager, déclaration préalable), ni un état des
+risques au sens de l'article L. 125-5 du Code de l'environnement, ni un bornage, ni une expertise, ni une
+évaluation immobilière, ni une consultation juridique. Il n'engage en rien l'administration.
+
+
+12.3 Permis de construire
+Ce rapport ne peut en aucun cas être joint, produit ou invoqué à l'appui d'une demande de permis de
+construire, de permis d'aménager ou de déclaration préalable, ni opposé à la mairie ou à un service de l'État. Il
+ne garantit pas l'obtention d'une autorisation : seule l'autorité compétente se prononce, au vu d'un projet
+précis et de l'ensemble des règles applicables à la date de sa décision.
+
+
+12.4 Limites des données
+Les données sont produites par des organismes publics dont l'éditeur n'est ni l'auteur ni le garant. Elles
+peuvent être incomplètes, imprécises ou ne pas refléter une modification, une révision, une mise en
+compatibilité, une annulation contentieuse, un sursis à statuer ou une procédure en cours. Le plan cadastral,
+document fiscal, ne fait pas foi des limites de propriété. Surfaces, distances, altitudes et pentes sont
+approchées. Les extraits et analyses du règlement sont une aide à la lecture : seul le texte intégral du
+document d'urbanisme approuvé, consultable en mairie, fait foi.
+
+
+12.5 Avant toute décision
+Avant toute acquisition, cession, financement, promesse de vente ou dépôt d'une demande, le lecteur doit
+obtenir un certificat d'urbanisme opérationnel auprès de la mairie, consulter le document d'urbanisme en
+vigueur et recueillir l'avis d'un professionnel habilité (notaire, architecte, géomètre-expert, avocat). Pour un
+achat, il est recommandé de stipuler une condition suspensive d'obtention d'un permis de construire purgé de
+tout recours.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         39 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+12.6 Responsabilité
+L'éditeur ne saurait être tenu responsable d'une décision prise sur le seul fondement de ce rapport, ni d'un
+refus d'autorisation, d'une erreur ou d'une omission des sources publiques, dans les limites prévues par les
+conditions générales de vente acceptées lors de la commande.
+
+
+12.7 Sources consultées
+  DONNÉE                                                    SOURCE
+
+  Cadastre                                                  DGFiP, plan cadastral informatisé, via API Carto (IGN)
+
+  Photographies et plans                                    IGN, Géoplateforme : orthophotographies, Plan IGN, parcellaire express
+
+  Urbanisme                                                 Géoportail de l'Urbanisme : zonage, prescriptions, informations, servitudes
+                                                            d'utilité publique
+
+  Littoral                                                  IGN, BD TOPO (limite terre-mer) ; communes littorales (Géoportail de
+                                                            l'Urbanisme)
+
+  Montagne                                                  Ministère de la Cohésion des territoires, communes de la loi Montagne
+
+  Risques                                                   Géorisques (ministère de la Transition écologique) : rapport de risques,
+                                                            arrêtés CatNat, sismicité, radon, ICPE, sites pollués
+
+  Environnement                                             Inventaire national du patrimoine naturel (PatriNat), via API Carto
+
+  Altitude, pente et exposition                             IGN, RGE ALTI
+
+  Ensoleillement                                            Calcul astronomique de la course du soleil ; masque du relief (IGN, RGE
+                                                            ALTI) et des bâtiments (IGN, BD TOPO)
+
+  Voirie et accès                                           IGN, BD TOPO (tronçons de route)
+
+  Permis de construire                                      Sitadel, service des données et études statistiques (SDES) du ministère
+                                                            chargé du logement
+
+  Photographies anciennes                                   IGN, BD ORTHO historique
+
+  Fibre et internet                                         Arcep, Ma connexion internet (éligibilité par adresse)
+
+  Géomètres                                                 Répertoire Sirene (INSEE), activité des géomètres
+
+  Propriétaires personnes morales                           DGFiP, fichiers des parcelles des personnes morales (diffusion Koumoul)
+
+  Diagnostics énergétiques                                  ADEME, base des DPE des logements existants
+
+  Procédures collectives                                    Bodacc, annonces commerciales (DILA)
+
+  Bâtiments                                                 IGN, BD TOPO
+
+  Réseau électrique                                         Agence ORE (gestionnaires de réseaux de distribution : Enedis, EDF Corse
+                                                            et entreprises locales) : réseau basse tension et postes de distribution
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         40 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+  DONNÉE                                                    SOURCE
+
+  Taxe d'aménagement                                        DGFiP, éléments de taxation votés par les collectivités ; valeurs forfaitaires
+                                                            fixées par arrêté
+
+  Rapport officiel de risques                               Géorisques, ministère chargé de l'environnement
+
+  Zone France Ruralités Revitalisation                      ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 ; article
+                                                            44 quindecies A du code général des impôts
+
+  Marché immobilier                                         Statistiques des demandes de valeurs foncières (DVF) par commune, DGFiP
+                                                            et Etalab
+
+  Date d'extraction                                         20/11/2026
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          41 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Roulans · AB 129
+         TerrenUrbanisme
+                                                                                                                     Annexe · règlement de la zone
+
+
+
+
+ANNEXE
+
+
+Règlement écrit · zone UB
+Les pages suivantes reproduisent le chapitre du règlement officiel applicable à la zone de la parcelle
+(pages 21 à 31 du document approuvé), tel que publié sur le Géoportail de l'Urbanisme. Il s'agit d'une
+reproduction à titre d'information : seule la version approuvée tenue à disposition en mairie fait foi, avec
+ses annexes, plans et éventuelles modifications ultérieures.
+Règlement complet :
+https://data.geopf.fr/annexes/gpu/documents/DU_25508/7b045fc6b32278e01f470b2aadd20277/25508_reglement_20210130.pdf
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        42 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                     CHAPITRE 2 : ZONE UB
+
+
+CARACTÈRE DE LA ZONE « UB »
+Extrait du rapport de présentation
+A ROULANS, la zone UB concerne les espaces urbanisés du bourg (excepté le centre-bourg et les secteurs
+historiques de Roulans l'Eglise et du Petit-Roulans, classés UA) et le hameau des Trouillets. Ces zones d'habitat
+sont moyennement denses et accueillent une mixité des fonctions : habitation, équipements publics, activités, ...
+L’objectif de la zone "UB" est de permettre la densification progressive des espaces périphériques au centre-bourg
+et d'y autoriser les fonctions qui sont le complément naturel de l’habitat.
+La zone "UB" comprend également certains secteurs à risques et sensibles :
+     les secteurs inondables indicés "i" ;
+     les secteurs à risque de glissement, identifié selon le niveau d'aléa supporté : "UBr1" pour l'aléa moyen.
+Et la zone "UB" compte deux secteurs particuliers :
+         le secteur particulier « UBa » accueillant une coopérative agricole ;
+         et le secteur "UBh" à la constructibilité limitée correspondant aux espaces urbanisés sous forme de
+          hameau au lieu-dit "Les Trouillets".
+Enfin, certains secteurs de la zone "UB" font l’objet d’orientations particulières d’aménagement et de
+programmation (OAP2, OAP6 et OAP7, Pièce n°1.2 du dossier de PLU).
+
+
+SECTION 1 - DESTINATION DES CONSTRUCTIONS, USAGE DES SOLS ET NATURES D'ACTIVITÉS
+
+ARTICLE UB1 - DESTINATIONS OU SOUS-DESTINATIONS AUTORISÉES
+Les occupations et utilisations du sol interdites ou autorisées sont indiquées dans le tableau ci-dessous de la
+manière suivante : Autorisation (A), Interdiction (I) et Autorisation sous conditions (As). Les conditions sont
+reprises dans l’article UB2.
+                                                                                              Autorisation ou    Autorisation
+ Destination              Sous-destination                                                      Interdiction    sous conditions
+                                                                                                dans la zone     dans la zone
+ Exploitation agricole    Exploitation agricole                                                I, sauf en UBa     As en UBh
+ et forestière            Exploitation forestière                                                      I
+                          Logement                                                                    A           As en UBa
+ Habitation
+                          Hébergement                                                                 A           As en UBa
+                          Artisanat et commerce de détail                                                             As
+                          Restauration                                                        A, sauf en UBa
+ Commerce et              Commerce de gros                                                           I            As en UBa
+ activités de service     Activités de services où s’effectue l’accueil d’une clientèle              A            As en UBa
+                          Hébergement hôtelier et touristique                                        I
+                          Cinéma                                                                     I
+                          Locaux et bureaux accueillant du public des administrations
+                                                                                              A, sauf en UBa
+                          publiques et assimilés
+                          Locaux techniques et industriels des administrations publiques et
+ Equipements                                                                                        A
+                          assimilés
+ d’intérêt collectif et
+                          Etablissements d’enseignement, de santé et d’action sociale         A, sauf en UBa
+ services publics
+                          Salles d’art et de spectacles                                       A, sauf en UBa
+                          Equipements sportifs                                                A, sauf en UBa
+                          Autres équipements recevant du public                               A, sauf en UBa
+                          Industrie                                                                                   As
+ Autres activités des
+                          Entrepôt                                                                   I            As en UBa
+ secteurs secondaire
+                          Bureau                                                                     I            As en UBa
+ ou tertiaire
+                          Centre de congrès et d’exposition                                          I
+
+
+
+         Révision du Plan Local d'Urbanisme de la commune de ROULANS (25)
+         D14-010 / RÈGLEMENT
+                                                                                                                              21
+ARTICLE UB2 - INTERDICTION ET LIMITATION DE CERTAINS USAGES ET AFFECTATIONS DES SOLS,
+CONSTRUCTIONS ET ACTIVITÉS
+
+UB2.1 - SECTEURS À RISQUES ET SECTEURS SENSIBLES
+a) En zone "UBi", secteur concerné par un risque inondation par débordement ou ruissellement :
+         les caves et sous-sols sont interdits,
+         le plancher du rez-de-chaussée constructions admises doit être réalisé au-dessus de la cote altimétrique
+          des plus hautes eaux connues,
+         les voies et cheminement piétons sont réalisés de façon à limiter au maximum leur impact hydraulique
+          et/ou environnemental,
+         les travaux en lien avec la gestion des eaux pluviales sont autorisés (fossé, noue...).
+b) En zone "UBr1", secteur affecté par des risques de glissements de terrain (marnes en pente avec un aléa
+moyen), les constructeurs doivent avant toute réalisation procéder à une étude spécifique pour vérifier la bonne
+adaptation de la construction à la nature des sols présents et définir les précautions à prendre lors de la
+réalisation des travaux pour ne pas provoquer de glissement et/ou ne pas occasionner de dégâts sur les
+constructions voisines.
+c) Le comblement des dolines et des cavités, pouvant apparaitre après l'approbation du PLU, est dans tous les cas
+interdit, celles-ci devant rester en état.
+
+UB2.2 - USAGES ET AFFECTATIONS SOUMIS À DES CONDITIONS PARTICULIÈRES
+a) Les opérations envisagées dans les secteurs OAP ne doivent pas compromettre les principes exposés dans les
+Orientations d’Aménagement et de Programmation des dits secteurs (Pièce 1.2 du PLU).
+b) Dans le secteur UBa, les constructions et installations à usage d'habitation sont admises sans limite si elles sont
+nécessaires au développement et au fonctionnement de la coopérative agricole.
+c) Dans le secteur UBh, ne sont admis que :
+         les annexes liées aux destinations admises, à condition que ces dernières n'aient pas pour objet de créer
+          un nouveau logement ;
+         la réfection et l'extension des constructions existantes au jour de l'approbation du PLU, sous réserve du
+          respect des dispositions de l'article UB3.
+d) Les dépôts de ferrailles, déchets, vieux matériaux et carcasses de voitures ne sont pas autorisés, à moins d'être
+liés et nécessaires à une activité admise dans la zone.
+e) Le camping-caravaning et les habitations légères de loisirs ne sont pas autorisés, à moins d’être localisés sur un
+terrain classé en parc résidentiel de loisirs, en village de vacances ou en terrain de camping conformément aux
+dispositions du Code du Tourisme.
+f) Les carrières ne sont pas autorisés.
+g) Les exhaussements et affouillements du sol sont admis, sous condition d’être liés à une opération autorisée
+dans la zone et de s’intégrer harmonieusement au paysage environnant.
+UB2.3 - MIXITÉ FONCTIONNELLE ET SOCIALE
+a) Dans le secteur UBa, les exploitations agricoles sont autorisées ainsi que les sous-destinations admises à
+l’article UB1 des destinations Commerce et activités de services et Autres activités des secteurs secondaire ou
+tertiaire, sous réserve que les constructions et installations soient nécessaires au développement et au
+fonctionnement de la coopérative agricole.
+ b) Dans le secteur UBh, les exploitations agricoles sont autorisées sous réserve de ne pas entrainer des nuisances
+(sonores, olfactives, ...) ou de risques d'insalubrité pour le voisinage. Ne sont pas admises les exploitations
+agricoles soumises à un périmètre de protection au titre de l'article L.111-3 du Code Rural.
+
+         Révision du Plan Local d'Urbanisme de la commune de ROULANS (25)
+         D14-010 / RÈGLEMENT
+                                                                                                                   22
+c) L'artisanat et le commerce de détail sont autorisés sous réserve de ne pas entrainer des nuisances (sonores,
+olfactives, paysagères…), de dangers incompatibles avec l'habitat, sans que la surface de vente consacrée à
+l’activité admise n’excède 100 m², et 200 m² en secteur UBh.
+d) L’industrie est autorisée sous réserve de ne pas entrainer des nuisances (sonores, olfactives, paysagères…), de
+dangers incompatibles avec l'habitat, sans que la surface de plancher consacrée à l’activité admise n’excède
+200 m².
+
+SECTION 2 - CARACTÉRISTIQUES URBAINE, ARCHITECTURALE, ENVIRONNEMENTALE ET PAYSAGÈRE
+
+ARTICLE UB3 - VOLUMÉTRIE ET IMPLANTATION DES CONSTRUCTIONS
+
+UB3.1 - IMPLANTATION DES CONSTRUCTIONS PAR RAPPORT AUX VOIES ET EMPRISES PUBLIQUES
+1°/ - RÈGLE
+Les constructions sont autorisées sous réserve de respecter un recul de 30 mètres par rapport à la limite de la
+forêt.
+Les constructions s’implanteront soit à l’alignement des voies et emprises publiques soit au maximum à 8 mètres
+en recul de la limite de la voie ou de l'emprise publique.
+Toutefois pour que la construction soit édifiée en bordure d'une voie ou d'une emprise publique, la distance
+comptée horizontalement de tout point de l'immeuble au point le plus proche de l'alignement opposé doit être
+au moins égale à la différence d'altitude entre ces deux points (d=h).
+2°/ - RÈGLES ALTERNATIVES
+a) La règle précédente n'est pas applicable pour :
+         les constructions implantées en deuxième rang sur une unité foncière.
+         l’extension des bâtiments existants, ceux-ci pouvant s’envisager avec un retrait par rapport aux voies et
+          emprises publiques similaire à l’existant dans un souci de meilleure intégration architecturale de
+          l'ensemble.
+         dans le secteur UBa, les constructions et installations admises peuvent s'implanter librement par rapport
+          aux voies et emprises publiques sous réserve de respecter un dégagement suffisant permettant
+          d’assurer la visibilité des usagers des voies.
+         dans le secteur UBh où :
+           - l’extension des constructions existantes doit s’envisager avec un retrait par rapport aux voies et
+             emprises publiques similaire à l’existant dans un souci de meilleure intégration architecturale de
+             l'ensemble ;
+           - les annexes à l'habitat de type garage s'implanteront avec un retrait maximum de 8 mètres en recul
+             de la limite de la voie ou de l'emprise publique, sans être autorisée pour des questions de sécurité
+             routière à l'alignement des voies ou de l'emprise publique. Les autres annexes ne sont pas
+             concernées par cette règle.
+         les équipements techniques d’intérêt général (transformateurs électriques, réseau de transport
+          d’énergie, abribus, pylônes, antennes, etc.), pour lesquels des exigences fonctionnelles ou techniques
+          peuvent nécessiter une implantation différente, mais sous réserve d’une intégration harmonieuse au
+          paysage
+         les équipements d'intérêt collectif et services publics, ceux-ci pouvant être implantés à des reculs
+          différents pour répondre au mieux aux besoins des services publics et/ou dans le but de souligner leur
+          rôle symbolique.
+b) Le recul de 30 mètres par rapport à la limite de la forêt ne s'applique pas à l'aménagement de piscine et à la
+construction d'annexes, à condition que les annexes n'aient pas pour objet de créer un nouveau logement, n'aient
+pas une emprise au sol supérieure à 10 m² et qu'elles n'excèdent pas la hauteur définie à l'article UB3.3. 2°/.
+
+         Révision du Plan Local d'Urbanisme de la commune de ROULANS (25)
+         D14-010 / RÈGLEMENT
+                                                                                                                23
+  c) Dans le cas de circonstances particulières (angle de rue, virage accentué, croisement de voies, pentes,
+  configuration particulière du terrain, etc.), pour des motifs de bonne fonctionnalité, de sécurité ou
+  d’ensoleillement, il pourra être imposé un recul différent des principes généraux énoncés ci-dessus selon les cas
+  pour l’implantation des constructions par rapport aux voies et emprises publiques.
+
+  UB3.2 - IMPLANTATION DES CONSTRUCTIONS PAR RAPPORT AUX LIMITES SÉPARATIVES
+  1°/ - RÈGLE
+  a) Les constructions sont autorisées sous réserve de respecter un recul de 30 mètres par rapport à la limite de la
+  forêt.
+  b) Les constructions sont implantées avec un recul égal à la moitié de la différence d’altitude de tout point d’un
+  bâtiment au point le plus proche des limites séparatives, sans pouvoir être inférieure à 3 mètres (d = h/2,
+  minimum 3 mètres).
+    Illustration proposée par PRELUDE de la règle d = h/2, minimum 3 mètres.
+
+
+
+
+                                               d
+
+                      Projet             h
+
+
+
+                       PROPRIÉTÉ A                                   PROPRIÉTÉ B
+
+
+  Les constructions en limite séparative sont autorisées :
+             à condition que la façade sur limite ne dépasse pas 5 mètres de longueur et 5 mètres de hauteur (hauteur
+              calculée au sommet de l'acrotère ou du faitage) ;
+  Illustration proposée par PRELUDE de la règle d’implantation en limite séparative.
+
+
+
+
+             sans restriction en cas de projet architectural commun à deux unités foncières limitrophes ;
+             en cas d’adossement à un bâtiment existant sur le fonds voisin, à condition de ne pas dépasser la
+              longueur et la hauteur sur limite séparative du bâtiment existant.
+Illustration proposée par PRELUDE de la règle d’adossement à un bâtiment existant sur le fonds voisin.
+
+
+
+
+  Les autres façades de la construction devront respecter la distance par rapport aux limites séparatives énoncée au
+  premier alinéa (d=h/2).
+
+             Révision du Plan Local d'Urbanisme de la commune de ROULANS (25)
+             D14-010 / RÈGLEMENT
+                                                                                                                   24
+2°/ - RÈGLES ALTERNATIVES
+a) Les règles précédentes ne sont pas applicables pour :
+         les équipements techniques d’intérêt général (transformateurs électriques, réseau de transport
+          d’énergie, abribus, pylônes, antennes, etc.), pour lesquels des exigences fonctionnelles ou techniques
+          peuvent nécessiter une implantation différente, mais sous réserve d’une bonne intégration paysagère.
+         les équipements d'intérêt collectif et services publics, ceux-ci pouvant être implantés à des reculs
+          différents pour répondre au mieux aux besoins des services publics et/ou dans le but de souligner leur
+          rôle symbolique.
+         dans le secteur UBa, où les constructions et installations admises peuvent s'implanter librement par
+          rapport aux limites séparatives sous réserve de respecter un dégagement suffisant permettant d’assurer
+          la visibilité des usagers des voies. Les constructions et installations admises peuvent s'implanter
+          librement les unes par rapport aux autres. Cependant, entre deux constructions non contigües, devra
+          toujours être ménagée une distance suffisante pour permettre l’entretien facile des marges d’isolement
+          des bâtiments eux-mêmes ainsi que le passage et le fonctionnement du matériel de lutte contre
+          l’incendie.
+b) Le recul de 30 mètres par rapport à la limite de la forêt ne s'applique pas à l'aménagement de piscine et à la
+construction d'annexes, à condition que les annexes n'aient pas pour objet de créer un nouveau logement, n'aient
+pas une emprise au sol supérieure à 10 m² et qu'elles n'excèdent pas la hauteur définie à l'article UB3.3. 2°/.
+b) Dans le cas de circonstances particulières (angle de rue, virage accentué, croisement de voies, pentes,
+configuration particulière du terrain, etc.), pour des motifs de bonne fonctionnalité, de sécurité ou
+d’ensoleillement, il pourra être imposé un recul différent des principes généraux énoncés ci-dessus selon les cas
+pour l’implantation des constructions par rapport aux limites séparatives.
+
+UB3.3 - HAUTEUR DES CONSTRUCTIONS
+1°/ - RÈGLE
+La hauteur des constructions et installations admises ne devra pas excéder une hauteur de 9 mètres au sommet
+de l'acrotère ou de 10 m au faitage. Elle sera mesurée en tous points par rapport au terrain naturel avant travaux.
+Dans tous les cas, les dispositifs destinés à économiser de l'énergie dans les constructions, tel que le
+rehaussement de couverture pour l'isolation thermique, peuvent faire l'objet d'un dépassement de hauteur dans
+le respect des dispositions de l'article UB4 relatives à l'aspect des constructions. Et les éléments techniques
+utilisés sur le toit afin d'assurer la performance énergétique du bâtiment ne rentrent pas dans le calcul de la
+hauteur maximale (panneaux solaires thermiques ou photovoltaïques, aérogénérateurs ...).
+2°/ - RÈGLES ALTERNATIVES
+a) Pour les bâtiments publics, notamment dans le but de souligner le rôle symbolique et monumental de ces
+bâtiments, il pourra être fait abstraction du principe ci-dessus.
+b) La règle précédente n'est pas applicable pour les équipements techniques d’intérêt général (transformateurs
+électriques, réseau de transport d’énergie, antennes, pylônes, etc.), mais sous réserve d’un effort d’insertion
+paysagère par les matériaux et les couleurs.
+c) Dans le secteur UBa, la hauteur des constructions agricoles admises ne doit pas excéder une hauteur de 12
+mètres au faitage, excepté pour des éléments techniques et fonctionnels liés et nécessaires à l'activité admise,
+comme silos, cheminées, aérations, etc. ... rt sous réserve d’un effort d’insertion paysagère par les matériaux et
+les couleurs. Dans tous les cas, les éléments techniques utilisés sur le toit ne rentrent pas dans le calcul de la
+hauteur maximale (panneaux solaires thermiques ou photovoltaïques, aérogénérateurs ...).
+d) Dans le secteur UBh, l’extension admise sera de même hauteur que la construction existante afin de préserver
+l’harmonie de l’ensemble. Et les annexes seront composées avec le bâtiment principal, dans le cas contraire la
+hauteur de celles-ci sera limitée à 3,5 mètres au faitage.
+
+
+
+         Révision du Plan Local d'Urbanisme de la commune de ROULANS (25)
+         D14-010 / RÈGLEMENT
+                                                                                                                   25
+e) Dans la bande de recul de 30 mètres par rapport à la limite de la forêt, les constructions autorisées ne devront
+pas excéder 3 mètres au faitage.
+
+UB3.4 - EMPRISE AU SOL
+Dans le secteur UBh, l'extension admise est limitée à 20% de l’emprise au sol existante à l'approbation du PLU.
+
+ARTICLE UB4 - QUALITÉ URBAINE, ARCHITECTURALE, ENVIRONNEMENTALE ET PAYSAGÈRE
+a) Principes généraux
+Les règles suivantes sont à respecter à moins de démontrer qu'elles sont contraires à l'usage de matériaux et de
+techniques de construction permettant la performance énergétique du bâtiment et l'utilisation de systèmes de
+production d'énergie renouvelable.
+Des dispositions différentes de celles édictées ci-dessous peuvent être autorisées ou imposées pour les
+équipements collectifs d’intérêt général pour prendre en compte, notamment au regard de l’environnement dans
+lequel ils s’insèrent, les contraintes fonctionnelles et techniques propres à ces équipements, leur rôle structurant
+de l’espace urbain, ainsi que l’affirmation de leur identité par une architecture signifiante.
+b) Volume & typologie
+Les constructions autorisées comportent un jeu de volumes simples.
+Les constructions contemporaines sont autorisées, sous réserve de faire appel à une architecture de qualité
+s’intégrant parfaitement dans le paysage. Tout pastiche d’une architecture comportant des éléments
+typiquement étrangers à la région est interdit.
+c) Implantation
+Les constructions s’adaptent par leur conception au terrain naturel :
+       En terrain plat, les talus artificiels sont proscrits ; le rez-de-chaussée est implanté sensiblement au niveau
+        du sol naturel. Les caves et sous-sols sont strictement interdits.
+       En terrain pentu, on cherche à minimiser les mouvements de terrain en utilisant judicieusement la pente.
+        La construction accompagne alors la pente ou s'encastre dans celle-ci, sous réserve de réaliser un
+        drainage périphérique pour évacuer les eaux de surface qui proviennent du ruissellement.
+                                                        Illustrations proposées par PRELUDE
+
+1ère hypothèse
+La construction accompagne la pente, elle est à la                                                  VOLUME DE
+                                                                                                    DÉBLAIS / REMBLAIS
+fois encastrée et perchée sur des pilotis pour
+diminuer le volume des déblais.
+
+
+2ème hypothèse
+La construction accompagne la pente en cascade,
+avec succession de niveaux ou de demi-niveaux
+suivant le degré d'inclinaison
+
+
+3ème hypothèse
+La construction s'encastre dans la pente. Le
+volume de remblais et déblais est plus important.
+
+d) La toiture
+Les toitures appelées à donner aux constructions un caractère insolite ou étranger à la région sont proscrites.
+Les toits destinés à accueillir des systèmes solaires doivent avoir des pentes comprises entre 30 et 60°.
+Les annexes séparées ou non sont couvertes avec le même matériau que le bâtiment principal.
+
+        Révision du Plan Local d'Urbanisme de la commune de ROULANS (25)
+        D14-010 / RÈGLEMENT
+                                                                                                                     26
+Les capteurs solaires sont alignés dans le même sens et regroupés sur un seul champ de forme géométrique
+simple (carré, rectangle, bande ...). Ils peuvent être installés sur l'ensemble de la surface à couvrir. La couleur
+autorisée est le noir.
+                                                       Illustration proposée par le CAUE25
+
+
+
+
+e) Les façades
+D'une manière générale, les couleurs doivent être en harmonie avec celles des constructions voisines. Les teintes
+proscrites sont les couleurs vives et criardes. Le blanc franc est également interdit.
+Les annexes sont traitées avec des matériaux et des couleurs identiques à ceux prédominants sur l’ensemble des
+façades des bâtiments principaux.
+Les appareillages techniques (climatiseurs, pompes à chaleur, capteurs solaires ...) sont à dissimuler ou à intégrer
+au bâti ; aucun coffrage ne devant être visible notamment depuis les voies et emprises publiques
+Les éléments se rapportant aux équipements publics (enseigne, signalétique) et aux activités (devantures de
+magasins et leurs enseignes) doivent être intégrés dans la composition architecturale des bâtiments sans porter
+atteinte de par leurs dimensions, leurs couleurs, les matériaux employés au site.
+f) Dispositions applicables aux secteurs particuliers
+Dans le secteur UBa, les constructions et extensions admises sont traitées avec des matériaux et des couleurs
+identiques à ceux prédominants sur les bâtiments existants afin d'assurer la cohérence de l'ensemble, à moins
+que cette règle ne soit contraire à l'usage de matériaux et de techniques de construction permettant la
+performance énergétique du bâtiment et l'utilisation de systèmes de production d'énergie renouvelable.
+
+
+
+
+       Révision du Plan Local d'Urbanisme de la commune de ROULANS (25)
+       D14-010 / RÈGLEMENT
+                                                                                                                 27
+ARTICLE UB5 - TRAITEMENT ENVIRONNEMENTAL ET PAYSAGER DES ESPACES NON BÂTIS ET ABORDS
+DES CONSTRUCTIONS
+Lorsqu’ils ne seront pas en pleine terre, les abords des constructions et les espaces non bâtis utiliseront des
+matériaux ou comporteront des dispositifs permettant une bonne perméabilité des sols pour l’infiltration des
+eaux pluviales.
+UB5.1 - LES CLÔTURES & MURS DE SOUTÈNEMENT
+D’une manière générale, les clôtures doivent tenir compte de l'écoulement normal des eaux de ruissellement et
+ne doivent pas constituer un obstacle aux eaux de ruissellement.
+a) Les clôtures sur rue
+D’une manière générale :
+    les clôtures ne devront pas créer ou aggraver une gêne pour la visibilité aux carrefours.
+    les clôtures sur rue devront être traitées avec le même soin que les façades des bâtiments et ne pas
+       constituer, par leur aspect ou leur couleur, des dissonances architecturales avec le cadre environnant.
+    la clôture intégrera les accessoires (coffrets de branchement, boîte aux lettres, etc.).
+Éléments importants des continuités viaires et paysagères, les clôtures sur rue sont à traiter par des éléments
+préservant les transparences sur les façades. Elles sont ainsi à réaliser en faisant appel à des éléments
+privilégiant les percées visuelles : les grillages, grilles et le bois. Les brises-vues artificiels et clôtures en bardage
+plastique ou bois type claustras et canisses sont interdits.
+Les clôtures peuvent être constituées d’un muret ou d’un mur bahut afin d’avoir une continuité bâtie sur rue, ils
+sont alors réalisés à l’identique du mur de façade de la propriété. Le muret ne doit pas dépasser 1 m et le mur
+bahut 0,60 m de hauteur par rapport au niveau de l’emprise publique.
+La hauteur totale des clôtures sur rue, tout élément confondu, ne peut excéder 1,60 m par rapport au niveau du
+terrain naturel. Les clôtures composées de grillages préservant les transparences sur les façades peuvent
+atteindre 1,80 m.
+b) Les clôtures sur limite séparative
+La hauteur totale des clôtures, tout élément confondu, sur limite séparative ne peut excéder 2 m par rapport au
+niveau du terrain naturel. Elles doivent cependant garantir l'ensoleillement des constructions voisines.
+c) Les murs de soutènement
+Tout mur de soutènement exigé par la configuration du terrain doit être dimensionné après une correcte
+estimation de la poussée des terres, quel que soit leur type ou le matériau retenu par cette paroi. Tout mur de
+soutènement doit être drainé et être en harmonie par les matériaux utilisés avec la construction présente ou à
+venir et avec les propriétés voisines. Le mur de soutènement ne doit pas aggraver les phénomènes de
+ruissellement et le risque inondations sur les propriétés voisines.
+UB5.2 - LES PLANTATIONS
+Les plantations sont d’essences locales et adaptées au climat.
+Les règles de distance à respecter pour les plantations par rapport aux limites de propriété sont les suivantes :
+     0,5 m pour les plantations inférieures ou égales à 2 mètres ;
+     2 m pour les plantations supérieures à 2 mètres.
+Sur rue, les plantations de résineux à écailles tels que les Thuyas ou les Cyprès et de haies opaques ne sont pas
+autorisées. Et les haies ont une hauteur maximale de 1,80 m.
+Les haies doivent être implantées de manière à ne pas créer ou aggraver une gêne pour la visibilité aux carrefours
+; la hauteur des haies ne doit pas excéder 1 mètre par rapport au niveau de la chaussée sur une longueur de 30
+mètres à partir du centre du carrefour.
+
+
+
+
+        Révision du Plan Local d'Urbanisme de la commune de ROULANS (25)
+        D14-010 / RÈGLEMENT
+                                                                                                                       28
+UB5.3 - LES ÉLÉMENTS DE PAYSAGE À PROTÉGER
+Les éléments naturels de paysage à protéger, en application de l’article L.151-23 du Code de l’Urbanisme, sont
+identifiés au règlement graphique (Pièce 3 du dossier de PLU) et présentés dans le tableau ci-dessous.
+Tous travaux non soumis à un régime d’autorisation qui auront pour effet de modifier ou de détruire ces
+éléments de paysage doivent faire l’objet d’une déclaration préalable, en application des articles R.421-12 c.
+(édification des clôtures), R.421-17 d. et R.421-23 h. (travaux soumis à déclaration préalable) du Code de
+l’Urbanisme.
+
+  Désignation                                                             Prescriptions
+
+                  Maintenir la qualité environnementale et paysagère de ces milieux.
+    Vergers       Entretenir les arbres et remplacer les arbres supprimés par des espèces indigènes dans un volume
+                  similaire.
+                  Maintenir la qualité environnementale et paysagère de ce groupe d’arbres centenaires.
+    Bosquet       Entretenir les arbres et remplacer le cas échéant les arbres supprimés par des espèces indigènes dans un
+                  volume similaire.
+                  Maintenir en état ce puits pour son rôle hydrologique majeur dans cette combe (infiltration des eaux de
+     Puits
+                  ruissellement).
+
+ARTICLE UB6 - STATIONNEMENT
+
+UB6.1 - PRINCIPES GÉNÉRAUX
+Le stationnement des véhicules correspondant aux besoins des constructions ou installations doit être assuré
+impérativement en dehors des voies publiques et des voies ouvertes à la circulation générale. Et les manœuvres
+de desserte de ce stationnement ne doivent pas gêner la circulation sur les voies de desserte.
+La localisation des aires de stationnement doit être effectuée dans un souci d’intégration paysagère. Le
+traitement au sol des aires de stationnement doit favoriser l’infiltration des eaux pluviales. Le traitement
+paysager (plantations) des aires de stationnement est obligatoire et doit être effectué en fonction du contexte
+paysager.
+UB6.2 - MODALITÉS DE MISE EN ŒUVRE
+1°/ - RÈGLE
+a) Pour déterminer le nombre de places de stationnement de toute construction, il sera exigé au minima :
+     pour les constructions à destination d’habitation : une place de stationnement par tranche de 60 m² de
+        surface de plancher créée, chaque tranche commencée étant prise en compte. Parmi les places de
+        stationnement exigées, deux places seront réalisées sur le terrain d’assiette de manière à rendre ces
+        places directement accessibles depuis la voie de desserte des constructions.
+     pour les constructions liées aux commerces et activités de services : une place de stationnement par
+        tranche de 50 m² de surface de plancher créée, chaque tranche commencée étant prise en compte.
+Selon les besoins estimés, des places complémentaires pourront être exigées.
+b) Pour les constructions nécessaires aux équipements d'intérêt collectif et services publics, le nombre minimum
+de places de stationnement doit être déterminé en tenant compte de la capacité d’accueil de l’équipement et des
+besoins pressentis ainsi que de la capacité des stationnements publics situés à proximité.
+c) Dans tous les cas, il sera exigé pour le moins la plantation d’un arbre adapté au sol et au milieu urbain pour 6
+places extérieures de stationnement créées.
+d) Dans le cas de constructions à destination d'habitat collectif, de bureaux ou recevant du public, un local
+sécurisé ou des emplacements couverts affectés aux deux roues doivent être prévus. La superficie à prendre en
+compte pour le stationnement vélo est au minimum de 1,5 m² par emplacement. Et il sera exigé :
+     en habitat collectif, au minimum un emplacement par logement ;
+     et dans les bureaux et les établissements recevant du public au minimum un emplacement pour 10
+        personnes comptées dans l'effectif admissible.
+
+       Révision du Plan Local d'Urbanisme de la commune de ROULANS (25)
+       D14-010 / RÈGLEMENT
+                                                                                                                        29
+2°/ - RÈGLES ALTERNATIVES
+a) En cas de faible extension d’un volume existant, et si le terrain d’assiette avant travaux est insuffisant, les
+exigences minimales fixées ci-dessus pourront être écartées.
+b) L'article L151-33 du Code de l’Urbanisme s’applique : "Lorsque le bénéficiaire du permis ou de la décision de
+non-opposition à une déclaration préalable ne peut pas satisfaire aux obligations résultant du premier alinéa, il
+peut être tenu quitte de ces obligations en justifiant, pour les places qu'il ne peut réaliser lui-même, soit de
+l'obtention d'une concession à long terme dans un parc public de stationnement existant ou en cours de réalisation
+et situé à proximité de l'opération, soit de l'acquisition ou de la concession de places dans un parc privé de
+stationnement répondant aux mêmes conditions. Lorsqu'une aire de stationnement a été prise en compte dans le
+cadre d'une concession à long terme ou d'un parc privé de stationnement, au titre des obligations prévues aux
+articles L.151-30 et L.151-32, elle ne peut plus être prise en compte, en tout ou en partie, à l'occasion d'une
+nouvelle autorisation."
+
+SECTION 3 - ÉQUIPEMENTS, RÉSEAUX ET EMPLACEMENTS RÉSERVÉS
+
+ARTICLE UB7 - DESSERTE PAR LES VOIES PUBLIQUES OU PRIVÉES
+
+UB7.1 - ACCÈS
+Les accès sur les voies publiques ou privées ouvertes à la circulation générale seront de dimension apte à assurer :
+     l’approche des services de secours au plus près des bâtiments,
+     la circulation ou l'utilisation des engins de lutte contre l'incendie,
+     et la sécurité des usagers des voies publiques et des personnes utilisant ces accès. Cette sécurité doit être
+        appréciée compte tenu, notamment, de la position des accès, de leur configuration ainsi que de la nature
+        et de l'intensité du trafic.
+Les nouveaux accès sur la voirie départementale devront obtenir l'accord du service gestionnaire.
+UB7.2 - VOIRIE
+Toute construction ou occupation du sol doit être desservie par une voirie suffisante. Celle-ci doit avoir des
+caractéristiques techniques et dimensionnelles adaptées aux usages et au trafic qu’elle supporte, aux opérations
+qu’elle dessert et au fonctionnement des services publics.
+Toute voirie nouvelle doit être conçue dans son tracé et son emprise, dans le traitement de ses abords et de son
+revêtement de manière à préserver les milieux naturels, à limiter l’imperméabilisation des sols au strict
+nécessaire et à limiter leur impact visuel en tenant compte de la topographie des lieux.
+Les voies réservées aux piétons devront bénéficier d’une largeur d’au moins 3 mètres, pour faciliter la circulation
+des véhicules d’entretien et garantir leur insertion paysagère.
+Les voies en impasse, dès lors qu’elles dépassent un linéaire de 30 mètres, doivent être aménagées de manière à
+ce que tout véhicule (matériel de lutte contre l’incendie, ramassage des ordures ménagères, déneigement,)
+puisse faire demi-tour. L’aménagement de l’aire de retournement doit être conçu pour consommer la moindre
+superficie de terrain, tout en permettant le retournement sans manœuvre.
+
+ARTICLE UB8 - DESSERTE PAR LES RÉSEAUX
+
+UB8.1 - EAU POTABLE
+Toute construction ou installation qui requiert une alimentation en eau potable doit être raccordée au réseau
+public de distribution d'eau potable.
+UB8.2 - ASSAINISSEMENT
+Toute construction ou installation doit être raccordée au réseau public d'assainissement existant, en cours de
+réalisation ou en projet.
+
+
+
+       Révision du Plan Local d'Urbanisme de la commune de ROULANS (25)
+       D14-010 / RÈGLEMENT
+                                                                                                                 30
+UB8.3 - EAUX PLUVIALES, SÉCURITÉ INCENDIE
+Les eaux pluviales des toitures sont infiltrées directement dans les terrains, par tous dispositifs appropriés : puits
+perdus, drains de restitution, fossés ou noues, ... Toutefois, en présence de sols argileux par exemple, des
+dispositifs autres pourront être exigés, tels que la redirection vers le réseau public d'eaux pluviales sous réserve
+de la mise en place d'un système de rétention temporaire de ces eaux permettant d'en réguler l'écoulement.
+La réalisation de citernes est recommandée.
+Les eaux issues des parkings et voiries privés sont débourbées et déshuilées avant infiltration à la parcelle dans le
+milieu naturel. L'obligation de traitement préalable ne concerne que les parkings d'une taille supérieure à 20
+places pour véhicules légers, ou d'une taille supérieure à 10 places de véhicules type poids lourds. Les dispositifs
+de traitement sont suffisamment dimensionnés pour traiter l'intégralité des flux courants ainsi que les premiers
+volumes d'eau en cas de précipitation exceptionnelle.
+UB8.4 - RÉSEAUX DIVERS
+Les réseaux et branchements nouveaux de télécommunication et d'énergie doivent être réalisés en souterrain.
+Et il sera exigé la pose d'un fourreau en attente du raccordement à la fibre optique pour les nouvelles
+constructions et les nouveaux aménagements.
+
+ARTICLE UB9 - EMPLACEMENTS RÉSERVÉS
+La zone est concernée par les réservations présentées dans le tableau ci-dessous et reportées sur le plan de
+zonage (Pièce 3 du PLU), celles-ci relèvent du statut des emplacements réservés visés à l'article L151-41 1° à 3°du
+Code de l'Urbanisme :
+ N°                      Destination                                      Parcelles concernées        Emprise    Bénéficiaires
+      Aménagement d'une voie de desserte du                    A P106 à p108, p110 à p113, p842,
+ 7    secteur OAP2 et d’une liaison douce entre la             p1069, p1791, p1794, p2004, p2005 et     6m       Commune
+      Rue de la Chaille et la Rue Claude Perreciot             2006, AC p2
+      Aménagement d'une liaison piétonne entre la
+ 8                                                             AB p75                                   4m       Commune
+      rue du Cotard et la rue de Champonot
+      Prolongement de la rue du Champonot vers la
+ 9                                                             AB 441, 449, 450, p546, p549             8m       Commune
+      zone 1AU "Aux Vignes de Morteau"
+
+      Création d'une amorce de voie vers le Nord en
+ 11                                                            AP p653, p654, p662 et p665              8m       Commune
+      vue du développement urbain futur
+      Création d'un cheminement doux entre la rue
+ 12                                                            AD p83                                 500 m²     Commune
+      des Alozes et le futur pôle sportif
+      Aménagement d'un verger collectif et
+ 14                                                            A 2049, 776, 777, 782 à 784            3 700 m²   Commune
+      pédagogique
+
+
+
+
+       Révision du Plan Local d'Urbanisme de la commune de ROULANS (25)
+       D14-010 / RÈGLEMENT
+                                                                                                                            31
+                    TerrenUrbanisme
+
+    Merci de votre confiance
+Ce rapport a été établi à partir des sources publiques officielles pour vous
+  aider à décider en connaissance de cause. Pour toute question, nous
+                        restons à votre disposition.
+
+
+
+
+   Vous êtes professionnel ? Travaillons ensemble
+      Agents immobiliers, notaires, architectes, géomètres, diagnostiqueurs,
+promoteurs, mairies : faisons équipe. Crédits professionnels sans abonnement, 5
+€ le rapport dès 50 crédits, votre logo sur les rapports, offre communale pour les
+                       mairies et partenariats sur mesure.
+
+               Écrivez-nous : contact@terrenurbanisme.com
+
+
+
+
+                        terrenurbanisme.com
+                         contact@terrenurbanisme.com
+

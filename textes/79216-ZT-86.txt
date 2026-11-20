@@ -1,0 +1,2763 @@
+                  TerrenUrbanisme
+                  Le terrain constructible, partout en France
+
+
+
+
+RAPPORT D'URBANISME
+
+
+
+Prahecq
+Section ZT · Parcelle n° 86
+      Non constructible
+
+
+
+
+Référence cadastrale                                                        Surface cadastrale
+79216000ZT0086                                                              4 560 m²
+
+Rapport établi le                                                           Référence du rapport
+20/11/2026                                                                  APERCU
+
+
+
+
+terrenurbanisme.com                                                                      contact@terrenurbanisme.com
+
+Document d'information sans valeur contractuelle ni réglementaire. Il ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme
+et ne peut en aucun cas être joint à une demande de permis de construire ou de déclaration préalable. Seuls les actes de l'administration font foi.
+                                                                                                                           Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                                              Sommaire
+
+
+
+
+Sommaire
+Le rapport suit l'ordre d'une étude de terrain : où se trouve la parcelle, ce que dit la règle, ce qui pèse sur le
+projet, puis les démarches.
+
+              Synthèse
+   S                                                                                                                                 p. 3
+              Le verdict, les indicateurs clés et les points d'attention en une page.
+
+              Identification de la parcelle
+   01                                                                                                                                p. 4
+              Localisation, surface, références cadastrales et voisinage du terrain.
+
+              Règles d'urbanisme applicables
+  02                                                                                                                                 p. 7
+              Document d'urbanisme, zone du terrain, prescriptions et servitudes.
+
+              Ce que vous pouvez construire
+  03                                                                                                                                 p. 9
+              Surface constructible, hauteur, reculs, aspect et usages autorisés.
+
+              Loi Littoral et loi Montagne
+  04                                                                                                                                p. 16
+              Les lois qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+              Risques naturels et technologiques
+  05                                                                                                                                p. 17
+              Inondation, feu de forêt, argiles, catastrophes naturelles et sites pollués.
+
+              Le terrain : accès, relief et réseaux
+  06                                                                                                                               p. 20
+              Accès, pente, ensoleillement, eaux usées, électricité, eau et fibre.
+
+              Conditions de vente du terrain
+  07                                                                                                                               p. 27
+              Terrain agricole ou naturel : SAFER, fermier en place et repère officiel de prix.
+
+              Environnement et marché immobilier
+  08                                                                                                                               p. 29
+              Espaces naturels, espèces protégées et ventes immobilières alentour.
+
+              Historique du site
+  09                                                                                                                               p. 32
+              Le terrain vu du ciel au fil des années et les permis accordés autour.
+
+              Opportunités autour du terrain
+   10                                                                                                                              p. 34
+              Grands terrains peu bâtis et logements énergivores à proximité.
+
+              Votre projet, étape par étape
+   11                                                                                                                              p. 35
+              De l'achat aux impôts : démarches, délais, coûts, contacts et taxe.
+
+              État des risques (ERP) pré-rempli
+   12                                                                                                                              p. 39
+              Le formulaire réglementaire à remettre à l'acquéreur, pré-rempli.
+
+              Avertissement et sources
+   13                                                                                                                               p. 41
+              La portée de ce rapport et les sources publiques consultées.
+
+              Annexe : règlement de la zone
+   A                                                                                                                               p. 44
+              Les pages officielles du règlement de la zone, telles qu'approuvées.
+
+
+
+
+Astuce : cliquez sur un chapitre pour y accéder directement.
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                               2 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                                                      Synthèse
+
+
+
+
+Synthèse
+     Document d'information. Ce rapport ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme,
+     n'engage pas l'administration et ne peut pas servir de pièce à une demande de permis de construire.
+     L'appréciation ci-dessous est indicative : seule la mairie se prononce sur la constructibilité d'un terrain,
+     au vu d'un projet précis.
+
+
+
+
+       NON CONSTRUCTIBLE
+
+       Ce terrain n'est pas constructible en l'état
+       La parcelle est classée en zone Ap (agricole) du PLU intercommunal de Prahecq. Les
+       constructions nouvelles n'y sont pas admises, sauf exceptions encadrées.
+
+
+
+
+      Zone principale                                        Document d'urbanisme                                  Loi Littoral
+
+   Ap · 100 %                                             PLUI                                                   Ne s'applique pas
+
+
+
+
+      Loi Montagne                                           Risques à la parcelle
+
+   Ne s'applique pas                                      Remontée de nappe ·
+                                                          Séisme (+1)
+
+
+
+
+Points d'attention
+    Zone Ap (100 % de la parcelle) : non constructible.
+    Site Natura 2000 (directive Oiseaux) « Plaine de Niort Sud-Est » : une évaluation des incidences peut
+    être exigée.
+    Logement : le règlement de la zone Ap n'admet pas de logement neuf, sauf exceptions prévues par la
+    zone (logement de gardiennage, par exemple) : voir le chapitre « Ce que vous pouvez construire ».
+    17 arrêtés de catastrophe naturelle sur la commune.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      3 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+    01             Identification de la parcelle
+     DANS CETTE SECTION
+
+     Où se trouve le terrain, sa surface, ses références cadastrales, son propriétaire lorsqu'il s'agit
+     d'une société ou d'une collectivité, et la performance énergétique du bâti existant.
+
+
+Données du cadastre (DGFiP) et de l'IGN.
+
+
+     Plan de situation
+
+
+
+
+                                                                                                                            1 km
+
+
+
+Plan IGN · © IGN
+
+
+
+     Vue aérienne et plan cadastral
+
+
+
+
+                                                                                                                                      50 m
+
+
+
+Photographie aérienne et plan cadastral · © IGN
+
+
+Commune                                                  Prahecq (79216)
+
+Département                                              Deux-Sèvres (79)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          4 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Prahecq · ZT 86
+          TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+Section et numéro                                        Section ZT, parcelle n° 86, feuille 1
+
+Identifiant cadastral                                    79216000ZT0086
+
+Surface cadastrale                                       4 560 m²
+
+Surface calculée (SIG)                                   4 641 m² · périmètre 373 m
+
+Coordonnées du centre                                    46.26594 N, 0.34799 O (WGS 84)
+
+Altitude                                                 de 36 à 37 m
+
+Pente estimée                                            3 % (terrain plutôt plat)
+
+Parcelles voisines                                       ZT 106, AI 23, ZT 53, ZT 84, ZT 87
+
+
+Le plan cadastral est un document fiscal : il ne fait pas foi des limites de propriété. Seul un bornage réalisé par un
+géomètre-expert fixe les limites de manière certaine.
+
+
+1.1 Propriétaire et voisinage
+La parcelle ne figure pas au fichier des personnes morales : son propriétaire est vraisemblablement un
+particulier. Le nom des propriétaires particuliers n'est pas public ; il peut être demandé au service des impôts
+fonciers (relevé de propriété) ou obtenu par l'intermédiaire d'un notaire.
+
+Parcelles voisines détenues par des sociétés ou des collectivités
+  PARCELLE              PROPRIÉTAIRE                                                                     SURFACE            SIREN
+
+  ZT 106                GFA LA CROIX NASLIN (GFA)                                                        6 090 m²           328724844
+
+  AI 23                 COMMUNE DE PRAHECQ (COM)                                                         7 400 m²           217902162
+
+
+
+Principaux propriétaires personnes morales dans un rayon de 280 m
+  PROPRIÉTAIRE                                                              PARCELLES             SURFACE TOTALE            SIREN
+
+  GAEC DE BIMARD (AUPM)                                                     1                     40 006 m²                 –
+
+  TV CRISSE (SAS)                                                           1                     17 450 m²                 933662249
+
+  GAEC LA LOUGNOLLE (GAEC)                                                  4                     12 033 m²                 493853121
+
+  COMMUNE DE PRAHECQ (COM)                                                  2                     11 351 m²                 217902162
+
+  GFA LA CROIX NASLIN (GFA)                                                 3                     11 141 m²                 328724844
+
+  SYNDICAT INTERCOMMUNAL DES EAUX DE LA                                     1                     90 m²                     –
+  VALLEE DU LAMBON (AUPM)
+
+
+
+Source : fichiers des parcelles des personnes morales (DGFiP) : sociétés, SCI, collectivités, établissements publics et associations.
+Les propriétaires personnes physiques n'y figurent pas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            5 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+1.2 La commune de Prahecq
+Code postal                                              79230
+
+Département                                              Deux-Sèvres (79)
+
+Intercommunalité                                         CA du Niortais
+
+Population                                               2 252 habitants
+
+Superficie                                               25,02 km²
+
+Densité                                                  90 habitants par km²
+
+Commune littorale                                        Non
+
+Commune de montagne                                      Non
+
+Document d'urbanisme                                     Plan local d'urbanisme intercommunal (PLUi)
+
+Risques sur la commune                                   17 arrêtés de catastrophe naturelle · détail en section Risques et en
+                                                         annexe
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          6 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+    02             Règles d'urbanisme applicables
+     DANS CETTE SECTION
+
+     Le document d'urbanisme de la commune, la zone dans laquelle se trouve le terrain, et les
+     prescriptions et servitudes qui s'y ajoutent.
+
+
+Géoportail de l'Urbanisme : zonage, prescriptions et servitudes.
+
+
+
+2.1 Document d'urbanisme en vigueur
+Type de document                                         Plan local d'urbanisme intercommunal (PLUi)
+
+Date d'approbation                                       Non renseigné
+
+Statut                                                   Publié au Géoportail de l'Urbanisme
+
+Règlement officiel                                       Ouvrir le document officiel (PDF)
+
+
+
+     Plan de zonage du PLU
+
+
+
+
+                                                                     A         Ap
+
+
+
+
+                                                                                                                           100 m
+
+
+
+Zonage : Géoportail de l'Urbanisme · fond : © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       7 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.2 Zonage de la parcelle
+  ZONE                  DÉSIGNATION                                                         PART               CONSTRUCTIBILITÉ
+
+  Ap                    Ap : Secteur à protéger en raison de                                100 %              Non constructible
+                        l'existence d'un intérêt écologique ou
+                        paysager particulièrement prégnant (Trame
+                        Verte et Bleue (TVB), Natura 2000, Zone
+                        Naturelle d'Intérêt Écologique Faunistique et
+                        Floristique (ZNIEFF ...)
+
+
+
+Zone Ap · Agricole
+Zone agricole : secteur protégé en raison du potentiel agronomique, biologique ou économique des terres.
+Seules y sont admises les constructions et installations nécessaires à l'exploitation agricole et aux services
+publics, ainsi que l'extension limitée des habitations existantes.
+
+
+2.3 Prescriptions applicables à la parcelle
+  PRESCRIPTION                                                                                       TYPE
+
+  Haie ou arbres                                                                                     Élément de patrimoine ou de paysage
+                                                                                                     protégé
+
+
+
+
+2.4 Informations complémentaires du PLU
+  INFORMATION                                                                                        TYPE
+
+  Périmètre de protection de 100m autour d'un élevage (ICPE)                                         Information du PLU (type 99)
+
+  Zone inondable                                                                                     Information du PLU (type 99)
+
+
+
+
+2.5 Servitudes d'utilité publique
+Aucune servitude d'utilité publique numérisée n'est recensée sur la parcelle au Géoportail de l'Urbanisme. Les
+servitudes non encore numérisées figurent en annexe du PLU.
+
+
+2.6 Patrimoine : l'architecte des Bâtiments de France
+Aucun site patrimonial remarquable, site classé ou inscrit, ni monument historique à moins de 500 m n'est
+recensé : l'avis de l'architecte des Bâtiments de France n'est pas requis au titre du patrimoine.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       8 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    03             Ce que vous pouvez construire
+     DANS CETTE SECTION
+
+     La lecture du règlement de votre zone : surface constructible estimée, hauteur, reculs, aspect,
+     usages autorisés ou interdits, avec les extraits du texte officiel.
+
+
+Lecture du règlement écrit de la zone Ap, pages 80 à 90 du règlement officiel.
+
+
+
+3.1 Potentiel constructible estimé
+     Le règlement de la zone Ap n'admet pas de construction nouvelle à usage de logement. Seules restent
+     possibles les constructions expressément admises par la zone et les évolutions encadrées des
+     constructions existantes : extension limitée à 30 % de l'emprise existante, dans la limite de 50 m²,
+     annexes de 50 m² au plus.
+
+
+
+Constructions admises dans la zone :
+
+    Logement : uniquement dans les bâtiments d'habitation existants ou par changement de destination (autorisation
+    sous condition)
+    Hôtels et autres hébergements touristiques : uniquement dans les bâtiments d'habitation existants ou par
+    changement de destination
+    Constructions et installations agricoles : aménagement, développement et extension des existants ; création
+    uniquement en cas de relocalisation, regroupement ou reprise d'une exploitation sans reprise des bâtiments
+    existants, avec impacts réduits au strict nécessaire et compensation si besoin
+    Logements de fonction agricoles pour certains élevages, en priorité dans le bâti existant, sinon construction
+    neuve justifiée à moins de 100 m des bâtiments de l'exploitation et en continuité
+
+
+3.2 Caractère de la zone
+La zone Ap (Agricole protégée) correspond aux secteurs cultivés plus sensibles sur le plan paysager et
+environnemental (Trame Verte et Bleue, Natura 2000, ZNIEFF…). Le principe est l'inconstructibilité, avec
+quelques constructions ou installations admises sous conditions. Il s'agit de permettre l'activité agricole
+et d'autres activités compatibles avec l'intérêt écologique ou paysager du site. Ap n'est pas un STECAL :
+ce sont les règles générales de la zone A/Ap qui s'appliquent (et non celles des secteurs Ac, Ae, Ahl,
+etc.).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       9 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.3 Règles de construction
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Surface minimale ou                          Non précisé dans le règlement de la zone (pas de surface                         Dispositions
+  caractéristiques du terrain                  minimale). Le terrain doit toutefois avoir un accès direct à une                 générales II.5.2
+                                               voie et permettre la réalisation d'un assainissement autonome                    et II.6.2.B
+                                               si nécessaire.
+
+  Accès et voirie                              Terrain constructible s'il a un accès direct à une voie publique                 Dispositions
+                                               ou privée ouverte à la circulation automobile, de                                générales II.5.2
+                                               caractéristiques proportionnées à l'occupation envisagée ;
+                                               chaussée d'accès d'au moins 3 mètres de largeur ; accès
+                                               permettant la sécurité, la collecte des déchets, la défense
+                                               contre l'incendie ; hors agglomération, desserte autant que
+                                               possible par une voie secondaire mutualisable ; accès sur
+                                               routes départementales selon les règles départementales ;
+                                               voies en impasse avec aire de demi-tour.
+
+  Réseaux et assainissement                    Raccordement obligatoire au réseau d'eau potable lorsqu'il                       Dispositions
+                                               existe. Eaux usées : raccordement au réseau collectif                            générales II.6
+                                               obligatoire s'il existe (sauf impossibilité technique) ; en son
+                                               absence, assainissement individuel conforme à la
+                                               réglementation, défini par une étude de sols et de filière (ou
+                                               d'incidence/impact), avec une superficie suffisante réservée
+                                               sur la parcelle. Rejet direct d'eaux usées non traitées dans
+                                               rivières, fossés ou égouts pluviaux interdit. Eaux pluviales
+                                               conservées sur l'unité foncière (réutilisation ou infiltration),
+                                               rejet au fossé ou réseau seulement si impossible, avec
+                                               prétraitement/rétention possibles. Électricité : raccordement
+                                               obligatoire, réseaux enterrés ; fourreaux numériques à prévoir
+                                               ; pré-câblage fibre pour les constructions neuves.
+
+  Implantation par rapport                     Les constructions principales doivent chercher en priorité les                   III.3.1.C.b (p.
+  aux voies                                    implantations en bord de parcelle et à proximité des axes                        89-90)
+                                               routiers lorsque cela est possible, avec un retrait minimum de
+                                               5 mètres par rapport à l'alignement de la voie, sauf extension
+                                               du bâti existant. Retrait minimum de 5 mètres des berges ou
+                                               murs de quai des rivières et cours d'eau.
+
+  Implantation par rapport                     Implantation non réglementée. Retrait minimum de 5 mètres                        III.3.1.C.c (p.
+  aux limites séparatives                      des berges ou murs de quai des rivières et cours d'eau.                          90)
+
+  Implantation des                             Non précisé dans le règlement de la zone Ap (la règle « non                      III.3.1.B (p. 82)
+  constructions entre elles                    réglementée » est exprimée pour les STECAL uniquement). Les
+                                               nouveaux bâtiments agricoles doivent s'implanter à proximité
+                                               des bâtiments existants.
+
+  Emprise au sol                               Non précisé dans le règlement de la zone Ap pour les                             III.3.1.B.d et e
+                                               constructions agricoles. Plafonds pour les habitations                           (p. 88)
+                                               existantes : annexes 50 m² d'emprise au sol totale ; extensions
+                                               60 m² ou 70 m² d'emprise au sol supplémentaire (ou 30 % pour
+                                               les constructions de 90 m² de surface de plancher et plus).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         10 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Hauteur maximale                             Construction principale (habitation) : 6 mètres à l'égout (R+1),                 III.3.1.C.a (p.
+                                               avec possibilité d'atteindre la hauteur de façade d'une                          89) et tableau
+                                               construction en dur voisine. Annexes : 3,50 m à l'égout et 4 m                   p. 85
+                                               au faîtage. Bâtiment agricole : 30 m au point le plus haut, avec
+                                               recherche de la meilleure intégration paysagère. Équipements
+                                               publics et d'intérêt collectif : 30 m au point le plus haut. Serres :
+                                               4 m ; bâtiments liés aux serres : 4 m.
+
+  Aspect extérieur et toitures                 Habitations : respect des formes de l'architecture traditionnelle                Dispositions
+                                               locale ou expression contemporaine intégrée ; pastiche interdit                  générales II.3.1
+                                               ; toitures en tuiles creuses de terre cuite, pente 28 à 35 % ;                   et II.3.2
+                                               couvertures de type bardeaux d'asphalte, tôle, fibrociment
+                                               amianté interdites pour les constructions principales (bac acier
+                                               et zinc possibles). Bâtiments agricoles : volumétrie simple et
+                                               compacte, éléments techniques intégrés, fermeture sur au
+                                               moins deux côtés, pas de bâtiment composé uniquement de
+                                               toiture et poteaux (sauf stockage de fourrage ou paille), éviter
+                                               les ruptures de pente, implantation hors lignes de crête, faîtage
+                                               parallèle aux courbes de niveau, cuves et silos dissimulés.
+
+  Matériaux et couleurs                        Emploi à nu de matériaux destinés à être enduits (parpaings,                     Dispositions
+                                               briques creuses) interdit ; couleurs criardes ou foncées                         générales
+                                               interdites en façade habitation ; peinture interdite sur pierre de               II.3.1.C-D et
+                                               taille ou moellon. Bâtiments agricoles : façades de couleur                      II.3.2.C
+                                               neutre et mate, toiture plus foncée que les parois (tuiles noires
+                                               proscrites), sobriété et nombre limité de matériaux.
+
+  Clôtures                                     Déclaration préalable obligatoire pour toute clôture. En                         Dispositions
+                                               bordure de voie en zone A/N : mur en pierre apparente (1,60 m                    générales
+                                               max), mur en maçonnerie enduit sur toutes ses faces (1,20 m                      II.3.6 (p. 29-34)
+                                               max), mur bahut (soubassement 1,20 m max, total 1,60 m max),
+                                               poteaux bois sans soubassement avec fil de fer lisse, barbelé
+                                               ou grillage (1,60 m max). Parcelles non bâties : clôtures posées
+                                               à 30 cm du sol minimum, hauteur limitée à 1,20 m. En limite
+                                               séparative : hauteur limitée à 2 m ; lorsque la limite se confond
+                                               avec une zone A ou N, haie végétale d'au moins 2 m
+                                               d'épaisseur (1 m pour petite parcelle), éventuellement doublée
+                                               d'un grillage de 2 m maximum. Clôtures végétales privilégiées,
+                                               essences adaptées (listes en annexe).
+
+  Stationnement                                Le stationnement des véhicules correspondant aux besoins                         Dispositions
+                                               des constructions et installations doit être assuré en dehors                    générales II.5.1
+                                               des voies et emprises publiques. Place minimale de 2,30 m x                      (p. 42-46)
+                                               5,00 m ; parcs de plus de 5 véhicules : 25 m² par véhicule ; un
+                                               arbre pour quatre emplacements.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           11 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Espaces verts et plantations                 Coefficient de biotope non applicable en zone A. Arbres et                       Dispositions
+                                               arbustes à planter dans chaque projet sauf impossibilité                         générales
+                                               technique, essences adaptées (listes recommandées et                             II.3.2.F, II.4.1.B
+                                               interdites en annexe) ; pour les bâtiments agricoles :                           ; zone Ap
+                                               plantations à l'entrée de l'exploitation, haies entre bâtiments,                 tableau p. 85
+                                               atténuation visuelle des grands volumes ; serres : maintien et
+                                               renforcement de la structure végétale et plantations autour du
+                                               site. Haies et arbres protégés (art. L. 151-23) à conserver ou
+                                               compenser.
+
+  Densité ou coefficient                       Non précisé dans le règlement de la zone (pas de COS). Règle                     IV.1 (p. 118)
+                                               de densité de 12 logements/ha limitée aux zones urbaines.
+
+
+
+
+3.4 Usages autorisés
+    Logement : uniquement dans les bâtiments d'habitation existants ou par changement de destination
+    (autorisation sous condition)
+    Hôtels et autres hébergements touristiques : uniquement dans les bâtiments d'habitation existants ou par
+    changement de destination
+    Constructions et installations agricoles : aménagement, développement et extension des existants ;
+    création uniquement en cas de relocalisation, regroupement ou reprise d'une exploitation sans reprise des
+    bâtiments existants, avec impacts réduits au strict nécessaire et compensation si besoin
+    Logements de fonction agricoles pour certains élevages, en priorité dans le bâti existant, sinon
+    construction neuve justifiée à moins de 100 m des bâtiments de l'exploitation et en continuité
+    Serres : autorisées sans artificialisation des sols, hauteur limitée à 4 m, bâtiments liés limités à 4 m
+    Exploitation forestière : création uniquement en cas de relocalisation ou de regroupement ; aménagement
+    et extension des existants
+    Coopératives d'utilisation de matériel agricole (CUMA) agréées, sous réserve de réduction des impacts et
+    de compensation
+    Locaux techniques et industriels des administrations publiques et ouvrages spécifiques d'intérêt collectif,
+    sous réserve de réduction des impacts et de compensation
+    Équipements et ouvrages des concessionnaires de réseaux (eau, assainissement, électricité, gaz) sous
+    condition
+    Constructions et installations nécessaires à des équipements collectifs, si elles sont compatibles avec
+    l'activité agricole, pastorale ou forestière et ne portent pas atteinte aux espaces naturels et paysages
+    Locaux et installations de diversification de l'activité agricole, par rénovation, transformation, extension
+    mesurée ou aménagement de bâtiments existants (à défaut, local en continuité des bâtiments)
+    Camping à la ferme (jusqu'à 20 campeurs ou 6 tentes/caravanes, ou aires naturelles), lié à l'exploitation
+    Extensions des habitations existantes à la date d'approbation du PLUi-D, annexes (hors piscine) et piscines
+    Antennes relais de téléphonie mobile (hauteur limitée à 30 m)
+    Changement de destination des bâtiments identifiés au plan de zonage (art. L. 151-11), avis conforme de la
+    CDPENAF
+    Éolien de moins de 12 m de mât : interdit en Ap ; éolien de 12 à 50 m : uniquement en zone A sans indice
+    (donc interdit en Ap)
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           12 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.5 Usages interdits ou soumis à conditions
+    Hébergement, commerce de gros, cinéma, industrie, centre de congrès et d'expositions : interdits
+    Artisanat et commerce de détail, restauration, activités de services avec accueil de clientèle, locaux et
+    bureaux publics, établissements d'enseignement/santé, salles d'art et de spectacles, équipements sportifs,
+    autres équipements recevant du public, entrepôts, bureaux : interdits mais évolution possible des
+    constructions existantes si elle n'aggrave pas ou ne crée pas de nuisances
+    Habitat léger permanent (résidences démontables), stationnement isolé de caravanes/HLL/RML de plus de
+    3 mois, carrières, dépôts de déchets/ferrailles/matériaux de démolition : interdits
+    Affouillements et exhaussements : interdits sauf s'ils sont liés aux constructions et aménagements
+    autorisés dans la zone, compatibles avec la sauvegarde de l'environnement, ou liés à des fouilles
+    archéologiques ou à la restauration du milieu naturel
+    Toute création de construction ou installation (agricole, serres, forestière, CUMA, ouvrages d'intérêt
+    collectif, diversification, camping à la ferme, logements de fonction) est conditionnée à des impacts réduits
+    au strict nécessaire et à des mesures de compensation (renaturation, plantation…) si les impacts ne sont
+    pas suffisamment réduits
+    Extensions d'habitation : ne pas compromettre l'activité agricole ni la qualité paysagère ; plafonds : moins
+    de 90 m² de surface de plancher existante = 30 m² de surface de plancher ou 60 m² d'emprise au sol
+    supplémentaires ; 90 m² et plus = 50 m² de surface de plancher ou 70 m² d'emprise au sol ou 30 %
+    d'emprise au sol supplémentaire
+    Annexes (hors piscine) : 50 m² d'emprise au sol totale maximum, hauteur à l'égout n'excédant pas celle de
+    la construction principale, à 30 m maximum de la construction principale ; piscines : liées à une habitation
+    existante et à 30 m maximum de celle-ci
+    Les nouveaux bâtiments doivent s'implanter à proximité des bâtiments existants pour éviter le mitage, sauf
+    contraintes dûment motivées
+    Centrales photovoltaïques au sol : possibles uniquement sur sites pollués, anciennes décharges, carrières,
+    friches artificialisées ; agrivoltaïsme très encadré (maraîchage, arboriculture, viticulture, fruits ; panneaux
+    entre 2 m et 5 m de hauteur, panneaux verticaux interdits)
+    Zones humides, EBC, éléments de paysage protégés, risques d'inondation (règlement hors PPRi :
+    constructions nouvelles interdites en zone A inondable, extensions limitées à 20 m² d'emprise) : règles
+    complémentaires qui s'ajoutent à celles de la zone
+
+
+3.6 Points de vigilance pour votre projet
+    Vérifier sur le plan de zonage les surimpressions : zones humides (Marais poitevin), zones inondables, EBC,
+    haies et arbres protégés (L. 151-23), éléments patrimoniaux (L. 151-19), bâtiments pouvant changer de
+    destination (L. 151-11), emplacements réservés.
+    En Ap, toute création de construction ou d'installation nécessite de démontrer que les impacts sont réduits
+    au strict nécessaire et de prévoir des compensations (renaturation, plantation…).
+    Pas de logement neuf hors bâtiments existants/changement de destination, sauf logement de fonction
+    agricole strictement justifié (élevage, rayon de 100 m).
+    Extensions et annexes : vérifier les plafonds en surface de plancher/emprise au sol à compter de la date
+    d'approbation du PLUi-D (8 février 2024) et la distance de 30 m à la construction principale.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       13 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    Le règlement hors PPRi interdit les constructions nouvelles en zone A inondable (sauf exceptions agricoles
+    à moins de 50 m du site d'exploitation) et limite les extensions/annexes à 20 m² d'emprise, une seule
+    extension et une seule annexe pour un bâtiment d'habitation.
+    Distance de 5 m minimum par rapport aux voies et aux berges de cours d'eau ; vérifier l'absence de recul
+    spécifique le long des routes départementales (règles départementales) et des voies ferrées.
+    Photovoltaïque au sol, grand éolien et éolien moyen interdits en Ap ; agrivoltaïsme soumis à de fortes
+    conditions.
+    Le terrain est exposé à des risques ou nuisances éventuels : consulter les prescriptions sur le bruit des
+    infrastructures (RD 740 à Prahecq), les OAP et les servitudes d'utilité publique.
+    Les arbres têtards sont à conserver sur l'ensemble du territoire ; les haies protégées ne peuvent être
+    supprimées que sous compensation (rayon de 500 m).
+
+
+3.7 Extraits du règlement
+
+     III.3.1.A.b Zone Ap · page 81
+     « Le principe de cette zone est l’inconstructibilité. Toutefois, certaines constructions ou installations
+     peuvent être autorisées sous conditions »
+
+
+     III.3.1.B Logement · page 83
+     « Les nouveaux logements ne pourront être autorisés que dans les bâtiments d’habitation existants ou
+     par changement de destination. »
+
+
+     III.3.1.B Constructions et installations agricoles · page 84
+     « La création des constructions et installations agricoles n’est autorisée que dans le cas de : -
+     Relocalisation - Regroupement - Reprise d’une exploitation déjà en place mais sans reprise des
+     bâtiments existants »
+
+
+     III.3.1.B.d Extension d'une habitation · page 88
+     « Pour les constructions de moins de 90 m² de surface de plancher : 30 m² de surface de plancher ou
+     60 m² de surface d’emprise au sol supplémentaire »
+
+
+     III.3.1.C.a Hauteur des constructions · page 89
+     « La hauteur des constructions est limitée à 6 mètres à l’égout (R+1). »
+
+
+     III.3.1.C.b Implantation par rapport aux voies · page 89
+     « tout en respectant un retrait minimum de 5 mètres par rapport à l’alignement de la voie, sauf dans le
+     cas d’extension du bâti existant. »
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       14 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.8 Démarches probables
+    Permis de construire ou déclaration préalable selon la nature et la surface des travaux (extension, annexe,
+    bâtiment agricole)
+    Déclaration préalable obligatoire pour toute clôture (délibération du 8 février 2024)
+    Permis de démolir pour toute démolition de construction ou d'élément protégé
+    Avis conforme de la CDPENAF pour un changement de destination en zone agricole
+    Déclaration préalable pour la modification d'éléments protégés au titre de l'article L. 151-19
+    Étude de sol et de filière / consultation du service d'assainissement non collectif en l'absence de réseau
+    collectif
+    Justification des mesures d'évitement, de réduction et de compensation pour toute création en Ap
+    Étude pédologique et vérification des périmètres de zones humides, de zones inondables et de la trame
+    patrimoniale
+
+     Cette lecture est établie automatiquement, par intelligence artificielle, à partir du règlement officiel en
+     vigueur. Elle peut comporter des imprécisions : seul le texte du règlement, reproduit en annexe (pages
+     80 à 90 du document approuvé), fait foi, avec les dispositions générales, les orientations
+     d'aménagement et les servitudes.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       15 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                                    04 · Loi Littoral et loi Montagne
+
+
+
+
+   04              Loi Littoral et loi Montagne
+     DANS CETTE SECTION
+
+     Les lois nationales qui s'ajoutent au document d'urbanisme sur le littoral et en montagne. Elles
+     peuvent rendre un terrain inconstructible même en zone constructible.
+
+
+Les lois d'aménagement qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+
+
+4.1 Loi Littoral
+Commune littorale                                        Non
+
+Distance au rivage                                       Sans objet
+
+Bande des 100 mètres                                     Sans objet
+
+
+La commune n'est pas riveraine de la mer : la loi Littoral ne s'applique pas (sauf rives de grands lacs).
+
+
+4.2 Loi Montagne
+Commune en zone de montagne                              Non
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          16 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+   05              Risques naturels et technologiques
+     DANS CETTE SECTION
+
+     Les risques connus à l'adresse du terrain (inondation, feu de forêt, mouvement de terrain,
+     radon…) et les catastrophes naturelles reconnues sur la commune.
+
+
+Base nationale Géorisques (ministère de la Transition écologique).
+
+
+
+5.1 Risques naturels à l'adresse de la parcelle
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Inondation                                      Inconnu                                         Existant
+
+  Remontée de nappe                               Existant                                        Existant
+
+  Séisme                                          Existant – modéré                               Existant – modéré
+
+  Mouvement de terrain                            Inconnu                                         Existant
+
+  Retrait-gonflement des                          Non connu                                       Existant – important
+  argiles
+
+  Radon                                           Existant – faible                               Existant – faible
+
+
+
+
+5.2 Risques technologiques
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Installations industrielles                     Non concerné                                    Concerné
+  (ICPE)
+
+  Canalisations de matières                       Non concerné                                    Concerné
+  dangereuses
+
+  Pollution des sols                              Non connu                                       Concerné
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                    17 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Prahecq · ZT 86
+          TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.3 Indicateurs réglementaires
+Zone de sismicité                                        Zone 3 – moderee
+
+Potentiel radon                                          Catégorie 1 (potentiel faible)
+
+Retrait-gonflement des argiles                           Non connu
+
+Plans de prévention (PPR)                                La Guirande
+
+
+
+5.4 Arrêtés de catastrophe naturelle
+17 arrêtés de reconnaissance de l'état de catastrophe naturelle concernent la commune.
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Sécheresse                                                                01/07/2022 au 30/09/2022                       26/09/2023
+
+  Sécheresse                                                                01/01/2017 au 31/12/2017                       20/10/2018
+
+  Sécheresse                                                                01/04/2011 au 30/06/2011                       17/07/2012
+
+  Inondations et/ou Coulées de Boue                                         27/02/2010 au 01/03/2010                       02/03/2010
+
+  Mouvement de Terrain                                                      27/02/2010 au 01/03/2010                       02/03/2010
+
+  Sécheresse                                                                01/07/2005 au 30/09/2005                       22/02/2008
+
+  Sécheresse                                                                01/07/2003 au 30/09/2003                       26/08/2004
+
+  Mouvement de Terrain                                                      25/12/1999 au 29/12/1999                       30/12/1999
+
+  Inondations et/ou Coulées de Boue                                         25/12/1999 au 29/12/1999                       30/12/1999
+
+  Sécheresse                                                                01/01/1991 au 31/10/1996                       01/06/1997
+
+  Sécheresse                                                                01/05/1989 au 31/12/1990                       30/08/1991
+
+  Grêle                                                                     25/07/1983 au 26/07/1983                       11/09/1983
+
+  Tempête                                                                   25/07/1983 au 26/07/1983                       11/09/1983
+
+  Inondations et/ou Coulées de Boue                                         25/07/1983 au 26/07/1983                       11/09/1983
+
+  Inondations et/ou Coulées de Boue                                         25/07/1983 au 26/07/1983                       08/10/1983
+
+  Inondations et/ou Coulées de Boue                                         01/04/1983 au 28/04/1983                       18/05/1983
+
+  Inondations et/ou Coulées de Boue                                         08/12/1982 au 31/12/1982                       13/01/1983
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            18 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.5 Installations classées à proximité (moins de 1 km)
+    GAEC LA LOUGNOLLE · Autres régimes
+    EARL FONDEROCHE · Enregistrement · En exploitation avec titre
+
+
+5.6 Sites et sols pollués à proximité
+    Station service · ancien site industriel ou d'activité de service (CASIAS)
+
+
+5.7 Rapport officiel Géorisques
+Les risques recensés ci-dessus proviennent des bases officielles de Géorisques, service public d'information
+sur les risques. Le rapport officiel complet peut être édité gratuitement, à tout moment et à jour, à partir de
+l'adresse du terrain sur le site Géorisques.
+
+
+    Éditer le rapport officiel Géorisques
+
+
+Lors d'une vente ou d'une location, le vendeur ou le bailleur doit remettre un état des risques de moins de six mois,
+complété et signé, et l'information sur les sinistres indemnisés au titre des catastrophes naturelles.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                    19 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+   06              Le terrain : accès, relief et réseaux
+     DANS CETTE SECTION
+
+     Les contraintes physiques du terrain : accès à une voie, pente et exposition, assainissement,
+     raccordement à l'électricité et à l'eau, fibre. Ce sont elles qui pèsent le plus sur le coût d'un
+     projet.
+
+
+Voirie (IGN, BD TOPO), altimétrie (IGN, RGE ALTI), règlement de la zone, réseau électrique (Agence ORE) et éligibilité
+internet (Arcep).
+
+
+
+6.1 Accès
+Accès direct à une voie                                  Oui
+
+Voie                                                     Route à 1 chaussée · rue de la Lougnolle
+
+Largeur de chaussée                                      5m
+
+Accès des véhicules                                      Libre
+
+
+La parcelle touche une voie carrossable. L'autorisation d'urbanisme vérifiera que l'accès est adapté au projet et sûr,
+et peut imposer une permission de voirie ou un aménagement de l'entrée.
+
+
+6.2 Relief et exposition
+Pente moyenne                                            0%
+
+Exposition                                               Terrain plat
+
+Altitude                                                 36 à 37 m
+
+Appréciation                                             Terrain plat ou presque plat
+
+
+
+
+ 38 m
+
+
+
+ 36 m
+
+
+           Coupe du terrain dans le sens de la pente · longueur 181 m
+
+
+     Terrassements limités ; pas de surcoût notable lié au relief.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      20 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Prahecq · ZT 86
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.3 Ensoleillement
+Appréciation                                             Très bien ensoleillé
+
+Soleil direct le 21 juin                                 15 h 30 (de 06 h 30 à 21 h 50)
+
+Soleil direct aux équinoxes                              11 h 48 (de 07 h 20 à 19 h 00)
+
+Soleil direct le 21 décembre                             8 h 18 (de 08 h 50 à 17 h 00)
+
+Ensoleillement annuel possible                           4 331 h par an, soit 98 % du maximum à cette latitude
+
+Hauteur du relief vers le sud                            2°
+
+
+ 75°
+
+
+
+ 60°
+
+
+
+ 45°
+
+
+
+ 30°
+
+
+
+ 15°
+
+
+
+ 0°
+                                Est                  Sud-est                    Sud                 Sud-ouest               Ouest
+
+          21 juin          Équinoxes               21 décembre                 Horizon : relief et bâtiments voisins
+
+
+
+       Le relief et les constructions voisines ne masquent presque pas le soleil : le terrain profite de la
+       quasi-totalité de l'ensoleillement possible à cette latitude.
+
+
+
+Ensoleillement mois par mois (le 21 de chaque mois)
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Janvier                         9h                                 8 h 48                                    08 h 50 – 17 h 30
+
+  Février                         10 h 42                            10 h 12                                   08 h 10 – 18 h 10
+
+  Mars                            12 h 12                            11 h 48                                   07 h 20 – 19 h 00
+
+  Avril                           13 h 48                            13 h 42                                   07 h 20 – 20 h 50
+
+  Mai                             15 h                               14 h 48                                   06 h 40 – 21 h 20
+
+  Juin                            15 h 42                            15 h 30                                   06 h 30 – 21 h 50
+
+  Juillet                         15 h                               14 h 48                                   06 h 50 – 21 h 30
+
+  Août                            13 h 42                            13 h 42                                   07 h 20 – 20 h 50
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        21 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Septembre                       12 h                               11 h 42                                   08 h 10 – 19 h 40
+
+  Octobre                         10 h 18                            10 h 12                                   08 h 40 – 18 h 40
+
+  Novembre                        9h                                 8 h 48                                    08 h 20 – 17 h 00
+
+  Décembre                        8 h 30                             8 h 18                                    08 h 50 – 17 h 00
+
+
+
+Calcul théorique par ciel dégagé, au centre de la parcelle et à hauteur d'homme : course du soleil heure par heure, masque du relief
+sur 6 km (IGN, RGE ALTI) et des bâtiments voisins sur 120 m (IGN, BD TOPO, 7 bâtiments pris en compte). La végétation et les
+constructions récentes ne sont pas prises en compte.
+
+
+6.4 Quel raccordement pour les eaux usées ?
+Raccordement à prévoir                                       Assainissement individuel probable
+
+Zone du PLU                                                  Ap · Agricole
+
+Zonage d'assainissement                                      Non publié au Géoportail de l'Urbanisme (consultable en mairie)
+
+Réseau collectif sur la commune                              Oui · COMMUNAUTE D'AGGLOMERATION DU NIORTAIS · régie
+                                                             publique
+
+
+     Le terrain est hors zone urbaine (zone Ap) : ces secteurs sont rarement desservis par le réseau public.
+     Sauf canalisation existante dans la voie, prévoyez une fosse toutes eaux avec épandage ou une
+     micro-station agréée.
+
+
+
+Ce que dit le règlement de la zone
+Raccordement obligatoire au réseau d'assainissement collectif lorsqu'il existe (sauf impossibilité technique
+démontrée, auquel cas un assainissement non collectif est exigé). En l'absence de réseau, installation individuelle
+conforme à la réglementation, définie par une étude de sols et de filière (ou d'incidence/impact selon la capacité) ; la
+construction doit être implantée de façon à réserver une superficie suffisante pour le dispositif autonome. Aucune
+surface minimale de terrain n'est fixée. Le règlement ne mentionne pas expressément l'avis du SPANC mais renvoie
+à la réglementation en vigueur. Rejet direct d'eaux usées non traitées dans les rivières, fossés ou égouts pluviaux
+interdit.
+
+Ce que cela coûte
+Assainissement individuel : 5 000 à 15 000 € selon la filière (détail ci-dessous), plus l'étude de sol à la parcelle (500 à
+1 000 €). Étapes : étude de sol, puis avis favorable du SPANC sur le projet, à joindre à la demande de permis de
+construire. Besoin d'un installateur agréé ? Nous vous mettons en relation : contact@terrenurbanisme.com.
+
+Qui contacter pour obtenir la confirmation
+Service d'assainissement                                     COMMUNAUTE D'AGGLOMERATION DU NIORTAIS
+
+Mairie                                                       Mairie de Prahecq
+
+Téléphone                                                    05 49 26 47 55
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      22 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+E-mail                                                       accueil@mairie-prahecq.fr
+
+
+    Demandez au service d'assainissement, avec la référence cadastrale, si une canalisation publique passe au droit
+    du terrain, à quelle profondeur, et le montant de la PFAC. Sa réponse écrite vaut attestation de raccordabilité.
+    Certificat d'urbanisme opérationnel (formulaire Cerfa 13410, gratuit) : la mairie y indique officiellement si le
+    terrain est desservi par le réseau d'assainissement.
+    Plan des réseaux : la présence des canalisations enterrées près du terrain peut être vérifiée sur
+    reseaux-et-canalisations.gouv.fr, le guichet unique des réseaux.
+Sources : zonage d'assainissement et règlement (Géoportail de l'Urbanisme) ; services publics d'assainissement (SISPEA, Office
+français de la biodiversité) ; annuaire de l'administration (service-public.fr).
+
+Les solutions d'assainissement individuel
+  FILIÈRE                                    QUAND ELLE CONVIENT                                                           ORDRE DE PRIX
+
+  Fosse toutes eaux et                       Sol perméable, terrain assez grand et peu pentu                               5 000 à 10 000 €
+  épandage
+
+  Filtre à sable                             Sol peu perméable, place suffisante                                           8 000 à 12 000 €
+
+  Micro-station agréée                       Petit terrain ou sol défavorable ; entretien et électricité                   7 000 à 15 000 €
+
+  Filtre compact agréé                       Petit terrain, sans électricité                                               9 000 à 14 000 €
+
+
+
+Ordres de prix indicatifs (fourniture et pose, hors étude de sol et terrassements particuliers). La filière est choisie au vu de l'étude
+de sol et validée par le SPANC.
+
+
+6.5 Électricité et eau potable
+Gestionnaire du réseau                                       GÉRÉDIS
+
+Réseau basse tension le plus proche                          à environ 25 m (ligne aérienne)
+
+Ligne aérienne la plus proche                                à environ 25 m
+
+Ligne souterraine la plus proche                             à environ 160 m
+
+Poste de transformation le plus proche                       à environ 25 m
+
+Appréciation                                                 Branchement simple probable
+
+
+     Le réseau basse tension passe à environ 25 m : un branchement simple est en principe possible (de
+     l'ordre de 1 500 à 3 000 € pour une maison, selon la longueur et la puissance), sous réserve de la
+     capacité du réseau et des coffrets existants.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           23 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+Ce qu'il faut vérifier avant d'acheter
+    La capacité du réseau : même un réseau proche peut être saturé (coffret ou câble plein, poste de transformation
+    au maximum). Seule une étude du gestionnaire permet de le savoir ; c'est la cause la plus fréquente de surcoûts
+    imprévus.
+    Électricité : demander au gestionnaire du réseau une étude de raccordement ou un devis à partir de l'adresse et
+    du plan de situation (gratuit). Elle indique le type de raccordement, son coût et son délai.
+    Eau potable : les plans du réseau d'eau ne sont pas publics. Interroger le service des eaux (coordonnées
+    ci-dessous) sur la présence d'une canalisation au droit du terrain, sa capacité et le coût du branchement, ainsi
+    que sur la défense incendie (borne à moins de 200 m environ).
+    Certificat d'urbanisme opérationnel : la mairie y indique si le terrain est desservi par les réseaux publics (eau,
+    électricité, assainissement) et, à défaut, si et quand ils seront étendus. Un refus de permis peut être fondé sur
+    l'insuffisance des réseaux (article L. 111-11 du Code de l'urbanisme).
+
+Qui contacter
+Service de l'eau potable                                     SERTAD Syndicat d’eau potable de la ressource, traitement,
+                                                             analyses et distribution
+
+Mode de gestion                                              Régie publique
+
+Contact pour le branchement                                  SERTAD Syndicat d’eau potable de la ressource, traitement,
+                                                             analyses et distribution
+
+Mairie                                                       Mairie de Prahecq
+
+Téléphone de la mairie                                       05 49 26 47 55
+
+E-mail de la mairie                                          accueil@mairie-prahecq.fr
+
+Électricité (raccordement)                                   GÉRÉDIS
+
+La mairie oriente vers le bon interlocuteur et confirme, dans le certificat d'urbanisme, la desserte du terrain par les réseaux.
+Sources : SISPEA, observatoire des services publics d'eau (OFB) ; annuaire de l'administration (service-public.fr).
+
+Dans une promesse de vente, une condition suspensive portant sur le coût du raccordement aux réseaux protège
+l'acquéreur. Source de la cartographie électrique : Agence ORE, données des gestionnaires de réseaux de distribution ;
+tracés indicatifs.
+
+
+6.6 Fibre et internet
+     La fibre est déployée dans le secteur, la plus proche à 180 m (24 rue du bon retour) : le raccordement
+     d'une construction neuve suppose une extension du réseau, à demander à l'opérateur.
+
+
+
+Adresse la plus proche                                          24 rue du bon retour · à 180 m · raccordable
+
+Point fibré le plus proche                                      24 rue du bon retour · à 180 m
+
+Adresses fibrées à moins de 100 m                               Aucune adresse recensée
+
+Adresses fibrées à moins de 400 m                               52 sur 63
+
+Technologies disponibles à proximité                            4G fixe, Fibre, Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      24 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Prahecq · ZT 86
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+     Points fibrés autour du terrain
+
+                                                                                        F
+                    F           F
+                                        F
+                            F                   F
+                    F            F                      F
+                                            F
+            F
+                        F                               F
+                                     F          F
+        F
+                                        F
+            F                                       F
+                                                F
+                                                    F
+                                                        F           F
+                F
+                             F
+                            F
+                                                    F
+                    F               F
+                            F                               F
+                                            F
+                                                                F
+                                                    F                   F
+                            F                           F
+                                                                            F
+                                                                                F
+                                                                    F
+                                                                            F       F
+                                                                                                                                   F
+                                                                        F                                                              100 m
+
+
+
+Repères F : adresses déclarées raccordables à la fibre (Arcep) · en terracotta : sur la parcelle · fond © IGN
+
+
+Vérifiez la fibre à l'adresse du terrain :
+
+                                 Carte fibre Orange                                                      Carte de l'Arcep
+
+
+  DISTANCE                      ADRESSE                                                        FIBRE              AUTRES ACCÈS
+
+  180 m                         24 rue du bon retour                                           Oui                4G fixe, Satellite
+
+  196 m                         19 rue du bon retour                                           Oui                4G fixe, Satellite
+
+  239 m                         32 Rue du Château de la Voûte                                  Oui                4G fixe, Satellite
+
+  246 m                         34 Rue du Château de la Voûte                                  Oui                4G fixe, Satellite
+
+  249 m                         30 Rue du Château de la Voûte                                  Oui                4G fixe, Satellite
+
+  249 m                         16 Rue de la Croix Naslin                                      Oui                4G fixe, Satellite
+
+  252 m                         10 Rue de la Croix Naslin                                      Oui                4G fixe, Satellite
+
+  254 m                         32 bis Rue du Château de la Voûte                              Oui                4G fixe, Satellite
+
+
+
+Source : Arcep, « Ma connexion internet », éligibilité déclarée par les opérateurs, adresse par adresse. Le tracé des câbles n'est
+pas public : la présence de la fibre en limite de terrain se vérifie auprès de l'opérateur ou par une déclaration de projet de travaux
+(DT).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             25 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.7 Qui contacter pour les réseaux
+  RÉSEAU                                    INTERLOCUTEUR                                         CE QU'IL FAUT DEMANDER
+
+  Eau potable et                            Mairie ou service des eaux de la                      Attestation de desserte et conditions de
+  assainissement collectif                  commune                                               raccordement
+
+  Assainissement individuel                 SPANC (communauté de communes)                        Contrôle de conception sur la base de l'étude
+                                                                                                  de sol
+
+  Électricité                               Enedis (gestionnaire du réseau de                     Étude de raccordement et devis
+                                            distribution)
+
+  Fibre et téléphone                        Opérateur d'infrastructure et                         Raccordement du futur logement
+                                            fournisseur d'accès
+
+  Tous réseaux                              Guichet unique des réseaux                            Déclaration de projet de travaux (DT) pour
+                                            (reseaux-et-canalisations.gouv.fr)                    localiser les réseaux existants
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        26 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                               07 · Conditions de vente du terrain
+
+
+
+
+    07             Conditions de vente du terrain
+     DANS CETTE SECTION
+
+     Terrain agricole ou naturel : droit de préemption de la SAFER, fermier en place, autorisation
+     d'exploiter et repère officiel de prix.
+
+
+Terrain situé en zone Ap : vente encadrée par le code rural et de la pêche maritime.
+
+
+
+7.1 Pourquoi aucune fourchette de prix n'est donnée
+La parcelle est classée en zone Ap (agricole), où les constructions nouvelles ne sont en principe pas admises.
+Sa valeur ne se déduit pas des ventes de terrains à bâtir du secteur : elle dépend de l'usage agricole ou naturel
+du sol, de sa qualité, de son accès, de l'eau disponible et de l'existence éventuelle d'un bail rural. Une
+estimation automatique serait trompeuse : la valeur doit être établie au cas par cas par un notaire ou un expert
+foncier et agricole.
+
+
+7.2 Le droit de préemption de la SAFER
+Principe                                        La vente d'un terrain agricole ou naturel est en principe soumise au droit de
+                                                préemption de la SAFER (articles L. 143-1 et suivants du code rural et de la
+                                                pêche maritime). Une surface minimale, fixée par département, peut en
+                                                exclure les plus petites parcelles.
+
+Information obligatoire                         Le notaire informe la SAFER du projet de vente au moins deux mois avant la
+                                                signature : prix, conditions et identité de l'acquéreur.
+
+Ce que peut faire la SAFER                      Renoncer, acheter au prix et aux conditions notifiés, ou proposer un prix
+                                                inférieur si elle estime le prix exagéré. Le vendeur peut alors accepter,
+                                                retirer son terrain de la vente ou demander au tribunal judiciaire de fixer le
+                                                prix.
+
+Pourquoi elle intervient                        Installation de jeunes agriculteurs, consolidation des exploitations,
+                                                protection de l'environnement et des paysages, lutte contre la spéculation
+                                                foncière.
+
+
+
+7.3 Les autres règles à connaître
+Fermier en place                                Si le terrain est loué par bail rural, l'exploitant en place bénéficie d'un droit
+                                                de préemption prioritaire, avant la SAFER.
+
+Autorisation d'exploiter                        Un acquéreur qui souhaite exploiter le terrain peut devoir obtenir une
+                                                autorisation d'exploiter auprès de la DDT(M), selon le schéma directeur
+                                                régional des exploitations agricoles.
+
+Espace naturel sensible                         Dans un espace naturel sensible, le département peut également disposer
+                                                d'un droit de préemption.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       27 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                               07 · Conditions de vente du terrain
+
+
+
+
+Constructions                                   Seules les constructions nécessaires à l'exploitation agricole ou forestière,
+                                                ou à des équipements collectifs, sont en règle générale admises : l'achat ne
+                                                donne pas de droit à bâtir une habitation.
+
+
+
+7.4 Repère officiel de prix
+Le ministère de l'Agriculture publie chaque année le barème indicatif de la valeur vénale moyenne des terres
+agricoles, par région agricole et par nature de culture (arrêté publié au Journal officiel). C'est la référence à
+consulter, avec l'avis d'un notaire ou d'un expert foncier et agricole, avant de fixer un prix.
+
+     Avant toute mise en vente, rapprochez-vous de votre notaire : il notifie la vente à la SAFER, vérifie
+     l'existence d'un bail et sécurise le calendrier de la transaction.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       28 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+   08              Environnement et marché immobilier
+     DANS CETTE SECTION
+
+     Les espaces naturels protégés autour du terrain et les prix de vente réels des maisons,
+     appartements et terrains alentour.
+
+
+Inventaire national du patrimoine naturel et demandes de valeurs foncières (DVF).
+
+
+
+8.1 Espaces naturels protégés ou inventoriés
+  TYPE                                                      NOM DU SITE
+
+  Natura 2000 (directive Oiseaux)                           Plaine de Niort Sud-Est
+
+  ZNIEFF de type 2                                          PLAINE DE NIORT SUD EST
+
+
+
+La présence d'un site Natura 2000 peut imposer une évaluation des incidences avant certains travaux. Une ZNIEFF
+est un inventaire scientifique sans portée réglementaire directe, mais elle signale un intérêt écologique pris en
+compte dans l'instruction des autorisations.
+
+
+8.2 Espèces protégées observées près du terrain
+106 espèces protégées ont été observées dans un rayon de 1 km autour du terrain depuis 1990 ; les 14 plus
+fréquemment signalées figurent ci-dessous.
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Busard cendré (Circus pygargus)                                 Oiseau                 Nationale (espèce et              126 · dernière en
+                                                                                         habitat)                          2021
+
+  Buse commune (Buteo buteo)                                      Oiseau                 Nationale (espèce et              48 · dernière en
+                                                                                         habitat)                          2025
+
+  Corneille noire (Corvus corone)                                 Oiseau                 Nationale (espèce et              37 · dernière en
+                                                                                         habitat)                          2026
+
+  Cresserelle (Falco tinnunculus)                                 Oiseau                 Nationale (espèce et              37 · dernière en
+                                                                                         habitat)                          2021
+
+  Busard Saint-Martin (Circus cyaneus)                            Oiseau                 Nationale (espèce et              33 · dernière en
+                                                                                         habitat)                          2023
+
+  Pinson des arbres (Fringilla coelebs)                           Oiseau                 Nationale (espèce et              31 · dernière en
+                                                                                         habitat)                          2026
+
+  Moineau domestique (Passer                                      Oiseau                 Nationale (espèce et              25 · dernière en
+  domesticus)                                                                            habitat)                          2025
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         29 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Rouge-gorge familier (Erithacus                                 Oiseau                 Nationale (espèce et              24 · dernière en
+  rubecula)                                                                              habitat)                          2026
+
+  Courlis de terre (Burhinus oedicnemus)                          Oiseau                 Nationale (espèce et              23 · dernière en
+                                                                                         habitat)                          2021
+
+  Linotte des vignes (Linaria cannabina)                          Oiseau                 Nationale (espèce et              23 · dernière en
+                                                                                         habitat)                          2021
+
+  Héron cendré (Ardea cinerea)                                    Oiseau                 Nationale (espèce et              22 · dernière en
+                                                                                         habitat)                          2025
+
+  Mésange charbonnière (Parus major)                              Oiseau                 Nationale (espèce et              21 · dernière en
+                                                                                         habitat)                          2026
+
+  Bergeronnette grise (Motacilla alba)                            Oiseau                 Nationale (espèce et              20 · dernière en
+                                                                                         habitat)                          2021
+
+  Motteux cendré (Oenanthe oenanthe)                              Oiseau                 Nationale (espèce et              19 · dernière en
+                                                                                         habitat)                          2021
+
+
+
+     Une observation à proximité ne signifie pas que l'espèce vit sur le terrain. Mais si elle y est présente, il
+     est interdit de détruire, capturer ou déranger les individus et, pour la plupart de ces espèces, de
+     détruire leurs lieux de reproduction et de repos (articles L. 411-1 et suivants du Code de
+     l'environnement). L'infraction est punie de 3 ans d'emprisonnement et 150 000 € d'amende.
+
+
+
+Que faire avant de construire ?
+    Pour une maison individuelle, aucune étude écologique n'est imposée en règle générale, et l'étude de sol porte
+    sur le terrain (fondations), pas sur la faune ni la flore. Vous restez cependant responsable si une espèce
+    protégée vit sur la parcelle : en cas de doute (espèce observée tout près, vieux arbres, murets, maquis, zone
+    humide), faites passer un écologue avant de défricher.
+    Si un enjeu est confirmé : inventaire faune-flore aux saisons utiles (printemps et été en général), puis mesures
+    pour éviter et réduire l'impact : implantation de la maison sur la partie la moins sensible, travaux hors période de
+    reproduction, clôture de chantier adaptée, déplacement d'individus par un spécialiste habilité.
+    Si la destruction d'individus ou d'habitats ne peut pas être évitée : demande de dérogation « espèces protégées »
+    auprès de la préfecture (DREAL), avec avis du conseil scientifique. Comptez 4 à 12 mois d'instruction, à anticiper
+    avant le dépôt du permis.
+
+Combien prévoir ?
+Pré-diagnostic écologique                                800 à 2 000 € (une visite et une note de synthèse)
+
+Inventaire faune-flore                                   3 000 à 10 000 € selon la surface et le nombre de passages
+
+Mesures d'évitement et de réduction                      500 à 5 000 € (balisage, calendrier, suivi de chantier)
+
+Dossier de dérogation                                    8 000 à 25 000 €, hors mesures de compensation éventuelles
+
+Ordres de prix indicatifs, honoraires de bureaux d'études en environnement, si une étude est nécessaire. Pour une maison sur un
+terrain déjà entouré de constructions, aucune étude n'est le plus souvent requise.
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         30 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+Sources : statuts de protection TAXREF et base de connaissance des statuts (INPN, Muséum national d'Histoire naturelle) ;
+observations naturalistes GBIF, qui rassemble notamment les données de l'INPN et du SINP.
+
+
+8.3 Prix de l'immobilier à Prahecq
+Prix au mètre carré des ventes enregistrées sur la commune au cours des cinq dernières années publiées.
+Seules les ventes portant sur un bien unique sont retenues.
+
+  TYPE DE BIEN                                       VENTES                       €/M² MÉDIAN                              €/M² MOYEN
+
+  Maisons                                            111                          1 646 €/m²                               1 658 €/m²
+
+  Locaux commerciaux                                 9                            704 €/m²                                 679 €/m²
+
+
+
+Source : statistiques des demandes de valeurs foncières (DGFiP, Etalab). Prix des actes, hors frais : un ordre de grandeur,
+pas une estimation du bien.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            31 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                                             09 · Historique du site
+
+
+
+
+   09              Historique du site
+     DANS CETTE SECTION
+
+     Le terrain vu du ciel au fil des décennies et les permis de construire accordés autour : l'évolution
+     du secteur en un coup d'œil.
+
+
+Photographies aériennes de l'IGN et permis de construire délivrés (Sitadel).
+
+
+
+9.1 Le terrain vu du ciel, d'hier à aujourd'hui
+
+    1950-1965                                             2000-2005                                              2006-2010
+
+
+
+
+    2011-2015                                             Aujourd'hui
+
+
+
+
+Ces vues montrent l'évolution du terrain et du quartier, des années 1950 à aujourd'hui (photographies aériennes de l'IGN).
+
+     Bon à savoir : l'existence ancienne d'une construction peut ouvrir, sous conditions, un droit à
+     reconstruire ou à restaurer un bâtiment dont il reste l'essentiel des murs porteurs (articles L. 111-15 et L.
+     111-23 du Code de l'urbanisme).
+
+
+
+
+9.2 Permis de construire délivrés autour du terrain
+Autorisations sur la commune (3 ans)                                    19 · dernière recensée le 01/09/2026
+
+Logements autorisés (3 ans)                                             27
+
+Dont maisons individuelles                                              18
+
+Autorisations dans la section ZT                                        0 depuis 2013
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         32 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                                             09 · Historique du site
+
+
+
+
+Permis accordés à moins de 500 m du terrain
+  DATE                 AUTORISATION                       PARCELLE          DISTANCE         LOGTS        SURFACE          LIEU-DIT / VOIE
+
+  01/09/2026           Permis de construire               AH 354            390 m            1            145,91 m²        RUE DE LA CROIX NASLIN
+
+  03/08/2026           Permis de construire               AH 357            430 m            1            83,16 m²         LE CLOS DE BIMARD
+
+  03/08/2026           Permis de construire               AE 94             450 m            1            86 m²            RUE DU BON RETOUR
+
+  03/08/2026           Permis de construire               AH 361            340 m            1            82,23 m²         RUE DE LA CROIX NASLIN
+
+  20/07/2026           Permis de construire               AH 352            380 m            1            91,11 m²         RUE DE LA CROIX NASLIN
+
+  29/06/2026           Permis de construire               AH 365            390 m            1            98,7 m²          RUE DE LA CROIX NASLIN
+
+  04/05/2026           Permis de construire               AH 363            360 m            1            65,81 m²         RUE DE LA CROIX NASLIN
+
+  19/01/2026           Permis de construire               AH 358            440 m            1            89 m²            LOTISSEMENT ""LE CLOS
+                                                                                                                           DE BI
+
+  15/01/2026           Permis de construire               AH 351            380 m            1            80 m²            RUE DE LA CROIX NASLIN
+
+  31/03/2025           Permis de construire               AI 32             430 m            1            152 m²           RUE DU CHATEAU DE LA
+                                                                                                                           VOUTE
+
+  15/05/2023           Permis de construire               AH 330            470 m            1            97 m²            LA BETE
+
+  03/01/2022           Permis de construire               AH 329            490 m            1            117 m²           LOTISSEMENT DE LA
+                                                                                                                           BRUYERE
+
+  24/11/2021           Permis de construire               AH 220            370 m            1            140 m²           RUE DE BON RETOUR
+
+  20/09/2021           Permis de construire               AH 331            500 m            1            121 m²           LOTISSEMENT DE LA
+                                                                                                                           BRUYERE
+
+  10/09/2021           Permis de construire               AH 332            460 m            1            97 m²            LOTISSEMENT LA
+                                                                                                                           BRUYERE
+
+
+
+16 autorisations créant des logements recensées dans un rayon de 500 m : la construction a été admise récemment
+dans le voisinage immédiat.
+
+Source : base Sitadel des autorisations d'urbanisme créant des logements (SDES). Un permis accordé à proximité montre
+que des constructions ont été admises dans le secteur, sans préjuger de la décision sur votre propre projet.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          33 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Prahecq · ZT 86
+          TerrenUrbanisme
+                                                                                                              10 · Opportunités autour du terrain
+
+
+
+
+    10             Opportunités autour du terrain
+     DANS CETTE SECTION
+
+     Ce qui se passe autour de la parcelle : grands terrains peu bâtis, sociétés propriétaires en
+     difficulté, logements énergivores. Des pistes pour un investisseur, un voisin ou un professionnel.
+
+
+Bodacc (procédures collectives), ADEME (diagnostics énergétiques), cadastre, BD TOPO et Géoportail de l'Urbanisme.
+
+
+
+10.1 Grands terrains peu bâtis à proximité
+Parcelles de plus de 1 200 m², situées en zone urbaine ou à urbaniser du PLU, dans un rayon de 250 m, dont
+moins de 8 % de la surface est bâtie, hors terrains publics : un potentiel de construction ou de division à
+étudier.
+
+  PARCELLE           SURFACE                BÂTI               ZONE               DISTANCE           PROPRIÉTAIRE
+
+  AI 9               7 982 m²               non bâti           1AUH               360 m              particulier (non publié)
+
+  AI 29              3 653 m²               non bâti           UA                 370 m              particulier (non publié)
+
+  AI 50              3 007 m²               144 m²             UB                 240 m              particulier (non publié)
+
+  AI 42              2 764 m²               non bâti           UE                 350 m              particulier (non publié)
+
+
+
+Ces informations proviennent de bases publiques et ne préjugent ni de l'intention de vendre des propriétaires ni de la
+constructibilité des parcelles citées, qui relève d'une étude au cas par cas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      34 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Prahecq · ZT 86
+           TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+      11           Votre projet, étape par étape
+De l'achat du terrain à la déclaration aux impôts : démarches, délais, coûts et contacts.
+
+
+
+11.1 Analyse
+Le terrain est soumis au plan local d'urbanisme intercommunal (PLUi) de Prahecq. Il est classé en zone
+Ap. Zone agricole : secteur protégé en raison du potentiel agronomique, biologique ou économique des
+terres. Seules y sont admises les constructions et installations nécessaires à l'exploitation agricole et
+aux services publics, ainsi que l'extension limitée des habitations existantes.
+
+En l'état, une construction nouvelle n'est pas possible. Seules des évolutions limitées peuvent être
+envisagées selon le règlement de la zone (extension mesurée d'une habitation existante, annexes,
+équipements publics). Le classement ne peut évoluer qu'à l'occasion d'une modification ou d'une révision
+du document d'urbanisme, à l'initiative de la commune.
+
+
+11.2 Votre projet, étape par étape
+Les étapes ci-dessous suivent l'ordre réel d'un projet de construction, de l'achat du terrain à la déclaration aux
+impôts. Les montants sont indicatifs et à confirmer par devis.
+
+  1      Avant d'acheter le terrain
+         Vérifiez les règles de la zone (chapitres précédents), puis demandez un certificat d'urbanisme opérationnel
+         (Cerfa 13410, sans frais, réponse sous 2 mois) : il fige les règles pendant 18 mois. En zone d'argiles d'aléa
+         moyen ou fort, le vendeur doit fournir une étude de sol préalable.
+         Contact : Mairie de Prahecq · 05 49 26 47 55 · accueil@mairie-prahecq.fr · formulaire sur service-public.fr
+         (rechercher « Cerfa 13410 »)
+
+  2      Les études
+         Étude de sol géotechnique (G2) pour dimensionner les fondations : 1 500 à 3 000 €. Étude thermique RE2020,
+         obligatoire pour le permis : 500 à 1 500 €. Bornage par un géomètre si les limites sont incertaines. L'étude de
+         sol ne porte pas sur les espèces protégées : un écologue n'intervient qu'en cas d'enjeu (chapitre
+         Environnement).
+         Géomètres proches du terrain : liste à la fin de ce chapitre
+
+  3      Les plans
+         Architecte obligatoire si la surface de plancher totale dépasse 150 m². En dessous, vous pouvez dessiner les
+         plans vous-même ou faire appel à un dessinateur ou maître d'œuvre (environ 1 500 à 4 000 € le dossier de
+         permis). Architecte : 3 000 à 8 000 € pour la seule mission de permis, 8 à 12 % du coût des travaux pour une
+         mission complète avec suivi du chantier.
+         Trouver un architecte : annuaire de l'Ordre des architectes sur architectes.org
+
+  4      Déposer le permis
+         Formulaire Cerfa 13406 (maison individuelle) et pièces PCMI1 à PCMI8 : plan de situation, plan de masse,
+         coupe, notice, plans des façades et toitures, insertion dans le paysage, photos, attestation RE2020. Dépôt en
+         mairie ou en ligne sur le guichet numérique de la commune. La mairie a 1 mois pour réclamer une pièce
+         manquante ; l'instruction dure 2 mois à partir du dossier complet, plus en secteur protégé.
+         Dépôt : Mairie de Prahecq · 05 49 26 47 55 · accueil@mairie-prahecq.fr · formulaire sur service-public.fr
+         (rechercher « Cerfa 13406 »)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         35 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+  5      Affichage et recours
+         Dès l'accord, installez le panneau de permis sur le terrain, lisible depuis la voie, pendant toute la durée du
+         chantier. Les tiers ont 2 mois à compter du premier jour d'affichage pour contester ; la mairie peut retirer un
+         permis illégal pendant 3 mois. Faites constater l'affichage par un commissaire de justice (environ 300 à 600 €
+         pour les trois constats).
+         Commissaires de justice : annuaire sur commissaire-justice.fr
+
+  6      Avant les travaux
+         Souscrivez l'assurance dommages-ouvrage, obligatoire (souvent 2 à 4 % du coût de la construction). Signez
+         le contrat de construction de maison individuelle ou les marchés des artisans. Déposez la déclaration
+         d'ouverture de chantier (Cerfa 13407) le jour du démarrage. Le permis est valable 3 ans, prorogeable deux
+         fois d'un an.
+         Déclaration d'ouverture : Mairie de Prahecq · 05 49 26 47 55 · accueil@mairie-prahecq.fr
+
+  7      Le financement
+         La banque débloque le prêt au fur et à mesure du chantier, sur présentation des factures des entreprises ou
+         des appels de fonds du constructeur. Avec un contrat de construction de maison individuelle, l'échéancier
+         est encadré par la loi : 15 % à l'ouverture du chantier, 25 % aux fondations, 40 % aux murs, 60 % hors d'eau,
+         75 % hors d'air et cloisons, 95 % aux équipements, le solde à la réception. Des intérêts intercalaires peuvent
+         courir sur les sommes débloquées.
+         Votre banque ou votre courtier
+
+  8      La fin du chantier
+         Réception des travaux avec le constructeur ou les artisans, avec réserves si nécessaire. Déposez ensuite la
+         déclaration attestant l'achèvement et la conformité des travaux (DAACT, Cerfa 13408), avec l'attestation
+         RE2020 de fin de chantier. La mairie a 3 mois pour la contester (5 mois en secteur protégé).
+         Dépôt : Mairie de Prahecq · 05 49 26 47 55 · accueil@mairie-prahecq.fr
+
+  9      Les impôts
+         Dans les 90 jours suivant l'achèvement, déclarez la construction sur impots.gouv.fr, espace « Gérer mes
+         biens immobiliers ». Cette déclaration sert au calcul de la taxe d'aménagement (payée en une fois sous 1 500
+         €, sinon en deux fois, estimation plus bas dans ce chapitre) et de la taxe foncière, avec une exonération
+         possible les deux premières années selon la commune.
+         impots.gouv.fr › Espace particulier › Gérer mes biens immobiliers
+
+
+11.3 Les points à vérifier pour ce terrain
+  1      Certificat d'urbanisme opérationnel
+         Le demander en mairie (formulaire Cerfa 13410), en décrivant le projet. Gratuit, il indique si le terrain
+         peut accueillir le projet et fige les règles d'urbanisme pendant 18 mois.
+
+  2      Règlement de la zone
+         Lire le règlement écrit de la zone Ap et, le cas échéant, les orientations d'aménagement, disponibles sur
+         le Géoportail de l'Urbanisme.
+
+  3      Réseaux et accès
+         Vérifier l'accès à une voie publique ou privée adaptée, la desserte en eau potable et en électricité, et le
+         mode d'assainissement. En l'absence de réseau collectif, une étude de sol et l'avis du service public
+         d'assainissement non collectif (SPANC) sont nécessaires.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         36 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+  4      Bornage
+         Faire réaliser un bornage par un géomètre-expert pour fixer les limites exactes et la surface réelle du
+         terrain.
+
+  5      Sécuriser un achat
+         Pour une acquisition, prévoir dans le compromis une condition suspensive d'obtention d'un permis de
+         construire purgé de tout recours.
+
+
+11.4 Délais indicatifs d'instruction
+  DEMANDE                                                                                 DÉLAI DE DROIT COMMUN
+
+  Certificat d'urbanisme d'information (CUa)                                              1 mois
+
+  Certificat d'urbanisme opérationnel (CUb)                                               2 mois
+
+  Déclaration préalable                                                                   1 mois
+
+  Permis de construire une maison individuelle                                            2 mois
+
+  Permis d'aménager, autres permis de construire                                          3 mois
+
+
+
+Ces délais peuvent être majorés, notamment en site classé ou inscrit, aux abords d'un monument historique ou lorsque la
+consultation d'un service extérieur est nécessaire.
+
+
+11.5 Taxe d'aménagement à prévoir
+      Exemple : une maison de 120 m² en résidence principale, avec une piscine de 3 × 6 m. Sur ce terrain, la
+      taxe d'aménagement à prévoir est d'environ 2 850 €.
+
+
+
+  PROJET                                                                                                       TAXE ESTIMÉE
+
+  Maison de 120 m², résidence principale                                                                       2 650 €
+
+  Piscine de 3 × 6 m (18 m²)                                                                                   190 €
+
+  Total à prévoir                                                                                              2 850 €
+
+
+
+Taux appliqués : 2 % pour la commune et 2,25 % pour le département, sur une valeur forfaitaire de 892 € par m² en 2026
+(251 € par m² de bassin pour une piscine). Une résidence principale bénéficie d'un abattement de 50 % sur ses 100 premiers
+m².
+
+La taxe est due une fois les travaux terminés : elle se déclare sur impots.gouv.fr dans les 90 jours suivant l'achèvement, et
+se paie en deux fois au-delà de 1 500 €. Pour calculer votre propre projet :
+terrenurbanisme.com/outils/taxe-amenagement.html
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         37 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+11.6 Implanter une entreprise : zone France Ruralités Revitalisation
+     La commune de Prahecq n'est pas classée en zone France Ruralités Revitalisation (FRR). Une
+     entreprise qui s'y installe ne bénéficie pas de l'exonération d'impôt sur les bénéfices liée à ce zonage.
+
+
+
+Source : ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 (collectivites-locales.gouv.fr).
+
+
+11.7 Géomètres proches du terrain
+Le géomètre-expert est le seul professionnel habilité à fixer les limites de propriété (bornage) et à établir les
+documents d'arpentage déposés au cadastre. Il intervient aussi pour les relevés topographiques et les
+divisions de terrain.
+
+7,7 km            SIT&A CONSEIL
+                                                                                                                           Coordonnées
+                  140 RUE DE L'AERODROME 79000 NIORT
+
+
+8,9 km            GEODOMIA
+                                                                                                                           Coordonnées
+                  ZONE MENDES F 9 RUE MARTIN LUTHER KING 79000 NIORT
+
+
+10,5 km           GEO 3 D
+                                                                                                                           Coordonnées
+                  26 AVENUE DE PARIS 79000 NIORT
+
+
+10,7 km           JOUCK-BAISIEUX-PAGE-PAUTONNIER (AIR GEO AMENAGEMENT INGENIER
+                                                                     Coordonnées
+                  RESIDENCE JADE 4 RUE ERNEST PEROCHON 79000 NIORT
+
+
+16,3 km           SELARL CELINE METAIS
+                                                                                                                           Coordonnées
+                  15 BIS GRANDE RUE 79500 MELLE
+
+
+16,5 km           ALBERT HERMAN FLEDDERUS
+                                                                                                                           Coordonnées
+                  4 RUE DE FOSSEMAGNE 79500 MELLE
+
+
+Source : répertoire Sirene de l'INSEE (activité des géomètres), classé par distance au terrain. L'inscription d'un cabinet à l'Ordre
+des géomètres-experts se vérifie sur geometre-expert.fr. Le bouton « Coordonnées » ouvre la fiche du cabinet (téléphone,
+horaires, itinéraire). Cette liste est fournie à titre indicatif, sans partenariat ni recommandation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         38 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                           12 · État des risques (ERP) pré-rempli
+
+
+
+
+    12             État des risques (ERP) pré-rempli
+     DANS CETTE SECTION
+
+     Le formulaire réglementaire à remettre à l'acquéreur ou au locataire, pré-rempli à partir des
+     bases officielles : plans de prévention, sismicité, radon, sols pollués, trait de côte, bruit des
+     aérodromes.
+
+
+Articles L. 125-5 à L. 125-7 et R. 125-23 à R. 125-27 du Code de l'environnement · modèle fixé par l'arrêté du 27 septembre
+2022.
+
+
+     Formulaire pré-rempli à partir de Géorisques et du Géoportail de l'Urbanisme à la date du rapport.
+     Avant de le remettre à l'acquéreur ou au locataire, le vendeur ou le bailleur le vérifie, le complète
+     (sinistres indemnisés) et le signe ; il doit dater de moins de six mois à la signature de la promesse, du
+     bail ou de l'acte.
+
+
+
+
+12.1 Situation du bien
+Commune                                                  Prahecq (79216)
+
+Département                                              Deux-Sèvres (79)
+
+Références cadastrales                                   Section ZT, parcelle n° 86 · 79216000ZT0086
+
+Surface cadastrale                                       4 560 m²
+
+
+
+12.2 Plans de prévention des risques
+  L'IMMEUBLE EST SITUÉ DANS LE PÉRIMÈTRE…                                         RÉPONSE                DÉTAIL
+
+  d'un plan de prévention des risques naturels (PPRN)                             Non                    Aléas à l'adresse : remontée de nappe
+  prescrit, appliqué par anticipation ou approuvé
+
+  d'un plan de prévention des risques miniers (PPRM)                              Non                    Non recensé
+
+  d'un plan de prévention des risques technologiques                              Non                    Risques technologiques sur la commune
+  (PPRT)                                                                                                 : installations industrielles (icpe),
+                                                                                                         canalisations de matières dangereuses,
+                                                                                                         pollution des sols
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       39 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                           12 · État des risques (ERP) pré-rempli
+
+
+
+
+12.3 Autres zonages réglementaires
+  L'IMMEUBLE EST SITUÉ…                                                           RÉPONSE                DÉTAIL
+
+  dans une commune de sismicité (zones 2 à 5 : règles de                          Oui                    Zone 3 – moderee
+  construction parasismique)
+
+  dans une commune à potentiel radon de niveau 3                                  Non                    Catégorie 1 (potentiel faible)
+
+  dans un secteur d'information sur les sols (SIS)                                Non                    Aucun SIS recensé à proximité
+
+  dans une zone exposée au recul du trait de côte                                 Non                    Non concerné selon Géorisques
+
+  dans une zone de bruit d'un plan d'exposition au bruit                          À vérifier             Aucun PEB annexé au document
+  d'aérodrome (PEB)                                                                                      d'urbanisme ; vérifier auprès de la mairie
+
+  dans une zone de retrait-gonflement des argiles                                 Oui                    Non connu
+  (information)
+
+
+
+
+12.4 Sinistres indemnisés et déclarations
+Arrêtés de catastrophe naturelle sur la commune : 17 (liste en section Risques). Le vendeur ou le bailleur
+déclare ci-dessous les sinistres ayant donné lieu à une indemnisation au titre des catastrophes naturelles ou
+technologiques pendant la période où il a été propriétaire.
+
+Sinistres indemnisés                                     [ ] Oui [ ] Non
+
+Vendeur ou bailleur                                      Nom : ____________________ Date : ___/___/______ Signature :
+
+Acquéreur ou locataire                                   Nom : ____________________ Date : ___/___/______ Signature :
+
+
+L'état des risques officiel peut aussi être édité gratuitement sur Géorisques (errial.georisques.gouv.fr). Les informations
+ci-dessus sont établies à partir des bases nationales ; en cas de divergence, l'arrêté préfectoral relatif à l'information des
+acquéreurs et des locataires fait foi.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             40 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                                      13 · Avertissement et sources
+
+
+
+
+    13             Avertissement et sources
+     DANS CETTE SECTION
+
+     La portée de ce rapport et la liste des sources publiques consultées.
+
+
+
+13.1 Nature du document
+Ce rapport est un document d'information établi automatiquement, à la date indiquée en page de garde, à
+partir des données publiques officielles alors disponibles. Il n'a aucune valeur contractuelle, réglementaire ou
+juridique.
+
+
+13.2 Ce que ce rapport n'est pas
+Il ne constitue ni un certificat d'urbanisme au sens de l'article L. 410-1 du Code de l'urbanisme, ni une
+autorisation d'urbanisme (permis de construire, permis d'aménager, déclaration préalable), ni un état des
+risques au sens de l'article L. 125-5 du Code de l'environnement, ni un bornage, ni une expertise, ni une
+évaluation immobilière, ni une consultation juridique. Il n'engage en rien l'administration.
+
+
+13.3 Permis de construire
+Ce rapport ne peut en aucun cas être joint, produit ou invoqué à l'appui d'une demande de permis de
+construire, de permis d'aménager ou de déclaration préalable, ni opposé à la mairie ou à un service de l'État. Il
+ne garantit pas l'obtention d'une autorisation : seule l'autorité compétente se prononce, au vu d'un projet
+précis et de l'ensemble des règles applicables à la date de sa décision.
+
+
+13.4 Limites des données
+Les données sont produites par des organismes publics dont l'éditeur n'est ni l'auteur ni le garant. Elles
+peuvent être incomplètes, imprécises ou ne pas refléter une modification, une révision, une mise en
+compatibilité, une annulation contentieuse, un sursis à statuer ou une procédure en cours. Le plan cadastral,
+document fiscal, ne fait pas foi des limites de propriété. Surfaces, distances, altitudes et pentes sont
+approchées. Les extraits et analyses du règlement sont une aide à la lecture : seul le texte intégral du
+document d'urbanisme approuvé, consultable en mairie, fait foi.
+
+
+13.5 Avant toute décision
+Avant toute acquisition, cession, financement, promesse de vente ou dépôt d'une demande, le lecteur doit
+obtenir un certificat d'urbanisme opérationnel auprès de la mairie, consulter le document d'urbanisme en
+vigueur et recueillir l'avis d'un professionnel habilité (notaire, architecte, géomètre-expert, avocat). Pour un
+achat, il est recommandé de stipuler une condition suspensive d'obtention d'un permis de construire purgé de
+tout recours.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         41 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                                      13 · Avertissement et sources
+
+
+
+
+13.6 Responsabilité
+L'éditeur ne saurait être tenu responsable d'une décision prise sur le seul fondement de ce rapport, ni d'un
+refus d'autorisation, d'une erreur ou d'une omission des sources publiques, dans les limites prévues par les
+conditions générales de vente acceptées lors de la commande.
+
+
+13.7 Sources consultées
+  DONNÉE                                                    SOURCE
+
+  Cadastre                                                  DGFiP, plan cadastral informatisé, via API Carto (IGN)
+
+  Photographies et plans                                    IGN, Géoplateforme : orthophotographies, Plan IGN, parcellaire express
+
+  Urbanisme                                                 Géoportail de l'Urbanisme : zonage, prescriptions, informations, servitudes
+                                                            d'utilité publique
+
+  Littoral                                                  IGN, BD TOPO (limite terre-mer) ; communes littorales (Géoportail de
+                                                            l'Urbanisme)
+
+  Montagne                                                  Ministère de la Cohésion des territoires, communes de la loi Montagne
+
+  Risques                                                   Géorisques (ministère de la Transition écologique) : rapport de risques,
+                                                            arrêtés CatNat, sismicité, radon, ICPE, sites pollués
+
+  Environnement                                             Inventaire national du patrimoine naturel (PatriNat), via API Carto
+
+  Altitude, pente et exposition                             IGN, RGE ALTI
+
+  Ensoleillement                                            Calcul astronomique de la course du soleil ; masque du relief (IGN, RGE
+                                                            ALTI) et des bâtiments (IGN, BD TOPO)
+
+  Voirie et accès                                           IGN, BD TOPO (tronçons de route)
+
+  Permis de construire                                      Sitadel, service des données et études statistiques (SDES) du ministère
+                                                            chargé du logement
+
+  Photographies anciennes                                   IGN, BD ORTHO historique
+
+  Fibre et internet                                         Arcep, Ma connexion internet (éligibilité par adresse)
+
+  Géomètres                                                 Répertoire Sirene (INSEE), activité des géomètres
+
+  Propriétaires personnes morales                           DGFiP, fichiers des parcelles des personnes morales (diffusion Koumoul)
+
+  Diagnostics énergétiques                                  ADEME, base des DPE des logements existants
+
+  Procédures collectives                                    Bodacc, annonces commerciales (DILA)
+
+  Bâtiments                                                 IGN, BD TOPO
+
+  Réseau électrique                                         Agence ORE (gestionnaires de réseaux de distribution : Enedis, EDF Corse
+                                                            et entreprises locales) : réseau basse tension et postes de distribution
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        42 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                                      13 · Avertissement et sources
+
+
+
+
+  DONNÉE                                                    SOURCE
+
+  Taxe d'aménagement                                        DGFiP, éléments de taxation votés par les collectivités ; valeurs forfaitaires
+                                                            fixées par arrêté
+
+  Rapport officiel de risques                               Géorisques, ministère chargé de l'environnement
+
+  Zone France Ruralités Revitalisation                      ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 ; article
+                                                            44 quindecies A du code général des impôts
+
+  Marché immobilier                                         Statistiques des demandes de valeurs foncières (DVF) par commune, DGFiP
+                                                            et Etalab
+
+  Date d'extraction                                         20/11/2026
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        43 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Prahecq · ZT 86
+         TerrenUrbanisme
+                                                                                                                     Annexe · règlement de la zone
+
+
+
+
+ANNEXE
+
+
+Règlement écrit · zone Ap
+Les pages suivantes reproduisent le chapitre du règlement officiel applicable à la zone de la parcelle
+(pages 80 à 90 du document approuvé), tel que publié sur le Géoportail de l'Urbanisme. Il s'agit d'une
+reproduction à titre d'information : seule la version approuvée tenue à disposition en mairie fait foi, avec
+ses annexes, plans et éventuelles modifications ultérieures.
+Règlement complet :
+https://data.geopf.fr/annexes/gpu/documents/DU_200041317/9338e05e4487443ce60524fe1dd789fa/200041317_reglement_
+20260202.pdf
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        44 / 56
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+   3. Dispositions applicables à la zone Agricole
+
+LES ZONES AGRICOLES (A) correspondent à des « secteurs de la commune, équipés ou non, à protéger en raison du potentiel agronomique,
+biologique ou économique des terres agricoles ». (Article R. 151-22 du Code de l’Urbanisme)
+
+La zone Agricole est composée de deux zones sensibles qui peuvent accueillir de nouvelles constructions :
+    - A : (Code de l’Urbanisme) Secteurs, équipés ou non, à protéger en raison du potentiel agronomique, biologique ou économique des terres
+       agricoles
+       Peuvent être autorisés, en zone A : Les constructions et installations nécessaires à l'exploitation agricole ou au stockage et à l'entretien
+       de matériel agricole par les coopératives d'utilisation de matériel agricole agréées au titre de l'article L. 525-1 du code rural et de la pêche
+       maritime ; les constructions, installations, extensions ou annexes aux bâtiments d'habitation, changements de destination et
+       aménagements prévus par les articles L. 151-11, L. 151-12 et L. 151-13, dans les conditions fixées par ceux-ci.
+    - Ap : Secteur à protéger en raison de l’existence d’un intérêt écologique ou paysager particulièrement prégnant (Trame Verte et Bleue
+       (TVB), Natura 2000, Zone Naturelle d’Intérêt Écologique Faunistique et Floristique (ZNIEFF)…)
+
+La zone Agricole se compose de secteurs particuliers en Secteurs de Taille Et de Capacité d’Accueil Limitées (STECAL) ou non permettant de
+répondre aux besoins d’activités isolées tout en préservant le cadre sensible :
+    - Ac : Secteur des centres équestres
+    - Ae : Secteur de développement des constructions et installations d’intérêt collectif ou de service public (équipements sportifs,
+       pédagogiques, de loisirs ou touristiques…)
+       - Aeg2 : Aire d'accueil et/ou de sédentarisation des gens du voyage
+       - Aeg3 : Aire de grand passage des gens du voyage
+       - Aeg4 : Aire de passage pour l’accueil des gens du voyage (Mauzé-sur-le-Mignon)
+    - Ahl : Habitat léger permanent (Résidence démontable au titre de l’article R. 111-51 du Code de l’Urbanisme)
+    - Ar : Château remarquable
+    - At : Secteur de développement des activités touristiques et de loisirs existantes sans lien avec une exploitation agricole, forestière ou
+       pastorale
+    - Ax : Site d'activités existant pour lequel il convient de permettre un développement ou un minimum d'évolution
+    - Ay : Secteur des sites de carrières existants et anciens sites sur le territoire
+
+
+
+
+Page 80 sur 182
+   1) Les zones Agricoles
+
+   A. Des Zones pour reconnaitre la vocation agricole des espaces
+
+       Zone A
+
+La zone Agricole correspond aux zones cultivées ne présentant pas d’enjeux environnementaux majeurs.
+
+L’enjeu principal de cette zone est de faciliter l’activité agricole en accompagnant l’évolution des exploitations.
+
+Il s’agit de permettre :
+     - L’activité agricole
+     - D’autres activités compatibles avec chaque site
+
+       Zone Ap
+
+La zone Agricole protégée correspond aux secteurs cultivés plus sensibles sur la question paysagère et environnementale.
+
+Pour cette zone, il s’agit de permettre, tout en prenant en compte l’intérêt écologique ou paysager de chaque site :
+   - L’activité agricole
+   - D’autres activités compatibles avec chaque site
+
+Le principe de cette zone est l’inconstructibilité. Toutefois, certaines constructions ou installations peuvent être autorisées sous conditions (Cf.
+Tableaux suivants).
+
+   B. Des usages du sol et des destinations qui préservent l’activité agricole
+
+Attention, des destinations et sous-destinations, utilisations et occupations du sol particulières sont règlementées tout au long du présent
+chapitre. Ainsi, des catégories de construction peuvent être précisées après le tableau en a).
+
+
+
+
+Page 81 sur 182
+Les occupations et utilisations du sol doivent contribuer au développement de l’activité agricole et permettre l’évolution du bâti existant. Les
+bâtiments nouveaux ont vocation à s’implanter à proximité des bâtiments existants de manière à ne pas créer de mitage de l’espace sauf
+contraintes dûment motivées rendant impossible une implantation en continuité (création d’une exploitation...).
+
+Sous réserve des occupations et utilisations du sol autorisées (en a, b et c de ce B), en zones A et Ap sont autorisés sous conditions :
+   - Les constructions et installations nécessaires à des équipements collectifs dès lors qu'elles ne sont pas incompatibles avec l’exercice d’une
+       activité agricole, pastorale ou forestière du terrain sur lequel elles sont implantées et qu'elles ne portent pas atteinte à la sauvegarde des
+       espaces naturels et des paysages
+   - Les constructions et installations nécessaires à l’exploitation agricole
+
+       Destinations et sous-destinations
+
+Les occupations et utilisations du sol doivent répondre à la vocation des zones de projet.
+Autorisation : Occupations et utilisations du sol autorisées
+Autorisation sous conditions : Occupations et utilisations du sol autorisées sous conditions
+Interdiction : Occupations et utilisations du sol interdites
+Interdiction mais évolution possible : Occupations et utilisations du sol interdites mais dont les constructions existantes peuvent évoluer si les
+évolutions n’aggravent pas ou ne créent pas de nuisances pour les autres constructions
+
+
+
+
+Page 82 sur 182
+                                                                                                                                        A                   Ap
+ Habitation
+ Logement                                                                                                                         Autorisation         Autorisation
+                                                                                                                                 sous condition       sous condition
+ Conditions
+ A et Ap / Les nouveaux logements ne pourront être autorisés que dans les bâtiments d’habitation existants ou par
+ changement de destination.
+ Hébergement                                                                                                                       Interdiction         Interdiction
+ Commerce et activité de service
+ Artisanat et commerce de détail                                                                                                 Interdiction mais    Interdiction mais
+                                                                                                                                évolution possible   évolution possible
+ Restauration                                                                                                                    Interdiction mais    Interdiction mais
+                                                                                                                                évolution possible   évolution possible
+ Commerce de gros                                                                                                                   Interdiction         Interdiction
+ Activités de services où s’effectue l’accueil d’une clientèle                                                                   Interdiction mais    Interdiction mais
+                                                                                                                                évolution possible   évolution possible
+ Hôtels et autres hébergements touristiques                                                                                        Autorisation         Autorisation
+                                                                                                                                  sous condition       sous condition
+ Conditions
+ A et Ap / Les nouveaux hébergements ne pourront être autorisés que dans les bâtiments d’habitation existants ou par
+ changement de destination.
+ Cinéma                                                                                                                            Interdiction         Interdiction
+ Équipements d’intérêt collectif et services publics
+ Locaux et bureaux accueillant du public des administrations publiques et assimilés                                              Interdiction mais    Interdiction mais
+                                                                                                                                évolution possible   évolution possible
+ Locaux techniques et industriels des administrations publiques et assimilés                                                       Autorisation         Autorisation
+                                                                                                                                                       sous condition
+ Conditions
+ AP / La création de ces constructions et installations est autorisée qu’à condition que les impacts soient réduits au strict
+ nécessaire, et le cas échéant, que des mesures de compensation soient apportées si les impacts n’ont pas été
+ suffisamment réduits (renaturation, plantation…). Il en est de même pour l’aménagement ou l’extension des
+ constructions et installations existantes.
+ Établissements d’enseignement, de santé et d’action sociale                                                                     Interdiction mais    Interdiction mais
+                                                                                                                                évolution possible   évolution possible
+ Salles d’art et de spectacles                                                                                                   Interdiction mais    Interdiction mais
+                                                                                                                                évolution possible   évolution possible
+ Équipements sportifs                                                                                                            Interdiction mais    Interdiction mais
+                                                                                                                                évolution possible   évolution possible
+ Autres équipements recevant du public                                                                                             Autorisation       Interdiction mais
+                                                                                                                                                     évolution possible
+
+
+
+
+Page 83 sur 182
+                                                                                                                                    A                   Ap
+ Autres activités des secteurs secondaire ou tertiaire
+ Industrie                                                                                                                     Interdiction         Interdiction
+ Entrepôts                                                                                                                   Interdiction mais    Interdiction mais
+                                                                                                                            évolution possible   évolution possible
+ Bureau                                                                                                                      Interdiction mais    Interdiction mais
+                                                                                                                            évolution possible   évolution possible
+ Centre de congrès et d’expositions                                                                                             Interdiction         Interdiction
+ Exploitation agricole et forestière
+ Logements de fonction                                                                                                        Autorisation         Autorisation
+                                                                                                                             sous condition       sous condition
+ Conditions
+ A et Ap / Les logements de fonction nécessaires aux exploitations agricoles et leurs annexes peuvent être autorisés pour
+ certaines activités d’élevage qui nécessitent une présence humaine et un suivi rapproché avec des aléas demandant des
+ interventions non programmables les nuits et les week-ends. Le demandeur doit justifier de la nécessité de ce logement
+ au regard du type d’élevage, du volume d’activité et de la présence éventuelle de logement d’associés exploitants à
+ proximité des ateliers d’élevage. Ces logements doivent en priorité être envisagés dans le cadre d’une réhabilitation et
+ de l’aménagement du bâti existant. À défaut et sous justification, une construction neuve peut être autorisée. Dans ce
+ cas, son implantation doit se faire au plus près des animaux à surveiller, en continuité des bâtiments existants et dans
+ un rayon de 100 mètres des bâtiments ou du site (aires de manœuvres, stockage, cour…) de l’exploitation. Les
+ extensions seront mesurées et les annexes seront implantées à proximité immédiate des bâtiments dont elles
+ dépendent.
+ Ap / Les impacts doivent être réduits au strict nécessaire, et le cas échéant, des mesures de compensation doivent être
+ apportées si les impacts n’ont pas été suffisamment réduits (renaturation, plantation…). Il en est de même pour
+ l’aménagement ou l’extension des constructions et installations existantes.
+ Constructions et installations                                                                                               Autorisation         Autorisation
+                                                                                                                                                  sous condition
+ Conditions
+ Ap / L’aménagement, le développement et l’extension des constructions et installations existantes sont autorisés.
+ La création des constructions et installations agricoles n’est autorisée que dans le cas de :
+      -    Relocalisation
+      -    Regroupement
+      -    Reprise d’une exploitation déjà en place mais sans reprise des bâtiments existants
+ Dans ces cas, les impacts doivent être réduits au strict nécessaire, et le cas échéant, des mesures de compensation
+ doivent être apportées si les impacts n’ont pas été suffisamment réduits (renaturation, plantation…).
+
+
+
+
+Page 84 sur 182
+                                                                                                                                  A              Ap
+ Serres                                                                                                                      Autorisation    Autorisation
+                                                                                                                                            sous condition
+ Conditions
+ Ap / La création de serres est autorisée. Elle ne doit engendrer aucune artificialisation des sols. Des bâtiments liés et
+ nécessaires à cette activité peuvent toutefois être autorisés.
+ L’ensemble est autorisé sous réserve de ne pas porter atteinte à la sauvegarde des espaces naturels et des paysages,
+ par :
+      -    Une implantation et une volumétrie adaptées au site, au paysage et à l’environnement
+      -    Le maintien et le renforcement de la structure végétale existante
+      -    La création de plantations constituées d’essences adaptées au sol, au climat et au paysage autour du site
+      -    Une hauteur limitée à 4 mètres pour les serres
+      -    Une hauteur maximale de 4 mètres pour les bâtiments (la surface de ce bâtiment doit être justifiée au regard
+           de sa nécessité selon le Code de l’Urbanisme et de la taille de la serre)
+ Également, la création de ces constructions et installations ne peut être autorisée qu’à condition que les impacts soient
+ réduits au strict nécessaire, et le cas échéant, que des mesures de compensation soient apportées si les impacts n’ont
+ pas été suffisamment réduits (renaturation, plantation…).
+ Exploitation forestière                                                                                                     Autorisation    Autorisation
+                                                                                                                                            sous condition
+ Conditions
+ Ap / La création de ces constructions et installations ne peut être autorisée que dans le cas de relocalisation ou de
+ regroupement. Les impacts doivent être réduits au strict nécessaire, et le cas échéant, des mesures de compensation
+ doivent être apportées si les impacts n’ont pas été suffisamment réduits (renaturation, plantation…).
+ Il en est de même pour l’aménagement ou l’extension des constructions et installations existantes.
+
+        Autres occupations et utilisations du sol
+
+Les occupations et utilisations du sol doivent répondre à la vocation des zones de projet.
+Autorisation : Occupations et utilisations du sol autorisées
+Autorisation sous conditions : Occupations et utilisations du sol autorisées sous conditions
+Interdiction : Occupations et utilisations du sol interdites
+Interdiction mais évolution possible : Occupations et utilisations du sol interdites mais dont les constructions existantes peuvent évoluer si les
+évolutions n’aggravent pas ou ne créent pas de nuisances pour les autres constructions
+
+
+
+
+Page 85 sur 182
+                                                                                                                                      A               Ap
+ Habitat léger permanent                                                                                                         Interdiction     Interdiction
+ (Résidence démontable au titre de l’article R. 111-51 du Code de l’Urbanisme)
+ Le stationnement isolé de caravanes/HLL/RML (de plus de 3 mois)                                                                 Interdiction     Interdiction
+ Les coopératives d’utilisation de matériel agricole agréées                                                                     Autorisation     Autorisation
+                                                                                                                                                 sous condition
+ Conditions
+ Ap / La création de ces constructions et installations ne peut être autorisée qu’à condition que les impacts soient réduits
+ au strict nécessaire, et le cas échéant, que des mesures de compensation soient apportées si les impacts n’ont pas été
+ suffisamment réduits (renaturation, plantation…). Il en est de même pour l’aménagement ou l’extension des
+ constructions et installations existantes.
+ Les locaux et installations de diversification de l’activité agricole                                                           Autorisation     Autorisation
+                                                                                                                                sous condition   sous condition
+ Conditions
+ A et Ap / Les locaux et installations de diversification de l’activité agricole doivent être réalisés par rénovation,
+ transformation, extension mesurée et aménagement de bâtiments existants. Dans le cas d’une impossibilité des cas
+ précédents (absence de bâtiment à rénover) qui devra être justifiée, un local pourra être autorisé en continuité des
+ bâtiments existants. La surface de ce bâtiment doit être justifiée au regard de sa nécessité selon le Code de l’Urbanisme.
+ Ap / La création de ces constructions et installations ne peut être autorisée qu’à condition que les impacts soient réduits
+ au strict nécessaire, et le cas échéant, que des mesures de compensation soient apportées si les impacts n’ont pas été
+ suffisamment réduits (renaturation, plantation…). Il en est de même pour l’aménagement ou l’extension des
+ constructions et installations existantes.
+ Le camping à la ferme                                                                                                           Autorisation     Autorisation
+                                                                                                                                sous condition   sous condition
+ Conditions
+ A et Ap / Les terrains de camping soumis à déclaration préalable pouvant accueillir soit jusqu’à 20 campeurs, soit jusqu’à
+ 6 tentes ou caravanes ou les aires naturelles, sont acceptés à condition d’être liés et dans le prolongement de
+ l’exploitation agricole. Ces activités touristiques doivent pouvoir s’adapter aux bâtiments existants mais également ne
+ pas compromettre la possibilité de constructions agricoles nouvelles, à proximité des bâtis existants.
+ Ap / La création de ces constructions et installations est autorisée qu’à condition que les impacts soient réduits au strict
+ nécessaire, et le cas échéant, que des mesures de compensation soient apportées si les impacts n’ont pas été
+ suffisamment réduits (renaturation, plantation…). Il en est de même pour l’aménagement ou l’extension des
+ constructions et installations existantes.
+ Les carrières                                                                                                                   Interdiction     Interdiction
+ Les déchets de toute nature, le stockage de ferrailles et matériaux de démolition ou de récupération                            Interdiction     Interdiction
+
+
+
+
+Page 86 sur 182
+                                                                                                                                     A              Ap
+ Ouvrages spécifiques liés à des équipements d’intérêt collectif et services publics                                            Autorisation    Autorisation
+                                                                                                                                               sous condition
+ Conditions
+ AP / La création de ces constructions et installations est autorisée qu’à condition que les impacts soient réduits au strict
+ nécessaire, et le cas échéant, que des mesures de compensation soient apportées si les impacts n’ont pas été
+ suffisamment réduits (renaturation, plantation…). Il en est de même pour l’aménagement ou l’extension des
+ constructions et installations existantes.
+
+La ou les condition(s) sont précisées pour chaque destination concernée par cette disposition.
+
+En zone A, les affouillements ou exhaussements des sols sont interdits sauf s’ils sont liés à la réalisation des constructions et aménagements
+autorisés dans la zone A.
+
+En zone Ap, les affouillements ou exhaussements des sols sont interdits sauf s’ils sont liés à la réalisation des constructions et aménagements
+autorisés dans la zone Ap et sous réserve qu'ils soient compatibles avec la sauvegarde de l'environnement. Ils peuvent être également autorisés
+dans le cas de fouilles archéologiques ou de restauration du milieu naturel.
+
+        Destinations et sous-destinations particulières
+
+L’éolien, les centrales solaires ou photovoltaïques au sol, l’agrivoltaïsme et les ombrières sont gérés dans la partie « Promouvoir et développer
+les énergies renouvelables dans un cadre organisé » du présent règlement.
+
+Les équipements et ouvrages des concessionnaires de réseaux (eau, assainissement, transport d’électricité, gaz…) sont :
+    -  Autorisés en zone Agricole
+    -  Autorisés sous condition en zone Ap
+       La création de ces constructions et installations ne peut être autorisée qu’à condition que les impacts soient réduits au strict nécessaire,
+       et le cas échéant, que des mesures de compensation soient apportées si les impacts n’ont pas été suffisamment réduits (renaturation,
+       plantation…).
+       Il en est de même pour l’aménagement ou l’extension des constructions et installations existantes.
+
+
+
+
+Page 87 sur 182
+       Extension d’une habitation en zones Agricole et Agricole protégée
+
+Les extensions des habitations existantes situées en zone A et Ap doivent respecter les règles de construction édictées pour les constructions
+principales.
+
+L’aménagement, la réfection et les extensions des habitations existantes situées en zone A et Ap à la date d’approbation du PLUi-D sont autorisées
+sous réserve :
+   - Que cette extension ne compromette pas l’activité agricole ou la qualité paysagère du site
+   - Que les extensions ne représentent pas plus de :
+       - Pour les constructions de moins de 90 m² de surface de plancher : 30 m² de surface de plancher ou 60 m² de surface d’emprise au sol
+           supplémentaire par rapport aux surfaces existantes à la date d’approbation du PLUi-D
+       - Pour les constructions de 90 m² de surface de plancher et plus : 50 m² de surface de plancher ou 70 m² de surface d’emprise au sol
+           supplémentaire ou 30% d’emprise au sol supplémentaire par rapport à la surface existante à la date d’approbation du PLUi-D
+
+       Création d’annexes en zones Agricole et Agricole protégée
+
+Les annexes (hors piscine) des habitations existantes situées en zone A et Ap sont autorisées sous réserve :
+    - Que leur surface n’excède pas 50 m² d’emprise au sol totale, à partir de l’approbation du PLUi-D
+    - Que leur hauteur à l’égout n’excède pas celle de la construction principale existante à laquelle elles se rattachent
+    - Qu’elles soient situées à 30 mètres maximum de la construction principale à laquelle elles se rattachent
+
+Les piscines des habitations existantes situées en zone A et Ap sont autorisées sous réserve qu’elles soient directement liées à une habitation
+existante dans la zone et qu’elles soient situées à 30 mètres maximum de la construction principale à laquelle elles se rattachent.
+
+
+
+
+Page 88 sur 182
+   C. Un projet qui s’intègre harmonieusement dans le paysage agricole
+
+       Hauteur des constructions
+
+Construction principale
+
+La hauteur des constructions est limitée à 6 mètres à l’égout (R+1).
+
+Les constructions peuvent dépasser cette limite et élever leur façade jusqu’à la hauteur de façade d’une construction en dur existante voisine,
+même si cet alignement revient à dépasser la hauteur de 6 mètres.
+
+La hauteur des annexes ne doit pas excéder 3,50 mètres à l’égout et 4 mètres au faîtage.
+
+Bâtiment agricole
+
+La hauteur est limitée à 30 mètres au point le plus haut. Les constructions doivent néanmoins rechercher la meilleure intégration paysagère
+possible en termes de hauteur.
+
+La hauteur doit également répondre aux besoins du projet.
+
+Equipements publics
+
+La hauteur des équipements publics, des installations et des aménagements nécessaires aux services d’intérêt collectif est limitée à 30 mètres
+au point le plus haut.
+
+       Implantation par rapport aux voies et emprises publiques
+
+Les constructions principales doivent chercher en priorité les implantations en bord de parcelle et à proximité des axes routiers lorsque cela est
+possible, tout en respectant un retrait minimum de 5 mètres par rapport à l’alignement de la voie, sauf dans le cas d’extension du bâti existant.
+
+
+
+
+Page 89 sur 182
+Les constructions doivent respecter un retrait minimum de 5 mètres des berges ou des murs de quai des rivières et cours d'eau.
+
+       Retrait par rapport aux limites séparatives
+
+L’implantation des constructions n’est pas réglementée.
+
+Les constructions doivent respecter un retrait minimum de 5 mètres des berges ou des murs de quai des rivières et cours d'eau.
+
+   2) Les zones Agricoles accueillant des activités isolées (STECAL)
+
+   A. Des secteurs pour accompagner et encadrer les projets en milieu sensible
+
+Dans l’ensemble des STECAL, les équipements d’intérêt collectif et services publics sont autorisés, sous conditions :
+   - Hauteur des constructions : La hauteur est limitée à 6 mètres au point le plus haut.
+   - Implantation par rapport aux voies et emprises publiques : L’implantation des constructions n’est pas réglementée.
+   - Retrait par rapport aux limites séparatives : L’implantation des constructions n’est pas réglementée. Les constructions doivent respecter
+        un retrait minimum de 5 mètres des berges ou des murs de quai des rivières et cours d'eau.
+   - Implantation des constructions sur une même propriété : L’implantation des constructions n’est pas réglementée.
+   - Emprise au sol des constructions : L’emprise est limitée à 300 m².
+
+A noter que les antennes relais de téléphonie mobile sont autorisées dans l’ensemble des STECAL dans le cadre règlementaire précisé dans le
+chapitre dédié dans le présent règlement « 6) Antennes relais de téléphonie mobile ».
+
+       Ac (STECAL) : Secteur des centres équestres
+
+Sont autorisées l’extension des constructions existantes ainsi que les nouvelles constructions et installations liées aux activités des centres
+équestres.
+
+
+
+
+Page 90 sur 182
+                    TerrenUrbanisme
+
+    Merci de votre confiance
+Ce rapport a été établi à partir des sources publiques officielles pour vous
+  aider à décider en connaissance de cause. Pour toute question, nous
+                        restons à votre disposition.
+
+
+
+
+   Vous êtes professionnel ? Travaillons ensemble
+      Agents immobiliers, notaires, architectes, géomètres, diagnostiqueurs,
+promoteurs, mairies : faisons équipe. Crédits professionnels sans abonnement, 5
+€ le rapport dès 50 crédits, votre logo sur les rapports, offre communale pour les
+                       mairies et partenariats sur mesure.
+
+               Écrivez-nous : contact@terrenurbanisme.com
+
+
+
+
+                        terrenurbanisme.com
+                         contact@terrenurbanisme.com
+

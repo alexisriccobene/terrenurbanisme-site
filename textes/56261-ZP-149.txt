@@ -1,0 +1,2802 @@
+                  TerrenUrbanisme
+                  Le terrain constructible, partout en France
+
+
+
+
+RAPPORT D'URBANISME
+
+
+
+La Vraie-Croix
+Section ZP · Parcelle n° 149
+      Non constructible
+
+
+
+
+Référence cadastrale                                                        Surface cadastrale
+56261000ZP0149                                                              54 199 m²
+
+Rapport établi le                                                           Référence du rapport
+20/11/2026                                                                  APERCU
+
+
+
+
+terrenurbanisme.com                                                                      contact@terrenurbanisme.com
+
+Document d'information sans valeur contractuelle ni réglementaire. Il ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme
+et ne peut en aucun cas être joint à une demande de permis de construire ou de déclaration préalable. Seuls les actes de l'administration font foi.
+                                                                                                                           La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                                                     Sommaire
+
+
+
+
+Sommaire
+Le rapport suit l'ordre d'une étude de terrain : où se trouve la parcelle, ce que dit la règle, ce qui pèse sur le
+projet, puis les démarches.
+
+              Synthèse
+   S                                                                                                                                         p. 3
+              Le verdict, les indicateurs clés et les points d'attention en une page.
+
+              Identification de la parcelle
+   01                                                                                                                                       p. 4
+              Localisation, surface, références cadastrales et voisinage du terrain.
+
+              Règles d'urbanisme applicables
+  02                                                                                                                                         p. 7
+              Document d'urbanisme, zone du terrain, prescriptions et servitudes.
+
+              Ce que vous pouvez construire
+  03                                                                                                                                       p. 10
+              Surface constructible, hauteur, reculs, aspect et usages autorisés.
+
+              Loi Littoral et loi Montagne
+  04                                                                                                                                       p. 20
+              Les lois qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+              Risques naturels et technologiques
+  05                                                                                                                                       p. 21
+              Inondation, feu de forêt, argiles, catastrophes naturelles et sites pollués.
+
+              Le terrain : accès, relief et réseaux
+  06                                                                                                                                       p. 23
+              Accès, pente, ensoleillement, eaux usées, électricité, eau et fibre.
+
+              Conditions de vente du terrain
+  07                                                                                                                                       p. 29
+              Terrain agricole ou naturel : SAFER, fermier en place et repère officiel de prix.
+
+              Environnement et marché immobilier
+  08                                                                                                                                       p. 31
+              Espaces naturels, espèces protégées et ventes immobilières alentour.
+
+              Historique du site
+  09                                                                                                                                       p. 34
+              Le terrain vu du ciel au fil des années et les permis accordés autour.
+
+              Opportunités autour du terrain
+   10                                                                                                                                      p. 36
+              Grands terrains peu bâtis et logements énergivores à proximité.
+
+              Votre projet, étape par étape
+   11                                                                                                                                      p. 37
+              De l'achat aux impôts : démarches, délais, coûts, contacts et taxe.
+
+              État des risques (ERP) pré-rempli
+   12                                                                                                                                      p. 42
+              Le formulaire réglementaire à remettre à l'acquéreur, pré-rempli.
+
+              Avertissement et sources
+   13                                                                                                                                      p. 44
+              La portée de ce rapport et les sources publiques consultées.
+
+              Annexe : règlement de la zone
+   A                                                                                                                                       p. 47
+              Les pages officielles du règlement de la zone, telles qu'approuvées.
+
+
+
+
+Astuce : cliquez sur un chapitre pour y accéder directement.
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       2 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                                                             Synthèse
+
+
+
+
+Synthèse
+     Document d'information. Ce rapport ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme,
+     n'engage pas l'administration et ne peut pas servir de pièce à une demande de permis de construire.
+     L'appréciation ci-dessous est indicative : seule la mairie se prononce sur la constructibilité d'un terrain,
+     au vu d'un projet précis.
+
+
+
+
+       NON CONSTRUCTIBLE
+
+       Ce terrain n'est pas constructible en l'état
+       La parcelle est classée à 64 % en zone A (agricole) du plan local d'urbanisme de La
+       Vraie-Croix, et pour le reste en zone Np (36 %). Les constructions nouvelles n'y sont pas
+       admises, sauf exceptions encadrées.
+
+
+
+
+      Zones du PLU                                           Document d'urbanisme                                  Loi Littoral
+
+   A 64 % · Np 36 %                                       PLU · 06/10/2025                                       Ne s'applique pas
+
+
+
+
+      Loi Montagne                                           Risques à la parcelle
+
+   Ne s'applique pas                                      Séisme ·
+                                                          Retrait-gonflement des
+
+
+
+
+Points d'attention
+    Zone A (agricole) : environ 34 230 m², soit 64 % du terrain, non constructible.
+    Zone Np (naturelle et forestière) : environ 19 610 m², soit 36 % du terrain, non constructible.
+    Prescription du PLU : PPRI du bassin versant de Saint Eloi - Zonage rouge.
+    Logement : le règlement de la zone A n'admet pas de logement neuf, sauf exceptions prévues par la
+    zone (logement de gardiennage, par exemple) : voir le chapitre « Ce que vous pouvez construire ».
+    Retrait-gonflement des argiles (exposition moyenne) : en cas de vente d'un terrain non bâti
+    constructible, le vendeur doit fournir une étude géotechnique préalable (loi ELAN, article L. 132-5 du
+    Code de la construction et de l'habitation) ; une étude géotechnique de conception est exigée avant
+    de construire.
+    3 arrêtés de catastrophe naturelle sur la commune.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              3 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+    01             Identification de la parcelle
+     DANS CETTE SECTION
+
+     Où se trouve le terrain, sa surface, ses références cadastrales, son propriétaire lorsqu'il s'agit
+     d'une société ou d'une collectivité, et la performance énergétique du bâti existant.
+
+
+Données du cadastre (DGFiP) et de l'IGN.
+
+
+     Plan de situation
+
+
+
+
+                                                                                                                            1 km
+
+
+
+Plan IGN · © IGN
+
+
+
+     Vue aérienne et plan cadastral
+
+
+
+
+                                                                                                                                   200 m
+
+
+
+Photographie aérienne et plan cadastral · © IGN
+
+
+Commune                                                  La Vraie-Croix (56261)
+
+Département                                              Morbihan (56)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            4 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+Section et numéro                                        Section ZP, parcelle n° 149, feuille 1
+
+Identifiant cadastral                                    56261000ZP0149
+
+Surface cadastrale                                       54 199 m²
+
+Surface calculée (SIG)                                   53 838 m² · périmètre 1 056 m
+
+Coordonnées du centre                                    47.68749 N, 2.52080 O (WGS 84)
+
+Altitude                                                 de 99 à 109 m
+
+Pente estimée                                            6 % (pente modérée)
+
+Parcelles voisines                                       ZP 105, ZP 110, ZK 13, ZP 148, ZP 34, ZP 36, ZK 64, ZK 65, ZK 77
+
+
+Le plan cadastral est un document fiscal : il ne fait pas foi des limites de propriété. Seul un bornage réalisé par un
+géomètre-expert fixe les limites de manière certaine.
+
+
+1.1 Propriétaire et voisinage
+La parcelle ne figure pas au fichier des personnes morales : son propriétaire est vraisemblablement un
+particulier. Le nom des propriétaires particuliers n'est pas public ; il peut être demandé au service des impôts
+fonciers (relevé de propriété) ou obtenu par l'intermédiaire d'un notaire.
+
+Parcelles voisines détenues par des sociétés ou des collectivités
+  PARCELLE              PROPRIÉTAIRE                                                                     SURFACE            SIREN
+
+  ZP 148                EL BALESTRO (SARL)                                                               6 533 m²           904246469
+
+
+
+Principaux propriétaires personnes morales dans un rayon de 387 m
+  PROPRIÉTAIRE                                                              PARCELLES             SURFACE TOTALE            SIREN
+
+  EL BALESTRO (SARL)                                                        1                     2 408 m²                  904246469
+
+
+
+Source : fichiers des parcelles des personnes morales (DGFiP) : sociétés, SCI, collectivités, établissements publics et associations.
+Les propriétaires personnes physiques n'y figurent pas.
+
+
+1.2 La commune de La Vraie-Croix
+Code postal                                              56250
+
+Département                                              Morbihan (56)
+
+Intercommunalité                                         CC Questembert Communauté
+
+Population                                               1 495 habitants
+
+Superficie                                               16,68 km²
+
+Densité                                                  90 habitants par km²
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            5 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+Commune littorale                                        Non
+
+Commune de montagne                                      Non
+
+Document d'urbanisme                                     Plan local d'urbanisme (PLU), approuvé le 06/10/2025
+
+Risques sur la commune                                   3 arrêtés de catastrophe naturelle · détail en section Risques et en
+                                                         annexe
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            6 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+    02             Règles d'urbanisme applicables
+     DANS CETTE SECTION
+
+     Le document d'urbanisme de la commune, la zone dans laquelle se trouve le terrain, et les
+     prescriptions et servitudes qui s'y ajoutent.
+
+
+Géoportail de l'Urbanisme : zonage, prescriptions et servitudes.
+
+
+
+2.1 Document d'urbanisme en vigueur
+Type de document                                         Plan local d'urbanisme (PLU)
+
+Date d'approbation                                       06/10/2025
+
+Statut                                                   Publié au Géoportail de l'Urbanisme
+
+Règlement officiel                                       Ouvrir le document officiel (PDF)
+
+
+
+     Plan de zonage du PLU
+
+
+
+
+                                                                               A
+                                                                                        Np
+
+
+
+
+                                                                                                                                200 m
+
+
+
+Zonage : Géoportail de l'Urbanisme · fond : © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        7 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.2 Zonage de la parcelle
+  ZONE                  DÉSIGNATION                                                         PART               CONSTRUCTIBILITÉ
+
+  A                     Secteur destiné aux activités agricoles                             64 %               Non constructible
+
+  Np                    Secteur de zones humides inventoriées                               36 %               Non constructible
+
+
+
+Zone A · Agricole
+Zone agricole : secteur protégé en raison du potentiel agronomique, biologique ou économique des terres.
+Seules y sont admises les constructions et installations nécessaires à l'exploitation agricole et aux services
+publics, ainsi que l'extension limitée des habitations existantes.
+
+Zone Np · Naturelle et forestière
+Zone naturelle et forestière : secteur protégé en raison de la qualité des sites, des milieux naturels et des
+paysages, ou de son caractère d'espace naturel. Les constructions nouvelles n'y sont pas admises, sauf
+exceptions encadrées (équipements publics, extension limitée des habitations existantes, secteurs de taille et
+de capacité limitées).
+
+
+2.3 Prescriptions applicables à la parcelle
+  PRESCRIPTION                                                                                       TYPE
+
+  PPRI du bassin versant de Saint Eloi - Zonage rouge                                                Prescription du PLU (type 02)
+
+
+
+
+2.4 Informations complémentaires du PLU
+  INFORMATION                                                                                        TYPE
+
+  Zones humides                                                                                      Information du PLU (type 18)
+
+  Aléa retrait-gonflement des argiles dans le département du                                         Information du PLU (type 21)
+  Morbihan aléa moyen
+
+
+
+
+2.5 Servitudes d'utilité publique
+  CODE               SERVITUDE                                                                    DÉTAIL
+
+  PM1                Plan de prévention des risques naturels (PPRN)                               PM1 PPRi St Eloi ass
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         8 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.6 Patrimoine : l'architecte des Bâtiments de France
+Aucun site patrimonial remarquable, site classé ou inscrit, ni monument historique à moins de 500 m n'est
+recensé : l'avis de l'architecte des Bâtiments de France n'est pas requis au titre du patrimoine.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        9 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    03             Ce que vous pouvez construire
+      DANS CETTE SECTION
+
+      La lecture du règlement de votre zone : surface constructible estimée, hauteur, reculs, aspect,
+      usages autorisés ou interdits, avec les extraits du texte officiel.
+
+
+Lecture du règlement écrit des zones A et Np, sur lesquelles le terrain est à cheval.
+
+
+
+3.1 Un terrain à cheval sur 2 zones
+  ZONE                  NATURE                                           SURFACE                         PART              CONSTRUCTIBILITÉ
+
+  A                     Agricole                                         environ 34 230 m²               64 %              Non constructible
+
+  Np                    Naturelle et forestière                          environ 19 610 m²               36 %              Non constructible
+
+
+
+      Les règles ne sont pas les mêmes d'une zone à l'autre : chaque titre ci-dessous indique la zone à
+      laquelle la règle s'applique.
+
+
+
+
+3.2 Zone A · Potentiel constructible estimé
+      Le règlement de la zone A n'admet pas de construction nouvelle à usage de logement. Seules restent
+      possibles les constructions expressément admises par la zone et les évolutions encadrées des
+      constructions existantes : extension limitée à 30 % de l'emprise existante, dans la limite de 30 m²,
+      annexes de 30 m² au plus.
+
+
+
+Constructions admises dans la zone :
+
+      Constructions et installations liées et nécessaires à l'exploitation des terres agricoles ou du sous-sol (bâtiments
+      d'exploitation, hauteur non limitée pour la production agricole ou le stockage)
+      Constructions et installations nécessaires aux services publics ou équipements d'intérêt collectif
+      Logement de fonction strictement lié et nécessaire à l'exploitation agricole : un seul logement par exploitation, à
+      50 m maximum d'un ensemble bâti habité (hameau) ou d'une zone constructible à usage d'habitat, après
+      réalisation des bâtiments d'exploitation
+      Locaux (bureau, pièce de repos, sanitaires) nécessaires à la présence journalière de l'exploitant en l'absence de
+      logement de fonction, incorporés ou en extension d'un bâtiment du corps principal, emprise au sol maximale de
+      35 m²
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           10 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.3 Zone A · Caractère de la zone
+La zone A correspond aux secteurs de la commune, équipés ou non, à protéger en raison du potentiel
+agronomique, biologique ou économique des terres agricoles. Elle comporte deux secteurs spécifiques
+(Ab, agricole inconstructible, et Ai, écosite de la Croix Irtelle), qui ne s'appliquent pas à la zone A sans
+indice. Seules les constructions liées à l'exploitation agricole, aux services publics ou équipements
+d'intérêt collectif sont en principe admises, ainsi que quelques extensions et annexes limitées de l'habitat
+existant.
+
+
+3.4 Zone A · Règles de construction
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Surface minimale ou                          Sans objet (aucune superficie minimale)                                          art. A 5
+  caractéristiques du terrain
+
+  Accès et voirie                              Chaussée d'au moins 3,5 m de largeur (réductible avec avis                       art. A 3
+                                               favorable des services compétents). Terrain ayant accès à une
+                                               voie publique ou privée (directement ou par passage sur fonds
+                                               voisin, art. 682 du Code civil). Aucun accès le long des routes
+                                               départementales sauf carrefour aménagé avec l'accord du
+                                               gestionnaire ; aucun accès sur pistes cyclables et sentiers
+                                               piétons ; un seul débouché direct par propriété sur les autres
+                                               voies publiques ; visibilité assurée de part et d'autre de l'accès.
+                                               Ouverture de voie privée non nécessaire interdite.
+
+  Réseaux et assainissement                    Eau potable obligatoire pour les habitations et établissements ;                 art. A 4
+                                               à défaut de réseau public, captage, forage ou puits particulier
+                                               avec distribution par canalisations et zone de protection. Eaux
+                                               usées : raccordement au réseau public ; en l'absence de
+                                               réseau, assainissement individuel conforme à la
+                                               réglementation, avec vérification de l'aptitude du terrain
+                                               (adapté à la pédologie, topographie, hydrologie). Eaux pluviales
+                                               : écoulement garanti vers le réseau collecteur ; en l'absence de
+                                               réseau ou s'il est insuffisant, dispositifs à la charge exclusive
+                                               du propriétaire.
+
+  Implantation par rapport                     Constructions nouvelles (hors bâtiments d'exploitation                           art. A 6
+  aux voies                                    agricole) : recul minimal de 75 m de l'axe de la RD 775 et de ses
+                                               bretelles d'accès ; 35 m de l'axe des autres routes
+                                               départementales ; au moins 5 m de la limite d'emprise des
+                                               autres voies. Extension ou annexe d'une construction existante
+                                               dans la marge de recul admise à condition de respecter au
+                                               moins le recul du bâtiment principal. Implantation en limite
+                                               séparative ou dans le prolongement des constructions
+                                               existantes pouvant être imposée.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         11 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Implantation par rapport                     Distance au moins égale à la moitié de la hauteur à l'égout de                   art. A 7
+  aux limites séparatives                      toiture, sans être inférieure à 3 m. Constructions renfermant
+                                               des animaux et fosses à l'air libre : marge d'isolement par
+                                               rapport aux limites des zones U, AU, Nh et Nl, au moins égale
+                                               aux distances de la réglementation spécifique. Implantation en
+                                               limite ou dans le prolongement des constructions existantes
+                                               pouvant être imposée.
+
+  Implantation des                             Sans objet                                                                       art. A 8
+  constructions entre elles
+
+  Emprise au sol                               Sans objet (règle générale). Limites particulières : extension                   art. A 9 et A 2
+                                               des habitations <= 30 % de l'emprise au 3 mars 2005 dans la
+                                               limite de 30 m² ; annexes <= 30 m² ; locaux de présence de
+                                               l'exploitant <= 35 m².
+
+  Hauteur maximale                             Habitations : 10 m au faîtage (toiture à pentes traditionnelles ou               art. A 10
+                                               arrondie) ; 7 m à l'acrotère (toiture-terrasse ou faible pente).
+                                               Hauteur supérieure ou inférieure possible par adaptation
+                                               mineure ou en cas de reconstruction après sinistre. Bâtiments
+                                               de production agricole ou de stockage : hauteur non limitée.
+                                               Équipements d'intérêt collectif : hauteur non limitée.
+
+  Aspect extérieur et toitures                 Les constructions doivent s'intégrer à leur environnement ; les                  art. A 11
+                                               autorisations peuvent être refusées ou assorties de
+                                               prescriptions spéciales. Lucarnes et châssis vitrés dans le plan
+                                               de la toiture autorisés ; pente de toiture des lucarnes égale à
+                                               celle de la couverture principale. Autorisation préalable pour la
+                                               destruction d'un élément de paysage identifié.
+
+  Matériaux et couleurs                        L'emploi à nu de matériaux destinés à être enduits est interdit.                 art. A 11
+                                               Pas d'autre règle sur les couleurs ou matériaux de façade ou
+                                               de toiture.
+
+  Clôtures                                     Clôtures de qualité préexistantes (murs de pierre) à conserver.                  art. A 11
+                                               Clôtures agricoles ou forestières habituelles non soumises à
+                                               déclaration. Clôtures autour des bâtiments : talus et haies
+                                               végétales ; grillages simples sur poteaux (1,50 m maximum) ;
+                                               murs bahuts ou murs de moellons apparents de 0,80 m
+                                               maximum, éventuellement surmontés d'une lisse ou grillage
+                                               jusqu'à 1,50 m (2,00 m pour les maçonneries prolongeant un
+                                               alignement ou la construction, ou en limite séparative) ;
+                                               claustras en bois en limites séparatives uniquement. Plaques
+                                               de béton préfabriquées et tout autre mode de clôture interdits.
+
+  Stationnement                                Stationnement des véhicules et deux-roues assuré en dehors                       art. A 12 et
+                                               des voies publiques selon les normes de l'annexe n°2 (par                        annexe 2
+                                               exemple 2 places par logement pour une maison individuelle ;
+                                               établissements industriels ou artisanaux et bureaux selon les
+                                               besoins de l'activité).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          12 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Espaces verts et plantations                 Espaces boisés classés soumis à l'article L. 130-1 du Code de                    art. A 13
+                                               l'urbanisme. Dépôts et installations pouvant émettre des
+                                               nuisances masqués par une haie d'essences locales formant
+                                               écran. Pas de pourcentage d'espaces verts imposé.
+
+  Densité ou coefficient                       Non réglementé (sans objet)                                                      art. A 14
+
+
+
+
+3.5 Zone A · Usages autorisés
+    Constructions et installations liées et nécessaires à l'exploitation des terres agricoles ou du sous-sol
+    (bâtiments d'exploitation, hauteur non limitée pour la production agricole ou le stockage)
+    Constructions et installations nécessaires aux services publics ou équipements d'intérêt collectif
+    Logement de fonction strictement lié et nécessaire à l'exploitation agricole : un seul logement par
+    exploitation, à 50 m maximum d'un ensemble bâti habité (hameau) ou d'une zone constructible à usage
+    d'habitat, après réalisation des bâtiments d'exploitation
+    Locaux (bureau, pièce de repos, sanitaires) nécessaires à la présence journalière de l'exploitant en
+    l'absence de logement de fonction, incorporés ou en extension d'un bâtiment du corps principal, emprise
+    au sol maximale de 35 m²
+    Installations agricoles génératrices de nuisances, dans le respect de la réglementation (installations
+    classées, règlement sanitaire)
+    Diversification de l'activité agricole (gîtes ruraux, vente à la ferme) et changements de destination, si
+    l'agriculture reste l'activité principale de l'exploitation
+    Constructions, installations, équipements d'intérêt collectif et ouvrages d'utilité publique (notamment
+    production d'énergie renouvelable), sous réserve d'une bonne intégration dans le site
+    Extension limitée des habitations existantes à la date d'approbation du PLU (3 mars 2005)
+    Piscines, si un bâtiment d'habitation existe, à 30 m maximum en tout point de la construction principale
+    Annexes à la construction principale (30 m² maximum d'emprise au sol, à 30 m maximum de la
+    construction principale)
+    Dispositifs d'assainissement non collectif liés à une habitation existante ou à un bâtiment pouvant changer
+    de destination, sur le même îlot de propriété et à proximité
+
+
+3.6 Zone A · Usages interdits ou soumis à conditions
+    Interdites : constructions et installations non liées et nécessaires à l'exploitation agricole ou du sous-sol, ni
+    aux services publics ou équipements d'intérêt collectif (sauf article A2)
+    Interdits : habitations légères de loisirs et résidences mobiles de loisirs, groupées ou isolées
+    Interdit : stationnement de caravanes, sauf en garage mort dans les bâtiments et remises et sur les
+    terrains où est implantée la résidence de l'utilisateur
+    Interdits : dépôts de véhicules (notamment de résidences mobiles de loisirs) et garages collectifs de
+    caravanes susceptibles d'accueillir au moins cinq unités
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        13 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    Logement de fonction : un seul par exploitation, implanté à 50 m maximum d'un hameau ou d'une zone
+    constructible à usage d'habitat, sans favoriser la dispersion de l'urbanisation ni gêner des tiers ; en cas de
+    transfert ou création d'un corps d'exploitation, logement accepté seulement après réalisation des
+    bâtiments d'exploitation
+    Extension des habitations existantes : maximum 30 % de l'emprise au sol au 3 mars 2005, dans la limite de
+    30 m², en continuité du bâtiment existant, sans création de logement supplémentaire
+    Annexes : emprise au sol maximale de 30 m², implantées à 30 m maximum de la construction principale
+    (50 m pour les annexes destinées à accueillir des animaux)
+    Diversification et changements de destination admis uniquement si l'agriculture reste l'activité principale
+    Interdite : ouverture de toute voie privée non directement liée et nécessaire aux occupations autorisées
+    dans la zone
+    Interdits : travaux de branchement à un réseau d'eau potable non directement liés et nécessaires aux
+    activités ou installations autorisées
+    Dépôts et installations pouvant émettre des nuisances à masquer par une haie d'essences locales
+
+
+3.7 Zone A · Points de vigilance pour votre projet
+    Vérifier que la zone est bien A sans indice et non Ab (agricole inconstructible) ni Ai (écosite de la Croix
+    Irtelle) : les règles propres à ces secteurs ne s'appliquent pas.
+    Toute construction neuve doit être liée et nécessaire à l'exploitation agricole ou relever d'un service public
+    ou équipement d'intérêt collectif ; la construction d'une habitation sans lien avec l'agriculture est exclue.
+    Le logement de fonction n'est admis qu'après réalisation des bâtiments d'exploitation, à moins de 50 m
+    d'un hameau ou d'une zone constructible à usage d'habitat, et dans la limite d'un logement par exploitation.
+    Extension d'habitation existante : plafond de 30 % de l'emprise au sol au 3 mars 2005 et 30 m² maximum ;
+    pas de création de logement supplémentaire. Calculer à partir de l'emprise à cette date.
+    Annexes limitées à 30 m² d'emprise au sol, à 30 m maximum de la construction principale (50 m pour
+    animaux) ; piscines à 30 m maximum de l'habitation existante.
+    Reculs importants le long des routes départementales (75 m de l'axe de la RD 775, 35 m de l'axe des autres
+    RD) ; vérifier les indications des documents graphiques.
+    Vérifier les éléments de paysage identifiés, espaces boisés classés, emplacements réservés, périmètres
+    de protection sanitaire des élevages et servitudes d'utilité publique.
+    Le règlement ne mentionne pas explicitement le changement de destination des bâtiments traditionnels en
+    zone A hors diversification agricole : il est admis seulement dans le cadre de la diversification, si
+    l'agriculture reste l'activité principale.
+    Le document a été mis en compatibilité (approbation du 06.10.2025) : vérifier les orientations
+    d'aménagement et le plan de zonage à jour.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        14 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.8 Zone A · Extraits du règlement
+
+     art. A 1 · page 45
+     « Les constructions et installations non liées et nécessaires à l’exploitation des terres agricoles ou du
+     sous-sol ainsi qu’aux services publics ou équipements d’intérêt collectif sont interdites en zone A sauf
+     application de l’article A2. »
+
+
+     art. A 2 · page 46
+     « que les extensions ne dépassent pas 30% de l’emprise au sol au 3 mars 2005 (approbation du
+     présent document) dans une limite de 30m² maximum, »
+
+
+     art. A 2 · page 46
+     « Les annexes à la construction principale sont autorisées sous réserve que leur emprise au sol
+     n’excède pas 30 m² à la date d’approbation du PLU et qu’elles soient implantées à une distance
+     maximale de 30 mètres »
+
+
+     art. A 6 · page 48
+     « doivent respecter la marge de recul minimale de 75 m par rapport à l’axe de la RD 775 et de ses
+     bretelles d’accès. »
+
+
+     art. A 7 · page 48
+     « doivent être implantées à une distance de ces limites au moins égale à la moitié de leur hauteur
+     mesurée à l'égout de toiture, sans pouvoir être inférieure à 3 m. »
+
+
+     art. A 10 · page 49
+     « 10 m au faîtage pour les constructions couvertes par une toiture à pentes traditionnelles ou
+     présentant un arrondi, »
+
+
+
+3.9 Zone A · Démarches probables
+    Permis de construire ou déclaration préalable selon la surface et la nature des travaux (extension, annexe,
+    piscine, bâtiment agricole)
+    Déclaration préalable pour l'édification de clôtures (sauf clôtures agricoles ou forestières habituelles)
+    Permis de démolir dans les périmètres de protection des monuments historiques
+    Autorisation pour coupes et abattages dans les espaces boisés classés ; défrichement interdit en espace
+    boisé classé
+    Autorisation préalable pour la destruction d'un élément de paysage identifié
+    Consultation du service d'assainissement non collectif pour tout dispositif d'assainissement individuel
+    Autorisation ou déclaration au titre des installations classées pour les installations agricoles génératrices
+    de nuisances
+    Archéologie préventive si le projet est susceptible d'affecter le patrimoine archéologique
+    Dossier de défrichement le cas échéant, à joindre à la demande de permis
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        15 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.10 Zone Np (naturelle et forestière) : environ 19 610 m², 36 % du terrain
+     Sur cette partie du terrain, les constructions nouvelles ne sont pas admises, sauf celles listées
+     ci-dessous.
+
+
+
+Zone Np · Caractère de la zone
+Le secteur Np relève de la zone N (zones naturelles et forestières à protéger pour la qualité des sites, des
+milieux naturels et des paysages). Le règlement ne contient pas de chapitre propre au secteur Np et ne le
+définit pas dans la présentation de la zone N (page 53), qui ne cite que N, Nr, Nh et Nl. Le secteur Np n'apparaît
+que dans les exceptions « sauf en secteur Np » du chapitre I (secteur N, pages 54 à 58). Il faut donc appliquer
+les règles du chapitre N, en retranchant les possibilités que ces exceptions excluent en Np. Le libellé « zones
+humides inventoriées » provient de la légende du zonage et non du règlement écrit.
+
+Zone Np · Règles de construction
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Surface minimale ou                          Non réglementé (« Sans objet »).                                                 art. N 5
+  caractéristiques du terrain
+
+  Accès et voirie                              Chaussée d'au moins 3,50 m de largeur, réductible avec l'avis                    art. N 3
+                                               favorable des services compétents. L'ouverture de voie privée
+                                               non nécessaire aux occupations autorisées est interdite. Aucun
+                                               accès le long des routes départementales sauf carrefour
+                                               aménagé avec l'accord du gestionnaire. Aucun accès sur les
+                                               pistes cyclables et sentiers piétons. Débouchés directs limités à
+                                               un seul par propriété sur les autres voies publiques. Visibilité
+                                               assurée de part et d'autre de l'accès.
+
+  Réseaux et assainissement                    Eau potable obligatoire pour toute construction à usage                          art. N 4 et art. N
+                                               d'habitation, établissement ou installation d'activités ou de loisirs.           2
+                                               Captage, forage ou puits particulier possible à défaut de réseau
+                                               public, avec zone de protection. Électricité et téléphone en
+                                               souterrain, à la charge du maître d'ouvrage. Eaux usées :
+                                               raccordement au réseau public ; à défaut, installation individuelle
+                                               conforme à la réglementation, avec vérification de l'aptitude du
+                                               sol. Mais l'article N 2 écarte en Np les dispositifs
+                                               d'assainissement non collectif liés à une habitation existante.
+                                               Eaux pluviales : écoulement garanti dans le réseau collecteur ;
+                                               sans réseau ou réseau insuffisant, dispositifs à la charge du
+                                               propriétaire.
+
+  Implantation par rapport aux                 Les annexes et extensions autorisées doivent au moins respecter                  art. N 6
+  voies                                        le recul du bâtiment principal par rapport à la voie. Pour protéger
+                                               l'unité architecturale, l'implantation en limite séparative ou dans
+                                               le prolongement des constructions existantes peut être imposée.
+                                               Aucun recul chiffré pour les autres cas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        16 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Implantation par rapport aux                 Annexes et extensions autorisées, lorsqu'elles ne jouxtent pas                   art. N 7
+  limites séparatives                          les limites : distance au moins égale à la moitié de leur hauteur à
+                                               l'égout de toiture, minimum 3 m. Implantation en limite ou dans le
+                                               prolongement des constructions existantes pouvant être
+                                               imposée. Retrait exceptionnellement autorisé pour préserver une
+                                               haie ou assurer l'écoulement des eaux.
+
+  Implantation des                             Non réglementé (« Sans objet »).                                                 art. N 8
+  constructions entre elles
+
+  Emprise au sol                               Pas de règle générale d'emprise (« Sans objet »). Extension                      art. N 9 et art. N
+                                               limitée à 100 % de l'emprise existante au 3 mars 2005, sans                      2
+                                               dépasser 50 m² d'emprise au sol. Annexes limitées à 30 m²
+                                               d'emprise.
+
+  Hauteur maximale                             Constructions existantes : hauteur non supérieure à celle de la                  art. N 10
+                                               construction initiale. Annexes et extensions : pas plus hautes que
+                                               la construction initiale. Équipements d'intérêt général ou public :
+                                               hauteur non réglementée, avec une parfaite intégration
+                                               paysagère.
+
+  Aspect extérieur et toitures                 Les lucarnes et châssis vitrés dans le plan de la toiture sont                   art. N 11
+                                               autorisés ; la pente de la toiture des lucarnes est égale à celle de
+                                               la couverture principale. Autorisation préalable pour détruire un
+                                               élément de paysage identifié (art. L. 123-1 7°).
+
+  Matériaux et couleurs                        L'emploi à nu de matériaux destinés à être enduits est interdit.                 art. N 11
+                                               Pas d'autre règle de matériaux ou de couleurs pour les
+                                               constructions dans l'article N 11.
+
+  Clôtures                                     Les clôtures de qualité préexistantes (murs de pierre) sont                      art. N 11
+                                               conservées. Clôtures autour des bâtiments : talus et haies
+                                               végétales ; grillages sur poteaux de 1,50 m maximum ; murs
+                                               bahuts ou murs de moellons apparents de 0,80 m maximum,
+                                               surmontés d'une lisse ou d'un grillage jusqu'à 1,50 m (2,00 m pour
+                                               un prolongement d'alignement ou de construction, ou en limite
+                                               séparative, en maçonnerie de même nature) ; claustras en bois
+                                               en limites séparatives uniquement. Plaques de béton
+                                               préfabriquées et tout autre mode de clôture interdits. La clôture
+                                               est soumise à déclaration, sauf clôtures agricoles ou forestières
+                                               habituelles.
+
+  Stationnement                                Stationnement des véhicules et deux-roues assuré hors des                        art. N 12
+                                               voies publiques selon les normes de l'annexe n°2 (page 81).
+
+  Espaces verts et plantations                 Les espaces boisés classés relèvent de l'article L. 130-1 du Code                art. N 13
+                                               de l'urbanisme. Les dépôts et installations pouvant émettre des
+                                               nuisances sont masqués par une haie d'essences locales formant
+                                               écran.
+
+  Densité ou coefficient                       Non réglementé (« Sans objet »).                                                 art. N 14
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        17 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+Zone Np · Usages autorisés
+    Changement de destination des bâtiments traditionnels en pierre, en dehors du périmètre de protection
+    sanitaire des bâtiments d'élevage (art. N 2).
+    Extension des constructions existantes, en harmonie avec la construction d'origine, dans la limite de 100 %
+    de l'emprise au sol existante au 3 mars 2005 et sans dépasser 50 m² d'emprise au sol (art. N 2).
+    Annexes à la construction principale : emprise au sol maximale de 30 m², implantées à 30 m au plus en
+    tout point de la construction principale (art. N 2). Les extensions destinées aux annexes peuvent être
+    détachées du bâtiment principal, si elles restent dans la limite d'emprise ci-dessus et sur la même parcelle
+    ou le même îlot de propriété.
+    Ouvrages et constructions des équipements d'intérêt général ou public : hauteur non réglementée, avec
+    une parfaite intégration paysagère (art. N 10). Attention : l'article N 2 exclut en Np les ouvrages techniques
+    d'intérêt public.
+    Clôtures agricoles ou forestières habituelles : non soumises à déclaration (art. N 11).
+Zone Np · Usages interdits ou soumis à conditions
+    Interdit : toute construction à usage d'habitation ou non, même sans fondations, tout lotissement, toutes
+    installations ou travaux divers autres que ceux de l'article N 2 (art. N 1). Aucune construction neuve n'est
+    donc admise, hors extensions et annexes.
+    Interdit : camping, stationnement de caravanes (sauf garage mort dans les bâtiments et remises, ou sur le
+    terrain de la résidence de l'utilisateur), parcs résidentiels de loisirs, habitations légères de loisirs et
+    résidences mobiles de loisirs (art. N 1).
+    Interdit : exhaussements et affouillements du sol, création de plans d'eau, changement de destination des
+    bâtiments agricoles, ouverture ou extension de carrières et de mines (art. N 1).
+    Piscines : l'article N 2 les autorise « sauf en secteur Np ». Elles ne sont donc pas admises en Np. Ailleurs,
+    elles doivent se situer à 30 m au plus de la construction principale.
+    Ouvrages techniques d'intérêt public ou général : autorisés « sauf en secteur Np » (art. N 2). Ils ne sont
+    donc pas admis en Np.
+    Dispositifs d'assainissement non collectif liés à une habitation existante ou à un bâtiment pouvant changer
+    de destination : autorisés « sauf en secteur Np » (art. N 2). Ils ne sont donc pas expressément admis en Np.
+    Annexes pour animaux : l'exception portant la distance à 50 m (au lieu de 30 m) ne s'applique pas en Np.
+    Extensions et annexes refusées pour les constructions qu'il n'est pas souhaitable de maintenir ou de
+    conforter, en raison de leur situation, de leur nature ou de leur état de dégradation (art. N 2).
+    Reconstruction à l'identique après sinistre admise (dispositions générales, art. 6, page 7), sauf en zone à
+    risque si le risque est à l'origine du sinistre.
+Zone Np · Points de vigilance
+    Le secteur Np n'a pas de chapitre propre et n'est pas défini dans la présentation de la zone N (page 53).
+    Confirmer en mairie son régime exact, notamment au regard de l'inventaire des zones humides et des
+    documents graphiques.
+    Le texte du règlement dit « sauf en secteur Np » pour les piscines, les ouvrages techniques d'intérêt public
+    et l'assainissement non collectif. Sa rédaction est ambiguë pour les piscines : l'interprétation la plus
+    prudente est l'absence de piscine en Np.
+    Zones humides : affouillements, exhaussements et création de plans d'eau sont interdits (art. N 1). Une
+    réglementation spécifique (loi sur l'eau, déclaration ou autorisation) peut s'ajouter.
+    Toute construction neuve est interdite : seuls sont possibles le changement de destination des bâtiments
+    traditionnels en pierre, l'extension et les annexes.
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        18 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    Les références de superficie renvoient au 3 mars 2005 (date d'approbation du PLU) : vérifier l'emprise
+    existante à cette date et les extensions déjà réalisées.
+    Vérifier si le bâtiment est situé hors du périmètre de protection sanitaire des bâtiments d'élevage avant
+    tout changement de destination.
+    Vérifier la présence d'espaces boisés classés, d'éléments de paysage identifiés ou d'emplacements
+    réservés sur la parcelle.
+    Un assainissement non collectif nouveau n'est pas expressément admis en Np : préciser avec la mairie et
+    le service d'assainissement.
+
+     Cette lecture est établie automatiquement, par intelligence artificielle, à partir du règlement officiel en
+     vigueur. Elle peut comporter des imprécisions : seul le texte du règlement, reproduit en annexe (pages
+     44 à 50 du document approuvé), fait foi, avec les dispositions générales, les orientations
+     d'aménagement et les servitudes.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        19 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                                    04 · Loi Littoral et loi Montagne
+
+
+
+
+   04              Loi Littoral et loi Montagne
+     DANS CETTE SECTION
+
+     Les lois nationales qui s'ajoutent au document d'urbanisme sur le littoral et en montagne. Elles
+     peuvent rendre un terrain inconstructible même en zone constructible.
+
+
+Les lois d'aménagement qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+
+
+4.1 Loi Littoral
+Commune littorale                                        Non
+
+Distance au rivage                                       Sans objet
+
+Bande des 100 mètres                                     Sans objet
+
+
+La commune n'est pas riveraine de la mer : la loi Littoral ne s'applique pas (sauf rives de grands lacs).
+
+
+4.2 Loi Montagne
+Commune en zone de montagne                              Non
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           20 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+   05              Risques naturels et technologiques
+     DANS CETTE SECTION
+
+     Les risques connus à l'adresse du terrain (inondation, feu de forêt, mouvement de terrain,
+     radon…) et les catastrophes naturelles reconnues sur la commune.
+
+
+Base nationale Géorisques (ministère de la Transition écologique).
+
+
+
+5.1 Risques naturels à l'adresse de la parcelle
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Inondation                                      Non connu                                       Existant
+
+  Remontée de nappe                               Inconnu                                         Existant
+
+  Séisme                                          Existant – faible                               Existant – faible
+
+  Mouvement de terrain                            Inconnu                                         Existant
+
+  Retrait-gonflement des                          Existant – modéré                               Existant – modéré
+  argiles
+
+  Feu de forêt                                    Non connu                                       Existant
+
+  Radon                                           Existant – important                            Existant – important
+
+
+
+
+5.2 Risques technologiques
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Installations industrielles                     Non concerné                                    Concerné
+  (ICPE)
+
+  Pollution des sols                              Non connu                                       Concerné
+
+
+
+
+5.3 Indicateurs réglementaires
+Zone de sismicité                                        Zone 2 – faible
+
+Potentiel radon                                          Catégorie 3 (potentiel significatif)
+
+Retrait-gonflement des argiles                           Existant – modéré
+
+Plans de prévention (PPR)                                Aucun plan de prévention des risques recensé
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      21 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.4 Arrêtés de catastrophe naturelle
+3 arrêtés de reconnaissance de l'état de catastrophe naturelle concernent la commune.
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Mouvement de Terrain                                                      25/12/1999 au 29/12/1999                       30/12/1999
+
+  Inondations et/ou Coulées de Boue                                         25/12/1999 au 29/12/1999                       30/12/1999
+
+  Tempête                                                                   15/10/1987 au 16/10/1987                       24/10/1987
+
+
+
+
+5.5 Installations classées à proximité (moins de 1 km)
+    SARL KERSINERGIE · Enregistrement · En exploitation avec titre
+    EARL TY GWEN · Autorisation · En exploitation avec titre
+    GAEC DU SCAHOUET · Enregistrement · En exploitation avec titre
+
+
+5.6 Rapport officiel Géorisques
+Les risques recensés ci-dessus proviennent des bases officielles de Géorisques, service public d'information
+sur les risques. Le rapport officiel complet peut être édité gratuitement, à tout moment et à jour, à partir de
+l'adresse du terrain sur le site Géorisques.
+
+
+    Éditer le rapport officiel Géorisques
+
+
+Lors d'une vente ou d'une location, le vendeur ou le bailleur doit remettre un état des risques de moins de six mois,
+complété et signé, et l'information sur les sinistres indemnisés au titre des catastrophes naturelles.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         22 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+   06              Le terrain : accès, relief et réseaux
+     DANS CETTE SECTION
+
+     Les contraintes physiques du terrain : accès à une voie, pente et exposition, assainissement,
+     raccordement à l'électricité et à l'eau, fibre. Ce sont elles qui pèsent le plus sur le coût d'un
+     projet.
+
+
+Voirie (IGN, BD TOPO), altimétrie (IGN, RGE ALTI), règlement de la zone, réseau électrique (Agence ORE) et éligibilité
+internet (Arcep).
+
+
+
+6.1 Accès
+Accès direct à une voie                                  Oui
+
+Voie                                                     Route à 1 chaussée · Kerlann
+
+Largeur de chaussée                                      5m
+
+Accès des véhicules                                      Libre
+
+
+La parcelle touche une voie carrossable. L'autorisation d'urbanisme vérifiera que l'accès est adapté au projet et sûr,
+et peut imposer une permission de voirie ou un aménagement de l'entrée.
+
+
+6.2 Relief et exposition
+Pente moyenne                                            2%
+
+Exposition                                               Versant orienté est
+
+Altitude                                                 99 à 109 m
+
+Appréciation                                             Terrain plat ou presque plat
+
+
+
+
+ 111 m
+
+
+
+
+ 99 m
+
+
+           Coupe du terrain dans le sens de la pente · longueur 404 m
+
+
+     Terrassements limités ; pas de surcoût notable lié au relief.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        23 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   La Vraie-Croix · ZP 149
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.3 Ensoleillement
+Appréciation                                             Très bien ensoleillé
+
+Soleil direct le 21 juin                                 15 h 42 (de 06 h 30 à 22 h 00)
+
+Soleil direct aux équinoxes                              11 h 42 (de 07 h 30 à 19 h 00)
+
+Soleil direct le 21 décembre                             7 h 48 (de 09 h 20 à 17 h 00)
+
+Ensoleillement annuel possible                           4 303 h par an, soit 98 % du maximum à cette latitude
+
+Hauteur du relief vers le sud                            2°
+
+
+ 75°
+
+
+
+ 60°
+
+
+
+ 45°
+
+
+
+ 30°
+
+
+
+ 15°
+
+
+
+ 0°
+                                Est                  Sud-est                    Sud                 Sud-ouest               Ouest
+
+          21 juin          Équinoxes               21 décembre                 Horizon : relief et bâtiments voisins
+
+
+
+       Le relief et les constructions voisines ne masquent presque pas le soleil : le terrain profite de la
+       quasi-totalité de l'ensoleillement possible à cette latitude.
+
+
+
+Ensoleillement mois par mois (le 21 de chaque mois)
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Janvier                         8 h 48                             8 h 30                                    09 h 10 – 17 h 30
+
+  Février                         10 h 18                            10 h 12                                   08 h 20 – 18 h 20
+
+  Mars                            12 h                               11 h 42                                   07 h 30 – 19 h 00
+
+  Avril                           13 h 48                            13 h 30                                   07 h 30 – 20 h 50
+
+  Mai                             15 h 12                            14 h 48                                   06 h 50 – 21 h 30
+
+  Juin                            15 h 48                            15 h 42                                   06 h 30 – 22 h 00
+
+  Juillet                         15 h 18                            15 h                                      06 h 50 – 21 h 40
+
+  Août                            13 h 48                            13 h 30                                   07 h 30 – 20 h 50
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              24 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Septembre                       12 h                               11 h 48                                   08 h 10 – 19 h 50
+
+  Octobre                         10 h 18                            10 h 12                                   08 h 50 – 18 h 50
+
+  Novembre                        9h                                 8 h 42                                    08 h 40 – 17 h 10
+
+  Décembre                        8 h 12                             7 h 48                                    09 h 20 – 17 h 00
+
+
+
+Calcul théorique par ciel dégagé, au centre de la parcelle et à hauteur d'homme : course du soleil heure par heure, masque du relief
+sur 6 km (IGN, RGE ALTI) et des bâtiments voisins sur 120 m (IGN, BD TOPO, 1 bâtiment pris en compte). La végétation et les
+constructions récentes ne sont pas prises en compte.
+
+
+6.4 Quel raccordement pour les eaux usées ?
+Raccordement à prévoir                                       Assainissement individuel probable
+
+Zone du PLU                                                  A · Agricole
+
+Zonage d'assainissement                                      Non publié au Géoportail de l'Urbanisme (consultable en mairie)
+
+Réseau collectif sur la commune                              Oui · SYNDICAT INTERCOMMUNAL D'ADDUCTION D'EAU
+                                                             POTABLE DE LA REGION DE QUESTEMBERT · délégation à SAUR
+
+
+     Le terrain est hors zone urbaine (zone A) : ces secteurs sont rarement desservis par le réseau public.
+     Sauf canalisation existante dans la voie, prévoyez une fosse toutes eaux avec épandage ou une
+     micro-station agréée.
+
+
+
+Ce que dit le règlement de la zone
+Raccordement obligatoire au réseau public d'assainissement pour toute construction ou installation nouvelle par
+canalisations souterraines. En l'absence de réseau, les installations individuelles d'assainissement conformes à la
+réglementation en vigueur sont admises ; pour les constructions nouvelles nécessitant un épandage, il faut vérifier
+l'aptitude du terrain, le système devant être adapté à la pédologie, à la topographie et à l'hydrologie du sol. Aucune
+surface minimale de terrain n'est fixée (art. A 5). Les dispositifs non collectifs liés à une habitation existante (ou à un
+bâtiment pouvant changer de destination) doivent être implantés sur le même îlot de propriété, à proximité de
+l'habitation.
+
+Ce que cela coûte
+Assainissement individuel : 5 000 à 15 000 € selon la filière (détail ci-dessous), plus l'étude de sol à la parcelle (500 à
+1 000 €). Étapes : étude de sol, puis avis favorable du SPANC sur le projet, à joindre à la demande de permis de
+construire. Besoin d'un installateur agréé ? Nous vous mettons en relation : contact@terrenurbanisme.com.
+
+Qui contacter pour obtenir la confirmation
+Service d'assainissement                                     SYNDICAT INTERCOMMUNAL D'ADDUCTION D'EAU POTABLE DE
+                                                             LA REGION DE QUESTEMBERT · exploitant : SAUR
+
+Mairie                                                       Mairie de La Vraie-Croix
+
+Téléphone                                                    02 97 67 23 62
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              25 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+E-mail                                                       secretariat@lavraiecroix.com
+
+
+    Demandez au service d'assainissement, avec la référence cadastrale, si une canalisation publique passe au droit
+    du terrain, à quelle profondeur, et le montant de la PFAC. Sa réponse écrite vaut attestation de raccordabilité.
+    Certificat d'urbanisme opérationnel (formulaire Cerfa 13410, gratuit) : la mairie y indique officiellement si le
+    terrain est desservi par le réseau d'assainissement.
+    Plan des réseaux : la présence des canalisations enterrées près du terrain peut être vérifiée sur
+    reseaux-et-canalisations.gouv.fr, le guichet unique des réseaux.
+Sources : zonage d'assainissement et règlement (Géoportail de l'Urbanisme) ; services publics d'assainissement (SISPEA, Office
+français de la biodiversité) ; annuaire de l'administration (service-public.fr).
+
+Les solutions d'assainissement individuel
+  FILIÈRE                                    QUAND ELLE CONVIENT                                                           ORDRE DE PRIX
+
+  Fosse toutes eaux et                       Sol perméable, terrain assez grand et peu pentu                               5 000 à 10 000 €
+  épandage
+
+  Filtre à sable                             Sol peu perméable, place suffisante                                           8 000 à 12 000 €
+
+  Micro-station agréée                       Petit terrain ou sol défavorable ; entretien et électricité                   7 000 à 15 000 €
+
+  Filtre compact agréé                       Petit terrain, sans électricité                                               9 000 à 14 000 €
+
+
+
+Ordres de prix indicatifs (fourniture et pose, hors étude de sol et terrassements particuliers). La filière est choisie au vu de l'étude
+de sol et validée par le SPANC.
+
+
+6.5 Électricité et eau potable
+Gestionnaire du réseau                                       Enedis
+
+Réseau basse tension le plus proche                          à environ 85 m (ligne aérienne)
+
+Ligne aérienne la plus proche                                à environ 85 m
+
+Ligne souterraine la plus proche                             à environ 90 m
+
+Poste de transformation le plus proche                       à environ 95 m
+
+Appréciation                                                 Extension du réseau probable
+
+
+     Le réseau basse tension le plus proche est à environ 85 m. Au-delà d'une trentaine de mètres, le
+     gestionnaire réalise en général une extension du réseau : compter plusieurs milliers à une dizaine de
+     milliers d'euros, et plusieurs mois de délai.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             26 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+Ce qu'il faut vérifier avant d'acheter
+    La capacité du réseau : même un réseau proche peut être saturé (coffret ou câble plein, poste de transformation
+    au maximum). Seule une étude du gestionnaire permet de le savoir ; c'est la cause la plus fréquente de surcoûts
+    imprévus.
+    Électricité : demander au gestionnaire du réseau une étude de raccordement ou un devis à partir de l'adresse et
+    du plan de situation (gratuit). Elle indique le type de raccordement, son coût et son délai.
+    Eau potable : les plans du réseau d'eau ne sont pas publics. Interroger le service des eaux (coordonnées
+    ci-dessous) sur la présence d'une canalisation au droit du terrain, sa capacité et le coût du branchement, ainsi
+    que sur la défense incendie (borne à moins de 200 m environ).
+    Certificat d'urbanisme opérationnel : la mairie y indique si le terrain est desservi par les réseaux publics (eau,
+    électricité, assainissement) et, à défaut, si et quand ils seront étendus. Un refus de permis peut être fondé sur
+    l'insuffisance des réseaux (article L. 111-11 du Code de l'urbanisme).
+
+Qui contacter
+Service de l'eau potable                                     SYNDICAT INTERCOMMUNAL D'ADDUCTION D'EAU POTABLE DE
+                                                             LA REGION DE QUESTEMBERT
+
+Mode de gestion                                              Délégation de service public à SAUR
+
+Contact pour le branchement                                  SAUR, pour le compte de : SYNDICAT INTERCOMMUNAL
+                                                             D'ADDUCTION D'EAU POTABLE DE LA REGION DE QUESTEMBERT
+
+Mairie                                                       Mairie de La Vraie-Croix
+
+Téléphone de la mairie                                       02 97 67 23 62
+
+E-mail de la mairie                                          secretariat@lavraiecroix.com
+
+Électricité (raccordement)                                   Enedis · demande en ligne sur enedis.fr (raccordement)
+
+La mairie oriente vers le bon interlocuteur et confirme, dans le certificat d'urbanisme, la desserte du terrain par les réseaux.
+Sources : SISPEA, observatoire des services publics d'eau (OFB) ; annuaire de l'administration (service-public.fr).
+
+Dans une promesse de vente, une condition suspensive portant sur le coût du raccordement aux réseaux protège
+l'acquéreur. Source de la cartographie électrique : Agence ORE, données des gestionnaires de réseaux de distribution ;
+tracés indicatifs.
+
+
+6.6 Fibre et internet
+     Aucune adresse raccordable à la fibre n'est recensée à moins de 400 m : l'accès internet passera par le
+     cuivre, la 4G ou 5G fixe ou le satellite.
+
+
+
+Adresse la plus proche                                          2 Lestroué · à 137 m · non raccordable
+
+Point fibré le plus proche                                      Aucun à moins de 400 m
+
+Adresses fibrées à moins de 100 m                               Aucune adresse recensée
+
+Adresses fibrées à moins de 400 m                               0 sur 23
+
+Technologies disponibles à proximité                            4G fixe, Cuivre (ADSL, VDSL), Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        27 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                La Vraie-Croix · ZP 149
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+Vérifiez la fibre à l'adresse du terrain :
+
+                     Carte fibre Orange                                                                  Carte de l'Arcep
+
+
+  DISTANCE           ADRESSE                                                                   FIBRE              AUTRES ACCÈS
+
+  137 m              2 Lestroué                                                                Non                4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+  170 m              4 Lestroué                                                                Non                4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+  173 m              b Lesterhoue                                                              Non                4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+  173 m              d Lesterhoue                                                              Non                4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+  173 m              a Lesterhoue                                                              Non                4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+  173 m              e Lesterhoue                                                              Non                4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+  173 m              c Lesterhoue                                                              Non                4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+  274 m              0 saint-juste                                                             Non                4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+
+
+Source : Arcep, « Ma connexion internet », éligibilité déclarée par les opérateurs, adresse par adresse. Le tracé des câbles n'est
+pas public : la présence de la fibre en limite de terrain se vérifie auprès de l'opérateur ou par une déclaration de projet de travaux
+(DT).
+
+
+6.7 Qui contacter pour les réseaux
+  RÉSEAU                                    INTERLOCUTEUR                                         CE QU'IL FAUT DEMANDER
+
+  Eau potable et                            Mairie ou service des eaux de la                      Attestation de desserte et conditions de
+  assainissement collectif                  commune                                               raccordement
+
+  Assainissement individuel                 SPANC (communauté de communes)                        Contrôle de conception sur la base de l'étude
+                                                                                                  de sol
+
+  Électricité                               Enedis (gestionnaire du réseau de                     Étude de raccordement et devis
+                                            distribution)
+
+  Fibre et téléphone                        Opérateur d'infrastructure et                         Raccordement du futur logement
+                                            fournisseur d'accès
+
+  Tous réseaux                              Guichet unique des réseaux                            Déclaration de projet de travaux (DT) pour
+                                            (reseaux-et-canalisations.gouv.fr)                    localiser les réseaux existants
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             28 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                               07 · Conditions de vente du terrain
+
+
+
+
+    07             Conditions de vente du terrain
+     DANS CETTE SECTION
+
+     Terrain agricole ou naturel : droit de préemption de la SAFER, fermier en place, autorisation
+     d'exploiter et repère officiel de prix.
+
+
+Terrain situé en zone A : vente encadrée par le code rural et de la pêche maritime.
+
+
+
+7.1 Pourquoi aucune fourchette de prix n'est donnée
+La parcelle est classée en zone A (agricole), où les constructions nouvelles ne sont en principe pas admises.
+Sa valeur ne se déduit pas des ventes de terrains à bâtir du secteur : elle dépend de l'usage agricole ou naturel
+du sol, de sa qualité, de son accès, de l'eau disponible et de l'existence éventuelle d'un bail rural. Une
+estimation automatique serait trompeuse : la valeur doit être établie au cas par cas par un notaire ou un expert
+foncier et agricole.
+
+
+7.2 Le droit de préemption de la SAFER
+Principe                                        La vente d'un terrain agricole ou naturel est en principe soumise au droit de
+                                                préemption de la SAFER (articles L. 143-1 et suivants du code rural et de la
+                                                pêche maritime). Une surface minimale, fixée par département, peut en
+                                                exclure les plus petites parcelles.
+
+Information obligatoire                         Le notaire informe la SAFER du projet de vente au moins deux mois avant la
+                                                signature : prix, conditions et identité de l'acquéreur.
+
+Ce que peut faire la SAFER                      Renoncer, acheter au prix et aux conditions notifiés, ou proposer un prix
+                                                inférieur si elle estime le prix exagéré. Le vendeur peut alors accepter,
+                                                retirer son terrain de la vente ou demander au tribunal judiciaire de fixer le
+                                                prix.
+
+Pourquoi elle intervient                        Installation de jeunes agriculteurs, consolidation des exploitations,
+                                                protection de l'environnement et des paysages, lutte contre la spéculation
+                                                foncière.
+
+
+
+7.3 Les autres règles à connaître
+Fermier en place                                Si le terrain est loué par bail rural, l'exploitant en place bénéficie d'un droit
+                                                de préemption prioritaire, avant la SAFER.
+
+Autorisation d'exploiter                        Un acquéreur qui souhaite exploiter le terrain peut devoir obtenir une
+                                                autorisation d'exploiter auprès de la DDT(M), selon le schéma directeur
+                                                régional des exploitations agricoles.
+
+Espace naturel sensible                         Dans un espace naturel sensible, le département peut également disposer
+                                                d'un droit de préemption.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         29 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                               07 · Conditions de vente du terrain
+
+
+
+
+Constructions                                   Seules les constructions nécessaires à l'exploitation agricole ou forestière,
+                                                ou à des équipements collectifs, sont en règle générale admises : l'achat ne
+                                                donne pas de droit à bâtir une habitation.
+
+
+
+7.4 Repère officiel de prix
+Le ministère de l'Agriculture publie chaque année le barème indicatif de la valeur vénale moyenne des terres
+agricoles, par région agricole et par nature de culture (arrêté publié au Journal officiel). C'est la référence à
+consulter, avec l'avis d'un notaire ou d'un expert foncier et agricole, avant de fixer un prix.
+
+     Avant toute mise en vente, rapprochez-vous de votre notaire : il notifie la vente à la SAFER, vérifie
+     l'existence d'un bail et sécurise le calendrier de la transaction.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         30 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+   08              Environnement et marché immobilier
+     DANS CETTE SECTION
+
+     Les espaces naturels protégés autour du terrain et les prix de vente réels des maisons,
+     appartements et terrains alentour.
+
+
+Inventaire national du patrimoine naturel et demandes de valeurs foncières (DVF).
+
+
+
+8.1 Espaces naturels protégés ou inventoriés
+La parcelle n'est concernée par aucun site Natura 2000, ZNIEFF, parc ou réserve naturelle.
+
+
+8.2 Espèces protégées observées près du terrain
+66 espèces protégées ont été observées dans un rayon de 1 km autour du terrain depuis 1990 ; les 14 plus
+fréquemment signalées figurent ci-dessous.
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Rouge-gorge familier (Erithacus                                 Oiseau                 Nationale (espèce et              11 · dernière en 2021
+  rubecula)                                                                              habitat)
+
+  Mésange bleue (Cyanistes caeruleus)                             Oiseau                 Nationale (espèce et              9 · dernière en 2021
+                                                                                         habitat)
+
+  Pinson des arbres (Fringilla coelebs)                           Oiseau                 Nationale (espèce et              9 · dernière en 2021
+                                                                                         habitat)
+
+  Moineau domestique (Passer                                      Oiseau                 Nationale (espèce et              8 · dernière en 2021
+  domesticus)                                                                            habitat)
+
+  Mésange charbonnière (Parus major)                              Oiseau                 Nationale (espèce et              7 · dernière en 2021
+                                                                                         habitat)
+
+  Troglodyte mignon (Troglodytes                                  Oiseau                 Nationale (espèce et              6 · dernière en 2021
+  troglodytes)                                                                           habitat)
+
+  Cresserelle (Falco tinnunculus)                                 Oiseau                 Nationale (espèce et              6 · dernière en
+                                                                                         habitat)                          2025
+
+  Goéland brun (Larus fuscus)                                     Oiseau                 Nationale (espèce et              5 · dernière en
+                                                                                         habitat)                          2025
+
+  Agrion de Mercure (Coenagrion                                   Insecte                Nationale (espèce et              4 · dernière en 2012
+  mercuriale)                                                                            habitat)
+
+  Pic vert (Picus viridis)                                        Oiseau                 Nationale (espèce et              4 · dernière en 2021
+                                                                                         habitat)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        31 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Bouvreuil pivoine (Pyrrhula pyrrhula)                           Oiseau                 Nationale (espèce et              4 · dernière en 2021
+                                                                                         habitat)
+
+  Chardonneret élégant (Carduelis                                 Oiseau                 Nationale (espèce et              4 · dernière en
+  carduelis)                                                                             habitat)                          2025
+
+  Milan noir (Milvus migrans)                                     Oiseau                 Nationale (espèce et              4 · dernière en
+                                                                                         habitat)                          2026
+
+  Corneille noire (Corvus corone)                                 Oiseau                 Nationale (espèce et              4 · dernière en 2021
+                                                                                         habitat)
+
+
+
+     Une observation à proximité ne signifie pas que l'espèce vit sur le terrain. Mais si elle y est présente, il
+     est interdit de détruire, capturer ou déranger les individus et, pour la plupart de ces espèces, de
+     détruire leurs lieux de reproduction et de repos (articles L. 411-1 et suivants du Code de
+     l'environnement). L'infraction est punie de 3 ans d'emprisonnement et 150 000 € d'amende.
+
+
+
+Que faire avant de construire ?
+    Pour une maison individuelle, aucune étude écologique n'est imposée en règle générale, et l'étude de sol porte
+    sur le terrain (fondations), pas sur la faune ni la flore. Vous restez cependant responsable si une espèce
+    protégée vit sur la parcelle : en cas de doute (espèce observée tout près, vieux arbres, murets, maquis, zone
+    humide), faites passer un écologue avant de défricher.
+    Si un enjeu est confirmé : inventaire faune-flore aux saisons utiles (printemps et été en général), puis mesures
+    pour éviter et réduire l'impact : implantation de la maison sur la partie la moins sensible, travaux hors période de
+    reproduction, clôture de chantier adaptée, déplacement d'individus par un spécialiste habilité.
+    Si la destruction d'individus ou d'habitats ne peut pas être évitée : demande de dérogation « espèces protégées »
+    auprès de la préfecture (DREAL), avec avis du conseil scientifique. Comptez 4 à 12 mois d'instruction, à anticiper
+    avant le dépôt du permis.
+
+Combien prévoir ?
+Pré-diagnostic écologique                                800 à 2 000 € (une visite et une note de synthèse)
+
+Inventaire faune-flore                                   3 000 à 10 000 € selon la surface et le nombre de passages
+
+Mesures d'évitement et de réduction                      500 à 5 000 € (balisage, calendrier, suivi de chantier)
+
+Dossier de dérogation                                    8 000 à 25 000 €, hors mesures de compensation éventuelles
+
+Ordres de prix indicatifs, honoraires de bureaux d'études en environnement, si une étude est nécessaire. Pour une maison sur un
+terrain déjà entouré de constructions, aucune étude n'est le plus souvent requise.
+
+Sources : statuts de protection TAXREF et base de connaissance des statuts (INPN, Muséum national d'Histoire naturelle) ;
+observations naturalistes GBIF, qui rassemble notamment les données de l'INPN et du SINP.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        32 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+8.3 Prix de l'immobilier à La Vraie-Croix
+Prix au mètre carré des ventes enregistrées sur la commune au cours des cinq dernières années publiées.
+Seules les ventes portant sur un bien unique sont retenues.
+
+  TYPE DE BIEN                                       VENTES                       €/M² MÉDIAN                              €/M² MOYEN
+
+  Maisons                                            69                           2 129 €/m²                               2 252 €/m²
+
+  Locaux commerciaux                                 2                            790 €/m²                                 790 €/m²
+
+
+
+Source : statistiques des demandes de valeurs foncières (DGFiP, Etalab). Prix des actes, hors frais : un ordre de grandeur,
+pas une estimation du bien.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            33 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                                                09 · Historique du site
+
+
+
+
+   09              Historique du site
+     DANS CETTE SECTION
+
+     Le terrain vu du ciel au fil des décennies et les permis de construire accordés autour : l'évolution
+     du secteur en un coup d'œil.
+
+
+Photographies aériennes de l'IGN et permis de construire délivrés (Sitadel).
+
+
+
+9.1 Le terrain vu du ciel, d'hier à aujourd'hui
+
+    1950-1965                                             2000-2005                                              2006-2010
+
+
+
+
+    2011-2015                                             Aujourd'hui
+
+
+
+
+Ces vues montrent l'évolution du terrain et du quartier, des années 1950 à aujourd'hui (photographies aériennes de l'IGN).
+
+     Bon à savoir : l'existence ancienne d'une construction peut ouvrir, sous conditions, un droit à
+     reconstruire ou à restaurer un bâtiment dont il reste l'essentiel des murs porteurs (articles L. 111-15 et L.
+     111-23 du Code de l'urbanisme).
+
+
+
+
+9.2 Permis de construire délivrés autour du terrain
+Autorisations sur la commune (3 ans)                                    40 · dernière recensée le 21/08/2026
+
+Logements autorisés (3 ans)                                             50
+
+Dont maisons individuelles                                              38
+
+Autorisations dans la section ZP                                        48 depuis 2013
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  22/12/2023            Permis de construire                   ZP 150             1              92 m²                     LOT 4 ""LES JARDINS DE
+                                                                                                                           BREG
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                               34 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                                                 09 · Historique du site
+
+
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  28/11/2023            Permis de construire                   ZP 150             1              109 m²                    RUE DU VERGER
+
+  24/05/2023            Permis de construire                   ZP 150             1              116 m²                    IMPASSE DE LA REINE DES
+                                                                                                                           PR
+
+  26/01/2023            Permis de construire                   ZP 150             1              100 m²                    IMPASSE DE LA REINE DES
+                                                                                                                           PR
+
+  02/01/2023            Permis de construire                   ZP 262             1              116 m²                    IMPASSE DES VIOLETTES
+
+  17/11/2022            Permis de construire                   ZP 178             1              130 m²                    IMPASSE DES VIOLETTES
+
+  04/10/2022            Permis de construire                   ZP 261             1              137 m²                    IMPASSE DES VIOLETTES
+
+  23/09/2022            Permis de construire                   ZP 190             1              101 m²                    IMP DE LA FICAIRE
+
+  12/09/2022            Permis de construire                   ZP 178             1              95 m²                     IMPASSE DES VIOLETTES
+
+  08/07/2022            Permis de construire                   ZP 178             1              102 m²                    RUE DU VERGER
+
+  08/07/2022            Permis de construire                   ZP 178             1              79 m²                     –
+
+  08/07/2022            Permis de construire                   ZP 268             1              108 m²                    RUE DU VERGER
+
+
+
+Permis accordés à moins de 500 m du terrain
+  DATE                 AUTORISATION                       PARCELLE          DISTANCE         LOGTS        SURFACE              LIEU-DIT / VOIE
+
+  04/04/2018           Permis de construire               ZK 67             240 m            1            45 m²                TERRES DE SAINT JUST
+
+
+
+1 autorisation créant des logements recensée dans un rayon de 500 m : la construction a été admise récemment
+dans le voisinage immédiat.
+
+Source : base Sitadel des autorisations d'urbanisme créant des logements (SDES). Un permis accordé à proximité montre
+que des constructions ont été admises dans le secteur, sans préjuger de la décision sur votre propre projet.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              35 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                              10 · Opportunités autour du terrain
+
+
+
+
+    10             Opportunités autour du terrain
+     DANS CETTE SECTION
+
+     Ce qui se passe autour de la parcelle : grands terrains peu bâtis, sociétés propriétaires en
+     difficulté, logements énergivores. Des pistes pour un investisseur, un voisin ou un professionnel.
+
+
+Bodacc (procédures collectives), ADEME (diagnostics énergétiques), cadastre, BD TOPO et Géoportail de l'Urbanisme.
+
+
+
+10.1 Logements classés F ou G autour du terrain
+Logements diagnostiqués F ou G dans un rayon de 350 m. Leur location est déjà interdite (G) ou le sera en
+2028 (F) : leurs propriétaires sont souvent vendeurs, ou doivent engager des travaux de rénovation.
+
+  PARCELLE                   ADRESSE                                        CLASSE LOGEMENT                   SURFACE      DISTANCE DPE DU
+
+  Section ZK n° 12           2 Saint Juste 56250 La                         G            Maison               89 m²        310 m      05/11/2025
+                             Vraie-Croix
+
+
+
+La parcelle est celle du point d'adresse du logement (cadastre). Pour connaître son propriétaire lorsqu'il s'agit d'un particulier,
+demandez un relevé de propriété au service de la publicité foncière ou à la mairie.
+
+Ces informations proviennent de bases publiques et ne préjugent ni de l'intention de vendre des propriétaires ni de la
+constructibilité des parcelles citées, qui relève d'une étude au cas par cas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          36 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               La Vraie-Croix · ZP 149
+           TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+      11           Votre projet, étape par étape
+De l'achat du terrain à la déclaration aux impôts : démarches, délais, coûts et contacts.
+
+
+
+11.1 Analyse
+Le terrain est soumis au plan local d'urbanisme (PLU) de La Vraie-Croix, approuvé le 06/10/2025. Il est
+classé principalement en zone A. Zone agricole : secteur protégé en raison du potentiel agronomique,
+biologique ou économique des terres. Seules y sont admises les constructions et installations
+nécessaires à l'exploitation agricole et aux services publics, ainsi que l'extension limitée des habitations
+existantes.
+
+En l'état, une construction nouvelle n'est pas possible. Seules des évolutions limitées peuvent être
+envisagées selon le règlement de la zone (extension mesurée d'une habitation existante, annexes,
+équipements publics). Le classement ne peut évoluer qu'à l'occasion d'une modification ou d'une révision
+du document d'urbanisme, à l'initiative de la commune.
+
+
+11.2 Votre projet, étape par étape
+Les étapes ci-dessous suivent l'ordre réel d'un projet de construction, de l'achat du terrain à la déclaration aux
+impôts. Les montants sont indicatifs et à confirmer par devis.
+
+  1      Avant d'acheter le terrain
+         Vérifiez les règles de la zone (chapitres précédents), puis demandez un certificat d'urbanisme opérationnel
+         (Cerfa 13410, sans frais, réponse sous 2 mois) : il fige les règles pendant 18 mois. En zone d'argiles d'aléa
+         moyen ou fort, le vendeur doit fournir une étude de sol préalable.
+         Contact : Mairie de La Vraie-Croix · 02 97 67 23 62 · secretariat@lavraiecroix.com · formulaire sur service-public.fr
+         (rechercher « Cerfa 13410 »)
+
+  2      Les études
+         Étude de sol géotechnique (G2) pour dimensionner les fondations : 1 500 à 3 000 €. Étude thermique RE2020,
+         obligatoire pour le permis : 500 à 1 500 €. Bornage par un géomètre si les limites sont incertaines. L'étude de
+         sol ne porte pas sur les espèces protégées : un écologue n'intervient qu'en cas d'enjeu (chapitre
+         Environnement).
+         Géomètres proches du terrain : liste à la fin de ce chapitre
+
+  3      Les plans
+         Architecte obligatoire si la surface de plancher totale dépasse 150 m². En dessous, vous pouvez dessiner les
+         plans vous-même ou faire appel à un dessinateur ou maître d'œuvre (environ 1 500 à 4 000 € le dossier de
+         permis). Architecte : 3 000 à 8 000 € pour la seule mission de permis, 8 à 12 % du coût des travaux pour une
+         mission complète avec suivi du chantier.
+         Trouver un architecte : annuaire de l'Ordre des architectes sur architectes.org
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          37 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+  4      Déposer le permis
+         Formulaire Cerfa 13406 (maison individuelle) et pièces PCMI1 à PCMI8 : plan de situation, plan de masse,
+         coupe, notice, plans des façades et toitures, insertion dans le paysage, photos, attestation RE2020. Dépôt en
+         mairie ou en ligne sur le guichet numérique de la commune. La mairie a 1 mois pour réclamer une pièce
+         manquante ; l'instruction dure 2 mois à partir du dossier complet, plus en secteur protégé.
+         Dépôt : Mairie de La Vraie-Croix · 02 97 67 23 62 · secretariat@lavraiecroix.com · formulaire sur service-public.fr
+         (rechercher « Cerfa 13406 »)
+
+  5      Affichage et recours
+         Dès l'accord, installez le panneau de permis sur le terrain, lisible depuis la voie, pendant toute la durée du
+         chantier. Les tiers ont 2 mois à compter du premier jour d'affichage pour contester ; la mairie peut retirer un
+         permis illégal pendant 3 mois. Faites constater l'affichage par un commissaire de justice (environ 300 à 600 €
+         pour les trois constats).
+         Commissaires de justice : annuaire sur commissaire-justice.fr
+
+  6      Avant les travaux
+         Souscrivez l'assurance dommages-ouvrage, obligatoire (souvent 2 à 4 % du coût de la construction). Signez
+         le contrat de construction de maison individuelle ou les marchés des artisans. Déposez la déclaration
+         d'ouverture de chantier (Cerfa 13407) le jour du démarrage. Le permis est valable 3 ans, prorogeable deux
+         fois d'un an.
+         Déclaration d'ouverture : Mairie de La Vraie-Croix · 02 97 67 23 62 · secretariat@lavraiecroix.com
+
+  7      Le financement
+         La banque débloque le prêt au fur et à mesure du chantier, sur présentation des factures des entreprises ou
+         des appels de fonds du constructeur. Avec un contrat de construction de maison individuelle, l'échéancier
+         est encadré par la loi : 15 % à l'ouverture du chantier, 25 % aux fondations, 40 % aux murs, 60 % hors d'eau,
+         75 % hors d'air et cloisons, 95 % aux équipements, le solde à la réception. Des intérêts intercalaires peuvent
+         courir sur les sommes débloquées.
+         Votre banque ou votre courtier
+
+  8      La fin du chantier
+         Réception des travaux avec le constructeur ou les artisans, avec réserves si nécessaire. Déposez ensuite la
+         déclaration attestant l'achèvement et la conformité des travaux (DAACT, Cerfa 13408), avec l'attestation
+         RE2020 de fin de chantier. La mairie a 3 mois pour la contester (5 mois en secteur protégé).
+         Dépôt : Mairie de La Vraie-Croix · 02 97 67 23 62 · secretariat@lavraiecroix.com
+
+  9      Les impôts
+         Dans les 90 jours suivant l'achèvement, déclarez la construction sur impots.gouv.fr, espace « Gérer mes
+         biens immobiliers ». Cette déclaration sert au calcul de la taxe d'aménagement (payée en une fois sous 1 500
+         €, sinon en deux fois, estimation plus bas dans ce chapitre) et de la taxe foncière, avec une exonération
+         possible les deux premières années selon la commune.
+         impots.gouv.fr › Espace particulier › Gérer mes biens immobiliers
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          38 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+11.3 Les points à vérifier pour ce terrain
+  1      Certificat d'urbanisme opérationnel
+         Le demander en mairie (formulaire Cerfa 13410), en décrivant le projet. Gratuit, il indique si le terrain
+         peut accueillir le projet et fige les règles d'urbanisme pendant 18 mois.
+
+  2      Règlement de la zone
+         Lire le règlement écrit de la zone A et, le cas échéant, les orientations d'aménagement, disponibles sur
+         le Géoportail de l'Urbanisme.
+
+  3      Réseaux et accès
+         Vérifier l'accès à une voie publique ou privée adaptée, la desserte en eau potable et en électricité, et le
+         mode d'assainissement. En l'absence de réseau collectif, une étude de sol et l'avis du service public
+         d'assainissement non collectif (SPANC) sont nécessaires.
+
+  4      Bornage
+         Faire réaliser un bornage par un géomètre-expert pour fixer les limites exactes et la surface réelle du
+         terrain.
+
+  5      Sécuriser un achat
+         Pour une acquisition, prévoir dans le compromis une condition suspensive d'obtention d'un permis de
+         construire purgé de tout recours.
+
+
+11.4 Délais indicatifs d'instruction
+  DEMANDE                                                                                 DÉLAI DE DROIT COMMUN
+
+  Certificat d'urbanisme d'information (CUa)                                              1 mois
+
+  Certificat d'urbanisme opérationnel (CUb)                                               2 mois
+
+  Déclaration préalable                                                                   1 mois
+
+  Permis de construire une maison individuelle                                            2 mois
+
+  Permis d'aménager, autres permis de construire                                          3 mois
+
+
+
+Ces délais peuvent être majorés, notamment en site classé ou inscrit, aux abords d'un monument historique ou lorsque la
+consultation d'un service extérieur est nécessaire.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          39 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+11.5 Taxe d'aménagement à prévoir
+     Exemple : une maison de 120 m² en résidence principale, avec une piscine de 3 × 6 m. Sur ce terrain, la
+     taxe d'aménagement à prévoir est d'environ 2 680 €.
+
+
+
+  PROJET                                                                                                       TAXE ESTIMÉE
+
+  Maison de 120 m², résidence principale                                                                       2 500 €
+
+  Piscine de 3 × 6 m (18 m²)                                                                                   180 €
+
+  Total à prévoir                                                                                              2 680 €
+
+
+
+Taux appliqués : 2 % pour la commune et 2 % pour le département, sur une valeur forfaitaire de 892 € par m² en 2026 (251
+€ par m² de bassin pour une piscine). Une résidence principale bénéficie d'un abattement de 50 % sur ses 100 premiers m².
+
+La taxe est due une fois les travaux terminés : elle se déclare sur impots.gouv.fr dans les 90 jours suivant l'achèvement, et
+se paie en deux fois au-delà de 1 500 €. Pour calculer votre propre projet :
+terrenurbanisme.com/outils/taxe-amenagement.html
+
+
+11.6 Implanter une entreprise : zone France Ruralités Revitalisation
+     La commune de La Vraie-Croix n'est pas classée en zone France Ruralités Revitalisation (FRR). Une
+     entreprise qui s'y installe ne bénéficie pas de l'exonération d'impôt sur les bénéfices liée à ce zonage.
+
+
+
+Source : ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 (collectivites-locales.gouv.fr).
+
+
+11.7 Géomètres proches du terrain
+Le géomètre-expert est le seul professionnel habilité à fixer les limites de propriété (bornage) et à établir les
+documents d'arpentage déposés au cadastre. Il intervient aussi pour les relevés topographiques et les
+divisions de terrain.
+
+5,7 km            QUARTA
+                                                                                                                           Coordonnées
+                  46 BOULEVARD PASTEUR 56230 QUESTEMBERT
+
+
+5,8 km            GEO1M
+                                                                                                                           Coordonnées
+                  6 PLACE DE L'EPINE 56230 QUESTEMBERT
+
+
+8 km              CABINET MARMAGNE
+                                                                                                                           Coordonnées
+                  11 RUE DES FRERES CHATTE 56230 MOLAC
+
+
+11,7 km           COGEO
+                                                                                                                           Coordonnées
+                  20 RUE DU BARON 56450 THEIX-NOYALO
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          40 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+14,2 km           MARC COURCIMAULT
+                                                                                                                           Coordonnées
+                  7 PARC LANN FLOREN 56450 SURZUR
+
+
+15,3 km           GEOBRETAGNESUD (GBS)
+                                                                                                                           Coordonnées
+                  22 RUE DES LILAS 56190 MUZILLAC
+
+
+Source : répertoire Sirene de l'INSEE (activité des géomètres), classé par distance au terrain. L'inscription d'un cabinet à l'Ordre
+des géomètres-experts se vérifie sur geometre-expert.fr. Le bouton « Coordonnées » ouvre la fiche du cabinet (téléphone,
+horaires, itinéraire). Cette liste est fournie à titre indicatif, sans partenariat ni recommandation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          41 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                           12 · État des risques (ERP) pré-rempli
+
+
+
+
+    12             État des risques (ERP) pré-rempli
+     DANS CETTE SECTION
+
+     Le formulaire réglementaire à remettre à l'acquéreur ou au locataire, pré-rempli à partir des
+     bases officielles : plans de prévention, sismicité, radon, sols pollués, trait de côte, bruit des
+     aérodromes.
+
+
+Articles L. 125-5 à L. 125-7 et R. 125-23 à R. 125-27 du Code de l'environnement · modèle fixé par l'arrêté du 27 septembre
+2022.
+
+
+     Formulaire pré-rempli à partir de Géorisques et du Géoportail de l'Urbanisme à la date du rapport.
+     Avant de le remettre à l'acquéreur ou au locataire, le vendeur ou le bailleur le vérifie, le complète
+     (sinistres indemnisés) et le signe ; il doit dater de moins de six mois à la signature de la promesse, du
+     bail ou de l'acte.
+
+
+
+
+12.1 Situation du bien
+Commune                                                  La Vraie-Croix (56261)
+
+Département                                              Morbihan (56)
+
+Références cadastrales                                   Section ZP, parcelle n° 149 · 56261000ZP0149
+
+Surface cadastrale                                       54 199 m²
+
+
+
+12.2 Plans de prévention des risques
+  L'IMMEUBLE EST SITUÉ DANS LE PÉRIMÈTRE…                                         RÉPONSE                DÉTAIL
+
+  d'un plan de prévention des risques naturels (PPRN)                             Oui                    PM1 PPRi St Eloi ass
+  prescrit, appliqué par anticipation ou approuvé
+
+  d'un plan de prévention des risques miniers (PPRM)                              Non                    Non recensé
+
+  d'un plan de prévention des risques technologiques                              Non                    Risques technologiques sur la commune
+  (PPRT)                                                                                                 : installations industrielles (icpe),
+                                                                                                         pollution des sols
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           42 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                           12 · État des risques (ERP) pré-rempli
+
+
+
+
+12.3 Autres zonages réglementaires
+  L'IMMEUBLE EST SITUÉ…                                                           RÉPONSE                DÉTAIL
+
+  dans une commune de sismicité (zones 2 à 5 : règles de                          Oui                    Zone 2 – faible
+  construction parasismique)
+
+  dans une commune à potentiel radon de niveau 3                                  Oui                    Catégorie 3 (potentiel significatif)
+
+  dans un secteur d'information sur les sols (SIS)                                Non                    Aucun SIS recensé à proximité
+
+  dans une zone exposée au recul du trait de côte                                 Non                    Non concerné selon Géorisques
+
+  dans une zone de bruit d'un plan d'exposition au bruit                          À vérifier             Aucun PEB annexé au document
+  d'aérodrome (PEB)                                                                                      d'urbanisme ; vérifier auprès de la mairie
+
+  dans une zone de retrait-gonflement des argiles                                 Oui                    Existant – modéré
+  (information)
+
+
+
+
+12.4 Sinistres indemnisés et déclarations
+Arrêtés de catastrophe naturelle sur la commune : 3 (liste en section Risques). Le vendeur ou le bailleur
+déclare ci-dessous les sinistres ayant donné lieu à une indemnisation au titre des catastrophes naturelles ou
+technologiques pendant la période où il a été propriétaire.
+
+Sinistres indemnisés                                     [ ] Oui [ ] Non
+
+Vendeur ou bailleur                                      Nom : ____________________ Date : ___/___/______ Signature :
+
+Acquéreur ou locataire                                   Nom : ____________________ Date : ___/___/______ Signature :
+
+
+L'état des risques officiel peut aussi être édité gratuitement sur Géorisques (errial.georisques.gouv.fr). Les informations
+ci-dessus sont établies à partir des bases nationales ; en cas de divergence, l'arrêté préfectoral relatif à l'information des
+acquéreurs et des locataires fait foi.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           43 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                                      13 · Avertissement et sources
+
+
+
+
+    13             Avertissement et sources
+     DANS CETTE SECTION
+
+     La portée de ce rapport et la liste des sources publiques consultées.
+
+
+
+13.1 Nature du document
+Ce rapport est un document d'information établi automatiquement, à la date indiquée en page de garde, à
+partir des données publiques officielles alors disponibles. Il n'a aucune valeur contractuelle, réglementaire ou
+juridique.
+
+
+13.2 Ce que ce rapport n'est pas
+Il ne constitue ni un certificat d'urbanisme au sens de l'article L. 410-1 du Code de l'urbanisme, ni une
+autorisation d'urbanisme (permis de construire, permis d'aménager, déclaration préalable), ni un état des
+risques au sens de l'article L. 125-5 du Code de l'environnement, ni un bornage, ni une expertise, ni une
+évaluation immobilière, ni une consultation juridique. Il n'engage en rien l'administration.
+
+
+13.3 Permis de construire
+Ce rapport ne peut en aucun cas être joint, produit ou invoqué à l'appui d'une demande de permis de
+construire, de permis d'aménager ou de déclaration préalable, ni opposé à la mairie ou à un service de l'État. Il
+ne garantit pas l'obtention d'une autorisation : seule l'autorité compétente se prononce, au vu d'un projet
+précis et de l'ensemble des règles applicables à la date de sa décision.
+
+
+13.4 Limites des données
+Les données sont produites par des organismes publics dont l'éditeur n'est ni l'auteur ni le garant. Elles
+peuvent être incomplètes, imprécises ou ne pas refléter une modification, une révision, une mise en
+compatibilité, une annulation contentieuse, un sursis à statuer ou une procédure en cours. Le plan cadastral,
+document fiscal, ne fait pas foi des limites de propriété. Surfaces, distances, altitudes et pentes sont
+approchées. Les extraits et analyses du règlement sont une aide à la lecture : seul le texte intégral du
+document d'urbanisme approuvé, consultable en mairie, fait foi.
+
+
+13.5 Avant toute décision
+Avant toute acquisition, cession, financement, promesse de vente ou dépôt d'une demande, le lecteur doit
+obtenir un certificat d'urbanisme opérationnel auprès de la mairie, consulter le document d'urbanisme en
+vigueur et recueillir l'avis d'un professionnel habilité (notaire, architecte, géomètre-expert, avocat). Pour un
+achat, il est recommandé de stipuler une condition suspensive d'obtention d'un permis de construire purgé de
+tout recours.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           44 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                                      13 · Avertissement et sources
+
+
+
+
+13.6 Responsabilité
+L'éditeur ne saurait être tenu responsable d'une décision prise sur le seul fondement de ce rapport, ni d'un
+refus d'autorisation, d'une erreur ou d'une omission des sources publiques, dans les limites prévues par les
+conditions générales de vente acceptées lors de la commande.
+
+
+13.7 Sources consultées
+  DONNÉE                                                    SOURCE
+
+  Cadastre                                                  DGFiP, plan cadastral informatisé, via API Carto (IGN)
+
+  Photographies et plans                                    IGN, Géoplateforme : orthophotographies, Plan IGN, parcellaire express
+
+  Urbanisme                                                 Géoportail de l'Urbanisme : zonage, prescriptions, informations, servitudes
+                                                            d'utilité publique
+
+  Littoral                                                  IGN, BD TOPO (limite terre-mer) ; communes littorales (Géoportail de
+                                                            l'Urbanisme)
+
+  Montagne                                                  Ministère de la Cohésion des territoires, communes de la loi Montagne
+
+  Risques                                                   Géorisques (ministère de la Transition écologique) : rapport de risques,
+                                                            arrêtés CatNat, sismicité, radon, ICPE, sites pollués
+
+  Environnement                                             Inventaire national du patrimoine naturel (PatriNat), via API Carto
+
+  Altitude, pente et exposition                             IGN, RGE ALTI
+
+  Ensoleillement                                            Calcul astronomique de la course du soleil ; masque du relief (IGN, RGE
+                                                            ALTI) et des bâtiments (IGN, BD TOPO)
+
+  Voirie et accès                                           IGN, BD TOPO (tronçons de route)
+
+  Permis de construire                                      Sitadel, service des données et études statistiques (SDES) du ministère
+                                                            chargé du logement
+
+  Photographies anciennes                                   IGN, BD ORTHO historique
+
+  Fibre et internet                                         Arcep, Ma connexion internet (éligibilité par adresse)
+
+  Géomètres                                                 Répertoire Sirene (INSEE), activité des géomètres
+
+  Propriétaires personnes morales                           DGFiP, fichiers des parcelles des personnes morales (diffusion Koumoul)
+
+  Diagnostics énergétiques                                  ADEME, base des DPE des logements existants
+
+  Procédures collectives                                    Bodacc, annonces commerciales (DILA)
+
+  Bâtiments                                                 IGN, BD TOPO
+
+  Réseau électrique                                         Agence ORE (gestionnaires de réseaux de distribution : Enedis, EDF Corse
+                                                            et entreprises locales) : réseau basse tension et postes de distribution
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           45 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                                      13 · Avertissement et sources
+
+
+
+
+  DONNÉE                                                    SOURCE
+
+  Taxe d'aménagement                                        DGFiP, éléments de taxation votés par les collectivités ; valeurs forfaitaires
+                                                            fixées par arrêté
+
+  Rapport officiel de risques                               Géorisques, ministère chargé de l'environnement
+
+  Zone France Ruralités Revitalisation                      ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 ; article
+                                                            44 quindecies A du code général des impôts
+
+  Marché immobilier                                         Statistiques des demandes de valeurs foncières (DVF) par commune, DGFiP
+                                                            et Etalab
+
+  Date d'extraction                                         20/11/2026
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           46 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               La Vraie-Croix · ZP 149
+         TerrenUrbanisme
+                                                                                                                     Annexe · règlement de la zone
+
+
+
+
+ANNEXE
+
+
+Règlement écrit · zone A
+Les pages suivantes reproduisent le chapitre du règlement officiel applicable à la zone de la parcelle
+(pages 44 à 50 du document approuvé), tel que publié sur le Géoportail de l'Urbanisme. Il s'agit d'une
+reproduction à titre d'information : seule la version approuvée tenue à disposition en mairie fait foi, avec
+ses annexes, plans et éventuelles modifications ultérieures.
+Règlement complet :
+https://data.geopf.fr/annexes/gpu/documents/DU_56261/495a373c0e1ad5343eb8adcf2a2f3a39/56261_reglement_20251006.pdf
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          47 / 55
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+PLU de La Vraie-Croix                                   Règlement
+
+
+
+
+                   Titre 4 : Dispositions applicables
+                            à la zone agricole
+
+
+
+
+Mairie de La Vraie-Croix                                      44
+PLU de La Vraie-Croix                                                                     Règlement
+
+La zone A correspond aux secteurs de la commune, équipés ou non, à protéger en raison du
+potentiel agronomique, biologique ou économique des terres agricoles.
+La zone A comporte deux secteurs spécifiques :
+-   le secteur Ab, secteur agricole inconstructible,
+-   le secteur Ai correspondant à l’écosite de la Croix Irtelle.
+
+
+Rappels
+    -   L'édification des clôtures est soumise à déclaration, conformément aux dispositions des
+        articles L. 441-1 et R. 441-1 et suivants du Code de l’Urbanisme.
+    -   Les installations et travaux divers sont soumis à autorisation, conformément aux
+        dispositions des articles L. 442-1 et R. 442-1 et suivants du Code de l’Urbanisme.
+    -   Les démolitions sont soumises au permis de démolir dans les périmètre de protection
+        des sites et monuments historiques.
+    -   Dans les espaces boisés classés à protéger, à conserver ou à créer, le défrichement est
+        interdit ; les coupes et abattages d'arbres sont soumis à autorisation suivant les
+        modalités prévues à l'article R. 130-1 du Code de l'Urbanisme.
+
+
+Article A 1 - Occupations et utilisations du sol interdites
+Les constructions et installations non liées et nécessaires à l’exploitation des terres agricoles ou
+du sous-sol ainsi qu’aux services publics ou équipements d’intérêt collectif sont interdites en
+zone A sauf application de l’article A2.
+L'implantation d'habitations légères de loisirs ainsi que les résidences mobiles de loisirs,
+groupées ou isolées,
+Le stationnement de caravanes sauf en garage mort dans les bâtiments et remises et les
+terrains où est implantée la construction constituant la résidence de l’utilisateur.
+Les dépôts de véhicules (notamment les dépôts de Résidences Mobiles de Loisirs) et les
+garages collectifs de caravanes qui sont susceptibles d’accueillir au moins cinq unités.
+Dans le secteur Ab, toute construction est interdite, quelqu’en soit l’usage, à l’exception de
+l’extension limitée des bâtiments existants, conformément aux dispositions de l’article A2.
+
+
+Article A 2 - Occupations et utilisations du sol soumises à conditions particulières
+-   L'édification des constructions à usage de logement de fonction strictement liées et
+    nécessaires au fonctionnement des exploitations agricoles (surveillance permanente et
+    rapprochée), dans la limite d'un seul logement par exploitation quelle que soit la structure
+    juridique de l'exploitation et à condition d’être implanté à une distance n'excédant pas 50 m
+    d'un ensemble bâti habité (hameau) ou d'une zone constructible à usage d'habitat située
+    dans le voisinage proche du corps d'exploitation.
+    L'implantation de la construction ne devra, en aucun cas, favoriser la dispersion de
+    l'urbanisation et apporter une gêne pour le développement par des tiers, d'activités
+    protégées par la zone.
+    En cas de transfert ou de création d'un corps d'exploitation agricole, la création d'un
+    éventuel logement de fonction ne pourra être acceptée qu'après la réalisation des bâtiments
+    d'exploitation.
+
+
+-   En l'absence de logement de fonction sur place ou à proximité immédiate du corps principal
+    d'exploitation, les locaux (bureau, pièce de repos, sanitaires) nécessaires à la présence
+
+Mairie de La Vraie-Croix                                                                         45
+PLU de La Vraie-Croix                                                                  Règlement
+
+    journalière de l'exploitant sur son principal lieu d'activité, et sous réserve qu'ils soient
+    incorporés ou en extension d'un des bâtiments faisant partie du corps principal et que la
+    emprise au sol ne dépasse pas 35 m².
+
+
+-   Les installations agricoles génératrices de nuisances sont autorisées à condition qu'elles
+    soient implantées conformément aux exigences de la réglementation (législation sur les
+    installations classées et réglementation sanitaire).
+
+
+-   Les constructions et installations entrant dans le cadre d’une diversification de l’activité
+    agricole (création de gîtes ruraux, de locaux de vente à la ferme…) de même que les
+    changements de destination sont admis à condition que l’agriculture reste l’activité
+    principale de l’exploitation.
+
+
+-   Les constructions, installations, équipements d'intérêt collectif et ouvrages spécifiques qui
+    ont pour objet la satisfaction d'une mission d'utilité publique (notamment les équipements
+    liés à la production d’énergie renouvelable) sont admis sous réserve d'une bonne intégration
+    dans le site.
+
+
+-   L’extension limitée des habitations existant à la date d’approbation du P.L.U. approuvé le 03
+    mars 2005 à la triple condition suivante :
+     - que les extensions ne dépassent pas 30% de l’emprise au sol au 3 mars 2005
+         (approbation du présent document) dans une limite de 30m² maximum,
+     - que les extensions soit réalisées en continuité avec le bâtiments existant,
+     - qu’il n’y ait pas création de logement supplémentaire.
+
+
+-   Sous réserve de la présence de bâtiment existant à usage d’habitation, les piscines sont
+    autorisées, sous réserve qu’elles soient implantées à une distance maximale de 30 mètres
+    en tout point de la construction principale. .
+-   Les annexes à la construction principale sont autorisées sous réserve que leur emprise au
+    sol n’excède pas 30 m² à la date d’approbation du PLU et qu’elles soient implantées à une
+    distance maximale de 30 mètres en tout point de la construction principale. Une exception
+    est admise pour les annexes ayant vocation à accueillir des animaux qui pourront
+    s’implanter à une distance maximale de 50 mètres en tout point de la construction principale
+    pour des raisons de nuisances auditives et olfactives.
+-   Les dispositifs d’assainissement non collectifs liés à une habitation existante (ou à un
+    bâtiment pouvant faire l’objet d’un changement de destination) sont autorisés à condition
+    d’être implantés sur le même îlot de propriété et à proximité de l’habitation.
+
+
+-   De plus, dans le secteur Ai, les constructions et installations liées et nécessaires à
+    l’exploitation d’un écosite sont autorisées sont autorisées à condition que soient respectées
+    les règles d’éloignement en vigueur par rapport aux tiers.
+
+
+Article A 3 - Voiries et accès
+Voirie
+Les dimensions, formes et caractéristiques techniques des voies publiques ou privées doivent
+être adaptées aux usages qu'elles supportent ou aux opérations qu'elles doivent desservir.
+
+
+
+Mairie de La Vraie-Croix                                                                      46
+PLU de La Vraie-Croix                                                                   Règlement
+
+Les voies doivent présenter des caractéristiques permettant de satisfaire aux exigences de la
+sécurité, de la défense contre l'incendie et de la protection civile et comporter une chaussée
+d'au moins 3,5 m de largeur. Toutefois, cette largeur peut être réduite sous réserve de l'avis
+favorable des services compétents.
+Est interdite l'ouverture de toute voie privée non directement liée et nécessaire aux occupations
+ou utilisations du sol autorisées dans la zone.
+
+
+Accès
+Pour être constructible, un terrain doit avoir accès à une voie publique ou privée, soit
+directement, soit par l'intermédiaire d'un passage aménagé sur fonds voisin ou éventuellement
+obtenu par l'application de l'article 682 du Code Civil.
+Les accès doivent être adaptés à l'opération et aménagés de façon à apporter la moindre gêne
+à la circulation publique.
+Les accès sur une voie ouverte à la circulation générale, doivent être aménagés de telle
+manière que :
+- la visibilité soit assurée de part et d’autre de la voie d’accès,
+- l’accès des véhicules utilitaires puisse s’effectuer sans manœuvre dangereuse sur la voie
+   principale.
+Aucune opération ne peut prendre accès le long des routes départementales sauf si un
+carrefour est aménagé avec l'accord du gestionnaire de l'itinéraire. Aucune opération ne peut
+prendre accès sur les pistes cyclables et sentiers piétons.
+Le long des autres voies publiques, pour des raisons de fluidité et de sécurité du trafic, les
+débouchés directs doivent être limités à un seul par propriété au plus.
+Lorsque le terrain sur lequel l'opération est envisagée est riverain de plusieurs voies publiques,
+l'accès sur celle de ces voies qui présenterait une gêne ou un risque pour la circulation peut
+être interdit.
+L'accès des équipements exceptionnels liés à la route (garages, stations-service…) est soumis
+uniquement à la réglementation spécifique les concernant.
+
+
+Article A 4 - Desserte par les réseaux
+Alimentation en eau :
+Toute construction à usage d'habitation, tout établissement ou installation abritant des activités
+ou des loisirs doit être alimenté en eau potable.
+Lorsque l'alimentation en eau d'un immeuble ne peut s'effectuer par branchement sur le réseau
+public de distribution d'eau potable, elle peut être réalisée par des captages, forages ou puits
+particuliers, mais la distribution doit s'effectuer par des canalisations.
+Dans ce cas, une zone de protection autour du point d'eau devra être respectée (conformément
+aux dispositions de la réglementation sanitaire).
+Sont interdits tous travaux de branchement à un réseau d'alimentation en eau potable non
+directement liés et nécessaires aux activités ou installations autorisées dans la zone.
+
+
+Assainissement :
+
+a) Eaux usées
+Sous réserve des dispositions de la législation relative aux installations classées, toute
+construction ou installation nouvelle doit évacuer ses eaux usées par des canalisations
+souterraines de caractéristiques suffisantes raccordées au réseau public d'assainissement.
+
+Mairie de La Vraie-Croix                                                                       47
+PLU de La Vraie-Croix                                                                      Règlement
+
+En l’absence d’un tel réseau, les installations individuelles d’assainissement, conformes aux
+normes fixées par la réglementation en vigueur, sont admises. Pour les constructions nouvelles
+nécessitant un système individuel d’assainissement par épandage, il conviendra de vérifier que
+le terrain est apte à recevoir de telles installations. Le système d’assainissement doit être
+adapté à la pédologie, à la topographie et à l’hydrologie du sol.
+
+b) Eaux pluviales
+Les aménagements réalisés sur le terrain doivent garantir l'écoulement des eaux pluviales dans
+le réseau collecteur.
+En l'absence de réseau ou en cas de réseau insuffisant, les aménagements nécessaires au
+libre écoulement des eaux pluviales (et éventuellement ceux visant à la limitation des débits
+évacués de la propriété) sont à la charge exclusive du propriétaire qui doit réaliser les dispositifs
+adaptés à l'opération et au terrain.
+
+
+Article A 5 - Superficie minimale des terrains constructibles
+Sans objet
+
+
+Article A 6 - Implantation des constructions par rapport aux voies et emprises publiques
+Sauf indications contraires portées aux documents graphiques, les constructions nouvelles, à
+l’exception des bâtiments d’exploitation agricole, doivent respecter la marge de recul minimale
+de 75 m par rapport à l’axe de la RD 775 et de ses bretelles d’accès.
+Le long des autres routes départementales, les constructions nouvelles doivent respecter une
+marge de recul minimale de 35 m par rapport à l’axe de la voie.
+Le long des autres voies, sauf indications contraires portées au document graphique, les
+constructions doivent être implantées à au moins 5 m de la limite d'emprise des voies.
+Pour tenir compte des constructions déjà existantes dans l'emprise des marges de recul, il sera
+permis de créer une extension ou de construire une annexe à la construction dans la marge de
+recul à condition respecter au moins le recul du bâtiment principal par rapport à la voie.
+Toutefois, pour protéger l’unité architecturale du secteur, l'implantation de la construction en
+limite séparative ou dans le prolongement des constructions existantes peut être imposée.
+L'implantation des équipements exceptionnels liés à la route (stations-service, garages...) est
+soumise uniquement à la réglementation spécifique les concernant.
+
+
+Article A 7 - Implantation des constructions par rapport aux limites séparatives
+Les constructions, lorsqu'elles ne jouxtent pas les limites séparatives, doivent être implantées à
+une distance de ces limites au moins égale à la moitié de leur hauteur mesurée à l'égout de
+toiture, sans pouvoir être inférieure à 3 m.
+Toutefois, pour protéger l’unité architecturale du secteur, l'implantation de la construction en
+limite séparative ou dans le prolongement des constructions existantes peut être imposée.
+En outre, les constructions renfermant des animaux vivants (établissements de vente ou de
+transit, d'élevage ou d'engraissement) et les fosses à l'air libre doivent respecter une marge
+d'isolement par rapport aux limites des zones U, AU, Nh et Nl. Cette marge d'isolement est
+déterminée en fonction de la nature et de l'importance des établissements et de leurs
+nuisances, et doit être au moins égale aux distances indiquées par la réglementation spécifique
+qui lui est applicable.
+La réutilisation des bâtiments d'élevage existants, lorsqu'elle se justifie par des impératifs
+fonctionnels, pourra être admise à une distance moindre ainsi que leur extension à condition
+
+Mairie de La Vraie-Croix                                                                          48
+PLU de La Vraie-Croix                                                                      Règlement
+
+que celle-ci ne s'effectue pas en direction des limites des autres zones sans pouvoir être
+inférieure à celle indiquée par le règlement sanitaire départemental ou la réglementation sur les
+établissements classés.
+
+
+Article A 8 - Implantation des constructions les unes par rapport aux autres sur une même
+propriété
+Sans objet
+
+
+Article A 9 - Emprise au sol des constructions
+Sans objet
+
+
+Article A 10 - Hauteur maximale des constructions
+La hauteur maximale des constructions à usage d’habitation autorisées est fixée à :
+- 10 m au faîtage pour les constructions couvertes par une toiture à pentes traditionnelles ou
+   présentant un arrondi,
+- 7 m à l'acrotère pour les constructions couvertes en toiture-terrasse ou à faible pente.
+Toutefois, une hauteur supérieure ou inférieure à celles fixées ci-dessus, peut être autorisée ou
+imposée par adaptation mineure ou en cas de reconstruction après sinistre.
+La hauteur des bâtiments à usage de production agricole ou de stockage n'est pas limitée.
+La hauteur maximale des constructions à usage d'équipement d'intérêt collectif n'est pas
+limitée.
+
+
+Article A 11 - Aspect extérieur des constructions et aménagement de leurs abords
+Tous travaux ayant pour objet de détruire un élément de paysage identifié par le présent PLU
+en application du 7° de l'article L. 123-1 doivent faire l'objet d'un autorisation préalable dans les
+conditions prévues aux articles R. 442-2 et suivants du Code de l'urbanisme.
+Les constructions doivent s’intégrer à leur environnement. Les différents types d’occupation ou
+d’utilisation du sol autorisés peuvent être refusés ou n’être accordés que sous réserve de
+l’observation de prescriptions spéciales.
+Les lucarnes et les châssis vitrés dans le plan de la toiture sont autorisés. La pente de la toiture
+des lucarnes sera égale à celle de la couverture principale.
+
+
+Clôtures
+Les clôtures préexistantes de qualité, telles que les murs de pierre, doivent être conservées et
+entretenues.
+L'édification des clôtures habituellement nécessaires à l'activité agricole ou forestière n'est pas
+soumise à déclaration.
+Les clôtures autour des bâtiments doivent répondre à l'un de types suivants ou à leur
+combinaison :
+- talus existants et haies végétales qu'il convient de maintenir et d'entretenir,
+- grillages simples sur poteaux d'une hauteur maximale de 1,50 m au-dessus du sol naturel,
+- murs bahuts ou murs de moellons apparents d'une hauteur maximale de 0,80 m
+   éventuellement surmontés d'une lisse ou d'un grillage jusqu'à une hauteur maximale de
+   1,50 m ; toutefois, la hauteur des clôtures éventuelles en maçonneries pourra atteindre
+   2,00 m lorsqu'elles constituent le prolongement d'un alignement ou de la construction elle-
+
+Mairie de La Vraie-Croix                                                                          49
+PLU de La Vraie-Croix                                                                       Règlement
+
+    même, sous réserve qu'elles soient de nature et d'aspect similaires aux maçonneries
+    qu'elles prolongent ou lorsqu'il s'agit d'une clôture sur les limites séparatives,
+-   claustras en bois en limites séparatives uniquement.
+L’emploi à nu de matériaux destinés à être enduits est interdit.
+Tout autre mode de clôture autour des bâtiments est interdit, notamment l'utilisation des
+plaques de béton préfabriquées.
+Les clôtures différentes ne sont pas admises sauf impératifs particuliers de sécurité justifiés par
+le caractère de l'établissement concerné.
+
+
+Article A 12 – Réalisation d’aires de stationnement
+Le stationnement des véhicules automobiles et des deux roues, correspondant aux besoins des
+constructions et installations, doit être assuré en dehors des voies publiques selon les normes
+définies en annexe du présent règlement (annexe n°2).
+
+
+Article A 13 – Réalisation d’espaces libres, d’aires de jeux et de loisirs et plantations
+Les terrains classés au plan comme espaces boisés à conserver, à protéger ou à créer sont
+soumis aux dispositions de l'article L. 130-1 du Code de l'urbanisme.
+Les dépôts et les installations pouvant émettre des nuisances devront être masqués par une
+haie de plantations d'essences locales formant écran.
+
+
+Article A 14 – Coefficient d’occupation du sol
+Sans objet
+
+
+
+
+Mairie de La Vraie-Croix                                                                          50
+                    TerrenUrbanisme
+
+    Merci de votre confiance
+Ce rapport a été établi à partir des sources publiques officielles pour vous
+  aider à décider en connaissance de cause. Pour toute question, nous
+                        restons à votre disposition.
+
+
+
+
+   Vous êtes professionnel ? Travaillons ensemble
+      Agents immobiliers, notaires, architectes, géomètres, diagnostiqueurs,
+promoteurs, mairies : faisons équipe. Crédits professionnels sans abonnement, 5
+€ le rapport dès 50 crédits, votre logo sur les rapports, offre communale pour les
+                       mairies et partenariats sur mesure.
+
+               Écrivez-nous : contact@terrenurbanisme.com
+
+
+
+
+                        terrenurbanisme.com
+                         contact@terrenurbanisme.com
+

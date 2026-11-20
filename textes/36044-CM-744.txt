@@ -1,0 +1,2956 @@
+                  TerrenUrbanisme
+                  Le terrain constructible, partout en France
+
+
+
+
+RAPPORT D'URBANISME
+
+
+
+Châteauroux
+Section CM · Parcelle n° 744
+      Constructible
+
+
+
+
+Référence cadastrale                                                        Surface cadastrale
+36044000CM0744                                                              545 m²
+
+Rapport établi le                                                           Référence du rapport
+20/11/2026                                                                  APERCU
+
+
+
+
+terrenurbanisme.com                                                                      contact@terrenurbanisme.com
+
+Document d'information sans valeur contractuelle ni réglementaire. Il ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme
+et ne peut en aucun cas être joint à une demande de permis de construire ou de déclaration préalable. Seuls les actes de l'administration font foi.
+                                                                                                                           Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                                                    Sommaire
+
+
+
+
+Sommaire
+Le rapport suit l'ordre d'une étude de terrain : où se trouve la parcelle, ce que dit la règle, ce qui pèse sur le
+projet, puis les démarches.
+
+              Synthèse
+   S                                                                                                                                      p. 3
+              Le verdict, les indicateurs clés et les points d'attention en une page.
+
+              Identification de la parcelle
+   01                                                                                                                                     p. 4
+              Localisation, surface, références cadastrales et voisinage du terrain.
+
+              Règles d'urbanisme applicables
+  02                                                                                                                                      p. 7
+              Document d'urbanisme, zone du terrain, prescriptions et servitudes.
+
+              Ce que vous pouvez construire
+  03                                                                                                                                     p. 10
+              Surface constructible, hauteur, reculs, aspect et usages autorisés.
+
+              Loi Littoral et loi Montagne
+  04                                                                                                                                     p. 16
+              Les lois qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+              Risques naturels et technologiques
+  05                                                                                                                                     p. 17
+              Inondation, feu de forêt, argiles, catastrophes naturelles et sites pollués.
+
+              Le terrain : accès, relief et réseaux
+  06                                                                                                                                    p. 20
+              Accès, pente, ensoleillement, eaux usées, électricité, eau et fibre.
+
+              Environnement et marché immobilier
+  07                                                                                                                                     p. 27
+              Espaces naturels, espèces protégées et ventes immobilières alentour.
+
+              Historique du site
+  08                                                                                                                                     p. 31
+              Le terrain vu du ciel au fil des années et les permis accordés autour.
+
+              Opportunités autour du terrain
+  09                                                                                                                                     p. 33
+              Grands terrains peu bâtis et logements énergivores à proximité.
+
+              Votre projet, étape par étape
+   10                                                                                                                                   p. 35
+              De l'achat aux impôts : démarches, délais, coûts, contacts et taxe.
+
+              État des risques (ERP) pré-rempli
+   11                                                                                                                                   p. 39
+              Le formulaire réglementaire à remettre à l'acquéreur, pré-rempli.
+
+              Avertissement et sources
+   12                                                                                                                                    p. 41
+              La portée de ce rapport et les sources publiques consultées.
+
+              Annexe : règlement de la zone
+   A                                                                                                                                    p. 44
+              Les pages officielles du règlement de la zone, telles qu'approuvées.
+
+
+
+
+Astuce : cliquez sur un chapitre pour y accéder directement.
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                     2 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                                                           Synthèse
+
+
+
+
+Synthèse
+     Document d'information. Ce rapport ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme,
+     n'engage pas l'administration et ne peut pas servir de pièce à une demande de permis de construire.
+     L'appréciation ci-dessous est indicative : seule la mairie se prononce sur la constructibilité d'un terrain,
+     au vu d'un projet précis.
+
+
+
+
+       CONSTRUCTIBLE
+
+       Le PLU autorise la construction
+       La parcelle est classée en zone Ub (urbaine) du PLU intercommunal de Châteauroux. Les
+       constructions y sont admises dans le respect du règlement de la zone.
+
+
+
+
+      Zone principale                                        Document d'urbanisme                                  Loi Littoral
+
+   Ub · 100 %                                             PLUI                                                   Ne s'applique pas
+
+
+
+
+      Loi Montagne                                           Risques à la parcelle
+
+   Ne s'applique pas                                      Remontée de nappe ·
+                                                          Séisme (+2)
+
+
+
+
+Points d'attention
+    Zone Ub (100 % de la parcelle) : constructible.
+    Retrait-gonflement des argiles (exposition forte) : en cas de vente d'un terrain non bâti constructible,
+    le vendeur doit fournir une étude géotechnique préalable (loi ELAN, article L. 132-5 du Code de la
+    construction et de l'habitation) ; une étude géotechnique de conception est exigée avant de
+    construire.
+    Pollution des sols : concerné à l'adresse de la parcelle (voir le chapitre « Risques naturels et
+    technologiques »).
+    18 arrêtés de catastrophe naturelle sur la commune.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            3 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+    01             Identification de la parcelle
+     DANS CETTE SECTION
+
+     Où se trouve le terrain, sa surface, ses références cadastrales, son propriétaire lorsqu'il s'agit
+     d'une société ou d'une collectivité, et la performance énergétique du bâti existant.
+
+
+Données du cadastre (DGFiP) et de l'IGN.
+
+
+     Plan de situation
+
+
+
+
+                                                                                                                            1 km
+
+
+
+Plan IGN · © IGN
+
+
+
+     Vue aérienne et plan cadastral
+
+
+
+
+                                                                                                                                        25 m
+
+
+
+Photographie aérienne et plan cadastral · © IGN
+
+
+Commune                                                  Châteauroux (36044)
+
+Département                                              Indre (36)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             4 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+Section et numéro                                        Section CM, parcelle n° 744, feuille 1
+
+Identifiant cadastral                                    36044000CM0744
+
+Surface cadastrale                                       545 m²
+
+Surface calculée (SIG)                                   533 m² · périmètre 102 m
+
+Coordonnées du centre                                    46.80223 N, 1.69032 E (WGS 84)
+
+Altitude                                                 157 m
+
+Pente estimée                                            1 % (terrain plutôt plat)
+
+Parcelles voisines                                       CM 405, CM 666, CM 743, CM 745
+
+
+Le plan cadastral est un document fiscal : il ne fait pas foi des limites de propriété. Seul un bornage réalisé par un
+géomètre-expert fixe les limites de manière certaine.
+
+
+1.1 Propriétaire et voisinage
+La parcelle ne figure pas au fichier des personnes morales : son propriétaire est vraisemblablement un
+particulier. Le nom des propriétaires particuliers n'est pas public ; il peut être demandé au service des impôts
+fonciers (relevé de propriété) ou obtenu par l'intermédiaire d'un notaire.
+
+Principaux propriétaires personnes morales dans un rayon de 280 m
+  PROPRIÉTAIRE                                                              PARCELLES             SURFACE TOTALE            SIREN
+
+  COMMUNE DE CHATEAUROUX (COM)                                              15                    6 019 m²                  213600448
+
+  SCI DES ACACIAS (SCI)                                                     2                     4 985 m²                  319743043
+
+  FONCIERE DU BERRY (SCI)                                                   1                     2 513 m²                  810716746
+
+  ABLA (SCI)                                                                1                     1 478 m²                  812265254
+
+  FOUR A CHAUX (SCI)                                                        2                     1 398 m²                  413730581
+
+  RES MOULIN DE LA ROCHETTE (SYCO)                                          1                     1 258 m²                  394053011
+
+  SCI GABATUM (SCI)                                                         2                     1 178 m²                  844474452
+
+  ICC IMMOBILIER (SAS)                                                      1                     895 m²                    889467593
+
+
+
+Source : fichiers des parcelles des personnes morales (DGFiP) : sociétés, SCI, collectivités, établissements publics et associations.
+Les propriétaires personnes physiques n'y figurent pas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           5 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+1.2 Bâti existant : diagnostics de performance énergétique
+  DATE                  LOGEMENT                SURFACE             ÉNERGIE          CLIMAT          ADRESSE
+
+  31/08/2024            Maison                  79 m²               D                B               42 Rue Raoul Adam 36000 Châteauroux
+
+
+
+Source : ADEME, diagnostics établis depuis juillet 2021 et géolocalisés à l'adresse. Un diagnostic se rapporte à un logement précis
+et reste valable dix ans.
+
+
+1.3 La commune de Châteauroux
+Code postal                                              36000
+
+Département                                              Indre (36)
+
+Intercommunalité                                         CA Châteauroux Métropole
+
+Population                                               42 963 habitants
+
+Superficie                                               25,56 km²
+
+Densité                                                  1 681 habitants par km²
+
+Commune littorale                                        Non
+
+Commune de montagne                                      Non
+
+Document d'urbanisme                                     Plan local d'urbanisme intercommunal (PLUi)
+
+Risques sur la commune                                   18 arrêtés de catastrophe naturelle · détail en section Risques et en
+                                                         annexe
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           6 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+    02             Règles d'urbanisme applicables
+     DANS CETTE SECTION
+
+     Le document d'urbanisme de la commune, la zone dans laquelle se trouve le terrain, et les
+     prescriptions et servitudes qui s'y ajoutent.
+
+
+Géoportail de l'Urbanisme : zonage, prescriptions et servitudes.
+
+
+
+2.1 Document d'urbanisme en vigueur
+Type de document                                         Plan local d'urbanisme intercommunal (PLUi)
+
+Date d'approbation                                       Non renseigné
+
+Statut                                                   Publié au Géoportail de l'Urbanisme
+
+Règlement officiel                                       Ouvrir le document officiel (PDF)
+
+
+
+     Plan de zonage du PLU
+
+
+
+
+                                                                            Ub
+
+
+
+
+                                                                                                                           50 m
+
+
+
+Zonage : Géoportail de l'Urbanisme · fond : © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       7 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.2 Zonage de la parcelle
+  ZONE                  DÉSIGNATION                                                         PART               CONSTRUCTIBILITÉ
+
+  Ub                    Extensions urbaines denses du centre-ville                          100 %              Constructible
+                        de Châteauroux (faubourgs)
+
+
+
+Zone Ub · Urbaine
+Zone urbaine : secteur déjà urbanisé où les équipements publics existants ou en cours de réalisation
+permettent d'accueillir des constructions. Les constructions y sont admises dans le respect du règlement de la
+zone (destinations, implantation, hauteur, emprise, aspect).
+
+
+2.3 Prescriptions applicables à la parcelle
+  PRESCRIPTION                                                                                       TYPE
+
+  Diversite commerciale a proteger ou a developper                                                   Prescription du PLU (type 22)
+
+
+
+
+2.4 Informations complémentaires du PLU
+  INFORMATION                                                                                        TYPE
+
+  Secteur dans lequel l'édification d'une clôture doit être précédée                                 Information du PLU (type 42)
+  d'une déclaration préalable - Sur l'ensemble de la commune
+
+  Règlement local de publicité intercommunal (RLPi) - ZR3 - Reste de                                 Information du PLU (type 20)
+  l'agglomération
+
+  Secteur dans lequel les travaux de démolition sont soumis à permis                                 Information du PLU (type 42)
+  de démolir - Permis de démolir a été institué
+
+  Zonage d'assainissement des eaux usées - Assainissement collectif                                  Information du PLU (type 19)
+  (AC)
+
+  Zonage des eaux pluviales - Réseau en charge (>100%)                                               Information du PLU (type 19)
+
+  Secteur dans lequel les travaux de ravalement sont soumis à                                        Information du PLU (type 42)
+  déclaration préalable - Travaux de ravalement sont soumis à
+  autorisation
+
+  Périmètre de droit de préemption urbain - Zone urbaine (U)                                         Information du PLU (type 04)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         8 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.5 Servitudes d'utilité publique
+Aucune servitude d'utilité publique numérisée n'est recensée sur la parcelle au Géoportail de l'Urbanisme. Les
+servitudes non encore numérisées figurent en annexe du PLU.
+
+
+2.6 Patrimoine : l'architecte des Bâtiments de France
+Aucun site patrimonial remarquable, site classé ou inscrit, ni monument historique à moins de 500 m n'est
+recensé : l'avis de l'architecte des Bâtiments de France n'est pas requis au titre du patrimoine.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      9 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    03             Ce que vous pouvez construire
+     DANS CETTE SECTION
+
+     La lecture du règlement de votre zone : surface constructible estimée, hauteur, reculs, aspect,
+     usages autorisés ou interdits, avec les extraits du texte officiel.
+
+
+Lecture du règlement écrit de la zone Ub, pages 51 à 62 du règlement officiel.
+
+
+
+3.1 Potentiel constructible estimé
+Surface du terrain                                       545 m²
+
+Zone d'implantation possible                             Non déterminée
+
+Emprise au sol maximale                                  Non fixée par le règlement
+
+Hauteur maximale                                         15 m, soit 5 niveaux environ
+
+
+Estimation théorique établie à partir des règles chiffrées du règlement (reculs, emprise, hauteur) et de la géométrie
+cadastrale. Elle ne tient pas compte des servitudes, des risques, de la pente, des règles de stationnement et d'aspect, ni
+des dispositions particulières : seul un architecte ou un géomètre peut confirmer le potentiel réel.
+
+
+3.2 Caractère de la zone
+Le secteur Ub correspond aux extensions urbaines denses du centre-ville de Châteauroux (faubourgs),
+caractérisées par des constructions implantées en ordre continu le long des axes menant au
+centre-ville. Les espaces où la hauteur des constructions est moins élevée sont classés dans le
+sous-secteur Ub1 ; la zone sans indice Ub (hors Ub1) est donc la zone étudiée. Les objectifs sont de
+préserver les caractéristiques urbaines des faubourgs et d'encadrer les formes architecturales (maisons
+de cigarières, maisons d'ouvriers à Balsan).
+
+
+3.3 Règles de construction
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Surface minimale ou                          Non précisé dans le règlement de la zone (pas de surface                         art. 2 /
+  caractéristiques du terrain                  minimale). Dispositions générales : terrain devant avoir un                      dispositions
+                                               accès direct à une voie publique ou privée.                                      générales I.4
+
+  Accès et voirie                              Dispositions générales (I.4) : accès direct à une voie ; un seul                 Dispositions
+                                               accès pour les logements si façade <= 14 m ; bande de                            générales I.4
+                                               roulement minimale de 3,50 m ; voies en impasse interdites
+                                               dans les opérations d'ensemble sauf exceptions, aire de
+                                               retournement au-delà de 50 m (largeur 17 m) ; trottoir de 1,40 m
+                                               minimum.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      10 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Réseaux et assainissement                    Raccordement obligatoire au réseau d'eau potable et au réseau                    Dispositions
+                                               public d'assainissement ; en l'absence de réseau,                                générales I.4
+                                               assainissement individuel conforme (étude de sols et de filière)
+                                               ; eaux pluviales gérées à la parcelle encouragées, rejet dans le
+                                               réseau d'eaux usées interdit ; réseaux électriques enterrés
+                                               (obligatoire en lotissement/opérations groupées) ; attente pour
+                                               les communications électroniques.
+
+  Implantation par rapport                     Les constructions nouvelles doivent s'implanter à l'alignement                   art. 2.1
+  aux voies                                    des voies publiques ou privées et emprises publiques,
+                                               existantes ou à créer. Recul possible : si la construction voisine
+                                               est en retrait (implantation dans la continuité de sa façade) ;
+                                               second rang lorsque le premier rang est construit ; géométrie
+                                               de parcelle (largeur sur voie très faible) ; continuité du front
+                                               bâti assurée par un mur de clôture ; opération d'ensemble
+                                               améliorant l'espace public ; annexe non accolée. Ne concerne
+                                               pas les équipements d'intérêt collectif et services publics.
+
+  Implantation par rapport                     Terrain de moins de 15 m de front de rue : constructions sur les                 art. 2.2
+  aux limites séparatives                      deux limites séparatives. Plus de 15 m : sur une seule limite, à
+                                               condition d'assurer la continuité du front bâti. En cas de marge
+                                               : distance au moins égale à la moitié de la hauteur à l'égout du
+                                               toit ou à l'acrotère (H/2), sans être inférieure à 3 m. Exceptions
+                                               : configuration de l'unité foncière, extensions de constructions
+                                               existantes ne respectant pas la règle (dans la continuité de
+                                               l'existant), annexes de moins de 20 m² d'emprise au sol et abris
+                                               de jardin ; ne concerne pas les équipements d'intérêt collectif.
+
+  Implantation des                             Non réglementé.                                                                  art. 2.3
+  constructions entre elles
+
+  Emprise au sol                               Non réglementé (occupation sur le terrain).                                      art. 2.5
+
+  Hauteur maximale                             Ub hors Ub1 : 15 m à l'égout du toit ou à l'acrotère. (Ub1 : 7 m                 art. 2.4
+                                               pour les habitations, 9 m pour les autres.) Annexes : 3,50 m
+                                               maximum. Extensions : pas plus que la hauteur totale du
+                                               bâtiment existant, sauf surélévation. Forte déclivité : hauteur
+                                               mesurée au point le plus haut de l'emprise. Règles différentes
+                                               pour les services publics ou d'intérêt collectif. Ouvrages
+                                               techniques masqués non comptés.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       11 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Aspect extérieur et toitures                 Volumes simples, adaptés à la parcelle ; architecture                            art. 3.1, 3.3, 3.4
+                                               contemporaine admise si caractère innovant et bonne
+                                               intégration justifiés. Pastiche interdit. Pignons aveugles
+                                               interdits si visibles depuis l'espace public. Toitures : pente
+                                               comprise entre 36 et 50° ; couverture de teinte voisine de
+                                               l'ardoise naturelle ou de la tuile (volumes principaux visibles de
+                                               l'espace public) ; combles aménageables limités à un étage ;
+                                               lucarnes à deux ou trois pans de préférence, chiens-assis,
+                                               lucarnes rampantes, arrondies et baies vitrées entrantes
+                                               interdits ; panneaux photovoltaïques et châssis de toit intégrés
+                                               à la couverture (encastrés au nu pour les bâtiments identifiés
+                                               L151-19). Volets roulants non en saillie de façade. Prescriptions
+                                               du Secteur Patrimonial Remarquable : la règle la plus
+                                               restrictive s'applique.
+
+  Matériaux et couleurs                        Unité d'aspect de toutes les façades, y compris arrière.                         art. 3.2, 3.3
+                                               Interdits : emploi à nu de matériaux destinés à être recouverts
+                                               (briques creuses, parpaings), matériaux hétéroclites, de
+                                               récupération, imitation de matériaux. Panneaux
+                                               photovoltaïques en façade uniquement sur façades et pignons
+                                               non visibles de l'espace public et hors protection patrimoniale.
+                                               Teinte des menuiseries et volets unifiée sur une même façade ;
+                                               couleurs criardes interdites.
+
+  Clôtures                                     Sur voies et emprises publiques : muret de 0,40 à 1 m                            art. 3.5
+                                               maximum surmonté de grilles métalliques ou d'une lisse de
+                                               couleur sombre ; hauteur totale 1,80 m maximum ;
+                                               prolongement à l'identique d'un mur existant admis. En limite
+                                               séparative avec propriété bâtie : murs pleins enduits ou pierre
+                                               jointoyée, murs-bahuts de 1 m maximum surmontés d'un
+                                               ouvrage à claire-voie, panneaux bois ou composites, grillages
+                                               (soubassement 0,25 m max), haies d'essences locales, clôtures
+                                               végétales ; hauteur des clôtures non végétales 2,66 m
+                                               maximum selon le texte. Maximum 2 matériaux ; murs en
+                                               moellons ou pierre de taille existants conservés. Clôtures
+                                               soumises à déclaration préalable dans les secteurs de trame
+                                               verte et bleue.
+
+  Stationnement                                Stationnement sur le terrain d'assiette (à proximité immédiate                   art. 5.1, 5.2
+                                               si impossible). Habitation : 1 place jusqu'à 60 m² de surface de
+                                               plancher, puis 1 par tranche de 60 m² ; résidence sénior : 1 pour
+                                               5 chambres. Artisanat et commerce de détail : 1 par tranche de
+                                               60 m² (emprise des aires limitée aux trois quarts de la surface
+                                               de plancher commerciale) ; hébergement hôtelier : 1 pour 5
+                                               chambres ; activités de services avec accueil : 1 par tranche de
+                                               60 m² ; bureau : 1 pour 60 m². Arrondi à l'entier supérieur.
+                                               Logements locatifs aidés par l'État non concernés.
+                                               Stationnement vélos couvert, clos, sur la même unité foncière
+                                               (CCH, arrêté du 30 juin 2022). Places PMR selon l'annexe VI.5.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           12 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Espaces verts et plantations                 Pas de pourcentage minimal d'espaces verts ni de pleine terre.                   art. 4
+                                               Haies d'essences choisies préférentiellement dans la liste de
+                                               l'annexe VI.2 ; espèces de l'annexe VI.3 non recommandées ;
+                                               essences invasives (annexe VI.4) interdites.
+
+  Densité ou coefficient                       Non réglementé (pas de COS ni de densité fixée).                                 art. 2.5
+
+
+
+
+3.4 Usages autorisés
+    Habitation (logement, hébergement) : tout ce qui n'est pas interdit ou soumis à condition est autorisé
+    Artisanat et commerce de détail, sous conditions (voir ci-dessous)
+    Industrie, sous condition de compatibilité avec l'habitat
+    Restauration, hébergement hôtelier et touristique, activités de services avec accueil d'une clientèle,
+    bureaux, équipements d'intérêt collectif et services publics (non interdits)
+    Affouillements et exhaussements du sol, sous conditions
+
+
+3.5 Usages interdits ou soumis à conditions
+    Commerce de gros : interdit
+    Entrepôts : interdits
+    Exploitation agricole et exploitation forestière : interdites
+    Camping en dehors des terrains aménagés : interdit
+    Résidences mobiles constituant l'habitat des gens du voyage : interdites
+    Carrières : interdites
+    Dépôts de déchets, stockage de ferrailles et matériaux de démolition ou de récupération : interdits
+    Artisanat et commerce de détail : autorisé uniquement au sein d'un périmètre de centralité ; en dehors,
+    uniquement commerce de proximité et de première nécessité, show-rooms d'artisans, magasins d'usine,
+    espaces de vente accolés à une production, mise aux normes d'un commerce existant, extension d'un
+    commerce existant limitée à +25 % de l'emprise au sol existante à la date d'approbation du PLUi, activité
+    de loisirs, station-service, concessionnaire automobile, garage
+    Industrie : autorisée si l'activité ne génère pas de nuisances incompatibles avec l'habitat
+    Affouillements et exhaussements du sol : autorisés s'ils sont liés aux constructions autorisées, à
+    l'aménagement paysager, au fonctionnement d'une activité autorisée, à un projet d'intérêt général, aux
+    réseaux ou à la recherche archéologique
+    Linéaires de protection des locaux commerciaux : certaines destinations peuvent être spécifiquement
+    interdites en rez-de-chaussée (plan de zonage D4 bis)
+    Pastiche d'architecture étrangère à l'architecture locale (cottage, mas, chalet) : interdit
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      13 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.6 Points de vigilance pour votre projet
+    Vérifier si la parcelle est en Ub ou en sous-secteur Ub1 (hauteur 7 m/9 m au lieu de 15 m) sur le règlement
+    graphique
+    Vérifier si la parcelle se situe dans un périmètre de centralité commerciale ou sur un linéaire de protection
+    des locaux commerciaux (plan D4 bis), qui peut limiter les changements de destination en
+    rez-de-chaussée
+    Vérifier l'application du Secteur Patrimonial Remarquable (SPR) et des périmètres de monuments
+    historiques : la règle la plus restrictive s'applique
+    Contrôler la largeur de façade sur rue (15 m) qui détermine l'implantation sur une ou deux limites
+    séparatives
+    Vérifier les éléments repérés au plan : bâti patrimonial (L151-19), éléments de paysage (L151-23), arbres,
+    haies, espaces verts protégés, EBC
+    Risques et servitudes : PPRi/PPRt, bruit (voie ferrée Paris-Toulouse, routes classées, PEB de l'aérodrome),
+    marges d'inconstructibilité hors espaces urbanisés le long des routes classées à grande circulation
+    Toiture en pente de 36 à 50° obligatoire : toiture-terrasse non prévue dans le texte du secteur Ub
+    Incohérence apparente du texte : plafond de 2,66 m pour les clôtures séparatives non végétales (à
+    confirmer auprès du service instructeur)
+    Construction neuve de plus de 2000 m² de surface de plancher : dispositif d'énergie renouvelable d'au
+    moins 15 % du bilan énergétique ; obligations de toiture/ombrières (L171-4 CCH) pour certains bâtiments
+    Possibilité de demander la surélévation du seuil du rez-de-chaussée par rapport à la voie
+
+
+3.7 Extraits du règlement
+
+     art. 2.1 · page 53
+     « Les constructions nouvelles doivent s’implanter à l’alignement des voies publiques ou privées et
+     emprises publiques, existantes ou à créer. »
+
+
+     art. 2.2 · page 55
+     « Lorsque le terrain a moins de 15 mètres de front de rue, les constructions nouvelles doivent être
+     édifiées sur les deux limites séparatives. »
+
+
+     art. 2.4 · page 56
+     « La hauteur des constructions ne doit pas excéder 15 mètres à l’égout du toit ou à l’acrotère. »
+
+
+     art. 3.4 · page 58
+     « Les pentes des toitures des constructions devront respecter un angle compris entre 36 et 50° par
+     rapport à l’horizontale. »
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      14 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+     art. 3.5 · page 59
+     « les clôtures devront être réalisées sous la forme d’un muret d’une hauteur comprise entre 0,40 et 1
+     mètre maximum, surmonté de grilles métalliques ou d’une lisse, de couleur sombre ; la hauteur totale
+     de la clôture ne devra pas excéder 1,80 mètre. »
+
+
+     art. 5.1 · page 61
+     « Au-delà de 60 m² de surface de plancher 1 par tranche de 60 m² de surface de plancher »
+
+
+
+3.8 Démarches probables
+    Permis de construire ou déclaration préalable selon la nature et la surface des travaux
+    Déclaration préalable pour édification ou modification de clôture lorsque requise (zones de trame verte et
+    bleue, éléments protégés)
+    Déclaration préalable pour la modification d'éléments patrimoniaux repérés ; permis de démolir pour leur
+    démolition
+    Consultation de l'Architecte des Bâtiments de France si SPR ou abords de monuments historiques
+    Demande de branchement aux réseaux d'eau potable, d'assainissement et d'électricité ; respect du zonage
+    pluvial
+    Autorisation de travaux/ERP et, le cas échéant, autorisation d'exploitation commerciale selon le projet
+
+     Cette lecture est établie automatiquement, par intelligence artificielle, à partir du règlement officiel en
+     vigueur. Elle peut comporter des imprécisions : seul le texte du règlement, reproduit en annexe (pages
+     51 à 62 du document approuvé), fait foi, avec les dispositions générales, les orientations
+     d'aménagement et les servitudes.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      15 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                                    04 · Loi Littoral et loi Montagne
+
+
+
+
+   04              Loi Littoral et loi Montagne
+     DANS CETTE SECTION
+
+     Les lois nationales qui s'ajoutent au document d'urbanisme sur le littoral et en montagne. Elles
+     peuvent rendre un terrain inconstructible même en zone constructible.
+
+
+Les lois d'aménagement qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+
+
+4.1 Loi Littoral
+Commune littorale                                        Non
+
+Distance au rivage                                       Sans objet
+
+Bande des 100 mètres                                     Sans objet
+
+
+La commune n'est pas riveraine de la mer : la loi Littoral ne s'applique pas (sauf rives de grands lacs).
+
+
+4.2 Loi Montagne
+Commune en zone de montagne                              Non
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          16 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+   05              Risques naturels et technologiques
+     DANS CETTE SECTION
+
+     Les risques connus à l'adresse du terrain (inondation, feu de forêt, mouvement de terrain,
+     radon…) et les catastrophes naturelles reconnues sur la commune.
+
+
+Base nationale Géorisques (ministère de la Transition écologique).
+
+
+
+5.1 Risques naturels à l'adresse de la parcelle
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Inondation                                      Non connu                                       Existant
+
+  Remontée de nappe                               Existant                                        Existant
+
+  Séisme                                          Existant – faible                               Existant – faible
+
+  Mouvement de terrain                            Inconnu                                         Existant
+
+  Retrait-gonflement des                          Existant – important                            Existant – important
+  argiles
+
+  Radon                                           Existant – faible                               Existant – faible
+
+
+
+
+5.2 Risques technologiques
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Installations industrielles                     Non concerné                                    Concerné
+  (ICPE)
+
+  Canalisations de matières                       Non concerné                                    Concerné
+  dangereuses
+
+  Pollution des sols                              Concerné                                        Concerné
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                    17 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.3 Indicateurs réglementaires
+Zone de sismicité                                        Zone 2 – faible
+
+Potentiel radon                                          Catégorie 1 (potentiel faible)
+
+Retrait-gonflement des argiles                           Existant – important
+
+Plans de prévention (PPR)                                Aucun plan de prévention des risques recensé
+
+
+
+5.4 Arrêtés de catastrophe naturelle
+18 arrêtés de reconnaissance de l'état de catastrophe naturelle concernent la commune.
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Sécheresse                                                                01/07/2019 au 30/09/2019                       10/07/2020
+
+  Sécheresse                                                                01/07/2018 au 31/12/2018                       17/07/2019
+
+  Inondations Remontée Nappe                                                27/05/2016 au 03/06/2016                       29/04/2017
+
+  Inondations et/ou Coulées de Boue                                         19/07/2014                                     06/01/2015
+
+  Sécheresse                                                                01/04/2011 au 30/06/2011                       17/07/2012
+
+  Sécheresse                                                                01/02/2002 au 31/12/2002                       07/07/2004
+
+  Inondations et/ou Coulées de Boue                                         15/08/2001                                     18/01/2002
+
+  Inondations et/ou Coulées de Boue                                         25/12/1999 au 29/12/1999                       30/12/1999
+
+  Mouvement de Terrain                                                      25/12/1999 au 29/12/1999                       30/12/1999
+
+  Sécheresse                                                                01/10/1993 au 31/03/1997                       18/02/1998
+
+  Sécheresse                                                                01/10/1993 au 31/08/1998                       13/11/1998
+
+  Sécheresse                                                                01/10/1992 au 30/09/1993                       25/09/1994
+
+  Sécheresse                                                                01/01/1992 au 30/09/1992                       28/12/1993
+
+  Sécheresse                                                                01/01/1991 au 31/12/1991                       07/02/1993
+
+  Sécheresse                                                                01/05/1989 au 31/12/1990                       27/12/1991
+
+  Inondations et/ou Coulées de Boue                                         08/12/1982 au 31/12/1982                       13/01/1983
+
+  Inondations et/ou Coulées de Boue                                         06/11/1982 au 10/11/1982                       02/12/1982
+
+  Tempête                                                                   06/11/1982 au 10/11/1982                       02/12/1982
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        18 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.5 Installations classées à proximité (moins de 1 km)
+    BERRY DECAP · Autres régimes
+    MAIRIE DE CHATEAUROUX · Autres régimes
+    EURL V2M · Autres régimes
+    RIC ENVIRONNEMENT · Enregistrement · En fin d'exploitation
+    MTPI · Autres régimes
+    GARAGE DES ETATS UNIS · Non ICPE
+    CHATEAUROUX RECYCLAGE · Non ICPE
+    Centre de Gériatrique de l'Indre · Autres régimes
+
+
+5.6 Sites et sols pollués à proximité
+    Garage · ancien site industriel ou d'activité de service (CASIAS)
+    Industrie du caoutchouc; Station-service · ancien site industriel ou d'activité de service (CASIAS)
+    Industrie du caoutchouc · ancien site industriel ou d'activité de service (CASIAS)
+    Station-service · ancien site industriel ou d'activité de service (CASIAS)
+    Garage automobile · ancien site industriel ou d'activité de service (CASIAS)
+    Garage Poids-Lourds · ancien site industriel ou d'activité de service (CASIAS)
+    Station-service; équipement automobile · ancien site industriel ou d'activité de service (CASIAS)
+    Station-service · ancien site industriel ou d'activité de service (CASIAS)
+    2 anciens sites industriels ou d'activités de service (CASIAS) recensés
+
+
+5.7 Rapport officiel Géorisques
+Les risques recensés ci-dessus proviennent des bases officielles de Géorisques, service public d'information
+sur les risques. Le rapport officiel complet peut être édité gratuitement, à tout moment et à jour, à partir de
+l'adresse du terrain sur le site Géorisques.
+
+
+    Éditer le rapport officiel Géorisques
+
+
+Lors d'une vente ou d'une location, le vendeur ou le bailleur doit remettre un état des risques de moins de six mois,
+complété et signé, et l'information sur les sinistres indemnisés au titre des catastrophes naturelles.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                    19 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+   06              Le terrain : accès, relief et réseaux
+     DANS CETTE SECTION
+
+     Les contraintes physiques du terrain : accès à une voie, pente et exposition, assainissement,
+     raccordement à l'électricité et à l'eau, fibre. Ce sont elles qui pèsent le plus sur le coût d'un
+     projet.
+
+
+Voirie (IGN, BD TOPO), altimétrie (IGN, RGE ALTI), règlement de la zone, réseau électrique (Agence ORE) et éligibilité
+internet (Arcep).
+
+
+
+6.1 Accès
+Accès direct à une voie                                  Oui
+
+Voie                                                     Route à 1 chaussée · Rue Raoul Adam
+
+Largeur de chaussée                                      3m
+
+Accès des véhicules                                      Libre
+
+
+La parcelle touche une voie carrossable. L'autorisation d'urbanisme vérifiera que l'accès est adapté au projet et sûr,
+et peut imposer une permission de voirie ou un aménagement de l'entrée.
+
+
+6.2 Relief et exposition
+Pente moyenne                                            1%
+
+Exposition                                               Terrain plat
+
+Altitude                                                 157 à 157 m
+
+Appréciation                                             Terrain plat ou presque plat
+
+
+
+
+ 157 m
+ 157 m
+
+
+           Coupe du terrain dans le sens de la pente · longueur 44 m
+
+
+     Terrassements limités ; pas de surcoût notable lié au relief.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      20 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Châteauroux · CM 744
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.3 Ensoleillement
+Appréciation                                             Très bien ensoleillé
+
+Soleil direct le 21 juin                                 14 h 18 (de 07 h 10 à 21 h 20)
+
+Soleil direct aux équinoxes                              10 h (de 08 h 40 à 18 h 30)
+
+Soleil direct le 21 décembre                             6 h 18 (de 10 h 20 à 16 h 30)
+
+Ensoleillement annuel possible                           3 771 h par an, soit 85 % du maximum à cette latitude
+
+Hauteur du relief vers le sud                            10°
+
+
+ 75°
+
+
+
+ 60°
+
+
+
+ 45°
+
+
+
+ 30°
+
+
+
+ 15°
+
+
+
+ 0°
+                                Est                  Sud-est                    Sud                 Sud-ouest                Ouest
+
+          21 juin          Équinoxes               21 décembre                 Horizon : relief et bâtiments voisins
+
+
+
+       Le relief et les constructions voisines ne masquent presque pas le soleil : le terrain profite de la
+       quasi-totalité de l'ensoleillement possible à cette latitude.
+
+
+
+Ensoleillement mois par mois (le 21 de chaque mois)
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Janvier                         9h                                 7 h 12                                    10 h 10 – 17 h 10
+
+  Février                         10 h 30                            8 h 48                                    09 h 20 – 18 h 00
+
+  Mars                            12 h 12                            10 h                                      08 h 40 – 18 h 30
+
+  Avril                           13 h 42                            12 h                                      08 h 20 – 20 h 10
+
+  Mai                             15 h 12                            13 h 30                                   07 h 30 – 20 h 50
+
+  Juin                            15 h 42                            14 h 18                                   07 h 10 – 21 h 20
+
+  Juillet                         15 h 12                            13 h 30                                   07 h 40 – 21 h 00
+
+  Août                            13 h 42                            12 h 12                                   08 h 20 – 20 h 20
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              21 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Septembre                       12 h                               10 h 12                                   09 h 20 – 19 h 20
+
+  Octobre                         10 h 30                            8 h 42                                    10 h 00 – 18 h 30
+
+  Novembre                        9h                                 7 h 12                                    09 h 40 – 16 h 40
+
+  Décembre                        8 h 18                             6 h 18                                    10 h 20 – 16 h 30
+
+
+
+Calcul théorique par ciel dégagé, au centre de la parcelle et à hauteur d'homme : course du soleil heure par heure, masque du relief
+sur 6 km (IGN, RGE ALTI) et des bâtiments voisins sur 120 m (IGN, BD TOPO, 112 bâtiments pris en compte). La végétation et les
+constructions récentes ne sont pas prises en compte.
+
+
+6.4 Quel raccordement pour les eaux usées ?
+Raccordement à prévoir                                       Tout-à-l'égout (assainissement collectif)
+
+Zone du PLU                                                  Ub · Urbaine
+
+Zonage d'assainissement                                      Zone d'assainissement collectif
+
+Réseau collectif sur la commune                              Oui · CHATEAUROUX METROPOLE · délégation à SUEZ
+
+
+     Le terrain est classé en zone d'assainissement collectif par le zonage d'assainissement de la commune
+     : la construction se raccorde au réseau public.
+
+
+
+Ce que dit le règlement de la zone
+Raccordement obligatoire au réseau public d'assainissement par des canalisations souterraines pour toute
+construction générant des eaux usées domestiques (dispositions générales I.4). En l'absence de réseau,
+assainissement individuel conforme à la réglementation, sur le terrain d'assiette, défini par une étude de sols et de
+filière, avec une superficie suffisante réservée ; respect du zonage d'assainissement annexé. Évacuation des eaux
+ménagères non traitées dans les fossés et le réseau pluvial interdite ; eaux usées non domestiques admises au
+réseau après convention spéciale. Aucune surface minimale n'est fixée en zone Ub.
+
+Le règlement admet un assainissement individuel uniquement là où le réseau public n'existe pas : cette mention ne signifie
+pas que le terrain n'est pas desservi.
+
+Ce que cela coûte
+Raccordement au tout-à-l'égout : branchement sous la voie réalisé par le service d'assainissement (souvent 1 500 à
+5 000 € selon la distance), canalisation sur le terrain jusqu'à la maison, et participation pour le financement de
+l'assainissement collectif (PFAC) fixée par la commune ou l'intercommunalité, généralement de 1 000 à 5 000 €. Le
+service remet un devis à partir du plan de situation.
+
+Qui contacter pour obtenir la confirmation
+Service d'assainissement                                     CHATEAUROUX METROPOLE · exploitant : SUEZ
+
+Mairie                                                       Mairie de Châteauroux
+
+Téléphone                                                    02 54 08 33 00
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            22 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+E-mail                                                       secretariat-assemblees@chateauroux-metropole.fr
+
+
+    Demandez au service d'assainissement, avec la référence cadastrale, si une canalisation publique passe au droit
+    du terrain, à quelle profondeur, et le montant de la PFAC. Sa réponse écrite vaut attestation de raccordabilité.
+    Certificat d'urbanisme opérationnel (formulaire Cerfa 13410, gratuit) : la mairie y indique officiellement si le
+    terrain est desservi par le réseau d'assainissement.
+    Plan des réseaux : la présence des canalisations enterrées près du terrain peut être vérifiée sur
+    reseaux-et-canalisations.gouv.fr, le guichet unique des réseaux.
+Sources : zonage d'assainissement et règlement (Géoportail de l'Urbanisme) ; services publics d'assainissement (SISPEA, Office
+français de la biodiversité) ; annuaire de l'administration (service-public.fr).
+
+Si le réseau public n'était finalement pas accessible
+  FILIÈRE                                    QUAND ELLE CONVIENT                                                           ORDRE DE PRIX
+
+  Fosse toutes eaux et                       Sol perméable, terrain assez grand et peu pentu                               5 000 à 10 000 €
+  épandage
+
+  Filtre à sable                             Sol peu perméable, place suffisante                                           8 000 à 12 000 €
+
+  Micro-station agréée                       Petit terrain ou sol défavorable ; entretien et électricité                   7 000 à 15 000 €
+
+  Filtre compact agréé                       Petit terrain, sans électricité                                               9 000 à 14 000 €
+
+
+
+Ordres de prix indicatifs (fourniture et pose, hors étude de sol et terrassements particuliers). La filière est choisie au vu de l'étude
+de sol et validée par le SPANC.
+
+
+6.5 Électricité et eau potable
+Gestionnaire du réseau                                       Enedis
+
+Réseau basse tension le plus proche                          au contact de la parcelle (ligne souterraine)
+
+Ligne aérienne la plus proche                                à environ 50 m
+
+Ligne souterraine la plus proche                             au contact de la parcelle
+
+Poste de transformation le plus proche                       à environ 75 m
+
+Appréciation                                                 Branchement simple probable
+
+
+     Le réseau basse tension passe au contact de la parcelle : un branchement simple est en principe
+     possible (de l'ordre de 1 500 à 3 000 € pour une maison, selon la longueur et la puissance), sous
+     réserve de la capacité du réseau et des coffrets existants.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           23 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+Ce qu'il faut vérifier avant d'acheter
+    La capacité du réseau : même un réseau proche peut être saturé (coffret ou câble plein, poste de transformation
+    au maximum). Seule une étude du gestionnaire permet de le savoir ; c'est la cause la plus fréquente de surcoûts
+    imprévus.
+    Électricité : demander au gestionnaire du réseau une étude de raccordement ou un devis à partir de l'adresse et
+    du plan de situation (gratuit). Elle indique le type de raccordement, son coût et son délai.
+    Eau potable : les plans du réseau d'eau ne sont pas publics. Interroger le service des eaux (coordonnées
+    ci-dessous) sur la présence d'une canalisation au droit du terrain, sa capacité et le coût du branchement, ainsi
+    que sur la défense incendie (borne à moins de 200 m environ).
+    Certificat d'urbanisme opérationnel : la mairie y indique si le terrain est desservi par les réseaux publics (eau,
+    électricité, assainissement) et, à défaut, si et quand ils seront étendus. Un refus de permis peut être fondé sur
+    l'insuffisance des réseaux (article L. 111-11 du Code de l'urbanisme).
+
+Qui contacter
+Service de l'eau potable                                     CHATEAUROUX METROPOLE
+
+Mode de gestion                                              Délégation de service public à SAUR
+
+Contact pour le branchement                                  SAUR, pour le compte de : CHATEAUROUX METROPOLE
+
+Mairie                                                       Mairie de Châteauroux
+
+Téléphone de la mairie                                       02 54 08 33 00
+
+E-mail de la mairie                                          secretariat-assemblees@chateauroux-metropole.fr
+
+Électricité (raccordement)                                   Enedis · demande en ligne sur enedis.fr (raccordement)
+
+La mairie oriente vers le bon interlocuteur et confirme, dans le certificat d'urbanisme, la desserte du terrain par les réseaux.
+Sources : SISPEA, observatoire des services publics d'eau (OFB) ; annuaire de l'administration (service-public.fr).
+
+Dans une promesse de vente, une condition suspensive portant sur le coût du raccordement aux réseaux protège
+l'acquéreur. Source de la cartographie électrique : Agence ORE, données des gestionnaires de réseaux de distribution ;
+tracés indicatifs.
+
+
+6.6 Fibre et internet
+     Le terrain est déjà fibré : 1 adresse située sur la parcelle (42 Rue Raoul Adam) est déclarée raccordable
+     à la fibre.
+
+
+
+Adresse la plus proche                                          42 Rue Raoul Adam · à 4 m · raccordable
+
+Point fibré le plus proche                                      42 Rue Raoul Adam · à 4 m
+
+Adresses fibrées à moins de 100 m                               36 sur 36
+
+Adresses fibrées à moins de 400 m                               692 sur 693
+
+Technologies disponibles à proximité                            4G fixe, Cuivre (ADSL, VDSL), Fibre, Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       24 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+     Points fibrés autour du terrain
+
+
+
+                                                                      F
+                                                                          F     F                 F
+                                                                  F
+                                                                                                FF F F
+                                                        FF       F              F                   F FF
+                                                                                                        F
+                                                    F          F                                    F F
+                                                   F           F FF F                              F
+                                                                          F F                       F      F
+                                                           F          F                             F      F
+                                                                                                          F
+                                                       F                        F                    F
+                                                      F
+                                                                                    F F              F FF
+                                                     F                                               F F    F
+                                                                                          F         F       F
+                                                                  F F                               F
+                                               F                          FF                                F
+                                                                                                                 F
+                                               F                         FF                          F      F F
+                                               F                 F              FF F F               F
+                                                                F       F                            F       F
+                                                F
+                                                               F      F                    F         F       FF
+                                                 F            F                     F     F            F F       F
+                                                                     F              F                  F
+                                                             F       F
+                                                                                          F            F F    F
+                                                            F      F                F      F           F
+                                                                                  F       F              F     F
+                                                          F      F                                             F
+                                                                                 F      F              F
+                                                         F      F               F      F                       F
+                                                                               F      F                 F
+                                                       F      F               F
+                                                     F                               F                   F
+                                                                                                         F
+                                                             F              FF     FF
+                                                          F            FF  F       F
+                                                                                  F
+                                                                          F     F
+                                                                         F      F
+                                                                       FF      F
+                                                                               F
+                                                                              F
+
+
+
+
+                                                                                                                                       100 m
+
+
+
+Repères F : adresses déclarées raccordables à la fibre (Arcep) · en terracotta : sur la parcelle · fond © IGN
+
+
+Vérifiez la fibre à l'adresse du terrain :
+
+                     Carte fibre Orange                                                                  Carte de l'Arcep
+
+
+  DISTANCE           ADRESSE                                                                   FIBRE                 AUTRES ACCÈS
+
+  4m                 42 Rue Raoul Adam                                                         Oui                   4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                     Satellite
+
+  14 m               44 Rue Raoul Adam                                                         Oui                   4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                     Satellite
+
+  15 m               40 Rue Raoul Adam                                                         Oui                   4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                     Satellite
+
+  27 m               31 Rue Raoul Adam                                                         Oui                   4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                     Satellite
+
+  31 m               38 Rue Raoul Adam                                                         Oui                   4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                     Satellite
+
+  34 m               46 Rue Raoul Adam                                                         Oui                   4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                     Satellite
+
+  36 m               29 Rue Raoul Adam                                                         Oui                   4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                     Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                25 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  DISTANCE           ADRESSE                                                                   FIBRE              AUTRES ACCÈS
+
+  37 m               36 Rue Raoul Adam                                                         Oui                4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+
+
+Source : Arcep, « Ma connexion internet », éligibilité déclarée par les opérateurs, adresse par adresse. Le tracé des câbles n'est
+pas public : la présence de la fibre en limite de terrain se vérifie auprès de l'opérateur ou par une déclaration de projet de travaux
+(DT).
+
+
+6.7 Qui contacter pour les réseaux
+  RÉSEAU                                    INTERLOCUTEUR                                         CE QU'IL FAUT DEMANDER
+
+  Eau potable et                            Mairie ou service des eaux de la                      Attestation de desserte et conditions de
+  assainissement collectif                  commune                                               raccordement
+
+  Assainissement individuel                 SPANC (communauté de communes)                        Contrôle de conception sur la base de l'étude
+                                                                                                  de sol
+
+  Électricité                               Enedis (gestionnaire du réseau de                     Étude de raccordement et devis
+                                            distribution)
+
+  Fibre et téléphone                        Opérateur d'infrastructure et                         Raccordement du futur logement
+                                            fournisseur d'accès
+
+  Tous réseaux                              Guichet unique des réseaux                            Déclaration de projet de travaux (DT) pour
+                                            (reseaux-et-canalisations.gouv.fr)                    localiser les réseaux existants
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             26 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+    07             Environnement et marché immobilier
+     DANS CETTE SECTION
+
+     Les espaces naturels protégés autour du terrain et les prix de vente réels des maisons,
+     appartements et terrains alentour.
+
+
+Inventaire national du patrimoine naturel et demandes de valeurs foncières (DVF).
+
+
+
+7.1 Espaces naturels protégés ou inventoriés
+La parcelle n'est concernée par aucun site Natura 2000, ZNIEFF, parc ou réserve naturelle.
+
+
+7.2 Espèces protégées observées près du terrain
+90 espèces protégées ont été observées dans un rayon de 1 km autour du terrain depuis 1990 ; les 14 plus
+fréquemment signalées figurent ci-dessous.
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Mésange charbonnière (Parus major)                              Oiseau                 Nationale (espèce et              324 · dernière en
+                                                                                         habitat)                          2022
+
+  Rouge-queue noir (Phoenicurus                                   Oiseau                 Nationale (espèce et              264 · dernière en
+  ochruros)                                                                              habitat)                          2021
+
+  Pinson des arbres (Fringilla coelebs)                           Oiseau                 Nationale (espèce et              262 · dernière en
+                                                                                         habitat)                          2022
+
+  Mésange bleue (Cyanistes caeruleus)                             Oiseau                 Nationale (espèce et              261 · dernière en
+                                                                                         habitat)                          2022
+
+  Chardonneret élégant (Carduelis                                 Oiseau                 Nationale (espèce et              254 · dernière en
+  carduelis)                                                                             habitat)                          2022
+
+  Moineau domestique (Passer                                      Oiseau                 Nationale (espèce et              252 · dernière en
+  domesticus)                                                                            habitat)                          2025
+
+  Verdier (Chloris chloris)                                       Oiseau                 Nationale (espèce et              247 · dernière en
+                                                                                         habitat)                          2022
+
+  Rouge-gorge familier (Erithacus                                 Oiseau                 Nationale (espèce et              240 · dernière en
+  rubecula)                                                                              habitat)                          2022
+
+  Accenteur mouchet (Prunella modularis)                          Oiseau                 Nationale (espèce et              186 · dernière en
+                                                                                         habitat)                          2022
+
+  Fauvette à tête noire (Sylvia atricapilla)                      Oiseau                 Nationale (espèce et              161 · dernière en
+                                                                                         habitat)                          2021
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      27 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Cresserelle (Falco tinnunculus)                                 Oiseau                 Nationale (espèce et              155 · dernière en
+                                                                                         habitat)                          2021
+
+  Pic vert (Picus viridis)                                        Oiseau                 Nationale (espèce et              149 · dernière en
+                                                                                         habitat)                          2021
+
+  Bruant zizi (Emberiza cirlus)                                   Oiseau                 Nationale (espèce et              131 · dernière en
+                                                                                         habitat)                          2021
+
+  Corneille noire (Corvus corone)                                 Oiseau                 Nationale (espèce et              122 · dernière en
+                                                                                         habitat)                          2022
+
+
+
+     Une observation à proximité ne signifie pas que l'espèce vit sur le terrain. Mais si elle y est présente, il
+     est interdit de détruire, capturer ou déranger les individus et, pour la plupart de ces espèces, de
+     détruire leurs lieux de reproduction et de repos (articles L. 411-1 et suivants du Code de
+     l'environnement). L'infraction est punie de 3 ans d'emprisonnement et 150 000 € d'amende.
+
+
+
+Que faire avant de construire ?
+    Pour une maison individuelle, aucune étude écologique n'est imposée en règle générale, et l'étude de sol porte
+    sur le terrain (fondations), pas sur la faune ni la flore. Vous restez cependant responsable si une espèce
+    protégée vit sur la parcelle : en cas de doute (espèce observée tout près, vieux arbres, murets, maquis, zone
+    humide), faites passer un écologue avant de défricher.
+    Si un enjeu est confirmé : inventaire faune-flore aux saisons utiles (printemps et été en général), puis mesures
+    pour éviter et réduire l'impact : implantation de la maison sur la partie la moins sensible, travaux hors période de
+    reproduction, clôture de chantier adaptée, déplacement d'individus par un spécialiste habilité.
+    Si la destruction d'individus ou d'habitats ne peut pas être évitée : demande de dérogation « espèces protégées »
+    auprès de la préfecture (DREAL), avec avis du conseil scientifique. Comptez 4 à 12 mois d'instruction, à anticiper
+    avant le dépôt du permis.
+
+Combien prévoir ?
+Pré-diagnostic écologique                                800 à 2 000 € (une visite et une note de synthèse)
+
+Inventaire faune-flore                                   3 000 à 10 000 € selon la surface et le nombre de passages
+
+Mesures d'évitement et de réduction                      500 à 5 000 € (balisage, calendrier, suivi de chantier)
+
+Dossier de dérogation                                    8 000 à 25 000 €, hors mesures de compensation éventuelles
+
+Ordres de prix indicatifs, honoraires de bureaux d'études en environnement, si une étude est nécessaire. Pour une maison sur un
+terrain déjà entouré de constructions, aucune étude n'est le plus souvent requise.
+
+Sources : statuts de protection TAXREF et base de connaissance des statuts (INPN, Muséum national d'Histoire naturelle) ;
+observations naturalistes GBIF, qui rassemble notamment les données de l'INPN et du SINP.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      28 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+7.3 Prix de l'immobilier à Châteauroux
+Prix au mètre carré des ventes enregistrées sur la commune au cours des cinq dernières années publiées.
+Seules les ventes portant sur un bien unique sont retenues.
+
+  TYPE DE BIEN                                       VENTES                       €/M² MÉDIAN                              €/M² MOYEN
+
+  Maisons                                            1 781                        1 442 €/m²                               1 481 €/m²
+
+  Appartements                                       1 083                        1 154 €/m²                               1 219 €/m²
+
+  Locaux commerciaux                                 157                          800 €/m²                                 986 €/m²
+
+
+
+Source : statistiques des demandes de valeurs foncières (DGFiP, Etalab). Prix des actes, hors frais : un ordre de grandeur,
+pas une estimation du bien.
+
+
+7.4 Ventes de terrains autour de la parcelle
+Période observée                                         2021 à 2026
+
+Ventes de terrains recensées                             60
+
+Prix médian                                              56 €/m²
+
+Prix courants (une vente sur deux)                       32 à 107 €/m²
+
+
+  DATE                    PARCELLE                           NATURE                               SURFACE              PRIX              €/M²
+
+  10/05/2025              CM 613                             sols                                 352 m²               5 000 €           14
+
+  09/05/2025              CK 487                             terrains à bâtir                     436 m²               29 000 €          67
+
+  09/03/2024              CK 673                             Pré marais                           144 m²               4 650 €           32
+
+  31/08/2023              CM 1024                            Parc                                 456 m²               9 000 €           20
+
+  14/12/2022              CM 457                             terrains à bâtir                     457 m²               35 000 €          77
+
+  07/10/2022              CN 123                             Pré marais                           1 965 m²             5 895 €           3
+
+  06/05/2022              CN 333                             terrains à bâtir                     1 037 m²             58 072 €          56
+
+  05/04/2022              CM 1021 (+1)                       terrains à bâtir                     959 m²               172 000 €         179
+
+  17/03/2022              CM 989                             terrains à bâtir                     668 m²               44 000 €          66
+
+  12/03/2022              CM 992                             terrains à bâtir                     886 m²               59 000 €          67
+
+  06/01/2022              CN 305                             terrains à bâtir                     831 m²               46 536 €          56
+
+  13/11/2021              CM 991                             terrains à bâtir                     756 m²               48 000 €          63
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            29 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+Source : DVF, ventes enregistrées par la DGFiP. Les prix au mètre carré dépendent fortement de la constructibilité, de la
+vue, de l'accès et de la viabilisation : ils donnent un ordre de grandeur, pas une estimation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                    30 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                                                08 · Historique du site
+
+
+
+
+   08              Historique du site
+     DANS CETTE SECTION
+
+     Le terrain vu du ciel au fil des décennies et les permis de construire accordés autour : l'évolution
+     du secteur en un coup d'œil.
+
+
+Photographies aériennes de l'IGN et permis de construire délivrés (Sitadel).
+
+
+
+8.1 Le terrain vu du ciel, d'hier à aujourd'hui
+
+    1950-1965                                             2000-2005                                              2006-2010
+
+
+
+
+    2011-2015                                             Aujourd'hui
+
+
+
+
+Ces vues montrent l'évolution du terrain et du quartier, des années 1950 à aujourd'hui (photographies aériennes de l'IGN).
+
+     Bon à savoir : l'existence ancienne d'une construction peut ouvrir, sous conditions, un droit à
+     reconstruire ou à restaurer un bâtiment dont il reste l'essentiel des murs porteurs (articles L. 111-15 et L.
+     111-23 du Code de l'urbanisme).
+
+
+
+
+8.2 Permis de construire délivrés autour du terrain
+Autorisations sur la commune (3 ans)                                    92 · dernière recensée le 13/08/2026
+
+Logements autorisés (3 ans)                                             278
+
+Dont maisons individuelles                                              69
+
+Autorisations dans la section CM                                        10 depuis 2013
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  25/03/2026            Déclaration préalable                  CM 970             1              9 m²                      AVENUE JOHN KENNEDY
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            31 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                                                08 · Historique du site
+
+
+
+
+  DATE                  AUTORISATION                           PARCELLE            LOGTS         SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  18/12/2025            Permis de construire                   CM 148              2             –                         AVENUE JOHN KENNEDY
+
+  07/08/2024            Permis de construire                   CM 357              1             128 m²                    RUE DE NOTZ
+
+  19/02/2024            Permis de construire                   CM 457              1             79 m²                     RUE RAOUL ADAM
+
+  06/01/2022            Permis de construire                   CM 989              1             143 m²                    RUE DE LA LOGE
+
+  06/01/2022            Permis de construire                   CM 992              1             140 m²                    RUE DE LA LOGE
+
+  26/07/2021            Permis de construire                   CM 991              1             120 m²                    RUE DE LA LOGE
+
+  19/03/2021            Permis de construire                   CM 830              5             405 m²                    CHEMI DE VERNUSSE
+
+  18/12/2018            Permis de construire                   CM 972              2             –                         AVENU JOHN KENNEDY
+
+  07/12/2016            Permis de construire                   CM 977              1             132 m²                    RUE DE NOTZ
+
+
+
+Permis accordés à moins de 500 m du terrain
+  DATE                 AUTORISATION                       PARCELLE          DISTANCE         LOGTS        SURFACE             LIEU-DIT / VOIE
+
+  25/03/2026           Déclaration préalable              CM 970            140 m            1            9 m²                AVENUE JOHN KENNEDY
+
+  18/12/2025           Permis de construire               CM 148            300 m            2            –                   AVENUE JOHN KENNEDY
+
+  27/08/2025           Permis de construire               CK 278            390 m            2            82 m²               RUE DES AUBRAYS
+
+  02/04/2025           Déclaration préalable              CL 664            480 m            1            –                   BOULE GEORGE SAND
+
+  15/03/2025           Permis de construire               CK 487            230 m            1            120 m²              RUE PASSAGEON
+
+  06/11/2024           Déclaration préalable              CL 879            250 m            3            –                   BOULEVARD ARAGO
+
+  19/02/2024           Permis de construire               CM 457            70 m             1            79 m²               RUE RAOUL ADAM
+
+  01/02/2024           Permis de construire               BN 722            450 m            3            –                   AVENUE DE VERDUN
+
+  21/07/2022           Permis de construire               CK 204            160 m            1            116 m²              AVENU JOHN KENNEDY
+
+  07/02/2022           Permis de construire               CN 333            480 m            1            102 m²              RUE HENRI ET JAMES
+                                                                                                                              PICHETTE -
+
+  06/01/2022           Permis de construire               CM 992            370 m            1            140 m²              RUE DE LA LOGE
+
+  06/01/2022           Permis de construire               CM 989            430 m            1            143 m²              RUE DE LA LOGE
+
+
+
+12 autorisations créant des logements recensées dans un rayon de 500 m : la construction a été admise récemment
+dans le voisinage immédiat.
+
+Source : base Sitadel des autorisations d'urbanisme créant des logements (SDES). Un permis accordé à proximité montre
+que des constructions ont été admises dans le secteur, sans préjuger de la décision sur votre propre projet.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            32 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                              09 · Opportunités autour du terrain
+
+
+
+
+      09           Opportunités autour du terrain
+      DANS CETTE SECTION
+
+      Ce qui se passe autour de la parcelle : grands terrains peu bâtis, sociétés propriétaires en
+      difficulté, logements énergivores. Des pistes pour un investisseur, un voisin ou un professionnel.
+
+
+Bodacc (procédures collectives), ADEME (diagnostics énergétiques), cadastre, BD TOPO et Géoportail de l'Urbanisme.
+
+
+
+9.1 Grands terrains peu bâtis à proximité
+Parcelles de plus de 1 200 m², situées en zone urbaine ou à urbaniser du PLU, dans un rayon de 250 m, dont
+moins de 8 % de la surface est bâtie, hors terrains publics : un potentiel de construction ou de division à
+étudier.
+
+  PARCELLE           SURFACE                BÂTI               ZONE               DISTANCE           PROPRIÉTAIRE
+
+  CM 776             17 654 m²              non bâti           Ub                 300 m              particulier (non publié)
+
+  CM 956             3 661 m²               157 m²             Ub                 300 m              particulier (non publié)
+
+  CM 52              3 214 m²               233 m²             Ub                 240 m              particulier (non publié)
+
+  CM 1025            2 674 m²               129 m²             Ub                 180 m              particulier (non publié)
+
+  CM 994             2 559 m²               17 m²              Ub                 180 m              particulier (non publié)
+
+  CK 474             2 356 m²               96 m²              Ub1                220 m              particulier (non publié)
+
+  CM 111             2 240 m²               68 m²              Ub1                110 m              particulier (non publié)
+
+  CK 343             1 855 m²               130 m²             Ub                 280 m              particulier (non publié)
+
+
+
+
+9.2 Logements classés F ou G autour du terrain
+Logements diagnostiqués F ou G dans un rayon de 350 m. Leur location est déjà interdite (G) ou le sera en
+2028 (F) : leurs propriétaires sont souvent vendeurs, ou doivent engager des travaux de rénovation.
+
+  PARCELLE                   ADRESSE                                        CLASSE LOGEMENT                   SURFACE      DISTANCE DPE DU
+
+  –                          24 Rue Raoul Adam 36000                        F            Maison               117 m²       90 m         24/04/2026
+                             Châteauroux
+
+  –                          33 Avenue John Kennedy                         G            Maison               135 m²       160 m        24/02/2022
+                             36000 Châteauroux
+
+  –                          63 Avenue John Kennedy                         F            Maison               84 m²        160 m        04/08/2022
+                             36000 Châteauroux
+
+  –                          42 Rue de Notz 36000                           F            Maison               87 m²        180 m        12/04/2022
+                             Châteauroux
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           33 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                              09 · Opportunités autour du terrain
+
+
+
+
+  PARCELLE                   ADRESSE                                        CLASSE LOGEMENT                   SURFACE      DISTANCE DPE DU
+
+  –                          61 Rue Pérard 36000                            G            Maison               42 m²        190 m     23/07/2025
+                             Châteauroux
+
+  –                          45 Rue Bernard Naudin 36000                    G            Maison               126 m²       230 m     02/05/2022
+                             Châteauroux
+
+  –                          39 Rue des Aubrays 36000                       F            Maison               102 m²       230 m     12/01/2025
+                             Châteauroux
+
+  –                          49 Rue Pérard 36000                            G            Maison               60 m²        240 m     29/04/2022
+                             Châteauroux
+
+  –                          35 Rue Passageon 36000                         G            Appartemen           20 m²        260 m     24/02/2022
+                             Châteauroux                                                 t
+
+  –                          43 Boulevard Croix-Normand                     F            Maison               139 m²       270 m     17/04/2025
+                             36000 Châteauroux
+
+
+
+La parcelle est celle du point d'adresse du logement (cadastre). Pour connaître son propriétaire lorsqu'il s'agit d'un particulier,
+demandez un relevé de propriété au service de la publicité foncière ou à la mairie.
+
+Ces informations proviennent de bases publiques et ne préjugent ni de l'intention de vendre des propriétaires ni de la
+constructibilité des parcelles citées, qui relève d'une étude au cas par cas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        34 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+      10           Votre projet, étape par étape
+De l'achat du terrain à la déclaration aux impôts : démarches, délais, coûts et contacts.
+
+
+
+10.1 Analyse
+Le terrain est soumis au plan local d'urbanisme intercommunal (PLUi) de Châteauroux. Il est classé en
+zone Ub. Zone urbaine : secteur déjà urbanisé où les équipements publics existants ou en cours de
+réalisation permettent d'accueillir des constructions. Les constructions y sont admises dans le respect
+du règlement de la zone (destinations, implantation, hauteur, emprise, aspect).
+
+En l'état des documents consultés, un projet de construction est envisageable. Sa faisabilité dépend du
+règlement écrit de la zone : destinations autorisées, implantation par rapport aux voies et aux limites,
+hauteur maximale, emprise au sol, coefficient d'espaces verts, stationnement et aspect extérieur.
+
+
+10.2 Votre projet, étape par étape
+Les étapes ci-dessous suivent l'ordre réel d'un projet de construction, de l'achat du terrain à la déclaration aux
+impôts. Les montants sont indicatifs et à confirmer par devis.
+
+  1      Avant d'acheter le terrain
+         Vérifiez les règles de la zone (chapitres précédents), puis demandez un certificat d'urbanisme opérationnel
+         (Cerfa 13410, sans frais, réponse sous 2 mois) : il fige les règles pendant 18 mois. En zone d'argiles d'aléa
+         moyen ou fort, le vendeur doit fournir une étude de sol préalable.
+         Contact : Mairie de Châteauroux · 02 54 08 33 00 · secretariat-assemblees@chateauroux-metropole.fr · formulaire
+         sur service-public.fr (rechercher « Cerfa 13410 »)
+
+  2      Les études
+         Étude de sol géotechnique (G2) pour dimensionner les fondations : 1 500 à 3 000 €. Étude thermique RE2020,
+         obligatoire pour le permis : 500 à 1 500 €. Bornage par un géomètre si les limites sont incertaines. L'étude de
+         sol ne porte pas sur les espèces protégées : un écologue n'intervient qu'en cas d'enjeu (chapitre
+         Environnement).
+         Géomètres proches du terrain : liste à la fin de ce chapitre
+
+  3      Les plans
+         Architecte obligatoire si la surface de plancher totale dépasse 150 m². En dessous, vous pouvez dessiner les
+         plans vous-même ou faire appel à un dessinateur ou maître d'œuvre (environ 1 500 à 4 000 € le dossier de
+         permis). Architecte : 3 000 à 8 000 € pour la seule mission de permis, 8 à 12 % du coût des travaux pour une
+         mission complète avec suivi du chantier.
+         Trouver un architecte : annuaire de l'Ordre des architectes sur architectes.org
+
+  4      Déposer le permis
+         Formulaire Cerfa 13406 (maison individuelle) et pièces PCMI1 à PCMI8 : plan de situation, plan de masse,
+         coupe, notice, plans des façades et toitures, insertion dans le paysage, photos, attestation RE2020. Dépôt en
+         mairie ou en ligne sur le guichet numérique de la commune. La mairie a 1 mois pour réclamer une pièce
+         manquante ; l'instruction dure 2 mois à partir du dossier complet, plus en secteur protégé.
+         Dépôt : Mairie de Châteauroux · 02 54 08 33 00 · secretariat-assemblees@chateauroux-metropole.fr · formulaire
+         sur service-public.fr (rechercher « Cerfa 13406 »)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        35 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+  5      Affichage et recours
+         Dès l'accord, installez le panneau de permis sur le terrain, lisible depuis la voie, pendant toute la durée du
+         chantier. Les tiers ont 2 mois à compter du premier jour d'affichage pour contester ; la mairie peut retirer un
+         permis illégal pendant 3 mois. Faites constater l'affichage par un commissaire de justice (environ 300 à 600 €
+         pour les trois constats).
+         Commissaires de justice : annuaire sur commissaire-justice.fr
+
+  6      Avant les travaux
+         Souscrivez l'assurance dommages-ouvrage, obligatoire (souvent 2 à 4 % du coût de la construction). Signez
+         le contrat de construction de maison individuelle ou les marchés des artisans. Déposez la déclaration
+         d'ouverture de chantier (Cerfa 13407) le jour du démarrage. Le permis est valable 3 ans, prorogeable deux
+         fois d'un an.
+         Déclaration d'ouverture : Mairie de Châteauroux · 02 54 08 33 00 ·
+         secretariat-assemblees@chateauroux-metropole.fr
+
+  7      Le financement
+         La banque débloque le prêt au fur et à mesure du chantier, sur présentation des factures des entreprises ou
+         des appels de fonds du constructeur. Avec un contrat de construction de maison individuelle, l'échéancier
+         est encadré par la loi : 15 % à l'ouverture du chantier, 25 % aux fondations, 40 % aux murs, 60 % hors d'eau,
+         75 % hors d'air et cloisons, 95 % aux équipements, le solde à la réception. Des intérêts intercalaires peuvent
+         courir sur les sommes débloquées.
+         Votre banque ou votre courtier
+
+  8      La fin du chantier
+         Réception des travaux avec le constructeur ou les artisans, avec réserves si nécessaire. Déposez ensuite la
+         déclaration attestant l'achèvement et la conformité des travaux (DAACT, Cerfa 13408), avec l'attestation
+         RE2020 de fin de chantier. La mairie a 3 mois pour la contester (5 mois en secteur protégé).
+         Dépôt : Mairie de Châteauroux · 02 54 08 33 00 · secretariat-assemblees@chateauroux-metropole.fr
+
+  9      Les impôts
+         Dans les 90 jours suivant l'achèvement, déclarez la construction sur impots.gouv.fr, espace « Gérer mes
+         biens immobiliers ». Cette déclaration sert au calcul de la taxe d'aménagement (payée en une fois sous 1 500
+         €, sinon en deux fois, estimation plus bas dans ce chapitre) et de la taxe foncière, avec une exonération
+         possible les deux premières années selon la commune.
+         impots.gouv.fr › Espace particulier › Gérer mes biens immobiliers
+
+
+10.3 Les points à vérifier pour ce terrain
+  1      Certificat d'urbanisme opérationnel
+         Le demander en mairie (formulaire Cerfa 13410), en décrivant le projet. Gratuit, il indique si le terrain
+         peut accueillir le projet et fige les règles d'urbanisme pendant 18 mois.
+
+  2      Règlement de la zone
+         Lire le règlement écrit de la zone Ub et, le cas échéant, les orientations d'aménagement, disponibles sur
+         le Géoportail de l'Urbanisme.
+
+  3      Réseaux et accès
+         Vérifier l'accès à une voie publique ou privée adaptée, la desserte en eau potable et en électricité, et le
+         mode d'assainissement. En l'absence de réseau collectif, une étude de sol et l'avis du service public
+         d'assainissement non collectif (SPANC) sont nécessaires.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        36 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+  4      Bornage
+         Faire réaliser un bornage par un géomètre-expert pour fixer les limites exactes et la surface réelle du
+         terrain.
+
+  5      Sécuriser un achat
+         Pour une acquisition, prévoir dans le compromis une condition suspensive d'obtention d'un permis de
+         construire purgé de tout recours.
+
+
+10.4 Délais indicatifs d'instruction
+  DEMANDE                                                                                 DÉLAI DE DROIT COMMUN
+
+  Certificat d'urbanisme d'information (CUa)                                              1 mois
+
+  Certificat d'urbanisme opérationnel (CUb)                                               2 mois
+
+  Déclaration préalable                                                                   1 mois
+
+  Permis de construire une maison individuelle                                            2 mois
+
+  Permis d'aménager, autres permis de construire                                          3 mois
+
+
+
+Ces délais peuvent être majorés, notamment en site classé ou inscrit, aux abords d'un monument historique ou lorsque la
+consultation d'un service extérieur est nécessaire.
+
+
+10.5 Taxe d'aménagement à prévoir
+      Exemple : une maison de 120 m² en résidence principale, avec une piscine de 3 × 6 m. Sur ce terrain, la
+      taxe d'aménagement à prévoir est d'environ 2 410 €.
+
+
+
+  PROJET                                                                                                       TAXE ESTIMÉE
+
+  Maison de 120 m², résidence principale                                                                       2 250 €
+
+  Piscine de 3 × 6 m (18 m²)                                                                                   160 €
+
+  Total à prévoir                                                                                              2 410 €
+
+
+
+Taux appliqués : 2,5 % pour la commune et 1,1 % pour le département, sur une valeur forfaitaire de 892 € par m² en 2026
+(251 € par m² de bassin pour une piscine). Une résidence principale bénéficie d'un abattement de 50 % sur ses 100 premiers
+m².
+
+La taxe est due une fois les travaux terminés : elle se déclare sur impots.gouv.fr dans les 90 jours suivant l'achèvement, et
+se paie en deux fois au-delà de 1 500 €. Pour calculer votre propre projet :
+terrenurbanisme.com/outils/taxe-amenagement.html
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        37 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+10.6 Implanter une entreprise : zone France Ruralités Revitalisation
+     La commune de Châteauroux n'est pas classée en zone France Ruralités Revitalisation (FRR). Une
+     entreprise qui s'y installe ne bénéficie pas de l'exonération d'impôt sur les bénéfices liée à ce zonage.
+
+
+
+Source : ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 (collectivites-locales.gouv.fr).
+
+
+10.7 Géomètres proches du terrain
+Le géomètre-expert est le seul professionnel habilité à fixer les limites de propriété (bornage) et à établir les
+documents d'arpentage déposés au cadastre. Il intervient aussi pour les relevés topographiques et les
+divisions de terrain.
+
+1,1 km            AXIS CONSEILS (STELE DETECTION)
+                                                                                                                           Coordonnées
+                  6 RUE PETITE DU PALAN 36000 CHATEAUROUX
+
+
+1,2 km            EMMANUEL DURET
+                                                                                                                           Coordonnées
+                  LE PARC BALSAN 2 35 AVENUE DU CHAMP AUX PAGES 36000
+                  CHATEAUROUX
+
+
+1,4 km            JEAN-CHARLES DAYOT
+                                                                                                                           Coordonnées
+                  6 RUE GRANDE 36000 CHATEAUROUX
+
+
+2,1 km            SELAS NEUILLY
+                                                                                                                           Coordonnées
+                  26 AVENUE JEAN PATUREAU FRANCOEUR 36000 CHATEAUROUX
+
+
+3 km              SOGEFRA
+                                                                                                                           Coordonnées
+                  CAP SUD 64 AV DE L'OCCITANIE 36250 SAINT-MAUR
+
+
+21,9 km           AXIS CONSEILS (STELE DETECTION)
+                                                                                                                           Coordonnées
+                  19 RUE DU SAPIN VERT 36500 BUZANCAIS
+
+
+Source : répertoire Sirene de l'INSEE (activité des géomètres), classé par distance au terrain. L'inscription d'un cabinet à l'Ordre
+des géomètres-experts se vérifie sur geometre-expert.fr. Le bouton « Coordonnées » ouvre la fiche du cabinet (téléphone,
+horaires, itinéraire). Cette liste est fournie à titre indicatif, sans partenariat ni recommandation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        38 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              Châteauroux · CM 744
+          TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+     11            État des risques (ERP) pré-rempli
+     DANS CETTE SECTION
+
+     Le formulaire réglementaire à remettre à l'acquéreur ou au locataire, pré-rempli à partir des
+     bases officielles : plans de prévention, sismicité, radon, sols pollués, trait de côte, bruit des
+     aérodromes.
+
+
+Articles L. 125-5 à L. 125-7 et R. 125-23 à R. 125-27 du Code de l'environnement · modèle fixé par l'arrêté du 27 septembre
+2022.
+
+
+     Formulaire pré-rempli à partir de Géorisques et du Géoportail de l'Urbanisme à la date du rapport.
+     Avant de le remettre à l'acquéreur ou au locataire, le vendeur ou le bailleur le vérifie, le complète
+     (sinistres indemnisés) et le signe ; il doit dater de moins de six mois à la signature de la promesse, du
+     bail ou de l'acte.
+
+
+
+
+11.1 Situation du bien
+Commune                                                  Châteauroux (36044)
+
+Département                                              Indre (36)
+
+Références cadastrales                                   Section CM, parcelle n° 744 · 36044000CM0744
+
+Surface cadastrale                                       545 m²
+
+
+
+11.2 Plans de prévention des risques
+  L'IMMEUBLE EST SITUÉ DANS LE PÉRIMÈTRE…                                         RÉPONSE                DÉTAIL
+
+  d'un plan de prévention des risques naturels (PPRN)                             Non                    Aléas à l'adresse : remontée de nappe
+  prescrit, appliqué par anticipation ou approuvé
+
+  d'un plan de prévention des risques miniers (PPRM)                              Non                    Non recensé
+
+  d'un plan de prévention des risques technologiques                              Non                    Risques technologiques sur la commune
+  (PPRT)                                                                                                 : installations industrielles (icpe),
+                                                                                                         canalisations de matières dangereuses,
+                                                                                                         pollution des sols
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       39 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+11.3 Autres zonages réglementaires
+  L'IMMEUBLE EST SITUÉ…                                                           RÉPONSE                DÉTAIL
+
+  dans une commune de sismicité (zones 2 à 5 : règles de                          Oui                    Zone 2 – faible
+  construction parasismique)
+
+  dans une commune à potentiel radon de niveau 3                                  Non                    Catégorie 1 (potentiel faible)
+
+  dans un secteur d'information sur les sols (SIS)                                Non                    Aucun SIS recensé à proximité
+
+  dans une zone exposée au recul du trait de côte                                 Non                    Non concerné selon Géorisques
+
+  dans une zone de bruit d'un plan d'exposition au bruit                          À vérifier             Aucun PEB annexé au document
+  d'aérodrome (PEB)                                                                                      d'urbanisme ; vérifier auprès de la mairie
+
+  dans une zone de retrait-gonflement des argiles                                 Oui                    Existant – important
+  (information)
+
+
+
+
+11.4 Sinistres indemnisés et déclarations
+Arrêtés de catastrophe naturelle sur la commune : 18 (liste en section Risques). Le vendeur ou le bailleur
+déclare ci-dessous les sinistres ayant donné lieu à une indemnisation au titre des catastrophes naturelles ou
+technologiques pendant la période où il a été propriétaire.
+
+Sinistres indemnisés                                     [ ] Oui [ ] Non
+
+Vendeur ou bailleur                                      Nom : ____________________ Date : ___/___/______ Signature :
+
+Acquéreur ou locataire                                   Nom : ____________________ Date : ___/___/______ Signature :
+
+
+L'état des risques officiel peut aussi être édité gratuitement sur Géorisques (errial.georisques.gouv.fr). Les informations
+ci-dessus sont établies à partir des bases nationales ; en cas de divergence, l'arrêté préfectoral relatif à l'information des
+acquéreurs et des locataires fait foi.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         40 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+    12             Avertissement et sources
+     DANS CETTE SECTION
+
+     La portée de ce rapport et la liste des sources publiques consultées.
+
+
+
+12.1 Nature du document
+Ce rapport est un document d'information établi automatiquement, à la date indiquée en page de garde, à
+partir des données publiques officielles alors disponibles. Il n'a aucune valeur contractuelle, réglementaire ou
+juridique.
+
+
+12.2 Ce que ce rapport n'est pas
+Il ne constitue ni un certificat d'urbanisme au sens de l'article L. 410-1 du Code de l'urbanisme, ni une
+autorisation d'urbanisme (permis de construire, permis d'aménager, déclaration préalable), ni un état des
+risques au sens de l'article L. 125-5 du Code de l'environnement, ni un bornage, ni une expertise, ni une
+évaluation immobilière, ni une consultation juridique. Il n'engage en rien l'administration.
+
+
+12.3 Permis de construire
+Ce rapport ne peut en aucun cas être joint, produit ou invoqué à l'appui d'une demande de permis de
+construire, de permis d'aménager ou de déclaration préalable, ni opposé à la mairie ou à un service de l'État. Il
+ne garantit pas l'obtention d'une autorisation : seule l'autorité compétente se prononce, au vu d'un projet
+précis et de l'ensemble des règles applicables à la date de sa décision.
+
+
+12.4 Limites des données
+Les données sont produites par des organismes publics dont l'éditeur n'est ni l'auteur ni le garant. Elles
+peuvent être incomplètes, imprécises ou ne pas refléter une modification, une révision, une mise en
+compatibilité, une annulation contentieuse, un sursis à statuer ou une procédure en cours. Le plan cadastral,
+document fiscal, ne fait pas foi des limites de propriété. Surfaces, distances, altitudes et pentes sont
+approchées. Les extraits et analyses du règlement sont une aide à la lecture : seul le texte intégral du
+document d'urbanisme approuvé, consultable en mairie, fait foi.
+
+
+12.5 Avant toute décision
+Avant toute acquisition, cession, financement, promesse de vente ou dépôt d'une demande, le lecteur doit
+obtenir un certificat d'urbanisme opérationnel auprès de la mairie, consulter le document d'urbanisme en
+vigueur et recueillir l'avis d'un professionnel habilité (notaire, architecte, géomètre-expert, avocat). Pour un
+achat, il est recommandé de stipuler une condition suspensive d'obtention d'un permis de construire purgé de
+tout recours.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         41 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+12.6 Responsabilité
+L'éditeur ne saurait être tenu responsable d'une décision prise sur le seul fondement de ce rapport, ni d'un
+refus d'autorisation, d'une erreur ou d'une omission des sources publiques, dans les limites prévues par les
+conditions générales de vente acceptées lors de la commande.
+
+
+12.7 Sources consultées
+  DONNÉE                                                    SOURCE
+
+  Cadastre                                                  DGFiP, plan cadastral informatisé, via API Carto (IGN)
+
+  Photographies et plans                                    IGN, Géoplateforme : orthophotographies, Plan IGN, parcellaire express
+
+  Urbanisme                                                 Géoportail de l'Urbanisme : zonage, prescriptions, informations, servitudes
+                                                            d'utilité publique
+
+  Littoral                                                  IGN, BD TOPO (limite terre-mer) ; communes littorales (Géoportail de
+                                                            l'Urbanisme)
+
+  Montagne                                                  Ministère de la Cohésion des territoires, communes de la loi Montagne
+
+  Risques                                                   Géorisques (ministère de la Transition écologique) : rapport de risques,
+                                                            arrêtés CatNat, sismicité, radon, ICPE, sites pollués
+
+  Environnement                                             Inventaire national du patrimoine naturel (PatriNat), via API Carto
+
+  Altitude, pente et exposition                             IGN, RGE ALTI
+
+  Ensoleillement                                            Calcul astronomique de la course du soleil ; masque du relief (IGN, RGE
+                                                            ALTI) et des bâtiments (IGN, BD TOPO)
+
+  Voirie et accès                                           IGN, BD TOPO (tronçons de route)
+
+  Permis de construire                                      Sitadel, service des données et études statistiques (SDES) du ministère
+                                                            chargé du logement
+
+  Photographies anciennes                                   IGN, BD ORTHO historique
+
+  Fibre et internet                                         Arcep, Ma connexion internet (éligibilité par adresse)
+
+  Géomètres                                                 Répertoire Sirene (INSEE), activité des géomètres
+
+  Propriétaires personnes morales                           DGFiP, fichiers des parcelles des personnes morales (diffusion Koumoul)
+
+  Diagnostics énergétiques                                  ADEME, base des DPE des logements existants
+
+  Procédures collectives                                    Bodacc, annonces commerciales (DILA)
+
+  Bâtiments                                                 IGN, BD TOPO
+
+  Réseau électrique                                         Agence ORE (gestionnaires de réseaux de distribution : Enedis, EDF Corse
+                                                            et entreprises locales) : réseau basse tension et postes de distribution
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         42 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+  DONNÉE                                                    SOURCE
+
+  Taxe d'aménagement                                        DGFiP, éléments de taxation votés par les collectivités ; valeurs forfaitaires
+                                                            fixées par arrêté
+
+  Rapport officiel de risques                               Géorisques, ministère chargé de l'environnement
+
+  Zone France Ruralités Revitalisation                      ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 ; article
+                                                            44 quindecies A du code général des impôts
+
+  Marché immobilier                                         Statistiques des demandes de valeurs foncières (DVF) par commune, DGFiP
+                                                            et Etalab
+
+  Date d'extraction                                         20/11/2026
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         43 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Châteauroux · CM 744
+         TerrenUrbanisme
+                                                                                                                     Annexe · règlement de la zone
+
+
+
+
+ANNEXE
+
+
+Règlement écrit · zone Ub
+Les pages suivantes reproduisent le chapitre du règlement officiel applicable à la zone de la parcelle
+(pages 51 à 62 du document approuvé), tel que publié sur le Géoportail de l'Urbanisme. Il s'agit d'une
+reproduction à titre d'information : seule la version approuvée tenue à disposition en mairie fait foi, avec
+ses annexes, plans et éventuelles modifications ultérieures.
+Règlement complet :
+https://data.geopf.fr/annexes/gpu/documents/DU_243600327/dddbbf6c72a1c5caf282282fc9358419/243600327_reglement_
+20250930.pdf
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        44 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+ Ub
+
+
+
+
+                              II.2 LE SECTEUR Ub
+NB : Les règles ci-dessous complètent les dispositions générales applicables à l’ensemble des zones
+figurant de la page 17 à la page 31.
+
+Le secteur Ub correspond aux extensions urbaines denses du centre-ville de Châteauroux (faubourgs),
+caractérisées par des constructions implantées en ordre continu de manière générale le long des axes
+menant au centre-ville. Les espaces où la hauteur des constructions est moins élevée sont classés dans
+le sous-secteur Ub1.
+
+
+
+
+LES OBJECTIFS POURSUIVIS PAR LA CREATION DU SECTEUR Ub
+
+La création du secteur Ub poursuit plusieurs objectifs :
+- préserver les caractéristiques urbaines des faubourgs, marqueurs de l’identité du territoire,
+- encadrer les formes architecturales afin de préserver la répétition du modèle type des « maisons de
+cigarières » ou « d’ouvriers à Balsan ».
+
+
+
+
+                                                 51
+ Ub
+
+
+_ARTICLE 1 : USAGES DES SOLS ET DESTINATION DES CONSTRUCTIONS
+
+LES OBJECTIFS POURSUIVIS A TRAVERS LA REGLE
+
+Du fait de l’évolution de l’urbanisation, les faubourgs de Châteauroux ont aujourd’hui de multiples
+fonctions : résidentielle, de loisirs et économiques (petits commerces de proximité notamment).
+L’objectif est de permettre la mixité fonctionnelle sur ces axes structurants.
+
+
+
+
+X : Occupations et utilisations du sol interdites
+
+V*: Occupations et utilisations du sol autorisées sous conditions
+La ou les condition(s) sont précisées pour chaque destination concernée par cette disposition.
+
+Tout ce qui n’est pas interdit (X) ou autorisé sous condition(s) (V*) est autorisé.
+
+
+
+                                                                                        Ub et Ub1
+ COMMERCE ET ACTIVITE DE SERVICE
+                                                      Artisanat et commerce de détail      V*
+ * Sous réserve que la construction soit située au sein d’un périmètre de centralité, repéré sur le
+ règlement graphique.
+ * ou en dehors des périmètres de centralité, s’il s’agit :
+ > d’un commerce de proximité et de première nécessité répondant aux besoins des habitants du
+ quartier,
+ > ou de show-rooms d’artisans,
+ > ou de magasins d’usine,
+ > ou d’espaces de vente accolés à une activité de production et permettant la commercialisation des
+ produits issus de cette activité,
+ > ou d’une mise aux normes d’un commerce existant à la date d’approbation du PLUi,
+ > ou d’une extension d’un commerce existant, dans la limite d’une augmentation maximale de 25%
+ de l’emprise au sol existante à la date d’approbation du PLUi,
+ > d’une activité de loisirs, d’une station de distribution de carburants, d’un concessionnaire
+ automobile, camping-car, d’un garage, motocycles et motoculture.
+                                                                    Commerce de gros        X
+ AUTRES ACTIVITES DES SECTEURS PRIMAIRE, SECONDAIRE OU TERTIAIRE
+                                                                              Industrie    V*
+ * L’activité ne génère pas de nuisances incompatibles avec l’habitat.
+                                                                             Entrepôts      X
+                                    EXPLOITATION AGRICOLE ET FORESTIERE
+                                                                  Exploitation agricole     X
+                                                                Exploitation forestière     X
+                                 AUTRES OCCUPATIONS ET UTILISATIONS DU SOL
+                La pratique du camping en dehors des terrains aménagés à cet effet          X
+                    Les résidences mobiles constituant l’habitat des gens du voyage         X
+                                          Les affouillements et exhaussements de sol       V*
+
+
+
+                                                    52
+ Ub
+
+
+ * Les affouillements et exhaussements du sol répondent à l’une des conditions suivantes :
+ - Ils sont directement liés aux travaux de constructions et installations autorisées sur le terrain
+ d’assiette du projet (ex : fondations, piscines…),
+ - Ils consistent en des travaux d’aménagement paysager des espaces non construits accompagnant la
+ construction,
+ - Ils sont nécessaires au bon fonctionnement d’une activité autorisée sur le terrain d’assiette
+ (raccordement d’une construction, réalisation d’un assainissement, etc.),
+ - Ils sont nécessaires à la réalisation d’un projet d’intérêt général,
+ - Ils sont liés au fonctionnement des réseaux (canalisations…) et des ouvrages techniques liés à la
+ distribution de l’énergie, du gaz, des télécommunications (y compris haut débit), à la gestion des eaux
+ pluviales, etc.,
+ - Ils sont nécessaires à la recherche archéologique.
+                                                                        Les carrières           X
+                               Les déchets de toute nature, le stockage de ferrailles          X
+                                     et matériaux de démolition ou de récupération
+
+
+_ARTICLE 2 : IMPLANTATION ET VOLUMETRIE
+
+LES OBJECTIFS POURSUIVIS A TRAVERS LA REGLE
+
+L’implantation des constructions a des incidences sur le paysage urbain et plus spécifiquement dans des
+quartiers historiques comme les faubourgs. Caractérisés par des fronts bâtis, souvent continus, ils
+constituent des entités urbaines patrimoniales qui doivent être préservées tant en matière de formes
+urbaines qu’architecturales.
+
+
+
+2.1 PAR RAPPORT AUX VOIES ET EMPRISES PUBLIQUES
+Lorsque la parcelle est bordée par plusieurs voies, les règles de cette section s’appliquent par rapport à
+au moins l’une de ces voies. Les voies qui ne servent pas de référence sont alors considérées comme
+des limites séparatives et régies par la section « PAR RAPPORT AUX LIMITES SEPARATIVES ».
+
+Les constructions nouvelles doivent s’implanter à l’alignement des voies publiques ou privées et
+emprises publiques, existantes ou à créer.
+
+Toutefois, l’implantation en recul de l’alignement peut être autorisée dans les conditions suivantes :
+
+> si une construction voisine (située sur une parcelle contigüe) est implantée en retrait par rapport à la
+même voie. Dans ce cas, la nouvelle construction peut s’implanter dans la continuité de la façade de la
+construction voisine déjà édifiée.
+
+
+
+
+                                                   53
+ Ub
+
+
+
+
+> lorsque le premier rang est construit, l’implantation en second rang est possible,
+
+
+
+
+> lorsque la géométrie de la parcelle le nécessite (largeur sur voie très faible…),
+
+> lorsque la continuité du front bâti est assurée par d’autres moyens (ex : murs de clôture),
+
+
+
+
+> lors de la réalisation d’une opération d’ensemble, pour toute implantation améliorant la qualité de
+l’espace public (cour aménagée, mise en valeur d’un bâtiment d’intérêt, vues traversantes, jardin
+partagé, etc.),
+
+> dans le cas de la construction d’une annexe non accolée, de manière à limiter sa perception depuis
+l’espace public.
+
+
+
+
+                                                    54
+ Ub
+
+
+
+
+Ces règles ne concernent pas les équipements d’intérêt collectif et services publics.
+
+2.2 PAR RAPPORT AUX LIMITES SEPARATIVES
+Lorsque le terrain a moins de 15 mètres de front de rue, les constructions nouvelles doivent être édifiées
+sur les deux limites séparatives.
+
+Lorsque le terrain a plus de 15 mètres de front sur rue, les constructions nouvelles peuvent être édifiées
+sur une seule des limites séparatives, à condition d’assurer la continuité du front bâti sur rue.
+
+
+
+
+Dans tous les cas, dans le cas d’une implantation avec une marge, la distance minimale à respecter par
+rapport aux limites séparatives sera au moins égale à la moitié de la hauteur mesurée à l’égout du toit
+ou à l’acrotère de la construction à implanter, sans être inférieure à 3 mètres.
+
+
+
+
+                                                   55
+ Ub
+
+
+Des règles d’implantation différentes peuvent s’appliquer dans les cas suivants :
+
+> lorsque l’unité foncière, du fait de sa configuration, ne permet pas d’implantation en limite(s)
+séparative(s) (exemple : géométrie de la parcelle particulière),
+
+> pour les extensions des constructions existantes à la date d’approbation du PLUi ne respectant pas
+ces règles : elles peuvent être implantées dans la continuité de l’existant,
+
+> pour les annexes de moins de 20 m² d’emprise au sol et les abris de jardins.
+
+Ces règles ne concernent pas les équipements d’intérêt collectif et les services publics.
+
+2.3 PAR RAPPORT AUX AUTRES CONSTRUCTIONS IMPLANTEES SUR
+UNE MEME UNITE FONCIERE
+Non réglementé.
+
+
+2.4 LA HAUTEUR
+Dans le secteur Ub à l’exception du sous-secteur Ub1 :
+
+La hauteur des constructions ne doit pas excéder 15 mètres à l’égout du toit ou à l’acrotère.
+
+Dans le sous-secteur Ub1 :
+
+La hauteur des constructions ne doit pas excéder 7 mètres à l’égout du toit ou à l’acrotère pour les
+habitations et 9 mètres pour les autres constructions autorisées dans le sous-secteur.
+
+Dans l’ensemble du secteur Ub :
+
+La hauteur des constructions annexes ne doit pas dépasser 3,50 mètres à l’égout du toit ou à l’acrotère.
+
+La hauteur des extensions des constructions principales ne devra pas dépasser la hauteur totale du
+bâtiment existant, sauf en cas de surélévation.
+
+Des règles de hauteur différentes peuvent s’appliquer dans les cas suivants :
+
+> en cas de forte déclivité, la hauteur est mesurée par rapport au point le plus haut de l’emprise de la
+construction,
+
+> pour les constructions et installations nécessaires aux services publics ou d’intérêt collectif.
+
+Les ouvrages techniques (les locaux techniques d’ascenseurs, etc.) ne sont pas pris en compte dans le
+calcul de la hauteur maximale autorisée, tant qu’ils restent masqués par le volume de la construction.
+
+2.5 OCCUPATION SUR LE TERRAIN
+Non réglementé.
+
+
+_ARTICLE 3 : QUALITE ARCHITECTURALE ET PAYSAGERE
+
+LES OBJECTIFS POURSUIVIS A TRAVERS LA REGLE
+
+
+
+
+                                                     56
+ Ub
+
+
+A travers la rédaction de cet article, la collectivité poursuit les objectifs suivants :
+- préserver le patrimoine bâti caractérisant les faubourgs,
+- permettre l’évolution de l’existant en veillant à la bonne intégration des nouveaux
+aménagements/constructions,
+- être dans la co-construction du projet.
+
+3.1 GENERALITES
+Des prescriptions spécifiques s’appliquent au sein des périmètres du Secteur Patrimonial Remarquable
+(SPR) annexé au dossier de PLUi. En cas de conflit entre le présent règlement et celui du SPR, c’est la
+règle la plus restrictive qui s’applique.
+
+Les constructions, installations et extensions, par leur situation, leur volume, leurs dimensions ou leur
+aspect extérieur, ne devront pas porter atteinte au caractère ou à l’intérêt des lieux avoisinants, aux
+sites, aux paysages naturels ou urbains ainsi qu’à la conservation des perspectives monumentales.
+L’architecture contemporaine sera recevable dès lors que son caractère innovant et sa bonne
+intégration dans le site sont justifiés pour toute nouvelle construction, installation et extension d’une
+construction existante.
+
+C’est la construction, ses annexes et extensions qui s’adapteront au relief du terrain, et non l’inverse.
+
+Les volumes sont simples, adaptés à la parcelle et respectent l’échelle des constructions environnantes.
+
+L’aspect des extensions doit être justifié en vue d’une cohérence de l’aspect général de la construction
+ainsi que de la perception de l’espace public aux abords de bâtiments d’intérêt patrimonial.
+
+Tout pastiche d’une architecture traditionnelle étrangère à l’architecture locale (cottage, mas, chalet…)
+est interdit.
+
+Les petits locaux techniques, containers à déchets, citernes de récupération des eaux pluviales et autres
+ouvrages techniques doivent être pensés dès la conception du projet et ne doivent pas être visibles
+depuis le domaine public.
+
+3.2 FAÇADES
+L’unité d’aspect des constructions doit être recherchée par un traitement cohérent de toutes les
+façades, y compris les façades arrière des constructions. Les murs pignons et les soubassements
+peuvent être traités avec des matériaux différents sous réserve qu’ils s’harmonisent entre eux.
+
+L’emploi à nu de matériaux destinés à être recouverts (briques creuses, parpaings…) ainsi que l’emploi
+en façade de matériaux hétéroclites ou disparates et tous matériaux de récupération non prévus à cet
+usage, et l’imitation de matériaux sont interdits. La pose de dispositifs supportant des panneaux
+photovoltaïques n’est autorisée que sur les façades et pignons non visibles depuis l’espace public, et
+sous réserve que la construction ne soit pas concernée par des mesures de protection patrimoniale
+spécifiques (construction identifiée au document graphique au titre de l’article L151-19 du code de
+l’urbanisme et/ou située au sein du Site Patrimonial Remarquable (SPR) et des périmètres de protection
+instaurés aux abords des Monuments Historiques).
+
+3.3 BAIES
+Les pignons aveugles sont interdits pour toutes les constructions visibles depuis l’espace public.
+
+
+
+                                                    57
+ Ub
+
+
+Le rythme des ouvertures en façade sera justifié vis-à-vis de l’aspect général de la rue et de la destination
+de la construction.
+
+La teinte des menuiseries des baies et des volets est unifiée sur une même façade. Les couleurs criardes
+sont interdites.
+Les volets roulants (et coffrages) ne devront pas être installés en saillie de façade.
+
+3.4 TOITURES
+Les toitures des constructions nouvelles et des extensions doivent avoir une forme simple et s’intégrer
+harmonieusement dans l’environnement existant.
+Les pentes des toitures des constructions devront respecter un angle compris entre 36 et 50° par
+rapport à l’horizontale.
+Lorsqu’ils sont visibles depuis l’espace public, la teinte des matériaux de couverture des volumes
+principaux est voisine de celles de l’ardoise naturelle ou de la tuile. La toiture des volumes secondaires,
+composant la construction principale pourra déroger à ce principe.
+Les combles aménageables ne peuvent constituer au maximum qu’un étage.
+L’éclairement éventuel des combles sera assuré de préférence par des ouvertures en lucarnes à deux
+pans (bâtières) ou à trois pans (capucines). Les chiens-assis sont interdits, de même que les lucarnes
+rampantes (ou en trapèze), les lucarnes arrondies et les baies vitrées entrantes.
+
+
+
+
+Dans le cas d’une rénovation de l’existant ou pour la création d’une ouverture supplémentaire, les règles
+présentées ci-dessus peuvent ne pas s’appliquer afin de préserver une cohérence d’ensemble.
+
+Les panneaux photovoltaïques et les châssis de toit devront être intégrés à la couverture. Sur les parties
+des toitures visibles depuis le domaine public des bâtiments identifiés au document graphique au titre
+de l’article L151-19 du code de l’urbanisme, ils devront être encastrés au nu de la couverture. Des
+dispositions réglementaires particulières sont également appliquées au sein du Site Patrimonial
+Remarquable (SPR) et des périmètres de protection instaurés aux abords des Monuments Historiques.
+
+
+
+
+                                                     58
+ Ub
+
+
+
+
+3.5 CLOTURES
+En cas d’implantation de clôture ou de modification de clôture existante, celles-ci doivent respecter
+les dispositions ci-après.
+
+Une attention particulière doit être apportée à la conception et la réalisation des clôtures :
+    -   en privilégiant l’harmonie des matériaux (2 matériaux maximum),
+    -   en recherchant la simplicité des formes et structures,
+    -   en tenant compte du bâti et du site environnant,
+    -   en intégrant les coffrets, compteurs, boîtes aux lettres…
+
+Sont interdits :
+    -   l’imitation de matériaux (faux bois, fausses briques…),
+    -   l’emploi à nu de matériaux destinés à être recouverts (briques creuses, parpaings, etc.),
+    -   l’emploi de tous matériaux hétéroclites ou disparates et tous matériaux de récupération non
+        prévus pour cet effet.
+
+Les murs existants en moellons de pays ou en pierres de taille seront conservés, restaurés. Lorsqu’ils
+permettent de mettre en valeur des séquences paysagères d’intérêt et en cas de nécessité technique
+justifiée (création d’un accès, mise aux normes d’accessibilité-sécurité…), des percements et ouvertures
+sont toutefois possibles.
+
+La hauteur des clôtures est mesurée en tout point de la clôture, entre le niveau du terrain naturel (la
+partie servant au soutènement n’est pas incluse dans le calcul) et le sommet de la clôture.
+
+Les dispositions en matière de limitation de hauteur des clôtures ne s’appliquent pas aux éléments
+techniques, piliers et pilastres.
+
+Les clôtures doivent suivre la pente et limiter les effets d’escalier.
+
+Des règles d’implantation et de hauteur différentes pour les clôtures sont admises pour les ouvrages
+RTE, les opérateurs de télécommunication, les producteurs et les transporteurs d’énergie, ainsi que
+pour les établissements à caractère d’intérêt général nécessitant une sécurisation spécifique.
+
+▪ En limite sur les voies publiques et privées et emprises publiques, les clôtures
+    devront être réalisées sous la forme d’un muret d’une hauteur comprise entre 0,40 et 1 mètre
+    maximum, surmonté de grilles métalliques ou d’une lisse, de couleur sombre ; la hauteur totale de
+    la clôture ne devra pas excéder 1,80 mètre. Le prolongement, à l'identique, d'un mur existant
+    pourra être admis si la préservation des caractéristiques du mur d'origine le justifie.
+
+
+
+
+                                                     59
+  Ub
+
+
+▪ En limite séparative avec une autre propriété bâtie, les types de clôtures suivants sont
+    autorisés :
+
+- les murs pleins maçonnés enduits ou en pierre jointoyées,
+- les murs-bahuts d’une hauteur de 1 mètre maximum, enduits ou réalisés en pierre, surmontés d’un
+ouvrage à claire-voie ou d’un barreaudage simple,
+- les panneaux bois,
+- les panneaux en matériaux composites d’aspect qualitatif,
+- les grillages, éventuellement accompagnés d’une plaque de soubassement de 0,25 mètre maximum,
+
+- les haies arbustives composées d’essences locales, doublées ou non d’un grillage,
+- les clôtures végétales (treillis...).
+La hauteur des clôtures non végétales ne doit pas dépasser 2,66 mètres.
+
+
+_ARTICLE 4 : QUALITE ENVIRONNEMENTALE
+
+LES OBJECTIFS POURSUIVIS A TRAVERS LA REGLE
+
+La collectivité, à travers cet article, souhaite renforcer la végétalisation des espaces urbanisés tant dans
+les espaces publics et leur aménagement que sur l’espace privé ; celle-ci participant pleinement à la
+qualité du cadre de vie.
+
+
+Les haies doivent être composées d’essences, choisies préférentiellement dans la liste figurant à
+l’Annexe VI.2 du présent règlement.
+
+Les espèces végétales dont la liste figure à l’Annexe VI.3 ne sont pas recommandées.
+
+L’introduction d’essences reconnues ou présumées invasives est interdite (Annexe VI.4).
+
+
+_ARTICLE 5 : STATIONNEMENT
+
+LES OBJECTIFS POURSUIVIS A TRAVERS LA REGLE
+
+Les faubourgs sont organisés autour de grands axes de circulation menant au centre-ville de
+Châteauroux, le long desquels des places de stationnement existent et répondent en partie aux besoins
+des habitants ; les parcelles en lanière et le front bâti existant limitant les possibilités de stationnement
+sur le terrain d’assiette de la construction. L’objectif de la règle est de concilier densification du tissu et
+réduction de la place de la voiture dans le paysage urbain.
+
+
+Le stationnement des véhicules de toute nature, correspondant aux besoins des installations et
+constructions autorisées dans la zone, doit être assuré en dehors des voies publiques ou privées, par la
+réalisation d’aires de stationnement sur le terrain propre à l’opération.
+
+
+
+
+                                                      60
+ Ub
+
+
+5.1 STATIONNEMENT DES VEHICULES MOTORISES
+Les logements locatifs financés avec un prêt aidé par l’Etat et les logements locatifs intermédiaires
+mentionnés à l’article L. 302-16 du Code de la Construction et de l’Habitation ne sont pas concernés par
+les dispositions suivantes.
+
+Il est demandé :
+
+                                                          Nombre de places minimum
+                                                 HABITATION
+       Si la surface de plancher est                                     1
+         comprise entre 0 et 60 m²
+   Au-delà de 60 m² de surface de                1 par tranche de 60 m² de surface de plancher
+                         plancher
+
+                   Résidence Sénior                            1 pour 5 chambres
+
+                                       COMMERCE ET ACTIVITE DE SERVICE
+  Artisanat et commerce de détail               1 par tranche de 60 m² de surface de plancher *
+          Hébergement hôtelier et                              1 pour 5 chambres
+                     touristique
+ * L’emprise au sol des surfaces, bâties ou non, affectées aux aires de stationnement ne pourra excéder
+ un plafond correspondant aux trois quarts de la surface de plancher des bâtiments affectés au
+ commerce. Les espaces paysagers en pleine terre, les surfaces réservées à l’auto-partage et les places
+ de stationnement dédiées à l’alimentation des véhicules électriques ou hybrides rechargeables sont
+ déduits de l’emprise au sol des surfaces affectées au stationnement. La surface des places de
+ stationnement non imperméabilisées compte pour la moitié de leur surface.
+               Activités de services
+       où s’effectue l’accueil d’une             1 par tranche de 60 m² de surface de plancher
+                           clientèle
+                       AUTRES ACTIVITES DES SECTEURS PRIMAIRE, SECONDAIRE OU TERTIAIRE
+
+                            Bureau                    1 pour 60 m² de surface de plancher
+
+Pour le nombre de places imposé et calculé sur la surface de plancher, il doit être arrondi au nombre
+entier supérieur.
+
+Le stationnement des véhicules doit être réalisé sur le terrain d’assiette.
+
+En cas d’impossibilité de création des places sur le terrain d’assiette, le stationnement sera réalisé en
+dehors des voies publiques ou ouvertes à la circulation, à proximité immédiate de l’opération.
+
+Dans le cadre d’opération d’aménagement d’ensemble, la réalisation des places de stationnement
+pourra être mutualisée.
+
+Pour l’aménagement des aires de stationnement (mutualisées ou non), les revêtements semi-
+perméables pour l’air et l’eau ou semi-végétalisé sont à privilégier.
+
+La réglementation nationale à respecter en matière d’installation de dispositifs de gestion des eaux
+pluviales et d’ombrage sur les parcs de stationnement extérieurs est rappelée au chapitre « I.5 - Les
+performances énergétiques et environnementales » des dispositions générales du présent règlement.
+
+Les dimensions d’une aire de stationnement à destination des Personnes à Mobilité Réduite (PMR)
+figurent à l’Annexe VI.5 du présent règlement.
+
+
+
+
+                                                    61
+ Ub
+
+
+5.2 STATIONNEMENT DES CYCLES
+L'espace destiné au stationnement sécurisé des vélos doit être couvert et se situer de préférence au
+rez-de-chaussée du bâtiment ou au premier sous-sol. Cet espace peut également être réalisé à
+l'extérieur du bâtiment, à condition qu'il soit couvert, clos et situé sur la même unité foncière que le
+bâtiment.
+
+Il possède les caractéristiques définies dans le Code de la Construction et de l’Habitation et l’arrêté du
+30 juin 2022. Ces derniers fixent notamment le nombre minimal de places à réserver au stationnement
+sécurisé des vélos suivant les catégories de bâtiments et le type d’usagers, ainsi que leurs dimensions
+minimales. Ils déterminent également le seuil de déclenchement de l’obligation de travaux sur le parc
+de stationnement existant et les cas de dérogation possibles.
+
+
+
+
+                                                   62
+                    TerrenUrbanisme
+
+    Merci de votre confiance
+Ce rapport a été établi à partir des sources publiques officielles pour vous
+  aider à décider en connaissance de cause. Pour toute question, nous
+                        restons à votre disposition.
+
+
+
+
+   Vous êtes professionnel ? Travaillons ensemble
+      Agents immobiliers, notaires, architectes, géomètres, diagnostiqueurs,
+promoteurs, mairies : faisons équipe. Crédits professionnels sans abonnement, 5
+€ le rapport dès 50 crédits, votre logo sur les rapports, offre communale pour les
+                       mairies et partenariats sur mesure.
+
+               Écrivez-nous : contact@terrenurbanisme.com
+
+
+
+
+                        terrenurbanisme.com
+                         contact@terrenurbanisme.com
+

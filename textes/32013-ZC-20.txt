@@ -1,0 +1,2767 @@
+                  TerrenUrbanisme
+                  Le terrain constructible, partout en France
+
+
+
+
+RAPPORT D'URBANISME
+
+
+
+Auch
+Section ZC · Parcelle n° 20
+      Non constructible
+
+
+
+
+Référence cadastrale                                                        Surface cadastrale
+32013000ZC0020                                                              15 169 m²
+
+Rapport établi le                                                           Référence du rapport
+20/11/2026                                                                  APERCU
+
+
+
+
+terrenurbanisme.com                                                                      contact@terrenurbanisme.com
+
+Document d'information sans valeur contractuelle ni réglementaire. Il ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme
+et ne peut en aucun cas être joint à une demande de permis de construire ou de déclaration préalable. Seuls les actes de l'administration font foi.
+                                                                                                                           Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                                           Sommaire
+
+
+
+
+Sommaire
+Le rapport suit l'ordre d'une étude de terrain : où se trouve la parcelle, ce que dit la règle, ce qui pèse sur le
+projet, puis les démarches.
+
+              Synthèse
+   S                                                                                                                              p. 3
+              Le verdict, les indicateurs clés et les points d'attention en une page.
+
+              Identification de la parcelle
+   01                                                                                                                             p. 4
+              Localisation, surface, références cadastrales et voisinage du terrain.
+
+              Règles d'urbanisme applicables
+  02                                                                                                                              p. 7
+              Document d'urbanisme, zone du terrain, prescriptions et servitudes.
+
+              Ce que vous pouvez construire
+  03                                                                                                                             p. 10
+              Surface constructible, hauteur, reculs, aspect et usages autorisés.
+
+              Loi Littoral et loi Montagne
+  04                                                                                                                             p. 16
+              Les lois qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+              Risques naturels et technologiques
+  05                                                                                                                             p. 17
+              Inondation, feu de forêt, argiles, catastrophes naturelles et sites pollués.
+
+              Le terrain : accès, relief et réseaux
+  06                                                                                                                            p. 20
+              Accès, pente, ensoleillement, eaux usées, électricité, eau et fibre.
+
+              Conditions de vente du terrain
+  07                                                                                                                            p. 27
+              Terrain agricole ou naturel : SAFER, fermier en place et repère officiel de prix.
+
+              Environnement et marché immobilier
+  08                                                                                                                            p. 29
+              Espaces naturels, espèces protégées et ventes immobilières alentour.
+
+              Historique du site
+  09                                                                                                                            p. 32
+              Le terrain vu du ciel au fil des années et les permis accordés autour.
+
+              Opportunités autour du terrain
+   10                                                                                                                           p. 34
+              Grands terrains peu bâtis et logements énergivores à proximité.
+
+              Votre projet, étape par étape
+   11                                                                                                                           p. 35
+              De l'achat aux impôts : démarches, délais, coûts, contacts et taxe.
+
+              État des risques (ERP) pré-rempli
+   12                                                                                                                           p. 40
+              Le formulaire réglementaire à remettre à l'acquéreur, pré-rempli.
+
+              Avertissement et sources
+   13                                                                                                                           p. 42
+              La portée de ce rapport et les sources publiques consultées.
+
+              Annexe : règlement de la zone
+   A                                                                                                                            p. 45
+              Les pages officielles du règlement de la zone, telles qu'approuvées.
+
+
+
+
+Astuce : cliquez sur un chapitre pour y accéder directement.
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                            2 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                                                      Synthèse
+
+
+
+
+Synthèse
+     Document d'information. Ce rapport ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme,
+     n'engage pas l'administration et ne peut pas servir de pièce à une demande de permis de construire.
+     L'appréciation ci-dessous est indicative : seule la mairie se prononce sur la constructibilité d'un terrain,
+     au vu d'un projet précis.
+
+
+
+
+       NON CONSTRUCTIBLE
+
+       Ce terrain n'est pas constructible en l'état
+       La parcelle est classée à 100 % en zone N (naturelle et forestière) du plan local
+       d'urbanisme de Auch, et pour le reste en zone A (2 %). Les constructions nouvelles n'y sont
+       pas admises, sauf exceptions encadrées.
+
+
+
+
+      Zone principale                                        Document d'urbanisme                                  Loi Littoral
+
+   N · 100 %                                              PLU                                                    Ne s'applique pas
+
+
+
+
+      Loi Montagne                                           Risques à la parcelle
+
+   Ne s'applique pas                                      Séisme · Mouvement de
+                                                          terrain (+2)
+
+
+
+
+Points d'attention
+    Zone N (naturelle et forestière) : environ 15 170 m², soit 100 % du terrain, non constructible.
+    Zone A (agricole) : environ 340 m², soit 2 % du terrain, non constructible.
+    Terrain en pente marquée (environ 26 %) : surcoût probable de terrassement.
+    Logement : le règlement de la zone N n'admet pas de logement neuf, sauf exceptions prévues par la zone
+    (logement de gardiennage, par exemple) : voir le chapitre « Ce que vous pouvez construire ».
+    Retrait-gonflement des argiles (exposition forte) : en cas de vente d'un terrain non bâti constructible, le vendeur
+    doit fournir une étude géotechnique préalable (loi ELAN, article L. 132-5 du Code de la construction et de
+    l'habitation) ; une étude géotechnique de conception est exigée avant de construire.
+    Entreprise : la commune est classée en zone France Ruralités Revitalisation (FRR) : une entreprise qui s'y crée peut
+    être exonérée d'impôt sur les bénéfices pendant 5 ans, sous conditions (voir le chapitre « Votre projet, étape par
+    étape »).
+    Pollution des sols : concerné à l'adresse de la parcelle (voir le chapitre « Risques naturels et technologiques »).
+    22 arrêtés de catastrophe naturelle sur la commune.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      3 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                           Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+    01             Identification de la parcelle
+     DANS CETTE SECTION
+
+     Où se trouve le terrain, sa surface, ses références cadastrales, son propriétaire lorsqu'il s'agit
+     d'une société ou d'une collectivité, et la performance énergétique du bâti existant.
+
+
+Données du cadastre (DGFiP) et de l'IGN.
+
+
+     Plan de situation
+
+
+
+
+                                                                                                                            1 km
+
+
+
+Plan IGN · © IGN
+
+
+
+     Vue aérienne et plan cadastral
+
+
+
+
+                                                                                                                                   100 m
+
+
+
+Photographie aérienne et plan cadastral · © IGN
+
+
+Commune                                                  Auch (32013)
+
+Département                                              Gers (32)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            4 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Auch · ZC 20
+          TerrenUrbanisme
+                                                                                                                    01 · Identification de la parcelle
+
+
+
+
+Section et numéro                                        Section ZC, parcelle n° 20, feuille 1
+
+Identifiant cadastral                                    32013000ZC0020
+
+Surface cadastrale                                       15 169 m²
+
+Surface calculée (SIG)                                   15 170 m² · périmètre 501 m
+
+Coordonnées du centre                                    43.66023 N, 0.56891 E (WGS 84)
+
+Altitude                                                 de 200 à 216 m
+
+Pente estimée                                            26 % (terrain en pente marquée)
+
+Parcelles voisines                                       ZC 17, ZC 19, ZC 21, BM 27, BM 30, BM 32, ZD 39, BM 59, ZD 97, ZD 98
+
+
+Le plan cadastral est un document fiscal : il ne fait pas foi des limites de propriété. Seul un bornage réalisé par un
+géomètre-expert fixe les limites de manière certaine.
+
+
+1.1 Propriétaire et voisinage
+La parcelle ne figure pas au fichier des personnes morales : son propriétaire est vraisemblablement un
+particulier. Le nom des propriétaires particuliers n'est pas public ; il peut être demandé au service des impôts
+fonciers (relevé de propriété) ou obtenu par l'intermédiaire d'un notaire.
+
+Parcelles voisines détenues par des sociétés ou des collectivités
+  PARCELLE              PROPRIÉTAIRE                                                                     SURFACE             SIREN
+
+  ZC 19                 COMMUNE D AUCH (COM)                                                             205 m²              213200132
+
+  ZD 39                 ASS FONCIERE DE REMEMBREMENT DE DURAN (AFR)                                      1 071 m²            293203311
+
+
+
+Principaux propriétaires personnes morales dans un rayon de 280 m
+  PROPRIÉTAIRE                                                              PARCELLES             SURFACE TOTALE             SIREN
+
+  COMMUNE DE DURAN (COM)                                                    2                     1 203 m²                   213201171
+
+  L ASSOCIATION LE MOLAS (AUPM)                                             2                     303 m²                     –
+
+  COMMUNE D AUCH (COM)                                                      1                     64 m²                      213200132
+
+
+
+Source : fichiers des parcelles des personnes morales (DGFiP) : sociétés, SCI, collectivités, établissements publics et associations.
+Les propriétaires personnes physiques n'y figurent pas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           5 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                         Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+1.2 Bâti existant : diagnostics de performance énergétique
+  DATE                  LOGEMENT                SURFACE             ÉNERGIE          CLIMAT          ADRESSE
+
+  26/04/2024            Maison                  84 m²               E                E               1 Quartier de l'Arnaudé 32810 Duran
+
+
+
+Source : ADEME, diagnostics établis depuis juillet 2021 et géolocalisés à l'adresse. Un diagnostic se rapporte à un logement précis
+et reste valable dix ans.
+
+
+1.3 La commune de Auch
+Code postal                                              32000
+
+Département                                              Gers (32)
+
+Intercommunalité                                         CA Grand Auch Coeur de Gascogne
+
+Population                                               22 428 habitants
+
+Superficie                                               73,43 km²
+
+Densité                                                  305 habitants par km²
+
+Commune littorale                                        Non
+
+Commune de montagne                                      Non
+
+Document d'urbanisme                                     Plan local d'urbanisme (PLU)
+
+Risques sur la commune                                   22 arrêtés de catastrophe naturelle · détail en section Risques et en
+                                                         annexe
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          6 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+    02             Règles d'urbanisme applicables
+     DANS CETTE SECTION
+
+     Le document d'urbanisme de la commune, la zone dans laquelle se trouve le terrain, et les
+     prescriptions et servitudes qui s'y ajoutent.
+
+
+Géoportail de l'Urbanisme : zonage, prescriptions et servitudes.
+
+
+
+2.1 Document d'urbanisme en vigueur
+Type de document                                         Plan local d'urbanisme (PLU)
+
+Date d'approbation                                       Non renseigné
+
+Statut                                                   Publié au Géoportail de l'Urbanisme
+
+Règlement officiel                                       Ouvrir le document officiel (PDF)
+
+
+
+     Plan de zonage du PLU
+
+
+
+
+                                                                                                   A
+
+
+
+
+                                                                                                             N
+
+
+
+
+                                                                             UCb
+
+
+
+
+                                                                                                                              100 m
+
+
+
+Zonage : Géoportail de l'Urbanisme · fond : © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       7 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.2 Zonage de la parcelle
+  ZONE                  DÉSIGNATION                                                         PART               CONSTRUCTIBILITÉ
+
+  N                     Zone naturelle                                                      100 %              Non constructible
+
+  A                     Zone agricole                                                       2%                 Non constructible
+
+
+
+Zone N · Naturelle et forestière
+Zone naturelle et forestière : secteur protégé en raison de la qualité des sites, des milieux naturels et des
+paysages, ou de son caractère d'espace naturel. Les constructions nouvelles n'y sont pas admises, sauf
+exceptions encadrées (équipements publics, extension limitée des habitations existantes, secteurs de taille et
+de capacité limitées).
+
+Zone A · Agricole
+Zone agricole : secteur protégé en raison du potentiel agronomique, biologique ou économique des terres.
+Seules y sont admises les constructions et installations nécessaires à l'exploitation agricole et aux services
+publics, ainsi que l'extension limitée des habitations existantes.
+
+
+2.3 Prescriptions applicables à la parcelle
+Aucune prescription graphique du PLU (emplacement réservé, espace boisé classé, élément de paysage
+protégé, etc.) n'est recensée sur la parcelle.
+
+
+2.4 Informations complémentaires du PLU
+  INFORMATION                                                                                        TYPE
+
+  DPU                                                                                                Information du PLU (type 04)
+
+
+
+
+2.5 Servitudes d'utilité publique
+  CODE               SERVITUDE                                                                    DÉTAIL
+
+  PM1                Plan de prévention des risques naturels (PPRN)                               PM1 RGA-Duran ass
+
+  PM1                Plan de prévention des risques naturels (PPRN)                               PM1 RGA-Auch ass
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                     8 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.6 Patrimoine : l'architecte des Bâtiments de France
+Aucun site patrimonial remarquable, site classé ou inscrit, ni monument historique à moins de 500 m n'est
+recensé : l'avis de l'architecte des Bâtiments de France n'est pas requis au titre du patrimoine.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                     9 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    03             Ce que vous pouvez construire
+     DANS CETTE SECTION
+
+     La lecture du règlement de votre zone : surface constructible estimée, hauteur, reculs, aspect,
+     usages autorisés ou interdits, avec les extraits du texte officiel.
+
+
+Lecture du règlement écrit de la zone N, pages 73 à 79 du règlement officiel.
+
+
+
+3.1 Potentiel constructible estimé
+     Le règlement de la zone N n'admet pas de construction nouvelle à usage de logement. Seules restent
+     possibles les constructions expressément admises par la zone et les évolutions encadrées des
+     constructions existantes : extension limitée à 30 % de l'emprise existante, dans la limite de 200 m²,
+     annexes de 40 m² au plus.
+
+
+
+Constructions admises dans la zone :
+
+    Constructions et installations nécessaires au fonctionnement des services publics (toute la zone)
+    Aménagement et changement de destination des constructions existantes (toute la zone)
+    Reconstruction à l'identique d'un bâtiment détruit ou démoli depuis moins de dix ans (art. L.111-15), si la
+    destination initiale est maintenue et si les règles d'urbanisme et servitudes sont respectées
+    Constructions à usage d'habitation liées à une exploitation agricole présente en zone N ou en zone agricole
+    contiguë, dans la limite de 200 m² de surface de plancher
+
+
+3.2 Caractère de la zone
+La zone N regroupe les secteurs à dominante naturelle de la commune d'Auch. La parcelle est classée en
+zone N sans indice : ce sont les règles générales de la zone qui s'appliquent (« Dans le secteur N »), et
+non celles des secteurs Ne, Nh, Nl, Nlh, Ns, Nv ou Ny. La construction y est très limitée : habitation liée à
+une exploitation agricole, extension d'habitations existantes, annexes, tourisme à la ferme, constructions
+agricoles et équipements de services publics.
+
+
+3.3 Règles de construction
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Surface minimale ou                          Néant. En l'absence de réseau collectif, le sol doit présenter                   art. N.5 et N.4
+  caractéristiques du terrain                  une aptitude suffisante à l'assainissement autonome.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       10 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Accès et voirie                              Terrain accessible par une voie publique ou privée                               art. N.3 et art.
+                                               (directement ou par servitude de passage, art. 682 du code                       10 des
+                                               civil). Chaussée d'au moins 3,50 m ; passages sous porche d'au                   dispositions
+                                               moins 3,50 m de hauteur. Accès adaptés à l'usage, avec le                        générales
+                                               moins de gêne et de risque pour la circulation ; accès sur la
+                                               voie où la gêne est la moindre. Voies en impasse avec
+                                               dispositif de retournement (rayon de giration minimal de 8 m).
+                                               Un seul accès véhicule par unité foncière (dispositions
+                                               générales), un accès supplémentaire étant possible pour
+                                               raisons techniques justifiées.
+
+  Réseaux et assainissement                    Eau potable : raccordement au réseau public avec dispositif                      art. N.4
+                                               anti-retour pour toute construction qui le nécessite.
+                                               Assainissement : en l'absence de réseau collectif, dispositif
+                                               autonome conforme à la réglementation, avec aptitude du sol
+                                               suffisante selon l'hydrogéologie, la superficie et la
+                                               configuration du terrain. Eaux pluviales : respect des
+                                               dispositions générales et du règlement pluvial annexé
+                                               (rétention au-delà de 500 m² d'imperméabilisation nouvelle) ;
+                                               projets agricoles imperméabilisants accompagnés
+                                               d'aménagements limitant le ruissellement (haies, bandes
+                                               enherbées, mares, fossés). Électricité et téléphone en
+                                               souterrain pour les voies nouvelles. Local pour conteneurs de
+                                               déchets obligatoire.
+
+  Implantation par rapport                     Bâtiments à au moins 3 m de l'alignement. Constructions et                       art. N.6
+  aux voies                                    installations nouvelles à au moins 15 m de l'axe des routes
+                                               départementales, et 35 m de l'axe de la RD 930. Le long des
+                                               voies classées à grande circulation ou express, respect des
+                                               reculs des articles L.111-6 à 8 et 10 du code de l'urbanisme (75
+                                               m de l'axe hors agglomération). Ne s'applique pas aux
+                                               installations techniques des services publics.
+
+  Implantation par rapport                     Bâtiments à une distance des limites au moins égale à 6 m.                       art. N.7
+  aux limites séparatives                      Toute construction à au moins 6 m des berges des cours d'eau.
+                                               Ne s'applique pas aux installations techniques des services
+                                               publics (pour la distance aux limites).
+
+  Implantation des                             Néant.                                                                           art. N.8
+  constructions entre elles
+
+  Emprise au sol                               Dans tous les secteurs hors Ns, Ny et Nl (donc en zone N sans                    art. N.9
+                                               indice) : emprise au sol des constructions limitée à 10 % du
+                                               terrain d'assiette du projet.
+
+  Hauteur maximale                             Habitation : 7 m maximum (2 niveaux : 1 étage sur                                art. N.10 et art.
+                                               rez-de-chaussée) ; annexes : 3,50 m maximum à l'égout du                         9 des
+                                               toit. Pour les extensions d'habitations existantes, dépassement                  dispositions
+                                               possible sans dépasser la hauteur existante. Hauteur mesurée                     générales
+                                               à l'égout du toit ou à l'acrotère depuis le sol naturel avant
+                                               travaux (dispositions générales). Aucune hauteur n'est fixée
+                                               pour les bâtiments agricoles.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         11 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Aspect extérieur et toitures                 Aspect fini compatible avec le caractère ou l'intérêt des lieux                  art. N.11
+                                               avoisinants ; pas d'atteinte aux sites naturels ou urbains ;
+                                               bonne insertion dans le site (implantation, adaptation au
+                                               terrain, aspect, volumétrie). Lors d'une extension, réhabilitation
+                                               ou changement de destination, l'aspect de la construction
+                                               initiale est respecté (forme, matériaux, couleurs, volumétrie).
+                                               Pas de règle spécifique sur les toitures.
+
+  Matériaux et couleurs                        Pas de règle chiffrée ; respect de la forme, des matériaux, des                  art. N.11
+                                               couleurs et de la volumétrie de la construction initiale pour les
+                                               extensions, réhabilitations et changements de destination.
+
+  Clôtures                                     Non précisé dans le règlement de la zone.                                        art. N.11
+
+  Stationnement                                Stationnement adapté aux besoins, assuré en dehors des voies                     art. N.12 et art.
+                                               publiques. Habitation individuelle : 2 places par logement.                      9-10 des
+                                               Hébergement hôtelier : 1 place par chambre. Normes des                           dispositions
+                                               dispositions générales à prendre en compte (dimensions des                       générales
+                                               places 5 m x 2,30 m ; vélos : 1,5 % de la surface de plancher,
+                                               minimum 3 m², hors logements individuels).
+
+  Espaces verts et plantations                 30 % de la superficie de l'unité foncière aménagés en espaces                    art. N.13
+                                               verts plantés d'arbres de haute tige. Aires de stationnement de
+                                               4 places et plus : un arbre toutes les 3 places (longitudinal) ou
+                                               toutes les 6 places (autres). Maintien maximal de la végétation
+                                               existante ; espaces boisés classés soumis aux articles L.113-1
+                                               et L.113-2. Éléments de paysage protégés : parc du Couloumé,
+                                               chêne du Hol. Essences locales privilégiées.
+
+  Densité ou coefficient                       COS : Néant.                                                                     art. N.14
+
+
+
+
+3.4 Usages autorisés
+    Constructions et installations nécessaires au fonctionnement des services publics (toute la zone)
+    Aménagement et changement de destination des constructions existantes (toute la zone)
+    Reconstruction à l'identique d'un bâtiment détruit ou démoli depuis moins de dix ans (art. L.111-15), si la
+    destination initiale est maintenue et si les règles d'urbanisme et servitudes sont respectées
+    Constructions à usage d'habitation liées à une exploitation agricole présente en zone N ou en zone agricole
+    contiguë, dans la limite de 200 m² de surface de plancher
+    Extension des habitations existantes à la date d'approbation du PLU : maximum 30 % de l'emprise au sol de
+    la construction préexistante, et ensemble (existant + extension) limité à 200 m² de surface de plancher
+    Annexe en lien avec la construction principale mais indépendante de celle-ci : maximum 40 m² de surface
+    de plancher ou de surface bâtie au sol
+    Installations de tourisme à la ferme (activités et hébergement) complémentaires à une exploitation
+    agricole, par transformation ou aménagement de bâtiments existants
+    Constructions et installations nécessaires à l'activité agricole
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        12 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.5 Usages interdits ou soumis à conditions
+    Interdit : toutes les constructions et installations autres que celles mentionnées à l'article N.2
+    Toute construction, installation ou aménagement admis est soumis à la prise en compte du risque
+    d'inondation et peut faire l'objet de prescriptions du Plan de Prévention des Risques Inondation (PPRI)
+    Camping à la ferme : les équipements nécessaires (sanitaires, douches) doivent être installés dans des
+    locaux existants
+    Constructions agricoles : respect des distances de recul sanitaires réglementaires (règlement sanitaire
+    départemental, installations classées) par rapport aux autres zones d'urbanisation et aux habitations
+    isolées existantes
+    Le logement neuf sans lien avec une exploitation agricole n'est pas admis
+    Éléments de paysage protégés (parc du Couloumé, chêne du Hol) : toute intervention est subordonnée à
+    une déclaration préalable et à l'accord de la municipalité
+    Bande inconstructible de 75 m de part et d'autre de l'axe des routes classées à grande circulation (hors
+    agglomération), sauf exceptions (art. L.111-6 à 8 et 10)
+    Constructions nouvelles à usage d'habitation, d'hôtel, d'enseignement ou de santé dans les zones de bruit :
+    isolation acoustique obligatoire
+
+
+3.6 Points de vigilance pour votre projet
+    Vérifier que la parcelle est bien en zone N sans indice : les secteurs Ne (toutes constructions interdites),
+    Nh, Nl, Nlh, Ns, Nv et Ny ont des règles différentes
+    Aucun logement neuf n'est admis hors habitation liée à une exploitation agricole (présente en zone N ou en
+    zone agricole contiguë) et limitée à 200 m² de surface de plancher
+    Extension limitée à 30 % de l'emprise au sol préexistante et plafond de 200 m² de surface de plancher pour
+    l'ensemble ; les habitations doivent exister à la date d'approbation du PLU
+    Annexe limitée à 40 m² (surface de plancher ou emprise au sol), hauteur 3,50 m à l'égout, en lien avec la
+    construction principale
+    Emprise au sol maximale de 10 % du terrain d'assiette, et 30 % d'espaces verts plantés d'arbres de haute
+    tige
+    Retrait de 6 m des limites séparatives et des berges des cours d'eau ; recul de 3 m de l'alignement, 15 m de
+    l'axe des routes départementales (35 m pour la RD 930)
+    Risque d'inondation : consulter le PPRI approuvé le 13 mars 2006 ; risque de retrait-gonflement des argiles
+    (PPRGA du 28 février 2014)
+    Vérifier la présence de la bande inconstructible de 75 m le long des routes à grande circulation, les
+    périmètres de protection patrimoniale (ZPPAUP du 6 janvier 2003, monuments historiques) et les secteurs
+    archéologiques
+    Vérifier les nuisances sonores (classement des voies bruyantes, plan d'exposition au bruit de l'aérodrome
+    d'Auch-Lamothe) imposant une isolation acoustique
+    Assainissement non collectif : aptitude du sol à justifier ; contacter le gestionnaire (SPANC)
+    Éléments de paysage et espaces boisés classés éventuels sur la parcelle (parc du Couloumé, chêne du
+    Hol)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      13 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.7 Extraits du règlement
+
+     art. N.1 · page 73
+     « Toutes les constructions et installations autres que celles mentionnées à l’article N2. Dans le secteur
+     Ne, toutes les constructions sont interdites. »
+
+
+     art. N.2 · page 74
+     « Les constructions à usage d’habitation, à condition d’être liées à une exploitation agricole présente
+     dans la zone N ou dans une zone agricole contiguë, et sans pouvoir excéder 200 m² de surface de
+     plancher. »
+
+
+     art. N.2 · page 74
+     « L’extension des constructions à usage d’habitation, existantes dans la zone à la date d’approbation
+     du PLU, et à la double condition de ne pas excéder 30% de l’emprise au sol de la construction
+     préexistante »
+
+
+     art. N.2 · page 74
+     « La construction d’annexe en lien avec la construction principale mais indépendante de celle-ci, sans
+     pouvoir excéder 40 m² de surface de plancher ou de surface bâtie au sol. »
+
+
+     art. N.9 · page 77
+     « Dans tous les secteurs (hors secteur N s, N y et N l), l’emprise au sol des constructions est limitée à
+     10% du terrain d’assiette du projet. »
+
+
+     art. N.10 · page 77
+     « La hauteur des constructions à usage d’habitation ne devra pas excéder 7 m (soit 2 niveaux : 1 étage
+     sur rez-de-chaussée) ; celle de leurs annexes sera limitée à 3,50 m mesuré à l’égout du toit. »
+
+
+
+3.8 Démarches probables
+    Certificat d'urbanisme opérationnel pour vérifier la faisabilité du projet
+    Déclaration préalable ou permis de construire selon la surface et la nature des travaux (extension, annexe,
+    changement de destination)
+    Déclaration préalable pour tous travaux détruisant un élément de paysage identifié, avec accord de la
+    municipalité
+    Étude de sol et avis du SPANC pour un dispositif d'assainissement non collectif
+    Consultation du PPRI et prescriptions éventuelles ; avis de l'architecte des Bâtiments de France si la
+    parcelle se situe dans la ZPPAUP ou un périmètre de monument historique
+    Avis du Préfet de région (service régional de l'archéologie) dans les secteurs archéologiques
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      14 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    Gestion des eaux pluviales conforme au règlement pluvial (dispense possible sous 500 m²
+    d'imperméabilisation nouvelle, rétention au-delà, note hydraulique d'un bureau d'études au-delà de 2000
+    m²)
+
+     Cette lecture est établie automatiquement, par intelligence artificielle, à partir du règlement officiel en
+     vigueur. Elle peut comporter des imprécisions : seul le texte du règlement, reproduit en annexe (pages
+     73 à 79 du document approuvé), fait foi, avec les dispositions générales, les orientations
+     d'aménagement et les servitudes.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      15 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                         Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                                    04 · Loi Littoral et loi Montagne
+
+
+
+
+   04              Loi Littoral et loi Montagne
+     DANS CETTE SECTION
+
+     Les lois nationales qui s'ajoutent au document d'urbanisme sur le littoral et en montagne. Elles
+     peuvent rendre un terrain inconstructible même en zone constructible.
+
+
+Les lois d'aménagement qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+
+
+4.1 Loi Littoral
+Commune littorale                                        Non
+
+Distance au rivage                                       Sans objet
+
+Bande des 100 mètres                                     Sans objet
+
+
+La commune n'est pas riveraine de la mer : la loi Littoral ne s'applique pas (sauf rives de grands lacs).
+
+
+4.2 Loi Montagne
+Commune en zone de montagne                              Non
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          16 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+   05              Risques naturels et technologiques
+     DANS CETTE SECTION
+
+     Les risques connus à l'adresse du terrain (inondation, feu de forêt, mouvement de terrain,
+     radon…) et les catastrophes naturelles reconnues sur la commune.
+
+
+Base nationale Géorisques (ministère de la Transition écologique).
+
+
+
+5.1 Risques naturels à l'adresse de la parcelle
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Inondation                                      Non connu                                       Existant
+
+  Remontée de nappe                               Non connu                                       Existant
+
+  Séisme                                          Existant – faible                               Existant – faible
+
+  Mouvement de terrain                            Existant                                        Existant
+
+  Retrait-gonflement des                          Existant – important                            Existant – important
+  argiles
+
+  Radon                                           Existant – faible                               Existant – faible
+
+
+
+
+5.2 Risques technologiques
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Installations industrielles                     Non concerné                                    Concerné
+  (ICPE)
+
+  Canalisations de matières                       Non concerné                                    Concerné
+  dangereuses
+
+  Pollution des sols                              Concerné                                        Concerné
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                    17 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.3 Indicateurs réglementaires
+Zone de sismicité                                        Zone 1 – très faible
+
+Potentiel radon                                          Catégorie 1 (potentiel faible)
+
+Retrait-gonflement des argiles                           Existant – important
+
+Plans de prévention (PPR)                                Lannemezan
+
+
+
+5.4 Arrêtés de catastrophe naturelle
+22 arrêtés de reconnaissance de l'état de catastrophe naturelle concernent la commune.
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Sécheresse                                                                01/07/2022 au 31/12/2022                       03/05/2023
+
+  Sécheresse                                                                01/04/2021 au 30/06/2021                       26/07/2022
+
+  Inondations et/ou Coulées de Boue                                         29/12/2020 au 30/12/2020                       03/02/2021
+
+  Sécheresse                                                                01/04/2019 au 30/09/2019                       12/06/2020
+
+  Sécheresse                                                                01/04/2017 au 31/12/2017                       12/08/2018
+
+  Sécheresse                                                                01/04/2016 au 31/12/2016                       07/07/2017
+
+  Sécheresse                                                                01/04/2015 au 30/09/2015                       21/10/2016
+
+  Sécheresse                                                                01/04/2012 au 31/12/2012                       25/05/2013
+
+  Sécheresse                                                                01/04/2011 au 30/06/2011                       17/07/2012
+
+  Sécheresse                                                                01/07/2009 au 30/09/2009                       13/01/2011
+
+  Inondations et/ou Coulées de Boue                                         24/01/2009 au 27/01/2009                       29/01/2009
+
+  Inondations et/ou Coulées de Boue                                         03/02/2003 au 04/02/2003                       22/05/2003
+
+  Sécheresse                                                                01/01/2002 au 31/12/2002                       17/08/2003
+
+  Mouvement de Terrain                                                      25/12/1999 au 29/12/1999                       30/12/1999
+
+  Inondations et/ou Coulées de Boue                                         25/12/1999 au 29/12/1999                       30/12/1999
+
+  Inondations et/ou Coulées de Boue                                         24/09/1999 au 25/09/1999                       04/12/1999
+
+  Sécheresse                                                                01/01/1997 au 30/06/1998                       03/04/1999
+
+  Sécheresse                                                                01/10/1993 au 31/12/1996                       28/03/1998
+
+  Inondations et/ou Coulées de Boue                                         05/07/1993 au 06/07/1993                       03/12/1993
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         18 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Sécheresse                                                                01/01/1993 au 30/09/1993                       07/05/1995
+
+  Sécheresse                                                                01/01/1991 au 31/12/1992                       28/12/1993
+
+  Sécheresse                                                                01/05/1989 au 31/12/1990                       19/07/1991
+
+
+
+
+5.5 Installations classées à proximité (moins de 1 km)
+    Parc routier CD 32 (ex parc DDE) · Autres régimes
+    AIROLDI Alain · Non ICPE
+    COREVA TECHNOLOGIES · Non ICPE
+    SERHANE Rachid · Non ICPE
+    SA Auch Hyperdistribution · Enregistrement · En exploitation avec titre
+    Les Magasins bleus · Autres régimes
+    CENTRALE A BETON DE AUCH SAS · Autres régimes
+    PRESSING GAMBETTA · Autres régimes
+
+
+5.6 Sites et sols pollués à proximité
+    STATION SHELL · ancien site industriel ou d'activité de service (CASIAS)
+    Parc routier CD 32 (ex parc DDE) · ancien site industriel ou d'activité de service (CASIAS)
+    CHIENS CHICS 32 · ancien site industriel ou d'activité de service (CASIAS)
+    2 anciens sites industriels ou d'activités de service (CASIAS) recensés
+
+
+5.7 Rapport officiel Géorisques
+Les risques recensés ci-dessus proviennent des bases officielles de Géorisques, service public d'information
+sur les risques. Le rapport officiel complet peut être édité gratuitement, à tout moment et à jour, à partir de
+l'adresse du terrain sur le site Géorisques.
+
+
+    Éditer le rapport officiel Géorisques
+
+
+Lors d'une vente ou d'une location, le vendeur ou le bailleur doit remettre un état des risques de moins de six mois,
+complété et signé, et l'information sur les sinistres indemnisés au titre des catastrophes naturelles.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         19 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+   06              Le terrain : accès, relief et réseaux
+     DANS CETTE SECTION
+
+     Les contraintes physiques du terrain : accès à une voie, pente et exposition, assainissement,
+     raccordement à l'électricité et à l'eau, fibre. Ce sont elles qui pèsent le plus sur le coût d'un
+     projet.
+
+
+Voirie (IGN, BD TOPO), altimétrie (IGN, RGE ALTI), règlement de la zone, réseau électrique (Agence ORE) et éligibilité
+internet (Arcep).
+
+
+
+6.1 Accès
+Accès direct à une voie                                  Oui
+
+Voie                                                     Route à 1 chaussée · Quartier de l'Arnaudé
+
+Largeur de chaussée                                      4m
+
+Accès des véhicules                                      Libre
+
+
+La parcelle touche une voie carrossable. L'autorisation d'urbanisme vérifiera que l'accès est adapté au projet et sûr,
+et peut imposer une permission de voirie ou un aménagement de l'entrée.
+
+
+6.2 Relief et exposition
+Pente moyenne                                            12 %
+
+Exposition                                               Versant orienté nord
+
+Altitude                                                 200 à 216 m
+
+Appréciation                                             Pente modérée
+
+
+
+
+ 222 m
+
+
+
+
+ 200 m
+
+
+           Coupe du terrain dans le sens de la pente · longueur 224 m
+
+
+     Implantation courante ; terrassements et soutènements légers à prévoir.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      20 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Auch · ZC 20
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.3 Ensoleillement
+Appréciation                                             Très bien ensoleillé
+
+Soleil direct le 21 juin                                 15 h (de 06 h 30 à 21 h 20)
+
+Soleil direct aux équinoxes                              11 h 18 (de 07 h 40 à 18 h 50)
+
+Soleil direct le 21 décembre                             7 h (de 09 h 30 à 16 h 20)
+
+Ensoleillement annuel possible                           4 078 h par an, soit 93 % du maximum à cette latitude
+
+Hauteur du relief vers le sud                            10°
+
+
+ 75°
+
+
+
+ 60°
+
+
+
+ 45°
+
+
+
+ 30°
+
+
+
+ 15°
+
+
+
+ 0°
+                                Est                  Sud-est                    Sud                 Sud-ouest               Ouest
+
+          21 juin          Équinoxes               21 décembre                 Horizon : relief et bâtiments voisins
+
+
+
+       Le relief et les constructions voisines ne masquent presque pas le soleil : le terrain profite de la
+       quasi-totalité de l'ensoleillement possible à cette latitude.
+
+
+
+Ensoleillement mois par mois (le 21 de chaque mois)
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Janvier                         9 h 18                             7 h 48                                    09 h 20 – 17 h 00
+
+  Février                         10 h 42                            9 h 42                                    08 h 30 – 18 h 00
+
+  Mars                            12 h                               11 h 18                                   07 h 40 – 18 h 50
+
+  Avril                           13 h 30                            13 h                                      07 h 40 – 20 h 30
+
+  Mai                             14 h 42                            14 h 18                                   06 h 50 – 21 h 00
+
+  Juin                            15 h 12                            15 h                                      06 h 30 – 21 h 20
+
+  Juillet                         14 h 42                            14 h 18                                   07 h 00 – 21 h 10
+
+  Août                            13 h 30                            12 h 48                                   07 h 50 – 20 h 30
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       21 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Septembre                       12 h 12                            11 h 18                                   08 h 20 – 19 h 30
+
+  Octobre                         10 h 42                            9 h 42                                    09 h 00 – 18 h 30
+
+  Novembre                        9 h 18                             7 h 48                                    08 h 50 – 16 h 30
+
+  Décembre                        8 h 42                             7h                                        09 h 30 – 16 h 20
+
+
+
+Calcul théorique par ciel dégagé, au centre de la parcelle et à hauteur d'homme : course du soleil heure par heure, masque du relief
+sur 6 km (IGN, RGE ALTI) et des bâtiments voisins sur 120 m (IGN, BD TOPO, 28 bâtiments pris en compte). La végétation et les
+constructions récentes ne sont pas prises en compte.
+
+
+6.4 Quel raccordement pour les eaux usées ?
+Raccordement à prévoir                                       Assainissement individuel probable
+
+Zone du PLU                                                  N · Naturelle et forestière
+
+Zonage d'assainissement                                      Non publié au Géoportail de l'Urbanisme (consultable en mairie)
+
+Réseau collectif sur la commune                              Oui · Communaute d'agglomeration Grand Auch Coeur de
+                                                             Gascogne · délégation à SAUR
+
+
+     Le terrain est hors zone urbaine (zone N) : ces secteurs sont rarement desservis par le réseau public.
+     Sauf canalisation existante dans la voie, prévoyez une fosse toutes eaux avec épandage ou une
+     micro-station agréée.
+
+
+
+Ce que dit le règlement de la zone
+En l'absence de réseau d'assainissement collectif, un dispositif d'assainissement autonome conforme à la
+réglementation en vigueur doit être mis en place, sous réserve d'une aptitude du sol suffisante au regard des
+caractéristiques hydrogéologiques, de la superficie et de la configuration du terrain. Le règlement de la zone N ne
+fixe pas de surface minimale de terrain et ne mentionne pas expressément l'avis du SPANC (celui-ci est cité dans
+d'autres zones). Un raccordement au réseau collectif s'impose s'il existe (principe général).
+
+Ce que cela coûte
+Assainissement individuel : 5 000 à 15 000 € selon la filière (détail ci-dessous), plus l'étude de sol à la parcelle (500 à
+1 000 €). Étapes : étude de sol, puis avis favorable du SPANC sur le projet, à joindre à la demande de permis de
+construire. Besoin d'un installateur agréé ? Nous vous mettons en relation : contact@terrenurbanisme.com.
+
+Qui contacter pour obtenir la confirmation
+Service d'assainissement                                     Communaute d'agglomeration Grand Auch Coeur de Gascogne ·
+                                                             exploitant : SAUR
+
+Mairie                                                       Mairie de Auch
+
+Téléphone                                                    05 62 61 66 00
+
+E-mail                                                       accueil@mairie-auch.fr
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      22 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                              Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+    Demandez au service d'assainissement, avec la référence cadastrale, si une canalisation publique passe au droit
+    du terrain, à quelle profondeur, et le montant de la PFAC. Sa réponse écrite vaut attestation de raccordabilité.
+    Certificat d'urbanisme opérationnel (formulaire Cerfa 13410, gratuit) : la mairie y indique officiellement si le
+    terrain est desservi par le réseau d'assainissement.
+    Plan des réseaux : la présence des canalisations enterrées près du terrain peut être vérifiée sur
+    reseaux-et-canalisations.gouv.fr, le guichet unique des réseaux.
+Sources : zonage d'assainissement et règlement (Géoportail de l'Urbanisme) ; services publics d'assainissement (SISPEA, Office
+français de la biodiversité) ; annuaire de l'administration (service-public.fr).
+
+Les solutions d'assainissement individuel
+  FILIÈRE                                    QUAND ELLE CONVIENT                                                           ORDRE DE PRIX
+
+  Fosse toutes eaux et                       Sol perméable, terrain assez grand et peu pentu                               5 000 à 10 000 €
+  épandage
+
+  Filtre à sable                             Sol peu perméable, place suffisante                                           8 000 à 12 000 €
+
+  Micro-station agréée                       Petit terrain ou sol défavorable ; entretien et électricité                   7 000 à 15 000 €
+
+  Filtre compact agréé                       Petit terrain, sans électricité                                               9 000 à 14 000 €
+
+
+
+Ordres de prix indicatifs (fourniture et pose, hors étude de sol et terrassements particuliers). La filière est choisie au vu de l'étude
+de sol et validée par le SPANC.
+
+
+6.5 Électricité et eau potable
+Gestionnaire du réseau                                       Enedis
+
+Réseau basse tension le plus proche                          à environ 10 m (ligne aérienne)
+
+Ligne aérienne la plus proche                                à environ 10 m
+
+Ligne souterraine la plus proche                             à environ 40 m
+
+Poste de transformation le plus proche                       à environ 10 m
+
+Appréciation                                                 Branchement simple probable
+
+
+     Le réseau basse tension passe à environ 10 m : un branchement simple est en principe possible (de
+     l'ordre de 1 500 à 3 000 € pour une maison, selon la longueur et la puissance), sous réserve de la
+     capacité du réseau et des coffrets existants.
+
+
+
+Ce qu'il faut vérifier avant d'acheter
+    La capacité du réseau : même un réseau proche peut être saturé (coffret ou câble plein, poste de transformation
+    au maximum). Seule une étude du gestionnaire permet de le savoir ; c'est la cause la plus fréquente de surcoûts
+    imprévus.
+    Électricité : demander au gestionnaire du réseau une étude de raccordement ou un devis à partir de l'adresse et
+    du plan de situation (gratuit). Elle indique le type de raccordement, son coût et son délai.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              23 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+    Eau potable : les plans du réseau d'eau ne sont pas publics. Interroger le service des eaux (coordonnées
+    ci-dessous) sur la présence d'une canalisation au droit du terrain, sa capacité et le coût du branchement, ainsi
+    que sur la défense incendie (borne à moins de 200 m environ).
+    Certificat d'urbanisme opérationnel : la mairie y indique si le terrain est desservi par les réseaux publics (eau,
+    électricité, assainissement) et, à défaut, si et quand ils seront étendus. Un refus de permis peut être fondé sur
+    l'insuffisance des réseaux (article L. 111-11 du Code de l'urbanisme).
+
+Qui contacter
+Service de l'eau potable                                     Communaute d'agglomeration Grand Auch Coeur de Gascogne
+
+Mode de gestion                                              Délégation de service public à VEOLIA
+
+Contact pour le branchement                                  VEOLIA, pour le compte de : Communaute d'agglomeration Grand
+                                                             Auch Coeur de Gascogne
+
+Mairie                                                       Mairie de Auch
+
+Téléphone de la mairie                                       05 62 61 66 00
+
+E-mail de la mairie                                          accueil@mairie-auch.fr
+
+Électricité (raccordement)                                   Enedis · demande en ligne sur enedis.fr (raccordement)
+
+La mairie oriente vers le bon interlocuteur et confirme, dans le certificat d'urbanisme, la desserte du terrain par les réseaux.
+Sources : SISPEA, observatoire des services publics d'eau (OFB) ; annuaire de l'administration (service-public.fr).
+
+Dans une promesse de vente, une condition suspensive portant sur le coût du raccordement aux réseaux protège
+l'acquéreur. Source de la cartographie électrique : Agence ORE, données des gestionnaires de réseaux de distribution ;
+tracés indicatifs.
+
+
+6.6 Fibre et internet
+     Le terrain n'a pas encore d'adresse propre, mais la fibre est déployée à 74 m (98 chemin de baron) : un
+     logement construit sur le terrain pourra en principe y être raccordé.
+
+
+
+Adresse la plus proche                                          98 chemin de baron · à 74 m · raccordable
+
+Point fibré le plus proche                                      98 chemin de baron · à 74 m
+
+Adresses fibrées à moins de 100 m                               5 sur 5
+
+Adresses fibrées à moins de 400 m                               43 sur 43
+
+Technologies disponibles à proximité                            4G fixe, Cuivre (ADSL, VDSL), Fibre, Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      24 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                                            Auch · ZC 20
+          TerrenUrbanisme
+                                                                                                            06 · Le terrain : accès, relief et réseaux
+
+
+
+
+     Points fibrés autour du terrain
+
+
+
+
+                                                                                                                                            F
+
+
+                                                                                                            F       F F     F
+                                                                                                        F
+                                                                                                                F FF                    F
+                                                                                                                  F
+                                                                                                                                    F
+                                                                              F
+                                                                                    F                           F           F
+                                                                                              F
+                                                                                                    F       F
+                                                                                                                    F
+                                                                                                                                F
+                                                                                              F                     F
+                              F
+
+                                                               F                                                                                             F
+                                                                                                                                    F
+                                                                                                        F
+                                                                                     F    F
+                                                                              F
+                                                                                                                                                F   100 m
+
+
+
+Repères F : adresses déclarées raccordables à la fibre (Arcep) · en terracotta : sur la parcelle · fond © IGN
+
+
+Vérifiez la fibre à l'adresse du terrain :
+
+                     Carte fibre Orange                                                                     Carte de l'Arcep
+
+
+  DISTANCE           ADRESSE                                                                      FIBRE                 AUTRES ACCÈS
+
+  74 m               98 chemin de baron                                                           Oui                   4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                        Satellite
+
+  75 m               100 Chemin de Baron                                                          Oui                   4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                        Satellite
+
+  79 m               5 c Chemin de Molas                                                          Oui                   4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                        Satellite
+
+  99 m               32 Chemin de Bigaoudère                                                      Oui                   4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                        Satellite
+
+  100 m              5 b Chemin de Molas                                                          Oui                   4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                        Satellite
+
+  112 m              5 a Chemin de Molas                                                          Oui                   4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                        Satellite
+
+  117 m              30 Chemin de Bigaoudère                                                      Oui                   4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                        Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                            25 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Auch · ZC 20
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  DISTANCE           ADRESSE                                                                   FIBRE              AUTRES ACCÈS
+
+  129 m              1 Chemin de Molas                                                         Oui                4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+
+
+Source : Arcep, « Ma connexion internet », éligibilité déclarée par les opérateurs, adresse par adresse. Le tracé des câbles n'est
+pas public : la présence de la fibre en limite de terrain se vérifie auprès de l'opérateur ou par une déclaration de projet de travaux
+(DT).
+
+
+6.7 Qui contacter pour les réseaux
+  RÉSEAU                                    INTERLOCUTEUR                                         CE QU'IL FAUT DEMANDER
+
+  Eau potable et                            Mairie ou service des eaux de la                      Attestation de desserte et conditions de
+  assainissement collectif                  commune                                               raccordement
+
+  Assainissement individuel                 SPANC (communauté de communes)                        Contrôle de conception sur la base de l'étude
+                                                                                                  de sol
+
+  Électricité                               Enedis (gestionnaire du réseau de                     Étude de raccordement et devis
+                                            distribution)
+
+  Fibre et téléphone                        Opérateur d'infrastructure et                         Raccordement du futur logement
+                                            fournisseur d'accès
+
+  Tous réseaux                              Guichet unique des réseaux                            Déclaration de projet de travaux (DT) pour
+                                            (reseaux-et-canalisations.gouv.fr)                    localiser les réseaux existants
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             26 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                               07 · Conditions de vente du terrain
+
+
+
+
+    07             Conditions de vente du terrain
+     DANS CETTE SECTION
+
+     Terrain agricole ou naturel : droit de préemption de la SAFER, fermier en place, autorisation
+     d'exploiter et repère officiel de prix.
+
+
+Terrain situé en zone N : vente encadrée par le code rural et de la pêche maritime.
+
+
+
+7.1 Pourquoi aucune fourchette de prix n'est donnée
+La parcelle est classée en zone N (naturelle et forestière), où les constructions nouvelles ne sont en principe
+pas admises. Sa valeur ne se déduit pas des ventes de terrains à bâtir du secteur : elle dépend de l'usage
+agricole ou naturel du sol, de sa qualité, de son accès, de l'eau disponible et de l'existence éventuelle d'un bail
+rural. Une estimation automatique serait trompeuse : la valeur doit être établie au cas par cas par un notaire
+ou un expert foncier et agricole.
+
+
+7.2 Le droit de préemption de la SAFER
+Principe                                        La vente d'un terrain agricole ou naturel est en principe soumise au droit de
+                                                préemption de la SAFER (articles L. 143-1 et suivants du code rural et de la
+                                                pêche maritime). Une surface minimale, fixée par département, peut en
+                                                exclure les plus petites parcelles.
+
+Information obligatoire                         Le notaire informe la SAFER du projet de vente au moins deux mois avant la
+                                                signature : prix, conditions et identité de l'acquéreur.
+
+Ce que peut faire la SAFER                      Renoncer, acheter au prix et aux conditions notifiés, ou proposer un prix
+                                                inférieur si elle estime le prix exagéré. Le vendeur peut alors accepter,
+                                                retirer son terrain de la vente ou demander au tribunal judiciaire de fixer le
+                                                prix.
+
+Pourquoi elle intervient                        Installation de jeunes agriculteurs, consolidation des exploitations,
+                                                protection de l'environnement et des paysages, lutte contre la spéculation
+                                                foncière.
+
+
+
+7.3 Les autres règles à connaître
+Fermier en place                                Si le terrain est loué par bail rural, l'exploitant en place bénéficie d'un droit
+                                                de préemption prioritaire, avant la SAFER.
+
+Autorisation d'exploiter                        Un acquéreur qui souhaite exploiter le terrain peut devoir obtenir une
+                                                autorisation d'exploiter auprès de la DDT(M), selon le schéma directeur
+                                                régional des exploitations agricoles.
+
+Espace naturel sensible                         Dans un espace naturel sensible, le département peut également disposer
+                                                d'un droit de préemption.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       27 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                               07 · Conditions de vente du terrain
+
+
+
+
+Constructions                                   Seules les constructions nécessaires à l'exploitation agricole ou forestière,
+                                                ou à des équipements collectifs, sont en règle générale admises : l'achat ne
+                                                donne pas de droit à bâtir une habitation.
+
+
+
+7.4 Repère officiel de prix
+Le ministère de l'Agriculture publie chaque année le barème indicatif de la valeur vénale moyenne des terres
+agricoles, par région agricole et par nature de culture (arrêté publié au Journal officiel). C'est la référence à
+consulter, avec l'avis d'un notaire ou d'un expert foncier et agricole, avant de fixer un prix.
+
+     Avant toute mise en vente, rapprochez-vous de votre notaire : il notifie la vente à la SAFER, vérifie
+     l'existence d'un bail et sécurise le calendrier de la transaction.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       28 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+   08              Environnement et marché immobilier
+     DANS CETTE SECTION
+
+     Les espaces naturels protégés autour du terrain et les prix de vente réels des maisons,
+     appartements et terrains alentour.
+
+
+Inventaire national du patrimoine naturel et demandes de valeurs foncières (DVF).
+
+
+
+8.1 Espaces naturels protégés ou inventoriés
+La parcelle n'est concernée par aucun site Natura 2000, ZNIEFF, parc ou réserve naturelle.
+
+
+8.2 Espèces protégées observées près du terrain
+125 espèces protégées ont été observées dans un rayon de 1 km autour du terrain depuis 1990 ; les 14 plus
+fréquemment signalées figurent ci-dessous.
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Hirondelle de fenêtre (Delichon urbicum)                        Oiseau                 Nationale (espèce et              282 · dernière en
+                                                                                         habitat)                          2022
+
+  Hirondelle de cheminée (Hirundo                                 Oiseau                 Nationale (espèce et              99 · dernière en
+  rustica)                                                                               habitat)                          2022
+
+  Gobemouche becfigue (Ficedula                                   Oiseau                 Nationale (espèce et              92 · dernière en
+  hypoleuca)                                                                             habitat)                          2022
+
+  Cistude (Emys orbicularis)                                      Reptile                Nationale (espèce et              57 · dernière en
+                                                                                         habitat)                          2022
+
+  Mésange charbonnière (Parus major)                              Oiseau                 Nationale (espèce et              47 · dernière en
+                                                                                         habitat)                          2022
+
+  Linotte des vignes (Linaria cannabina)                          Oiseau                 Nationale (espèce et              44 · dernière en
+                                                                                         habitat)                          2022
+
+  Rouge-gorge familier (Erithacus                                 Oiseau                 Nationale (espèce et              42 · dernière en
+  rubecula)                                                                              habitat)                          2022
+
+  Chevêche d'Athéna (Athene noctua)                               Oiseau                 Nationale (espèce et              40 · dernière en
+                                                                                         habitat)                          2022
+
+  Moineau domestique (Passer                                      Oiseau                 Nationale (espèce et              31 · dernière en
+  domesticus)                                                                            habitat)                          2022
+
+  Elanion Blanc (Elanus caeruleus)                                Oiseau                 Nationale (espèce et              30 · dernière en
+                                                                                         habitat)                          2022
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         29 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Cisticole des joncs (Cisticola juncidis)                        Oiseau                 Nationale (espèce et              30 · dernière en
+                                                                                         habitat)                          2022
+
+  Chouette Effraie (Tyto alba)                                    Oiseau                 Nationale (espèce et              30 · dernière en
+                                                                                         habitat)                          2022
+
+  Moineau friquet (Passer montanus)                               Oiseau                 Nationale (espèce et              26 · dernière en
+                                                                                         habitat)                          2021
+
+  Ecureuil d'Eurasie (Sciurus vulgaris)                           Mammifère              Nationale (espèce et              25 · dernière en
+                                                                                         habitat)                          2021
+
+
+
+     Une observation à proximité ne signifie pas que l'espèce vit sur le terrain. Mais si elle y est présente, il
+     est interdit de détruire, capturer ou déranger les individus et, pour la plupart de ces espèces, de
+     détruire leurs lieux de reproduction et de repos (articles L. 411-1 et suivants du Code de
+     l'environnement). L'infraction est punie de 3 ans d'emprisonnement et 150 000 € d'amende.
+
+
+
+Que faire avant de construire ?
+    Pour une maison individuelle, aucune étude écologique n'est imposée en règle générale, et l'étude de sol porte
+    sur le terrain (fondations), pas sur la faune ni la flore. Vous restez cependant responsable si une espèce
+    protégée vit sur la parcelle : en cas de doute (espèce observée tout près, vieux arbres, murets, maquis, zone
+    humide), faites passer un écologue avant de défricher.
+    Si un enjeu est confirmé : inventaire faune-flore aux saisons utiles (printemps et été en général), puis mesures
+    pour éviter et réduire l'impact : implantation de la maison sur la partie la moins sensible, travaux hors période de
+    reproduction, clôture de chantier adaptée, déplacement d'individus par un spécialiste habilité.
+    Si la destruction d'individus ou d'habitats ne peut pas être évitée : demande de dérogation « espèces protégées »
+    auprès de la préfecture (DREAL), avec avis du conseil scientifique. Comptez 4 à 12 mois d'instruction, à anticiper
+    avant le dépôt du permis.
+
+Combien prévoir ?
+Pré-diagnostic écologique                                800 à 2 000 € (une visite et une note de synthèse)
+
+Inventaire faune-flore                                   3 000 à 10 000 € selon la surface et le nombre de passages
+
+Mesures d'évitement et de réduction                      500 à 5 000 € (balisage, calendrier, suivi de chantier)
+
+Dossier de dérogation                                    8 000 à 25 000 €, hors mesures de compensation éventuelles
+
+Ordres de prix indicatifs, honoraires de bureaux d'études en environnement, si une étude est nécessaire. Pour une maison sur un
+terrain déjà entouré de constructions, aucune étude n'est le plus souvent requise.
+
+Sources : statuts de protection TAXREF et base de connaissance des statuts (INPN, Muséum national d'Histoire naturelle) ;
+observations naturalistes GBIF, qui rassemble notamment les données de l'INPN et du SINP.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         30 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+8.3 Prix de l'immobilier à Auch
+Prix au mètre carré des ventes enregistrées sur la commune au cours des cinq dernières années publiées.
+Seules les ventes portant sur un bien unique sont retenues.
+
+  TYPE DE BIEN                                       VENTES                       €/M² MÉDIAN                              €/M² MOYEN
+
+  Maisons                                            816                          1 824 €/m²                               1 835 €/m²
+
+  Appartements                                       945                          1 657 €/m²                               1 658 €/m²
+
+  Locaux commerciaux                                 139                          900 €/m²                                 1 009 €/m²
+
+
+
+Source : statistiques des demandes de valeurs foncières (DGFiP, Etalab). Prix des actes, hors frais : un ordre de grandeur,
+pas une estimation du bien.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         31 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                             Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                                                09 · Historique du site
+
+
+
+
+   09              Historique du site
+     DANS CETTE SECTION
+
+     Le terrain vu du ciel au fil des décennies et les permis de construire accordés autour : l'évolution
+     du secteur en un coup d'œil.
+
+
+Photographies aériennes de l'IGN et permis de construire délivrés (Sitadel).
+
+
+
+9.1 Le terrain vu du ciel, d'hier à aujourd'hui
+
+    1950-1965                                             2000-2005                                              2006-2010
+
+
+
+
+    2011-2015                                             Aujourd'hui
+
+
+
+
+Ces vues montrent l'évolution du terrain et du quartier, des années 1950 à aujourd'hui (photographies aériennes de l'IGN).
+
+     Bon à savoir : l'existence ancienne d'une construction peut ouvrir, sous conditions, un droit à
+     reconstruire ou à restaurer un bâtiment dont il reste l'essentiel des murs porteurs (articles L. 111-15 et L.
+     111-23 du Code de l'urbanisme).
+
+
+
+
+9.2 Permis de construire délivrés autour du terrain
+Autorisations sur la commune (3 ans)                                    55 · dernière recensée le 18/09/2026
+
+Logements autorisés (3 ans)                                             361
+
+Dont maisons individuelles                                              34
+
+Autorisations dans la section ZC                                        1 depuis 2013
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  18/08/2014            Permis de construire                   ZC 36              1              –                         CHEMIN DE MOLAS
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             32 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                                             09 · Historique du site
+
+
+
+
+Permis accordés à moins de 500 m du terrain
+  DATE                 AUTORISATION                       PARCELLE          DISTANCE         LOGTS        SURFACE          LIEU-DIT / VOIE
+
+  21/01/2022           Permis de construire               BM 59             60 m             1            123 m²           CH DE BIGAOUDERE
+
+  13/11/2019           Permis de construire               BL 176            490 m            1            108 m²           CHE DE BARON
+
+  18/08/2014           Permis de construire               ZC 36             210 m            1            –                CHEMIN DE MOLAS
+
+  14/03/2013           Permis de construire               BL 146            310 m            1            163 m²           CHEMIN DE BARON
+
+
+
+4 autorisations créant des logements recensées dans un rayon de 500 m : la construction a été admise récemment
+dans le voisinage immédiat.
+
+Source : base Sitadel des autorisations d'urbanisme créant des logements (SDES). Un permis accordé à proximité montre
+que des constructions ont été admises dans le secteur, sans préjuger de la décision sur votre propre projet.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         33 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                              10 · Opportunités autour du terrain
+
+
+
+
+    10             Opportunités autour du terrain
+     DANS CETTE SECTION
+
+     Ce qui se passe autour de la parcelle : grands terrains peu bâtis, sociétés propriétaires en
+     difficulté, logements énergivores. Des pistes pour un investisseur, un voisin ou un professionnel.
+
+
+Bodacc (procédures collectives), ADEME (diagnostics énergétiques), cadastre, BD TOPO et Géoportail de l'Urbanisme.
+
+
+
+10.1 Grands terrains peu bâtis à proximité
+Parcelles de plus de 1 200 m², situées en zone urbaine ou à urbaniser du PLU, dans un rayon de 250 m, dont
+moins de 8 % de la surface est bâtie, hors terrains publics : un potentiel de construction ou de division à
+étudier.
+
+  PARCELLE           SURFACE                BÂTI               ZONE               DISTANCE           PROPRIÉTAIRE
+
+  ZD 47              8 533 m²               149 m²             Ub                 140 m              particulier (non publié)
+
+  BL 8               7 411 m²               126 m²             UCb                250 m              particulier (non publié)
+
+  BL 49              7 048 m²               6 m²               UCb                300 m              particulier (non publié)
+
+  BL 5               5 745 m²               122 m²             UCb                250 m              particulier (non publié)
+
+  BK 14              5 556 m²               233 m²             UCb                350 m              particulier (non publié)
+
+  BL 63              5 409 m²               non bâti           UCb                140 m              particulier (non publié)
+
+  BL 52              4 766 m²               216 m²             UCb                230 m              particulier (non publié)
+
+  BL 32              4 499 m²               301 m²             UCb                260 m              particulier (non publié)
+
+
+
+
+10.2 Logements classés F ou G autour du terrain
+Logements diagnostiqués F ou G dans un rayon de 350 m. Leur location est déjà interdite (G) ou le sera en
+2028 (F) : leurs propriétaires sont souvent vendeurs, ou doivent engager des travaux de rénovation.
+
+  PARCELLE                   ADRESSE                                        CLASSE LOGEMENT                   SURFACE      DISTANCE DPE DU
+
+  Section BM n° 15           13 Chemin de Molas 32000                       F            Maison               93 m²        140 m    03/05/2024
+                             Auch
+
+  Section BL n° 6            19 Chemin de Bigaoudère 32000                  F            Maison               267 m²       300 m    03/11/2026
+                             Auch
+
+
+
+La parcelle est celle du point d'adresse du logement (cadastre). Pour connaître son propriétaire lorsqu'il s'agit d'un particulier,
+demandez un relevé de propriété au service de la publicité foncière ou à la mairie.
+
+Ces informations proviennent de bases publiques et ne préjugent ni de l'intention de vendre des propriétaires ni de la
+constructibilité des parcelles citées, qui relève d'une étude au cas par cas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        34 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Auch · ZC 20
+           TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+      11           Votre projet, étape par étape
+De l'achat du terrain à la déclaration aux impôts : démarches, délais, coûts et contacts.
+
+
+
+11.1 Analyse
+Le terrain est soumis au plan local d'urbanisme (PLU) de Auch. Il est classé principalement en zone N.
+Zone naturelle et forestière : secteur protégé en raison de la qualité des sites, des milieux naturels et des
+paysages, ou de son caractère d'espace naturel. Les constructions nouvelles n'y sont pas admises, sauf
+exceptions encadrées (équipements publics, extension limitée des habitations existantes, secteurs de
+taille et de capacité limitées).
+
+En l'état, une construction nouvelle n'est pas possible. Seules des évolutions limitées peuvent être
+envisagées selon le règlement de la zone (extension mesurée d'une habitation existante, annexes,
+équipements publics). Le classement ne peut évoluer qu'à l'occasion d'une modification ou d'une révision
+du document d'urbanisme, à l'initiative de la commune.
+
+
+11.2 Votre projet, étape par étape
+Les étapes ci-dessous suivent l'ordre réel d'un projet de construction, de l'achat du terrain à la déclaration aux
+impôts. Les montants sont indicatifs et à confirmer par devis.
+
+  1      Avant d'acheter le terrain
+         Vérifiez les règles de la zone (chapitres précédents), puis demandez un certificat d'urbanisme opérationnel
+         (Cerfa 13410, sans frais, réponse sous 2 mois) : il fige les règles pendant 18 mois. En zone d'argiles d'aléa
+         moyen ou fort, le vendeur doit fournir une étude de sol préalable.
+         Contact : Mairie de Auch · 05 62 61 66 00 · accueil@mairie-auch.fr · formulaire sur service-public.fr (rechercher «
+         Cerfa 13410 »)
+
+  2      Les études
+         Étude de sol géotechnique (G2) pour dimensionner les fondations : 1 500 à 3 000 €. Étude thermique RE2020,
+         obligatoire pour le permis : 500 à 1 500 €. Bornage par un géomètre si les limites sont incertaines. L'étude de
+         sol ne porte pas sur les espèces protégées : un écologue n'intervient qu'en cas d'enjeu (chapitre
+         Environnement).
+         Géomètres proches du terrain : liste à la fin de ce chapitre
+
+  3      Les plans
+         Architecte obligatoire si la surface de plancher totale dépasse 150 m². En dessous, vous pouvez dessiner les
+         plans vous-même ou faire appel à un dessinateur ou maître d'œuvre (environ 1 500 à 4 000 € le dossier de
+         permis). Architecte : 3 000 à 8 000 € pour la seule mission de permis, 8 à 12 % du coût des travaux pour une
+         mission complète avec suivi du chantier.
+         Trouver un architecte : annuaire de l'Ordre des architectes sur architectes.org
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         35 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+  4      Déposer le permis
+         Formulaire Cerfa 13406 (maison individuelle) et pièces PCMI1 à PCMI8 : plan de situation, plan de masse,
+         coupe, notice, plans des façades et toitures, insertion dans le paysage, photos, attestation RE2020. Dépôt en
+         mairie ou en ligne sur le guichet numérique de la commune. La mairie a 1 mois pour réclamer une pièce
+         manquante ; l'instruction dure 2 mois à partir du dossier complet, plus en secteur protégé.
+         Dépôt : Mairie de Auch · 05 62 61 66 00 · accueil@mairie-auch.fr · formulaire sur service-public.fr (rechercher «
+         Cerfa 13406 »)
+
+  5      Affichage et recours
+         Dès l'accord, installez le panneau de permis sur le terrain, lisible depuis la voie, pendant toute la durée du
+         chantier. Les tiers ont 2 mois à compter du premier jour d'affichage pour contester ; la mairie peut retirer un
+         permis illégal pendant 3 mois. Faites constater l'affichage par un commissaire de justice (environ 300 à 600 €
+         pour les trois constats).
+         Commissaires de justice : annuaire sur commissaire-justice.fr
+
+  6      Avant les travaux
+         Souscrivez l'assurance dommages-ouvrage, obligatoire (souvent 2 à 4 % du coût de la construction). Signez
+         le contrat de construction de maison individuelle ou les marchés des artisans. Déposez la déclaration
+         d'ouverture de chantier (Cerfa 13407) le jour du démarrage. Le permis est valable 3 ans, prorogeable deux
+         fois d'un an.
+         Déclaration d'ouverture : Mairie de Auch · 05 62 61 66 00 · accueil@mairie-auch.fr
+
+  7      Le financement
+         La banque débloque le prêt au fur et à mesure du chantier, sur présentation des factures des entreprises ou
+         des appels de fonds du constructeur. Avec un contrat de construction de maison individuelle, l'échéancier
+         est encadré par la loi : 15 % à l'ouverture du chantier, 25 % aux fondations, 40 % aux murs, 60 % hors d'eau,
+         75 % hors d'air et cloisons, 95 % aux équipements, le solde à la réception. Des intérêts intercalaires peuvent
+         courir sur les sommes débloquées.
+         Votre banque ou votre courtier
+
+  8      La fin du chantier
+         Réception des travaux avec le constructeur ou les artisans, avec réserves si nécessaire. Déposez ensuite la
+         déclaration attestant l'achèvement et la conformité des travaux (DAACT, Cerfa 13408), avec l'attestation
+         RE2020 de fin de chantier. La mairie a 3 mois pour la contester (5 mois en secteur protégé).
+         Dépôt : Mairie de Auch · 05 62 61 66 00 · accueil@mairie-auch.fr
+
+  9      Les impôts
+         Dans les 90 jours suivant l'achèvement, déclarez la construction sur impots.gouv.fr, espace « Gérer mes
+         biens immobiliers ». Cette déclaration sert au calcul de la taxe d'aménagement (payée en une fois sous 1 500
+         €, sinon en deux fois, estimation plus bas dans ce chapitre) et de la taxe foncière, avec une exonération
+         possible les deux premières années selon la commune.
+         impots.gouv.fr › Espace particulier › Gérer mes biens immobiliers
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         36 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+11.3 Les points à vérifier pour ce terrain
+  1      Certificat d'urbanisme opérationnel
+         Le demander en mairie (formulaire Cerfa 13410), en décrivant le projet. Gratuit, il indique si le terrain
+         peut accueillir le projet et fige les règles d'urbanisme pendant 18 mois.
+
+  2      Règlement de la zone
+         Lire le règlement écrit de la zone N et, le cas échéant, les orientations d'aménagement, disponibles sur
+         le Géoportail de l'Urbanisme.
+
+  3      Réseaux et accès
+         Vérifier l'accès à une voie publique ou privée adaptée, la desserte en eau potable et en électricité, et le
+         mode d'assainissement. En l'absence de réseau collectif, une étude de sol et l'avis du service public
+         d'assainissement non collectif (SPANC) sont nécessaires.
+
+  4      Bornage
+         Faire réaliser un bornage par un géomètre-expert pour fixer les limites exactes et la surface réelle du
+         terrain.
+
+  5      Sécuriser un achat
+         Pour une acquisition, prévoir dans le compromis une condition suspensive d'obtention d'un permis de
+         construire purgé de tout recours.
+
+
+11.4 Délais indicatifs d'instruction
+  DEMANDE                                                                                 DÉLAI DE DROIT COMMUN
+
+  Certificat d'urbanisme d'information (CUa)                                              1 mois
+
+  Certificat d'urbanisme opérationnel (CUb)                                               2 mois
+
+  Déclaration préalable                                                                   1 mois
+
+  Permis de construire une maison individuelle                                            2 mois
+
+  Permis d'aménager, autres permis de construire                                          3 mois
+
+
+
+Ces délais peuvent être majorés, notamment en site classé ou inscrit, aux abords d'un monument historique ou lorsque la
+consultation d'un service extérieur est nécessaire.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         37 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+11.5 Taxe d'aménagement à prévoir
+     Exemple : une maison de 120 m² en résidence principale, avec une piscine de 3 × 6 m. Sur ce terrain, la
+     taxe d'aménagement à prévoir est d'environ 5 020 €.
+
+
+
+  PROJET                                                                                                       TAXE ESTIMÉE
+
+  Maison de 120 m², résidence principale                                                                       4 680 €
+
+  Piscine de 3 × 6 m (18 m²)                                                                                   340 €
+
+  Total à prévoir                                                                                              5 020 €
+
+
+
+Taux appliqués : 5 % pour la commune et 2,5 % pour le département, sur une valeur forfaitaire de 892 € par m² en 2026 (251
+€ par m² de bassin pour une piscine). Une résidence principale bénéficie d'un abattement de 50 % sur ses 100 premiers m².
+
+La taxe est due une fois les travaux terminés : elle se déclare sur impots.gouv.fr dans les 90 jours suivant l'achèvement, et
+se paie en deux fois au-delà de 1 500 €. Pour calculer votre propre projet :
+terrenurbanisme.com/outils/taxe-amenagement.html
+
+
+11.6 Implanter une entreprise : zone France Ruralités Revitalisation
+     La commune de Auch est classée en zone France Ruralités Revitalisation (FRR) depuis le 1er juillet
+     2024. Une entreprise qui s'y crée ou y est reprise peut être exonérée d'impôt sur les bénéfices pendant
+     5 ans, puis partiellement pendant 3 ans.
+
+
+
+Impôt sur les bénéfices (IS ou IR)                    Exonération totale pendant 5 ans, puis exonération de 75 %, 50 % et 25
+                                                      % des bénéfices les 3 années suivantes
+
+Création ou reprise                                   Entre le 1er juillet 2024 et le 31 décembre 2029
+
+Activités concernées                                  Industrielle, commerciale, artisanale ou libérale
+
+Taille de l'entreprise                                Moins de 11 salariés
+
+Régime d'imposition                                   Régime réel obligatoire (micro-entreprise exclue, sauf option pour le
+                                                      réel)
+
+Implantation                                          Siège et totalité de l'activité dans la zone (activité sédentaire : 25 % du
+                                                      chiffre d'affaires au plus réalisé hors zone)
+
+Plafond                                               Aides de minimis : 300 000 € sur trois exercices
+
+Taxe foncière et CFE                                  Exonération possible si la commune ou l'intercommunalité l'a votée : à
+                                                      vérifier en mairie
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         38 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+Exclus : les activités agricoles, la gestion ou la location d'immeubles (une SCI de location nue n'est pas éligible) et la
+location meublée sans services de type hôtelier. Une location touristique ou des chambres d'hôtes peuvent être éligibles si
+le ménage quotidien et le linge sont fournis et inclus dans le prix.
+
+Ces avantages dépendent de la situation de l'entreprise (article 44 quindecies A du code général des impôts). Faites valider
+votre éligibilité par votre expert-comptable ou le service des impôts des entreprises avant de vous installer.
+
+Source : ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 (collectivites-locales.gouv.fr).
+
+
+11.7 Géomètres proches du terrain
+Le géomètre-expert est le seul professionnel habilité à fixer les limites de propriété (bornage) et à établir les
+documents d'arpentage déposés au cadastre. Il intervient aussi pour les relevés topographiques et les
+divisions de terrain.
+
+2,3 km            SCP XAVIER CLERC MARC GIRARDIN
+                                                                                                                           Coordonnées
+                  28 RUE RASPAIL 32000 AUCH
+
+
+3 km              ANTONELLI TOPOGRAPHIE
+                                                                                                                           Coordonnées
+                  24 RUE DE BOUBEE 32000 AUCH
+
+
+4,1 km            XMGE
+                                                                                                                           Coordonnées
+                  1 B RUE MARGUERITE DURAS 32000 AUCH
+
+
+18,4 km           GEODRONE EXPERTISE / UP PIXL / STUDIO ADS
+                                                                                                                           Coordonnées
+                  A LA PLACE - ARTIGUEDIEU 32260 SEISSAN
+
+
+21,1 km           ECTAUR EXPERT
+                                                                                                                           Coordonnées
+                  3 AVENUE DE CHANZY 32300 MIRANDE
+
+
+21,4 km           ALAIN LATOUR
+                                                                                                                           Coordonnées
+                  RUE JEAN MOULIN 32410 AYGUETINTE
+
+
+Source : répertoire Sirene de l'INSEE (activité des géomètres), classé par distance au terrain. L'inscription d'un cabinet à l'Ordre
+des géomètres-experts se vérifie sur geometre-expert.fr. Le bouton « Coordonnées » ouvre la fiche du cabinet (téléphone,
+horaires, itinéraire). Cette liste est fournie à titre indicatif, sans partenariat ni recommandation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         39 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                           12 · État des risques (ERP) pré-rempli
+
+
+
+
+    12             État des risques (ERP) pré-rempli
+     DANS CETTE SECTION
+
+     Le formulaire réglementaire à remettre à l'acquéreur ou au locataire, pré-rempli à partir des
+     bases officielles : plans de prévention, sismicité, radon, sols pollués, trait de côte, bruit des
+     aérodromes.
+
+
+Articles L. 125-5 à L. 125-7 et R. 125-23 à R. 125-27 du Code de l'environnement · modèle fixé par l'arrêté du 27 septembre
+2022.
+
+
+     Formulaire pré-rempli à partir de Géorisques et du Géoportail de l'Urbanisme à la date du rapport.
+     Avant de le remettre à l'acquéreur ou au locataire, le vendeur ou le bailleur le vérifie, le complète
+     (sinistres indemnisés) et le signe ; il doit dater de moins de six mois à la signature de la promesse, du
+     bail ou de l'acte.
+
+
+
+
+12.1 Situation du bien
+Commune                                                  Auch (32013)
+
+Département                                              Gers (32)
+
+Références cadastrales                                   Section ZC, parcelle n° 20 · 32013000ZC0020
+
+Surface cadastrale                                       15 169 m²
+
+
+
+12.2 Plans de prévention des risques
+  L'IMMEUBLE EST SITUÉ DANS LE PÉRIMÈTRE…                                         RÉPONSE                DÉTAIL
+
+  d'un plan de prévention des risques naturels (PPRN)                             Oui                    PM1 RGA-Duran ass ; PM1 RGA-Auch ass
+  prescrit, appliqué par anticipation ou approuvé
+
+  d'un plan de prévention des risques miniers (PPRM)                              Non                    Non recensé
+
+  d'un plan de prévention des risques technologiques                              Non                    Risques technologiques sur la commune
+  (PPRT)                                                                                                 : installations industrielles (icpe),
+                                                                                                         canalisations de matières dangereuses,
+                                                                                                         pollution des sols
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      40 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                           12 · État des risques (ERP) pré-rempli
+
+
+
+
+12.3 Autres zonages réglementaires
+  L'IMMEUBLE EST SITUÉ…                                                           RÉPONSE                DÉTAIL
+
+  dans une commune de sismicité (zones 2 à 5 : règles de                          Non                    Zone 1 – très faible
+  construction parasismique)
+
+  dans une commune à potentiel radon de niveau 3                                  Non                    Catégorie 1 (potentiel faible)
+
+  dans un secteur d'information sur les sols (SIS)                                Non                    Aucun SIS recensé à proximité
+
+  dans une zone exposée au recul du trait de côte                                 Non                    Non concerné selon Géorisques
+
+  dans une zone de bruit d'un plan d'exposition au bruit                          À vérifier             Aucun PEB annexé au document
+  d'aérodrome (PEB)                                                                                      d'urbanisme ; vérifier auprès de la mairie
+
+  dans une zone de retrait-gonflement des argiles                                 Oui                    Existant – important
+  (information)
+
+
+
+
+12.4 Sinistres indemnisés et déclarations
+Arrêtés de catastrophe naturelle sur la commune : 22 (liste en section Risques). Le vendeur ou le bailleur
+déclare ci-dessous les sinistres ayant donné lieu à une indemnisation au titre des catastrophes naturelles ou
+technologiques pendant la période où il a été propriétaire.
+
+Sinistres indemnisés                                     [ ] Oui [ ] Non
+
+Vendeur ou bailleur                                      Nom : ____________________ Date : ___/___/______ Signature :
+
+Acquéreur ou locataire                                   Nom : ____________________ Date : ___/___/______ Signature :
+
+
+L'état des risques officiel peut aussi être édité gratuitement sur Géorisques (errial.georisques.gouv.fr). Les informations
+ci-dessus sont établies à partir des bases nationales ; en cas de divergence, l'arrêté préfectoral relatif à l'information des
+acquéreurs et des locataires fait foi.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           41 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                                      13 · Avertissement et sources
+
+
+
+
+    13             Avertissement et sources
+     DANS CETTE SECTION
+
+     La portée de ce rapport et la liste des sources publiques consultées.
+
+
+
+13.1 Nature du document
+Ce rapport est un document d'information établi automatiquement, à la date indiquée en page de garde, à
+partir des données publiques officielles alors disponibles. Il n'a aucune valeur contractuelle, réglementaire ou
+juridique.
+
+
+13.2 Ce que ce rapport n'est pas
+Il ne constitue ni un certificat d'urbanisme au sens de l'article L. 410-1 du Code de l'urbanisme, ni une
+autorisation d'urbanisme (permis de construire, permis d'aménager, déclaration préalable), ni un état des
+risques au sens de l'article L. 125-5 du Code de l'environnement, ni un bornage, ni une expertise, ni une
+évaluation immobilière, ni une consultation juridique. Il n'engage en rien l'administration.
+
+
+13.3 Permis de construire
+Ce rapport ne peut en aucun cas être joint, produit ou invoqué à l'appui d'une demande de permis de
+construire, de permis d'aménager ou de déclaration préalable, ni opposé à la mairie ou à un service de l'État. Il
+ne garantit pas l'obtention d'une autorisation : seule l'autorité compétente se prononce, au vu d'un projet
+précis et de l'ensemble des règles applicables à la date de sa décision.
+
+
+13.4 Limites des données
+Les données sont produites par des organismes publics dont l'éditeur n'est ni l'auteur ni le garant. Elles
+peuvent être incomplètes, imprécises ou ne pas refléter une modification, une révision, une mise en
+compatibilité, une annulation contentieuse, un sursis à statuer ou une procédure en cours. Le plan cadastral,
+document fiscal, ne fait pas foi des limites de propriété. Surfaces, distances, altitudes et pentes sont
+approchées. Les extraits et analyses du règlement sont une aide à la lecture : seul le texte intégral du
+document d'urbanisme approuvé, consultable en mairie, fait foi.
+
+
+13.5 Avant toute décision
+Avant toute acquisition, cession, financement, promesse de vente ou dépôt d'une demande, le lecteur doit
+obtenir un certificat d'urbanisme opérationnel auprès de la mairie, consulter le document d'urbanisme en
+vigueur et recueillir l'avis d'un professionnel habilité (notaire, architecte, géomètre-expert, avocat). Pour un
+achat, il est recommandé de stipuler une condition suspensive d'obtention d'un permis de construire purgé de
+tout recours.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        42 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                                      13 · Avertissement et sources
+
+
+
+
+13.6 Responsabilité
+L'éditeur ne saurait être tenu responsable d'une décision prise sur le seul fondement de ce rapport, ni d'un
+refus d'autorisation, d'une erreur ou d'une omission des sources publiques, dans les limites prévues par les
+conditions générales de vente acceptées lors de la commande.
+
+
+13.7 Sources consultées
+  DONNÉE                                                    SOURCE
+
+  Cadastre                                                  DGFiP, plan cadastral informatisé, via API Carto (IGN)
+
+  Photographies et plans                                    IGN, Géoplateforme : orthophotographies, Plan IGN, parcellaire express
+
+  Urbanisme                                                 Géoportail de l'Urbanisme : zonage, prescriptions, informations, servitudes
+                                                            d'utilité publique
+
+  Littoral                                                  IGN, BD TOPO (limite terre-mer) ; communes littorales (Géoportail de
+                                                            l'Urbanisme)
+
+  Montagne                                                  Ministère de la Cohésion des territoires, communes de la loi Montagne
+
+  Risques                                                   Géorisques (ministère de la Transition écologique) : rapport de risques,
+                                                            arrêtés CatNat, sismicité, radon, ICPE, sites pollués
+
+  Environnement                                             Inventaire national du patrimoine naturel (PatriNat), via API Carto
+
+  Altitude, pente et exposition                             IGN, RGE ALTI
+
+  Ensoleillement                                            Calcul astronomique de la course du soleil ; masque du relief (IGN, RGE
+                                                            ALTI) et des bâtiments (IGN, BD TOPO)
+
+  Voirie et accès                                           IGN, BD TOPO (tronçons de route)
+
+  Permis de construire                                      Sitadel, service des données et études statistiques (SDES) du ministère
+                                                            chargé du logement
+
+  Photographies anciennes                                   IGN, BD ORTHO historique
+
+  Fibre et internet                                         Arcep, Ma connexion internet (éligibilité par adresse)
+
+  Géomètres                                                 Répertoire Sirene (INSEE), activité des géomètres
+
+  Propriétaires personnes morales                           DGFiP, fichiers des parcelles des personnes morales (diffusion Koumoul)
+
+  Diagnostics énergétiques                                  ADEME, base des DPE des logements existants
+
+  Procédures collectives                                    Bodacc, annonces commerciales (DILA)
+
+  Bâtiments                                                 IGN, BD TOPO
+
+  Réseau électrique                                         Agence ORE (gestionnaires de réseaux de distribution : Enedis, EDF Corse
+                                                            et entreprises locales) : réseau basse tension et postes de distribution
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        43 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                                      13 · Avertissement et sources
+
+
+
+
+  DONNÉE                                                    SOURCE
+
+  Taxe d'aménagement                                        DGFiP, éléments de taxation votés par les collectivités ; valeurs forfaitaires
+                                                            fixées par arrêté
+
+  Rapport officiel de risques                               Géorisques, ministère chargé de l'environnement
+
+  Zone France Ruralités Revitalisation                      ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 ; article
+                                                            44 quindecies A du code général des impôts
+
+  Marché immobilier                                         Statistiques des demandes de valeurs foncières (DVF) par commune, DGFiP
+                                                            et Etalab
+
+  Date d'extraction                                         20/11/2026
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        44 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Auch · ZC 20
+         TerrenUrbanisme
+                                                                                                                     Annexe · règlement de la zone
+
+
+
+
+ANNEXE
+
+
+Règlement écrit · zone N
+Les pages suivantes reproduisent le chapitre du règlement officiel applicable à la zone de la parcelle
+(pages 73 à 79 du document approuvé), tel que publié sur le Géoportail de l'Urbanisme. Il s'agit d'une
+reproduction à titre d'information : seule la version approuvée tenue à disposition en mairie fait foi, avec
+ses annexes, plans et éventuelles modifications ultérieures.
+Règlement complet :
+https://data.geopf.fr/annexes/gpu/documents/DU_32013/69b48823e5d8aebfa28943697c199d0b/32013_reglement_20251125.pdf
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       45 / 53
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                             TITRE 4 – DISPOSITIONS APPLICABLES AUX ZONES NATURELLES : ZONE N
+
+
+
+
+         C’est une zone qui regroupe les secteurs à dominante naturelle de la commune. Elle
+         comprend les secteurs suivants :
+
+               •     un secteur N e, zone naturelle présentant un intérêt écologique et/ou paysager,
+
+               •     un secteur N h, zone naturelle où des constructions peuvent être autorisées à la
+                     condition qu’elles ne portent atteinte ni à la préservation des sols agricoles et
+                     forestiers ni à la sauvegarde des sites, milieux naturels et paysages,
+
+               •     un secteur N l, zone naturelle réservée aux activités de loisirs ou de sports, aux
+                     activités touristiques,
+
+                         o    un sous-secteur N l h, zone naturelle réservée aux activités hôtelières,
+
+               •     un secteur N s, zone naturelle réservée aux activités médico-sociales,
+
+               •     un secteur N v, zone naturelle destinée à l’accueil des gens du voyage.
+
+               •     Un secteur N y, zone naturelle réservée aux activités d’artisanat et commerce de détail,
+                     et de service où s’effectue l’accueil d’une clientèle
+
+
+
+         SECTION 1 – NATURE DE L’OCCUPATION ET DE L’UTILISATION DU SOL
+
+         ARTICLE N.1 – OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+
+         Toutes les constructions et installations autres que celles mentionnées à
+
+         l’article N2. Dans le secteur Ne, toutes les constructions sont interdites.
+
+         ARTICLE N.2 – OCCUPATIONS ET UTILISATIONS DU SOL SOUMISES A DES
+         CONDITIONS PARTICULIERES
+
+               •     Dans tous les secteurs :
+
+         Les installations, constructions, ouvrages et aménagements de quelque nature que ce
+         soit, admis dans la zone, ne seront autorisés que sous réserve de la prise en compte du
+         risque d’inondation et pourront être soumis à des prescriptions particulières découlant
+         des dispositions du Plan de Prévention des Risques Inondation.
+
+         Les       constructions    et    installations     à   condition qu’elles          soient    nécessaires   au
+         fonctionnement des services publics.
+
+         L’aménagement et le changement de destination des constructions existantes.
+
+
+
+
+Règlement du Plan Local d’Urbanisme de la Ville d’Auch / Modification n°5 / dossier version Nov. 2025p. 73 / 83
+         Dans les conditions prévues par l’article L.111-15 du code de l’urbanisme, la
+         reconstruction à l'identique d'un bâtiment détruit ou démoli depuis moins de dix ans est
+         autorisée dès lors que la destination initiale du bâtiment est maintenue, et à condition
+         de respecter les règles d’urbanisme et servitudes d’utilités publique existantes.
+
+
+
+              •    Dans le secteur N :
+
+         Les constructions à usage d’habitation, à condition d’être liées à une exploitation agricole
+         présente dans la zone N ou dans une zone agricole contiguë, et sans pouvoir excéder 200
+         m² de surface de plancher.
+
+         L’extension des constructions à usage d’habitation, existantes dans la zone à la date
+         d’approbation du PLU, et à la double condition de ne pas excéder 30% de l’emprise au sol
+         de la construction préexistante et que l’ensemble de la construction (existant et
+         extension) soit limité à 200 m² de surface de plancher.
+
+         La construction d’annexe en lien avec la construction principale mais indépendante de
+         celle-ci, sans pouvoir excéder 40 m² de surface de plancher ou de surface bâtie au sol.
+
+         Les installations de tourisme à la ferme (activités et hébergement) complémentaires à
+         une exploitation agricole par transformation ou aménagement de bâtiments existants.
+         Dans le cas de camping à la ferme, les équipements nécessaires (sanitaires, douches…)
+         devront être installés dans des locaux existants.
+
+         Les constructions et installations nécessaires à l’activité agricole. Le cas échéant, pour
+         des raisons sanitaires, des distances de reculs conformes à la règlementation en vigueur
+         (RSD, ICPE, …) doivent être respectés par rapport autres zones et secteurs d’urbanisation
+         ou des constructions isolées à usage principal d’habitat existantes.
+
+              •    Dans le secteur N h :
+
+         Les constructions à usage d’habitation et leurs annexes, à la condition de ne pas
+         excéder 250 m² de surface de plancher.
+
+              •    Dans le secteur N l :
+
+         Les constructions et installations à usage de loisirs, de sports, de tourisme,
+
+         Les parcs d’attractions, terrains de sports motorisés, aires de jeux et de loisirs ouvertes
+         au public, aires de stationnement ouvertes au public,
+
+         Les terrains de camping ou de caravanage, Les parcs résidentiels de loisirs.
+
+              •    Dans le sous-secteur N l h :
+
+         Les constructions d’hôtellerie,
+
+         Les constructions à usage d’habitation strictement nécessaires pour assurer la direction,
+         la surveillance ou le gardiennage de ces établissements sous les conditions suivantes :
+
+
+
+Règlement du Plan Local d’Urbanisme de la Ville d’Auch / Modification n°5 / dossier version Nov. 2025p. 74 / 83
+                         o    être implantées à une distance maximale de 100m des bâtiments existants,
+
+                         o    de ne pas excéder 200 m² de surface de plancher.
+
+              •    Dans le secteur N s :
+
+         Seules sont autorisées les constructions et installations liées aux activités de santé
+         existantes dans la zone à la date d’approbation du PLU.
+
+
+              •    Dans le secteur N v :
+
+         Seules sont autorisées les constructions et installations à condition qu’elles soient
+         nécessaires à l’accueil des gens du voyage.
+
+         Les constructions à usage d’habitations et leurs annexes.
+
+
+              •    Dans le secteur N y :
+
+         Seules sont autorisées :
+
+                         o    les constructions et installations liées à l’artisanat et commerce de détail, les
+                              activités de services où s’effectue l’accueil d’une clientèle
+                         o    Les constructions à usage d’habitation et leurs annexes, à la condition de ne pas
+                              excéder 250 m² de surface de plancher.
+
+
+         SECTION 2 – CONDITIONS DE L’OCCUPATION DU SOL
+
+         ARTICLE N.3 – ACCES ET VOIRIE
+
+         I – Accès
+
+         Pour être constructible, une unité foncière doit avoir accès à une voie publique ou privée,
+         soit directement, soit par l'intermédiaire d'un passage aménagé sur fonds voisin ou de
+         toute autre servitude éventuellement établie par application de l'article 682 du code civil.
+
+         Les accès et voiries doivent permettre l'approche des moyens de défense contre l'incendie
+         et de protection civile ainsi que la circulation des véhicules des services publics. Les voies
+         disposeront d’une largeur de chaussée d’au moins 3,50 m. les passages sous porches
+         devront avoir une hauteur minimale de 3,50m.
+
+         Les accès doivent être adaptés à la nature et à l'importance des usages qu'ils supportent
+         et des opérations qu'ils desservent et aménagés de façon à apporter la moindre gêne et
+         le moindre risque pour la circulation publique automobile, cycliste, piétonnière et des
+         personnes à mobilité réduite.
+
+         Lorsque le terrain est desservi par plusieurs voies, l'accès sera établi sur la voie où la gêne
+         pour la circulation sera la moindre.
+
+         II – Voirie
+
+         Les voies publiques ou privées communes, ouvertes à la circulation automobile, doivent
+         être dimensionnées et recevoir un traitement en fonction de l’importance et de la
+         destination des constructions qu’elles desservent.
+
+
+Règlement du Plan Local d’Urbanisme de la Ville d’Auch / Modification n°5 / dossier version Nov. 2025p. 75 / 83
+         Les éventuelles voies en impasse autorisées comporteront un dispositif de retournement
+         permettant aux véhicules lourds de manœuvrer aisément pour faire demi-tour (rayon de
+         giration minimal de 8 mètres).
+
+
+         ARTICLE N.4 – DESSERTE PAR LES RESEAUX
+
+         I – Eau
+
+         Toute construction qui le nécessite doit être raccordée au réseau public de distribution
+         d'eau potable par une conduite aux caractéristiques suffisantes et munie d'un dispositif
+         anti-retour.
+
+         II – Assainissement
+
+         En l’absence de réseau d’assainissement collectif, un dispositif d’assainissement
+         autonome, conforme à la réglementation en vigueur devra être mis en place. Dans ce cas,
+         l’aptitude du sol à recevoir cet assainissement autonome devra être suffisante en fonction
+         des caractéristiques hydrogéologiques, de la superficie et de la configuration du terrain.
+
+         III – Eaux pluviales
+
+         Se conformer aux dispositions générales et au règlement d’assainissement pluvial
+         annexé au Plan Local d’Urbanisme.
+
+         Et les projets agricoles générant de l’imperméabilisation devront s’accompagner
+         d’aménagements contribuant à limiter le ruissellement par temps de pluie tels que :
+
+         -         la création d’obstacles : haies, bandes enherbées…
+
+         -         le maintien des mares et des fossés/noues
+
+         enherbées ; IV – Electricité - Téléphone - Télévision
+
+         Pour toutes les voies nouvelles (voies publiques ou privées, voiries de lotissement...), les
+         réseaux d'électricité et de téléphone doivent être réalisés en souterrain. Aucune
+         opération (lotissement, ensemble d'habitations) ne peut comporter plus de deux groupes
+         d'antennes collectives de télévision.
+
+         V – Ordures ménagères
+
+         Les constructions auront l’obligation d’avoir au moins un local d’une superficie
+         suffisante pour recevoir les divers conteneurs liés à la collecte des déchets ménagers.
+
+         ARTICLE N.5 – CARACTERISTIQUES DES TERRAINS
+
+         Néant
+
+         ARTICLE N.6 – IMPLANTATION DES CONSTRUCTIONS PAR RAPPORT AUX EMPRISES
+         PUBLIQUES ET AUX VOIES
+
+         Les bâtiments doivent être implantés à une distance de l’alignement au moins égale à 3 m.
+
+         Les constructions et installations nouvelles doivent s'implanter à une distance au moins
+
+
+
+Règlement du Plan Local d’Urbanisme de la Ville d’Auch / Modification n°5 / dossier version Nov. 2025p. 76 / 83
+         égale à 15 m de l'axe des routes départementales sauf pour la RD 930 où ce recul sera
+         impérativement de 35 m.
+
+         En bordure des voies classées à grande circulation ou express, les constructions devront
+         respecter les règles de recul mentionnées aux articles L.111-6 à 8 & 10 du code de
+         l’urbanisme.
+
+         Ces dispositions ne s’appliquent pas pour les constructions et installations techniques nécessaires
+         au fonctionnement des services publics.
+
+         ARTICLE N.7 – IMPLANTATION DES CONSTRUCTIONS PAR RAPPORT AUX LIMITES SEPARATIVES
+
+         Les bâtiments doivent être implantés à une distance des limites au moins égale à 6 m.
+
+         Ces dispositions ne s’appliquent pas pour les constructions et installations techniques
+         nécessaires au fonctionnement des services publics.
+
+         Toute construction sera implantée à une distance au moins égale à 6 m des berges des cours d’eau.
+
+         ARTICLE N.8 – IMPLANTATION DES CONSTRUCTIONS LES UNES PAR RAPPORT AUX
+         AUTRES SUR UNE MEME PROPRIETE
+
+         Néant.
+
+         ARTICLE N.9 – EMPRISE AU SOL
+
+         Dans tous les secteurs (hors secteur N s, N y et N l), l’emprise au sol des constructions est
+         limitée à 10% du terrain d’assiette du projet.
+
+         Dans les secteurs N s, N y et N l, l’emprise au sol des constructions est limitée à 25% du
+         terrain d’assiette du projet.
+
+         ARTICLE N.10 – HAUTEUR MAXIMUM
+
+         La hauteur des constructions à usage d’habitation ne devra pas excéder 7 m (soit 2 niveaux
+         : 1 étage sur rez-de-chaussée) ; celle de leurs annexes sera limitée à 3,50 m mesuré à
+         l’égout du toit.
+
+         Pour les extensions des habitations existantes, un dépassement pourra être autorisé sans
+         toutefois dépasser la hauteur existante.
+
+         ARTICLE N.11 – ASPECT EXTERIEUR
+
+         Les constructions doivent présenter un aspect fini compatible avec le caractère ou
+         l’intérêt des lieux avoisinants et ne doivent pas porter atteinte au caractère ou à l’intérêt
+         de ces lieux, aux sites naturels ou urbains.
+
+         Une bonne insertion dans le site sera recherchée par l’implantation de la construction,
+         son adaptation au terrain, son aspect extérieur et sa volumétrie.
+
+         Lors de travaux d’extension, de réhabilitation ou de changement de destination l’aspect
+         extérieur de la construction initiale devra être respecté dans sa forme, ses matériaux,
+         ses couleurs et sa volumétrie.
+
+
+
+Règlement du Plan Local d’Urbanisme de la Ville d’Auch / Modification n°5 / dossier version Nov. 2025p. 77 / 83
+         ARTICLE N.12 – STATIONNEMENT
+
+         Le stationnement des véhicules doit être adapté aux besoins des constructions et
+         installations nouvelles et doit être assuré en dehors des voies publiques.
+
+         Les normes indiquées dans les dispositions générales devront être prises en compte.
+         Les normes minimales de stationnement par destination sont les suivantes :
+         Habitation : Logement individuel : 2 places par logement,
+         Hébergement hôtelier : 1 place par chambre
+
+         ARTICLE N.13 – ESPACES LIBRES ET PLANTATIONS, ESPACES BOISES CLASSES
+         Les espaces boisés classés figurant au plan sont soumis aux dispositions des articles L.113-
+         1 et L.113-2 du code de l'urbanisme.
+
+         Les lieux - le parc du Couloumé, le chêne du Hol - identifiés dans les documents graphiques
+         en application de l’article L.151-19 du code de l’urbanisme constituent des éléments de
+         paysage qu’il convient de protéger et de mettre en valeur. Ces plantations seront
+         conservées et confortées.
+
+         Conformément au code de l’urbanisme, toute intervention sur ces éléments classés ou
+         protégés est subordonnée à une déclaration préalable et à un accord de la municipalité.
+
+         La coupe partielle ou totale pourra être autorisée, notamment pour des raisons sanitaires
+         ou de sécurité et à condition d’un remplacement du boisement en quantité, et à terme,
+         en qualité équivalente.
+
+         D’une manière générale, les implantations des constructions doivent être telles qu'elles
+         maintiennent le maximum de végétation, les abattages d'arbres étant ainsi limités au plus
+         strict minimum. Ceci justifie que des prescriptions pourront être édictées au titre de
+         l’insertion du projet dans son environnement.
+
+         30% de la superficie de l’unité foncière doivent être aménagés en espaces verts plantés
+         d’arbres de haute tige.
+
+         Sauf impossibilité technique, architecturale ou urbanistique non imputable au
+         constructeur ou aménageur, les aires de stationnement de 4 places et plus doivent être
+         plantées à raison de :
+
+                         -   un arbre toutes les trois places pour le stationnement en longitudinal,
+
+                         -   un arbre toutes les six places pour les autres stationnements (en épi, aire, etc.).
+
+         Des dispositions différentes pourront être admises pour les places de stationnement
+         prévues le long des façades des bâtiments : plantations d’arbustes ou autre aménagement
+         paysager.
+
+         Les essences seront privilégiées pour les plantations. Ainsi on trouvera pour les arbres
+         plantés des essences telles que érable champêtre, érable de Montpellier, frêne à fleur,
+         orme résista, orme de Lutèce, etc. et pour les haies arbustives des essences telles que
+         troène, laurier tin, cornouiller, lilas, spirée, noisetier, etc.
+
+
+
+Règlement du Plan Local d’Urbanisme de la Ville d’Auch / Modification n°5 / dossier version Nov. 2025p. 78 / 83
+         SECTION 3 – POSSIBILITES MAXIMALES D’OCCUPATION DU SOL
+
+         ARTICLE N.14 – COEFFICIENT D’OCCUPATION DU SOL (COS)
+
+         Néant.
+
+
+
+
+Règlement du Plan Local d’Urbanisme de la Ville d’Auch / Modification n°5 / dossier version Nov. 2025p. 79 / 83
+                    TerrenUrbanisme
+
+    Merci de votre confiance
+Ce rapport a été établi à partir des sources publiques officielles pour vous
+  aider à décider en connaissance de cause. Pour toute question, nous
+                        restons à votre disposition.
+
+
+
+
+   Vous êtes professionnel ? Travaillons ensemble
+      Agents immobiliers, notaires, architectes, géomètres, diagnostiqueurs,
+promoteurs, mairies : faisons équipe. Crédits professionnels sans abonnement, 5
+€ le rapport dès 50 crédits, votre logo sur les rapports, offre communale pour les
+                       mairies et partenariats sur mesure.
+
+               Écrivez-nous : contact@terrenurbanisme.com
+
+
+
+
+                        terrenurbanisme.com
+                         contact@terrenurbanisme.com
+

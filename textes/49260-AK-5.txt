@@ -1,0 +1,2715 @@
+                  TerrenUrbanisme
+                  Le terrain constructible, partout en France
+
+
+
+
+RAPPORT D'URBANISME
+
+
+
+La Romagne
+Section AK · Parcelle n° 5
+      Non constructible
+
+
+
+
+Référence cadastrale                                                        Surface cadastrale
+49260000AK0005                                                              7 929 m²
+
+Rapport établi le                                                           Référence du rapport
+20/11/2026                                                                  APERCU
+
+
+
+
+terrenurbanisme.com                                                                      contact@terrenurbanisme.com
+
+Document d'information sans valeur contractuelle ni réglementaire. Il ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme
+et ne peut en aucun cas être joint à une demande de permis de construire ou de déclaration préalable. Seuls les actes de l'administration font foi.
+                                                                                                                           La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                                                Sommaire
+
+
+
+
+Sommaire
+Le rapport suit l'ordre d'une étude de terrain : où se trouve la parcelle, ce que dit la règle, ce qui pèse sur le
+projet, puis les démarches.
+
+              Synthèse
+   S                                                                                                                                   p. 3
+              Le verdict, les indicateurs clés et les points d'attention en une page.
+
+              Identification de la parcelle
+   01                                                                                                                                  p. 4
+              Localisation, surface, références cadastrales et voisinage du terrain.
+
+              Règles d'urbanisme applicables
+  02                                                                                                                                   p. 7
+              Document d'urbanisme, zone du terrain, prescriptions et servitudes.
+
+              Ce que vous pouvez construire
+  03                                                                                                                                  p. 10
+              Surface constructible, hauteur, reculs, aspect et usages autorisés.
+
+              Loi Littoral et loi Montagne
+  04                                                                                                                                  p. 17
+              Les lois qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+              Risques naturels et technologiques
+  05                                                                                                                                  p. 18
+              Inondation, feu de forêt, argiles, catastrophes naturelles et sites pollués.
+
+              Le terrain : accès, relief et réseaux
+  06                                                                                                                                  p. 21
+              Accès, pente, ensoleillement, eaux usées, électricité, eau et fibre.
+
+              Conditions de vente du terrain
+  07                                                                                                                                 p. 28
+              Terrain agricole ou naturel : SAFER, fermier en place et repère officiel de prix.
+
+              Environnement et marché immobilier
+  08                                                                                                                                 p. 30
+              Espaces naturels, espèces protégées et ventes immobilières alentour.
+
+              Historique du site
+  09                                                                                                                                 p. 33
+              Le terrain vu du ciel au fil des années et les permis accordés autour.
+
+              Opportunités autour du terrain
+   10                                                                                                                                p. 34
+              Grands terrains peu bâtis et logements énergivores à proximité.
+
+              Votre projet, étape par étape
+   11                                                                                                                                p. 35
+              De l'achat aux impôts : démarches, délais, coûts, contacts et taxe.
+
+              État des risques (ERP) pré-rempli
+   12                                                                                                                                p. 39
+              Le formulaire réglementaire à remettre à l'acquéreur, pré-rempli.
+
+              Avertissement et sources
+   13                                                                                                                                 p. 41
+              La portée de ce rapport et les sources publiques consultées.
+
+              Annexe : règlement de la zone
+   A                                                                                                                                 p. 44
+              Les pages officielles du règlement de la zone, telles qu'approuvées.
+
+
+
+
+Astuce : cliquez sur un chapitre pour y accéder directement.
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                  2 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                                                        Synthèse
+
+
+
+
+Synthèse
+     Document d'information. Ce rapport ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme,
+     n'engage pas l'administration et ne peut pas servir de pièce à une demande de permis de construire.
+     L'appréciation ci-dessous est indicative : seule la mairie se prononce sur la constructibilité d'un terrain,
+     au vu d'un projet précis.
+
+
+
+
+       NON CONSTRUCTIBLE
+
+       Ce terrain n'est pas constructible en l'état
+       La parcelle est classée en zone A (agricole) du PLU intercommunal de La Romagne. Les
+       constructions nouvelles n'y sont pas admises, sauf exceptions encadrées.
+
+
+
+
+      Zone principale                                        Document d'urbanisme                                  Loi Littoral
+
+   A · 100 %                                              PLUI                                                   Ne s'applique pas
+
+
+
+
+      Loi Montagne                                           Risques à la parcelle
+
+   Ne s'applique pas                                      Séisme · Radon
+
+
+
+
+Points d'attention
+    Zone A (100 % de la parcelle) : non constructible.
+    Réseau électrique basse tension à environ 130 m : une extension du réseau sera probablement
+    nécessaire.
+    Logement : le règlement de la zone A n'admet pas de logement neuf, sauf exceptions prévues par la
+    zone (logement de gardiennage, par exemple) : voir le chapitre « Ce que vous pouvez construire ».
+    Pollution des sols : concerné à l'adresse de la parcelle (voir le chapitre « Risques naturels et
+    technologiques »).
+    5 arrêtés de catastrophe naturelle sur la commune.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         3 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+    01             Identification de la parcelle
+     DANS CETTE SECTION
+
+     Où se trouve le terrain, sa surface, ses références cadastrales, son propriétaire lorsqu'il s'agit
+     d'une société ou d'une collectivité, et la performance énergétique du bâti existant.
+
+
+Données du cadastre (DGFiP) et de l'IGN.
+
+
+     Plan de situation
+
+
+
+
+                                                                                                                            1 km
+
+
+
+Plan IGN · © IGN
+
+
+
+     Vue aérienne et plan cadastral
+
+
+
+
+                                                                                                                            100 m
+
+
+
+Photographie aérienne et plan cadastral · © IGN
+
+
+Commune                                                  La Romagne (49260)
+
+Département                                              Maine-et-Loire (49)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           4 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                                    01 · Identification de la parcelle
+
+
+
+
+Section et numéro                                        Section AK, parcelle n° 5, feuille 1
+
+Identifiant cadastral                                    49260000AK0005
+
+Surface cadastrale                                       7 929 m²
+
+Surface calculée (SIG)                                   7 930 m² · périmètre 351 m
+
+Coordonnées du centre                                    47.05558 N, 1.00855 O (WGS 84)
+
+Altitude                                                 de 93 à 99 m
+
+Pente estimée                                            5 % (pente modérée)
+
+Parcelles voisines                                       AK 4, AH 55, AK 6, AK 7
+
+
+Le plan cadastral est un document fiscal : il ne fait pas foi des limites de propriété. Seul un bornage réalisé par un
+géomètre-expert fixe les limites de manière certaine.
+
+
+1.1 Propriétaire et voisinage
+La parcelle ne figure pas au fichier des personnes morales : son propriétaire est vraisemblablement un
+particulier. Le nom des propriétaires particuliers n'est pas public ; il peut être demandé au service des impôts
+fonciers (relevé de propriété) ou obtenu par l'intermédiaire d'un notaire.
+
+Parcelles voisines détenues par des sociétés ou des collectivités
+  PARCELLE              PROPRIÉTAIRE                                                                     SURFACE             SIREN
+
+  AH 55                 SCEA DE LA RUETTIERE (SCEA)                                                      7 852 m²            429324288
+
+  AK 6                  SCEA DE LA RUETTIERE (SCEA)                                                      1 214 m²            429324288
+
+  AK 7                  SCEA DE LA RUETTIERE (SCEA)                                                      7 315 m²            429324288
+
+
+
+Principaux propriétaires personnes morales dans un rayon de 280 m
+  PROPRIÉTAIRE                                                              PARCELLES             SURFACE TOTALE             SIREN
+
+  GFA DE LA TERRELIERE (GFA)                                                2                     35 673 m²                  819842022
+
+  SCEA DE LA RUETTIERE (SCEA)                                               2                     4 051 m²                   429324288
+
+  DEPARTEMENT DE MAINE ET LOIRE (DEPT)                                      5                     1 052 m²                   224900019
+
+
+
+Source : fichiers des parcelles des personnes morales (DGFiP) : sociétés, SCI, collectivités, établissements publics et associations.
+Les propriétaires personnes physiques n'y figurent pas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            5 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+1.2 La commune de La Romagne
+Code postal                                              49740
+
+Département                                              Maine-et-Loire (49)
+
+Intercommunalité                                         CA Cholet Agglomération
+
+Population                                               2 028 habitants
+
+Superficie                                               16,03 km²
+
+Densité                                                  126 habitants par km²
+
+Commune littorale                                        Non
+
+Commune de montagne                                      Non
+
+Document d'urbanisme                                     Plan local d'urbanisme intercommunal (PLUi)
+
+Risques sur la commune                                   5 arrêtés de catastrophe naturelle · détail en section Risques et en
+                                                         annexe
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          6 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+    02             Règles d'urbanisme applicables
+     DANS CETTE SECTION
+
+     Le document d'urbanisme de la commune, la zone dans laquelle se trouve le terrain, et les
+     prescriptions et servitudes qui s'y ajoutent.
+
+
+Géoportail de l'Urbanisme : zonage, prescriptions et servitudes.
+
+
+
+2.1 Document d'urbanisme en vigueur
+Type de document                                         Plan local d'urbanisme intercommunal (PLUi)
+
+Date d'approbation                                       Non renseigné
+
+Statut                                                   Publié au Géoportail de l'Urbanisme
+
+Règlement officiel                                       Ouvrir la page officielle
+
+
+
+     Plan de zonage du PLU
+
+
+
+
+                                                                               A
+
+
+
+
+                                                                                                                           100 m
+
+
+
+Zonage : Géoportail de l'Urbanisme · fond : © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          7 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.2 Zonage de la parcelle
+  ZONE                  DÉSIGNATION                                                         PART               CONSTRUCTIBILITÉ
+
+  A                     Zone agricole                                                       100 %              Non constructible
+
+
+
+Zone A · Agricole
+Zone agricole : secteur protégé en raison du potentiel agronomique, biologique ou économique des terres.
+Seules y sont admises les constructions et installations nécessaires à l'exploitation agricole et aux services
+publics, ainsi que l'extension limitée des habitations existantes.
+
+
+2.3 Prescriptions applicables à la parcelle
+  PRESCRIPTION                                                                                       TYPE
+
+  Haie protégée - Enjeu Fort                                                                         Élément de patrimoine ou de paysage
+                                                                                                     protégé
+
+
+
+
+2.4 Informations complémentaires du PLU
+  INFORMATION                                                                                        TYPE
+
+  Zone d'accélération de la production d'énergies renouvelables                                      Information du PLU (type 99)
+  (ZAENR)
+
+  Information issue du dossier départemental des risques majeurs                                     Information du PLU (type 99)
+  (DDRM) - Rupture de barage
+
+  Information issue du dossier départemental des risques majeurs                                     Information du PLU (type 99)
+  (DDRM) - Sismicité
+
+  Information issue du dossier départemental des risques majeurs                                     Information du PLU (type 99)
+  (DDRM) - Potentiel Radon
+
+  Information issue du dossier départemental des risques majeurs                                     Information du PLU (type 17)
+  (DDRM) - Risques lié au plomb
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          8 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.5 Servitudes d'utilité publique
+Aucune servitude d'utilité publique numérisée n'est recensée sur la parcelle au Géoportail de l'Urbanisme. Les
+servitudes non encore numérisées figurent en annexe du PLU.
+
+
+2.6 Patrimoine : l'architecte des Bâtiments de France
+Aucun site patrimonial remarquable, site classé ou inscrit, ni monument historique à moins de 500 m n'est
+recensé : l'avis de l'architecte des Bâtiments de France n'est pas requis au titre du patrimoine.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      9 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    03             Ce que vous pouvez construire
+     DANS CETTE SECTION
+
+     La lecture du règlement de votre zone : surface constructible estimée, hauteur, reculs, aspect,
+     usages autorisés ou interdits, avec les extraits du texte officiel.
+
+
+Lecture du règlement écrit de la zone A, pages 82 à 90 du règlement officiel.
+
+
+
+3.1 Potentiel constructible estimé
+     Le règlement de la zone A n'admet pas de construction nouvelle à usage de logement. Seules restent
+     possibles les constructions expressément admises par la zone et les évolutions encadrées des
+     constructions existantes : extension limitée à 30 % de l'emprise existante, dans la limite de 250 m²,
+     annexes de 40 m² au plus.
+
+
+
+Constructions admises dans la zone :
+
+    Exploitation agricole (autorisée) : constructions liées et nécessaires à l'activité des exploitations (bâtiments,
+    serres démontables, tunnels plastiques, installations d'irrigation), sous réserve d'une bonne intégration dans
+    l'environnement et le paysage
+    Constructions et activités liées et nécessaires aux CUMA
+    Méthaniseurs liés et nécessaires à l'activité des exploitations agricoles, portés par un ou plusieurs agriculteurs
+    (coopérative)
+    Affouillements et exhaussements liés à une activité agricole
+
+
+3.2 Caractère de la zone
+La zone A correspond à des secteurs, équipés ou non, à protéger en raison du potentiel agronomique,
+biologique ou économique des terres agricoles. Elle permet la pérennité des activités et pratiques
+agricoles ainsi que la diversification des activités agricoles. La parcelle est en zone A sans indice : les
+règles des secteurs Ap, Ar et Av ne s'appliquent pas. Le règlement est celui du PLUi-H de Cholet
+Agglomération (approuvé le 16 février 2026), applicable à La Romagne comme aux autres communes de
+l'agglomération.
+
+
+3.3 Règles de construction
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Surface minimale ou                          Non précisé dans le règlement de la zone (parcelle détachée                      art. A-3
+  caractéristiques du terrain                  pour un logement de fonction agricole limitée à 700 m²
+                                               maximum)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      10 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Accès et voirie                              Dispositions communes : terrain accessible par une voie                          art. A-7 / Titre
+                                               publique ou privée (directement ou par droit de passage) ;                       IV art. 5
+                                               minimum d'accès sur les voies publiques ; accès sécurisé,
+                                               pouvant être refusé sur certaines routes départementales ;
+                                               voies adaptées aux usages, à la sécurité, à la collecte des
+                                               déchets, à la défense incendie ; impasses avec aire de
+                                               demi-tour
+
+  Réseaux et assainissement                    Eau potable : raccordement au réseau public. Eaux usées :                        Section 3 A ;
+                                               raccordement au réseau public avec l'accord du gestionnaire ;                    Titre IV art. 6
+                                               en cas d'impossibilité technique, assainissement non collectif
+                                               conforme à la réglementation (adapté à la pédologie,
+                                               topographie, hydrologie), permettant un raccordement
+                                               ultérieur. Eaux pluviales : gestion à la parcelle
+                                               (infiltration/réutilisation privilégiées), obligatoire dès 40 m²
+                                               d'emprise ou de surface imperméabilisée créée ; rejet au
+                                               réseau seulement si impossibilité et avec accord. Réseaux
+                                               souples en souterrain sauf impossibilité technique ;
+                                               communications électroniques à prévoir
+
+  Implantation par rapport                     Libre : à l'alignement ou en recul. Implantation spécifique                      art. A-5
+  aux voies                                    possible pour la sécurité et la visibilité, les impératifs
+                                               techniques, le recul imposé par le domaine ferroviaire ou le
+                                               schéma routier, la reconstruction, la continuité du bâti existant,
+                                               l'intégration paysagère. Pas de recul chiffré
+
+  Implantation par rapport                     Libre : en limite séparative ou en retrait. Pas de retrait chiffré.              art. A-5
+  aux limites séparatives                      Implantation spécifique possible (isolation par l'extérieur,
+                                               densification, reconstruction, impératifs techniques, intégration
+                                               paysagère)
+
+  Implantation des                             Diversification agricole et logements de fonction : dans un                      art. A-5
+  constructions entre elles                    rayon de 100 m du bâtiment le plus proche du site d'activités
+                                               (300 m maximum exceptionnellement en continuité d'un
+                                               hameau ou écart). Annexes à l'habitation (piscines comprises) :
+                                               à moins de 20 m de l'habitation existante, sauf incapacité
+                                               justifiée
+
+  Emprise au sol                               Pas de plafond pour les constructions agricoles. Abris pour                      art. A-5
+                                               animaux : 20 m² maximum. Logement existant : extension
+                                               limitée à 30 % de l'emprise au sol existante et 250 m² de
+                                               surface de plancher maximum (emprise existante >= 100 m²),
+                                               ou 30 m² d'emprise au sol (emprise existante < 100 m²), sans
+                                               création de logement ; annexes (hors piscines) : 40 m²
+                                               d'emprise au sol ; piscines : 60 m² ; maximum pour la durée du
+                                               PLUi-H, pouvant être réalisé en plusieurs projets
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        11 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Hauteur maximale                             Logement : 8 m maximum (annexes : 4 m au point le plus haut ;                    art. A-5 ; Titre
+                                               extensions sans dépasser la hauteur de la construction                           IV art. 2
+                                               principale). Abris pour animaux : 3,5 m. Autres constructions
+                                               (agricoles, etc.) : hauteur cohérente et proportionnée au projet
+                                               (impératifs techniques, cohérence avec le voisinage,
+                                               intégration paysagère), sans valeur chiffrée
+
+  Aspect extérieur et toitures                 Intégration paysagère et architecturale ; pastiches                              art. A-6 ; Titre
+                                               d'architecture étrangère à la région et architecture                             IV art. 1
+                                               monumentale interdits ; toitures terrasses autorisées
+                                               (végétalisables) ; vérandas et annexes pouvant avoir des
+                                               toitures différentes en harmonie ; châssis de toit et verrières
+                                               non encastrés interdits ; ouvertures plus hautes que larges
+                                               conservées en rénovation ; dispositifs d'énergie renouvelable
+                                               soigneusement intégrés
+
+  Matériaux et couleurs                        Matériaux de qualité, pérennes, en harmonie avec les                             art. A-6 ; Titre
+                                               constructions voisines ; emploi à nu de matériaux destinés à                     IV art. 1
+                                               être recouverts interdit ; tonalités neutres privilégiées
+                                               (référence au nuancier), couleurs vives admises si bonne
+                                               intégration ; façades latérales et arrière traitées avec le même
+                                               soin
+
+  Clôtures                                     Aucune obligation de clore. Alignement des voies : mur-bahut                     Titre IV art. 1 ;
+                                               de 1,20 m maximum (jusqu'à 1,80 m ponctuellement) surmonté                       Titre I art. 7
+                                               d'un claire-voie ou brise-vue, l'ensemble <= 1,80 m ; ou haie
+                                               vive d'essences variées ; ou grillage <= 1,80 m doublé de haie
+                                               vive. Limites séparatives : mur plein <= 2 m enduit des deux
+                                               côtés, brise-vue <= 2 m, mur-bahut <= 1,20 m surmonté d'un
+                                               claire-voie ou brise-vue (<= 2 m), haie vive, ou grillage <= 2 m
+                                               doublé de haie vive. Limite avec espace agro-naturel : clôture
+                                               à dominante végétale permettant le passage de la petite faune
+                                               et l'écoulement des eaux. Brandes, bâches occultantes et
+                                               végétaux artificiels interdits. Clôtures agricoles non
+                                               concernées. Déclaration préalable pour l'édification de
+                                               clôtures
+
+  Stationnement                                Vélos : emplacements adaptés selon la réglementation.                            art. A-7 ; Titre
+                                               Véhicules motorisés : en dehors des voies publiques ;                            IV art. 3 et 4
+                                               exploitation agricole : pas de nombre minimal, déterminé selon
+                                               les besoins du projet ; logement : se reporter aux dispositions
+                                               spécifiques, la zone A ne fixe pas de norme chiffrée (non
+                                               précisé) ; aires de plus de 6 véhicules traitées de façon
+                                               paysagère et perméables si possible ; aire de stationnement
+                                               plantée (1 arbre pour 4 places), végétalisée, avec ombrières ou
+                                               perméable
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         12 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Espaces verts et plantations                 Pas de pourcentage d'espaces verts imposé dans la zone A.                        Titre IV art. 4
+                                               Dispositions communes : conserver au maximum les
+                                               plantations existantes ; abattage de haute tige possible si
+                                               nécessaire pour une habitation ou extension, avec
+                                               remplacement ; espaces libres paysagés à raison d'au moins
+                                               un arbre de haute tige pour 100 m² d'espaces libres ; matériaux
+                                               drainants ; palette d'essences recommandée
+
+  Densité ou coefficient                       Non réglementé (pas de COS ; limites fixées par l'emprise au                     art. A-5
+                                               sol)
+
+
+
+
+3.4 Usages autorisés
+    Exploitation agricole (autorisée) : constructions liées et nécessaires à l'activité des exploitations
+    (bâtiments, serres démontables, tunnels plastiques, installations d'irrigation), sous réserve d'une bonne
+    intégration dans l'environnement et le paysage
+    Constructions et activités liées et nécessaires aux CUMA
+    Méthaniseurs liés et nécessaires à l'activité des exploitations agricoles, portés par un ou plusieurs
+    agriculteurs (coopérative)
+    Affouillements et exhaussements liés à une activité agricole
+    Logements de fonction agricoles sous conditions strictes (voir conditions)
+    Activités de diversification dans le prolongement de l'acte de production : hébergement, restauration,
+    accueil de groupes, camping à la ferme (par valorisation du bâti existant, aménagement d'habitation ou
+    changement de destination) ; vente directe de produits de l'exploitation (bâti existant ou construction
+    neuve) à proximité d'une exploitation existante
+    Logement existant : extensions mesurées et annexes (sans création de logement supplémentaire), y
+    compris piscines
+    Changement de destination vers le logement ou vers « autres hébergements touristiques » uniquement
+    pour les bâtiments repérés au règlement graphique, sans compromettre l'activité agricole et hors
+    périmètre de 100 m autour d'un bâtiment agricole
+    Abris pour animaux non liés à une exploitation agricole (une seule construction par unité foncière,
+    structure démontable, non clos, 20 m² maximum, 3,5 m de hauteur maximale)
+    Locaux techniques et industriels des administrations publiques et assimilés (réseaux, énergies
+    renouvelables, infrastructures) s'ils sont compatibles avec l'activité agricole, pastorale ou forestière et ne
+    portent pas atteinte aux espaces naturels et paysages
+    Constructions et installations nécessaires aux services publics ou d'intérêt collectif, ainsi que leurs travaux
+    de maintenance ou de modification
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        13 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.5 Usages interdits ou soumis à conditions
+    Interdit : constructions nouvelles de logements nouveaux (hors logements de fonction agricoles)
+    Interdits : exploitation forestière, hébergement, commerce et activités de service (sauf autres
+    hébergements touristiques par changement de destination), équipements recevant du public, industrie,
+    entrepôt, bureau, centre de congrès, cuisine dédiée à la vente en ligne
+    Interdit : constructions, installations et aménagements incompatibles avec l'activité agricole ou pastorale
+    ou portant atteinte à la sauvegarde des espaces naturels et des paysages
+    Interdits : résidences mobiles, habitations légères de loisirs, terrains de camping, stationnement de
+    caravanes (sauf hivernage pour le particulier), dépôts de véhicules et garages collectifs de caravanes
+    Interdits : stockage extérieur et dépôt visibles depuis l'espace public (combustibles, ferrailles, déchets,
+    matériaux, épaves), sauf installations de stockage de déchets inertes ou dépôts autorisés dans les zones
+    de carrière du règlement graphique
+    Interdits : aménagements ou constructions incompatibles avec les OAP
+    Logement de fonction agricole : nécessité justifiée d'une présence permanente (élevage ou activité
+    équivalente) ; activité à temps plein ; exploitant en activité (pas pour la retraite) ; un seul logement en
+    exploitation non sociétaire ; en société, jusqu'à 2 logements par site avec élevage, 1 sans élevage ; en cas
+    de création d'exploitation, logement postérieur aux bâtiments d'exploitation ; parcelle détachée de 700 m²
+    maximum ; implantation sans gêne pour l'exploitation ; implantation dans un rayon de 100 m du bâtiment le
+    plus proche du site (jusqu'à 300 m exceptionnellement en continuité d'un hameau ou écart bâti)
+    Constructions de diversification agricole : implantées dans un rayon de 100 m du bâtiment le plus proche
+    du site d'activités (jusqu'à 300 m exceptionnellement en continuité immédiate d'un hameau ou écart bâti)
+    Annexes à l'habitation : implantées à moins de 20 m de l'habitation existante (piscines comprises), sauf
+    impossibilité justifiée
+    Abris pour animaux non liés à une exploitation : une seule construction par unité foncière, démontable,
+    non close
+    Changement de destination : avis conforme de la CDPENAF (zone agricole) ; destination limitée au
+    logement ou à l'hébergement touristique
+    Zones humides, haies, boisements, arbres remarquables, éléments patrimoniaux et EBC identifiés au
+    règlement graphique : protections et déclaration préalable ; retrait de 10 m des rives des cours d'eau
+    Constructions : volumétrie et implantation conformes à l'article A-5
+
+
+3.6 Points de vigilance pour votre projet
+    Vérifier sur le règlement graphique que la parcelle est bien en zone A sans indice (et non en secteur Ap, Ar
+    ou Av) et si elle est concernée par des protections (zone humide, haie, boisement, EBC, cours d'eau avec
+    recul de 10 m, patrimoine L.151-19, bâtiment repéré pouvant changer de destination, OAP, zone de
+    carrière).
+    Aucune construction nouvelle de logement n'est admise, hors logement de fonction agricole soumis à des
+    conditions strictes (nécessité de présence permanente, 700 m² de parcelle détachée, rayon de 100 m).
+    Pour une habitation existante : extension plafonnée (30 % de l'emprise existante et 250 m² de surface de
+    plancher maximum si emprise >= 100 m², ou 30 m² sinon), annexes 40 m², piscines 60 m², maximum
+    cumulé pour la durée du PLUi-H ; annexes à moins de 20 m de l'habitation ; hauteur 8 m (annexes 4 m).
+    Changement de destination : uniquement pour les bâtiments repérés au règlement graphique, hors
+    périmètre de 100 m autour d'un bâtiment agricole, avec avis conforme de la CDPENAF.
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      14 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    Le règlement renvoie à l'avis des services pour l'assainissement : en l'absence de réseau, l'assainissement
+    non collectif doit être conforme et permettre un raccordement ultérieur.
+    Gestion des eaux pluviales à la parcelle obligatoire dès 40 m² d'emprise ou de surface imperméabilisée
+    créée.
+    Le règlement graphique et les servitudes d'utilité publique (annexées) s'appliquent en plus, avec la règle la
+    plus contraignante ; les adaptations mineures seules sont possibles.
+    Le présent règlement est celui de Cholet Agglomération ; vérifier qu'il couvre bien la commune de La
+    Romagne et qu'aucune règle communale spécifique ne s'y ajoute.
+
+
+3.7 Extraits du règlement
+
+     art. A-2 · page 84
+     « Les constructions nouvelles relevant de la sous-destination « logement » à usage de logements
+     nouveaux ; »
+
+
+     art. A-3 · page 85
+     « La parcelle détachée pour le logement ne doit pas dépasser une superficie de 700m². »
+
+
+     art. A-5 (emprise au sol) · page 89
+     « Qu’elles soient limitées à 30 % maximum de l’emprise au sol du bâtiment existant et dans la limite de
+     250m² de surface de plancher »
+
+
+     art. A-5 (emprise au sol) · page 89
+     « Les annexes à l’habitat (à l’exception des piscines), sont autorisées dans la limite de 40 m² d’emprise
+     au sol. »
+
+
+     art. A-5 (hauteur) · page 90
+     « La hauteur maximale des constructions ne doit pas excéder 8 mètres. »
+
+
+     art. A-5 (implantation) · page 89
+     « les constructions à usage d’annexes à l’habitation doivent être implantées à moins de 20 m de
+     l’habitation existante »
+
+
+
+3.8 Démarches probables
+    Consulter le règlement graphique et les annexes (servitudes, risques, OAP)
+    Permis de construire ou déclaration préalable selon la surface créée (code de l'urbanisme) pour
+    construction, extension, annexe, piscine
+    Déclaration préalable pour les clôtures (délibération du conseil communautaire) et pour les travaux sur
+    élément protégé L.151-19
+    Permis de démolir si démolition (délibération du conseil municipal) ou suppression d'élément L.151-19
+    Déclaration préalable pour abattage d'arbres remarquables, d'EBC, ou coupe de haies ou boisements
+    repérés
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      15 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    Changement de destination : demande d'autorisation avec avis conforme de la CDPENAF
+    Pour un logement de fonction agricole : dossier justifiant la nécessité de présence permanente
+    Demande de raccordement au réseau d'eau potable, d'assainissement ou conception d'un système
+    d'assainissement non collectif avec contrôle du SPANC
+    Gestion des eaux pluviales et respect du zonage d'assainissement pluvial annexé
+
+     Cette lecture est établie automatiquement, par intelligence artificielle, à partir du règlement officiel en
+     vigueur. Elle peut comporter des imprécisions : seul le texte du règlement, reproduit en annexe (pages
+     82 à 90 du document approuvé), fait foi, avec les dispositions générales, les orientations
+     d'aménagement et les servitudes.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      16 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                                    04 · Loi Littoral et loi Montagne
+
+
+
+
+   04              Loi Littoral et loi Montagne
+     DANS CETTE SECTION
+
+     Les lois nationales qui s'ajoutent au document d'urbanisme sur le littoral et en montagne. Elles
+     peuvent rendre un terrain inconstructible même en zone constructible.
+
+
+Les lois d'aménagement qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+
+
+4.1 Loi Littoral
+Commune littorale                                        Non
+
+Distance au rivage                                       Sans objet
+
+Bande des 100 mètres                                     Sans objet
+
+
+La commune n'est pas riveraine de la mer : la loi Littoral ne s'applique pas (sauf rives de grands lacs).
+
+
+4.2 Loi Montagne
+Commune en zone de montagne                              Non
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          17 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+   05              Risques naturels et technologiques
+     DANS CETTE SECTION
+
+     Les risques connus à l'adresse du terrain (inondation, feu de forêt, mouvement de terrain,
+     radon…) et les catastrophes naturelles reconnues sur la commune.
+
+
+Base nationale Géorisques (ministère de la Transition écologique).
+
+
+
+5.1 Risques naturels à l'adresse de la parcelle
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Inondation                                      Non connu                                       Existant
+
+  Remontée de nappe                               Inconnu                                         Existant
+
+  Séisme                                          Existant – modéré                               Existant – modéré
+
+  Mouvement de terrain                            Inconnu                                         Existant
+
+  Retrait-gonflement des                          Non connu                                       Existant – modéré
+  argiles
+
+  Radon                                           Existant – important                            Existant – important
+
+
+
+
+5.2 Risques technologiques
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Installations industrielles                     Non concerné                                    Concerné
+  (ICPE)
+
+  Pollution des sols                              Concerné                                        Concerné
+
+  Rupture de barrage                              Inconnu                                         Concerné
+
+  Risque minier                                   Inconnu                                         Existant
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                    18 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.3 Indicateurs réglementaires
+Zone de sismicité                                        Zone 3 – moderee
+
+Potentiel radon                                          Catégorie 3 (potentiel significatif)
+
+Retrait-gonflement des argiles                           Non connu
+
+Plans de prévention (PPR)                                AZI de la MOINE
+
+
+
+5.4 Arrêtés de catastrophe naturelle
+5 arrêtés de reconnaissance de l'état de catastrophe naturelle concernent la commune.
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Mouvement de Terrain                                                      25/12/1999 au 29/12/1999                       30/12/1999
+
+  Inondations et/ou Coulées de Boue                                         25/12/1999 au 29/12/1999                       30/12/1999
+
+  Mouvement de Terrain                                                      10/08/1983                                     08/01/1984
+
+  Inondations et/ou Coulées de Boue                                         10/08/1983                                     08/01/1984
+
+  Inondations et/ou Coulées de Boue                                         01/04/1983 au 28/04/1983                       18/05/1983
+
+
+
+
+5.5 Installations classées à proximité (moins de 1 km)
+    RJB RECYCLING (ex AUTO DEMOLITION CHOL) · Enregistrement · En fin d'exploitation
+    SARL LE SPHINX · Non ICPE
+    MOREAU DECAPAGE · Enregistrement · En exploitation avec titre
+    COPA · Enregistrement · En exploitation avec titre
+    M. Florent PETIT · Non ICPE
+
+
+5.6 Sites et sols pollués à proximité
+    SARL LE SPHINX · ancien site industriel ou d'activité de service (CASIAS)
+    2 anciens sites industriels ou d'activités de service (CASIAS) recensés
+    Stériles miniers (fiche 85A-M.L.267) · site pollué en cours d'instruction
+    Stériles miniers (fiche 85A-M.L.267) · secteur d'information sur les sols (SIS)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        19 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.7 Rapport officiel Géorisques
+Les risques recensés ci-dessus proviennent des bases officielles de Géorisques, service public d'information
+sur les risques. Le rapport officiel complet peut être édité gratuitement, à tout moment et à jour, à partir de
+l'adresse du terrain sur le site Géorisques.
+
+
+    Éditer le rapport officiel Géorisques
+
+
+Lors d'une vente ou d'une location, le vendeur ou le bailleur doit remettre un état des risques de moins de six mois,
+complété et signé, et l'information sur les sinistres indemnisés au titre des catastrophes naturelles.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                   20 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+   06              Le terrain : accès, relief et réseaux
+     DANS CETTE SECTION
+
+     Les contraintes physiques du terrain : accès à une voie, pente et exposition, assainissement,
+     raccordement à l'électricité et à l'eau, fibre. Ce sont elles qui pèsent le plus sur le coût d'un
+     projet.
+
+
+Voirie (IGN, BD TOPO), altimétrie (IGN, RGE ALTI), règlement de la zone, réseau électrique (Agence ORE) et éligibilité
+internet (Arcep).
+
+
+
+6.1 Accès
+Accès direct à une voie                                  Non identifié
+
+Voie carrossable la plus proche                          Route empierrée · à 33 m
+
+
+     Aucune voie carrossable ne touche la parcelle d'après la BD TOPO. Un terrain enclavé n'est
+     constructible qu'avec un accès suffisant : il faut vérifier l'existence d'une servitude de passage (article
+     682 du Code civil) ou d'un chemin d'exploitation, et son aptitude au passage des véhicules de secours.
+
+
+
+
+6.2 Relief et exposition
+Pente moyenne                                            4%
+
+Exposition                                               Versant orienté nord
+
+Altitude                                                 93 à 99 m
+
+Appréciation                                             Terrain plat ou presque plat
+
+
+
+
+ 99 m
+
+
+
+
+ 92 m
+
+
+           Coupe du terrain dans le sens de la pente · longueur 152 m
+
+
+     Terrassements limités ; pas de surcoût notable lié au relief.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       21 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    La Romagne · AK 5
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.3 Ensoleillement
+Appréciation                                             Très bien ensoleillé
+
+Soleil direct le 21 juin                                 15 h 18 (de 06 h 40 à 21 h 50)
+
+Soleil direct aux équinoxes                              11 h 48 (de 07 h 20 à 19 h 00)
+
+Soleil direct le 21 décembre                             8 h (de 09 h 00 à 16 h 50)
+
+Ensoleillement annuel possible                           4 294 h par an, soit 98 % du maximum à cette latitude
+
+Hauteur du relief vers le sud                            3°
+
+
+ 75°
+
+
+
+ 60°
+
+
+
+ 45°
+
+
+
+ 30°
+
+
+
+ 15°
+
+
+
+ 0°
+                                Est                  Sud-est                    Sud                 Sud-ouest               Ouest
+
+          21 juin          Équinoxes               21 décembre                 Horizon : relief et bâtiments voisins
+
+
+
+       Le relief et les constructions voisines ne masquent presque pas le soleil : le terrain profite de la
+       quasi-totalité de l'ensoleillement possible à cette latitude.
+
+
+
+Ensoleillement mois par mois (le 21 de chaque mois)
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Janvier                         9h                                 8 h 30                                    09 h 00 – 17 h 20
+
+  Février                         10 h 30                            10 h 18                                   08 h 10 – 18 h 20
+
+  Mars                            12 h                               11 h 48                                   07 h 20 – 19 h 00
+
+  Avril                           13 h 42                            13 h 30                                   07 h 30 – 20 h 50
+
+  Mai                             15 h 12                            14 h 48                                   06 h 50 – 21 h 30
+
+  Juin                            15 h 42                            15 h 18                                   06 h 40 – 21 h 50
+
+  Juillet                         15 h 12                            14 h 48                                   07 h 00 – 21 h 40
+
+  Août                            13 h 42                            13 h 18                                   07 h 40 – 20 h 50
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          22 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Septembre                       12 h                               11 h 48                                   08 h 00 – 19 h 40
+
+  Octobre                         10 h 30                            10 h 18                                   08 h 40 – 18 h 50
+
+  Novembre                        8 h 48                             8 h 42                                    08 h 30 – 17 h 00
+
+  Décembre                        8 h 18                             8h                                        09 h 00 – 16 h 50
+
+
+
+Calcul théorique par ciel dégagé, au centre de la parcelle et à hauteur d'homme : course du soleil heure par heure, masque du relief
+sur 6 km (IGN, RGE ALTI) et des bâtiments voisins sur 120 m (IGN, BD TOPO, 2 bâtiments pris en compte). La végétation et les
+constructions récentes ne sont pas prises en compte.
+
+
+6.4 Quel raccordement pour les eaux usées ?
+Raccordement à prévoir                                       Assainissement individuel probable
+
+Zone du PLU                                                  A · Agricole
+
+Zonage d'assainissement                                      Non publié au Géoportail de l'Urbanisme (consultable en mairie)
+
+Réseau collectif sur la commune                              Oui · CHOLET AGGLOMÉRATION · délégation à SUEZ
+
+
+     Le terrain est hors zone urbaine (zone A) : ces secteurs sont rarement desservis par le réseau public.
+     Sauf canalisation existante dans la voie, prévoyez une fosse toutes eaux avec épandage ou une
+     micro-station agréée.
+
+
+
+Ce que dit le règlement de la zone
+Raccordement obligatoire au réseau public d'assainissement pour toute construction rejetant des eaux usées, avec
+l'accord du gestionnaire. En cas d'impossibilité technique de raccordement, assainissement non collectif (individuel
+ou regroupé) conforme à la réglementation (adapté à la pédologie, à la topographie et à l'hydrologie du sol),
+permettant le raccordement ultérieur éventuel au réseau public ; il devra être supprimé à la mise en service du
+réseau. Rejet d'eaux usées non traitées dans le réseau hydrographique ou pluvial interdit. Aucune surface minimale
+de terrain ni étude de sol n'est précisée dans le règlement (la réglementation nationale s'applique, avec contrôle du
+SPANC).
+
+Ce que cela coûte
+Assainissement individuel : 5 000 à 15 000 € selon la filière (détail ci-dessous), plus l'étude de sol à la parcelle (500 à
+1 000 €). Étapes : étude de sol, puis avis favorable du SPANC sur le projet, à joindre à la demande de permis de
+construire. Besoin d'un installateur agréé ? Nous vous mettons en relation : contact@terrenurbanisme.com.
+
+Qui contacter pour obtenir la confirmation
+Service d'assainissement                                     CHOLET AGGLOMÉRATION · exploitant : SUEZ
+
+Mairie                                                       Mairie de La Romagne
+
+Téléphone                                                    02 41 70 32 50
+
+E-mail                                                       mairie@laromagne.fr
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         23 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+    Demandez au service d'assainissement, avec la référence cadastrale, si une canalisation publique passe au droit
+    du terrain, à quelle profondeur, et le montant de la PFAC. Sa réponse écrite vaut attestation de raccordabilité.
+    Certificat d'urbanisme opérationnel (formulaire Cerfa 13410, gratuit) : la mairie y indique officiellement si le
+    terrain est desservi par le réseau d'assainissement.
+    Plan des réseaux : la présence des canalisations enterrées près du terrain peut être vérifiée sur
+    reseaux-et-canalisations.gouv.fr, le guichet unique des réseaux.
+Sources : zonage d'assainissement et règlement (Géoportail de l'Urbanisme) ; services publics d'assainissement (SISPEA, Office
+français de la biodiversité) ; annuaire de l'administration (service-public.fr).
+
+Les solutions d'assainissement individuel
+  FILIÈRE                                    QUAND ELLE CONVIENT                                                           ORDRE DE PRIX
+
+  Fosse toutes eaux et                       Sol perméable, terrain assez grand et peu pentu                               5 000 à 10 000 €
+  épandage
+
+  Filtre à sable                             Sol peu perméable, place suffisante                                           8 000 à 12 000 €
+
+  Micro-station agréée                       Petit terrain ou sol défavorable ; entretien et électricité                   7 000 à 15 000 €
+
+  Filtre compact agréé                       Petit terrain, sans électricité                                               9 000 à 14 000 €
+
+
+
+Ordres de prix indicatifs (fourniture et pose, hors étude de sol et terrassements particuliers). La filière est choisie au vu de l'étude
+de sol et validée par le SPANC.
+
+
+6.5 Électricité et eau potable
+Gestionnaire du réseau                                       Enedis
+
+Réseau basse tension le plus proche                          à environ 130 m (ligne aérienne)
+
+Ligne aérienne la plus proche                                à environ 130 m
+
+Ligne souterraine la plus proche                             à environ 250 m
+
+Poste de transformation le plus proche                       à environ 265 m
+
+Appréciation                                                 Extension importante à prévoir
+
+
+     Le réseau basse tension le plus proche est à environ 130 m. Une extension importante est à prévoir,
+     avec un coût élevé (souvent plus de 10 000 €) et des délais de plusieurs mois.
+
+
+
+Ce qu'il faut vérifier avant d'acheter
+    La capacité du réseau : même un réseau proche peut être saturé (coffret ou câble plein, poste de transformation
+    au maximum). Seule une étude du gestionnaire permet de le savoir ; c'est la cause la plus fréquente de surcoûts
+    imprévus.
+    Électricité : demander au gestionnaire du réseau une étude de raccordement ou un devis à partir de l'adresse et
+    du plan de situation (gratuit). Elle indique le type de raccordement, son coût et son délai.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            24 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+    Eau potable : les plans du réseau d'eau ne sont pas publics. Interroger le service des eaux (coordonnées
+    ci-dessous) sur la présence d'une canalisation au droit du terrain, sa capacité et le coût du branchement, ainsi
+    que sur la défense incendie (borne à moins de 200 m environ).
+    Certificat d'urbanisme opérationnel : la mairie y indique si le terrain est desservi par les réseaux publics (eau,
+    électricité, assainissement) et, à défaut, si et quand ils seront étendus. Un refus de permis peut être fondé sur
+    l'insuffisance des réseaux (article L. 111-11 du Code de l'urbanisme).
+
+Qui contacter
+Service de l'eau potable                                     CHOLET AGGLOMÉRATION
+
+Mode de gestion                                              Délégation de service public à VEOLIA
+
+Contact pour le branchement                                  VEOLIA, pour le compte de : CHOLET AGGLOMÉRATION
+
+Mairie                                                       Mairie de La Romagne
+
+Téléphone de la mairie                                       02 41 70 32 50
+
+E-mail de la mairie                                          mairie@laromagne.fr
+
+Électricité (raccordement)                                   Enedis · demande en ligne sur enedis.fr (raccordement)
+
+La mairie oriente vers le bon interlocuteur et confirme, dans le certificat d'urbanisme, la desserte du terrain par les réseaux.
+Sources : SISPEA, observatoire des services publics d'eau (OFB) ; annuaire de l'administration (service-public.fr).
+
+Dans une promesse de vente, une condition suspensive portant sur le coût du raccordement aux réseaux protège
+l'acquéreur. Source de la cartographie électrique : Agence ORE, données des gestionnaires de réseaux de distribution ;
+tracés indicatifs.
+
+
+6.6 Fibre et internet
+     La fibre est déployée dans le secteur, la plus proche à 208 m (314 Chemin de La Terrelière) : le
+     raccordement d'une construction neuve suppose une extension du réseau, à demander à l'opérateur.
+
+
+
+Adresse la plus proche                                          314 Chemin de La Terrelière · à 208 m · raccordable
+
+Point fibré le plus proche                                      314 Chemin de La Terrelière · à 208 m
+
+Adresses fibrées à moins de 100 m                               Aucune adresse recensée
+
+Adresses fibrées à moins de 400 m                               23 sur 23
+
+Technologies disponibles à proximité                            4G fixe, Fibre, Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      25 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       La Romagne · AK 5
+           TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+     Points fibrés autour du terrain
+                  F
+
+
+
+       F
+
+
+
+
+            F
+
+
+
+
+                                                          F
+                  F
+                                          FF
+                                               FF
+                                      F
+                                  F
+                                                                                                                                       100 m
+
+
+
+Repères F : adresses déclarées raccordables à la fibre (Arcep) · en terracotta : sur la parcelle · fond © IGN
+
+
+Vérifiez la fibre à l'adresse du terrain :
+
+                      Carte fibre Orange                                                                 Carte de l'Arcep
+
+
+  DISTANCE            ADRESSE                                                                  FIBRE              AUTRES ACCÈS
+
+  208 m               314 Chemin de La Terrelière                                              Oui                4G fixe, Satellite
+
+  219 m               120 Chemin de la Peltière                                                Oui                4G fixe, Satellite
+
+  224 m               122 Chemin de la Peltière                                                Oui                4G fixe, Satellite
+
+  232 m               124 Chemin de la Peltière                                                Oui                4G fixe, Satellite
+
+  238 m               118 Chemin de la Peltière                                                Oui                4G fixe, Satellite
+
+  258 m               126 Chemin de la Peltière                                                Oui                4G fixe, Satellite
+
+  268 m               116 Chemin de la Peltière                                                Oui                4G fixe, Satellite
+
+  291 m               207 Chemin de La Terrelière                                              Oui                4G fixe, Satellite
+
+
+
+Source : Arcep, « Ma connexion internet », éligibilité déclarée par les opérateurs, adresse par adresse. Le tracé des câbles n'est
+pas public : la présence de la fibre en limite de terrain se vérifie auprès de l'opérateur ou par une déclaration de projet de travaux
+(DT).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            26 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.7 Qui contacter pour les réseaux
+  RÉSEAU                                    INTERLOCUTEUR                                         CE QU'IL FAUT DEMANDER
+
+  Eau potable et                            Mairie ou service des eaux de la                      Attestation de desserte et conditions de
+  assainissement collectif                  commune                                               raccordement
+
+  Assainissement individuel                 SPANC (communauté de communes)                        Contrôle de conception sur la base de l'étude
+                                                                                                  de sol
+
+  Électricité                               Enedis (gestionnaire du réseau de                     Étude de raccordement et devis
+                                            distribution)
+
+  Fibre et téléphone                        Opérateur d'infrastructure et                         Raccordement du futur logement
+                                            fournisseur d'accès
+
+  Tous réseaux                              Guichet unique des réseaux                            Déclaration de projet de travaux (DT) pour
+                                            (reseaux-et-canalisations.gouv.fr)                    localiser les réseaux existants
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        27 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                               07 · Conditions de vente du terrain
+
+
+
+
+    07             Conditions de vente du terrain
+     DANS CETTE SECTION
+
+     Terrain agricole ou naturel : droit de préemption de la SAFER, fermier en place, autorisation
+     d'exploiter et repère officiel de prix.
+
+
+Terrain situé en zone A : vente encadrée par le code rural et de la pêche maritime.
+
+
+
+7.1 Pourquoi aucune fourchette de prix n'est donnée
+La parcelle est classée en zone A (agricole), où les constructions nouvelles ne sont en principe pas admises.
+Sa valeur ne se déduit pas des ventes de terrains à bâtir du secteur : elle dépend de l'usage agricole ou naturel
+du sol, de sa qualité, de son accès, de l'eau disponible et de l'existence éventuelle d'un bail rural. Une
+estimation automatique serait trompeuse : la valeur doit être établie au cas par cas par un notaire ou un expert
+foncier et agricole.
+
+
+7.2 Le droit de préemption de la SAFER
+Principe                                        La vente d'un terrain agricole ou naturel est en principe soumise au droit de
+                                                préemption de la SAFER (articles L. 143-1 et suivants du code rural et de la
+                                                pêche maritime). Une surface minimale, fixée par département, peut en
+                                                exclure les plus petites parcelles.
+
+Information obligatoire                         Le notaire informe la SAFER du projet de vente au moins deux mois avant la
+                                                signature : prix, conditions et identité de l'acquéreur.
+
+Ce que peut faire la SAFER                      Renoncer, acheter au prix et aux conditions notifiés, ou proposer un prix
+                                                inférieur si elle estime le prix exagéré. Le vendeur peut alors accepter,
+                                                retirer son terrain de la vente ou demander au tribunal judiciaire de fixer le
+                                                prix.
+
+Pourquoi elle intervient                        Installation de jeunes agriculteurs, consolidation des exploitations,
+                                                protection de l'environnement et des paysages, lutte contre la spéculation
+                                                foncière.
+
+
+
+7.3 Les autres règles à connaître
+Fermier en place                                Si le terrain est loué par bail rural, l'exploitant en place bénéficie d'un droit
+                                                de préemption prioritaire, avant la SAFER.
+
+Autorisation d'exploiter                        Un acquéreur qui souhaite exploiter le terrain peut devoir obtenir une
+                                                autorisation d'exploiter auprès de la DDT(M), selon le schéma directeur
+                                                régional des exploitations agricoles.
+
+Espace naturel sensible                         Dans un espace naturel sensible, le département peut également disposer
+                                                d'un droit de préemption.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       28 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                               07 · Conditions de vente du terrain
+
+
+
+
+Constructions                                   Seules les constructions nécessaires à l'exploitation agricole ou forestière,
+                                                ou à des équipements collectifs, sont en règle générale admises : l'achat ne
+                                                donne pas de droit à bâtir une habitation.
+
+
+
+7.4 Repère officiel de prix
+Le ministère de l'Agriculture publie chaque année le barème indicatif de la valeur vénale moyenne des terres
+agricoles, par région agricole et par nature de culture (arrêté publié au Journal officiel). C'est la référence à
+consulter, avec l'avis d'un notaire ou d'un expert foncier et agricole, avant de fixer un prix.
+
+     Avant toute mise en vente, rapprochez-vous de votre notaire : il notifie la vente à la SAFER, vérifie
+     l'existence d'un bail et sécurise le calendrier de la transaction.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       29 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+   08              Environnement et marché immobilier
+     DANS CETTE SECTION
+
+     Les espaces naturels protégés autour du terrain et les prix de vente réels des maisons,
+     appartements et terrains alentour.
+
+
+Inventaire national du patrimoine naturel et demandes de valeurs foncières (DVF).
+
+
+
+8.1 Espaces naturels protégés ou inventoriés
+La parcelle n'est concernée par aucun site Natura 2000, ZNIEFF, parc ou réserve naturelle.
+
+
+8.2 Espèces protégées observées près du terrain
+57 espèces protégées ont été observées dans un rayon de 1 km autour du terrain depuis 1990 ; les 14 plus
+fréquemment signalées figurent ci-dessous.
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Goéland brun (Larus fuscus)                                     Oiseau                 Nationale (espèce et              20 · dernière en
+                                                                                         habitat)                          2019
+
+  Grenouille agile (Rana dalmatina)                               Amphibien              Nationale (espèce et              6 · dernière en
+                                                                                         habitat)                          2022
+
+  Pinson des arbres (Fringilla coelebs)                           Oiseau                 Nationale (espèce et              6 · dernière en
+                                                                                         habitat)                          2022
+
+  Bergeronnette grise (Motacilla alba)                            Oiseau                 Nationale (espèce et              6 · dernière en
+                                                                                         habitat)                          2022
+
+  Lézard des murailles (Podarcis muralis)                         Reptile                Nationale (espèce et              5 · dernière en
+                                                                                         habitat)                          2022
+
+  Rouge-gorge familier (Erithacus                                 Oiseau                 Nationale (espèce et              5 · dernière en
+  rubecula)                                                                              habitat)                          2022
+
+  Fauvette à tête noire (Sylvia atricapilla)                      Oiseau                 Nationale (espèce et              5 · dernière en
+                                                                                         habitat)                          2022
+
+  Grand Capricorne (Cerambyx cerdo)                               Insecte                Nationale (espèce et              5 · dernière en
+                                                                                         habitat)                          2022
+
+  Hirondelle de cheminée (Hirundo                                 Oiseau                 Nationale (espèce et              5 · dernière en
+  rustica)                                                                               habitat)                          2022
+
+  Couleuvre verte et jaune (Hierophis                             Reptile                Nationale (espèce et              4 · dernière en
+  viridiflavus)                                                                          habitat)                          2020
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        30 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Buse commune (Buteo buteo)                                      Oiseau                 Nationale (espèce et              4 · dernière en
+                                                                                         habitat)                          2022
+
+  Héron garde-boeufs (Bubulcus ibis)                              Oiseau                 Nationale (espèce et              4 · dernière en 2021
+                                                                                         habitat)
+
+  Crapaud commun (Bufo bufo)                                      Amphibien              Nationale                         4 · dernière en
+                                                                                                                           2022
+
+  Troglodyte mignon (Troglodytes                                  Oiseau                 Nationale (espèce et              4 · dernière en
+  troglodytes)                                                                           habitat)                          2022
+
+
+
+     Une observation à proximité ne signifie pas que l'espèce vit sur le terrain. Mais si elle y est présente, il
+     est interdit de détruire, capturer ou déranger les individus et, pour la plupart de ces espèces, de
+     détruire leurs lieux de reproduction et de repos (articles L. 411-1 et suivants du Code de
+     l'environnement). L'infraction est punie de 3 ans d'emprisonnement et 150 000 € d'amende.
+
+
+
+Que faire avant de construire ?
+    Pour une maison individuelle, aucune étude écologique n'est imposée en règle générale, et l'étude de sol porte
+    sur le terrain (fondations), pas sur la faune ni la flore. Vous restez cependant responsable si une espèce
+    protégée vit sur la parcelle : en cas de doute (espèce observée tout près, vieux arbres, murets, maquis, zone
+    humide), faites passer un écologue avant de défricher.
+    Si un enjeu est confirmé : inventaire faune-flore aux saisons utiles (printemps et été en général), puis mesures
+    pour éviter et réduire l'impact : implantation de la maison sur la partie la moins sensible, travaux hors période de
+    reproduction, clôture de chantier adaptée, déplacement d'individus par un spécialiste habilité.
+    Si la destruction d'individus ou d'habitats ne peut pas être évitée : demande de dérogation « espèces protégées »
+    auprès de la préfecture (DREAL), avec avis du conseil scientifique. Comptez 4 à 12 mois d'instruction, à anticiper
+    avant le dépôt du permis.
+
+Combien prévoir ?
+Pré-diagnostic écologique                                800 à 2 000 € (une visite et une note de synthèse)
+
+Inventaire faune-flore                                   3 000 à 10 000 € selon la surface et le nombre de passages
+
+Mesures d'évitement et de réduction                      500 à 5 000 € (balisage, calendrier, suivi de chantier)
+
+Dossier de dérogation                                    8 000 à 25 000 €, hors mesures de compensation éventuelles
+
+Ordres de prix indicatifs, honoraires de bureaux d'études en environnement, si une étude est nécessaire. Pour une maison sur un
+terrain déjà entouré de constructions, aucune étude n'est le plus souvent requise.
+
+Sources : statuts de protection TAXREF et base de connaissance des statuts (INPN, Muséum national d'Histoire naturelle) ;
+observations naturalistes GBIF, qui rassemble notamment les données de l'INPN et du SINP.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        31 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+8.3 Prix de l'immobilier à La Romagne
+Prix au mètre carré des ventes enregistrées sur la commune au cours des cinq dernières années publiées.
+Seules les ventes portant sur un bien unique sont retenues.
+
+  TYPE DE BIEN                                       VENTES                       €/M² MÉDIAN                              €/M² MOYEN
+
+  Maisons                                            96                           1 843 €/m²                               1 814 €/m²
+
+  Locaux commerciaux                                 3                            171 €/m²                                 1 115 €/m²
+
+
+
+Source : statistiques des demandes de valeurs foncières (DGFiP, Etalab). Prix des actes, hors frais : un ordre de grandeur,
+pas une estimation du bien.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              32 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                                               09 · Historique du site
+
+
+
+
+   09              Historique du site
+     DANS CETTE SECTION
+
+     Le terrain vu du ciel au fil des décennies et les permis de construire accordés autour : l'évolution
+     du secteur en un coup d'œil.
+
+
+Photographies aériennes de l'IGN et permis de construire délivrés (Sitadel).
+
+
+
+9.1 Le terrain vu du ciel, d'hier à aujourd'hui
+
+    1950-1965                                             1980-1995                                              2000-2005
+
+
+
+
+    2006-2010                                             2011-2015                                              Aujourd'hui
+
+
+
+
+Ces vues montrent l'évolution du terrain et du quartier, des années 1950 à aujourd'hui (photographies aériennes de l'IGN).
+
+     Bon à savoir : l'existence ancienne d'une construction peut ouvrir, sous conditions, un droit à
+     reconstruire ou à restaurer un bâtiment dont il reste l'essentiel des murs porteurs (articles L. 111-15 et L.
+     111-23 du Code de l'urbanisme).
+
+
+
+
+9.2 Permis de construire délivrés autour du terrain
+Autorisations sur la commune (3 ans)                                    15 · dernière recensée le 17/09/2026
+
+Logements autorisés (3 ans)                                             15
+
+Dont maisons individuelles                                              15
+
+Autorisations dans la section AK                                        0 depuis 2013
+
+
+Source : base Sitadel des autorisations d'urbanisme créant des logements (SDES). Un permis accordé à proximité montre
+que des constructions ont été admises dans le secteur, sans préjuger de la décision sur votre propre projet.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           33 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                              10 · Opportunités autour du terrain
+
+
+
+
+    10             Opportunités autour du terrain
+     DANS CETTE SECTION
+
+     Ce qui se passe autour de la parcelle : grands terrains peu bâtis, sociétés propriétaires en
+     difficulté, logements énergivores. Des pistes pour un investisseur, un voisin ou un professionnel.
+
+
+Bodacc (procédures collectives), ADEME (diagnostics énergétiques), cadastre, BD TOPO et Géoportail de l'Urbanisme.
+
+
+
+10.1 Grands terrains peu bâtis à proximité
+Parcelles de plus de 1 200 m², situées en zone urbaine ou à urbaniser du PLU, dans un rayon de 250 m, dont
+moins de 8 % de la surface est bâtie, hors terrains publics : un potentiel de construction ou de division à
+étudier.
+
+  PARCELLE           SURFACE                BÂTI               ZONE               DISTANCE           PROPRIÉTAIRE
+
+  AH 137             6 701 m²               non bâti           UY                 280 m              particulier (non publié)
+
+
+
+Ces informations proviennent de bases publiques et ne préjugent ni de l'intention de vendre des propriétaires ni de la
+constructibilité des parcelles citées, qui relève d'une étude au cas par cas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      34 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   La Romagne · AK 5
+           TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+      11           Votre projet, étape par étape
+De l'achat du terrain à la déclaration aux impôts : démarches, délais, coûts et contacts.
+
+
+
+11.1 Analyse
+Le terrain est soumis au plan local d'urbanisme intercommunal (PLUi) de La Romagne. Il est classé en
+zone A. Zone agricole : secteur protégé en raison du potentiel agronomique, biologique ou économique
+des terres. Seules y sont admises les constructions et installations nécessaires à l'exploitation agricole
+et aux services publics, ainsi que l'extension limitée des habitations existantes.
+
+En l'état, une construction nouvelle n'est pas possible. Seules des évolutions limitées peuvent être
+envisagées selon le règlement de la zone (extension mesurée d'une habitation existante, annexes,
+équipements publics). Le classement ne peut évoluer qu'à l'occasion d'une modification ou d'une révision
+du document d'urbanisme, à l'initiative de la commune.
+
+
+11.2 Votre projet, étape par étape
+Les étapes ci-dessous suivent l'ordre réel d'un projet de construction, de l'achat du terrain à la déclaration aux
+impôts. Les montants sont indicatifs et à confirmer par devis.
+
+  1      Avant d'acheter le terrain
+         Vérifiez les règles de la zone (chapitres précédents), puis demandez un certificat d'urbanisme opérationnel
+         (Cerfa 13410, sans frais, réponse sous 2 mois) : il fige les règles pendant 18 mois. En zone d'argiles d'aléa
+         moyen ou fort, le vendeur doit fournir une étude de sol préalable.
+         Contact : Mairie de La Romagne · 02 41 70 32 50 · mairie@laromagne.fr · formulaire sur service-public.fr (rechercher
+         « Cerfa 13410 »)
+
+  2      Les études
+         Étude de sol géotechnique (G2) pour dimensionner les fondations : 1 500 à 3 000 €. Étude thermique RE2020,
+         obligatoire pour le permis : 500 à 1 500 €. Bornage par un géomètre si les limites sont incertaines. L'étude de
+         sol ne porte pas sur les espèces protégées : un écologue n'intervient qu'en cas d'enjeu (chapitre
+         Environnement).
+         Géomètres proches du terrain : liste à la fin de ce chapitre
+
+  3      Les plans
+         Architecte obligatoire si la surface de plancher totale dépasse 150 m². En dessous, vous pouvez dessiner les
+         plans vous-même ou faire appel à un dessinateur ou maître d'œuvre (environ 1 500 à 4 000 € le dossier de
+         permis). Architecte : 3 000 à 8 000 € pour la seule mission de permis, 8 à 12 % du coût des travaux pour une
+         mission complète avec suivi du chantier.
+         Trouver un architecte : annuaire de l'Ordre des architectes sur architectes.org
+
+  4      Déposer le permis
+         Formulaire Cerfa 13406 (maison individuelle) et pièces PCMI1 à PCMI8 : plan de situation, plan de masse,
+         coupe, notice, plans des façades et toitures, insertion dans le paysage, photos, attestation RE2020. Dépôt en
+         mairie ou en ligne sur le guichet numérique de la commune. La mairie a 1 mois pour réclamer une pièce
+         manquante ; l'instruction dure 2 mois à partir du dossier complet, plus en secteur protégé.
+         Dépôt : Mairie de La Romagne · 02 41 70 32 50 · mairie@laromagne.fr · formulaire sur service-public.fr (rechercher «
+         Cerfa 13406 »)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         35 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+  5      Affichage et recours
+         Dès l'accord, installez le panneau de permis sur le terrain, lisible depuis la voie, pendant toute la durée du
+         chantier. Les tiers ont 2 mois à compter du premier jour d'affichage pour contester ; la mairie peut retirer un
+         permis illégal pendant 3 mois. Faites constater l'affichage par un commissaire de justice (environ 300 à 600 €
+         pour les trois constats).
+         Commissaires de justice : annuaire sur commissaire-justice.fr
+
+  6      Avant les travaux
+         Souscrivez l'assurance dommages-ouvrage, obligatoire (souvent 2 à 4 % du coût de la construction). Signez
+         le contrat de construction de maison individuelle ou les marchés des artisans. Déposez la déclaration
+         d'ouverture de chantier (Cerfa 13407) le jour du démarrage. Le permis est valable 3 ans, prorogeable deux
+         fois d'un an.
+         Déclaration d'ouverture : Mairie de La Romagne · 02 41 70 32 50 · mairie@laromagne.fr
+
+  7      Le financement
+         La banque débloque le prêt au fur et à mesure du chantier, sur présentation des factures des entreprises ou
+         des appels de fonds du constructeur. Avec un contrat de construction de maison individuelle, l'échéancier
+         est encadré par la loi : 15 % à l'ouverture du chantier, 25 % aux fondations, 40 % aux murs, 60 % hors d'eau,
+         75 % hors d'air et cloisons, 95 % aux équipements, le solde à la réception. Des intérêts intercalaires peuvent
+         courir sur les sommes débloquées.
+         Votre banque ou votre courtier
+
+  8      La fin du chantier
+         Réception des travaux avec le constructeur ou les artisans, avec réserves si nécessaire. Déposez ensuite la
+         déclaration attestant l'achèvement et la conformité des travaux (DAACT, Cerfa 13408), avec l'attestation
+         RE2020 de fin de chantier. La mairie a 3 mois pour la contester (5 mois en secteur protégé).
+         Dépôt : Mairie de La Romagne · 02 41 70 32 50 · mairie@laromagne.fr
+
+  9      Les impôts
+         Dans les 90 jours suivant l'achèvement, déclarez la construction sur impots.gouv.fr, espace « Gérer mes
+         biens immobiliers ». Cette déclaration sert au calcul de la taxe d'aménagement (payée en une fois sous 1 500
+         €, sinon en deux fois, estimation plus bas dans ce chapitre) et de la taxe foncière, avec une exonération
+         possible les deux premières années selon la commune.
+         impots.gouv.fr › Espace particulier › Gérer mes biens immobiliers
+
+
+11.3 Les points à vérifier pour ce terrain
+  1      Certificat d'urbanisme opérationnel
+         Le demander en mairie (formulaire Cerfa 13410), en décrivant le projet. Gratuit, il indique si le terrain
+         peut accueillir le projet et fige les règles d'urbanisme pendant 18 mois.
+
+  2      Règlement de la zone
+         Lire le règlement écrit de la zone A et, le cas échéant, les orientations d'aménagement, disponibles sur
+         le Géoportail de l'Urbanisme.
+
+  3      Réseaux et accès
+         Vérifier l'accès à une voie publique ou privée adaptée, la desserte en eau potable et en électricité, et le
+         mode d'assainissement. En l'absence de réseau collectif, une étude de sol et l'avis du service public
+         d'assainissement non collectif (SPANC) sont nécessaires.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         36 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+  4      Bornage
+         Faire réaliser un bornage par un géomètre-expert pour fixer les limites exactes et la surface réelle du
+         terrain.
+
+  5      Sécuriser un achat
+         Pour une acquisition, prévoir dans le compromis une condition suspensive d'obtention d'un permis de
+         construire purgé de tout recours.
+
+
+11.4 Délais indicatifs d'instruction
+  DEMANDE                                                                                 DÉLAI DE DROIT COMMUN
+
+  Certificat d'urbanisme d'information (CUa)                                              1 mois
+
+  Certificat d'urbanisme opérationnel (CUb)                                               2 mois
+
+  Déclaration préalable                                                                   1 mois
+
+  Permis de construire une maison individuelle                                            2 mois
+
+  Permis d'aménager, autres permis de construire                                          3 mois
+
+
+
+Ces délais peuvent être majorés, notamment en site classé ou inscrit, aux abords d'un monument historique ou lorsque la
+consultation d'un service extérieur est nécessaire.
+
+
+11.5 Taxe d'aménagement à prévoir
+      Exemple : une maison de 120 m² en résidence principale, avec une piscine de 3 × 6 m. Sur ce terrain, la
+      taxe d'aménagement à prévoir est d'environ 3 010 €.
+
+
+
+  PROJET                                                                                                       TAXE ESTIMÉE
+
+  Maison de 120 m², résidence principale                                                                       2 810 €
+
+  Piscine de 3 × 6 m (18 m²)                                                                                   200 €
+
+  Total à prévoir                                                                                              3 010 €
+
+
+
+Taux appliqués : 2 % pour la commune et 2,5 % pour le département, sur une valeur forfaitaire de 892 € par m² en 2026 (251
+€ par m² de bassin pour une piscine). Une résidence principale bénéficie d'un abattement de 50 % sur ses 100 premiers m².
+
+La taxe est due une fois les travaux terminés : elle se déclare sur impots.gouv.fr dans les 90 jours suivant l'achèvement, et
+se paie en deux fois au-delà de 1 500 €. Pour calculer votre propre projet :
+terrenurbanisme.com/outils/taxe-amenagement.html
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         37 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+11.6 Implanter une entreprise : zone France Ruralités Revitalisation
+     La commune de La Romagne n'est pas classée en zone France Ruralités Revitalisation (FRR). Une
+     entreprise qui s'y installe ne bénéficie pas de l'exonération d'impôt sur les bénéfices liée à ce zonage.
+
+
+
+Source : ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 (collectivites-locales.gouv.fr).
+
+
+11.7 Géomètres proches du terrain
+Le géomètre-expert est le seul professionnel habilité à fixer les limites de propriété (bornage) et à établir les
+documents d'arpentage déposés au cadastre. Il intervient aussi pour les relevés topographiques et les
+divisions de terrain.
+
+9,6 km            AIR GEO AMENAGEMENT INGENIERIE REALISATION GEOMETRES -EXPERT
+                                                                      Coordonnées
+                  18 RUE DU DEVAU 49300 CHOLET
+
+
+9,6 km            PATRICK MAIORE
+                                                                                                                           Coordonnées
+                  18 RUE DU DEVAU 49300 CHOLET
+
+
+9,6 km            BENOIT JOUCK
+                                                                                                                           Coordonnées
+                  BP 204 18 RUE DU DEVAU 49300 CHOLET
+
+
+9,6 km            FREDERIC BAISIEUX
+                                                                                                                           Coordonnées
+                  18 RUE DU DEVAU 49300 CHOLET
+
+
+10,6 km           SELARL GEOMOTIS
+                                                                                                                           Coordonnées
+                  33 RTE DE LA TESSOUALLE 49300 CHOLET
+
+
+22,9 km           SELARL GEOMOTIS
+                                                                                                                           Coordonnées
+                  1 RUE SAINT NICOLAS 49110 MONTREVAULT-SUR-EVRE
+
+
+Source : répertoire Sirene de l'INSEE (activité des géomètres), classé par distance au terrain. L'inscription d'un cabinet à l'Ordre
+des géomètres-experts se vérifie sur geometre-expert.fr. Le bouton « Coordonnées » ouvre la fiche du cabinet (téléphone,
+horaires, itinéraire). Cette liste est fournie à titre indicatif, sans partenariat ni recommandation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         38 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                           12 · État des risques (ERP) pré-rempli
+
+
+
+
+    12             État des risques (ERP) pré-rempli
+     DANS CETTE SECTION
+
+     Le formulaire réglementaire à remettre à l'acquéreur ou au locataire, pré-rempli à partir des
+     bases officielles : plans de prévention, sismicité, radon, sols pollués, trait de côte, bruit des
+     aérodromes.
+
+
+Articles L. 125-5 à L. 125-7 et R. 125-23 à R. 125-27 du Code de l'environnement · modèle fixé par l'arrêté du 27 septembre
+2022.
+
+
+     Formulaire pré-rempli à partir de Géorisques et du Géoportail de l'Urbanisme à la date du rapport.
+     Avant de le remettre à l'acquéreur ou au locataire, le vendeur ou le bailleur le vérifie, le complète
+     (sinistres indemnisés) et le signe ; il doit dater de moins de six mois à la signature de la promesse, du
+     bail ou de l'acte.
+
+
+
+
+12.1 Situation du bien
+Commune                                                  La Romagne (49260)
+
+Département                                              Maine-et-Loire (49)
+
+Références cadastrales                                   Section AK, parcelle n° 5 · 49260000AK0005
+
+Surface cadastrale                                       7 929 m²
+
+
+
+12.2 Plans de prévention des risques
+  L'IMMEUBLE EST SITUÉ DANS LE PÉRIMÈTRE…                                         RÉPONSE                DÉTAIL
+
+  d'un plan de prévention des risques naturels (PPRN)                             Non                    Aucun plan recensé sur la parcelle
+  prescrit, appliqué par anticipation ou approuvé
+
+  d'un plan de prévention des risques miniers (PPRM)                              Non                    Non recensé
+
+  d'un plan de prévention des risques technologiques                              Non                    Risques technologiques sur la commune
+  (PPRT)                                                                                                 : installations industrielles (icpe),
+                                                                                                         pollution des sols, rupture de barrage
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         39 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                           12 · État des risques (ERP) pré-rempli
+
+
+
+
+12.3 Autres zonages réglementaires
+  L'IMMEUBLE EST SITUÉ…                                                           RÉPONSE                DÉTAIL
+
+  dans une commune de sismicité (zones 2 à 5 : règles de                          Oui                    Zone 3 – moderee
+  construction parasismique)
+
+  dans une commune à potentiel radon de niveau 3                                  Oui                    Catégorie 3 (potentiel significatif)
+
+  dans un secteur d'information sur les sols (SIS)                                À vérifier             SIS recensé à proximité : Stériles
+                                                                                                         miniers (fiche 85A-M.L.267). Vérifier
+                                                                                                         l'arrêté préfectoral.
+
+  dans une zone exposée au recul du trait de côte                                 Non                    Non concerné selon Géorisques
+
+  dans une zone de bruit d'un plan d'exposition au bruit                          À vérifier             Aucun PEB annexé au document
+  d'aérodrome (PEB)                                                                                      d'urbanisme ; vérifier auprès de la mairie
+
+  dans une zone de retrait-gonflement des argiles                                 Oui                    Non connu
+  (information)
+
+
+
+
+12.4 Sinistres indemnisés et déclarations
+Arrêtés de catastrophe naturelle sur la commune : 5 (liste en section Risques). Le vendeur ou le bailleur
+déclare ci-dessous les sinistres ayant donné lieu à une indemnisation au titre des catastrophes naturelles ou
+technologiques pendant la période où il a été propriétaire.
+
+Sinistres indemnisés                                     [ ] Oui [ ] Non
+
+Vendeur ou bailleur                                      Nom : ____________________ Date : ___/___/______ Signature :
+
+Acquéreur ou locataire                                   Nom : ____________________ Date : ___/___/______ Signature :
+
+
+L'état des risques officiel peut aussi être édité gratuitement sur Géorisques (errial.georisques.gouv.fr). Les informations
+ci-dessus sont établies à partir des bases nationales ; en cas de divergence, l'arrêté préfectoral relatif à l'information des
+acquéreurs et des locataires fait foi.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            40 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                                      13 · Avertissement et sources
+
+
+
+
+    13             Avertissement et sources
+     DANS CETTE SECTION
+
+     La portée de ce rapport et la liste des sources publiques consultées.
+
+
+
+13.1 Nature du document
+Ce rapport est un document d'information établi automatiquement, à la date indiquée en page de garde, à
+partir des données publiques officielles alors disponibles. Il n'a aucune valeur contractuelle, réglementaire ou
+juridique.
+
+
+13.2 Ce que ce rapport n'est pas
+Il ne constitue ni un certificat d'urbanisme au sens de l'article L. 410-1 du Code de l'urbanisme, ni une
+autorisation d'urbanisme (permis de construire, permis d'aménager, déclaration préalable), ni un état des
+risques au sens de l'article L. 125-5 du Code de l'environnement, ni un bornage, ni une expertise, ni une
+évaluation immobilière, ni une consultation juridique. Il n'engage en rien l'administration.
+
+
+13.3 Permis de construire
+Ce rapport ne peut en aucun cas être joint, produit ou invoqué à l'appui d'une demande de permis de
+construire, de permis d'aménager ou de déclaration préalable, ni opposé à la mairie ou à un service de l'État. Il
+ne garantit pas l'obtention d'une autorisation : seule l'autorité compétente se prononce, au vu d'un projet
+précis et de l'ensemble des règles applicables à la date de sa décision.
+
+
+13.4 Limites des données
+Les données sont produites par des organismes publics dont l'éditeur n'est ni l'auteur ni le garant. Elles
+peuvent être incomplètes, imprécises ou ne pas refléter une modification, une révision, une mise en
+compatibilité, une annulation contentieuse, un sursis à statuer ou une procédure en cours. Le plan cadastral,
+document fiscal, ne fait pas foi des limites de propriété. Surfaces, distances, altitudes et pentes sont
+approchées. Les extraits et analyses du règlement sont une aide à la lecture : seul le texte intégral du
+document d'urbanisme approuvé, consultable en mairie, fait foi.
+
+
+13.5 Avant toute décision
+Avant toute acquisition, cession, financement, promesse de vente ou dépôt d'une demande, le lecteur doit
+obtenir un certificat d'urbanisme opérationnel auprès de la mairie, consulter le document d'urbanisme en
+vigueur et recueillir l'avis d'un professionnel habilité (notaire, architecte, géomètre-expert, avocat). Pour un
+achat, il est recommandé de stipuler une condition suspensive d'obtention d'un permis de construire purgé de
+tout recours.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         41 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                                      13 · Avertissement et sources
+
+
+
+
+13.6 Responsabilité
+L'éditeur ne saurait être tenu responsable d'une décision prise sur le seul fondement de ce rapport, ni d'un
+refus d'autorisation, d'une erreur ou d'une omission des sources publiques, dans les limites prévues par les
+conditions générales de vente acceptées lors de la commande.
+
+
+13.7 Sources consultées
+  DONNÉE                                                    SOURCE
+
+  Cadastre                                                  DGFiP, plan cadastral informatisé, via API Carto (IGN)
+
+  Photographies et plans                                    IGN, Géoplateforme : orthophotographies, Plan IGN, parcellaire express
+
+  Urbanisme                                                 Géoportail de l'Urbanisme : zonage, prescriptions, informations, servitudes
+                                                            d'utilité publique
+
+  Littoral                                                  IGN, BD TOPO (limite terre-mer) ; communes littorales (Géoportail de
+                                                            l'Urbanisme)
+
+  Montagne                                                  Ministère de la Cohésion des territoires, communes de la loi Montagne
+
+  Risques                                                   Géorisques (ministère de la Transition écologique) : rapport de risques,
+                                                            arrêtés CatNat, sismicité, radon, ICPE, sites pollués
+
+  Environnement                                             Inventaire national du patrimoine naturel (PatriNat), via API Carto
+
+  Altitude, pente et exposition                             IGN, RGE ALTI
+
+  Ensoleillement                                            Calcul astronomique de la course du soleil ; masque du relief (IGN, RGE
+                                                            ALTI) et des bâtiments (IGN, BD TOPO)
+
+  Voirie et accès                                           IGN, BD TOPO (tronçons de route)
+
+  Permis de construire                                      Sitadel, service des données et études statistiques (SDES) du ministère
+                                                            chargé du logement
+
+  Photographies anciennes                                   IGN, BD ORTHO historique
+
+  Fibre et internet                                         Arcep, Ma connexion internet (éligibilité par adresse)
+
+  Géomètres                                                 Répertoire Sirene (INSEE), activité des géomètres
+
+  Propriétaires personnes morales                           DGFiP, fichiers des parcelles des personnes morales (diffusion Koumoul)
+
+  Diagnostics énergétiques                                  ADEME, base des DPE des logements existants
+
+  Procédures collectives                                    Bodacc, annonces commerciales (DILA)
+
+  Bâtiments                                                 IGN, BD TOPO
+
+  Réseau électrique                                         Agence ORE (gestionnaires de réseaux de distribution : Enedis, EDF Corse
+                                                            et entreprises locales) : réseau basse tension et postes de distribution
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         42 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                                      13 · Avertissement et sources
+
+
+
+
+  DONNÉE                                                    SOURCE
+
+  Taxe d'aménagement                                        DGFiP, éléments de taxation votés par les collectivités ; valeurs forfaitaires
+                                                            fixées par arrêté
+
+  Rapport officiel de risques                               Géorisques, ministère chargé de l'environnement
+
+  Zone France Ruralités Revitalisation                      ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 ; article
+                                                            44 quindecies A du code général des impôts
+
+  Marché immobilier                                         Statistiques des demandes de valeurs foncières (DVF) par commune, DGFiP
+                                                            et Etalab
+
+  Date d'extraction                                         20/11/2026
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        43 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  La Romagne · AK 5
+         TerrenUrbanisme
+                                                                                                                     Annexe · règlement de la zone
+
+
+
+
+ANNEXE
+
+
+Règlement écrit · zone A
+Les pages suivantes reproduisent le chapitre du règlement officiel applicable à la zone de la parcelle
+(pages 82 à 90 du document approuvé), tel que publié sur le Géoportail de l'Urbanisme. Il s'agit d'une
+reproduction à titre d'information : seule la version approuvée tenue à disposition en mairie fait foi, avec
+ses annexes, plans et éventuelles modifications ultérieures.
+Règlement complet :
+https://data.geopf.fr/annexes/gpu/documents/DU_200071678/29b23d3b6ceb48c120ea5de37d520275/200071678_reglement_
+20261013.pdf
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       44 / 54
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+Chapitre 12 : Les dispositions spécifiques à la
+                    zone A
+
+
+
+
+   Préambule informatif, extrait du rapport de présentation :
+   La zone A correspond à des secteurs équipés ou non, à protéger en raison
+   du potentiel agronomique, biologique ou économique des terres agricoles. La
+   zone A permet la pérennité des activités et pratiques agricoles, ainsi que la
+   diversification des activités agricoles. Elle comprend plusieurs sous-sec-
+   teurs :
+       •   Ap : Secteur à dominante agricole, présentant des enjeux paysagers
+           ou environnementaux
+       •   Ar : Secteur à dominante agricole au sein desquels les essais radioé-
+           lectriques des entreprises Thalès sont autorisés
+       •   Av : Secteur à dominante agricole, présentant des enjeux viticoles
+
+
+
+
+                                                                                   82
+                    PLUi-H Cholet Agglomération – Règlement écrit – Février 2026
+                  ARTICLE A-2. INTERDICTION ET LIMITATION DE CERTAINS USAGES ET AF-
+                                  FECTATIONS DES SOLS, CONSTRUCTIONS ET ACTIVITÉS
+Au sein des destinations et sous-destinations autorisées au sein de l’article A-1, sont interdits les usages et activités suivants :
+
+     •    Les constructions nouvelles relevant de la sous-destination « logement » à usage de logements nouveaux ;
+     •    Les constructions, installations, aménagements dès lors qu'elles sont jugées incompatibles avec l'exercice d'une activité
+          agricole ou pastorale du terrain sur lequel elles sont implantées ou qu'elles portent atteinte à la sauvegarde des espaces
+          naturels et des paysages ;
+     •    L’implantation de résidences mobiles et d’habitations légères de loisirs ;
+     •    L’implantation de terrains de camping et le stationnement des caravanes quelle qu’en soit la durée sauf pour l’hivernage
+          pour le particulier ;
+     •    Les dépôts de véhicules et garages collectifs de caravanes ou de résidences mobiles de loisirs ;
+     •    Le stockage extérieur et le dépôt, visible depuis l’espace public, de combustibles, ferrailles, déchets ou matériaux de cons-
+          truction ainsi que les véhicules sous forme d’épaves ; Ne sont pas concernés les installations de stockage des déchets
+          inertes ou les dépôts de matériaux autorisés au sein des zones de carrière identifiées au règlement graphique (voir disposi-
+          tions générales du présent règlement)
+     •    Les aménagements ou constructions qui sont incompatibles avec les « OAP » du présent PLUiH.
+
+Au sein du secteur Ap uniquement :
+    • Sont interdits les usages et activités listés ci-dessus ;
+    • Sont également interdites :
+             o Les constructions nouvelles relevant de la sous-destination « exploitation agricole » ayant pour effet la création de
+                  nouveaux sièges d’exploitation agricole ou viticole ;
+             o Les constructions nouvelles relevant de la sous-destination « exploitation agricole » à vocation de diversification
+                  des activités agricoles.
+             o Les CUMA et les méthaniseurs portés par plusieurs agriculteurs.
+
+Au sein du secteur Av uniquement :
+    • Sont interdits les usages et activités listés ci-dessus ;
+    • Sont également interdites :
+             o Les constructions nouvelles relevant de la sous-destination « exploitation agricole » à vocation de diversification
+                  des activités agricoles.
+             o Les CUMA et les méthaniseurs portés par plusieurs agriculteurs.
+
+           ARTICLE A-3. USAGES, AFFECTATIONS DES SOLS, ACTIVITÉS, CONSTRUC-
+          TIONS SOUMISES A CONDITION SPÉCIALE AU SEIN DES DESTINATIONS ET/OU
+                             SOUS DESTINATIONS SUSVISÉES
+Au sein des destinations et sous-destinations autorisées au sein de l’article A-1, les constructions, installations ou aménagements
+autorisés doivent répondre aux conditions de volumétrie et d’implantation décrites au sein de l’article A-5.
+Les constructions et installations nécessaires aux services publics ou d’intérêt collectif sont autorisées dans l’ensemble de la zone,
+(sous-secteurs compris s’il y en a). Les travaux de maintenance ou de modification de ces ouvrages sont également autorisés pour
+des exigences fonctionnelles et/ou techniques.
+Au sein de la zone A uniquement :
+     •    Les constructions d’abris pour animaux, non liées au siège d’une exploitation agricole sont admises, sous réserve de :
+               o Ne pas déjà en avoir d’implanter sur l’unité foncière ;
+               o Présenter une structure démontable permettant un retour à l’état naturel du site ;
+               o Être non closes ;
+Au sein de la sous-destination « exploitation agricole » :
+     •    Les constructions si elles sont liées et nécessaires à l’activité des exploitations agricoles (constructions nécessaires à
+          l’exploitation, serres démontables, tunnels plastiques, installations nécessaires à l’irrigation des terres agricoles, …etc.) sont
+          admises sous réserve d’une bonne intégration dans l’environnement et dans le paysage.
+     •    Les constructions et activités liées et nécessaires aux coopératives d’utilisation de matériel agricole (CUMA) sont admises ;
+
+                                                                                                                                 84
+                                     PLUi-H Cholet Agglomération – Règlement écrit – Février 2026
+     •    Les projets de méthaniseur uniquement s’ils sont liés et nécessaires à l’activité des exploitations agricoles, portés par un
+          agriculteur ou plusieurs (si regroupement en coopérative).
+     •    Les affouillements et exhaussements liés à une activité agricole
+     •    Les constructions à usage de logements (assimilées à des « logements de fonction ») devront respecter les conditions
+          suivantes :
+               o Le pétitionnaire doit justifier de la nécessité d’une permanence sur place, que ce soit pour une production animale
+                    ou végétale.
+               o Le type de production doit correspondre à une activité agricole d’élevage ou autres activités agricoles qui néces-
+                    sitent une présence permanente sur l’exploitation agricole (surveillance, vêlage, traite…).
+                    A titre informatif : C’est à l’exploitant d’apporter les éléments objectifs, mesurables et comparables, de la nécessité
+                    d’un logement de fonction.
+               o L’activité agricole concernée doit être une activité à temps plein.
+               o Le logement ne peut être envisagé que pour un exploitant en activité, et non pour sa retraite. Le logement doit
+                    répondre à un besoin qui s’inscrit dans la durée.
+               o Concernant le nombre de logements pouvant être admis :
+                          ▪ Dans les exploitations non sociétaires : un seul logement peut être admis.
+                          ▪ Dans les exploitations sociétaires peuvent être admis :
+                                     • En présence d’élevage : jusqu’à deux logements par site d’activités qui justifient une présence
+                                           permanente ;
+                                     • En l’absence d’élevage : un seul logement par site d’activités.
+               o En cas de création d’une nouvelle exploitation agricole, l’édification du logement ne peut intervenir que postérieu-
+                    rement à l’édification des bâtiments d’exploitation.
+               o La parcelle détachée pour le logement ne doit pas dépasser une superficie de 700m².
+                    L’implantation du logement ne doit pas avoir pour effet de gêner l’exploitation agricole présente et future (A titre
+                    d’exemple : ne pas implanter le logement au milieu de la parcelle).
+
+     •    Les activités qui s’inscrivent dans le prolongement de l’acte de production et qui constituent l’accessoire de l’activité
+          agricole peuvent être admises, sous réserve de respecter les dispositions suivantes :
+               o Les activités d’hébergement, de restauration, d’accueil de groupes, de camping à la ferme…. (Gîte,
+                     chambre d’hôtes, ferme auberge, salle d’accueil de groupes…) sont autorisées uniquement par la valorisation du
+                     bâti existant, l’aménagement d’habitation ou le changement de destination des bâtiments.
+               o L’activité de vente directe de produits agricoles peut être autorisée, soit dans du bâti existant ou dans une
+                     construction neuve, sous réserve que :
+                           ▪ Les produits commercialisés proviennent exclusivement de l’exploitation,
+                           ▪ Le projet soit implanté à proximité d’une exploitation existante.
+
+Au sein de la sous-destination « logement » :
+     •    Les extensions mesurées et les annexes des logements existants sont admises sous réserve d’une bonne intégration dans
+          l’environnement et de ne pas conduire à la création d’un logement supplémentaire. Les annexes et extensions à l’habitat
+          sont autorisées même si l’habitation existante, implantée sur la même unité foncière, se situe dans une autre zone du PLUiH.
+          Les changements de destination de bâtiments existants vers la sous-destination « logement » sont uniquement admis sur
+          les bâtiments repérés aux documents graphiques, et dès lors qu'ils ne compromettent pas l'activité agricole et qu'ils ne se
+          trouvent pas dans un périmètre de 100m autour d'un bâtiment agricole.
+Au sein de la sous-destination « autres hébergements touristiques » :
+     •    Seuls sont autorisés les changements de destination sur les bâtiments repérés aux documents graphiques, et dès lors qu'ils
+          ne compromettent pas l'activité agricole et qu'ils ne se trouvent pas dans un périmètre de 100m autour d'un bâtiment agricole.
+Au sein de la sous-destination « locaux techniques et industriels des administrations publiques et assimilés » :
+     •    Les constructions sont autorisées si elles ne sont pas incompatibles avec l'exercice d'une activité agricole, pastorale ou
+          forestière et qu'elles ne portent pas atteinte à la sauvegarde des espaces naturels et des paysages. Sont également autori-
+          sés les travaux, installations et ouvrages techniques nécessaires au déploiement des énergies renouvelables et à la réali-
+          sation d’infrastructures liées aux réseaux y compris les voies routières et ferrées et qui ne sauraient être implantées en
+          d’autres lieux, si elles ne sont pas incompatibles avec l'exercice d'une activité agricole, pastorale ou forestière et qu'elles ne
+          portent pas atteinte à la sauvegarde des espaces naturels et des paysages
+
+
+
+
+                                                                                                                                 85
+                                     PLUi-H Cholet Agglomération – Règlement écrit – Février 2026
+Au sein du secteur Ap uniquement :
+     •    Les constructions d’abris pour animaux, non liées à une exploitation agricole sont admises, sous réserve de :
+               o Ne pas déjà en avoir d’implanter sur l’unité foncière ;
+               o Présenter une structure démontable permettant un retour à l’état naturel du site ;
+               o Être non closes ;
+
+Au sein de la sous-destination « exploitation agricole » :
+     •    Les constructions si elles sont liées et nécessaires à l’activité des exploitations agricoles (constructions nécessaires à
+          l’exploitation, serres démontables, tunnels plastiques, installations nécessaires à l’irrigation des terres agricoles, …etc.) sont
+          admises sous réserve d’une bonne intégration dans l’environnement et dans le paysage.
+     •    Les affouillements et les exhaussements liés à une activité agricole
+     •    Les constructions à usage de logements (assimilées à des « logements de fonction ») doivent respecter les conditions
+          suivantes :
+               o Le pétitionnaire doit justifier de la nécessité d’une permanence sur place, que ce soit pour une production animale
+                    ou végétale.
+               o Le type de production doit correspondre à une activité agricole d’élevage ou autres activités agricoles qui néces-
+                    sitent une présence permanente sur l’exploitation agricole (surveillance, vêlage, traite…).
+                    A titre informatif : C’est à l’exploitant d’apporter les éléments objectifs, mesurables et comparables, de la nécessité
+                    d’un logement de fonction.
+               o L’activité agricole concernée doit être une activité à temps plein.
+               o Le logement ne peut être envisagé que pour un exploitant en activité, et non pour sa retraite. Le logement doit
+                    répondre à un besoin qui s’inscrit dans la durée.
+               o Concernant le nombre de logements pouvant être admis :
+                          ▪ Dans les exploitations non sociétaires : un seul logement peut être admis.
+                          ▪ Dans les exploitations sociétaires peuvent être admis :
+                                     • En présence d’élevage : jusqu’à deux logements par site d’activités qui justifient une présence
+                                           permanente ;
+                                     • En l’absence d’élevage : un seul logement par site d’activités.
+               o En cas de création d’une nouvelle exploitation agricole, l’édification du logement ne peut intervenir que postérieu-
+                    rement à l’édification des bâtiments d’exploitation.
+               o La parcelle détachée pour le logement ne doit pas dépasser une superficie de 700m².
+                    L’implantation du logement ne doit pas avoir pour effet de gêner l’exploitation agricole présente et future (A titre
+                    d’exemple : ne pas implantation le logement au milieu de la parcelle).
+
+     •    Les activités qui s’inscrivent dans le prolongement de l’acte de production et qui constituent l’accessoire de l’activité
+          agricole peuvent être admises, sous réserve de respecter les dispositions suivantes :
+               o Les activités d’hébergement, de restauration, d’accueil de groupes, de camping à la ferme…. (Gîte,
+                     chambre d’hôtes, ferme auberge, salle d’accueil de groupes…) sont autorisées uniquement par la valorisation du
+                     bâti existant, l’aménagement d’habitation ou le changement de destination des bâtiments.
+               o L’activité de vente directe de produits agricoles est autorisée uniquement par la valorisation du bâti existant,
+                     l’aménagement d’habitation ou le changement de destination des bâtiments, sous réserve que :
+                           ▪ Les produits commercialisés proviennent exclusivement de l’exploitation,
+                           ▪ Le projet soit implanté à proximité d’une exploitation existante.
+
+Au sein de la sous-destination « logement » :
+     •    Les extensions mesurées et les annexes des logements existants, sont admises sous réserve d’une bonne intégration dans
+          l’environnement et de ne pas conduire à la création d’un logement supplémentaire. Les annexes et extensions à l’habitat
+          sont autorisées même si l’habitation existante, implantée sur la même unité foncière, se situe dans une autre zone du PLUiH.
+     •    Les changements de destination de bâtiments existants vers la sous-destination « logement » sont uniquement admis sur
+          les bâtiments repérés aux documents graphiques, et dès lors qu'ils ne compromettent pas l'activité agricole et qu'ils ne se
+          trouvent pas dans un périmètre de 100m autour d'un bâtiment agricole.
+
+
+Au sein de la sous-destination « autres hébergements touristiques » :
+     •    Seuls sont autorisés les changements de destination sur les bâtiments repérés aux documents graphiques, et dès lors qu'ils
+          ne compromettent pas l'activité agricole et qu'ils ne se trouvent pas dans un périmètre de 100m autour d'un bâtiment agricole.
+
+                                                                                                                                 86
+                                     PLUi-H Cholet Agglomération – Règlement écrit – Février 2026
+Au sein de la sous-destination « locaux techniques et industriels des administrations publiques et assimilés » :
+    • Les constructions sont autorisées si elles ne sont pas incompatibles avec l'exercice d'une activité agricole, pastorale ou
+         forestière et qu'elles ne portent pas atteinte à la sauvegarde des espaces naturels et des paysages. Sont également auto-
+         risés les travaux, installations et ouvrages techniques nécessaires au déploiement des énergies renouvelables et à la réali-
+         sation d’infrastructures liées aux réseaux y compris les voies routières et ferrées et qui ne sauraient être implantées en
+         d’autres lieux, si elles ne sont pas incompatibles avec l'exercice d'une activité agricole, pastorale ou forestière et qu'elles
+         ne portent pas atteinte à la sauvegarde des espaces naturels et des paysages.
+
+Au sein du secteur Ar uniquement :
+Au sein de la sous-destination « locaux techniques et industriels des administrations publiques et assimilés » :
+
+     •    Les constructions sont autorisées si elles ne sont pas incompatibles avec l'exercice d'une activité agricole, pastorale ou
+          forestière et qu’elles ne portent pas atteinte à la sauvegarde des espaces naturels et des paysages. Sont également autori-
+          sés les travaux, installations et ouvrages techniques nécessaires au déploiement des énergies renouvelables et à la réali-
+          sation d’infrastructures liées aux réseaux y compris les voies routières et ferrées et qui ne sauraient être implantées en
+          d’autres lieux, si elles ne sont pas incompatibles avec l'exercice d'une activité agricole, pastorale ou forestière et qu'elles ne
+          portent pas atteinte à la sauvegarde des espaces naturels et des paysages.
+     •    Les constructions, installations, extensions, travaux et ouvrages techniques s'inscrivant dans le cadre des activités radioé-
+          lectriques (essais) sont autorisés ;
+
+     •    Les affouillements et exhaussements du sol, sous réserve d’être nécessaires à la réalisation des occupations et utilisations
+          du sol admises dans la zone, et qu’ils ne compromettent pas la stabilité des sols, l’écoulement des eaux ou la qualité de la
+          nappe et qu’ils ne portent pas atteinte au caractère du site.
+
+Au sein du secteur Av uniquement :
+
+Au sein de la sous-destination « exploitation agricole » :
+     •    Les constructions si elles sont liées et nécessaires à l’activité des exploitations agricoles sont admises sous réserve d’une
+          bonne intégration dans l’environnement et dans le paysage.
+     •    Les affouillements et exhaussements liés à une activité agricole
+
+     •    Les activités qui s’inscrivent dans le prolongement de l’acte de production et qui constituent l’accessoire de l’activité
+          agricole peuvent être admises, sous réserve de respecter les dispositions suivantes :
+               o L’activité de vente directe de produits agricoles est autorisée uniquement par la valorisation du bâti existant,
+                     l’aménagement d’habitation ou le changement de destination des bâtiments, sous réserve que :
+                          ▪ Les produits commercialisés proviennent exclusivement de l’exploitation,
+                          ▪ Le projet soit implanté à proximité d’une exploitation existante.
+
+Au sein de la sous-destination « logement » :
+     •    Les extensions mesurées et les annexes des logements existants, sont admises sous réserve d’une bonne intégration dans
+          l’environnement et de ne pas conduire à la création d’un logement supplémentaire. Les annexes et extensions à l’habitat
+          sont autorisées même si l’habitation existante, implantée sur la même unité foncière, se situe dans une autre zone du PLUiH.
+Au sein de la sous-destination « locaux techniques et industriels des administrations publiques et assimilés » :
+     •    Les constructions sont autorisées si elles ne sont pas incompatibles avec l'exercice d'une activité agricole, pastorale ou
+          forestière et qu'elles ne portent pas atteinte à la sauvegarde des espaces naturels et des paysages. Sont également autori-
+          sés les travaux, installations et ouvrages techniques nécessaires à la réalisation d’infrastructures liées aux réseaux y compris
+          les voies routières et ferrées et qui ne sauraient être implantées en d’autres lieux, si elles ne sont pas incompatibles avec
+          l'exercice d'une activité agricole, pastorale ou forestière et qu'elles ne portent pas atteinte à la sauvegarde des espaces
+          naturels et des paysages.
+
+
+
+
+                                                                                                                                 87
+                                     PLUi-H Cholet Agglomération – Règlement écrit – Février 2026
+                                                     ARTICLE A-4. MIXITÉ FONCTIONNELLE ET SOCIALE
+
+        Mixité fonctionnelle
+Non réglementé.
+
+
+        Mixité sociale
+Non réglementé.
+
+
+
+        SECTION 2. CARACTÉRISTIQUES URBAINES, ARCHITECTURALES, EN-
+                      VIRONNEMENTALES ET PAYSAGÈRES
+                         ARTICLE A-5. VOLUMÉTRIE ET IMPLANTATION DES CONSTRUCTIONS
+
+        Implantation des constructions
+          1.   Implantation des constructions par rapport aux emprises publiques et voies ouvertes à la circulation
+Les constructions peuvent s’implanter à l’alignement ou en recul.
+La libre implantation des constructions laisse la possibilité de positionner la construction de façon à ce qu’elle bénéficie d’une orien-
+tation optimale en matière d’ensoleillement, notamment pour l’aménagement des espaces non bâtis.
+
+Une implantation spécifique peut être imposée dans les cas suivants :
+     • Pour assurer la sécurité et la visibilité (notamment au niveau des carrefours) ;
+     • Pour permettre la densification et/ou l’optimisation du tissu urbain (constructions en cœur d’ilot ou fond de parcelle par
+       exemple)
+     • Pour tenir compte d’éventuels impératifs techniques ;
+     • Pour tenir compte du recul imposé par rapport à l’emprise du domaine public ferroviaire ou par rapport au schéma routier
+       départemental ou communal, s’il existe ;
+     • Dans le cas d’une reconstruction après sinistre ou destruction, afin de tenir compte de l’implantation originelle ;
+     • Dans le cas de l’extension ou de la réhabilitation d’une construction existante, pour permettre une implantation en continuité
+       du bâti préexistant.
+     • Pour permettre une bonne intégration paysagère.
+
+
+          2.   Implantation des constructions par rapport aux limites séparatives
+L’implantation des constructions est libre. Elles peuvent être implantées en limites séparatives ou en retrait.
+
+Une implantation spécifique peut être imposée dans les cas suivants :
+     • Pour permettre la mise en œuvre de procédés d’isolation par l’extérieur, en vue d’améliorer les performances énergétiques et
+       acoustiques des constructions existantes.
+     • Pour permettre la densification et/ou l’optimisation du tissu urbain (constructions en cœur d’ilot ou fond de parcelle par
+       exemple)
+     • Dans le cas d’une reconstruction après sinistre ou destruction, afin de tenir compte de l’implantation originelle ;
+     • Pour tenir compte d’éventuels impératifs techniques ;
+     • Pour permettre une bonne intégration paysagère.
+
+
+          3.   Implantation des constructions les unes par rapport aux autres
+
+Au sein de la zone A uniquement :
+Au sein de la sous-destination « exploitation agricole » :
+    • Les constructions relevant de la sous-destination « exploitation agricole » et liées à la diversification des activités agricoles
+         (vente directe, conditionnement et commercialisation des produits…) doivent être implantées à l’intérieur d’un rayon de
+
+                                                                                                                              88
+                                    PLUi-H Cholet Agglomération – Règlement écrit – Février 2026
+         100 mètres par rapport au bâtiment le plus proche constitutif du site d’activités. Une distance supérieure à 100 mètres, sans
+         excéder 300 mètres peut être exceptionnellement autorisée sous réserve de s’inscrire en continuité immédiate d’un hameau
+         ou d’un écart bâti existant.
+    • Les constructions à usage de logements assimilés à des « logements de fonction » doivent être implantées à l’intérieur d’un
+         rayon de 100 mètres par rapport au bâtiment le plus proche constitutif du site d’activités. Une distance supérieure à 100
+         mètres, sans excéder 300 mètres peut être exceptionnellement autorisée sous réserve de s’inscrire en continuité immédiate
+         d’un hameau ou d’un écart bâti existant.
+Au sein de la sous-destination « logement » :
+    • Sauf incapacité dûment justifiée par des impératifs techniques, paysagers, sanitaires, fonciers ou de risques justifiés, les
+         constructions à usage d’annexes à l’habitation doivent être implantées à moins de 20 m de l’habitation existante, y compris
+         les piscines, mesuré aux points les plus proches des constructions.
+Au sein du secteur Ap uniquement :
+Au sein de la sous-destination « exploitation agricole » :
+    • Les constructions à usage de logements assimilés à des « logements de fonction » devront être implantées à l’intérieur
+         d’un rayon de 100 mètres par rapport au bâtiment le plus proche constitutif du site d’activités.
+Au sein de la sous-destination « logement » :
+    • Sauf incapacité dûment justifiée par des impératifs techniques, paysagers, sanitaires, fonciers ou de risques justifiés, les
+         constructions à usage d’annexes à l’habitation devront être implantées à moins de 20 m de l’habitation existante, y compris
+         les piscines, mesuré aux points les plus proches des constructions.
+
+Au sein du secteur Av uniquement :
+Au sein de la sous-destination « exploitation agricole » :
+    • Sauf incapacité dûment justifiée par des impératifs techniques, paysagers, sanitaires, fonciers ou de risques justifiés (Plans
+         de Prévention des Risques par exemple), d’enclavement ou de mise aux normes, les constructions nouvelles relevant de la
+         destination exploitation agricole devront être implantées à l’intérieur d’un rayon de 200 mètres par rapport au bâtiment le
+         plus proche constitutif du site d’activités dont elles dépendent.
+Au sein de la sous-destination « logement » :
+    • Sauf incapacité dûment justifiée par des impératifs techniques, paysagers, sanitaires, fonciers ou de risques justifiés, les
+         constructions à usage d’annexes à l’habitation devront être implantées à moins de 20 m de l’habitation existante, y compris
+         les piscines, mesuré aux points les plus proches des constructions.
+
+         Emprise au sol maximale des constructions
+Au sein de la zone A uniquement :
+     •    Les constructions d’abris pour animaux sont autorisées dans la limite de 20m² d’emprise au sol.
+
+Au sein de la sous-destination « logement » :
+         • Les extensions des constructions existantes sont autorisées, sous réserve :
+                    o Qu’elles soient limitées à 30 % maximum de l’emprise au sol du bâtiment existant et dans la limite de
+                         250m² de surface de plancher, pour les constructions existantes d’une emprise au sol supérieure ou
+                         égale à 100m², pour la durée du PLUiH et qu’elles ne conduisent pas à la possibilité de création d’un loge-
+                         ment supplémentaire ;
+                    o Ou bien, qu’elles soient limitées à 30m² d’emprise au sol pour les constructions existantes d’une em-
+                         prise au sol inférieure à 100 m², pour la durée du PLUiH, et qu’elles ne conduisent pas à la possibilité de
+                         création d’un logement supplémentaire.
+         • Les annexes à l’habitat (à l’exception des piscines), sont autorisées dans la limite de 40 m² d’emprise au sol.
+         • Les piscines (couvertes ou non) sont autorisées dans la limite de 60m² d’emprise au sol.
+         • Les superficies énoncées ci-dessus sont un maximum autorisé pour la durée du PLUiH mais peuvent être construites
+               sous forme de plusieurs projets distincts.
+
+Au sein du secteur Ap uniquement :
+    • Les constructions d’abris pour animaux sont autorisées dans la limite de 20m² d’emprise au sol.
+    • Les extensions des constructions existantes sont autorisées, sous réserve :
+             o Qu’elles soient limitées à 30 % maximum de l’emprise au sol du bâtiment existant et dans la limite de 250m²
+                  de surface de plancher, pour les constructions existantes d’une emprise au sol supérieure ou égale à
+                  100m², pour la durée du PLUiH et qu’elles ne conduisent pas à la possibilité de création d’un logement supplé-
+                  mentaire ;
+             o Ou bien, qu’elles soient limitées à 30m² pour les constructions existantes d’une emprise au sol inférieure à
+                  100 m², pour la durée du PLUiH, et qu’elles ne conduisent pas à la possibilité de création d’un logement supplé-
+                  mentaire.
+
+                                                                                                                           89
+                                   PLUi-H Cholet Agglomération – Règlement écrit – Février 2026
+Au sein du secteur Ar uniquement :
+L'emprise au sol cumulée de toutes les constructions est limitée à 800 m².
+
+Au sein du secteur Av uniquement :
+Au sein de la sous-destination « logement » :
+         • Les extensions des constructions existantes sont autorisées, sous réserve :
+                    o Qu’elles soient limitées à 30 % maximum de l’emprise au sol du bâtiment existant et dans la limite de
+                         250m² de surface de plancher, pour les constructions existantes d’une emprise au sol supérieure ou
+                         égale à 100m², pour la durée du PLUiH et qu’elles ne conduisent pas à la possibilité de création d’un loge-
+                         ment supplémentaire ;
+                    o Ou bien, qu’elles soient limitées à 30m² pour les constructions existantes d’une emprise au sol inférieure
+                         à 100 m², pour la durée du PLUiH, et qu’elles ne conduisent pas à la possibilité de création d’un logement
+                         supplémentaire.
+         • Les annexes à l’habitat (à l’exception des piscines), sont autorisées dans la limite de 40 m² d’emprise au sol.
+         • Les piscines (couvertes ou non) sont autorisées dans la limite de 60m² d’emprise au sol.
+         • Les superficies énoncées ci-dessus sont un maximum autorisé pour la durée du PLUiH mais peuvent être construites
+               sous forme de plusieurs projets distincts.
+Au sein de la zone A et de tous les secteurs de la zone A :
+Des emprises au sol spécifiques peuvent être admises ou imposées pour tenir compte :
+    • De la volumétrie originelle dans le cadre de projet de reconstruction après sinistre ou destruction
+
+        Hauteur des constructions
+Se reporter aux dispositions communes à toutes les zones. De plus :
+    •    La hauteur maximale des constructions d’abris pour animaux ne doit pas excéder 3.5mètres.
+
+Au sein de la sous-destination « logement » :
+    • La hauteur maximale des constructions ne doit pas excéder 8 mètres.
+
+Des hauteurs spécifiques peuvent être admises ou imposées pour tenir compte :
+    • Des éventuels impératifs techniques ;
+    • De la cohérence avec la hauteur des constructions voisines ou mitoyennes ;
+    • De la volumétrie originelle dans le cadre de projet de reconstruction après sinistre ou destruction ;
+    • De l’intégration paysagère.
+
+
+
+             ARTICLE A-6. RÈGLE RELATIVE À LA QUALITÉ URBAINE, ARCHITECTURALE,
+                                              ENVIRONNEMENTALE ET PAYSAGÈRE
+Se reporter aux dispositions communes à toutes les zones.
+
+
+
+                                                  ARTICLE A-7. RÈGLE RELATIVE AU STATIONNEMENT
+Se reporter aux dispositions communes à toutes les zones.
+
+
+                                      SECTION 3. ÉQUIPEMENTS ET RÉSEAUX
+
+Se reporter aux dispositions communes à toutes les zones.
+
+
+
+
+                                                                                                                         90
+                                   PLUi-H Cholet Agglomération – Règlement écrit – Février 2026
+                    TerrenUrbanisme
+
+    Merci de votre confiance
+Ce rapport a été établi à partir des sources publiques officielles pour vous
+  aider à décider en connaissance de cause. Pour toute question, nous
+                        restons à votre disposition.
+
+
+
+
+   Vous êtes professionnel ? Travaillons ensemble
+      Agents immobiliers, notaires, architectes, géomètres, diagnostiqueurs,
+promoteurs, mairies : faisons équipe. Crédits professionnels sans abonnement, 5
+€ le rapport dès 50 crédits, votre logo sur les rapports, offre communale pour les
+                       mairies et partenariats sur mesure.
+
+               Écrivez-nous : contact@terrenurbanisme.com
+
+
+
+
+                        terrenurbanisme.com
+                         contact@terrenurbanisme.com
+

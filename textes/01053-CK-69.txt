@@ -1,0 +1,3131 @@
+                  TerrenUrbanisme
+                  Le terrain constructible, partout en France
+
+
+
+
+RAPPORT D'URBANISME
+
+
+
+Bourg-en-Bresse
+Section CK · Parcelle n° 69
+      Constructible
+
+
+
+
+Référence cadastrale                                                        Surface cadastrale
+01053000CK0069                                                              3 511 m²
+
+Rapport établi le                                                           Référence du rapport
+20/11/2026                                                                  APERCU
+
+
+
+
+terrenurbanisme.com                                                                      contact@terrenurbanisme.com
+
+Document d'information sans valeur contractuelle ni réglementaire. Il ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme
+et ne peut en aucun cas être joint à une demande de permis de construire ou de déclaration préalable. Seuls les actes de l'administration font foi.
+                                                                                                                           Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                                                      Sommaire
+
+
+
+
+Sommaire
+Le rapport suit l'ordre d'une étude de terrain : où se trouve la parcelle, ce que dit la règle, ce qui pèse sur le
+projet, puis les démarches.
+
+              Synthèse
+   S                                                                                                                                         p. 3
+              Le verdict, les indicateurs clés et les points d'attention en une page.
+
+              Identification de la parcelle
+   01                                                                                                                                        p. 4
+              Localisation, surface, références cadastrales et voisinage du terrain.
+
+              Règles d'urbanisme applicables
+  02                                                                                                                                         p. 7
+              Document d'urbanisme, zone du terrain, prescriptions et servitudes.
+
+              Ce que vous pouvez construire
+  03                                                                                                                                         p. 9
+              Surface constructible, hauteur, reculs, aspect et usages autorisés.
+
+              Loi Littoral et loi Montagne
+  04                                                                                                                                        p. 17
+              Les lois qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+              Risques naturels et technologiques
+  05                                                                                                                                        p. 18
+              Inondation, feu de forêt, argiles, catastrophes naturelles et sites pollués.
+
+              Le terrain : accès, relief et réseaux
+  06                                                                                                                                        p. 21
+              Accès, pente, ensoleillement, eaux usées, électricité, eau et fibre.
+
+              Environnement et marché immobilier
+  07                                                                                                                                       p. 28
+              Espaces naturels, espèces protégées et ventes immobilières alentour.
+
+              Historique du site
+  08                                                                                                                                        p. 31
+              Le terrain vu du ciel au fil des années et les permis accordés autour.
+
+              Opportunités autour du terrain
+  09                                                                                                                                       p. 33
+              Grands terrains peu bâtis et logements énergivores à proximité.
+
+              Votre projet, étape par étape
+   10                                                                                                                                      p. 35
+              De l'achat aux impôts : démarches, délais, coûts, contacts et taxe.
+
+              État des risques (ERP) pré-rempli
+   11                                                                                                                                      p. 39
+              Le formulaire réglementaire à remettre à l'acquéreur, pré-rempli.
+
+              Avertissement et sources
+   12                                                                                                                                       p. 41
+              La portée de ce rapport et les sources publiques consultées.
+
+              Annexe : règlement de la zone
+   A                                                                                                                                       p. 44
+              Les pages officielles du règlement de la zone, telles qu'approuvées.
+
+
+
+
+Astuce : cliquez sur un chapitre pour y accéder directement.
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        2 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                                                              Synthèse
+
+
+
+
+Synthèse
+     Document d'information. Ce rapport ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme,
+     n'engage pas l'administration et ne peut pas servir de pièce à une demande de permis de construire.
+     L'appréciation ci-dessous est indicative : seule la mairie se prononce sur la constructibilité d'un terrain,
+     au vu d'un projet précis.
+
+
+
+
+       CONSTRUCTIBLE
+
+       Le PLU autorise la construction
+       La parcelle est classée en zone UC (urbaine) du plan local d'urbanisme de
+       Bourg-en-Bresse. Les constructions y sont admises dans le respect du règlement de la
+       zone.
+
+
+
+
+      Zone principale                                        Document d'urbanisme                                  Loi Littoral
+
+   UC · 100 %                                             PLU                                                    Ne s'applique pas
+
+
+
+
+      Loi Montagne                                           Risques à la parcelle
+
+   Ne s'applique pas                                      Remontée de nappe ·
+                                                          Séisme (+2)
+
+
+
+
+Points d'attention
+    Zone UC (100 % de la parcelle) : constructible.
+    Retrait-gonflement des argiles (exposition moyenne) : en cas de vente d'un terrain non bâti
+    constructible, le vendeur doit fournir une étude géotechnique préalable (loi ELAN, article L. 132-5 du
+    Code de la construction et de l'habitation) ; une étude géotechnique de conception est exigée avant
+    de construire.
+    Pollution des sols : concerné à l'adresse de la parcelle (voir le chapitre « Risques naturels et
+    technologiques »).
+    13 arrêtés de catastrophe naturelle sur la commune.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                               3 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+    01             Identification de la parcelle
+     DANS CETTE SECTION
+
+     Où se trouve le terrain, sa surface, ses références cadastrales, son propriétaire lorsqu'il s'agit
+     d'une société ou d'une collectivité, et la performance énergétique du bâti existant.
+
+
+Données du cadastre (DGFiP) et de l'IGN.
+
+
+     Plan de situation
+
+
+
+
+                                                                                                                            1 km
+
+
+
+Plan IGN · © IGN
+
+
+
+     Vue aérienne et plan cadastral
+
+
+
+
+                                                                                                                                   50 m
+
+
+
+Photographie aérienne et plan cadastral · © IGN
+
+
+Commune                                                  Bourg-en-Bresse (01053)
+
+Département                                              Ain (01)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          4 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+Section et numéro                                        Section CK, parcelle n° 69, feuille 1
+
+Identifiant cadastral                                    01053000CK0069
+
+Surface cadastrale                                       3 511 m²
+
+Surface calculée (SIG)                                   3 477 m² · périmètre 233 m
+
+Coordonnées du centre                                    46.20277 N, 5.24685 E (WGS 84)
+
+Altitude                                                 de 227 à 228 m
+
+Pente estimée                                            2 % (terrain plutôt plat)
+
+Parcelles voisines                                       CK 123, CK 34, CK 88
+
+
+Le plan cadastral est un document fiscal : il ne fait pas foi des limites de propriété. Seul un bornage réalisé par un
+géomètre-expert fixe les limites de manière certaine.
+
+
+1.1 Propriétaire et voisinage
+     La parcelle appartient à une personne morale : MURS ET COMMERCE (SARL) · SIREN 840257760. Le
+     gérant ou le représentant légal se retrouve à partir du numéro SIREN sur
+     annuaire-entreprises.data.gouv.fr.
+
+
+
+Parcelles voisines détenues par des sociétés ou des collectivités
+  PARCELLE              PROPRIÉTAIRE                                                                     SURFACE            SIREN
+
+  CK 123                DYNACITE OFFICE PUBLIC DE L'HABITAT DE L'AIN (EPIC)                              1 907 m²           779306471
+
+
+
+Principaux propriétaires personnes morales dans un rayon de 280 m
+  PROPRIÉTAIRE                                                              PARCELLES             SURFACE TOTALE            SIREN
+
+  COMMUNE DE BOURG EN BRESSE (COM)                                          23                    39 534 m²                 210100533
+
+  GRAND BOURG HABITAT (EPIC)                                                10                    33 295 m²                 270100035
+
+  DYNACITE OFFICE PUBLIC DE L'HABITAT DE                                    16                    21 844 m²                 779306471
+  L'AIN (EPIC)
+
+  IMMO DE FRANCE - AIN (SAS)                                                2                     9 510 m²                  391634912
+
+  CARREFOUR HYPERMARCHES (SAS)                                              3                     7 583 m²                  451321335
+
+  FINAMUR (SA)                                                              1                     5 865 m²                  340446707
+
+  LIDL (SNC)                                                                2                     5 246 m²                  343262622
+
+  S C I K S G (SCI)                                                         2                     3 148 m²                  899357503
+
+
+
+Source : fichiers des parcelles des personnes morales (DGFiP) : sociétés, SCI, collectivités, établissements publics et associations.
+Les propriétaires personnes physiques n'y figurent pas.
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          5 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+1.2 La commune de Bourg-en-Bresse
+Code postal                                              01000
+
+Département                                              Ain (01)
+
+Intercommunalité                                         CA du Bassin de Bourg-en-Bresse
+
+Population                                               42 372 habitants
+
+Superficie                                               24,03 km²
+
+Densité                                                  1 763 habitants par km²
+
+Commune littorale                                        Non
+
+Commune de montagne                                      Non
+
+Document d'urbanisme                                     Plan local d'urbanisme (PLU)
+
+Risques sur la commune                                   13 arrêtés de catastrophe naturelle · détail en section Risques et en
+                                                         annexe
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          6 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+    02             Règles d'urbanisme applicables
+     DANS CETTE SECTION
+
+     Le document d'urbanisme de la commune, la zone dans laquelle se trouve le terrain, et les
+     prescriptions et servitudes qui s'y ajoutent.
+
+
+Géoportail de l'Urbanisme : zonage, prescriptions et servitudes.
+
+
+
+2.1 Document d'urbanisme en vigueur
+Type de document                                         Plan local d'urbanisme (PLU)
+
+Date d'approbation                                       Non renseigné
+
+Statut                                                   Publié au Géoportail de l'Urbanisme
+
+Règlement officiel                                       Ouvrir le document officiel (PDF)
+
+
+
+     Plan de zonage du PLU
+
+
+
+
+                                                                              UC
+
+
+
+
+                                                                                                                               50 m
+
+
+
+Zonage : Géoportail de l'Urbanisme · fond : © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        7 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.2 Zonage de la parcelle
+  ZONE                  DÉSIGNATION                                                         PART               CONSTRUCTIBILITÉ
+
+  UC                    UC : Zone résidentielle dense                                       100 %              Constructible
+
+
+
+Zone UC · Urbaine
+Zone urbaine : secteur déjà urbanisé où les équipements publics existants ou en cours de réalisation
+permettent d'accueillir des constructions. Les constructions y sont admises dans le respect du règlement de la
+zone (destinations, implantation, hauteur, emprise, aspect).
+
+
+2.3 Prescriptions applicables à la parcelle
+  PRESCRIPTION                                                                                       TYPE
+
+  Secteur OAP Croix-Blanche                                                                          Prescription du PLU (type 18)
+
+  Règles d implantation des constructions                                                            Prescription du PLU (type 15)
+
+
+
+
+2.4 Servitudes d'utilité publique
+Aucune servitude d'utilité publique numérisée n'est recensée sur la parcelle au Géoportail de l'Urbanisme. Les
+servitudes non encore numérisées figurent en annexe du PLU.
+
+
+2.5 Patrimoine : l'architecte des Bâtiments de France
+Aucun site patrimonial remarquable, site classé ou inscrit, ni monument historique à moins de 500 m n'est
+recensé : l'avis de l'architecte des Bâtiments de France n'est pas requis au titre du patrimoine.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        8 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    03             Ce que vous pouvez construire
+     DANS CETTE SECTION
+
+     La lecture du règlement de votre zone : surface constructible estimée, hauteur, reculs, aspect,
+     usages autorisés ou interdits, avec les extraits du texte officiel.
+
+
+Lecture du règlement écrit de la zone UC, pages 91 à 104 du règlement officiel.
+
+
+
+3.1 Potentiel constructible estimé
+     En clair : le règlement de la zone ne fixe pas de surface maximale au sol. La construction doit
+     seulement rester dans la zone d'implantation, en retrait des limites et des voies. Cette zone de 1 759 m²
+     n'est pas une surface à construire : c'est l'espace à l'intérieur duquel la maison doit se placer. Une
+     maison de 122 m² au sol, soit environ 104 m² habitables, y trouve sa place, comme le montre l'étude
+     d'implantation ci-dessous.
+
+
+
+Surface du terrain                                       3 511 m²
+
+Zone d'implantation possible                             1 759 m² après reculs (3 m des limites, 5 m des voies)
+
+Emprise au sol maximale                                  Non fixée par le règlement
+
+Maison étudiée (exemple)                                 122 m² au sol, environ 104 m² habitables
+
+Hauteur maximale                                         Non précisée
+
+Espaces verts imposés                                    30 % du terrain au moins
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       9 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+     Zone d'implantation possible (estimation)
+
+
+
+
+                                                                                                                              50 m
+
+
+
+En vert : partie du terrain hors reculs réglementaires · fond © IGN
+
+
+
+3.2 Étude d'implantation indicative
+
+     Implantation d'une maison de plain-pied (esquisse)
+
+
+
+
+                                                                                                                              50 m
+
+
+
+En rouge : la maison · en orange : une piscine de 8 × 4 m · en vert : zone constructible · fond © IGN
+
+
+Maison proposée                                          Maison de plain-pied de 13,5 × 9 m
+
+Emprise au sol                                           122 m²
+
+Surface habitable indicative                             environ 104 m²
+
+Façade principale                                        orientée sud-ouest
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       10 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+Distance à la voie                                       environ 10 m
+
+Distance minimale aux limites                            3,8 m
+
+Piscine de 8 × 4 m                                       possible dans la zone constructible
+
+Taxe d'aménagement estimée                               environ 3 610 € (résidence principale)
+
+
+Esquisse automatique : la maison est placée dans la zone constructible, au plus près de la voie, en dégageant le jardin vers
+le sud, sans tenir compte des constructions existantes ni de la végétation. Elle ne remplace pas l'étude d'un architecte,
+obligatoire au-delà de 150 m² de surface de plancher, ni la vérification des règles d'aspect, de stationnement, de pente et
+d'assainissement.
+
+Estimation théorique établie à partir des règles chiffrées du règlement (reculs, emprise, hauteur) et de la géométrie
+cadastrale. Elle ne tient pas compte des servitudes, des risques, de la pente, des règles de stationnement et d'aspect, ni
+des dispositions particulières : seul un architecte ou un géomètre peut confirmer le potentiel réel.
+
+
+3.3 Caractère de la zone
+La zone UC est une zone urbaine à dominante résidentielle, comportant des potentialités d'urbanisation :
+tissus périphériques denses ou à densifier. Elle accueille l'habitation et les fonctions compatibles
+(services, bureaux, équipements collectifs, espaces publics, activités artisanales non nuisantes). Elle
+comporte notamment des périmètres d'attente de projet global, des secteurs d'OAP, des jardins
+familiaux, des zones humides, ripisylves et alignements d'arbres, et est concernée par le PPRi, le
+classement sonore, le retrait-gonflement des argiles et le risque sismique.
+
+
+3.4 Règles de construction
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Surface minimale ou                          Non précisé dans le règlement de la zone (aucune surface                         Titre II, art. 4-4
+  caractéristiques du terrain                  minimale de terrain). Pour les parcelles de moins de 500 m²
+                                               hors lotissement, l'accord de la collectivité est conditionné à la
+                                               bonne définition des principes d'implantation, d'orientation et
+                                               de procédés constructifs (titre II).
+
+  Accès et voirie                              Terrain desservi par un accès à une voie publique ou privée ;                    Titre II, art. 7
+                                               accès carrossable d'emprise minimale de 3,5 m ; accès piéton
+                                               d'au moins 1,50 m ; parcelle en drapeau : part du foncier de
+                                               desserte limitée à 20 % de l'unité foncière ; portail sur route à
+                                               grande circulation en retrait d'au moins 5 m ; parkings privés
+                                               limités à 2 accès. Voies nouvelles de 50 à 200 m : 4 m minimum
+                                               à sens unique, 6 m à double sens ; voies de 200 m et plus : 5 m
+                                               et 8 m. Impasses avec aire de retournement.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          11 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Réseaux et assainissement                    Raccordement à l'eau potable obligatoire ; réseau séparatif                      Titre II, art. 8
+                                               eaux usées / eaux pluviales jusqu'en limite de propriété et
+                                               raccordement obligatoire au réseau public d'assainissement.
+                                               Assainissement non collectif admis seulement en l'absence de
+                                               réseau ou en attente de celui-ci. Eaux pluviales : rétention et
+                                               infiltration sur l'unité foncière selon le zonage pluvial ; débit de
+                                               fuite maximal de 3 l/s par hectare. Électricité enterrée,
+                                               fourreaux très haut débit pour les projets d'ensemble et
+                                               l'habitat collectif, espaces de stockage des ordures ménagères
+                                               pour l'habitat collectif.
+
+  Implantation par rapport                     En l'absence de trait de recul au plan graphique, les                            art. 3-1
+  aux voies                                    constructions nouvelles sont implantées avec un retrait
+                                               inférieur ou égal à 5 mètres par rapport aux voies et emprises
+                                               publiques ; espaces libres de la bande de recul, hors accès,
+                                               végétalisés. Piscines : recul d'au moins 3 m. Implantation
+                                               différente admise (risques d'inondation, cohérence avec les
+                                               voisins, équipements publics, ouvrages techniques, annexe de
+                                               moins de 25 m² et moins de 3 m de hauteur, meilleure
+                                               intégration urbaine).
+
+  Implantation par rapport                     Premier rang : soit sur une limite latérale et en recul d'au moins               art. 3-2
+  aux limites séparatives                      3 m et supérieur à la moitié de la hauteur par rapport à l'autre
+                                               limite latérale ; soit en recul d'au moins 3 m et au moins égal à
+                                               la moitié de la hauteur par rapport aux deux limites latérales.
+                                               Fond de terrain : recul d'au moins 3 m et au moins la moitié de
+                                               la hauteur. Au-delà du premier rang : recul d'au moins 3 m et
+                                               au moins la moitié de la hauteur par rapport à toutes les limites.
+                                               Piscines : 3 m des limites latérales. Dérogations pour risques
+                                               d'inondation, équipements publics, ouvrages techniques,
+                                               annexes de moins de 25 m² et 3 m de haut, meilleure
+                                               intégration.
+
+  Implantation des                             Constructions sur plusieurs rangs : distance d'au moins 6 m                      art. 3-3
+  constructions entre elles                    entre les constructions de chaque rang ; dans les autres cas,
+                                               au moins 4 m (césure pouvant être occupée par balcons et
+                                               passerelles). Dérogations possibles (inondation, équipements
+                                               publics, ouvrages techniques, annexes de moins de 25 m² et 3
+                                               m, meilleure intégration).
+
+  Emprise au sol                               Non réglementé.                                                                  art. 3-4
+
+  Hauteur maximale                             Hors secteurs d'OAP, 4 niveaux sur la partie aérienne                            art. 3-5
+                                               (rez-de-chaussée + 3 étages). Hauteurs supérieures acceptées
+                                               sur justification d'insertion harmonieuse dans la silhouette
+                                               urbaine ; épannelage progressif recherché. Annexes : 3,5 m
+                                               maximum. Périmètre d'attente de projet global : hauteur des
+                                               constructions existantes à la date d'approbation du PLU.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         12 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Aspect extérieur et toitures                 Cohérence avec le secteur ; volumes intégrés au contexte                         art. 4-2 ; titre II
+                                               urbain ; façades soignées ; décrochés de façade recommandés                      art. 4
+                                               au-delà de 30 m de linéaire (profondeur <= 2 m, longueur <=
+                                               20 % du linéaire). Toitures à pans : débords de 20 à 50 cm,
+                                               interdits au-dessus des pignons à l'alignement des limites
+                                               séparatives. Toitures terrasses autorisées ; végétalisation ou
+                                               production d'énergie recherchée au-delà de 75 m² non
+                                               accessibles ; substrat de 25 cm minimum (neuf, extension) ou
+                                               15 cm (restructuration lourde, surélévation) ; dispositif de
+                                               végétalisation pérenne en cas de toiture-terrasse de plus de
+                                               150 m² issue d'une réhabilitation. Édicules techniques
+                                               dissimulés, garde-corps non opaques. Panneaux solaires
+                                               jusqu'à 100 % du pan de toit (titre II).
+
+  Matériaux et couleurs                        Matériaux réfléchissants et matériaux bruts destinés à être                      art. 4-2
+                                               recouverts non enduits proscrits ; toitures claires admises si
+                                               justifiées ; projets à geste architectural fort possibles sur
+                                               justification, la Ville pouvant autoriser, assortir de prescriptions
+                                               ou refuser ; recours aux matériaux biosourcés privilégié.
+
+  Clôtures                                     Hauteur maximale 1,80 m en limite du domaine public et 2 m en                    art. 4-3
+                                               limite séparative. Mur bahut de 1,2 m maximum surmonté ou
+                                               non d'une claire-voie, ou claire-voie seule (doublée ou non
+                                               d'une haie vive), ou haie vive variée (haies monospécifiques et
+                                               espèces invasives ou allergisantes interdites). Passage pour la
+                                               petite faune (15 cm de diamètre tous les 15 m environ) sur les
+                                               limites séparatives. Portails de hauteur au plus égale à celle de
+                                               la clôture. Murs de soutènement de 2,5 m maximum. Clôtures
+                                               hydrauliquement transparentes en zone inondable.
+
+  Stationnement                                Logement : 1 place par logement (arrondie au supérieur) ;                        art. 6
+                                               au-delà de 10 logements, 1 place visiteur par tranche entamée
+                                               de 10 logements ; logements sociaux : réglementation nationale
+                                               ; hébergement : 1 place pour 4 chambres. Artisanat, commerce
+                                               de détail et autres services : 1 place par tranche de 60 m² de
+                                               surface de plancher ; restauration : 1 place par 10 m² ; hôtel : 1
+                                               place par 3 chambres ; bureaux et industries : 1 place par 60
+                                               m². Vélos : opérations de plus de 2 logements : 1 place par
+                                               logement pour T1 et T2, 2 places pour T3 et plus ; local vélos
+                                               clos et couvert au-delà de 4 logements ; commerces et
+                                               services : 1 place par 30 m² de surface de plancher dans la
+                                               limite de 20 places imposées. Obligation applicable en
+                                               construction neuve, division de logement, changement de
+                                               destination, extension d'au moins 50 m². Réduction de 25 % en
+                                               cas de mutualisation. Places prééquipées véhicules électriques
+                                               au-delà de 10 places.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         13 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Espaces verts et plantations                 Coefficient de biotope par surface (CBS) de 0,4 pour toute                       art. 5
+                                               construction neuve ou extension. Pour une unité foncière
+                                               supérieure à 500 m², 30 % de la superficie en pleine terre.
+                                               Aires de stationnement non couvertes : un arbre de haute tige
+                                               pour quatre places minimum ; au-delà de 1 000 m², un tiers des
+                                               places en revêtement perméable. Essences locales et
+                                               diversifiées ; espèces invasives ou fortement allergisantes
+                                               interdites.
+
+  Densité ou coefficient                       Aucun coefficient d'occupation des sols ni emprise au sol                        art. 3 et 5
+                                               réglementés ; la densité est encadrée par la hauteur (4
+                                               niveaux), les reculs, le CBS de 0,4 et la pleine terre de 30 %
+                                               (unité foncière supérieure à 500 m²).
+
+
+
+
+3.5 Usages autorisés
+    Logement et hébergement
+    Restauration
+    Activités de services avec accueil de clientèle
+    Hôtels et autres hébergements touristiques
+    Cinéma
+    Locaux et bureaux accueillant du public des administrations publiques et assimilés
+    Locaux techniques et industriels des administrations publiques et assimilés
+    Établissements d'enseignement, de santé et d'action sociale
+    Salles d'art et de spectacles, équipements sportifs, lieux de culte, autres équipements recevant du public
+    Bureau
+    Centre de congrès et d'exposition
+
+
+3.6 Usages interdits ou soumis à conditions
+    Interdits : exploitation agricole et forestière ; cuisine dédiée à la vente en ligne ; dépôts de toute nature ;
+    stationnement isolé ou groupé de caravanes, camping-cars, bateaux ; carrières et gravières et toute
+    exploitation du sous-sol ; constructions et usages incompatibles avec la salubrité, la tranquillité ou la
+    sécurité du quartier
+    Artisanat et commerce de détail : autorisés si compatibles avec le fonctionnement du quartier, nuisances
+    limitées et surface de vente inférieure à 300 m²
+    Commerce de gros, industrie, entrepôt : seule l'extension des constructions existantes à la date
+    d'opposabilité du PLU est admise, dans la limite de 10 % de surface de plancher supplémentaire
+    ICPE : autorisées si compatibles avec la sécurité et la salubrité de la zone et sans nuisance sonore ou
+    olfactive
+    Affouillements et exhaussements : autorisés s'ils sont liés et nécessaires aux occupations autorisées ou à
+    la géothermie (géothermie de surface inférieure à 2 m dans les périmètres de protection de captages)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         14 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    Périmètre d'attente de projet d'aménagement global (5 ans maximum) : toute construction nouvelle et
+    toute installation interdites ; sont autorisés l'adaptation, le changement de destination, la réfection ou
+    l'extension inférieure ou égale à 40 m² des constructions existantes, sans création de logement
+    supplémentaire ; hauteur limitée à celle des constructions existantes
+    Linéaires commerciaux protégés, zones humides, ripisylves, EBC, secteurs paysagers protégés : règles
+    des dispositions générales (art. 5)
+
+
+3.7 Points de vigilance pour votre projet
+    Vérifier au plan graphique si la parcelle est incluse dans un périmètre d'attente de projet d'aménagement
+    global : construction nouvelle interdite pendant 5 ans maximum, extension limitée à 40 m².
+    Vérifier la présence d'un trait de recul, d'un secteur d'OAP, d'un emplacement réservé, d'un bâti
+    remarquable, d'un arbre remarquable, d'un alignement d'arbres, d'une zone humide ou d'une ripisylve sur
+    la parcelle.
+    Consulter le PPRi (approuvé le 27 avril 2016), le classement sonore des voies, la servitude aéronautique et
+    le risque de retrait-gonflement des argiles (études de sol).
+    Calculer le coefficient de biotope (0,4) et la pleine terre (30 % si terrain de plus de 500 m²), avec en pleine
+    terre une partie d'un seul tenant d'au moins un tiers et des largeurs de plus de 2 m.
+    Respecter la règle de retrait de la moitié de la hauteur vis-à-vis des limites séparatives (minimum 3 m), qui
+    limite fortement la constructibilité en limite.
+    Divisions parcellaires dans certains secteurs soumises à déclaration préalable ; vérifier le périmètre.
+    Pour une parcelle inférieure à 500 m² hors lotissement, justifier les principes d'implantation et d'orientation
+    (titre II, art. 4-4).
+    Commerce de détail limité à 300 m² de surface de vente ; commerce de gros, industrie, entrepôt limités à
+    l'extension de l'existant (10 %).
+
+
+3.8 Extraits du règlement
+
+     art. 3-1 · page 95
+     « En l’absence de trait de recul indiqué au plan graphique, les constructions nouvelles doivent être
+     implantées avec un retrait inférieur ou égal à 5 mètres par rapport aux voies publiques et privées »
+
+
+     art. 3-5 · page 96
+     « la hauteur maximale des constructions est limitée, sur leur partie aérienne, à 4 niveaux (soit un
+     rez-de-chaussée et 3 étages). »
+
+
+     art. 5 · page 101
+     « Pour les projets situés sur une unité foncière supérieure à 500m², 30% de la superficie de l’unité
+     foncière doit être préservée en pleine terre. »
+
+
+     art. 5 · page 100
+     « Tout projet de construction neuve ou d’extension doit intégrer des surfaces écoaménagées
+     permettant d’atteindre un coefficient de biotope par surface de 0,4. »
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       15 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+     art. 1 · page 93
+     « toute construction nouvelle, quelle que soit sa sous-destination, est interdite pour une durée au plus
+     de 5 ans dans l’attente de l’approbation par la commune d’un projet d’aménagement global. »
+
+
+     art. 6 · page 103
+     « Pour les logements : 1 place de stationnement par logement, arrondies au supérieur. »
+
+
+
+3.9 Démarches probables
+    Permis de construire pour toute construction nouvelle ou extension importante, ou changement de
+    destination avec modification de façade ou de structure porteuse
+    Déclaration préalable pour changement de destination sans travaux sur façade ou structure, clôtures,
+    ravalement, extensions et annexes de faible surface
+    Permis de démolir préalable à toute démolition totale ou partielle
+    Permis d'aménager ou déclaration préalable pour lotissement ; déclaration préalable pour abattage
+    d'arbres protégés
+    Raccordement au réseau d'eau et d'assainissement ; étude de gestion des eaux pluviales selon le zonage
+    pluvial
+    Consultation de l'Unité départementale de l'architecture et du patrimoine (UDAP) si périmètre de protection
+    de monument historique
+
+     Cette lecture est établie automatiquement, par intelligence artificielle, à partir du règlement officiel en
+     vigueur. Elle peut comporter des imprécisions : seul le texte du règlement, reproduit en annexe (pages
+     91 à 104 du document approuvé), fait foi, avec les dispositions générales, les orientations
+     d'aménagement et les servitudes.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       16 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                                    04 · Loi Littoral et loi Montagne
+
+
+
+
+   04              Loi Littoral et loi Montagne
+     DANS CETTE SECTION
+
+     Les lois nationales qui s'ajoutent au document d'urbanisme sur le littoral et en montagne. Elles
+     peuvent rendre un terrain inconstructible même en zone constructible.
+
+
+Les lois d'aménagement qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+
+
+4.1 Loi Littoral
+Commune littorale                                        Non
+
+Distance au rivage                                       Sans objet
+
+Bande des 100 mètres                                     Sans objet
+
+
+La commune n'est pas riveraine de la mer : la loi Littoral ne s'applique pas (sauf rives de grands lacs).
+
+
+4.2 Loi Montagne
+Commune en zone de montagne                              Non
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          17 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+   05              Risques naturels et technologiques
+     DANS CETTE SECTION
+
+     Les risques connus à l'adresse du terrain (inondation, feu de forêt, mouvement de terrain,
+     radon…) et les catastrophes naturelles reconnues sur la commune.
+
+
+Base nationale Géorisques (ministère de la Transition écologique).
+
+
+
+5.1 Risques naturels à l'adresse de la parcelle
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Inondation                                      Non connu                                       Existant
+
+  Remontée de nappe                               Existant                                        Existant
+
+  Séisme                                          Existant – modéré                               Existant – modéré
+
+  Retrait-gonflement des                          Existant – modéré                               Existant – important
+  argiles
+
+  Radon                                           Existant – faible                               Existant – faible
+
+
+
+
+5.2 Risques technologiques
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Installations industrielles                     Non concerné                                    Concerné
+  (ICPE)
+
+  Canalisations de matières                       Non concerné                                    Concerné
+  dangereuses
+
+  Pollution des sols                              Concerné                                        Concerné
+
+
+
+
+5.3 Indicateurs réglementaires
+Zone de sismicité                                        Zone 3 – moderee
+
+Potentiel radon                                          Catégorie 1 (potentiel faible)
+
+Retrait-gonflement des argiles                           Existant – modéré
+
+Plans de prévention (PPR)                                Atlas des zones inondables de la Reyssouze
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       18 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            Bourg-en-Bresse · CK 69
+          TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.4 Arrêtés de catastrophe naturelle
+13 arrêtés de reconnaissance de l'état de catastrophe naturelle concernent la commune.
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Sécheresse                                                                01/01/2022 au 30/09/2022                       08/09/2023
+
+  Sécheresse                                                                01/04/2020 au 30/09/2020                       06/06/2021
+
+  Sécheresse                                                                01/01/2019 au 31/03/2019                       29/07/2020
+
+  Sécheresse                                                                01/07/2018 au 30/09/2018                       17/07/2019
+
+  Inondations et/ou Coulées de Boue                                         16/04/2005 au 17/04/2005                       10/08/2005
+
+  Inondations et/ou Coulées de Boue                                         05/08/1995 au 08/08/1995                       15/10/1995
+
+  Inondations et/ou Coulées de Boue                                         14/07/1994                                     20/11/1994
+
+  Inondations et/ou Coulées de Boue                                         05/10/1993 au 10/10/1993                       24/10/1993
+
+  Tempête                                                                   24/07/1983                                     11/09/1983
+
+  Grêle                                                                     24/07/1983                                     11/09/1983
+
+  Inondations et/ou Coulées de Boue                                         24/07/1983                                     11/09/1983
+
+  Mouvement de Terrain                                                      01/05/1983 au 31/05/1983                       11/09/1983
+
+  Inondations et/ou Coulées de Boue                                         01/05/1983 au 31/05/1983                       11/09/1983
+
+
+
+
+5.5 Installations classées à proximité (moins de 1 km)
+    CARREFOUR STATIONS SERVICE · Autres régimes
+    GDF SUEZ · Autres régimes
+    SAS CARREFOUR HYPERMARCHES · Autres régimes
+
+
+5.6 Sites et sols pollués à proximité
+    Garage central · ancien site industriel ou d'activité de service (CASIAS)
+    Station service · ancien site industriel ou d'activité de service (CASIAS)
+    Station service · ancien site industriel ou d'activité de service (CASIAS)
+    Station service · ancien site industriel ou d'activité de service (CASIAS)
+    Stockage de pneumatiques · ancien site industriel ou d'activité de service (CASIAS)
+    Fabrication de meubles et de sièges · ancien site industriel ou d'activité de service (CASIAS)
+    Usine de fabrication de matières plastiques · ancien site industriel ou d'activité de service (CASIAS)
+    Traitement et développement des surfaces photosensibles à base argentique · ancien site industriel ou
+    d'activité de service (CASIAS)
+    2 anciens sites industriels ou d'activités de service (CASIAS) recensés
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        19 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+    1 site pollué en cours d'instruction recensé
+    3 sites soumis à restrictions d'usage recensés
+
+
+5.7 Rapport officiel Géorisques
+Les risques recensés ci-dessus proviennent des bases officielles de Géorisques, service public d'information
+sur les risques. Le rapport officiel complet peut être édité gratuitement, à tout moment et à jour, à partir de
+l'adresse du terrain sur le site Géorisques.
+
+
+    Éditer le rapport officiel Géorisques
+
+
+Lors d'une vente ou d'une location, le vendeur ou le bailleur doit remettre un état des risques de moins de six mois,
+complété et signé, et l'information sur les sinistres indemnisés au titre des catastrophes naturelles.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      20 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+   06              Le terrain : accès, relief et réseaux
+     DANS CETTE SECTION
+
+     Les contraintes physiques du terrain : accès à une voie, pente et exposition, assainissement,
+     raccordement à l'électricité et à l'eau, fibre. Ce sont elles qui pèsent le plus sur le coût d'un
+     projet.
+
+
+Voirie (IGN, BD TOPO), altimétrie (IGN, RGE ALTI), règlement de la zone, réseau électrique (Agence ORE) et éligibilité
+internet (Arcep).
+
+
+
+6.1 Accès
+Accès direct à une voie                                  Oui
+
+Voie                                                     Route empierrée
+
+Accès des véhicules                                      Libre
+
+
+La parcelle touche une voie carrossable. L'autorisation d'urbanisme vérifiera que l'accès est adapté au projet et sûr,
+et peut imposer une permission de voirie ou un aménagement de l'entrée.
+
+
+6.2 Relief et exposition
+Pente moyenne                                            1%
+
+Exposition                                               Terrain plat
+
+Altitude                                                 227 à 228 m
+
+Appréciation                                             Terrain plat ou presque plat
+
+
+
+
+ 228 m
+
+ 227 m
+
+
+           Coupe du terrain dans le sens de la pente · longueur 96 m
+
+
+     Terrassements limités ; pas de surcoût notable lié au relief.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       21 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Bourg-en-Bresse · CK 69
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.3 Ensoleillement
+Appréciation                                             Très bien ensoleillé
+
+Soleil direct le 21 juin                                 14 h 42 (de 06 h 30 à 21 h 00)
+
+Soleil direct aux équinoxes                              11 h 12 (de 07 h 10 à 18 h 10)
+
+Soleil direct le 21 décembre                             7 h 42 (de 08 h 50 à 16 h 30)
+
+Ensoleillement annuel possible                           4 130 h par an, soit 94 % du maximum à cette latitude
+
+Hauteur du relief vers le sud                            14°
+
+
+ 75°
+
+
+
+ 60°
+
+
+
+ 45°
+
+
+
+ 30°
+
+
+
+ 15°
+
+
+
+ 0°
+                                Est                  Sud-est                    Sud                 Sud-ouest               Ouest
+
+          21 juin          Équinoxes               21 décembre                 Horizon : relief et bâtiments voisins
+
+
+
+       Le relief et les constructions voisines ne masquent presque pas le soleil : le terrain profite de la
+       quasi-totalité de l'ensoleillement possible à cette latitude.
+
+
+
+Ensoleillement mois par mois (le 21 de chaque mois)
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Janvier                         9 h 12                             8 h 42                                    08 h 40 – 17 h 10
+
+  Février                         10 h 30                            9 h 42                                    08 h 00 – 17 h 30
+
+  Mars                            12 h                               11 h 12                                   07 h 10 – 18 h 10
+
+  Avril                           13 h 42                            13 h                                      07 h 10 – 20 h 00
+
+  Mai                             15 h                               14 h 12                                   06 h 40 – 20 h 40
+
+  Juin                            15 h 30                            14 h 42                                   06 h 30 – 21 h 00
+
+  Juillet                         15 h                               14 h 12                                   06 h 50 – 20 h 50
+
+  Août                            13 h 42                            13 h                                      07 h 20 – 20 h 10
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          22 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Septembre                       12 h 12                            11 h 18                                   07 h 50 – 19 h 00
+
+  Octobre                         10 h 30                            9 h 30                                    08 h 40 – 18 h 00
+
+  Novembre                        9h                                 8 h 30                                    08 h 20 – 16 h 40
+
+  Décembre                        8 h 18                             7 h 42                                    08 h 50 – 16 h 30
+
+
+
+Calcul théorique par ciel dégagé, au centre de la parcelle et à hauteur d'homme : course du soleil heure par heure, masque du relief
+sur 6 km (IGN, RGE ALTI) et des bâtiments voisins sur 120 m (IGN, BD TOPO, 27 bâtiments pris en compte). La végétation et les
+constructions récentes ne sont pas prises en compte.
+
+
+6.4 Quel raccordement pour les eaux usées ?
+Raccordement à prévoir                                       Tout-à-l'égout très probable
+
+Zone du PLU                                                  UC · Urbaine
+
+Zonage d'assainissement                                      Non publié au Géoportail de l'Urbanisme (consultable en mairie)
+
+Réseau collectif sur la commune                              Oui · COMMUNAUTE D'AGGLOMERATION DU BASSIN DE BOURG
+                                                             EN BRESSE · régie publique
+
+
+     Le terrain est en zone urbaine (UC) et la commune dispose d'un réseau public d'assainissement
+     collectif. Dans ces zones, le réseau passe en général dans la voie et le règlement impose le
+     raccordement lorsqu'il existe. À confirmer par le service d'assainissement pour ce terrain précis.
+
+
+
+Ce que dit le règlement de la zone
+Raccordement obligatoire au réseau public d'assainissement en zone desservie : toute construction nouvelle,
+restauration ou changement de destination doit être équipée d'un réseau séparatif eaux usées / eaux pluviales
+jusqu'en limite de propriété. Les rejets d'activités générant des eaux usées non domestiques nécessitent
+l'autorisation préalable du gestionnaire (prétraitement possible). Assainissement non collectif admis seulement en
+l'absence de réseau séparatif ou en attente de celui-ci, avec une filière conforme à la réglementation ; aucune
+surface minimale ni étude de sol spécifique n'est fixée par le règlement. Eaux pluviales : gestion sur l'unité foncière
+(rétention, infiltration), débit de fuite maximal de 3 l/s par hectare.
+
+Le règlement admet un assainissement individuel uniquement là où le réseau public n'existe pas : cette mention ne signifie
+pas que le terrain n'est pas desservi.
+
+Ce que cela coûte
+Raccordement au tout-à-l'égout : branchement sous la voie réalisé par le service d'assainissement (souvent 1 500 à
+5 000 € selon la distance), canalisation sur le terrain jusqu'à la maison, et participation pour le financement de
+l'assainissement collectif (PFAC) fixée par la commune ou l'intercommunalité, généralement de 1 000 à 5 000 €. Le
+service remet un devis à partir du plan de situation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         23 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+Qui contacter pour obtenir la confirmation
+Service d'assainissement                                     COMMUNAUTE D'AGGLOMERATION DU BASSIN DE BOURG EN
+                                                             BRESSE
+
+Mairie                                                       Mairie de Bourg-en-Bresse
+
+Téléphone                                                    04 74 45 71 99
+
+E-mail                                                       mairie@bourgenbresse.fr
+
+
+    Demandez au service d'assainissement, avec la référence cadastrale, si une canalisation publique passe au droit
+    du terrain, à quelle profondeur, et le montant de la PFAC. Sa réponse écrite vaut attestation de raccordabilité.
+    Certificat d'urbanisme opérationnel (formulaire Cerfa 13410, gratuit) : la mairie y indique officiellement si le
+    terrain est desservi par le réseau d'assainissement.
+    Plan des réseaux : la présence des canalisations enterrées près du terrain peut être vérifiée sur
+    reseaux-et-canalisations.gouv.fr, le guichet unique des réseaux.
+Sources : zonage d'assainissement et règlement (Géoportail de l'Urbanisme) ; services publics d'assainissement (SISPEA, Office
+français de la biodiversité) ; annuaire de l'administration (service-public.fr).
+
+Si le réseau public n'était finalement pas accessible
+  FILIÈRE                                    QUAND ELLE CONVIENT                                                           ORDRE DE PRIX
+
+  Fosse toutes eaux et                       Sol perméable, terrain assez grand et peu pentu                               5 000 à 10 000 €
+  épandage
+
+  Filtre à sable                             Sol peu perméable, place suffisante                                           8 000 à 12 000 €
+
+  Micro-station agréée                       Petit terrain ou sol défavorable ; entretien et électricité                   7 000 à 15 000 €
+
+  Filtre compact agréé                       Petit terrain, sans électricité                                               9 000 à 14 000 €
+
+
+
+Ordres de prix indicatifs (fourniture et pose, hors étude de sol et terrassements particuliers). La filière est choisie au vu de l'étude
+de sol et validée par le SPANC.
+
+
+6.5 Électricité et eau potable
+Gestionnaire du réseau                                       Enedis
+
+Réseau basse tension le plus proche                          au contact de la parcelle (ligne souterraine)
+
+Ligne aérienne la plus proche                                à environ 5 m
+
+Ligne souterraine la plus proche                             au contact de la parcelle
+
+Poste de transformation le plus proche                       à environ 25 m
+
+Appréciation                                                 Branchement simple probable
+
+
+     Le réseau basse tension passe au contact de la parcelle : un branchement simple est en principe
+     possible (de l'ordre de 1 500 à 3 000 € pour une maison, selon la longueur et la puissance), sous
+     réserve de la capacité du réseau et des coffrets existants.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           24 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+Ce qu'il faut vérifier avant d'acheter
+    La capacité du réseau : même un réseau proche peut être saturé (coffret ou câble plein, poste de transformation
+    au maximum). Seule une étude du gestionnaire permet de le savoir ; c'est la cause la plus fréquente de surcoûts
+    imprévus.
+    Électricité : demander au gestionnaire du réseau une étude de raccordement ou un devis à partir de l'adresse et
+    du plan de situation (gratuit). Elle indique le type de raccordement, son coût et son délai.
+    Eau potable : les plans du réseau d'eau ne sont pas publics. Interroger le service des eaux (coordonnées
+    ci-dessous) sur la présence d'une canalisation au droit du terrain, sa capacité et le coût du branchement, ainsi
+    que sur la défense incendie (borne à moins de 200 m environ).
+    Certificat d'urbanisme opérationnel : la mairie y indique si le terrain est desservi par les réseaux publics (eau,
+    électricité, assainissement) et, à défaut, si et quand ils seront étendus. Un refus de permis peut être fondé sur
+    l'insuffisance des réseaux (article L. 111-11 du Code de l'urbanisme).
+
+Qui contacter
+Service de l'eau potable                                     COMMUNAUTE D'AGGLOMERATION DU BASSIN DE BOURG EN
+                                                             BRESSE
+
+Mode de gestion                                              Régie publique
+
+Contact pour le branchement                                  COMMUNAUTE D'AGGLOMERATION DU BASSIN DE BOURG EN
+                                                             BRESSE
+
+Mairie                                                       Mairie de Bourg-en-Bresse
+
+Téléphone de la mairie                                       04 74 45 71 99
+
+E-mail de la mairie                                          mairie@bourgenbresse.fr
+
+Électricité (raccordement)                                   Enedis · demande en ligne sur enedis.fr (raccordement)
+
+La mairie oriente vers le bon interlocuteur et confirme, dans le certificat d'urbanisme, la desserte du terrain par les réseaux.
+Sources : SISPEA, observatoire des services publics d'eau (OFB) ; annuaire de l'administration (service-public.fr).
+
+Dans une promesse de vente, une condition suspensive portant sur le coût du raccordement aux réseaux protège
+l'acquéreur. Source de la cartographie électrique : Agence ORE, données des gestionnaires de réseaux de distribution ;
+tracés indicatifs.
+
+
+6.6 Fibre et internet
+     Le terrain est déjà fibré : 1 adresse située sur la parcelle (14 rue jean-marie goujon) est déclarée
+     raccordable à la fibre.
+
+
+
+Adresse la plus proche                                          14 rue jean-marie goujon · à 13 m · raccordable
+
+Point fibré le plus proche                                      14 rue jean-marie goujon · à 13 m
+
+Adresses fibrées à moins de 100 m                               11 sur 11
+
+Adresses fibrées à moins de 400 m                               140 sur 140
+
+Technologies disponibles à proximité                            4G fixe, Fibre, Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      25 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                                                                                  Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                                                                                         06 · Le terrain : accès, relief et réseaux
+
+
+
+
+     Points fibrés autour du Fterrain                                            F
+                                                                                 F                                               F F
+                                                                                F
+                                                            F                                                                                F
+                                                           F                                                             F
+                                               F           F                                                                     F
+               F                                                                                                                     F
+                                                                        F                                                                F
+                                                                                                                                             F
+           F
+                                                                                              F          F
+                                               F                                                                         F
+                                                                                                                                                 F F
+                                                                            F        F                                                               F                   F
+                                                                                 F                                                                F              F
+                                                                                                                                         F                   F
+                                                                                                     F                                                                       F       FF
+                                           F                                                                     F                                                       F
+                                                                                                                                                                     F
+                                                                                                                     F               F
+                                                                F                                                                                   F                            F
+                                                   F                                           F
+                                                                                     F          FF                                                                           F
+                       F       F                                        F                    F F F
+                   F                                                                             F                                           F               F
+                                                                    F                            F
+                                                       F
+                                                                                     F                           F           F
+                                               F                        F                                                        F                                                    F
+                           F       F                            F                        F
+                                                           F                                                 F                       F F                                                  F
+                   F                               F                        F                                                                                                                                      F
+                               F           F                    F F                            F F
+                           FFF                         F                                                                                                                                      F
+                   FF                              F                                     F
+                                                                                                                                                                 F                                 F
+                                   F       F                                                                     F                                 F                                                   F
+                               F                                                                                     F
+                                                                                                                                                                                 F
+                                                                                                         F F                                             F
+                                                       F
+
+                                                                                                                                                    F    F
+                                       F                                                                                                                                                                   100 m
+
+
+
+Repères F : adresses déclarées raccordables à la fibre (Arcep) · en terracotta : sur la parcelle · fond © IGN
+
+
+Vérifiez la fibre à l'adresse du terrain :
+
+                           Carte fibre Orange                                                                                                                            Carte de l'Arcep
+
+
+  DISTANCE                 ADRESSE                                                                                                                       FIBRE                   AUTRES ACCÈS
+
+  13 m                     14 rue jean-marie goujon                                                                                                      Oui                     4G fixe, Satellite
+
+  35 m                     11 rue jean-marie goujon                                                                                                      Oui                     4G fixe, Satellite
+
+  55 m                     71 avenue amédée mercier                                                                                                      Oui                     4G fixe, Satellite
+
+  59 m                     199 rue du quatorze juillet 1789                                                                                              Oui                     4G fixe, Satellite
+
+  69 m                     73 avenue amédée mercier                                                                                                      Oui                     4G fixe, Satellite
+
+  74 m                     75 avenue amédée mercier                                                                                                      Oui                     4G fixe, Satellite
+
+  83 m                     225 rue de loëze                                                                                                              Oui                     4G fixe, Satellite
+
+  87 m                     0 rue du 14 juillet 1789                                                                                                      Oui                     4G fixe, Satellite
+
+
+
+Source : Arcep, « Ma connexion internet », éligibilité déclarée par les opérateurs, adresse par adresse. Le tracé des câbles n'est
+pas public : la présence de la fibre en limite de terrain se vérifie auprès de l'opérateur ou par une déclaration de projet de travaux
+(DT).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                                                                                  26 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.7 Qui contacter pour les réseaux
+  RÉSEAU                                    INTERLOCUTEUR                                         CE QU'IL FAUT DEMANDER
+
+  Eau potable et                            Mairie ou service des eaux de la                      Attestation de desserte et conditions de
+  assainissement collectif                  commune                                               raccordement
+
+  Assainissement individuel                 SPANC (communauté de communes)                        Contrôle de conception sur la base de l'étude
+                                                                                                  de sol
+
+  Électricité                               Enedis (gestionnaire du réseau de                     Étude de raccordement et devis
+                                            distribution)
+
+  Fibre et téléphone                        Opérateur d'infrastructure et                         Raccordement du futur logement
+                                            fournisseur d'accès
+
+  Tous réseaux                              Guichet unique des réseaux                            Déclaration de projet de travaux (DT) pour
+                                            (reseaux-et-canalisations.gouv.fr)                    localiser les réseaux existants
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        27 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+    07             Environnement et marché immobilier
+     DANS CETTE SECTION
+
+     Les espaces naturels protégés autour du terrain et les prix de vente réels des maisons,
+     appartements et terrains alentour.
+
+
+Inventaire national du patrimoine naturel et demandes de valeurs foncières (DVF).
+
+
+
+7.1 Espaces naturels protégés ou inventoriés
+La parcelle n'est concernée par aucun site Natura 2000, ZNIEFF, parc ou réserve naturelle.
+
+
+7.2 Espèces protégées observées près du terrain
+99 espèces protégées ont été observées dans un rayon de 1 km autour du terrain depuis 1990 ; les 14 plus
+fréquemment signalées figurent ci-dessous.
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Mésange charbonnière (Parus major)                              Oiseau                 Nationale (espèce et              162 · dernière en
+                                                                                         habitat)                          2025
+
+  Mésange bleue (Cyanistes caeruleus)                             Oiseau                 Nationale (espèce et              153 · dernière en
+                                                                                         habitat)                          2025
+
+  Corneille noire (Corvus corone)                                 Oiseau                 Nationale (espèce et              101 · dernière en
+                                                                                         habitat)                          2025
+
+  Moineau domestique (Passer                                      Oiseau                 Nationale (espèce et              100 · dernière en
+  domesticus)                                                                            habitat)                          2025
+
+  Agrion de Mercure (Coenagrion                                   Insecte                Nationale (espèce et              79 · dernière en
+  mercuriale)                                                                            habitat)                          2021
+
+  Fauvette à tête noire (Sylvia atricapilla)                      Oiseau                 Nationale (espèce et              79 · dernière en
+                                                                                         habitat)                          2025
+
+  Rouge-gorge familier (Erithacus                                 Oiseau                 Nationale (espèce et              73 · dernière en
+  rubecula)                                                                              habitat)                          2025
+
+  Pinson des arbres (Fringilla coelebs)                           Oiseau                 Nationale (espèce et              70 · dernière en
+                                                                                         habitat)                          2025
+
+  Rossignol de muraille (Phoenicurus                              Oiseau                 Nationale (espèce et              62 · dernière en
+  phoenicurus)                                                                           habitat)                          2025
+
+  Verdier (Chloris chloris)                                       Oiseau                 Nationale (espèce et              58 · dernière en
+                                                                                         habitat)                          2022
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         28 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Roitelet triple-bandeau (Regulus                                Oiseau                 Nationale (espèce et              48 · dernière en
+  ignicapilla)                                                                           habitat)                          2021
+
+  Martinet noir (Apus apus)                                       Oiseau                 Nationale (espèce et              37 · dernière en
+                                                                                         habitat)                          2025
+
+  Grosbec casse-noyaux (Coccothraustes                            Oiseau                 Nationale (espèce et              35 · dernière en
+  coccothraustes)                                                                        habitat)                          2021
+
+  Troglodyte mignon (Troglodytes                                  Oiseau                 Nationale (espèce et              33 · dernière en
+  troglodytes)                                                                           habitat)                          2022
+
+
+
+     Une observation à proximité ne signifie pas que l'espèce vit sur le terrain. Mais si elle y est présente, il
+     est interdit de détruire, capturer ou déranger les individus et, pour la plupart de ces espèces, de
+     détruire leurs lieux de reproduction et de repos (articles L. 411-1 et suivants du Code de
+     l'environnement). L'infraction est punie de 3 ans d'emprisonnement et 150 000 € d'amende.
+
+
+
+Que faire avant de construire ?
+    Pour une maison individuelle, aucune étude écologique n'est imposée en règle générale, et l'étude de sol porte
+    sur le terrain (fondations), pas sur la faune ni la flore. Vous restez cependant responsable si une espèce
+    protégée vit sur la parcelle : en cas de doute (espèce observée tout près, vieux arbres, murets, maquis, zone
+    humide), faites passer un écologue avant de défricher.
+    Si un enjeu est confirmé : inventaire faune-flore aux saisons utiles (printemps et été en général), puis mesures
+    pour éviter et réduire l'impact : implantation de la maison sur la partie la moins sensible, travaux hors période de
+    reproduction, clôture de chantier adaptée, déplacement d'individus par un spécialiste habilité.
+    Si la destruction d'individus ou d'habitats ne peut pas être évitée : demande de dérogation « espèces protégées »
+    auprès de la préfecture (DREAL), avec avis du conseil scientifique. Comptez 4 à 12 mois d'instruction, à anticiper
+    avant le dépôt du permis.
+
+Combien prévoir ?
+Pré-diagnostic écologique                                800 à 2 000 € (une visite et une note de synthèse)
+
+Inventaire faune-flore                                   3 000 à 10 000 € selon la surface et le nombre de passages
+
+Mesures d'évitement et de réduction                      500 à 5 000 € (balisage, calendrier, suivi de chantier)
+
+Dossier de dérogation                                    8 000 à 25 000 €, hors mesures de compensation éventuelles
+
+Ordres de prix indicatifs, honoraires de bureaux d'études en environnement, si une étude est nécessaire. Pour une maison sur un
+terrain déjà entouré de constructions, aucune étude n'est le plus souvent requise.
+
+Sources : statuts de protection TAXREF et base de connaissance des statuts (INPN, Muséum national d'Histoire naturelle) ;
+observations naturalistes GBIF, qui rassemble notamment les données de l'INPN et du SINP.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         29 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+7.3 Prix de l'immobilier à Bourg-en-Bresse
+Prix au mètre carré des ventes enregistrées sur la commune au cours des cinq dernières années publiées.
+Seules les ventes portant sur un bien unique sont retenues.
+
+  TYPE DE BIEN                                       VENTES                       €/M² MÉDIAN                              €/M² MOYEN
+
+  Maisons                                            600                          2 326 €/m²                               2 391 €/m²
+
+  Appartements                                       2 611                        1 964 €/m²                               2 126 €/m²
+
+  Locaux commerciaux                                 308                          1 373 €/m²                               1 956 €/m²
+
+
+
+Source : statistiques des demandes de valeurs foncières (DGFiP, Etalab). Prix des actes, hors frais : un ordre de grandeur,
+pas une estimation du bien.
+
+
+7.4 Ventes de terrains autour de la parcelle
+Période observée                                         2021 à 2026
+
+Ventes de terrains recensées                             11
+
+Prix médian                                              141 €/m²
+
+Prix courants (une vente sur deux)                       138 à 193 €/m²
+
+
+  DATE                    PARCELLE                            NATURE                              SURFACE              PRIX             €/M²
+
+  29/05/2026              BD 365                              terrains à bâtir                    564 m²               90 000 €         160
+
+  29/10/2025              CK 191 (+1)                         prés, taillis sous futaie           596 m²               11 920 €         20
+
+  27/05/2025              BE 231                              terrains à bâtir                    997 m²               2 451 600 €      2 459
+
+  26/05/2025              BE 231                              terrains à bâtir                    997 m²               140 000 €        140
+
+  24/02/2025              CK 196                              terrains à bâtir                    1 645 m²             78 681 €         48
+
+  11/04/2024              BD 374 (+3)                         sols, terrains à bâtir              1 572 m²             276 000 €        176
+
+  12/05/2023              CK 188 (+3)                         sols                                2 799 m²             1 050 000 €      375
+
+  20/04/2023              AX 429 (+1)                         Jardin potager                      570 m²               78 500 €         138
+
+  29/07/2022              AX 431 (+1)                         Jardin potager                      405 m²               78 000 €         193
+
+  12/05/2022              CK 198                              prés                                14 917 m²            1 000 000 €      67
+
+  24/12/2021              BH 182                              sols                                425 m²               60 000 €         141
+
+
+
+Source : DVF, ventes enregistrées par la DGFiP. Les prix au mètre carré dépendent fortement de la constructibilité, de la
+vue, de l'accès et de la viabilisation : ils donnent un ordre de grandeur, pas une estimation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           30 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                                                08 · Historique du site
+
+
+
+
+   08              Historique du site
+     DANS CETTE SECTION
+
+     Le terrain vu du ciel au fil des décennies et les permis de construire accordés autour : l'évolution
+     du secteur en un coup d'œil.
+
+
+Photographies aériennes de l'IGN et permis de construire délivrés (Sitadel).
+
+
+
+8.1 Le terrain vu du ciel, d'hier à aujourd'hui
+
+    1950-1965                                             2000-2005                                              2006-2010
+
+
+
+
+    2011-2015                                             Aujourd'hui
+
+
+
+
+Ces vues montrent l'évolution du terrain et du quartier, des années 1950 à aujourd'hui (photographies aériennes de l'IGN).
+
+     Bon à savoir : l'existence ancienne d'une construction peut ouvrir, sous conditions, un droit à
+     reconstruire ou à restaurer un bâtiment dont il reste l'essentiel des murs porteurs (articles L. 111-15 et L.
+     111-23 du Code de l'urbanisme).
+
+
+
+
+8.2 Permis de construire délivrés autour du terrain
+Autorisations sur la commune (3 ans)                                    77 · dernière recensée le 15/09/2026
+
+Logements autorisés (3 ans)                                             883
+
+Dont maisons individuelles                                              43
+
+Autorisations dans la section CK                                        3 depuis 2013
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  05/04/2022            Permis de construire                   CK 29              146            7 189 m²                  70 RUE DE LOEZE
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             31 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                                                08 · Historique du site
+
+
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS           SURFACE CRÉÉE            LIEU-DIT / VOIE
+
+  30/09/2020            Permis de construire                   CK 117             12              1 257 m²                 RUE DE LOEZE
+
+  28/01/2016            Permis de construire                   CK 133             87              6 326 m²                 RUE MARCEL DUCHAMP
+
+
+
+Permis accordés à moins de 500 m du terrain
+  DATE                 AUTORISATION                       PARCELLE          DISTANCE         LOGTS        SURFACE             LIEU-DIT / VOIE
+
+  30/09/2020           Permis de construire               CK 117            140 m            12           1 257 m²            RUE DE LOEZE
+
+
+
+1 autorisation créant des logements recensée dans un rayon de 500 m : la construction a été admise récemment
+dans le voisinage immédiat.
+
+Source : base Sitadel des autorisations d'urbanisme créant des logements (SDES). Un permis accordé à proximité montre
+que des constructions ont été admises dans le secteur, sans préjuger de la décision sur votre propre projet.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            32 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                              09 · Opportunités autour du terrain
+
+
+
+
+   09              Opportunités autour du terrain
+     DANS CETTE SECTION
+
+     Ce qui se passe autour de la parcelle : grands terrains peu bâtis, sociétés propriétaires en
+     difficulté, logements énergivores. Des pistes pour un investisseur, un voisin ou un professionnel.
+
+
+Bodacc (procédures collectives), ADEME (diagnostics énergétiques), cadastre, BD TOPO et Géoportail de l'Urbanisme.
+
+
+
+9.1 Grands terrains peu bâtis à proximité
+Parcelles de plus de 1 200 m², situées en zone urbaine ou à urbaniser du PLU, dans un rayon de 250 m, dont
+moins de 8 % de la surface est bâtie, hors terrains publics : un potentiel de construction ou de division à
+étudier.
+
+  PARCELLE           SURFACE                BÂTI               ZONE               DISTANCE           PROPRIÉTAIRE
+
+  CK 141             10 184 m²              non bâti           UC                 340 m              particulier (non publié)
+
+  CK 190             5 498 m²               118 m²             UC                 280 m              particulier (non publié)
+
+  CL 248             4 304 m²               non bâti           UC                 320 m              particulier (non publié)
+
+  CL 333             3 959 m²               non bâti           UY2                280 m              CARREFOUR HYPERMARCHES (SAS)
+
+  CL 375             3 941 m²               non bâti           UY2                240 m              particulier (non publié)
+
+  CL 170             3 159 m²               non bâti           UC                 290 m              particulier (non publié)
+
+  CL 371             2 814 m²               non bâti           UY2                270 m              CARREFOUR HYPERMARCHES (SAS)
+
+  BD 229             2 669 m²               non bâti           UC                 310 m              particulier (non publié)
+
+
+
+
+9.2 Logements classés F ou G autour du terrain
+Logements diagnostiqués F ou G dans un rayon de 350 m. Leur location est déjà interdite (G) ou le sera en
+2028 (F) : leurs propriétaires sont souvent vendeurs, ou doivent engager des travaux de rénovation.
+
+  PARCELLE                   ADRESSE                                        CLASSE LOGEMENT                   SURFACE      DISTANCE DPE DU
+
+  Section CL n°              76 avenue amedee mercier                       F            Appartemen           45 m²        90 m       24/11/2022
+  101                        01000 Bourg-en-Bresse ·                                     t
+                             propriétaire : IMMO DE FRANCE
+                             - AIN (SAS)
+
+  Section CL n°              80 avenue amedee mercier                       F            Appartemen           36 m²        110 m      11/10/2023
+  101                        01000 Bourg-en-Bresse ·                                     t
+                             propriétaire : IMMO DE FRANCE
+                             - AIN (SAS)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        33 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                              09 · Opportunités autour du terrain
+
+
+
+
+  PARCELLE                   ADRESSE                                        CLASSE LOGEMENT                   SURFACE      DISTANCE DPE DU
+
+  Section CL n°              72 avenue amedee mercier                       F            Appartemen           77 m²        110 m      31/07/2023
+  347                        01000 Bourg-en-Bresse ·                                     t
+                             propriétaire : IMMO DE FRANCE
+                             - AIN (SAS)
+
+  Section CL n°              82 avenue amédée mercier                       F            Appartemen           64 m²        120 m      23/10/2025
+  101                        01000 Bourg-en-Bresse ·                                     t
+                             propriétaire : IMMO DE FRANCE
+                             - AIN (SAS)
+
+  Section CL n° 41           10 rue abbé gringoz 01000                      F            Maison               141 m²       280 m      29/05/2024
+                             Bourg-en-Bresse
+
+
+
+La parcelle est celle du point d'adresse du logement (cadastre). Pour connaître son propriétaire lorsqu'il s'agit d'un particulier,
+demandez un relevé de propriété au service de la publicité foncière ou à la mairie.
+
+Ces informations proviennent de bases publiques et ne préjugent ni de l'intention de vendre des propriétaires ni de la
+constructibilité des parcelles citées, qui relève d'une étude au cas par cas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        34 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+      10           Votre projet, étape par étape
+De l'achat du terrain à la déclaration aux impôts : démarches, délais, coûts et contacts.
+
+
+
+10.1 Analyse
+Le terrain est soumis au plan local d'urbanisme (PLU) de Bourg-en-Bresse. Il est classé en zone UC.
+Zone urbaine : secteur déjà urbanisé où les équipements publics existants ou en cours de réalisation
+permettent d'accueillir des constructions. Les constructions y sont admises dans le respect du
+règlement de la zone (destinations, implantation, hauteur, emprise, aspect).
+
+En l'état des documents consultés, un projet de construction est envisageable. Sa faisabilité dépend du
+règlement écrit de la zone : destinations autorisées, implantation par rapport aux voies et aux limites,
+hauteur maximale, emprise au sol, coefficient d'espaces verts, stationnement et aspect extérieur.
+
+
+10.2 Votre projet, étape par étape
+Les étapes ci-dessous suivent l'ordre réel d'un projet de construction, de l'achat du terrain à la déclaration aux
+impôts. Les montants sont indicatifs et à confirmer par devis.
+
+  1      Avant d'acheter le terrain
+         Vérifiez les règles de la zone (chapitres précédents), puis demandez un certificat d'urbanisme opérationnel
+         (Cerfa 13410, sans frais, réponse sous 2 mois) : il fige les règles pendant 18 mois. En zone d'argiles d'aléa
+         moyen ou fort, le vendeur doit fournir une étude de sol préalable.
+         Contact : Mairie de Bourg-en-Bresse · 04 74 45 71 99 · mairie@bourgenbresse.fr · formulaire sur service-public.fr
+         (rechercher « Cerfa 13410 »)
+
+  2      Les études
+         Étude de sol géotechnique (G2) pour dimensionner les fondations : 1 500 à 3 000 €. Étude thermique RE2020,
+         obligatoire pour le permis : 500 à 1 500 €. Bornage par un géomètre si les limites sont incertaines. L'étude de
+         sol ne porte pas sur les espèces protégées : un écologue n'intervient qu'en cas d'enjeu (chapitre
+         Environnement).
+         Géomètres proches du terrain : liste à la fin de ce chapitre
+
+  3      Les plans
+         Architecte obligatoire si la surface de plancher totale dépasse 150 m². En dessous, vous pouvez dessiner les
+         plans vous-même ou faire appel à un dessinateur ou maître d'œuvre (environ 1 500 à 4 000 € le dossier de
+         permis). Architecte : 3 000 à 8 000 € pour la seule mission de permis, 8 à 12 % du coût des travaux pour une
+         mission complète avec suivi du chantier.
+         Trouver un architecte : annuaire de l'Ordre des architectes sur architectes.org
+
+  4      Déposer le permis
+         Formulaire Cerfa 13406 (maison individuelle) et pièces PCMI1 à PCMI8 : plan de situation, plan de masse,
+         coupe, notice, plans des façades et toitures, insertion dans le paysage, photos, attestation RE2020. Dépôt en
+         mairie ou en ligne sur le guichet numérique de la commune. La mairie a 1 mois pour réclamer une pièce
+         manquante ; l'instruction dure 2 mois à partir du dossier complet, plus en secteur protégé.
+         Dépôt : Mairie de Bourg-en-Bresse · 04 74 45 71 99 · mairie@bourgenbresse.fr · formulaire sur service-public.fr
+         (rechercher « Cerfa 13406 »)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        35 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+  5      Affichage et recours
+         Dès l'accord, installez le panneau de permis sur le terrain, lisible depuis la voie, pendant toute la durée du
+         chantier. Les tiers ont 2 mois à compter du premier jour d'affichage pour contester ; la mairie peut retirer un
+         permis illégal pendant 3 mois. Faites constater l'affichage par un commissaire de justice (environ 300 à 600 €
+         pour les trois constats).
+         Commissaires de justice : annuaire sur commissaire-justice.fr
+
+  6      Avant les travaux
+         Souscrivez l'assurance dommages-ouvrage, obligatoire (souvent 2 à 4 % du coût de la construction). Signez
+         le contrat de construction de maison individuelle ou les marchés des artisans. Déposez la déclaration
+         d'ouverture de chantier (Cerfa 13407) le jour du démarrage. Le permis est valable 3 ans, prorogeable deux
+         fois d'un an.
+         Déclaration d'ouverture : Mairie de Bourg-en-Bresse · 04 74 45 71 99 · mairie@bourgenbresse.fr
+
+  7      Le financement
+         La banque débloque le prêt au fur et à mesure du chantier, sur présentation des factures des entreprises ou
+         des appels de fonds du constructeur. Avec un contrat de construction de maison individuelle, l'échéancier
+         est encadré par la loi : 15 % à l'ouverture du chantier, 25 % aux fondations, 40 % aux murs, 60 % hors d'eau,
+         75 % hors d'air et cloisons, 95 % aux équipements, le solde à la réception. Des intérêts intercalaires peuvent
+         courir sur les sommes débloquées.
+         Votre banque ou votre courtier
+
+  8      La fin du chantier
+         Réception des travaux avec le constructeur ou les artisans, avec réserves si nécessaire. Déposez ensuite la
+         déclaration attestant l'achèvement et la conformité des travaux (DAACT, Cerfa 13408), avec l'attestation
+         RE2020 de fin de chantier. La mairie a 3 mois pour la contester (5 mois en secteur protégé).
+         Dépôt : Mairie de Bourg-en-Bresse · 04 74 45 71 99 · mairie@bourgenbresse.fr
+
+  9      Les impôts
+         Dans les 90 jours suivant l'achèvement, déclarez la construction sur impots.gouv.fr, espace « Gérer mes
+         biens immobiliers ». Cette déclaration sert au calcul de la taxe d'aménagement (payée en une fois sous 1 500
+         €, sinon en deux fois, estimation plus bas dans ce chapitre) et de la taxe foncière, avec une exonération
+         possible les deux premières années selon la commune.
+         impots.gouv.fr › Espace particulier › Gérer mes biens immobiliers
+
+
+10.3 Les points à vérifier pour ce terrain
+  1      Certificat d'urbanisme opérationnel
+         Le demander en mairie (formulaire Cerfa 13410), en décrivant le projet. Gratuit, il indique si le terrain
+         peut accueillir le projet et fige les règles d'urbanisme pendant 18 mois.
+
+  2      Règlement de la zone
+         Lire le règlement écrit de la zone UC et, le cas échéant, les orientations d'aménagement, disponibles sur
+         le Géoportail de l'Urbanisme.
+
+  3      Réseaux et accès
+         Vérifier l'accès à une voie publique ou privée adaptée, la desserte en eau potable et en électricité, et le
+         mode d'assainissement. En l'absence de réseau collectif, une étude de sol et l'avis du service public
+         d'assainissement non collectif (SPANC) sont nécessaires.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        36 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+  4      Bornage
+         Faire réaliser un bornage par un géomètre-expert pour fixer les limites exactes et la surface réelle du
+         terrain.
+
+  5      Sécuriser un achat
+         Pour une acquisition, prévoir dans le compromis une condition suspensive d'obtention d'un permis de
+         construire purgé de tout recours.
+
+
+10.4 Délais indicatifs d'instruction
+  DEMANDE                                                                                 DÉLAI DE DROIT COMMUN
+
+  Certificat d'urbanisme d'information (CUa)                                              1 mois
+
+  Certificat d'urbanisme opérationnel (CUb)                                               2 mois
+
+  Déclaration préalable                                                                   1 mois
+
+  Permis de construire une maison individuelle                                            2 mois
+
+  Permis d'aménager, autres permis de construire                                          3 mois
+
+
+
+Ces délais peuvent être majorés, notamment en site classé ou inscrit, aux abords d'un monument historique ou lorsque la
+consultation d'un service extérieur est nécessaire.
+
+
+10.5 Taxe d'aménagement à prévoir
+      Exemple : une maison de 120 m² en résidence principale, avec une piscine de 3 × 6 m. Sur ce terrain, la
+      taxe d'aménagement à prévoir est d'environ 5 020 €.
+
+
+
+  PROJET                                                                                                       TAXE ESTIMÉE
+
+  Maison de 120 m², résidence principale                                                                       4 680 €
+
+  Piscine de 3 × 6 m (18 m²)                                                                                   340 €
+
+  Total à prévoir                                                                                              5 020 €
+
+
+
+Taux appliqués : 5 % pour la commune et 2,5 % pour le département, sur une valeur forfaitaire de 892 € par m² en 2026 (251
+€ par m² de bassin pour une piscine). Une résidence principale bénéficie d'un abattement de 50 % sur ses 100 premiers m².
+
+La taxe est due une fois les travaux terminés : elle se déclare sur impots.gouv.fr dans les 90 jours suivant l'achèvement, et
+se paie en deux fois au-delà de 1 500 €. Pour calculer votre propre projet :
+terrenurbanisme.com/outils/taxe-amenagement.html
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        37 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+10.6 Implanter une entreprise : zone France Ruralités Revitalisation
+     La commune de Bourg-en-Bresse n'est pas classée en zone France Ruralités Revitalisation (FRR). Une
+     entreprise qui s'y installe ne bénéficie pas de l'exonération d'impôt sur les bénéfices liée à ce zonage.
+
+
+
+Source : ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 (collectivites-locales.gouv.fr).
+
+
+10.7 Géomètres proches du terrain
+Le géomètre-expert est le seul professionnel habilité à fixer les limites de propriété (bornage) et à établir les
+documents d'arpentage déposés au cadastre. Il intervient aussi pour les relevés topographiques et les
+divisions de terrain.
+
+1,3 km            CABINET JOHAN PERRIN GEOMETRE-EXPERT
+                                                                                                                           Coordonnées
+                  8 ALLEE DE CHALLES 01000 BOURG-EN-BRESSE
+
+
+2 km              AXIS CONSEILS RHONE ALPES
+                                                                                                                           Coordonnées
+                  3 RUE DOC NODET 01000 BOURG-EN-BRESSE
+
+
+2,1 km            CABINET CHANEL-GRAND SELARL DE GEOMETRES EXPERTS
+                                                                                                                           Coordonnées
+                  34 BOULEVARD VOLTAIRE 01000 BOURG-EN-BRESSE
+
+
+2,1 km            BERTHET LIOGIER CAULFUTY
+                                                                                                                           Coordonnées
+                  41 BOULEVARD VOLTAIRE 01000 BOURG-EN-BRESSE
+
+
+3,7 km            CABINET BABLET-MAGNIEN-GAUD
+                                                                                                                           Coordonnées
+                  868 CHEMIN DES LAZARISTES 01000 SAINT-DENIS-LES-BOURG
+
+
+3,7 km            GIE BOURG-GPS
+                                                                                                                           Coordonnées
+                  868 CHEMIN DES LAZARISTES 01000 SAINT-DENIS-LES-BOURG
+
+
+Source : répertoire Sirene de l'INSEE (activité des géomètres), classé par distance au terrain. L'inscription d'un cabinet à l'Ordre
+des géomètres-experts se vérifie sur geometre-expert.fr. Le bouton « Coordonnées » ouvre la fiche du cabinet (téléphone,
+horaires, itinéraire). Cette liste est fournie à titre indicatif, sans partenariat ni recommandation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        38 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Bourg-en-Bresse · CK 69
+          TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+     11            État des risques (ERP) pré-rempli
+     DANS CETTE SECTION
+
+     Le formulaire réglementaire à remettre à l'acquéreur ou au locataire, pré-rempli à partir des
+     bases officielles : plans de prévention, sismicité, radon, sols pollués, trait de côte, bruit des
+     aérodromes.
+
+
+Articles L. 125-5 à L. 125-7 et R. 125-23 à R. 125-27 du Code de l'environnement · modèle fixé par l'arrêté du 27 septembre
+2022.
+
+
+     Formulaire pré-rempli à partir de Géorisques et du Géoportail de l'Urbanisme à la date du rapport.
+     Avant de le remettre à l'acquéreur ou au locataire, le vendeur ou le bailleur le vérifie, le complète
+     (sinistres indemnisés) et le signe ; il doit dater de moins de six mois à la signature de la promesse, du
+     bail ou de l'acte.
+
+
+
+
+11.1 Situation du bien
+Commune                                                  Bourg-en-Bresse (01053)
+
+Département                                              Ain (01)
+
+Références cadastrales                                   Section CK, parcelle n° 69 · 01053000CK0069
+
+Surface cadastrale                                       3 511 m²
+
+
+
+11.2 Plans de prévention des risques
+  L'IMMEUBLE EST SITUÉ DANS LE PÉRIMÈTRE…                                         RÉPONSE                DÉTAIL
+
+  d'un plan de prévention des risques naturels (PPRN)                             Non                    Aléas à l'adresse : remontée de nappe
+  prescrit, appliqué par anticipation ou approuvé
+
+  d'un plan de prévention des risques miniers (PPRM)                              Non                    Non recensé
+
+  d'un plan de prévention des risques technologiques                              Non                    Risques technologiques sur la commune
+  (PPRT)                                                                                                 : installations industrielles (icpe),
+                                                                                                         canalisations de matières dangereuses,
+                                                                                                         pollution des sols
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       39 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+11.3 Autres zonages réglementaires
+  L'IMMEUBLE EST SITUÉ…                                                           RÉPONSE                DÉTAIL
+
+  dans une commune de sismicité (zones 2 à 5 : règles de                          Oui                    Zone 3 – moderee
+  construction parasismique)
+
+  dans une commune à potentiel radon de niveau 3                                  Non                    Catégorie 1 (potentiel faible)
+
+  dans un secteur d'information sur les sols (SIS)                                Non                    Aucun SIS recensé à proximité
+
+  dans une zone exposée au recul du trait de côte                                 Non                    Non concerné selon Géorisques
+
+  dans une zone de bruit d'un plan d'exposition au bruit                          À vérifier             Aucun PEB annexé au document
+  d'aérodrome (PEB)                                                                                      d'urbanisme ; vérifier auprès de la mairie
+
+  dans une zone de retrait-gonflement des argiles                                 Oui                    Existant – modéré
+  (information)
+
+
+
+
+11.4 Sinistres indemnisés et déclarations
+Arrêtés de catastrophe naturelle sur la commune : 13 (liste en section Risques). Le vendeur ou le bailleur
+déclare ci-dessous les sinistres ayant donné lieu à une indemnisation au titre des catastrophes naturelles ou
+technologiques pendant la période où il a été propriétaire.
+
+Sinistres indemnisés                                     [ ] Oui [ ] Non
+
+Vendeur ou bailleur                                      Nom : ____________________ Date : ___/___/______ Signature :
+
+Acquéreur ou locataire                                   Nom : ____________________ Date : ___/___/______ Signature :
+
+
+L'état des risques officiel peut aussi être édité gratuitement sur Géorisques (errial.georisques.gouv.fr). Les informations
+ci-dessus sont établies à partir des bases nationales ; en cas de divergence, l'arrêté préfectoral relatif à l'information des
+acquéreurs et des locataires fait foi.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         40 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+    12             Avertissement et sources
+     DANS CETTE SECTION
+
+     La portée de ce rapport et la liste des sources publiques consultées.
+
+
+
+12.1 Nature du document
+Ce rapport est un document d'information établi automatiquement, à la date indiquée en page de garde, à
+partir des données publiques officielles alors disponibles. Il n'a aucune valeur contractuelle, réglementaire ou
+juridique.
+
+
+12.2 Ce que ce rapport n'est pas
+Il ne constitue ni un certificat d'urbanisme au sens de l'article L. 410-1 du Code de l'urbanisme, ni une
+autorisation d'urbanisme (permis de construire, permis d'aménager, déclaration préalable), ni un état des
+risques au sens de l'article L. 125-5 du Code de l'environnement, ni un bornage, ni une expertise, ni une
+évaluation immobilière, ni une consultation juridique. Il n'engage en rien l'administration.
+
+
+12.3 Permis de construire
+Ce rapport ne peut en aucun cas être joint, produit ou invoqué à l'appui d'une demande de permis de
+construire, de permis d'aménager ou de déclaration préalable, ni opposé à la mairie ou à un service de l'État. Il
+ne garantit pas l'obtention d'une autorisation : seule l'autorité compétente se prononce, au vu d'un projet
+précis et de l'ensemble des règles applicables à la date de sa décision.
+
+
+12.4 Limites des données
+Les données sont produites par des organismes publics dont l'éditeur n'est ni l'auteur ni le garant. Elles
+peuvent être incomplètes, imprécises ou ne pas refléter une modification, une révision, une mise en
+compatibilité, une annulation contentieuse, un sursis à statuer ou une procédure en cours. Le plan cadastral,
+document fiscal, ne fait pas foi des limites de propriété. Surfaces, distances, altitudes et pentes sont
+approchées. Les extraits et analyses du règlement sont une aide à la lecture : seul le texte intégral du
+document d'urbanisme approuvé, consultable en mairie, fait foi.
+
+
+12.5 Avant toute décision
+Avant toute acquisition, cession, financement, promesse de vente ou dépôt d'une demande, le lecteur doit
+obtenir un certificat d'urbanisme opérationnel auprès de la mairie, consulter le document d'urbanisme en
+vigueur et recueillir l'avis d'un professionnel habilité (notaire, architecte, géomètre-expert, avocat). Pour un
+achat, il est recommandé de stipuler une condition suspensive d'obtention d'un permis de construire purgé de
+tout recours.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         41 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+12.6 Responsabilité
+L'éditeur ne saurait être tenu responsable d'une décision prise sur le seul fondement de ce rapport, ni d'un
+refus d'autorisation, d'une erreur ou d'une omission des sources publiques, dans les limites prévues par les
+conditions générales de vente acceptées lors de la commande.
+
+
+12.7 Sources consultées
+  DONNÉE                                                    SOURCE
+
+  Cadastre                                                  DGFiP, plan cadastral informatisé, via API Carto (IGN)
+
+  Photographies et plans                                    IGN, Géoplateforme : orthophotographies, Plan IGN, parcellaire express
+
+  Urbanisme                                                 Géoportail de l'Urbanisme : zonage, prescriptions, informations, servitudes
+                                                            d'utilité publique
+
+  Littoral                                                  IGN, BD TOPO (limite terre-mer) ; communes littorales (Géoportail de
+                                                            l'Urbanisme)
+
+  Montagne                                                  Ministère de la Cohésion des territoires, communes de la loi Montagne
+
+  Risques                                                   Géorisques (ministère de la Transition écologique) : rapport de risques,
+                                                            arrêtés CatNat, sismicité, radon, ICPE, sites pollués
+
+  Environnement                                             Inventaire national du patrimoine naturel (PatriNat), via API Carto
+
+  Altitude, pente et exposition                             IGN, RGE ALTI
+
+  Ensoleillement                                            Calcul astronomique de la course du soleil ; masque du relief (IGN, RGE
+                                                            ALTI) et des bâtiments (IGN, BD TOPO)
+
+  Voirie et accès                                           IGN, BD TOPO (tronçons de route)
+
+  Permis de construire                                      Sitadel, service des données et études statistiques (SDES) du ministère
+                                                            chargé du logement
+
+  Photographies anciennes                                   IGN, BD ORTHO historique
+
+  Fibre et internet                                         Arcep, Ma connexion internet (éligibilité par adresse)
+
+  Géomètres                                                 Répertoire Sirene (INSEE), activité des géomètres
+
+  Propriétaires personnes morales                           DGFiP, fichiers des parcelles des personnes morales (diffusion Koumoul)
+
+  Diagnostics énergétiques                                  ADEME, base des DPE des logements existants
+
+  Procédures collectives                                    Bodacc, annonces commerciales (DILA)
+
+  Bâtiments                                                 IGN, BD TOPO
+
+  Réseau électrique                                         Agence ORE (gestionnaires de réseaux de distribution : Enedis, EDF Corse
+                                                            et entreprises locales) : réseau basse tension et postes de distribution
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        42 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+  DONNÉE                                                    SOURCE
+
+  Taxe d'aménagement                                        DGFiP, éléments de taxation votés par les collectivités ; valeurs forfaitaires
+                                                            fixées par arrêté
+
+  Rapport officiel de risques                               Géorisques, ministère chargé de l'environnement
+
+  Zone France Ruralités Revitalisation                      ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 ; article
+                                                            44 quindecies A du code général des impôts
+
+  Marché immobilier                                         Statistiques des demandes de valeurs foncières (DVF) par commune, DGFiP
+                                                            et Etalab
+
+  Date d'extraction                                         20/11/2026
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        43 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Bourg-en-Bresse · CK 69
+         TerrenUrbanisme
+                                                                                                                     Annexe · règlement de la zone
+
+
+
+
+ANNEXE
+
+
+Règlement écrit · zone UC
+Les pages suivantes reproduisent le chapitre du règlement officiel applicable à la zone de la parcelle
+(pages 91 à 104 du document approuvé), tel que publié sur le Géoportail de l'Urbanisme. Il s'agit d'une
+reproduction à titre d'information : seule la version approuvée tenue à disposition en mairie fait foi, avec
+ses annexes, plans et éventuelles modifications ultérieures.
+Règlement complet :
+https://data.geopf.fr/annexes/gpu/documents/DU_01053/9870e7bae1193284fea8e27a2b64dbf6/01053_reglement_20250623.pdf
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        44 / 59
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+Dispositions applicables aux zones résidentielles denses (UC)
+
+
+
+              DISPOSITIONS APPLICABLES AUX ZONES RESIDENTIELLES DENSES
+
+                                                                (UC)
+
+              La zone UC est une zone urbaine à dominante résidentielle, comportant des
+              potentialités d’urbanisation. Il s’agit de tissus périphériques denses ou bien à densifier.
+              Cette zone a vocation à accueillir des constructions à usage d’habitation ainsi que
+              d’autres fonctions urbaines compatibles avec la fonction résidentielle (services,
+              bureaux, équipements collectifs, espaces publics, activités artisanales non nuisantes).
+
+
+              Cette zone comprend les prescriptions graphiques suivantes :
+                  -   Arbre remarquable
+                  -   Patrimoine bâti remarquable
+                  -   Recul par rapport aux voies et aux emprises publiques
+                  -   Alignement d’arbres
+                  -   Périmètre d’attente de projet global
+                  -   Emplacement réservé
+                  -   Ripisylve
+                  -   Zone humide
+                  -   Secteur à protéger pour des motifs écologiques et paysagers
+                  -   Jardins familiaux
+                  -   Périmètre soumis à Orientation d’Aménagement et de Programmation
+              Les règles associées à ces prescriptions sont explicitées dans l’article 5 « Dispositions
+              particulières » des dispositions générales.
+
+
+              Cette zone est concernée par les servitudes et risques suivants :
+                  -   Plan de Prévention des Risques Inondation
+                  -   Classement sonore des infrastructures routières
+                  -   Zone archéologique de saisine
+                  -   Risque d’exposition au plomb
+                  -   Ouvrages de transport d’électricité
+                  -   Protection des centres radio-électriques
+                  -   Périmètre de protection de Monument Historique
+                  -   Sites et monuments naturels inscrits
+                  -   Installation classée pour la protection de l’environnement (ICPE)
+                  -   Servitudes aéronautiques
+                  -   Protection du domaine ferroviaire
+                  -   Risque retrait-gonflement des argiles
+                  -   Risque sismique
+                  -   Divisions de propriétés foncières soumises à déclaration préalable
+              Les règles associées à ces servitudes d’utilité publique sont explicitées dans les
+              annexes au PLU.
+
+
+
+                                                                                                            91
+Dispositions applicables aux zones résidentielles denses (UC)
+
+
+
+
+                    DESTINATION DES CONSTRUCTIONS, USAGES DES SOLS ET
+                                   NATURES D’ACTIVITES
+
+
+              ARTICLE 1 : CONSTRUCTIONS NOUVELLES ET AFFECTATION DES SOLS
+              Légende :
+                          Autorisé                Autorisé sous conditions     Interdit
+                             A                               C                    I
+
+
+              1/ Destinations et sous-destinations autorisées, autorisées sous conditions et
+              interdites des constructions, aménagements et ouvrages
+
+              DESTINATION SOUS-DESTINATIONS                                         UC
+
+              Exploitation    Exploitation agricole                                  I
+              agricole     et
+                              Exploitation forestière                                I
+              forestière
+                                 Logement                                            A
+              Habitation
+                                 Hébergement                                         A
+                                 Artisanat et commerce de détail                   C (1)
+                                 Restauration                                        A
+                                 Commerce de gros                                  C (2)
+              Commerces et
+                           Activités de services où s'effectue l'accueil             A
+              activités de
+                           d'une clientèle
+              service
+                           Hôtels                                                    A
+                                 Autres hébergements touristiques                    A
+                                 Cinéma                                              A
+                                 Locaux et bureaux accueillant du public des         A
+                                 administrations publiques et assimilés
+
+              Équipements    Locaux techniques et industriels des                    A
+              d'intérêt      administrations publiques et assimilés
+              collectif   et
+                             Etablissements d'enseignement, de santé et              A
+              services
+                             d'action sociale
+              publics
+                             Salles d'art et de spectacles                           A
+                                 Equipements sportifs                                A
+
+
+
+
+                                                                                               92
+Dispositions applicables aux zones résidentielles denses (UC)
+
+
+
+                                 Lieux de culte                                         A
+                                 Autres équipements recevant du public                  A
+                                 Industrie                                            C (2)
+              Autres activités
+                               Entrepôt                                               C (2)
+              des secteurs
+              primaire,        Bureau                                                   A
+              secondaire ou
+                               Centre de congrès et d'exposition                        A
+              tertiaire
+                               Cuisine dédiée à la vente en ligne                           I
+
+
+              Sont en outre interdits :
+              Les constructions, aménagements et ouvrages qui par leur destination, leur
+              importance ou leur aspect sont incompatibles avec la salubrité, la tranquillité ou la
+              sécurité du quartier.
+              Dans le secteur en attente d’un projet d’aménagement global délimité au règlement
+              graphique, toute construction nouvelle, quelle que soit sa sous-destination, est
+              interdite pour une durée au plus de 5 ans dans l’attente de l’approbation par la
+              commune d’un projet d’aménagement global. Les travaux ayant pour objet
+              l’adaptation, le changement de destination (dans la limite des sous-destinations qui ne
+              sont pas interdites dans la zone UC), la réfection ou l’extension inférieure ou égale à
+              40m² des constructions existantes à la date d’approbation du PLU sont autorisés, sous
+              réserve de ne pas créer de logement supplémentaire.
+
+              Sont admis sous conditions :
+                  (1) Les locaux d’artisanat et de commerce de détail, aux conditions cumulatives
+                      suivantes :
+                   Ils sont compatibles avec le fonctionnement du quartier et les nuisances
+                      induites par ce type d’équipements sont limitées ;
+                   Leur surface de vente est inférieure à 300m².
+                  (2) L’extension des commerces de gros, d’industries et des entrepôts existants à
+                      la date d’opposabilité du PLU, dans la limite de 10% de surface de plancher
+                      supplémentaire.
+
+
+              2/ Autres usages et affectations des sols autorisés, autorisés sous condition et
+              interdits
+
+               AUTRES USAGES ET AFFECTATIONS DES SOLS                                 UC
+
+               Dépôts de toute nature (ferraille, véhicules accidentés ou
+               usagés, etc.) notamment ceux susceptibles d’altérer les                  I
+               eaux souterraines
+
+
+
+
+                                                                                                        93
+Dispositions applicables aux zones résidentielles denses (UC)
+
+
+
+               Stationnement isolé ou groupé de caravanes, camping-cars,
+                                                                                         I
+               bateaux, etc. quelle qu’en soit la durée
+               Ouvertures et exploitations de carrières ou de gravières
+                                                                                         I
+               ainsi que toute exploitation du sous-sol
+               Installations classées pour la protection de l’environnement
+                                                                                       C (1)
+               (ICPE)
+               Affouillements et exhaussements du sol                                  C (2)
+
+
+              Sont en outre interdits :
+              Les usages et affectations des sols qui par leur destination, leur importance ou leur
+              aspect sont incompatibles avec la salubrité, la tranquillité ou la sécurité du quartier.
+              Dans le secteur en attente d’un projet d’aménagement global délimité au règlement
+              graphique, toute installation, quelle que soit sa vocation est interdite pour une durée
+              au plus de 5 ans dans l’attente de l’approbation par la commune d’un projet
+              d’aménagement global.
+
+              Sont autorisés sous conditions :
+                  (1) Les installations classées pour la protection de l’environnement (ICPE) sont
+                      autorisées sous réserve qu’elles soient compatibles avec la sécurité et salubrité
+                      de la zone et qu’elles ne génèrent pas de nuisance sonore ou olfactive.
+                  (2) Les exhaussements et affouillements de sol sont autorisés, s’ils sont liés et
+                      nécessaires à la réalisation des types d’occupation ou d’utilisation du sol
+                      autorisés dans la zone mais également afin de favoriser l’implantation de
+                      dispositifs d’exploitation de la géothermie. Dans les périmètres de protection
+                      des captages et de ressources stratégiques, seule la géothermie de surface est
+                      autorisée (inférieure à 2 mètres).
+
+
+              ARTICLE 2 : MIXITE SOCIALE ET FONCTIONNELLE
+
+
+              1/ Mixité sociale
+              Non réglementée.
+
+
+              2/ Mixité fonctionnelle
+              Non réglementée.
+
+
+
+
+                                                                                                          94
+Dispositions applicables aux zones résidentielles denses (UC)
+
+
+
+                         CARACTERISTIQUES URBAINES, ARCHITECTURALES,
+                              ENVIRONNEMENTALES ET PAYSAGERES
+
+
+              ARTICLE 3 : VOLUMETRIE ET IMPLANTATION DES CONSTRUCTIONS
+              L’ensemble des modalités de définition des retraits, de l’emprise au sol et de la hauteur
+              des constructions est explicité dans le lexique, dans les dispositions générales.
+
+
+              1/ Implantation par rapport aux voies publiques et privées et aux emprises
+              publiques
+              En l’absence de trait de recul indiqué au plan graphique, les constructions nouvelles
+              doivent être implantées avec un retrait inférieur ou égal à 5 mètres par rapport aux
+              voies publiques et privées et aux emprises publiques, existantes ou à créer. Les
+              espaces libres dans la bande de recul, hors accès, sont végétalisés.
+              Les piscines (comprenant les margelles) doivent respecter un recul supérieur ou égal
+              à 3 mètres des voies publiques et privées et aux emprises publiques, existantes ou à
+              créer.
+              Une implantation des constructions nouvelles différente peut être admise dans les cas
+              suivants :
+                     Pour prendre en compte les risques inondations ;
+                     Pour garantir une cohérence urbaine avec les constructions voisines
+                      existantes ;
+                     Pour les équipements d’intérêt collectif et de services publics ;
+                     Pour la construction d’ouvrage technique ou construction nécessaire au
+                      fonctionnement des services publics ou d’intérêt collectif ;
+                     Pour la construction d’annexe d’une emprise au sol inférieure à 25 m² et d’une
+                      hauteur inférieure à 3 mètres ;
+                     Pour favoriser une meilleure intégration urbaine.
+
+
+              2/ Implantation par rapport aux limites séparatives
+              Pour les constructions en premier rang :
+                  •   Les nouvelles constructions doivent être implantées :
+                     Soit à l’alignement sur une limite séparative latérale et en recul supérieur ou
+                      égal à 3 mètres et supérieur à la moitié de la hauteur de la construction nouvelle
+                      par rapport à la seconde limite latérale ;
+                     Soit en recul supérieur ou égal à 3 mètres et supérieur ou égal à la moitié de la
+                      hauteur de la construction nouvelle par rapport aux deux limites latérales.
+                  •   L’implantation des nouvelles constructions par rapport à la limite de fond de
+                      terrain devra respecter un recul supérieur ou égal à 3 mètres et supérieur ou
+                      égal à la moitié de la hauteur de la construction nouvelle.
+
+
+
+
+                                                                                                           95
+Dispositions applicables aux zones résidentielles denses (UC)
+
+
+
+
+              Pour les constructions au-delà du premier rang :
+                     Les constructions nouvelles doivent être implantées en recul supérieur ou égal
+                      à 3 mètres et supérieur ou égal à la moitié de la hauteur de la construction
+                      nouvelle par rapport à toutes les limites séparatives et le fond de terrain ;
+              Les piscines (comprenant les margelles) doivent respecter un recul supérieur ou égal
+              à 3 mètres des limites séparatives latérales.
+              Une implantation différente pour les constructions nouvelles est admise :
+                     Pour prendre en compte les risques inondations ;
+                     Pour les équipements d’intérêt collectif et de services publics ;
+                     Pour la construction d’ouvrage technique ou construction nécessaire au
+                      fonctionnement des services publics ou d’intérêt collectif ;
+                     Pour la construction d’annexe d’une emprise au sol inférieure à 25 m² et d’une
+                      hauteur inférieure à 3 mètres ;
+                     Pour favoriser une meilleure intégration urbaine.
+
+
+              3/ Implantation des constructions les unes par rapport aux autres sur une même
+              unité foncière
+              En cas de constructions sur plusieurs rangs sur la même unité foncière, une distance
+              supérieure ou égale à 6 mètres est imposée entre les constructions de chaque rang.
+              Dans les autres cas, une distance supérieure ou égale à 4 mètres est imposée entre
+              les constructions. Cette césure peut être occupée par des balcons et passerelles dès
+              lors qu’ils préservent les transparences visuelles sur les cœurs d’îlot.
+              Une implantation différente est admise :
+                     Pour prendre en compte les risques inondations ;
+                     Pour les équipements d’intérêt collectif et de services publics ;
+                     Pour la construction d’ouvrage technique ou construction nécessaire au
+                      fonctionnement des services publics ou d’intérêt collectif ;
+                     Pour la construction d’annexe d’une emprise au sol inférieure à 25 m² et d’une
+                      hauteur inférieure à 3 mètres ;
+                     Pour favoriser une meilleure intégration urbaine.
+
+
+              4/ Emprise au sol
+              Non règlementée.
+
+
+              5/ Hauteur
+              A l’exception des secteurs soumis à Orientation d’Aménagement et de
+              Programmation, la hauteur maximale des constructions est limitée, sur leur partie
+              aérienne, à 4 niveaux (soit un rez-de-chaussée et 3 étages).
+
+
+
+                                                                                                       96
+Dispositions applicables aux zones résidentielles denses (UC)
+
+
+
+              Toutefois, des hauteurs supérieures pourront être acceptées sur justifications du
+              pétitionnaire en fonction de l’insertion harmonieuse dans la silhouette urbaine et en
+              tenant compte du contexte immédiat.
+              Également, pour cette même motivation d’insertion harmonieuse dans la silhouette
+              urbaine et de respect du contexte immédiat, un épannelage progressif des
+              constructions sera recherché.
+              La hauteur maximale des annexes est limitée à 3,5 mètres.
+              Dans le secteur de projet en attente d’un projet d’aménagement global délimité au
+              règlement graphique, la hauteur maximale des travaux est fixée à la hauteur des
+              constructions existantes à la date d’approbation du PLU.
+
+
+              ARTICLE 4 : QUALITE URBAINE, ARCHITECTURALE, ENVIRONNEMENTALE
+              ET PAYSAGERE
+
+
+              1/ Adaptation au terrain naturel
+              Les constructions doivent s’adapter au profil du terrain naturel.
+              Les mouvements de terres (déblais, remblais) nécessaires à l’implantation de la
+              construction doivent être limités aux stricts besoins techniques et ne doivent pas
+              conduire à une émergence de la construction dans le paysage.
+
+
+              2/ Aspect des constructions
+              Toute construction doit être conçue et implantée afin de préserver une cohérence avec
+              le secteur où est édifié le projet, notamment en ce qui concerne les façades ou les
+              couvertures. Sur ce dernier point, des toitures claires pourront être proposées si elles
+              sont dûment justifiées et explicitées.
+              Des projets au geste architectural fort, présentant des ruptures de traitement
+              architectural, de teintes et/ou matériaux, pourront toutefois être autorisés s’ils sont
+              dûment justifiés et explicités. Au regard des justifications inscrites au dossier, la Ville
+              se gardera la possibilité d’autoriser le projet, le cas échéant de l’assortir de
+              prescriptions, ou de le refuser.
+
+              2.1 Volumes
+              L'implantation, le volume et les proportions des constructions dans tous leurs éléments
+              doivent être déterminés en tenant compte du contexte urbain et en s'y intégrant le
+              mieux possible.
+
+              2.2 Façades
+              Les différentes façades des constructions principales et constructions annexes doivent
+              faire l’objet d’un traitement soigné.
+
+
+
+
+                                                                                                            97
+Dispositions applicables aux zones résidentielles denses (UC)
+
+
+
+              Les matériaux réfléchissants et les matériaux bruts et destinés à être recouverts non
+              enduits sont proscrits.
+              Dans le cas d’un linéaire de façade de longueur supérieure à 30 mètres, des décrochés
+              de façades de profondeur inférieure ou égale à 2 mètres et de longueur inférieure ou
+              égale à 20% du linéaire total de la façade, sont recommandés.
+
+              2.3 Toitures
+              Dans le cas de toitures à pans, les débords de toiture sont compris entre 20 et 50
+              centimètres, sauf en cas d’impossibilité technique. Les débords sont interdits au-
+              dessus des murs de pignons situés à l’alignement des limites séparatives.
+              Les toitures terrasses sont autorisées. En cas de nouvelles constructions comprenant
+              des toitures terrasses non accessibles d'une superficie supérieure à 75 m², seront
+              recherchées en priorité des surfaces végétalisées et/ou permettant la production
+              d'énergie renouvelable.
+              Les toitures végétalisées, terrasses végétalisées, doivent être plantées de différentes
+              strates végétales, dès lors que leur configuration le permet. Elles peuvent en outre
+              accueillir des activités d’agriculture urbaine.
+              Elles doivent comporter une épaisseur de substrat, couche drainante non comprise :
+                  -   supérieure ou égale à 25 centimètres, en cas de construction neuve ou
+                      d’extension;
+                  -   supérieure ou égale à 15 centimètres, en cas de restructuration lourde ou de
+                      surélévation.
+              Une épaisseur de substrat inférieure aux valeurs ci-dessus peut être admise :
+                  -   en cas de toiture biosolaire, sans pouvoir être inférieure à 15 centimètres ;
+                  -   lorsque la construction présente une structure de grande portée ;
+                  -   en cas d’impossibilité technique.
+              Toute réhabilitation comportant un renouvellement de la majorité de la couverture en
+              vue de la création d’une toiture-terrasse d’une surface supérieure à 150 m² doit
+              comporter un dispositif de végétalisation pérenne. Sous réserve d’une demande
+              précise et argumentée, inscrite dans le dossier de demande d’urbanisme, une
+              dérogation à cette règle pourra être soumise à l’avis de la Ville. Au regard des
+              justifications inscrites au dossier, la Ville se gardera la possibilité d’autoriser cette
+              demande de dérogation, le cas échéant de l’assortir de prescriptions, ou de la refuser.
+
+              2.4 Autres éléments
+              Les édicules techniques (antennes, paraboles, locaux d’ordures ménagères, coffrets
+              techniques, climatiseurs, récupérateurs d’eaux pluviales, etc…) doivent faire l’objet
+              d’un traitement soigné. Ils doivent être dissimulés au regard des voies publiques et
+              privées, et être éloignés des ouvertures des bâtiments avoisinants. Ils sont, de
+              préférence, positionnés de façon discrète sur les toitures ou sur le sol. Les conduits
+              de fumée et tuyaux d’échappement ne doivent pas déboucher sur le domaine public.
+
+
+
+                                                                                                          98
+Dispositions applicables aux zones résidentielles denses (UC)
+
+
+
+              L’assiette des fondations des murs de façade doit respecter la limite d’alignement.
+              Les garde-corps, balustrades et mains-courantes sont constitués de matériaux non
+              opaques et disposent d’un traitement qualitatif et cohérent avec les matériaux et
+              couleurs des autres éléments extérieurs.
+
+
+              3/ Clôtures
+              La hauteur maximale des clôtures est fixée à :
+                  -   1,80 mètre en limite avec le domaine public ou espace ouvert à la circulation
+                      publique ;
+                  -   2 mètres en limite séparative.
+              Cette hauteur est mesurée depuis le terrain fini. Toutefois, en cas de différence de
+              niveau entre les deux fonds, la hauteur se calcule :
+                  -   Depuis le niveau du domaine public ou de l’espace ouvert à la circulation
+                      publique pour les clôtures en limite avec le domaine public ou espace ouvert à
+                      la circulation publique ;
+                  -   Depuis le niveau du sol fini du fond présentant l’altimétrie la plus haute pour les
+                      clôtures en limite séparative.
+              Les clôtures ne doivent pas entailler le système racinaire des sujets arborés ou
+              empêcher leur développement, une attention particulière sera apportée notamment
+              lors de division parcellaire.
+              Les clôtures forment un ensemble homogène constitué :
+                     Soit d’un mur bahut d’une hauteur inférieure ou égale à 1,2 mètre, surmonté ou
+                      non d’un dispositif à claire-voie (dispositif non occultant, constitué d’éléments
+                      ajourés horizontaux, verticaux ou en treillis) ;
+                     Soit d’un dispositif à claire-voie (dispositif non occultant, constitué d’éléments
+                      ajourés horizontaux, verticaux ou en treillis) pouvant être ou non doublé d’une
+                      haie vive ;
+                     Soit d’une haie vive variée doublée ou non d’un grillage noyé dans la haie. Les
+                      essences locales sont à privilégier, une liste de ces essences est disponible
+                      dans les annexes du présent règlement. Les haies monospécifiques et les haies
+                      constituées d’espèces invasives ou d’espèces fortement allergisantes sont
+                      interdites.
+              Les murs bahuts sont constitués :
+                     Soit en maçonnerie apparente, dans ce cas les matériaux locaux sont à
+                      privilégier. Les matériaux bruts et destinés à être recouverts ne peuvent être
+                      laissés apparents ;
+                     Soit en maçonnerie enduite, dont l’enduit s’harmonise à celui de la façade avant
+                      de la construction principale ou, à défaut d’enduit, accordé à la couleur de la
+                      façade avant de la construction principale.
+
+
+
+
+                                                                                                            99
+Dispositions applicables aux zones résidentielles denses (UC)
+
+
+
+              Sur les limites séparatives, la conception et les caractéristiques des clôtures
+              permettent la libre circulation de la petite faune par l'insertion au ras du sol d'une
+              ouverture de l'ordre de 15 centimètres de diamètre minimum tous les 15 mètres
+              environ. Lorsque la totalité du linéaire de clôture est inférieure à 15 mètres, un passage
+              minimum doit être aménagé.
+              Les portails seront de hauteur égale ou inférieure aux clôtures. Sous réserve d’une
+              demande précise et argumentée, inscrite dans le dossier de demande d’urbanisme,
+              une dérogation à cette règle pourra être soumise à l’avis de la Ville. Au regard des
+              justifications inscrites au dossier, la Ville se gardera la possibilité d’autoriser cette
+              demande de dérogation, le cas échéant de l’assortir de prescriptions, ou de la refuser.
+              Pour des raisons fonctionnelles et de sécurité, une implantation en recul du portail est
+              préconisée ; selon les circonstances locales, elle pourra être imposée pour ce même
+              motif de sécurité.
+              Les coffrets de réseaux de communication (téléphone, câble…), d’énergie (gaz,
+              électricité…), ainsi que les boîtes à lettres, commandes d’accès… doivent être
+              encastrés au dispositif de clôture et ne doivent pas dépasser sur le domaine public.
+              En cas de murs de soutènement, leur hauteur maximale est fixée à 2,5 mètres,
+              mesurée entre les niveaux du terrain haut et du terrain bas après travaux
+              d’exhaussement et affouillement des sols. Les murs de soutènement peuvent être
+              surmontés de clôtures, dans le respect des règles définies ci-dessus, notamment des
+              règles de hauteur (le mur de soutènement est inclus dans les 2m maximum).
+              Des clôtures différentes peuvent être autorisées ou exigées :
+                      -   en secteur soumis aux risques inondations : les clôtures seront
+                          hydrauliquement transparentes et ne feront pas obstacle au libre
+                          écoulement des crues (se référer au zonage et au règlement du PPRi
+                          disponibles en annexe du PLU) ;
+                      -   en limite séparative : pourront être demandés et/ou imposés des traitements
+                          différents pour des questions de cohérence et/ou d’usage ;
+                      -   Pour les « équipements d’intérêt collectif et services publics » ou « autres
+                          activités des secteurs primaire, secondaire ou tertiaire » : pourront être
+                          demandés et/ou imposés des traitements différents pour des questions
+                          d’usage et selon les circonstances locales.
+
+
+              ARTICLE 5 : TRAITEMENT ENVIRONNEMENTAL ET PAYSAGER                                   DES
+              ESPACES NON BATIS ET ABORDS DES CONSTRUCTIONS
+              Tout projet de construction neuve ou d’extension doit intégrer des surfaces éco-
+              aménagées permettant d’atteindre un coefficient de biotope par surface de 0,4.
+              Pour rappel, un coefficient de biotope par surface (ou CBS) correspond à un coefficient
+              décrivant la proportion des surfaces favorables à la biodiversité (surface
+              écoaménageable) par rapport à la surface totale d’une parcelle.
+              CBS = surface écoaménageable / surface de la parcelle
+
+
+
+
+                                                                                                           100
+Dispositions applicables aux zones résidentielles denses (UC)
+
+
+
+              Une surface écoaménageable possède un potentiel d’accueil de la biodiversité et de
+              perméabilité du sol. Elle est pondérée à partir des différents coefficients relatifs aux
+              types de surfaces qui composent le terrain. Chaque type de surface est affecté d’un
+              coefficient dépendant de sa valeur écologique.
+              La définition complète du coefficient de biotope et sa méthode de calcul sont exposées
+              au sein du lexique présent à l’article 6 des dispositions générales.
+              Pour les projets situés sur une unité foncière supérieure à 500m², 30% de la superficie
+              de l’unité foncière doit être préservée en pleine terre.
+              Les aires de stationnement non couvertes sont plantées à raison d'un arbre de haute
+              tige pour quatre places minimum. Pour les aires de stationnement non couvertes
+              supérieures à 1 000 m², au moins un tiers des places doit être traité en revêtement
+              perméable permettant l’infiltration des eaux de pluie.
+              Les aménagements paysagers doivent valoriser autant que possible les matériaux, les
+              espèces et les essences locales et doivent comporter des essences végétales
+              adaptées et diversifiées (se référer à la liste des essences en annexe du présent
+              règlement). Les espèces invasives ou fortement allergisantes sont interdites.
+              Des règles spécifiques aux emprises ferroviaires s’appliquent, afin de garantir la
+              sécurité de tous. Pour ces espaces, les règles de servitude dans le chapitre relatif au
+              traitement des espaces libres s’appliquent.
+              Il est recommandé d’installer des gites pour la faune locale (nichoirs, hibernaculum,
+              gîte à insecte, etc.).
+
+
+              ARTICLE 6 : OBLIGATIONS EN MATIERE DE REALISATION D’AIRES DE
+              STATIONNEMENT
+              Les obligations en matière de réalisation d’aires de stationnement sont applicables en
+              cas de construction nouvelle et dans le cadre des travaux suivants sur une
+              construction existante :
+                     Division de logement ;
+                     Changement de destination ;
+                     Extension supérieure ou égale à 50 m².
+              En cas de travaux sur une construction existante, seules les nouvelles places
+              engendrées par les travaux sont exigées. De plus, les obligations en matière de
+              réalisation d’aires de stationnement peuvent être dérogées s’il est démontré que le
+              stationnement existant est suffisant pour les usages futurs.
+              Lorsque la construction comprend plusieurs destinations, le nombre de places de
+              stationnement à réaliser est la somme des besoins en stationnement de chaque
+              destination.
+              Lorsque le stationnement est fonction du besoin, le nombre de places de
+              stationnement doit être dimensionné et justifié au regard des capacités d’accueil et de
+              fonctionnement de l’opération.
+
+
+
+                                                                                                         101
+Dispositions applicables aux zones résidentielles denses (UC)
+
+
+
+              En cas d’impossibilité architecturale ou technique d’aménager sur le terrain de
+              l’opération le nombre d’emplacements nécessaires au stationnement, le constructeur
+              est autorisé :
+                  -   Soit à aménager, sur un autre terrain situé à moins de 200 mètres du premier,
+                      les surfaces de stationnement qui lui font défaut ;
+                  -   Soit à acquérir, dans un parc de stationnement privé existant à moins de 200
+                      mètres du terrain de l’opération, les surfaces de stationnement qui lui font
+                      défaut ;
+                  -   Soit réaliser une convention de concession, dans une aire de stationnement
+                      publique existante à moins de 200 mètres du terrain de l’opération, pour les
+                      surfaces de stationnement qui lui font défaut.
+              Toutefois, le pétitionnaire pourra aussi prétendre à déroger aux règles de places de
+              stationnement à fournir, sur la base d’une demande argumentée et justifiée inscrite
+              dans le dossier de l’autorisation d’urbanisme. Au regard des justifications inscrites au
+              dossier, la Ville se gardera la possibilité d’autoriser cette demande de dérogation, le
+              cas échéant de l’assortir de prescriptions, ou de la refuser.
+
+
+              1/ Normes de stationnement des véhicules motorisés quatre-roues et plus
+              Le stationnement des véhicules motorisés correspondant aux besoins des
+              constructions et installations doit être assuré en dehors des voies publiques ou de
+              desserte collective.
+              Les rampes d’accès aux aires de stationnement en sous-sol ne doivent pas entraîner
+              de modification du niveau de l’espace public sur lequel cette rampe est connectée. De
+              plus, la pente ne doit pas excéder 5% sur les cinq premiers mètres.
+              Pour tout projet nécessitant la création de plus de 10 places de stationnement, des
+              places prééquipées pour les véhicules électriques sont à prévoir, selon les dispositions
+              de la réglementation nationale en vigueur. Il est toutefois précisé que pour des projets
+              d’ampleur, la Ville se réservera la possibilité de demander un équipement supérieur,
+              sans toutefois dépasser le double des attentes inscrites dans ces dispositions
+              nationales.
+              La minoration du nombre de places de stationnement est admise en cas de
+              mutualisation dans le cadre d’une opération mixte, alliant au moins deux destinations
+              différentes (par exemples bureau et logement, industrie et commerce de détail…), et
+              permettant le foisonnement. Le nombre de places de stationnement peut alors être
+              réduit de 25%.
+              La substitution partielle de places de stationnement pour les véhicules motorisés par
+              des places de stationnement pour les vélos peut être accordée par la ville, sur
+              justifications du pétitionnaire du fonctionnement de l’opération et dans les conditions
+              de la réglementation nationale en vigueur.
+              Les places de stationnement pour les logements peuvent être organisées en enfilade
+              à condition d’avoir autant d’accès aux enfilades que de logements.
+
+
+
+
+                                                                                                         102
+Dispositions applicables aux zones résidentielles denses (UC)
+
+
+
+              Nombre minimal de places de stationnement selon les destinations :
+               Destination des constructions            Norme imposée pour les véhicules
+                                                 Pour les logements : 1 place de stationnement
+                                                 par logement, arrondies au supérieur. Pour les
+                                                 opérations de plus de 10 logements, 1 place
+                                                 visiteurs par tranche entamée de 10 logements
+               Habitation                        s’ajoutent aux précédentes.
+                                                 Pour les logements sociaux, la réglementation
+                                                 nationale en vigueur s’applique.
+                                                 Pour les hébergements : 1 place de
+                                                 stationnement pour 4 chambres
+                                                 Pour l’artisanat et le commerce de détail : 1 place
+                                                 de stationnement par tranche de 60 m² de
+                                                 surface de plancher
+                                                 Pour la restauration : 1 place de stationnement
+               Commerces et activités de par tranche de 10 m² de surface de plancher
+               services                          Pour l’hôtellerie : 1 place de stationnement par
+                                                 tranche de 3 chambres d’hôtel
+                                                 Pour le reste des commerces et activités de
+                                                 services : 1 place de stationnement par tranche
+                                                 de 60 m² de surface de plancher
+                                                 Le nombre de places à réaliser est déterminé en
+                                                 tenant compte de leur nature, du taux et du
+               Equipement d’intérêt collectif et rythme de leur fréquentation, de leur situation
+               services publics                  géographique au regard des parkings publics
+                                                 existant à proximité et de leur regroupement et
+                                                 du taux de foisonnement envisageable.
+                                                 Pour les bureaux et pour les industries : 1 place
+                                                 de stationnement par tranche de 60 m² de
+                                                 surface de plancher
+                                                 Pour les autres activités : le nombre de places à
+               Autres activités des secteurs réaliser est déterminé en tenant compte de leur
+               primaire, secondaire ou tertiaire nature, du taux et du rythme de leur
+                                                 fréquentation, de leur situation géographique au
+                                                 regard des parkings publics existant à proximité
+                                                 et de leur regroupement et du taux de
+                                                 foisonnement envisageable.
+
+
+              2/ Normes de stationnement pour les vélos
+              Le stationnement des vélos correspondant aux besoins des constructions et
+              installations doit être assuré en dehors des voies publiques ou de desserte collective.
+              En cas de travaux sur une construction existante, seules les nouvelles places
+              engendrées par les travaux sont exigées.
+
+
+
+
+                                                                                                        103
+Dispositions applicables aux zones résidentielles denses (UC)
+
+
+
+              De plus, les obligations en matière de réalisation d’aires de stationnement peuvent
+              être dérogées s’il est démontré que le stationnement existant est suffisant pour les
+              usages futurs.
+              Pour les opérations de plus de quatre logements, les vélos doivent disposer d’un
+              espace de stationnement clos et couvert, accessible depuis les emprises publiques et
+              les voies par un cheminement praticable sans discontinuité. Chaque espace destiné
+              aux deux-roues doit disposer de dispositifs permettant d’attacher les vélos avec un
+              système de sécurité.
+              Le nombre de places de stationnement vélos sera conforme à la réglementation
+              nationale en vigueur.
+              Nombre minimal de places de stationnement selon les destinations :
+               Destination des constructions            Norme imposée pour les vélos
+                                                 Pour les opérations de plus de 2 logements :
+                                                      1 place par logement pour les T1 et les T2.
+                                                      2 places par logement pour les T3 et plus.
+                                                 Pour les hébergements : Le nombre de places à
+               Habitations                       réaliser est déterminé en tenant compte de leur
+                                                 nature, du taux et du rythme de leur
+                                                 fréquentation, de leur situation géographique au
+                                                 regard des équipements cyclables existants à
+                                                 proximité.
+                                                 1 place par 30 m² de surface de plancher dans
+               Commerces et activités de une limite de 20 places imposées maximum.
+               services                          L’aménagement de plus de 20 places est
+                                                 cependant autorisé.
+                                                 Le nombre de places à réaliser est déterminé en
+                                                 tenant compte de leur nature, du taux et du
+               Equipement d’intérêt collectif et
+                                                 rythme de leur fréquentation, de leur situation
+               services publics
+                                                 géographique au regard des équipements
+                                                 cyclables existants à proximité.
+                                                 Le nombre de places à réaliser est déterminé en
+                                                 tenant compte de leur nature, du taux et du
+               Autres activités des secteurs
+                                                 rythme de leur fréquentation, de leur situation
+               primaire, secondaire ou tertiaire
+                                                 géographique au regard des équipements
+                                                 cyclables existants à proximité.
+
+
+
+
+                                                                                                     104
+                    TerrenUrbanisme
+
+    Merci de votre confiance
+Ce rapport a été établi à partir des sources publiques officielles pour vous
+  aider à décider en connaissance de cause. Pour toute question, nous
+                        restons à votre disposition.
+
+
+
+
+   Vous êtes professionnel ? Travaillons ensemble
+      Agents immobiliers, notaires, architectes, géomètres, diagnostiqueurs,
+promoteurs, mairies : faisons équipe. Crédits professionnels sans abonnement, 5
+€ le rapport dès 50 crédits, votre logo sur les rapports, offre communale pour les
+                       mairies et partenariats sur mesure.
+
+               Écrivez-nous : contact@terrenurbanisme.com
+
+
+
+
+                        terrenurbanisme.com
+                         contact@terrenurbanisme.com
+

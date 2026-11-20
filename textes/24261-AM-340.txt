@@ -1,0 +1,2919 @@
+                  TerrenUrbanisme
+                  Le terrain constructible, partout en France
+
+
+
+
+RAPPORT D'URBANISME
+
+
+
+Mauzens-et-Miremont
+Section AM · Parcelle n° 340
+      Non constructible
+
+
+
+
+Référence cadastrale                                                        Surface cadastrale
+24261000AM0340                                                              41 550 m²
+
+Rapport établi le                                                           Référence du rapport
+20/11/2026                                                                  APERCU
+
+
+
+
+terrenurbanisme.com                                                                      contact@terrenurbanisme.com
+
+Document d'information sans valeur contractuelle ni réglementaire. Il ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme
+et ne peut en aucun cas être joint à une demande de permis de construire ou de déclaration préalable. Seuls les actes de l'administration font foi.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                                                            Sommaire
+
+
+
+
+Sommaire
+Le rapport suit l'ordre d'une étude de terrain : où se trouve la parcelle, ce que dit la règle, ce qui pèse sur le
+projet, puis les démarches.
+
+              Synthèse
+   S                                                                                                                                              p. 3
+              Le verdict, les indicateurs clés et les points d'attention en une page.
+
+              Identification de la parcelle
+   01                                                                                                                                             p. 4
+              Localisation, surface, références cadastrales et voisinage du terrain.
+
+              Règles d'urbanisme applicables
+  02                                                                                                                                              p. 7
+              Document d'urbanisme, zone du terrain, prescriptions et servitudes.
+
+              Ce que vous pouvez construire
+  03                                                                                                                                              p. 9
+              Surface constructible, hauteur, reculs, aspect et usages autorisés.
+
+              Loi Littoral et loi Montagne
+  04                                                                                                                                             p. 19
+              Les lois qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+              Risques naturels et technologiques
+  05                                                                                                                                             p. 20
+              Inondation, feu de forêt, argiles, catastrophes naturelles et sites pollués.
+
+              Le terrain : accès, relief et réseaux
+  06                                                                                                                                             p. 22
+              Accès, pente, ensoleillement, eaux usées, électricité, eau et fibre.
+
+              Conditions de vente du terrain
+  07                                                                                                                                             p. 29
+              Terrain agricole ou naturel : SAFER, fermier en place et repère officiel de prix.
+
+              Environnement et marché immobilier
+  08                                                                                                                                             p. 31
+              Espaces naturels, espèces protégées et ventes immobilières alentour.
+
+              Historique du site
+  09                                                                                                                                             p. 34
+              Le terrain vu du ciel au fil des années et les permis accordés autour.
+
+              Votre projet, étape par étape
+   10                                                                                                                                            p. 36
+              De l'achat aux impôts : démarches, délais, coûts, contacts et taxe.
+
+              État des risques (ERP) pré-rempli
+   11                                                                                                                                            p. 41
+              Le formulaire réglementaire à remettre à l'acquéreur, pré-rempli.
+
+              Avertissement et sources
+   12                                                                                                                                            p. 43
+              La portée de ce rapport et les sources publiques consultées.
+
+              Annexe : règlement de la zone
+   A                                                                                                                                             p. 46
+              Les pages officielles du règlement de la zone, telles qu'approuvées.
+
+
+
+
+Astuce : cliquez sur un chapitre pour y accéder directement.
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             2 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                                                             Synthèse
+
+
+
+
+Synthèse
+     Document d'information. Ce rapport ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme,
+     n'engage pas l'administration et ne peut pas servir de pièce à une demande de permis de construire.
+     L'appréciation ci-dessous est indicative : seule la mairie se prononce sur la constructibilité d'un terrain,
+     au vu d'un projet précis.
+
+
+
+
+       NON CONSTRUCTIBLE
+
+       Ce terrain n'est pas constructible en l'état
+       La parcelle est classée à 54 % en zone N (naturelle et forestière) du PLU intercommunal de
+       Mauzens-et-Miremont, et pour le reste en zone A (46 %). Les constructions nouvelles n'y
+       sont pas admises, sauf exceptions encadrées.
+
+
+
+
+      Zones du PLU                                           Document d'urbanisme                                  Loi Littoral
+
+   N 54 % · A 46 %                                        PLUI                                                   Ne s'applique pas
+
+
+
+
+      Loi Montagne                                           Risques à la parcelle
+
+   Ne s'applique pas                                      Séisme · Feu de forêt (+1)
+
+
+
+
+Points d'attention
+    Zone N (naturelle et forestière) : environ 22 470 m², soit 54 % du terrain, non constructible.
+    Zone A (agricole) : environ 19 150 m², soit 46 % du terrain, non constructible.
+    Risque de feu de forêt : obligation légale de débroussaillement, autorisation de défrichement possible pour un
+    terrain boisé.
+    Terrain en pente marquée (environ 21 %) : surcoût probable de terrassement.
+    Réseau électrique basse tension à environ 165 m : une extension du réseau sera probablement nécessaire.
+    Logement : le règlement de la zone N n'admet pas de logement neuf, sauf exceptions prévues par la zone
+    (logement de gardiennage, par exemple) : voir le chapitre « Ce que vous pouvez construire ».
+    Entreprise : la commune est classée en zone France Ruralités Revitalisation (FRR) : une entreprise qui s'y crée peut
+    être exonérée d'impôt sur les bénéfices pendant 5 ans, sous conditions (voir le chapitre « Votre projet, étape par
+    étape »).
+    Pollution des sols : concerné à l'adresse de la parcelle (voir le chapitre « Risques naturels et technologiques »).
+    11 arrêtés de catastrophe naturelle sur la commune.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             3 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+    01             Identification de la parcelle
+     DANS CETTE SECTION
+
+     Où se trouve le terrain, sa surface, ses références cadastrales, son propriétaire lorsqu'il s'agit
+     d'une société ou d'une collectivité, et la performance énergétique du bâti existant.
+
+
+Données du cadastre (DGFiP) et de l'IGN.
+
+
+     Plan de situation
+
+
+
+
+                                                                                                                               1 km
+
+
+
+Plan IGN · © IGN
+
+
+
+     Vue aérienne et plan cadastral
+
+
+
+
+                                                                                                                                      200 m
+
+
+
+Photographie aérienne et plan cadastral · © IGN
+
+
+Commune                                                  Mauzens-et-Miremont (24261)
+
+Département                                              Dordogne (24)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             4 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+Section et numéro                                        Section AM, parcelle n° 340, feuille 1
+
+Identifiant cadastral                                    24261000AM0340
+
+Surface cadastrale                                       41 550 m²
+
+Surface calculée (SIG)                                   41 622 m² · périmètre 1 118 m
+
+Coordonnées du centre                                    44.99162 N, 0.93097 E (WGS 84)
+
+Altitude                                                 de 167 à 190 m
+
+Pente estimée                                            21 % (terrain en pente marquée)
+
+Parcelles voisines                                       AM 3, AM 31, AM 32, AM 337, AM 338, AM 339, AM 354, AM 355, AM
+                                                         374, AN 44, AN 45, AN 48, AN 49
+
+
+Le plan cadastral est un document fiscal : il ne fait pas foi des limites de propriété. Seul un bornage réalisé par un
+géomètre-expert fixe les limites de manière certaine.
+
+
+1.1 Propriétaire et voisinage
+La parcelle ne figure pas au fichier des personnes morales : son propriétaire est vraisemblablement un
+particulier. Le nom des propriétaires particuliers n'est pas public ; il peut être demandé au service des impôts
+fonciers (relevé de propriété) ou obtenu par l'intermédiaire d'un notaire.
+
+Principaux propriétaires personnes morales dans un rayon de 396 m
+  PROPRIÉTAIRE                                                              PARCELLES             SURFACE TOTALE               SIREN
+
+  YAKHAMONIE (SCI)                                                          3                     6 032 m²                     815381009
+
+  APEX ENERGIES (SAS)                                                       2                     2 556 m²                     382499499
+
+
+
+Source : fichiers des parcelles des personnes morales (DGFiP) : sociétés, SCI, collectivités, établissements publics et associations.
+Les propriétaires personnes physiques n'y figurent pas.
+
+
+1.2 La commune de Mauzens-et-Miremont
+Code postal                                              24260
+
+Département                                              Dordogne (24)
+
+Intercommunalité                                         CC de la Vallée de l'Homme
+
+Population                                               288 habitants
+
+Superficie                                               20,4 km²
+
+Densité                                                  14 habitants par km²
+
+Commune littorale                                        Non
+
+Commune de montagne                                      Non
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             5 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+Document d'urbanisme                                     Plan local d'urbanisme intercommunal (PLUi)
+
+Risques sur la commune                                   11 arrêtés de catastrophe naturelle · détail en section Risques et en
+                                                         annexe
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             6 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+    02             Règles d'urbanisme applicables
+     DANS CETTE SECTION
+
+     Le document d'urbanisme de la commune, la zone dans laquelle se trouve le terrain, et les
+     prescriptions et servitudes qui s'y ajoutent.
+
+
+Géoportail de l'Urbanisme : zonage, prescriptions et servitudes.
+
+
+
+2.1 Document d'urbanisme en vigueur
+Type de document                                         Plan local d'urbanisme intercommunal (PLUi)
+
+Date d'approbation                                       Non renseigné
+
+Statut                                                   Publié au Géoportail de l'Urbanisme
+
+Règlement officiel                                       Ouvrir le document officiel (PDF)
+
+
+
+     Plan de zonage du PLU
+
+
+
+
+                                                                                   N
+
+
+
+
+                                                                           A
+
+
+
+
+                                                                                                                                       200 m
+
+
+
+Zonage : Géoportail de l'Urbanisme · fond : © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             7 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.2 Zonage de la parcelle
+  ZONE                  DÉSIGNATION                                                         PART               CONSTRUCTIBILITÉ
+
+  N                     Zone à dominante naturelle (N)                                      54 %               Non constructible
+
+  A                     Zone à vocation agricole (A)                                        46 %               Non constructible
+
+
+
+Zone N · Naturelle et forestière
+Zone naturelle et forestière : secteur protégé en raison de la qualité des sites, des milieux naturels et des
+paysages, ou de son caractère d'espace naturel. Les constructions nouvelles n'y sont pas admises, sauf
+exceptions encadrées (équipements publics, extension limitée des habitations existantes, secteurs de taille et
+de capacité limitées).
+
+Zone A · Agricole
+Zone agricole : secteur protégé en raison du potentiel agronomique, biologique ou économique des terres.
+Seules y sont admises les constructions et installations nécessaires à l'exploitation agricole et aux services
+publics, ainsi que l'extension limitée des habitations existantes.
+
+
+2.3 Prescriptions applicables à la parcelle
+Aucune prescription graphique du PLU (emplacement réservé, espace boisé classé, élément de paysage
+protégé, etc.) n'est recensée sur la parcelle.
+
+
+2.4 Servitudes d'utilité publique
+Aucune servitude d'utilité publique numérisée n'est recensée sur la parcelle au Géoportail de l'Urbanisme. Les
+servitudes non encore numérisées figurent en annexe du PLU.
+
+
+2.5 Patrimoine : l'architecte des Bâtiments de France
+Aucune protection patrimoniale ne s'applique au terrain d'après les servitudes publiées : les monuments
+historiques les plus proches sont couverts par des périmètres délimités qui n'incluent pas le terrain.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             8 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    03             Ce que vous pouvez construire
+       DANS CETTE SECTION
+
+       La lecture du règlement de votre zone : surface constructible estimée, hauteur, reculs, aspect,
+       usages autorisés ou interdits, avec les extraits du texte officiel.
+
+
+Lecture du règlement écrit des zones N et A, sur lesquelles le terrain est à cheval.
+
+
+
+3.1 Un terrain à cheval sur 2 zones
+  ZONE                  NATURE                                           SURFACE                         PART                CONSTRUCTIBILITÉ
+
+  N                     Naturelle et forestière                          environ 22 470 m²               54 %                Non constructible
+
+  A                     Agricole                                         environ 19 150 m²               46 %                Non constructible
+
+
+
+      Les règles ne sont pas les mêmes d'une zone à l'autre : chaque titre ci-dessous indique la zone à
+      laquelle la règle s'applique.
+
+
+
+
+3.2 Zone N · Potentiel constructible estimé
+      Le règlement de la zone N n'admet pas de construction nouvelle à usage de logement. Seules restent
+      possibles les constructions expressément admises par la zone et les évolutions encadrées des
+      constructions existantes : extension limitée à 50 % de l'emprise existante, dans la limite de 75 m²,
+      annexes de 50 m² au plus.
+
+
+
+Constructions admises dans la zone :
+
+      Exploitation forestière (autorisée) ; constructions et installations directement liées et nécessaires à l'exploitation
+      forestière et à la protection de la forêt, aires de dépôt de bois
+      Constructions et installations liées et nécessaires à l'activité agricole
+      Réfection des constructions existantes
+      Extension des bâtiments d'habitation existants, si elle ne compromet pas l'activité agricole ni la qualité
+      paysagère du site (plafonds : 50 % de l'emprise au sol initiale et 75 m² d'emprise)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             9 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.3 Zone N · Caractère de la zone
+La zone N est une zone naturelle, équipée ou non, dont le caractère naturel doit être protégé. Elle
+comprend des secteurs, dont certains sont des STECAL (Nh, Nhy, Ny, Ne, Ns, Npo) et d'autres non (Nca,
+Nd1, Nd2, N1). Le zonage de la parcelle est « N » sans indice : les règles générales de la zone s'appliquent,
+et non celles des secteurs. Une partie de la zone peut être en zone inondable soumise au PPRI.
+
+
+3.4 Zone N · Règles de construction
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                       ARTICLE
+
+  Surface minimale ou                          Non précisé dans le règlement de la zone (surface minimale                             art. N.3.1
+  caractéristiques du terrain                  non réglementée). Le terrain doit avoir accès à une voie
+                                               publique ou privée, directement ou par passage aménagé
+                                               (article 682 du code civil).
+
+  Accès et voirie                              Toute unité foncière constructible doit avoir accès à une voie                         art. N.3.1
+                                               publique ou privée. Les accès doivent être adaptés à
+                                               l'opération, apporter la moindre gêne à la circulation et
+                                               permettre la défense contre l'incendie. Les voies doivent
+                                               permettre l'accès permanent des véhicules de secours.
+                                               L'ouverture d'une voie peut être refusée en cas de danger. Les
+                                               impasses doivent permettre le demi-tour.
+
+  Réseaux et assainissement                    Eau potable : raccordement au réseau collectif avec dispositif                         art. N.3.2
+                                               anti-retour ; alimentation autonome possible sous réserve de
+                                               déclaration en mairie et à l'ARS. Assainissement : toute
+                                               construction ou installation nouvelle doit être équipée d'un
+                                               système d'assainissement autonome conforme à la
+                                               réglementation et contrôlé par le SPANC ; rejet des eaux de
+                                               vidange de piscine interdit dans les réseaux d'eaux usées sauf
+                                               dérogation. Eaux pluviales : résorption sur la parcelle, sinon
+                                               rejet au réseau public (fossé, caniveau, réseau enterré) ; rejet
+                                               interdit dans les dépendances des voies départementales.
+                                               Électricité : raccordement à une ligne publique ; raccordement
+                                               en équipement propre limité à 100 m ; branchements
+                                               souterrains si le réseau est souterrain. Raccordement aux
+                                               communications électroniques existantes à proximité.
+
+  Implantation par rapport                     Recul minimum de 5 m de la limite du domaine public.                                   art. N.2.1.1
+  aux voies                                    Implantation différente possible si les conditions de sécurité le
+                                               permettent : projet prolongeant une construction existante à
+                                               conserver, constructions et installations de service public ou
+                                               d'intérêt collectif, annexes.
+
+  Implantation par rapport                     Distance minimale de 3 m des limites séparatives, y compris                            art. N.2.1.1
+  aux limites séparatives                      pour les piscines. Les autres annexes peuvent être implantées
+                                               en limite séparative. Recul minimal de 10 m lorsque le terrain
+                                               est en interface avec une zone boisée.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                10 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                       ARTICLE
+
+  Implantation des                             Non précisé dans le règlement de la zone. Les annexes doivent                          art. N.2.1 et
+  constructions entre elles                    toutefois être situées à 20 m maximum de l'habitation existante                        autorisations
+                                               (piscines 25 m, annexes pour animaux domestiques 50 m).                                sous
+                                                                                                                                      conditions
+
+  Emprise au sol                               Extension d'habitation : 50 % maximum de l'emprise au sol                              art. N.2.1.2
+                                               initiale, limitée à 75 m² d'emprise. Ensemble des annexes (hors
+                                               piscines) : 50 m² d'emprise au sol maximum. Bassin de piscine :
+                                               72 m² maximum. Les pourcentages d'emprise propres aux
+                                               secteurs (Ns 30 %, Ny et Nhy 20 %, Nh et Npo 15 %, Ne 5 %) ne
+                                               concernent pas la zone sans indice.
+
+  Hauteur maximale                             Construction nouvelle à usage d'habitation ou extension de                             art. N.2.1.2
+                                               maison d'habitation : 9 m maximum à l'égout du toit (ou à
+                                               l'acrotère). Annexes non intégrées à la construction principale :
+                                               3,50 m maximum à l'égout du toit. Autres bâtiments : 10 m
+                                               maximum à l'égout du toit. Hauteur mesurée à la partie la plus
+                                               basse de la façade en terrain en pente. Règle non applicable
+                                               aux constructions de service public ou d'intérêt collectif.
+
+  Aspect extérieur et toitures                 Les constructions ne doivent pas porter atteinte au caractère                          art. N.2.2
+                                               des lieux avoisinants, aux sites et aux paysages. Architecture
+                                               courante : volumes simples et homogènes à plan rectangulaire,
+                                               pente des toitures comprise entre la plus faible et la plus forte
+                                               des bâtiments environnants dans un rayon de 100 m ; pente
+                                               faible : tuiles canal, romane ou mécanique ; pente forte : tuiles
+                                               plates ou ardoises ; tuiles bois sous condition d'une bonne
+                                               intégration ; tuiles noires et toitures mono-pentes interdites.
+                                               Les extensions, annexes et restaurations de toitures existantes
+                                               peuvent s'affranchir de ces prescriptions. Capteurs solaires
+                                               dans la pente du toit (interdits sur les bâtiments d'habitation
+                                               anciens de caractère, sauf annexes et au sol). Architecture
+                                               contemporaine admise si elle est justifiée et bien intégrée.
+                                               Bâtiments anciens : conserver et restaurer volumes, matériaux
+                                               et menuiseries ; volets roulants interdits. Contact avec le
+                                               Guichet Unique ou le CAUE dans les secteurs patrimoniaux
+                                               (N1).
+
+  Matériaux et couleurs                        Coloris, enduits, menuiseries et couvertures conformes au                              art. N.2.2
+                                               Guide de coloration du bâti du Grand Site de la Vallée de la
+                                               Vézère. Enduits blancs interdits ; enduits à base de ciment à
+                                               proscrire sur le bâti ancien. Bardages en bois massif à
+                                               dominante verticale avec couvre-joints ; lasures de teinte
+                                               claire ou orangée interdites. Interdits à nu : tôle galvanisée,
+                                               parpaings ou briques creuses non enduits, matériaux destinés
+                                               à être recouverts. Surfaces extérieures pleines non brillantes.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                11 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                       ARTICLE
+
+  Clôtures                                     Hauteur maximale de 1,60 m sur rue et de 2 m en limites                                art. N.2.2 (9) ;
+                                               séparatives, mesurée par rapport au terrain naturel ; les                              pages 105 et 113
+                                               clôtures doivent suivre la pente. Clôtures admises : mur bahut
+                                               de 0,80 m maximum surmonté d'un dispositif transparent ; mur
+                                               plein de 1,20 m maximum ; piquets et grillage vert ou gris,
+                                               doublés ou non d'une haie vive ; barrières en bois ajouré ; haie
+                                               vive d'essences locales (thuyas et lauriers palme interdits en
+                                               ordre continu ; recul de 1 m minimum de l'alignement pour les
+                                               plantations). Clôtures pleines et murs bahuts autorisés
+                                               uniquement sur rue (règle de l'article page 105). Murs de
+                                               clôture en parpaings enduits sur chaque face. Les clôtures
+                                               agricoles ne sont pas soumises à ces règles. Clôtures
+                                               autorisées pour les constructions d'habitation existantes.
+                                               Édification d'une clôture soumise à déclaration préalable.
+
+  Stationnement                                Le stationnement correspondant aux besoins des                                         art. N.2.4
+                                               constructions et installations doit être assuré en dehors de la
+                                               voie publique. Revêtements des aires de stationnement
+                                               perméables dans la mesure du possible. Pas de norme chiffrée.
+
+  Espaces verts et plantations                 Dans la mesure du possible, les plantations seront maintenues                          art. N.2.3
+                                               et les arbres abattus remplacés, avec des essences locales.
+                                               Aucun pourcentage d'espaces verts imposé.
+
+  Densité ou coefficient                       Non précisé dans le règlement de la zone.                                              art. N
+
+
+
+
+3.5 Zone N · Usages autorisés
+    Exploitation forestière (autorisée) ; constructions et installations directement liées et nécessaires à
+    l'exploitation forestière et à la protection de la forêt, aires de dépôt de bois
+    Constructions et installations liées et nécessaires à l'activité agricole
+    Réfection des constructions existantes
+    Extension des bâtiments d'habitation existants, si elle ne compromet pas l'activité agricole ni la qualité
+    paysagère du site (plafonds : 50 % de l'emprise au sol initiale et 75 m² d'emprise)
+    Annexes à l'habitation (hors piscine à 20 m maximum, piscines à 25 m maximum, annexes pour animaux
+    domestiques à 50 m maximum de l'habitation existante)
+    Changement de destination des bâtiments existants identifiés au document graphique (hors STECAL), vers
+    : logement, autres hébergements touristiques, artisanat et commerce de détail, restauration, locaux de
+    vente et de transformation de produits agricoles, activités de service avec accueil de clientèle, salles d'art
+    et de spectacle
+    Entretien et restauration des éléments de patrimoine à protéger (article L151-19)
+    Affouillements et exhaussements du sol pour recherches minières ou géologiques, fouilles
+    archéologiques, besoins en eau de l'exploitation agricole, services publics ou d'intérêt collectif
+    Constructions et installations nécessaires aux services publics ou d'intérêt collectif, si elles ne
+    compromettent pas le caractère naturel de la zone
+    Locaux techniques et industriels des administrations publiques (sous conditions)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              12 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    Reconstruction à l'identique après sinistre dans un délai de 10 ans (dispositions générales, article 6), si les
+    servitudes d'utilité publique sont respectées
+    Dans le domaine public ferroviaire, les constructions, installations et aménagements nécessaires au
+    service public ferroviaire
+
+
+3.6 Zone N · Usages interdits ou soumis à conditions
+    Logement : autorisé sous conditions et uniquement en cas de changement de destination d'un bâtiment
+    existant identifié (hors STECAL)
+    Artisanat et commerce de détail, restauration, activités de service avec accueil de clientèle, autres
+    hébergements touristiques, salles d'art et de spectacle : uniquement par changement de destination d'un
+    bâtiment existant identifié, sans compromettre l'exploitation agricole ni la qualité paysagère, et sans
+    renforcement des voies et réseaux publics
+    Interdits : hébergement, commerce de gros, hôtels, cinéma, établissements d'enseignement, de santé et
+    d'action sociale, centres de congrès et d'exposition
+    Interdits dans la zone sans indice : industrie, entrepôt et bureau (admis seulement dans les secteurs Nhy,
+    Ny, et Ne pour l'entrepôt) ; locaux et bureaux d'administrations, équipements sportifs et autres
+    équipements recevant du public (admis seulement en secteur Ne)
+    Interdits : les constructions et installations autres que celles soumises à des conditions particulières ;
+    carrières (sauf en Nca) ; dépôts de véhicules usagés, de déchets, ferrailles et matériaux de démolition ou
+    de récupération ; création de camping, parcs résidentiels de loisirs, habitations légères de loisirs, garages
+    collectifs de caravanes ; installation et stationnement isolé de caravanes et résidences mobiles de loisirs,
+    quelle qu'en soit la durée
+    Constructions légères à usage d'habitation : uniquement en secteur Nh, donc non admises en zone N sans
+    indice
+    Construction nouvelle d'habitation : admise uniquement en secteur Nh, donc non admise en zone N sans
+    indice
+    Extension d'habitation : au maximum 50 % de l'emprise au sol initiale (appréciée à la date d'approbation du
+    PLUi), plafonnée à 75 m² d'emprise
+    Bâtiments à conserver : le recul de 10 m est exigé en interface avec une zone boisée
+    Espaces boisés classés : défrichement irrecevable, coupes et abattages soumis à déclaration préalable
+    Servitudes de canalisations de gaz GRTgaz (bande non constructible) le cas échéant
+
+
+3.7 Zone N · Points de vigilance pour votre projet
+    Vérifier le secteur exact au règlement graphique : la parcelle est en zone N sans indice, donc pas de
+    construction nouvelle d'habitation (réservée au secteur Nh) ni de construction légère d'habitation
+    Vérifier si le bâtiment existant est repéré au document graphique comme pouvant changer de destination
+    (avis conforme de la commission départementale de la nature, des paysages et des sites (CDNPS))
+    Vérifier que le bâtiment est une construction existante légalement construite (une ruine n'est pas une
+    construction existante)
+    Contrôler la date d'approbation du PLUi (5 mars 2020) pour l'emprise initiale servant au calcul du plafond
+    d'extension (50 % et 75 m²)
+    Respecter les distances maximales des annexes : 20 m de l'habitation (piscine 25 m, annexes pour
+    animaux 50 m) et les plafonds d'emprise (annexes 50 m², bassin de piscine 72 m²)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            13 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    Vérifier la présence éventuelle de zone inondable (PPRI), d'espaces boisés classés, d'éléments de
+    patrimoine, de zones archéologiques, de canalisations GRTgaz et d'un secteur Nd1 (aucune construction)
+    Recul de 10 m en cas de lisière boisée et risque incendie (débroussaillement de 50 m)
+    Assainissement autonome obligatoire : prévoir une étude de sol et le contrôle du SPANC
+    Vérifier que le projet ne nécessite pas de renforcement des voies et réseaux publics (condition du
+    changement de destination)
+    Consulter le Guichet Unique / CAUE (Grand Site Vallée de la Vézère) ; avis pour les toitures en lauze
+
+
+3.8 Zone N · Extraits du règlement
+
+     Caractère de la zone N · page 106
+     « La zone N constitue une zone naturelle, équipée ou non, dont le caractère naturel doit être protégé. »
+
+
+     N.1.2 – Autorisations sous conditions · page 107
+     « L’extension des constructions à usage d’habitation ne pourra pas dépasser 50% de l’emprise au sol
+     initiale du bâti existant (appréciée à la date d’approbation du PLUI), pour une extension maximale de 75
+     m² d’emprise. »
+
+
+     N.1.2 – Autorisations sous conditions · page 107
+     « Les constructions légères à usage d’habitation (uniquement en zone Nh). »
+
+
+     N.2.1.1 – Voies · page 108
+     « Les constructions devront être implantées avec un recul minimum de 5 m de la limite du domaine
+     public. »
+
+
+     N.2.1.1 – Limites séparatives · page 109
+     « Toute construction doit être implantée à une distance minimale de 3 mètres des limites séparatives. »
+
+
+     N.2.1.2 – Hauteur · page 109
+     « La hauteur d'une construction nouvelle à usage d’habitation, ou des extensions des maisons
+     d'habitations existantes ne doit pas excéder 9 mètres à l’égout du toit (ou à l’acrotère). »
+
+
+
+3.9 Zone N · Démarches probables
+    Déclaration préalable ou permis de construire selon la surface créée (extension, annexe, piscine,
+    changement de destination)
+    Pour un changement de destination : permis de construire ou déclaration préalable avec avis conforme de
+    la commission départementale de la nature, des paysages et des sites (CDNPS)
+    Déclaration préalable pour l'édification d'une clôture
+    Contact préalable avec le Guichet Unique ou le CAUE, recommandé en Grand Site et obligatoire en secteur
+    patrimonial
+    Dossier d'assainissement non collectif auprès du SPANC
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            14 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    Autorisation de défricher si le terrain est boisé, déclaration préalable pour les coupes en espace boisé
+    classé
+    Déclaration d'intention de commencement de travaux (DICT) et information de GRTgaz si une canalisation
+    est concernée
+    Permis de démolir le cas échéant
+
+
+3.10 Zone A (agricole) : environ 19 150 m², 46 % du terrain
+     Sur cette partie du terrain, les constructions nouvelles ne sont pas admises, sauf celles listées
+     ci-dessous.
+
+
+
+Zone A · Caractère de la zone
+Zone agricole (A) à protéger en raison du potentiel agronomique, biologique ou économique des terres
+agricoles. Elle comprend un secteur At (STECAL) pour l'accueil touristique associé à une exploitation agricole,
+dont les règles propres ne s'appliquent pas à la zone A sans indice. Une partie de la zone est inondable et
+soumise au PPRI.
+
+Zone A · Règles de construction
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                       ARTICLE
+
+  Accès et voirie                              Accès adaptés à l'opération, apportant la moindre gêne à la                            art. A.3.1
+                                               circulation publique et respectant les règles de sécurité contre
+                                               l'incendie. Voies adaptées permettant l'accès permanent des
+                                               véhicules de secours ; l'ouverture d'une voie peut être refusée en
+                                               cas de danger ; voies en impasse aménagées pour permettre le
+                                               demi-tour.
+
+  Réseaux et assainissement                    Eau potable : raccordement au réseau collectif avec dispositif                         art. A.3.2
+                                               anti-retour ; alimentation autonome possible avec déclaration en
+                                               mairie et à l'ARS. Assainissement autonome conforme, contrôlé
+                                               par le SPANC. Eaux pluviales résorbées sur le terrain, sinon rejet
+                                               au réseau public existant sans stagnation ; rejet interdit dans les
+                                               dépendances des voies départementales. Électricité
+                                               (raccordement hors équipements propres limité à 100 m) ;
+                                               branchements souterrains si lignes souterraines ; raccordement
+                                               aux communications électroniques existantes à proximité.
+
+  Implantation par rapport aux                 Recul minimum de 5 m de la limite du domaine public.                                   art. A.2.1.1
+  voies                                        Implantations différentes possibles, si la sécurité le permet :
+                                               prolongement d'une construction existante à conserver,
+                                               constructions et installations nécessaires aux services publics ou
+                                               d'intérêt collectif, annexes.
+
+  Implantation par rapport aux                 Retrait minimal de 3 m par rapport aux limites séparatives, y                          art. A.2.1.1
+  limites séparatives                          compris pour les piscines ; les autres annexes peuvent être
+                                               implantées en limite séparative. Recul de 10 m minimum en cas
+                                               d'interface avec une zone boisée.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                15 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                       ARTICLE
+
+  Emprise au sol                               Extension d'habitation : 50 % maximum de l'emprise initiale et 75                      art. A.2.1.2
+                                               m² maximum. Ensemble des annexes hors piscines : 50 m²
+                                               maximum. Bassin de piscine : 72 m² maximum. Pas de plafond
+                                               d'emprise pour les bâtiments agricoles en zone A sans indice (le
+                                               plafond de 15 % concerne uniquement le secteur At).
+
+  Hauteur maximale                             Construction nouvelle ou extension de maison d'habitation : 9 m                        art. A.2.1.2
+                                               à l'égout du toit (ou acrotère). Annexes non intégrées : 3,50 m.
+                                               Bâtiments agricoles et liés à l'activité agricole : 10 m à l'égout
+                                               (superstructures spécifiques comme les silos pouvant sortir du
+                                               gabarit). Hauteur mesurée à la partie basse de la façade en
+                                               terrain en pente. Règle non applicable aux équipements d'intérêt
+                                               collectif.
+
+  Aspect extérieur et toitures                 Volumes simples à base rectangulaire, en harmonie avec le bâti                         art. A.2.2
+                                               ancien environnant. Pente des toitures comprise entre la plus
+                                               faible et la plus forte des bâtiments situés dans un rayon de 100
+                                               m ; tuiles canal, romane ou mécanique en pente faible ; tuiles
+                                               plates ou ardoises en pente forte ; tuiles bois sous conditions
+                                               d'intégration ; tuiles noires et toitures mono-pente interdites
+                                               (annexes, extensions, restauration et équipements publics
+                                               pouvant s'en affranchir). Capteurs solaires suivant la pente du
+                                               toit ; interdits sur les bâtiments d'habitation anciens de caractère.
+                                               Architecture contemporaine admise si bien intégrée. Gestion des
+                                               déblais/remblais : déblai 2 m maximum, remblai 1 m maximum ;
+                                               construction sur butte artificielle interdite.
+
+  Matériaux et couleurs                        Enduits conformes au Guide de coloration du Grand Site Vallée                          art. A.2.2
+                                               de la Vézère ; enduits blancs interdits ; bardages en bois massif à
+                                               dominante verticale avec couvre-joints, lasures claires ou
+                                               orangées interdites ; emploi à nu de matériaux destinés à être
+                                               recouverts (parpaing, brique creuse) et tôle galvanisée à nu
+                                               interdits ; surfaces extérieures pleines non brillantes ; bardage ou
+                                               couverture métallique conformes au guide de coloration.
+
+  Clôtures                                     Hauteur maximale 1,60 m sur rue et 2 m en limites séparatives.                         art. A.2.2 (8 -
+                                               Clôtures autorisées : mur bahut de 0,80 m maximum surmonté                             Clôtures)
+                                               d'un dispositif transparent ; mur plein de 1,20 m maximum ;
+                                               piquets et grillage vert ou gris, avec ou sans haie vive ; barrières
+                                               bois ajouré ; haie vive d'essences locales (thuyas et lauriers
+                                               palme interdits en ordre continu), plantée à 1 m minimum de
+                                               l'alignement. Murs de parpaings enduits sur chaque face. Les
+                                               clôtures doivent suivre la pente du terrain.
+
+  Stationnement                                Stationnement assuré en dehors de la voie publique selon les                           art. A.2.4
+                                               besoins ; revêtements perméables dans la mesure du possible.
+                                               Pas de nombre de places chiffré.
+
+  Espaces verts et plantations                 Plantations maintenues dans la mesure du possible, arbres                              art. A.2.3
+                                               abattus remplacés, essences locales privilégiées. Pour les
+                                               bâtiments agricoles à bardage métallique, zones de stockage et
+                                               silos d'ensilage : écran végétal pouvant être exigé. Aucun
+                                               pourcentage d'espaces verts imposé.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                16 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+Zone A · Usages autorisés
+    Exploitation agricole : autorisée (tableau A.1.1)
+    Constructions et installations liées et nécessaires à l'activité agricole
+    Constructions à usage d'habitation nécessaires à l'exploitation agricole, lorsque la résidence sur
+    l'exploitation est indispensable à l'activité, sans renforcement des voies et réseaux publics, sans gêne pour
+    l'activité agricole voisine
+    Constructions et installations nécessaires à la transformation, au conditionnement et à la
+    commercialisation des produits agricoles, dans le prolongement de l'acte de production (avis de la
+    commission départementale de préservation des espaces naturels, agricoles et forestiers)
+    Réfection des constructions existantes
+    Extension des bâtiments d'habitation existants, sans compromettre l'activité agricole ni la qualité
+    paysagère
+    Annexes à l'habitation (hors piscine à 20 m maximum de l'habitation ; piscines à 25 m maximum ; annexes
+    pour animaux domestiques à 50 m maximum)
+    Changement de destination des bâtiments existants identifiés au PLUi (hors STECAL) vers : logement,
+    autres hébergements touristiques, artisanat et commerce de détail, restauration, activités de service avec
+    accueil de clientèle, salles d'art et de spectacle
+    Entretien et restauration des éléments de patrimoine protégés (L151-19)
+    Affouillements et exhaussements : recherches minières ou géologiques, fouilles archéologiques, besoins
+    en eau de l'exploitation agricole, ouvrages autorisés dans la zone
+    Constructions et installations nécessaires aux services publics ou d'intérêt collectif, sans compromettre le
+    caractère agricole
+    Dans le domaine public ferroviaire : constructions et installations nécessaires au service public ferroviaire
+    Canalisations de transport de gaz et ouvrages associés (dispositions générales, art. 8)
+    Reconstruction à l'identique après sinistre sous 10 ans, dans le respect des servitudes (dispositions
+    générales, art. 6)
+Zone A · Usages interdits ou soumis à conditions
+    Interdits : exploitation forestière, hébergement, commerce de gros, hôtels, cinéma, locaux et bureaux
+    accueillant du public des administrations publiques, établissements d'enseignement, de santé et d'action
+    sociale, équipements sportifs, industrie, entrepôt, bureau, centre de congrès et d'exposition
+    Interdits : constructions engendrant des nuisances incompatibles avec l'environnement urbain, carrières,
+    dépôts de véhicules usagés, de déchets, ferrailles et matériaux de démolition, camping, parcs résidentiels
+    de loisirs, habitations légères de loisirs (sauf secteur At), garages collectifs de caravanes, installation et
+    stationnement isolé de caravanes et résidences mobiles de loisirs (sauf At dans un camping déclaré)
+    Logement nouveau, artisanat et commerce de détail, restauration, activités de service, autres
+    hébergements touristiques, salles d'art et de spectacle : uniquement par changement de destination d'un
+    bâtiment existant identifié au PLUi, sans compromettre l'exploitation agricole ni la paysage, et sans
+    renforcement des voies et réseaux
+    Extension de l'habitation : maximum 50 % de l'emprise au sol initiale (appréciée à la date d'approbation du
+    PLUi) et 75 m² d'emprise au sol maximum
+    Annexes (hors piscines) : 50 m² d'emprise au sol au total ; bassin de piscine : 72 m² maximum
+    Locaux techniques et industriels des administrations publiques : autorisés sous conditions ; autres
+    équipements recevant du public : uniquement en secteur At
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            17 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    Logement de l'exploitant : seulement si la résidence sur place est indispensable à l'activité agricole
+    Les règles du secteur At (camping, HLL, ferme-auberge, emprise 15 %) ne s'appliquent pas à la zone A sans
+    indice
+Zone A · Points de vigilance
+    Vérifier que le projet relève d'une activité agricole ou d'un bâtiment existant (extension, annexe,
+    changement de destination) : toute construction nouvelle non agricole est exclue
+    Pour un changement de destination, vérifier que le bâtiment est identifié au règlement graphique ; avis
+    conforme de la commission départementale de préservation des espaces naturels, agricoles et forestiers
+    Respecter les distances maximales des annexes (20 m, 25 m pour les piscines, 50 m pour les annexes
+    d'animaux) et le plafond d'emprise de 50 m² (72 m² pour le bassin de piscine)
+    Extension d'habitation : base de calcul = emprise initiale à la date d'approbation du PLUi, plafond de 75 m²
+    Vérifier l'éventuelle trame inondable (PPRI, servitude d'utilité publique s'imposant au PLUi)
+    Vérifier la présence d'une canalisation GRTgaz (bande de servitude jusqu'à 20 m non constructible et non
+    plantable ; analyse de compatibilité pour ERP de plus de 100 personnes)
+    Recul de 10 m exigé en interface avec une zone boisée
+    Obligation de débroussaillement (50 m autour des constructions) et espaces boisés classés éventuels
+    Vérifier les zones archéologiques, éléments de patrimoine protégés et secteur du Grand Site Vallée de la
+    Vézère (consultation du guichet unique fortement conseillée pour les bâtiments agricoles)
+    Le règlement ne fixe pas de surface minimale de terrain ni de coefficient d'emprise pour les bâtiments
+    agricoles
+    Plantations d'écran végétal pouvant être exigées pour les bâtiments agricoles à bardage métallique et les
+    silos
+
+     Cette lecture est établie automatiquement, par intelligence artificielle, à partir du règlement officiel en
+     vigueur. Elle peut comporter des imprécisions : seul le texte du règlement, reproduit en annexe (pages
+     106 à 115 du document approuvé), fait foi, avec les dispositions générales, les orientations
+     d'aménagement et les servitudes.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            18 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                                    04 · Loi Littoral et loi Montagne
+
+
+
+
+   04              Loi Littoral et loi Montagne
+     DANS CETTE SECTION
+
+     Les lois nationales qui s'ajoutent au document d'urbanisme sur le littoral et en montagne. Elles
+     peuvent rendre un terrain inconstructible même en zone constructible.
+
+
+Les lois d'aménagement qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+
+
+4.1 Loi Littoral
+Commune littorale                                        Non
+
+Distance au rivage                                       Sans objet
+
+Bande des 100 mètres                                     Sans objet
+
+
+La commune n'est pas riveraine de la mer : la loi Littoral ne s'applique pas (sauf rives de grands lacs).
+
+
+4.2 Loi Montagne
+Commune en zone de montagne                              Non
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            19 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+   05              Risques naturels et technologiques
+     DANS CETTE SECTION
+
+     Les risques connus à l'adresse du terrain (inondation, feu de forêt, mouvement de terrain,
+     radon…) et les catastrophes naturelles reconnues sur la commune.
+
+
+Base nationale Géorisques (ministère de la Transition écologique).
+
+
+
+5.1 Risques naturels à l'adresse de la parcelle
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Remontée de nappe                               Non connu                                       Existant
+
+  Séisme                                          Existant – faible                               Existant – faible
+
+  Mouvement de terrain                            Inconnu                                         Existant
+
+  Retrait-gonflement des                          Non connu                                       Existant – important
+  argiles
+
+  Feu de forêt                                    Existant                                        Existant · Votre bien est concerné par les
+                                                                                                  obligations légales de débroussaillement
+
+  Radon                                           Existant – faible                               Existant – faible
+
+
+
+
+5.2 Risques technologiques
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Pollution des sols                              Concerné                                        Concerné
+
+
+
+
+5.3 Indicateurs réglementaires
+Zone de sismicité                                        Zone 1 – très faible
+
+Potentiel radon                                          Catégorie 1 (potentiel faible)
+
+Retrait-gonflement des argiles                           Non connu
+
+Plans de prévention (PPR)                                Aucun plan de prévention des risques recensé
+
+
+     La parcelle est exposée au risque de feu de forêt. L'obligation légale de débroussaillement s'applique
+     (en général 50 mètres autour des constructions), et un terrain boisé peut nécessiter une autorisation
+     de défrichement avant toute construction.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            20 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.4 Arrêtés de catastrophe naturelle
+11 arrêtés de reconnaissance de l'état de catastrophe naturelle concernent la commune.
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                            JOURNAL OFFICIEL
+
+  Mouvement de Terrain                                                      21/04/2013 au 22/04/2013                           24/01/2014
+
+  Inondations et/ou Coulées de Boue                                         25/05/2008                                         13/08/2008
+
+  Inondations et/ou Coulées de Boue                                         25/12/1999 au 29/12/1999                           30/12/1999
+
+  Mouvement de Terrain                                                      25/12/1999 au 29/12/1999                           30/12/1999
+
+  Sécheresse                                                                01/01/1997 au 30/06/1998                           10/03/1999
+
+  Inondations et/ou Coulées de Boue                                         10/01/1996 au 13/01/1996                           14/02/1996
+
+  Sécheresse                                                                01/01/1992 au 31/12/1996                           28/03/1998
+
+  Tempête                                                                   06/07/1989                                         16/09/1989
+
+  Sécheresse                                                                01/05/1989 au 31/12/1991                           17/10/1992
+
+  Tempête                                                                   06/11/1982 au 10/11/1982                           19/11/1982
+
+  Inondations et/ou Coulées de Boue                                         06/11/1982 au 10/11/1982                           19/11/1982
+
+
+
+
+5.5 Installations classées à proximité (moins de 1 km)
+    AUTEFORT Jean-Louis · Non ICPE
+    LAFAURE SARL · Autorisation · En exploitation avec titre
+    AB CESAR Société - Site CESAR · Non ICPE
+
+
+5.6 Sites et sols pollués à proximité
+    Les Badies · ancien site industriel ou d'activité de service (CASIAS)
+    Les Badies Ouest 1 · ancien site industriel ou d'activité de service (CASIAS)
+    Les Badies Ouest 2 · ancien site industriel ou d'activité de service (CASIAS)
+
+
+5.7 Rapport officiel Géorisques
+Les risques recensés ci-dessus proviennent des bases officielles de Géorisques, service public d'information
+sur les risques. Le rapport officiel complet peut être édité gratuitement, à tout moment et à jour, à partir de
+l'adresse du terrain sur le site Géorisques.
+
+
+    Éditer le rapport officiel Géorisques
+
+
+Lors d'une vente ou d'une location, le vendeur ou le bailleur doit remettre un état des risques de moins de six mois,
+complété et signé, et l'information sur les sinistres indemnisés au titre des catastrophes naturelles.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            21 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+   06              Le terrain : accès, relief et réseaux
+     DANS CETTE SECTION
+
+     Les contraintes physiques du terrain : accès à une voie, pente et exposition, assainissement,
+     raccordement à l'électricité et à l'eau, fibre. Ce sont elles qui pèsent le plus sur le coût d'un
+     projet.
+
+
+Voirie (IGN, BD TOPO), altimétrie (IGN, RGE ALTI), règlement de la zone, réseau électrique (Agence ORE) et éligibilité
+internet (Arcep).
+
+
+
+6.1 Accès
+Accès direct à une voie                                  Oui
+
+Voie                                                     Chemin
+
+Accès des véhicules                                      Libre
+
+
+La parcelle touche une voie carrossable. L'autorisation d'urbanisme vérifiera que l'accès est adapté au projet et sûr,
+et peut imposer une permission de voirie ou un aménagement de l'entrée.
+
+
+6.2 Relief et exposition
+Pente moyenne                                            2%
+
+Exposition                                               Versant orienté nord-est
+
+Altitude                                                 167 à 190 m
+
+Appréciation                                             Terrain plat ou presque plat
+
+
+
+
+ 187 m
+
+
+
+
+ 179 m
+
+
+           Coupe du terrain dans le sens de la pente · longueur 438 m
+
+
+     Terrassements limités ; pas de surcoût notable lié au relief.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            22 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.3 Ensoleillement
+Appréciation                                             Très bien ensoleillé
+
+Soleil direct le 21 juin                                 15 h 12 (de 06 h 30 à 21 h 30)
+
+Soleil direct aux équinoxes                              11 h 48 (de 07 h 10 à 18 h 50)
+
+Soleil direct le 21 décembre                             8 h 18 (de 08 h 40 à 16 h 50)
+
+Ensoleillement annuel possible                           4 319 h par an, soit 98 % du maximum à cette latitude
+
+Hauteur du relief vers le sud                            4°
+
+
+ 75°
+
+
+
+ 60°
+
+
+
+ 45°
+
+
+
+ 30°
+
+
+
+ 15°
+
+
+
+ 0°
+                                Est                  Sud-est                    Sud                 Sud-ouest                 Ouest
+
+          21 juin          Équinoxes               21 décembre                 Horizon : relief et bâtiments voisins
+
+
+
+       Le relief et les constructions voisines ne masquent presque pas le soleil : le terrain profite de la
+       quasi-totalité de l'ensoleillement possible à cette latitude.
+
+
+
+Ensoleillement mois par mois (le 21 de chaque mois)
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Janvier                         9 h 12                             9h                                        08 h 40 – 17 h 30
+
+  Février                         10 h 30                            10 h 18                                   08 h 00 – 18 h 10
+
+  Mars                            12 h                               11 h 48                                   07 h 10 – 18 h 50
+
+  Avril                           13 h 42                            13 h 18                                   07 h 20 – 20 h 30
+
+  Mai                             14 h 48                            14 h 42                                   06 h 40 – 21 h 10
+
+  Juin                            15 h 30                            15 h 12                                   06 h 30 – 21 h 30
+
+  Juillet                         14 h 48                            14 h 42                                   06 h 50 – 21 h 20
+
+  Août                            13 h 42                            13 h 30                                   07 h 20 – 20 h 40
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            23 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Septembre                       12 h 12                            11 h 48                                   08 h 00 – 19 h 40
+
+  Octobre                         10 h 30                            10 h 18                                   08 h 30 – 18 h 40
+
+  Novembre                        9 h 12                             9h                                        08 h 10 – 17 h 00
+
+  Décembre                        8 h 42                             8 h 18                                    08 h 40 – 16 h 50
+
+
+
+Calcul théorique par ciel dégagé, au centre de la parcelle et à hauteur d'homme : course du soleil heure par heure, masque du relief
+sur 6 km (IGN, RGE ALTI) et des bâtiments voisins sur 120 m (IGN, BD TOPO). La végétation et les constructions récentes ne sont
+pas prises en compte.
+
+
+6.4 Quel raccordement pour les eaux usées ?
+Raccordement à prévoir                                       Assainissement individuel probable
+
+Zone du PLU                                                  N · Naturelle et forestière
+
+Zonage d'assainissement                                      Non publié au Géoportail de l'Urbanisme (consultable en mairie)
+
+Réseau collectif sur la commune                              Oui · SMDE 24 · régie publique
+
+
+     Le terrain est hors zone urbaine (zone N) : ces secteurs sont rarement desservis par le réseau public.
+     Sauf canalisation existante dans la voie, prévoyez une fosse toutes eaux avec épandage ou une
+     micro-station agréée.
+
+
+
+Ce que dit le règlement de la zone
+Assainissement non collectif : toute construction ou installation nouvelle doit être équipée d'un système
+d'assainissement autonome conforme à la réglementation en vigueur et contrôlé par le SPANC. Le règlement ne fixe
+ni surface minimale de terrain ni étude de sol spécifique. Rejet des eaux de vidange de piscine interdit dans les
+réseaux d'eaux usées sauf dérogation. Constructions agricoles : conformité aux prescriptions ICPE ou au règlement
+sanitaire départemental.
+
+Ce que cela coûte
+Assainissement individuel : 5 000 à 15 000 € selon la filière (détail ci-dessous), plus l'étude de sol à la parcelle (500 à
+1 000 €). Étapes : étude de sol, puis avis favorable du SPANC sur le projet, à joindre à la demande de permis de
+construire. Besoin d'un installateur agréé ? Nous vous mettons en relation : contact@terrenurbanisme.com.
+
+Qui contacter pour obtenir la confirmation
+Service d'assainissement                                     SMDE 24
+
+Mairie                                                       Mairie de Mauzens-et-Miremont
+
+Téléphone                                                    05 53 03 23 17
+
+E-mail                                                       info@mauzens-et-miremont.fr
+
+
+    Demandez au service d'assainissement, avec la référence cadastrale, si une canalisation publique passe au droit
+    du terrain, à quelle profondeur, et le montant de la PFAC. Sa réponse écrite vaut attestation de raccordabilité.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            24 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+    Certificat d'urbanisme opérationnel (formulaire Cerfa 13410, gratuit) : la mairie y indique officiellement si le
+    terrain est desservi par le réseau d'assainissement.
+    Plan des réseaux : la présence des canalisations enterrées près du terrain peut être vérifiée sur
+    reseaux-et-canalisations.gouv.fr, le guichet unique des réseaux.
+Sources : zonage d'assainissement et règlement (Géoportail de l'Urbanisme) ; services publics d'assainissement (SISPEA, Office
+français de la biodiversité) ; annuaire de l'administration (service-public.fr).
+
+Les solutions d'assainissement individuel
+  FILIÈRE                                    QUAND ELLE CONVIENT                                                            ORDRE DE PRIX
+
+  Fosse toutes eaux et                       Sol perméable, terrain assez grand et peu pentu                                5 000 à 10 000 €
+  épandage
+
+  Filtre à sable                             Sol peu perméable, place suffisante                                            8 000 à 12 000 €
+
+  Micro-station agréée                       Petit terrain ou sol défavorable ; entretien et électricité                    7 000 à 15 000 €
+
+  Filtre compact agréé                       Petit terrain, sans électricité                                                9 000 à 14 000 €
+
+
+
+Ordres de prix indicatifs (fourniture et pose, hors étude de sol et terrassements particuliers). La filière est choisie au vu de l'étude
+de sol et validée par le SPANC.
+
+
+6.5 Électricité et eau potable
+Gestionnaire du réseau                                       Enedis
+
+Réseau basse tension le plus proche                          à environ 165 m (ligne souterraine)
+
+Ligne souterraine la plus proche                             à environ 165 m
+
+Poste de transformation le plus proche                       à environ 175 m
+
+Appréciation                                                 Extension importante à prévoir
+
+
+     Le réseau basse tension le plus proche est à environ 165 m. Une extension importante est à prévoir,
+     avec un coût élevé (souvent plus de 10 000 €) et des délais de plusieurs mois.
+
+
+
+Ce qu'il faut vérifier avant d'acheter
+    La capacité du réseau : même un réseau proche peut être saturé (coffret ou câble plein, poste de transformation
+    au maximum). Seule une étude du gestionnaire permet de le savoir ; c'est la cause la plus fréquente de surcoûts
+    imprévus.
+    Électricité : demander au gestionnaire du réseau une étude de raccordement ou un devis à partir de l'adresse et
+    du plan de situation (gratuit). Elle indique le type de raccordement, son coût et son délai.
+    Eau potable : les plans du réseau d'eau ne sont pas publics. Interroger le service des eaux (coordonnées
+    ci-dessous) sur la présence d'une canalisation au droit du terrain, sa capacité et le coût du branchement, ainsi
+    que sur la défense incendie (borne à moins de 200 m environ).
+    Certificat d'urbanisme opérationnel : la mairie y indique si le terrain est desservi par les réseaux publics (eau,
+    électricité, assainissement) et, à défaut, si et quand ils seront étendus. Un refus de permis peut être fondé sur
+    l'insuffisance des réseaux (article L. 111-11 du Code de l'urbanisme).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            25 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+Qui contacter
+Service de l'eau potable                                     SMDE 24
+
+Mode de gestion                                              Régie publique
+
+Contact pour le branchement                                  SMDE 24
+
+Mairie                                                       Mairie de Mauzens-et-Miremont
+
+Téléphone de la mairie                                       05 53 03 23 17
+
+E-mail de la mairie                                          info@mauzens-et-miremont.fr
+
+Électricité (raccordement)                                   Enedis · demande en ligne sur enedis.fr (raccordement)
+
+La mairie oriente vers le bon interlocuteur et confirme, dans le certificat d'urbanisme, la desserte du terrain par les réseaux.
+Sources : SISPEA, observatoire des services publics d'eau (OFB) ; annuaire de l'administration (service-public.fr).
+
+Dans une promesse de vente, une condition suspensive portant sur le coût du raccordement aux réseaux protège
+l'acquéreur. Source de la cartographie électrique : Agence ORE, données des gestionnaires de réseaux de distribution ;
+tracés indicatifs.
+
+
+6.6 Fibre et internet
+     La fibre est déployée dans le secteur, la plus proche à 190 m (385 Route du Lavoir) : le raccordement
+     d'une construction neuve suppose une extension du réseau, à demander à l'opérateur.
+
+
+
+Adresse la plus proche                                          385 Route du Lavoir · à 190 m · raccordable
+
+Point fibré le plus proche                                      385 Route du Lavoir · à 190 m
+
+Adresses fibrées à moins de 100 m                               Aucune adresse recensée
+
+Adresses fibrées à moins de 400 m                               8 sur 8
+
+Technologies disponibles à proximité                            4G fixe, Fibre, Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            26 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+     Points fibrés autour du terrain
+
+
+
+
+                                                                                                                                                 F
+
+                                                                                                         F
+
+
+
+
+                                                                                                                                       100 m
+
+
+
+Repères F : adresses déclarées raccordables à la fibre (Arcep) · en terracotta : sur la parcelle · fond © IGN
+
+
+Vérifiez la fibre à l'adresse du terrain :
+
+                     Carte fibre Orange                                                                  Carte de l'Arcep
+
+
+  DISTANCE           ADRESSE                                                                   FIBRE              AUTRES ACCÈS
+
+  190 m              385 Route du Lavoir                                                       Oui                4G fixe, Satellite
+
+  315 m              151 Route du Lavoir                                                       Oui                4G fixe, Satellite
+
+  352 m              67 Impasse de la Boucherie                                                Oui                4G fixe, Satellite
+
+  356 m              147 Route du Lavoir                                                       Oui                4G fixe, Satellite
+
+  360 m              60 Impasse de la Boucherie                                                Oui                4G fixe, Satellite
+
+  375 m              345 Chemin des Badies                                                     Oui                4G fixe, Satellite
+
+  395 m              55 Route du Lavoir                                                        Oui                4G fixe, Satellite
+
+  399 m              606 Route du Lavoir                                                       Oui                4G fixe, Satellite
+
+
+
+Source : Arcep, « Ma connexion internet », éligibilité déclarée par les opérateurs, adresse par adresse. Le tracé des câbles n'est
+pas public : la présence de la fibre en limite de terrain se vérifie auprès de l'opérateur ou par une déclaration de projet de travaux
+(DT).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            27 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.7 Qui contacter pour les réseaux
+  RÉSEAU                                    INTERLOCUTEUR                                         CE QU'IL FAUT DEMANDER
+
+  Eau potable et                            Mairie ou service des eaux de la                      Attestation de desserte et conditions de
+  assainissement collectif                  commune                                               raccordement
+
+  Assainissement individuel                 SPANC (communauté de communes)                        Contrôle de conception sur la base de l'étude
+                                                                                                  de sol
+
+  Électricité                               Enedis (gestionnaire du réseau de                     Étude de raccordement et devis
+                                            distribution)
+
+  Fibre et téléphone                        Opérateur d'infrastructure et                         Raccordement du futur logement
+                                            fournisseur d'accès
+
+  Tous réseaux                              Guichet unique des réseaux                            Déclaration de projet de travaux (DT) pour
+                                            (reseaux-et-canalisations.gouv.fr)                    localiser les réseaux existants
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            28 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                               07 · Conditions de vente du terrain
+
+
+
+
+    07             Conditions de vente du terrain
+     DANS CETTE SECTION
+
+     Terrain agricole ou naturel : droit de préemption de la SAFER, fermier en place, autorisation
+     d'exploiter et repère officiel de prix.
+
+
+Terrain situé en zone N : vente encadrée par le code rural et de la pêche maritime.
+
+
+
+7.1 Pourquoi aucune fourchette de prix n'est donnée
+La parcelle est classée en zone N (naturelle et forestière), où les constructions nouvelles ne sont en principe
+pas admises. Sa valeur ne se déduit pas des ventes de terrains à bâtir du secteur : elle dépend de l'usage
+agricole ou naturel du sol, de sa qualité, de son accès, de l'eau disponible et de l'existence éventuelle d'un bail
+rural. Une estimation automatique serait trompeuse : la valeur doit être établie au cas par cas par un notaire
+ou un expert foncier et agricole.
+
+
+7.2 Le droit de préemption de la SAFER
+Principe                                        La vente d'un terrain agricole ou naturel est en principe soumise au droit de
+                                                préemption de la SAFER (articles L. 143-1 et suivants du code rural et de la
+                                                pêche maritime). Une surface minimale, fixée par département, peut en
+                                                exclure les plus petites parcelles.
+
+Information obligatoire                         Le notaire informe la SAFER du projet de vente au moins deux mois avant la
+                                                signature : prix, conditions et identité de l'acquéreur.
+
+Ce que peut faire la SAFER                      Renoncer, acheter au prix et aux conditions notifiés, ou proposer un prix
+                                                inférieur si elle estime le prix exagéré. Le vendeur peut alors accepter,
+                                                retirer son terrain de la vente ou demander au tribunal judiciaire de fixer le
+                                                prix.
+
+Pourquoi elle intervient                        Installation de jeunes agriculteurs, consolidation des exploitations,
+                                                protection de l'environnement et des paysages, lutte contre la spéculation
+                                                foncière.
+
+
+
+7.3 Les autres règles à connaître
+Fermier en place                                Si le terrain est loué par bail rural, l'exploitant en place bénéficie d'un droit
+                                                de préemption prioritaire, avant la SAFER.
+
+Autorisation d'exploiter                        Un acquéreur qui souhaite exploiter le terrain peut devoir obtenir une
+                                                autorisation d'exploiter auprès de la DDT(M), selon le schéma directeur
+                                                régional des exploitations agricoles.
+
+Espace naturel sensible                         Dans un espace naturel sensible, le département peut également disposer
+                                                d'un droit de préemption.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            29 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                               07 · Conditions de vente du terrain
+
+
+
+
+Constructions                                   Seules les constructions nécessaires à l'exploitation agricole ou forestière,
+                                                ou à des équipements collectifs, sont en règle générale admises : l'achat ne
+                                                donne pas de droit à bâtir une habitation.
+
+
+
+7.4 Repère officiel de prix
+Le ministère de l'Agriculture publie chaque année le barème indicatif de la valeur vénale moyenne des terres
+agricoles, par région agricole et par nature de culture (arrêté publié au Journal officiel). C'est la référence à
+consulter, avec l'avis d'un notaire ou d'un expert foncier et agricole, avant de fixer un prix.
+
+     Avant toute mise en vente, rapprochez-vous de votre notaire : il notifie la vente à la SAFER, vérifie
+     l'existence d'un bail et sécurise le calendrier de la transaction.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            30 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+   08              Environnement et marché immobilier
+     DANS CETTE SECTION
+
+     Les espaces naturels protégés autour du terrain et les prix de vente réels des maisons,
+     appartements et terrains alentour.
+
+
+Inventaire national du patrimoine naturel et demandes de valeurs foncières (DVF).
+
+
+
+8.1 Espaces naturels protégés ou inventoriés
+La parcelle n'est concernée par aucun site Natura 2000, ZNIEFF, parc ou réserve naturelle.
+
+
+8.2 Espèces protégées observées près du terrain
+59 espèces protégées ont été observées dans un rayon de 1 km autour du terrain depuis 1990 ; les 14 plus
+fréquemment signalées figurent ci-dessous.
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                              OBSERVATIONS
+
+  Grand épeiche (Dendrocopos major)                               Oiseau                 Nationale (espèce et                    9 · dernière en
+                                                                                         habitat)                                2023
+
+  Rouge-gorge familier (Erithacus                                 Oiseau                 Nationale (espèce et                    9 · dernière en
+  rubecula)                                                                              habitat)                                2022
+
+  Carotte commune (Daucus carota)                                 Plante                 Nationale                               8 · dernière en
+                                                                                                                                 2022
+
+  Hirondelle de rochers (Ptyonoprogne                             Oiseau                 Nationale (espèce et                    7 · dernière en 2022
+  rupestris)                                                                             habitat)
+
+  Rossignol commun (Luscinia                                      Oiseau                 Nationale (espèce et                    7 · dernière en 2022
+  megarhynchos)                                                                          habitat)
+
+  Hirondelle de cheminée (Hirundo                                 Oiseau                 Nationale (espèce et                    7 · dernière en 2023
+  rustica)                                                                               habitat)
+
+  Pic vert (Picus viridis)                                        Oiseau                 Nationale (espèce et                    6 · dernière en
+                                                                                         habitat)                                2023
+
+  Buse commune (Buteo buteo)                                      Oiseau                 Nationale (espèce et                    6 · dernière en
+                                                                                         habitat)                                2022
+
+  Alouette lulu (Lullula arborea)                                 Oiseau                 Nationale (espèce et                    6 · dernière en
+                                                                                         habitat)                                2022
+
+  Fauvette à tête noire (Sylvia atricapilla)                      Oiseau                 Nationale (espèce et                    6 · dernière en
+                                                                                         habitat)                                2022
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              31 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                              OBSERVATIONS
+
+  Pinson des arbres (Fringilla coelebs)                           Oiseau                 Nationale (espèce et                    6 · dernière en
+                                                                                         habitat)                                2022
+
+  Troglodyte mignon (Troglodytes                                  Oiseau                 Nationale (espèce et                    6 · dernière en
+  troglodytes)                                                                           habitat)                                2022
+
+  Herbe à Chiron (Centaurium erythraea)                           Plante                 Nationale                               6 · dernière en
+                                                                                                                                 2022
+
+  Bruant zizi (Emberiza cirlus)                                   Oiseau                 Nationale (espèce et                    6 · dernière en
+                                                                                         habitat)                                2023
+
+
+
+     Une observation à proximité ne signifie pas que l'espèce vit sur le terrain. Mais si elle y est présente, il
+     est interdit de détruire, capturer ou déranger les individus et, pour la plupart de ces espèces, de
+     détruire leurs lieux de reproduction et de repos (articles L. 411-1 et suivants du Code de
+     l'environnement). L'infraction est punie de 3 ans d'emprisonnement et 150 000 € d'amende.
+
+
+
+Pour les plantes, la protection vise les populations sauvages : un spécimen planté dans un jardin n'est pas concerné.
+
+Que faire avant de construire ?
+    Pour une maison individuelle, aucune étude écologique n'est imposée en règle générale, et l'étude de sol porte
+    sur le terrain (fondations), pas sur la faune ni la flore. Vous restez cependant responsable si une espèce
+    protégée vit sur la parcelle : en cas de doute (espèce observée tout près, vieux arbres, murets, maquis, zone
+    humide), faites passer un écologue avant de défricher.
+    Si un enjeu est confirmé : inventaire faune-flore aux saisons utiles (printemps et été en général), puis mesures
+    pour éviter et réduire l'impact : implantation de la maison sur la partie la moins sensible, travaux hors période de
+    reproduction, clôture de chantier adaptée, déplacement d'individus par un spécialiste habilité.
+    Si la destruction d'individus ou d'habitats ne peut pas être évitée : demande de dérogation « espèces protégées »
+    auprès de la préfecture (DREAL), avec avis du conseil scientifique. Comptez 4 à 12 mois d'instruction, à anticiper
+    avant le dépôt du permis.
+
+Combien prévoir ?
+Pré-diagnostic écologique                                800 à 2 000 € (une visite et une note de synthèse)
+
+Inventaire faune-flore                                   3 000 à 10 000 € selon la surface et le nombre de passages
+
+Mesures d'évitement et de réduction                      500 à 5 000 € (balisage, calendrier, suivi de chantier)
+
+Dossier de dérogation                                    8 000 à 25 000 €, hors mesures de compensation éventuelles
+
+Ordres de prix indicatifs, honoraires de bureaux d'études en environnement, si une étude est nécessaire. Pour une maison sur un
+terrain déjà entouré de constructions, aucune étude n'est le plus souvent requise.
+
+Sources : statuts de protection TAXREF et base de connaissance des statuts (INPN, Muséum national d'Histoire naturelle) ;
+observations naturalistes GBIF, qui rassemble notamment les données de l'INPN et du SINP.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              32 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+8.3 Prix de l'immobilier à Mauzens-et-Miremont
+Prix au mètre carré des ventes enregistrées sur la commune au cours des cinq dernières années publiées.
+Seules les ventes portant sur un bien unique sont retenues.
+
+  TYPE DE BIEN                                       VENTES                       €/M² MÉDIAN                               €/M² MOYEN
+
+  Maisons                                            20                           1 762 €/m²                                1 933 €/m²
+
+
+
+Source : statistiques des demandes de valeurs foncières (DGFiP, Etalab). Prix des actes, hors frais : un ordre de grandeur,
+pas une estimation du bien.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            33 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                                                09 · Historique du site
+
+
+
+
+   09              Historique du site
+     DANS CETTE SECTION
+
+     Le terrain vu du ciel au fil des décennies et les permis de construire accordés autour : l'évolution
+     du secteur en un coup d'œil.
+
+
+Photographies aériennes de l'IGN et permis de construire délivrés (Sitadel).
+
+
+
+9.1 Le terrain vu du ciel, d'hier à aujourd'hui
+
+    1950-1965                                             2000-2005                                              2006-2010
+
+
+
+
+    2011-2015                                             Aujourd'hui
+
+
+
+
+Ces vues montrent l'évolution du terrain et du quartier, des années 1950 à aujourd'hui (photographies aériennes de l'IGN).
+
+     Bon à savoir : l'existence ancienne d'une construction peut ouvrir, sous conditions, un droit à
+     reconstruire ou à restaurer un bâtiment dont il reste l'essentiel des murs porteurs (articles L. 111-15 et L.
+     111-23 du Code de l'urbanisme).
+
+
+
+
+9.2 Permis de construire délivrés autour du terrain
+Autorisations sur la commune (3 ans)                                    6 · dernière recensée le 16/09/2025
+
+Logements autorisés (3 ans)                                             6
+
+Dont maisons individuelles                                              6
+
+Autorisations dans la section AM                                        2 depuis 2014
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  12/06/2014            Permis de construire                   AM 361             1              169 m²                    LD LA PEYRE
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            34 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                                                09 · Historique du site
+
+
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  29/03/2014            Permis de construire                   AM 358             1              102 m²                    LE CLUZEL
+
+
+
+Permis accordés à moins de 500 m du terrain
+  DATE                 AUTORISATION                       PARCELLE          DISTANCE         LOGTS        SURFACE             LIEU-DIT / VOIE
+
+  12/06/2014           Permis de construire               AM 361            440 m            1            169 m²              LD LA PEYRE
+
+  29/03/2014           Permis de construire               AM 358            450 m            1            102 m²              LE CLUZEL
+
+
+
+2 autorisations créant des logements recensées dans un rayon de 500 m : la construction a été admise récemment
+dans le voisinage immédiat.
+
+Source : base Sitadel des autorisations d'urbanisme créant des logements (SDES). Un permis accordé à proximité montre
+que des constructions ont été admises dans le secteur, sans préjuger de la décision sur votre propre projet.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            35 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+      10           Votre projet, étape par étape
+De l'achat du terrain à la déclaration aux impôts : démarches, délais, coûts et contacts.
+
+
+
+10.1 Analyse
+Le terrain est soumis au plan local d'urbanisme intercommunal (PLUi) de Mauzens-et-Miremont. Il est
+classé principalement en zone N. Zone naturelle et forestière : secteur protégé en raison de la qualité
+des sites, des milieux naturels et des paysages, ou de son caractère d'espace naturel. Les constructions
+nouvelles n'y sont pas admises, sauf exceptions encadrées (équipements publics, extension limitée des
+habitations existantes, secteurs de taille et de capacité limitées).
+
+En l'état, une construction nouvelle n'est pas possible. Seules des évolutions limitées peuvent être
+envisagées selon le règlement de la zone (extension mesurée d'une habitation existante, annexes,
+équipements publics). Le classement ne peut évoluer qu'à l'occasion d'une modification ou d'une révision
+du document d'urbanisme, à l'initiative de la commune.
+
+
+10.2 Votre projet, étape par étape
+Les étapes ci-dessous suivent l'ordre réel d'un projet de construction, de l'achat du terrain à la déclaration aux
+impôts. Les montants sont indicatifs et à confirmer par devis.
+
+  1      Avant d'acheter le terrain
+         Vérifiez les règles de la zone (chapitres précédents), puis demandez un certificat d'urbanisme opérationnel
+         (Cerfa 13410, sans frais, réponse sous 2 mois) : il fige les règles pendant 18 mois. En zone d'argiles d'aléa
+         moyen ou fort, le vendeur doit fournir une étude de sol préalable.
+         Contact : Mairie de Mauzens-et-Miremont · 05 53 03 23 17 · info@mauzens-et-miremont.fr · formulaire sur
+         service-public.fr (rechercher « Cerfa 13410 »)
+
+  2      Les études
+         Étude de sol géotechnique (G2) pour dimensionner les fondations : 1 500 à 3 000 €. Étude thermique RE2020,
+         obligatoire pour le permis : 500 à 1 500 €. Bornage par un géomètre si les limites sont incertaines. L'étude de
+         sol ne porte pas sur les espèces protégées : un écologue n'intervient qu'en cas d'enjeu (chapitre
+         Environnement).
+         Géomètres proches du terrain : liste à la fin de ce chapitre
+
+  3      Les plans
+         Architecte obligatoire si la surface de plancher totale dépasse 150 m². En dessous, vous pouvez dessiner les
+         plans vous-même ou faire appel à un dessinateur ou maître d'œuvre (environ 1 500 à 4 000 € le dossier de
+         permis). Architecte : 3 000 à 8 000 € pour la seule mission de permis, 8 à 12 % du coût des travaux pour une
+         mission complète avec suivi du chantier.
+         Trouver un architecte : annuaire de l'Ordre des architectes sur architectes.org
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            36 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+  4      Déposer le permis
+         Formulaire Cerfa 13406 (maison individuelle) et pièces PCMI1 à PCMI8 : plan de situation, plan de masse,
+         coupe, notice, plans des façades et toitures, insertion dans le paysage, photos, attestation RE2020. Dépôt en
+         mairie ou en ligne sur le guichet numérique de la commune. La mairie a 1 mois pour réclamer une pièce
+         manquante ; l'instruction dure 2 mois à partir du dossier complet, plus en secteur protégé.
+         Dépôt : Mairie de Mauzens-et-Miremont · 05 53 03 23 17 · info@mauzens-et-miremont.fr · formulaire sur
+         service-public.fr (rechercher « Cerfa 13406 »)
+
+  5      Affichage et recours
+         Dès l'accord, installez le panneau de permis sur le terrain, lisible depuis la voie, pendant toute la durée du
+         chantier. Les tiers ont 2 mois à compter du premier jour d'affichage pour contester ; la mairie peut retirer un
+         permis illégal pendant 3 mois. Faites constater l'affichage par un commissaire de justice (environ 300 à 600 €
+         pour les trois constats).
+         Commissaires de justice : annuaire sur commissaire-justice.fr
+
+  6      Avant les travaux
+         Souscrivez l'assurance dommages-ouvrage, obligatoire (souvent 2 à 4 % du coût de la construction). Signez
+         le contrat de construction de maison individuelle ou les marchés des artisans. Déposez la déclaration
+         d'ouverture de chantier (Cerfa 13407) le jour du démarrage. Le permis est valable 3 ans, prorogeable deux
+         fois d'un an.
+         Déclaration d'ouverture : Mairie de Mauzens-et-Miremont · 05 53 03 23 17 · info@mauzens-et-miremont.fr
+
+  7      Le financement
+         La banque débloque le prêt au fur et à mesure du chantier, sur présentation des factures des entreprises ou
+         des appels de fonds du constructeur. Avec un contrat de construction de maison individuelle, l'échéancier
+         est encadré par la loi : 15 % à l'ouverture du chantier, 25 % aux fondations, 40 % aux murs, 60 % hors d'eau,
+         75 % hors d'air et cloisons, 95 % aux équipements, le solde à la réception. Des intérêts intercalaires peuvent
+         courir sur les sommes débloquées.
+         Votre banque ou votre courtier
+
+  8      La fin du chantier
+         Réception des travaux avec le constructeur ou les artisans, avec réserves si nécessaire. Déposez ensuite la
+         déclaration attestant l'achèvement et la conformité des travaux (DAACT, Cerfa 13408), avec l'attestation
+         RE2020 de fin de chantier. La mairie a 3 mois pour la contester (5 mois en secteur protégé).
+         Dépôt : Mairie de Mauzens-et-Miremont · 05 53 03 23 17 · info@mauzens-et-miremont.fr
+
+  9      Les impôts
+         Dans les 90 jours suivant l'achèvement, déclarez la construction sur impots.gouv.fr, espace « Gérer mes
+         biens immobiliers ». Cette déclaration sert au calcul de la taxe d'aménagement (payée en une fois sous 1 500
+         €, sinon en deux fois, estimation plus bas dans ce chapitre) et de la taxe foncière, avec une exonération
+         possible les deux premières années selon la commune.
+         impots.gouv.fr › Espace particulier › Gérer mes biens immobiliers
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            37 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+10.3 Les points à vérifier pour ce terrain
+  1      Certificat d'urbanisme opérationnel
+         Le demander en mairie (formulaire Cerfa 13410), en décrivant le projet. Gratuit, il indique si le terrain
+         peut accueillir le projet et fige les règles d'urbanisme pendant 18 mois.
+
+  2      Règlement de la zone
+         Lire le règlement écrit de la zone N et, le cas échéant, les orientations d'aménagement, disponibles sur
+         le Géoportail de l'Urbanisme.
+
+  3      Réseaux et accès
+         Vérifier l'accès à une voie publique ou privée adaptée, la desserte en eau potable et en électricité, et le
+         mode d'assainissement. En l'absence de réseau collectif, une étude de sol et l'avis du service public
+         d'assainissement non collectif (SPANC) sont nécessaires.
+
+  4      Débroussaillement et défrichement
+         Prévoir le débroussaillement obligatoire autour des constructions et, si le terrain est boisé, une
+         demande d'autorisation de défrichement auprès de la DDT avant le permis.
+
+  5      Bornage
+         Faire réaliser un bornage par un géomètre-expert pour fixer les limites exactes et la surface réelle du
+         terrain.
+
+  6      Sécuriser un achat
+         Pour une acquisition, prévoir dans le compromis une condition suspensive d'obtention d'un permis de
+         construire purgé de tout recours.
+
+
+10.4 Délais indicatifs d'instruction
+  DEMANDE                                                                                 DÉLAI DE DROIT COMMUN
+
+  Certificat d'urbanisme d'information (CUa)                                              1 mois
+
+  Certificat d'urbanisme opérationnel (CUb)                                               2 mois
+
+  Déclaration préalable                                                                   1 mois
+
+  Permis de construire une maison individuelle                                            2 mois
+
+  Permis d'aménager, autres permis de construire                                          3 mois
+
+
+
+Ces délais peuvent être majorés, notamment en site classé ou inscrit, aux abords d'un monument historique ou lorsque la
+consultation d'un service extérieur est nécessaire.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            38 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+10.5 Implanter une entreprise : zone France Ruralités Revitalisation
+     La commune de Mauzens-et-Miremont est classée en zone France Ruralités Revitalisation (FRR) depuis
+     le 1er juillet 2024. Une entreprise qui s'y crée ou y est reprise peut être exonérée d'impôt sur les
+     bénéfices pendant 5 ans, puis partiellement pendant 3 ans.
+
+
+
+Impôt sur les bénéfices (IS ou IR)                    Exonération totale pendant 5 ans, puis exonération de 75 %, 50 % et 25
+                                                      % des bénéfices les 3 années suivantes
+
+Création ou reprise                                   Entre le 1er juillet 2024 et le 31 décembre 2029
+
+Activités concernées                                  Industrielle, commerciale, artisanale ou libérale
+
+Taille de l'entreprise                                Moins de 11 salariés
+
+Régime d'imposition                                   Régime réel obligatoire (micro-entreprise exclue, sauf option pour le
+                                                      réel)
+
+Implantation                                          Siège et totalité de l'activité dans la zone (activité sédentaire : 25 % du
+                                                      chiffre d'affaires au plus réalisé hors zone)
+
+Plafond                                               Aides de minimis : 300 000 € sur trois exercices
+
+Taxe foncière et CFE                                  Exonération possible si la commune ou l'intercommunalité l'a votée : à
+                                                      vérifier en mairie
+
+
+Exclus : les activités agricoles, la gestion ou la location d'immeubles (une SCI de location nue n'est pas éligible) et la
+location meublée sans services de type hôtelier. Une location touristique ou des chambres d'hôtes peuvent être éligibles si
+le ménage quotidien et le linge sont fournis et inclus dans le prix.
+
+Ces avantages dépendent de la situation de l'entreprise (article 44 quindecies A du code général des impôts). Faites valider
+votre éligibilité par votre expert-comptable ou le service des impôts des entreprises avant de vous installer.
+
+Source : ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 (collectivites-locales.gouv.fr).
+
+
+10.6 Géomètres proches du terrain
+Le géomètre-expert est le seul professionnel habilité à fixer les limites de propriété (bornage) et à établir les
+documents d'arpentage déposés au cadastre. Il intervient aussi pour les relevés topographiques et les
+divisions de terrain.
+
+7,2 km            TERRA CONSEILS EXPERTISE
+                                                                                                                              Coordonnées
+                  10 PL SIMONE VEIL LE BOURG 24580
+                  ROUFFIGNAC-ST-CERNIN-DE-REILHAC
+
+
+8,1 km            AGEFAUR
+                                                                                                                              Coordonnées
+                  16 RUE DU JARDIN PUBLIC 24260 LE BUGUE
+
+
+20 km             TERRA CONSEILS EXPERTISES EN ABREGE TERRACONEX
+                                                                                                                              Coordonnées
+                  PAS KLEBER 24290 MONTIGNAC-LASCAUX
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            39 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+22,9 km           GEOVAL
+                                                                                                                              Coordonnées
+                  11 RUE CLAVEILLE 24150 LALINDE
+
+
+24,7 km           A2 GEO
+                                                                                                                              Coordonnées
+                  13 IMP VINCENT LE GOFF 24330 BOULAZAC ISLE MANOIRE
+
+
+25 km             AGEFAUR
+                                                                                                                              Coordonnées
+                  49 RUE DES CORDELIERS 24200 SARLAT-LA-CANEDA
+
+
+Source : répertoire Sirene de l'INSEE (activité des géomètres), classé par distance au terrain. L'inscription d'un cabinet à l'Ordre
+des géomètres-experts se vérifie sur geometre-expert.fr. Le bouton « Coordonnées » ouvre la fiche du cabinet (téléphone,
+horaires, itinéraire). Cette liste est fournie à titre indicatif, sans partenariat ni recommandation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            40 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+          TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+     11            État des risques (ERP) pré-rempli
+     DANS CETTE SECTION
+
+     Le formulaire réglementaire à remettre à l'acquéreur ou au locataire, pré-rempli à partir des
+     bases officielles : plans de prévention, sismicité, radon, sols pollués, trait de côte, bruit des
+     aérodromes.
+
+
+Articles L. 125-5 à L. 125-7 et R. 125-23 à R. 125-27 du Code de l'environnement · modèle fixé par l'arrêté du 27 septembre
+2022.
+
+
+     Formulaire pré-rempli à partir de Géorisques et du Géoportail de l'Urbanisme à la date du rapport.
+     Avant de le remettre à l'acquéreur ou au locataire, le vendeur ou le bailleur le vérifie, le complète
+     (sinistres indemnisés) et le signe ; il doit dater de moins de six mois à la signature de la promesse, du
+     bail ou de l'acte.
+
+
+
+
+11.1 Situation du bien
+Commune                                                  Mauzens-et-Miremont (24261)
+
+Département                                              Dordogne (24)
+
+Références cadastrales                                   Section AM, parcelle n° 340 · 24261000AM0340
+
+Surface cadastrale                                       41 550 m²
+
+
+
+11.2 Plans de prévention des risques
+  L'IMMEUBLE EST SITUÉ DANS LE PÉRIMÈTRE…                                         RÉPONSE                DÉTAIL
+
+  d'un plan de prévention des risques naturels (PPRN)                             Non                    Aléas à l'adresse : feu de forêt
+  prescrit, appliqué par anticipation ou approuvé
+
+  d'un plan de prévention des risques miniers (PPRM)                              Non                    Non recensé
+
+  d'un plan de prévention des risques technologiques                              Non                    Risques technologiques sur la commune
+  (PPRT)                                                                                                 : pollution des sols
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            41 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+11.3 Autres zonages réglementaires
+  L'IMMEUBLE EST SITUÉ…                                                           RÉPONSE                DÉTAIL
+
+  dans une commune de sismicité (zones 2 à 5 : règles de                          Non                    Zone 1 – très faible
+  construction parasismique)
+
+  dans une commune à potentiel radon de niveau 3                                  Non                    Catégorie 1 (potentiel faible)
+
+  dans un secteur d'information sur les sols (SIS)                                Non                    Aucun SIS recensé à proximité
+
+  dans une zone exposée au recul du trait de côte                                 Non                    Non concerné selon Géorisques
+
+  dans une zone de bruit d'un plan d'exposition au bruit                          À vérifier             Aucun PEB annexé au document
+  d'aérodrome (PEB)                                                                                      d'urbanisme ; vérifier auprès de la mairie
+
+  dans une zone de retrait-gonflement des argiles                                 Oui                    Non connu
+  (information)
+
+
+
+
+11.4 Sinistres indemnisés et déclarations
+Arrêtés de catastrophe naturelle sur la commune : 11 (liste en section Risques). Le vendeur ou le bailleur
+déclare ci-dessous les sinistres ayant donné lieu à une indemnisation au titre des catastrophes naturelles ou
+technologiques pendant la période où il a été propriétaire.
+
+Sinistres indemnisés                                     [ ] Oui [ ] Non
+
+Vendeur ou bailleur                                      Nom : ____________________ Date : ___/___/______ Signature :
+
+Acquéreur ou locataire                                   Nom : ____________________ Date : ___/___/______ Signature :
+
+
+L'état des risques officiel peut aussi être édité gratuitement sur Géorisques (errial.georisques.gouv.fr). Les informations
+ci-dessus sont établies à partir des bases nationales ; en cas de divergence, l'arrêté préfectoral relatif à l'information des
+acquéreurs et des locataires fait foi.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            42 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+    12             Avertissement et sources
+     DANS CETTE SECTION
+
+     La portée de ce rapport et la liste des sources publiques consultées.
+
+
+
+12.1 Nature du document
+Ce rapport est un document d'information établi automatiquement, à la date indiquée en page de garde, à
+partir des données publiques officielles alors disponibles. Il n'a aucune valeur contractuelle, réglementaire ou
+juridique.
+
+
+12.2 Ce que ce rapport n'est pas
+Il ne constitue ni un certificat d'urbanisme au sens de l'article L. 410-1 du Code de l'urbanisme, ni une
+autorisation d'urbanisme (permis de construire, permis d'aménager, déclaration préalable), ni un état des
+risques au sens de l'article L. 125-5 du Code de l'environnement, ni un bornage, ni une expertise, ni une
+évaluation immobilière, ni une consultation juridique. Il n'engage en rien l'administration.
+
+
+12.3 Permis de construire
+Ce rapport ne peut en aucun cas être joint, produit ou invoqué à l'appui d'une demande de permis de
+construire, de permis d'aménager ou de déclaration préalable, ni opposé à la mairie ou à un service de l'État. Il
+ne garantit pas l'obtention d'une autorisation : seule l'autorité compétente se prononce, au vu d'un projet
+précis et de l'ensemble des règles applicables à la date de sa décision.
+
+
+12.4 Limites des données
+Les données sont produites par des organismes publics dont l'éditeur n'est ni l'auteur ni le garant. Elles
+peuvent être incomplètes, imprécises ou ne pas refléter une modification, une révision, une mise en
+compatibilité, une annulation contentieuse, un sursis à statuer ou une procédure en cours. Le plan cadastral,
+document fiscal, ne fait pas foi des limites de propriété. Surfaces, distances, altitudes et pentes sont
+approchées. Les extraits et analyses du règlement sont une aide à la lecture : seul le texte intégral du
+document d'urbanisme approuvé, consultable en mairie, fait foi.
+
+
+12.5 Avant toute décision
+Avant toute acquisition, cession, financement, promesse de vente ou dépôt d'une demande, le lecteur doit
+obtenir un certificat d'urbanisme opérationnel auprès de la mairie, consulter le document d'urbanisme en
+vigueur et recueillir l'avis d'un professionnel habilité (notaire, architecte, géomètre-expert, avocat). Pour un
+achat, il est recommandé de stipuler une condition suspensive d'obtention d'un permis de construire purgé de
+tout recours.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            43 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+12.6 Responsabilité
+L'éditeur ne saurait être tenu responsable d'une décision prise sur le seul fondement de ce rapport, ni d'un
+refus d'autorisation, d'une erreur ou d'une omission des sources publiques, dans les limites prévues par les
+conditions générales de vente acceptées lors de la commande.
+
+
+12.7 Sources consultées
+  DONNÉE                                                    SOURCE
+
+  Cadastre                                                  DGFiP, plan cadastral informatisé, via API Carto (IGN)
+
+  Photographies et plans                                    IGN, Géoplateforme : orthophotographies, Plan IGN, parcellaire express
+
+  Urbanisme                                                 Géoportail de l'Urbanisme : zonage, prescriptions, informations, servitudes
+                                                            d'utilité publique
+
+  Littoral                                                  IGN, BD TOPO (limite terre-mer) ; communes littorales (Géoportail de
+                                                            l'Urbanisme)
+
+  Montagne                                                  Ministère de la Cohésion des territoires, communes de la loi Montagne
+
+  Risques                                                   Géorisques (ministère de la Transition écologique) : rapport de risques,
+                                                            arrêtés CatNat, sismicité, radon, ICPE, sites pollués
+
+  Environnement                                             Inventaire national du patrimoine naturel (PatriNat), via API Carto
+
+  Altitude, pente et exposition                             IGN, RGE ALTI
+
+  Ensoleillement                                            Calcul astronomique de la course du soleil ; masque du relief (IGN, RGE
+                                                            ALTI) et des bâtiments (IGN, BD TOPO)
+
+  Voirie et accès                                           IGN, BD TOPO (tronçons de route)
+
+  Permis de construire                                      Sitadel, service des données et études statistiques (SDES) du ministère
+                                                            chargé du logement
+
+  Photographies anciennes                                   IGN, BD ORTHO historique
+
+  Fibre et internet                                         Arcep, Ma connexion internet (éligibilité par adresse)
+
+  Géomètres                                                 Répertoire Sirene (INSEE), activité des géomètres
+
+  Propriétaires personnes morales                           DGFiP, fichiers des parcelles des personnes morales (diffusion Koumoul)
+
+  Diagnostics énergétiques                                  ADEME, base des DPE des logements existants
+
+  Procédures collectives                                    Bodacc, annonces commerciales (DILA)
+
+  Bâtiments                                                 IGN, BD TOPO
+
+  Réseau électrique                                         Agence ORE (gestionnaires de réseaux de distribution : Enedis, EDF Corse
+                                                            et entreprises locales) : réseau basse tension et postes de distribution
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            44 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+  DONNÉE                                                    SOURCE
+
+  Taxe d'aménagement                                        DGFiP, éléments de taxation votés par les collectivités ; valeurs forfaitaires
+                                                            fixées par arrêté
+
+  Rapport officiel de risques                               Géorisques, ministère chargé de l'environnement
+
+  Zone France Ruralités Revitalisation                      ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 ; article
+                                                            44 quindecies A du code général des impôts
+
+  Marché immobilier                                         Statistiques des demandes de valeurs foncières (DVF) par commune, DGFiP
+                                                            et Etalab
+
+  Date d'extraction                                         20/11/2026
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            45 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           Mauzens-et-Miremont · AM 340
+         TerrenUrbanisme
+                                                                                                                     Annexe · règlement de la zone
+
+
+
+
+ANNEXE
+
+
+Règlement écrit · zone N
+Les pages suivantes reproduisent le chapitre du règlement officiel applicable à la zone de la parcelle
+(pages 106 à 115 du document approuvé), tel que publié sur le Géoportail de l'Urbanisme. Il s'agit d'une
+reproduction à titre d'information : seule la version approuvée tenue à disposition en mairie fait foi, avec
+ses annexes, plans et éventuelles modifications ultérieures.
+Règlement complet :
+https://data.geopf.fr/annexes/gpu/documents/DU_200041168/87d8f42b4ca69610b4111de4e0901a6d/200041168_reglement_
+20231207.pdf
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            46 / 57
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+      DISPOSITIONS APPLICABLES A LA ZONE N                                              SECTION I - DESTINATION DES CONSTRUCTIONS, USAGES DES
+                                                                                                       SOLS ET NATURES D’ACTIVITE
+                              ZONE NATURELLE
+Caractère de la zone                                                                    N.1.1 ET 1.2 - INTERDICTION ET LIMITATION DE CERTAINS USAGES
+                                                                                        ET AFFECTATIONS DES SOLS, CONSTRUCTIONS ET ACTIVITES
+La zone N constitue une zone naturelle, équipée ou non, dont le caractère
+naturel doit être protégé.                                                                Destination                                                                   Autorisé
+Elle comprend différents secteurs de zone :                                                  des                 Sous-destinations              Autorisé   Interdit      sous
+                                                                                         constructions                                                                 conditions
+                                                                                         Exploitation    Exploitation agricole                                             X
+Secteurs considérés comme des « STECAL »                                                 agricole et
+                                                                                         forestière      Exploitation forestière                   X
+- Nh, secteur pouvant permettre la réalisation de quelques constructions                                 Logement                                                          X
+complémentaires ;                                                                        Habitation
+                                                                                                         Hébergement                                          X
+- Nhy : secteur lié à une activité située en zone naturelle ou agricole, permettant                      Artisanat et commerce de détail                                   X
+une construction nouvelle liée à l’activité ;                                                            Restauration                                                      X
+- Ny, secteur lié à une activité située en zone naturelle ou agricole, permettant                        Commerce de gros                                     X
+une extension du bâtiment ;                                                              Commerce        Activités     de     services    où
+                                                                                                                                                                           X
+- Ne : équipements communaux (bâtiments communaux, cimetières, terrains                  et activités    s'effectue l'accueil d'une clientèle
+de jeux, de sports et loisirs, parkings…) ;                                              de service      Hôtels,                                              X
+- Ns : constructions et installations liées aux stations d’épuration ;                                   Autres hébergements
+                                                                                                                                                                           X
+                                                                                                         touristiques
+- Npo, secteur lié à l’activité piscicole ;
+                                                                                                         Cinéma                                               X
+                                                                                                         Locaux et bureaux accueillant du
+Secteurs non considérés comme des « STECAL »                                                             public     des     administrations                               Ne
+                                                                                                         publiques et assimilés
+- Nca : secteur lié à la présence d’une carrière (commune de Campagne)                                   Locaux techniques et industriels
+- Nd1 et Nd2 : secteurs liés à d’anciens sites de décharge sur la commune de             Equipement      des administrations publiques et                                  X
+Les Farges : ancienne décharge de la papeterie de Condat (Nd1) ; ancienne                s d'intérêt     assimilés
+                                                                                         collectif et
+décharge d’ordures ménagères (Nd2)                                                       services
+                                                                                                         Etablissement d'enseignement,
+                                                                                                                                                              X
+                                                                                                         de santé et d'action sociale
+                                                                                         publics
+- N1, secteur à caractère patrimonial                                                                    Salles d'art et de spectacles                                     X
+                                                                                                         Equipements sportifs                                             Ne
+Une partie de la zone N est localisée en zone inondable identifiée au plan et                            Autres équipements recevant du
+                                                                                                                                                                          Ne
+                                                                                                         public
+soumise aux prescriptions réglementaires du P.P.R.I.
+                                                                                         Autres          Industrie                                                     Nhy, Ny
+                                                                                         activités       Entrepôt                                                     Nhy, Ny, Ne
+                                                                                         des             Bureau                                                        Nhy, Ny
+Nota (Cf tableau ci-contre) : les sous-destinations suivantes : Logement /               secteurs        Centre       de      congrès      et
+Artisanat et Commerce de détail / Restauration / Activités de service où s’effectue      secondaire      d'exposition                                         X
+l’accueil d’une clientèle / Autres hébergements touristiques / Salles d’art et de        ou tertiaire
+spectacle, sont autorisées sous conditions et uniquement en cas de changement
+de destination d’un bâtiment existant.
+
+
+
+
+PLUi de la Communauté de Communes de la Vallée de l’Homme – Modification simplifiée n°1 - Règlement d’urbanisme - Novembre 2023                                                106
+ Autres occupations et utilisations du sol interdites :
+                                                                                         Les annexes pour les animaux domestiques (poulailler, abri pour chevaux
+- Les constructions et installations autres que celles soumises à des conditions         …) devront être situées à une distance maximale de 50 mètres des bâtiments
+particulières.                                                                           d’habitation existants.
+
+- Les carrières, installations et constructions nécessaires à cette exploitation         - Le changement de destination de tous les bâtiments existants, identifiés
+(sauf en Nca) ;                                                                          (sauf en STECAL), à condition que le changement ne compromette ni
+- Les dépôts de véhicules usagers, de déchets de toute nature, le stockage de            l’exploitation agricole ni la qualité paysagère du site ; à condition que cela ne
+ferrailles et matériaux de démolition ou de récupération ;                               nécessite pas de renforcement des voies et réseaux publics assurant leur
+- La création de camping ; les parcs résidentiels de loisirs ; les habitations           desserte.
+légères de loisirs ; les garages collectifs de caravanes .                               Le changement de destination pourra limitativement être autorisé pour les
+- L’installation et le stationnement isolé de caravanes, et assimilés, et                sous-destinations suivantes :
+résidences mobiles de loisirs, quelle qu’en soit la durée.                                    - Logement
+                                                                                              - Autres hébergements touristiques
+En secteur Nd1 (ancienne décharge de la papeterie de Condat, commune de                       - Artisanat et Commerce de détail
+Les Farges)                                                                                   - Restauration
+- Les constructions de toute nature, les travaux de voirie, les travaux                       - Locaux de vente et de transformation de produits agricoles.
+d’affouillements, de sondage et de forage sont interdits.                                     - Activités de service où s’effectue l’accueil d’une clientèle
+                                                                                              - Salles d’art et de spectacle
+
+ Occupations et utilisations du sol autorisées sous conditions :                         - Les constructions légères à usage d’habitation (uniquement en zone Nh).
+
+- La réfection des constructions existantes.                                             - L’entretien et la restauration des éléments de patrimoine à protéger, à
+                                                                                         mettre en valeur ou à requalifier (article L151-19 du code de l’urbanisme)
+- Les constructions et installations directement liées et nécessaires à l’activité       identifiés et localisés aux documents graphiques du règlement.
+et à l’exploitation forestière et à la protection de la forêt ; les aires de dépôts de
+bois.                                                                                    - Les affouillements et exhaussements du sol lorsqu’ils sont destinés : aux
+                                                                                         recherches minières ou géologiques, ainsi qu'aux fouilles archéologiques ; à
+- Les constructions et installations liées et nécessaires à l’activité agricole.         satisfaire les besoins en eau de l’exploitation agricole ; à des services publics
+                                                                                         ou d’intérêt collectif.
+- L’extension des bâtiments d’habitation dès lors que cette extension ne
+compromet pas l'activité agricole ou la qualité paysagère du site.                       - Les constructions et installations nécessaires aux services publics ou d’intérêt
+L’extension des constructions à usage d’habitation ne pourra pas dépasser                collectif, dans la mesure où elles ne compromettent pas le caractère naturel de
+50% de l’emprise au sol initiale du bâti existant (appréciée à la date                   la zone.
+d’approbation du PLUI), pour une extension maximale de 75 m2 d’emprise.
+
+- La construction d’annexes à l’habitation dès lors que ces annexes ne
+compromettent pas l'activité agricole ou la qualité paysagère du site.
+Les annexes, hors piscine, devront être situées à une distance maximale de 20
+mètres des bâtiments d’habitation existants. Les piscines devront être situées
+à une distance maximale de 25 mètres des bâtiments d’habitation.
+
+
+PLUi de la Communauté de Communes de la Vallée de l’Homme – Modification simplifiée n°1 - Règlement d’urbanisme - Novembre 2023                                        107
+                                                                                        Dans le secteur Nd2
+Dans le secteur Nh
+                                                                                        - Les constructions et installations nécessaires aux services publics ou d’intérêt
+En plus des autorisations ci-dessus admises, sont admises en outre dans le              collectif dans la mesure où elles ne compromettent pas le caractère naturel de
+secteur Nh, conformément à l’article L151-13 du code de l’urbanisme,                    la zone.
+                                                                                        - Les affouillements et exhaussements du sol, s’ils sont nécessités par la
+  • Les constructions nouvelles d’habitation et leurs annexes, à condition :            réalisation de fouilles archéologiques.
+- que cela ne nécessite pas de renforcement des voies et réseaux publics
+assurant leur desserte,                                                                 Dans le secteur Nca
+- que l’implantation et l’aspect extérieur des constructions s’intègre dans les
+                                                                                        - Les installations liées à la présence d’une carrière.
+paysages naturels et bâtis environnants.
+                                                                                        Dans le domaine public ferroviaire,  les constructions, installations et
+  • Les constructions légères
+                                                                                        aménagements nécessaires au fonctionnement du service public ferroviaire.
+Dans les secteurs de zone N ci-après, sont limitativement admis :
+
+Dans le secteur Nhy
+                                                                                        SECTION II - CARACTERISTIQUES URBAINE, ARCHITECTURALE,
+- Dans le cadre d’une activité, la construction d’un bâtiment lié à cette activité.                  ENVIRONNEMENTALE ET PAYSAGERE
+Dans le secteur Ny
+- Dans le cadre d’une activité existante, l’extension du bâtiment lié à l’activité      ARTICLE N.2.1 -              VOLUMETRIE         ET        IMPLANTATION      DES
+existante.                                                                              CONSTRUCTIONS
+
+Dans le secteur Ne                                                                          2.1.1 - Implantation des constructions
+- La construction et l’extension des bâtiments communaux existants, les                           Par rapport aux voies et emprises publiques
+constructions et installations liées aux équipements considérés : cimetières,
+terrains et aires de jeux, de sports et loisirs (stade, tennis, city stade),            Les constructions devront être implantées avec un recul minimum de 5 m de la
+parkings…                                                                               limite du domaine public.
+                                                                                        Des implantations ne respectant pas le retrait minimum prévu au paragraphe
+Dans le secteur Ns                                                                      ci-dessus, peuvent être admises, si les conditions de sécurité le permettent :
+- Les constructions et installations liées à une station d’épuration.
+                                                                                        -     Lorsque le projet prolonge une construction existante à conserver,
+Dans le secteur Npo                                                                     -     Pour les constructions et installations nécessaires aux services publics ou
+                                                                                              d’intérêt collectif
+- L’ensemble des constructions et installations nécessaires à l’activité piscicole.     -     Pour les annexes
+
+Dans le secteur Nd1
+Aucune construction ou installation n’est autorisée, même sous conditions.
+
+
+
+PLUi de la Communauté de Communes de la Vallée de l’Homme – Modification simplifiée n°1 - Règlement d’urbanisme - Novembre 2023                                       108
+                                                                                        considéré (construction nouvelle appréciée au regard de la date d’approbation
+        Par rapport aux limites séparatives                                             du PLUi).
+
+Toute construction doit être implantée à une distance minimale de 3 mètres des          Secteurs Nh, Npo
+limites séparatives.                                                                    L’emprise au sol des constructions et installations nouvelles de toute nature ne
+La même distance doit être respectée pour les piscines.                                 peut excéder 15% de la superficie de l’unité foncière comprise dans le secteur
+Les autres annexes peuvent être implantées en limite séparative.                        considéré (construction nouvelle appréciée au regard de la date d’approbation
+                                                                                        du PLUi).
+        Interface avec une zone boisée
+                                                                                        Secteurs Ne :
+Un recul des constructions, de 10 mètres, minimum, sera exigé lorsque le                L’emprise au sol des constructions et installations nouvelles de toute nature ne
+terrain d’assiette du projet présente une interface avec une zone boisée.               peut excéder 5% de la superficie de l’unité foncière comprise dans le secteur
+                                                                                        considéré (construction nouvelle appréciée au regard de la date d’approbation
+          Nota                                                                          du PLUi).
+Les constructions et installations nécessaires aux services publics ou d'intérêt
+collectif (CINASPIC) sont exemptés des règles d’implantation par rapport aux                    La hauteur des constructions
+voies et emprises publiques et aux limites séparatives lorsque leurs
+caractéristiques techniques l'imposent, sous réserve d’une bonne insertion              La hauteur d'une construction nouvelle à usage d’habitation, ou des extensions
+paysagère et sans porter atteinte à la sécurité des usagers.                            des maisons d'habitations existantes ne doit pas excéder 9 mètres à l’égout du
+                                                                                        toit (ou à l’acrotère).
+ 2.1.2 - Volumétrie, hauteur, densité des constructions
+                                                                                        La hauteur des annexes non intégrées à la construction principale est limitée à
+        Emprise bâtie des constructions                                                 3,50 mètres à l’égout du toit à l’égout du toit (ou à l’acrotère).
+
+L’extension des constructions à usage d’habitation ne pourra pas dépasser               La hauteur des autres bâtiments est limitée à 10 m à l’égout du toit (ou
+50% de l’emprise au sol initiale du bâti existant (appréciée à la date                  acrotère).
+d’approbation du PLUI) et sera limitée à 75 m2 d’emprise au sol.
+                                                                                        Lorsque le terrain naturel est en pente, la hauteur est mesurée à la partie la
+L’ensemble des annexes (autres que les piscines) ne devra pas excéder 50 m 2            plus basse de la façade du bâtiment le long de laquelle la pente est la plus
+d’emprise au sol.                                                                       accentuée.
+Le bassin des piscines ne devra pas excéder 72 m2 d’emprise au sol.
+                                                                                        La règle ne s’applique pas aux constructions et installations nécessaires aux
+Secteurs Ns                                                                             services publics ou d’intérêt collectif (CINASPIC).
+L’emprise au sol des constructions et installations nouvelles de toute nature ne
+peut excéder 30% de la superficie de l’unité foncière comprise dans le secteur
+considéré (construction nouvelle appréciée au regard de la date d’approbation
+du PLUi).
+
+Secteurs Ny et Nhy
+L’emprise au sol des constructions et installations nouvelles de toute nature ne
+peut excéder 20% de la superficie de l’unité foncière comprise dans le secteur
+
+
+
+PLUi de la Communauté de Communes de la Vallée de l’Homme – Modification simplifiée n°1 - Règlement d’urbanisme - Novembre 2023                                     109
+                                                                                          3 - Restaurations, aménagements et extensions de bâtiments
+ARTICLE N.2.2 - QUALITE URBAINE,                          ARCHITECTURALE,                 d’architecture de caractère ancien
+ENVIRONNEMENTALE ET PAYSAGERE
+                                                                                        Les règles ci-après s'appliquent aux constructions existantes.
+                                                                                        Toute architecture de caractère ancien se reconnait à une volumétrie
+   1- Dispositions générales                                                            proportionnée qui correspond à l'usage initial de la construction, qu'il soit public
+                                                                                        ou privé, agricole, artisanal ou d'habitat, et par l’emploi de techniques
+- Les constructions peuvent être d’expression architecturale courante ou                traditionnelles locales.
+contemporaine mais ne doivent pas être de nature, par leur situation, leurs
+dimensions ou leur aspect extérieur, à porter atteinte au caractère ou à l’intérêt          Toiture
+des lieux avoisinants, aux sites, paysages naturels ou urbains, ainsi qu’à la
+conservation des perspectives monumentales.                                             - Conserver et restaurer les volumes anciens ou existants, quel qu'en soit la
+                                                                                        pente, lorsqu'ils sont conformes au caractère architectural et à la typologie de
+- Les constructions doivent présenter une unité d'aspect et de matériaux                l'édifice.
+compatibles avec le caractère des constructions avoisinantes, du site et des            - Conserver au maximum les matériaux de couverture de caractère ancien
+paysages. Elles doivent tenir compte du bâti environnant, tant en ce qui                existants (tuile plate, canal, mécanique, lauze, ardoise, etc…) lorsqu'ils sont
+concerne leur orientation que leur volume et leur aspect.                               conformes au caractère architectural de l'édifice et à la pente de toiture
+                                                                                        correspondante.
+- Le recours aux technologies et matériaux nécessaires à l’utilisation ou à la          - Des matériaux de même nature, de réemploi ou vieillis, seront employés pour
+production d’énergies renouvelables et/ou à la conception de constructions de           les travaux de restauration.
+qualité environnementale (bâtiment basse consommation, bâtiment à énergie               Les tuiles bois sont autorisées sous conditions d’une bonne intégration.
+positive, construction écologique, construction bioclimatique, construction
+intégrant des procédés de récupération des eaux pluviales pour un ré-usage              - Les extensions seront harmonisées avec les constructions existantes sans
+domestique, ...) est autorisé.                                                          dénaturer l’ensemble bâti existant.
+                                                                                        - Les capteurs solaires sont interdits sur les bâtiments d’habitation anciens de
+Il est recommandé de se reporter au cahier de recommandations                             caractère mais pourront être autorisés sur les bâtiments annexes et au sol.
+architecturales et paysagères réalisé par le CAUE, ainsi qu’au Guide de                 Les capteurs thermiques seront toutefois autorisés car de dimension réduite, et
+coloration du bâti du Grand Site de la Vallée de la Vézère.                             peu impactant.
+
+                                                                                        Les coloris et matériaux de couverture employés seront conformes au « Guide
+ 2 – Secteurs patrimoniaux                                                              de coloration du bâti du Grand Site de la Vallée de la Vézère ».
+
+Définition de ces secteurs : Les secteurs 1 correspondent à des secteurs                    Façades
+patrimoniaux à préserver dans lesquels une attention particulière devra être
+apportée pour toute nouvelle construction, extension ou restauration tant d’un          - Conserver et restaurer les enduits de caractère ancien (enduits réalisés à la
+point de vue architectural que paysager.                                                chaux additionnée de sables locaux) si leur état le permet, si leur nature est
+Dans ces secteurs, un contact sera pris avec le Guichet Unique ou le CAUE               conforme au caractère architectural de l'édifice et s'ils ne portent pas atteinte à
+avant tout dépôt d’une demande d’autorisation d’urbanisme.                              la conservation de l'édifice.
+                                                                                        - En cas de rénovation et de ravalement, employer des enduits (en enduits
+                                                                                        pleins ou rejointoiement) conformes au caractère architectural du bâtiment et
+                                                                                        qui en respectent la modénature. Les enduits seront mis en œuvre de manière
+
+
+PLUi de la Communauté de Communes de la Vallée de l’Homme – Modification simplifiée n°1 - Règlement d’urbanisme - Novembre 2023                                         110
+à conserver les maçonneries qu'ils recouvrent et à ne pas mettre en danger              ventilation...), ils seront dissimulés par des habillages architecturaux, tout en
+leur pérennité. A ce titre, les enduits à base de ciment sont à proscrire pour          s’assurant qu’il y ait un volume d’air suffisant pour leur bon fonctionnement.
+toute rénovation de bâtiment à caractère ancien.                                        Cette remarque ne s'applique pas aux équipements liés à l'énergie solaire ou
+Les teintes employées seront conformes au Guide de coloration du bâti du                éolienne.
+Grand Site de la Vallée de la Vézère, ainsi qu’aux teintes des constructions
+environnantes.
+                                                                                          4 - Constructions d’architecture courante (habitation, hôtel, restaurant,
+- Les extensions seront harmonisées avec les constructions existantes et ne               commerces de détail)
+devront pas dénaturer l’ensemble bâti existant.
+En cas d’extension, si ces dernières sont enduites, les enduits seront de même          Les règles ci-après s’appliquent aux constructions neuves, ainsi qu’aux
+nature et de même teinte que ceux de la construction existante.                         aménagements, restaurations et extensions des constructions d’architecture
+                                                                                        courante.
+    Ouvertures et fermetures nouvelles
+                                                                                            Volumétrie
+- Les menuiseries respecteront la division propre au caractère architectural du
+bâtiment (nombre de vantaux, nombre de carreaux, impostes vitrées).                     Les constructions devront présenter des volumes simples et homogènes, selon
+- En cas de remplacement de menuiseries de caractère ancien, les menuiseries            un plan à base rectangulaire. Les volumes seront composés en harmonie avec
+seront remplacées à l'identique de l'existant (matériaux et teinte).                    celui des bâtiments traditionnels anciens environnants.
+- Les contrevents extérieurs seront conservés, restaurés ou remplacés à
+l'identique de l'existant. Les volets roulants sont interdits.                              Toiture
+
+- Si le bâtiment ne possède pas de menuiseries, les nouvelles menuiseries               La pente des toitures sera déterminée en fonction des pentes des toitures des
+devront se conformer au caractère ancien du bâti. Le bâtiment disposera de              bâtiments environnants (compris dans un rayon de 100 m), hors bâtiments
+menuiseries bois ou alu. Les volets roulants sont interdits.                            annexes. Elle doit être comprise entre la pente la plus faible et la pente la plus
+                                                                                        forte.
+- Dans tous les cas les menuiseries des fenêtres, des contrevents et des portes         Lorsque les constructions sont terminées par des toitures en pente faible, elles
+devront respecter le Guide de coloration du bâti du Grand Site de la Vallée de          doivent être couvertes par des tuiles de type canal, romane ou mécanique.
+la Vézère                                                                               Lorsqu'elles sont terminées par des toitures à pente forte, elles doivent être
+                                                                                        couvertes par des tuiles plates ou des ardoises.
+    Ouvertures et fermetures nouvelles                                                  Les tuiles bois sont autorisées sous conditions d’une bonne intégration.
+                                                                                        Les tuiles noires sont interdites.
+Les ouvertures créées sur le bâtiment initial respecteront l'architecture du            Les toitures mono-pentes sont interdites.
+bâtiment existant. Elles seront de mêmes proportions, matériaux ou teinte que
+celles du bâtiment existant.                                                            Les coloris et matériaux de couverture employés seront conformes au « Guide
+Les ouvertures des extensions pourront être traitées différemment à condition           de coloration du bâti du Grand Site de la Vallée de la Vézère ».
+d’une bonne intégration et d’une unité d’aspect.
+                                                                                        Lorsque des capteurs d'énergie solaire seront posés sur les toitures, ces
+    Equipements techniques                                                              capteurs d'énergie solaire suivront la pente de la toiture correspondante.
+
+En cas de rénovation énergétique du bâti donnant à voir en façade ou en toiture         Pourront s’affranchir des prescriptions ci-dessus mentionnées les cas
+les équipements techniques modifiés (chaufferie, climatisation, gaines de               suivants :
+
+
+PLUi de la Communauté de Communes de la Vallée de l’Homme – Modification simplifiée n°1 - Règlement d’urbanisme - Novembre 2023                                       111
+- Les restauration des toitures et terrasses existantes,
+- Les annexes                                                                             5 - Construction d’architecture contemporaine (habitation, hôtel,
+- Les constructions et installations nécessaires aux services publics ou d'intérêt        restaurant, commerces de détail)
+collectif
+- Les extensions                                                                        Les règles ci-après s’appliquent aux constructions neuves, ainsi qu’aux
+                                                                                        aménagements, restaurations et extensions des constructions d’architecture
+    Façades                                                                             contemporaine (cf. annexe, illustrations d’architecture contemporaine).
+
+Les enduits devront respecter le Guide de coloration du bâti du Grand Site de           Les constructions d’expression architecturale contemporaine pourront
+la Vallée de la Vézère ainsi que les teintes des constructions environnantes.           s’affranchir de la typologie et des matériaux traditionnels à condition de
+Les enduits blancs sont interdits.                                                      s'intégrer de manière harmonieuse et réfléchie dans leur environnement
+                                                                                        architectural et paysager.
+Les bardages seront en bois massif.
+Ils devront être à dominante verticale - type séchoir à tabac - avec couvre-joints.     La conception, le style et l’intégration devront être justifiés et adaptés au
+Les lasures de teinte claire ou orangée sont interdites. Il sera privilégié des         contexte des lieux. Le volet paysager devra être particulièrement travaillé.
+teintes naturelles ou foncées.
+L'emploi à nu de matériaux fabriqués en vue d'être recouverts d'un parement
+ou d'un enduit (tels que brique creuse, parpaing, panneau de particule, etc.),          6 - Les constructions légères (secteur Nh)
+ainsi que l’emploi de tôle galvanisée sont interdits.
+                                                                                        Elles seront de volumétrie simple, et réalisées en bardage bois. Elles
+Les extensions seront harmonisées avec les constructions existantes.                    disposeront d’une couverture en tuiles ou en « métal ».
+
+    Ouvertures et fermetures                                                            La composition, l’unité d’aspect et le traitement paysager devront être
+                                                                                        particulièrement étudiés et justifiés.
+- Les menuiseries des fenêtres et des portes devront respecter le Guide de
+coloration du bâti du Grand Site de la Vallée de la Vézère                              Les coloris employés seront conformes au « Guide de coloration du bâti du
+- Les extensions seront harmonisées avec les constructions existantes.                  Grand Site de la Vallée de la Vézère ».
+
+
+    Equipements techniques                                                                7 - Autres constructions
+
+En cas de rénovation énergétique du bâti donnant à voir en façade ou en toiture         La forme des bâtiments sera simple et extérieurement justifiée par les
+les équipements techniques modifiés (chaufferie, climatisation, gaines de               impératifs techniques liés à la nature de la construction.
+ventilation...), ils seront dissimulés par des habillages architecturaux, tout en       Les matériaux suivants sont interdits pour un usage extérieur :
+s’assurant qu’il y ait un volume d’air suffisant pour leur bon fonctionnement.          - tôle galvanisée employée à nu,
+Cette remarque ne s'applique pas aux équipements liés à l'énergie solaire ou            - parpaings ou briques creuses non revêtus d'un enduit.
+éolienne.
+                                                                                        Les surfaces extérieures pleines ne pourront être brillantes.
+
+
+
+
+PLUi de la Communauté de Communes de la Vallée de l’Homme – Modification simplifiée n°1 - Règlement d’urbanisme - Novembre 2023                                  112
+Les enduits devront respecter le Guide de coloration du bâti du Grand Site de           - haie vive avec des essences locales variées ou mélangées ;
+la Vallée de la Vézère. Il en sera de même en cas de bardage ou de couvertures          Les thuyas et lauriers palme ne sont pas autorisés en ordre continu.
+métalliques, le guide de coloration du bâti sera respecté.                              Pour les clôtures en haies vives, un recul de l’alignement de la voie publique
+                                                                                        de 1 m minimum pour la plantation devra être respecté.
+
+ 8 - Bâtiments annexes                                                                  - Les portails seront proportionnés à la clôture auxquels ils sont rattachés. Ils
+                                                                                        devront respecter le Guide de coloration du bâti du Grand Site de la Vallée de
+Ils pourront être traités différemment du bâtiment principal dès lors que leur          la Vézère. Les grillages de couleur vive sont interdits.
+forme, matériaux et couleurs choisis, ne portent pas atteinte au caractère et à         - L'emploi à nu de matériaux destinés à être recouverts est interdit.
+la qualité des lieux et des constructions avoisinantes.                                 - Les murs de clôture en parpaings devront être enduits sur chaque face..
+
+
+ 9 - Clôtures, murets et portails                                                         10 - Insertion sur un terrain en pente moyenne ou forte et de la gestion
+                                                                                          des déblais / remblais.
+- Les clôtures devront être traitées avec le même soin que les façades des
+bâtiments. Elles devront être conçues de manière à s’harmoniser avec la ou              La conception des constructions devra être adaptée à la configuration du terrain
+les constructions existantes sur la propriété et dans le voisinage immédiat et          naturel :
+ne devront pas constituer, par leurs matériaux, leur aspect ou couleur une
+dissonance architecturale avec le cadre environnant.                                    - Dans le cas d'un terrain en pente, le déblai ne devra pas excéder 2 mètres et
+                                                                                        le remblai ne pourra excéder 1 mètre par rapport au terrain naturel.
+- La hauteur des clôtures ne pourra pas excéder 1,60 m sur rue et 2 m en limites        Au-delà, la construction devra intégrer la pente à son organisation (création
+séparatives. Elle est mesurée par rapport au terrain naturel.                           d’un demi-niveau, création d’une cave partielle, …).
+- Les clôtures doivent suivre la pente du terrain.                                      Un équilibre devra être recherché et les murs de soutènement devront être
+                                                                                        limités afin de réduire l'impact visuel sur le site.
+- Les murs destinés à assurer la continuité du bâti doivent être de même nature
+et de même aspect que le bâtiment auquel ils se raccordent. Ils doivent être
+implantés à l’alignement, sauf en cas de prolongement d'un ouvrage ancien
+existant.
+
+- Les murs anciens existants seront dans la mesure du possible préservés et
+restaurés.
+
+Les clôtures autorisées :
+
+- mur bahut de 0,80 m maximum, surmonté d’un dispositif obligatoirement
+transparent : d’un grillage, d’une grille ou d’un dispositif à claire voie ;
+- mur plein d’une hauteur maximum de 1,20 m. Une hauteur supérieure pourra
+être admise dans le cas du prolongement d’un ouvrage ancien existant ;
+- clôtures réalisées en piquet et grillage (couleur verte ou grise) type grillage à
+mouton, doublées ou non d’une haie vive ;
+- Barrières de type bois ajouré (cf : annexe clôtures)
+
+
+PLUi de la Communauté de Communes de la Vallée de l’Homme – Modification simplifiée n°1 - Règlement d’urbanisme - Novembre 2023                                      113
+Illustration à titre indicatif                                                                         SECTION III - ÉQUIPEMENT ET RESEAUX
+
+
+                                                                                        ARTICLE N.3.1 - DESSERTE PAR LES VOIES PUBLIQUES OU
+                                                                                        PRIVEES
+
+                                                                                          Accès
+
+                                                                                        Pour être constructible, toute unité foncière doit avoir accès à une voie publique
+                                                                                        ou privée, soit directement, soit par passage aménagé sur les fonds voisins,
+                                                                                        éventuellement obtenu dans les conditions fixées par l'article 682 du code civil.
+                                                                                        Ces accès doivent être adaptés à l’opération et aménagés de façon à apporter
+                                                                                        la moindre gêne à la circulation publique.
+                                                                                        Ils doivent permettre de satisfaire aux règles de sécurité pour la défense contre
+                                                                                        l’incendie.
+
+- Dans le cas d'un terrain plat, les terres de terrassement devront être régalées         Voirie
+en pente douce.
+                                                                                        Les constructions et installations doivent être desservies par des voies dont les
+- Dans tous les cas, l’édification d’une construction sur une butte artificielle        caractéristiques correspondent à leur destination et permettent notamment
+créée est interdite.                                                                    l’accès permanent en tout temps des véhicules de secours et de lutte contre
+                                                                                        l’incendie.
+
+ARTICLE N.2.3 - TRAITEMENT ENVIRONNEMENTAL ET PAYSAGER                                  L’ouverture d’une voie carrossable pourra être refusée lorsque son
+DES ESPACES NON-BATIS ET ABORDS DES CONSTRUCTIONS                                       raccordement à la voie existante peut constituer un danger pour la circulation.
+                                                                                        Les voies en impasse doivent être aménagées dans leur partie terminale afin
+Dans la mesure du possible, les plantations seront maintenues et les arbres             de permettre aux véhicules privés et à ceux des services publics (lutte contre
+abattus seront remplacés. Les plantations composées d’essences locales                  l'incendie, enlèvement des ordures ménagères...) de faire aisément demi-tour.
+seront à privilégier.
+
+                                                                                        ARTICLE N.3.2 - DESSERTE PAR LES RESEAUX
+ARTICLE N.2.4 - STATIONNEMENT
+                                                                                          Alimentation en eau potable
+Le stationnement des véhicules de toutes natures correspondant aux besoins
+des constructions et installations doit être assuré en dehors de la voie publique.      Toute construction ou installation qui, de par sa destination, nécessite
+                                                                                        l'alimentation en eau potable, doit être raccordée au réseau collectif de
+Les revêtements de surface des aires de stationnement et de circulation dans            distribution d'eau potable par une conduite de caractéristiques suffisantes, et
+la mesure du possible conserveront une certaine perméabilité des                        être munie d'un dispositif anti-retour d'eau.
+sols (stationnement en castine, stabilisé perméable, dalles engazonnées, etc.).         En application de l’article L1321-7 du code la santé publique, l’alimentation
+                                                                                        autonome en eau potable d’une construction peut être autorisée, sous réserve
+                                                                                        de déclaration en mairie et à l’Agence Régionale de la Santé.
+
+
+PLUi de la Communauté de Communes de la Vallée de l’Homme – Modification simplifiée n°1 - Règlement d’urbanisme - Novembre 2023                                       114
+                                                                                        Electricité, gaz
+ Assainissement, eaux usées
+                                                                                        Toute construction requérant une alimentation en énergie doit être alimentée
+Toute construction ou installation nouvelle doit être équipée d’un système              en électricité et peut être raccordée au gaz dans des conditions répondant à
+d’assainissement autonome conforme aux prescriptions techniques définies                ses besoins par branchement sur une ligne publique de distribution de
+par la réglementation en vigueur, et contrôlée par le Service Public                    caractéristiques suffisantes, située au droit de l’unité foncière.
+d’Assainissement Non Collectif (S.P.A.N.C.).                                            Toutefois, il peut être prévu un raccordement en application des dispositions
+                                                                                        relatives aux équipements propres définies par l’article L 332-15, 3° alinéa du
+Le rejet des eaux de vidange des piscines est interdit dans les systèmes de             code de l’urbanisme. Il est rappelé que ledit raccordement ne peut excéder 100
+collecte des eaux usées, sauf dérogation obtenue si les caractéristiques des            mètres.
+ouvrages de collecte et de traitement le permettent et que les déversements             Lorsque les lignes électriques ou téléphoniques sont réalisées en souterrain,
+sont sans influence sur la qualité du milieu récepteur du rejet final (article          les branchements à ces lignes doivent l’être également.
+R1331-2 du code de la santé publique).
+
+Pour les constructions agricoles, le devenir de ces eaux usées doit être                Infrastructures et réseaux de communications électroniques
+conformes aux prescriptions réglementaires des Installations Classées pour la
+Protection de l’Environnement (ICPE) ou du Règlement Sanitaire                          Les constructions, travaux, installations et aménagements réalisés dans la
+Départemental (RSD).                                                                    zone devront permettre aux futures constructions qui y sont liées de bénéficier
+                                                                                        d’un raccordement aux infrastructures et réseaux de communications
+                                                                                        électroniques existants à proximité.
+ Eaux pluviales
+
+Les eaux pluviales issues de toute construction ou installation nouvelle ou
+aménagement seront résorbées sur le terrain d’assiette du projet (puisard, cuve
+enterrée, épandage…).
+
+Si la surface de la parcelle, la nature du sol ou la disposition des lieux ne permet
+pas de les résorber sur la parcelle, les eaux pluviales seront rejetées au réseau
+public existant (fossé, caniveau ou réseau enterré) de telle sorte que
+l’écoulement soit assuré sans stagnation.
+
+Le rejet des eaux pluviales est interdit dans les dépendances des voies
+départementales.
+
+
+
+
+PLUi de la Communauté de Communes de la Vallée de l’Homme – Modification simplifiée n°1 - Règlement d’urbanisme - Novembre 2023                                    115
+                    TerrenUrbanisme
+
+    Merci de votre confiance
+Ce rapport a été établi à partir des sources publiques officielles pour vous
+  aider à décider en connaissance de cause. Pour toute question, nous
+                        restons à votre disposition.
+
+
+
+
+   Vous êtes professionnel ? Travaillons ensemble
+      Agents immobiliers, notaires, architectes, géomètres, diagnostiqueurs,
+promoteurs, mairies : faisons équipe. Crédits professionnels sans abonnement, 5
+€ le rapport dès 50 crédits, votre logo sur les rapports, offre communale pour les
+                       mairies et partenariats sur mesure.
+
+               Écrivez-nous : contact@terrenurbanisme.com
+
+
+
+
+                        terrenurbanisme.com
+                         contact@terrenurbanisme.com
+

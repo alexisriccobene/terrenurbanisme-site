@@ -1,0 +1,3017 @@
+                  TerrenUrbanisme
+                  Le terrain constructible, partout en France
+
+
+
+
+RAPPORT D'URBANISME
+
+
+
+Sigalens
+Section WH · Parcelle n° 87
+      Non constructible
+
+
+
+
+Référence cadastrale                                                        Surface cadastrale
+33512000WH0087                                                              9 157 m²
+
+Rapport établi le                                                           Référence du rapport
+20/11/2026                                                                  APERCU
+
+
+
+
+terrenurbanisme.com                                                                      contact@terrenurbanisme.com
+
+Document d'information sans valeur contractuelle ni réglementaire. Il ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme
+et ne peut en aucun cas être joint à une demande de permis de construire ou de déclaration préalable. Seuls les actes de l'administration font foi.
+                                                                                                                           Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                                               Sommaire
+
+
+
+
+Sommaire
+Le rapport suit l'ordre d'une étude de terrain : où se trouve la parcelle, ce que dit la règle, ce qui pèse sur le
+projet, puis les démarches.
+
+              Synthèse
+   S                                                                                                                                  p. 3
+              Le verdict, les indicateurs clés et les points d'attention en une page.
+
+              Identification de la parcelle
+   01                                                                                                                                 p. 4
+              Localisation, surface, références cadastrales et voisinage du terrain.
+
+              Règles d'urbanisme applicables
+  02                                                                                                                                  p. 7
+              Document d'urbanisme, zone du terrain, prescriptions et servitudes.
+
+              Ce que vous pouvez construire
+  03                                                                                                                                  p. 9
+              Surface constructible, hauteur, reculs, aspect et usages autorisés.
+
+              Loi Littoral et loi Montagne
+  04                                                                                                                                 p. 15
+              Les lois qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+              Risques naturels et technologiques
+  05                                                                                                                                 p. 16
+              Inondation, feu de forêt, argiles, catastrophes naturelles et sites pollués.
+
+              Le terrain : accès, relief et réseaux
+  06                                                                                                                                 p. 18
+              Accès, pente, ensoleillement, eaux usées, électricité, eau et fibre.
+
+              Conditions de vente du terrain
+  07                                                                                                                                p. 24
+              Terrain agricole ou naturel : SAFER, fermier en place et repère officiel de prix.
+
+              Environnement et marché immobilier
+  08                                                                                                                                p. 26
+              Espaces naturels, espèces protégées et ventes immobilières alentour.
+
+              Historique du site
+  09                                                                                                                                p. 29
+              Le terrain vu du ciel au fil des années et les permis accordés autour.
+
+              Votre projet, étape par étape
+   10                                                                                                                               p. 30
+              De l'achat aux impôts : démarches, délais, coûts, contacts et taxe.
+
+              État des risques (ERP) pré-rempli
+   11                                                                                                                               p. 35
+              Le formulaire réglementaire à remettre à l'acquéreur, pré-rempli.
+
+              Avertissement et sources
+   12                                                                                                                               p. 37
+              La portée de ce rapport et les sources publiques consultées.
+
+              Annexe : règlement de la zone
+   A                                                                                                                                p. 40
+              Les pages officielles du règlement de la zone, telles qu'approuvées.
+
+
+
+
+Astuce : cliquez sur un chapitre pour y accéder directement.
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                2 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                                                       Synthèse
+
+
+
+
+Synthèse
+     Document d'information. Ce rapport ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme,
+     n'engage pas l'administration et ne peut pas servir de pièce à une demande de permis de construire.
+     L'appréciation ci-dessous est indicative : seule la mairie se prononce sur la constructibilité d'un terrain,
+     au vu d'un projet précis.
+
+
+
+
+       NON CONSTRUCTIBLE
+
+       Ce terrain n'est pas constructible en l'état
+       La parcelle est classée en zone N (naturelle et forestière) du PLU intercommunal de
+       Sigalens. Les constructions nouvelles n'y sont pas admises, sauf exceptions encadrées.
+
+
+
+
+      Zone principale                                        Document d'urbanisme                                  Loi Littoral
+
+   N · 100 %                                              PLUI                                                   Ne s'applique pas
+
+
+
+
+      Loi Montagne                                           Risques à la parcelle
+
+   Ne s'applique pas                                      Séisme ·
+                                                          Retrait-gonflement des
+
+
+
+
+Points d'attention
+    Zone N (100 % de la parcelle) : non constructible.
+    Risque de feu de forêt : obligation légale de débroussaillement, autorisation de défrichement possible pour un
+    terrain boisé.
+    Terrain en pente marquée (environ 40 %) : surcoût probable de terrassement.
+    Aucune ligne électrique basse tension recensée à moins de 414 m : raccordement électrique coûteux à prévoir
+    (extension du réseau).
+    Logement : le règlement de la zone N n'admet pas de logement neuf, sauf exceptions prévues par la zone
+    (logement de gardiennage, par exemple) : voir le chapitre « Ce que vous pouvez construire ».
+    Retrait-gonflement des argiles (exposition forte) : en cas de vente d'un terrain non bâti constructible, le vendeur
+    doit fournir une étude géotechnique préalable (loi ELAN, article L. 132-5 du Code de la construction et de
+    l'habitation) ; une étude géotechnique de conception est exigée avant de construire.
+    Entreprise : la commune est classée en zone France Ruralités Revitalisation (FRR) : une entreprise qui s'y crée peut
+    être exonérée d'impôt sur les bénéfices pendant 5 ans, sous conditions (voir le chapitre « Votre projet, étape par
+    étape »).
+    11 arrêtés de catastrophe naturelle sur la commune.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       3 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                           Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+    01             Identification de la parcelle
+     DANS CETTE SECTION
+
+     Où se trouve le terrain, sa surface, ses références cadastrales, son propriétaire lorsqu'il s'agit
+     d'une société ou d'une collectivité, et la performance énergétique du bâti existant.
+
+
+Données du cadastre (DGFiP) et de l'IGN.
+
+
+     Plan de situation
+
+
+
+
+                                                                                                                            1 km
+
+
+
+Plan IGN · © IGN
+
+
+
+     Vue aérienne et plan cadastral
+
+
+
+
+                                                                                                                                   100 m
+
+
+
+Photographie aérienne et plan cadastral · © IGN
+
+
+Commune                                                  Sigalens (33512)
+
+Département                                              Gironde (33)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                4 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+Section et numéro                                        Section WH, parcelle n° 87, feuille 1
+
+Identifiant cadastral                                    33512000WH0087
+
+Surface cadastrale                                       9 157 m²
+
+Surface calculée (SIG)                                   9 184 m² · périmètre 524 m
+
+Coordonnées du centre                                    44.45687 N, 0.03268 O (WGS 84)
+
+Altitude                                                 de 89 à 120 m
+
+Pente estimée                                            40 % (terrain en pente marquée)
+
+Parcelles voisines                                       WH 84, WH 86, WH 88, WH 89
+
+
+Le plan cadastral est un document fiscal : il ne fait pas foi des limites de propriété. Seul un bornage réalisé par un
+géomètre-expert fixe les limites de manière certaine.
+
+
+1.1 Propriétaire et voisinage
+La parcelle ne figure pas au fichier des personnes morales : son propriétaire est vraisemblablement un
+particulier. Le nom des propriétaires particuliers n'est pas public ; il peut être demandé au service des impôts
+fonciers (relevé de propriété) ou obtenu par l'intermédiaire d'un notaire.
+
+Parcelles voisines détenues par des sociétés ou des collectivités
+  PARCELLE              PROPRIÉTAIRE                                                                     SURFACE            SIREN
+
+  WH 89                 L ANGLE (SCI)                                                                    76 464 m²          338861941
+
+
+
+Principaux propriétaires personnes morales dans un rayon de 280 m
+  PROPRIÉTAIRE                                                              PARCELLES             SURFACE TOTALE            SIREN
+
+  L ANGLE (SCI)                                                             1                     5 379 m²                  338861941
+
+  COMMUNE DE SIGALENS (COM)                                                 1                     493 m²                    213305121
+
+
+
+Source : fichiers des parcelles des personnes morales (DGFiP) : sociétés, SCI, collectivités, établissements publics et associations.
+Les propriétaires personnes physiques n'y figurent pas.
+
+
+1.2 La commune de Sigalens
+Code postal                                              33690
+
+Département                                              Gironde (33)
+
+Intercommunalité                                         CC du Bazadais
+
+Population                                               342 habitants
+
+Superficie                                               18,32 km²
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             5 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+Densité                                                  19 habitants par km²
+
+Commune littorale                                        Non
+
+Commune de montagne                                      Non
+
+Document d'urbanisme                                     Plan local d'urbanisme intercommunal (PLUi)
+
+Risques sur la commune                                   11 arrêtés de catastrophe naturelle · détail en section Risques et en
+                                                         annexe
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          6 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+    02             Règles d'urbanisme applicables
+     DANS CETTE SECTION
+
+     Le document d'urbanisme de la commune, la zone dans laquelle se trouve le terrain, et les
+     prescriptions et servitudes qui s'y ajoutent.
+
+
+Géoportail de l'Urbanisme : zonage, prescriptions et servitudes.
+
+
+
+2.1 Document d'urbanisme en vigueur
+Type de document                                         Plan local d'urbanisme intercommunal (PLUi)
+
+Date d'approbation                                       Non renseigné
+
+Statut                                                   Publié au Géoportail de l'Urbanisme
+
+Règlement officiel                                       Ouvrir le document officiel (PDF)
+
+
+
+     Plan de zonage du PLU
+
+
+
+
+                                                                               N
+
+
+
+
+                                                                                                                             100 m
+
+
+
+Zonage : Géoportail de l'Urbanisme · fond : © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      7 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.2 Zonage de la parcelle
+  ZONE                  DÉSIGNATION                                                         PART               CONSTRUCTIBILITÉ
+
+  N                     N : Zone naturelle classique                                        100 %              Non constructible
+
+
+
+Zone N · Naturelle et forestière
+Zone naturelle et forestière : secteur protégé en raison de la qualité des sites, des milieux naturels et des
+paysages, ou de son caractère d'espace naturel. Les constructions nouvelles n'y sont pas admises, sauf
+exceptions encadrées (équipements publics, extension limitée des habitations existantes, secteurs de taille et
+de capacité limitées).
+
+
+2.3 Prescriptions applicables à la parcelle
+  PRESCRIPTION                                                                                       TYPE
+
+  implantation/voies et emprise publiques : se reporter aux                                          Prescription du PLU (type 15)
+  dispositions du règlement de la zone N (pièce 3.1.1 Règlement écrit)
+
+  Aspect extérieur/sensibilité paysagère : se reporter aux dispositions                              Prescription du PLU (type 41)
+  du règlement de la zone N (pièce 3.1.1 Règlement écrit)
+
+  Emprise au sol : se reporter aux dispositions du règlement de la zone                              Prescription du PLU (type 38)
+  N (pièce 3.1.1 Règlement écrit)
+
+  Hauteur : se reporter aux dispositions du règlement de la zone N                                   Prescription du PLU (type 39)
+  (pièce 3.1.1 Règlement écrit)
+
+  implantation/limites séparatives : se reporter aux dispositions du                                 Prescription du PLU (type 15)
+  règlement de la zone N (pièce 3.1.1 Règlement écrit)
+
+
+
+
+2.4 Servitudes d'utilité publique
+Aucune servitude d'utilité publique numérisée n'est recensée sur la parcelle au Géoportail de l'Urbanisme. Les
+servitudes non encore numérisées figurent en annexe du PLU.
+
+
+2.5 Patrimoine : l'architecte des Bâtiments de France
+Aucun site patrimonial remarquable, site classé ou inscrit, ni monument historique à moins de 500 m n'est
+recensé : l'avis de l'architecte des Bâtiments de France n'est pas requis au titre du patrimoine.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        8 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    03             Ce que vous pouvez construire
+     DANS CETTE SECTION
+
+     La lecture du règlement de votre zone : surface constructible estimée, hauteur, reculs, aspect,
+     usages autorisés ou interdits, avec les extraits du texte officiel.
+
+
+Lecture du règlement écrit de la zone N, pages 145 à 163 du règlement officiel.
+
+
+
+3.1 Potentiel constructible estimé
+     Le règlement de la zone N n'admet pas de construction nouvelle à usage de logement. Seules restent
+     possibles les constructions expressément admises par la zone et les évolutions encadrées des
+     constructions existantes : extension limitée à 30 % de l'emprise existante, dans la limite de 250 m²,
+     annexes de 50 m² au plus.
+
+
+
+Constructions admises dans la zone :
+
+    Constructions, réhabilitation et extension de bâtiments existants, travaux et installations nécessaires à
+    l'exploitation agricole et forestière ou au stockage et à l'entretien de matériel agricole par les CUMA agréées
+    Constructions et installations nécessaires à la transformation, au conditionnement et à la commercialisation des
+    produits agricoles, lorsqu'elles prolongent l'acte de production
+    Activités d'accueil touristique (hébergement, restauration) accessoires d'une exploitation agricole en activité, sur
+    le lieu de l'exploitation, dans une construction existante à la date d'approbation du PLUi
+    Extension et réhabilitation des logements existants : 30 % de la surface de plancher initiale, dans la limite de 250
+    m² de surface de plancher totale finale
+
+
+3.2 Caractère de la zone
+La zone N correspond à des espaces à protéger en raison de la qualité des sites et des milieux naturels,
+ou de l'existence ou du développement des exploitations forestières. Zone spécialisée, elle permet la
+gestion et l'usage régulé des milieux naturels et autorise de manière limitée les constructions
+nécessaires à leur gestion et leur mise en valeur. Le terrain étant en zone N sans indice, ce sont les
+règles générales de la zone (hors secteurs N2A, N3A, N4A, N4B, N5A, N5B, N5C, N5D, N7D et Ner) qui
+s'appliquent, complétées par les dispositions communes à toutes les zones, les prescriptions de risques
+et de patrimoine.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       9 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.3 Règles de construction
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Surface minimale ou                          Non précisé dans le règlement de la zone                                         Partie 6
+  caractéristiques du terrain
+
+  Accès et voirie                              Dispositions communes : tout terrain doit avoir un accès                         Dispositions
+                                               privatif à une voie publique ou privée ; largeur d'accès d'au                    générales 4.3.1
+                                               moins 4 m ; sur routes départementales hors agglomération                        ; art. 3.4.1.1
+                                               (catégories 1 et 2), accès individuels directs à une nouvelle                    zone N
+                                               construction interdits sauf dérogation du Conseil
+                                               Départemental ; un nouvel accès ne peut desservir plus de 2
+                                               lots ou logements. Zone N : le stationnement doit être assuré
+                                               hors des voies publiques.
+
+  Réseaux et assainissement                    Eau potable : branchement obligatoire au réseau collectif. Eaux                  Dispositions
+                                               usées : raccordement au réseau public s'il existe, sinon                         générales 4.3.2
+                                               assainissement non collectif ; terrain inconstructible si le
+                                               dispositif ne peut y être implanté. Eaux pluviales : gestion in
+                                               situ, débit de fuite de l'ordre de 3 l/s/ha, période de retour 20
+                                               ans, infiltration privilégiée. Réseaux électriques et
+                                               téléphoniques enterrés si les réseaux publics le sont.
+
+  Implantation par rapport                     Recul d'au moins 10 m par rapport à l'emprise publique                           art. 3.1.1.1 zone
+  aux voies                                    (implantation différente possible pour les équipements d'intérêt                 N ; Dispositions
+                                               collectif sous condition d'insertion harmonieuse). Reculs                        générales
+                                               complémentaires par rapport à l'axe des routes                                   4.2.1.2
+                                               départementales (de 8 à 35 m selon catégorie et destination),
+                                               75 m de l'axe de la N524 et 100 m de l'axe de l'A65 hors
+                                               agglomération ; recul de 4 m de l'axe des fossés ; 50 m des
+                                               berges du Ciron et 10 m des autres cours d'eau.
+
+  Implantation par rapport                     Retrait d'au moins 5 m par rapport aux limites séparatives.                      art. 3.1.2.1 et
+  aux limites séparatives                      Recul de 12 m par rapport à un EBC ou tout boisement ayant les                   3.1.4.1 B iii zone
+                                               caractéristiques d'un espace boisé pour les nouvelles                            N
+                                               constructions.
+
+  Implantation des                             Non précisé dans le règlement de la zone N. Dispositions                         Dispositions
+  constructions entre elles                    communes : règle d'implantation entre constructions non                          générales
+                                               applicable aux piscines et annexes de moins de 20 m². Les                        4.2.1.4 ; art.
+                                               annexes doivent rester dans les rayons de proximité de                           2.2.1
+                                               l'habitation (30 m).
+
+  Emprise au sol                               Non réglementé dans la zone N proprement dite. Annexes hors                      art. 3.1.3.1 et
+                                               piscine : 50 m² d'emprise cumulée depuis l'approbation du PLUi                   2.2.1 zone N
+                                               ; piscine : 80 m² maximum.
+
+  Hauteur maximale                             Exploitation agricole et forestière : 10 m à l'égout du toit ou à                art. 3.1.4.1 zone
+                                               l'acrotère. Logement : 7 m maximum à l'égout du toit ou à                        N ; Dispositions
+                                               l'acrotère pour les nouvelles constructions ; l'extension d'une                  générales
+                                               construction existante est limitée à la hauteur de celle-ci.                     4.2.1.5
+                                               Annexes isolées : 3 m à l'égout du toit ou à l'acrotère.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         10 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Aspect extérieur et toitures                 Bâtiments agricoles : toitures à deux pentes égales ou au                        art. 3.2.2 zone
+                                               moins équivalentes à 1/3-2/3, tôles métalliques traitées pour                    N ; Dispositions
+                                               masquer l'aspect brillant, matériaux de teinte claire interdits en               générales 4.2.2
+                                               toiture, débord d'au moins 30 cm. Autres constructions :
+                                               dispositions communes (toitures en tuile d'aspect canal de
+                                               terre cuite de teintes claires mélangées ; murs bruts enduits ;
+                                               extensions en harmonie avec l'existant ; périmètre PNRLG :
+                                               inspiration du livre blanc pour les communes concernées).
+
+  Matériaux et couleurs                        Bâtiments agricoles : matériaux nus destinés à être recouverts                   art. 3.2.2.1 zone
+                                               interdits ; couleurs conformes au nuancier en annexe (palette                    N ; Annexe 1
+                                               d'inspiration végétale, tons gris, bruns, verts). Autres
+                                               constructions : nuancier annexé, couleurs vives proscrites.
+
+  Clôtures                                     Déclaration préalable obligatoire. Dispositions communes hors                    Dispositions
+                                               niveau de sensibilité : mur bahut de 0,80 m maximum surmonté                     générales 1.8 et
+                                               d'une grille (1,50 m au total), clôture bois ajourée de type                     4.2.2.4
+                                               paddock (1,50 m), grille ou grillage de 1,50 m doublé ou non
+                                               d'une haie, ou haie végétale d'essences locales de 1,80 m
+                                               maximum ; occultants, plaques, végétaux artificiels interdits ;
+                                               passages pour la petite faune ; en corridor écologique, clôtures
+                                               perméables à la petite faune.
+
+  Stationnement                                Le stationnement des véhicules correspondant aux besoins                         art. 3.4.1.1 zone
+                                               des constructions ou installations doit être assuré en dehors                    N ; Dispositions
+                                               des voies publiques, sur des emplacements aménagés.                              générales 4.2.4
+                                               Dispositions communes : places de 5 m x 2,50 m ; aire de                         et 4.2.3.2
+                                               stationnement paysagée avec au moins 1 arbre pour 10 places
+                                               et 50 % de places perméables ; pré-équipement pour la
+                                               recharge électrique.
+
+  Espaces verts et plantations                 Espaces libres aménagés selon une composition paysagère                          art. 3.3.1.1 zone
+                                               soignée ; traitement perméable des voiries et stationnements                     N ; Dispositions
+                                               privilégié ; affouillements et exhaussements végétalisés ;                       générales
+                                               plantations obligatoires pour les constructions volumineuses.                    4.2.3.1
+                                               Déblai limité à 2 m et remblai à 1 m par rapport au terrain
+                                               naturel. Pas de pourcentage minimal d'espaces verts.
+
+  Densité ou coefficient                       Non précisé dans le règlement de la zone (pas de COS).                           Partie 6
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        11 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.4 Usages autorisés
+    Constructions, réhabilitation et extension de bâtiments existants, travaux et installations nécessaires à
+    l'exploitation agricole et forestière ou au stockage et à l'entretien de matériel agricole par les CUMA
+    agréées
+    Constructions et installations nécessaires à la transformation, au conditionnement et à la
+    commercialisation des produits agricoles, lorsqu'elles prolongent l'acte de production
+    Activités d'accueil touristique (hébergement, restauration) accessoires d'une exploitation agricole en
+    activité, sur le lieu de l'exploitation, dans une construction existante à la date d'approbation du PLUi
+    Extension et réhabilitation des logements existants : 30 % de la surface de plancher initiale, dans la limite
+    de 250 m² de surface de plancher totale finale
+    Réaménagement et restauration d'une annexe accolée ou dans le prolongement de la construction
+    principale, sans création de nouveau logement
+    Annexes (3 au maximum) et piscines de logements existants, sous conditions de rayon, d'emprise et de
+    surface
+    Travaux d'entretien et/ou de rénovation des constructions existantes dont la destination n'est pas
+    autorisée dans la zone
+    Installations photovoltaïques uniquement sur les toitures des constructions existantes
+    Aménagements, terrassements, affouillements et exhaussements du sol liés et nécessaires aux
+    occupations admises
+    Constructions et installations liées au service public ferroviaire (lignes Bordeaux-Dax et
+    Bordeaux-Toulouse, déclaration d'utilité publique)
+    Changement de destination des bâtiments identifiés au règlement graphique, après avis conforme de la
+    CDNPS, sous conditions
+
+
+3.5 Usages interdits ou soumis à conditions
+    Toute occupation ou utilisation du sol non expressément visée à l'article 2.2 est interdite
+    Logement nouveau : uniquement s'il est lié à une exploitation agricole, si la présence permanente de
+    l'agriculteur est nécessaire, s'il est implanté à 50 m maximum des constructions existantes de l'exploitation
+    et s'il n'y a qu'un seul logement par exploitation (quatre conditions cumulatives)
+    Annexes des logements existants : 3 au maximum ; dans un rayon de 30 m du point le plus proche de
+    l'habitation (30 m pour les piscines privatives ; 50 m pour un équipement mutualisé) ; emprise cumulée des
+    annexes hors piscine limitée à 50 m² depuis l'approbation du PLUi ; piscine limitée à 80 m² (bassin et
+    plages) ; une annexe ne peut créer un logement indépendant
+    Installations photovoltaïques : uniquement en toiture de constructions existantes (parcs au sol interdits
+    hors secteur Ner)
+    Changement de destination des bâtiments repérés : avis conforme de la CDNPS ; compatibilité avec
+    l'activité agricole, pastorale ou sylvicole ; volume existant conservé ; un seul logement ; raccordement aux
+    réseaux et défense incendie démontrés
+    Risque incendie de forêt (aléa fort ou moyen) : construction à au moins 12 m d'un espace boisé
+    Zones humides repérées : toute construction ou installation nouvelle, drainage, remblaiement et
+    imperméabilisation interdits, sauf exceptions limitées
+    Réservoirs de biodiversité majeurs : inconstructibles, sauf équipements collectifs ou de service public
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       12 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    Bande tampon de 50 m par rapport aux berges du Ciron et de 10 m pour les autres cours d'eau hors zones
+    urbaines
+    Zones inondables : nouvelle construction de logement interdite, extension interdite sauf démonstration
+    topographique
+    Zones de mouvement de terrain : toute construction nouvelle et toute extension interdites
+    Parcs photovoltaïques au sol et éoliennes interdits dans les réservoirs de biodiversité et corridors
+    écologiques
+    Dépôts de véhicules, garages collectifs de caravanes et dépôts non couverts de matériaux interdits en
+    zone N
+
+
+3.6 Points de vigilance pour votre projet
+    Vérifier sur le règlement graphique le classement exact (zone N sans indice et non un secteur N2A, N3A,
+    N4A, N4B, N5x, N7D ou Ner)
+    Vérifier les prescriptions superposées : zones humides, réservoirs de biodiversité, corridors écologiques,
+    bandes tampons des cours d'eau, EBC, éléments de patrimoine bâti ou paysager (L.151-19 et L.151-23)
+    Vérifier les risques : inondation (Ciron), remontée de nappe, ruissellement, retrait-gonflement des argiles
+    (étude géotechnique), mouvement de terrain, risque incendie de forêt (recul de 12 m d'un espace boisé,
+    débroussaillement sur 50 m)
+    Aucune construction nouvelle de logement n'est possible hors logement lié à une exploitation agricole ; un
+    projet de maison individuelle est donc en principe exclu
+    Vérifier que le logement existant est légalement édifié avant d'envisager extension ou annexes (30 % de
+    surface de plancher et plafond de 250 m² cumulé)
+    Les possibilités d'annexes (50 m² cumulés depuis l'approbation, 3 annexes, rayon de 30 m) et de piscine
+    (80 m²) sont à suivre sur la durée du PLUi ; la piscine ne peut être comptée dans les 50 m²
+    Vérifier la distance aux routes départementales, à la N524 et à l'A65 ainsi qu'aux fossés et cours d'eau
+    Commune de Sigalens : déclaration préalable pour les clôtures et permis de démolir (délibérations du
+    16/03/2023) ; vérifier d'éventuels périmètres de monuments historiques ou site patrimonial
+    L'assainissement non collectif doit pouvoir être implanté, sinon le terrain est inconstructible
+    Raccordement obligatoire à l'eau potable et défense incendie à démontrer pour certains changements de
+    destination
+
+
+3.7 Extraits du règlement
+
+     art. 2.1 zone N · page 148
+     « Sont interdites toutes les occupations et utilisations du sol à l’exception de celles visées à l’article
+     2.2. »
+
+
+     art. 2.2.1 zone N · page 149
+     « L’extension et la réhabilitation des constructions existantes relevant de la sous-destination de
+     logement, à la date d’approbation du PLUi, est autorisée dans la limite de 30% de la surface de
+     plancher initiale et de 250 m² au maximum »
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       13 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+     art. 2.2.1 zone N · page 149
+     « L’emprise au sol cumulée des annexes, hors piscine, créées à partir de la date d'approbation du PLUi,
+     ne dépasse pas 50 m² au total. »
+
+
+     art. 3.1.1.1 zone N · page 156
+     « Les constructions doivent être implantées avec un recul d’au moins 10 mètres par rapport à l’emprise
+     publique. »
+
+
+     art. 3.1.2.1 zone N · page 156
+     « Les constructions doivent être implantées avec un retrait d’au moins 5 mètres par rapport aux limites
+     séparatives. »
+
+
+     art. 3.1.4.1 zone N · page 157
+     « La hauteur des nouvelles constructions à usage d'habitation est limitée à 7 mètres maximum à l'égout
+     du toit ou à l’acrotère »
+
+
+
+3.8 Démarches probables
+    Certificat d'urbanisme opérationnel pour vérifier la faisabilité
+    Déclaration préalable (extension ou annexe de faible surface, piscine, clôture, abri) ou permis de
+    construire selon les surfaces créées
+    Permis de démolir (Sigalens ayant institué le permis de démolir)
+    Déclaration préalable pour la coupe ou l'abattage d'arbres protégés ou en espace boisé classé
+    Avis conforme de la CDNPS pour un changement de destination d'un bâtiment repéré
+    Contrôle du projet d'assainissement non collectif par le SPANC
+    Étude géotechnique en aléa retrait-gonflement moyen ou fort ; étude de sol en cas de pollution suspectée
+    Consultation du service de défense incendie (SDIS) selon la situation
+
+     Cette lecture est établie automatiquement, par intelligence artificielle, à partir du règlement officiel en
+     vigueur. Elle peut comporter des imprécisions : seul le texte du règlement, reproduit en annexe (pages
+     145 à 163 du document approuvé), fait foi, avec les dispositions générales, les orientations
+     d'aménagement et les servitudes.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      14 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                                    04 · Loi Littoral et loi Montagne
+
+
+
+
+   04              Loi Littoral et loi Montagne
+     DANS CETTE SECTION
+
+     Les lois nationales qui s'ajoutent au document d'urbanisme sur le littoral et en montagne. Elles
+     peuvent rendre un terrain inconstructible même en zone constructible.
+
+
+Les lois d'aménagement qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+
+
+4.1 Loi Littoral
+Commune littorale                                        Non
+
+Distance au rivage                                       Sans objet
+
+Bande des 100 mètres                                     Sans objet
+
+
+La commune n'est pas riveraine de la mer : la loi Littoral ne s'applique pas (sauf rives de grands lacs).
+
+
+4.2 Loi Montagne
+Commune en zone de montagne                              Non
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          15 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+   05              Risques naturels et technologiques
+     DANS CETTE SECTION
+
+     Les risques connus à l'adresse du terrain (inondation, feu de forêt, mouvement de terrain,
+     radon…) et les catastrophes naturelles reconnues sur la commune.
+
+
+Base nationale Géorisques (ministère de la Transition écologique).
+
+
+
+5.1 Risques naturels à l'adresse de la parcelle
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Remontée de nappe                               Non connu                                       Existant
+
+  Séisme                                          Existant – faible                               Existant – faible
+
+  Mouvement de terrain                            Inconnu                                         Existant
+
+  Retrait-gonflement des                          Existant – important                            Existant – important
+  argiles
+
+  Feu de forêt                                    Existant                                        Existant · Votre bien est concerné par les
+                                                                                                  obligations légales de débroussaillement
+
+  Radon                                           Existant – faible                               Existant – faible
+
+
+
+
+5.2 Risques technologiques
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Installations industrielles                     Non concerné                                    Concerné
+  (ICPE)
+
+  Pollution des sols                              Non connu                                       Concerné
+
+
+
+
+5.3 Indicateurs réglementaires
+Zone de sismicité                                        Zone 1 – très faible
+
+Potentiel radon                                          Catégorie 1 (potentiel faible)
+
+Retrait-gonflement des argiles                           Existant – important
+
+Plans de prévention (PPR)                                Aucun plan de prévention des risques recensé
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                     16 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+     La parcelle est exposée au risque de feu de forêt. L'obligation légale de débroussaillement s'applique
+     (en général 50 mètres autour des constructions), et un terrain boisé peut nécessiter une autorisation
+     de défrichement avant toute construction.
+
+
+
+
+5.4 Arrêtés de catastrophe naturelle
+11 arrêtés de reconnaissance de l'état de catastrophe naturelle concernent la commune.
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Sécheresse                                                                01/07/2022 au 31/12/2022                       03/05/2023
+
+  Chocs Mécaniques liés à l'action des Vagues                               24/01/2009 au 27/01/2009                       29/01/2009
+
+  Inondations et/ou Coulées de Boue                                         24/01/2009 au 27/01/2009                       29/01/2009
+
+  Sécheresse                                                                01/07/2003 au 30/09/2003                       13/12/2005
+
+  Inondations et/ou Coulées de Boue                                         25/12/1999 au 29/12/1999                       30/12/1999
+
+  Mouvement de Terrain                                                      25/12/1999 au 29/12/1999                       30/12/1999
+
+  Chocs Mécaniques liés à l'action des Vagues                               25/12/1999 au 29/12/1999                       30/12/1999
+
+  Tempête                                                                   06/07/1989                                     16/09/1989
+
+  Inondations et/ou Coulées de Boue                                         08/12/1982 au 31/12/1982                       13/01/1983
+
+  Tempête                                                                   06/11/1982 au 10/11/1982                       02/12/1982
+
+  Inondations et/ou Coulées de Boue                                         06/11/1982 au 10/11/1982                       02/12/1982
+
+
+
+
+5.5 Rapport officiel Géorisques
+Les risques recensés ci-dessus proviennent des bases officielles de Géorisques, service public d'information
+sur les risques. Le rapport officiel complet peut être édité gratuitement, à tout moment et à jour, à partir de
+l'adresse du terrain sur le site Géorisques.
+
+
+    Éditer le rapport officiel Géorisques
+
+
+Lors d'une vente ou d'une location, le vendeur ou le bailleur doit remettre un état des risques de moins de six mois,
+complété et signé, et l'information sur les sinistres indemnisés au titre des catastrophes naturelles.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         17 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+   06              Le terrain : accès, relief et réseaux
+     DANS CETTE SECTION
+
+     Les contraintes physiques du terrain : accès à une voie, pente et exposition, assainissement,
+     raccordement à l'électricité et à l'eau, fibre. Ce sont elles qui pèsent le plus sur le coût d'un
+     projet.
+
+
+Voirie (IGN, BD TOPO), altimétrie (IGN, RGE ALTI), règlement de la zone, réseau électrique (Agence ORE) et éligibilité
+internet (Arcep).
+
+
+
+6.1 Accès
+Accès direct à une voie                                  Oui
+
+Voie                                                     Route empierrée · Chemin des Cassayres
+
+Accès des véhicules                                      Libre
+
+
+La parcelle touche une voie carrossable. L'autorisation d'urbanisme vérifiera que l'accès est adapté au projet et sûr,
+et peut imposer une permission de voirie ou un aménagement de l'entrée.
+
+
+6.2 Relief et exposition
+Pente moyenne                                            21 %
+
+Exposition                                               Versant orienté sud-ouest
+
+Altitude                                                 89 à 120 m
+
+Appréciation                                             Pente marquée
+
+
+
+
+ 121 m
+
+
+
+
+ 78 m
+
+
+           Coupe du terrain dans le sens de la pente · longueur 220 m
+
+
+     Terrassements, murs de soutènement et gestion des eaux de ruissellement à prévoir : surcoût
+     sensible. Une étude de sol (mission G2) est recommandée.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       18 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Sigalens · WH 87
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.3 Ensoleillement
+Appréciation                                             Très bien ensoleillé
+
+Soleil direct le 21 juin                                 14 h 12 (de 07 h 20 à 21 h 20)
+
+Soleil direct aux équinoxes                              11 h 18 (de 07 h 40 à 18 h 50)
+
+Soleil direct le 21 décembre                             8 h 30 (de 08 h 50 à 17 h 10)
+
+Ensoleillement annuel possible                           4 178 h par an, soit 95 % du maximum à cette latitude
+
+Hauteur du relief vers le sud                            1°
+
+
+ 75°
+
+
+
+ 60°
+
+
+
+ 45°
+
+
+
+ 30°
+
+
+
+ 15°
+
+
+
+ 0°
+                                Est                  Sud-est                    Sud                 Sud-ouest               Ouest
+
+          21 juin          Équinoxes               21 décembre                 Horizon : relief et bâtiments voisins
+
+
+
+       Le relief et les constructions voisines ne masquent presque pas le soleil : le terrain profite de la
+       quasi-totalité de l'ensoleillement possible à cette latitude.
+
+
+
+Ensoleillement mois par mois (le 21 de chaque mois)
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Janvier                         9 h 12                             9 h 12                                    08 h 40 – 17 h 40
+
+  Février                         10 h 42                            10 h 12                                   08 h 20 – 18 h 20
+
+  Mars                            12 h                               11 h 18                                   07 h 40 – 18 h 50
+
+  Avril                           13 h 30                            12 h 48                                   07 h 50 – 20 h 30
+
+  Mai                             14 h 48                            13 h 48                                   07 h 20 – 21 h 00
+
+  Juin                            15 h 18                            14 h 12                                   07 h 20 – 21 h 20
+
+  Juillet                         14 h 48                            13 h 48                                   07 h 30 – 21 h 10
+
+  Août                            13 h 42                            12 h 48                                   07 h 50 – 20 h 30
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        19 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Septembre                       12 h                               11 h 30                                   08 h 20 – 19 h 40
+
+  Octobre                         10 h 42                            10 h 12                                   08 h 50 – 18 h 50
+
+  Novembre                        9 h 18                             9h                                        08 h 20 – 17 h 10
+
+  Décembre                        8 h 42                             8 h 30                                    08 h 50 – 17 h 10
+
+
+
+Calcul théorique par ciel dégagé, au centre de la parcelle et à hauteur d'homme : course du soleil heure par heure, masque du relief
+sur 6 km (IGN, RGE ALTI) et des bâtiments voisins sur 120 m (IGN, BD TOPO). La végétation et les constructions récentes ne sont
+pas prises en compte.
+
+
+6.4 Quel raccordement pour les eaux usées ?
+Raccordement à prévoir                                       Assainissement individuel probable
+
+Zone du PLU                                                  N · Naturelle et forestière
+
+Zonage d'assainissement                                      Non publié au Géoportail de l'Urbanisme (consultable en mairie)
+
+Réseau collectif sur la commune                              Oui · SIAEPA de la Région de Grignols et de Lerm et Musset ·
+                                                             délégation
+
+
+     Le terrain est hors zone urbaine (zone N) : ces secteurs sont rarement desservis par le réseau public.
+     Sauf canalisation existante dans la voie, prévoyez une fosse toutes eaux avec épandage ou une
+     micro-station agréée.
+
+
+
+Ce que dit le règlement de la zone
+Raccordement obligatoire au réseau public d'assainissement s'il existe. En l'absence de réseau, la construction
+nouvelle doit être raccordée à un système d'assainissement non collectif conforme à la réglementation ; le terrain
+est inconstructible si un tel système ne peut y être implanté. Le rejet d'eaux usées non traitées dans le milieu
+naturel, les fossés ou le réseau pluvial est interdit. Aucune surface minimale ni étude de sol n'est chiffrée dans le
+règlement ; le contrôle relève du SPANC et de la réglementation en vigueur.
+
+Ce que cela coûte
+Assainissement individuel : 5 000 à 15 000 € selon la filière (détail ci-dessous), plus l'étude de sol à la parcelle (500 à
+1 000 €). Étapes : étude de sol, puis avis favorable du SPANC sur le projet, à joindre à la demande de permis de
+construire. Besoin d'un installateur agréé ? Nous vous mettons en relation : contact@terrenurbanisme.com.
+
+Qui contacter pour obtenir la confirmation
+Service d'assainissement                                     SIAEPA de la Région de Grignols et de Lerm et Musset
+
+Mairie                                                       Mairie de Sigalens
+
+Téléphone                                                    05 56 65 61 31
+
+E-mail                                                       mairie@sigalens.fr;secretariat@sigalens.fr
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       20 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+    Demandez au service d'assainissement, avec la référence cadastrale, si une canalisation publique passe au droit
+    du terrain, à quelle profondeur, et le montant de la PFAC. Sa réponse écrite vaut attestation de raccordabilité.
+    Certificat d'urbanisme opérationnel (formulaire Cerfa 13410, gratuit) : la mairie y indique officiellement si le
+    terrain est desservi par le réseau d'assainissement.
+    Plan des réseaux : la présence des canalisations enterrées près du terrain peut être vérifiée sur
+    reseaux-et-canalisations.gouv.fr, le guichet unique des réseaux.
+Sources : zonage d'assainissement et règlement (Géoportail de l'Urbanisme) ; services publics d'assainissement (SISPEA, Office
+français de la biodiversité) ; annuaire de l'administration (service-public.fr).
+
+Les solutions d'assainissement individuel
+  FILIÈRE                                    QUAND ELLE CONVIENT                                                           ORDRE DE PRIX
+
+  Fosse toutes eaux et                       Sol perméable, terrain assez grand et peu pentu                               5 000 à 10 000 €
+  épandage
+
+  Filtre à sable                             Sol peu perméable, place suffisante                                           8 000 à 12 000 €
+
+  Micro-station agréée                       Petit terrain ou sol défavorable ; entretien et électricité                   7 000 à 15 000 €
+
+  Filtre compact agréé                       Petit terrain, sans électricité                                               9 000 à 14 000 €
+
+
+
+Ordres de prix indicatifs (fourniture et pose, hors étude de sol et terrassements particuliers). La filière est choisie au vu de l'étude
+de sol et validée par le SPANC.
+
+
+6.5 Électricité et eau potable
+Réseau basse tension le plus proche                          Aucun à moins de 414 m
+
+Poste de transformation le plus proche                       Aucun recensé à proximité
+
+Appréciation                                                 Raccordement lourd à prévoir
+
+
+     Aucune ligne basse tension n'est recensée à moins de 414 m. Le raccordement suppose une extension
+     du réseau, voire un nouveau poste de transformation : le coût peut atteindre plusieurs dizaines de
+     milliers d'euros et les délais plusieurs mois.
+
+
+
+Ce qu'il faut vérifier avant d'acheter
+    La capacité du réseau : même un réseau proche peut être saturé (coffret ou câble plein, poste de transformation
+    au maximum). Seule une étude du gestionnaire permet de le savoir ; c'est la cause la plus fréquente de surcoûts
+    imprévus.
+    Électricité : demander au gestionnaire du réseau une étude de raccordement ou un devis à partir de l'adresse et
+    du plan de situation (gratuit). Elle indique le type de raccordement, son coût et son délai.
+    Eau potable : les plans du réseau d'eau ne sont pas publics. Interroger le service des eaux (coordonnées
+    ci-dessous) sur la présence d'une canalisation au droit du terrain, sa capacité et le coût du branchement, ainsi
+    que sur la défense incendie (borne à moins de 200 m environ).
+    Certificat d'urbanisme opérationnel : la mairie y indique si le terrain est desservi par les réseaux publics (eau,
+    électricité, assainissement) et, à défaut, si et quand ils seront étendus. Un refus de permis peut être fondé sur
+    l'insuffisance des réseaux (article L. 111-11 du Code de l'urbanisme).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             21 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Sigalens · WH 87
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+Qui contacter
+Service de l'eau potable                                     SIAEPA de la Région de Grignols et de Lerm et Musset
+
+Mode de gestion                                              Délégation de service public à SUEZ
+
+Contact pour le branchement                                  SUEZ, pour le compte de : SIAEPA de la Région de Grignols et de
+                                                             Lerm et Musset
+
+Mairie                                                       Mairie de Sigalens
+
+Téléphone de la mairie                                       05 56 65 61 31
+
+E-mail de la mairie                                          mairie@sigalens.fr;secretariat@sigalens.fr
+
+La mairie oriente vers le bon interlocuteur et confirme, dans le certificat d'urbanisme, la desserte du terrain par les réseaux.
+Sources : SISPEA, observatoire des services publics d'eau (OFB) ; annuaire de l'administration (service-public.fr).
+
+Dans une promesse de vente, une condition suspensive portant sur le coût du raccordement aux réseaux protège
+l'acquéreur. Source de la cartographie électrique : Agence ORE, données des gestionnaires de réseaux de distribution ;
+tracés indicatifs.
+
+
+6.6 Fibre et internet
+     La fibre est déployée dans le secteur, la plus proche à 462 m (1317 Chemin des Cassayres) : le
+     raccordement d'une construction neuve suppose une extension du réseau, à demander à l'opérateur.
+
+
+
+Adresse la plus proche                                          73 Au Brana · à 417 m · non raccordable
+
+Point fibré le plus proche                                      1317 Chemin des Cassayres · à 462 m
+
+Adresses fibrées à moins de 100 m                               Aucune adresse recensée
+
+Adresses fibrées à moins de 400 m                               0 sur 0
+
+Technologies disponibles à proximité                            4G fixe, Satellite, Fibre
+
+
+Vérifiez la fibre à l'adresse du terrain :
+
+                     Carte fibre Orange                                                                  Carte de l'Arcep
+
+
+  DISTANCE           ADRESSE                                                                   FIBRE              AUTRES ACCÈS
+
+  417 m              73 Au Brana                                                               Non                4G fixe, Satellite
+
+  462 m              1317 Chemin des Cassayres                                                 Oui                4G fixe, Satellite
+
+  552 m              662 route de Rastaud                                                      Oui                Satellite
+
+  563 m              20 Au Cap de la Gouge Sud                                                 Non                4G fixe, Satellite
+
+  621 m              101 Chemin de Mouchac                                                     Oui                4G fixe, Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           22 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+Source : Arcep, « Ma connexion internet », éligibilité déclarée par les opérateurs, adresse par adresse. Le tracé des câbles n'est
+pas public : la présence de la fibre en limite de terrain se vérifie auprès de l'opérateur ou par une déclaration de projet de travaux
+(DT).
+
+
+6.7 Qui contacter pour les réseaux
+  RÉSEAU                                    INTERLOCUTEUR                                         CE QU'IL FAUT DEMANDER
+
+  Eau potable et                            Mairie ou service des eaux de la                      Attestation de desserte et conditions de
+  assainissement collectif                  commune                                               raccordement
+
+  Assainissement individuel                 SPANC (communauté de communes)                        Contrôle de conception sur la base de l'étude
+                                                                                                  de sol
+
+  Électricité                               Enedis (gestionnaire du réseau de                     Étude de raccordement et devis
+                                            distribution)
+
+  Fibre et téléphone                        Opérateur d'infrastructure et                         Raccordement du futur logement
+                                            fournisseur d'accès
+
+  Tous réseaux                              Guichet unique des réseaux                            Déclaration de projet de travaux (DT) pour
+                                            (reseaux-et-canalisations.gouv.fr)                    localiser les réseaux existants
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        23 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                               07 · Conditions de vente du terrain
+
+
+
+
+    07             Conditions de vente du terrain
+     DANS CETTE SECTION
+
+     Terrain agricole ou naturel : droit de préemption de la SAFER, fermier en place, autorisation
+     d'exploiter et repère officiel de prix.
+
+
+Terrain situé en zone N : vente encadrée par le code rural et de la pêche maritime.
+
+
+
+7.1 Pourquoi aucune fourchette de prix n'est donnée
+La parcelle est classée en zone N (naturelle et forestière), où les constructions nouvelles ne sont en principe
+pas admises. Sa valeur ne se déduit pas des ventes de terrains à bâtir du secteur : elle dépend de l'usage
+agricole ou naturel du sol, de sa qualité, de son accès, de l'eau disponible et de l'existence éventuelle d'un bail
+rural. Une estimation automatique serait trompeuse : la valeur doit être établie au cas par cas par un notaire
+ou un expert foncier et agricole.
+
+
+7.2 Le droit de préemption de la SAFER
+Principe                                        La vente d'un terrain agricole ou naturel est en principe soumise au droit de
+                                                préemption de la SAFER (articles L. 143-1 et suivants du code rural et de la
+                                                pêche maritime). Une surface minimale, fixée par département, peut en
+                                                exclure les plus petites parcelles.
+
+Information obligatoire                         Le notaire informe la SAFER du projet de vente au moins deux mois avant la
+                                                signature : prix, conditions et identité de l'acquéreur.
+
+Ce que peut faire la SAFER                      Renoncer, acheter au prix et aux conditions notifiés, ou proposer un prix
+                                                inférieur si elle estime le prix exagéré. Le vendeur peut alors accepter,
+                                                retirer son terrain de la vente ou demander au tribunal judiciaire de fixer le
+                                                prix.
+
+Pourquoi elle intervient                        Installation de jeunes agriculteurs, consolidation des exploitations,
+                                                protection de l'environnement et des paysages, lutte contre la spéculation
+                                                foncière.
+
+
+
+7.3 Les autres règles à connaître
+Fermier en place                                Si le terrain est loué par bail rural, l'exploitant en place bénéficie d'un droit
+                                                de préemption prioritaire, avant la SAFER.
+
+Autorisation d'exploiter                        Un acquéreur qui souhaite exploiter le terrain peut devoir obtenir une
+                                                autorisation d'exploiter auprès de la DDT(M), selon le schéma directeur
+                                                régional des exploitations agricoles.
+
+Espace naturel sensible                         Dans un espace naturel sensible, le département peut également disposer
+                                                d'un droit de préemption.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       24 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                               07 · Conditions de vente du terrain
+
+
+
+
+Constructions                                   Seules les constructions nécessaires à l'exploitation agricole ou forestière,
+                                                ou à des équipements collectifs, sont en règle générale admises : l'achat ne
+                                                donne pas de droit à bâtir une habitation.
+
+
+
+7.4 Repère officiel de prix
+Le ministère de l'Agriculture publie chaque année le barème indicatif de la valeur vénale moyenne des terres
+agricoles, par région agricole et par nature de culture (arrêté publié au Journal officiel). C'est la référence à
+consulter, avec l'avis d'un notaire ou d'un expert foncier et agricole, avant de fixer un prix.
+
+     Avant toute mise en vente, rapprochez-vous de votre notaire : il notifie la vente à la SAFER, vérifie
+     l'existence d'un bail et sécurise le calendrier de la transaction.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       25 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+   08              Environnement et marché immobilier
+     DANS CETTE SECTION
+
+     Les espaces naturels protégés autour du terrain et les prix de vente réels des maisons,
+     appartements et terrains alentour.
+
+
+Inventaire national du patrimoine naturel et demandes de valeurs foncières (DVF).
+
+
+
+8.1 Espaces naturels protégés ou inventoriés
+La parcelle n'est concernée par aucun site Natura 2000, ZNIEFF, parc ou réserve naturelle.
+
+
+8.2 Espèces protégées observées près du terrain
+66 espèces protégées ont été observées dans un rayon de 1 km autour du terrain depuis 1990 ; les 14 plus
+fréquemment signalées figurent ci-dessous.
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Buse commune (Buteo buteo)                                      Oiseau                 Nationale (espèce et              5 · dernière en 2021
+                                                                                         habitat)
+
+  Elanion Blanc (Elanus caeruleus)                                Oiseau                 Nationale (espèce et              4 · dernière en
+                                                                                         habitat)                          2020
+
+  Rouge-gorge familier (Erithacus                                 Oiseau                 Nationale (espèce et              4 · dernière en
+  rubecula)                                                                              habitat)                          2022
+
+  Pouillot véloce (Phylloscopus collybita)                        Oiseau                 Nationale (espèce et              4 · dernière en
+                                                                                         habitat)                          2022
+
+  Anacamptide à fleurs lâches                                     Plante                 Départementale                    4 · dernière en 2018
+  (Anacamptis laxiflora)
+
+  Carotte commune (Daucus carota)                                 Plante                 Nationale                         4 · dernière en 2018
+
+  Corneille noire (Corvus corone)                                 Oiseau                 Nationale (espèce et              4 · dernière en
+                                                                                         habitat)                          2022
+
+  Loutre commune (Lutra lutra)                                    Mammifère              Nationale (espèce et              3 · dernière en 2021
+                                                                                         habitat)
+
+  Mésange bleue (Cyanistes caeruleus)                             Oiseau                 Nationale (espèce et              3 · dernière en 2021
+                                                                                         habitat)
+
+  Pinson des arbres (Fringilla coelebs)                           Oiseau                 Nationale (espèce et              3 · dernière en
+                                                                                         habitat)                          2022
+
+  Milan noir (Milvus migrans)                                     Oiseau                 Nationale (espèce et              3 · dernière en
+                                                                                         habitat)                          2022
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        26 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Troglodyte mignon (Troglodytes                                  Oiseau                 Nationale (espèce et              3 · dernière en 2021
+  troglodytes)                                                                           habitat)
+
+  Bachneunauge (Lampetra planeri)                                 Autre                  Nationale                         2 · dernière en 2011
+
+  Grenouille agile (Rana dalmatina)                               Amphibien              Nationale (espèce et              2 · dernière en 2018
+                                                                                         habitat)
+
+
+
+     Une observation à proximité ne signifie pas que l'espèce vit sur le terrain. Mais si elle y est présente, il
+     est interdit de détruire, capturer ou déranger les individus et, pour la plupart de ces espèces, de
+     détruire leurs lieux de reproduction et de repos (articles L. 411-1 et suivants du Code de
+     l'environnement). L'infraction est punie de 3 ans d'emprisonnement et 150 000 € d'amende.
+
+
+
+Pour les plantes, la protection vise les populations sauvages : un spécimen planté dans un jardin n'est pas concerné.
+
+Que faire avant de construire ?
+    Pour une maison individuelle, aucune étude écologique n'est imposée en règle générale, et l'étude de sol porte
+    sur le terrain (fondations), pas sur la faune ni la flore. Vous restez cependant responsable si une espèce
+    protégée vit sur la parcelle : en cas de doute (espèce observée tout près, vieux arbres, murets, maquis, zone
+    humide), faites passer un écologue avant de défricher.
+    Si un enjeu est confirmé : inventaire faune-flore aux saisons utiles (printemps et été en général), puis mesures
+    pour éviter et réduire l'impact : implantation de la maison sur la partie la moins sensible, travaux hors période de
+    reproduction, clôture de chantier adaptée, déplacement d'individus par un spécialiste habilité.
+    Si la destruction d'individus ou d'habitats ne peut pas être évitée : demande de dérogation « espèces protégées »
+    auprès de la préfecture (DREAL), avec avis du conseil scientifique. Comptez 4 à 12 mois d'instruction, à anticiper
+    avant le dépôt du permis.
+
+Combien prévoir ?
+Pré-diagnostic écologique                                800 à 2 000 € (une visite et une note de synthèse)
+
+Inventaire faune-flore                                   3 000 à 10 000 € selon la surface et le nombre de passages
+
+Mesures d'évitement et de réduction                      500 à 5 000 € (balisage, calendrier, suivi de chantier)
+
+Dossier de dérogation                                    8 000 à 25 000 €, hors mesures de compensation éventuelles
+
+Ordres de prix indicatifs, honoraires de bureaux d'études en environnement, si une étude est nécessaire. Pour une maison sur un
+terrain déjà entouré de constructions, aucune étude n'est le plus souvent requise.
+
+Sources : statuts de protection TAXREF et base de connaissance des statuts (INPN, Muséum national d'Histoire naturelle) ;
+observations naturalistes GBIF, qui rassemble notamment les données de l'INPN et du SINP.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      27 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+8.3 Prix de l'immobilier à Sigalens
+Prix au mètre carré des ventes enregistrées sur la commune au cours des cinq dernières années publiées.
+Seules les ventes portant sur un bien unique sont retenues.
+
+  TYPE DE BIEN                                       VENTES                       €/M² MÉDIAN                              €/M² MOYEN
+
+  Maisons                                            24                           1 784 €/m²                               2 105 €/m²
+
+
+
+Source : statistiques des demandes de valeurs foncières (DGFiP, Etalab). Prix des actes, hors frais : un ordre de grandeur,
+pas une estimation du bien.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            28 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                                             09 · Historique du site
+
+
+
+
+   09              Historique du site
+     DANS CETTE SECTION
+
+     Le terrain vu du ciel au fil des décennies et les permis de construire accordés autour : l'évolution
+     du secteur en un coup d'œil.
+
+
+Photographies aériennes de l'IGN et permis de construire délivrés (Sitadel).
+
+
+
+9.1 Le terrain vu du ciel, d'hier à aujourd'hui
+
+    1950-1965                                             2000-2005                                              2006-2010
+
+
+
+
+    2011-2015                                             Aujourd'hui
+
+
+
+
+Ces vues montrent l'évolution du terrain et du quartier, des années 1950 à aujourd'hui (photographies aériennes de l'IGN).
+
+     Bon à savoir : l'existence ancienne d'une construction peut ouvrir, sous conditions, un droit à
+     reconstruire ou à restaurer un bâtiment dont il reste l'essentiel des murs porteurs (articles L. 111-15 et L.
+     111-23 du Code de l'urbanisme).
+
+
+
+
+9.2 Permis de construire délivrés autour du terrain
+Autorisations sur la commune (3 ans)                                    1 · dernière recensée le 30/09/2025
+
+Logements autorisés (3 ans)                                             1
+
+Dont maisons individuelles                                              1
+
+Autorisations dans la section WH                                        0 depuis 2013
+
+
+Source : base Sitadel des autorisations d'urbanisme créant des logements (SDES). Un permis accordé à proximité montre
+que des constructions ont été admises dans le secteur, sans préjuger de la décision sur votre propre projet.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         29 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+      10           Votre projet, étape par étape
+De l'achat du terrain à la déclaration aux impôts : démarches, délais, coûts et contacts.
+
+
+
+10.1 Analyse
+Le terrain est soumis au plan local d'urbanisme intercommunal (PLUi) de Sigalens. Il est classé en zone
+N. Zone naturelle et forestière : secteur protégé en raison de la qualité des sites, des milieux naturels et
+des paysages, ou de son caractère d'espace naturel. Les constructions nouvelles n'y sont pas admises,
+sauf exceptions encadrées (équipements publics, extension limitée des habitations existantes, secteurs
+de taille et de capacité limitées).
+
+En l'état, une construction nouvelle n'est pas possible. Seules des évolutions limitées peuvent être
+envisagées selon le règlement de la zone (extension mesurée d'une habitation existante, annexes,
+équipements publics). Le classement ne peut évoluer qu'à l'occasion d'une modification ou d'une révision
+du document d'urbanisme, à l'initiative de la commune.
+
+
+10.2 Votre projet, étape par étape
+Les étapes ci-dessous suivent l'ordre réel d'un projet de construction, de l'achat du terrain à la déclaration aux
+impôts. Les montants sont indicatifs et à confirmer par devis.
+
+  1      Avant d'acheter le terrain
+         Vérifiez les règles de la zone (chapitres précédents), puis demandez un certificat d'urbanisme opérationnel
+         (Cerfa 13410, sans frais, réponse sous 2 mois) : il fige les règles pendant 18 mois. En zone d'argiles d'aléa
+         moyen ou fort, le vendeur doit fournir une étude de sol préalable.
+         Contact : Mairie de Sigalens · 05 56 65 61 31 · mairie@sigalens.fr;secretariat@sigalens.fr · formulaire sur
+         service-public.fr (rechercher « Cerfa 13410 »)
+
+  2      Les études
+         Étude de sol géotechnique (G2) pour dimensionner les fondations : 1 500 à 3 000 €. Étude thermique RE2020,
+         obligatoire pour le permis : 500 à 1 500 €. Bornage par un géomètre si les limites sont incertaines. L'étude de
+         sol ne porte pas sur les espèces protégées : un écologue n'intervient qu'en cas d'enjeu (chapitre
+         Environnement).
+         Géomètres proches du terrain : liste à la fin de ce chapitre
+
+  3      Les plans
+         Architecte obligatoire si la surface de plancher totale dépasse 150 m². En dessous, vous pouvez dessiner les
+         plans vous-même ou faire appel à un dessinateur ou maître d'œuvre (environ 1 500 à 4 000 € le dossier de
+         permis). Architecte : 3 000 à 8 000 € pour la seule mission de permis, 8 à 12 % du coût des travaux pour une
+         mission complète avec suivi du chantier.
+         Trouver un architecte : annuaire de l'Ordre des architectes sur architectes.org
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        30 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+  4      Déposer le permis
+         Formulaire Cerfa 13406 (maison individuelle) et pièces PCMI1 à PCMI8 : plan de situation, plan de masse,
+         coupe, notice, plans des façades et toitures, insertion dans le paysage, photos, attestation RE2020. Dépôt en
+         mairie ou en ligne sur le guichet numérique de la commune. La mairie a 1 mois pour réclamer une pièce
+         manquante ; l'instruction dure 2 mois à partir du dossier complet, plus en secteur protégé.
+         Dépôt : Mairie de Sigalens · 05 56 65 61 31 · mairie@sigalens.fr;secretariat@sigalens.fr · formulaire sur
+         service-public.fr (rechercher « Cerfa 13406 »)
+
+  5      Affichage et recours
+         Dès l'accord, installez le panneau de permis sur le terrain, lisible depuis la voie, pendant toute la durée du
+         chantier. Les tiers ont 2 mois à compter du premier jour d'affichage pour contester ; la mairie peut retirer un
+         permis illégal pendant 3 mois. Faites constater l'affichage par un commissaire de justice (environ 300 à 600 €
+         pour les trois constats).
+         Commissaires de justice : annuaire sur commissaire-justice.fr
+
+  6      Avant les travaux
+         Souscrivez l'assurance dommages-ouvrage, obligatoire (souvent 2 à 4 % du coût de la construction). Signez
+         le contrat de construction de maison individuelle ou les marchés des artisans. Déposez la déclaration
+         d'ouverture de chantier (Cerfa 13407) le jour du démarrage. Le permis est valable 3 ans, prorogeable deux
+         fois d'un an.
+         Déclaration d'ouverture : Mairie de Sigalens · 05 56 65 61 31 · mairie@sigalens.fr;secretariat@sigalens.fr
+
+  7      Le financement
+         La banque débloque le prêt au fur et à mesure du chantier, sur présentation des factures des entreprises ou
+         des appels de fonds du constructeur. Avec un contrat de construction de maison individuelle, l'échéancier
+         est encadré par la loi : 15 % à l'ouverture du chantier, 25 % aux fondations, 40 % aux murs, 60 % hors d'eau,
+         75 % hors d'air et cloisons, 95 % aux équipements, le solde à la réception. Des intérêts intercalaires peuvent
+         courir sur les sommes débloquées.
+         Votre banque ou votre courtier
+
+  8      La fin du chantier
+         Réception des travaux avec le constructeur ou les artisans, avec réserves si nécessaire. Déposez ensuite la
+         déclaration attestant l'achèvement et la conformité des travaux (DAACT, Cerfa 13408), avec l'attestation
+         RE2020 de fin de chantier. La mairie a 3 mois pour la contester (5 mois en secteur protégé).
+         Dépôt : Mairie de Sigalens · 05 56 65 61 31 · mairie@sigalens.fr;secretariat@sigalens.fr
+
+  9      Les impôts
+         Dans les 90 jours suivant l'achèvement, déclarez la construction sur impots.gouv.fr, espace « Gérer mes
+         biens immobiliers ». Cette déclaration sert au calcul de la taxe d'aménagement (payée en une fois sous 1 500
+         €, sinon en deux fois, estimation plus bas dans ce chapitre) et de la taxe foncière, avec une exonération
+         possible les deux premières années selon la commune.
+         impots.gouv.fr › Espace particulier › Gérer mes biens immobiliers
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         31 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+10.3 Les points à vérifier pour ce terrain
+  1      Certificat d'urbanisme opérationnel
+         Le demander en mairie (formulaire Cerfa 13410), en décrivant le projet. Gratuit, il indique si le terrain
+         peut accueillir le projet et fige les règles d'urbanisme pendant 18 mois.
+
+  2      Règlement de la zone
+         Lire le règlement écrit de la zone N et, le cas échéant, les orientations d'aménagement, disponibles sur
+         le Géoportail de l'Urbanisme.
+
+  3      Réseaux et accès
+         Vérifier l'accès à une voie publique ou privée adaptée, la desserte en eau potable et en électricité, et le
+         mode d'assainissement. En l'absence de réseau collectif, une étude de sol et l'avis du service public
+         d'assainissement non collectif (SPANC) sont nécessaires.
+
+  4      Débroussaillement et défrichement
+         Prévoir le débroussaillement obligatoire autour des constructions et, si le terrain est boisé, une
+         demande d'autorisation de défrichement auprès de la DDT avant le permis.
+
+  5      Bornage
+         Faire réaliser un bornage par un géomètre-expert pour fixer les limites exactes et la surface réelle du
+         terrain.
+
+  6      Sécuriser un achat
+         Pour une acquisition, prévoir dans le compromis une condition suspensive d'obtention d'un permis de
+         construire purgé de tout recours.
+
+
+10.4 Délais indicatifs d'instruction
+  DEMANDE                                                                                 DÉLAI DE DROIT COMMUN
+
+  Certificat d'urbanisme d'information (CUa)                                              1 mois
+
+  Certificat d'urbanisme opérationnel (CUb)                                               2 mois
+
+  Déclaration préalable                                                                   1 mois
+
+  Permis de construire une maison individuelle                                            2 mois
+
+  Permis d'aménager, autres permis de construire                                          3 mois
+
+
+
+Ces délais peuvent être majorés, notamment en site classé ou inscrit, aux abords d'un monument historique ou lorsque la
+consultation d'un service extérieur est nécessaire.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        32 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+10.5 Implanter une entreprise : zone France Ruralités Revitalisation
+     La commune de Sigalens est classée en zone France Ruralités Revitalisation (FRR) depuis le 1er juillet
+     2024. Une entreprise qui s'y crée ou y est reprise peut être exonérée d'impôt sur les bénéfices pendant
+     5 ans, puis partiellement pendant 3 ans.
+
+
+
+Impôt sur les bénéfices (IS ou IR)                    Exonération totale pendant 5 ans, puis exonération de 75 %, 50 % et 25
+                                                      % des bénéfices les 3 années suivantes
+
+Création ou reprise                                   Entre le 1er juillet 2024 et le 31 décembre 2029
+
+Activités concernées                                  Industrielle, commerciale, artisanale ou libérale
+
+Taille de l'entreprise                                Moins de 11 salariés
+
+Régime d'imposition                                   Régime réel obligatoire (micro-entreprise exclue, sauf option pour le
+                                                      réel)
+
+Implantation                                          Siège et totalité de l'activité dans la zone (activité sédentaire : 25 % du
+                                                      chiffre d'affaires au plus réalisé hors zone)
+
+Plafond                                               Aides de minimis : 300 000 € sur trois exercices
+
+Taxe foncière et CFE                                  Exonération possible si la commune ou l'intercommunalité l'a votée : à
+                                                      vérifier en mairie
+
+
+Exclus : les activités agricoles, la gestion ou la location d'immeubles (une SCI de location nue n'est pas éligible) et la
+location meublée sans services de type hôtelier. Une location touristique ou des chambres d'hôtes peuvent être éligibles si
+le ménage quotidien et le linge sont fournis et inclus dans le prix.
+
+Ces avantages dépendent de la situation de l'entreprise (article 44 quindecies A du code général des impôts). Faites valider
+votre éligibilité par votre expert-comptable ou le service des impôts des entreprises avant de vous installer.
+
+Source : ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 (collectivites-locales.gouv.fr).
+
+
+10.6 Géomètres proches du terrain
+Le géomètre-expert est le seul professionnel habilité à fixer les limites de propriété (bornage) et à établir les
+documents d'arpentage déposés au cadastre. Il intervient aussi pour les relevés topographiques et les
+divisions de terrain.
+
+13,7 km           SCP ESCANDE PHILIPPE GEOMETRE EXPERT
+                                                                                                                           Coordonnées
+                  21 AVENUE GABRIEL CHAIGNE 33190 LA REOLE
+
+
+14,8 km           SCP ESCANDE PHILIPPE GEOMETRE EXPERT
+                                                                                                                           Coordonnées
+                  VALLEE AUSONE 13 ALLEES DE JUILLET 33430 BAZAS
+
+
+19,4 km           ABAC-GEO AQUITAINE (ABAC)
+                                                                                                                           Coordonnées
+                  ZI DUMES 3 RUE CONDORCET 33210 LANGON
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        33 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+19,6 km           SCP ESCANDE PHILIPPE GEOMETRE EXPERT
+                                                                                                                           Coordonnées
+                  46 ROUTE DE ROAILLAN 33210 LANGON
+
+
+19,6 km           PHILIPPE ESCANDE
+                                                                                                                           Coordonnées
+                  46 ROUTE DE ROAILLAN 33210 LANGON
+
+
+25,6 km           CLUZANT GILLES
+                                                                                                                           Coordonnées
+                  12 ROUTE DE BAZAS 33840 CAPTIEUX
+
+
+Source : répertoire Sirene de l'INSEE (activité des géomètres), classé par distance au terrain. L'inscription d'un cabinet à l'Ordre
+des géomètres-experts se vérifie sur geometre-expert.fr. Le bouton « Coordonnées » ouvre la fiche du cabinet (téléphone,
+horaires, itinéraire). Cette liste est fournie à titre indicatif, sans partenariat ni recommandation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        34 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Sigalens · WH 87
+          TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+     11            État des risques (ERP) pré-rempli
+     DANS CETTE SECTION
+
+     Le formulaire réglementaire à remettre à l'acquéreur ou au locataire, pré-rempli à partir des
+     bases officielles : plans de prévention, sismicité, radon, sols pollués, trait de côte, bruit des
+     aérodromes.
+
+
+Articles L. 125-5 à L. 125-7 et R. 125-23 à R. 125-27 du Code de l'environnement · modèle fixé par l'arrêté du 27 septembre
+2022.
+
+
+     Formulaire pré-rempli à partir de Géorisques et du Géoportail de l'Urbanisme à la date du rapport.
+     Avant de le remettre à l'acquéreur ou au locataire, le vendeur ou le bailleur le vérifie, le complète
+     (sinistres indemnisés) et le signe ; il doit dater de moins de six mois à la signature de la promesse, du
+     bail ou de l'acte.
+
+
+
+
+11.1 Situation du bien
+Commune                                                  Sigalens (33512)
+
+Département                                              Gironde (33)
+
+Références cadastrales                                   Section WH, parcelle n° 87 · 33512000WH0087
+
+Surface cadastrale                                       9 157 m²
+
+
+
+11.2 Plans de prévention des risques
+  L'IMMEUBLE EST SITUÉ DANS LE PÉRIMÈTRE…                                         RÉPONSE                DÉTAIL
+
+  d'un plan de prévention des risques naturels (PPRN)                             Non                    Aléas à l'adresse : feu de forêt
+  prescrit, appliqué par anticipation ou approuvé
+
+  d'un plan de prévention des risques miniers (PPRM)                              Non                    Non recensé
+
+  d'un plan de prévention des risques technologiques                              Non                    Risques technologiques sur la commune
+  (PPRT)                                                                                                 : installations industrielles (icpe),
+                                                                                                         pollution des sols
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         35 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+11.3 Autres zonages réglementaires
+  L'IMMEUBLE EST SITUÉ…                                                           RÉPONSE                DÉTAIL
+
+  dans une commune de sismicité (zones 2 à 5 : règles de                          Non                    Zone 1 – très faible
+  construction parasismique)
+
+  dans une commune à potentiel radon de niveau 3                                  Non                    Catégorie 1 (potentiel faible)
+
+  dans un secteur d'information sur les sols (SIS)                                Non                    Aucun SIS recensé à proximité
+
+  dans une zone exposée au recul du trait de côte                                 Non                    Non concerné selon Géorisques
+
+  dans une zone de bruit d'un plan d'exposition au bruit                          À vérifier             Aucun PEB annexé au document
+  d'aérodrome (PEB)                                                                                      d'urbanisme ; vérifier auprès de la mairie
+
+  dans une zone de retrait-gonflement des argiles                                 Oui                    Existant – important
+  (information)
+
+
+
+
+11.4 Sinistres indemnisés et déclarations
+Arrêtés de catastrophe naturelle sur la commune : 11 (liste en section Risques). Le vendeur ou le bailleur
+déclare ci-dessous les sinistres ayant donné lieu à une indemnisation au titre des catastrophes naturelles ou
+technologiques pendant la période où il a été propriétaire.
+
+Sinistres indemnisés                                     [ ] Oui [ ] Non
+
+Vendeur ou bailleur                                      Nom : ____________________ Date : ___/___/______ Signature :
+
+Acquéreur ou locataire                                   Nom : ____________________ Date : ___/___/______ Signature :
+
+
+L'état des risques officiel peut aussi être édité gratuitement sur Géorisques (errial.georisques.gouv.fr). Les informations
+ci-dessus sont établies à partir des bases nationales ; en cas de divergence, l'arrêté préfectoral relatif à l'information des
+acquéreurs et des locataires fait foi.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          36 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+    12             Avertissement et sources
+     DANS CETTE SECTION
+
+     La portée de ce rapport et la liste des sources publiques consultées.
+
+
+
+12.1 Nature du document
+Ce rapport est un document d'information établi automatiquement, à la date indiquée en page de garde, à
+partir des données publiques officielles alors disponibles. Il n'a aucune valeur contractuelle, réglementaire ou
+juridique.
+
+
+12.2 Ce que ce rapport n'est pas
+Il ne constitue ni un certificat d'urbanisme au sens de l'article L. 410-1 du Code de l'urbanisme, ni une
+autorisation d'urbanisme (permis de construire, permis d'aménager, déclaration préalable), ni un état des
+risques au sens de l'article L. 125-5 du Code de l'environnement, ni un bornage, ni une expertise, ni une
+évaluation immobilière, ni une consultation juridique. Il n'engage en rien l'administration.
+
+
+12.3 Permis de construire
+Ce rapport ne peut en aucun cas être joint, produit ou invoqué à l'appui d'une demande de permis de
+construire, de permis d'aménager ou de déclaration préalable, ni opposé à la mairie ou à un service de l'État. Il
+ne garantit pas l'obtention d'une autorisation : seule l'autorité compétente se prononce, au vu d'un projet
+précis et de l'ensemble des règles applicables à la date de sa décision.
+
+
+12.4 Limites des données
+Les données sont produites par des organismes publics dont l'éditeur n'est ni l'auteur ni le garant. Elles
+peuvent être incomplètes, imprécises ou ne pas refléter une modification, une révision, une mise en
+compatibilité, une annulation contentieuse, un sursis à statuer ou une procédure en cours. Le plan cadastral,
+document fiscal, ne fait pas foi des limites de propriété. Surfaces, distances, altitudes et pentes sont
+approchées. Les extraits et analyses du règlement sont une aide à la lecture : seul le texte intégral du
+document d'urbanisme approuvé, consultable en mairie, fait foi.
+
+
+12.5 Avant toute décision
+Avant toute acquisition, cession, financement, promesse de vente ou dépôt d'une demande, le lecteur doit
+obtenir un certificat d'urbanisme opérationnel auprès de la mairie, consulter le document d'urbanisme en
+vigueur et recueillir l'avis d'un professionnel habilité (notaire, architecte, géomètre-expert, avocat). Pour un
+achat, il est recommandé de stipuler une condition suspensive d'obtention d'un permis de construire purgé de
+tout recours.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         37 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+12.6 Responsabilité
+L'éditeur ne saurait être tenu responsable d'une décision prise sur le seul fondement de ce rapport, ni d'un
+refus d'autorisation, d'une erreur ou d'une omission des sources publiques, dans les limites prévues par les
+conditions générales de vente acceptées lors de la commande.
+
+
+12.7 Sources consultées
+  DONNÉE                                                    SOURCE
+
+  Cadastre                                                  DGFiP, plan cadastral informatisé, via API Carto (IGN)
+
+  Photographies et plans                                    IGN, Géoplateforme : orthophotographies, Plan IGN, parcellaire express
+
+  Urbanisme                                                 Géoportail de l'Urbanisme : zonage, prescriptions, informations, servitudes
+                                                            d'utilité publique
+
+  Littoral                                                  IGN, BD TOPO (limite terre-mer) ; communes littorales (Géoportail de
+                                                            l'Urbanisme)
+
+  Montagne                                                  Ministère de la Cohésion des territoires, communes de la loi Montagne
+
+  Risques                                                   Géorisques (ministère de la Transition écologique) : rapport de risques,
+                                                            arrêtés CatNat, sismicité, radon, ICPE, sites pollués
+
+  Environnement                                             Inventaire national du patrimoine naturel (PatriNat), via API Carto
+
+  Altitude, pente et exposition                             IGN, RGE ALTI
+
+  Ensoleillement                                            Calcul astronomique de la course du soleil ; masque du relief (IGN, RGE
+                                                            ALTI) et des bâtiments (IGN, BD TOPO)
+
+  Voirie et accès                                           IGN, BD TOPO (tronçons de route)
+
+  Permis de construire                                      Sitadel, service des données et études statistiques (SDES) du ministère
+                                                            chargé du logement
+
+  Photographies anciennes                                   IGN, BD ORTHO historique
+
+  Fibre et internet                                         Arcep, Ma connexion internet (éligibilité par adresse)
+
+  Géomètres                                                 Répertoire Sirene (INSEE), activité des géomètres
+
+  Propriétaires personnes morales                           DGFiP, fichiers des parcelles des personnes morales (diffusion Koumoul)
+
+  Diagnostics énergétiques                                  ADEME, base des DPE des logements existants
+
+  Procédures collectives                                    Bodacc, annonces commerciales (DILA)
+
+  Bâtiments                                                 IGN, BD TOPO
+
+  Réseau électrique                                         Agence ORE (gestionnaires de réseaux de distribution : Enedis, EDF Corse
+                                                            et entreprises locales) : réseau basse tension et postes de distribution
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         38 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+  DONNÉE                                                    SOURCE
+
+  Taxe d'aménagement                                        DGFiP, éléments de taxation votés par les collectivités ; valeurs forfaitaires
+                                                            fixées par arrêté
+
+  Rapport officiel de risques                               Géorisques, ministère chargé de l'environnement
+
+  Zone France Ruralités Revitalisation                      ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 ; article
+                                                            44 quindecies A du code général des impôts
+
+  Marché immobilier                                         Statistiques des demandes de valeurs foncières (DVF) par commune, DGFiP
+                                                            et Etalab
+
+  Date d'extraction                                         20/11/2026
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         39 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Sigalens · WH 87
+         TerrenUrbanisme
+                                                                                                                     Annexe · règlement de la zone
+
+
+
+
+ANNEXE
+
+
+Règlement écrit · zone N
+Les pages suivantes reproduisent le chapitre du règlement officiel applicable à la zone de la parcelle
+(pages 145 à 163 du document approuvé), tel que publié sur le Géoportail de l'Urbanisme. Il s'agit d'une
+reproduction à titre d'information : seule la version approuvée tenue à disposition en mairie fait foi, avec
+ses annexes, plans et éventuelles modifications ultérieures.
+Règlement complet :
+https://data.geopf.fr/annexes/gpu/documents/DU_200043982/db105e2cb4e8062746cc28fcd425cbce/200043982_reglement_
+20250617.pdf
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        40 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+ REGLES APPLICABLES A LA ZONE NATURELLE ET FORESTIERE
+
+
+
+
+   PARTIE 6 REGLES
+ APPLICABLES A LA ZONE
+NATURELLE ET FORESTIERE
+
+
+
+                   La zone N
+
+
+
+
+           PLUi du Bazadais - Règlement écrit           145
+             REGLES APPLICABLES A LA ZONE NATURELLE ET FORESTIERE
+
+
+
+
+1. PRESENTATION DE LA ZONE ET DES
+   SECTEURS
+La zone "N" correspond à des espaces à protéger en raison soit de la qualité des sites et des
+milieux naturels soit de l’existence ou du développement des exploitations forestières.
+
+Zone spécialisée, elle permet la gestion et l’usage régulé des milieux naturels et des espaces
+de nature en ville, en autorisant de manière limitée les constructions permettant la gestion et
+la mise en valeur de ces espaces.
+
+La zone "N" comprend 10 secteurs, dont 7 correspondent à des Secteurs de Taille et de
+Capacité d’Accueil Limitées :
+
+   •   Le secteur "N2A" est un STECAL à vocation de réaliser une aire d'accueil des gens du
+       voyage ;
+   •   Le secteur "N3A" est un STECAL qui correspond à des activités économiques isolées
+       ;
+   •   Le secteur "N4A" est un STECAL qui est dédié à l'accueil d'hébergements touristiques
+       et hôteliers. Il comprend 4 sous-secteurs N4Aa, N4Ab, N4Ac et N4Ad qui se
+       différencient par la surface de plancher attribuée à chacun ;
+   •   Le secteur "N4B" est un STECAL qui est dédié aux seuls campings ;
+   •   Le secteur "N5A" est un STECAL qui est dédié aux constructions relevant de la
+       destination Équipements d’intérêt collectif et services publics isolées ;
+   •   Le secteur "N5B" est un STECAL qui est dédié aux espaces de loisirs et activités
+       sportives isolés ;
+   •   Le secteur "N5C" est un STECAL qui est dédié aux espaces de loisirs et activités
+       équestres isolés ;
+   •   Le secteur "N5D" correspond à la zone militaire présente sur Captieux ;
+   •   Le secteur "N7D" correspond à un espace naturel établi sous forme de jardins urbains
+       ;
+   •   Le secteur "Ner" relatif aux espaces pouvant accueillir des dispositifs de production
+       d’énergies renouvelables solaires.
+
+
+Les constructions doivent respecter les conditions prévues en 2eme partie "Dispositions
+générales - 4. Dispositions communes à toutes les zones", complétées par les dispositions
+suivantes.
+
+En outre, les constructions, ouvrages et travaux qui concernent des secteurs ou éléments
+identifiés au titre du patrimoine bâti doivent respecter les dispositions applicables au
+patrimoine définies en 2ere partie "Dispositions générales - § 3. Prescriptions applicables au
+patrimoine bâti, naturel et paysager".
+
+
+
+
+                           PLUi du Bazadais - Règlement écrit                              146
+             REGLES APPLICABLES A LA ZONE NATURELLE ET FORESTIERE
+
+
+
+De même, les constructions, ouvrages et travaux situés au sein d'un secteur exposé à un
+risque (inondation, feux de forêt, mouvement de terrain...), repérés sur le règlement graphique
+des prescriptions - Risques (pièce 3.2.3.), devront respecter les dispositions applicables aux
+risques définis en 2eme partie "Dispositions générales - § 2. Prescriptions applicables aux
+secteurs à risques".
+
+Pour la mise en œuvre de solutions de gestion de l'eau, la préservation de zones humides ou
+l'installation de parcs de productions d'énergies renouvelables, il s'agit de prendre en compte
+également les dispositions de l'OAP thématique "eau" et "énergies" (pièce 5.3.).
+
+
+
+
+                           PLUi du Bazadais - Règlement écrit                              147
+             REGLES APPLICABLES A LA ZONE NATURELLE ET FORESTIERE
+
+
+
+
+2. DESTINATIONS ET SOUS-DESTINATIONS
+   DES CONSTRUCTIONS, USAGES ET
+   AFFECTATION DES SOLS, ET TYPES
+   D'ACTIVITES
+    2.1. Interdiction et limitation de certains usages et
+         affectation des sols, constructions et activités
+Sont interdites toutes les occupations et utilisations du sol à l’exception de celles visées à
+l’article 2.2.
+
+
+    2.2. Limitation de certains usages et affectation des
+         sols, constructions et activités
+En application de la Déclaration d'Utilité Publique relative à la création des deux nouvelles
+lignes Bordeaux-Dax et Bordeaux-Toulouse, dans l'intégralité de la zone N toutes les
+constructions et installations, exhaussements et affouillements du sol liés à la réalisation et au
+fonctionnement du service public ferroviaire sont autorisés.
+
+          2.2.1.   Dans la zone N, hors secteurs N2A, N3A, N4A, N4B,
+                   N5A, N5B, N5C, N5D, N7D et Ner :
+Les constructions, la réhabilitation et l'extension des bâtiments existants, les travaux et
+installations nécessaires à l’exploitation agricole et forestière ou au stockage et à l’entretien
+de matériel agricole par les coopératives d’utilisation de matériel agricole agréées au titre du
+Code rural et de la pêche maritime par le Haut Conseil de la coopération agricole.
+
+Les constructions et installations nécessaires à la transformation, au conditionnement et à la
+commercialisation des produits agricoles, lorsque ces activités constituent le prolongement de
+l’acte de production ;
+
+Les activités d’accueil touristique (hébergement, restauration...) constituant une activité
+accessoire d’une exploitation agricole en activité, localisées sur le lieu de l’exploitation
+agricole, dans une construction existante à la date d’approbation du PLUi.
+
+La construction relevant de la sous-destination de "Logement" à condition de respecter ces 4
+dispositions cumulatives :
+
+   •   Qu’elle soit liée à une exploitation agricole ;
+   •   Que la présence permanente de l’agriculteur soit nécessaire à l’exploitation agricole ;
+   •   Qu’elle soit implantée à 50 mètres maximum des constructions existantes de
+       l’exploitation ;
+   •   Qu'il n'y ait qu'un seul logement par exploitation.
+
+
+
+
+                            PLUi du Bazadais - Règlement écrit                                148
+               REGLES APPLICABLES A LA ZONE NATURELLE ET FORESTIERE
+
+
+
+L’extension et la réhabilitation des constructions existantes relevant de la sous-destination de
+logement, à la date d’approbation du PLUi, est autorisée dans la limite de 30% de la surface
+de plancher initiale et de 250 m² au maximum (surface de plancher totale finale). La surface
+d’extension maximale pourra être atteinte en une ou plusieurs fois pendant la durée de validité
+du PLUi.
+
+Le réaménagement et la restauration d'annexe accolée ou implantée dans le prolongement de
+la construction principale à condition qu'ils ne créent pas de nouveau logement.
+
+L'extension ou la construction d'annexes de construction, relevant de la sous-destination de
+"Logement", à la date d'approbation du PLUi sont autorisées sous réserve que :
+
+   •   Elles soient au nombre de 3 au maximum ;
+   •   Elles soient implantées à proximité de l'habitation préexistante :
+           o    Dans un rayon de 30 mètres mesurés par rapport au point le plus proche de
+                l'habitation ;
+           o    Dans un rayon de 30 mètres pour les piscines privatives mesurés par rapport
+                au point le plus proche de l'habitation ;
+           o    Dans un rayon de 50 mètres pour un équipement mutualisé (exemple piscine
+                collective pour gîte, sanitaire...), par rapport au point le plus proche de
+                l’hébergement, du gîte, ....
+   •   L’emprise au sol cumulée des annexes, hors piscine, créées à partir de la date
+       d'approbation du PLUi, ne dépasse pas 50 m² au total. La surface de création d'annexe
+       pourra être atteinte en une ou plusieurs fois pendant la durée de validité du PLUi ;
+   •   L'emprise au sol d'une piscine n'excède pas 80 m2 (bassin et plages comprises) ;
+   •   Lorsque la construction à laquelle elle se rattache est à usage d’habitation, l’annexe
+       ne peut avoir pour objet la création d’un logement indépendant supplémentaire.
+Sont autorisés :
+
+   •   Les travaux nécessaires à l’entretien et/ou à la rénovation des constructions existantes
+       dont la destination n’est pas autorisée dans la zone ;
+   •   Les installations photovoltaïques à condition qu'elles soient uniquement implantées sur
+       les toitures des constructions existantes ;
+   •   Les aménagements, les terrassements, les affouillements et exhaussements du sol à
+       condition qu'ils soient liés et nécessaires aux occupations et utilisations du sol admises
+       dans la zone.
+
+          2.2.2.   Secteur N2A
+Sont autorisés uniquement les constructions, installations et aménagements nécessaires à la
+sous-destination Autres équipements recevant du public.
+
+          2.2.3.   Secteur N3A
+Sont autorisés la construction et l'extension des constructions à destination de :
+
+
+
+
+                           PLUi du Bazadais - Règlement écrit                                149
+               REGLES APPLICABLES A LA ZONE NATURELLE ET FORESTIERE
+
+
+
+   •   Commerce et activités de service :
+           o    Artisanat et Commerce de détail
+           o    Commerce de gros
+           o    Activités de services où s’effectue l’accueil d’une clientèle
+   •   Autre activité des secteurs secondaire ou tertiaire, les sous-destination suivantes :
+           o    Industrie
+           o    Entrepôts
+           o    Bureau
+L’extension et la réhabilitation des constructions existantes relevant de la sous-destination de
+logement, à la date d’approbation du PLUi, est autorisée dans la limite de 30% de la surface
+de plancher initiale et de 250 m² au maximum (surface de plancher totale finale).
+
+L'extension ou la construction d'annexes de construction existante, relevant de la sous-
+destination de "Logement", à la date d'approbation du PLUi sont autorisées sous réserve que
+:
+
+   •   Elles soient au nombre de 3 au maximum ;
+   •   Elles soient implantées à proximité de l'habitation préexistante :
+           o    Dans un rayon de 30 mètres mesurés par rapport au point le plus proche de
+                l'habitation ;
+           o    Dans un rayon de 30 mètres pour les piscines privatives mesurés par rapport
+                au point le plus proche de l'habitation ;
+           o    Dans un rayon de 50 mètres pour un équipement mutualisé (exemple piscine
+                collective pour gîte, sanitaire...), par rapport au point le plus proche de
+                l’hébergement, du gîte, ....
+   •   L’emprise au sol cumulée des annexes, hors piscine, créées à partir de la date
+       d'approbation du PLUi, ne dépasse pas 50 m² au total. La surface de création d'annexe
+       pourra être atteinte en une ou plusieurs fois pendant la durée de validité du PLUi.
+   •   L'emprise au sol d'une piscine n'excède pas 80 m2 (bassin et plages comprises).
+Lorsque la construction à laquelle elle se rattache est à usage d’habitation, l’annexe ne peut
+avoir pour objet la création d’un logement indépendant supplémentaire.
+
+Sont autorisés sous condition :
+
+   •   Les aménagements, les terrassements, les affouillements et exhaussements du sol à
+       condition qu'ils soient liés et nécessaires aux occupations et utilisations du sol admises
+       dans le secteur ;
+   •   Les dépôts de véhicules à condition qu’ils soient liés à une activité commerciale ou de
+       service autorisée dans la zone et qu’ils n'entraînent pas de dangers, nuisances et qu’il
+       ne soit pas incompatible avec le voisinage résidentiel.
+
+
+
+
+                            PLUi du Bazadais - Règlement écrit                               150
+               REGLES APPLICABLES A LA ZONE NATURELLE ET FORESTIERE
+
+
+
+          2.2.4.    Secteur N4A
+Sont autorisés :
+
+   •   La construction et l'extension des constructions aux sous-destinations d'hébergement
+       hôtelier et touristique ainsi que les équipements liés, les autres équipements recevant
+       du public à condition de bénéficier d’une défense incendie et que :
+           o    Dans le sous-secteur N4Aa, à la date d'approbation du PLUI, la création d'une
+                surface de plancher dédiées aux sous-destinations d'hébergement hôtelier et
+                touristique, ainsi que pour les autres équipements n'excède pas 150 m2 au
+                maximum (surface de plancher totale finale), produite en une ou plusieurs fois
+                ;
+           o    Dans le sous-secteur N4Ab, à la date d'approbation du PLUI, la création d'une
+                surface de plancher dédiées aux sous-destinations d'hébergement hôtelier et
+                touristique, ainsi que pour les autres équipements n'excède pas 300 m2 au
+                maximum (surface de plancher totale finale), produite en une ou plusieurs fois
+                ;
+           o    Dans le sous-secteur N4Ac, à la date d'approbation du PLUI, la création d'une
+                surface de plancher dédiées aux sous-destinations d'hébergement hôtelier et
+                touristique, ainsi que pour les autres équipements n'excède pas 600 m2 au
+                maximum (surface de plancher totale finale), produite en une ou plusieurs fois
+                ;
+           o    Dans le sous-secteur N4Ad, à la date d'approbation du PLUI, la création d'une
+                la surface de plancher dédiées aux sous-destinations d'hébergement hôtelier
+                et touristique, ainsi que pour les autres équipements n'excède pas 800 m2 au
+                maximum (surface de plancher totale finale), produite en une ou plusieurs fois
+                ;
+   •   L’extension et la réhabilitation des constructions existantes relevant de la sous-
+       destination de logement, à la date d’approbation du PLUi, est autorisée dans la limite
+       de 30% de la surface de plancher initiale et de 250 m² au maximum (surface de
+       plancher totale finale) ;
+   •   L'extension ou la construction d'annexes de construction, relevant de la sous-
+       destination de "Logement", à la date d'approbation du PLUi sont autorisées sous
+       réserve que :
+           o    Elles soient au nombre de 3 au maximum ;
+           o    Elles soient implantées à proximité de l'habitation préexistante :
+                   §   Dans un rayon de 30 mètres mesurés par rapport au point le plus proche
+                       de l'habitation ;
+                   §   Dans un rayon de 30 mètres pour les piscines privatives mesurés par
+                       rapport au point le plus proche de l'habitation ;
+                   §   Dans un rayon de 50 mètres pour un équipement mutualisé (exemple
+                       piscine collective pour gîte, sanitaire...), par rapport au point le plus
+                       proche de l’hébergement, du gîte, ....
+
+
+
+
+                            PLUi du Bazadais - Règlement écrit                              151
+               REGLES APPLICABLES A LA ZONE NATURELLE ET FORESTIERE
+
+
+
+           o    L’emprise au sol cumulée des annexes, hors piscine, créées à partir de la date
+                d'approbation du PLUi, ne dépasse pas 50 m² au total. La surface de création
+                d'annexe pourra être atteinte en une ou plusieurs fois pendant la durée de
+                validité du PLUi.
+           o    L'emprise au sol d'une piscine n'excède pas 80 m2 (bassin et plages
+                comprises).
+           o    Lorsque la construction à laquelle elle se rattache est à usage d’habitation,
+                l’annexe ne peut avoir pour objet la création d’un logement indépendant
+                supplémentaire.
+   •   Les aménagements, les terrassements, les affouillements et exhaussements du sol à
+       condition qu'ils soient liés et nécessaires aux occupations et utilisations du sol admises
+       dans le secteur.
+
+          2.2.5.    Secteur N4B
+Sont autorisés :
+
+   •   À condition de bénéficier d’une défense incendie et de ne pas excéder à la date
+       d'approbation du PLUI, la création d'une surface de plancher totale cumulée de 1 000
+       m2 au maximum (surface de plancher totale finale), produite en une ou plusieurs fois :
+           o    Les constructions et extensions des constructions existantes nécessaires au
+                fonctionnement du camping ;
+           o    Les habitations légères de loisirs, y compris les équipements, locaux et
+                installations liés aux hébergements ;
+           o    Le stationnement des caravanes ;
+           o    La réhabilitation et le réaménagement de bâtiments existants.
+   •   La création d'un local à usage de fonction ou de gardiennage à condition qu'il soit
+       indispensable à l'activité de camping et que sa surface de plancher soit inférieure 100
+       m2 ;
+   •   Les aménagements, les terrassements, les affouillements et exhaussements du sol à
+       condition qu'ils soient liés et nécessaires aux occupations et utilisations du sol admises
+       dans le secteur.
+
+          2.2.6.    Secteur N5A
+Sont autorisés :
+
+   •   La réhabilitation, l'entretien, l'extension et la construction d'équipements d’intérêt
+       collectif et services publics, correspondants aux sous-destinations suivantes :
+           o    Locaux et bureaux accueillant du public des administrations publiques et
+                assimilés
+           o    Locaux techniques et industriels des administrations publiques et assimilés
+           o    Équipements sportifs
+           o    Autre équipement recevant du public.
+
+
+
+
+                            PLUi du Bazadais - Règlement écrit                               152
+               REGLES APPLICABLES A LA ZONE NATURELLE ET FORESTIERE
+
+
+
+   •   Les aménagements, les terrassements, les affouillements et exhaussements du sol à
+       condition qu'ils soient liés et nécessaires aux occupations et utilisations du sol admises
+       dans le secteur.
+
+          2.2.7.    Secteur N5B
+Sont autorisés :
+
+   •   La réhabilitation, l'entretien, la construction et l'extension de bâtiments nécessaires aux
+       activités sportives et parcs de loisirs, à condition :
+           o    De bénéficier d’une défense incendie ;
+           o    Qu’à la date d'approbation du PLUI, la création d'une surface de plancher
+                cumulée n'excède pas 500 m2 au maximum (surface de plancher totale finale),
+                produite en une ou plusieurs fois ;
+           o    Et qu'ils correspondant aux sous-destinations :
+                   §   Des équipements sportifs ;
+                   §   Autres équipements recevant du public, ayant notamment pour vocation
+                       les activités de loisirs.
+   •   Les aménagements, les terrassements, les affouillements et exhaussements du sol à
+       condition qu'ils soient liés et nécessaires aux occupations et utilisations du sol admises
+       dans le secteur.
+
+          2.2.8.    Secteur N5C
+Sont autorisés :
+
+   •   La réhabilitation, l'entretien, l'extension et la construction des bâtiments nécessaires
+       aux activités équestres à condition :
+           o    Bénéficier d’une défense incendie ;
+           o    À la date d'approbation du PLUI, que la création d'une surface de plancher
+                cumulée n'excède pas 1 700 m2 au maximum (surface de plancher totale
+                finale), produite en une ou plusieurs fois ;
+   •   L’extension et la réhabilitation des constructions existantes relevant de la sous-
+       destination de logement, à la date d’approbation du PLUi, est autorisée dans la limite
+       de 30% de la surface de plancher initiale et de 250 m² au maximum (surface de
+       plancher totale finale) ;
+   •   L'extension ou la construction d'annexes de construction existante, relevant de la sous-
+       destination de "Logement", à la date d'approbation du PLUi sont autorisées sous
+       réserve que :
+           o    Elles soient au nombre de 3 au maximum ;
+           o    Elles soient implantées à proximité de l'habitation préexistante :
+                   §   Dans un rayon de 30 mètres mesurés par rapport au point le plus proche
+                       de l'habitation ;
+
+
+
+
+                            PLUi du Bazadais - Règlement écrit                                153
+               REGLES APPLICABLES A LA ZONE NATURELLE ET FORESTIERE
+
+
+
+                    §   Dans un rayon de 30 mètres pour les piscines privatives mesurés par
+                        rapport au point le plus proche de l'habitation ;
+                    §   Dans un rayon de 50 mètres pour un équipement mutualisé (exemple
+                        piscine collective pour gîte, sanitaire...), par rapport au point le plus
+                        proche de l’hébergement, du gîte, ....
+           o    L’emprise au sol cumulée des annexes, hors piscine, créées à partir de la date
+                d'approbation du PLUi, ne dépasse pas 50 m² au total. La surface de création
+                d'annexe pourra être atteinte en une ou plusieurs fois pendant la durée de
+                validité du PLUi ;
+           o    L'emprise au sol d'une piscine n'excède pas 80 m2 (bassin et plages comprises)
+                ;
+           o    Lorsque la construction à laquelle elle se rattache est à usage d’habitation,
+                l’annexe ne peut avoir pour objet la création d’un logement indépendant
+                supplémentaire.
+   •   Les aménagements, les terrassements, les affouillements et exhaussements du sol à
+       condition qu'ils soient liés et nécessaires aux occupations et utilisations du sol admises
+       dans le secteur.
+
+          2.2.9.    Secteur N5D
+Sont autorisés :
+
+   •   Toutes les destinations et sous-destinations sont autorisées sous réserve d’être liée à
+       l’activité militaire du site ;
+   •   Les aménagements, les terrassements, les affouillements et exhaussements du sol à
+       condition qu'ils soient liés et nécessaires aux occupations et utilisations du sol admises
+       dans le secteur.
+
+          2.2.10.   Secteur N7D
+Sont autorisés :
+
+   •   Les constructions (abris de jardins) dans la limite de 5 m2 d'emprise au sol par parcelle
+       ;
+   •   Les aménagements, les terrassements, les affouillements et exhaussements du sol à
+       condition qu'ils soient liés et nécessaires aux occupations et utilisations du sol admises
+       dans le secteur.
+
+          2.2.11.   Secteur Ner
+Sont autorisées les constructions et installations nécessaires à la production d’électricité
+renouvelable solaire, notamment photovoltaïque, implantée au sol ou sur un plan d'eau, à
+conditions qu’elles :
+
+   •   Bénéficient d'une défense incendie permettant d'assurer la défense du site lui-même
+       et d'éviter toute propagation vers l'extérieur ;
+
+
+
+
+                             PLUi du Bazadais - Règlement écrit                              154
+                    REGLES APPLICABLES A LA ZONE NATURELLE ET FORESTIERE
+
+
+
+       •    Ne portent pas atteinte à la sauvegarde des espaces naturels et des paysages du site
+            lui-même et des espaces naturels contigus ;
+       •    Ne portent pas atteinte et ne compromettent pas l'exploitation agricole environnante ;
+       •    Permettent la réversibilité du projet et la remise en état du site, une fois l’exploitation
+            du site terminée, comprenant :
+                o    Le démantèlement de tous les éléments de la partie terrestre ;
+                o    Le démantèlement de tous les éléments de la partie flottante, à l’exception des
+                     ancrages qui peuvent rester en fond de plan d’eau en l’absence de solutions
+                     techniques économiquement acceptables lors du démantèlement ;
+            Le démantèlement de la centrale photovoltaïque doit être réalisé selon les conditions
+            réglementaires applicables lors du démantèlement.
+
+               2.2.12.     Conditions particulières relatives à la protection et à la
+                           mise en valeur du patrimoine
+Les changements de destination des patrimoines identifiés au règlement graphique en tant
+que patrimoine bâti sont autorisés après avis conforme de la CDNPS8 dans la zone N et
+doivent ;
+
+       •    Être compatible avec l'exercice d'une activité agricole, pastorale ou sylvicole du terrain
+            sur lequel ils sont implantés ;
+       •    Ne pas porter atteinte à la sauvegarde des espaces naturels et paysagers, ni à la
+            qualité paysagère du site ;
+       •    Rester dans le volume actuel du bâtiment existant ;
+       •    Le réaménagement et la restauration d'annexe accolée ou implantée dans le
+            prolongement de la construction principale à condition qu'ils ne créent pas un nouveau
+            logement ou un nouvel hébergement. Dans ce cas, il ne peut y avoir qu'une seule
+            destination pour l'ensemble du bâtiment ;
+       •    Correspondre à l'une des destinations et sous-destination suivantes :
+                o    Logement, s'il ne génère qu'un seul logement ;
+                o    Hébergement, hébergement hôtelier et touristique, restauration ;
+                o    Artisanat et commerce de détail dès lors qu'il est lié à une exploitation agricole
+                     existante (magasin de producteur) ;
+                o    Activités de services où s’effectue l’accueil d’une clientèle dès lors qu'il est lié
+                     à une exploitation agricole existante ;
+       •    Sous réserve de la démonstration de leur connexion aux différents réseaux et de
+            bénéficier d’une défense incendie.
+
+
+
+
+8
+    Commission Départementale de la Nature, des Paysages et de la Nature.
+
+
+
+
+                                     PLUi du Bazadais - Règlement écrit                             155
+             REGLES APPLICABLES A LA ZONE NATURELLE ET FORESTIERE
+
+
+
+
+3. CARACTERISTIQUES URBAINE,
+   ARCHITECTURALE, ENVIRONNEMENTALE
+   ET PAYSAGERE
+    3.1. Volumétrie et implantation des constructions
+
+          3.1.1.    Implantation des constructions par rapport aux voies et
+                    emprises publiques
+                   3.1.1.1.   Dans la zone N proprement dite, hors des secteurs N2A,
+                              N3A, N4A, N4B, N5A, N5B, N5C, N5D, N7D et Ner
+Les constructions doivent être implantées avec un recul d’au moins 10 mètres par rapport à
+l’emprise publique.
+
+Une implantation différente est autorisée pour les constructions à destination d’équipements
+d’intérêt collectif et de services publics sous condition d’une insertion harmonieuse dans le
+paysage environnant.
+
+                   3.1.1.2.   Dans les seuls secteurs N2A, N3A, N4A, N4B, N5A, N5B
+Au moins une façade des constructions nouvelles sera implantée avec un recul minimal de 5
+mètres par rapport à l’emprise publique.
+
+                   3.1.1.3.   Dans les seuls secteurs N5D et N7D
+Non règlementé.
+
+                   3.1.1.4.   Dans le secteur Ner
+Les constructions et installations devront respecter un recul minimum de :
+
+   •   30 m depuis l'emprise de voie autoroutière, de route nationale, ou de route
+       départementale ;
+   •   15 m depuis l'emprise d'une voie communale.
+
+          3.1.2.    Implantation des constructions par rapport aux limites
+                    séparatives
+                   3.1.2.1.   Dans la zone N, à l'exception du secteur Ner
+Les constructions doivent être implantées avec un retrait d’au moins 5 mètres par rapport aux
+limites séparatives.
+
+                   3.1.2.2.   Dans le secteur Ner
+Les constructions et installations devront respecter un retrait minimum de 15 m par rapport
+aux limites latérales.
+
+
+
+
+                              PLUi du Bazadais - Règlement écrit                         156
+              REGLES APPLICABLES A LA ZONE NATURELLE ET FORESTIERE
+
+
+
+           3.1.3.    Emprise au sol
+                    3.1.3.1.   Dans la zone N proprement dite, hors des secteurs N2A,
+                               N3A, N4A, N4B, N5A, N5B, N5C, N5D et N7D
+Non réglementé.
+
+                    3.1.3.2.   Dans les secteurs N2A, N3A, N4A, N4B, N5A, N5B, N5C, N5D
+                               et N7D
+
+    A.    Dispositions générales
+
+L’emprise au sol des constructions est limitée à :
+
+   •     N2A : 50 % de la surface du secteur concerné ;
+   •     N3A : 80 % de la surface du secteur concerné ;
+   •     N4A : 50 % de la surface du secteur concerné ;
+   •     N4B : 50 % de la surface du secteur concerné ;
+   •     N5A : 50 % de la surface du secteur concerné ;
+   •     N5B : 50 % de la surface du secteur concerné ;
+   •     N5C : 70 % de la surface du secteur concerné ;
+   •     N5D : Non règlementé ;
+   •     N7D : l’emprise au sol sera de 5 m² maximum par parcelle. Toutefois, dans le cadre
+         d’une opération d’ensemble de jardins partagés ou familiaux, l’emprise au sol des
+         constructions (abris de jardins) sera limitée à 5 m² par jardin.
+   •     Ner : l’emprise au sol cumulée des locaux techniques, ne peut dépasser 100 m2.
+    B.    Règles dérogatoires
+
+Les piscines (bassins et plages) seront limitées à 80 m² d’emprise au sol, excepté pour les
+hôtels, les autres hébergements touristiques et les équipements sportifs publics ou privé.
+
+           3.1.4.    Hauteur des constructions
+                    3.1.4.1.   Dans la zone N proprement dite, hors des secteurs N2A,
+                               N3A, N4A, N4B, N5A, N5B, N5C, N5D, N7D et Ner
+Pour la destination "Exploitation agricole et forestière" : la hauteur des constructions est à 10
+m à l'égout du toit ou à l’acrotère.
+
+Pour la sous-destination "Logement " :
+
+   •     La hauteur des nouvelles constructions à usage d'habitation est limitée à 7 mètres
+         maximum à l'égout du toit ou à l’acrotère ;
+   •     La hauteur de l’extension d’une construction existante à la date d’approbation du PLUi
+         est limitée à la hauteur de la construction existante.
+
+
+
+
+                               PLUi du Bazadais - Règlement écrit                            157
+                   REGLES APPLICABLES A LA ZONE NATURELLE ET FORESTIERE
+
+
+
+                                3.1.4.1.   Dans les secteurs N2A, N3A, N4A, N4B, N5A, N5B,
+                                           N5C, N5D, N7D et Ner
+
+    A.    Dispositions générales
+
+La hauteur maximale des nouvelles constructions est fixée à :
+
+   •     N2A : 4 m à l’égout du toit ou à l’acrotère ;
+   •     N3A : 12 m à l’égout du toit ou à l’acrotère ;
+   •     N4A : 7 m à l’égout du toit ou à l’acrotère ;
+   •     N4B : 8 m à l’égout du toit ou à l’acrotère ;
+   •     N5A : 12 m à l’égout du toit ou à l’acrotère ;
+   •     N5B : 7 m à l’égout du toit ou à l’acrotère ;
+   •     N5C : 12 m à l’égout du toit ou à l’acrotère ;
+   •     N5D : Non règlementé ;
+   •     N7D : 2 m à l’égout du toit ou à l’acrotère, et 3 m au faîtage ;
+   •     Ner : 3 m à l’égout du toit ou à l’acrotère.
+
+
+    B.    Dispositions spécifiques
+
+            i. Pour la sous-destination "Logement " :
+   •     La hauteur des nouvelles constructions à usage d'habitation est limitée à 7 mètres
+         maximum à l'égout du toit ou à l’acrotère ;
+   •     La hauteur de l’extension d’une construction existante à la date d’approbation du PLUi
+         est limitée à la hauteur de la construction existante.
+
+            ii.     Pour mesurer la hauteur des hébergements atypiques
+La mesure de la hauteur des hébergements atypiques réalisée sous forme de cabanes dans
+les arbres ou de cabanes sur pilotis sera calculée par le différentiel d'altimétrie entre le niveau
+du seuil et le point haut de la construction (faîtage si toiture à pente ou acrotère si toiture
+terrasse).
+
+            iii.    Pour les nouvelles constructions
+Les nouvelles constructions devront respecter un recul de 12 m par rapport à la présence d'un
+EBC ou de tout boisement mitoyen ayant les caractéristiques d'un espace boisé (voir lexique).
+
+            iv.     Pour le secteur Ner
+Les constructions et installations devront respecter un recul minimum de :
+
+   •     50 m par rapport à un siège d'exploitation agricole ;
+   •     100 m par rapport à un logement ;
+   •     150 m par rapport à une zone urbaine ou à urbaniser quelle que soit sa vocation.
+
+
+
+
+                                 PLUi du Bazadais - Règlement écrit                            158
+             REGLES APPLICABLES A LA ZONE NATURELLE ET FORESTIERE
+
+
+
+    C.   Règles dérogatoires
+
+Lorsqu'une construction existante sur la parcelle, régulièrement édifiée, dépasse la hauteur de
+façade maximale, celle-ci pourra néanmoins être dépassée pour les extensions et travaux de
+réhabilitation qui pourront disposer d'une hauteur de façade équivalente, sans toutefois la
+dépasser.
+
+
+    3.2. Qualité urbaine, architecturale, environnementale et
+         paysagère
+
+          3.2.1.    Règles générales
+Se référer aux dispositions communes applicables à toutes les zones.
+
+          3.2.2.    Bâtiments agricoles et hangar pour exploitation forestière
+                   3.2.2.1.   Façades
+Les matériaux nus destinés à être recouverts sont interdits.
+
+L’emploi de matériaux devra être conforme aux couleurs du nuancier (annexe).
+
+                   3.2.2.2.   Toitures
+Les toitures des nouvelles constructions à usage agricole devront comporter deux pentes
+égales ou au moins équivalentes à 1/3 – 2/3.
+
+En cas d’emploi de tôles métalliques, celles-ci doivent être traitées afin de masquer leur aspect
+brillant.
+
+L’emploi de matériaux de teinte claire est interdit.
+
+Les toitures en pentes devront comprendre un débord d'au moins 30 cm au minimum.
+
+          3.2.3.    Règles dérogatoires
+Ces dispositions ne s'appliquent pas aux secteurs N5D et N7D.
+
+          3.2.4.    Secteur Ner
+Une clôture ceinturant chaque site exploité est obligatoire. Celle-ci sera positionnée dans les
+bandes de retrait imposées.
+
+La hauteur de la clôture doit être au moins de 2m, en matériaux résistants et de coloris vert
+foncé (de type RAL 6002) afin de permettre une bonne intégration paysagère. La clôture doit
+être en maille grillagée, perméable à la petite faune et hydrauliquement transparente.
+
+Les postes électriques doivent être de coloris vert foncé (de type RAL 6002) afin de permettre
+une bonne insertion paysagère.
+
+
+
+
+                              PLUi du Bazadais - Règlement écrit                             159
+             REGLES APPLICABLES A LA ZONE NATURELLE ET FORESTIERE
+
+
+
+    3.3. Traitement environnemental et paysager des
+         espaces non bâtis et abords des constructions
+
+          3.3.1.    Traitement des espaces libres
+                   3.3.1.1.   Dispositions générales
+Les espaces libres de toute construction doivent être aménagés selon une composition
+paysagère soignée, adaptée à l’échelle du terrain et participant à l’amélioration du cadre de
+vie, à la gestion de l’eau pluviale et au maintien d’espaces fonctionnels pour la biodiversité.
+
+Un traitement perméable des voiries, des dessertes et des aires de stationnement doit être
+privilégié (sablage, dallage, pavage …) aux bitumes et enrobés.
+
+Si des affouillements/exhaussements sont nécessaires, ces derniers devront être végétalisés
+de manière à limiter leur impact paysager. Les enrochements visibles seront limités au
+maximum.
+
+En cas de constructions volumineuses, il est fait obligation de mettre en place des plantations
+afin d'atténuer l'impact de la construction sur son environnement.
+
+                   3.3.1.2.   Règles dérogatoires
+Ces dispositions ne s'appliquent pas aux secteurs N5D et N7D.
+
+          3.3.2.    Traitement des sites d'implantation des hébergements
+                    touristiques isolés ou groupées
+L'objectif est d’offrir la vue sur la beauté du paysage sans s’imposer à la vue collective et nuire
+à l’harmonie des lieux.
+
+Il s'agit de chercher des solutions pour permettre l’insertion des différents hébergements dans
+le site, en prenant en compte les perceptions depuis l’extérieur vers le site d'implantation et
+celles depuis l’intérieur.
+
+Il ne s’agit pas de cacher ou « d’effacer » les différents hébergements du paysage mais de
+rétablir ou préserver un équilibre d’ensemble en travaillant sur plusieurs aspects de la
+perception et l'intégration visuelle des bâtis :
+
+   •   Assurer une continuité dans les modelés, limiter au maximum les terrassements ;
+   •   Assurer une continuité de la végétation : la végétation du site doit entrer dans le site
+       d'implantation et se poursuivre au-delà ;
+   •   Rechercher des formes d’hébergement ou de bâti qui évoquent le patrimoine bâti
+       vernaculaire ou à l’inverse retenir une expression architecturale contemporaine
+       minimaliste qui se « fond » dans l’environnement ;
+   •   L'organisation et la distribution du bâti doit éviter d'être trop ordonnancée, rectiligne,
+       ou dense surtout lorsque le site est visible depuis l'extérieur et qu'il n'y a pas de
+       végétation pour atténuer leur visibilité. Il convient de préférer une organisation plus
+
+
+
+
+                              PLUi du Bazadais - Règlement écrit                               160
+             REGLES APPLICABLES A LA ZONE NATURELLE ET FORESTIERE
+
+
+
+       discrète, parfois plus dispersée capable de se fondre dans le paysage, le relief et dans
+       le végétal ;
+   •   Rechercher des matériaux qui font « sens » avec le lieu ;
+   •   Observer la palette des couleurs présentes dans le site classé et s’en inspirer ;
+   •   Valoriser les vues depuis le site d'implantation sur le site.
+
+          3.3.3.    Traitements du secteur Ner
+                   3.3.3.1.   Traitement paysager
+Le parc ne devra être situé en co-visibilité ni avec le domaine public ni avec un logement ou
+siège d’exploitation situé à moins de 200 m de l’emprise de ce dernier.
+
+En cas de co-visibilité, des plantations devront être réalisées en limite extérieure du site pour
+masquer/occulter totalement le parc. Selon le contexte paysager et forestier environnant, il
+pourra être planté :
+
+   •   soit une bande d’arbres de type feuillus sur une largeur de 5 m ;
+   •   soit d’une haie arbustive composée d'essences locales à feuillage persistant d'une
+       épaisseur minimale de 2 m et dont la hauteur atteindra 2 m ou plus.
+
+Pour des motifs écologiques, le maintien d'une végétation déjà existante et suffisamment
+épaisse pour permettre l'occultation du parc à partir des points de vue extérieurs peut satisfaire
+à l'obligation de gérer les co-visibilités. Des plantations complémentaires pourront être
+réalisées sur les seules parties du parc encore visibles depuis le domaine public ou le
+voisinage dans les limites des distances évoquées ci-avant.
+
+Pour limiter le risque d’inflammation et de propagation d’un incendie du parc photovoltaïque
+vers son environnement extérieur et inversement, des ruptures de continuité de ce couvert
+végétal devront être aménagées.
+
+Ces plantations devront être compatibles avec les prescriptions et recommandations fixées
+par le service de défense incendie.
+
+                   3.3.3.2.   Traitement environnemental
+Les postes électriques contenant un transformateur à huile doivent disposer de cuves de
+rétention étanche, afin d’éviter toute pollution des eaux superficielles et des sols en cas de
+fuite d’huile. Le dimensionnement de la rétention pour chaque poste de transformation devra
+permettre la récupération de l’ensemble du volume d’huile stocké.
+
+L'ensemble des pistes et accès aménagés pour la circulation des véhicules, à l'intérieur ou à
+l'extérieur du site, devront être constitués en matériaux perméables afin de permettre
+l'infiltration des eaux pluviales.
+
+Après la réalisation des aménagements du parc, le site pourra être laissé à un ré-enherbement
+naturel.
+
+L'entretien pluriannuel du couvert végétal du site lui-même, des plantations de masquage
+périmétrique (haie ou boisements) est une obligation. De même, le débroussaillement sur une
+
+
+
+
+                              PLUi du Bazadais - Règlement écrit                              161
+              REGLES APPLICABLES A LA ZONE NATURELLE ET FORESTIERE
+
+
+
+largeur de 50 m de profondeur depuis la clôture et sur 5 m de part et d'autre des voies d'accès
+devra être assuré annuellement.
+
+Suite au démantèlement du parc :
+
+    •   Toutes les fondations des constructions et des installations réalisées seront enlevées
+        et évacuées ;
+    •   L'ensemble des câblages seront enlevés et leurs tranchées comblées afin de restituer
+        un sol sans déchet d'exploitation enfouis ;
+    •   Il est imposé de reconstituer le couvert végétal présent avant l'aménagement du site.
+
+
+    3.4. Stationnement
+                   3.4.1.1.   Dispositions générales
+Le stationnement des véhicules correspondant aux besoins des constructions ou installations
+doit être assuré en dehors des voies publiques sur des emplacements aménagés.
+
+                   3.4.1.2.   Règles dérogatoires
+Ces dispositions ne s'appliquent pas aux secteurs N5D et N7D.
+
+
+    3.5. Équipements et réseaux
+
+          3.5.1.    Dans le seul secteur Ner
+L'ensemble des voies d'accès et piste de circulation auront une dimension d'au moins 5 m de
+largeur, afin de permettre la circulation des véhicules, du matériel de lutte contre l’incendie et
+des services de sécurité. Elles pourront s'accompagner de bandes de roulement maintenue à
+la terre de part et d'autre de ces voies. Toutefois lorsque les conditions techniques et la
+configuration du site l'imposent, cette largeur pourra être réduite à un minimum de 3,5 m sous
+réserve de l'accord du service de défense incendie.
+
+Chaque site devra respecter les normes incendie en vigueur au moment de l'implantation du
+parc.
+
+Il est nécessaire de prévoir l'accessibilité autour et à l'intérieur du parc :
+
+    •   Une piste périmétrale extérieure tout autour et à l'extérieur de l'enceinte afin de créer
+        un bouclage complet du site ;
+    •   Une piste périmétrale intérieure, le long de la clôture du parc ;
+    •   Une voie principale pour circuler entre les différents îlots ;
+    •   Des voies secondaires pour accéder notamment à chaque infrastructure et équipement
+        du parc (locaux onduleurs, transformateurs, poste de livraison, locaux techniques).
+Les points d'eau et les pistes doivent être maintenus en état opérationnel jusqu'au
+démantèlement de la centrale photovoltaïque.
+
+
+
+
+                              PLUi du Bazadais - Règlement écrit                              162
+           REGLES APPLICABLES A LA ZONE NATURELLE ET FORESTIERE
+
+
+
+Lorsque c'est techniquement possible, tous les câblages électriques de liaison et de
+raccordement doivent être enfouis. Le raccordement au réseau public se fera par câble
+enterré.
+
+
+
+
+                        PLUi du Bazadais - Règlement écrit                       163
+                    TerrenUrbanisme
+
+    Merci de votre confiance
+Ce rapport a été établi à partir des sources publiques officielles pour vous
+  aider à décider en connaissance de cause. Pour toute question, nous
+                        restons à votre disposition.
+
+
+
+
+   Vous êtes professionnel ? Travaillons ensemble
+      Agents immobiliers, notaires, architectes, géomètres, diagnostiqueurs,
+promoteurs, mairies : faisons équipe. Crédits professionnels sans abonnement, 5
+€ le rapport dès 50 crédits, votre logo sur les rapports, offre communale pour les
+                       mairies et partenariats sur mesure.
+
+               Écrivez-nous : contact@terrenurbanisme.com
+
+
+
+
+                        terrenurbanisme.com
+                         contact@terrenurbanisme.com
+

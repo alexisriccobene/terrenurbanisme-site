@@ -1,0 +1,3147 @@
+                  TerrenUrbanisme
+                  Le terrain constructible, partout en France
+
+
+
+
+RAPPORT D'URBANISME
+
+
+
+La Roche-sur-Yon
+Section BT · Parcelle n° 62
+      Constructible
+
+
+
+
+Référence cadastrale                                                        Surface cadastrale
+85191000BT0062                                                              466 m²
+
+Rapport établi le                                                           Référence du rapport
+20/11/2026                                                                  APERCU
+
+
+
+
+terrenurbanisme.com                                                                      contact@terrenurbanisme.com
+
+Document d'information sans valeur contractuelle ni réglementaire. Il ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme
+et ne peut en aucun cas être joint à une demande de permis de construire ou de déclaration préalable. Seuls les actes de l'administration font foi.
+                                                                                                                           La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                                                       Sommaire
+
+
+
+
+Sommaire
+Le rapport suit l'ordre d'une étude de terrain : où se trouve la parcelle, ce que dit la règle, ce qui pèse sur le
+projet, puis les démarches.
+
+              Synthèse
+   S                                                                                                                                          p. 3
+              Le verdict, les indicateurs clés et les points d'attention en une page.
+
+              Identification de la parcelle
+   01                                                                                                                                         p. 4
+              Localisation, surface, références cadastrales et voisinage du terrain.
+
+              Règles d'urbanisme applicables
+  02                                                                                                                                          p. 7
+              Document d'urbanisme, zone du terrain, prescriptions et servitudes.
+
+              Ce que vous pouvez construire
+  03                                                                                                                                          p. 9
+              Surface constructible, hauteur, reculs, aspect et usages autorisés.
+
+              Loi Littoral et loi Montagne
+  04                                                                                                                                         p. 19
+              Les lois qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+              Risques naturels et technologiques
+  05                                                                                                                                        p. 20
+              Inondation, feu de forêt, argiles, catastrophes naturelles et sites pollués.
+
+              Le terrain : accès, relief et réseaux
+  06                                                                                                                                        p. 23
+              Accès, pente, ensoleillement, eaux usées, électricité, eau et fibre.
+
+              Environnement et marché immobilier
+  07                                                                                                                                        p. 30
+              Espaces naturels, espèces protégées et ventes immobilières alentour.
+
+              Historique du site
+  08                                                                                                                                        p. 34
+              Le terrain vu du ciel au fil des années et les permis accordés autour.
+
+              Opportunités autour du terrain
+  09                                                                                                                                        p. 36
+              Grands terrains peu bâtis et logements énergivores à proximité.
+
+              Votre projet, étape par étape
+   10                                                                                                                                       p. 38
+              De l'achat aux impôts : démarches, délais, coûts, contacts et taxe.
+
+              État des risques (ERP) pré-rempli
+   11                                                                                                                                       p. 42
+              Le formulaire réglementaire à remettre à l'acquéreur, pré-rempli.
+
+              Avertissement et sources
+   12                                                                                                                                       p. 44
+              La portée de ce rapport et les sources publiques consultées.
+
+              Annexe : règlement de la zone
+   A                                                                                                                                        p. 47
+              Les pages officielles du règlement de la zone, telles qu'approuvées.
+
+
+
+
+Astuce : cliquez sur un chapitre pour y accéder directement.
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        2 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                                                               Synthèse
+
+
+
+
+Synthèse
+     Document d'information. Ce rapport ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme,
+     n'engage pas l'administration et ne peut pas servir de pièce à une demande de permis de construire.
+     L'appréciation ci-dessous est indicative : seule la mairie se prononce sur la constructibilité d'un terrain,
+     au vu d'un projet précis.
+
+
+
+
+       CONSTRUCTIBLE
+
+       Le PLU autorise la construction
+       La parcelle est classée en zone UB (urbaine) du plan local d'urbanisme de La
+       Roche-sur-Yon. Les constructions y sont admises dans le respect du règlement de la
+       zone.
+
+
+
+
+      Zone principale                                        Document d'urbanisme                                  Loi Littoral
+
+   UB · 100 %                                             PLU                                                    Ne s'applique pas
+
+
+
+
+      Loi Montagne                                           Risques à la parcelle
+
+   Ne s'applique pas                                      Inondation · Remontée de
+                                                          nappe (+3)
+
+
+
+
+Points d'attention
+    Zone UB (100 % de la parcelle) : constructible.
+    Retrait-gonflement des argiles (exposition moyenne) : en cas de vente d'un terrain non bâti
+    constructible, le vendeur doit fournir une étude géotechnique préalable (loi ELAN, article L. 132-5 du
+    Code de la construction et de l'habitation) ; une étude géotechnique de conception est exigée avant
+    de construire.
+    Pollution des sols : concerné à l'adresse de la parcelle (voir le chapitre « Risques naturels et
+    technologiques »).
+    19 arrêtés de catastrophe naturelle sur la commune.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                               3 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+    01             Identification de la parcelle
+     DANS CETTE SECTION
+
+     Où se trouve le terrain, sa surface, ses références cadastrales, son propriétaire lorsqu'il s'agit
+     d'une société ou d'une collectivité, et la performance énergétique du bâti existant.
+
+
+Données du cadastre (DGFiP) et de l'IGN.
+
+
+     Plan de situation
+
+
+
+
+                                                                                                                            1 km
+
+
+
+Plan IGN · © IGN
+
+
+
+     Vue aérienne et plan cadastral
+
+
+
+
+                                                                                                                                     25 m
+
+
+
+Photographie aérienne et plan cadastral · © IGN
+
+
+Commune                                                  La Roche-sur-Yon (85191)
+
+Département                                              Vendée (85)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          4 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+Section et numéro                                        Section BT, parcelle n° 62, feuille 1
+
+Identifiant cadastral                                    85191000BT0062
+
+Surface cadastrale                                       466 m²
+
+Surface calculée (SIG)                                   446 m² · périmètre 88 m
+
+Coordonnées du centre                                    46.66584 N, 1.41617 O (WGS 84)
+
+Altitude                                                 de 62 à 64 m
+
+Pente estimée                                            6 % (pente modérée)
+
+Parcelles voisines                                       BT 115, BT 123, BT 124, BT 59, BT 60, BT 61
+
+
+Le plan cadastral est un document fiscal : il ne fait pas foi des limites de propriété. Seul un bornage réalisé par un
+géomètre-expert fixe les limites de manière certaine.
+
+
+1.1 Propriétaire et voisinage
+La parcelle ne figure pas au fichier des personnes morales : son propriétaire est vraisemblablement un
+particulier. Le nom des propriétaires particuliers n'est pas public ; il peut être demandé au service des impôts
+fonciers (relevé de propriété) ou obtenu par l'intermédiaire d'un notaire.
+
+Parcelles voisines détenues par des sociétés ou des collectivités
+  PARCELLE              PROPRIÉTAIRE                                                                     SURFACE            SIREN
+
+  BT 115                SECTION DU LOT ST JOSEPH (COLL)                                                  1 355 m²           –
+
+
+
+Principaux propriétaires personnes morales dans un rayon de 280 m
+  PROPRIÉTAIRE                                                              PARCELLES             SURFACE TOTALE            SIREN
+
+  CAISSE PRIMAIRE ASS MALADIE VENDEE (ASS)                                  7                     30 205 m²                 786448027
+
+  DEPARTEMENT DE VENDEE (DEPT)                                              11                    23 268 m²                 228500013
+
+  SERVICE EXTERIEUR DE L EQUIPEMENT (AUPM)                                  11                    17 492 m²                 –
+
+  CHD LA ROCHE SUR YON LUCON MONTAIGU                                       1                     7 308 m²                  268502424
+  (HOSP)
+
+  KPMG (SA)                                                                 2                     2 727 m²                  775726417
+
+  ORYON (SA)                                                                2                     2 636 m²                  547050146
+
+  PODELIHA - ENTREPRISE SOCIALE POUR                                        1                     2 263 m²                  057201139
+  L'HABITAT - SOCIETE ANONY (SA)
+
+  SECTION DU LOT ST JOSEPH (COLL)                                           1                     1 615 m²                  –
+
+
+
+Source : fichiers des parcelles des personnes morales (DGFiP) : sociétés, SCI, collectivités, établissements publics et associations.
+Les propriétaires personnes physiques n'y figurent pas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          5 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+1.2 Bâti existant : diagnostics de performance énergétique
+  DATE                  LOGEMENT                SURFACE             ÉNERGIE          CLIMAT          ADRESSE
+
+  18/01/2022            Appartement             66 m²               E                E               9 Rue Laplace 85000 La Roche-sur-Yon
+
+
+
+Source : ADEME, diagnostics établis depuis juillet 2021 et géolocalisés à l'adresse. Un diagnostic se rapporte à un logement précis
+et reste valable dix ans.
+
+
+1.3 La commune de La Roche-sur-Yon
+Code postal                                              85000
+
+Département                                              Vendée (85)
+
+Intercommunalité                                         CA La Roche-sur-Yon - Agglomération
+
+Population                                               54 849 habitants
+
+Superficie                                               87,99 km²
+
+Densité                                                  623 habitants par km²
+
+Commune littorale                                        Non
+
+Commune de montagne                                      Non
+
+Document d'urbanisme                                     Plan local d'urbanisme (PLU)
+
+Risques sur la commune                                   19 arrêtés de catastrophe naturelle · détail en section Risques et en
+                                                         annexe
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          6 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+    02             Règles d'urbanisme applicables
+     DANS CETTE SECTION
+
+     Le document d'urbanisme de la commune, la zone dans laquelle se trouve le terrain, et les
+     prescriptions et servitudes qui s'y ajoutent.
+
+
+Géoportail de l'Urbanisme : zonage, prescriptions et servitudes.
+
+
+
+2.1 Document d'urbanisme en vigueur
+Type de document                                         Plan local d'urbanisme (PLU)
+
+Date d'approbation                                       Non renseigné
+
+Statut                                                   Publié au Géoportail de l'Urbanisme
+
+Règlement officiel                                       Ouvrir la page officielle
+
+
+
+     Plan de zonage du PLU
+
+
+
+
+                                                                              UB
+
+
+
+
+                                                                                                                           50 m
+
+
+
+Zonage : Géoportail de l'Urbanisme · fond : © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        7 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.2 Zonage de la parcelle
+  ZONE                  DÉSIGNATION                                                         PART               CONSTRUCTIBILITÉ
+
+  UB                    UB - Zone urbaine mixte                                             100 %              Constructible
+
+
+
+Zone UB · Urbaine
+Zone urbaine : secteur déjà urbanisé où les équipements publics existants ou en cours de réalisation
+permettent d'accueillir des constructions. Les constructions y sont admises dans le respect du règlement de la
+zone (destinations, implantation, hauteur, emprise, aspect).
+
+
+2.3 Prescriptions applicables à la parcelle
+  PRESCRIPTION                                                                                       TYPE
+
+  OAP TVBN                                                                                           Prescription du PLU (type 18)
+
+
+
+
+2.4 Informations complémentaires du PLU
+  INFORMATION                                                                                        TYPE
+
+  DPU Agglo                                                                                          Information du PLU (type 04)
+
+  Taxe d'aménagement communale 5%                                                                    Information du PLU (type 32)
+
+
+
+
+2.5 Servitudes d'utilité publique
+Aucune servitude d'utilité publique numérisée n'est recensée sur la parcelle au Géoportail de l'Urbanisme. Les
+servitudes non encore numérisées figurent en annexe du PLU.
+
+
+2.6 Patrimoine : l'architecte des Bâtiments de France
+Aucun site patrimonial remarquable, site classé ou inscrit, ni monument historique à moins de 500 m n'est
+recensé : l'avis de l'architecte des Bâtiments de France n'est pas requis au titre du patrimoine.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        8 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    03             Ce que vous pouvez construire
+     DANS CETTE SECTION
+
+     La lecture du règlement de votre zone : surface constructible estimée, hauteur, reculs, aspect,
+     usages autorisés ou interdits, avec les extraits du texte officiel.
+
+
+Lecture du règlement écrit de la zone UB, pages 36 à 47 du règlement officiel.
+
+
+
+3.1 Potentiel constructible estimé
+     En clair : le règlement de la zone ne fixe pas de surface maximale au sol. La construction doit
+     seulement rester dans la zone d'implantation, en retrait des limites et des voies, avec une hauteur de 3
+     m au plus (3 niveaux environ). Cette zone de 323 m² n'est pas une surface à construire : c'est l'espace à
+     l'intérieur duquel la maison doit se placer. Une maison de 122 m² au sol, soit environ 104 m² habitables,
+     y trouve sa place, comme le montre l'étude d'implantation ci-dessous.
+
+
+
+Surface du terrain                                       466 m²
+
+Zone d'implantation possible                             323 m² après reculs (1,5 m des limites)
+
+Emprise au sol maximale                                  Non fixée par le règlement
+
+Maison étudiée (exemple)                                 122 m² au sol, environ 104 m² habitables
+
+Hauteur maximale                                         3 m, soit 3 niveaux environ
+
+
+
+     Zone d'implantation possible (estimation)
+
+
+
+
+                                                                                                                                   25 m
+
+
+
+En vert : partie du terrain hors reculs réglementaires · fond © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        9 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.2 Étude d'implantation indicative
+
+     Implantation d'une maison de plain-pied (esquisse)
+
+
+
+
+                                                                                                                                   25 m
+
+
+
+En rouge : la maison · en orange : une piscine de 8 × 4 m · en vert : zone constructible · fond © IGN
+
+
+Maison proposée                                          Maison de plain-pied de 13,5 × 9 m
+
+Emprise au sol                                           122 m²
+
+Surface habitable indicative                             environ 104 m²
+
+Façade principale                                        orientée sud-ouest
+
+Distance à la voie                                       environ 11 m
+
+Distance minimale aux limites                            2m
+
+Piscine de 8 × 4 m                                       possible dans la zone constructible
+
+Taxe d'aménagement estimée                               environ 3 610 € (résidence principale)
+
+
+Esquisse automatique : la maison est placée dans la zone constructible, au plus près de la voie, en dégageant le jardin vers
+le sud, sans tenir compte des constructions existantes ni de la végétation. Elle ne remplace pas l'étude d'un architecte,
+obligatoire au-delà de 150 m² de surface de plancher, ni la vérification des règles d'aspect, de stationnement, de pente et
+d'assainissement.
+
+Estimation théorique établie à partir des règles chiffrées du règlement (reculs, emprise, hauteur) et de la géométrie
+cadastrale. Elle ne tient pas compte des servitudes, des risques, de la pente, des règles de stationnement et d'aspect, ni
+des dispositions particulières : seul un architecte ou un géomètre peut confirmer le potentiel réel.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        10 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.3 Caractère de la zone
+La zone UB est une zone urbaine mixte à vocation principale d'habitat. Elle couvre les secteurs
+d'extension du centre historique et les bourgs anciens du Bourg-sous-la-Roche et de Saint-André
+d'Ornay. On y trouve des maisons de faubourg, de l'habitat diffus, des lotissements pavillonnaires, des
+opérations groupées et des quartiers d'habitat mixte. Elle peut accueillir des activités compatibles avec
+l'habitat et des équipements publics. Les nouvelles implantations commerciales ne sont admises qu'en
+secteur UBc, qui n'est pas la zone étudiée. La zone est très partiellement concernée par la zone
+inondable de la vallée de l'Yon et par les servitudes liées aux canalisations GRTgaz (I3). Elle fait l'objet
+d'orientations d'aménagement et de programmation (OAP), et une partie est couverte par le Site
+Patrimonial Remarquable (SPR), dont le règlement s'applique alors en complément.
+
+
+3.4 Règles de construction
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                  ARTICLE
+
+  Surface minimale ou                          Non précisé dans le règlement de la zone. Un assainissement                       Zone UB, I et
+  caractéristiques du terrain                  non collectif impose que la configuration et la dimension du                      dispositions
+                                               terrain permettent le dispositif (dispositions communes).                         communes
+                                                                                                                                 (Équipements
+                                                                                                                                 et réseaux)
+
+  Accès et voirie                              Tout terrain doit avoir accès à une voie ou à un chemin public                    Dispositions
+                                               ou privé, directement ou par un passage aménagé sur fonds                         communes -
+                                               voisin. La largeur des accès doit être proportionnée aux                          Équipements et
+                                               besoins et respecter les exigences de sécurité, de défense                        réseaux, 1 ;
+                                               contre l'incendie et de protection civile. Les impasses doivent                   annexe p. 123
+                                               permettre la circulation des véhicules privés, l'intervention des
+                                               services publics et l'enlèvement des ordures ménagères. La
+                                               création de nouveaux accès est interdite sur la RD 160, l'A87, la
+                                               RD 948 (section indiquée), les voies d'échanges et les voiries
+                                               primaires. Aucun accès véhicule n'est autorisé sur les voies de
+                                               la liste annexée (impasse Joseph Guillemot, rue Friedland,
+                                               boulevards d'Eylau, Stéphane Moreau, Antoine Tortat, Léon
+                                               Martin, rue Auguste Murail).
+
+  Réseaux et assainissement                    Raccordement obligatoire au réseau public d'assainissement                        Dispositions
+                                               lorsqu'il existe (relevage en cas d'impossibilité gravitaire). En                 communes -
+                                               l'absence de réseau, un dispositif individuel doit être réalisable                Équipements et
+                                               (étude de filière à la parcelle, dispositif pouvant être mis hors                 réseaux, 2
+                                               circuit pour raccordement ultérieur). Eau potable : alimentation
+                                               obligatoire. Eaux pluviales : rétention à la parcelle à privilégier,
+                                               débit de rejet limité à 3 l/s/ha. Réseaux enterrés sur domaine
+                                               privé. Fibre optique obligatoire. Défense incendie obligatoire.
+                                               Stockage des conteneurs de déchets dans l'unité foncière.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        11 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                  ARTICLE
+
+  Implantation par rapport                     En l'absence d'alignement bâti imposé au plan de zonage (liste                    II.1 Volumétrie
+  aux voies                                    des rues p. 121), les constructions nouvelles sont implantées                     et implantation
+                                               entre 0 et 10 m de l'alignement des voies publiques ou privées.                   (p. 40-41)
+                                               Les extensions, annexes non accolées et piscines ne sont pas
+                                               concernées. Dérogation possible pour une construction en
+                                               second rideau. En bordure de voie ferrée, aucune construction
+                                               autre qu'un mur de clôture à moins de 2 m de la limite légale du
+                                               chemin de fer. Au sein du SPR, se reporter à la fiche «
+                                               implantations » du règlement du SPR. Toute construction est
+                                               interdite à moins de 6 m du mur d'enceinte des établissements
+                                               pénitentiaires. Pour les parcelles bordées par plusieurs voies,
+                                               seule la limite comportant l'accès principal est concernée par
+                                               l'alignement.
+
+  Implantation par rapport                     Règle générale : implantation libre des constructions et des                      II.1 Volumétrie
+  aux limites séparatives                      annexes non accolées. Pour les constructions en second                            et implantation
+                                               rideau : en limite ou en retrait jusqu'à R+1 ; en retrait au-delà de              (p. 41-42)
+                                               R+1, avec L >= H/2. Dérogation à la règle de retrait pour une
+                                               réhabilitation avec isolation par l'extérieur, récupération des
+                                               eaux de pluie ou production d'énergie renouvelable. Les
+                                               bassins de piscine sont implantés en retrait des limites
+                                               séparatives. En cas de réaménagement de tout ou partie d'un
+                                               îlot, implantation libre.
+
+  Implantation des                             Non précisé dans le règlement de la zone.                                         Zone UB, II.1
+  constructions entre elles
+
+  Emprise au sol                               Non réglementé (hors annexes). Annexes non accolées (hors                         II.1 Densité (p.
+                                               piscines) : emprise au sol cumulée inférieure ou égale à 40 m².                   43)
+                                               Les espaces de stationnement des vélos exigés par la
+                                               réglementation ne comptent pas dans cette limite.
+
+  Hauteur maximale                             Hauteur mesurée à partir du terrain naturel avant travaux                         II.1 Hauteur (p.
+                                               (terrain naturel moyen en cas de pente). Hors SPR :                               42-43)
+                                               R+2+combles ou attique. Jusqu'à R+4+attique (hauteur
+                                               absolue 20 m) sur des unités foncières d'au moins 1 000 m².
+                                               Secteur de La Marronnière (périmètre d'OAP) : jusqu'à
+                                               R+5+attique sur des unités foncières d'au moins 1 000 m².
+                                               Secteur Sully (périmètre d'OAP) : hauteur non réglementée.
+                                               Dans les 50 m autour de l'établissement pénitentiaire : R+2
+                                               maximum. Dans le SPR : hauteur limitée par le plan des
+                                               secteurs de hauteurs homogènes. Annexes non accolées : 4 m
+                                               au faîtage ou 3 m à l'égout du toit. Les règles de hauteur ne
+                                               s'appliquent pas aux équipements d'intérêt collectif ni aux
+                                               ouvrages d'énergie.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         12 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                  ARTICLE
+
+  Aspect extérieur et toitures                 Les constructions ne doivent pas porter atteinte au caractère                     II.2 (p. 43-44)
+                                               ou à l'intérêt des lieux environnants ; l'architecture                            et dispositions
+                                               contemporaine est autorisée. Les travaux sur bâtiments                            communes (p.
+                                               existants ne doivent pas porter atteinte à leur qualité                           18)
+                                               architecturale initiale. Façades et pignons aveugles des
+                                               constructions d'angle interdits à l'alignement des voies et
+                                               emprises publiques. Autour de l'établissement pénitentiaire (50
+                                               m), les pignons et façades ayant vue sur le mur d'enceinte
+                                               doivent être aveugles. Dispositifs d'énergies renouvelables
+                                               autorisés en saillie des toitures s'ils s'insèrent
+                                               harmonieusement. Antennes et paraboles non visibles de
+                                               l'espace public si possible ; équipements techniques en façade
+                                               sur rue masqués ; coffrets et transformateurs intégrés.
+
+  Matériaux et couleurs                        L'emploi brut, en parement extérieur, de matériaux fabriqués                      II.2 Intégration
+                                               en vue d'être recouverts d'un enduit ou d'un bardage est                          architecturale
+                                               interdit. Pas d'autre règle de couleur dans la zone.                              (p. 43)
+
+  Clôtures                                     Végétalisation à privilégier pour la circulation de la petite                     II.3 Clôtures (p.
+                                               faune. Bâches interdites. Clôture défensive de 2 m préconisée                     44)
+                                               en bordure de voie ferrée. En limite des zones A et N : clôture
+                                               végétalisée, doublée éventuellement d'un grillage de 1,80 m
+                                               maximum. Haies composées de plusieurs essences, de
+                                               préférence locales ; espèces invasives interdites. Sur rue
+                                               (façade comportant l'accès principal) : hauteur maximale 2 m ;
+                                               muret de 80 cm maximum (enduit sur les deux faces) surmonté
+                                               d'un dispositif occultant ou à claire-voie, pouvant être doublé
+                                               d'une haie ; les murs sont interdits. En limite séparative :
+                                               murets autorisés dans les mêmes conditions ; murs autorisés
+                                               jusqu'à 2 m, enduits sur les deux faces. En zone inondable,
+                                               clôtures ne faisant pas obstacle à l'écoulement des eaux.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        13 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                  ARTICLE
+
+  Stationnement                                Logements dans le périmètre de 500 m autour de la gare                            II.4
+                                               (annexe 9) : aucune place si surface de plancher <= 30 m²                         Stationnement
+                                               (mais 1 place par tranche de 5 logements pour un projet d'au                      (p. 44-47)
+                                               moins 5 logements <= 30 m²) ; 1 place par logement si surface
+                                               > 30 m² et < 80 m² ; 1,5 place par logement si surface >= 80 m².
+                                               Sur le reste de la zone : 1 place minimum par tranche de 60 m²
+                                               de surface de plancher, sans pouvoir exiger plus de 2 places
+                                               par logement ; division d'une maison en plusieurs logements : 1
+                                               place minimum par logement créé. Logements financés par un
+                                               prêt aidé de l'État : 0,5 place par logement ; aucune place pour
+                                               les travaux de transformation ou d'amélioration de bâtiments
+                                               affectés à du logement aidé. Commerces, artisanat,
+                                               restauration : aucune place sous 300 m² de surface de
+                                               plancher ; 1 place par 30 m² à partir de 300 m². Activités de
+                                               services et bureaux : 1 place par 30 m². Hôtels : selon analyse
+                                               des besoins, 1 place par 50 m² dès 400 m² de surface de
+                                               plancher. Hébergements et établissements de santé : selon
+                                               analyse des besoins. Autres équipements : exonération
+                                               possible si un parking public existe à moins de 300 m. Arrondi
+                                               à l'entier inférieur ; extension : règle appliquée sur la surface
+                                               de l'extension seule. Vélos : emplacements couverts et
+                                               sécurisés pour les opérations d'habitation comportant un parc
+                                               d'au moins 10 places ; bureaux : 15 % de l'effectif ; équipements
+                                               publics : 15 % des agents et 15 % des usagers ; 1,5 m² par
+                                               emplacement, porte de 0,90 m minimum, accès électrique pour
+                                               la recharge. Infrastructures de recharge des véhicules
+                                               électriques selon la réglementation.
+
+  Espaces verts et plantations                 Les surfaces libres de toute construction et les délaissés des                    II.3 (p. 44) et
+                                               aires de stationnement sont végétalisés en harmonie avec                          dispositions
+                                               l'environnement. Essences peu allergisantes recommandées.                         communes (p.
+                                               Nouvelle construction à usage d'habitation, extensions et                         18)
+                                               annexes : implantation en harmonie avec la végétation et
+                                               accompagnement de plantations. Pas de pourcentage minimal
+                                               d'espaces verts. Transition écologique (zones U et AU, hors
+                                               extensions et annexes) : coefficient de biotope de 15 %
+                                               minimum, ou dispositif d'énergies renouvelables pour
+                                               l'autoconsommation, ou solution mixte (8 % de biotope plus
+                                               dispositif énergétique). Aires de stationnement paysagées avec
+                                               revêtements perméables privilégiés.
+
+  Densité ou coefficient                       Non précisé dans le règlement de la zone (pas de coefficient                      Zone UB, II.1
+                                               d'occupation des sols). Seule limite : annexes non accolées à                     Densité
+                                               40 m² d'emprise cumulée.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        14 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.5 Usages autorisés
+    Habitation : logements, résidences démontables constituant l'habitat permanent de leurs utilisateurs (de
+    type tiny house), hébergements
+    Commerce et activités de service, sous réserve de ne créer ni nuisances ni risques pour le voisinage :
+    artisanat et commerce de détail (limité aux commerces existants, voir conditions), restauration, commerce
+    de gros, activités de services avec accueil de clientèle, hôtels et autres hébergements touristiques
+    Autres activités, sous réserve de ne pas créer de nuisances graves pour le voisinage : entrepôts, bureaux,
+    centres de congrès et d'exposition
+    Équipements d'intérêt collectif et services publics : constructions, installations, dépôts et ouvrages
+    nécessaires aux services publics ou d'intérêt collectif (équipements sportifs, d'enseignement, de santé,
+    EHPAD, salles d'art et de spectacles, locaux administratifs, réseaux, pylônes, antennes, transformateurs)
+    et à l'exploitation du trafic ferroviaire
+    Extension des constructions et construction d'annexes, avec une bonne intégration dans l'environnement
+    Abris de jardins des jardins collectifs : 50 m² maximum pour un abri collectif (un seul par jardin collectif), 5
+    m² pour un abri individuel
+    Ouvrages de transport, de production et de distribution d'énergie électrique et renouvelable, et dispositifs
+    d'énergies renouvelables intégrés aux éléments architecturaux
+    Reconstruction à l'identique d'un bâtiment dans un délai de 10 ans (article L.111-15 du Code de l'urbanisme)
+
+
+3.6 Usages interdits ou soumis à conditions
+    Interdits : toute construction ou activité incompatible avec l'habitation, activités industrielles, cinémas,
+    installations classées soumises à autorisation, création de commerces de détail en dehors du secteur UBc
+    et des linéaires commerciaux, toute construction en zone non aedificandi, dépôts de toute nature,
+    carrières, terrains de camping et de caravaning, stationnement de caravanes sur des terrains non liés à
+    une habitation, garages collectifs de caravanes, habitations légères de loisirs et résidences mobiles de
+    loisirs, bâtiments agricoles, éoliennes
+    Interdit : toute construction et plantation sur le passage des canalisations de gaz naturel haute pression
+    (servitude I3, zone non aedificandi et non sylvandi)
+    Commerce de détail existant à la date d'approbation du PLU : maintien, reprise et extensions admis dans la
+    limite de 20 % de la surface de plancher initiale. La division des commerces est interdite
+    Linéaires commerciaux : les locaux en rez-de-chaussée ne peuvent être remplacés que par du commerce
+    ou de l'artisanat, sauf locaux nécessaires aux services publics ou d'intérêt collectif ou locaux d'accès à
+    l'immeuble. Les extensions n'y sont pas limitées
+    Exhaussements et affouillements : admis s'ils sont nécessaires aux constructions et activités autorisées, à
+    la défense incendie, aux services publics ou aux infrastructures routières
+    Installations classées soumises à autorisation existantes : travaux et extensions admis sous réserve de ne
+    pas créer de nuisances les rendant incompatibles avec l'habitat
+    Intervention sur un élément repéré au titre du SPR : soumise au règlement du SPR. Intervention sur une
+    construction identifiée au titre de l'article L.151-19 : mise en valeur des caractéristiques qui fondent sa
+    protection (fiches de protection)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        15 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    Mixité sociale : pour toute opération de plus de 1 500 m² de surface de plancher affectée au logement, au
+    moins 15 % de la surface de plancher en logement locatif aidé (PLUS, PLAI, PLS) et au moins 10 % en
+    accession sociale (PSLA, BRS ou équivalent). Cette règle ne s'applique pas dans les secteurs couverts par
+    une OAP
+    Zone inondable : constructions présentant un minimum d'obstacle à l'écoulement des eaux (pilotis
+    recommandés), clôtures ne faisant pas obstacle à l'écoulement, exhaussements admis seulement s'ils ne
+    gênent pas l'écoulement, niveaux habitables à au moins 1 m au-dessus des plus hautes eaux connues,
+    réseaux protégés, produits polluants stockés au-dessus des plus hautes eaux
+    Zone non aedificandi de 4 m de chaque côté de l'Yon
+    Éléments paysagers, boisements, haies, arbres remarquables et zones humides identifiés : dispositions
+    communes aux zones (déclaration préalable, compensation, recul de 5 m par rapport au houppier des
+    arbres protégés)
+
+
+3.7 Points de vigilance pour votre projet
+    Vérifier si la parcelle se trouve dans le périmètre du SPR : dans ce cas, le règlement du SPR (implantations,
+    hauteurs homogènes, matériaux) s'applique en complément ou en remplacement.
+    Vérifier si la parcelle est en secteur UBc, concernée par un linéaire commercial ou par un alignement bâti
+    imposé (rues listées p. 121).
+    Vérifier le périmètre de 500 m autour de la gare (annexe 9) qui change les normes de stationnement des
+    logements.
+    Contrôler la présence d'une OAP sur le terrain (La Marronnière, Sully) : hauteurs et mixité sociale
+    spécifiques.
+    Vérifier les risques et servitudes : zone inondable de l'Yon, canalisations de gaz GRTgaz (servitude I3,
+    interdiction de construire et de planter), zone non aedificandi de 4 m le long de l'Yon, voie ferrée,
+    établissement pénitentiaire (6 m, 50 m).
+    Repérer les éléments protégés au plan de zonage : bâtis L.151-19, arbres, haies, boisements, espaces
+    boisés classés, zones humides, avec compensation des haies (2 pour 1) et des arbres (annexe 3).
+    Si le projet crée plus de 1 500 m² de surface de plancher de logement, prévoir 15 % de logement locatif aidé
+    et 10 % d'accession sociale.
+    Ouvrir un accès véhicule est interdit sur certaines voies (liste p. 123 et voiries primaires) ; vérifier la
+    desserte.
+    Un projet de plus de 1 000 m² d'emprise au sol, commercial ou d'entrepôt, est soumis à l'obligation de
+    toiture énergétique ou végétalisée sur 30 % minimum (article L.111-18-1).
+    Appliquer la solution de transition écologique (coefficient de biotope 15 % ou énergies renouvelables) pour
+    tout projet d'aménagement ou de rénovation importante, hors extension et annexe.
+    Éloignement des arbres protégés : recul de 5 m par rapport au houppier.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        16 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.8 Extraits du règlement
+
+     UB II.1 Implantation par rapport aux voies · page 40
+     « entre 0 et 10 m par rapport à l'alignement des voies publiques ou privées »
+
+
+     UB II.1 Implantation par rapport aux limites séparatives · page 41
+     « L’implantation des constructions et des annexes non accolées sera libre. »
+
+
+     UB II.1 Hauteur · page 42
+     « En dehors du périmètre du SPR, la hauteur autorisée est limitée à R+2+Combles ou attique. »
+
+
+     UB II.1 Hauteur · page 42
+     « Toutefois, des constructions pourront être autorisées jusqu’à R+4+attique (hauteur absolue 20 m)
+     sur des unités foncières >= 1 000 m². »
+
+
+     UB II.1 Densité · page 43
+     « Les annexes non accolées à la construction principale (hors piscines) doivent avoir une emprise au
+     sol cumulée inférieure ou égale à 40 m². »
+
+
+     UB II.4 Stationnement · page 45
+     « Il est exigé 1 place de stationnement minimum pour 60 m² de surface de plancher, sans qu'il puisse
+     être exigé plus de 2 places par logement. »
+
+
+
+3.9 Démarches probables
+    Permis de construire ou déclaration préalable selon la surface créée, après consultation du certificat
+    d'urbanisme
+    Déclaration préalable pour les clôtures (délibération du conseil municipal du 26 septembre 2007) et pour
+    les travaux sur éléments paysagers protégés (L.151-23)
+    Permis de démolir pour les constructions situées dans le SPR, dans les périmètres de protection des
+    monuments historiques et de l'abbaye des Fontenelles, et pour les bâtiments recensés à l'inventaire
+    L.151-19
+    Demande d'alignement auprès du gestionnaire avant tout projet en bordure de voie ferrée
+    Raccordement au réseau public d'assainissement ; en son absence, étude de filière d'assainissement
+    individuel
+    Autorisation de l'architecte des bâtiments de France en SPR ou périmètre de monument historique
+    Permis d'aménager ou déclaration préalable pour une division ou un lotissement ; accord de GRTgaz à
+    proximité des canalisations
+    Étude et justificatif de la solution de transition écologique (coefficient de biotope ou énergies
+    renouvelables) dans le dossier
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        17 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+     Cette lecture est établie automatiquement, par intelligence artificielle, à partir du règlement officiel en
+     vigueur. Elle peut comporter des imprécisions : seul le texte du règlement, reproduit en annexe (pages
+     36 à 47 du document approuvé), fait foi, avec les dispositions générales, les orientations
+     d'aménagement et les servitudes.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        18 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                                    04 · Loi Littoral et loi Montagne
+
+
+
+
+   04              Loi Littoral et loi Montagne
+     DANS CETTE SECTION
+
+     Les lois nationales qui s'ajoutent au document d'urbanisme sur le littoral et en montagne. Elles
+     peuvent rendre un terrain inconstructible même en zone constructible.
+
+
+Les lois d'aménagement qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+
+
+4.1 Loi Littoral
+Commune littorale                                        Non
+
+Distance au rivage                                       Sans objet
+
+Bande des 100 mètres                                     Sans objet
+
+
+La commune n'est pas riveraine de la mer : la loi Littoral ne s'applique pas (sauf rives de grands lacs).
+
+
+4.2 Loi Montagne
+Commune en zone de montagne                              Non
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          19 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+   05              Risques naturels et technologiques
+     DANS CETTE SECTION
+
+     Les risques connus à l'adresse du terrain (inondation, feu de forêt, mouvement de terrain,
+     radon…) et les catastrophes naturelles reconnues sur la commune.
+
+
+Base nationale Géorisques (ministère de la Transition écologique).
+
+
+
+5.1 Risques naturels à l'adresse de la parcelle
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Inondation                                      Existant                                        Existant
+
+  Remontée de nappe                               Existant                                        Existant
+
+  Séisme                                          Existant – modéré                               Existant – modéré
+
+  Mouvement de terrain                            Inconnu                                         Existant
+
+  Retrait-gonflement des                          Existant – modéré                               Existant – modéré
+  argiles
+
+  Radon                                           Existant – important                            Existant – important
+
+
+
+
+5.2 Risques technologiques
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Installations industrielles                     Non concerné                                    Concerné
+  (ICPE)
+
+  Canalisations de matières                       Non concerné                                    Concerné
+  dangereuses
+
+  Pollution des sols                              Concerné                                        Concerné
+
+  Rupture de barrage                              Inconnu                                         Concerné
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       20 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           La Roche-sur-Yon · BT 62
+          TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.3 Indicateurs réglementaires
+Zone de sismicité                                        Zone 3 – moderee
+
+Potentiel radon                                          Catégorie 3 (potentiel significatif)
+
+Retrait-gonflement des argiles                           Existant – modéré
+
+Plans de prévention (PPR)                                AZI Yon
+
+
+
+5.4 Arrêtés de catastrophe naturelle
+19 arrêtés de reconnaissance de l'état de catastrophe naturelle concernent la commune.
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Sécheresse                                                                01/10/2018 au 31/12/2018                       09/08/2019
+
+  Sécheresse                                                                01/01/2017 au 31/12/2017                       20/10/2018
+
+  Chocs Mécaniques liés à l'action des Vagues                               27/02/2010 au 01/03/2010                       02/03/2010
+
+  Inondations et/ou Coulées de Boue                                         27/02/2010 au 01/03/2010                       02/03/2010
+
+  Mouvement de Terrain                                                      27/02/2010 au 01/03/2010                       02/03/2010
+
+  Sécheresse                                                                01/07/2005 au 30/09/2005                       22/05/2008
+
+  Inondations et/ou Coulées de Boue                                         25/07/2000                                     15/11/2000
+
+  Inondations et/ou Coulées de Boue                                         25/12/1999 au 29/12/1999                       30/12/1999
+
+  Mouvement de Terrain                                                      25/12/1999 au 29/12/1999                       30/12/1999
+
+  Inondations et/ou Coulées de Boue                                         06/08/1999                                     26/02/2000
+
+  Inondations et/ou Coulées de Boue                                         28/07/1999                                     26/02/2000
+
+  Inondations et/ou Coulées de Boue                                         28/10/1995                                     28/01/1996
+
+  Inondations et/ou Coulées de Boue                                         11/01/1993 au 12/01/1993                       08/07/1993
+
+  Tempête                                                                   04/07/1983 au 25/07/1983                       11/09/1983
+
+  Inondations et/ou Coulées de Boue                                         04/07/1983 au 25/07/1983                       11/09/1983
+
+  Grêle                                                                     04/07/1983 au 25/07/1983                       11/09/1983
+
+  Inondations et/ou Coulées de Boue                                         04/07/1983 au 25/07/1983                       08/10/1983
+
+  Inondations et/ou Coulées de Boue                                         20/06/1983 au 26/06/1983                       05/08/1983
+
+  Inondations et/ou Coulées de Boue                                         01/04/1983 au 28/04/1983                       18/05/1983
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        21 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.5 Installations classées à proximité (moins de 1 km)
+    LAVAL SERVICES · Autorisation · En fin d'exploitation
+    CHD LA ROCHE SUR YON LUCON MONTAIGU · Autres régimes
+    RELAIS DU CHATELET · Autres régimes
+    CARCASSE EURL · Non ICPE
+    PUB DECOR SARL · Non ICPE
+    Mairie de la Roche sur Yon · Non ICPE
+    Mairie · Autres régimes
+    AUTO ASSISTANCE YONNAISE (D) · Non ICPE
+
+
+5.6 Sites et sols pollués à proximité
+    "GRAND GARAGE MODERNE" · ancien site industriel ou d'activité de service (CASIAS)
+    "IMPRIMERIE MODERNE" · ancien site industriel ou d'activité de service (CASIAS)
+    "IMPRIMERIE CENTRALE DE L'OUEST" · ancien site industriel ou d'activité de service (CASIAS)
+    7 anciens sites industriels ou d'activités de service (CASIAS) recensés
+    Agence clientèle EDF-GDF Services du Pays Yonnais (ex-USINE A GAZ) · site pollué en cours d'instruction
+    FROGER BERNARD · site pollué en cours d'instruction
+    Agence clientèle EDF-GDF Services du Pays Yonnais (ex-USINE A GAZ) · secteur d'information sur les sols
+    (SIS)
+    FROGER BERNARD · site soumis à restrictions d'usage
+    1 site soumis à restrictions d'usage recensé
+
+
+5.7 Rapport officiel Géorisques
+Les risques recensés ci-dessus proviennent des bases officielles de Géorisques, service public d'information
+sur les risques. Le rapport officiel complet peut être édité gratuitement, à tout moment et à jour, à partir de
+l'adresse du terrain sur le site Géorisques.
+
+
+    Éditer le rapport officiel Géorisques
+
+
+Lors d'une vente ou d'une location, le vendeur ou le bailleur doit remettre un état des risques de moins de six mois,
+complété et signé, et l'information sur les sinistres indemnisés au titre des catastrophes naturelles.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       22 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+   06              Le terrain : accès, relief et réseaux
+     DANS CETTE SECTION
+
+     Les contraintes physiques du terrain : accès à une voie, pente et exposition, assainissement,
+     raccordement à l'électricité et à l'eau, fibre. Ce sont elles qui pèsent le plus sur le coût d'un
+     projet.
+
+
+Voirie (IGN, BD TOPO), altimétrie (IGN, RGE ALTI), règlement de la zone, réseau électrique (Agence ORE) et éligibilité
+internet (Arcep).
+
+
+
+6.1 Accès
+Accès direct à une voie                                  Oui
+
+Voie                                                     Route à 1 chaussée · Rue laplace
+
+Largeur de chaussée                                      5m
+
+Accès des véhicules                                      Libre
+
+
+La parcelle touche une voie carrossable. L'autorisation d'urbanisme vérifiera que l'accès est adapté au projet et sûr,
+et peut imposer une permission de voirie ou un aménagement de l'entrée.
+
+
+6.2 Relief et exposition
+Pente moyenne                                            5%
+
+Exposition                                               Versant orienté nord-ouest
+
+Altitude                                                 62 à 64 m
+
+Appréciation                                             Pente modérée
+
+
+
+
+ 64 m
+
+
+
+
+ 62 m
+
+
+           Coupe du terrain dans le sens de la pente · longueur 39 m
+
+
+     Implantation courante ; terrassements et soutènements légers à prévoir.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       23 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              La Roche-sur-Yon · BT 62
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.3 Ensoleillement
+Appréciation                                             Bien ensoleillé
+
+Soleil direct le 21 juin                                 13 h 12 (de 07 h 40 à 20 h 40)
+
+Soleil direct aux équinoxes                              10 h 18 (de 08 h 00 à 18 h 10)
+
+Soleil direct le 21 décembre                             4 h 48 (de 09 h 50 à 15 h 20)
+
+Ensoleillement annuel possible                           3 598 h par an, soit 82 % du maximum à cette latitude
+
+Hauteur du relief vers le sud                            20°
+
+
+ 75°
+
+
+
+ 60°
+
+
+
+ 45°
+
+
+
+ 30°
+
+
+
+ 15°
+
+
+
+ 0°
+                                Est                  Sud-est                    Sud                 Sud-ouest               Ouest
+
+          21 juin          Équinoxes               21 décembre                 Horizon : relief et bâtiments voisins
+
+
+
+       Le soleil est un peu masqué en début ou en fin de journée, surtout en hiver, mais le terrain reste bien
+       exposé sur l'année.
+
+
+
+Ensoleillement mois par mois (le 21 de chaque mois)
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Janvier                         9h                                 6 h 30                                    09 h 30 – 15 h 50
+
+  Février                         10 h 30                            8h                                        08 h 50 – 16 h 40
+
+  Mars                            12 h                               10 h 18                                   08 h 00 – 18 h 10
+
+  Avril                           13 h 42                            12 h 18                                   08 h 00 – 20 h 10
+
+  Mai                             15 h                               13 h                                      07 h 40 – 20 h 30
+
+  Juin                            15 h 42                            13 h 12                                   07 h 40 – 20 h 40
+
+  Juillet                         15 h 12                            13 h                                      07 h 50 – 20 h 40
+
+  Août                            13 h 48                            12 h 18                                   08 h 00 – 20 h 10
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          24 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Septembre                       12 h 12                            10 h 30                                   08 h 40 – 19 h 00
+
+  Octobre                         10 h 30                            8h                                        09 h 20 – 17 h 10
+
+  Novembre                        9h                                 6 h 18                                    09 h 10 – 15 h 20
+
+  Décembre                        8 h 18                             4 h 48                                    09 h 50 – 15 h 20
+
+
+
+Calcul théorique par ciel dégagé, au centre de la parcelle et à hauteur d'homme : course du soleil heure par heure, masque du relief
+sur 6 km (IGN, RGE ALTI) et des bâtiments voisins sur 120 m (IGN, BD TOPO, 101 bâtiments pris en compte). La végétation et les
+constructions récentes ne sont pas prises en compte.
+
+
+6.4 Quel raccordement pour les eaux usées ?
+Raccordement à prévoir                                       Tout-à-l'égout très probable
+
+Zone du PLU                                                  UB · Urbaine
+
+Zonage d'assainissement                                      Non publié au Géoportail de l'Urbanisme (consultable en mairie)
+
+Réseau collectif sur la commune                              Oui · La Roche Sur Yon - Agglomération · régie publique
+
+
+     Le terrain est en zone urbaine (UB) et la commune dispose d'un réseau public d'assainissement
+     collectif. Dans ces zones, le réseau passe en général dans la voie et le règlement impose le
+     raccordement lorsqu'il existe. À confirmer par le service d'assainissement pour ce terrain précis.
+
+
+
+Ce que dit le règlement de la zone
+Raccordement obligatoire au réseau public d'assainissement collectif lorsqu'il existe (système de relevage en cas
+d'impossibilité de raccordement gravitaire). L'évacuation des eaux usées non traitées dans les rivières, fossés ou
+réseaux d'eaux pluviales est strictement interdite. Les eaux non domestiques sont subordonnées à un
+pré-traitement. En l'absence de réseau public, l'assainissement non collectif est admis à condition qu'un dispositif
+individuel soit réalisable (configuration et dimension du terrain adaptées, étude de filière à la parcelle). Le dispositif
+doit pouvoir être mis hors circuit et la construction raccordée au réseau dès sa réalisation. Le règlement ne fixe pas
+de surface minimale de terrain et ne cite pas expressément le SPANC.
+
+Le règlement admet un assainissement individuel uniquement là où le réseau public n'existe pas : cette mention ne signifie
+pas que le terrain n'est pas desservi.
+
+Ce que cela coûte
+Raccordement au tout-à-l'égout : branchement sous la voie réalisé par le service d'assainissement (souvent 1 500 à
+5 000 € selon la distance), canalisation sur le terrain jusqu'à la maison, et participation pour le financement de
+l'assainissement collectif (PFAC) fixée par la commune ou l'intercommunalité, généralement de 1 000 à 5 000 €. Le
+service remet un devis à partir du plan de situation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          25 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+Qui contacter pour obtenir la confirmation
+Service d'assainissement                                     La Roche Sur Yon - Agglomération
+
+Mairie                                                       Mairie de La Roche-sur-Yon
+
+Téléphone                                                    02 51 47 47 47
+
+E-mail                                                       mairie@larochesuryon.fr
+
+
+    Demandez au service d'assainissement, avec la référence cadastrale, si une canalisation publique passe au droit
+    du terrain, à quelle profondeur, et le montant de la PFAC. Sa réponse écrite vaut attestation de raccordabilité.
+    Certificat d'urbanisme opérationnel (formulaire Cerfa 13410, gratuit) : la mairie y indique officiellement si le
+    terrain est desservi par le réseau d'assainissement.
+    Plan des réseaux : la présence des canalisations enterrées près du terrain peut être vérifiée sur
+    reseaux-et-canalisations.gouv.fr, le guichet unique des réseaux.
+Sources : zonage d'assainissement et règlement (Géoportail de l'Urbanisme) ; services publics d'assainissement (SISPEA, Office
+français de la biodiversité) ; annuaire de l'administration (service-public.fr).
+
+Si le réseau public n'était finalement pas accessible
+  FILIÈRE                                    QUAND ELLE CONVIENT                                                           ORDRE DE PRIX
+
+  Fosse toutes eaux et                       Sol perméable, terrain assez grand et peu pentu                               5 000 à 10 000 €
+  épandage
+
+  Filtre à sable                             Sol peu perméable, place suffisante                                           8 000 à 12 000 €
+
+  Micro-station agréée                       Petit terrain ou sol défavorable ; entretien et électricité                   7 000 à 15 000 €
+
+  Filtre compact agréé                       Petit terrain, sans électricité                                               9 000 à 14 000 €
+
+
+
+Ordres de prix indicatifs (fourniture et pose, hors étude de sol et terrassements particuliers). La filière est choisie au vu de l'étude
+de sol et validée par le SPANC.
+
+
+6.5 Électricité et eau potable
+Gestionnaire du réseau                                       Enedis
+
+Réseau basse tension le plus proche                          à environ 5 m (ligne aérienne)
+
+Ligne aérienne la plus proche                                à environ 5 m
+
+Ligne souterraine la plus proche                             à environ 5 m
+
+Poste de transformation le plus proche                       à environ 60 m
+
+Appréciation                                                 Branchement simple probable
+
+
+     Le réseau basse tension passe à environ 5 m : un branchement simple est en principe possible (de
+     l'ordre de 1 500 à 3 000 € pour une maison, selon la longueur et la puissance), sous réserve de la
+     capacité du réseau et des coffrets existants.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           26 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+Ce qu'il faut vérifier avant d'acheter
+    La capacité du réseau : même un réseau proche peut être saturé (coffret ou câble plein, poste de transformation
+    au maximum). Seule une étude du gestionnaire permet de le savoir ; c'est la cause la plus fréquente de surcoûts
+    imprévus.
+    Électricité : demander au gestionnaire du réseau une étude de raccordement ou un devis à partir de l'adresse et
+    du plan de situation (gratuit). Elle indique le type de raccordement, son coût et son délai.
+    Eau potable : les plans du réseau d'eau ne sont pas publics. Interroger le service des eaux (coordonnées
+    ci-dessous) sur la présence d'une canalisation au droit du terrain, sa capacité et le coût du branchement, ainsi
+    que sur la défense incendie (borne à moins de 200 m environ).
+    Certificat d'urbanisme opérationnel : la mairie y indique si le terrain est desservi par les réseaux publics (eau,
+    électricité, assainissement) et, à défaut, si et quand ils seront étendus. Un refus de permis peut être fondé sur
+    l'insuffisance des réseaux (article L. 111-11 du Code de l'urbanisme).
+
+Qui contacter
+Service de l'eau potable                                     VENDEE EAU
+
+Mode de gestion                                              Régie publique
+
+Contact pour le branchement                                  VENDEE EAU
+
+Mairie                                                       Mairie de La Roche-sur-Yon
+
+Téléphone de la mairie                                       02 51 47 47 47
+
+E-mail de la mairie                                          mairie@larochesuryon.fr
+
+Électricité (raccordement)                                   Enedis · demande en ligne sur enedis.fr (raccordement)
+
+La mairie oriente vers le bon interlocuteur et confirme, dans le certificat d'urbanisme, la desserte du terrain par les réseaux.
+Sources : SISPEA, observatoire des services publics d'eau (OFB) ; annuaire de l'administration (service-public.fr).
+
+Dans une promesse de vente, une condition suspensive portant sur le coût du raccordement aux réseaux protège
+l'acquéreur. Source de la cartographie électrique : Agence ORE, données des gestionnaires de réseaux de distribution ;
+tracés indicatifs.
+
+
+6.6 Fibre et internet
+     Le terrain est déjà fibré : 1 adresse située sur la parcelle (9 Rue laplace) est déclarée raccordable à la
+     fibre.
+
+
+
+Adresse la plus proche                                          9 Rue laplace · à 9 m · raccordable
+
+Point fibré le plus proche                                      9 Rue laplace · à 9 m
+
+Adresses fibrées à moins de 100 m                               44 sur 44
+
+Adresses fibrées à moins de 400 m                               477 sur 479
+
+Technologies disponibles à proximité                            4G fixe, Câble, Cuivre (ADSL, VDSL), Fibre, Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       27 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                                                                             La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                                                                       06 · Le terrain : accès, relief et réseaux
+
+
+
+
+     Points fibrés autour du terrain                                                           F
+
+                                                                         F                                                                 F
+                                                                                                                                   F               F           F
+                                                                                                                                  F                    F
+                                                                                                                              F                            F
+                                                                                                                                                   F                   F
+                                                                                                                                           F
+                                                                                                                                      F
+
+
+                                           F
+                                                                                 FF
+                                                                F              F
+                                       F           FF                                FF                         F
+                                               F            F                FF         F                                 F
+                                                   FF                     F F FF          F                  F                                 F
+                                                                                                                                                                                         F
+                                                     F                   F     F    F                                     F            F                                   F
+                                   F
+                                    FF                     FF                 F       F F                   F
+                                                             F                                              F         F                            F                                 F
+                                        FF                                                                                        F
+                                   F F                      FF F F                        FF                                                                                        F
+                                                                                                 F    F           F               F            F
+                                       F F
+                                                                             F FF                           F                      F           F                                    F
+                                    FF         F            F                        FF    F F
+                                                   F            F                                                 F       F
+                                                                                                     F FF                                                      F               F
+                                                                     F                                      FFF              F                                                     FF
+                                       F                    F                F       F                              F F                    F                                         F
+                                           F                    F                                                         FF F
+                                                                     F           F
+                                                   F            F            F                                                                                 F
+                                                                                                                                            F          F            F
+                                                       F         F                                                                         F               F
+                                                                                                                                                                   F
+                                                                     F                                                              F
+                                                        F                                                                          F                            F
+                                                                                               F                               F                            F
+                                                                                                                              F                            F
+                                                                                                                              F
+
+
+                                                                                                                                                                                                   100 m
+
+
+
+Repères F : adresses déclarées raccordables à la fibre (Arcep) · en terracotta : sur la parcelle · fond © IGN
+
+
+Vérifiez la fibre à l'adresse du terrain :
+
+                     Carte fibre Orange                                                                                                                    Carte de l'Arcep
+
+
+  DISTANCE           ADRESSE                                                                                                       FIBRE                                   AUTRES ACCÈS
+
+  9m                 9 Rue laplace                                                                                                 Oui                                     4G fixe, Câble, Cuivre (ADSL,
+                                                                                                                                                                           VDSL), Satellite
+
+  21 m               3 Rue laplace                                                                                                 Oui                                     4G fixe, Câble, Cuivre (ADSL,
+                                                                                                                                                                           VDSL), Satellite
+
+  22 m               13 Rue laplace                                                                                                Oui                                     4G fixe, Câble, Cuivre (ADSL,
+                                                                                                                                                                           VDSL), Satellite
+
+  31 m               24 Impasse fabre                                                                                              Oui                                     4G fixe, Câble, Cuivre (ADSL,
+                                                                                                                                                                           VDSL), Satellite
+
+  34 m               27 Impasse fabre                                                                                              Oui                                     4G fixe, Câble, Cuivre (ADSL,
+                                                                                                                                                                           VDSL), Satellite
+
+  36 m               45 Rue du moulin rouge                                                                                        Oui                                     4G fixe, Câble, Cuivre (ADSL,
+                                                                                                                                                                           VDSL), Satellite
+
+  37 m               10 Rue laplace                                                                                                Oui                                     4G fixe, Câble, Cuivre (ADSL,
+                                                                                                                                                                           VDSL), Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                                                                         28 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  DISTANCE           ADRESSE                                                                   FIBRE              AUTRES ACCÈS
+
+  39 m               17 Rue laplace                                                            Oui                4G fixe, Câble, Cuivre (ADSL,
+                                                                                                                  VDSL), Satellite
+
+
+
+Source : Arcep, « Ma connexion internet », éligibilité déclarée par les opérateurs, adresse par adresse. Le tracé des câbles n'est
+pas public : la présence de la fibre en limite de terrain se vérifie auprès de l'opérateur ou par une déclaration de projet de travaux
+(DT).
+
+
+6.7 Qui contacter pour les réseaux
+  RÉSEAU                                    INTERLOCUTEUR                                         CE QU'IL FAUT DEMANDER
+
+  Eau potable et                            Mairie ou service des eaux de la                      Attestation de desserte et conditions de
+  assainissement collectif                  commune                                               raccordement
+
+  Assainissement individuel                 SPANC (communauté de communes)                        Contrôle de conception sur la base de l'étude
+                                                                                                  de sol
+
+  Électricité                               Enedis (gestionnaire du réseau de                     Étude de raccordement et devis
+                                            distribution)
+
+  Fibre et téléphone                        Opérateur d'infrastructure et                         Raccordement du futur logement
+                                            fournisseur d'accès
+
+  Tous réseaux                              Guichet unique des réseaux                            Déclaration de projet de travaux (DT) pour
+                                            (reseaux-et-canalisations.gouv.fr)                    localiser les réseaux existants
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             29 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+    07             Environnement et marché immobilier
+     DANS CETTE SECTION
+
+     Les espaces naturels protégés autour du terrain et les prix de vente réels des maisons,
+     appartements et terrains alentour.
+
+
+Inventaire national du patrimoine naturel et demandes de valeurs foncières (DVF).
+
+
+
+7.1 Espaces naturels protégés ou inventoriés
+La parcelle n'est concernée par aucun site Natura 2000, ZNIEFF, parc ou réserve naturelle.
+
+
+7.2 Espèces protégées observées près du terrain
+147 espèces protégées ont été observées dans un rayon de 1 km autour du terrain depuis 1990 ; les 14 plus
+fréquemment signalées figurent ci-dessous.
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                         OBSERVATIONS
+
+  Mésange charbonnière (Parus major)                              Oiseau                 Nationale (espèce et               318 · dernière en
+                                                                                         habitat)                           2024
+
+  Rouge-gorge familier (Erithacus                                 Oiseau                 Nationale (espèce et               315 · dernière en
+  rubecula)                                                                              habitat)                           2022
+
+  Fauvette à tête noire (Sylvia atricapilla)                      Oiseau                 Nationale (espèce et               307 · dernière en
+                                                                                         habitat)                           2022
+
+  Mésange bleue (Cyanistes caeruleus)                             Oiseau                 Nationale (espèce et               248 · dernière en
+                                                                                         habitat)                           2024
+
+  Moineau domestique (Passer                                      Oiseau                 Nationale (espèce et               217 · dernière en
+  domesticus)                                                                            habitat)                           2025
+
+  Pinson des arbres (Fringilla coelebs)                           Oiseau                 Nationale (espèce et               213 · dernière en
+                                                                                         habitat)                           2022
+
+  Accenteur mouchet (Prunella modularis)                          Oiseau                 Nationale (espèce et               168 · dernière en
+                                                                                         habitat)                           2025
+
+  Pouillot véloce (Phylloscopus collybita)                        Oiseau                 Nationale (espèce et               133 · dernière en
+                                                                                         habitat)                           2025
+
+  Corneille noire (Corvus corone)                                 Oiseau                 Nationale (espèce et               126 · dernière en
+                                                                                         habitat)                           2022
+
+  Roitelet triple-bandeau (Regulus                                Oiseau                 Nationale (espèce et               81 · dernière en
+  ignicapilla)                                                                           habitat)                           2021
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          30 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                         OBSERVATIONS
+
+  Troglodyte mignon (Troglodytes                                  Oiseau                 Nationale (espèce et               70 · dernière en
+  troglodytes)                                                                           habitat)                           2022
+
+  Chardonneret élégant (Carduelis                                 Oiseau                 Nationale (espèce et               64 · dernière en
+  carduelis)                                                                             habitat)                           2022
+
+  Becfigue (Sylvia borin)                                         Oiseau                 Nationale (espèce et               55 · dernière en
+                                                                                         habitat)                           2021
+
+  Verdier (Chloris chloris)                                       Oiseau                 Nationale (espèce et               55 · dernière en
+                                                                                         habitat)                           2024
+
+
+
+     Une observation à proximité ne signifie pas que l'espèce vit sur le terrain. Mais si elle y est présente, il
+     est interdit de détruire, capturer ou déranger les individus et, pour la plupart de ces espèces, de
+     détruire leurs lieux de reproduction et de repos (articles L. 411-1 et suivants du Code de
+     l'environnement). L'infraction est punie de 3 ans d'emprisonnement et 150 000 € d'amende.
+
+
+
+Que faire avant de construire ?
+    Pour une maison individuelle, aucune étude écologique n'est imposée en règle générale, et l'étude de sol porte
+    sur le terrain (fondations), pas sur la faune ni la flore. Vous restez cependant responsable si une espèce
+    protégée vit sur la parcelle : en cas de doute (espèce observée tout près, vieux arbres, murets, maquis, zone
+    humide), faites passer un écologue avant de défricher.
+    Si un enjeu est confirmé : inventaire faune-flore aux saisons utiles (printemps et été en général), puis mesures
+    pour éviter et réduire l'impact : implantation de la maison sur la partie la moins sensible, travaux hors période de
+    reproduction, clôture de chantier adaptée, déplacement d'individus par un spécialiste habilité.
+    Si la destruction d'individus ou d'habitats ne peut pas être évitée : demande de dérogation « espèces protégées »
+    auprès de la préfecture (DREAL), avec avis du conseil scientifique. Comptez 4 à 12 mois d'instruction, à anticiper
+    avant le dépôt du permis.
+
+Combien prévoir ?
+Pré-diagnostic écologique                                800 à 2 000 € (une visite et une note de synthèse)
+
+Inventaire faune-flore                                   3 000 à 10 000 € selon la surface et le nombre de passages
+
+Mesures d'évitement et de réduction                      500 à 5 000 € (balisage, calendrier, suivi de chantier)
+
+Dossier de dérogation                                    8 000 à 25 000 €, hors mesures de compensation éventuelles
+
+Ordres de prix indicatifs, honoraires de bureaux d'études en environnement, si une étude est nécessaire. Pour une maison sur un
+terrain déjà entouré de constructions, aucune étude n'est le plus souvent requise.
+
+Sources : statuts de protection TAXREF et base de connaissance des statuts (INPN, Muséum national d'Histoire naturelle) ;
+observations naturalistes GBIF, qui rassemble notamment les données de l'INPN et du SINP.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          31 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+7.3 Prix de l'immobilier à La Roche-sur-Yon
+Prix au mètre carré des ventes enregistrées sur la commune au cours des cinq dernières années publiées.
+Seules les ventes portant sur un bien unique sont retenues.
+
+  TYPE DE BIEN                                       VENTES                       €/M² MÉDIAN                              €/M² MOYEN
+
+  Maisons                                            2 304                        2 403 €/m²                               2 442 €/m²
+
+  Appartements                                       2 033                        2 417 €/m²                               2 488 €/m²
+
+  Locaux commerciaux                                 256                          1 341 €/m²                               2 938 €/m²
+
+
+
+Source : statistiques des demandes de valeurs foncières (DGFiP, Etalab). Prix des actes, hors frais : un ordre de grandeur,
+pas une estimation du bien.
+
+
+7.4 Ventes de terrains autour de la parcelle
+Période observée                                         2021 à 2025
+
+Ventes de terrains recensées                             16
+
+Prix médian                                              208 €/m²
+
+Prix courants (une vente sur deux)                       100 à 313 €/m²
+
+
+  DATE                    PARCELLE                          NATURE                                SURFACE              PRIX             €/M²
+
+  06/10/2025              AN 465                            sols                                  151 m²               136 100 €        901
+
+  17/07/2025              BT 394                            sols                                  300 m²               52 535 €         175
+
+  08/07/2025              AK 137                            sols                                  677 m²               16 000 €         24
+
+  31/12/2024              BT 101 (+2)                       terrains d'agrément                   2 363 m²             3 187 521 €      1 349
+
+  30/12/2024              BT 101 (+2)                       terrains d'agrément                   2 363 m²             235 200 €        100
+
+  24/06/2024              AK 135                            jardins                               504 m²               13 000 €         26
+
+  21/02/2024              AM 633                            sols                                  212 m²               415 000 €        1 958
+
+  22/09/2023              AK 130                            jardins                               1 183 m²             7 500 €          6
+
+  27/04/2023              AM 778                            sols                                  465 m²               800 000 €        1 720
+
+  17/01/2023              AK 141 (+1)                       jardins                               1 043 m²             28 000 €         27
+
+  04/07/2022              BS 617                            terrains à bâtir                      588 m²               150 000 €        255
+
+  19/08/2021              AN 459                            sols                                  107 m²               15 000 €         140
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           32 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+Source : DVF, ventes enregistrées par la DGFiP. Les prix au mètre carré dépendent fortement de la constructibilité, de la
+vue, de l'accès et de la viabilisation : ils donnent un ordre de grandeur, pas une estimation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       33 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                                                08 · Historique du site
+
+
+
+
+   08              Historique du site
+     DANS CETTE SECTION
+
+     Le terrain vu du ciel au fil des décennies et les permis de construire accordés autour : l'évolution
+     du secteur en un coup d'œil.
+
+
+Photographies aériennes de l'IGN et permis de construire délivrés (Sitadel).
+
+
+
+8.1 Le terrain vu du ciel, d'hier à aujourd'hui
+
+    1950-1965                                             2000-2005                                              2006-2010
+
+
+
+
+    2011-2015                                             Aujourd'hui
+
+
+
+
+Ces vues montrent l'évolution du terrain et du quartier, des années 1950 à aujourd'hui (photographies aériennes de l'IGN).
+
+     Bon à savoir : l'existence ancienne d'une construction peut ouvrir, sous conditions, un droit à
+     reconstruire ou à restaurer un bâtiment dont il reste l'essentiel des murs porteurs (articles L. 111-15 et L.
+     111-23 du Code de l'urbanisme).
+
+
+
+
+8.2 Permis de construire délivrés autour du terrain
+Autorisations sur la commune (3 ans)                                    232 · dernière recensée le 21/09/2026
+
+Logements autorisés (3 ans)                                             2 109
+
+Dont maisons individuelles                                              148
+
+Autorisations dans la section BT                                        3 depuis 2013
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  10/03/2025            Permis de construire                   BT 394             1              99 m²                     RUE DU MOULIN ROUGE
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            34 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                                                08 · Historique du site
+
+
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS           SURFACE CRÉÉE            LIEU-DIT / VOIE
+
+  10/06/2024            Permis de construire                   BT 39              1               55 m²                    RUE DU MOULIN ROUGE
+
+  08/08/2022            Permis de construire                   BT 101             22              1 362 m²                 BOULEVARD D'ITALIE
+
+
+
+Permis accordés à moins de 500 m du terrain
+  DATE                 AUTORISATION                       PARCELLE          DISTANCE         LOGTS        SURFACE             LIEU-DIT / VOIE
+
+  10/07/2026           Déclaration préalable              AM 369            380 m            6            –                   BOULEVARD D'ITALIE
+
+  10/03/2025           Permis de construire               BT 394            270 m            1            99 m²               RUE DU MOULIN ROUGE
+
+  10/06/2024           Permis de construire               BT 39             320 m            1            55 m²               RUE DU MOULIN ROUGE
+
+  04/07/2023           Déclaration préalable              AM 349            500 m            5            19 m²               BOULEVARD D'ITALIE
+
+  07/02/2023           Permis de construire               CE 103            280 m            4            271 m²              RUE JEAN PERRIN
+
+  08/08/2022           Permis de construire               BT 101            290 m            22           1 362 m²            BOULEVARD D'ITALIE
+
+
+
+6 autorisations créant des logements recensées dans un rayon de 500 m : la construction a été admise récemment
+dans le voisinage immédiat.
+
+Source : base Sitadel des autorisations d'urbanisme créant des logements (SDES). Un permis accordé à proximité montre
+que des constructions ont été admises dans le secteur, sans préjuger de la décision sur votre propre projet.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            35 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                              09 · Opportunités autour du terrain
+
+
+
+
+   09              Opportunités autour du terrain
+     DANS CETTE SECTION
+
+     Ce qui se passe autour de la parcelle : grands terrains peu bâtis, sociétés propriétaires en
+     difficulté, logements énergivores. Des pistes pour un investisseur, un voisin ou un professionnel.
+
+
+Bodacc (procédures collectives), ADEME (diagnostics énergétiques), cadastre, BD TOPO et Géoportail de l'Urbanisme.
+
+
+
+9.1 Grands terrains peu bâtis à proximité
+Parcelles de plus de 1 200 m², situées en zone urbaine ou à urbaniser du PLU, dans un rayon de 250 m, dont
+moins de 8 % de la surface est bâtie, hors terrains publics : un potentiel de construction ou de division à
+étudier.
+
+  PARCELLE           SURFACE                BÂTI               ZONE               DISTANCE           PROPRIÉTAIRE
+
+  CE 713             7 360 m²               non bâti           UB                 130 m              CAISSE PRIMAIRE ASS MALADIE VENDEE
+                                                                                                     (ASS)
+
+  HP 46              7 317 m²               non bâti           UB                 190 m              CHD LA ROCHE SUR YON LUCON
+                                                                                                     MONTAIGU (HOSP)
+
+  CE 320             2 365 m²               non bâti           UB                 190 m              CAISSE PRIMAIRE ASS MALADIE VENDEE
+                                                                                                     (ASS)
+
+  CE 332             2 276 m²               non bâti           UB                 290 m              CAISSE PRIMAIRE ASS MALADIE VENDEE
+                                                                                                     (ASS)
+
+  HP 47              2 027 m²               125 m²             UB                 250 m              particulier (non publié)
+
+  BT 153             1 769 m²               non bâti           UB                 110 m              SERVICE EXTERIEUR DE L EQUIPEMENT
+                                                                                                     (AUPM)
+
+  CE 319             1 720 m²               non bâti           UB                 120 m              CAISSE PRIMAIRE ASS MALADIE VENDEE
+                                                                                                     (ASS)
+
+  BT 116             1 622 m²               non bâti           UB                 90 m               SECTION DU LOT ST JOSEPH (COLL)
+
+
+
+
+9.2 Logements classés F ou G autour du terrain
+Logements diagnostiqués F ou G dans un rayon de 350 m. Leur location est déjà interdite (G) ou le sera en
+2028 (F) : leurs propriétaires sont souvent vendeurs, ou doivent engager des travaux de rénovation.
+
+  PARCELLE                   ADRESSE                                        CLASSE LOGEMENT                   SURFACE      DISTANCE DPE DU
+
+  Section BT n°              9 Impasse fabre 85000 La                       F            Maison               92 m²        100 m     13/10/2026
+  116                        Roche-sur-Yon · propriétaire :
+                             SECTION DU LOT ST JOSEPH
+                             (COLL)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        36 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                              09 · Opportunités autour du terrain
+
+
+
+
+  PARCELLE                   ADRESSE                                        CLASSE LOGEMENT                   SURFACE      DISTANCE DPE DU
+
+  –                          15 Rue jean perrin 85000 La                    G            Maison               69 m²        260 m     15/01/2024
+                             Roche-sur-Yon
+
+  –                          123 Rue du Moulin Rouge 85000                  F            Maison               85 m²        350 m     15/12/2021
+                             La Roche-sur-Yon
+
+
+
+La parcelle est celle du point d'adresse du logement (cadastre). Pour connaître son propriétaire lorsqu'il s'agit d'un particulier,
+demandez un relevé de propriété au service de la publicité foncière ou à la mairie.
+
+Ces informations proviennent de bases publiques et ne préjugent ni de l'intention de vendre des propriétaires ni de la
+constructibilité des parcelles citées, qui relève d'une étude au cas par cas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        37 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+      10           Votre projet, étape par étape
+De l'achat du terrain à la déclaration aux impôts : démarches, délais, coûts et contacts.
+
+
+
+10.1 Analyse
+Le terrain est soumis au plan local d'urbanisme (PLU) de La Roche-sur-Yon. Il est classé en zone UB.
+Zone urbaine : secteur déjà urbanisé où les équipements publics existants ou en cours de réalisation
+permettent d'accueillir des constructions. Les constructions y sont admises dans le respect du
+règlement de la zone (destinations, implantation, hauteur, emprise, aspect).
+
+En l'état des documents consultés, un projet de construction est envisageable. Sa faisabilité dépend du
+règlement écrit de la zone : destinations autorisées, implantation par rapport aux voies et aux limites,
+hauteur maximale, emprise au sol, coefficient d'espaces verts, stationnement et aspect extérieur.
+
+
+10.2 Votre projet, étape par étape
+Les étapes ci-dessous suivent l'ordre réel d'un projet de construction, de l'achat du terrain à la déclaration aux
+impôts. Les montants sont indicatifs et à confirmer par devis.
+
+  1      Avant d'acheter le terrain
+         Vérifiez les règles de la zone (chapitres précédents), puis demandez un certificat d'urbanisme opérationnel
+         (Cerfa 13410, sans frais, réponse sous 2 mois) : il fige les règles pendant 18 mois. En zone d'argiles d'aléa
+         moyen ou fort, le vendeur doit fournir une étude de sol préalable.
+         Contact : Mairie de La Roche-sur-Yon · 02 51 47 47 47 · mairie@larochesuryon.fr · formulaire sur service-public.fr
+         (rechercher « Cerfa 13410 »)
+
+  2      Les études
+         Étude de sol géotechnique (G2) pour dimensionner les fondations : 1 500 à 3 000 €. Étude thermique RE2020,
+         obligatoire pour le permis : 500 à 1 500 €. Bornage par un géomètre si les limites sont incertaines. L'étude de
+         sol ne porte pas sur les espèces protégées : un écologue n'intervient qu'en cas d'enjeu (chapitre
+         Environnement).
+         Géomètres proches du terrain : liste à la fin de ce chapitre
+
+  3      Les plans
+         Architecte obligatoire si la surface de plancher totale dépasse 150 m². En dessous, vous pouvez dessiner les
+         plans vous-même ou faire appel à un dessinateur ou maître d'œuvre (environ 1 500 à 4 000 € le dossier de
+         permis). Architecte : 3 000 à 8 000 € pour la seule mission de permis, 8 à 12 % du coût des travaux pour une
+         mission complète avec suivi du chantier.
+         Trouver un architecte : annuaire de l'Ordre des architectes sur architectes.org
+
+  4      Déposer le permis
+         Formulaire Cerfa 13406 (maison individuelle) et pièces PCMI1 à PCMI8 : plan de situation, plan de masse,
+         coupe, notice, plans des façades et toitures, insertion dans le paysage, photos, attestation RE2020. Dépôt en
+         mairie ou en ligne sur le guichet numérique de la commune. La mairie a 1 mois pour réclamer une pièce
+         manquante ; l'instruction dure 2 mois à partir du dossier complet, plus en secteur protégé.
+         Dépôt : Mairie de La Roche-sur-Yon · 02 51 47 47 47 · mairie@larochesuryon.fr · formulaire sur service-public.fr
+         (rechercher « Cerfa 13406 »)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        38 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+  5      Affichage et recours
+         Dès l'accord, installez le panneau de permis sur le terrain, lisible depuis la voie, pendant toute la durée du
+         chantier. Les tiers ont 2 mois à compter du premier jour d'affichage pour contester ; la mairie peut retirer un
+         permis illégal pendant 3 mois. Faites constater l'affichage par un commissaire de justice (environ 300 à 600 €
+         pour les trois constats).
+         Commissaires de justice : annuaire sur commissaire-justice.fr
+
+  6      Avant les travaux
+         Souscrivez l'assurance dommages-ouvrage, obligatoire (souvent 2 à 4 % du coût de la construction). Signez
+         le contrat de construction de maison individuelle ou les marchés des artisans. Déposez la déclaration
+         d'ouverture de chantier (Cerfa 13407) le jour du démarrage. Le permis est valable 3 ans, prorogeable deux
+         fois d'un an.
+         Déclaration d'ouverture : Mairie de La Roche-sur-Yon · 02 51 47 47 47 · mairie@larochesuryon.fr
+
+  7      Le financement
+         La banque débloque le prêt au fur et à mesure du chantier, sur présentation des factures des entreprises ou
+         des appels de fonds du constructeur. Avec un contrat de construction de maison individuelle, l'échéancier
+         est encadré par la loi : 15 % à l'ouverture du chantier, 25 % aux fondations, 40 % aux murs, 60 % hors d'eau,
+         75 % hors d'air et cloisons, 95 % aux équipements, le solde à la réception. Des intérêts intercalaires peuvent
+         courir sur les sommes débloquées.
+         Votre banque ou votre courtier
+
+  8      La fin du chantier
+         Réception des travaux avec le constructeur ou les artisans, avec réserves si nécessaire. Déposez ensuite la
+         déclaration attestant l'achèvement et la conformité des travaux (DAACT, Cerfa 13408), avec l'attestation
+         RE2020 de fin de chantier. La mairie a 3 mois pour la contester (5 mois en secteur protégé).
+         Dépôt : Mairie de La Roche-sur-Yon · 02 51 47 47 47 · mairie@larochesuryon.fr
+
+  9      Les impôts
+         Dans les 90 jours suivant l'achèvement, déclarez la construction sur impots.gouv.fr, espace « Gérer mes
+         biens immobiliers ». Cette déclaration sert au calcul de la taxe d'aménagement (payée en une fois sous 1 500
+         €, sinon en deux fois, estimation plus bas dans ce chapitre) et de la taxe foncière, avec une exonération
+         possible les deux premières années selon la commune.
+         impots.gouv.fr › Espace particulier › Gérer mes biens immobiliers
+
+
+10.3 Les points à vérifier pour ce terrain
+  1      Certificat d'urbanisme opérationnel
+         Le demander en mairie (formulaire Cerfa 13410), en décrivant le projet. Gratuit, il indique si le terrain
+         peut accueillir le projet et fige les règles d'urbanisme pendant 18 mois.
+
+  2      Règlement de la zone
+         Lire le règlement écrit de la zone UB et, le cas échéant, les orientations d'aménagement, disponibles sur
+         le Géoportail de l'Urbanisme.
+
+  3      Réseaux et accès
+         Vérifier l'accès à une voie publique ou privée adaptée, la desserte en eau potable et en électricité, et le
+         mode d'assainissement. En l'absence de réseau collectif, une étude de sol et l'avis du service public
+         d'assainissement non collectif (SPANC) sont nécessaires.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        39 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+  4      Bornage
+         Faire réaliser un bornage par un géomètre-expert pour fixer les limites exactes et la surface réelle du
+         terrain.
+
+  5      Sécuriser un achat
+         Pour une acquisition, prévoir dans le compromis une condition suspensive d'obtention d'un permis de
+         construire purgé de tout recours.
+
+
+10.4 Délais indicatifs d'instruction
+  DEMANDE                                                                                 DÉLAI DE DROIT COMMUN
+
+  Certificat d'urbanisme d'information (CUa)                                              1 mois
+
+  Certificat d'urbanisme opérationnel (CUb)                                               2 mois
+
+  Déclaration préalable                                                                   1 mois
+
+  Permis de construire une maison individuelle                                            2 mois
+
+  Permis d'aménager, autres permis de construire                                          3 mois
+
+
+
+Ces délais peuvent être majorés, notamment en site classé ou inscrit, aux abords d'un monument historique ou lorsque la
+consultation d'un service extérieur est nécessaire.
+
+
+10.5 Taxe d'aménagement à prévoir
+      Exemple : une maison de 120 m² en résidence principale, avec une piscine de 3 × 6 m. Sur ce terrain, la
+      taxe d'aménagement à prévoir est d'environ 5 020 €.
+
+
+
+  PROJET                                                                                                       TAXE ESTIMÉE
+
+  Maison de 120 m², résidence principale                                                                       4 680 €
+
+  Piscine de 3 × 6 m (18 m²)                                                                                   340 €
+
+  Total à prévoir                                                                                              5 020 €
+
+
+
+Taux appliqués : 5 % pour la commune et 2,5 % pour le département, sur une valeur forfaitaire de 892 € par m² en 2026 (251
+€ par m² de bassin pour une piscine). Une résidence principale bénéficie d'un abattement de 50 % sur ses 100 premiers m².
+
+La taxe est due une fois les travaux terminés : elle se déclare sur impots.gouv.fr dans les 90 jours suivant l'achèvement, et
+se paie en deux fois au-delà de 1 500 €. Pour calculer votre propre projet :
+terrenurbanisme.com/outils/taxe-amenagement.html
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        40 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+10.6 Implanter une entreprise : zone France Ruralités Revitalisation
+     La commune de La Roche-sur-Yon n'est pas classée en zone France Ruralités Revitalisation (FRR). Une
+     entreprise qui s'y installe ne bénéficie pas de l'exonération d'impôt sur les bénéfices liée à ce zonage.
+
+
+
+Source : ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 (collectivites-locales.gouv.fr).
+
+
+10.7 Géomètres proches du terrain
+Le géomètre-expert est le seul professionnel habilité à fixer les limites de propriété (bornage) et à établir les
+documents d'arpentage déposés au cadastre. Il intervient aussi pour les relevés topographiques et les
+divisions de terrain.
+
+0,6 km            YOUNES NORI
+                                                                                                                           Coordonnées
+                  79 RUE SADI CARNOT 85000 LA ROCHE-SUR-YON
+
+
+0,8 km            AEC FREDERIC BONNARD
+                                                                                                                           Coordonnées
+                  15 RUE LUNEAU 85000 LA ROCHE-SUR-YON
+
+
+0,9 km            SELARL GEOMOTIS
+                                                                                                                           Coordonnées
+                  12 RUE PAUL DOUMER 85000 LA ROCHE-SUR-YON
+
+
+2,1 km            SGEO DETECTION DE RESEAUX EN VENDEE
+                                                                                                                           Coordonnées
+                  8 RUE RENE COTY 85000 LA ROCHE-SUR-YON
+
+
+2,5 km            CHRISTOPHE BRETAUDEAU - GEOMETRE EXPERT
+                                                                                                                           Coordonnées
+                  22 RUE BENJAMIN FRANKLIN 85000 LA ROCHE-SUR-YON
+
+
+2,5 km            GEOUEST - VERSTRADA
+                                                                                                                           Coordonnées
+                  46 RUE BENJAMIN FRANKLIN 85000 LA ROCHE-SUR-YON
+
+
+Source : répertoire Sirene de l'INSEE (activité des géomètres), classé par distance au terrain. L'inscription d'un cabinet à l'Ordre
+des géomètres-experts se vérifie sur geometre-expert.fr. Le bouton « Coordonnées » ouvre la fiche du cabinet (téléphone,
+horaires, itinéraire). Cette liste est fournie à titre indicatif, sans partenariat ni recommandation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         41 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                           La Roche-sur-Yon · BT 62
+          TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+     11            État des risques (ERP) pré-rempli
+     DANS CETTE SECTION
+
+     Le formulaire réglementaire à remettre à l'acquéreur ou au locataire, pré-rempli à partir des
+     bases officielles : plans de prévention, sismicité, radon, sols pollués, trait de côte, bruit des
+     aérodromes.
+
+
+Articles L. 125-5 à L. 125-7 et R. 125-23 à R. 125-27 du Code de l'environnement · modèle fixé par l'arrêté du 27 septembre
+2022.
+
+
+     Formulaire pré-rempli à partir de Géorisques et du Géoportail de l'Urbanisme à la date du rapport.
+     Avant de le remettre à l'acquéreur ou au locataire, le vendeur ou le bailleur le vérifie, le complète
+     (sinistres indemnisés) et le signe ; il doit dater de moins de six mois à la signature de la promesse, du
+     bail ou de l'acte.
+
+
+
+
+11.1 Situation du bien
+Commune                                                  La Roche-sur-Yon (85191)
+
+Département                                              Vendée (85)
+
+Références cadastrales                                   Section BT, parcelle n° 62 · 85191000BT0062
+
+Surface cadastrale                                       466 m²
+
+
+
+11.2 Plans de prévention des risques
+  L'IMMEUBLE EST SITUÉ DANS LE PÉRIMÈTRE…                                         RÉPONSE                DÉTAIL
+
+  d'un plan de prévention des risques naturels (PPRN)                             Non                    Aléas à l'adresse : inondation, remontée
+  prescrit, appliqué par anticipation ou approuvé                                                        de nappe
+
+  d'un plan de prévention des risques miniers (PPRM)                              Non                    Non recensé
+
+  d'un plan de prévention des risques technologiques                              Non                    Risques technologiques sur la commune
+  (PPRT)                                                                                                 : installations industrielles (icpe),
+                                                                                                         canalisations de matières dangereuses,
+                                                                                                         pollution des sols
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        42 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+11.3 Autres zonages réglementaires
+  L'IMMEUBLE EST SITUÉ…                                                           RÉPONSE                DÉTAIL
+
+  dans une commune de sismicité (zones 2 à 5 : règles de                          Oui                    Zone 3 – moderee
+  construction parasismique)
+
+  dans une commune à potentiel radon de niveau 3                                  Oui                    Catégorie 3 (potentiel significatif)
+
+  dans un secteur d'information sur les sols (SIS)                                À vérifier             SIS recensé à proximité : Agence
+                                                                                                         clientèle EDF-GDF Services du Pays
+                                                                                                         Yonnais (ex-USINE A GAZ). Vérifier
+                                                                                                         l'arrêté préfectoral.
+
+  dans une zone exposée au recul du trait de côte                                 Non                    Non concerné selon Géorisques
+
+  dans une zone de bruit d'un plan d'exposition au bruit                          À vérifier             Aucun PEB annexé au document
+  d'aérodrome (PEB)                                                                                      d'urbanisme ; vérifier auprès de la mairie
+
+  dans une zone de retrait-gonflement des argiles                                 Oui                    Existant – modéré
+  (information)
+
+
+
+
+11.4 Sinistres indemnisés et déclarations
+Arrêtés de catastrophe naturelle sur la commune : 19 (liste en section Risques). Le vendeur ou le bailleur
+déclare ci-dessous les sinistres ayant donné lieu à une indemnisation au titre des catastrophes naturelles ou
+technologiques pendant la période où il a été propriétaire.
+
+Sinistres indemnisés                                     [ ] Oui [ ] Non
+
+Vendeur ou bailleur                                      Nom : ____________________ Date : ___/___/______ Signature :
+
+Acquéreur ou locataire                                   Nom : ____________________ Date : ___/___/______ Signature :
+
+
+L'état des risques officiel peut aussi être édité gratuitement sur Géorisques (errial.georisques.gouv.fr). Les informations
+ci-dessus sont établies à partir des bases nationales ; en cas de divergence, l'arrêté préfectoral relatif à l'information des
+acquéreurs et des locataires fait foi.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           43 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+    12             Avertissement et sources
+     DANS CETTE SECTION
+
+     La portée de ce rapport et la liste des sources publiques consultées.
+
+
+
+12.1 Nature du document
+Ce rapport est un document d'information établi automatiquement, à la date indiquée en page de garde, à
+partir des données publiques officielles alors disponibles. Il n'a aucune valeur contractuelle, réglementaire ou
+juridique.
+
+
+12.2 Ce que ce rapport n'est pas
+Il ne constitue ni un certificat d'urbanisme au sens de l'article L. 410-1 du Code de l'urbanisme, ni une
+autorisation d'urbanisme (permis de construire, permis d'aménager, déclaration préalable), ni un état des
+risques au sens de l'article L. 125-5 du Code de l'environnement, ni un bornage, ni une expertise, ni une
+évaluation immobilière, ni une consultation juridique. Il n'engage en rien l'administration.
+
+
+12.3 Permis de construire
+Ce rapport ne peut en aucun cas être joint, produit ou invoqué à l'appui d'une demande de permis de
+construire, de permis d'aménager ou de déclaration préalable, ni opposé à la mairie ou à un service de l'État. Il
+ne garantit pas l'obtention d'une autorisation : seule l'autorité compétente se prononce, au vu d'un projet
+précis et de l'ensemble des règles applicables à la date de sa décision.
+
+
+12.4 Limites des données
+Les données sont produites par des organismes publics dont l'éditeur n'est ni l'auteur ni le garant. Elles
+peuvent être incomplètes, imprécises ou ne pas refléter une modification, une révision, une mise en
+compatibilité, une annulation contentieuse, un sursis à statuer ou une procédure en cours. Le plan cadastral,
+document fiscal, ne fait pas foi des limites de propriété. Surfaces, distances, altitudes et pentes sont
+approchées. Les extraits et analyses du règlement sont une aide à la lecture : seul le texte intégral du
+document d'urbanisme approuvé, consultable en mairie, fait foi.
+
+
+12.5 Avant toute décision
+Avant toute acquisition, cession, financement, promesse de vente ou dépôt d'une demande, le lecteur doit
+obtenir un certificat d'urbanisme opérationnel auprès de la mairie, consulter le document d'urbanisme en
+vigueur et recueillir l'avis d'un professionnel habilité (notaire, architecte, géomètre-expert, avocat). Pour un
+achat, il est recommandé de stipuler une condition suspensive d'obtention d'un permis de construire purgé de
+tout recours.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         44 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+12.6 Responsabilité
+L'éditeur ne saurait être tenu responsable d'une décision prise sur le seul fondement de ce rapport, ni d'un
+refus d'autorisation, d'une erreur ou d'une omission des sources publiques, dans les limites prévues par les
+conditions générales de vente acceptées lors de la commande.
+
+
+12.7 Sources consultées
+  DONNÉE                                                    SOURCE
+
+  Cadastre                                                  DGFiP, plan cadastral informatisé, via API Carto (IGN)
+
+  Photographies et plans                                    IGN, Géoplateforme : orthophotographies, Plan IGN, parcellaire express
+
+  Urbanisme                                                 Géoportail de l'Urbanisme : zonage, prescriptions, informations, servitudes
+                                                            d'utilité publique
+
+  Littoral                                                  IGN, BD TOPO (limite terre-mer) ; communes littorales (Géoportail de
+                                                            l'Urbanisme)
+
+  Montagne                                                  Ministère de la Cohésion des territoires, communes de la loi Montagne
+
+  Risques                                                   Géorisques (ministère de la Transition écologique) : rapport de risques,
+                                                            arrêtés CatNat, sismicité, radon, ICPE, sites pollués
+
+  Environnement                                             Inventaire national du patrimoine naturel (PatriNat), via API Carto
+
+  Altitude, pente et exposition                             IGN, RGE ALTI
+
+  Ensoleillement                                            Calcul astronomique de la course du soleil ; masque du relief (IGN, RGE
+                                                            ALTI) et des bâtiments (IGN, BD TOPO)
+
+  Voirie et accès                                           IGN, BD TOPO (tronçons de route)
+
+  Permis de construire                                      Sitadel, service des données et études statistiques (SDES) du ministère
+                                                            chargé du logement
+
+  Photographies anciennes                                   IGN, BD ORTHO historique
+
+  Fibre et internet                                         Arcep, Ma connexion internet (éligibilité par adresse)
+
+  Géomètres                                                 Répertoire Sirene (INSEE), activité des géomètres
+
+  Propriétaires personnes morales                           DGFiP, fichiers des parcelles des personnes morales (diffusion Koumoul)
+
+  Diagnostics énergétiques                                  ADEME, base des DPE des logements existants
+
+  Procédures collectives                                    Bodacc, annonces commerciales (DILA)
+
+  Bâtiments                                                 IGN, BD TOPO
+
+  Réseau électrique                                         Agence ORE (gestionnaires de réseaux de distribution : Enedis, EDF Corse
+                                                            et entreprises locales) : réseau basse tension et postes de distribution
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         45 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+  DONNÉE                                                    SOURCE
+
+  Taxe d'aménagement                                        DGFiP, éléments de taxation votés par les collectivités ; valeurs forfaitaires
+                                                            fixées par arrêté
+
+  Rapport officiel de risques                               Géorisques, ministère chargé de l'environnement
+
+  Zone France Ruralités Revitalisation                      ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 ; article
+                                                            44 quindecies A du code général des impôts
+
+  Marché immobilier                                         Statistiques des demandes de valeurs foncières (DVF) par commune, DGFiP
+                                                            et Etalab
+
+  Date d'extraction                                         20/11/2026
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         46 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            La Roche-sur-Yon · BT 62
+         TerrenUrbanisme
+                                                                                                                     Annexe · règlement de la zone
+
+
+
+
+ANNEXE
+
+
+Règlement écrit · zone UB
+Les pages suivantes reproduisent le chapitre du règlement officiel applicable à la zone de la parcelle
+(pages 36 à 47 du document approuvé), tel que publié sur le Géoportail de l'Urbanisme. Il s'agit d'une
+reproduction à titre d'information : seule la version approuvée tenue à disposition en mairie fait foi, avec
+ses annexes, plans et éventuelles modifications ultérieures.
+Règlement complet :
+https://data.geopf.fr/annexes/gpu/documents/DU_85191/d445b810e3b44ddce0346d1531c0f478/85191_reglement_20260713.pdf
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        47 / 60
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+ZONE URBAINE MIXTE
+
+     ZONE UB
+
+
+
+
+       Règlement
+     Page 36 sur 183
+                                                                             ZONE UB
+La zone UB est une zone mixte à vocation principale d'habitat couvrant les secteurs
+d'extension du centre historique, et les deux bourgs anciens du Bourg-sous-la-Roche et de
+Saint-André d'Ornay, comportant différents types d'habitat (maisons individuelles, mitoyennes,
+groupées, collectifs). La morphologie de cette zone varie en fonction de la période de
+construction et accueille des maisons de faubourg, de l'habitat diffus, des lotissements
+pavillonnaires, des opérations groupées, ou encore des quartiers d'habitat mixte. Elle peut
+également accueillir des activités compatibles avec l'habitat et des équipements publics.
+
+La zone UB comporte un sous-zonage UBc correspondant aux polarités commerciales des
+quartiers et des deux anciens bourgs. Les nouvelles implantations commerciales ne seront
+autorisées qu'en zone UBc.
+Le reste de la zone UB autorisera le maintien des activités commerciales existantes à la date
+d'approbation du PLU, leur extension modérée, et même la reprise d'une autre activité
+commerciale sur site.
+
+Pour les secteurs situés dans le périmètre du Site Patrimonial Remarquable (SPR), il
+convient de se référer aux dispositions règlementaires particulières annexées au PLU
+(périmètre du SPR, carte des qualités architecturales et paysagères, règlement, plan
+des hauteurs) afin de compléter la lecture du présent règlement.
+Pour les secteurs situés en dehors du périmètre du SPR, il convient de se référer aux
+dispositions du présent règlement.
+
+La zone UB est très partiellement concernée par la zone inondable de la Vallée de l'Yon.
+
+Elle est également concernée par la présence des ouvrages GRTgaz et de leurs servitudes
+d’utilité publique (cf plan des réseaux, et notice et plan des SUP / I3 et SUP1).
+
+Cette zone fait l'objet d'orientations d’aménagement et de programmation (OAP) dont les
+principes devront être respectés.
+
+
+Principaux objectifs de la zone :
+    Redynamiser les polarités de quartier à travers la centralisation des commerces de
+       proximité
+    Favoriser la densification du territoire par des règles adaptées, permettant le
+       comblement des dents creuses, la division de parcelles, le renouvellement urbain et
+       une constructibilité plus importante
+    Permettre une diversification de l'habitat et une mixité sociale et fonctionnelle
+
+
+
+N.B. : En sus des dispositions réglementaires de la zone décrites ci-après, tout projet
+d’urbanisme devra prendre en compte également les dispositions réglementaires
+communes aux zones figurant aux pages 13 à 19 du présent règlement.
+
+
+
+
+                                         Règlement
+                                       Page 37 sur 183
+                                                                            ZONE UB
+
+
+I - USAGE DES SOLS ET DESTINATION DES CONSTRUCTIONS
+
+
+1 - DESTINATIONS ET SOUS DESTINATIONS AUTORISÉES
+
+Habitation
+ Les logements
+ Les résidences démontables constituant l’habitat permanent de leurs utilisateurs, de type
+   tiny house
+ Les hébergements
+
+Commerce et activités de service
+Sous réserve de ne pas créer de nuisances (bruit, poussières, odeurs, déchets notamment) ni
+de risques (explosion, incendie, par exemple) pour le voisinage, sont autorisés :
+ L'artisanat et le commerce de détail
+ La restauration
+ Le commerce de gros
+ Les activités de services où s'effectue l'accueil d'une clientèle
+ Les hôtels, les autres hébergements touristiques
+
+Autres activités des secteurs secondaire ou tertiaire
+Sous réserve de ne pas créer de nuisances graves pour le voisinage, sont autorisés :
+ Les entrepôts
+ Les bureaux
+ Les centres de congrès et d’exposition
+
+Equipements d’intérêt collectif et services publics
+ Les constructions et installations, dépôts et ouvrages nécessaires aux services publics ou
+   d'intérêt collectif (équipements sportifs, d'enseignement, de santé, EHPAD, salle d'art et
+   de spectacles, locaux administratifs, réseaux, pylônes, antennes de télécommunication,
+   transformateurs d'électricité, etc) et à l’exploitation du trafic ferroviaire
+
+
+
+2 - INTERDICTION ET LIMITATION DE CERTAINS USAGES ET AFFECTATIONS
+DES SOLS, CONSTRUCTIONS ET ACTIVITES
+
+Interdictions :
+ Toute construction ou activité qui, par sa destination, sa nature, son importance ou son
+    aspect, est incompatible avec l'habitation
+ Les activités industrielles
+ Les cinémas
+ Les installations classées soumises à autorisation
+ La création de commerces de détail en dehors de la zone UBc et des linéaires
+    commerciaux
+ Toute construction en zone non aedificandi
+ Les dépôts de toute nature, ainsi que les carrières
+ Les terrains de camping et de caravaning, le stationnement des caravanes sur les terrains
+    non liés à une habitation, les garages collectifs de caravanes
+ Les habitations légères et de loisirs et les résidences mobiles de loisirs
+ Les bâtiments agricoles
+ Les éoliennes
+
+                                        Règlement
+                                      Page 38 sur 183
+                                                                               ZONE UB
+   Toute construction et plantation sur le passage de canalisations de gaz naturel haute
+    pression concernées par la servitude I3 (zone non aedificandi et non sylvandi)
+
+
+Sont autorisés sous conditions :
+ La reconstruction d'un bâtiment à l'identique est autorisée dans un délai de 10 ans,
+   conformément à l'article L.111-15 du Code de l'Urbanisme
+ Les exhaussements et affouillements à condition qu'ils soient nécessaires aux
+   constructions et activités autorisées dans la zone ou à la défense incendie, au
+   fonctionnement des services publics, ainsi qu’aux projets de réalisation ou d’amélioration
+   d’infrastructures routières.
+ Les travaux et/ou extensions concernant les installations classées soumises à autorisation,
+   existantes à la date d'approbation du PLU, sous réserve de ne pas créer de nuisances
+   (bruit, pollution, odeurs, déchets notamment) les rendant incompatibles avec l’habitat
+ L’extension des constructions et la construction d'annexes dès lors que ces extensions ou
+   annexes s'intègrent dans l'environnement, ainsi que les aménagements nécessaires ou
+   liés à la zone, sous réserve d'une bonne intégration dans leur environnement.
+ Toute intervention sur un élément du patrimoine yonnais repéré par le site patrimonial
+   remarquable sera soumise aux prescriptions du règlement du SPR figurant en annexe du
+   PLU (cf servitudes d'utilité publique).
+ Toute intervention sur une construction identifiée au plan de zonage au titre de l’article
+   L.151-19 du Code de l’Urbanisme sera autorisée sous réserve d'une mise en valeur des
+   caractéristiques qui fondent sa protection (cf Fiches de protection annexées au règlement).
+ Les abris de jardins liés aux jardins collectifs (familiaux, partagés) seront autorisés si leur
+   emprise au sol est inférieure ou égale à 50 m² dans le cas d’un abri collectif (1 seul abri
+   collectif autorisé par jardin collectif), ou 5 m² dans le cas d’un abri individuel.
+ Les ouvrages de transport, de production et de distribution d'énergie électrique et
+   renouvelable, sous réserve du respect des conditions de distances réglementaires
+ Les dispositifs de mise en œuvre d'énergies renouvelables intégrés aux éléments
+   architecturaux des constructions, dans le respect du règlement du SPR sur les secteurs
+   concernés.
+
+    Mixité sociale :
+   Pour toute opération de plus de 1 500 m² de surface de plancher (SDP) affectée au
+    logement :
+     15 % au minimum de la SDP devront être affectés à du logement locatif aidé
+        bénéficiant de financement de type Prêt Locatif à Usage Social (PLUS), Prêt Locatif
+        Aidé d’Intégration (PLAI), ou Prêt Locatif Social (PLS),
+     10 % au minimum de la SDP devront être affectés à du logement en accession
+        sociale (Prêt Social Location Accession (PSLA), Bail Réel Solidaire (BRS), ou
+        équivalent)
+
+    N.B. : Cette règle ne s’applique pas sur les secteurs couverts par une orientation
+    d’aménagement et de programmation, bénéficiant d’objectifs adaptés à chaque site en
+    matière de mixité sociale.
+
+    Commerce de détail :
+   La création de nouveaux commerces et l’implantation de distributeurs alimentaires ne sont
+    autorisées qu'en zone UBc.
+   En zone UB, le maintien de l'activité commerciale existante à la date d'approbation du
+    PLU est admis, sa reprise, ainsi que les extensions dont la surface totale ne devra pas
+    excéder 20 % maximum de la surface de plancher initiale, mais la division des commerces
+    est interdite.
+   En bordure des voies repérées par un linéaire commercial et artisanal, les locaux situés
+    en rez-de-chaussée, qu'il s'agisse d'activités du type commerce, artisanat, services, etc,
+
+                                          Règlement
+                                        Page 39 sur 183
+                                                                              ZONE UB
+    ou de logements, ne peuvent être remplacés que par du commerce ou de l'artisanat
+    exclusivement, sauf en cas de création de locaux nécessaires aux services publics ou
+    d’intérêts collectifs, ou de locaux d’accès à l’immeuble. La création de nouveaux
+    commerces et locaux dédiés à l'artisanat y est également autorisée. Les extensions n’y
+    sont pas limitées.
+
+    Dans les secteurs situés en zone inondable :
+   Les constructions autorisées doivent être édifiées de manière à présenter un minimum
+    d'obstacle à l’écoulement des eaux. Les constructions sur pilotis seront recommandées.
+   Les clôtures doivent être conçues de façon à ne pas faire obstacle à l'écoulement des
+    eaux.
+   Les exhaussements des sols ne sont admis que s'ils n'ont pas pour effet de faire obstacle
+    à l’écoulement des eaux.
+   Les niveaux habitables des constructions ne pourront être implantés à moins de 1 mètre
+    au-dessus des plus hautes eaux relevées sur la carte des zones inondables.
+   La protection des réseaux d’électricité, de téléphone et de gaz particulièrement vulnérables
+    aux effets de l’eau devront être équipés d’un dispositif de mise hors service automatique
+    ou être installés au moins au niveau des planchers habitables.
+   Les éventuels produits polluants, miscibles ou non dans l’eau ou des produits sensibles à
+    l’eau qui pourraient être en contact direct avec l’eau devront être stockés au-dessus des
+    plus hautes eaux relevées sur la carte des zones inondables.
+   Il est fortement conseillé d’ancrer ou d’arrimer les cuves pour éviter que ces installations
+    ne soient emportées par une crue.
+
+
+
+II - CARACTERISTIQUES URBAINES,                                  ARCHITECTURALES,
+ENVIRONNEMENTALES ET PAYSAGERES
+
+
+1 - VOLUMETRIE ET IMPLANTATION DES CONSTRUCTIONS
+
+Les règles d’implantation et de hauteur ne s’appliquent pas aux constructions et installations
+nécessaires aux services publics ou d’intérêt collectif, ainsi qu'aux ouvrages de transport, de
+production et de distribution d'énergies électrique et renouvelables.
+
+Une zone non aedificandi de 4 m est à respecter en bordure de l'Yon sur chaque rive.
+
+Implantation par rapport aux voies publiques ou privées :
+Règle générale :
+En l’absence d’indication spéciale figurant au plan de zonage et imposant l’alignement bâti
+(liste des alignements bâtis figurant en fin de règlement), les constructions nouvelles devront
+être implantées :
+      entre 0 et 10 m par rapport à l'alignement des voies publiques ou privées
+
+
+
+
+                                          Règlement
+                                        Page 40 sur 183
+                                                                                ZONE UB
+
+
+
+
+Dispositions particulières :
+
+   Les extensions, les annexes non accolées et les piscines ne sont pas concernées par ces
+    règles d’implantation.
+
+   Dans le périmètre du SPR, il convient de se reporter à la fiche relative aux "implantations"
+    figurant dans le règlement du SPR annexé au PLU, comportant des dispositions
+    particulières.
+
+   Dans le cas d'une construction en second rideau, la future construction pourra déroger aux
+    règles d'implantation par rapport aux voies publiques ou privées.
+
+   Dans le cas de parcelles bordées par plusieurs voies publiques ou privées, se référer à la
+    définition des limites séparatives / parcellaires du lexique du présent règlement.
+
+   En bordure des voies ferrées, aucune construction autre qu’un mur de clôture ne peut être
+    édifiée à moins de 2 mètres de la limite légale du chemin de fer. Celle-ci sera déterminée
+    par le service gestionnaire. Ainsi et préalablement à tout projet de clôture ou de
+    construction, le riverain devra effectuer une demande d’alignement auprès du service
+    gestionnaire (cf. tableau des servitudes d’utilité publique).
+
+
+Implantation par rapport aux limites séparatives :
+Règle générale :
+ L’implantation des constructions et des annexes non accolées sera libre.
+
+Dispositions particulières :
+ Pour les constructions en second rideau, les constructions nouvelles pourront s'implanter :
+   - en limite séparative ou en retrait, sur une ou plusieurs limites, pour des constructions
+      allant jusqu'à R+1.
+           N.B. : Si le projet jouxte des constructions de hauteurs plus importantes en limites
+           séparatives, la hauteur de la construction nouvelle pourra s'adapter à la
+           construction voisine.
+
+    -   en retrait pour des constructions supérieures au R+1, la distance par rapport à la limite
+        séparative devant être au moins égale à la moitié de la hauteur de la construction :
+        L≥H/2 (L représentant la distance de la construction à la limite séparative)
+
+
+
+
+                                          Règlement
+                                        Page 41 sur 183
+                                                                                               ZONE UB
+    Illustrations de cette règle :
+    Exemple d’implantation d’un bâtiment en                             Exemple d’implantation d’un bâtiment
+    RDC ou R+1, en second rideau                                        supérieur à R+1, en second rideau
+
+                                                                                        VOIE
+
+
+
+
+                                                                                      A partir
+                                                                          L ≥ H/2     de R+2             L ≥ H/2
+
+
+
+
+                                                        Second rideau
+                                                                                               L ≥ H/2
+
+
+     L’implantation en limite ou en retrait peut
+     se faire sur une ou plusieurs limites
+     séparatives, au gré du projet.
+
+
+   Dans le cadre d'une réhabilitation de l'existant, une dérogation à la règle de retrait sera
+    autorisée dans le cas d'une installation d'un dispositif d'isolation par l'extérieur, de
+    récupération des eaux de pluie ou favorisant la production d'énergie renouvelable.
+
+   Les bassins des piscines devront être implantés en retrait des limites séparatives.
+
+   Toute construction est interdite à moins de 6 mètres du mur d'enceinte des établissements
+    pénitentiaires.
+
+   En cas de réaménagement de tout ou partie d'un îlot : l’implantation en limites séparatives
+    sera libre.
+
+
+Hauteur
+Règles générales :
+ La hauteur est mesurée à partir du terrain naturel avant travaux. En cas de terrain en pente,
+   c'est le niveau du terrain naturel moyen qui sera appliqué.
+
+   Dans le périmètre du SPR, la hauteur sera limitée par le plan des secteurs de hauteurs
+    homogènes.
+
+   En dehors du périmètre du SPR, la hauteur autorisée est limitée à R+2+Combles ou
+    attique.
+    Toutefois, des constructions pourront être autorisées jusqu’à R+4+attique (hauteur
+    absolue 20 m) sur des unités foncières ≥ 1 000 m².
+
+
+
+
+                                                     Règlement
+                                                   Page 42 sur 183
+                                                                              ZONE UB
+Dispositions particulières :
+ Sur le secteur de La Marronnière, dans le périmètre correspondant à l’Orientation
+   d’Aménagement et de Programmation, des constructions pourront être autorisées jusqu’à
+   R+5+attique sur des unités foncières ≥ 1 000 m².
+
+   Sur le secteur Sully, dans le périmètre correspondant à l’Orientation d’Aménagement et de
+    Programmation, la hauteur maximale des constructions n’est pas réglementée.
+
+   Dans un périmètre de 50 mètres autour de l'établissement pénitentiaire délimité par son
+    mur d'enceinte extérieur, les immeubles ne peuvent excéder R+2.
+
+   La hauteur des annexes non accolées à la construction principale est limitée à 4 m au
+    faîtage, ou 3 m à l'égout du toit.
+
+
+Densité
+ Les annexes non accolées à la construction principale (hors piscines) doivent avoir une
+   emprise au sol cumulée inférieure ou égale à 40 m².
+       Les espaces aménagés pour le stationnement des vélos conformément à
+         l’obligation réglementaire, ne sont pas concernés par cette règle de densité.
+
+
+2 - QUALITE          URBAINE,      ARCHITECTURALE,            ENVIRONNEMENTALE             ET
+PAYSAGERE
+
+Il conviendra de se référer au règlement du SPR complétant les dispositions suivantes, pour
+tout projet situé à l'intérieur du périmètre.
+
+
+Intégration architecturale des projets
+ Les constructions, par leur situation, leur architecture, leur dimension ou leur aspect
+    extérieur ne doivent pas porter atteinte au caractère ou à l’intérêt des lieux environnants.
+    L'architecture contemporaine est toutefois autorisée.
+ Les travaux sur les bâtiments existants ne doivent pas porter atteinte à leur qualité
+    architecturale initiale.
+ Les façades et pignons aveugles des constructions d'angles sont interdits à l'alignement
+    des voies et emprises publiques.
+ L’emploi brut, en parement extérieur, de matériaux fabriqués en vue d’être recouverts d’un
+    enduit ou d’un bardage est interdit.
+ Dans un périmètre de 50 mètres autour de l'établissement pénitentiaire délimité par son
+    mur d'enceinte extérieur, les murs pignons et les façades ayant vue sur le mur d'enceinte
+    doivent être aveugles.
+
+
+Intégration paysagère
+ Toute nouvelle construction à usage d'habitation, ainsi que les extensions et annexes,
+    devront être implantées en harmonie avec la végétation environnante, et être
+    accompagnées de plantations, également en accord avec la végétation existante.
+ Dans la mesure du possible, les antennes et paraboles ne doivent pas être visibles de
+    l'espace public.
+ S’ils sont en façade sur rue, les équipements techniques (ventilation, climatisation) devront
+    être masqués par un écran de verdure ou tout autre dispositif de qualité s’insérant de façon
+    harmonieuse dans le projet, afin de ne pas être visibles de l’espace public.
+
+
+
+                                         Règlement
+                                       Page 43 sur 183
+                                                                                 ZONE UB
+   Les coffrets de distribution doivent être intégrés harmonieusement aux clôtures ou aux
+    constructions.
+   Les transformateurs électriques doivent être intégrés aux constructions ou faire l’objet
+    d’une insertion paysagère.
+
+
+3 - TRAITEMENT ENVIRONNEMENTAL ET PAYSAGER DES ESPACES NON
+BATIS ET ABORDS DES CONSTRUCTIONS
+
+   Le traitement des abords des constructions doit être soigné.
+   Il conviendra de se référer au règlement du SPR complétant les dispositions suivantes,
+    pour tout projet situé à l'intérieur du périmètre.
+
+Clôtures
+ En cas de pose de clôture, la végétalisation sera à privilégier afin de permettre la circulation
+   de la petite faune.
+ Les bâches sont interdites.
+ Afin de préserver la sécurité des personnes en bordure du chemin de fer, il est préconisé
+   d’implanter une clôture de type défensif d’une hauteur de 2 mètres.
+ En limite de zone A et N, les clôtures devront être végétalisées et pourront être
+   éventuellement doublées d'un grillage dont la hauteur ne devra pas excéder 1,80 mètres.
+ Les haies doivent être composées de plusieurs essences végétales, de préférence locales
+   adaptées au climat et aux caractéristiques des sols. Les espèces végétales invasives sont
+   interdites. (cf annexes 1 et 2)
+
+   Sur la façade sur rue, comportant l’accès principal à la construction :
+    La hauteur des clôtures est limitée à 2 m maximum. La clôture pourra être composée d’un
+    muret n’excédant pas 80 centimètres de haut (enduits sur les deux faces) surmonté d’un
+    dispositif occultant ou à claire-voie, et pouvant être doublé d’une haie participant à limiter
+    les îlots de chaleur. Les murs y sont interdits.
+
+   En limite séparative :
+    Les murets sont autorisés, dans les mêmes conditions que pour les clôtures sur rue.
+    Les murs seront autorisés, sur une hauteur de 2 m maximum et devront être enduits sur
+    les deux faces. Ils pourront être associés à des dispositifs bois par exemple pour rythmer
+    et alléger la clôture.
+
+Espaces libres et plantations
+ Les surfaces libres de toute construction ainsi que les délaissés des aires de stationnement
+   doivent être végétalisés en harmonie avec l'environnement existant ou à créer.
+ Il est recommandé de privilégier les essences peu allergisantes.
+
+
+
+4 - STATIONNEMENT
+
+Le stationnement des véhicules correspondant aux besoins des constructions et de l'activité
+doit être assuré en dehors des voies ouvertes à la circulation publique, et réalisé dans les
+conditions normales d'utilisation.
+Celui-ci peut être réalisé sur le terrain d'assiette ou dans son environnement immédiat.
+Les emplacements seront suffisamment dimensionnés et facilement accessibles.
+
+
+
+
+                                           Règlement
+                                         Page 44 sur 183
+                                                                              ZONE UB
+Stationnement des véhicules motorisés
+
+   Pour les logements :
+    - Dans le périmètre de 500 m autour de la gare (cf annexe 9), les normes sont les
+       suivantes :
+       - Pour les logements d’une surface de plancher ≤ 30 m², aucune place n’est
+           requise. Toutefois, pour tout projet comportant au moins 5 logements ≤ 30 m², il est
+           exigé 1 place minimum par tranche de 5 logements.
+       - Pour les logements d’une surface de plancher > 30 m² et < 80 m², il est exigé
+           1 place de stationnement minimum par logement
+       - Pour les logements d’une surface de plancher ≥ 80 m², il est exigé 1,5 place
+           minimum par logement
+
+    -   Sur le reste de la zone :
+         Il est exigé 1 place de stationnement minimum pour 60 m² de surface de plancher,
+           sans qu'il puisse être exigé plus de 2 places par logement.
+
+         Dans le cas d'une division de maison d'habitation en plusieurs logements, il est
+          exigé 1 place minimum par logement créé.
+
+   Pour les logements financés avec un prêt aidé par l'Etat, il est exigé 0,5 place de
+    stationnement minimum par logement.
+
+     Dans le cas de travaux de transformation ou d'amélioration des bâtiments affectés à
+      du logement aidé, y compris avec création de surface de plancher, aucune place n'est
+      exigée.
+
+   Pour les hébergements, il doit être aménagé les places de stationnement nécessaires
+    aux besoins de l'immeuble à construire à partir d’une analyse explicitant ces besoins.
+
+   Pour les commerces, l'activité artisanale et la restauration :
+    - surface de plancher < 300 m² = aucune place n'est requise
+    - surface de plancher ≥ 300 m² = 1 place de stationnement minimum pour 30 m² de
+       surface de plancher
+
+   Pour les activités de services, les bureaux, il est exigé 1 place de stationnement
+    minimum pour 30 m² de surface de plancher.
+
+   Pour les hôtels et les autres hébergements touristiques, il doit être aménagé les places
+    de stationnement nécessaires aux besoins de l'immeuble à construire à partir d’une
+    analyse explicitant ces besoins. Toutefois, pour toute construction supérieure ou égale à
+    400 m² de surface de plancher, il sera exigé 1 place de stationnement minimum pour 50
+    m² de surface de plancher.
+
+   Pour les établissements de santé, il doit être aménagé les places de stationnement
+    nécessaires aux besoins de l'immeuble à construire à partir d’une analyse explicitant ces
+    besoins, en intégrant les besoins liés au personnel.
+
+   Les autres équipements d'intérêt collectif et services publics situés à proximité d'un
+    parking ouvert au public (correspondant aux besoins en stationnement) pourront être
+    exonérés de stationnement à condition qu'ils se situent à une distance maximale de 300
+    m en cheminement piéton.
+    Dans le cas contraire, il devra être aménagé les places de stationnement nécessaires aux
+    besoins de la construction à partir d’une analyse explicitant ces besoins.
+
+
+                                         Règlement
+                                       Page 45 sur 183
+                                                                                 ZONE UB
+    Dispositions générales :
+   Le résultat de l'application des normes chiffrées ci-dessus sera arrondi à l’entier inférieur
+    (ex : pour 2,6 places, la valeur retenue sera 2 places).
+
+   Dans le cas d'extensions générant des besoins en stationnement (ex : création d'un
+    logement ou de bureaux supplémentaires), la règle sera appliquée au regard de la surface
+    de l’extension uniquement, en fonction de la destination de la construction.
+
+   La mutualisation des places de stationnement est fortement encouragée, avec ou sans
+    foisonnement.
+    Les stationnements peuvent être foisonnés en cas de programmes mixtes comportant des
+    logements et des bureaux, ou des logements et des commerces, ou encore une opération
+    d'aménagement d'ensemble permettant le foisonnement.
+
+   Les infrastructures de recharge de véhicules électriques devront être prévues
+    conformément aux dispositions arrêtées par les réglementations en vigueur telles que le
+    code de la construction et de l’habitation (article L.113-11 et suivants).
+
+Stationnement des vélos
+ Pour les constructions ou opérations à usage d'habitation comportant un parc de
+   stationnement annexe d’au moins 10 places, la réalisation d’emplacements couverts et
+   sécurisés sera exigée au regard de la réglementation nationale en vigueur. Ceux-ci
+   pourront être réalisés en un seul ou plusieurs locaux.
+   Toutefois, l’annexe 8 du présent règlement dédiée au stationnement vélos expose le
+   nombre d’emplacements vers lequel il conviendrait de tendre, ainsi que des schémas de
+   rangement des vélos permettant d’optimiser les surfaces.
+
+   Pour les bureaux disposant d’un parc de stationnement, des places de stationnement pour
+    les vélos devront être réalisées à hauteur de 15 % de l’effectif total des salariés accueillis
+    simultanément dans le bâtiment.
+
+   Tout projet d’équipement public, d’intérêt collectif ou de service public devra permettre le
+    stationnement des vélos, à hauteur de :
+         15 % de l’effectif total des agents publics accueillis simultanément dans le bâtiment
+         et 15 % des usagers accueillis simultanément dans le bâtiment
+
+   Les espaces aménagés pour le stationnement des vélos seront facilement accessibles
+    depuis l’espace public et depuis l’entrée principale de la construction, couverts et de
+    préférence de plain-pied et intégrés au volume de la construction. En cas de réalisation de
+    ces espaces en extérieur, ceux-ci devront être couverts, clos et situés sur la même unité
+    foncière que la construction.
+    Chaque emplacement vélo induit une surface minimale de stationnement de 1,5 m² (hors
+    espace de dégagement). Toutefois, les surfaces dédiées au stationnement pourront être
+    optimisées par l’utilisation de dispositifs de rangement des vélos (cf annexe 8 du présent
+    règlement).
+    Chaque porte devra avoir une largeur minimale de 0,90 m.
+
+   Les espaces aménagés seront équipés d'appuis-vélos permettant d'attacher le cadre et
+    les roues et devront être adaptés à l’accueil de tous types de vélos, dont les vélos cargos,
+    vélos couchés, etc.
+    Ainsi, tout projet concerné par la réalisation de stationnements vélos devra prévoir :
+         Habitat : 1 emplacement pour vélo spécial (biporteur, triporteur, vélo allongé,
+            etc) par tranche de 10 emplacements vélos
+
+
+
+                                           Règlement
+                                         Page 46 sur 183
+                                                                         ZONE UB
+        Non résidentiel : 1 emplacement pour vélo spécial à partir de 20 emplacements
+         vélos réalisés. Au-delà, 1 emplacement pour vélo spécial sera demandé par
+         tranche de 30 emplacements vélos.
+
+   Dans tous les cas, un accès au réseau électrique devra être prévu pour permettre la
+    recharge des vélos à assistance électrique.
+
+   Dans le cas d'une impossibilité avérée de réaliser du stationnement d'un point de vue
+    technique ou urbanistique (changement de destination par exemple), aucun emplacement
+    ne sera exigé.
+
+
+
+
+                                       Règlement
+                                     Page 47 sur 183
+                    TerrenUrbanisme
+
+    Merci de votre confiance
+Ce rapport a été établi à partir des sources publiques officielles pour vous
+  aider à décider en connaissance de cause. Pour toute question, nous
+                        restons à votre disposition.
+
+
+
+
+   Vous êtes professionnel ? Travaillons ensemble
+      Agents immobiliers, notaires, architectes, géomètres, diagnostiqueurs,
+promoteurs, mairies : faisons équipe. Crédits professionnels sans abonnement, 5
+€ le rapport dès 50 crédits, votre logo sur les rapports, offre communale pour les
+                       mairies et partenariats sur mesure.
+
+               Écrivez-nous : contact@terrenurbanisme.com
+
+
+
+
+                        terrenurbanisme.com
+                         contact@terrenurbanisme.com
+

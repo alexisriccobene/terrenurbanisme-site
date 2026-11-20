@@ -1,0 +1,2747 @@
+                  TerrenUrbanisme
+                  Le terrain constructible, partout en France
+
+
+
+
+RAPPORT D'URBANISME
+
+
+
+Mende
+Section AI · Parcelle n° 17
+      Non constructible
+
+
+
+
+Référence cadastrale                                                        Surface cadastrale
+48095000AI0017                                                              6 200 m²
+
+Rapport établi le                                                           Référence du rapport
+20/11/2026                                                                  APERCU
+
+
+
+
+terrenurbanisme.com                                                                      contact@terrenurbanisme.com
+
+Document d'information sans valeur contractuelle ni réglementaire. Il ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme
+et ne peut en aucun cas être joint à une demande de permis de construire ou de déclaration préalable. Seuls les actes de l'administration font foi.
+                                                                                                                           Mende · AI 17
+         TerrenUrbanisme
+                                                                                                                            Sommaire
+
+
+
+
+Sommaire
+Le rapport suit l'ordre d'une étude de terrain : où se trouve la parcelle, ce que dit la règle, ce qui pèse sur le
+projet, puis les démarches.
+
+              Synthèse
+   S                                                                                                                               p. 3
+              Le verdict, les indicateurs clés et les points d'attention en une page.
+
+              Identification de la parcelle
+   01                                                                                                                              p. 4
+              Localisation, surface, références cadastrales et voisinage du terrain.
+
+              Règles d'urbanisme applicables
+  02                                                                                                                               p. 7
+              Document d'urbanisme, zone du terrain, prescriptions et servitudes.
+
+              Ce que vous pouvez construire
+  03                                                                                                                               p. 9
+              Surface constructible, hauteur, reculs, aspect et usages autorisés.
+
+              Loi Littoral et loi Montagne
+  04                                                                                                                              p. 15
+              Les lois qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+              Risques naturels et technologiques
+  05                                                                                                                              p. 16
+              Inondation, feu de forêt, argiles, catastrophes naturelles et sites pollués.
+
+              Le terrain : accès, relief et réseaux
+  06                                                                                                                              p. 19
+              Accès, pente, ensoleillement, eaux usées, électricité, eau et fibre.
+
+              Conditions de vente du terrain
+  07                                                                                                                             p. 25
+              Terrain agricole ou naturel : SAFER, fermier en place et repère officiel de prix.
+
+              Environnement et marché immobilier
+  08                                                                                                                             p. 27
+              Espaces naturels, espèces protégées et ventes immobilières alentour.
+
+              Historique du site
+  09                                                                                                                             p. 29
+              Le terrain vu du ciel au fil des années et les permis accordés autour.
+
+              Opportunités autour du terrain
+   10                                                                                                                             p. 31
+              Grands terrains peu bâtis et logements énergivores à proximité.
+
+              Votre projet, étape par étape
+   11                                                                                                                            p. 32
+              De l'achat aux impôts : démarches, délais, coûts, contacts et taxe.
+
+              État des risques (ERP) pré-rempli
+   12                                                                                                                            p. 37
+              Le formulaire réglementaire à remettre à l'acquéreur, pré-rempli.
+
+              Avertissement et sources
+   13                                                                                                                            p. 39
+              La portée de ce rapport et les sources publiques consultées.
+
+              Annexe : règlement de la zone
+   A                                                                                                                             p. 42
+              Les pages officielles du règlement de la zone, telles qu'approuvées.
+
+
+
+
+Astuce : cliquez sur un chapitre pour y accéder directement.
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                             2 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Mende · AI 17
+         TerrenUrbanisme
+                                                                                                                                       Synthèse
+
+
+
+
+Synthèse
+     Document d'information. Ce rapport ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme,
+     n'engage pas l'administration et ne peut pas servir de pièce à une demande de permis de construire.
+     L'appréciation ci-dessous est indicative : seule la mairie se prononce sur la constructibilité d'un terrain,
+     au vu d'un projet précis.
+
+
+
+
+       NON CONSTRUCTIBLE
+
+       Ce terrain n'est pas constructible en l'état
+       La parcelle est classée à 100 % en zone N (naturelle et forestière) du plan local
+       d'urbanisme de Mende, et pour le reste en zone N (5 %). Les constructions nouvelles n'y
+       sont pas admises, sauf exceptions encadrées.
+
+
+
+
+      Zones du PLU                                           Document d'urbanisme                                  Loi Littoral
+
+   N 100 % · N 5 %                                        PLU                                                    Ne s'applique pas
+
+
+
+
+      Loi Montagne                                           Risques à la parcelle
+
+   S'applique                                             Séisme ·
+                                                          Retrait-gonflement des
+
+
+
+
+Points d'attention
+    Zone N (naturelle et forestière) : environ 6 200 m², soit 100 % du terrain, non constructible.
+    Zone N (naturelle et forestière) : environ 310 m², soit 5 % du terrain, non constructible.
+    Risque de feu de forêt : obligation légale de débroussaillement, autorisation de défrichement possible pour un
+    terrain boisé.
+    Terrain en pente marquée (environ 57 %) : surcoût probable de terrassement.
+    Aucune ligne électrique basse tension recensée à moins de 422 m : raccordement électrique coûteux à prévoir
+    (extension du réseau).
+    Logement : le règlement de la zone N n'admet pas de logement neuf, sauf exceptions prévues par la zone
+    (logement de gardiennage, par exemple) : voir le chapitre « Ce que vous pouvez construire ».
+    Entreprise : la commune est classée en zone France Ruralités Revitalisation (FRR) : une entreprise qui s'y crée peut
+    être exonérée d'impôt sur les bénéfices pendant 5 ans, sous conditions (voir le chapitre « Votre projet, étape par
+    étape »).
+    Pollution des sols : concerné à l'adresse de la parcelle (voir le chapitre « Risques naturels et technologiques »).
+    8 arrêtés de catastrophe naturelle sur la commune.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       3 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Mende · AI 17
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+    01             Identification de la parcelle
+     DANS CETTE SECTION
+
+     Où se trouve le terrain, sa surface, ses références cadastrales, son propriétaire lorsqu'il s'agit
+     d'une société ou d'une collectivité, et la performance énergétique du bâti existant.
+
+
+Données du cadastre (DGFiP) et de l'IGN.
+
+
+     Plan de situation
+
+
+
+
+                                                                                                                            1 km
+
+
+
+Plan IGN · © IGN
+
+
+
+     Vue aérienne et plan cadastral
+
+
+
+
+                                                                                                                             100 m
+
+
+
+Photographie aérienne et plan cadastral · © IGN
+
+
+Commune                                                  Mende (48095)
+
+Département                                              Lozère (48)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          4 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Mende · AI 17
+          TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+Section et numéro                                        Section AI, parcelle n° 17, feuille 1
+
+Identifiant cadastral                                    48095000AI0017
+
+Surface cadastrale                                       6 200 m²
+
+Surface calculée (SIG)                                   6 203 m² · périmètre 566 m
+
+Coordonnées du centre                                    44.53501 N, 3.49125 E (WGS 84)
+
+Altitude                                                 de 783 à 816 m
+
+Pente estimée                                            57 % (terrain en pente marquée)
+
+Parcelles voisines                                       AI 16, AI 18, E 80
+
+
+Le plan cadastral est un document fiscal : il ne fait pas foi des limites de propriété. Seul un bornage réalisé par un
+géomètre-expert fixe les limites de manière certaine.
+
+
+1.1 Propriétaire et voisinage
+La parcelle ne figure pas au fichier des personnes morales : son propriétaire est vraisemblablement un
+particulier. Le nom des propriétaires particuliers n'est pas public ; il peut être demandé au service des impôts
+fonciers (relevé de propriété) ou obtenu par l'intermédiaire d'un notaire.
+
+Parcelles voisines détenues par des sociétés ou des collectivités
+  PARCELLE              PROPRIÉTAIRE                                                                     SURFACE            SIREN
+
+  AI 18                 ETAT PAR DIRECTION DE L IMMOBILIER DE L ETAT                                     6 255 m²           –
+                        (ETAT)
+
+
+
+Principaux propriétaires personnes morales dans un rayon de 280 m
+  PROPRIÉTAIRE                                                              PARCELLES             SURFACE TOTALE            SIREN
+
+  ETAT PAR DIRECTION DE L IMMOBILIER DE L                                   8                     153 210 m²                –
+  ETAT (ETAT)
+
+
+
+Source : fichiers des parcelles des personnes morales (DGFiP) : sociétés, SCI, collectivités, établissements publics et associations.
+Les propriétaires personnes physiques n'y figurent pas.
+
+
+1.2 La commune de Mende
+Code postal                                              48000
+
+Département                                              Lozère (48)
+
+Intercommunalité                                         CC Coeur de Lozère
+
+Population                                               12 464 habitants
+
+Superficie                                               36,93 km²
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           5 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Mende · AI 17
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+Densité                                                  338 habitants par km²
+
+Commune littorale                                        Non
+
+Commune de montagne                                      Oui : la loi Montagne s'applique
+
+Document d'urbanisme                                     Plan local d'urbanisme (PLU)
+
+Risques sur la commune                                   8 arrêtés de catastrophe naturelle · détail en section Risques et en
+                                                         annexe
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          6 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Mende · AI 17
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+    02             Règles d'urbanisme applicables
+     DANS CETTE SECTION
+
+     Le document d'urbanisme de la commune, la zone dans laquelle se trouve le terrain, et les
+     prescriptions et servitudes qui s'y ajoutent.
+
+
+Géoportail de l'Urbanisme : zonage, prescriptions et servitudes.
+
+
+
+2.1 Document d'urbanisme en vigueur
+Type de document                                         Plan local d'urbanisme (PLU)
+
+Date d'approbation                                       Non renseigné
+
+Statut                                                   Publié au Géoportail de l'Urbanisme
+
+Règlement officiel                                       Ouvrir le document officiel (PDF)
+
+
+
+     Plan de zonage du PLU
+
+
+
+
+                            N                                                                   N
+
+
+
+
+                                                                                                                            100 m
+
+
+
+Zonage : Géoportail de l'Urbanisme · fond : © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      7 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Mende · AI 17
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.2 Zonage de la parcelle
+  ZONE                  DÉSIGNATION                                                         PART               CONSTRUCTIBILITÉ
+
+  N                     Naturelle et forestière                                             100 %              Non constructible
+
+  N                     Zones naturelles qu'il convient de protéger,                        5%                 Non constructible
+                        en raison, d'une part, de l'existence de
+                        risques ou de nuisances, d'autre part, de la
+                        qualité des sites, des milieux naturels et des
+                        paysages
+
+
+
+Zone N · Naturelle et forestière
+Zone naturelle et forestière : secteur protégé en raison de la qualité des sites, des milieux naturels et des
+paysages, ou de son caractère d'espace naturel. Les constructions nouvelles n'y sont pas admises, sauf
+exceptions encadrées (équipements publics, extension limitée des habitations existantes, secteurs de taille et
+de capacité limitées).
+
+Zone N · Naturelle et forestière
+Zone naturelle et forestière : secteur protégé en raison de la qualité des sites, des milieux naturels et des
+paysages, ou de son caractère d'espace naturel. Les constructions nouvelles n'y sont pas admises, sauf
+exceptions encadrées (équipements publics, extension limitée des habitations existantes, secteurs de taille et
+de capacité limitées).
+
+
+2.3 Prescriptions applicables à la parcelle
+  PRESCRIPTION                                                                                       TYPE
+
+  Espace Boise Classc                                                                                Espace boisé classé (EBC)
+
+
+
+
+2.4 Servitudes d'utilité publique
+Aucune servitude d'utilité publique numérisée n'est recensée sur la parcelle au Géoportail de l'Urbanisme. Les
+servitudes non encore numérisées figurent en annexe du PLU.
+
+
+2.5 Patrimoine : l'architecte des Bâtiments de France
+Aucun site patrimonial remarquable, site classé ou inscrit, ni monument historique à moins de 500 m n'est
+recensé : l'avis de l'architecte des Bâtiments de France n'est pas requis au titre du patrimoine.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      8 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Mende · AI 17
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    03             Ce que vous pouvez construire
+      DANS CETTE SECTION
+
+      La lecture du règlement de votre zone : surface constructible estimée, hauteur, reculs, aspect,
+      usages autorisés ou interdits, avec les extraits du texte officiel.
+
+
+Lecture du règlement écrit des zones N et N, sur lesquelles le terrain est à cheval.
+
+
+
+3.1 Un terrain à cheval sur 2 zones
+  ZONE                  NATURE                                           SURFACE                         PART              CONSTRUCTIBILITÉ
+
+  N                     Naturelle et forestière                          environ 6 200 m²                100 %             Non constructible
+
+  N                     Naturelle et forestière                          environ 310 m²                  5%                Non constructible
+
+
+
+      Les règles ne sont pas les mêmes d'une zone à l'autre : chaque titre ci-dessous indique la zone à
+      laquelle la règle s'applique.
+
+
+
+
+3.2 Zone N · Potentiel constructible estimé
+      Le règlement de la zone N n'admet pas de construction nouvelle à usage de logement. Seules restent
+      possibles les constructions expressément admises par la zone et les évolutions encadrées des
+      constructions existantes : extension limitée à 30 % de l'emprise existante, dans la limite de 250 m²,
+      annexes de 50 m² au plus.
+
+
+
+Constructions admises dans la zone :
+
+      Constructions et installations nécessaires à des équipements collectifs, si elles ne sont pas incompatibles avec
+      l'activité agricole, pastorale ou forestière du terrain et ne portent pas atteinte aux espaces naturels et paysages
+      Constructions et installations nécessaires à la gestion et à la protection de la zone (dont travaux de réduction
+      des risques naturels : incendie, glissement de terrain), avec bonne intégration paysagère
+      Constructions et installations nécessaires aux activités agricoles, pastorales et forestières, dans la limite de 50
+      m² de surface de plancher
+      Extension des bâtiments d'habitation existants à la date d'approbation du PLU : 30 % maximum de la surface de
+      plancher initiale, surface totale extension comprise limitée à 250 m², extension jouxtant la construction
+      existante, sans création de logement supplémentaire
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          9 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Mende · AI 17
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.3 Zone N · Caractère de la zone
+La zone N couvre les espaces naturels, équipés ou non, à protéger en raison de la qualité des sites,
+milieux naturels et paysages, de l'existence d'une exploitation forestière ou de leur caractère d'espace
+naturel. Elle est qualifiée de zone naturelle fortement protégée : les constructions nouvelles y sont en
+principe exclues, hormis celles nécessaires aux services publics ou d'intérêt collectif et les rares
+occupations admises sous conditions à l'article N2. Les secteurs Nc (STECAL de Sirvens) et Nk
+(périmètre d'étude du contournement Est) ne s'appliquent pas à la zone sans indice. La zone est
+concernée par les risques naturels (inondation, mouvements de terrain) et peut se situer en site
+patrimonial remarquable ou dans le plan d'exposition au bruit de l'aérodrome.
+
+
+3.4 Zone N · Règles de construction
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Surface minimale ou                          Non précisé dans le règlement de la zone (aucune surface                         art. N3
+  caractéristiques du terrain                  minimale ; tout terrain enclavé est inconstructible sauf
+                                               servitude de passage au titre de l'article 682 du code civil)
+
+  Accès et voirie                              Accès à une voie publique ou privée, directement ou par                          art. N3
+                                               servitude (art. 682 du code civil). Nombre d'accès limitable
+                                               dans l'intérêt de la sécurité ; accès sur la voie où la gêne est la
+                                               moindre. Caractéristiques adaptées à l'importance du projet et
+                                               aux exigences de défense contre l'incendie, protection civile et
+                                               brancardage. Voirie adaptée à la destination et à l'importance
+                                               des opérations.
+
+  Réseaux et assainissement                    Eau potable : raccordement au réseau public ; à défaut, source                   art. N4
+                                               privée conforme aux normes de salubrité, débit prouvé par
+                                               analyses régulières, sans obligation pour la commune en cas
+                                               de tarissement. Prélèvements, forages et puits domestiques
+                                               déclarés en mairie ; forage non domestique déclaré à la DDT et
+                                               à la DREAL si profondeur supérieure à 10 m. Eaux usées :
+                                               raccordement au réseau public d'assainissement lorsqu'il
+                                               existe ; à défaut, dispositif d'assainissement individuel
+                                               conforme, selon le Schéma Directeur d'Assainissement, à la
+                                               charge du pétitionnaire. Eaux usées non domestiques :
+                                               dispositif de traitement ou stockage adapté. Eaux pluviales :
+                                               solutions alternatives pour ne pas augmenter le débit de
+                                               ruissellement, infiltration à privilégier, seul l'excès de
+                                               ruissellement admis au réseau public, évaluation d'incidences
+                                               au-delà d'1 hectare. Défense incendie : poteaux de 60 m³/h
+                                               pendant 2 h à 200 m maximum, ou réserve d'eau de 30 à 120
+                                               m³. Réseaux secs enterrés sauf impossibilité technique.
+
+  Implantation par rapport                     Distance au moins égale à 3 m par rapport aux voies et                           art. N6
+  aux voies                                    emprises publiques, applicable aussi aux voies privées.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      10 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Mende · AI 17
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Implantation par rapport                     Soit en limite séparative, soit à une distance au moins égale à la               art. N7
+  aux limites séparatives                      moitié de la différence d'altitude avec la limite, sans être
+                                               inférieure à 3 m. Recul non applicable en cas de surélévation
+                                               d'un bâtiment existant (dans l'emprise déjà bâtie) et pour les
+                                               ouvrages techniques d'intérêt général ; règles non applicables
+                                               aux parties enterrées.
+
+  Implantation des                             L'implantation de plusieurs bâtiments sur la même parcelle ne                    art. N8 et N2
+  constructions entre elles                    doit pas faire obstacle à l'approche et à la mise en œuvre des
+                                               moyens de lutte contre l'incendie ni à l'ensoleillement des
+                                               pièces principales d'habitation. Annexes situées dans un
+                                               périmètre de 30 m de l'habitation (art. N2).
+
+  Emprise au sol                               L'emprise au sol ne peut excéder 70 % de la surface de l'unité                   art. N9
+                                               foncière ; annexes limitées à 50 m² d'emprise au sol (art. N2).
+
+  Hauteur maximale                             10 mètres maximum, adaptée à l'intégration dans le site ou au                    art. N10
+                                               besoin de l'activité si dûment justifiée. Pas de règle pour les
+                                               constructions et installations nécessaires aux services publics
+                                               ou d'intérêt collectif.
+
+  Aspect extérieur et toitures                 Conservation du caractère du site, cohérence avec les                            art. N11
+                                               constructions voisines, volet paysager du permis, références
+                                               architecturales étrangères à la vallée du Lot proscrites,
+                                               architecture contemporaine admise si intégration totale.
+                                               Toitures de forme simple, à deux pentes, faîtage dans le sens
+                                               de la plus grande dimension, sans débord en pignon (typologie
+                                               différente possible pour architecture bioclimatique ou
+                                               contemporaine). Conformité au règlement du SPR dans son
+                                               périmètre, simple inspiration en dehors.
+
+  Matériaux et couleurs                        Matériaux traditionnels de la vallée du Lot privilégiés (pierre                  art. N11
+                                               calcaire, enduits, joints) ; autres matériaux possibles s'ils
+                                               s'intègrent. Teintes de façade intégrées à l'environnement ;
+                                               teintes étrangères à la région interdites (bleu, vert, blanc).
+                                               Parements brillants ou réfléchissants à éviter. Couverture dans
+                                               les nuances de gris ardoisé au gris sombre.
+
+  Clôtures                                     Ne pas gêner la visibilité aux carrefours et dans les voies                      art. N11
+                                               courbes ; harmonie (aspect, couleur, hauteur) avec les clôtures
+                                               voisines ; hauteur maximale des murs de clôture de 2,5 m par
+                                               rapport au niveau de la voirie ; dérogation exceptionnelle
+                                               possible selon la configuration de la voie ou du terrain.
+
+  Stationnement                                Stationnement hors des voies ouvertes à la circulation ;                         art. N12
+                                               logements : 2 places par logement ; autres destinations selon
+                                               les besoins de l'opération ; 25 m² par place dégagement
+                                               compris ; parc aérien de plus de 5 places : traitement paysager,
+                                               au minimum 1 arbre de haute tige pour 2 à 4 places ; limitation
+                                               de l'imperméabilisation ; solutions de remplacement
+                                               (concession ou acquisition de places) en cas d'impossibilité.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        11 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Mende · AI 17
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Espaces verts et plantations                 Plantation d'arbres de haute tige ou d'écrans de verdure                         art. N13
+                                               pouvant être demandée ; essences locales variées ;
+                                               enherbements rustiques préconisés ; éléments paysagers
+                                               L151-19 à préserver (destruction partielle compensée) ;
+                                               espaces boisés classés et isolés reportés au plan. Pas de
+                                               pourcentage minimal d'espaces verts.
+
+  Densité ou coefficient                       Non précisé dans le règlement de la zone (pas de COS)                            art. N
+
+
+
+
+3.5 Zone N · Usages autorisés
+    Constructions et installations nécessaires à des équipements collectifs, si elles ne sont pas incompatibles
+    avec l'activité agricole, pastorale ou forestière du terrain et ne portent pas atteinte aux espaces naturels et
+    paysages
+    Constructions et installations nécessaires à la gestion et à la protection de la zone (dont travaux de
+    réduction des risques naturels : incendie, glissement de terrain), avec bonne intégration paysagère
+    Constructions et installations nécessaires aux activités agricoles, pastorales et forestières, dans la limite
+    de 50 m² de surface de plancher
+    Extension des bâtiments d'habitation existants à la date d'approbation du PLU : 30 % maximum de la
+    surface de plancher initiale, surface totale extension comprise limitée à 250 m², extension jouxtant la
+    construction existante, sans création de logement supplémentaire
+    Annexes aux habitations existantes : 50 m² d'emprise au sol maximum, dans un périmètre de 30 m autour
+    de l'habitation
+    Travaux sur bâtiments répertoriés au titre de l'article L151-19 (maintien de l'intégrité par matériaux
+    traditionnels)
+    Travaux de mise en conformité (sécurité incendie, accessibilité) des établissements recevant du public
+    existants, avec dérogation possible au règlement si aucune autre solution
+    Ouvrages techniques nécessaires au fonctionnement des services publics ou d'intérêt collectif (dérogation
+    aux règles si impératifs techniques), sous réserve de ne pas porter atteinte au caractère patrimonial
+    Clôtures (dispensées de formalités si nécessaires à l'activité agricole ou forestière hors cas de l'article
+    R.421-12)
+
+
+3.6 Zone N · Usages interdits ou soumis à conditions
+    Interdit : toute occupation ou utilisation du sol non mentionnée à l'article N2 et toute construction autre
+    que celles admises sous conditions
+    Interdit : affouillements, exhaussements et dépôts de matériaux inertes non liés aux travaux admis, sauf
+    ouvrages d'infrastructures, installations liées au contournement de Mende et aires de stationnement
+    ouvertes au public
+    Interdit : stationnement de caravanes quelle qu'en soit la durée et aménagement de terrains de camping
+    Interdit : constructions destinées à l'hébergement hôtelier, aux bureaux, au commerce, à l'artisanat, à
+    l'industrie, à l'exploitation agricole ou forestière (hors 50 m² admis) et à l'entrepôt, sauf celles admises à
+    l'article N2
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       12 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Mende · AI 17
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    Condition générale : les occupations admises ne doivent imposer ni équipements publics nouveaux à la
+    charge de la commune ni surcoût important de fonctionnement des services publics, et ne pas
+    compromettre la qualité paysagère du site
+    Risques naturels : constructions nouvelles interdites en aléa élevé/très élevé et modéré (chutes de blocs,
+    glissement, effondrement) sauf étude complémentaire requalifiant l'aléa ; en zone rouge ou orange,
+    extension et annexes non habitables limitées, et pour les chutes de blocs extension ou annexe limitée à 20
+    m² de surface de plancher ; constructions autorisées avec prescriptions en aléa faible ; PPRI à respecter
+    Site patrimonial remarquable : le règlement du SPR prévaut en cas de contradiction
+    Plan d'exposition au bruit de l'aérodrome Mende-Brenoux à prendre en compte
+    Les secteurs Nc (STECAL de Sirvens) et Nk (sursis à statuer possible) ont des règles propres, non
+    applicables à la zone N sans indice
+
+
+3.7 Zone N · Points de vigilance pour votre projet
+    Vérifier sur le plan de zonage que la parcelle est bien en zone N sans indice (et non en secteur Nc ou Nk,
+    aux règles différentes)
+    La zone est présentée comme fortement protégée : aucune construction nouvelle d'habitation n'est admise
+    ; seuls l'extension d'habitations existantes (30 % et 250 m² au total) et les annexes (50 m², dans un rayon
+    de 30 m) sont possibles
+    Une extension ne doit pas créer de logement supplémentaire et doit jouxter la construction existante
+    Contrôler les trames de risques (PPRI, aléas de mouvements de terrain) : en zone rouge ou orange,
+    extension et annexes fortement encadrées et réhabilitation de ruines refusée sauf protection du
+    patrimoine sans occupation humaine ; étude géotechnique G1/G5 conseillée
+    Vérifier le périmètre du Site Patrimonial Remarquable (avis de l'architecte des bâtiments de France,
+    règlement du SPR prévalant) et les points de panorama A, B, C, D
+    Vérifier si le bâtiment est repéré au titre de l'article L151-19 (patrimoine) ou si la parcelle comprend des
+    espaces boisés classés (défrichement interdit)
+    Vérifier le plan d'exposition au bruit de l'aérodrome Mende-Brenoux
+    Le règlement de la zone ne mentionne pas de changement de destination en zone N : aucune possibilité
+    n'est prévue pour la zone sans indice
+    Vérifier l'existence d'un réseau d'assainissement collectif (raccordement obligatoire) ou la faisabilité d'un
+    assainissement individuel, ainsi que la desserte en eau et la défense incendie
+    Les constructions agricoles sont limitées à 50 m² de surface de plancher
+    Contraintes patrimoniales : couleurs de façade interdites (bleu, vert, blanc), couverture gris ardoisé
+
+
+3.8 Zone N · Extraits du règlement
+
+     Caractère de la zone N · page 118
+     « La zone N correspond à une zone naturelle fortement protégée. Les constructions et aménagements
+     des bâtiments existants sont interdits, seules les constructions et installations nécessaires aux
+     services publics ou d'intérêt collectif peuvent être autorisées. »
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       13 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Mende · AI 17
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+     art. N1 · page 118
+     « Les occupations et utilisations du sol non mentionnées à l’article N2 sont interdites. »
+
+
+     art. N2 · page 119
+     « L'extension des bâtiments d'habitation existants à la date d’approbation du PLU, dans la limite de 30%
+     maximum de la surface de plancher du bâtiment initial et sous réserve que la surface de plancher
+     totale, extension comprise ne dépasse pas 250 m2. »
+
+
+     art. N2 · page 119
+     « Les annexes aux constructions à usage d’habitation existantes, dans la limite de 50 m2 d’emprise au
+     sol maximale et à condition de s’implanter dans un périmètre de 30 mètres maximum autour de
+     l’habitation »
+
+
+     art. N6 · page 122
+     « Les constructions doivent être implantées à une distance au moins égale à 3 m par rapport aux voies
+     et emprises publiques. »
+
+
+     art. N10 · page 123
+     « La hauteur des constructions ne doit pas excéder 10 mètres. »
+
+
+
+3.9 Zone N · Démarches probables
+    Certificat d'urbanisme opérationnel pour vérifier la faisabilité
+    Déclaration préalable ou permis de construire selon la surface créée (extension, annexe)
+    Déclaration préalable pour les clôtures lorsque exigée (art. R.421-12)
+    Permis de démolir pour les démolitions
+    Autorisation de défrichement hors espaces boisés classés (art. L.311-1 du code forestier)
+    Consultation du service d'assainissement non collectif (SPANC) pour le dispositif d'assainissement
+    individuel
+    Déclaration en mairie des puits et forages domestiques
+    Avis de l'architecte des bâtiments de France si la parcelle est dans le périmètre du SPR
+    Étude géotechnique si la parcelle est en aléa mouvements de terrain
+
+     Cette lecture est établie automatiquement, par intelligence artificielle, à partir du règlement officiel en
+     vigueur. Elle peut comporter des imprécisions : seul le texte du règlement, reproduit en annexe (pages
+     118 à 126 du document approuvé), fait foi, avec les dispositions générales, les orientations
+     d'aménagement et les servitudes.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      14 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Mende · AI 17
+         TerrenUrbanisme
+                                                                                                                    04 · Loi Littoral et loi Montagne
+
+
+
+
+   04              Loi Littoral et loi Montagne
+     DANS CETTE SECTION
+
+     Les lois nationales qui s'ajoutent au document d'urbanisme sur le littoral et en montagne. Elles
+     peuvent rendre un terrain inconstructible même en zone constructible.
+
+
+Les lois d'aménagement qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+
+
+4.1 Loi Littoral
+Commune littorale                                        Non
+
+Distance au rivage                                       Sans objet
+
+Bande des 100 mètres                                     Sans objet
+
+
+La commune n'est pas riveraine de la mer : la loi Littoral ne s'applique pas (sauf rives de grands lacs).
+
+
+4.2 Loi Montagne
+Commune en zone de montagne                              Oui
+
+
+En zone de montagne, l'urbanisation doit se réaliser en continuité avec les bourgs, villages, hameaux et
+groupes de constructions traditionnelles existants. Les terres nécessaires aux activités agricoles, pastorales
+et forestières sont préservées. Sur une commune à la fois littorale et de montagne, les deux lois s'appliquent
+cumulativement, la règle la plus protectrice prévalant.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          15 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Mende · AI 17
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+   05              Risques naturels et technologiques
+     DANS CETTE SECTION
+
+     Les risques connus à l'adresse du terrain (inondation, feu de forêt, mouvement de terrain,
+     radon…) et les catastrophes naturelles reconnues sur la commune.
+
+
+Base nationale Géorisques (ministère de la Transition écologique).
+
+
+
+5.1 Risques naturels à l'adresse de la parcelle
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Inondation                                      Non connu                                       Existant
+
+  Remontée de nappe                               Non connu                                       Existant
+
+  Séisme                                          Existant – faible                               Existant – faible
+
+  Mouvement de terrain                            Inconnu                                         Existant
+
+  Retrait-gonflement des                          Existant – faible                               Existant – modéré
+  argiles
+
+  Feu de forêt                                    Existant                                        Existant · Votre bien est concerné par les
+                                                                                                  obligations légales de débroussaillement
+
+  Radon                                           Existant – important                            Existant – important
+
+
+
+
+5.2 Risques technologiques
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Installations industrielles                     Non concerné                                    Concerné
+  (ICPE)
+
+  Pollution des sols                              Concerné                                        Concerné
+
+  Risque minier                                   Inconnu                                         Existant
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                     16 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Mende · AI 17
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.3 Indicateurs réglementaires
+Zone de sismicité                                        Zone 2 – faible
+
+Potentiel radon                                          Catégorie 3 (potentiel significatif)
+
+Retrait-gonflement des argiles                           Existant – faible
+
+Plans de prévention (PPR)                                Le lot de sa source au confluent de la Colagne ; Atlas des zones
+                                                         inondables du bassin versant du Lot
+
+
+     La parcelle est exposée au risque de feu de forêt. L'obligation légale de débroussaillement s'applique
+     (en général 50 mètres autour des constructions), et un terrain boisé peut nécessiter une autorisation
+     de défrichement avant toute construction.
+
+
+
+
+5.4 Arrêtés de catastrophe naturelle
+8 arrêtés de reconnaissance de l'état de catastrophe naturelle concernent la commune.
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Inondations et/ou Coulées de Boue                                         18/12/2025 au 24/12/2025                       17/03/2026
+
+  Sécheresse                                                                01/01/2022 au 30/09/2022                       07/04/2024
+
+  Inondations et/ou Coulées de Boue                                         02/12/2003 au 04/12/2003                       13/12/2003
+
+  Inondations et/ou Coulées de Boue                                         24/11/2003                                     09/06/2004
+
+  Inondations et/ou Coulées de Boue                                         04/11/1994 au 06/11/1994                       25/11/1994
+
+  Inondations et/ou Coulées de Boue                                         23/09/1994 au 24/09/1994                       24/11/1994
+
+  Inondations et/ou Coulées de Boue                                         06/11/1982 au 10/11/1982                       19/11/1982
+
+  Tempête                                                                   06/11/1982 au 10/11/1982                       19/11/1982
+
+
+
+
+5.5 Installations classées à proximité (moins de 1 km)
+    COMMUNAUTE COM COEUR DE LOZERE · Autres régimes
+    TRAVAIL BOIS ENGELVIN BOIS MOULE MENDE · Enregistrement · En exploitation avec titre
+    BIO ENERGIE LOZERE · Enregistrement · En exploitation avec titre
+    B.C. 48 · Enregistrement · En exploitation avec titre
+    ENGELVIN TP RESEAUX · Non ICPE
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          17 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Mende · AI 17
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.6 Sites et sols pollués à proximité
+    Engelvin Bois (SA), atelier de moulage de déchets de bois · ancien site industriel ou d'activité de service
+    (CASIAS)
+    Déchetterie · ancien site industriel ou d'activité de service (CASIAS)
+    Atelier d'entretien et de réparation des bus de la société de transports · ancien site industriel ou d'activité
+    de service (CASIAS)
+    BOISSONNADE COMBUSTIBLES · ancien site industriel ou d'activité de service (CASIAS)
+
+
+5.7 Rapport officiel Géorisques
+Les risques recensés ci-dessus proviennent des bases officielles de Géorisques, service public d'information
+sur les risques. Le rapport officiel complet peut être édité gratuitement, à tout moment et à jour, à partir de
+l'adresse du terrain sur le site Géorisques.
+
+
+    Éditer le rapport officiel Géorisques
+
+
+Lors d'une vente ou d'une location, le vendeur ou le bailleur doit remettre un état des risques de moins de six mois,
+complété et signé, et l'information sur les sinistres indemnisés au titre des catastrophes naturelles.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                    18 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Mende · AI 17
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+   06              Le terrain : accès, relief et réseaux
+     DANS CETTE SECTION
+
+     Les contraintes physiques du terrain : accès à une voie, pente et exposition, assainissement,
+     raccordement à l'électricité et à l'eau, fibre. Ce sont elles qui pèsent le plus sur le coût d'un
+     projet.
+
+
+Voirie (IGN, BD TOPO), altimétrie (IGN, RGE ALTI), règlement de la zone, réseau électrique (Agence ORE) et éligibilité
+internet (Arcep).
+
+
+
+6.1 Accès
+Accès direct à une voie                                  Oui
+
+Voie                                                     Chemin
+
+Accès des véhicules                                      Libre
+
+
+La parcelle touche une voie carrossable. L'autorisation d'urbanisme vérifiera que l'accès est adapté au projet et sûr,
+et peut imposer une permission de voirie ou un aménagement de l'entrée.
+
+
+6.2 Relief et exposition
+Pente moyenne                                            17 %
+
+Exposition                                               Versant orienté sud-ouest
+
+Altitude                                                 783 à 816 m
+
+Appréciation                                             Pente marquée
+
+
+
+
+ 849 m
+
+
+
+
+ 783 m
+
+
+           Coupe du terrain dans le sens de la pente · longueur 257 m
+
+
+     Terrassements, murs de soutènement et gestion des eaux de ruissellement à prévoir : surcoût
+     sensible. Une étude de sol (mission G2) est recommandée.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       19 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Mende · AI 17
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.3 Ensoleillement
+Appréciation                                             Bien ensoleillé
+
+Soleil direct le 21 juin                                 12 h 18 (de 07 h 10 à 19 h 20)
+
+Soleil direct aux équinoxes                              9 h 18 (de 08 h 30 à 17 h 40)
+
+Soleil direct le 21 décembre                             4 h 42 (de 11 h 40 à 16 h 10)
+
+Ensoleillement annuel possible                           3 281 h par an, soit 75 % du maximum à cette latitude
+
+Hauteur du relief vers le sud                            22°
+
+
+ 75°
+
+
+
+ 60°
+
+
+
+ 45°
+
+
+
+ 30°
+
+
+
+ 15°
+
+
+
+ 0°
+                                Est                  Sud-est                    Sud                 Sud-ouest               Ouest
+
+          21 juin          Équinoxes               21 décembre                 Horizon : relief et bâtiments voisins
+
+
+
+       Le soleil est un peu masqué en début ou en fin de journée, surtout en hiver, mais le terrain reste bien
+       exposé sur l'année.
+
+
+
+Ensoleillement mois par mois (le 21 de chaque mois)
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Janvier                         9 h 12                             5 h 30                                    11 h 20 – 16 h 40
+
+  Février                         10 h 30                            7 h 42                                    09 h 50 – 17 h 20
+
+  Mars                            12 h                               9 h 18                                    08 h 30 – 17 h 40
+
+  Avril                           13 h 42                            10 h 48                                   08 h 10 – 18 h 50
+
+  Mai                             14 h 48                            12 h 12                                   07 h 10 – 19 h 10
+
+  Juin                            15 h 18                            12 h 18                                   07 h 10 – 19 h 20
+
+  Juillet                         14 h 48                            12 h 12                                   07 h 20 – 19 h 20
+
+  Août                            13 h 30                            11 h                                      08 h 10 – 19 h 00
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      20 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Mende · AI 17
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Septembre                       12 h 12                            9 h 18                                    09 h 10 – 18 h 20
+
+  Octobre                         10 h 30                            7 h 30                                    10 h 30 – 17 h 50
+
+  Novembre                        9 h 12                             5 h 18                                    11 h 00 – 16 h 10
+
+  Décembre                        8 h 42                             4 h 42                                    11 h 40 – 16 h 10
+
+
+
+Calcul théorique par ciel dégagé, au centre de la parcelle et à hauteur d'homme : course du soleil heure par heure, masque du relief
+sur 6 km (IGN, RGE ALTI) et des bâtiments voisins sur 120 m (IGN, BD TOPO). La végétation et les constructions récentes ne sont
+pas prises en compte.
+
+
+6.4 Quel raccordement pour les eaux usées ?
+Raccordement à prévoir                                       Assainissement individuel probable
+
+Zone du PLU                                                  N · Naturelle et forestière
+
+Zonage d'assainissement                                      Non publié au Géoportail de l'Urbanisme (consultable en mairie)
+
+Réseau collectif sur la commune                              Oui · COMMUNAUTE DE COMMUNES COEUR DE LOZERE ·
+                                                             délégation à BRL Exploitation
+
+
+     Le terrain est hors zone urbaine (zone N) : ces secteurs sont rarement desservis par le réseau public.
+     Sauf canalisation existante dans la voie, prévoyez une fosse toutes eaux avec épandage ou une
+     micro-station agréée.
+
+
+
+Ce que dit le règlement de la zone
+Raccordement obligatoire au réseau public d'assainissement lorsqu'il existe pour toute construction à usage
+d'habitation ou d'activité. À défaut de réseau public, un dispositif d'assainissement individuel conforme à la
+législation en vigueur est obligatoire, à la charge du pétitionnaire et conforme aux préconisations de filière du
+Schéma Directeur d'Assainissement. Le règlement ne fixe ni surface minimale de terrain ni étude de sol ou avis du
+SPANC. Les eaux usées ne doivent pas être rejetées dans le réseau d'eaux pluviales (et inversement en réseau
+séparatif). Les eaux usées non domestiques exigent un dispositif de traitement ou de stockage adapté à l'activité.
+
+Ce que cela coûte
+Assainissement individuel : 5 000 à 15 000 € selon la filière (détail ci-dessous), plus l'étude de sol à la parcelle (500 à
+1 000 €). Étapes : étude de sol, puis avis favorable du SPANC sur le projet, à joindre à la demande de permis de
+construire. Besoin d'un installateur agréé ? Nous vous mettons en relation : contact@terrenurbanisme.com.
+
+Qui contacter pour obtenir la confirmation
+Service d'assainissement                                     COMMUNAUTE DE COMMUNES COEUR DE LOZERE · exploitant :
+                                                             BRL Exploitation
+
+Mairie                                                       Mairie de Mende
+
+Téléphone                                                    04 66 49 40 00
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       21 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                              Mende · AI 17
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+E-mail                                                       contact@mende.fr
+
+
+    Demandez au service d'assainissement, avec la référence cadastrale, si une canalisation publique passe au droit
+    du terrain, à quelle profondeur, et le montant de la PFAC. Sa réponse écrite vaut attestation de raccordabilité.
+    Certificat d'urbanisme opérationnel (formulaire Cerfa 13410, gratuit) : la mairie y indique officiellement si le
+    terrain est desservi par le réseau d'assainissement.
+    Plan des réseaux : la présence des canalisations enterrées près du terrain peut être vérifiée sur
+    reseaux-et-canalisations.gouv.fr, le guichet unique des réseaux.
+Sources : zonage d'assainissement et règlement (Géoportail de l'Urbanisme) ; services publics d'assainissement (SISPEA, Office
+français de la biodiversité) ; annuaire de l'administration (service-public.fr).
+
+Les solutions d'assainissement individuel
+  FILIÈRE                                    QUAND ELLE CONVIENT                                                           ORDRE DE PRIX
+
+  Fosse toutes eaux et                       Sol perméable, terrain assez grand et peu pentu                               5 000 à 10 000 €
+  épandage
+
+  Filtre à sable                             Sol peu perméable, place suffisante                                           8 000 à 12 000 €
+
+  Micro-station agréée                       Petit terrain ou sol défavorable ; entretien et électricité                   7 000 à 15 000 €
+
+  Filtre compact agréé                       Petit terrain, sans électricité                                               9 000 à 14 000 €
+
+
+
+Ordres de prix indicatifs (fourniture et pose, hors étude de sol et terrassements particuliers). La filière est choisie au vu de l'étude
+de sol et validée par le SPANC.
+
+
+6.5 Électricité et eau potable
+Gestionnaire du réseau                                       Enedis
+
+Réseau basse tension le plus proche                          Aucun à moins de 422 m
+
+Poste de transformation le plus proche                       à environ 530 m
+
+Appréciation                                                 Raccordement lourd à prévoir
+
+
+     Aucune ligne basse tension n'est recensée à moins de 422 m. Le raccordement suppose une extension
+     du réseau, voire un nouveau poste de transformation : le coût peut atteindre plusieurs dizaines de
+     milliers d'euros et les délais plusieurs mois.
+
+
+
+Ce qu'il faut vérifier avant d'acheter
+    La capacité du réseau : même un réseau proche peut être saturé (coffret ou câble plein, poste de transformation
+    au maximum). Seule une étude du gestionnaire permet de le savoir ; c'est la cause la plus fréquente de surcoûts
+    imprévus.
+    Électricité : demander au gestionnaire du réseau une étude de raccordement ou un devis à partir de l'adresse et
+    du plan de situation (gratuit). Elle indique le type de raccordement, son coût et son délai.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                               22 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Mende · AI 17
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+    Eau potable : les plans du réseau d'eau ne sont pas publics. Interroger le service des eaux (coordonnées
+    ci-dessous) sur la présence d'une canalisation au droit du terrain, sa capacité et le coût du branchement, ainsi
+    que sur la défense incendie (borne à moins de 200 m environ).
+    Certificat d'urbanisme opérationnel : la mairie y indique si le terrain est desservi par les réseaux publics (eau,
+    électricité, assainissement) et, à défaut, si et quand ils seront étendus. Un refus de permis peut être fondé sur
+    l'insuffisance des réseaux (article L. 111-11 du Code de l'urbanisme).
+
+Qui contacter
+Service de l'eau potable                                     COMMUNAUTE DE COMMUNES COEUR DE LOZERE
+
+Mode de gestion                                              Délégation de service public à BRL Exploitation
+
+Contact pour le branchement                                  BRL Exploitation, pour le compte de : COMMUNAUTE DE
+                                                             COMMUNES COEUR DE LOZERE
+
+Mairie                                                       Mairie de Mende
+
+Téléphone de la mairie                                       04 66 49 40 00
+
+E-mail de la mairie                                          contact@mende.fr
+
+Électricité (raccordement)                                   Enedis · demande en ligne sur enedis.fr (raccordement)
+
+La mairie oriente vers le bon interlocuteur et confirme, dans le certificat d'urbanisme, la desserte du terrain par les réseaux.
+Sources : SISPEA, observatoire des services publics d'eau (OFB) ; annuaire de l'administration (service-public.fr).
+
+Dans une promesse de vente, une condition suspensive portant sur le coût du raccordement aux réseaux protège
+l'acquéreur. Source de la cartographie électrique : Agence ORE, données des gestionnaires de réseaux de distribution ;
+tracés indicatifs.
+
+
+6.6 Fibre et internet
+     La fibre est déployée dans le secteur, la plus proche à 602 m (20 Rue de l’Etrier) : le raccordement
+     d'une construction neuve suppose une extension du réseau, à demander à l'opérateur.
+
+
+
+Adresse la plus proche                                          20 Rue de l’Etrier · à 602 m · raccordable
+
+Point fibré le plus proche                                      20 Rue de l’Etrier · à 602 m
+
+Adresses fibrées à moins de 100 m                               Aucune adresse recensée
+
+Adresses fibrées à moins de 400 m                               0 sur 0
+
+Technologies disponibles à proximité                            4G fixe, Cuivre (ADSL, VDSL), Fibre, Satellite
+
+
+Vérifiez la fibre à l'adresse du terrain :
+
+                     Carte fibre Orange                                                                  Carte de l'Arcep
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      23 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                         Mende · AI 17
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  DISTANCE           ADRESSE                                                                   FIBRE              AUTRES ACCÈS
+
+  602 m              20 Rue de l’Etrier                                                        Oui                4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+  613 m              18 Rue de l’Etrier                                                        Oui                4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+  618 m              8 Rue de l’Etrier                                                         Oui                4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+  625 m              22 Rue de l’Etrier                                                        Oui                4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+  657 m              1 Rue de l’Octroi                                                         Oui                4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+
+
+Source : Arcep, « Ma connexion internet », éligibilité déclarée par les opérateurs, adresse par adresse. Le tracé des câbles n'est
+pas public : la présence de la fibre en limite de terrain se vérifie auprès de l'opérateur ou par une déclaration de projet de travaux
+(DT).
+
+
+6.7 Qui contacter pour les réseaux
+  RÉSEAU                                    INTERLOCUTEUR                                         CE QU'IL FAUT DEMANDER
+
+  Eau potable et                            Mairie ou service des eaux de la                      Attestation de desserte et conditions de
+  assainissement collectif                  commune                                               raccordement
+
+  Assainissement individuel                 SPANC (communauté de communes)                        Contrôle de conception sur la base de l'étude
+                                                                                                  de sol
+
+  Électricité                               Enedis (gestionnaire du réseau de                     Étude de raccordement et devis
+                                            distribution)
+
+  Fibre et téléphone                        Opérateur d'infrastructure et                         Raccordement du futur logement
+                                            fournisseur d'accès
+
+  Tous réseaux                              Guichet unique des réseaux                            Déclaration de projet de travaux (DT) pour
+                                            (reseaux-et-canalisations.gouv.fr)                    localiser les réseaux existants
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             24 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Mende · AI 17
+         TerrenUrbanisme
+                                                                                                               07 · Conditions de vente du terrain
+
+
+
+
+    07             Conditions de vente du terrain
+     DANS CETTE SECTION
+
+     Terrain agricole ou naturel : droit de préemption de la SAFER, fermier en place, autorisation
+     d'exploiter et repère officiel de prix.
+
+
+Terrain situé en zone N : vente encadrée par le code rural et de la pêche maritime.
+
+
+
+7.1 Pourquoi aucune fourchette de prix n'est donnée
+La parcelle est classée en zone N (naturelle et forestière), où les constructions nouvelles ne sont en principe
+pas admises. Sa valeur ne se déduit pas des ventes de terrains à bâtir du secteur : elle dépend de l'usage
+agricole ou naturel du sol, de sa qualité, de son accès, de l'eau disponible et de l'existence éventuelle d'un bail
+rural. Une estimation automatique serait trompeuse : la valeur doit être établie au cas par cas par un notaire
+ou un expert foncier et agricole.
+
+
+7.2 Le droit de préemption de la SAFER
+Principe                                        La vente d'un terrain agricole ou naturel est en principe soumise au droit de
+                                                préemption de la SAFER (articles L. 143-1 et suivants du code rural et de la
+                                                pêche maritime). Une surface minimale, fixée par département, peut en
+                                                exclure les plus petites parcelles.
+
+Information obligatoire                         Le notaire informe la SAFER du projet de vente au moins deux mois avant la
+                                                signature : prix, conditions et identité de l'acquéreur.
+
+Ce que peut faire la SAFER                      Renoncer, acheter au prix et aux conditions notifiés, ou proposer un prix
+                                                inférieur si elle estime le prix exagéré. Le vendeur peut alors accepter,
+                                                retirer son terrain de la vente ou demander au tribunal judiciaire de fixer le
+                                                prix.
+
+Pourquoi elle intervient                        Installation de jeunes agriculteurs, consolidation des exploitations,
+                                                protection de l'environnement et des paysages, lutte contre la spéculation
+                                                foncière.
+
+
+
+7.3 Les autres règles à connaître
+Fermier en place                                Si le terrain est loué par bail rural, l'exploitant en place bénéficie d'un droit
+                                                de préemption prioritaire, avant la SAFER.
+
+Autorisation d'exploiter                        Un acquéreur qui souhaite exploiter le terrain peut devoir obtenir une
+                                                autorisation d'exploiter auprès de la DDT(M), selon le schéma directeur
+                                                régional des exploitations agricoles.
+
+Espace naturel sensible                         Dans un espace naturel sensible, le département peut également disposer
+                                                d'un droit de préemption.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       25 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Mende · AI 17
+         TerrenUrbanisme
+                                                                                                               07 · Conditions de vente du terrain
+
+
+
+
+Constructions                                   Seules les constructions nécessaires à l'exploitation agricole ou forestière,
+                                                ou à des équipements collectifs, sont en règle générale admises : l'achat ne
+                                                donne pas de droit à bâtir une habitation.
+
+
+
+7.4 Repère officiel de prix
+Le ministère de l'Agriculture publie chaque année le barème indicatif de la valeur vénale moyenne des terres
+agricoles, par région agricole et par nature de culture (arrêté publié au Journal officiel). C'est la référence à
+consulter, avec l'avis d'un notaire ou d'un expert foncier et agricole, avant de fixer un prix.
+
+     Avant toute mise en vente, rapprochez-vous de votre notaire : il notifie la vente à la SAFER, vérifie
+     l'existence d'un bail et sécurise le calendrier de la transaction.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       26 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Mende · AI 17
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+   08              Environnement et marché immobilier
+     DANS CETTE SECTION
+
+     Les espaces naturels protégés autour du terrain et les prix de vente réels des maisons,
+     appartements et terrains alentour.
+
+
+Inventaire national du patrimoine naturel et demandes de valeurs foncières (DVF).
+
+
+
+8.1 Espaces naturels protégés ou inventoriés
+La parcelle n'est concernée par aucun site Natura 2000, ZNIEFF, parc ou réserve naturelle.
+
+
+8.2 Espèces protégées observées près du terrain
+6 espèces protégées ont été observées dans un rayon de 1 km autour du terrain depuis 1990.
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Mésange noire (Periparus ater)                                  Oiseau                 Nationale (espèce et              1 · dernière en 2018
+                                                                                         habitat)
+
+  Pinson des arbres (Fringilla coelebs)                           Oiseau                 Nationale (espèce et              1 · dernière en 2018
+                                                                                         habitat)
+
+  / (Asphodelus macrocarpus)                                      Plante                 Nationale                         1 · dernière en 2023
+
+  Milan royal (Milvus milvus)                                     Oiseau                 Nationale (espèce et              1 · dernière en 2018
+                                                                                         habitat)
+
+  Grand-Duc d'Europe (Bubo bubo)                                  Oiseau                 Nationale (espèce et              1 · dernière en 2005
+                                                                                         habitat)
+
+  Cresserelle (Falco tinnunculus)                                 Oiseau                 Nationale (espèce et              1 · dernière en 2017
+                                                                                         habitat)
+
+
+
+     Une observation à proximité ne signifie pas que l'espèce vit sur le terrain. Mais si elle y est présente, il
+     est interdit de détruire, capturer ou déranger les individus et, pour la plupart de ces espèces, de
+     détruire leurs lieux de reproduction et de repos (articles L. 411-1 et suivants du Code de
+     l'environnement). L'infraction est punie de 3 ans d'emprisonnement et 150 000 € d'amende.
+
+
+
+Pour les plantes, la protection vise les populations sauvages : un spécimen planté dans un jardin n'est pas concerné.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      27 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Mende · AI 17
+         TerrenUrbanisme
+                                                                                                     08 · Environnement et marché immobilier
+
+
+
+
+Que faire avant de construire ?
+    Pour une maison individuelle, aucune étude écologique n'est imposée en règle générale, et l'étude de sol porte
+    sur le terrain (fondations), pas sur la faune ni la flore. Vous restez cependant responsable si une espèce
+    protégée vit sur la parcelle : en cas de doute (espèce observée tout près, vieux arbres, murets, maquis, zone
+    humide), faites passer un écologue avant de défricher.
+    Si un enjeu est confirmé : inventaire faune-flore aux saisons utiles (printemps et été en général), puis mesures
+    pour éviter et réduire l'impact : implantation de la maison sur la partie la moins sensible, travaux hors période de
+    reproduction, clôture de chantier adaptée, déplacement d'individus par un spécialiste habilité.
+    Si la destruction d'individus ou d'habitats ne peut pas être évitée : demande de dérogation « espèces protégées »
+    auprès de la préfecture (DREAL), avec avis du conseil scientifique. Comptez 4 à 12 mois d'instruction, à anticiper
+    avant le dépôt du permis.
+
+Combien prévoir ?
+Pré-diagnostic écologique                                 800 à 2 000 € (une visite et une note de synthèse)
+
+Inventaire faune-flore                                    3 000 à 10 000 € selon la surface et le nombre de passages
+
+Mesures d'évitement et de réduction                       500 à 5 000 € (balisage, calendrier, suivi de chantier)
+
+Dossier de dérogation                                     8 000 à 25 000 €, hors mesures de compensation éventuelles
+
+Ordres de prix indicatifs, honoraires de bureaux d'études en environnement, si une étude est nécessaire. Pour une maison sur un
+terrain déjà entouré de constructions, aucune étude n'est le plus souvent requise.
+
+Sources : statuts de protection TAXREF et base de connaissance des statuts (INPN, Muséum national d'Histoire naturelle) ;
+observations naturalistes GBIF, qui rassemble notamment les données de l'INPN et du SINP.
+
+
+8.3 Prix de l'immobilier à Mende
+Prix au mètre carré des ventes enregistrées sur la commune au cours des cinq dernières années publiées.
+Seules les ventes portant sur un bien unique sont retenues.
+
+  TYPE DE BIEN                                       VENTES                       €/M² MÉDIAN                              €/M² MOYEN
+
+  Maisons                                            215                          2 073 €/m²                               2 039 €/m²
+
+  Appartements                                       301                          1 925 €/m²                               2 216 €/m²
+
+  Locaux commerciaux                                 57                           859 €/m²                                 942 €/m²
+
+
+
+Source : statistiques des demandes de valeurs foncières (DGFiP, Etalab). Prix des actes, hors frais : un ordre de grandeur,
+pas une estimation du bien.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         28 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                             Mende · AI 17
+         TerrenUrbanisme
+                                                                                                                                09 · Historique du site
+
+
+
+
+   09              Historique du site
+     DANS CETTE SECTION
+
+     Le terrain vu du ciel au fil des décennies et les permis de construire accordés autour : l'évolution
+     du secteur en un coup d'œil.
+
+
+Photographies aériennes de l'IGN et permis de construire délivrés (Sitadel).
+
+
+
+9.1 Le terrain vu du ciel, d'hier à aujourd'hui
+
+    1950-1965                                             2000-2005                                              2006-2010
+
+
+
+
+    2011-2015                                             Aujourd'hui
+
+
+
+
+Ces vues montrent l'évolution du terrain et du quartier, des années 1950 à aujourd'hui (photographies aériennes de l'IGN).
+
+     Bon à savoir : l'existence ancienne d'une construction peut ouvrir, sous conditions, un droit à
+     reconstruire ou à restaurer un bâtiment dont il reste l'essentiel des murs porteurs (articles L. 111-15 et L.
+     111-23 du Code de l'urbanisme).
+
+
+
+
+9.2 Permis de construire délivrés autour du terrain
+Autorisations sur la commune (3 ans)                                    63 · dernière recensée le 11/09/2026
+
+Logements autorisés (3 ans)                                             109
+
+Dont maisons individuelles                                              48
+
+Autorisations dans la section AI                                        25 depuis 2013
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  13/12/2024            Permis de construire                   AI 90              1              203 m²                    CHEMIN DU ROUSSEL
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              29 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                             Mende · AI 17
+         TerrenUrbanisme
+                                                                                                                                09 · Historique du site
+
+
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  14/12/2021            Permis de construire                   AI 287             1              170 m²                    CHEMIN DU ROUSSEL
+
+  05/10/2021            Permis de construire                   AI 334             1              111 m²                    IMPASSE MARIE-ROSE
+                                                                                                                           BRUGERO
+
+  11/08/2021            Permis de construire                   AI 334             1              109 m²                    LOTISSEMENT ""LE CLOS DE
+                                                                                                                           LA SAFRANIERE""
+
+  26/07/2021            Permis de construire                   AI 334             1              109 m²                    IMPASSE MARIE-ROSE
+                                                                                                                           BRUGERO
+
+  07/04/2021            Permis de construire                   AI 334             1              126 m²                    LOT LE CLOS DE LA
+                                                                                                                           SAFRANIERE
+
+  22/03/2021            Permis de construire                   AI 334             1              108 m²                    IMPASSE MARIE-ROSE
+                                                                                                                           BRUGERO
+
+  18/03/2021            Permis de construire                   AI 334             1              98 m²                     IMPASSE MARIE-ROSE
+                                                                                                                           BRUGERO
+
+  16/03/2021            Permis de construire                   AI 349             1              143 m²                    IMPASSE MARIE-ROSE
+                                                                                                                           BRUGERO
+
+  11/02/2021            Permis de construire                   AI 344             1              118 m²                    LOT. ""LE CLOS DE LA
+                                                                                                                           SAFRANIERE"" LOT N_
+
+  05/01/2021            Permis de construire                   AI 334             10             535 m²                    IMPASSE MARIE-ROSE
+                                                                                                                           BRUGERO
+
+  18/11/2020            Permis de construire                   AI 234             1              133 m²                    LE CLOS DE LA SAFRANIERE
+
+
+
+Source : base Sitadel des autorisations d'urbanisme créant des logements (SDES). Un permis accordé à proximité montre
+que des constructions ont été admises dans le secteur, sans préjuger de la décision sur votre propre projet.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                              30 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Mende · AI 17
+         TerrenUrbanisme
+                                                                                                              10 · Opportunités autour du terrain
+
+
+
+
+    10             Opportunités autour du terrain
+     DANS CETTE SECTION
+
+     Ce qui se passe autour de la parcelle : grands terrains peu bâtis, sociétés propriétaires en
+     difficulté, logements énergivores. Des pistes pour un investisseur, un voisin ou un professionnel.
+
+
+Bodacc (procédures collectives), ADEME (diagnostics énergétiques), cadastre, BD TOPO et Géoportail de l'Urbanisme.
+
+
+
+10.1 Grands terrains peu bâtis à proximité
+Parcelles de plus de 1 200 m², situées en zone urbaine ou à urbaniser du PLU, dans un rayon de 250 m, dont
+moins de 8 % de la surface est bâtie, hors terrains publics : un potentiel de construction ou de division à
+étudier.
+
+  PARCELLE           SURFACE                BÂTI               ZONE               DISTANCE           PROPRIÉTAIRE
+
+  AI 226             21 668 m²              non bâti           1AUx               290 m              particulier (non publié)
+
+
+
+Ces informations proviennent de bases publiques et ne préjugent ni de l'intention de vendre des propriétaires ni de la
+constructibilité des parcelles citées, qui relève d'une étude au cas par cas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       31 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Mende · AI 17
+           TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+      11           Votre projet, étape par étape
+De l'achat du terrain à la déclaration aux impôts : démarches, délais, coûts et contacts.
+
+
+
+11.1 Analyse
+Le terrain est soumis au plan local d'urbanisme (PLU) de Mende. Il est classé principalement en zone N.
+Zone naturelle et forestière : secteur protégé en raison de la qualité des sites, des milieux naturels et des
+paysages, ou de son caractère d'espace naturel. Les constructions nouvelles n'y sont pas admises, sauf
+exceptions encadrées (équipements publics, extension limitée des habitations existantes, secteurs de
+taille et de capacité limitées).
+
+En l'état, une construction nouvelle n'est pas possible. Seules des évolutions limitées peuvent être
+envisagées selon le règlement de la zone (extension mesurée d'une habitation existante, annexes,
+équipements publics). Le classement ne peut évoluer qu'à l'occasion d'une modification ou d'une révision
+du document d'urbanisme, à l'initiative de la commune.
+
+La commune est également classée en zone de montagne : la règle de continuité avec les bourgs,
+villages et hameaux existants s'applique.
+
+
+11.2 Votre projet, étape par étape
+Les étapes ci-dessous suivent l'ordre réel d'un projet de construction, de l'achat du terrain à la déclaration aux
+impôts. Les montants sont indicatifs et à confirmer par devis.
+
+  1      Avant d'acheter le terrain
+         Vérifiez les règles de la zone (chapitres précédents), puis demandez un certificat d'urbanisme opérationnel
+         (Cerfa 13410, sans frais, réponse sous 2 mois) : il fige les règles pendant 18 mois. En zone d'argiles d'aléa
+         moyen ou fort, le vendeur doit fournir une étude de sol préalable.
+         Contact : Mairie de Mende · 04 66 49 40 00 · contact@mende.fr · formulaire sur service-public.fr (rechercher «
+         Cerfa 13410 »)
+
+  2      Les études
+         Étude de sol géotechnique (G2) pour dimensionner les fondations : 1 500 à 3 000 €. Étude thermique RE2020,
+         obligatoire pour le permis : 500 à 1 500 €. Bornage par un géomètre si les limites sont incertaines. L'étude de
+         sol ne porte pas sur les espèces protégées : un écologue n'intervient qu'en cas d'enjeu (chapitre
+         Environnement).
+         Géomètres proches du terrain : liste à la fin de ce chapitre
+
+  3      Les plans
+         Architecte obligatoire si la surface de plancher totale dépasse 150 m². En dessous, vous pouvez dessiner les
+         plans vous-même ou faire appel à un dessinateur ou maître d'œuvre (environ 1 500 à 4 000 € le dossier de
+         permis). Architecte : 3 000 à 8 000 € pour la seule mission de permis, 8 à 12 % du coût des travaux pour une
+         mission complète avec suivi du chantier.
+         Trouver un architecte : annuaire de l'Ordre des architectes sur architectes.org
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         32 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Mende · AI 17
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+  4      Déposer le permis
+         Formulaire Cerfa 13406 (maison individuelle) et pièces PCMI1 à PCMI8 : plan de situation, plan de masse,
+         coupe, notice, plans des façades et toitures, insertion dans le paysage, photos, attestation RE2020. Dépôt en
+         mairie ou en ligne sur le guichet numérique de la commune. La mairie a 1 mois pour réclamer une pièce
+         manquante ; l'instruction dure 2 mois à partir du dossier complet, plus en secteur protégé.
+         Dépôt : Mairie de Mende · 04 66 49 40 00 · contact@mende.fr · formulaire sur service-public.fr (rechercher « Cerfa
+         13406 »)
+
+  5      Affichage et recours
+         Dès l'accord, installez le panneau de permis sur le terrain, lisible depuis la voie, pendant toute la durée du
+         chantier. Les tiers ont 2 mois à compter du premier jour d'affichage pour contester ; la mairie peut retirer un
+         permis illégal pendant 3 mois. Faites constater l'affichage par un commissaire de justice (environ 300 à 600 €
+         pour les trois constats).
+         Commissaires de justice : annuaire sur commissaire-justice.fr
+
+  6      Avant les travaux
+         Souscrivez l'assurance dommages-ouvrage, obligatoire (souvent 2 à 4 % du coût de la construction). Signez
+         le contrat de construction de maison individuelle ou les marchés des artisans. Déposez la déclaration
+         d'ouverture de chantier (Cerfa 13407) le jour du démarrage. Le permis est valable 3 ans, prorogeable deux
+         fois d'un an.
+         Déclaration d'ouverture : Mairie de Mende · 04 66 49 40 00 · contact@mende.fr
+
+  7      Le financement
+         La banque débloque le prêt au fur et à mesure du chantier, sur présentation des factures des entreprises ou
+         des appels de fonds du constructeur. Avec un contrat de construction de maison individuelle, l'échéancier
+         est encadré par la loi : 15 % à l'ouverture du chantier, 25 % aux fondations, 40 % aux murs, 60 % hors d'eau,
+         75 % hors d'air et cloisons, 95 % aux équipements, le solde à la réception. Des intérêts intercalaires peuvent
+         courir sur les sommes débloquées.
+         Votre banque ou votre courtier
+
+  8      La fin du chantier
+         Réception des travaux avec le constructeur ou les artisans, avec réserves si nécessaire. Déposez ensuite la
+         déclaration attestant l'achèvement et la conformité des travaux (DAACT, Cerfa 13408), avec l'attestation
+         RE2020 de fin de chantier. La mairie a 3 mois pour la contester (5 mois en secteur protégé).
+         Dépôt : Mairie de Mende · 04 66 49 40 00 · contact@mende.fr
+
+  9      Les impôts
+         Dans les 90 jours suivant l'achèvement, déclarez la construction sur impots.gouv.fr, espace « Gérer mes
+         biens immobiliers ». Cette déclaration sert au calcul de la taxe d'aménagement (payée en une fois sous 1 500
+         €, sinon en deux fois, estimation plus bas dans ce chapitre) et de la taxe foncière, avec une exonération
+         possible les deux premières années selon la commune.
+         impots.gouv.fr › Espace particulier › Gérer mes biens immobiliers
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         33 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Mende · AI 17
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+11.3 Les points à vérifier pour ce terrain
+  1      Certificat d'urbanisme opérationnel
+         Le demander en mairie (formulaire Cerfa 13410), en décrivant le projet. Gratuit, il indique si le terrain
+         peut accueillir le projet et fige les règles d'urbanisme pendant 18 mois.
+
+  2      Règlement de la zone
+         Lire le règlement écrit de la zone N et, le cas échéant, les orientations d'aménagement, disponibles sur
+         le Géoportail de l'Urbanisme.
+
+  3      Réseaux et accès
+         Vérifier l'accès à une voie publique ou privée adaptée, la desserte en eau potable et en électricité, et le
+         mode d'assainissement. En l'absence de réseau collectif, une étude de sol et l'avis du service public
+         d'assainissement non collectif (SPANC) sont nécessaires.
+
+  4      Débroussaillement et défrichement
+         Prévoir le débroussaillement obligatoire autour des constructions et, si le terrain est boisé, une
+         demande d'autorisation de défrichement auprès de la DDT avant le permis.
+
+  5      Loi Montagne
+         Faire confirmer par la mairie ou un professionnel la situation de la parcelle au regard de la continuité
+         avec l'urbanisation existante.
+
+  6      Bornage
+         Faire réaliser un bornage par un géomètre-expert pour fixer les limites exactes et la surface réelle du
+         terrain.
+
+  7      Sécuriser un achat
+         Pour une acquisition, prévoir dans le compromis une condition suspensive d'obtention d'un permis de
+         construire purgé de tout recours.
+
+
+11.4 Délais indicatifs d'instruction
+  DEMANDE                                                                                 DÉLAI DE DROIT COMMUN
+
+  Certificat d'urbanisme d'information (CUa)                                              1 mois
+
+  Certificat d'urbanisme opérationnel (CUb)                                               2 mois
+
+  Déclaration préalable                                                                   1 mois
+
+  Permis de construire une maison individuelle                                            2 mois
+
+  Permis d'aménager, autres permis de construire                                          3 mois
+
+
+
+Ces délais peuvent être majorés, notamment en site classé ou inscrit, aux abords d'un monument historique ou lorsque la
+consultation d'un service extérieur est nécessaire.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         34 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Mende · AI 17
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+11.5 Implanter une entreprise : zone France Ruralités Revitalisation
+     La commune de Mende est classée en zone France Ruralités Revitalisation (FRR) depuis le 1er juillet
+     2024. Une entreprise qui s'y crée ou y est reprise peut être exonérée d'impôt sur les bénéfices pendant
+     5 ans, puis partiellement pendant 3 ans.
+
+
+
+Impôt sur les bénéfices (IS ou IR)                    Exonération totale pendant 5 ans, puis exonération de 75 %, 50 % et 25
+                                                      % des bénéfices les 3 années suivantes
+
+Création ou reprise                                   Entre le 1er juillet 2024 et le 31 décembre 2029
+
+Activités concernées                                  Industrielle, commerciale, artisanale ou libérale
+
+Taille de l'entreprise                                Moins de 11 salariés
+
+Régime d'imposition                                   Régime réel obligatoire (micro-entreprise exclue, sauf option pour le
+                                                      réel)
+
+Implantation                                          Siège et totalité de l'activité dans la zone (activité sédentaire : 25 % du
+                                                      chiffre d'affaires au plus réalisé hors zone)
+
+Plafond                                               Aides de minimis : 300 000 € sur trois exercices
+
+Taxe foncière et CFE                                  Exonération possible si la commune ou l'intercommunalité l'a votée : à
+                                                      vérifier en mairie
+
+
+Exclus : les activités agricoles, la gestion ou la location d'immeubles (une SCI de location nue n'est pas éligible) et la
+location meublée sans services de type hôtelier. Une location touristique ou des chambres d'hôtes peuvent être éligibles si
+le ménage quotidien et le linge sont fournis et inclus dans le prix.
+
+Ces avantages dépendent de la situation de l'entreprise (article 44 quindecies A du code général des impôts). Faites valider
+votre éligibilité par votre expert-comptable ou le service des impôts des entreprises avant de vous installer.
+
+Source : ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 (collectivites-locales.gouv.fr).
+
+
+11.6 Géomètres proches du terrain
+Le géomètre-expert est le seul professionnel habilité à fixer les limites de propriété (bornage) et à établir les
+documents d'arpentage déposés au cadastre. Il intervient aussi pour les relevés topographiques et les
+divisions de terrain.
+
+1,9 km            FAGGE ET ASSOCIES
+                                                                                                                           Coordonnées
+                  8 RUE DE WUNSIEDEL 48000 MENDE
+
+
+1,9 km            SCP GREGOIRE FAGGE
+                                                                                                                           Coordonnées
+                  IMMEUBLE VAL-LIB 8 RUE DE WUNSIEDEL 48000 MENDE
+
+
+2,5 km            GEO TOPO 48
+                                                                                                                           Coordonnées
+                  RESIDENCE BELLEVUE APPT 2 2 RUE BEAUSEJOUR 48000 MENDE
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         35 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Mende · AI 17
+         TerrenUrbanisme
+                                                                                                                  11 · Votre projet, étape par étape
+
+
+
+
+15,8 km           NELE COTTENIER (VAN DE VOORDE)
+                                                                                                                           Coordonnées
+                  LONJAGNES 48320 ISPAGNAC
+
+
+15,9 km           SOGEXFO CENTRE - CABINET FALCON
+                                                                                                                           Coordonnées
+                  16 BOULEVARD DU MARECHAL FOCH 48100 MARVEJOLS
+
+
+16,1 km           CABINET D'EXPERTISE ET DE GESTION DE LA LOZERE (CEGL)
+                                                                                                                           Coordonnées
+                  5 BD REVER PERE DE JABRUN 48100 MARVEJOLS
+
+
+Source : répertoire Sirene de l'INSEE (activité des géomètres), classé par distance au terrain. L'inscription d'un cabinet à l'Ordre
+des géomètres-experts se vérifie sur geometre-expert.fr. Le bouton « Coordonnées » ouvre la fiche du cabinet (téléphone,
+horaires, itinéraire). Cette liste est fournie à titre indicatif, sans partenariat ni recommandation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         36 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Mende · AI 17
+         TerrenUrbanisme
+                                                                                                           12 · État des risques (ERP) pré-rempli
+
+
+
+
+    12             État des risques (ERP) pré-rempli
+     DANS CETTE SECTION
+
+     Le formulaire réglementaire à remettre à l'acquéreur ou au locataire, pré-rempli à partir des
+     bases officielles : plans de prévention, sismicité, radon, sols pollués, trait de côte, bruit des
+     aérodromes.
+
+
+Articles L. 125-5 à L. 125-7 et R. 125-23 à R. 125-27 du Code de l'environnement · modèle fixé par l'arrêté du 27 septembre
+2022.
+
+
+     Formulaire pré-rempli à partir de Géorisques et du Géoportail de l'Urbanisme à la date du rapport.
+     Avant de le remettre à l'acquéreur ou au locataire, le vendeur ou le bailleur le vérifie, le complète
+     (sinistres indemnisés) et le signe ; il doit dater de moins de six mois à la signature de la promesse, du
+     bail ou de l'acte.
+
+
+
+
+12.1 Situation du bien
+Commune                                                  Mende (48095)
+
+Département                                              Lozère (48)
+
+Références cadastrales                                   Section AI, parcelle n° 17 · 48095000AI0017
+
+Surface cadastrale                                       6 200 m²
+
+
+
+12.2 Plans de prévention des risques
+  L'IMMEUBLE EST SITUÉ DANS LE PÉRIMÈTRE…                                         RÉPONSE                DÉTAIL
+
+  d'un plan de prévention des risques naturels (PPRN)                             Non                    Aléas à l'adresse : feu de forêt
+  prescrit, appliqué par anticipation ou approuvé
+
+  d'un plan de prévention des risques miniers (PPRM)                              Non                    Non recensé
+
+  d'un plan de prévention des risques technologiques                              Non                    Risques technologiques sur la commune
+  (PPRT)                                                                                                 : installations industrielles (icpe),
+                                                                                                         pollution des sols, risque minier
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         37 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                         Mende · AI 17
+         TerrenUrbanisme
+                                                                                                           12 · État des risques (ERP) pré-rempli
+
+
+
+
+12.3 Autres zonages réglementaires
+  L'IMMEUBLE EST SITUÉ…                                                           RÉPONSE                DÉTAIL
+
+  dans une commune de sismicité (zones 2 à 5 : règles de                          Oui                    Zone 2 – faible
+  construction parasismique)
+
+  dans une commune à potentiel radon de niveau 3                                  Oui                    Catégorie 3 (potentiel significatif)
+
+  dans un secteur d'information sur les sols (SIS)                                Non                    Aucun SIS recensé à proximité
+
+  dans une zone exposée au recul du trait de côte                                 Non                    Non concerné selon Géorisques
+
+  dans une zone de bruit d'un plan d'exposition au bruit                          À vérifier             Aucun PEB annexé au document
+  d'aérodrome (PEB)                                                                                      d'urbanisme ; vérifier auprès de la mairie
+
+  dans une zone de retrait-gonflement des argiles                                 Oui                    Existant – faible
+  (information)
+
+
+
+
+12.4 Sinistres indemnisés et déclarations
+Arrêtés de catastrophe naturelle sur la commune : 8 (liste en section Risques). Le vendeur ou le bailleur
+déclare ci-dessous les sinistres ayant donné lieu à une indemnisation au titre des catastrophes naturelles ou
+technologiques pendant la période où il a été propriétaire.
+
+Sinistres indemnisés                                     [ ] Oui [ ] Non
+
+Vendeur ou bailleur                                      Nom : ____________________ Date : ___/___/______ Signature :
+
+Acquéreur ou locataire                                   Nom : ____________________ Date : ___/___/______ Signature :
+
+
+L'état des risques officiel peut aussi être édité gratuitement sur Géorisques (errial.georisques.gouv.fr). Les informations
+ci-dessus sont établies à partir des bases nationales ; en cas de divergence, l'arrêté préfectoral relatif à l'information des
+acquéreurs et des locataires fait foi.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           38 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Mende · AI 17
+         TerrenUrbanisme
+                                                                                                                      13 · Avertissement et sources
+
+
+
+
+    13             Avertissement et sources
+     DANS CETTE SECTION
+
+     La portée de ce rapport et la liste des sources publiques consultées.
+
+
+
+13.1 Nature du document
+Ce rapport est un document d'information établi automatiquement, à la date indiquée en page de garde, à
+partir des données publiques officielles alors disponibles. Il n'a aucune valeur contractuelle, réglementaire ou
+juridique.
+
+
+13.2 Ce que ce rapport n'est pas
+Il ne constitue ni un certificat d'urbanisme au sens de l'article L. 410-1 du Code de l'urbanisme, ni une
+autorisation d'urbanisme (permis de construire, permis d'aménager, déclaration préalable), ni un état des
+risques au sens de l'article L. 125-5 du Code de l'environnement, ni un bornage, ni une expertise, ni une
+évaluation immobilière, ni une consultation juridique. Il n'engage en rien l'administration.
+
+
+13.3 Permis de construire
+Ce rapport ne peut en aucun cas être joint, produit ou invoqué à l'appui d'une demande de permis de
+construire, de permis d'aménager ou de déclaration préalable, ni opposé à la mairie ou à un service de l'État. Il
+ne garantit pas l'obtention d'une autorisation : seule l'autorité compétente se prononce, au vu d'un projet
+précis et de l'ensemble des règles applicables à la date de sa décision.
+
+
+13.4 Limites des données
+Les données sont produites par des organismes publics dont l'éditeur n'est ni l'auteur ni le garant. Elles
+peuvent être incomplètes, imprécises ou ne pas refléter une modification, une révision, une mise en
+compatibilité, une annulation contentieuse, un sursis à statuer ou une procédure en cours. Le plan cadastral,
+document fiscal, ne fait pas foi des limites de propriété. Surfaces, distances, altitudes et pentes sont
+approchées. Les extraits et analyses du règlement sont une aide à la lecture : seul le texte intégral du
+document d'urbanisme approuvé, consultable en mairie, fait foi.
+
+
+13.5 Avant toute décision
+Avant toute acquisition, cession, financement, promesse de vente ou dépôt d'une demande, le lecteur doit
+obtenir un certificat d'urbanisme opérationnel auprès de la mairie, consulter le document d'urbanisme en
+vigueur et recueillir l'avis d'un professionnel habilité (notaire, architecte, géomètre-expert, avocat). Pour un
+achat, il est recommandé de stipuler une condition suspensive d'obtention d'un permis de construire purgé de
+tout recours.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        39 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Mende · AI 17
+         TerrenUrbanisme
+                                                                                                                      13 · Avertissement et sources
+
+
+
+
+13.6 Responsabilité
+L'éditeur ne saurait être tenu responsable d'une décision prise sur le seul fondement de ce rapport, ni d'un
+refus d'autorisation, d'une erreur ou d'une omission des sources publiques, dans les limites prévues par les
+conditions générales de vente acceptées lors de la commande.
+
+
+13.7 Sources consultées
+  DONNÉE                                                    SOURCE
+
+  Cadastre                                                  DGFiP, plan cadastral informatisé, via API Carto (IGN)
+
+  Photographies et plans                                    IGN, Géoplateforme : orthophotographies, Plan IGN, parcellaire express
+
+  Urbanisme                                                 Géoportail de l'Urbanisme : zonage, prescriptions, informations, servitudes
+                                                            d'utilité publique
+
+  Littoral                                                  IGN, BD TOPO (limite terre-mer) ; communes littorales (Géoportail de
+                                                            l'Urbanisme)
+
+  Montagne                                                  Ministère de la Cohésion des territoires, communes de la loi Montagne
+
+  Risques                                                   Géorisques (ministère de la Transition écologique) : rapport de risques,
+                                                            arrêtés CatNat, sismicité, radon, ICPE, sites pollués
+
+  Environnement                                             Inventaire national du patrimoine naturel (PatriNat), via API Carto
+
+  Altitude, pente et exposition                             IGN, RGE ALTI
+
+  Ensoleillement                                            Calcul astronomique de la course du soleil ; masque du relief (IGN, RGE
+                                                            ALTI) et des bâtiments (IGN, BD TOPO)
+
+  Voirie et accès                                           IGN, BD TOPO (tronçons de route)
+
+  Permis de construire                                      Sitadel, service des données et études statistiques (SDES) du ministère
+                                                            chargé du logement
+
+  Photographies anciennes                                   IGN, BD ORTHO historique
+
+  Fibre et internet                                         Arcep, Ma connexion internet (éligibilité par adresse)
+
+  Géomètres                                                 Répertoire Sirene (INSEE), activité des géomètres
+
+  Propriétaires personnes morales                           DGFiP, fichiers des parcelles des personnes morales (diffusion Koumoul)
+
+  Diagnostics énergétiques                                  ADEME, base des DPE des logements existants
+
+  Procédures collectives                                    Bodacc, annonces commerciales (DILA)
+
+  Bâtiments                                                 IGN, BD TOPO
+
+  Réseau électrique                                         Agence ORE (gestionnaires de réseaux de distribution : Enedis, EDF Corse
+                                                            et entreprises locales) : réseau basse tension et postes de distribution
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        40 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Mende · AI 17
+         TerrenUrbanisme
+                                                                                                                      13 · Avertissement et sources
+
+
+
+
+  DONNÉE                                                    SOURCE
+
+  Taxe d'aménagement                                        DGFiP, éléments de taxation votés par les collectivités ; valeurs forfaitaires
+                                                            fixées par arrêté
+
+  Rapport officiel de risques                               Géorisques, ministère chargé de l'environnement
+
+  Zone France Ruralités Revitalisation                      ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 ; article
+                                                            44 quindecies A du code général des impôts
+
+  Marché immobilier                                         Statistiques des demandes de valeurs foncières (DVF) par commune, DGFiP
+                                                            et Etalab
+
+  Date d'extraction                                         20/11/2026
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        41 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Mende · AI 17
+         TerrenUrbanisme
+                                                                                                                     Annexe · règlement de la zone
+
+
+
+
+ANNEXE
+
+
+Règlement écrit · zone N
+Les pages suivantes reproduisent le chapitre du règlement officiel applicable à la zone de la parcelle
+(pages 118 à 126 du document approuvé), tel que publié sur le Géoportail de l'Urbanisme. Il s'agit d'une
+reproduction à titre d'information : seule la version approuvée tenue à disposition en mairie fait foi, avec
+ses annexes, plans et éventuelles modifications ultérieures.
+Règlement complet :
+https://data.geopf.fr/annexes/gpu/documents/DU_48095/60bef9a1d15a408aec8e35ae45b2dd6a/48095_reglement_20260625.pdf
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        42 / 52
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                        Ville de Mende – Plan Local d’Urbanisme (P.L.U.)                                118
+
+
+
+
+                                                         ZONE N
+
+CARACTERE DE LA ZONE
+
+La zone N couvre la zone naturelle, équipée ou non, à protéger en raison soit de la qualité des sites, des milieux naturels,
+des paysages et de leur intérêt, notamment du point de vue esthétique, historique ou écologique, soit de l’existence
+d’une exploitation forestière, soit de leur caractère d’espace naturel.
+La zone N correspond à une zone naturelle fortement protégée. Les constructions et aménagements des bâtiments
+existants sont interdits, seules les constructions et installations nécessaires aux services publics ou d'intérêt collectif
+peuvent être autorisées..
+Cette zone comporte des sous-secteurs indicés :
+Référence à l’usage (indice secteur):
+        c = construction envisageable (secteurs de taille et de capacité limitée : STECAL, composés de deux sous-
+         secteurs Nc1 et Nc2)
+        k =secteur situé au voisinage du périmètre d’étude concernant le contournement Est de Mende. Dans ce
+         secteur les déclarations et demandes d’autorisations pourront se voir opposer un sursis à statuer ou un refus.
+La zone N est concernée par des risques naturels (inondations et mouvements de terrains), repérés par deux trames
+spécifiques sur les documents graphiques du règlement (plans de zonage). A ce titre elle fait l’objet de règles spécifiques
+annexées au PLU et rappelées en Titre I du présent règlement. Ces dispositions s’appliquent en sus du règlement de la
+zone.
+
+
+            SECTION I - NATURE DE L’OCCUPATION ET DE L’UTILISATION DU SOL
+
+ARTICLE N 1 - OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+
+Les occupations et utilisations du sol non mentionnées à l’article N2 sont interdites.
+Sont interdites les occupations et utilisations du sol suivantes :
+    -    Les constructions autres que celles autorisées sous conditions et susvisées.
+    -    Les affouillements, exhaussements de sols, les dépôts de matériaux inertes non liés aux travaux de
+         construction, d’exploitation ou d’aménagement admis dans la zone, sauf s’ils sont nécessaires à la réalisation
+         d’ouvrages d’infrastructures, d’installations diverses liées à l’opération de contournement de Mende et d’aires
+         de stationnement ouvertes au public.
+    -    Le stationnement des caravanes qu’elle qu’en soit la durée, et l’aménagement de terrains pour le camping,
+         suivant les dispositions des articles R.111-48 et R.111-49 du code de l’urbanisme,
+    -    Les constructions destinées à l’hébergement hôtelier, aux bureaux, au commerce, à l’artisanat, à l’industrie, à
+         l’exploitation agricole ou forestière, à la fonction d’entrepôt, sauf celles admises à l’article 2.
+
+
+
+
+                                           4. Règlement écrit – juin 2026
+                                      Ville de Mende – Plan Local d’Urbanisme (P.L.U.)                                 119
+
+
+
+ARTICLE N2 - OCCUPATIONS ET UTILISATIONS DU SOL ADMISES SOUS CONDITIONS
+
+Rappels :
+    -    L’édification des clôtures, en dehors des cas prévus à l'article R. 421-12 du Code de l’urbanisme, ainsi que les
+         clôtures nécessaires à l'activité agricole ou forestière sont dispensées de toutes formalités.
+    -    Les démolitions sont soumises à permis de démolir.
+    -    Les défrichements sont soumis à autorisation dans les espaces boisés non classés conformément à l’article
+         L.311-1 du code forestier.
+Sont admises, sous les conditions ci-après :
+Si par leur situation ou leur importance, ils n’imposent pas, soit la réalisation par la commune d’équipements publics
+nouveaux, soit un surcroît important de dépenses de fonctionnement des Services Publics et sous réserve de ne pas
+compromettre la qualité paysagère du site :
+Dans tous les secteurs :
+    -    Les constructions et installations nécessaires à des équipements collectifs que dès lors qu’elles ne sont pas
+         incompatibles avec l’exercice d’une activité agricole, pastorale ou forestière du terrain sur lequel elles sont
+         implantées et qu’elles ne portent pas atteinte à la sauvegarde des espaces naturels et des paysages.
+    -    les constructions et installations nécessaires à la gestion et à la protection de la zone sous réserve d’une bonne
+         intégration paysagère, notamment :
+             o les travaux et installations visant à assurer la sécurité du site par la réduction des risques naturels :
+                 incendie, glissement de terrain, …
+    -    les constructions et installations nécessaires à l’exercice des activités agricoles, pastorales et forestières ne
+         créant pas plus de 50 m² de surface de plancher.
+    -    Les travaux consécutifs à la mise en conformité (sécurité incendie et accessibilité) des Etablissements Recevant
+         du Public existants pourront déroger au présent règlement, sous réserve qu’aucune autre solution ne soit
+         envisageable.
+    -    L'extension des bâtiments d'habitation existants à la date d’approbation du PLU, dans la limite de 30%
+         maximum de la surface de plancher du bâtiment initial et sous réserve que la surface de plancher totale,
+         extension comprise ne dépasse pas 250 m2. Cette extension doit jouxter la construction existante, sans création
+         de logement supplémentaire et sous réserve de ne pas compromettre la qualité paysagère du site.
+    -    Les annexes aux constructions à usage d’habitation existantes, dans la limite de 50 m2 d’emprise au sol
+         maximale et à condition de s’implanter dans un périmètre de 30 mètres maximum autour de l’habitation (Cette
+         distance est comptée depuis tout point des façades de l’habitation). Ces annexes ne doivent pas compromettre
+         la qualité paysagère du site
+    -   Pour les bâtiments répertoriés au titre de l’article L151-19 du code de l’urbanisme, listés en annexe du
+        règlement et repérés par un figuré spécial sur les documents graphiques du règlement : ils présentent des
+        volumétries et architectures traditionnelles à la Vallée du Lot. A ce titre, en cas de transformation ou
+        rénovation, ils doivent pouvoir bénéficier de mesures propres à maintenir leur intégrité et lisibilité notamment
+        par l’utilisation des matériaux traditionnels, jadis utilisés pour leur construction.
+En zone indicée « c » (STECAL de Sirvens) :
+    Sous réserve d’une bonne insertion paysagère, d’être intégrés dans leur environnement et d’être desservi par les
+    réseaux :
+    -    La construction de, au plus, dix logements répartis de la manière suivante : cinq nouveaux logements en Nc1
+         et cinq nouveaux logements en Nc2,
+    -    Les constructions à usage d’habitation à condition qu’elles soient situées à proximité des constructions
+         existantes dans une limite de 200 m2 de surface de plancher,
+    -    L'extension des bâtiments d'habitation existants à la date de l’approbation du PLU, dans la limite de 30%
+         maximum de la surface de plancher du bâtiment initial et sous réserve que la surface de plancher totale,
+
+
+
+
+                                          4. Règlement écrit – juin 2026
+                                         Ville de Mende – Plan Local d’Urbanisme (P.L.U.)                                 120
+
+
+
+            extension comprise ne dépasse pas 250 m2. Cette extension doit jouxter la construction existante, sans création
+            de logement supplémentaire.
+    -       La construction d’annexes (garages, piscines, abris, etc…) en continuité de l’habitation existante, et sous
+            réserve de ne pas compromettre la qualité paysagère du site.
+Pour les secteurs soumis aux risques naturels (inondation ou mouvements de terrains) :
+Tout aménageur, tout constructeur devra prendre en compte l'existence de ces risques et s'en protéger conformément
+à l’article R 111-2 du code de l’urbanisme en se reportant notamment :
+    -       Pour le risque inondation : à la carte réglementaire et au règlement du Plan de Prévention des Risques Naturels
+            joints en annexe du présent PLU.
+    -       Pour le risque mouvement de terrain (aléas, effondrement, chute de bloc, glissement) : aux règles définies à
+            l’article 2.3 du présent règlement et à la représentation graphique desdits risques jointe en annexe du PLU.
+Pour les secteurs situés dans le périmètre du Site Patrimonial Remarquable (SPR):
+Tout pétitionnaire devra se référer au règlement de celui-ci en complément du présent règlement. Le SPR, servitude
+d’utilité publique est joint en annexe du PLU.
+Pour les secteurs concernés par le plan d’exposition au bruit de l’aérodrome Mende-Brenoux (arrêté préfectoral du
+08 juillet 2011), il conviendra de prendre en compte l’existence du dit document joint en annexe du PLU.
+
+
+Lexique : Sont définies comme annexes : l’ensemble des constructions (garage, abri de jardin, local technique, piscine)
+rattachées fonctionnellement à la construction principale. Il ne doit pas y avoir d’accès direct depuis le bâtiment principal
+(il s’agit sinon d’une extension) et ne peut avoir la même destination que la construction principale.
+
+
+                            SECTION II - CONDITIONS D’OCCUPATION DU SOL
+
+ARTICLE N 3 - ACCES ET VOIRIE
+
+Tout terrain enclavé est inconstructible, à moins que son propriétaire ne dispose d’une servitude de passage suffisante
+aménagée sur les fonds de ses voisins, dans les conditions fixées par l’article 682 du code civil.
+a) Accès
+Pour être constructible, un terrain doit avoir accès à une voie publique ou privée, soit directement, soit par application
+de l’article 682 du code Civil.
+Le nombre des accès sur les voies publiques peut être limité dans l’intérêt de la sécurité. En particulier, lorsque le terrain
+est desservi par plusieurs voies publiques, les constructions peuvent être autorisées, sous réserve que l’accès soit établi
+sur la voie où la gêne pour la circulation sera la moindre, ou que le gestionnaire de la voie définisse les conditions et les
+caractéristiques de cet accès.
+Les caractéristiques des accès doivent répondre à l’importance et à la destination du projet ou de l’ensemble à desservir,
+et permettre de satisfaire aux règles minimales de sécurité, telles que défense contre l’incendie, protection civile et
+brancardage.
+b) Voirie
+Les caractéristiques des voies publiques ou privées doivent répondre à la destination et à l’importance des opérations
+qu’elles desservent.
+
+
+
+
+                                            4. Règlement écrit – juin 2026
+                                      Ville de Mende – Plan Local d’Urbanisme (P.L.U.)                                 121
+
+
+
+ARTICLE N 4 - DESSERTE PAR LES RESEAUX
+
+    a) ALIMENTATION EN EAU :
+        Eau potable :
+Toute construction ou installation nouvelle nécessitant une alimentation en eau potable doit être raccordée au réseau
+public d’eau potable par branchement de caractéristiques suffisantes.
+Cependant, à défaut de réseau public, l’alimentation en eau potable par une source privée répondant aux normes de
+salubrité publique est autorisée. Ainsi le propriétaire devra prouver le débit et la potentialité de la source par
+l’intermédiaire d’analyses régulières par un laboratoire agrée. Le tarissement ultérieur de la source privée n’a pas pour
+effet d’obliger la commune à alimenter en eau les constructions ainsi desservies.
+        Eaux superficielles et souterraines :
+En application de l’article L.2224-9 du CGCT, tout prélèvement, forage, puits, à des fins domestiques (réalisé pour un
+particulier) doit être déclaré en mairie.
+Conformément aux articles L.214-1 à L.214-6 du Code de l’Environnement, tout forage non domestique doit faire l’objet
+d’une déclaration auprès de la DDT et de la DREAL si la profondeur est supérieure à 10 mètres.
+    b) ASSAINISSEMENT :
+Pour les territoires non desservis par un réseau d'assainissement collectif, des dispositifs d’assainissement non collectif
+conformes à la réglementation en vigueur (filières individuelles ou stations d’épurations particulières) seront mis en
+place à la charge du pétitionnaire. Ces installations devront être conformes aux préconisations de filière indiquées dans
+le Schéma Directeur d’Assainissement
+        Eaux usées domestiques :
+Les dispositions des règlements sanitaires en vigueur doivent être observées en application de l’article R.111.8 du Code
+de l’Urbanisme.
+Toute construction à usage d’habitation ou d’activité doit être raccordée au réseau public d’assainissement lorsqu’il
+existe. A défaut de réseau public, un dispositif d’assainissement individuel conforme à la législation en vigueur est
+obligatoire.
+Les eaux usées ne doivent pas être rejetées dans le réseau d’eaux pluviales et inversement dans les secteurs disposant
+de réseaux séparatifs.
+        Eaux usées non domestiques :
+Les constructions destinées à un autre usage que l’habitat, doivent être dotées d’un dispositif de traitement et / ou de
+stockage des effluents autres que domestiques adapté à l’importance et à la nature de l’activité et assurant une
+protection satisfaisante du milieu naturel.
+Quand le système est séparatif, seules les eaux usées seront rejetées dans le réseau d'eaux usées.
+Lexique : Sont considérées comme non domestiques, toutes les eaux usées autres que les eaux pluviales, les eaux
+ménagères et les eaux vannes issues des installations sanitaires. Les eaux grasses et huileuses sont assimilées à des eaux
+usées non domestiques.
+        Eaux pluviales :
+Le projet doit prendre en compte, dès sa conception, la mise en œuvre de solutions alternatives afin de ne pas
+augmenter le débit des eaux de ruissellement, conformément aux dispositions du rapport de présentation et des
+annexes sanitaires.
+Rejet dans le réseau public
+Seul l'excès de ruissellement de ces eaux pluviales et assimilées pourra être accepté dans le réseau public dans la mesure
+où l'usager démontrera qu'il a mis en œuvre, sur la parcelle privée, toutes les solutions susceptibles de limiter les
+apports pluviaux (bac tampon, rétention, infiltration…).
+
+
+
+
+                                          4. Règlement écrit – juin 2026
+                                       Ville de Mende – Plan Local d’Urbanisme (P.L.U.)                                122
+
+
+
+Pour les infiltrations, celles-ci ne pourront être mises en œuvre qu'à condition que le sous-sol récepteur puisse les
+supporter et qu'elles n'entraînent pas de modifications de résistance du sol, afin de ne pas causer de désordre sur les
+terrains environnants.
+Afin de réguler le débit, plusieurs techniques sont utilisables et peuvent être employées simultanément si besoin. Les
+ouvrages doivent être conformes au cahier des charges en vigueur au moment de l’instruction des autorisations
+d’urbanisme. L’infiltration des eaux quand le sol le permet est à privilégier.
+Rejet dans le milieu naturel
+Conformément à l’article R 214-1 du code de l’environnement, toute opération supérieure à 1 hectare, dirigeant ses
+eaux pluviales dans les eaux douces superficielles ou sur le sol ou dans le sous-sol, est soumise à une évaluation des
+incidences sur l’eau et le milieu aquatique, au titre de la loi sur l’eau.
+En l’absence de réseau, ou si le réseau existant ne peut accepter les eaux pluviales, les aménagements nécessaires à
+leur écoulement sont à la charge exclusive du propriétaire qui doit réaliser les dispositifs adaptés à l’opération et au
+terrain. A défaut de pouvoir garantir par un dispositif adéquat la protection contre les risques d’inondation par la nappe
+phréatique, la construction sur toute ou partie de la parcelle peut être interdite.
+Lexique : On entend par eaux pluviales les eaux issues des précipitations atmosphériques. Sont assimilées à ces eaux
+celles provenant d'arrosage et de lavage des jardins, des voies publiques ou privées et des cours d'immeubles, des
+fontaines, des eaux de vidange des piscines, les eaux de climatisation, de pompes à chaleur...dans la mesure où leurs
+caractéristiques sont compatibles avec le milieu récepteur.
+
+
+      c) DEFENSE EXTERIEURE CONTRE L’INCENDIE
+La défense extérieure contre l’incendie doit être assurée :
+       soit par des poteaux d'incendie permettant d'assurer des débits de 60 m3/h minimum pendant 2 heures, et
+        implantés à 200 m maximum des bâtiments à défendre par les voies praticables,
+       soit, dans les zones non équipées, et dans le cas où l'installation des poteaux d'incendie normalisés n'est pas
+        envisageable, par la mise en place d'équipements publics sous la forme de réserves d’eau, utilisable et accessible
+        en tout temps de 30 à 120 m3 selon l'importance du risque encouru ou de point d’aspiration normalisés.
+
+
+      d) AUTRES RESEAUX
+Tous les réseaux secs devront être réalisés en souterrain, sauf impossibilité technique dûment justifiée.
+
+
+ARTICLE N 5 – INFRASTRUCTURES ET RESEAUX DE COMMUNICATIONS NUMERIQUES
+
+Non règlementé.
+
+
+ARTICLE N 6 - IMPLANTATION DES CONSTRUCTIONS PAR RAPPORT AUX VOIES ET EMPRISES
+PUBLIQUES
+
+Les constructions doivent être implantées à une distance au moins égale à 3 m par rapport aux voies et emprises
+publiques.
+Les prescriptions ainsi édictées sont également applicables à l'implantation des constructions par rapport aux voies
+privées.
+Lexique : L’emprise publique correspond à un espace public qui ne peut être considéré comme une voie (publique ou
+privée). La ligne de référence pour apprécier la distance d’implantation des constructions par rapport à l’emprise
+publique est la limite entre le fond public et le fond privé.
+
+
+
+
+                                          4. Règlement écrit – juin 2026
+                                        Ville de Mende – Plan Local d’Urbanisme (P.L.U.)                                       123
+
+
+
+ARTICLE N 7 - IMPLANTATION DES CONSTRUCTIONS PAR RAPPORT AUX LIMITES SEPARATIVES
+
+Les constructions peuvent s'implanter :
+    -    Soit en limite séparative,
+    -    Soit à une distance comptée horizontalement de tout point de la construction à édifier au point le plus proche
+         de la limite séparative supérieure ou égale à la moitié de la différence d’altitude entre ces deux points, sans
+         être inférieure à 3 mètres.
+Le recul ne s’applique pas :
+    -    En cas de surélévation d’un bâtiment existant, dans la limite de l’emprise de l’immeuble déjà bâti,
+    -    Pour les ouvrages techniques d’intérêt général.
+Les règles d’implantation des bâtiments par rapport aux limites séparatives ne s’appliquent pas à leurs parties enterrées
+(bâtiment dont au moins trois façades ou côtés sont totalement invisibles et sous réserve que le sommet de la
+construction ou son recouvrement se situe sous ou au niveau de la ligne du terrain naturel).
+
+
+ARTICLE N 8 - IMPLANTATION DES CONSTRUCTIONS LES UNES PAR RAPPORT AUX AUTRES SUR
+UNE MEME PROPRIETE
+
+En tout état de cause, l’implantation de plusieurs bâtiments sur la même parcelle ne doit pas faire obstacle :
+    -    A l’approche et à la mise en œuvre des moyens de lutte contre l’incendie,
+    -    A l’ensoleillement des pièces principales d’habitation ou locaux assimilés.
+
+
+ARTICLE N 9 - EMPRISE AU SOL
+
+L’emprise au sol ne pourra excéder 70% de la surface de l’unité foncière.
+
+
+ARTICLE N 10 - HAUTEUR DES CONSTRUCTIONS
+
+La hauteur des constructions ne doit pas excéder 10 mètres.
+Elle doit être adaptée à son intégration dans le site, ou au besoin de l’activité, si elle est dûment justifiée.
+Pour les constructions et installations nécessaires aux services publics ou d’intérêt collectif, il n’est pas fixé de règle.
+
+
+ARTICLE N 11 - ASPECT EXTERIEUR - INSERTION DANS LE SITE
+
+Conformément aux dispositions de l’article R 111-27 du code de l’urbanisme :
+« Le permis de construire peut être refusé ou n’être accordé que sous réserve de l’observation de prescriptions
+spéciales, si les constructions par leur situation, leur architecture, leurs dimensions ou de l’aspect extérieur des
+bâtiments ou ouvrages à édifier ou à modifier, sont de nature à porter atteinte au caractère ou à l’intérêt des lieux
+avoisinants, aux sites, aux paysages naturels ou urbains, ainsi qu’à la conservation des perspectives monumentales ».
+« Nonobstant toute disposition d’urbanisme contraire, le permis de construire ou d’aménager ou la décision prise sur
+une déclaration préalable ne peut s’opposer à l’utilisation de matériaux renouvelables ou de matériaux ou procédés de
+construction permettant d’éviter l’émission de gaz à effet de serre, à l’installation de dispositifs favorisant la retenue
+des eaux pluviales ou la production d’énergie renouvelable correspondant aux besoins de la consommation domestique
+des occupants de l’immeuble ou de la partie d’immeuble concernés. La liste des dispositifs, procédés de construction
+et matériaux concernés est fixée par voie réglementaire. Le présent alinéa ne fait pas obstacle à ce que le permis de
+
+
+                                            4. Règlement écrit – juin 2026
+                                       Ville de Mende – Plan Local d’Urbanisme (P.L.U.)                                    124
+
+
+
+construire ou d’aménager ou la décision prise sur une déclaration préalable comporte des prescriptions destinées à
+assurer la bonne intégration architecturale du projet dans le bâti existant et dans le milieu environnant ».
+L’alinéa précédent n’est pas applicable dans les secteurs couverts par Site Patrimonial Remarquable (SPR).
+1) Toute construction doit être conçue et implantée de manière à conserver le caractère et l'aspect général du secteur
+ou du site où est édifié le projet et dans l'objectif de participer à la préservation et à l'enrichissement du paysage
+construit environnant.
+Aussi, les projets doivent développer une véritable cohérence par rapport aux constructions voisines quant à leur
+échelle, leur volumétrie, le choix et l’harmonie des matériaux, le rythme et la dimension des percements et leur aspect
+général.
+Les constructions, leurs toitures, leur interface avec le domaine public doivent contribuer par leur nature, leur aspect
+et leur implantation, à conserver ou améliorer la lisibilité et la qualité des espaces publics.
+Le volet paysager de la demande de permis de construire doit au travers de plans, croquis et photomontages, affirmer
+ces objectifs et la démarche recherchée dans le projet.
+2) L’intégration du projet dans son environnement devra notamment être appréciée à partir des points de panorama
+A, B, C et D, issus du Site Patrimonial Remarquable (SPR) dès lors que le projet est visible de ces points identifiés sur les
+plans de zonage.
+3) Toute référence à une expression architecturale d’une autre région que la vallée du Lot est à proscrire.
+4) Les réalisations bioclimatiques et/ou d’architecture contemporaine ne peuvent être acceptées qui si l'aspect final de
+la construction permet, au regard des alinéas précédents, son intégration totale dans le bâti environnant et ne provoque
+pas de rupture dans l'homogénéité à préserver du site d'implantation (traitements des toits, des façades, des
+percements).
+5) Dans les secteurs couverts par le périmètre du Site Patrimonial Remarquable (SPR), les caractéristiques
+architecturales des bâtiments, les matériaux et les teintes à employer devront être conformes audit document. En
+dehors de ces secteurs, il est recommandé de s’en inspirer.
+ Composition, conception :
+L'orientation des constructions doit être choisie de manière à maximiser les apports solaires en hiver, sans qu'ils soient
+trop gênant l'été, tout en respectant les courbes de niveau et l’implantation des constructions avoisinantes.
+Tout élément prolongeant le bâtiment principal (accès au garage, terrasses, murs de soutènement, escaliers...) doit être
+conçu comme un espace construit et paysager.
+Dans les secteurs hétérogènes, le projet doit viser la restructuration du tissu en affirmant un parti, une organisation du
+bâti et de l’espace collectif.
+ Adaptation au terrain :
+La construction doit être adaptée au terrain naturel et étudiée en fonction de la pente du terrain. La hauteur des murs
+à édifier sur le terrain et en limite de propriété devra se limiter au minimum nécessaire.
+ Toitures :
+Les toitures doivent recevoir un traitement soigné (cheminée, égout, fenêtre de toit, et tout élément ponctuel de
+superstructure). Sauf prescriptions particulières, les toitures doivent être exécutées avec des matériaux n’altérant pas
+l’harmonie architecturale du bâti existant. En général, par référence à l’architecture de la vallée du Lot, les toitures
+doivent être de forme simple, sans décrochements excessifs, à deux pentes, le faîtage orienté dans le sens de la plus
+grande dimension et sans débord en pignon. Toutefois, pour les constructions relevant d’une architecture soit
+bioclimatique et/ou contemporaine, une typologie différente de toiture peut être autorisée.
+ Matériaux, façades et couleurs :
+Les matériaux de façade traditionnels de la vallée du Lot doivent être privilégiés (pierre calcaire, enduits ou joints).
+Néanmoins, d’autres matériaux peuvent être utilisés en façade sous réserve de leur intégration,.
+
+
+
+
+                                          4. Règlement écrit – juin 2026
+                                       Ville de Mende – Plan Local d’Urbanisme (P.L.U.)                                 125
+
+
+
+Les teintes de façade devront s’intégrer dans leur environnement. Des teintes étrangères à la région sont interdites
+(bleu, vert, blanc). L’emploi de parements brillants ou de matériaux réfléchissants ou polis en façade ou toiture est à
+éviter. Les matériaux de couverture seront choisis dans les nuances de gris ardoisé au gris sombre.
+ Clôtures :
+Dans tous les cas, les clôtures ne doivent pas gêner la visibilité à l’approche des carrefours ou dans les voies courbes et
+doivent s'harmoniser (aspect, couleur, hauteur) aux clôtures existantes avoisinantes (contiguës ou non).
+Les clôtures doivent être réalisées de manière à laisser aux véhicules sortant des parcelles une bonne visibilité sur la
+voie publique ou privée.
+La hauteur maximale des murs de clôture (ouvrage) ne devra pas excéder 2.5 m de haut par rapport au niveau de la
+voirie.
+La configuration et l’aspect des murs devront être adaptés aux éléments auxquels ils se raccrochent. Une dérogation
+exceptionnelle peut être accordée pour tenir compte de la configuration de la voie ou du terrain.
+
+
+ARTICLE N 12 - STATIONNEMENT DES VEHICULES
+
+Les aires de stationnement et leurs zones de manœuvre doivent être réalisées en dehors des voies ouvertes à la
+circulation. Il est exigé un nombre de places de stationnement pour les automobiles, correspondant :
+    -    aux caractéristiques de l'opération,
+    -    à son environnement.
+Cependant il doit être réalisé au minimum :
+
+  Destination de la construction (sous réserve qu'elle soit                Nombre de places automobiles requises
+                   autorisée dans la zone)
+
+ Logements                                                      2 places par logement
+
+ Toute autre destination                                        Selon les besoins de l'opération
+
+
+
+Il doit être compté une surface de 25 m² dégagement compris, pour une place de stationnement.
+
+
+        Accessibilité aux personnes à mobilité réduite :
+Pour les bâtiments d’habitation (et exclusivement les changements de destination), les constructeurs sont tenus de
+respecter les règles générales de construction relatives à l'accessibilité des personnes handicapées, conformément au
+Code de la Construction et de l'Habitation. Les places de stationnement destinées aux habitants et aux visiteurs doivent
+être accessibles par un cheminement praticable sans discontinuité, aux personnes handicapées à mobilité réduite, y
+compris celles qui se déplacent en fauteuil roulant.
+Ces places de stationnement doivent être adaptées aux besoins particuliers de ces personnes, conformément aux
+législations en vigueur.
+
+
+        Modalités de réalisation :
+Les aménagements doivent limiter l’imperméabilisation des sols et s’intégrer harmonieusement à la construction. Pour
+toute opération d'ensemble, les dispositions ci-dessus s'appliquent au terrain d'assiette de l'ensemble de l'opération.
+Tout parc de stationnement aérien, au-delà de 5 places, devra faire l'objet d'un traitement paysager avec comme base
+minimum, suivant la conception, de 1 arbre de haute tige pour 2 à 4 places.
+
+
+
+                                          4. Règlement écrit – juin 2026
+                                       Ville de Mende – Plan Local d’Urbanisme (P.L.U.)                                  126
+
+
+
+En cas d’impossibilité architecturale ou technique d’aménager sur le terrain de l’opération le nombre d’emplacements
+nécessaires au stationnement, le pétitionnaire est tenu d’avoir recours à l’une des solutions de remplacement prévues
+par l’article L151-4 du code de l’urbanisme, à savoir :
+    -    Soit l'obtention d'une concession à long terme dans un parc public de stationnement existant ou en cours de
+         réalisation,
+    -    Soit l'acquisition de places dans un parc privé de stationnement existant ou en cours de réalisation.
+
+
+ARTICLE N 13 - ESPACES LIBRES ET PLANTATIONS
+
+La plantation d’arbres de haute tige et/ou d’écrans de verdure pourra être demandée afin d’assurer une meilleure
+insertion des bâtiments dans le paysage. L’implantation d’un bâtiment pourra s’accompagner par la plantation de
+bosquet, mail, arbre signal à proximité du bâti, sujet isolé ou plantations d’alignement marquant le chemin d’accès.
+Toute plantation (haies de clôtures, arbres de hautes tiges, arbres d'ornements...) devra être réalisée avec des essences
+locales variées.
+Il est préconisé de réaliser des enherbements rustiques à base de mélanges de graines adaptées aux conditions
+écologiques du site.
+La zone N comporte des éléments recensés au titre de l’article L151-19 du code de l’urbanisme. A ce titre, les
+constructions, les aménagements, les travaux réalisés sur les terrains concernés par une telle protection ou en limite de
+ceux-ci, doivent être conçus pour garantir la préservation de ces ensembles paysagers. Toutefois, leur destruction
+partielle est admise dès lors qu’elle est compensée par des plantations restituant ou améliorant l’ambiance végétale
+initiale. Cette disposition n’est pas applicable aux travaux ou ouvrages relatifs aux voiries et réseaux d’intérêt public dès
+lors qu’ils poursuivent un objectif d’intérêt général et qu’ils sont incompatibles, du fait de leur nature ou de leur
+importance, avec la conservation des éléments d’intérêt paysager localisés sur les documents graphiques du règlement
+(plans de zonage).
+La zone N comporte plusieurs espaces boisés classés ainsi que des espaces boisés isolés.
+Ces éléments sont reportés sur les documents graphiques du règlement (plans de zonage).
+
+
+ARTICLE N 14 – PERFORMANCES ENERGETIQUES ET ENVIRONNEMENTALES
+
+Les constructions neuves et les rénovations répondront aux exigences imposées par la règlementation thermique en
+vigueur.
+
+
+
+
+                                          4. Règlement écrit – juin 2026
+                    TerrenUrbanisme
+
+    Merci de votre confiance
+Ce rapport a été établi à partir des sources publiques officielles pour vous
+  aider à décider en connaissance de cause. Pour toute question, nous
+                        restons à votre disposition.
+
+
+
+
+   Vous êtes professionnel ? Travaillons ensemble
+      Agents immobiliers, notaires, architectes, géomètres, diagnostiqueurs,
+promoteurs, mairies : faisons équipe. Crédits professionnels sans abonnement, 5
+€ le rapport dès 50 crédits, votre logo sur les rapports, offre communale pour les
+                       mairies et partenariats sur mesure.
+
+               Écrivez-nous : contact@terrenurbanisme.com
+
+
+
+
+                        terrenurbanisme.com
+                         contact@terrenurbanisme.com
+

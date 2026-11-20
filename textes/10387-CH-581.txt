@@ -1,0 +1,3398 @@
+                  TerrenUrbanisme
+                  Le terrain constructible, partout en France
+
+
+
+
+RAPPORT D'URBANISME
+
+
+
+Troyes
+Section CH · Parcelle n° 581
+      Sous conditions
+
+
+
+
+Référence cadastrale                                                        Surface cadastrale
+10387000CH0581                                                              4 846 m²
+
+Rapport établi le                                                           Référence du rapport
+20/11/2026                                                                  APERCU
+
+
+
+
+terrenurbanisme.com                                                                      contact@terrenurbanisme.com
+
+Document d'information sans valeur contractuelle ni réglementaire. Il ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme
+et ne peut en aucun cas être joint à une demande de permis de construire ou de déclaration préalable. Seuls les actes de l'administration font foi.
+                                                                                                                           Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                                              Sommaire
+
+
+
+
+Sommaire
+Le rapport suit l'ordre d'une étude de terrain : où se trouve la parcelle, ce que dit la règle, ce qui pèse sur le
+projet, puis les démarches.
+
+              Synthèse
+   S                                                                                                                                 p. 3
+              Le verdict, les indicateurs clés et les points d'attention en une page.
+
+              Identification de la parcelle
+   01                                                                                                                                p. 4
+              Localisation, surface, références cadastrales et voisinage du terrain.
+
+              Règles d'urbanisme applicables
+  02                                                                                                                                 p. 8
+              Document d'urbanisme, zone du terrain, prescriptions et servitudes.
+
+              Ce que vous pouvez construire
+  03                                                                                                                                p. 10
+              Surface constructible, hauteur, reculs, aspect et usages autorisés.
+
+              Loi Littoral et loi Montagne
+  04                                                                                                                                p. 18
+              Les lois qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+              Risques naturels et technologiques
+  05                                                                                                                                p. 19
+              Inondation, feu de forêt, argiles, catastrophes naturelles et sites pollués.
+
+              Le terrain : accès, relief et réseaux
+  06                                                                                                                               p. 22
+              Accès, pente, ensoleillement, eaux usées, électricité, eau et fibre.
+
+              Environnement et marché immobilier
+  07                                                                                                                               p. 29
+              Espaces naturels, espèces protégées et ventes immobilières alentour.
+
+              Historique du site
+  08                                                                                                                               p. 32
+              Le terrain vu du ciel au fil des années et les permis accordés autour.
+
+              Opportunités autour du terrain
+  09                                                                                                                               p. 35
+              Grands terrains peu bâtis et logements énergivores à proximité.
+
+              Votre projet, étape par étape
+   10                                                                                                                              p. 37
+              De l'achat aux impôts : démarches, délais, coûts, contacts et taxe.
+
+              État des risques (ERP) pré-rempli
+   11                                                                                                                               p. 41
+              Le formulaire réglementaire à remettre à l'acquéreur, pré-rempli.
+
+              Avertissement et sources
+   12                                                                                                                              p. 43
+              La portée de ce rapport et les sources publiques consultées.
+
+              Annexe : règlement de la zone
+   A                                                                                                                               p. 46
+              Les pages officielles du règlement de la zone, telles qu'approuvées.
+
+
+
+
+Astuce : cliquez sur un chapitre pour y accéder directement.
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                               2 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                                                      Synthèse
+
+
+
+
+Synthèse
+     Document d'information. Ce rapport ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme,
+     n'engage pas l'administration et ne peut pas servir de pièce à une demande de permis de construire.
+     L'appréciation ci-dessous est indicative : seule la mairie se prononce sur la constructibilité d'un terrain,
+     au vu d'un projet précis.
+
+
+
+
+       SOUS CONDITIONS
+
+       Accord de l'architecte des Bâtiments de France obligatoire
+       La parcelle est classée en zone UAA (urbaine) du plan local d'urbanisme de Troyes. Les
+       constructions y sont admises dans le respect du règlement de la zone. Le terrain est situé
+       aux abords d'un monument historique (PDA Ville de Troyes) : l'architecte des Bâtiments de
+       France donne son avis sur les travaux et peut imposer des prescriptions (matériaux,
+       couleurs, volumes).
+
+
+
+
+      Zone principale                                        Document d'urbanisme                                  Loi Littoral
+
+   UAA · 100 %                                            PLU                                                    Ne s'applique pas
+
+
+
+
+      Loi Montagne                                           Risques à la parcelle
+
+   Ne s'applique pas                                      Inondation · Remontée de
+                                                          nappe (+3)
+
+
+
+
+Points d'attention
+    Zone UAA (100 % de la parcelle) : constructible.
+    Abords de monument historique (PDA Ville de Troyes) : accord de l'architecte des Bâtiments de
+    France pour les travaux.
+    Pollution des sols : concerné à l'adresse de la parcelle (voir le chapitre « Risques naturels et
+    technologiques »).
+    13 arrêtés de catastrophe naturelle sur la commune.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      3 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+    01             Identification de la parcelle
+     DANS CETTE SECTION
+
+     Où se trouve le terrain, sa surface, ses références cadastrales, son propriétaire lorsqu'il s'agit
+     d'une société ou d'une collectivité, et la performance énergétique du bâti existant.
+
+
+Données du cadastre (DGFiP) et de l'IGN.
+
+
+     Plan de situation
+
+
+
+
+                                                                                                                            1 km
+
+
+
+Plan IGN · © IGN
+
+
+
+     Vue aérienne et plan cadastral
+
+
+
+
+                                                                                                                                     50 m
+
+
+
+Photographie aérienne et plan cadastral · © IGN
+
+
+Commune                                                  Troyes (10387)
+
+Département                                              Aube (10)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          4 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+Section et numéro                                        Section CH, parcelle n° 581, feuille 1
+
+Identifiant cadastral                                    10387000CH0581
+
+Surface cadastrale                                       4 846 m²
+
+Surface calculée (SIG)                                   4 822 m² · périmètre 288 m
+
+Coordonnées du centre                                    48.29230 N, 4.07574 E (WGS 84)
+
+Altitude                                                 de 105 à 108 m
+
+Pente estimée                                            9 % (pente modérée)
+
+Parcelles voisines                                       CH 16, CH 479, CH 580, CH 582, CH 584, CH 585, CH 587, CH 633
+
+
+Le plan cadastral est un document fiscal : il ne fait pas foi des limites de propriété. Seul un bornage réalisé par un
+géomètre-expert fixe les limites de manière certaine.
+
+
+1.1 Propriétaire et voisinage
+La parcelle ne figure pas au fichier des personnes morales : son propriétaire est vraisemblablement un
+particulier. Le nom des propriétaires particuliers n'est pas public ; il peut être demandé au service des impôts
+fonciers (relevé de propriété) ou obtenu par l'intermédiaire d'un notaire.
+
+Parcelles voisines détenues par des sociétés ou des collectivités
+  PARCELLE              PROPRIÉTAIRE                                                                     SURFACE            SIREN
+
+  CH 582                SYNDICAT DES COPROPRIETAIRES DU CENTRE                                           80 m²              –
+                        COMMERCIAL DU 14 JUIL (SYCO)
+
+  CH 16                 COMMUNE DE TROYES (COM)                                                          32 m²              211003744
+
+  CH 479                COMMUNE DE TROYES (COM)                                                          405 m²             211003744
+
+  CH 585                SYNDICAT DES COPROPRIETAIRES DU CENTRE                                           11 m²              –
+                        COMMERCIAL DU 14 JUIL (SYCO)
+
+
+
+Principaux propriétaires personnes morales dans un rayon de 280 m
+  PROPRIÉTAIRE                                                              PARCELLES             SURFACE TOTALE            SIREN
+
+  COMMUNE DE TROYES (COM)                                                   27                    28 775 m²                 211003744
+
+  DEPARTEMENT DE L AUBE (DEPT)                                              4                     8 744 m²                  221000052
+
+  SOEURS OBLATES DE ST FRANCOIS DE SALES                                    2                     8 413 m²                  419226402
+  (ASS)
+
+  YVES DAMONTE IMMOBILIER (SARL)                                            2                     7 933 m²                  652881210
+
+  CONGREGATION DES SOEURS DE LA                                             14                    5 046 m²                  –
+  PROVIDENCE (AUPM)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            5 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+  PROPRIÉTAIRE                                                              PARCELLES             SURFACE TOTALE            SIREN
+
+  FONDS DE DOTATION LA PROVIDENCE (FON)                                     2                     5 021 m²                  –
+
+  ASSOCIATION IMMOBILIERE DU DIOCESE DE                                     2                     4 516 m²                  840910723
+  TROYES POUR L'ENSEIGNE (ASS)
+
+  SOC ANONYME D HLM MON LOGIS (SA)                                          2                     4 404 m²                  562881292
+
+
+
+Source : fichiers des parcelles des personnes morales (DGFiP) : sociétés, SCI, collectivités, établissements publics et associations.
+Les propriétaires personnes physiques n'y figurent pas.
+
+
+1.2 Bâti existant : diagnostics de performance énergétique
+  DATE                  LOGEMENT                SURFACE             ÉNERGIE          CLIMAT          ADRESSE
+
+  29/10/2026            Appartement             21 m²               C                A               7a Rue Eugene Belgrand 10000 Troyes
+
+  25/06/2026            Appartement             24 m²               C                A               7a Rue Eugene Belgrand 10000 Troyes
+
+  26/05/2026            Appartement             41 m²               C                A               7a Rue Eugene Belgrand 10000 Troyes
+
+  21/01/2026            Appartement             32 m²               D                B               7a Rue Eugene Belgrand 10000 Troyes
+
+  22/10/2025            Appartement             39 m²               C                A               7a Rue Eugene Belgrand 10000 Troyes
+
+  13/10/2025            Appartement             65 m²               B                A               7a Rue Eugene Belgrand 10000 Troyes
+
+  10/07/2025            Appartement             46 m²               C                A               7a Rue Eugene Belgrand 10000 Troyes
+
+  12/06/2025            Appartement             41 m²               D                B               7a Rue Eugene Belgrand 10000 Troyes
+
+  15/04/2025            Appartement             42 m²               C                A               7a Rue Eugene Belgrand 10000 Troyes
+
+
+
+Source : ADEME, diagnostics établis depuis juillet 2021 et géolocalisés à l'adresse. Un diagnostic se rapporte à un logement précis
+et reste valable dix ans.
+
+
+1.3 La commune de Troyes
+Code postal                                              10000
+
+Département                                              Aube (10)
+
+Intercommunalité                                         CA Troyes Champagne Métropole
+
+Population                                               62 088 habitants
+
+Superficie                                               13,29 km²
+
+Densité                                                  4 670 habitants par km²
+
+Commune littorale                                        Non
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          6 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+Commune de montagne                                      Non
+
+Document d'urbanisme                                     Plan local d'urbanisme (PLU)
+
+Risques sur la commune                                   13 arrêtés de catastrophe naturelle · détail en section Risques et en
+                                                         annexe
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           7 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+    02             Règles d'urbanisme applicables
+     DANS CETTE SECTION
+
+     Le document d'urbanisme de la commune, la zone dans laquelle se trouve le terrain, et les
+     prescriptions et servitudes qui s'y ajoutent.
+
+
+Géoportail de l'Urbanisme : zonage, prescriptions et servitudes.
+
+
+
+2.1 Document d'urbanisme en vigueur
+Type de document                                         Plan local d'urbanisme (PLU)
+
+Date d'approbation                                       Non renseigné
+
+Statut                                                   Publié au Géoportail de l'Urbanisme
+
+Règlement officiel                                       Ouvrir le document officiel (PDF)
+
+
+
+     Plan de zonage du PLU
+
+
+
+
+                                                                             UAA
+
+
+
+
+                                                                                                                           100 m
+
+
+
+Zonage : Géoportail de l'Urbanisme · fond : © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       8 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.2 Zonage de la parcelle
+  ZONE                  DÉSIGNATION                                                         PART               CONSTRUCTIBILITÉ
+
+  UAA                   Dominance d'immeubles collectifs à                                  100 %              Constructible
+                        l'alignement
+
+
+
+Zone UAA · Urbaine
+Zone urbaine : secteur déjà urbanisé où les équipements publics existants ou en cours de réalisation
+permettent d'accueillir des constructions. Les constructions y sont admises dans le respect du règlement de la
+zone (destinations, implantation, hauteur, emprise, aspect).
+
+
+2.3 Prescriptions applicables à la parcelle
+  PRESCRIPTION                                                                                       TYPE
+
+  Croissant tertiaire                                                                                Prescription du PLU (type 43)
+
+  Périmètre Délimité des Abords des Monuments Historiques (PDA)                                      Élément de patrimoine ou de paysage
+                                                                                                     protégé
+
+
+
+
+2.4 Servitudes d'utilité publique
+  CODE               SERVITUDE                                                                    DÉTAIL
+
+  AC1                Monument historique (abords)                                                 AC1 PDA-Ville-de-Troyes abor
+
+
+
+
+2.5 Patrimoine : l'architecte des Bâtiments de France
+     En clair : le terrain est aux abords d'un monument historique. Les travaux visibles de l'extérieur doivent
+     recevoir l'accord de l'architecte des Bâtiments de France, qui peut imposer des prescriptions.
+
+
+
+  PROTECTION                                NOM                                                CE QUE CELA IMPLIQUE
+
+  Abords de monument                        PDA Ville de Troyes                                Accord de l'architecte pour les travaux visibles
+  historique                                                                                   (périmètre publié)
+
+
+
+Conseils : consulter l'architecte des Bâtiments de France (unité départementale de l'architecture et du patrimoine,
+joignable par la mairie) avant de dessiner le projet ; prévoir un délai d'instruction majoré d'un mois ; soigner
+l'insertion (matériaux, teintes, toitures, clôtures) dès l'esquisse.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       9 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    03             Ce que vous pouvez construire
+     DANS CETTE SECTION
+
+     La lecture du règlement de votre zone : surface constructible estimée, hauteur, reculs, aspect,
+     usages autorisés ou interdits, avec les extraits du texte officiel.
+
+
+Lecture du règlement écrit de la zone UAA, pages 43 à 58 du règlement officiel.
+
+
+
+3.1 Potentiel constructible estimé
+     En clair : le règlement autorise au maximum 3 737 m² de construction au sol sur ce terrain (emprise de
+     90 %), avec une hauteur de 12 m au plus (4 niveaux environ). C'est un plafond réglementaire, pas un
+     projet : l'étude d'implantation ci-dessous place par exemple une maison de 122 m² au sol.
+
+
+
+Surface du terrain                                       4 846 m²
+
+Zone d'implantation possible                             3 737 m² après reculs (4 m des limites)
+
+Emprise au sol maximale                                  90 % du terrain, soit 4 361 m²
+
+Emprise constructible retenue                            3 737 m²
+
+Maison étudiée (exemple)                                 122 m² au sol, environ 104 m² habitables
+
+Hauteur maximale                                         12 m, soit 4 niveaux environ
+
+Surface de plancher maximale                             environ 14 948 m²
+
+
+
+     Zone d'implantation possible (estimation)
+
+
+
+
+                                                                                                                                  50 m
+
+
+
+En vert : partie du terrain hors reculs réglementaires · fond © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       10 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.2 Étude d'implantation indicative
+
+     Implantation d'une maison de plain-pied (esquisse)
+
+
+
+
+                                                                                                                                  50 m
+
+
+
+En rouge : la maison · en orange : une piscine de 8 × 4 m · en vert : zone constructible · fond © IGN
+
+
+Maison proposée                                          Maison de plain-pied de 13,5 × 9 m
+
+Emprise au sol                                           122 m²
+
+Surface habitable indicative                             environ 104 m²
+
+Façade principale                                        orientée sud-est
+
+Distance à la voie                                       environ 14 m
+
+Distance minimale aux limites                            6,6 m
+
+Piscine de 8 × 4 m                                       possible dans la zone constructible
+
+Taxe d'aménagement estimée                               environ 2 890 € (résidence principale)
+
+
+Esquisse automatique : la maison est placée dans la zone constructible, au plus près de la voie, en dégageant le jardin vers
+le sud, sans tenir compte des constructions existantes ni de la végétation. Elle ne remplace pas l'étude d'un architecte,
+obligatoire au-delà de 150 m² de surface de plancher, ni la vérification des règles d'aspect, de stationnement, de pente et
+d'assainissement.
+
+Estimation théorique établie à partir des règles chiffrées du règlement (reculs, emprise, hauteur) et de la géométrie
+cadastrale. Elle ne tient pas compte des servitudes, des risques, de la pente, des règles de stationnement et d'aspect, ni
+des dispositions particulières : seul un architecte ou un géomètre peut confirmer le potentiel réel.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       11 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.3 Caractère de la zone
+La zone UAA est destinée à l'habitat et aux activités compatibles avec l'habitat. Elle correspond aux
+secteurs les plus denses de la commune, à dominante d'immeubles collectifs implantés en général à
+l'alignement des voies et formant un front bâti continu. Les règles sont données sous réserve du PPRI
+(annexe 8) et de l'AVAP (annexe 7), et des OAP thématiques « Nature en ville » et « Hauteur le long des
+grands axes ».
+
+
+3.4 Règles de construction
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Surface minimale ou                          Non réglementé.                                                                  art. UAA 5
+  caractéristiques du terrain
+
+  Accès et voirie                              Terrain accessible par une voie carrossable publique ou privée                   art. UAA 3 ;
+                                               ouverte à la circulation, avec chaussée hors stationnement de                    DC3
+                                               4 m minimum en tout point. Voies privées existantes ouvertes
+                                               à la circulation : 4 m (sens unique), 5 m (double sens), 5 m
+                                               (impasse). Voies nouvelles : 4 m minimum ; impasses nouvelles
+                                               : 5 m avec aire de retournement. Bande ou servitude d'accès :
+                                               4 m de large minimum et 50 m de long maximum ; aucune
+                                               construction si plus de 50 m. Accès : voir DC3 (un seul accès
+                                               véhicule par parcelle pour les opérations de logement, portail 4
+                                               m maximum, accès à au moins 10 m des intersections, accès
+                                               depuis les digues interdits).
+
+  Réseaux et assainissement                    Raccordement obligatoire au réseau public d'eau potable. Eaux                    art. UAA 4
+                                               usées évacuées obligatoirement par le réseau collectif s'il
+                                               existe ; à défaut, si le réseau est prévu, système autonome
+                                               d'assainissement interne avec épuration, raccordable au futur
+                                               réseau. Eaux pluviales recueillies, infiltrées ou stockées sur la
+                                               parcelle ; en cas d'impossibilité technique, évacuation vers le
+                                               réseau collectif pluvial existant. Réseaux divers souterrains.
+                                               Gestion des déchets : local de 1 m² par logement (minimum 5
+                                               m²) pour l'habitat collectif ; commerces 1 m² par 100 m² ;
+                                               bureaux 1 m² par 100 m² de surface de plancher ; conteneurs
+                                               enterrés possibles avec local de 5 m² minimum (10 m² au-delà
+                                               de 20 logements).
+
+  Implantation par rapport                     Sauf indication contraire au plan, constructions à l'alignement                  art. UAA 6
+  aux voies                                    des voies publiques ou privées ou emprises publiques, ou à la
+                                               limite des marges de recul indiquées au plan. Recul autorisé ou
+                                               imposé si le contexte urbain ou architectural le justifie ; recul
+                                               admis pour ouvrages d'intérêt général de faible importance,
+                                               extensions de constructions non à l'alignement, annexes,
+                                               constructions et clôtures jusqu'à 7 m des rives de cours d'eau,
+                                               préservation de plantations. Encorbellements habitables
+                                               prohibés (adaptations possibles à 3,50 m de hauteur minimum,
+                                               porte-à-faux 0,80 m maximum).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          12 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Implantation par rapport                     Dans la bande de 25 m : en limite séparative ou à 4 m minimum                    art. UAA 7
+  aux limites séparatives                      (dans ce cas, clôture à l'alignement assurant la continuité du
+                                               front bâti). Au-delà de 25 m : à 4 m minimum des limites, ou en
+                                               limite sous réserve d'un gabarit défini par un plan vertical de 4
+                                               m puis un plan oblique à 45°. Recul de 4 m pouvant ne pas être
+                                               imposé pour extensions de faible surface. Construction
+                                               imposable sur une limite pour masquer un pignon aveugle
+                                               voisin.
+
+  Implantation des                             Pour des motifs d'accessibilité ou d'éclairement minimal, un                     art. UAA 8
+  constructions entre elles                    recul au moins égal à 4 m peut être exigé entre deux
+                                               constructions.
+
+  Emprise au sol                               Terrain de moins de 100 m² : non réglementé ; 100 à moins de                     art. UAA 9
+                                               500 m² : 90 % ; 500 à moins de 1000 m² : 70 % ; à partir de 1000
+                                               m² : 50 % (70 % pour les bureaux dans le croissant tertiaire).
+                                               Zones humides recensées : 30 % maximum. Secteur Pôle Gare
+                                               (OAP n°1) SS1 et SS2 : pas d'emprise fixée sous conditions
+                                               (parking souterrain, sous-sol commercial ou terrain de moins
+                                               de 1000 m²). Sous réserve du PPRI.
+
+  Hauteur maximale                             Bande de 25 m (dans ou hors Bouchon de Champagne) : égout                        art. UAA 10
+                                               12 m, acrotère et autres toitures 14 m, faîtage 18 m. Hors bande
+                                               de 25 m : égout 9 m, acrotère 11,5 m, faîtage 15 m. Majoration
+                                               de 20 % le long des axes de l'OAP n°5 (non cumulable avec
+                                               d'autres majorations). Sous-secteurs SS1 et SS2 (OAP n°1) :
+                                               hauteur de façade de 23 m. Tolérance de ± 2 m pour motifs
+                                               d'urbanisme ; +0,75 m pour rez-de-chaussée commercial de
+                                               3,50 m ; +1 m pour soubassement avec rez-de-chaussée
+                                               surélevé (dans la bande de 25 m). Plancher bas du
+                                               rez-de-chaussée à moins de 1,50 m du sol naturel. Niveaux
+                                               inférieurs à 2,65 m pouvant être interdits.
+
+  Aspect extérieur et toitures                 Respect du caractère des lieux avoisinants ; détails                             art. UAA 11
+                                               architecturaux (bandeaux, corniches, modénatures) conservés
+                                               et restaurés ; pignons aveugles interdits en façade de rue et
+                                               sur les accès ; pignons en limite séparative traités. Toitures à
+                                               deux ou plusieurs pans, pente minimale de 32° (dérogation
+                                               possible si architecture adaptée et intégration au tissu).
+                                               Toitures-terrasses autorisées en expression contemporaine ;
+                                               pour maisons individuelles ou habitat groupé, végétalisation de
+                                               50 % minimum si plus de 40 m², pans obligatoires au-delà de
+                                               200 m². Faux brisis interdits. Panneaux solaires intégrés dans
+                                               la pente du toit en forme géométrique simple. Volets roulants à
+                                               coffre intégré ou intérieur. Équipements
+                                               artisanaux/commerciaux : volumétrie simple, composition
+                                               architecturale, stationnements longs et stockages non visibles
+                                               de l'espace public.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         13 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Matériaux et couleurs                        Tons des murs, menuiseries et boiseries harmonisés entre eux                     art. UAA 11 (E,
+                                               et avec l'environnement ; bois, brique ou pierre pouvant être                    J)
+                                               imposés selon le contexte. Pignons en matériaux homogènes ;
+                                               appareillages dessinés ou peints interdits ; couvertures
+                                               brillantes, tôle ondulée, papier goudronné, fibrociment
+                                               interdites ; matériaux bruts (parpaings, briques creuses)
+                                               enduits ; matériaux de fortune interdits. Équipements
+                                               d'activités : bariolages interdits, couleur unique rappelant
+                                               l'enseigne interdite, palette des gris à défaut de cohérence
+                                               avec l'environnement.
+
+  Clôtures                                     Sur rue : grille (avec ou sans mur bahut), haie végétale avec                    art. UAA 11 (H) ;
+                                               mur bahut, grillage (avec ou sans mur bahut), mur plein (bois,                   DC8 ; DG 8
+                                               parpaings ou autres matériaux enduits, briques rouges, tuiles,
+                                               pierre) ou haie d'essences locales ; hauteur maximale 2,00 m,
+                                               mur bahut 0,60 m maximum. En limites séparatives : mêmes
+                                               types, 2,00 m maximum. Dépassement possible pour
+                                               réglementations spécifiques. Interdits : tôle, plastique, plaques
+                                               de béton, parpaings non enduits (DC8). Déclaration préalable
+                                               obligatoire pour toute clôture (DG 8).
+
+  Stationnement                                Habitat individuel : 1 place/logement. Habitat collectif :                       art. UAA 12 ;
+                                               studio/T1 : 1 place ; T2-T3 : 1,3 place ; T4-T5 et plus : 1,5 place              DC10
+                                               par logement. Logement financé par prêt aidé de l'État : 1
+                                               place/logement (1 place/logement dans le périmètre de l'OAP
+                                               n°1). Hôtel : 0,5 place/chambre. Bureaux : 1 place par tranche
+                                               de 60 m² de surface de plancher (90 m² dans le croissant
+                                               tertiaire ; 120 m² près d'une station de transports en commun).
+                                               Commerce : aucune place si surface de vente < 100 m² ; sinon
+                                               surface de stationnement égale à 50 % de la surface de
+                                               plancher. Restaurants : aucune place si salle < 100 m², sinon 1
+                                               place/10 m² de salle (hors 100 premiers m²). Artisanat, industrie
+                                               : 1 place/100 m² + 1 place/60 m² de locaux administratifs ;
+                                               entrepôt : 1 place/200 m² + 1/60 m². Établissements scolaires :
+                                               1,5 place/classe (1er et 2nd degré). Foyers, résidences : 0,3
+                                               place/chambre (0,2 par logement en SS1 et SS2). Vélos : local
+                                               sécurisé ou emplacement couvert ; habitat collectif 1,5 m² par
+                                               emplacement (T1/T2 : 1 place ; T3 et plus : 2 places) ; bureaux 1
+                                               m² pour 60 m² de surface de plancher.
+
+  Espaces verts et plantations                 Surfaces libres et aires de stationnement aménagées et                           art. UAA 13 ;
+                                               plantées ; un arbre de haute tige au minimum pour 200 m²                         DC12
+                                               d'espaces libres. Jardins identifiés au document graphique
+                                               protégés (DC12). Conservation des plantations et talus pouvant
+                                               être exigée. Espace libre entre clôture et rives de cours d'eau
+                                               entretenu, sans dépôt. Îlots denses sans pleine terre :
+                                               aménagements de surface qualitatifs et durables. Pleine terre
+                                               et coefficient de perméabilité : non réglementés en UAA
+                                               (DC12.3).
+
+  Densité ou coefficient                       Non réglementé (pas de COS).                                                     art. UAA 14
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         14 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+3.5 Usages autorisés
+    Constructions à usage d'habitation
+    Constructions à usage hôtelier
+    Équipements collectifs (scolaires, sportifs, de loisirs, culturels, sanitaires, résidences pour personnes
+    âgées, foyers…)
+    Commerce, sous réserve de respecter l'article DC11 (destination des locaux)
+    Artisanat et industries non génératrices de nuisances
+    Bureaux et services
+    Parcs de stationnement
+    Annexes et locaux techniques liés aux constructions admises (garages, abris de jardin…)
+    Aires de sports, de jeux et parcs d'attractions
+    Exhaussements et affouillements du sol en terrain privé liés à une autorisation
+    Stationnement isolé de caravane sur le terrain abritant la résidence principale de l'utilisateur (hivernage)
+    Ouvrages techniques d'intérêt collectif (voiries, téléphone, réseaux d'énergie…) et équipements
+    nécessaires aux télécommunications
+
+
+3.6 Usages interdits ou soumis à conditions
+    Interdit : toute activité non autorisée à l'article 2, notamment celles (y compris entrepôts) incompatibles
+    par leur nature, importance ou aspect avec la salubrité, la sécurité ou l'environnement de la zone
+    Interdit : création ou extension d'installations agricoles
+    Interdit : ouverture et exploitation de toute carrière
+    Interdit : stationnement des caravanes et toute forme de camping-caravaning (vente de denrées, terrain
+    nu…)
+    Interdit : affouillements et exhaussements non nécessaires à la construction
+    Interdit : dépôts d'épaves, ferrailles, matériaux de démolition, déchets, véhicules désaffectés dès 5 m²
+    occupés sur une même parcelle
+    Conditionné : installations classées (ICPE) admises seulement si elles n'entraînent aucune incommodité
+    pour le voisinage ni risque d'insalubrité ou de sinistre grave
+    Conditionné : aménagement ou transformation d'installations classées dont la création serait interdite, s'il
+    améliore l'insertion urbaine et diminue la gêne ou le danger
+    Conditionné : agrandissement ou transformation d'établissements d'activités ou dépôts existants dont la
+    création serait interdite, si cela ne contrevient pas au caractère de la zone et n'aggrave pas la gêne ou le
+    danger
+    Conditionné : commerce soumis à l'article DC11 (trame commerciale : nouvelles activités commerciales
+    autorisées dans la bande de 50 m des axes de la trame ; hors trame seulement vente directe/magasin de
+    producteurs ou extension de 10 % de la surface de plancher existante)
+    Conditionné : réhabilitation d'un bâtiment industriel en logements, qualité architecturale à attester,
+    changement de destination pouvant être interdit
+    Conditionné : aucune construction sur terrain desservi par bande ou servitude d'accès de plus de 50 m
+    Zones humides recensées : sous-sols interdits, emprise cumulée max 30 %, 70 % de l'unité foncière en
+    couverture végétale perméable
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       15 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    Digues : toute nouvelle construction interdite dans une bande de 10 m de part et d'autre (DG 11)
+
+
+3.7 Points de vigilance pour votre projet
+    Vérifier le plan graphique : marges de recul, bande de 25 m, axes de l'OAP n°5 (majoration de hauteur de
+    20 %), Bouchon de Champagne, croissant tertiaire, trame commerciale, sous-secteurs SS1/SS2 du Pôle
+    Gare (OAP n°1), zones humides recensées, jardins et cœurs d'îlot protégés (DC12).
+    Vérifier le PPRI (annexe 8) et l'AVAP (annexe 7), qui s'imposent en plus du règlement ; le secteur
+    sauvegardé est exclu du PLU (DG 1).
+    Mesurer précisément la bande de 25 m depuis la voie ou la marge de recul : elle conditionne l'implantation
+    latérale et la hauteur (12/14/18 m contre 9/11,5/15 m).
+    Calculer l'emprise au sol selon la superficie de l'unité foncière, déduction faite des emplacements réservés
+    et élargissements de voie (DC6.4).
+    Toute implantation à l'alignement ou à la limite doit respecter la continuité du front bâti ; clôture de
+    continuité exigée en cas de retrait de 4 m.
+    Pente de toiture d'au moins 32° sauf dérogation justifiée ; toitures-terrasses de maisons individuelles
+    végétalisées à 50 % au-delà de 40 m².
+    Commerce : vérifier la compatibilité avec la trame commerciale (DC11) avant d'envisager un projet
+    commercial.
+    Digues : bande inconstructible de 10 m (DG 11).
+    Si le bâtiment existant est non conforme, seuls les travaux améliorant la conformité ou sans effet sur
+    gabarit/implantation sont admis (DG 6.3).
+    Stationnement : possibilités de concession en parc public limitées à 40 % des besoins au-delà de 10 places
+    (DC10.6).
+    Rez-de-chaussée à moins de 1,50 m du sol naturel.
+
+
+3.8 Extraits du règlement
+
+     art. UAA 6 · page 48
+     « Sauf indication contraire portée au plan, les constructions seront implantées : à l’alignement des
+     voies d’accès publiques ou privées ou emprises publiques »
+
+
+     art. UAA 7 · page 49
+     « à 4 mètres minimum des limites séparatives. en limite séparative sous réserve du respect d’un
+     gabarit défini par un plan vertical de 4 mètres en limite séparative poursuivi par un plan oblique à 45 °.
+     »
+
+
+     art. UAA 9 · page 50
+     « Terrain de 100 m² à moins de 500 m² : 90% Terrains de 500 à moins de 1000m² : 70% ; Terrains à
+     partir de 1000m² : 50% »
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       16 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+     art. UAA 10 · page 51
+     « Egout 12 m / Acrotère et autres toitures 14 m / Faîtage 18 m (bande de 25 mètres) ; Hors bande de 25
+     mètres : 9 m / 11,5 m / 15 m »
+
+
+     art. UAA 11 · page 52
+     « Les toitures seront à deux ou plusieurs pans. La pente des couvertures sera de 32° au minimum. »
+
+
+     art. UAA 12 · page 55
+     « T2, T3 : 1,3 place / logement ; T4, T5 et plus : 1,5 place / logement »
+
+
+
+3.9 Démarches probables
+    Permis de construire ou déclaration préalable selon la nature des travaux
+    Déclaration préalable obligatoire pour toute clôture (DG 8)
+    Permis de démolir obligatoire sur l'ensemble du territoire communal (DG 9)
+    Consultation de l'architecte des bâtiments de France / autorisation au titre de l'AVAP si applicable
+    Prise en compte du PPRI et, le cas échéant, déclaration ou autorisation loi sur l'eau en zone humide
+    Déclaration préalable pour la destruction d'éléments paysagers repérés (DC12.5)
+    Permis d'aménager ou déclaration préalable en cas de lotissement ; règles appréciées au regard de
+    l'ensemble du projet en UA (DG 7)
+    Demande d'accès / entrée charretière auprès du gestionnaire de voirie
+    Raccordement aux réseaux publics (eau, assainissement)
+    Éventuelle déclaration ou autorisation au titre des installations classées
+
+     Cette lecture est établie automatiquement, par intelligence artificielle, à partir du règlement officiel en
+     vigueur. Elle peut comporter des imprécisions : seul le texte du règlement, reproduit en annexe (pages
+     43 à 58 du document approuvé), fait foi, avec les dispositions générales, les orientations
+     d'aménagement et les servitudes.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       17 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                                    04 · Loi Littoral et loi Montagne
+
+
+
+
+   04              Loi Littoral et loi Montagne
+     DANS CETTE SECTION
+
+     Les lois nationales qui s'ajoutent au document d'urbanisme sur le littoral et en montagne. Elles
+     peuvent rendre un terrain inconstructible même en zone constructible.
+
+
+Les lois d'aménagement qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+
+
+4.1 Loi Littoral
+Commune littorale                                        Non
+
+Distance au rivage                                       Sans objet
+
+Bande des 100 mètres                                     Sans objet
+
+
+La commune n'est pas riveraine de la mer : la loi Littoral ne s'applique pas (sauf rives de grands lacs).
+
+
+4.2 Loi Montagne
+Commune en zone de montagne                              Non
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          18 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+   05              Risques naturels et technologiques
+     DANS CETTE SECTION
+
+     Les risques connus à l'adresse du terrain (inondation, feu de forêt, mouvement de terrain,
+     radon…) et les catastrophes naturelles reconnues sur la commune.
+
+
+Base nationale Géorisques (ministère de la Transition écologique).
+
+
+
+5.1 Risques naturels à l'adresse de la parcelle
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Inondation                                      Existant                                        Existant
+
+  Remontée de nappe                               Existant                                        Existant
+
+  Séisme                                          Existant – faible                               Existant – faible
+
+  Mouvement de terrain                            Inconnu                                         Existant
+
+  Retrait-gonflement des                          Existant – faible                               Existant – modéré
+  argiles
+
+  Radon                                           Existant – faible                               Existant – faible
+
+
+
+
+5.2 Risques technologiques
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Installations industrielles                     Non concerné                                    Concerné
+  (ICPE)
+
+  Canalisations de matières                       Non concerné                                    Concerné
+  dangereuses
+
+  Pollution des sols                              Concerné                                        Concerné
+
+  Rupture de barrage                              Inconnu                                         Concerné
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                    19 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.3 Indicateurs réglementaires
+Zone de sismicité                                        Zone 1 – très faible
+
+Potentiel radon                                          Catégorie 1 (potentiel faible)
+
+Retrait-gonflement des argiles                           Existant – faible
+
+Plans de prévention (PPR)                                Aucun plan de prévention des risques recensé
+
+
+
+5.4 Arrêtés de catastrophe naturelle
+13 arrêtés de reconnaissance de l'état de catastrophe naturelle concernent la commune.
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Inondations et/ou Coulées de Boue                                         10/07/2024 au 11/07/2024                       21/08/2024
+
+  Sécheresse                                                                01/07/2020 au 30/09/2020                       06/06/2021
+
+  Sécheresse                                                                01/07/2018 au 31/12/2018                       19/12/2019
+
+  Inondations Remontée Nappe                                                20/01/2018 au 10/02/2018                       03/11/2018
+
+  Inondations et/ou Coulées de Boue                                         08/05/2013 au 10/05/2013                       27/06/2013
+
+  Inondations Remontée Nappe                                                07/05/2013 au 11/05/2013                       01/03/2014
+
+  Sécheresse                                                                01/04/2011 au 30/06/2011                       21/10/2012
+
+  Sécheresse                                                                01/07/2003 au 30/09/2003                       13/12/2005
+
+  Mouvement de Terrain                                                      25/12/1999 au 29/12/1999                       30/12/1999
+
+  Inondations et/ou Coulées de Boue                                         25/12/1999 au 29/12/1999                       30/12/1999
+
+  Inondations et/ou Coulées de Boue                                         01/07/1993 au 02/07/1993                       03/12/1993
+
+  Sécheresse                                                                01/05/1989 au 31/12/1991                       23/08/1992
+
+  Inondations et/ou Coulées de Boue                                         10/04/1983 au 20/04/1983                       24/06/1983
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           20 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.5 Installations classées à proximité (moins de 1 km)
+    Sécurité des réseaux 10 · Non ICPE
+    ASAP - 10 · Non ICPE
+    LEADER PRICE EXPLOITATION · Non ICPE
+    CGR · Non ICPE
+    VIVESCIA - Troyes · Enregistrement · En fin d'exploitation
+    CEMOI · Enregistrement · En fin d'exploitation
+    TEINTURERIE DES BAS TREVOIS · Autorisation · En fin d'exploitation
+    SEDIS · Enregistrement · En exploitation avec titre
+
+
+5.6 Sites et sols pollués à proximité
+    Station service · ancien site industriel ou d'activité de service (CASIAS)
+    Garage · ancien site industriel ou d'activité de service (CASIAS)
+    Bonneterie · ancien site industriel ou d'activité de service (CASIAS)
+    Bonneterie · ancien site industriel ou d'activité de service (CASIAS)
+    Teinturerie · ancien site industriel ou d'activité de service (CASIAS)
+    Chocolaterie · ancien site industriel ou d'activité de service (CASIAS)
+    Teinturerie laine et coton · ancien site industriel ou d'activité de service (CASIAS)
+    Usine de machines textiles · ancien site industriel ou d'activité de service (CASIAS)
+    2 anciens sites industriels ou d'activités de service (CASIAS) recensés
+    1 site pollué en cours d'instruction recensé
+    2 secteurs d'information sur les sols (SIS) recensés
+
+
+5.7 Rapport officiel Géorisques
+Les risques recensés ci-dessus proviennent des bases officielles de Géorisques, service public d'information
+sur les risques. Le rapport officiel complet peut être édité gratuitement, à tout moment et à jour, à partir de
+l'adresse du terrain sur le site Géorisques.
+
+
+    Éditer le rapport officiel Géorisques
+
+
+Lors d'une vente ou d'une location, le vendeur ou le bailleur doit remettre un état des risques de moins de six mois,
+complété et signé, et l'information sur les sinistres indemnisés au titre des catastrophes naturelles.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                    21 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+   06              Le terrain : accès, relief et réseaux
+     DANS CETTE SECTION
+
+     Les contraintes physiques du terrain : accès à une voie, pente et exposition, assainissement,
+     raccordement à l'électricité et à l'eau, fibre. Ce sont elles qui pèsent le plus sur le coût d'un
+     projet.
+
+
+Voirie (IGN, BD TOPO), altimétrie (IGN, RGE ALTI), règlement de la zone, réseau électrique (Agence ORE) et éligibilité
+internet (Arcep).
+
+
+
+6.1 Accès
+Accès direct à une voie                                  Oui
+
+Voie                                                     Route à 1 chaussée
+
+Largeur de chaussée                                      3m
+
+Accès des véhicules                                      Libre
+
+
+La parcelle touche une voie carrossable. L'autorisation d'urbanisme vérifiera que l'accès est adapté au projet et sûr,
+et peut imposer une permission de voirie ou un aménagement de l'entrée.
+
+
+6.2 Relief et exposition
+Pente moyenne                                            0%
+
+Exposition                                               Terrain plat
+
+Altitude                                                 105 à 108 m
+
+Appréciation                                             Terrain plat ou presque plat
+
+
+
+
+ 108 m
+
+
+
+
+ 106 m
+
+
+           Coupe du terrain dans le sens de la pente · longueur 122 m
+
+
+     Terrassements limités ; pas de surcoût notable lié au relief.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      22 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Troyes · CH 581
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.3 Ensoleillement
+Appréciation                                             Très bien ensoleillé
+
+Soleil direct le 21 juin                                 13 h 48 (de 06 h 30 à 20 h 10)
+
+Soleil direct aux équinoxes                              10 h 48 (de 07 h 20 à 18 h 00)
+
+Soleil direct le 21 décembre                             6 h (de 09 h 20 à 15 h 10)
+
+Ensoleillement annuel possible                           3 835 h par an, soit 87 % du maximum à cette latitude
+
+Hauteur du relief vers le sud                            14°
+
+
+ 75°
+
+
+
+ 60°
+
+
+
+ 45°
+
+
+
+ 30°
+
+
+
+ 15°
+
+
+
+ 0°
+                                Est                  Sud-est                   Sud                  Sud-ouest               Ouest
+
+          21 juin          Équinoxes               21 décembre               Horizon : relief et bâtiments voisins
+
+
+
+       Le relief et les constructions voisines ne masquent presque pas le soleil : le terrain profite de la
+       quasi-totalité de l'ensoleillement possible à cette latitude.
+
+
+
+Ensoleillement mois par mois (le 21 de chaque mois)
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Janvier                         8 h 42                             7h                                        09 h 10 – 16 h 00
+
+  Février                         10 h 18                            9h                                        08 h 20 – 17 h 10
+
+  Mars                            12 h 12                            10 h 48                                   07 h 20 – 18 h 00
+
+  Avril                           13 h 48                            12 h 48                                   07 h 10 – 19 h 50
+
+  Mai                             15 h 12                            13 h 30                                   06 h 40 – 20 h 00
+
+  Juin                            16 h                               13 h 48                                   06 h 30 – 20 h 10
+
+  Juillet                         15 h 12                            13 h 30                                   06 h 50 – 20 h 10
+
+  Août                            13 h 48                            12 h 48                                   07 h 20 – 20 h 00
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       23 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Septembre                       12 h                               10 h 48                                   08 h 10 – 18 h 50
+
+  Octobre                         10 h 18                            9h                                        08 h 50 – 17 h 40
+
+  Novembre                        8 h 48                             7h                                        08 h 40 – 15 h 30
+
+  Décembre                        8 h 12                             6h                                        09 h 20 – 15 h 10
+
+
+
+Calcul théorique par ciel dégagé, au centre de la parcelle et à hauteur d'homme : course du soleil heure par heure, masque du relief
+sur 6 km (IGN, RGE ALTI) et des bâtiments voisins sur 120 m (IGN, BD TOPO, 81 bâtiments pris en compte). La végétation et les
+constructions récentes ne sont pas prises en compte.
+
+
+6.4 Quel raccordement pour les eaux usées ?
+Raccordement à prévoir                                       Tout-à-l'égout très probable
+
+Zone du PLU                                                  UAA · Urbaine
+
+Zonage d'assainissement                                      Non publié au Géoportail de l'Urbanisme (consultable en mairie)
+
+Réseau collectif sur la commune                              Oui · CA TROYES CHAMPAGNE METROPOLE (TCM) · régie
+                                                             publique
+
+
+     Le terrain est en zone urbaine (UAA) et la commune dispose d'un réseau public d'assainissement
+     collectif. Dans ces zones, le réseau passe en général dans la voie et le règlement impose le
+     raccordement lorsqu'il existe. À confirmer par le service d'assainissement pour ce terrain précis.
+
+
+
+Ce que dit le règlement de la zone
+Raccordement obligatoire au réseau collectif d'évacuation des eaux usées s'il existe. En l'absence de réseau public
+mais lorsque sa réalisation est prévue, toute opération doit être desservie par un système autonome
+d'assainissement interne muni d'un dispositif d'épuration approprié, raccordable au futur réseau public et conforme
+à la réglementation. Aucun seuil de surface ni étude de sol précisé.
+
+Le règlement admet un assainissement individuel uniquement là où le réseau public n'existe pas : cette mention ne signifie
+pas que le terrain n'est pas desservi.
+
+Ce que cela coûte
+Raccordement au tout-à-l'égout : branchement sous la voie réalisé par le service d'assainissement (souvent 1 500 à
+5 000 € selon la distance), canalisation sur le terrain jusqu'à la maison, et participation pour le financement de
+l'assainissement collectif (PFAC) fixée par la commune ou l'intercommunalité, généralement de 1 000 à 5 000 €. Le
+service remet un devis à partir du plan de situation.
+
+Qui contacter pour obtenir la confirmation
+Service d'assainissement                                     CA TROYES CHAMPAGNE METROPOLE (TCM)
+
+Mairie                                                       Mairie de Troyes
+
+Téléphone                                                    03 25 42 33 33
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      24 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                         Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+    Demandez au service d'assainissement, avec la référence cadastrale, si une canalisation publique passe au droit
+    du terrain, à quelle profondeur, et le montant de la PFAC. Sa réponse écrite vaut attestation de raccordabilité.
+    Certificat d'urbanisme opérationnel (formulaire Cerfa 13410, gratuit) : la mairie y indique officiellement si le
+    terrain est desservi par le réseau d'assainissement.
+    Plan des réseaux : la présence des canalisations enterrées près du terrain peut être vérifiée sur
+    reseaux-et-canalisations.gouv.fr, le guichet unique des réseaux.
+Sources : zonage d'assainissement et règlement (Géoportail de l'Urbanisme) ; services publics d'assainissement (SISPEA, Office
+français de la biodiversité) ; annuaire de l'administration (service-public.fr).
+
+Si le réseau public n'était finalement pas accessible
+  FILIÈRE                                    QUAND ELLE CONVIENT                                                           ORDRE DE PRIX
+
+  Fosse toutes eaux et                       Sol perméable, terrain assez grand et peu pentu                               5 000 à 10 000 €
+  épandage
+
+  Filtre à sable                             Sol peu perméable, place suffisante                                           8 000 à 12 000 €
+
+  Micro-station agréée                       Petit terrain ou sol défavorable ; entretien et électricité                   7 000 à 15 000 €
+
+  Filtre compact agréé                       Petit terrain, sans électricité                                               9 000 à 14 000 €
+
+
+
+Ordres de prix indicatifs (fourniture et pose, hors étude de sol et terrassements particuliers). La filière est choisie au vu de l'étude
+de sol et validée par le SPANC.
+
+
+6.5 Électricité et eau potable
+Gestionnaire du réseau                                       Enedis
+
+Réseau basse tension le plus proche                          au contact de la parcelle (ligne souterraine)
+
+Ligne aérienne la plus proche                                à environ 105 m
+
+Ligne souterraine la plus proche                             au contact de la parcelle
+
+Poste de transformation le plus proche                       à environ 165 m
+
+Appréciation                                                 Branchement simple probable
+
+
+     Le réseau basse tension passe au contact de la parcelle : un branchement simple est en principe
+     possible (de l'ordre de 1 500 à 3 000 € pour une maison, selon la longueur et la puissance), sous
+     réserve de la capacité du réseau et des coffrets existants.
+
+
+
+Ce qu'il faut vérifier avant d'acheter
+    La capacité du réseau : même un réseau proche peut être saturé (coffret ou câble plein, poste de transformation
+    au maximum). Seule une étude du gestionnaire permet de le savoir ; c'est la cause la plus fréquente de surcoûts
+    imprévus.
+    Électricité : demander au gestionnaire du réseau une étude de raccordement ou un devis à partir de l'adresse et
+    du plan de situation (gratuit). Elle indique le type de raccordement, son coût et son délai.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            25 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+    Eau potable : les plans du réseau d'eau ne sont pas publics. Interroger le service des eaux (coordonnées
+    ci-dessous) sur la présence d'une canalisation au droit du terrain, sa capacité et le coût du branchement, ainsi
+    que sur la défense incendie (borne à moins de 200 m environ).
+    Certificat d'urbanisme opérationnel : la mairie y indique si le terrain est desservi par les réseaux publics (eau,
+    électricité, assainissement) et, à défaut, si et quand ils seront étendus. Un refus de permis peut être fondé sur
+    l'insuffisance des réseaux (article L. 111-11 du Code de l'urbanisme).
+
+Qui contacter
+Service de l'eau potable                                     SYNDICAT MIXTE DE L'EAU DE L'ASSAINISSEMENT COLLECTIF,
+                                                             DE L'ASSAINISSEMENT NON COLLECTIF, DES MILIEUX
+                                                             AQUATIQUES ET DE LA DEMOUSTICATION (SDDEA)
+
+Mode de gestion                                              Régie publique
+
+Contact pour le branchement                                  SYNDICAT MIXTE DE L'EAU DE L'ASSAINISSEMENT COLLECTIF,
+                                                             DE L'ASSAINISSEMENT NON COLLECTIF, DES MILIEUX
+                                                             AQUATIQUES ET DE LA DEMOUSTICATION (SDDEA)
+
+Mairie                                                       Mairie de Troyes
+
+Téléphone de la mairie                                       03 25 42 33 33
+
+Électricité (raccordement)                                   Enedis · demande en ligne sur enedis.fr (raccordement)
+
+La mairie oriente vers le bon interlocuteur et confirme, dans le certificat d'urbanisme, la desserte du terrain par les réseaux.
+Sources : SISPEA, observatoire des services publics d'eau (OFB) ; annuaire de l'administration (service-public.fr).
+
+Dans une promesse de vente, une condition suspensive portant sur le coût du raccordement aux réseaux protège
+l'acquéreur. Source de la cartographie électrique : Agence ORE, données des gestionnaires de réseaux de distribution ;
+tracés indicatifs.
+
+
+6.6 Fibre et internet
+     Le terrain est déjà fibré : 5 adresses situées sur la parcelle (5 b Rue Eugene Belgrand, 3 Rue Eugene
+     Belgrand, 7 a Rue Eugene Belgrand, 5 a Rue Eugene Belgrand, 7 b Rue Eugene Belgrand) sont déclarées
+     raccordables à la fibre.
+
+
+
+Adresse la plus proche                                          5 b Rue Eugene Belgrand · à 19 m · raccordable
+
+Point fibré le plus proche                                      5 b Rue Eugene Belgrand · à 19 m
+
+Adresses fibrées à moins de 100 m                               43 sur 43
+
+Adresses fibrées à moins de 400 m                               628 sur 678
+
+Technologies disponibles à proximité                            4G fixe, Cuivre (ADSL, VDSL), Fibre, Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      26 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                                                                    Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                                                               06 · Le terrain : accès, relief et réseaux
+
+
+
+
+     Points fibrés autour du terrain
+                                                                                          F
+                                                                             F            F                            F
+                                                                           F FF
+                                                                              F            F                   F
+                                                                                                           F
+                                                                                   F              F F                                      F
+                                                                                    FFF                                                FFFF
+                                                                                  FF                                           F
+                                                       FF
+                                                  FFF FF F                 F F
+                                                                           F FF                                            F
+                                                                       F                                           F
+                                                      F            F                                       F
+                                                                                                                                   F               F
+                                                          FF                                  F    F
+                                                                                  F F
+                                                                                                                                           F
+                                                                       F
+                                                                                   F              F
+                                                                                                                                                       F
+                                                      F F          F              F       F            F
+                                                               F                      F
+                                              F                        F
+                                                                                      F
+                                                                                                               F
+                                                                        F                       F                                      F                   F
+                                          F                        F     FF           F                                                    F
+                                                  F                        F            F
+                                                               F             FF           F
+                                                           F           F       FFF        FF
+                                                      F                 F         F     FFFF F
+                                                                         F         FFF       F                                                 F
+                                                                          F
+                                                                            FF           FF           F
+                                                                                      F                                                    F       F
+                                                                              F           F                                        F
+                                                                                        F
+                                                                                 F        F
+                                                                                  F         FF F F                         F           FF
+                                                                                                      F                        F
+                                                                                    F          FF FF
+                                                                                                 FF F
+                                                                                                 FF
+                                                                          F           F
+                                                                                                    F
+                                                                                         F
+
+
+
+                                                                                                                                                                                 100 m
+
+
+
+Repères F : adresses déclarées raccordables à la fibre (Arcep) · en terracotta : sur la parcelle · fond © IGN
+
+
+Vérifiez la fibre à l'adresse du terrain :
+
+                     Carte fibre Orange                                                                                                        Carte de l'Arcep
+
+
+  DISTANCE           ADRESSE                                                                                                   FIBRE                           AUTRES ACCÈS
+
+  19 m               5 b Rue Eugene Belgrand                                                                                   Oui                             4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                                                               Satellite
+
+  30 m               3 Rue Eugene Belgrand                                                                                     Oui                             4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                                                               Satellite
+
+  32 m               8 Rue Eugene Belgrand                                                                                     Oui                             4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                                                               Satellite
+
+  34 m               7 a Rue Eugene Belgrand                                                                                   Oui                             4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                                                               Satellite
+
+  34 m               5 a Rue Eugene Belgrand                                                                                   Oui                             4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                                                               Satellite
+
+  38 m               10 Rue Eugene Belgrand                                                                                    Oui                             4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                                                               Satellite
+
+  44 m               12 Rue Eugene Belgrand                                                                                    Oui                             4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                                                               Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                                                                          27 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                       Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  DISTANCE           ADRESSE                                                                   FIBRE              AUTRES ACCÈS
+
+  46 m               6 Rue Eugene Belgrand                                                     Oui                4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+
+
+Source : Arcep, « Ma connexion internet », éligibilité déclarée par les opérateurs, adresse par adresse. Le tracé des câbles n'est
+pas public : la présence de la fibre en limite de terrain se vérifie auprès de l'opérateur ou par une déclaration de projet de travaux
+(DT).
+
+
+6.7 Qui contacter pour les réseaux
+  RÉSEAU                                    INTERLOCUTEUR                                         CE QU'IL FAUT DEMANDER
+
+  Eau potable et                            Mairie ou service des eaux de la                      Attestation de desserte et conditions de
+  assainissement collectif                  commune                                               raccordement
+
+  Assainissement individuel                 SPANC (communauté de communes)                        Contrôle de conception sur la base de l'étude
+                                                                                                  de sol
+
+  Électricité                               Enedis (gestionnaire du réseau de                     Étude de raccordement et devis
+                                            distribution)
+
+  Fibre et téléphone                        Opérateur d'infrastructure et                         Raccordement du futur logement
+                                            fournisseur d'accès
+
+  Tous réseaux                              Guichet unique des réseaux                            Déclaration de projet de travaux (DT) pour
+                                            (reseaux-et-canalisations.gouv.fr)                    localiser les réseaux existants
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             28 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+    07             Environnement et marché immobilier
+     DANS CETTE SECTION
+
+     Les espaces naturels protégés autour du terrain et les prix de vente réels des maisons,
+     appartements et terrains alentour.
+
+
+Inventaire national du patrimoine naturel et demandes de valeurs foncières (DVF).
+
+
+
+7.1 Espaces naturels protégés ou inventoriés
+  TYPE                                                      NOM DU SITE
+
+  Abords de monument historique                             PDA Ville de Troyes
+
+
+
+La présence d'un site Natura 2000 peut imposer une évaluation des incidences avant certains travaux. Une ZNIEFF
+est un inventaire scientifique sans portée réglementaire directe, mais elle signale un intérêt écologique pris en
+compte dans l'instruction des autorisations.
+
+
+7.2 Espèces protégées observées près du terrain
+85 espèces protégées ont été observées dans un rayon de 1 km autour du terrain depuis 1990 ; les 14 plus
+fréquemment signalées figurent ci-dessous.
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Moineau domestique (Passer                                      Oiseau                 Nationale (espèce et              70 · dernière en
+  domesticus)                                                                            habitat)                          2025
+
+  Mésange charbonnière (Parus major)                              Oiseau                 Nationale (espèce et              70 · dernière en
+                                                                                         habitat)                          2026
+
+  Mésange bleue (Cyanistes caeruleus)                             Oiseau                 Nationale (espèce et              61 · dernière en
+                                                                                         habitat)                          2024
+
+  Corneille noire (Corvus corone)                                 Oiseau                 Nationale (espèce et              56 · dernière en
+                                                                                         habitat)                          2025
+
+  Rouge-gorge familier (Erithacus                                 Oiseau                 Nationale (espèce et              44 · dernière en
+  rubecula)                                                                              habitat)                          2025
+
+  Martinet noir (Apus apus)                                       Oiseau                 Nationale (espèce et              23 · dernière en
+                                                                                         habitat)                          2024
+
+  Rouge-queue noir (Phoenicurus                                   Oiseau                 Nationale (espèce et              23 · dernière en
+  ochruros)                                                                              habitat)                          2025
+
+  Grue cendrée (Grus grus)                                        Oiseau                 Nationale (espèce et              22 · dernière en
+                                                                                         habitat)                          2022
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         29 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Pinson des arbres (Fringilla coelebs)                           Oiseau                 Nationale (espèce et              22 · dernière en
+                                                                                         habitat)                          2025
+
+  Hérisson commun (Erinaceus                                      Mammifère              Nationale (espèce et              19 · dernière en
+  europaeus)                                                                             habitat)                          2021
+
+  Troglodyte mignon (Troglodytes                                  Oiseau                 Nationale (espèce et              18 · dernière en
+  troglodytes)                                                                           habitat)                          2022
+
+  Fauvette à tête noire (Sylvia atricapilla)                      Oiseau                 Nationale (espèce et              15 · dernière en
+                                                                                         habitat)                          2024
+
+  Mésange à longue queue (Aegithalos                              Oiseau                 Nationale (espèce et              15 · dernière en
+  caudatus)                                                                              habitat)                          2022
+
+  Chardonneret élégant (Carduelis                                 Oiseau                 Nationale (espèce et              14 · dernière en
+  carduelis)                                                                             habitat)                          2023
+
+
+
+     Une observation à proximité ne signifie pas que l'espèce vit sur le terrain. Mais si elle y est présente, il
+     est interdit de détruire, capturer ou déranger les individus et, pour la plupart de ces espèces, de
+     détruire leurs lieux de reproduction et de repos (articles L. 411-1 et suivants du Code de
+     l'environnement). L'infraction est punie de 3 ans d'emprisonnement et 150 000 € d'amende.
+
+
+
+Que faire avant de construire ?
+    Pour une maison individuelle, aucune étude écologique n'est imposée en règle générale, et l'étude de sol porte
+    sur le terrain (fondations), pas sur la faune ni la flore. Vous restez cependant responsable si une espèce
+    protégée vit sur la parcelle : en cas de doute (espèce observée tout près, vieux arbres, murets, maquis, zone
+    humide), faites passer un écologue avant de défricher.
+    Si un enjeu est confirmé : inventaire faune-flore aux saisons utiles (printemps et été en général), puis mesures
+    pour éviter et réduire l'impact : implantation de la maison sur la partie la moins sensible, travaux hors période de
+    reproduction, clôture de chantier adaptée, déplacement d'individus par un spécialiste habilité.
+    Si la destruction d'individus ou d'habitats ne peut pas être évitée : demande de dérogation « espèces protégées »
+    auprès de la préfecture (DREAL), avec avis du conseil scientifique. Comptez 4 à 12 mois d'instruction, à anticiper
+    avant le dépôt du permis.
+
+Combien prévoir ?
+Pré-diagnostic écologique                                800 à 2 000 € (une visite et une note de synthèse)
+
+Inventaire faune-flore                                   3 000 à 10 000 € selon la surface et le nombre de passages
+
+Mesures d'évitement et de réduction                      500 à 5 000 € (balisage, calendrier, suivi de chantier)
+
+Dossier de dérogation                                    8 000 à 25 000 €, hors mesures de compensation éventuelles
+
+Ordres de prix indicatifs, honoraires de bureaux d'études en environnement, si une étude est nécessaire. Pour une maison sur un
+terrain déjà entouré de constructions, aucune étude n'est le plus souvent requise.
+
+Sources : statuts de protection TAXREF et base de connaissance des statuts (INPN, Muséum national d'Histoire naturelle) ;
+observations naturalistes GBIF, qui rassemble notamment les données de l'INPN et du SINP.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         30 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                        Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+7.3 Prix de l'immobilier à Troyes
+Prix au mètre carré des ventes enregistrées sur la commune au cours des cinq dernières années publiées.
+Seules les ventes portant sur un bien unique sont retenues.
+
+  TYPE DE BIEN                                       VENTES                       €/M² MÉDIAN                              €/M² MOYEN
+
+  Maisons                                            1 024                        2 000 €/m²                               2 090 €/m²
+
+  Appartements                                       4 624                        1 658 €/m²                               1 876 €/m²
+
+  Locaux commerciaux                                 513                          1 611 €/m²                               2 541 €/m²
+
+
+
+Source : statistiques des demandes de valeurs foncières (DGFiP, Etalab). Prix des actes, hors frais : un ordre de grandeur,
+pas une estimation du bien.
+
+
+7.4 Ventes de terrains autour de la parcelle
+Période observée                                         2021 à 2026
+
+Ventes de terrains recensées                             11
+
+Prix médian                                              324 €/m²
+
+Prix courants (une vente sur deux)                       170 à 877 €/m²
+
+
+  DATE                    PARCELLE                            NATURE                              SURFACE              PRIX             €/M²
+
+  06/01/2026              BT 170                              sols                                101 m²               210 000 €        2 079
+
+  25/03/2025              CH 688                              sols                                171 m²               150 000 €        877
+
+  16/01/2025              CH 688                              sols                                171 m²               72 000 €         421
+
+  01/10/2024              AK 657                              sols                                322 m²               110 000 €        342
+
+  23/11/2023              AK 293                              eaux                                1 917 m²             100 000 €        52
+
+  26/01/2023              AK 650                              sols                                166 m²               150 000 €        904
+
+  30/07/2022              BR 256                              sols                                439 m²               65 800 €         150
+
+  25/01/2022              CH 665                              sols                                165 m²               4 455 €          27
+
+  10/12/2021              CH 676 (+1)                         sols                                7 362 m²             1 800 000 €      244
+
+  25/11/2021              AT 111                              sols                                4 942 m²             1 600 000 €      324
+
+  27/10/2021              CH 258                              sols                                499 m²               85 000 €         170
+
+
+
+Source : DVF, ventes enregistrées par la DGFiP. Les prix au mètre carré dépendent fortement de la constructibilité, de la
+vue, de l'accès et de la viabilisation : ils donnent un ordre de grandeur, pas une estimation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            31 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                                           08 · Historique du site
+
+
+
+
+   08              Historique du site
+     DANS CETTE SECTION
+
+     Le terrain vu du ciel au fil des décennies et les permis de construire accordés autour : l'évolution
+     du secteur en un coup d'œil.
+
+
+Photographies aériennes de l'IGN et permis de construire délivrés (Sitadel).
+
+
+
+8.1 Le terrain vu du ciel, d'hier à aujourd'hui
+
+    2000-2005                                                                         2006-2010
+
+
+
+
+    2011-2015                                                                         Aujourd'hui
+
+
+
+
+Ces vues montrent l'évolution du terrain et du quartier, des années 1950 à aujourd'hui (photographies aériennes de l'IGN).
+
+     Bon à savoir : l'existence ancienne d'une construction peut ouvrir, sous conditions, un droit à
+     reconstruire ou à restaurer un bâtiment dont il reste l'essentiel des murs porteurs (articles L. 111-15 et L.
+     111-23 du Code de l'urbanisme).
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       32 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                           Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                                                08 · Historique du site
+
+
+
+
+8.2 Permis de construire délivrés autour du terrain
+Autorisations sur la commune (3 ans)                                    93 · dernière recensée le 25/09/2026
+
+Logements autorisés (3 ans)                                             897
+
+Dont maisons individuelles                                              45
+
+Autorisations dans la section CH                                        11 depuis 2013
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS           SURFACE CRÉÉE            LIEU-DIT / VOIE
+
+  29/05/2026            Permis de construire                   CH 294             3               201 m²                   RUE DES TERRASSES
+
+  18/09/2024            Permis de construire                   CH 512             1               61 m²                    AVENUE PIERRE
+                                                                                                                           BROSSOLETTE
+
+  28/06/2024            Permis de construire                   CH 556             32              2 005 m²                 BOULEVARD JULES GUESDE
+
+  28/08/2023            Permis de construire                   CH 632             1               150 m²                   RUE DE MADAGASCAR
+
+  17/05/2022            Permis de construire                   CH 275             15              1 019 m²                 AVENUE PIERRE
+                                                                                                                           BROSSOLETTE
+
+  29/04/2022            Permis de construire                   CH 92              7               456 m²                   BOULEVARD GEORGES
+                                                                                                                           POMPIDOU
+
+  28/07/2021            Permis de construire                   CH 500             105             4 369 m²                 RUE DES TERRASSES
+
+  23/10/2019            Permis de construire                   CH 632             1               150 m²                   RUE DE MADAGASCAR
+
+  04/04/2019            Déclaration préalable                  CH 612             1               –                        RUE EUGENE BELGRAND
+
+  22/08/2017            Permis de construire                   CH 253             25              1 292 m²                 AVENUE PIERRE
+                                                                                                                           BROSSOLETTE
+
+  15/04/2015            Permis de construire                   CH 93              10              –                        BOULEVARD GEORGES
+                                                                                                                           POMPIDOU
+
+
+
+Permis accordés à moins de 500 m du terrain
+  DATE                 AUTORISATION                       PARCELLE           DISTANCE        LOGTS           SURFACE          LIEU-DIT / VOIE
+
+  25/09/2026           Permis de construire               BY 316             220 m           20              –                RUE TURENNE
+
+  23/09/2026           Déclaration préalable              BV 288             450 m           1               –                PLACE AUDIFFRED
+
+  08/09/2026           Permis de construire               BY 448             480 m           11              –                _6 RUE DE LA PIERRE
+
+  25/08/2026           Permis de construire               CD 210             480 m           12              –                ET 21 RAYMOND
+                                                                                                                              POINCARAÂ
+
+  29/05/2026           Permis de construire               CH 294             140 m           3               201 m²           RUE DES TERRASSES
+
+  19/03/2026           Déclaration préalable              BY 239             370 m           1               –                RUE FRANCOIS GENTIL
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                               33 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                      Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                                             08 · Historique du site
+
+
+
+
+  DATE                 AUTORISATION                       PARCELLE          DISTANCE         LOGTS        SURFACE          LIEU-DIT / VOIE
+
+  24/02/2026           Déclaration préalable              BZ 392            320 m            1            –                RUE DU GENERAL
+                                                                                                                           SAUSSIER
+
+  23/09/2025           Déclaration préalable              BY 368            140 m            1            –                BOULEVARD DU 14
+                                                                                                                           JUILLET
+
+  27/12/2024           Déclaration préalable              BY 45             440 m            1            –                RUE DES QUINZE VINGT
+
+  18/09/2024           Permis de construire               CH 512            70 m             1            61 m²            AVENUE PIERRE
+                                                                                                                           BROSSOLETTE
+
+  15/03/2024           Permis de construire               CI 35             140 m            4            –                AVENUE PIERRE
+                                                                                                                           BROSSOLETTE
+
+  20/12/2023           Permis de construire               CD 417            420 m            15           110 m²           RUE DES ANCIENNES
+                                                                                                                           TANNERIE
+
+  14/12/2023           Permis de construire               BY 588            270 m            1            38 m²            RUE JEAN DE MAUROY
+
+
+
+13 autorisations créant des logements recensées dans un rayon de 500 m : la construction a été admise récemment
+dans le voisinage immédiat.
+
+Source : base Sitadel des autorisations d'urbanisme créant des logements (SDES). Un permis accordé à proximité montre
+que des constructions ont été admises dans le secteur, sans préjuger de la décision sur votre propre projet.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          34 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                              09 · Opportunités autour du terrain
+
+
+
+
+      09           Opportunités autour du terrain
+      DANS CETTE SECTION
+
+      Ce qui se passe autour de la parcelle : grands terrains peu bâtis, sociétés propriétaires en
+      difficulté, logements énergivores. Des pistes pour un investisseur, un voisin ou un professionnel.
+
+
+Bodacc (procédures collectives), ADEME (diagnostics énergétiques), cadastre, BD TOPO et Géoportail de l'Urbanisme.
+
+
+
+9.1 Grands terrains peu bâtis à proximité
+Parcelles de plus de 1 200 m², situées en zone urbaine ou à urbaniser du PLU, dans un rayon de 250 m, dont
+moins de 8 % de la surface est bâtie, hors terrains publics : un potentiel de construction ou de division à
+étudier.
+
+  PARCELLE           SURFACE                BÂTI               ZONE               DISTANCE           PROPRIÉTAIRE
+
+  CH 31              3 898 m²               203 m²             UCA                210 m              SOEURS OBLATES DE ST FRANCOIS DE
+                                                                                                     SALES (ASS)
+
+  CH 695             2 631 m²               5 m²               UAA                160 m              CONGREGATION DES SOEURS DE LA
+                                                                                                     PROVIDENCE (AUPM)
+
+
+
+
+9.2 Logements classés F ou G autour du terrain
+Logements diagnostiqués F ou G dans un rayon de 350 m. Leur location est déjà interdite (G) ou le sera en
+2028 (F) : leurs propriétaires sont souvent vendeurs, ou doivent engager des travaux de rénovation.
+
+  PARCELLE                   ADRESSE                                        CLASSE LOGEMENT                   SURFACE      DISTANCE DPE DU
+
+  –                          40 Rue Eugene Belgrand 10000                   F            Appartemen           66 m²        50 m     26/06/2023
+                             Troyes                                                      t
+
+  –                          11 Avenue Pierre Brossolette                   G            Appartemen           72 m²        80 m     07/11/2024
+                             10000 Troyes                                                t
+
+  –                          21 Avenue Pierre Brossolette                   F            Immeuble             –            90 m     17/04/2026
+                             10000 Troyes
+
+  –                          3 Avenue Pierre Brossolette                    G            Appartemen           18 m²        90 m     15/04/2025
+                             10000 Troyes                                                t
+
+  –                          22 Avenue Pierre Brossolette                   G            Appartemen           25 m²        110 m    26/11/2025
+                             10000 Troyes                                                t
+
+  –                          52 Boulevard du 14 Juillet 10000               F            Immeuble             –            130 m    26/03/2025
+                             Troyes
+
+  Section CI n°              2 Avenue Pierre Brossolette                    G            Appartemen           30 m²        140 m    15/04/2025
+  315                        10000 Troyes                                                t
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        35 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                              09 · Opportunités autour du terrain
+
+
+
+
+  PARCELLE                   ADRESSE                                        CLASSE LOGEMENT                   SURFACE      DISTANCE DPE DU
+
+  Section BZ n°              32 Boulevard du 14 Juillet 10000               F            Appartemen           25 m²        140 m    26/10/2023
+  327                        Troyes                                                      t
+
+  –                          51 Rue Andre Beury 10000                       G            Appartemen           17 m²        150 m    19/06/2026
+                             Troyes                                                      t
+
+  –                          1 Rue des Terrasses 10000                      F            Appartemen           46 m²        170 m    06/05/2023
+                             Troyes                                                      t
+
+
+
+La parcelle est celle du point d'adresse du logement (cadastre). Pour connaître son propriétaire lorsqu'il s'agit d'un particulier,
+demandez un relevé de propriété au service de la publicité foncière ou à la mairie.
+
+Ces informations proviennent de bases publiques et ne préjugent ni de l'intention de vendre des propriétaires ni de la
+constructibilité des parcelles citées, qui relève d'une étude au cas par cas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        36 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+      10           Votre projet, étape par étape
+De l'achat du terrain à la déclaration aux impôts : démarches, délais, coûts et contacts.
+
+
+
+10.1 Analyse
+Le terrain est soumis au plan local d'urbanisme (PLU) de Troyes. Il est classé en zone UAA. Zone urbaine
+: secteur déjà urbanisé où les équipements publics existants ou en cours de réalisation permettent
+d'accueillir des constructions. Les constructions y sont admises dans le respect du règlement de la zone
+(destinations, implantation, hauteur, emprise, aspect).
+
+La construction n'est pas exclue, mais elle est subordonnée à des conditions qu'il faut lever avant tout
+engagement : lecture du règlement et des orientations d'aménagement, desserte par les réseaux,
+contraintes de risques ou de protection.
+
+
+10.2 Votre projet, étape par étape
+Les étapes ci-dessous suivent l'ordre réel d'un projet de construction, de l'achat du terrain à la déclaration aux
+impôts. Les montants sont indicatifs et à confirmer par devis.
+
+  1      Avant d'acheter le terrain
+         Vérifiez les règles de la zone (chapitres précédents), puis demandez un certificat d'urbanisme opérationnel
+         (Cerfa 13410, sans frais, réponse sous 2 mois) : il fige les règles pendant 18 mois. En zone d'argiles d'aléa
+         moyen ou fort, le vendeur doit fournir une étude de sol préalable.
+         Contact : Mairie de Troyes · 03 25 42 33 33 · formulaire sur service-public.fr (rechercher « Cerfa 13410 »)
+
+  2      Les études
+         Étude de sol géotechnique (G2) pour dimensionner les fondations : 1 500 à 3 000 €. Étude thermique RE2020,
+         obligatoire pour le permis : 500 à 1 500 €. Bornage par un géomètre si les limites sont incertaines. L'étude de
+         sol ne porte pas sur les espèces protégées : un écologue n'intervient qu'en cas d'enjeu (chapitre
+         Environnement).
+         Géomètres proches du terrain : liste à la fin de ce chapitre
+
+  3      Les plans
+         Architecte obligatoire si la surface de plancher totale dépasse 150 m². En dessous, vous pouvez dessiner les
+         plans vous-même ou faire appel à un dessinateur ou maître d'œuvre (environ 1 500 à 4 000 € le dossier de
+         permis). Architecte : 3 000 à 8 000 € pour la seule mission de permis, 8 à 12 % du coût des travaux pour une
+         mission complète avec suivi du chantier.
+         Trouver un architecte : annuaire de l'Ordre des architectes sur architectes.org
+
+  4      Déposer le permis
+         Formulaire Cerfa 13406 (maison individuelle) et pièces PCMI1 à PCMI8 : plan de situation, plan de masse,
+         coupe, notice, plans des façades et toitures, insertion dans le paysage, photos, attestation RE2020. Dépôt en
+         mairie ou en ligne sur le guichet numérique de la commune. La mairie a 1 mois pour réclamer une pièce
+         manquante ; l'instruction dure 2 mois à partir du dossier complet, plus en secteur protégé.
+         Dépôt : Mairie de Troyes · 03 25 42 33 33 · formulaire sur service-public.fr (rechercher « Cerfa 13406 »)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        37 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+  5      Affichage et recours
+         Dès l'accord, installez le panneau de permis sur le terrain, lisible depuis la voie, pendant toute la durée du
+         chantier. Les tiers ont 2 mois à compter du premier jour d'affichage pour contester ; la mairie peut retirer un
+         permis illégal pendant 3 mois. Faites constater l'affichage par un commissaire de justice (environ 300 à 600 €
+         pour les trois constats).
+         Commissaires de justice : annuaire sur commissaire-justice.fr
+
+  6      Avant les travaux
+         Souscrivez l'assurance dommages-ouvrage, obligatoire (souvent 2 à 4 % du coût de la construction). Signez
+         le contrat de construction de maison individuelle ou les marchés des artisans. Déposez la déclaration
+         d'ouverture de chantier (Cerfa 13407) le jour du démarrage. Le permis est valable 3 ans, prorogeable deux
+         fois d'un an.
+         Déclaration d'ouverture : Mairie de Troyes · 03 25 42 33 33
+
+  7      Le financement
+         La banque débloque le prêt au fur et à mesure du chantier, sur présentation des factures des entreprises ou
+         des appels de fonds du constructeur. Avec un contrat de construction de maison individuelle, l'échéancier
+         est encadré par la loi : 15 % à l'ouverture du chantier, 25 % aux fondations, 40 % aux murs, 60 % hors d'eau,
+         75 % hors d'air et cloisons, 95 % aux équipements, le solde à la réception. Des intérêts intercalaires peuvent
+         courir sur les sommes débloquées.
+         Votre banque ou votre courtier
+
+  8      La fin du chantier
+         Réception des travaux avec le constructeur ou les artisans, avec réserves si nécessaire. Déposez ensuite la
+         déclaration attestant l'achèvement et la conformité des travaux (DAACT, Cerfa 13408), avec l'attestation
+         RE2020 de fin de chantier. La mairie a 3 mois pour la contester (5 mois en secteur protégé).
+         Dépôt : Mairie de Troyes · 03 25 42 33 33
+
+  9      Les impôts
+         Dans les 90 jours suivant l'achèvement, déclarez la construction sur impots.gouv.fr, espace « Gérer mes
+         biens immobiliers ». Cette déclaration sert au calcul de la taxe d'aménagement (payée en une fois sous 1 500
+         €, sinon en deux fois, estimation plus bas dans ce chapitre) et de la taxe foncière, avec une exonération
+         possible les deux premières années selon la commune.
+         impots.gouv.fr › Espace particulier › Gérer mes biens immobiliers
+
+
+10.3 Les points à vérifier pour ce terrain
+  1      Certificat d'urbanisme opérationnel
+         Le demander en mairie (formulaire Cerfa 13410), en décrivant le projet. Gratuit, il indique si le terrain
+         peut accueillir le projet et fige les règles d'urbanisme pendant 18 mois.
+
+  2      Règlement de la zone
+         Lire le règlement écrit de la zone UAA et, le cas échéant, les orientations d'aménagement, disponibles
+         sur le Géoportail de l'Urbanisme.
+
+  3      Réseaux et accès
+         Vérifier l'accès à une voie publique ou privée adaptée, la desserte en eau potable et en électricité, et le
+         mode d'assainissement. En l'absence de réseau collectif, une étude de sol et l'avis du service public
+         d'assainissement non collectif (SPANC) sont nécessaires.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        38 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+  4      Architecte des Bâtiments de France
+         Le projet sera soumis à l'architecte des Bâtiments de France : le rencontrer avant de dessiner le projet
+         (rendez-vous par la mairie ou l'unité départementale de l'architecture et du patrimoine), soigner
+         matériaux, teintes et toitures, et compter un mois de plus pour l'instruction.
+
+  5      Bornage
+         Faire réaliser un bornage par un géomètre-expert pour fixer les limites exactes et la surface réelle du
+         terrain.
+
+  6      Sécuriser un achat
+         Pour une acquisition, prévoir dans le compromis une condition suspensive d'obtention d'un permis de
+         construire purgé de tout recours.
+
+
+10.4 Délais indicatifs d'instruction
+  DEMANDE                                                                                 DÉLAI DE DROIT COMMUN
+
+  Certificat d'urbanisme d'information (CUa)                                              1 mois
+
+  Certificat d'urbanisme opérationnel (CUb)                                               2 mois
+
+  Déclaration préalable                                                                   1 mois
+
+  Permis de construire une maison individuelle                                            2 mois
+
+  Permis d'aménager, autres permis de construire                                          3 mois
+
+
+
+Ces délais peuvent être majorés, notamment en site classé ou inscrit, aux abords d'un monument historique ou lorsque la
+consultation d'un service extérieur est nécessaire.
+
+
+10.5 Taxe d'aménagement à prévoir
+      Exemple : une maison de 120 m² en résidence principale, avec une piscine de 3 × 6 m. Sur ce terrain, la
+      taxe d'aménagement à prévoir est d'environ 4 020 €.
+
+
+
+  PROJET                                                                                                       TAXE ESTIMÉE
+
+  Maison de 120 m², résidence principale                                                                       3 750 €
+
+  Piscine de 3 × 6 m (18 m²)                                                                                   270 €
+
+  Total à prévoir                                                                                              4 020 €
+
+
+
+Taux appliqués : 5 % pour la commune et 1 % pour le département, sur une valeur forfaitaire de 892 € par m² en 2026 (251 €
+par m² de bassin pour une piscine). Une résidence principale bénéficie d'un abattement de 50 % sur ses 100 premiers m².
+
+La taxe est due une fois les travaux terminés : elle se déclare sur impots.gouv.fr dans les 90 jours suivant l'achèvement, et
+se paie en deux fois au-delà de 1 500 €. Pour calculer votre propre projet :
+terrenurbanisme.com/outils/taxe-amenagement.html
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        39 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+10.6 Implanter une entreprise : zone France Ruralités Revitalisation
+     La commune de Troyes n'est pas classée en zone France Ruralités Revitalisation (FRR). Une entreprise
+     qui s'y installe ne bénéficie pas de l'exonération d'impôt sur les bénéfices liée à ce zonage.
+
+
+
+Source : ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 (collectivites-locales.gouv.fr).
+
+
+10.7 Géomètres proches du terrain
+Le géomètre-expert est le seul professionnel habilité à fixer les limites de propriété (bornage) et à établir les
+documents d'arpentage déposés au cadastre. Il intervient aussi pour les relevés topographiques et les
+divisions de terrain.
+
+0,1 km            GUICHARD ET ASSOCIES, GEOMETRES-EXPERTS, INGENIERIE & MAITRI
+                                                                         Coordonnées
+                  53 BD DU QUATORZE JUILLET 10000 TROYES
+
+
+1,1 km            VICTOR LEBLANC
+                                                                                                                           Coordonnées
+                  43 RUE DE LA PAIX 10000 TROYES
+
+
+1,3 km            X BOTOKO EKILA
+                                                                                                                           Coordonnées
+                  10 D ALLEE YVES DE COPAINVILLE 10000 TROYES
+
+
+1,3 km            AMBROISE PIECHOWSKI
+                                                                                                                           Coordonnées
+                  RUE DE LA PAIX 10000 TROYES
+
+
+1,4 km            FP GEOMETRE EXPERT
+                                                                                                                           Coordonnées
+                  42 B RUE DE LA PAIX 10000 TROYES
+
+
+1,9 km            JMB
+                                                                                                                           Coordonnées
+                  5 RUE DU VEON A L'ANE 10000 TROYES
+
+
+Source : répertoire Sirene de l'INSEE (activité des géomètres), classé par distance au terrain. L'inscription d'un cabinet à l'Ordre
+des géomètres-experts se vérifie sur geometre-expert.fr. Le bouton « Coordonnées » ouvre la fiche du cabinet (téléphone,
+horaires, itinéraire). Cette liste est fournie à titre indicatif, sans partenariat ni recommandation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        40 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Troyes · CH 581
+          TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+     11            État des risques (ERP) pré-rempli
+     DANS CETTE SECTION
+
+     Le formulaire réglementaire à remettre à l'acquéreur ou au locataire, pré-rempli à partir des
+     bases officielles : plans de prévention, sismicité, radon, sols pollués, trait de côte, bruit des
+     aérodromes.
+
+
+Articles L. 125-5 à L. 125-7 et R. 125-23 à R. 125-27 du Code de l'environnement · modèle fixé par l'arrêté du 27 septembre
+2022.
+
+
+     Formulaire pré-rempli à partir de Géorisques et du Géoportail de l'Urbanisme à la date du rapport.
+     Avant de le remettre à l'acquéreur ou au locataire, le vendeur ou le bailleur le vérifie, le complète
+     (sinistres indemnisés) et le signe ; il doit dater de moins de six mois à la signature de la promesse, du
+     bail ou de l'acte.
+
+
+
+
+11.1 Situation du bien
+Commune                                                  Troyes (10387)
+
+Département                                              Aube (10)
+
+Références cadastrales                                   Section CH, parcelle n° 581 · 10387000CH0581
+
+Surface cadastrale                                       4 846 m²
+
+
+
+11.2 Plans de prévention des risques
+  L'IMMEUBLE EST SITUÉ DANS LE PÉRIMÈTRE…                                         RÉPONSE                DÉTAIL
+
+  d'un plan de prévention des risques naturels (PPRN)                             Non                    Aléas à l'adresse : inondation, remontée
+  prescrit, appliqué par anticipation ou approuvé                                                        de nappe
+
+  d'un plan de prévention des risques miniers (PPRM)                              Non                    Non recensé
+
+  d'un plan de prévention des risques technologiques                              Non                    Risques technologiques sur la commune
+  (PPRT)                                                                                                 : installations industrielles (icpe),
+                                                                                                         canalisations de matières dangereuses,
+                                                                                                         pollution des sols
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         41 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                          Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+11.3 Autres zonages réglementaires
+  L'IMMEUBLE EST SITUÉ…                                                           RÉPONSE                DÉTAIL
+
+  dans une commune de sismicité (zones 2 à 5 : règles de                          Non                    Zone 1 – très faible
+  construction parasismique)
+
+  dans une commune à potentiel radon de niveau 3                                  Non                    Catégorie 1 (potentiel faible)
+
+  dans un secteur d'information sur les sols (SIS)                                À vérifier             SIS recensé à proximité : ZAC DES
+                                                                                                         TROIS SEINE ; Agence EDF / GDF
+                                                                                                         Services. Vérifier l'arrêté préfectoral.
+
+  dans une zone exposée au recul du trait de côte                                 Non                    Non concerné selon Géorisques
+
+  dans une zone de bruit d'un plan d'exposition au bruit                          À vérifier             Aucun PEB annexé au document
+  d'aérodrome (PEB)                                                                                      d'urbanisme ; vérifier auprès de la mairie
+
+  dans une zone de retrait-gonflement des argiles                                 Oui                    Existant – faible
+  (information)
+
+
+
+
+11.4 Sinistres indemnisés et déclarations
+Arrêtés de catastrophe naturelle sur la commune : 13 (liste en section Risques). Le vendeur ou le bailleur
+déclare ci-dessous les sinistres ayant donné lieu à une indemnisation au titre des catastrophes naturelles ou
+technologiques pendant la période où il a été propriétaire.
+
+Sinistres indemnisés                                     [ ] Oui [ ] Non
+
+Vendeur ou bailleur                                      Nom : ____________________ Date : ___/___/______ Signature :
+
+Acquéreur ou locataire                                   Nom : ____________________ Date : ___/___/______ Signature :
+
+
+L'état des risques officiel peut aussi être édité gratuitement sur Géorisques (errial.georisques.gouv.fr). Les informations
+ci-dessus sont établies à partir des bases nationales ; en cas de divergence, l'arrêté préfectoral relatif à l'information des
+acquéreurs et des locataires fait foi.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             42 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+    12             Avertissement et sources
+     DANS CETTE SECTION
+
+     La portée de ce rapport et la liste des sources publiques consultées.
+
+
+
+12.1 Nature du document
+Ce rapport est un document d'information établi automatiquement, à la date indiquée en page de garde, à
+partir des données publiques officielles alors disponibles. Il n'a aucune valeur contractuelle, réglementaire ou
+juridique.
+
+
+12.2 Ce que ce rapport n'est pas
+Il ne constitue ni un certificat d'urbanisme au sens de l'article L. 410-1 du Code de l'urbanisme, ni une
+autorisation d'urbanisme (permis de construire, permis d'aménager, déclaration préalable), ni un état des
+risques au sens de l'article L. 125-5 du Code de l'environnement, ni un bornage, ni une expertise, ni une
+évaluation immobilière, ni une consultation juridique. Il n'engage en rien l'administration.
+
+
+12.3 Permis de construire
+Ce rapport ne peut en aucun cas être joint, produit ou invoqué à l'appui d'une demande de permis de
+construire, de permis d'aménager ou de déclaration préalable, ni opposé à la mairie ou à un service de l'État. Il
+ne garantit pas l'obtention d'une autorisation : seule l'autorité compétente se prononce, au vu d'un projet
+précis et de l'ensemble des règles applicables à la date de sa décision.
+
+
+12.4 Limites des données
+Les données sont produites par des organismes publics dont l'éditeur n'est ni l'auteur ni le garant. Elles
+peuvent être incomplètes, imprécises ou ne pas refléter une modification, une révision, une mise en
+compatibilité, une annulation contentieuse, un sursis à statuer ou une procédure en cours. Le plan cadastral,
+document fiscal, ne fait pas foi des limites de propriété. Surfaces, distances, altitudes et pentes sont
+approchées. Les extraits et analyses du règlement sont une aide à la lecture : seul le texte intégral du
+document d'urbanisme approuvé, consultable en mairie, fait foi.
+
+
+12.5 Avant toute décision
+Avant toute acquisition, cession, financement, promesse de vente ou dépôt d'une demande, le lecteur doit
+obtenir un certificat d'urbanisme opérationnel auprès de la mairie, consulter le document d'urbanisme en
+vigueur et recueillir l'avis d'un professionnel habilité (notaire, architecte, géomètre-expert, avocat). Pour un
+achat, il est recommandé de stipuler une condition suspensive d'obtention d'un permis de construire purgé de
+tout recours.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        43 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+12.6 Responsabilité
+L'éditeur ne saurait être tenu responsable d'une décision prise sur le seul fondement de ce rapport, ni d'un
+refus d'autorisation, d'une erreur ou d'une omission des sources publiques, dans les limites prévues par les
+conditions générales de vente acceptées lors de la commande.
+
+
+12.7 Sources consultées
+  DONNÉE                                                    SOURCE
+
+  Cadastre                                                  DGFiP, plan cadastral informatisé, via API Carto (IGN)
+
+  Photographies et plans                                    IGN, Géoplateforme : orthophotographies, Plan IGN, parcellaire express
+
+  Urbanisme                                                 Géoportail de l'Urbanisme : zonage, prescriptions, informations, servitudes
+                                                            d'utilité publique
+
+  Littoral                                                  IGN, BD TOPO (limite terre-mer) ; communes littorales (Géoportail de
+                                                            l'Urbanisme)
+
+  Montagne                                                  Ministère de la Cohésion des territoires, communes de la loi Montagne
+
+  Risques                                                   Géorisques (ministère de la Transition écologique) : rapport de risques,
+                                                            arrêtés CatNat, sismicité, radon, ICPE, sites pollués
+
+  Environnement                                             Inventaire national du patrimoine naturel (PatriNat), via API Carto
+
+  Altitude, pente et exposition                             IGN, RGE ALTI
+
+  Ensoleillement                                            Calcul astronomique de la course du soleil ; masque du relief (IGN, RGE
+                                                            ALTI) et des bâtiments (IGN, BD TOPO)
+
+  Voirie et accès                                           IGN, BD TOPO (tronçons de route)
+
+  Permis de construire                                      Sitadel, service des données et études statistiques (SDES) du ministère
+                                                            chargé du logement
+
+  Photographies anciennes                                   IGN, BD ORTHO historique
+
+  Fibre et internet                                         Arcep, Ma connexion internet (éligibilité par adresse)
+
+  Géomètres                                                 Répertoire Sirene (INSEE), activité des géomètres
+
+  Propriétaires personnes morales                           DGFiP, fichiers des parcelles des personnes morales (diffusion Koumoul)
+
+  Diagnostics énergétiques                                  ADEME, base des DPE des logements existants
+
+  Procédures collectives                                    Bodacc, annonces commerciales (DILA)
+
+  Bâtiments                                                 IGN, BD TOPO
+
+  Réseau électrique                                         Agence ORE (gestionnaires de réseaux de distribution : Enedis, EDF Corse
+                                                            et entreprises locales) : réseau basse tension et postes de distribution
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        44 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+  DONNÉE                                                    SOURCE
+
+  Taxe d'aménagement                                        DGFiP, éléments de taxation votés par les collectivités ; valeurs forfaitaires
+                                                            fixées par arrêté
+
+  Rapport officiel de risques                               Géorisques, ministère chargé de l'environnement
+
+  Zone France Ruralités Revitalisation                      ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 ; article
+                                                            44 quindecies A du code général des impôts
+
+  Marché immobilier                                         Statistiques des demandes de valeurs foncières (DVF) par commune, DGFiP
+                                                            et Etalab
+
+  Date d'extraction                                         20/11/2026
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        45 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                     Troyes · CH 581
+         TerrenUrbanisme
+                                                                                                                     Annexe · règlement de la zone
+
+
+
+
+ANNEXE
+
+
+Règlement écrit · zone UAA
+Les pages suivantes reproduisent le chapitre du règlement officiel applicable à la zone de la parcelle
+(pages 43 à 58 du document approuvé), tel que publié sur le Géoportail de l'Urbanisme. Il s'agit d'une
+reproduction à titre d'information : seule la version approuvée tenue à disposition en mairie fait foi, avec
+ses annexes, plans et éventuelles modifications ultérieures.
+Règlement complet :
+https://data.geopf.fr/annexes/gpu/documents/DU_10387/e96aec06b2432385f7f60f76d64cd25b/10387_reglement_20250403.pdf
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        46 / 63
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+3.1.1 - Règles applicables aux zones UAA
+
+
+
+
+3.1.1. Dispositions applicables aux zones UAA
+
+Sont également applicables les :
+        "Dispositions générales" figurant au titre1
+        "Règles et définitions " figurant au titre 2 du présent règlement
+
+
+Les orientations d'aménagement et de programmation (OAP) thématiques
+         "Nature en ville"
+         "Hauteur le long des grands axes"
+
+
+
+Caractère dominant de la zone
+
+La zone UAA est destinée à l’habitat et aux activités compatibles avec l’habitat. Elle
+correspond aux secteurs les plus denses de la commune à dominante d’immeubles
+collectifs implantés en général à l’alignement des voies et formant un front bâti continu.
+
+Les règles suivantes sont données sous réserve des dispositions :
+ du Plan de Prévention des Risques d'Inondation (PPRI), édictées à l'annexe 8 du présent
+PLU
+ de l’Aire de mise en Valeur de l'Architecture et du Patrimoine (AVAP), édictées à
+l’annexe 7 du présent PLU.
+
+
+
+
+PLU VILLE DE TROYES – Modification n°9 – Approuvée le 03 avril 2025
+                                                                                   42
+Règlement : pièces écrites - Règles applicables aux zones UAA
+  3.1.1 - Règles applicables aux zones UAA
+
+
+ARTICLE UAA 1 : OCCUPATIONS ET UTILISATION DU SOL INTERDITES.
+A - Sont interdites toutes les activités non autorisées à l’article 2 et notamment :
+1) La création de toute activité, y compris les entrepôts, qui par leur destination ou leur
+   nature, leur importance ou leur aspect, sont incompatibles avec la salubrité, la sécurité ou
+   l’environnement de la zone.
+2) La création ou l’extension d’installations agricoles.
+3) L’ouverture et l’exploitation de toute carrière.
+4) Le stationnement des caravanes et toute forme de camping caravaning, notamment les
+   cas suivants : caravanes servant à la vente de denrées, accueil des caravanes sur un
+   terrain nu…
+5) Les affouillements et exhaussements de terrains non nécessaires à la construction.
+6) Les dépôts d’épaves, de vieilles ferrailles, de matériaux de démolition, de déchets tels que
+   pneus usés, vieux chiffons, ordures ménagères, de véhicules désaffectés, dès lors que la
+   superficie occupée sur une même parcelle atteint 5 m².
+
+
+ARTICLE UAA 2 : OCCUPATIONS ET UTILISATION DU SOL SOUMISES A CONDITIONS
+PARTICULIERES.
+A – Sont admises dans ces zones, les occupations et utilisations du sol suivantes :
+1) Les constructions à usage :
+      d’habitation
+      hôtelier
+      d’équipement collectif (équipements scolaires, sportifs, de loisirs, culturels, sanitaires,
+     résidences pour personnes âgées, foyers…)
+      de commerce, sous réserve de respecter l’article DC11 – Destination des locaux
+      d’artisanat et d’industries non génératrices de nuisances
+      de bureaux et de services
+      de parcs de stationnement.
+
+
+2) Les annexes et les locaux techniques liés aux constructions précitées, notamment les
+   garages, abris de jardins…
+3) Les aires de sports, de jeux et les parcs d’attractions.
+4) Les exhaussements et affouillements du sol en terrain privé liés à une autorisation.
+5) Le stationnement isolé de caravane, sur le terrain abritant la résidence principale de
+   l’utilisateur (hivernage).
+6) Les ouvrages techniques d’intérêt collectif (voiries, téléphone, réseaux d’énergie…) ainsi
+   que les équipements nécessaires aux télécommunications.
+B - Sont admis sous réserve du respect des conditions fixées ci-après :
+1) Les installations classées pour la protection de l’environnement quel que soient les régimes
+   auxquelles elles sont soumises, ne sont admises qu’à la condition qu’elles n’entraînent,
+   pour le voisinage, aucune incommodité, et, en cas d’accident ou de fonctionnement
+   défectueux, aucune insalubrité ni sinistre susceptible de causer des dommages graves ou
+   irréparables aux personnes et aux biens.
+
+
+
+  PLU VILLE DE TROYES – Modification n°9 – Approuvée le 03 avril 2025
+                                                                                          43
+  Règlement : pièces écrites - Règles applicables aux zones UAA
+  3.1.1 - Règles applicables aux zones UAA
+
+
+2) L’aménagement ou la transformation des installations classées dont la création serait
+   normalement interdite dans la zone, peut être autorisé à condition que les travaux
+   contribuent à améliorer leur insertion dans l’environnement urbain et à diminuer la gêne
+   ou le danger qui peut en résulter.
+3) L’agrandissement ou la transformation des établissements d’activités économiques ou de
+   dépôts existants dont la création serait interdite, si son importance ne contrevient pas au
+   caractère de la zone et lorsque les travaux envisagés ne doivent pas avoir pour effet
+   d’aggraver la gêne ou le danger qui résulte de la présence de ces établissements ou
+   dépôts.
+
+
+ARTICLE UAA 3 : CONDITIONS DE DESSERTE DES TERRAINS PAR LES VOIES PUBLIQUES OU PRIVEES
+ET D’ACCES AUX VOIES PUBLIQUES OU PRIVEES OUVERTES AU PUBLIC.
+
+A - Règle générale
+  Pour être constructible, un terrain doit être accessible par une voie carrossable publique
+  ou privée ouverte à la circulation publique, soit directement, soit par l’intermédiaire d’un
+  passage aménagé sur fonds voisins ou éventuellement obtenu par application de l’article
+  682 du code civil qui permet à un propriétaire d’obtenir des accès adaptés à l’utilisation
+  de son terrain.
+  Dans tous les cas, cette voie devra présenter une largeur de chaussée hors stationnement
+  minimale de 4 mètres en tout point.
+  Les caractéristiques des voies de dessertes et des accès doivent correspondre à la
+  destination des immeubles à desservir (nombre de logements, importance de la
+  fréquentation…) et satisfaire aux règles minimales en matière de défense contre
+  l’incendie, de protection civile et de collecte des ordures ménagères.
+
+B - Voirie
+1) Les voiries existantes
+  1.1 Règle générale : Les dimensions, formes et caractéristiques techniques des voies et
+  passages doivent être adaptées aux usages qu'ils supportent, aux opérations qu'ils
+  doivent desservir et satisfaire aux règles minimales de desserte : défense contre l’incendie,
+  protection civile, brancardage, ordures ménagères. Dans tous les cas, cette voie devra
+  présenter une largeur de chaussée hors stationnement minimale de 4 mètres en tout
+  point.
+  1.2 - Voies privées existantes :
+   Les voies privées existantes, ouvertes à la circulation publique, devront présenter une
+  largeur de chaussée hors stationnement minimale de :
+  - 4 mètres pour les voies à sens unique.
+  - 5 mètres pour les voies à double sens de circulation.
+  - 5 mètres pour les voies en impasse
+   Les voies privées existantes, non ouvertes à la circulation publique devront dans tous les
+  cas, satisfaire aux règles minimales de desserte : défense contre l’incendie, protection
+  civile, brancardage, ordures ménagères.
+
+
+
+
+  PLU VILLE DE TROYES – Modification n°9 – Approuvée le 03 avril 2025
+                                                                                        44
+  Règlement : pièces écrites - Règles applicables aux zones UAA
+  3.1.1 - Règles applicables aux zones UAA
+
+
+2) Les voiries nouvelles
+  Toute voie nouvelle doit :
+     présenter une largeur de chaussée hors stationnement minimale de 4 mètres en tout
+    point.
+     être adaptée à l’importance et à la destination des constructions et installations
+    qu’elle doit desservir.
+     assurer la sécurité des usagers.
+     permettre l’approche et l'utilisation des véhicules et du matériel de lutte contre
+    l’incendie et des services de sécurité.
+     Son tracé et son traitement doivent être définis au regard de la morphologie du
+    terrain d'assiette du projet et de la composition de la trame viaire existante
+    environnante.
+  La création de pistes cyclables, cheminements piétons peut être exigée, notamment pour
+  desservir les équipements publics, assurer les liaisons inter quartiers et s'inscrire dans le
+  maillage d'agglomération d'itinéraires cyclables.
+  2.1 - Voiries nouvelles en impasse
+      Les voiries nouvelles en impasse devront présenter une largeur de chaussée hors
+     stationnement minimale de 5 mètres de large en tout point.
+      Les voies en impasse à créer doivent comporter une aire de retournement dans leur
+     partie terminale, permettant aux engins de lutte contre l'incendie et de collecte des
+     ordures ménagères de réaliser un demi-tour.
+      Lorsque l'impasse est située en limite du périmètre urbanisable, il doit être réservé la
+     possibilité de prolonger ultérieurement la voie sans occasionner de destruction.
+      Les voies doivent en outre être conçues pour s’intégrer à terme au maillage viaire
+     environnant et participer à une bonne desserte du quartier, en compatibilité, le cas
+     échéant, avec les orientations d’aménagement définies par secteur.
+      Les opérations d’ensemble devront préserver et rechercher les possibilités de
+     bouclage (cheminements piétons et cycles, voirie, réseaux...) avec les lieux avoisinants
+     et les opérations qui pourraient se réaliser ultérieurement sur des terrains limitrophes.
+
+C - Bande ou servitude d’accès :
+1) Toute bande ou servitude d’accès doit présenter une largeur de chaussée hors
+   stationnement minimale de 4 mètres en tout point et une longueur maximale de 50
+   mètres.
+2) Aucune construction ne sera autorisée sur les terrains desservis par une bande de passage
+   ou une servitude d’accès de plus de 50 mètres de longueur.
+
+D - Accès
+Voir article DC3
+
+
+ARTICLE UAA 4 : DESSERTE PAR LES RESEAUX.
+A - Eau
+  Toute construction ou installation nouvelle doit être raccordée au réseau public
+  d’adduction d’eau potable suivant les règles sanitaires en vigueur.
+
+
+
+
+  PLU VILLE DE TROYES – Modification n°9 – Approuvée le 03 avril 2025
+                                                                                        45
+  Règlement : pièces écrites - Règles applicables aux zones UAA
+  3.1.1 - Règles applicables aux zones UAA
+
+
+B - Eaux usées
+  Les eaux usées devront obligatoirement être évacuées par le réseau collectif
+  d’évacuation s’il existe. En l’absence d’un réseau public d’assainissement mais dont la
+  réalisation est prévue, toute opération devra être desservie par un système autonome
+  d’assainissement interne muni d’un dispositif d’épuration approprié, raccordable au futur
+  réseau public d’assainissement et conforme aux réglementations en vigueur.
+C - Eaux pluviales
+  Les eaux pluviales seront obligatoirement recueillies, infiltrées ou stockées en vue d’une
+  réutilisation sur la parcelle de la construction au moyen de dispositifs adaptés (puisards…)
+  conformes aux réglementations en vigueur.
+  En cas d’impossibilité technique ou de capacité technique insuffisante, les eaux pluviales
+  pourront être évacuées par le réseau collectif d’évacuation des eaux pluviales existant.
+  En cas de réseau séparatif, les eaux pluviales ne doivent pas être déversées dans le
+  réseau d’eau usées et inversement.
+D - Réseaux
+  Les réseaux divers de distribution (eau potable, gaz, électricité, téléphone, etc.) doivent
+  être souterrains.
+E - Gestion des déchets
+  1) Locaux déchets et espaces conteneurs
+  Sauf impossibilité technique tout projet de construction ou réhabilitation d’immeuble
+  devra prévoir des locaux destinés au stockage des déchets ménagers et déchets
+  industriels banals (DIB) dont les dimensions devront permettre une collecte sélective de
+  ces déchets.
+
+  . Pour les immeubles d’habitat collectif : Il devra être prévu 1 m² par logement, avec un
+  minimum de 5 m². Cette surface devra être répartie entre les différents blocs ou entrées
+  communes de logements. Le local répondra aux réglementations sanitaires en vigueur, il
+  sera notamment suffisamment aéré et permettra le nettoyage régulier des bacs.
+
+  . Pour les opérations groupées de plus de deux logements individuels : Un espace destiné
+  au stockage des conteneurs en attente de collecte doit être aménagé sur le terrain
+  d’assiette de l’opération. Il devra être directement accessible par les agents de collecte,
+  en bordure de voirie. Aucun obstacle (mobilier urbain, bordures, stationnement,
+  végétation...), ne gênera le passage des agents manipulant les bacs. La zone permettant
+  le déplacement des bacs jusqu'au véhicule sera plane.
+
+  . Pour les commerces : 1m² minimum par tranche de 100 m². La surface pourra être
+  adaptée au type de commerces.
+
+  . Pour les bureaux : 1 m² minimum par tranche de 100 m² de surface de plancher.
+
+  Dans le cas d’opérations de plus de 10 logements (collectifs ou individuels groupés) qui ne
+  permettent pas la collecte au pied de chaque bâtiment, il pourra être exigé une aire de
+  présentation sur la parcelle, en bordure de voie. Si la collecte peut se faire bâtiment par
+  bâtiment au sein d’une même unité foncière, l’accès devra permettra le passage d'un
+  véhicule de collecte (26 t), sans aucune manœuvre ni marche arrière. Des tests de
+  giration pourront être effectués au besoin.
+
+
+  PLU VILLE DE TROYES – Modification n°9 – Approuvée le 03 avril 2025
+                                                                                       46
+  Règlement : pièces écrites - Règles applicables aux zones UAA
+  3.1.1 - Règles applicables aux zones UAA
+
+
+
+  2) Containers enterrés
+  Les locaux et espaces de stockage poubelles prévus à l’article E.1 pourront ne pas être
+  exigibles si des dispositifs enterrés se situent sur le domaine privé ou sur le domaine public
+  à proximité de l’opération. Une surface de local de 5 m² minimum sera toutefois
+  obligatoire notamment pour les encombrants. Cette surface sera portée à 10 m² pour les
+  collectifs de plus de 20 logements.
+  Pour les containers enterrés implantés sur le domaine privé, une surface spécifique,
+  identifiée pour les besoins de l’opération, devra être réservée en front de rue et
+  accessible par le service gestionnaire. Un accès piéton devra être prévu pour le service
+  chargé de la collecte en cas de résidentialisation de l’opération. En cas d’impossibilité
+  technique ou architecturale, d’autres dispositions d’implantation pourront être étudiées.
+
+
+ARTICLE UAA 5 : SUPERFICIE MINIMALE DES TERRAINS CONSTRUCTIBLES.
+  Non réglementé.
+
+
+ARTICLE UAA 6 : IMPLANTATION DES CONSTRUCTIONS PAR RAPPORT AUX VOIES PUBLIQUES OU
+PRIVEES OUVERTES A LA CIRCULATION ET EMPRISES PUBLIQUES.
+1) Sauf indication contraire portée au plan, les constructions seront implantées :
+      à l’alignement des voies d’accès publiques ou privées ou emprises publiques
+      à la limite des marges de recul lorsqu’elles sont indiquées sur le plan.
+2) Un recul pourra être autorisé ou imposé si le contexte urbain ou architectural de la voie ou
+   de la parcelle (exemple : bâtiment ou groupe de bâtiments implantés en retrait) le rend
+   acceptable ou nécessaire.
+3) Un recul pourra également être admis, sous réserve que le contexte urbain ou
+  architectural de la voie ou de la parcelle le rend acceptable ou nécessaire :
+      Pour les ouvrages de faible importance réalisés par une collectivité, un service public
+     ou leur concessionnaire dans un but d’intérêt général (WC, cabines téléphoniques,
+     poste de transformation, abri voyageur, pylône, antenne liée aux réseaux collectifs…).
+      Pour les extensions des constructions existantes, non implantées à l’alignement.
+      Pour les annexes aux constructions existantes (garage en fond de parcelle…).
+      Pour les constructions et les clôtures à édifier, jusqu’à 7 mètres des rives des cours
+     d’eau, pour assurer notamment leur accès, leur entretien et le maintien de l'ambiance
+     végétale.
+      Pour assurer la préservation des plantations, talus et boisements existants.
+4) Les projets de constructions devront prendre en compte les aménagements de l’espace
+   public existants et une marge de recul pourra être imposée.
+5) D’une façon générale, tout débord de construction en saillie sur le domaine public doit
+   s’intégrer à son environnement bâti et profiter à la qualité architecturale de la
+   construction.
+    Saillies à caractère ornemental :
+   L’empiétement par rapport à la limite d’emprise des saillies à caractère exclusivement
+   ornemental est autorisé (seuils, socles, soubassements, bandeaux, corniches, appuis,
+   encadrements, pilastres, nervures…).
+    Volumes habitables en encorbellement, balcons et surfaces non closes :
+
+
+  PLU VILLE DE TROYES – Modification n°9 – Approuvée le 03 avril 2025
+                                                                                         47
+  Règlement : pièces écrites - Règles applicables aux zones UAA
+  3.1.1 - Règles applicables aux zones UAA
+
+
+  Les volumes habitables, construits en encorbellement par rapport à la rue, sont prohibés.
+  Toutefois, cette règle peut faire l’objet d’adaptations pour permettre la réalisation
+  d’ouvrages d’architecture ponctuels ou rythmés lorsque le caractère des constructions
+  avoisinantes le justifie, sans que ceux-ci puissent être situés à moins de 3,50 mètres de
+  hauteur.
+  Dans ce cas, le porte-à-faux maximum de ces volumes habitables par rapport à la limite
+  d’emprise est limité à 0,80 mètre.
+
+ARTICLE UAA 7 : IMPLANTATION DES CONSTRUCTIONS PAR RAPPORT AUX LIMITES SEPARATIVES.
+1) Dans la bande des 25 mètres :
+  Les constructions devront être implantées soit :
+     en limite séparative
+     à 4 mètres minimum de la limite séparative. Dans ce cas, le bâtiment à édifier sera
+       prolongé par une clôture à l’alignement conforme aux dispositions de l’article 11 et
+       pouvant comporter un portail. Cette clôture assurera la continuité du front bâti.
+
+
+
+2) Au-delà de la bande de 25 mètres :
+Les constructions seront implantées :
+   à 4 mètres minimum des limites séparatives.
+   en limite séparative sous réserve du respect d’un gabarit défini par un plan vertical de 4
+  mètres en limite séparative poursuivi par un plan oblique à 45 °.
+
+
+
+
+3) Une marge de recul pourra être imposée pour assurer la préservation des plantations,
+   talus et boisements existants.
+4) La règle de recul de 4 mètres pourra ne pas être imposée pour les extensions de faible
+   surface (véranda sur escalier existant, …) et les alignements de façade de faible surface
+   sous réserve de ne pas porter atteinte à la mise en valeur des bâtiments ou à
+   l’organisation de la parcelle.
+
+
+
+
+  PLU VILLE DE TROYES – Modification n°9 – Approuvée le 03 avril 2025
+                                                                                        48
+  Règlement : pièces écrites - Règles applicables aux zones UAA
+  3.1.1 - Règles applicables aux zones UAA
+
+
+5) Dans tous les cas, la construction pourra être imposée sur l’une des limites séparatives s'il
+   s'agit de masquer ou habiller une façade ou un pignon aveugle de construction voisine
+   existante.
+
+
+ARTICLE UAA 8 : IMPLANTATION DES CONSTRUCTIONS LES UNES PAR RAPPORT AUX AUTRES SUR
+UNE MEME PROPRIETE.
+  Pour des motifs d'accessibilité ou d'éclairement minimal, un recul au moins égal à 4
+  mètres pourra être exigé entre deux constructions.
+
+
+ARTICLE UAA 9 : EMPRISE AU SOL DES CONSTRUCTIONS.
+1) Sous réserve des dispositions du Plan de Prévention des Risques d’Inondations, l’emprise au
+   sol maximale de l’ensemble des constructions de toute nature sur une même unité
+   foncière, est fixée comme suit :
+      Terrain de moins de 100 m² : non réglementé
+      Terrain de 100 m² à moins de 500 m² : 90%
+      Terrains de 500 à moins de 1000m² : 70% ;
+      Terrains à partir de 1000m² : 50% ; 70% d’emprise pour les activités de bureaux
+     implantées dans le croissant tertiaire.
+2) Dans les secteurs repérés au règlement graphique « Zones humides recensées » :
+      Les sous-sols sont interdits
+      L’emprise au sol cumulée de toutes les constructions ne peut dépasser 30% de la
+        surface de l’unité foncière.
+      70% de l’unité foncière doit maintenir une couverture végétale perméable
+3) Dans le périmètre du secteur « Pôle Gare » défini dans l’OAP n°1, il n’est pas fixé d’emprise
+   au sol dans les sous-secteurs SS1 et SS 2 sous réserve de justifier :
+      Soit de la création d’un parking souterrain sur la totalité de la surface. Les
+     stationnements pourront être mutualisés avec les autres occupations présentes dans le
+     quartier pour augmenter l’offre globale de stationnement ;
+      Soit de l’occupation du sous-sol réservée à une activité commerciale ou de service
+     (accès du public, stockage lié à l’activité...) sur la totalité de la surface.
+      Soit de disposer d’un terrain de moins de 1000 m² (car impossibilité de réaliser un sous-
+     sol techniquement et économiquement viable).
+4) Une emprise différenciée pourra être admise pour les constructions publiques avec des
+   espaces publics en accompagnement des constructions. Les auvents, marquises et autres
+   éléments d’encorbellement pourront être dispensés de la règle.
+5) Dans le cas de grands sites usiniers présentant un intérêt architectural attesté, une emprise
+   au sol différenciée pourra être autorisée pour permettre leur réhabilitation et les
+   éventuelles extensions ou reconstructions.
+6) Dans le cas de constructions mixant les usages, il sera pris en référence l’usage dominant.
+
+
+
+
+  PLU VILLE DE TROYES – Modification n°9 – Approuvée le 03 avril 2025
+                                                                                         49
+  Règlement : pièces écrites - Règles applicables aux zones UAA
+  3.1.1 - Règles applicables aux zones UAA
+
+
+ARTICLE UAA 10 : HAUTEUR DES CONSTRUCTIONS.
+1) Sous réserve de l’application des articles 6 et 7 du présent règlement, la hauteur des
+   constructions ne doit pas excéder les dimensions suivantes :
+
+                                            Bande de 25 mètres
+                                                                    Acrotère et autres
+                                                    Egout                                    Faîtage
+                                                                         toitures
+    dans le Bouchon de Champagne                    12 m                  14 m                   18 m
+    hors du Bouchon de                              12 m                  14 m                   18 m
+    Champagne
+                                         Hors bande de 25 mètres
+                   Egout                      Acrotère et autres toitures                Faîtage
+                    9m                                   11,5 m                           15 m
+
+  Lorsqu’un bâtiment existant ou à édifier se trouve dans les bandes de 25 mètres le long
+  des axes repérés dans l’orientation d’aménagement n°5, les hauteurs à respecter,
+  indiquées dans le tableau ci-dessus, pourront être augmentées de 20%, conformément
+  aux dispositions de cette orientation d’aménagement.
+  Cette majoration de 20% de la hauteur ne peut se cumuler avec d’autres dispositions
+  permettant une augmentation de la hauteur pour des motifs techniques ou
+  architecturaux.
+2) « Pour les sous-secteurs SS 1 et SS 2 définis dans l’Orientation d’Aménagement et de
+   Programmation n°1, la hauteur de façade sera de 23 mètres.
+  Règles spécifiques pour le SS 1 :
+  Afin d’articuler l’ordonnancement architectural des nouvelles constructions avec les
+  bâtiments limitrophes ou les plus proches :
+      Un retrait du (des) dernier(s) étage(s) sera imposé afin d’éviter une rupture d’échelle
+     de plus d’un niveau ou 3,5 mètres par rapport aux immeubles limitrophes (en limite
+     séparative).
+      Le retrait de l’attique (dernier niveau) devra respecter un plan oblique à 60° compté
+     à partir du point haut de la façade.
+      La hauteur minimum d’une construction ne pourra être inférieure à un niveau ou 3,5
+     mètres par rapport aux immeubles limitrophes ou les plus proches en front de rue.
+3) Une tolérance de plus ou moins 2 mètres peut être autorisée ou imposée suivant les
+   immeubles avoisinants, et pour des motifs d’urbanisme et d’architecture (alignement de
+   balcons, rattrapage de niveau…).
+4) Une hauteur différente pourra être autorisée pour se raccrocher aux constructions
+   existantes sur la parcelle ou les parcelles contiguës. Dans ce cas, la hauteur à l’égout et
+   au faîtage des parties aménagées, transformées ou nouvelles pourra atteindre la cote
+   d’altitude des constructions auxquelles il est fait référence, sans pouvoir les dépasser en
+   aucun cas.
+5) Dans la bande de 25 mètres, les hauteurs de la construction à l’égout, au faîtage ou à
+   l’acrotère pourront être augmentées de 0,75 m en cas de création de surfaces
+   commerciales en rez-de-chaussée ayant une hauteur de niveau de 3,50 m.
+
+
+
+
+  PLU VILLE DE TROYES – Modification n°9 – Approuvée le 03 avril 2025
+                                                                                                    50
+  Règlement : pièces écrites - Règles applicables aux zones UAA
+   3.1.1 - Règles applicables aux zones UAA
+
+
+6) Dans la bande de 25 mètres, les hauteurs de la construction à l’égout, au faîtage ou à
+   l’acrotère pourront être augmentées de 1,00 m en cas de réalisation d’un soubassement
+   avec rez-de-chaussée surélevé nécessité par des motifs d’architecture ou de confort.
+9) Les hauteurs à respecter pourront être dépassées dans le cadre de projets suscitant des
+   caractéristiques architecturales ou fonctionnelles spécifiques : maisons de retraite,
+   équipements sportifs…
+10) Il n’est pas fixé de hauteur maximale pour les ouvrages techniques, tels que poteaux,
+  antennes, candélabres…
+11) Les planchers bas du rez-de-chaussée devront être à une altitude inférieure à 1.50 m du
+  sol naturel, mesuré au point le plus déterré de la construction.
+12) Les hauteurs des niveaux en façade inférieurs à 2,65 m pourront être interdites.
+
+
+ARTICLE UAA 11 : ASPECT EXTERIEUR DES CONSTRUCTIONS.
+   Les constructions, bâtiments et ouvrages à édifier ou à modifier, ne doivent pas porter
+   atteinte au caractère ou à l’intérêt des lieux avoisinants, aux sites, aux paysages naturels
+   ou urbains, ainsi qu’à la conservation des perspectives monumentales, du fait de leur
+   situation, de leur architecture, de leur dimension ou de leur aspect extérieur. Les
+   constructions doivent présenter une simplicité de volume, une unité d’aspect et de
+   matériaux compatibles avec la bonne économie de la construction, la tenue générale
+   de l’agglomération et l’harmonie du paysage.
+   Lorsqu’un projet vise la réhabilitation d’un bâtiment industriel pour y aménager des
+   logements, la qualité architecturale du bâti devra être attestée. Le cas échéant, le
+   changement de destination pourra être interdit.
+   Dans le cas d’extension de construction existante, l’intégration au volume principal sera
+   recherchée et l’unité architecturale préservée. Ces annexes pourront dans ce cas
+   comporter une toiture à un seul pan. Des prescriptions particulières pourront être
+   imposées :
+       maintien des pentes de toitures,
+       maintien des modénatures, chaînages d’angle, entourage des ouvertures…
+A - Façades et pignons :
+   Les détails architecturaux des façades tels que bandeau, niche, corniche, ferronnerie,
+   élément de décor, modénatures, présentant une qualité esthétique ou participant à un
+   intérêt patrimonial doivent être conservés et, le cas échéant, restaurés en cas de travaux
+   sur une construction existante.
+   Les murs pignons aveugles sont interdits en façade de rue et sur les accès au terrain.
+   Les murs pignons en limite séparative devront recevoir un traitement adapté (animation,
+   composition architecturale…).
+B - Toitures :
+   Les toitures seront à deux ou plusieurs pans.
+   La pente des couvertures sera de 32° au minimum.
+   Elle sera similaire à celle des constructions anciennes environnantes. Toutefois, dans le cas
+   d'une construction dont l'architecture se prêterait à l'adaptation d'un toit terrasse, un
+   terrasson, à une pente ou tout autre type de toiture, il pourra être fait abstraction des
+   pentes de couvertures sous réserve que le bâtiment s'intègre avec le tissu environnant.
+
+
+   PLU VILLE DE TROYES – Modification n°9 – Approuvée le 03 avril 2025
+                                                                                         51
+   Règlement : pièces écrites - Règles applicables aux zones UAA
+  3.1.1 - Règles applicables aux zones UAA
+
+
+  Les toitures-terrasses pourront être autorisées dans le cadre d’une expression
+  architecturale contemporaine et dans la mesure où elles ne portent pas atteinte au
+  caractère ou à l’intérêt des lieux avoisinants.
+  Les toitures-terrasses des maisons individuelles ou d’habitat individuel groupé :
+     seront végétalisées sur une surface de 50% minimum dès lors que leur superficie est
+    supérieure à 40 m².
+     devront comporter des pans dès lors que leur superficie est supérieure à 200 m².
+  Les bâtiments ou équipements collectifs devant offrir une certaine monumentalité
+  peuvent présenter des volumes de toiture différents et employer d’autres matériaux de
+  couverture dès lors que l’architecture générale ne s’inscrit pas en rupture ou en contraste
+  excessif avec l’environnement bâti.
+  Les faux brisis obtenus par un habillage d'ardoise ou autre sur la façade de la construction
+  est interdit.
+C - Ouvertures en toiture : (Voir article DC8)
+
+
+D - Capteurs solaires, panneaux photovoltaïques ou tout autre dispositif d’utilisation de
+  l’énergie solaire… :
+  Les dispositifs d’utilisation de l’énergie solaire (capteurs solaires, panneaux
+  photovoltaïques…), peuvent être autorisés sous réserve de ne pas porter atteinte, par leur
+  nombre, leur proportion ou leur implantation, à la qualité de l’aspect visuel de la toiture
+  ou à sa valeur architecturale.
+  Ainsi, Leur implantation doit être étudiée :
+  - en cohérence avec l’architecture des constructions
+  - en tenant compte des cheminées, des éléments techniques et des ouvertures de toit
+  déjà existantes ou en projet afin d’éviter une composition incohérente de la toiture.
+  Dans le cas d’une toiture à pans, les panneaux solaires et photovoltaïques devront
+  s’inscrire dans la pente du toit (orientation, inclinaison). L’ensemble des panneaux solaires
+  et photovoltaïques devront constituer une forme géométrique simple (carré ou un
+  rectangle).
+  Les réservoirs des chauffe-eau solaires seront dissociés des capteurs et posés soit en
+  intérieur, soit dans les cours ou jardins, bâtiments annexes…
+
+  Les règles ne sont pas applicables pour :
+  - les équipements d’intérêt collectif et services publics
+  - pergolas, vérandas et ombrières photovoltaïques
+
+
+E - Matériaux et couleurs.
+  Les tons des murs et de toute menuiserie et boiserie devront s’harmoniser entre eux et
+  avec le paysage bâti ou naturel environnant.
+  Lorsque le contexte urbain le justifie, l’usage du bois, de la brique ou de tout autre
+  matériau notamment la pierre, pourra être imposé dans la façade de la construction à
+  réaliser.
+
+
+
+  PLU VILLE DE TROYES – Modification n°9 – Approuvée le 03 avril 2025
+                                                                                        52
+  Règlement : pièces écrites - Règles applicables aux zones UAA
+  3.1.1 - Règles applicables aux zones UAA
+
+
+  Les murs pignons doivent être constitués de matériaux homogènes ou s’harmoniser avec
+  les façades principales.
+  Les appareillages de matériaux dessinés ou peints sont interdits.
+  Les matériaux de couverture devront respecter l’aspect et la teinte de ceux utilisés dans
+  l’environnement immédiat. Les couvertures en matériaux brillants, tôle ondulée, papier
+  goudronné, fibrociment (etc…) seront interdites.
+  Les matériaux ne présentant pas un aspect suffisant de finition (parpaings, briques
+  creuses…) doivent être enduits.
+  Les constructions réalisées en matériaux de fortune sont interdites.
+F - Les accessoires techniques :
+  Les climatiseurs, bouches d’aération, ventouses de chaudières, conduits de fumées,
+  extracteurs, boites à lettres… ne doivent pas être en saillie sur la façade mais dissimulés.
+  Les cuves de stockage, antennes, machineries d'ascenseurs et stockages divers
+  (matériaux…) ne doivent pas porter atteinte au caractère urbain environnant. Des
+  prescriptions pourront être imposées pour améliorer leur insertion dans le site urbain et
+  dans le bâtiment (teinte adaptée, nouvelle implantation…). Les coffrets techniques
+  (électricité, gaz…) seront intégrés dans la façade de la construction ou dans le mur
+  clôture et dissimulés.
+G - Volets roulants
+  Les coffres des volets roulants seront intégrés dans la maçonnerie ou installés en intérieur.
+  Ils doivent être invisibles depuis l’extérieur. Leur usage pourra être interdit.
+  Le volet déroulé devra se trouver au plus près de la fenêtre.
+  En cas de rénovation et d’impossibilité technique ou architecturale, le coffre pourra se
+  trouver au nu de la façade sans débord par rapport à celle-ci. Il sera alors habillé et
+  masqué dans le ton de la façade ou masqué derrière un lambrequin.
+H - Clôtures. (Voir également article DC8)
+1) Clôtures en façade de rue : elles prendront la forme soit :
+      d’une grille (avec ou sans mur bahut)
+      d’une haie végétale avec mur bahut
+      d’un grillage (avec ou sans mur bahut)
+      d’un mur plein constitué des matériaux suivants ou de leur combinaison : bois,
+     parpaings (ou autres matériaux) enduits, briques rouges, tuiles, pierre.
+      d’une haie composée d’essences locales
+  Les clôtures seront d’une hauteur maximale de 2,00 mètres.
+  Les murs bahuts seront d’une hauteur de 0,60 mètre maximum.
+2) Clôtures en limites séparatives :
+  Sont admises en limites séparatives
+      grille (avec ou sans mur bahut)
+      haie végétale avec mur bahut
+      grillage (avec ou sans mur bahut)
+      mur plein constitué des matériaux suivants ou de leur combinaison : bois, parpaings
+     (ou autres matériaux) enduits, briques rouges, tuiles, pierre.
+      haie composée d’essences locales.
+
+
+  PLU VILLE DE TROYES – Modification n°9 – Approuvée le 03 avril 2025
+                                                                                         53
+  Règlement : pièces écrites - Règles applicables aux zones UAA
+  3.1.1 - Règles applicables aux zones UAA
+
+
+  Les clôtures seront d’une hauteur maximale de 2,00 mètres.
+3) Les prescriptions de hauteur des clôtures sur voie ou en limite séparative pourront être
+   dépassées pour des motifs liés à des réglementations spécifiques (sport, sécurité des
+   établissements ou des activités, protection des personnes).
+I - Equipements d’infrastructure.
+  Les équipements d’infrastructure tel que des transformateurs, ne devront pas avoir un
+  effet d’opposition avec le site dans lequel ils s’insèrent.
+J - Equipements artisanaux, commerciaux et de service :
+  Lorsque le bâtiment à construire a pour objet l’installation d’un équipement commercial
+  ou artisanal, un travail de composition architecturale devra être mené.
+  Les prescriptions suivantes devront être respectées :
+  • Volumétrie :
+      Il sera recherché une volumétrie simple, transcrivant la vocation « activités ».
+      Il sera privilégié une construction avec toiture terrasse ou en shed.
+      Les parties « bureaux » devront être intégrées au volume de la construction.
+      Les stationnements longs, les stockages ou entreposages devront être non visibles
+     depuis l’espace public.
+  • Couleurs :
+      Les effets de bariolages sont interdits.
+      L’usage de la couleur unique rappelant l'enseigne est interdit.
+      La couleur générale du bâtiment devra rester en cohérence avec l’environnement
+     bâti et le contexte urbain. A défaut, la palette des gris devra être utilisée.
+
+ARTICLE UAA 12 : OBLIGATION EN MATIERE DE REALISATION D’AIRES DE STATIONNEMENT
+
+  12.1 - Stationnement des véhicules automobiles :
+  • Habitat
+      Habitat individuel :
+         1 place / logement
+      Habitat collectif :
+         Studio, T1 : 1place / logement
+         T2, T3 : 1,3 place / logement
+         T4, T5 et plus : 1,5 place / logement
+      Habitat financé par un prêt aidé par l’Etat :
+         1 place / logement
+  Dans le périmètre de l’OAP n°1, 1 place pour un logement sera exigée.
+  • Hébergement hôtelier :
+      0,5 place / chambre
+      Dans le périmètre du croissant tertiaire, aucune place ne sera exigée lorsque le projet
+     de construction se situe dans un périmètre de moins de 100 mètres d’une station du
+     réseau de transport en commun de l’Agglomération Troyenne.
+  • Bureaux :
+      1 place par tranche de 60m² de surface de plancher
+
+
+
+
+  PLU VILLE DE TROYES – Modification n°9 – Approuvée le 03 avril 2025
+                                                                                       54
+  Règlement : pièces écrites - Règles applicables aux zones UAA
+3.1.1 - Règles applicables aux zones UAA
+
+
+    1 place par tranche de 90m² de surface de plancher dans le périmètre du croissant
+   tertiaire
+ « 1 place pour 120 m² de surface de plancher dans le périmètre dans le périmètre du
+croissant tertiaire lorsque le projet de construction se situe dans un périmètre de moins de
+100 mètres d’une station du réseau de transport en commun de l’Agglomération
+Troyenne.
+• Commerce :
+    Surface réservée à la vente < 100 m² : aucune place exigée
+    Surface réservée à la vente > 100 m² : surface de stationnement équivalente à 50% de
+   la surface de plancher
+    Restaurants :
+       Surface de salle de restaurant < 100 m² : aucune place.
+       Surface de salle de restaurant > 100 m² : 1 place par tranche de 10 m² de surface
+      de salle de restaurant (les 100 premiers m² n’étant pas pris en compte).
+    Hôtels-Restaurants : 1 place pour 2 chambres.
+    Commerce et restaurant : Dans le périmètre du croissant tertiaire, aucune place ne
+   sera exigée lorsque le projet de construction se situe dans un périmètre de moins de
+   100 mètres d’une station du réseau de transport en commun de l’Agglomération
+   Troyenne.
+• Artisanat :
+    1 place / 100 m² de surface de plancher et 1 place / 60 m² de surface de plancher
+   de locaux administratifs.
+• Industrie :
+    1 place / 100 m² de surface de plancher et 1 place / 60 m² de surface de plancher
+   de locaux administratifs.
+• Entrepôt :
+    1 place / 200 m² de surface de plancher et 1 place / 60 m² de surface de plancher
+   de locaux administratifs.
+• Construction et installation nécessaire au service public ou d’intérêt collectif :
+    L’obligation en matière de stationnement sera à déterminer en fonction de la
+   capacité d’accueil et des possibilités de stationnement public offertes à proximité
+   directe.
+    Etablissements scolaires :
+       1er et 2nd degré : 1,5 place par classe
+       Supérieur : 1 place pour 6 personnes (étudiants + personnels administratif).
+    Foyers, centres d’hébergement, maisons de retraite, résidences séniors ou étudiantes
+   avec services :
+       0,3 place par chambre.
+
+       0,2 place pour un logement dans les sous-secteurs SS 1 et SS 2.
+
+12.2 - Stationnement des vélos et deux-roues :
+Chaque opération à vocation d’habitat et d’activités devra prévoir un local sécurisé ou
+un emplacement couvert et doté de dispositifs fixes, affecté aux deux roues et
+spécialement aménagé à cet effet. Il devra être accessible facilement depuis l'emprise
+publique ou la voie.
+
+
+PLU VILLE DE TROYES – Modification n°9 – Approuvée le 03 avril 2025
+                                                                                       55
+Règlement : pièces écrites - Règles applicables aux zones UAA
+3.1.1 - Règles applicables aux zones UAA
+
+
+La superficie totale des locaux et/ou emplacements couverts, pour une opération, pourra
+être limitée à 100 m².
+Les emplacements couverts ne doivent pas représenter plus de 50% de la totalité des
+besoins en stationnement dédiés aux deux roues.
+Les locaux deux-roues seront situés de manière préférentielle en rez-de-chaussée de la
+construction, ou à défaut en 1er niveau de sous-sol.
+En cas de localisation en 1er niveau de sous-sol, ils seront situés dans le volume imparti au
+stationnement des véhicules.
+Ils seront sécurisés et équipés (points d’ancrages…).
+Cette surface devra être répartie entre les différents blocs ou entrées communes de
+logements. Dans ce cas, la surface de chaque local pourra être limitée à 30 m² par bloc
+ou entrée commune de logement.
+• Habitat
+   Habitat collectif : 1,5 m² pour un emplacement vélo
+       ➢ Pour un T1/T2 : 1 place vélo
+       ➢ Pour un T3 et plus : 2 places vélo
+
+
+• Hébergement hôtelier :
+    1 m² pour 5 emplois sur le site.
+• Bureaux :
+    1 m² pour 60 m² de surface de plancher
+    1 place par tranche de 90m² de surface de plancher dans le périmètre du croissant
+   tertiaire.
+• Commerce :
+    1 m² pour 5 emplois sur le site.
+• Industrie :
+    1 m² pour 100 m² de surface de plancher.
+• Construction et installation nécessaire au service public ou d’intérêt collectif :
+    L’obligation en matière de stationnement sera à déterminer en fonction de la
+   capacité d’accueil et des possibilités de stationnement public offertes à proximité
+   directe.
+    Résidences universitaires : 1 m² par chambre.
+    Etablissements scolaires : 1 m² pour 8 élèves.
+    Foyers, centres d’hébergement, maisons de retraite, résidences avec services : 1 m²
+   pour 5 emplois sur le site.
+
+
+
+
+PLU VILLE DE TROYES – Modification n°9 – Approuvée le 03 avril 2025
+                                                                                      56
+Règlement : pièces écrites - Règles applicables aux zones UAA
+  3.1.1 - Règles applicables aux zones UAA
+
+
+ARTICLE UAA 13 : ESPACES LIBRES ET PLANTATIONS
+1) Les surfaces libres de toute construction et les aires de stationnement seront aménagées
+   et plantées de végétaux adaptés à l’environnement. (Voir article DC10.4)
+  Un arbre de haute tige au minimum doit être planté pour 200 m² d’espaces libres.
+2) les jardins identifiés au document graphique seront protégés. (Voir article DC12)
+3) La conservation des plantations et des talus existants ou leur remplacement pourra être
+   exigé.
+4) L’espace laisser libre entre la clôture et les rives des cours d’eau devra être régulièrement
+   entretenu. Un portillon ou portail pourra permettre l’accès sur cette partie du terrain.
+   Aucun dépôt de déchets verts, carcasses ou déchets de toutes natures (gravats) ne
+   pourra être autorisé.
+5) « Pour les îlots denses ne disposant plus d’espaces de pleine terre, des aménagements
+   qualitatifs et durables seront proposés (pavés, pierre, bois…) en surface ».
+
+
+ARTICLE UAA 14 : COEFFICIENT D’OCCUPATION DU SOL
+  Non réglementé
+
+
+
+
+  PLU VILLE DE TROYES – Modification n°9 – Approuvée le 03 avril 2025
+                                                                                         57
+  Règlement : pièces écrites - Règles applicables aux zones UAA
+                    TerrenUrbanisme
+
+    Merci de votre confiance
+Ce rapport a été établi à partir des sources publiques officielles pour vous
+  aider à décider en connaissance de cause. Pour toute question, nous
+                        restons à votre disposition.
+
+
+
+
+   Vous êtes professionnel ? Travaillons ensemble
+      Agents immobiliers, notaires, architectes, géomètres, diagnostiqueurs,
+promoteurs, mairies : faisons équipe. Crédits professionnels sans abonnement, 5
+€ le rapport dès 50 crédits, votre logo sur les rapports, offre communale pour les
+                       mairies et partenariats sur mesure.
+
+               Écrivez-nous : contact@terrenurbanisme.com
+
+
+
+
+                        terrenurbanisme.com
+                         contact@terrenurbanisme.com
+

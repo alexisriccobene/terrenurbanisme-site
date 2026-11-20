@@ -1,0 +1,3291 @@
+                  TerrenUrbanisme
+                  Le terrain constructible, partout en France
+
+
+
+
+RAPPORT D'URBANISME
+
+
+
+Saint-Étienne
+Section NT · Parcelle n° 55
+      Constructible
+
+
+
+
+Référence cadastrale                                                        Surface cadastrale
+42218000NT0055                                                              7 013 m²
+
+Rapport établi le                                                           Référence du rapport
+20/11/2026                                                                  APERCU
+
+
+
+
+terrenurbanisme.com                                                                      contact@terrenurbanisme.com
+
+Document d'information sans valeur contractuelle ni réglementaire. Il ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme
+et ne peut en aucun cas être joint à une demande de permis de construire ou de déclaration préalable. Seuls les actes de l'administration font foi.
+                                                                                                                           Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                                                   Sommaire
+
+
+
+
+Sommaire
+Le rapport suit l'ordre d'une étude de terrain : où se trouve la parcelle, ce que dit la règle, ce qui pèse sur le
+projet, puis les démarches.
+
+              Synthèse
+   S                                                                                                                                       p. 3
+              Le verdict, les indicateurs clés et les points d'attention en une page.
+
+              Identification de la parcelle
+   01                                                                                                                                      p. 4
+              Localisation, surface, références cadastrales et voisinage du terrain.
+
+              Règles d'urbanisme applicables
+  02                                                                                                                                       p. 7
+              Document d'urbanisme, zone du terrain, prescriptions et servitudes.
+
+              Ce que vous pouvez construire
+  03                                                                                                                                     p. 10
+              Surface constructible, hauteur, reculs, aspect et usages autorisés.
+
+              Loi Littoral et loi Montagne
+  04                                                                                                                                     p. 16
+              Les lois qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+              Risques naturels et technologiques
+  05                                                                                                                                      p. 17
+              Inondation, feu de forêt, argiles, catastrophes naturelles et sites pollués.
+
+              Le terrain : accès, relief et réseaux
+  06                                                                                                                                     p. 20
+              Accès, pente, ensoleillement, eaux usées, électricité, eau et fibre.
+
+              Environnement et marché immobilier
+  07                                                                                                                                     p. 26
+              Espaces naturels, espèces protégées et ventes immobilières alentour.
+
+              Historique du site
+  08                                                                                                                                     p. 29
+              Le terrain vu du ciel au fil des années et les permis accordés autour.
+
+              Opportunités autour du terrain
+  09                                                                                                                                     p. 31
+              Grands terrains peu bâtis et logements énergivores à proximité.
+
+              Votre projet, étape par étape
+   10                                                                                                                                    p. 32
+              De l'achat aux impôts : démarches, délais, coûts, contacts et taxe.
+
+              État des risques (ERP) pré-rempli
+   11                                                                                                                                    p. 37
+              Le formulaire réglementaire à remettre à l'acquéreur, pré-rempli.
+
+              Avertissement et sources
+   12                                                                                                                                    p. 39
+              La portée de ce rapport et les sources publiques consultées.
+
+              Annexe : règlement de la zone
+   A                                                                                                                                     p. 42
+              Les pages officielles du règlement de la zone, telles qu'approuvées.
+
+
+
+
+Astuce : cliquez sur un chapitre pour y accéder directement.
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                     2 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                                                           Synthèse
+
+
+
+
+Synthèse
+     Document d'information. Ce rapport ne vaut ni certificat d'urbanisme ni autorisation d'urbanisme,
+     n'engage pas l'administration et ne peut pas servir de pièce à une demande de permis de construire.
+     L'appréciation ci-dessous est indicative : seule la mairie se prononce sur la constructibilité d'un terrain,
+     au vu d'un projet précis.
+
+
+
+
+       CONSTRUCTIBLE
+
+       Le PLU autorise la construction
+       La parcelle est classée en zone UFc (urbaine) du plan local d'urbanisme de Saint-Étienne.
+       Les constructions y sont admises dans le respect du règlement de la zone.
+
+
+
+
+      Zone principale                                        Document d'urbanisme                                  Loi Littoral
+
+   UFc · 100 %                                            PLU                                                    Ne s'applique pas
+
+
+
+
+      Loi Montagne                                           Risques à la parcelle
+
+   S'applique                                             Inondation · Séisme (+2)
+
+
+
+
+Points d'attention
+    Zone UFc (100 % de la parcelle) : constructible.
+    Logement : le règlement de la zone UFc n'admet pas de logement neuf, sauf exceptions prévues par
+    la zone (logement de gardiennage, par exemple) : voir le chapitre « Ce que vous pouvez construire ».
+    Retrait-gonflement des argiles (exposition moyenne) : en cas de vente d'un terrain non bâti
+    constructible, le vendeur doit fournir une étude géotechnique préalable (loi ELAN, article L. 132-5 du
+    Code de la construction et de l'habitation) ; une étude géotechnique de conception est exigée avant
+    de construire.
+    Installations industrielles (ICPE) : concerné à l'adresse de la parcelle (voir le chapitre « Risques
+    naturels et technologiques »).
+    Pollution des sols : concerné à l'adresse de la parcelle (voir le chapitre « Risques naturels et
+    technologiques »).
+    Risque minier : concerné à l'adresse de la parcelle (voir le chapitre « Risques naturels et
+    technologiques »).
+    21 arrêtés de catastrophe naturelle sur la commune.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            3 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+    01             Identification de la parcelle
+     DANS CETTE SECTION
+
+     Où se trouve le terrain, sa surface, ses références cadastrales, son propriétaire lorsqu'il s'agit
+     d'une société ou d'une collectivité, et la performance énergétique du bâti existant.
+
+
+Données du cadastre (DGFiP) et de l'IGN.
+
+
+     Plan de situation
+
+
+
+
+                                                                                                                            1 km
+
+
+
+Plan IGN · © IGN
+
+
+
+     Vue aérienne et plan cadastral
+
+
+
+
+                                                                                                                                     100 m
+
+
+
+Photographie aérienne et plan cadastral · © IGN
+
+
+Commune                                                  Saint-Étienne (42218)
+
+Département                                              Loire (42)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             4 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+Section et numéro                                        Section NT, parcelle n° 55, feuille 1
+
+Identifiant cadastral                                    42218000NT0055
+
+Surface cadastrale                                       7 013 m²
+
+Surface calculée (SIG)                                   7 007 m² · périmètre 446 m
+
+Coordonnées du centre                                    45.42363 N, 4.36742 E (WGS 84)
+
+Altitude                                                 de 635 à 649 m
+
+Pente estimée                                            13 % (pente modérée)
+
+Parcelles voisines                                       NT 15
+
+
+Le plan cadastral est un document fiscal : il ne fait pas foi des limites de propriété. Seul un bornage réalisé par un
+géomètre-expert fixe les limites de manière certaine.
+
+
+1.1 Propriétaire et voisinage
+     La parcelle appartient à une personne morale : PETIT BATIMENT (SCI) · SIREN 431318625. Le gérant ou
+     le représentant légal se retrouve à partir du numéro SIREN sur annuaire-entreprises.data.gouv.fr.
+
+
+
+Parcelles voisines détenues par des sociétés ou des collectivités
+  PARCELLE              PROPRIÉTAIRE                                                                     SURFACE            SIREN
+
+  NT 15                 BEAL MALACUSSY (SCI)                                                             6 041 m²           378954366
+
+
+
+Principaux propriétaires personnes morales dans un rayon de 280 m
+  PROPRIÉTAIRE                                                              PARCELLES             SURFACE TOTALE            SIREN
+
+  COMMUNE DE SAINT ETIENNE (COM)                                            5                     28 140 m²                 214202186
+
+  AES FRANCE IMMOBILIER (SAS)                                               10                    15 196 m²                 814590212
+
+  HUVEPHARMA SA (SA)                                                        2                     13 014 m²                 350019261
+
+  JAMD (SCI)                                                                2                     12 595 m²                 838268621
+
+  ASSOCIATION CHRETIENNE DES FRERES DE                                      2                     9 376 m²                  –
+  PLYMOUTH A SAINT ETIENN (ASS)
+
+  NIZAM (SCI)                                                               8                     7 716 m²                  489483917
+
+  SCI REBOUL (SCI)                                                          4                     5 808 m²                  437645369
+
+  SCI VSR DU SOLEIL COUCHANT (SCI)                                          5                     4 741 m²                  441139433
+
+
+
+Source : fichiers des parcelles des personnes morales (DGFiP) : sociétés, SCI, collectivités, établissements publics et associations.
+Les propriétaires personnes physiques n'y figurent pas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           5 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                                   01 · Identification de la parcelle
+
+
+
+
+1.2 La commune de Saint-Étienne
+Code postal                                              42000, 42100, 42230
+
+Département                                              Loire (42)
+
+Intercommunalité                                         Saint-Étienne Métropole
+
+Population                                               173 136 habitants
+
+Superficie                                               80,03 km²
+
+Densité                                                  2 163 habitants par km²
+
+Commune littorale                                        Non
+
+Commune de montagne                                      Oui : la loi Montagne s'applique
+
+Document d'urbanisme                                     Plan local d'urbanisme (PLU)
+
+Risques sur la commune                                   21 arrêtés de catastrophe naturelle · détail en section Risques et en
+                                                         annexe
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           6 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+    02             Règles d'urbanisme applicables
+     DANS CETTE SECTION
+
+     Le document d'urbanisme de la commune, la zone dans laquelle se trouve le terrain, et les
+     prescriptions et servitudes qui s'y ajoutent.
+
+
+Géoportail de l'Urbanisme : zonage, prescriptions et servitudes.
+
+
+
+2.1 Document d'urbanisme en vigueur
+Type de document                                         Plan local d'urbanisme (PLU)
+
+Date d'approbation                                       Non renseigné
+
+Statut                                                   Publié au Géoportail de l'Urbanisme
+
+Règlement officiel                                       Ouvrir le document officiel (PDF)
+
+
+
+     Plan de zonage du PLU
+
+
+
+
+                                                                             UFc
+
+
+
+
+                                                                                                                                 100 m
+
+
+
+Zonage : Géoportail de l'Urbanisme · fond : © IGN
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       7 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.2 Zonage de la parcelle
+  ZONE                  DÉSIGNATION                                                         PART               CONSTRUCTIBILITÉ
+
+  UFc                   Accueil des activités                                               100 %              Constructible
+                        économiques\Commerce de Gros et activités
+                        de logistique de transport
+
+
+
+Zone UFc · Urbaine
+Zone urbaine : secteur déjà urbanisé où les équipements publics existants ou en cours de réalisation
+permettent d'accueillir des constructions. Les constructions y sont admises dans le respect du règlement de la
+zone (destinations, implantation, hauteur, emprise, aspect).
+
+
+2.3 Prescriptions applicables à la parcelle
+  PRESCRIPTION                                                                                       TYPE
+
+  Marge de recul                                                                                     Prescription du PLU (type 15)
+
+
+
+
+2.4 Informations complémentaires du PLU
+  INFORMATION                                                                                        TYPE
+
+  Schéma distribution eau potable                                                                    Information du PLU (type 19)
+
+  Classement sonore des voies                                                                        Information du PLU (type 14)
+
+  Zonage d'assainissement                                                                            Information du PLU (type 19)
+
+  Droit de préemption urbain simple                                                                  Information du PLU (type 04)
+
+  Taxe d'aménagement                                                                                 Information du PLU (type 32)
+
+
+
+
+2.5 Servitudes d'utilité publique
+  CODE               SERVITUDE                                                                    DÉTAIL
+
+  I4                 Ligne électrique                                                             I4 444619258 JACQUL61RIVIE ass
+
+  PM1                Plan de prévention des risques naturels (PPRN)                               PM1 StEtienne hors StVictor ass
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         8 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                            02 · Règles d'urbanisme applicables
+
+
+
+
+2.6 Patrimoine : l'architecte des Bâtiments de France
+Aucun site patrimonial remarquable, site classé ou inscrit, ni monument historique à moins de 500 m n'est
+recensé : l'avis de l'architecte des Bâtiments de France n'est pas requis au titre du patrimoine.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       9 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    03             Ce que vous pouvez construire
+     DANS CETTE SECTION
+
+     La lecture du règlement de votre zone : surface constructible estimée, hauteur, reculs, aspect,
+     usages autorisés ou interdits, avec les extraits du texte officiel.
+
+
+Lecture du règlement écrit de la zone UFc, pages 99 à 113 du règlement officiel.
+
+
+
+3.1 Potentiel constructible estimé
+     Le règlement de la zone UFc n'admet pas de construction nouvelle à usage de logement. Seules restent
+     possibles les constructions expressément admises par la zone et les évolutions encadrées des
+     constructions existantes : extension limitée à 35 % de l'emprise existante.
+
+
+
+Constructions admises dans la zone :
+
+    Activités de production industrielle et artisanale (vocation générale de la zone UF)
+    Commerce de gros (secteur UFc)
+    Activités de logistique de transport (secteur UFc)
+    Vente de détail des productions de l'activité implantée sur le tènement
+
+
+3.2 Caractère de la zone
+La zone UF a pour vocation générale l'accueil des activités économiques (production industrielle et
+artisanale). Le secteur UFc admet, en plus des activités traditionnelles de la zone UF, le commerce de
+gros et les activités de logistique de transport. Le commerce de détail y est interdit, sauf la vente des
+productions de l'activité implantée sur le tènement. Les équipements collectifs y sont limités aux secours
+et à la sécurité.
+
+
+3.3 Règles de construction
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Surface minimale ou                          Non réglementé                                                                   art. UF 5
+  caractéristiques du terrain
+
+  Accès et voirie                              Renvoi au Titre II : un seul accès véhicule par fonds sauf                       art. UF 3 et
+                                               nécessité reconnue ; accès adaptés, sans gêne à la circulation                   Titre II art. 3.1
+                                               et permettant l'intervention des secours ; départ des rampes
+                                               d'accès de pente égale ou supérieure à 10 % placé à 5 m de la
+                                               limite des voies en zone UF ; aires de livraison hors voie
+                                               publique pour les activités de plus de 500 m² de surface de
+                                               plancher.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         10 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Réseaux et assainissement                    Raccordement obligatoire au réseau public d'eau potable et au                    art. UF 4 et
+                                               réseau public d'assainissement pour toute construction                           Titre II art. 4
+                                               nouvelle. Réseaux de type séparatif. Rejet des eaux usées
+                                               d'activité subordonné à autorisation de l'autorité compétente.
+                                               Eaux pluviales : dispositif de rétention pour toute création ou
+                                               modification de surface imperméabilisée (opérations de plus
+                                               de 1000 m² de tènement ou plus de 400 m² imperméabilisés,
+                                               parkings de plus de 10 places), pluie de référence trentennale
+                                               en ville, débit de fuite de 15 l/s/ha au maximum (réductible à 10
+                                               ou 5 l/s/ha). Puits d'infiltration interdits sauf étude
+                                               géotechnique. Réseaux secs enterrés lorsque le réseau public
+                                               l'est.
+
+  Implantation par rapport                     Façades implantées à 5 mètres minimum de l'alignement des                        art. UF 6.1, 6.4
+  aux voies                                    voies existantes, modifiées ou à créer. Marge supérieure                         et 6.5
+                                               possible pour les activités à risques ou gênes exceptionnels.
+                                               Peuvent être admis dans la marge : éléments architecturaux
+                                               améliorant les constructions existantes, installations
+                                               techniques nécessitant un accès direct, constructions
+                                               nouvelles ne pouvant respecter le recul à cause du relief. Si un
+                                               trait de marge de recul figure au plan, recul au moins égal à
+                                               cette marge. Extensions de bâtiments existants non conformes
+                                               : 35 % de surface de plancher ou 15 % d'emprise au sol.
+
+  Implantation par rapport                     Retrait minimal de 5 mètres. Si la parcelle voisine est en zone                  art. UF 7.1
+  aux limites séparatives                      UF, 1AU/UF ou 2AU/UF : façades à 5 m minimum, ou en limite
+                                               avec mesures anti-propagation d'incendie (murs coupe-feu
+                                               deux heures sur toute la hauteur et largeur). Si la parcelle
+                                               voisine est dans une autre zone : 10 m minimum. Dans les deux
+                                               cas, hors implantation en limite, H <= 2D avec D >= 5 m.
+
+  Implantation des                             Implantation permettant de préserver l'ensoleillement des                        art. UF 8.1
+  constructions entre elles                    constructions voisines ; une distance d'au moins 4 mètres peut
+                                               être imposée entre deux bâtiments non contigus.
+
+  Emprise au sol                               Coefficient d'emprise au sol de 0,7 au maximum.                                  art. UF 9.1
+
+  Hauteur maximale                             En l'absence de prescription graphique, hauteur maximale de                      art. UF 10.1.2,
+                                               19 mètres au faîte, superstructures techniques exclues.                          10.3 et 10.4
+                                               Aucune hauteur maximale indiquée au plan des hauteurs pour
+                                               UFc dans le règlement écrit (le plan concerne le Technopole, la
+                                               ZA Couriot et Pont de l'Ane - Monthieu). Hauteur à compléter
+                                               par la règle de prospect de l'article 7 (H <= 2D). Dispense pour
+                                               les ouvrages techniques d'intérêt général et les ouvrages
+                                               électriques.
+
+  Aspect extérieur et toitures                 La construction ne doit pas porter atteinte au caractère de la                   art. UF 11.1
+                                               zone, aux lieux avoisinants, aux sites, aux paysages et aux
+                                               perspectives monumentales. Toitures traitées avec soin,
+                                               couverture d'aspect mat. Soin particulier pour l'intégration des
+                                               superstructures, antennes, équipements et édicules
+                                               techniques.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          11 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+  CRITÈRE                                      RÈGLE APPLICABLE                                                                 ARTICLE
+
+  Matériaux et couleurs                        Matériaux dont la présentation est de qualité ; emploi à nu de                   art. UF 11.1
+                                               matériaux destinés à être recouverts (moellon, parpaing)
+                                               interdit. Pas de palette de couleurs précisée pour ce secteur.
+
+  Clôtures                                     Hauteur maximale de 2 m à partir du terrain naturel, pouvant                     art. UF 11.2
+                                               être modulée à la baisse si elles sont à moins de 4 m des
+                                               ouvertures des constructions voisines. Clôtures de plus de 2 m
+                                               possibles ou imposées pour nécessités techniques, de sécurité
+                                               ou paysagères.
+
+  Stationnement                                Places sur le terrain de l'opération ou dans son environnement                   art. UF 12
+                                               immédiat, hors voies publiques. Entrepôts : 1 place pour 300 m²
+                                               de surface de plancher ; autres activités industrielles et
+                                               artisanales : 1 place pour 100 m² de surface de plancher ;
+                                               activités tertiaires : 1 place pour 50 m² (maximum 1 place pour
+                                               80 m² dans l'aire d'influence du tramway) ; hôtels : 1 place pour
+                                               30 m² ; restaurants : 1 place pour 50 m² à partir de 100 m² ;
+                                               commerces : sans exigence jusqu'à 100 m² de surface de
+                                               vente, 1 place par tranche de 50 m² de 100 à 500 m², 1 place
+                                               pour 20 m² à partir de 500 m² ; habitat : 1 place pour 70 m² de
+                                               surface de plancher (maximum une place par logement).
+                                               Surfaces de manœuvre, chargement, déchargement et
+                                               stationnement des visiteurs, livraisons et services. Vélos : local
+                                               de 5 m² minimum au-delà de 250 m² de surface de plancher
+                                               (activité ou commerce), plus 1,5 m² par tranche de 150 m².
+
+  Espaces verts et plantations                 Espaces plantés et jardinés : 20 % minimum du tènement                           art. UF 13.1
+                                               construit. Marges de recul plantées et jardinées. Terrain en
+                                               pleine terre non construit ou non aménagé en accès ou
+                                               stationnement planté d'arbres à haute tige. Aires de
+                                               stationnement plantées d'arbres à haute tige : 1 arbre pour 4
+                                               places (première grandeur), 3 places (seconde grandeur) ou 2
+                                               places (troisième grandeur). Arbres à haute tige conservés ou
+                                               remplacés. Plan masse précisant les plantations.
+
+  Densité ou coefficient                       Pas de coefficient d'occupation des sols ; seul le coefficient                   art. UF 9.1
+                                               d'emprise au sol de 0,7 s'applique.
+
+
+
+
+3.4 Usages autorisés
+    Activités de production industrielle et artisanale (vocation générale de la zone UF)
+    Commerce de gros (secteur UFc)
+    Activités de logistique de transport (secteur UFc)
+    Vente de détail des productions de l'activité implantée sur le tènement
+    Équipements collectifs relevant des secours ou de la sécurité
+    Constructions à usage d'habitation destinées à loger les personnes dont la présence permanente est
+    nécessaire à la direction, la surveillance, le gardiennage ou le fonctionnement des établissements
+    Constructions liées à l'horticulture
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          12 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    Hébergement hôtelier, services immatériels, cafés et restaurants uniquement dans les cas où ils sont
+    nécessaires au fonctionnement de la zone (restauration collective pour les restaurants)
+    Affouillements et exhaussements liés à des constructions ou aménagements compatibles avec la vocation
+    de la zone ou nécessaires aux équipements d'infrastructure
+    Ouvrages de transport d'énergie (art. DG 10), dès lors que leur nécessité est démontrée
+
+
+3.5 Usages interdits ou soumis à conditions
+    Interdit : habitation non destinée au gardiennage, à la direction, à la surveillance ou au fonctionnement des
+    établissements (art. UF 1.1.1)
+    Interdit : constructions agricoles, hors horticulture (art. UF 1.1.2)
+    Interdit : camping et caravaning, installation de caravane plus de trois mois par an, résidence mobile (art.
+    UF 1.1.3)
+    Interdit : hébergement hôtelier non nécessaire au fonctionnement de la zone (art. UF 1.2.1)
+    Interdit : services immatériels non nécessaires au fonctionnement de la zone (art. UF 1.3)
+    Interdit : cafés et restaurants, sauf ceux dédiés à la restauration collective (art. UF 1.4.1)
+    Interdit en UFc : commerce de détail, sauf vente des productions de l'activité implantée sur le tènement
+    (art. UF 1.7.1)
+    Interdit en UFc : équipements collectifs ne relevant pas des secours ou de la sécurité (art. UF 1.7.2)
+    Conditionné : constructions compatibles avec les infrastructures existantes (voiries, assainissement), dès
+    leur ouverture ou à terme (art. UF 2.1.1)
+    Conditionné : extension des habitations existantes limitée à 35 % de la surface de plancher initiale si elle
+    crée de la surface de plancher, ou à 15 % de l'emprise au sol initiale si elle n'en crée pas (art. UF 2.4.1)
+    Conditionné : secteurs indicés « i » et « s », soumis au plan de prévention des risques d'inondation (art. UF
+    2.8), si la parcelle est concernée
+    Dans un Site Patrimonial Remarquable, le règlement du SPR s'applique en complément (art. UF 1.16 et 2.7)
+
+
+3.6 Points de vigilance pour votre projet
+    Vérifier que l'activité projetée relève bien de l'industrie, de l'artisanat, du commerce de gros ou de la
+    logistique de transport : le commerce de détail est interdit, sauf vente des productions de l'activité sur
+    place.
+    Aucune habitation nouvelle n'est admise, sauf logement de gardiennage ou de fonctionnement des
+    établissements.
+    Retrait de 10 m si la parcelle voisine n'est pas en zone UF (ou 1AU/UF, 2AU/UF) ; 5 m dans le cas contraire,
+    avec la règle H <= 2D.
+    Contrôler sur le plan de zonage la présence d'éventuels traits de marge de recul, polygones, alignements,
+    emplacements réservés ou espaces boisés classés.
+    Vérifier les risques : inondation (secteurs indicés « i » ou « s », PPRNPI), inondation par eaux pluviales,
+    risques miniers, tunnels ferroviaires, canalisations de gaz haute pression (art. DG 6).
+    Contrôler un éventuel Site Patrimonial Remarquable : règles du SPR applicables en complément ; la
+    hauteur la plus basse s'applique.
+    Compatibilité obligatoire avec les orientations particulières d'aménagement de secteur.
+    Gestion des eaux pluviales : rétention exigée au-delà de 1000 m² de tènement ou 400 m² imperméabilisés ;
+    débit de fuite de 15 l/s/ha maximum.
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       13 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+    Les aires de livraison des activités de plus de 500 m² de surface de plancher doivent être hors voie
+    publique.
+    Les règles de stationnement s'appliquent aussi aux aménagements de bâtiments existants, avec
+    dérogation possible pour les extensions limitées.
+
+
+3.7 Extraits du règlement
+
+     art. UF 1.7.1 · page 101
+     « Les constructions à usage de commerce de détail, exceptées celles destinées à la vente des
+     productions de l'activité implantée sur le tènement. »
+
+
+     art. UF 6.1.1 · page 104
+     « Les façades des constructions doivent être implantées à 5 mètres minimum de l'alignement des voies
+     existantes, modifiées ou à créer. »
+
+
+     art. UF 7.1.2 · page 105
+     « les constructions doivent être implantées à 10 mètres au minimum des limites séparatives. »
+
+
+     art. UF 9.1 · page 107
+     « Le coefficient d'emprise au sol pour les constructions est de 0,7 »
+
+
+     art. UF 10.1.2 · page 107
+     « La hauteur maximale (H) des constructions au faîte hors superstructure technique est de 19 mètres. »
+
+
+     art. UF 13.1.6 · page 111
+     « Les espaces plantés et jardinés doivent correspondre à 20 % minimum du tènement construit. »
+
+
+
+3.8 Démarches probables
+    Permis de construire pour toute construction nouvelle ou extension importante
+    Déclaration préalable pour les travaux de faible importance, les clôtures et les changements de façade
+    Consultation du plan de zonage, des plans annexés et des orientations particulières d'aménagement de
+    secteur
+    Dossier de gestion des eaux pluviales et demande de raccordement aux réseaux d'eau potable et
+    d'assainissement (autorisation de rejet pour les eaux usées d'activité)
+    Autorisation au titre des installations classées (ICPE) le cas échéant
+    Dossier d'accessibilité et de sécurité pour les établissements recevant du public ; autorisation
+    d'exploitation commerciale pour les surfaces de détail de plus de 300 m² (art. DG 7)
+    Saisine des services concernés (GRTgaz, SNCF, après-mine) en cas de risque ; archéologie préventive
+    selon les cas
+    Plan détaillé du stationnement et plan masse paysager à joindre au dossier
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       14 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                              03 · Ce que vous pouvez construire
+
+
+
+
+     Cette lecture est établie automatiquement, par intelligence artificielle, à partir du règlement officiel en
+     vigueur. Elle peut comporter des imprécisions : seul le texte du règlement, reproduit en annexe (pages
+     99 à 113 du document approuvé), fait foi, avec les dispositions générales, les orientations
+     d'aménagement et les servitudes.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       15 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                                    04 · Loi Littoral et loi Montagne
+
+
+
+
+   04              Loi Littoral et loi Montagne
+     DANS CETTE SECTION
+
+     Les lois nationales qui s'ajoutent au document d'urbanisme sur le littoral et en montagne. Elles
+     peuvent rendre un terrain inconstructible même en zone constructible.
+
+
+Les lois d'aménagement qui s'ajoutent au document d'urbanisme sur le littoral et en montagne.
+
+
+
+4.1 Loi Littoral
+Commune littorale                                        Non
+
+Distance au rivage                                       Sans objet
+
+Bande des 100 mètres                                     Sans objet
+
+
+La commune n'est pas riveraine de la mer : la loi Littoral ne s'applique pas (sauf rives de grands lacs).
+
+
+4.2 Loi Montagne
+Commune en zone de montagne                              Oui
+
+
+En zone de montagne, l'urbanisation doit se réaliser en continuité avec les bourgs, villages, hameaux et
+groupes de constructions traditionnelles existants. Les terres nécessaires aux activités agricoles, pastorales
+et forestières sont préservées. Sur une commune à la fois littorale et de montagne, les deux lois s'appliquent
+cumulativement, la règle la plus protectrice prévalant.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          16 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                            Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+   05              Risques naturels et technologiques
+     DANS CETTE SECTION
+
+     Les risques connus à l'adresse du terrain (inondation, feu de forêt, mouvement de terrain,
+     radon…) et les catastrophes naturelles reconnues sur la commune.
+
+
+Base nationale Géorisques (ministère de la Transition écologique).
+
+
+
+5.1 Risques naturels à l'adresse de la parcelle
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Inondation                                      Existant                                        Existant
+
+  Remontée de nappe                               Non connu                                       Existant
+
+  Séisme                                          Existant – faible                               Existant – faible
+
+  Mouvement de terrain                            Inconnu                                         Existant
+
+  Retrait-gonflement des                          Existant – modéré                               Existant – modéré
+  argiles
+
+  Feu de forêt                                    Non connu                                       Existant
+
+  Radon                                           Existant – important                            Existant – important
+
+
+
+
+5.2 Risques technologiques
+  RISQUE                                          À LA PARCELLE                                   SUR LA COMMUNE
+
+  Installations industrielles                     Concerné                                        Concerné
+  (ICPE)
+
+  Canalisations de matières                       Non concerné                                    Concerné
+  dangereuses
+
+  Pollution des sols                              Concerné                                        Concerné
+
+  Rupture de barrage                              Inconnu                                         Concerné
+
+  Risque minier                                   Existant                                        Existant
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      17 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Saint-Étienne · NT 55
+          TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+5.3 Indicateurs réglementaires
+Zone de sismicité                                        Zone 2 – faible
+
+Potentiel radon                                          Catégorie 3 (potentiel significatif)
+
+Retrait-gonflement des argiles                           Existant – modéré
+
+Plans de prévention (PPR)                                Atlas des zones inondables du Furan
+
+
+
+5.4 Arrêtés de catastrophe naturelle
+21 arrêtés de reconnaissance de l'état de catastrophe naturelle concernent la commune.
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Sécheresse                                                                01/07/2023 au 30/09/2023                       02/07/2024
+
+  Inondations et/ou Coulées de Boue                                         17/08/2022                                     25/08/2022
+
+  Sécheresse                                                                01/04/2022 au 30/09/2022                       02/07/2024
+
+  Inondations et/ou Coulées de Boue                                         01/07/2019                                     16/11/2019
+
+  Sécheresse                                                                01/01/2019 au 30/06/2019                       10/07/2020
+
+  Inondations et/ou Coulées de Boue                                         02/07/2009                                     21/10/2009
+
+  Inondations et/ou Coulées de Boue                                         01/11/2008 au 02/11/2008                       31/12/2008
+
+  Inondations et/ou Coulées de Boue                                         01/12/2003 au 02/12/2003                       13/12/2003
+
+  Inondations et/ou Coulées de Boue                                         23/08/2002                                     09/03/2003
+
+  Inondations et/ou Coulées de Boue                                         23/08/1994                                     24/11/1994
+
+  Inondations et/ou Coulées de Boue                                         05/07/1993 au 06/07/1993                       03/12/1993
+
+  Inondations et/ou Coulées de Boue                                         25/04/1986 au 02/05/1986                       20/08/1986
+
+  Inondations et/ou Coulées de Boue                                         06/06/1985                                     18/10/1985
+
+  Grêle                                                                     22/07/1983 au 23/07/1983                       11/09/1983
+
+  Tempête                                                                   22/07/1983 au 23/07/1983                       11/09/1983
+
+  Inondations et/ou Coulées de Boue                                         22/07/1983 au 23/07/1983                       11/09/1983
+
+  Glissement de Terrain                                                     01/05/1983 au 31/05/1983                       24/06/1983
+
+  Inondations et/ou Coulées de Boue                                         01/05/1983 au 31/05/1983                       24/06/1983
+
+  Poids de la Neige                                                         26/11/1982 au 28/11/1982                       22/12/1982
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         18 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                       05 · Risques naturels et technologiques
+
+
+
+
+  ÉVÉNEMENT                                                                 PÉRIODE                                        JOURNAL OFFICIEL
+
+  Inondations et/ou Coulées de Boue                                         06/11/1982 au 10/11/1982                       19/11/1982
+
+  Tempête                                                                   06/11/1982 au 10/11/1982                       19/11/1982
+
+
+
+
+5.5 Installations classées à proximité (moins de 1 km)
+    ACB SA · Non ICPE
+    HUVEPHARMA SA · Autorisation · Seveso seuil bas · En exploitation avec titre
+    HOULES INDUSTRIE · Autres régimes
+    SOPREBA · Enregistrement · En exploitation avec titre
+    S.P.A. DE SAINT ETIENNE · Enregistrement · En exploitation avec titre
+    Association Les Ateliers Soudés · Non ICPE
+
+
+5.6 Sites et sols pollués à proximité
+    Cokerie et usine de récupération de sous-produits · ancien site industriel ou d'activité de service (CASIAS)
+    Cokerie près du "Puits Montmartre" · ancien site industriel ou d'activité de service (CASIAS)
+    Carrosserie et garage · ancien site industriel ou d'activité de service (CASIAS)
+    Fabrication et stockage de produits chimiques · ancien site industriel ou d'activité de service (CASIAS)
+    Fabrication et stockage de produits chimiques · ancien site industriel ou d'activité de service (CASIAS)
+    Production de cartes électroniques · ancien site industriel ou d'activité de service (CASIAS)
+    Concessionnaire chauffagiste · ancien site industriel ou d'activité de service (CASIAS)
+    Station service · ancien site industriel ou d'activité de service (CASIAS)
+    2 anciens sites industriels ou d'activités de service (CASIAS) recensés
+    1 site pollué en cours d'instruction recensé
+
+
+5.7 Rapport officiel Géorisques
+Les risques recensés ci-dessus proviennent des bases officielles de Géorisques, service public d'information
+sur les risques. Le rapport officiel complet peut être édité gratuitement, à tout moment et à jour, à partir de
+l'adresse du terrain sur le site Géorisques.
+
+
+    Éditer le rapport officiel Géorisques
+
+
+Lors d'une vente ou d'une location, le vendeur ou le bailleur doit remettre un état des risques de moins de six mois,
+complété et signé, et l'information sur les sinistres indemnisés au titre des catastrophes naturelles.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         19 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+   06              Le terrain : accès, relief et réseaux
+     DANS CETTE SECTION
+
+     Les contraintes physiques du terrain : accès à une voie, pente et exposition, assainissement,
+     raccordement à l'électricité et à l'eau, fibre. Ce sont elles qui pèsent le plus sur le coût d'un
+     projet.
+
+
+Voirie (IGN, BD TOPO), altimétrie (IGN, RGE ALTI), règlement de la zone, réseau électrique (Agence ORE) et éligibilité
+internet (Arcep).
+
+
+
+6.1 Accès
+Accès direct à une voie                                  Oui
+
+Voie                                                     Route à 2 chaussées · Rue Agricol Perdiguier
+
+Largeur de chaussée                                      4m
+
+Accès des véhicules                                      Libre
+
+
+La parcelle touche une voie carrossable. L'autorisation d'urbanisme vérifiera que l'accès est adapté au projet et sûr,
+et peut imposer une permission de voirie ou un aménagement de l'entrée.
+
+
+6.2 Relief et exposition
+Pente moyenne                                            10 %
+
+Exposition                                               Versant orienté nord-ouest
+
+Altitude                                                 635 à 649 m
+
+Appréciation                                             Pente modérée
+
+
+
+
+ 653 m
+
+
+
+
+ 630 m
+
+
+           Coupe du terrain dans le sens de la pente · longueur 211 m
+
+
+     Implantation courante ; terrassements et soutènements légers à prévoir.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       20 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Saint-Étienne · NT 55
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+6.3 Ensoleillement
+Appréciation                                             Très bien ensoleillé
+
+Soleil direct le 21 juin                                 14 h 30 (de 07 h 00 à 21 h 20)
+
+Soleil direct aux équinoxes                              11 h 12 (de 07 h 30 à 18 h 30)
+
+Soleil direct le 21 décembre                             7 h 30 (de 09 h 00 à 16 h 20)
+
+Ensoleillement annuel possible                           4 102 h par an, soit 93 % du maximum à cette latitude
+
+Hauteur du relief vers le sud                            4°
+
+
+ 75°
+
+
+
+ 60°
+
+
+
+ 45°
+
+
+
+ 30°
+
+
+
+ 15°
+
+
+
+ 0°
+                                Est                  Sud-est                    Sud                 Sud-ouest               Ouest
+
+          21 juin          Équinoxes               21 décembre                 Horizon : relief et bâtiments voisins
+
+
+
+       Le relief et les constructions voisines ne masquent presque pas le soleil : le terrain profite de la
+       quasi-totalité de l'ensoleillement possible à cette latitude.
+
+
+
+Ensoleillement mois par mois (le 21 de chaque mois)
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Janvier                         9 h 12                             8 h 12                                    09 h 00 – 17 h 00
+
+  Février                         10 h 42                            10 h                                      08 h 10 – 18 h 00
+
+  Mars                            12 h 12                            11 h 12                                   07 h 30 – 18 h 30
+
+  Avril                           13 h 42                            13 h                                      07 h 40 – 20 h 30
+
+  Mai                             14 h 48                            14 h 12                                   07 h 00 – 21 h 00
+
+  Juin                            15 h 30                            14 h 30                                   07 h 00 – 21 h 20
+
+  Juillet                         15 h                               14 h 12                                   07 h 10 – 21 h 10
+
+  Août                            13 h 42                            12 h 48                                   07 h 50 – 20 h 30
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             21 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+  MOIS                            SOLEIL POSSIBLE                    SOLEIL SUR LE TERRAIN                     PREMIER ET DERNIER RAYON
+
+  Septembre                       12 h                               11 h 12                                   08 h 20 – 19 h 20
+
+  Octobre                         10 h 30                            9 h 48                                    08 h 40 – 18 h 20
+
+  Novembre                        9 h 12                             8 h 12                                    08 h 30 – 16 h 30
+
+  Décembre                        8 h 30                             7 h 30                                    09 h 00 – 16 h 20
+
+
+
+Calcul théorique par ciel dégagé, au centre de la parcelle et à hauteur d'homme : course du soleil heure par heure, masque du relief
+sur 6 km (IGN, RGE ALTI) et des bâtiments voisins sur 120 m (IGN, BD TOPO, 11 bâtiments pris en compte). La végétation et les
+constructions récentes ne sont pas prises en compte.
+
+
+6.4 Quel raccordement pour les eaux usées ?
+Raccordement à prévoir                                       Tout-à-l'égout très probable
+
+Zone du PLU                                                  UFc · Urbaine
+
+Zonage d'assainissement                                      Zonage d'assainissement
+
+Réseau collectif sur la commune                              Oui · SAINT-ETIENNE METROPOLE · régie publique
+
+
+     Le terrain est en zone urbaine (UFc) et la commune dispose d'un réseau public d'assainissement
+     collectif. Dans ces zones, le réseau passe en général dans la voie et le règlement impose le
+     raccordement lorsqu'il existe. À confirmer par le service d'assainissement pour ce terrain précis.
+
+
+
+Ce que dit le règlement de la zone
+Raccordement obligatoire de toute construction nouvelle au réseau public d'assainissement, en réseau de type
+séparatif (art. 4.2 et 4.2.1.3 du Titre II). Rejet des eaux usées dans le réseau d'eaux pluviales interdit ; évacuation
+d'eaux usées non traitées dans les rivières et fossés interdite ; rejet d'eaux usées d'activité subordonné à une
+autorisation de l'autorité compétente. Pour une construction existante non raccordée, une étude pédologique est
+fortement recommandée en cas d'adaptation de l'assainissement non collectif.
+
+Le règlement admet un assainissement individuel uniquement là où le réseau public n'existe pas : cette mention ne signifie
+pas que le terrain n'est pas desservi.
+
+Ce que cela coûte
+Raccordement au tout-à-l'égout : branchement sous la voie réalisé par le service d'assainissement (souvent 1 500 à
+5 000 € selon la distance), canalisation sur le terrain jusqu'à la maison, et participation pour le financement de
+l'assainissement collectif (PFAC) fixée par la commune ou l'intercommunalité, généralement de 1 000 à 5 000 €. Le
+service remet un devis à partir du plan de situation.
+
+Qui contacter pour obtenir la confirmation
+Service d'assainissement                                     SAINT-ETIENNE METROPOLE
+
+Mairie                                                       Mairie de Saint-Étienne
+
+Téléphone                                                    04 77 48 77 48
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            22 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+E-mail                                                       courriermairie@saint-etienne.fr
+
+
+    Demandez au service d'assainissement, avec la référence cadastrale, si une canalisation publique passe au droit
+    du terrain, à quelle profondeur, et le montant de la PFAC. Sa réponse écrite vaut attestation de raccordabilité.
+    Certificat d'urbanisme opérationnel (formulaire Cerfa 13410, gratuit) : la mairie y indique officiellement si le
+    terrain est desservi par le réseau d'assainissement.
+    Plan des réseaux : la présence des canalisations enterrées près du terrain peut être vérifiée sur
+    reseaux-et-canalisations.gouv.fr, le guichet unique des réseaux.
+Sources : zonage d'assainissement et règlement (Géoportail de l'Urbanisme) ; services publics d'assainissement (SISPEA, Office
+français de la biodiversité) ; annuaire de l'administration (service-public.fr).
+
+Si le réseau public n'était finalement pas accessible
+  FILIÈRE                                    QUAND ELLE CONVIENT                                                           ORDRE DE PRIX
+
+  Fosse toutes eaux et                       Sol perméable, terrain assez grand et peu pentu                               5 000 à 10 000 €
+  épandage
+
+  Filtre à sable                             Sol peu perméable, place suffisante                                           8 000 à 12 000 €
+
+  Micro-station agréée                       Petit terrain ou sol défavorable ; entretien et électricité                   7 000 à 15 000 €
+
+  Filtre compact agréé                       Petit terrain, sans électricité                                               9 000 à 14 000 €
+
+
+
+Ordres de prix indicatifs (fourniture et pose, hors étude de sol et terrassements particuliers). La filière est choisie au vu de l'étude
+de sol et validée par le SPANC.
+
+
+6.5 Électricité et eau potable
+Gestionnaire du réseau                                       Enedis
+
+Réseau basse tension le plus proche                          à environ 15 m (ligne aérienne)
+
+Ligne aérienne la plus proche                                à environ 15 m
+
+Ligne souterraine la plus proche                             à environ 45 m
+
+Poste de transformation le plus proche                       à environ 140 m
+
+Appréciation                                                 Branchement simple probable
+
+
+     Le réseau basse tension passe à environ 15 m : un branchement simple est en principe possible (de
+     l'ordre de 1 500 à 3 000 € pour une maison, selon la longueur et la puissance), sous réserve de la
+     capacité du réseau et des coffrets existants.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            23 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                              Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+Ce qu'il faut vérifier avant d'acheter
+    La capacité du réseau : même un réseau proche peut être saturé (coffret ou câble plein, poste de transformation
+    au maximum). Seule une étude du gestionnaire permet de le savoir ; c'est la cause la plus fréquente de surcoûts
+    imprévus.
+    Électricité : demander au gestionnaire du réseau une étude de raccordement ou un devis à partir de l'adresse et
+    du plan de situation (gratuit). Elle indique le type de raccordement, son coût et son délai.
+    Eau potable : les plans du réseau d'eau ne sont pas publics. Interroger le service des eaux (coordonnées
+    ci-dessous) sur la présence d'une canalisation au droit du terrain, sa capacité et le coût du branchement, ainsi
+    que sur la défense incendie (borne à moins de 200 m environ).
+    Certificat d'urbanisme opérationnel : la mairie y indique si le terrain est desservi par les réseaux publics (eau,
+    électricité, assainissement) et, à défaut, si et quand ils seront étendus. Un refus de permis peut être fondé sur
+    l'insuffisance des réseaux (article L. 111-11 du Code de l'urbanisme).
+
+Qui contacter
+Service de l'eau potable                                     SAINT-ETIENNE METROPOLE
+
+Mode de gestion                                              Délégation de service public à SAUR
+
+Contact pour le branchement                                  SAUR, pour le compte de : SAINT-ETIENNE METROPOLE
+
+Mairie                                                       Mairie de Saint-Étienne
+
+Téléphone de la mairie                                       04 77 48 77 48
+
+E-mail de la mairie                                          courriermairie@saint-etienne.fr
+
+Électricité (raccordement)                                   Enedis · demande en ligne sur enedis.fr (raccordement)
+
+La mairie oriente vers le bon interlocuteur et confirme, dans le certificat d'urbanisme, la desserte du terrain par les réseaux.
+Sources : SISPEA, observatoire des services publics d'eau (OFB) ; annuaire de l'administration (service-public.fr).
+
+Dans une promesse de vente, une condition suspensive portant sur le coût du raccordement aux réseaux protège
+l'acquéreur. Source de la cartographie électrique : Agence ORE, données des gestionnaires de réseaux de distribution ;
+tracés indicatifs.
+
+
+6.6 Fibre et internet
+     Le terrain est déjà fibré : 1 adresse située sur la parcelle (18 rue agricol perdiguier) est déclarée
+     raccordable à la fibre.
+
+
+
+Adresse la plus proche                                          18 rue agricol perdiguier · à 32 m · raccordable
+
+Point fibré le plus proche                                      18 rue agricol perdiguier · à 32 m
+
+Adresses fibrées à moins de 100 m                               5 sur 5
+
+Adresses fibrées à moins de 400 m                               45 sur 45
+
+Technologies disponibles à proximité                            4G fixe, Cuivre (ADSL, VDSL), Fibre, Satellite
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                       24 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                  Saint-Étienne · NT 55
+          TerrenUrbanisme
+                                                                                                        06 · Le terrain : accès, relief et réseaux
+
+
+
+
+Vérifiez la fibre à l'adresse du terrain :
+
+                     Carte fibre Orange                                                                  Carte de l'Arcep
+
+
+  DISTANCE           ADRESSE                                                                   FIBRE              AUTRES ACCÈS
+
+  32 m               18 rue agricol perdiguier                                                 Oui                4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+  46 m               13 Rue Agricol Perdiguier                                                 Oui                4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+  48 m               15 Rue Agricol Perdiguier                                                 Oui                4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+  80 m               17 Rue Agricol Perdiguier                                                 Oui                4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+  100 m              11 Rue Agricol Perdiguier                                                 Oui                4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+  118 m              6 rue agricol perdiguier                                                  Oui                4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+  122 m              23 Rue Agricol Perdiguier                                                 Oui                4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+  139 m              16 rue du père de thoisy                                                  Oui                4G fixe, Cuivre (ADSL, VDSL),
+                                                                                                                  Satellite
+
+
+
+Source : Arcep, « Ma connexion internet », éligibilité déclarée par les opérateurs, adresse par adresse. Le tracé des câbles n'est
+pas public : la présence de la fibre en limite de terrain se vérifie auprès de l'opérateur ou par une déclaration de projet de travaux
+(DT).
+
+
+6.7 Qui contacter pour les réseaux
+  RÉSEAU                                    INTERLOCUTEUR                                         CE QU'IL FAUT DEMANDER
+
+  Eau potable et                            Mairie ou service des eaux de la                      Attestation de desserte et conditions de
+  assainissement collectif                  commune                                               raccordement
+
+  Assainissement individuel                 SPANC (communauté de communes)                        Contrôle de conception sur la base de l'étude
+                                                                                                  de sol
+
+  Électricité                               Enedis (gestionnaire du réseau de                     Étude de raccordement et devis
+                                            distribution)
+
+  Fibre et téléphone                        Opérateur d'infrastructure et                         Raccordement du futur logement
+                                            fournisseur d'accès
+
+  Tous réseaux                              Guichet unique des réseaux                            Déclaration de projet de travaux (DT) pour
+                                            (reseaux-et-canalisations.gouv.fr)                    localiser les réseaux existants
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             25 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+    07             Environnement et marché immobilier
+     DANS CETTE SECTION
+
+     Les espaces naturels protégés autour du terrain et les prix de vente réels des maisons,
+     appartements et terrains alentour.
+
+
+Inventaire national du patrimoine naturel et demandes de valeurs foncières (DVF).
+
+
+
+7.1 Espaces naturels protégés ou inventoriés
+La parcelle n'est concernée par aucun site Natura 2000, ZNIEFF, parc ou réserve naturelle.
+
+
+7.2 Espèces protégées observées près du terrain
+15 espèces protégées ont été observées dans un rayon de 1 km autour du terrain depuis 1990 ; les 14 plus
+fréquemment signalées figurent ci-dessous.
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Mésange charbonnière (Parus major)                              Oiseau                 Nationale (espèce et              3 · dernière en
+                                                                                         habitat)                          2020
+
+  Grand épeiche (Dendrocopos major)                               Oiseau                 Nationale (espèce et              2 · dernière en 2021
+                                                                                         habitat)
+
+  Mésange bleue (Cyanistes caeruleus)                             Oiseau                 Nationale (espèce et              2 · dernière en 2019
+                                                                                         habitat)
+
+  Rouge-gorge familier (Erithacus                                 Oiseau                 Nationale (espèce et              2 · dernière en
+  rubecula)                                                                              habitat)                          2022
+
+  Carotte commune (Daucus carota)                                 Plante                 Nationale                         2 · dernière en 2015
+
+  Triton alpestre (Le) (Ichthyosaura                              Amphibien              Nationale                         1 · dernière en 2026
+  alpestris)
+
+  Mésange huppée (Lophophanes                                     Oiseau                 Nationale (espèce et              1 · dernière en 2020
+  cristatus)                                                                             habitat)
+
+  Serin cini (Serinus serinus)                                    Oiseau                 Nationale (espèce et              1 · dernière en 2021
+                                                                                         habitat)
+
+  Pinson des arbres (Fringilla coelebs)                           Oiseau                 Nationale (espèce et              1 · dernière en 2019
+                                                                                         habitat)
+
+  Chardonneret élégant (Carduelis                                 Oiseau                 Nationale (espèce et              1 · dernière en 2019
+  carduelis)                                                                             habitat)
+
+  Anémone Coronaire (Anemone                                      Plante                 Nationale                         1 · dernière en 2020
+  coronaria)
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        26 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                             Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+  ESPÈCE                                                          GROUPE                 PROTECTION                        OBSERVATIONS
+
+  Rouge-queue noir (Phoenicurus                                   Oiseau                 Nationale (espèce et              1 · dernière en 2024
+  ochruros)                                                                              habitat)
+
+  Chat-huant (Strix aluco)                                        Oiseau                 Nationale (espèce et              1 · dernière en 2021
+                                                                                         habitat)
+
+  Corneille noire (Corvus corone)                                 Oiseau                 Nationale (espèce et              1 · dernière en 2022
+                                                                                         habitat)
+
+
+
+     Une observation à proximité ne signifie pas que l'espèce vit sur le terrain. Mais si elle y est présente, il
+     est interdit de détruire, capturer ou déranger les individus et, pour la plupart de ces espèces, de
+     détruire leurs lieux de reproduction et de repos (articles L. 411-1 et suivants du Code de
+     l'environnement). L'infraction est punie de 3 ans d'emprisonnement et 150 000 € d'amende.
+
+
+
+Pour les plantes, la protection vise les populations sauvages : un spécimen planté dans un jardin n'est pas concerné.
+
+Que faire avant de construire ?
+    Pour une maison individuelle, aucune étude écologique n'est imposée en règle générale, et l'étude de sol porte
+    sur le terrain (fondations), pas sur la faune ni la flore. Vous restez cependant responsable si une espèce
+    protégée vit sur la parcelle : en cas de doute (espèce observée tout près, vieux arbres, murets, maquis, zone
+    humide), faites passer un écologue avant de défricher.
+    Si un enjeu est confirmé : inventaire faune-flore aux saisons utiles (printemps et été en général), puis mesures
+    pour éviter et réduire l'impact : implantation de la maison sur la partie la moins sensible, travaux hors période de
+    reproduction, clôture de chantier adaptée, déplacement d'individus par un spécialiste habilité.
+    Si la destruction d'individus ou d'habitats ne peut pas être évitée : demande de dérogation « espèces protégées »
+    auprès de la préfecture (DREAL), avec avis du conseil scientifique. Comptez 4 à 12 mois d'instruction, à anticiper
+    avant le dépôt du permis.
+Combien prévoir ?
+Pré-diagnostic écologique                                800 à 2 000 € (une visite et une note de synthèse)
+
+Inventaire faune-flore                                   3 000 à 10 000 € selon la surface et le nombre de passages
+
+Mesures d'évitement et de réduction                      500 à 5 000 € (balisage, calendrier, suivi de chantier)
+
+Dossier de dérogation                                    8 000 à 25 000 €, hors mesures de compensation éventuelles
+
+Ordres de prix indicatifs, honoraires de bureaux d'études en environnement, si une étude est nécessaire. Pour une maison sur un
+terrain déjà entouré de constructions, aucune étude n'est le plus souvent requise.
+
+Sources : statuts de protection TAXREF et base de connaissance des statuts (INPN, Muséum national d'Histoire naturelle) ;
+observations naturalistes GBIF, qui rassemble notamment les données de l'INPN et du SINP.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                      27 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                   Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                     07 · Environnement et marché immobilier
+
+
+
+
+7.3 Prix de l'immobilier à Saint-Étienne
+Prix au mètre carré des ventes enregistrées sur la commune au cours des cinq dernières années publiées.
+Seules les ventes portant sur un bien unique sont retenues.
+
+  TYPE DE BIEN                                       VENTES                       €/M² MÉDIAN                              €/M² MOYEN
+
+  Maisons                                            1 279                        2 172 €/m²                               2 224 €/m²
+
+  Appartements                                       13 818                       1 219 €/m²                               1 309 €/m²
+
+  Locaux commerciaux                                 1 611                        950 €/m²                                 1 830 €/m²
+
+
+
+Source : statistiques des demandes de valeurs foncières (DGFiP, Etalab). Prix des actes, hors frais : un ordre de grandeur,
+pas une estimation du bien.
+
+
+7.4 Ventes de terrains autour de la parcelle
+Période observée                                         2021 à 2026
+
+Ventes de terrains recensées                             8
+
+Prix médian                                              149 €/m²
+
+Prix courants (une vente sur deux)                       67 à 343 €/m²
+
+
+  DATE                    PARCELLE                           NATURE                               SURFACE              PRIX              €/M²
+
+  03/06/2026              NO 170                             sols                                 335 m²               50 000 €          149
+
+  16/01/2026              NO 141                             landes                               554 m²               18 954 €          34
+
+  08/10/2025              NT 69                              terrains à bâtir                     100 m²               140 000 €         1 400
+
+  24/07/2025              AO 68                              terrains à bâtir                     539 m²               2 620 200 €       4 861
+
+  26/07/2024              AO 68                              terrains à bâtir                     539 m²               185 000 €         343
+
+  11/07/2022              MS 157 (+3)                        terrains à bâtir, sols,              1 435 m²             57 400 €          40
+                                                             landes
+
+  06/04/2022              MS 234                             sols                                 100 m²               6 700 €           67
+
+  21/12/2021              MS 232                             sols                                 510 m²               35 000 €          69
+
+
+
+Source : DVF, ventes enregistrées par la DGFiP. Les prix au mètre carré dépendent fortement de la constructibilité, de la
+vue, de l'accès et de la viabilisation : ils donnent un ordre de grandeur, pas une estimation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                            28 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                    Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                                                08 · Historique du site
+
+
+
+
+   08              Historique du site
+     DANS CETTE SECTION
+
+     Le terrain vu du ciel au fil des décennies et les permis de construire accordés autour : l'évolution
+     du secteur en un coup d'œil.
+
+
+Photographies aériennes de l'IGN et permis de construire délivrés (Sitadel).
+
+
+
+8.1 Le terrain vu du ciel, d'hier à aujourd'hui
+
+    1950-1965                                             2000-2005                                              2006-2010
+
+
+
+
+    2011-2015                                             Aujourd'hui
+
+
+
+
+Ces vues montrent l'évolution du terrain et du quartier, des années 1950 à aujourd'hui (photographies aériennes de l'IGN).
+
+     Bon à savoir : l'existence ancienne d'une construction peut ouvrir, sous conditions, un droit à
+     reconstruire ou à restaurer un bâtiment dont il reste l'essentiel des murs porteurs (articles L. 111-15 et L.
+     111-23 du Code de l'urbanisme).
+
+
+
+
+8.2 Permis de construire délivrés autour du terrain
+Autorisations sur la commune (3 ans)                                    224 · dernière recensée le 01/10/2026
+
+Logements autorisés (3 ans)                                             2 119
+
+Dont maisons individuelles                                              125
+
+Autorisations dans la section NT                                        1 depuis 2013
+
+
+  DATE                  AUTORISATION                           PARCELLE           LOGTS          SURFACE CRÉÉE             LIEU-DIT / VOIE
+
+  07/12/2023            Permis de construire                   NT 62              3              273 m²                    LA CHAUMASSIERE
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                             29 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                                             08 · Historique du site
+
+
+
+
+Permis accordés à moins de 500 m du terrain
+  DATE                 AUTORISATION                       PARCELLE          DISTANCE         LOGTS        SURFACE          LIEU-DIT / VOIE
+
+  22/12/2016           Permis de construire               NV 69             220 m            1            42 m²            RUE VICTORIN
+                                                                                                                           DELAUZUN
+
+
+
+1 autorisation créant des logements recensée dans un rayon de 500 m : la construction a été admise récemment
+dans le voisinage immédiat.
+
+Source : base Sitadel des autorisations d'urbanisme créant des logements (SDES). Un permis accordé à proximité montre
+que des constructions ont été admises dans le secteur, sans préjuger de la décision sur votre propre projet.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          30 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                              09 · Opportunités autour du terrain
+
+
+
+
+   09              Opportunités autour du terrain
+     DANS CETTE SECTION
+
+     Ce qui se passe autour de la parcelle : grands terrains peu bâtis, sociétés propriétaires en
+     difficulté, logements énergivores. Des pistes pour un investisseur, un voisin ou un professionnel.
+
+
+Bodacc (procédures collectives), ADEME (diagnostics énergétiques), cadastre, BD TOPO et Géoportail de l'Urbanisme.
+
+
+
+9.1 Grands terrains peu bâtis à proximité
+Parcelles de plus de 1 200 m², situées en zone urbaine ou à urbaniser du PLU, dans un rayon de 250 m, dont
+moins de 8 % de la surface est bâtie, hors terrains publics : un potentiel de construction ou de division à
+étudier.
+
+  PARCELLE           SURFACE                BÂTI               ZONE               DISTANCE           PROPRIÉTAIRE
+
+  NW 49              13 049 m²              305 m²             UFc                340 m              particulier (non publié)
+
+  NP 92              6 556 m²               non bâti           UFc                360 m              particulier (non publié)
+
+  NP 112             6 012 m²               non bâti           UFe                300 m              particulier (non publié)
+
+  NV 51              5 847 m²               non bâti           UFc                170 m              ASSOCIATION CHRETIENNE DES FRERES
+                                                                                                     DE PLYMOUTH A SAINT ETIENN (ASS)
+
+  NP 69              3 934 m²               non bâti           UFc                190 m              AES FRANCE IMMOBILIER (SAS)
+
+  NT 23              3 565 m²               74 m²              UFc                270 m              OMERIN SAS (SAS)
+
+  NT 20              2 356 m²               non bâti           UFc                360 m              particulier (non publié)
+
+  NP 68              2 040 m²               non bâti           UFc                180 m              AES FRANCE IMMOBILIER (SAS)
+
+
+
+Ces informations proviennent de bases publiques et ne préjugent ni de l'intention de vendre des propriétaires ni de la
+constructibilité des parcelles citées, qui relève d'une étude au cas par cas.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         31 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+      10           Votre projet, étape par étape
+De l'achat du terrain à la déclaration aux impôts : démarches, délais, coûts et contacts.
+
+
+
+10.1 Analyse
+Le terrain est soumis au plan local d'urbanisme (PLU) de Saint-Étienne. Il est classé en zone UFc. Zone
+urbaine : secteur déjà urbanisé où les équipements publics existants ou en cours de réalisation
+permettent d'accueillir des constructions. Les constructions y sont admises dans le respect du
+règlement de la zone (destinations, implantation, hauteur, emprise, aspect).
+
+En l'état des documents consultés, un projet de construction est envisageable. Sa faisabilité dépend du
+règlement écrit de la zone : destinations autorisées, implantation par rapport aux voies et aux limites,
+hauteur maximale, emprise au sol, coefficient d'espaces verts, stationnement et aspect extérieur.
+
+La commune est également classée en zone de montagne : la règle de continuité avec les bourgs,
+villages et hameaux existants s'applique.
+
+
+10.2 Votre projet, étape par étape
+Les étapes ci-dessous suivent l'ordre réel d'un projet de construction, de l'achat du terrain à la déclaration aux
+impôts. Les montants sont indicatifs et à confirmer par devis.
+
+  1      Avant d'acheter le terrain
+         Vérifiez les règles de la zone (chapitres précédents), puis demandez un certificat d'urbanisme opérationnel
+         (Cerfa 13410, sans frais, réponse sous 2 mois) : il fige les règles pendant 18 mois. En zone d'argiles d'aléa
+         moyen ou fort, le vendeur doit fournir une étude de sol préalable.
+         Contact : Mairie de Saint-Étienne · 04 77 48 77 48 · courriermairie@saint-etienne.fr · formulaire sur service-public.fr
+         (rechercher « Cerfa 13410 »)
+
+  2      Les études
+         Étude de sol géotechnique (G2) pour dimensionner les fondations : 1 500 à 3 000 €. Étude thermique RE2020,
+         obligatoire pour le permis : 500 à 1 500 €. Bornage par un géomètre si les limites sont incertaines. L'étude de
+         sol ne porte pas sur les espèces protégées : un écologue n'intervient qu'en cas d'enjeu (chapitre
+         Environnement).
+         Géomètres proches du terrain : liste à la fin de ce chapitre
+
+  3      Les plans
+         Architecte obligatoire si la surface de plancher totale dépasse 150 m². En dessous, vous pouvez dessiner les
+         plans vous-même ou faire appel à un dessinateur ou maître d'œuvre (environ 1 500 à 4 000 € le dossier de
+         permis). Architecte : 3 000 à 8 000 € pour la seule mission de permis, 8 à 12 % du coût des travaux pour une
+         mission complète avec suivi du chantier.
+         Trouver un architecte : annuaire de l'Ordre des architectes sur architectes.org
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         32 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+  4      Déposer le permis
+         Formulaire Cerfa 13406 (maison individuelle) et pièces PCMI1 à PCMI8 : plan de situation, plan de masse,
+         coupe, notice, plans des façades et toitures, insertion dans le paysage, photos, attestation RE2020. Dépôt en
+         mairie ou en ligne sur le guichet numérique de la commune. La mairie a 1 mois pour réclamer une pièce
+         manquante ; l'instruction dure 2 mois à partir du dossier complet, plus en secteur protégé.
+         Dépôt : Mairie de Saint-Étienne · 04 77 48 77 48 · courriermairie@saint-etienne.fr · formulaire sur service-public.fr
+         (rechercher « Cerfa 13406 »)
+
+  5      Affichage et recours
+         Dès l'accord, installez le panneau de permis sur le terrain, lisible depuis la voie, pendant toute la durée du
+         chantier. Les tiers ont 2 mois à compter du premier jour d'affichage pour contester ; la mairie peut retirer un
+         permis illégal pendant 3 mois. Faites constater l'affichage par un commissaire de justice (environ 300 à 600 €
+         pour les trois constats).
+         Commissaires de justice : annuaire sur commissaire-justice.fr
+
+  6      Avant les travaux
+         Souscrivez l'assurance dommages-ouvrage, obligatoire (souvent 2 à 4 % du coût de la construction). Signez
+         le contrat de construction de maison individuelle ou les marchés des artisans. Déposez la déclaration
+         d'ouverture de chantier (Cerfa 13407) le jour du démarrage. Le permis est valable 3 ans, prorogeable deux
+         fois d'un an.
+         Déclaration d'ouverture : Mairie de Saint-Étienne · 04 77 48 77 48 · courriermairie@saint-etienne.fr
+
+  7      Le financement
+         La banque débloque le prêt au fur et à mesure du chantier, sur présentation des factures des entreprises ou
+         des appels de fonds du constructeur. Avec un contrat de construction de maison individuelle, l'échéancier
+         est encadré par la loi : 15 % à l'ouverture du chantier, 25 % aux fondations, 40 % aux murs, 60 % hors d'eau,
+         75 % hors d'air et cloisons, 95 % aux équipements, le solde à la réception. Des intérêts intercalaires peuvent
+         courir sur les sommes débloquées.
+         Votre banque ou votre courtier
+
+  8      La fin du chantier
+         Réception des travaux avec le constructeur ou les artisans, avec réserves si nécessaire. Déposez ensuite la
+         déclaration attestant l'achèvement et la conformité des travaux (DAACT, Cerfa 13408), avec l'attestation
+         RE2020 de fin de chantier. La mairie a 3 mois pour la contester (5 mois en secteur protégé).
+         Dépôt : Mairie de Saint-Étienne · 04 77 48 77 48 · courriermairie@saint-etienne.fr
+
+  9      Les impôts
+         Dans les 90 jours suivant l'achèvement, déclarez la construction sur impots.gouv.fr, espace « Gérer mes
+         biens immobiliers ». Cette déclaration sert au calcul de la taxe d'aménagement (payée en une fois sous 1 500
+         €, sinon en deux fois, estimation plus bas dans ce chapitre) et de la taxe foncière, avec une exonération
+         possible les deux premières années selon la commune.
+         impots.gouv.fr › Espace particulier › Gérer mes biens immobiliers
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         33 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+10.3 Les points à vérifier pour ce terrain
+  1      Certificat d'urbanisme opérationnel
+         Le demander en mairie (formulaire Cerfa 13410), en décrivant le projet. Gratuit, il indique si le terrain
+         peut accueillir le projet et fige les règles d'urbanisme pendant 18 mois.
+
+  2      Règlement de la zone
+         Lire le règlement écrit de la zone UFc et, le cas échéant, les orientations d'aménagement, disponibles
+         sur le Géoportail de l'Urbanisme.
+
+  3      Réseaux et accès
+         Vérifier l'accès à une voie publique ou privée adaptée, la desserte en eau potable et en électricité, et le
+         mode d'assainissement. En l'absence de réseau collectif, une étude de sol et l'avis du service public
+         d'assainissement non collectif (SPANC) sont nécessaires.
+
+  4      Loi Montagne
+         Faire confirmer par la mairie ou un professionnel la situation de la parcelle au regard de la continuité
+         avec l'urbanisation existante.
+
+  5      Bornage
+         Faire réaliser un bornage par un géomètre-expert pour fixer les limites exactes et la surface réelle du
+         terrain.
+
+  6      Sécuriser un achat
+         Pour une acquisition, prévoir dans le compromis une condition suspensive d'obtention d'un permis de
+         construire purgé de tout recours.
+
+
+10.4 Délais indicatifs d'instruction
+  DEMANDE                                                                                 DÉLAI DE DROIT COMMUN
+
+  Certificat d'urbanisme d'information (CUa)                                              1 mois
+
+  Certificat d'urbanisme opérationnel (CUb)                                               2 mois
+
+  Déclaration préalable                                                                   1 mois
+
+  Permis de construire une maison individuelle                                            2 mois
+
+  Permis d'aménager, autres permis de construire                                          3 mois
+
+
+
+Ces délais peuvent être majorés, notamment en site classé ou inscrit, aux abords d'un monument historique ou lorsque la
+consultation d'un service extérieur est nécessaire.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         34 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+10.5 Taxe d'aménagement à prévoir
+     Exemple : une maison de 120 m² en résidence principale, avec une piscine de 3 × 6 m. Sur ce terrain, la
+     taxe d'aménagement à prévoir est d'environ 5 020 €.
+
+
+
+  PROJET                                                                                                       TAXE ESTIMÉE
+
+  Maison de 120 m², résidence principale                                                                       4 680 €
+
+  Piscine de 3 × 6 m (18 m²)                                                                                   340 €
+
+  Total à prévoir                                                                                              5 020 €
+
+
+
+Taux appliqués : 5 % pour la commune et 2,5 % pour le département, sur une valeur forfaitaire de 892 € par m² en 2026 (251
+€ par m² de bassin pour une piscine). Une résidence principale bénéficie d'un abattement de 50 % sur ses 100 premiers m².
+
+La taxe est due une fois les travaux terminés : elle se déclare sur impots.gouv.fr dans les 90 jours suivant l'achèvement, et
+se paie en deux fois au-delà de 1 500 €. Pour calculer votre propre projet :
+terrenurbanisme.com/outils/taxe-amenagement.html
+
+
+10.6 Implanter une entreprise : zone France Ruralités Revitalisation
+     La commune de Saint-Étienne n'est pas classée en zone France Ruralités Revitalisation (FRR). Une
+     entreprise qui s'y installe ne bénéficie pas de l'exonération d'impôt sur les bénéfices liée à ce zonage.
+
+
+
+Source : ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 (collectivites-locales.gouv.fr).
+
+
+10.7 Géomètres proches du terrain
+Le géomètre-expert est le seul professionnel habilité à fixer les limites de propriété (bornage) et à établir les
+documents d'arpentage déposés au cadastre. Il intervient aussi pour les relevés topographiques et les
+divisions de terrain.
+
+2,6 km            SOCIETE D'EXERCICE LIBERAL DE GEOMETRE-EXPERT AURA-GE
+                                                                                                                           Coordonnées
+                  42 RUE THIMONNIER 42100 SAINT-ETIENNE
+
+
+2,8 km            ARSEN MELKONYAN
+                                                                                                                           Coordonnées
+                  27 RUE DES FRERES CHAPPE 42000 SAINT-ETIENNE
+
+
+4,3 km            MESURES ET PATRIMOINE
+                                                                                                                           Coordonnées
+                  12 RUE DE L'INNOVATION 42000 SAINT-ETIENNE
+
+
+5,5 km            ACTIV RESEAUX
+                                                                                                                           Coordonnées
+                  89 BOULEVARD D'AUVERGNE 42500 LE CHAMBON-FEUGEROLLES
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         35 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                                 10 · Votre projet, étape par étape
+
+
+
+
+5,8 km            A2TOPO
+                                                                                                                           Coordonnées
+                  6-8 6 ALLEE HENRY PURCELL 42000 SAINT-ETIENNE
+
+
+5,9 km            19.11 SERVICES
+                                                                                                                           Coordonnées
+                  SAINT VICTOR SUR LOIRE 22 RUE CLAUDE JURY 42230 SAINT-ETIENNE
+
+
+Source : répertoire Sirene de l'INSEE (activité des géomètres), classé par distance au terrain. L'inscription d'un cabinet à l'Ordre
+des géomètres-experts se vérifie sur geometre-expert.fr. Le bouton « Coordonnées » ouvre la fiche du cabinet (téléphone,
+horaires, itinéraire). Cette liste est fournie à titre indicatif, sans partenariat ni recommandation.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         36 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                               Saint-Étienne · NT 55
+          TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+     11            État des risques (ERP) pré-rempli
+     DANS CETTE SECTION
+
+     Le formulaire réglementaire à remettre à l'acquéreur ou au locataire, pré-rempli à partir des
+     bases officielles : plans de prévention, sismicité, radon, sols pollués, trait de côte, bruit des
+     aérodromes.
+
+
+Articles L. 125-5 à L. 125-7 et R. 125-23 à R. 125-27 du Code de l'environnement · modèle fixé par l'arrêté du 27 septembre
+2022.
+
+
+     Formulaire pré-rempli à partir de Géorisques et du Géoportail de l'Urbanisme à la date du rapport.
+     Avant de le remettre à l'acquéreur ou au locataire, le vendeur ou le bailleur le vérifie, le complète
+     (sinistres indemnisés) et le signe ; il doit dater de moins de six mois à la signature de la promesse, du
+     bail ou de l'acte.
+
+
+
+
+11.1 Situation du bien
+Commune                                                  Saint-Étienne (42218)
+
+Département                                              Loire (42)
+
+Références cadastrales                                   Section NT, parcelle n° 55 · 42218000NT0055
+
+Surface cadastrale                                       7 013 m²
+
+
+
+11.2 Plans de prévention des risques
+  L'IMMEUBLE EST SITUÉ DANS LE PÉRIMÈTRE…                                         RÉPONSE                DÉTAIL
+
+  d'un plan de prévention des risques naturels (PPRN)                             Oui                    PM1 StEtienne hors StVictor ass
+  prescrit, appliqué par anticipation ou approuvé
+
+  d'un plan de prévention des risques miniers (PPRM)                              Non                    Non recensé
+
+  d'un plan de prévention des risques technologiques                              Non                    Risques technologiques sur la commune
+  (PPRT)                                                                                                 : installations industrielles (icpe),
+                                                                                                         canalisations de matières dangereuses,
+                                                                                                         pollution des sols
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                        37 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                            11 · État des risques (ERP) pré-rempli
+
+
+
+
+11.3 Autres zonages réglementaires
+  L'IMMEUBLE EST SITUÉ…                                                           RÉPONSE                DÉTAIL
+
+  dans une commune de sismicité (zones 2 à 5 : règles de                          Oui                    Zone 2 – faible
+  construction parasismique)
+
+  dans une commune à potentiel radon de niveau 3                                  Oui                    Catégorie 3 (potentiel significatif)
+
+  dans un secteur d'information sur les sols (SIS)                                Non                    Aucun SIS recensé à proximité
+
+  dans une zone exposée au recul du trait de côte                                 Non                    Non concerné selon Géorisques
+
+  dans une zone de bruit d'un plan d'exposition au bruit                          À vérifier             Aucun PEB annexé au document
+  d'aérodrome (PEB)                                                                                      d'urbanisme ; vérifier auprès de la mairie
+
+  dans une zone de retrait-gonflement des argiles                                 Oui                    Existant – modéré
+  (information)
+
+
+
+
+11.4 Sinistres indemnisés et déclarations
+Arrêtés de catastrophe naturelle sur la commune : 21 (liste en section Risques). Le vendeur ou le bailleur
+déclare ci-dessous les sinistres ayant donné lieu à une indemnisation au titre des catastrophes naturelles ou
+technologiques pendant la période où il a été propriétaire.
+
+Sinistres indemnisés                                     [ ] Oui [ ] Non
+
+Vendeur ou bailleur                                      Nom : ____________________ Date : ___/___/______ Signature :
+
+Acquéreur ou locataire                                   Nom : ____________________ Date : ___/___/______ Signature :
+
+
+L'état des risques officiel peut aussi être édité gratuitement sur Géorisques (errial.georisques.gouv.fr). Les informations
+ci-dessus sont établies à partir des bases nationales ; en cas de divergence, l'arrêté préfectoral relatif à l'information des
+acquéreurs et des locataires fait foi.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                           38 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+    12             Avertissement et sources
+     DANS CETTE SECTION
+
+     La portée de ce rapport et la liste des sources publiques consultées.
+
+
+
+12.1 Nature du document
+Ce rapport est un document d'information établi automatiquement, à la date indiquée en page de garde, à
+partir des données publiques officielles alors disponibles. Il n'a aucune valeur contractuelle, réglementaire ou
+juridique.
+
+
+12.2 Ce que ce rapport n'est pas
+Il ne constitue ni un certificat d'urbanisme au sens de l'article L. 410-1 du Code de l'urbanisme, ni une
+autorisation d'urbanisme (permis de construire, permis d'aménager, déclaration préalable), ni un état des
+risques au sens de l'article L. 125-5 du Code de l'environnement, ni un bornage, ni une expertise, ni une
+évaluation immobilière, ni une consultation juridique. Il n'engage en rien l'administration.
+
+
+12.3 Permis de construire
+Ce rapport ne peut en aucun cas être joint, produit ou invoqué à l'appui d'une demande de permis de
+construire, de permis d'aménager ou de déclaration préalable, ni opposé à la mairie ou à un service de l'État. Il
+ne garantit pas l'obtention d'une autorisation : seule l'autorité compétente se prononce, au vu d'un projet
+précis et de l'ensemble des règles applicables à la date de sa décision.
+
+
+12.4 Limites des données
+Les données sont produites par des organismes publics dont l'éditeur n'est ni l'auteur ni le garant. Elles
+peuvent être incomplètes, imprécises ou ne pas refléter une modification, une révision, une mise en
+compatibilité, une annulation contentieuse, un sursis à statuer ou une procédure en cours. Le plan cadastral,
+document fiscal, ne fait pas foi des limites de propriété. Surfaces, distances, altitudes et pentes sont
+approchées. Les extraits et analyses du règlement sont une aide à la lecture : seul le texte intégral du
+document d'urbanisme approuvé, consultable en mairie, fait foi.
+
+
+12.5 Avant toute décision
+Avant toute acquisition, cession, financement, promesse de vente ou dépôt d'une demande, le lecteur doit
+obtenir un certificat d'urbanisme opérationnel auprès de la mairie, consulter le document d'urbanisme en
+vigueur et recueillir l'avis d'un professionnel habilité (notaire, architecte, géomètre-expert, avocat). Pour un
+achat, il est recommandé de stipuler une condition suspensive d'obtention d'un permis de construire purgé de
+tout recours.
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          39 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+12.6 Responsabilité
+L'éditeur ne saurait être tenu responsable d'une décision prise sur le seul fondement de ce rapport, ni d'un
+refus d'autorisation, d'une erreur ou d'une omission des sources publiques, dans les limites prévues par les
+conditions générales de vente acceptées lors de la commande.
+
+
+12.7 Sources consultées
+  DONNÉE                                                    SOURCE
+
+  Cadastre                                                  DGFiP, plan cadastral informatisé, via API Carto (IGN)
+
+  Photographies et plans                                    IGN, Géoplateforme : orthophotographies, Plan IGN, parcellaire express
+
+  Urbanisme                                                 Géoportail de l'Urbanisme : zonage, prescriptions, informations, servitudes
+                                                            d'utilité publique
+
+  Littoral                                                  IGN, BD TOPO (limite terre-mer) ; communes littorales (Géoportail de
+                                                            l'Urbanisme)
+
+  Montagne                                                  Ministère de la Cohésion des territoires, communes de la loi Montagne
+
+  Risques                                                   Géorisques (ministère de la Transition écologique) : rapport de risques,
+                                                            arrêtés CatNat, sismicité, radon, ICPE, sites pollués
+
+  Environnement                                             Inventaire national du patrimoine naturel (PatriNat), via API Carto
+
+  Altitude, pente et exposition                             IGN, RGE ALTI
+
+  Ensoleillement                                            Calcul astronomique de la course du soleil ; masque du relief (IGN, RGE
+                                                            ALTI) et des bâtiments (IGN, BD TOPO)
+
+  Voirie et accès                                           IGN, BD TOPO (tronçons de route)
+
+  Permis de construire                                      Sitadel, service des données et études statistiques (SDES) du ministère
+                                                            chargé du logement
+
+  Photographies anciennes                                   IGN, BD ORTHO historique
+
+  Fibre et internet                                         Arcep, Ma connexion internet (éligibilité par adresse)
+
+  Géomètres                                                 Répertoire Sirene (INSEE), activité des géomètres
+
+  Propriétaires personnes morales                           DGFiP, fichiers des parcelles des personnes morales (diffusion Koumoul)
+
+  Diagnostics énergétiques                                  ADEME, base des DPE des logements existants
+
+  Procédures collectives                                    Bodacc, annonces commerciales (DILA)
+
+  Bâtiments                                                 IGN, BD TOPO
+
+  Réseau électrique                                         Agence ORE (gestionnaires de réseaux de distribution : Enedis, EDF Corse
+                                                            et entreprises locales) : réseau basse tension et postes de distribution
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          40 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                 Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                                      12 · Avertissement et sources
+
+
+
+
+  DONNÉE                                                    SOURCE
+
+  Taxe d'aménagement                                        DGFiP, éléments de taxation votés par les collectivités ; valeurs forfaitaires
+                                                            fixées par arrêté
+
+  Rapport officiel de risques                               Géorisques, ministère chargé de l'environnement
+
+  Zone France Ruralités Revitalisation                      ANCT, liste des communes classées FRR et FRR+ au 10 juillet 2025 ; article
+                                                            44 quindecies A du code général des impôts
+
+  Marché immobilier                                         Statistiques des demandes de valeurs foncières (DVF) par commune, DGFiP
+                                                            et Etalab
+
+  Date d'extraction                                         20/11/2026
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                          41 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+                                                                                                                                Saint-Étienne · NT 55
+         TerrenUrbanisme
+                                                                                                                     Annexe · règlement de la zone
+
+
+
+
+ANNEXE
+
+
+Règlement écrit · zone UFc
+Les pages suivantes reproduisent le chapitre du règlement officiel applicable à la zone de la parcelle
+(pages 99 à 113 du document approuvé), tel que publié sur le Géoportail de l'Urbanisme. Il s'agit d'une
+reproduction à titre d'information : seule la version approuvée tenue à disposition en mairie fait foi, avec
+ses annexes, plans et éventuelles modifications ultérieures.
+Règlement complet :
+https://data.geopf.fr/annexes/gpu/documents/DU_42218/da5cb8265e85bd8e6a9f5dfc36ec6939/42218_reglement_20241003.pdf
+
+
+
+
+terrenurbanisme.com · contact@terrenurbanisme.com · rapport n° APERCU                                                                         42 / 58
+Document d'information : ne vaut pas certificat d'urbanisme et ne peut être joint à une demande de permis de construire.
+          PLAN LOCAL D'URBANISME DE SAINT-ETIENNE
+                   REGLEMENT DE LA ZONE UF
+
+
+                LES TITRES I ET II DU REGLEMENT S'APPLIQUENT EGALEMENT DANS LEUR INTEGRALITE A LA ZONE UF
+
+
+                         DISPOSITIONS APPLICABLES A LA ZONE UF
+CARACTERE DE LA ZONE :
+
+La zone UF a pour vocation générale l'accueil des activités économiques.
+La zone UF non indicée est destinée à recevoir les activités de production industrielle et artisanale.
+
+La zone UF comprend en outre :
+
+- 6 secteurs à la vocation élargie :
+           le secteur UFa qui admet également le commerce de gros et de détail. Dans le sous-secteur UFac, dévolu aux
+concessions automobiles de la rue Gustave Delory, les obligations en terme de plantations sont assouplies.
+           le secteur UFc qui admet, en plus des activités traditionnelles de la zone UF, le commerce de gros et les
+activités de logistique de transport.
+           le secteur UFd du Technopole admet également les équipements liés à l'enseignement et à la recherche, et les
+activités tertiaires.
+           le secteur UFdt en mutation qui admet également certaines activités tertiaires avec des conditions de hauteur et
+densité différentes compte tenu des enjeux de renouvellement urbain.
+           le secteur UFe qui admet également les équipements sociaux et les équipements liés à la culture et aux loisirs
+ainsi que ceux liés à l'enseignement supérieur et à la recherche, aux secours et à la sécurité et les activités accessoires
+permettant leur promotion. Le secteur UFep admet en surcroit les équipements liés aux sports.
+           le secteur UFw correspondant au site de la SCEMM du Rond-Point, inséré dans le tissu résidentiel, qui admet
+également les équipements liés à l'enseignement et à la recherche.
+
+- 4 secteurs à la vocation restreinte :
+          le secteur UFf, correspondant au quartier "Pont de l'Ane - Monthieu", est principalement réservé au commerce
+de détail. Le règlement distingue, lorsque c'est nécessaire, deux entités urbaines : au nord, le site de "Pont de l'Ane", lieu
+d'implantation du futur pôle commercial ; au sud, le centre commercial existant de "Monthieu".
+          le secteur UFg réservé exclusivement aux activités en lien avec les transports publics.
+          le secteur UFh réservé exclusivement aux activités de logistique de transport.
+          le secteur UFm réservé exclusivement aux activités de commerce de gros à vocation alimentaire, aux activités
+accessoires qui en permettent la promotion, et aux activités connexes du commerce de gros alimentaire (équipementiers de
+la restauration professionnelle et collective, etc…)
+          le secteur UFv inséré dans le tissu résidentiel. Dans ce secteur, les activités doivent être compatibles avec le
+voisinage.
+
+Par ailleurs, il sera fait application de prescriptions particulières dans les secteurs de la zone UF pour les indices suivants :
+           - indice "i" : ces sites sont compris dans les zones submersibles définies par le Plan de Prévention des Risques
+Naturels Prévisibles d'Inondation. Toute construction est soumise à la réglementation du PPRNPI jointe en annexe du PLU.
+           - indice "p" : dans le secteur de la zone UFe indicé « p », les constructions sont identifiées dans les orientations
+particulières d’aménagement de secteur comme faisant partie du patrimoine industriel. Le règlement prévoit des dispositions
+spécifiques à même d’en assurer la conservation.
+           - indice "s" : ces sites sont compris dans la zone de débordement (zone hachurée) définie par le Plan de
+Prévention des Risques Naturels Prévisibles d'Inondation. Toute construction est soumise à la réglementation du PPRNPI
+jointe en annexe du PLU.                                  _________________
+ Outre son règlement écrit, dans les secteurs du Technopole et de "Pont de l'Ane - Monthieu", la zone UF s’appuie
+également sur un plan des Hauteurs, représentation cartographique spécifique annexée au présent règlement.
+
+Outre son règlement écrit, la zone UF sur le plan intitulé « Aire d’influence du tramway pour les constructions
+tertiaires », représentation cartographique spécifique annexée au présent règlement.
+
+ Les autorisations d'urbanisme doivent être compatibles avec les orientations particulières d'aménagement de secteur
+du PLU.
+
+ Certaines parties de la zone UF, indiquées au plan graphique, peuvent être soumises à des risques d'inondation liés aux
+eaux pluviales. Dans les secteurs concernés, les pétitionnaires devront prendre toute précaution nécessaire afin de limiter les
+risques pour les constructions et les aménagements qu'ils réalisent.
+
+
+
+
+                                        Page 1 / 15                         Modification n°13 approuvée le 03 octobre 2024
+      PLAN LOCAL D'URBANISME DE SAINT-ETIENNE
+               REGLEMENT DE LA ZONE UF
+
+
+                                SECTION I
+               NATURE DE L'OCCUPATION ET DE L'UTILISATION DU SOL
+
+
+Article UF 1 - OCCUPATIONS ET UTILISATIONS DU SOL INTERDITES
+
+                                     Conditions d'application de l'article
+              Pour l'application du présent article, il convient de se reporter au document intitulé
+                       "Nomenclature des constructions" mis en annexe du règlement.
+
+
+     1.1 – Sont interdits dans la zone UF et ses secteurs
+
+            1.1.1 - Les constructions à usage d’habitation qui ne sont pas destinées à loger ou à abriter les personnes
+                    dont la présence permanente est nécessaire pour assurer la direction, la surveillance, le
+                    gardiennage ou le fonctionnement des établissements existants ou autorisés dans la zone.
+
+            1.1.2 - Les constructions destinées à l'agriculture, exceptées celles liées à l'horticulture.
+
+            1.1.3 – Les installations et aménagements suivants relatifs au camping / caravaning :
+                     - aménagement ou mise à disposition des campeurs de terrains de camping de façon habituelle
+                     - création ou agrandissement d'un terrain de camping
+                     - installation, en dehors des terrains de camping et parcs résidentiels de loisirs, d'une caravane
+                        lorsque la durée de cette installation est supérieure à trois mois par an
+                     - installation d'une résidence mobile au sens de l'article 1er de la loi n° 2000-614 du 5 juillet 2000
+                        relative à l'accueil et à l'habitat des gens du voyage.
+
+     1.2 – En outre, sont interdits dans la zone UF non indicée et ses secteurs, excepté les secteur UFf
+
+           1.2.1 - Les constructions à usage d’hébergement hôtelier qui ne sont pas nécessaires au fonctionnement de
+                     la zone.
+
+     1.3 – En outre, sont interdits dans la zone UF non indicée et ses secteurs, excepté les secteurs UFd et UFf
+
+           1.2.1 - Les constructions à usage de service immatériel qui ne sont pas nécessaires au fonctionnement de
+                     la zone.
+          
+     1.4 – En outre, sont interdits dans la zone UF non indicée et ses secteurs, excepté le secteur UFdt sous
+            conditions (cf. art 2.4) et les secteurs UFf et UFe
+
+           1.4.1 - Les cafés et les restaurants à l’exception de ceux dédiés à la restauration collective.
+
+     1.5 – En outre, sont interdites dans la zone UF non indicée et le secteur UFv
+
+           1.5.1 - Les constructions à usage de commerce, excepté celles destinées à la vente de détail des
+                     productions de l’activité implantée sur le tènement.
+
+           1.5.2 - Les constructions à usage de logistique de transport.
+
+           1.5.3 - Les constructions à usage d'équipement collectif et d’intérêt public qui ne relèvent ni des secours ni
+                   de la sécurité, ni de l’énergie (y compris renouvelable), ni des enjeux environnementaux (climat,
+                   biodiversité, etc….).
+    
+     1.6 – En outre, sont interdits dans le secteur UFa
+
+           1.6.1 - Les constructions à usage de logistique de transport.
+
+           1.6.2 - Les cinémas et complexes cinématographiques.
+
+           1.6.2 - Les constructions à usage d'équipement collectif qui ne relèvent pas des secours ou de la sécurité.
+    
+    
+
+                                   Page 2 / 15                          Modification n°13 approuvée le 03 octobre 2024
+ PLAN LOCAL D'URBANISME DE SAINT-ETIENNE
+          REGLEMENT DE LA ZONE UF
+
+
+ 1.7 – En outre, sont interdites dans le secteur UFc
+
+       1.7.1 - Les constructions à usage de commerce de détail, exceptées celles destinées à la vente des
+               productions de l’activité implantée sur le tènement.
+
+       1.7.2 - Les constructions à usage d'équipement collectif qui ne relèvent pas des secours ou de la sécurité.
+
+ 1.8 – En outre, sont interdites dans le secteur UFd
+
+       1.8.1 - Les constructions à usage de commerce, exceptées celles destinées à la vente de détail des
+                productions de l’activité implantée sur le tènement.
+
+       1.8.2 - Les constructions à usage de logistique de transport.
+       1.8.3 - Les constructions à usage d'équipement collectif ne relevant pas de l'un de ces domaines :
+               enseignement et recherche, secours et sécurité.
+
+ 1.9 – En outre, sont interdites dans le secteur UFdt
+
+       1.9.1 - Les constructions à usage de commerces quels qu’ils soient, y compris à vocation de café et/ou de
+                restauration
+
+       1.9.2 - Les activités tertiaires autres que celles figurant dans la nomenclature annexée au règlement à la
+                rubrique Bureaux (activités tertiaires et services immatériels)
+
+       1.9.3 - Les constructions à usage de logistique de transport
+       1.9.4 - Les constructions à usage d'équipement collectif ne relevant pas de l'un de ces domaines :
+               enseignement et recherche, secours et sécurité
+
+ 1.10 – En outre, sont interdites dans le secteur UFe
+
+       1.10.1 - Les constructions à usage de commerce, excepté celles destinées à la vente de détail des
+                productions de l’activité implantée sur le tènement.
+
+       1.10.2 - Les constructions à usage de logistique de transport.
+       1.10.3 - Les constructions à usage d'équipement collectif ne relevant pas de l'un de ces domaines : social,
+               culture, loisir, enseignement supérieur, recherche, secours et sécurité.
+       1.10.4 – Dans le secteur UFe indicé « p », les constructions à usage d’équipement collectif ne relevant pas
+               de l’un de ces domaines : social, culture, loisirs, enseignement supérieur, recherche, sports, secours
+               et sécurité.
+
+ 1.11 – En outre, sont interdites dans le secteur UFf
+
+       1.11.1 - Les constructions à usage d'activité (industrielle, artisanale, logistique de transport, commerce de
+              gros) exceptées celles de commerce de détail. 
+      
+       1.11.2 - Les cinémas et complexes cinématographiques.
+      
+       1.11.3 - Sur le site de "Monthieu", les constructions à usage d'équipement collectif qui ne relèvent pas des
+                secours ou de la sécurité.
+
+       1.11.4 - Sur le site du "Pont de l'Ane", les constructions à usage d'équipement collectif ne relevant pas de
+                 l'un de ces domaines : secours et sécurité, culture, loisir.
+      
+ 1.12 – En outre, sont interdites dans le secteur UFg
+
+       1.12.1 - Les constructions à usage d'activité qui ne sont pas directement liées au fonctionnement des
+                transports publics.
+
+       1.12.2 - Les constructions à usage d'équipement collectif qui ne relèvent pas des secours ou de la sécurité.
+
+
+
+
+                               Page 3 / 15                        Modification n°13 approuvée le 03 octobre 2024
+      PLAN LOCAL D'URBANISME DE SAINT-ETIENNE
+               REGLEMENT DE LA ZONE UF
+
+
+     1.13 – En outre, sont interdites dans le secteur UFh
+
+           1.13.1 - Les constructions à usage d'activité (industrielle, artisanale, commerciale) exceptées celles de
+                     logistique de transport.
+
+           1.13.2 - Les constructions à usage d'équipement collectif qui ne relèvent pas des secours ou de la sécurité.
+
+     1.14 - En outre, sont interdites dans le secteur UFw
+
+            1.14.1 - Les constructions à usage de commerce, exceptées celles destinées à la vente de détail des
+                     productions de l’activité implantée sur le tènement.
+
+           1.14.2 - Les constructions à usage de logistique de transport.
+           1.14.3 - Les constructions à usage d'équipement collectif ne relevant pas de l'un de ces domaines :
+                     enseignement, recherche, secours et sécurité.
+
+     1.15 - En outre, sont interdites dans le secteur UFm
+
+           1.15.1 - Les constructions à usage d'activité (industrielle, artisanale, commerciale) exceptées celles liées au
+                     commerce de gros à vocation alimentaires, aux activités accessoires en assurant la promotion et aux
+                     activités connexes directement liées (équipementiers de la restauration professionnelle et
+                     collective,…).
+
+           1.15.2 - Les constructions à usage d'équipement collectif qui ne relèvent pas des secours ou de la sécurité.
+
+     1.16 - Dans le périmètre d’un Site Patrimonial Remarquable (SPR)
+              Toute occupation et utilisation du sol est également soumise aux dispositions du règlement du SPR joint
+              en annexe du PLU.
+
+
+
+Article UF 2 - OCCUPATIONS ET UTILISATIONS DU SOL ADMISES SOUS CONDITIONS
+
+     2.1 - Dans la zone UF et ses secteurs
+
+           2.1.1 - Les constructions de toute nature doivent être compatibles avec les infrastructures existantes
+                   notamment les voiries, l'assainissement, dès leur ouverture ou à terme.
+
+           2.1.2 - Les affouillements et exhaussement de sol sont autorisés s'ils sont liés à des constructions où à des
+                   aménagements compatibles avec la vocation de la zone ou nécessaires aux équipements
+                   d’infrastructure.
+
+     2.2 - En outre, dans les secteurs UFv et UFw
+            Les activités industrielles et artisanales, leurs aménagements, leurs extensions et leurs transformations ne
+            doivent pas induire des nuisances ou des dangers incompatibles avec le voisinage ou l'environnement
+            (incompatibilité pour des raisons de salubrité, tranquillité, sécurité ou d'impact visuel ; il sera fait application
+            du Code de la Santé Publique, en particulier ses textes régissant le bruit de voisinage, les rejets en
+            atmosphère et dans le système d'écoulement des eaux).
+
+     2.3 - En outre, dans le secteur UFd
+            Le stockage et le dépôt à l'air libre de matériaux, ou de matériels, sont autorisés sous réserve d’être ceinturés
+            d'éléments architecturaux végétalisés suffisamment hauts et denses pour les rendre totalement invisibles.
+
+     2.4 - Dans la zone UF et ses secteurs, excepté les secteurs indicés "i"
+
+             2.4.1 - L'extension des bâtiments existants à usage d'habitation :
+                     - est limitée à 35 % de la surface de plancher initiale des locaux si elle a pour effet de créer de la
+                       surface de plancher
+                     - est limitée à 15 % de l'emprise au sol initiale des locaux si elle n'a pas pour effet de créer de la
+                       surface de plancher.
+
+
+
+
+                                    Page 4 / 15                          Modification n°13 approuvée le 03 octobre 2024
+       PLAN LOCAL D'URBANISME DE SAINT-ETIENNE
+                REGLEMENT DE LA ZONE UF
+
+                2.4.2 - Cette règle s'applique également aux équipements collectifs existants à usage d'enseignement
+                          supérieur lorsque ces derniers ne sont pas autorisés dans la zone ou le secteur de leur
+                          implantation.
+     
+     2.5 - En outre, dans le secteur UFf
+               Les modalités d'extension prévues au 2.4.1 pour les bâtiments existants à usage d'habitation, s'appliquent
+               également aux constructions existantes à usage d'activité industrielle ou artisanale.
+
+      2.6 - En outre, dans le secteur UFe
+               Les cafés et restaurants ne sont admis qu’à la condition de constituer une activité accessoire à l’activité
+               principale : équipements sociaux, équipements liés à la culture et aux loisirs ainsi que ceux liés à
+               l'enseignement supérieur et à la recherche, aux secours et à la sécurité, et de participer à leur promotion et à
+               leur valorisation.
+
+      2.7 - Dans le périmètre d’un Site Patrimonial Remarquable (SPR)
+             Toute occupation et utilisation du sol est également soumise aux dispositions du règlement du SPR joint en
+             annexe du PLU.
+             
+      2.8 - Dans les secteurs indicés "i" et "s" dans lesquels existe un risque d'inondation
+               Toute occupation et utilisation du sol est soumise à la réglementation du Plan de Prévention des Risques
+               Naturels Prévisibles d'Inondation jointe en annexe du PLU. 
+
+
+                                         SECTION II
+                                CONDITIONS DE L'OCCUPATION DU SOL
+
+
+Article UF 3 - DESSERTE PAR LES VOIES ET ACCES
+     Voir le Titre II
+
+
+Article UF 4 - DESSERTE PAR LES RESEAUX
+
+      4.1 - Voir le Titre II
+
+      4.2 - En outre, dans le secteur UFf
+
+                4.2.1 - Les bassins de rétention des eaux pluviales à ciel ouvert doivent être privilégiés. Lorsque c'est le
+                          cas, l'ouvrage sera paysagé.
+       
+                4.2.2 - Les aires de stationnement en pleine terre et non couvertes seront longées par une noue drainante.
+                          Pour chaque groupe de 24 places, l'emplacement équivalent à une place devra être consacré à un
+                          jardin en creux arboré.
+
+
+
+Article UF 5 – SUPERFICIE MINIMALE DES TERRAINS CONSTRUCTIBLES
+     Non réglementé
+
+
+
+
+Article UF 6 - IMPLANTATION DES CONSTRUCTIONS PAR RAPPORT AUX VOIES ET EMPRISES PUBLIQUES
+
+
+                                      Page 5 / 15                         Modification n°13 approuvée le 03 octobre 2024
+ PLAN LOCAL D'URBANISME DE SAINT-ETIENNE
+          REGLEMENT DE LA ZONE UF
+
+                                             Conditions d'application de l'article
+
+                 Les dispositions du présent article s'appliquent aux voies publiques et aux voies privées
+               ouvertes à la circulation publique. Dans ce cas, la limite latérale effective ou prévue de la voie
+                                              privée est prise comme alignement.
+
+                Dans le cas d'un lotissement, les dispositions du présent article s'appliquent par rapport aux
+                 limites des terrains issus des divisions. Toutefois, en cas de réalisation de constructions
+                        mitoyennes, l'ensemble du projet est apprécié au regard du présent article.
+
+
+6.1 - Dans la zone UF et ses secteurs, excepté les secteurs UFdt, UFf, UFe, UFv et UFw
+
+           6.1.1 - Les façades des constructions doivent être implantées à 5 mètres minimum de l'alignement des
+                     voies existantes, modifiées ou à créer.
+
+           6.1.2 - Des marges de recul supérieures au minima indiqué au paragraphe 6.1.1 peuvent être imposées
+                     pour l'implantation de bâtiments destinés à abriter des activités créant des risques ou des gênes
+                     exceptionnels.
+
+           6.1.3 - Nonobstant ce qui est imposé aux paragraphes 6.1.1 et 6.1.2, peuvent être admis dans les marges
+                     de recul, sous réserve que ne soit pas compromis la visibilité ou l'élargissement éventuel de la voie
+                     :
+
+                     - la réalisation d'éléments architecturaux destinés à améliorer la qualité des constructions
+                       existantes.
+
+                     - les bâtiments ou installations techniques nécessitant un accès direct et permanent, si ceux-ci ne
+                        peuvent être incorporés au bâtiment principal.
+
+                     - les constructions nouvelles dont l'implantation ne pourrait, à cause du relief du sol, respecter la
+                        marge de recul.
+
+6.2 - Dans les secteurs UFdt, UFf, UFe, UFv et UFw
+           Les façades des constructions pourront être implantées à l'alignement ou en retrait.
+
+ 6.3 - Dans le périmètre d’un Site Patrimonial Remarquable (SPR)
+        Il convient de se référer aux dispositions du règlement du SPR joint en annexe du PLU. En l'absence de
+        prescriptions particulières, il sera fait application des règles définies par le présent article.
+
+ 6.4 - Aménagements de bâtiments existants
+
+          Des dispositions différentes peuvent être admises en cas de réaménagement ou d'extension au sol ou de
+          surélévation de bâtiments existants qui ne respectent pas les règles du présent article,
+                  si l'extension au sol :
+                     - est limitée à 35 % de la surface de plancher initiale des locaux si elle a pour effet de créer de la
+                        surface de plancher,
+                     - est limitée à 15 % de l'emprise au sol initiale des locaux si elle n'a pas pour effet de créer de la
+                        surface de plancher, sous réserve de l'application des dispositions prévues à l'article 9,
+                  si la surélévation, qui a pour effet de créer de la surface de plancher, se réalise à l’aplomb du bâtiment
+                   existant et respecte les conditions de hauteur prévues aux articles 7 et 10.
+
+          Ces dispositions ne peuvent être admises que si que les marges d'isolement existantes ne sont pas diminuées
+          et qu'elles ne compromettent pas notablement l'éclairage et l'ensoleillement des pièces d'habitation des
+          bâtiments existants sur les terrains voisins.
+
+
+
+
+
+ 6.5 - Cas particuliers d’implantation
+
+      -     Lorsque au plan de zonage figure un trait continu de marge de recul, la construction devra s'implanter avec
+            un recul au minimum égal à cette marge. Cette disposition n'est cependant applicable qu'en cas de nouvelle
+            construction, de démolition reconstruction ou reconstruction après sinistre.
+
+
+                                 Page 6 / 15                          Modification n°13 approuvée le 03 octobre 2024
+       PLAN LOCAL D'URBANISME DE SAINT-ETIENNE
+                REGLEMENT DE LA ZONE UF
+
+
+            -     Lorsque ne figure aux plans de zonage ni ligne de recul, ni plan d'alignement, ni emplacement réservé,
+                  l'implantation dans le prolongement des constructions existantes peut être imposée.
+
+            -     Les acrotères, débords de toiture et éléments de décor sont autorisés dans la marge de recul.
+
+      6.6 – Modification des ouvrages de transport et de distribution électrique
+             Dans le cas de modification des ouvrages existants de transport et de distribution électrique (moyenne et
+             haute tension) les règles du § .6.1 pourront ne pas être imposées.
+
+      6.7– Constructions enterrées et ouvrages techniques
+
+             Les dispositions du présent article ne s'appliquent pas :
+            -  aux constructions totalement enterrées et aux piscines non couvertes dont le bassin ne dépasse pas le
+               niveau du terrain naturel,
+            - aux constructions provisoires soumises à autorisations d’urbanisme (Chapiteaux, etc.)
+            - aux ouvrages techniques nécessaires au fonctionnement des services publics.
+
+
+Article UF 7 - IMPLANTATION DES CONSTRUCTIONS PAR RAPPORT AUX LIMITES SEPARATIVES
+
+                                              Conditions d'application de l'article
+
+                   Pour l'application du présent article, la hauteur est calculée par rapport au niveau
+              du terrain naturel. Lorsque la construction est en limite séparative, le terrain naturel pris en
+            compte est celui de la parcelle concernée avant tous travaux de terrassement, et non celui de la
+                                                     parcelle voisine.
+
+                Dans le cas d'un lotissement, les dispositions du présent article s'appliquent par rapport aux
+                 limites des terrains issus des divisions. Toutefois, en cas de réalisation de constructions
+                        mitoyennes, l'ensemble du projet est apprécié au regard du présent article.
+  
+   7.1 - Les constructions doivent être implantées en retrait des limites séparatives avec un minimum de 5 mètres.
+
+             7.1.1 - Si la parcelle voisine est en zone UF (y compris ses secteurs), 1AU/UF (y compris ses secteurs) ou
+                         2AU/UF (y compris ses secteurs), les façades des constructions doivent être implantées à 5 mètres
+                         au minimum des limites séparatives. Elles peuvent cependant être implantées en limites séparatives
+                         si les mesures indispensables pour éviter la propagation des incendies sont prises (murs coupe-feu
+                         d'une durée minimum de deux heures sur toute la hauteur et largeur du bâtiment...).
+
+             7.1.2 - Si la parcelle voisine n'est pas en zone UF (y compris ses secteurs), 1AU/UF (y compris ses secteurs),
+                         ou 2AU/UF (y compris ses secteurs), les constructions doivent être implantées à 10 mètres au
+                         minimum des limites séparatives. Cependant, en cas d'extension d'une construction existante à usage
+                         d'habitation telle que définie à l'art. 2.4, l'implantation est autorisée à 5 mètres minimum des limites
+                         séparatives.
+
+             7.1.3 - De plus dans les deux cas (7.1.1 et 7.1.2), si la construction n'est pas implantée en limite séparative,
+                         la différence (H) d'altitude entre tout point de la construction, excepté les débords de toiture inférieurs
+                         à 50 cm, et le point le plus proche de la limite séparative doit être égale ou inférieure au double de la
+                         distance (D) mesurée horizontalement entre ces 2 points.
+
+
+
+                                                     H  2D      avec D  5 m
+
+            7.1.4 - Les dispositions 7.1.1 à 7.1.3 pourront ne pas s’appliquer dans le secteur UFf de « Monthieu ».
+      
+       7.2 - Dans les secteurs UFe, UFv et UFw
+
+                     Les façades des constructions peuvent être implantées :
+
+                     -     en retrait de 4 m minimum des limites séparatives.
+
+
+
+
+                                         Page 7 / 15                          Modification n°13 approuvée le 03 octobre 2024
+         PLAN LOCAL D'URBANISME DE SAINT-ETIENNE
+                  REGLEMENT DE LA ZONE UF
+
+                           Dans ce cas, la différence d’altitude (H) entre tout point d’une construction, excepté les débords de
+                           toiture inférieurs à 50 cm, et le point le plus proche de la limite séparative doit être inférieure ou égale
+                           à 3/2 de la distance (D) mesurée horizontalement entre ces deux points.
+
+
+
+
+                                                      H <3/2 D avec D  4 m.
+
+                       -     en limites séparatives si les mesures indispensables pour éviter la propagation des incendies sont
+                            prises (murs coupe-feu d'une durée minimum de deux heures...).
+                             Dans ce cas, la hauteur des constructions en limite séparative doit être inférieure ou égale à 4m.
+
+         7.3 - Dans le périmètre d’un Site Patrimonial Remarquable (SPR)
+                Il convient de se référer aux dispositions du règlement du SPR joint en annexe du PLU. En l'absence de
+                prescriptions particulières, il sera fait application des règles définies par le présent article.
+        
+         7.4 - Aménagements des bâtiments existants :
+                  Des dispositions différentes peuvent être admises en cas de réaménagement ou d'extension des bâtiments
+                  existants qui ne respectent pas les règles du présent article, si l'extension :
+                  - est limitée à 35 % de la surface de plancher initiale des locaux si elle a pour effet de créer de la surface de
+                    plancher
+                  - est limitée à 15 % de l'emprise au sol initiale des locaux si elle n'a pas pour effet de créer de la surface de
+                    plancher, sous réserve de l'application des dispositions prévues à l'article 9.
+
+                  Ces dispositions ne peuvent être admises que si que les marges d'isolement existantes ne sont pas diminuées
+                  et qu'elles ne compromettent pas notablement l'éclairage et l'ensoleillement des pièces d'habitation des
+                  bâtiments existants sur les terrains voisins.
+
+         7.5 - Modification des ouvrages de transport et de distribution électrique
+                   Dans le cas de modification des ouvrages existants de transport et de distribution électrique (moyenne et
+                   haute tension) aucune règle n'est imposée au titre du présent article.
+        
+         7.6 - Constructions enterrées et ouvrages techniques
+               Les dispositions du présent article ne s'appliquent pas :
+              -  aux constructions totalement enterrées et aux piscines non couvertes dont le bassin ne dépasse pas le
+                 niveau du terrain naturel,
+              - aux constructions provisoires soumises à autorisations d’urbanisme (Chapiteaux, etc.)
+              - aux ouvrages techniques nécessaires au fonctionnement des services publics.
+
+
+Article UF 8 - IMPLANTATION DES CONSTRUCTIONS LES UNES PAR RAPPORT AUX AUTRES SUR UNE MEME POPRIETE
+          8.1 - Les constructions doivent être implantées de manière à préserver l’ensoleillement des
+                  constructions voisines.
+                  Une distance d'au moins 4 mètres peut être imposée entre deux bâtiments non contigus.
+
+
+          8.2 - Modification des ouvrages de transport et de distribution électrique
+                  Dans le cas de modification des ouvrages existants de transport et de distribution électrique (moyenne et
+                  haute tension) une distance minimale de 4 m doit être maintenue entre l'ouvrage et les autres constructions
+                  autres que les annexes.
+
+
+
+
+  Article UF 9 - EMPRISE AU SOL
+
+                                              Conditions d'application de l'article
+
+
+                                         Page 8 / 15                           Modification n°13 approuvée le 03 octobre 2024
+        PLAN LOCAL D'URBANISME DE SAINT-ETIENNE
+                 REGLEMENT DE LA ZONE UF
+
+              Dans le cas d'un lotissement ou dans celui de la construction, sur un même terrain, de plusieurs
+              bâtiments dont le terrain d'assiette doit faire l'objet d'une division en propriété ou en jouissance,
+                   les dispositions du présent article s'appliquent à chacun des lots issus des divisions.
+
+                Le Coefficient d'Emprise au Sol est le rapport entre la projection verticale du volume de la
+              construction (incluant débords et auvents lorsqu’ils sont reliés au sol, les balcons et oriels) et la
+                                              superficie totale de la propriété.
+
+                Dans le cas d'un lotissement, les dispositions du présent article s'appliquent par rapport aux
+                 limites des terrains issus des divisions. Toutefois, en cas de réalisation de constructions
+                        mitoyennes, l'ensemble du projet est apprécié au regard du présent article.
+
+
+       9.1 - Dans la zone UF et tous ses secteurs, excepté les secteurs UFf, UFd, UFv et UFw
+                 Le coefficient d'emprise au sol pour les constructions est de 0,7
+
+       9.2 - Dans le secteur UFf
+                 Le coefficient d'emprise au sol n'est pas réglementé
+
+       9.3 - Dans le secteur UFd
+                 Le coefficient d'emprise au sol pour les constructions est de 0,6
+
+       9.4 - Dans les secteurs UFdt, UFv et UFw
+                 Le coefficient d'emprise au sol pour les constructions est de 0,8
+
+       9.5 - Dans le périmètre d’un Site Patrimonial Remarquable (SPR)
+              Il convient de se référer aux dispositions du règlement du SPR joint en annexe du PLU. En l'absence de
+              prescriptions particulières, il sera fait application des règles définies par le présent article.
+
+Article UF10 - HAUTEUR MAXIMUM DES CONSTRUCTIONS
+
+                               Définition de la hauteur pour l'application du présent article
+La hauteur d'une construction est la différence d'altitude entre tout point de celle-ci et l'altitude du terrain naturel à l'aplomb
+      du point considéré ou du niveau fini de la voie, souches de cheminée et superstructures techniques exclues.
+Dans les rues en pente, les différentes hauteurs pourront être reprises de 10 m en 10 m (minimum) à partir du point le plus
+                                               bas du niveau fini de la voie.
+
+
+La hauteur maximale définie au présent article ne dispense pas du respect des règles de hauteur définies à l'article 7.
+      
+       10.1 - Hauteur maximum des constructions au faîte hors superstructure
+
+                10.1.1 - Inscription de la hauteur au plan graphique (secteurs du "Technopole", de "ZA Couriot" et
+                           de "Pont de l'Ane - Monthieu")
+                            La hauteur maximale (H) des constructions indiquée dans le plan des hauteurs est celle
+                           correspondante au faîte de la construction hors superstructure technique.
+
+                10.1.2 - Absence de prescriptions graphiques
+                        - Dans la zone UF et ses secteurs, excepté les secteurs UFdt, UFv et UFw
+                            La hauteur maximale (H) des constructions au faîte hors superstructure technique est de
+                            19 mètres.
+
+                         - Dans les secteurs UFv et UFw
+                          La hauteur maximale (H) des constructions au faîte hors superstructure technique est de
+                         16 mètres.
+                         
+                         - Dans le secteur UFdt
+                          La hauteur maximale (H) des constructions au faîte hors superstructure technique est de
+                         23 mètres.
+                         
+       10.2 - Dans le périmètre d’un Site Patrimonial Remarquable (SPR)
+              Il convient de se référer aux dispositions du règlement du SPR joint en annexe du PLU. En l'absence de
+              prescriptions particulières, il sera fait application des règles définies par le présent article.
+
+
+                                        Page 9 / 15                          Modification n°13 approuvée le 03 octobre 2024
+      PLAN LOCAL D'URBANISME DE SAINT-ETIENNE
+               REGLEMENT DE LA ZONE UF
+
+            Lorsque pour une parcelle, les hauteurs prescrites par un SPR divergent de celles prescrites au PLU, c'est la
+            hauteur la plus basse qui s'applique. 
+    
+     10.3 - Modification des ouvrages de transport et de distribution électrique
+            Dans le cas de modification des ouvrages existants de transport et de distribution électrique (moyenne et
+            haute tension), il n'est pas fixé de hauteur maximale.
+
+     10.4 - Ouvrages techniques d'intérêt général
+            Dans le cas de réalisation d’ouvrages techniques d'intérêt général nécessaires au fonctionnement des
+            services publics ou liés à la voirie et aux réseaux divers, les normes ci-dessus peuvent ne pas être
+            appliquées.
+
+
+Article UF 11 - ASPECT EXTERIEUR
+     11.1 - Dans l'ensemble de la zone UF et ses secteurs
+              La construction ou l'opération d'aménagement, ne doit pas porter atteinte au caractère de la zone, à l'intérêt
+              des lieux avoisinants, aux sites, aux paysages naturels ou urbains ainsi qu'à la conservation des
+              perspectives monumentales.
+
+              Les bâtiments seront réalisés avec des matériaux dont la présentation sera de qualité.
+
+              Les toitures feront l'objet d'un traitement soigné. La couverture des bâtiments sera d'aspect mat.
+
+              Un soin particulier sera apporté à l'intégration des superstructures, antennes, équipements et édicules
+              techniques.
+
+              L'emploi à nu de matériaux destinés à être recouverts d'un parement ou d'un enduit (moellon, parpaing) est
+              interdit.
+
+     11.2 - Dans l'ensemble de la zone UF et ses secteurs, excepté les secteurs UFd et UFf
+
+              Les clôtures n'excéderont pas 2 m de hauteur comptée à partir du terrain naturel. Dans le cas où celles-ci
+              seraient situées à moins de 4 m mesurés horizontalement des ouvertures des constructions voisines, cette
+              hauteur pourra être modulée à la baisse.
+
+              Des clôtures supérieures à 2 m pourront être autorisées ou imposées lorsqu'elles répondront à des
+              nécessités techniques, de sécurité, ou paysagères.
+
+     11.3 –Dans le secteur UFf
+
+              Lorsqu'elles existent, les clôtures seront matérialisées par une grille à barreaudage d'une hauteur
+              maximale de 1,80 m. Les grillages ou autres types de clôture sont interdits.
+
+              Cependant, sur le site de « Monthieu », d’autres types de clôture, sans prescription de hauteur, pourront
+              être admises dès lors qu’elles participent à la qualité du centre commercial.
+
+     11.4 - Dans le secteur UFd
+
+              - Lorsqu'elles existent, les clôtures en bordure de voie seront légères de façon à favoriser la transparence.
+              - Lorsqu'elles existent, les clôtures en limites séparatives seront, soit légères de façon à favoriser la
+                transparence, soit à dominante végétale.
+
+     11.5 - Modulation de la règle de hauteur
+              Dans les secteurs UFv et UFw
+              La hauteur maximale définie à l'article 10 pourra, pour des motifs d'insertion dans le site, être modulée à la
+              baisse en fonction de la hauteur des constructions du site environnant.
+
+     11.6 – Dans les secteurs indicés « p »
+             Tout projet sur les sheds et les halles repérés comme « bâtiment à caractère patrimonial » dans les
+             orientations particulières d’aménagement de secteur devra respecter les règles suivantes :
+                 Etre respectueux de l’architecture initiale et s’attacher à mettre en valeur celle-ci
+                 S’intégrer dans le volume existant du bâtiment et ne pas modifier celui-ci
+                 Remettre à nu et laisser apparents les murs en brique et les structure métalliques avec un traitement
+                  qui assure leur pérennité
+                 Les verrières en bon état seront de préférence conservées
+
+
+                                   Page 10 / 15                        Modification n°13 approuvée le 03 octobre 2024
+      PLAN LOCAL D'URBANISME DE SAINT-ETIENNE
+               REGLEMENT DE LA ZONE UF
+
+                 Inscrire les nouvelles ouvertures, si besoin est, dans les verrières initiales, en excluant toute ouverture
+                  nouvelle dans les murs plein de briques.. Cependant, des ouvertures en rez-de-chaussée peuvent
+                  être autorisées, ainsi que la création de nouvelles verrières dans la partie sous charpente des pignons
+                  des sheds.
+
+     11.7 - Dans le périmètre d’un Site Patrimonial Remarquable (SPR)
+            Il convient de se référer aux dispositions du règlement du SPR joint en annexe du PLU. En l'absence de
+            prescriptions particulières, il sera fait application des règles définies par le présent article.
+
+
+Article UF 12 - STATIONNEMENT
+     12.1 – Dispositions relatives au stationnement des véhicules
+
+          La réalisation de constructions et les travaux d'aménagement de constructions existantes entraînent l'obligation
+          de réaliser des places de stationnement pour les véhicules suivant les règles définies dans le présent article.
+          Ces places de stationnement doivent être aménagées sur le terrain de l'opération ou dans son environnement
+          immédiat, en dehors des voies publiques ou ouvertes à la circulation publique.
+          Les places de parking devront disposer d'un accès satisfaisant.
+          Lorsqu'elles sont liées à une opération d'habitat, ces places bénéficieront, de préférence, d'un accès direct.
+          Pour les autres utilisations et occupations du sol, les constructions n'ayant pas un accès direct ne sont pas
+          comptabilisées en tant que telles.
+          Un plan détaillé précisant le nombre de places de stationnement et les conditions de fonctionnement et d'accès
+          des parkings, devra être joint à tout projet.
+          Le constructeur peut être tenu quitte de ces obligations en justifiant, pour les places qu'il ne peut réaliser lui-
+          même, soit de l'obtention d'une concession à long terme dans un parc public de stationnement existant ou en
+          cours de réalisation et situé à proximité de l'opération (à moins de 300 m), soit de l'acquisition de places dans
+          un parc privé de stationnement répondant aux mêmes conditions.
+          Il peut être tenu quitte de ses obligations lorsqu'il est fait application du 3ème alinéa de l'article L.123-1-12 du
+          Code de l'Urbanisme.
+
+
+           12.1.1 - Règles minimales par type d'occupation du sol
+
+                 Pour les occupations des sols suivantes et sous réserve du paragraphe 12.1.2 ci-après, le nombre de
+                 places de stationnement minimal à réaliser, sauf indication contraire instaurant un maximum, s'établit
+                 comme suit :
+
+                 12.1.1.1 - Habitat
+
+                            1 place pour 70 m² de surface de plancher d'habitation, sans qu’il puisse être exigé plus
+                            d’une 1 place par logement.
+
+                 12.1.1.2 - Equipements collectifs, activités tertiaires, hôtels et restaurants
+
+                     a)     Salles de réunions :                             1 place pour 15 m² de surface de plancher
+
+                     b)     Equipements culturels, salles de spectacles : 1 place pour 50 m² de surface de plancher
+                                                                          de locaux administratifs
+
+                     c)     Enseignement supérieur
+                            et formation professionnelle :                   1 place pour 50 m² de surface de plancher
+
+                     d)     Activités tertiaires :                           1 place pour 50 m² de surface de plancher
+                            Toutefois, si la construction à usage d’activités tertiaires est située en tout ou partie dans
+                            « l’aire d’influence du tramway pour les constructions tertiaires » définie au plan graphique
+                            annexé au règlement :                       1 place maximum pour 80 m² de surface de
+                            plancher
+
+                     e)     Hôtels                                           1 place pour 30 m² de surface de plancher
+
+                     f)     Restaurants                                      1 place pour 50 m² à partir de 100 m²
+                                                                             de salle de restauration
+
+
+                                     Page 11 / 15                       Modification n°13 approuvée le 03 octobre 2024
+ PLAN LOCAL D'URBANISME DE SAINT-ETIENNE
+          REGLEMENT DE LA ZONE UF
+
+
+         Cependant :
+
+                   - pour les équipements collectifs désignés au présent paragraphe par les lettres (a, b, c), les
+                     activités tertiaires (d) situés en dehors de « l’aire d’influence du tramway pour les constructions
+                     tertiaires », et les hôtels et restaurants désignées au présent paragraphe par les lettres (e, f),
+                     ces règles minimales peuvent être réduites de 50% si la construction est desservie par une
+                     ligne de transport collectif urbain de capacité suffisante.
+
+
+            12.1.1.3 - Commerces
+
+                - Dans la zone UF, excepté le secteur UFf du Pont de l’Ane
+
+                surf. de vente  100 m²                pas d'exigence particulière
+
+                100  surf. de V  500 m²              0 place de 0 à 100 m² de surface de vente
+                                                       1 place par tranche de 50 m² pour une surface
+                                                       de vente allant de 100 m² à 500 m².
+
+                Surf. de V  500 m²                    1 place pour 20 m² de surface de vente
+
+                - Dans le secteur UFf du Pont de l’Ane
+                                                     1 place maximum pour 20 m² de surface de vente
+
+            12.1.1.4 - Industrie, artisanat et entrepôts
+
+                Entrepôts:                             1 place pour 300 m² de surface de plancher
+
+                Autres activités:                      1 place pour 100 m² de surface de plancher
+
+                De plus, des surfaces devront être aménagées sur le terrain pour :
+
+                   - les manœuvres de chargement et de déchargement des véhicules,
+                   - le stationnement des véhicules de visiteurs, de livraison et de service.
+
+            12.1.1.5 - Autres constructions
+
+                La règle applicable aux constructions ou établissements non énumérés ci-dessus est celle à laquelle
+                ils sont le plus directement assimilables.
+
+        12.1.2 - Aménagements des bâtiments existants
+                 En cas d'aménagement ou d'extension des bâtiments existants, les règles minimales édictées au
+                 présent chapitre pourront ne pas être imposées, si l'extension :
+                 - est limitée à 35 % de la surface de plancher initiale des locaux si elle a pour effet de créer de la
+                 surface de plancher
+                 - est limitée à 15 % de l'emprise au sol initiale des locaux si elle n'a pas pour effet de créer de la
+                 surface de plancher, sous réserve de l'application des dispositions prévues à l'article 9.
+
+
+ 12.2 - Dispositions relatives aux bicyclettes
+
+          12.2.1 - Habitat et Bureau
+                   La règlementation relative aux bicyclettes est celle définie respectivement aux articles R111-14-
+                   4 et R111-14-5 du code de la construction et de l'habitation, ainsi que dans l’arrêté du 20 février
+                   2012 pris pour l’application de ces articles.
+
+                   Toutefois, en ce qui concerne les constructions à usage d’habitat, l’espace réservé au
+                   stationnement sécurisé des vélos devra être dans tous les cas réalisé, y compris en l’absence de
+                   parc de stationnement pour automobiles ou encore si ce parc ne comporte pas d'accès réservé
+                   aux seuls occupants de l'immeuble.
+
+                   L’espace réservé au stationnement des vélos sera alors intégré au rez-de chaussée du bâtiment
+                   ou à défaut au premier sous-sol et accessible facilement depuis le(s) point(s) d'entrée du
+                   bâtiment.
+
+          12.2.2 - Autres vocations du sol
+
+                              Page 12 / 15                        Modification n°13 approuvée le 03 octobre 2024
+      PLAN LOCAL D'URBANISME DE SAINT-ETIENNE
+               REGLEMENT DE LA ZONE UF
+
+                        L'espace nécessaire pour répondre aux besoins de stationnement des vélos devra être couvert
+                        et éclairé, aménagé de plain-pied et facilement accessible. Par ailleurs, cet espace devra être
+                        clos, excepté si la construction principale à laquelle il appartient, est elle-même clôturée.
+
+                        Des dispositifs fixes permettant de stabiliser et d'attacher les vélos par le cadre ou au moins
+                        une roue seront installés, une place de stationnement vélo équivalent à une surface de 1,5 m².
+
+                         Le local vélo pourra être intégré à la construction principale, rattaché à des locaux annexes ou
+                        représenter une identité indépendante.
+
+                        - Activité de production et Commerce:
+                          surf. < 250 m² de surface de plancher : pas d'exigence particulière
+                          surf. > 250 m² de surface de plancher : local de 5 m² minimum
+                          puis, par tranche de 150 m² de surface de plancher : 1,5 m² supplémentaire
+
+                          Pour la clientèle des commerces, il convient de prévoir des emplacements en nombre
+                          suffisant à proximité de l'entrée du commerce, sans nécessité de clôture.
+
+                        - Enseignement primaire :   3 m² par classe
+                        - Enseignement secondaire : 8 m² par classe
+                        - Enseignement supérieur : 3 m² pour 80 m² de SHON.
+
+              12.2.3 - Aménagements des bâtiments existants
+                        Les dispositions définies aux 12.2.1 et 12.2.2 s’appliquent dans le cadre d'une réhabilitation
+                        lourde sauf impossibilité liée à la nature ou à l'organisation de la construction.
+
+Article UF 13 - ESPACES LIBRES, ESPACES BOISES CLASSES
+
+     13.1 - Espaces libres
+
+           13.1.1 - Les arbres à haute tige seront conservés. Dans le cas exceptionnel où des arbres seraient abattus,
+                    ils seront remplacés par une essence à développement équivalent.
+
+           13.1.2 - L'équivalence de développement des espèces (notion de 1ère, 2ème, 3ème et 4ème grandeur) est définie
+                      en annexe du présent règlement.
+
+           13.1.3 - Les marges de recul doivent être plantées et jardinées.
+
+           13.1.4 - La partie du terrain en pleine terre non construite ou non aménagée en accès ou stationnement doit
+                    être plantée d'arbres à haute tige, sous réserve de préserver l'ensoleillement de la construction.
+
+           13.1.5 - Dans la zone UF et tous ses secteurs, excepté les secteurs UFd et UFac
+                      Les aires de stationnement doivent être plantées d'arbres à haute tige fléchée :
+                  - pour les arbres de première grandeur à raison d'un arbre pour 4 places de stationnement,
+                  - pour les arbres de seconde grandeur à raison d'un arbre pour 3 places de stationnement,
+                  - pour les arbres de troisième grandeur à raison d'un arbre pour 2 places de stationnement.
+
+                      En cas d’impossibilité technique avérée de réaliser des plantations profondes d’arbres en pleine
+                      terre pour les parkings sur dalles, d’autres solutions devront être mises en œuvre afin d’assurer un
+                      environnement végétal de qualité sur l’aire de stationnement.
+          
+           13.1.6 - En outre, dans la zone UF et tous ses secteurs, excepté les secteurs UFac, UFdt, UFf, UFm,
+                     UFv et UFw
+                    Les espaces plantés et jardinés doivent correspondre à 20 % minimum du tènement construit.
+          
+           13.1.7 – En outre, dans le secteur UFd
+                    Les espaces plantés et jardinés doivent correspondre à 30 % minimum du tènement construit. Une
+                    bande engazonnée de 3 m minimum sur la parcelle sera créée en bordure des voiries.
+          
+           13.1.8 - Le plan masse des constructions à édifier ou à modifier doit comprendre l’aménagement des
+                    espaces extérieurs avec des indications sur les plantations maintenues, supprimées ou créées.
+
+           13.1.9 - En outre, dans le secteur UFf
+
+                  13.1.9.1 - Les essences locales doivent être privilégiées.
+
+
+                                  Page 13 / 15                        Modification n°13 approuvée le 03 octobre 2024
+PLAN LOCAL D'URBANISME DE SAINT-ETIENNE
+         REGLEMENT DE LA ZONE UF
+
+
+          13.1.9.2 - Coefficient de biodiversité
+
+          Le tracé des corridors écologiques est détaillé dans l’OpAS. Ces tracés visent à l'établissement de
+          continuités écologiques à l’échelle des quartiers, dans le but de contribuer à la biodiversité urbaine.
+
+          Le coefficient de biodiversité, est désigné ci-après par Cbio.
+          A chaque type de surface est attribué un coefficient de pondération, décrit dans le tableau ci-après :
+
+                        Surface en
+     Coefficient                                         Type de surface                       Epaisseur de terre
+                        m² par type
+                                                     surfaces imperméables :
+         0                   Si                                                                        0 cm
+                                                           béton, enrobé,...
+                                                    surfaces peu perméables :
+         0,2                Spp          stationnement en gazon armé, sol pavés à joint de     0 ou terre compactée
+                                          sable, stabilisé, terrain de sport non synthétique
+                                                         toiture végétalisée :
+         0,3                 Stv                                                                3cm < ep < 20 cm
+                                                  une strate végétale rase (sédum)
+                                                         façade végétalisée :
+         0,3                 Stv               surface verticale d’accroche de plantes
+                                                 grimpantes <10m, ou mur végétal.
+                                                      jardin simple sur dalle :
+         0,5                Sjsd                          une strate végétale                    20 < ep < 45 cm
+                                                    herbacée de 3eme grandeur
+                                                      jardin moyen sur dalle :
+         0,7                Sjmd                                                                 45 < ep < 80 cm
+                                                    au moins 2 strates végétales
+                                                                                               Liaison des fosses de
+                                                  jardin pauvre en pleine terre :
+         0,8                 Sg                                                                  plantation avec le
+                                                     une seule strate végétale
+                                                                                                      tréfonds
+                                                   jardin riche sur étanchéité :
+         0,9                Sjre                                                                    ep > 80 cm
+                                                  au moins deux strates végétales
+                                                                                               Liaison des fosses de
+                                                                                                 plantation avec le
+         1                  Sjpt                       jardin en pleine terre                         tréfonds
+
+                                                          jardin d'eau :
+         1                  Sep           ouvrage hydraulique paysager avec une hauteur
+                                                     d'eau minimale de 40cm
+
+               La règle applicable aux types de surfaces non énumérés ci-dessus est celle à laquelle ils sont le plus
+               directement assimilables.
+
+
+               Calcul du coefficient de biodiversité
+
+               Le calcul du coefficient de biodiversité s'effectue de la manière suivante :
+
+             0.Si  0,2. S pp  0,3.S tv  0,3.S fv  0,5.S jfd  0,7.S jmd  0,8.S jg  0,9.S jrd  1.S ep  1.S jpt
+   C bio 
+                                                                 S parcelle
+
+               Valeur cible du coefficient de biodiversité
+
+               Cette disposition n’est pas applicable au site de « Monthieu ».
+
+               Pour le site du « Pont de l'Ane », Cbio est au moins égal à 0,25.
+
+               Pour vérifier cette disposition, le pétitionnaire remettra un plan de masse à l'échelle de 1/500eme
+               précisant la nature des surfaces et la position des corridors écologiques de l'OpAS, le cas échéant,
+               d’agrément compatibles avec leur destination (espaces verts, de détente, de jeux…).
+
+               Pour garantir la mise en œuvre des corridors écologiques indiqués à l'OpAS, une aggravation du
+               coefficient à 0,33 est exigée pour les parcelles mitoyennes de leurs tracés.
+
+  
+   13.1.10 – En outre, dans le secteur UFm
+               Les espaces plantés et jardinés doivent correspondre à 15% minimum du ténement construit.
+
+
+                             Page 14 / 15                          Modification n°13 approuvée le 03 octobre 2024
+        PLAN LOCAL D'URBANISME DE SAINT-ETIENNE
+                 REGLEMENT DE LA ZONE UF
+
+             
+
+       13.2 - Dans le périmètre d’un Site Patrimonial Remarquable (SPR)
+              Il convient de se référer aux dispositions du règlement du SPR joint en annexe du PLU. En l'absence de
+              prescriptions particulières, il sera fait application des règles définies par le présent article.
+
+
+       13.3 - Espaces boisés classés :
+
+              13.2.1 - Les espaces boisés classés, indiqués aux plans de zonage, sont soumis à l'article L 130.1 du Code
+                          de l'Urbanisme.
+
+              13.2.2 - Les élagages en espaces boisés classés seront réalisés dans le respect de la physiologie et de
+                          l'esthétique de l'arbre; en cas de nécessité absolue due à la physionomie du site, les élagages
+                          nécessaires pourront être réalisés.
+
+              13.2.3 - La représentation graphique des Espaces Boisés Classés figurant sur les plans de zonage ne peut
+                          être retenue en tant que mesure de protection lorsque cette représentation recouvre du bâti.
+
+
+
+
+       13.4 - Pour la totalité de l'article 13, il sera fait application des dispositions suivantes :
+
+      La force des arbres à la plantation doit être suffisante pour leur permettre :
+   De remplir le rôle pour lequel leur présence a été prescrite, à savoir embellir le paysage par l'apport de végétaux.
+   De résister aux agressions du milieu urbain.
+
+             Il est préconisé : - une circonférence du tronc supérieure ou égale à ɸ (phi) 14-16 cm mesurée à 1 mètre de
+                                 hauteur pour les feuillus, l'arbre étant d'une hauteur minimale de 3,50 mètres.
+
+                               - une hauteur de 125 à 150 cm pour les conifères.
+
+
+
+
+                                      Page 15 / 15                        Modification n°13 approuvée le 03 octobre 2024
+                    TerrenUrbanisme
+
+    Merci de votre confiance
+Ce rapport a été établi à partir des sources publiques officielles pour vous
+  aider à décider en connaissance de cause. Pour toute question, nous
+                        restons à votre disposition.
+
+
+
+
+   Vous êtes professionnel ? Travaillons ensemble
+      Agents immobiliers, notaires, architectes, géomètres, diagnostiqueurs,
+promoteurs, mairies : faisons équipe. Crédits professionnels sans abonnement, 5
+€ le rapport dès 50 crédits, votre logo sur les rapports, offre communale pour les
+                       mairies et partenariats sur mesure.
+
+               Écrivez-nous : contact@terrenurbanisme.com
+
+
+
+
+                        terrenurbanisme.com
+                         contact@terrenurbanisme.com
+
