@@ -818,10 +818,10 @@
   fetch('/blog/a-paraitre.json', { cache: 'no-store' }).then(function(r){ return r.ok ? r.json() : []; }).then(function(L){
     var now = Date.now();
     L.filter(function(a){ return Date.parse(a.pub) <= now; }).forEach(function(a){
-      if (document.querySelector('a.blog-card[href="/blog/' + a.slug + '.html"]')) return;
-      var h = '<a class="blog-card" href="/blog/' + esc(a.slug) + '.html"><span class="blog-tag">' + esc(a.catn) + '</span><strong>' + esc(a.title) + '</strong><span class="blog-ex">' + esc(a.desc) + '</span><span class="blog-meta">' + esc(a.date) + ' · ' + a.min + ' min de lecture</span></a>';
+      if (document.querySelector('a.bc[href="/blog/' + a.slug + '.html"]')) return;
+      var h = '<a class="bc" href="/blog/' + esc(a.slug) + '.html"><span class="bc-img"><img src="/assets/blog/' + esc(a.slug) + '-m.webp" width="800" height="450" loading="lazy" alt=""></span><span class="bc-t"><span class="blog-tag">' + esc(a.catn) + '</span><strong>' + esc(a.title) + '</strong><span class="blog-ex">' + esc(a.desc) + '</span><span class="bc-m"><span>' + esc(a.date) + ' · ' + a.min + ' min</span><span class="bc-go">Lire l\'article →</span></span></span></a>';
       der.insertAdjacentHTML('afterbegin', h);
-      var g = document.querySelector('.blog-grid[data-cat="' + a.cat + '"]');
+      var g = document.querySelector('.bg3[data-cat="' + a.cat + '"]');
       if (g) { g.hidden = false; g.insertAdjacentHTML('afterbegin', h); }
     });
     while (der.children.length > 6) der.removeChild(der.lastElementChild);
@@ -861,4 +861,17 @@
   var links = {}; nav.querySelectorAll('a').forEach(function(a){ links[a.getAttribute('href').slice(1)] = a; });
   var io = new IntersectionObserver(function(es){ es.forEach(function(e){ if (e.isIntersecting && links[e.target.id]) { nav.querySelectorAll('a.on').forEach(function(x){ x.classList.remove('on'); }); var a = links[e.target.id]; a.classList.add('on'); if (nav.scrollWidth > nav.clientWidth) nav.scrollLeft = a.offsetLeft - 20; } }); }, { rootMargin: '-40% 0px -55% 0px' });
   document.querySelectorAll('.rp-ch').forEach(function(c){ io.observe(c); });
+})();
+
+/* ---------- Article : sommaire actif, copie du lien ---------- */
+(function(){
+  document.querySelectorAll('.bs-cp').forEach(function(b){ b.addEventListener('click', function(){
+    var u = b.getAttribute('data-url'), done = function(){ b.classList.add('ok'); setTimeout(function(){ b.classList.remove('ok'); }, 1600); };
+    if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(u).then(done, function(){});
+    else { var t = document.createElement('textarea'); t.value = u; document.body.appendChild(t); t.select(); try { document.execCommand('copy'); done(); } catch (e) {} t.remove(); }
+  }); });
+  var toc = document.querySelector('.ba-toc'); if (!toc || !('IntersectionObserver' in window)) return;
+  var map = {}; toc.querySelectorAll('a').forEach(function(a){ map[a.getAttribute('href').slice(1)] = a; });
+  var io = new IntersectionObserver(function(es){ es.forEach(function(e){ if (e.isIntersecting && map[e.target.id]) { toc.querySelectorAll('a.on').forEach(function(x){ x.classList.remove('on'); }); map[e.target.id].classList.add('on'); } }); }, { rootMargin: '-20% 0px -70% 0px' });
+  document.querySelectorAll('.ba-c h2[id]').forEach(function(h){ io.observe(h); });
 })();
