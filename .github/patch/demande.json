@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "zones_libelles.py", "demande": "libelles zones et pieces"}
+{"fonction": "stripe-webhook", "script": "lire.py", "demande": "prix-191102"}
