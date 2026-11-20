@@ -875,3 +875,11 @@
   var io = new IntersectionObserver(function(es){ es.forEach(function(e){ if (e.isIntersecting && map[e.target.id]) { toc.querySelectorAll('a.on').forEach(function(x){ x.classList.remove('on'); }); map[e.target.id].classList.add('on'); } }); }, { rootMargin: '-20% 0px -70% 0px' });
   document.querySelectorAll('.ba-c h2[id]').forEach(function(h){ io.observe(h); });
 })();
+
+/* ---------- Copier une adresse e-mail ---------- */
+(function(){
+  document.querySelectorAll('[data-copy]').forEach(function(b){ b.addEventListener('click', function(){
+    var t = b.getAttribute('data-copy'), old = b.textContent, ok = function(){ b.textContent = 'Adresse copiée'; setTimeout(function(){ b.textContent = old; }, 1600); };
+    if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(t).then(ok, function(){});
+  }); });
+})();
