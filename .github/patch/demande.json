@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "geotechnique2.py", "demande": "geotech2-1850"}
+{"fonction": "stripe-webhook", "script": "lire_regl.py", "demande": "lire-prompt-1830"}
