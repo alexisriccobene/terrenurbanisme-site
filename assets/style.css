@@ -1340,3 +1340,9 @@ s.old{color:#E5584B;font-weight:600}
 .plan.feat s.old{color:#FF8A7A}
 .plan .promo{display:inline-block;align-self:flex-start;width:max-content;margin-top:10px;background:#D23B2E;color:#fff;font-weight:800;font-size:15px;line-height:1;padding:8px 12px;border-radius:7px}
 .plan .promo.vide{visibility:hidden}
+/* Affiliation : tous les métiers */
+.vf-g.aff-g{grid-template-columns:repeat(4,1fr)}
+@media (max-width:980px){.vf-g.aff-g{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:560px){.vf-g.aff-g{grid-template-columns:1fr}}
+.aff-note{text-align:center;margin:28px auto 0;max-width:640px;color:var(--muet,#6E625A)}
+.aff-note a{color:#A3462C;font-weight:700}
