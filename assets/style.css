@@ -1303,3 +1303,15 @@ body:has(.of-sticky){padding-bottom:84px}
 body:has(.of-sticky) .tu-bot-btn,body:has(.of-sticky) .tu-bot{bottom:96px!important}
 .of-hero{padding-bottom:64px}
 .of-parc span{white-space:normal}
+/* Connexion unifiée */
+.auth-card #login-form h1,.auth-card #login-sent h1{text-align:center;font-size:30px;margin-bottom:8px}
+.auth-card .auth-lede{text-align:center;margin-bottom:24px}
+.auth-card .field{margin-bottom:14px}
+.auth-card #login-btn{margin-top:6px}
+.auth-card .auth-links{display:flex;flex-direction:column;align-items:center;gap:10px;text-align:center;margin-top:16px;font-size:14.5px}
+.auth-card .btn.google{display:flex;align-items:center;justify-content:center;gap:10px;font-weight:600}
+.auth-card .btn.google+.btn.google{margin-top:10px}
+.btn.google.apple{background:#111;color:#fff;box-shadow:none}
+.btn.google.apple:hover{background:#000}
+.auth-card .auth-legal{margin-top:18px;line-height:1.5}
+@media (max-width:520px){.auth-wrap{padding:28px 16px}.auth-card{padding:26px 20px;border-radius:18px}.auth-card #login-form h1{font-size:26px}}

@@ -144,7 +144,7 @@
       email.parentNode.hidden = m === 'nouveau'; $('lf-pw').hidden = m === 'reset'; $('lf-pw2').hidden = !(m === 'signup' || m === 'nouveau');
       $('lf-forgot').hidden = m !== 'login';
       pw.setAttribute('autocomplete', m === 'login' ? 'current-password' : 'new-password');
-      var gb = $('google-btn'), orr = document.querySelector('.auth-or'); if (cfg.google && gb){ gb.hidden = m === 'nouveau' || m === 'reset'; if (orr) orr.hidden = gb.hidden; }
+      var gb = $('google-btn'), ab = $('apple-btn'), orr = document.querySelector('.auth-or'), soc = m === 'nouveau' || m === 'reset'; if (gb) gb.hidden = !cfg.google || soc; if (ab) ab.hidden = !cfg.apple || soc; if (orr) orr.hidden = (!cfg.google && !cfg.apple) || soc;
     }
     $('lf-sw-a').addEventListener('click', function(e){ e.preventDefault(); setMode(mode === 'login' ? 'signup' : 'login'); });
     $('lf-forgot').addEventListener('click', function(e){ e.preventDefault(); setMode('reset'); });
@@ -171,7 +171,8 @@
       e.preventDefault(); msg.textContent = '';
       if (!sb){ fail('La connexion n\'est pas encore activée sur ce site.'); return; }
       var em = email.value.trim(), p1 = pw.value, p2 = pw2.value;
-      if (mode !== 'nouveau' && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(em)){ fail('Indiquez une adresse e-mail valide.'); return; }
+      if (mode === 'login' && em && em.indexOf('@') < 0 && window.TUMairieLogin){ if (!p1){ fail('Indiquez votre mot de passe.'); return; } btn.disabled = true; btn.textContent = 'Connexion…'; window.TUMairieLogin(em, p1).catch(function(t){ fail(t); }); return; }
+      if (mode !== 'nouveau' && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(em)){ fail('Indiquez une adresse e-mail valide, ou l\'identifiant de votre commune.'); return; }
       if (mode !== 'reset' && p1.length < 8){ fail(mode === 'login' ? 'Indiquez votre mot de passe.' : 'Le mot de passe doit contenir au moins 8 caractères.'); return; }
       if ((mode === 'signup' || mode === 'nouveau') && p1 !== p2){ fail('Les deux mots de passe ne sont pas identiques.'); return; }
       btn.disabled = true; btn.textContent = 'Un instant…';
@@ -204,7 +205,11 @@
         fail('L\'envoi a échoué. Vérifiez l\'adresse et réessayez.');
       });
     });
-    if (!cfg.google){ var gb = $('google-btn'), orr = document.querySelector('.auth-or'); if (gb) gb.hidden = true; if (orr) orr.hidden = true; }
+    var gb0 = $('google-btn'), ab0 = $('apple-btn'), orr0 = document.querySelector('.auth-or');
+    if (gb0 && !cfg.google) gb0.hidden = true;
+    if (ab0 && !cfg.apple) ab0.hidden = true;
+    if (orr0 && !cfg.google && !cfg.apple) orr0.hidden = true;
+    if (ab0) ab0.addEventListener('click', function(){ if (sb) sb.auth.signInWithOAuth({ provider: 'apple', options: { redirectTo: location.origin + redirect } }); });
     $('google-btn').addEventListener('click', function(){
       if (!sb){ msg.className = 'err'; msg.textContent = 'La connexion n\'est pas encore activée sur ce site.'; return; }
       sb.auth.signInWithOAuth({ provider: 'google', options: { redirectTo: location.origin + redirect } });
