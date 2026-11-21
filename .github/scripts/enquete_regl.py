@@ -24,7 +24,7 @@ def lire_pdf(url):
     info = subprocess.run(['pdfinfo', '/tmp/r.pdf'], capture_output=True, text=True).stdout
     r['pages'] = next((l.split(':', 1)[1].strip() for l in info.splitlines() if l.startswith('Pages')), None)
     t = subprocess.run(['pdftotext', '-layout', '/tmp/r.pdf', '-'], capture_output=True, text=True).stdout
-    r['chars'] = len(t); r['debut'] = re.sub(r'\s+', ' ', t[:1500])
+    r['chars'] = len(t); r['debut'] = re.sub(r'[\x00-\x08\x0b-\x1f]', ' ', re.sub(r'\s+', ' ', t[:1500]))
     r['articles'] = len(re.findall(r'\barticle\b', t, re.I)); r['hauteur'] = len(re.findall(r'hauteur', t, re.I))
     r['liens'] = sorted(set(re.findall(r'https?://[^\s<>"\)]+', t)))[:15]
     return r
@@ -54,8 +54,13 @@ def enquete(insee):
     seen = []; [seen.append(u) for u in cands if u not in seen]
     r['lectures'] = [lire_pdf(u) for u in seen[:5]]
     return r
-out = [enquete(i) for i in os.environ['INSEE'].split()]
-q = "insert into public.tu_debug (k, v) values ('enquete_regl', $tu$" + json.dumps(out, ensure_ascii=False).replace('$tu$', '') + "$tu$::jsonb)"
-rq = urllib.request.Request(f"https://api.supabase.com/v1/projects/{os.environ['REF']}/database/query", data=json.dumps({'query': q}).encode(), method='POST',
-    headers={'Authorization': 'Bearer ' + os.environ['SUPABASE_ACCESS_TOKEN'], 'Content-Type': 'application/json'})
-print(urllib.request.urlopen(rq, timeout=60).status)
+def envoyer(o):
+    t = json.dumps(o, ensure_ascii=False).replace('$tu$', '').replace('\\u0000', '')
+    q = "insert into public.tu_debug (k, v) values ('enquete_regl', $tu$" + t + "$tu$::jsonb)"
+    rq = urllib.request.Request(f"https://api.supabase.com/v1/projects/{os.environ['REF']}/database/query", data=json.dumps({'query': q}).encode(), method='POST',
+        headers={'Authorization': 'Bearer ' + os.environ['SUPABASE_ACCESS_TOKEN'], 'Content-Type': 'application/json'})
+    try: print(urllib.request.urlopen(rq, timeout=60).status)
+    except urllib.error.HTTPError as e: print('::warning::', e.code, e.read()[:300])
+for i in os.environ['INSEE'].split():
+    try: envoyer([enquete(i)])
+    except Exception as e: envoyer([{'insee': i, 'erreur': repr(e)[:300]}])
