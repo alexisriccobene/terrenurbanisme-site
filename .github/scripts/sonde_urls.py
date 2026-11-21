@@ -23,6 +23,7 @@ for u in os.environ['URLS'].split():
                 J = json.loads(h)
                 r['json'] = json.dumps([{k: d.get(k) for k in ('id', 'status', 'effectiveStatus', 'legalStatus', 'uploadDate', 'originalName')} for d in J], ensure_ascii=False)[:6000] if isinstance(J, list) and J and isinstance(J[0], dict) and 'status' in J[0] else h[:6000]
             except Exception: r['json'] = h[:6000]
+            if '"idu"' in h: r['idus'] = re.findall(r'"idu":"([0-9A-Z]+)"', h)[:5]
         else: r['liens'] = sorted(set(re.findall(r'href=["\']([^"\']+)', h)))[:300]; r['titre'] = (re.findall(r'<title>([^<]*)', h) or [''])[0][:120]
     out.append(r)
 q = "insert into public.tu_debug (k, v) values ('sonde_urls', $tu$" + json.dumps(out, ensure_ascii=False).replace('$tu$', '') + "$tu$::jsonb)"
