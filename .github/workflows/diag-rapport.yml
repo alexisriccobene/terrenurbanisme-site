@@ -1,0 +1,44 @@
+name: Diagnostic des données d'un rapport
+# Outil interne : récupère les données assemblées (format JSON, sans PDF) de parcelles de test et les enregistre dans tu_debug.
+on:
+  workflow_dispatch:
+    inputs:
+      parcelles:
+        description: "insee:section:numero séparés par des espaces"
+        required: true
+permissions:
+  contents: read
+jobs:
+  diag:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      KEY: ${{ secrets.TU_ADMIN_KEY }}
+      SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
+      REF: nmoigruxnhsidrhqtzid
+      P: ${{ github.event.inputs.parcelles }}
+    steps:
+      - run: |
+          python3 - <<'PY'
+          import json, os, re, urllib.request
+          out = []
+          for item in os.environ['P'].split():
+              if not re.fullmatch(r'[0-9AB]{5}:[0-9A-Z]{1,2}:\d{1,4}', item): continue
+              i, s, n = item.split(':')
+              r = {'p': item}
+              try:
+                  rq = urllib.request.Request(f"https://{os.environ['REF']}.supabase.co/functions/v1/stripe-webhook?insee={i}&section={s}&numero={n}&format=json", method='POST', headers={'x-tu-admin': os.environ['KEY']})
+                  d = json.loads(urllib.request.urlopen(rq, timeout=140).read())
+                  r['doc'] = d.get('doc'); r['verdict'] = (d.get('verdict') or {}).get('key'); r['zones'] = [z.get('code') for z in d.get('zones') or []]
+                  rk = d.get('risques') or {}
+                  r['risques'] = {k: rk.get(k) for k in ('unavailable', 'secours', 'addressLevel', 'rga', 'sismique', 'radon')}
+                  r['naturels'] = [(x.get('label'), x.get('commune'), x.get('adresse')) for x in rk.get('naturels') or []]
+                  r['techno'] = [(x.get('label'), x.get('commune')) for x in rk.get('techno') or []]
+              except Exception as e:
+                  r['erreur'] = str(e)[:300]
+              out.append(r)
+          q = "insert into public.tu_debug (k, v) values ('diag_rapport', $tu$" + json.dumps(out, ensure_ascii=False).replace('$tu$', '') + "$tu$::jsonb)"
+          rq = urllib.request.Request(f"https://api.supabase.com/v1/projects/{os.environ['REF']}/database/query", data=json.dumps({'query': q}).encode(), method='POST',
+              headers={'Authorization': 'Bearer ' + os.environ['SUPABASE_ACCESS_TOKEN'], 'Content-Type': 'application/json'})
+          print(urllib.request.urlopen(rq, timeout=60).status)
+          PY
