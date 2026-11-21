@@ -61,7 +61,7 @@
   }
   function searchCommunes(q, limit){
     var ctl = window.AbortController ? new AbortController() : null, t = ctl ? setTimeout(function(){ ctl.abort(); }, 4000) : null;
-    return fetch(GEO+'/communes?nom='+encodeURIComponent(q)+'&fields=nom,code,codeDepartement,population&boost=population&limit='+(limit||8), ctl ? { signal: ctl.signal } : {})
+    return fetch(GEO+'/communes?'+(/^\d{5}$/.test(q) ? 'codePostal='+q : 'nom='+encodeURIComponent(q))+'&fields=nom,code,codeDepartement,codesPostaux,population&boost=population&limit='+(limit||8), ctl ? { signal: ctl.signal } : {})
       .then(function(r){ if (!r.ok) throw new Error('http '+r.status); return r.json(); })
       .catch(function(){ return localCommunes(q, limit); })
       .then(function(l){ if (t) clearTimeout(t); (l||[]).forEach(function(c){ comMap[norm(comLabel(c))] = c.code; }); return l || []; });
@@ -77,15 +77,49 @@
       return c ? c.code : null;
     });
   }
+  /* Liste déroulante des communes : propositions visibles dès les premières lettres, sur ordinateur comme sur mobile */
   function bindCommuneInput(input, dl){
-    if (!input || !dl) return; var t = null;
-    input.addEventListener('input', function(){
-      clearTimeout(t); var q = input.value.trim();
-      if (q.length < 2 || /\(\w{2,3}\)$/.test(q)) return;
-      t = setTimeout(function(){
-        searchCommunes(q, 8).then(function(l){ dl.innerHTML = l.map(function(c){ return '<option value="'+esc(comLabel(c))+'">'; }).join(''); }).catch(function(){});
-      }, 180);
+    if (!input) return;
+    input.removeAttribute('list'); if (dl && dl.parentNode) dl.parentNode.removeChild(dl);
+    input.setAttribute('role', 'combobox'); input.setAttribute('aria-autocomplete', 'list'); input.setAttribute('aria-expanded', 'false');
+    var ul = document.createElement('ul'), lid = input.id + '-ac';
+    ul.className = 'suggest'; ul.id = lid; ul.setAttribute('role', 'listbox'); ul.hidden = true;
+    input.setAttribute('aria-controls', lid);
+    (input.closest('.field') || input.parentNode).appendChild(ul);
+    var t = null, items = [], active = -1, seq = 0;
+    function close(){ ul.hidden = true; active = -1; input.setAttribute('aria-expanded', 'false'); input.removeAttribute('aria-activedescendant'); }
+    function render(){
+      if (!items.length){ ul.innerHTML = '<li class="vide" aria-disabled="true">Aucune commune trouvée</li>'; ul.hidden = false; input.setAttribute('aria-expanded', 'true'); return; }
+      ul.innerHTML = items.map(function(c, i){
+        return '<li role="option" id="'+lid+'-'+i+'" aria-selected="'+(i===active)+'">'+esc(c.nom)+' <small>'+esc(c.codeDepartement)+(c.codesPostaux && c.codesPostaux[0] ? ' · '+esc(c.codesPostaux[0]) : '')+'</small></li>';
+      }).join('');
+      ul.hidden = false; input.setAttribute('aria-expanded', 'true');
+      if (active >= 0) input.setAttribute('aria-activedescendant', lid+'-'+active);
+    }
+    function choose(i){
+      var c = items[i]; if (!c) return;
+      input.value = comLabel(c); comMap[norm(comLabel(c))] = c.code; close();
+      input.dispatchEvent(new Event('input', { bubbles:true })); input.dispatchEvent(new Event('change', { bubbles:true }));
+      var nx = input.form && input.form.querySelector('#sec'); if (nx && !nx.value) nx.focus();
+    }
+    function chercher(){
+      var q = input.value.trim();
+      if (q.length < 2 || /\(\w{2,3}\)$/.test(q)){ items = []; close(); return; }
+      var n = ++seq;
+      searchCommunes(q, 8).then(function(l){ if (n !== seq) return; items = l; active = l.length ? 0 : -1; if (document.activeElement === input) render(); }).catch(function(){});
+    }
+    input.addEventListener('input', function(e){ if (!e.isTrusted) return; clearTimeout(t); t = setTimeout(chercher, 150); });
+    input.addEventListener('focus', function(){ if (input.value.trim().length >= 2 && !/\(\w{2,3}\)$/.test(input.value.trim())) chercher(); });
+    input.addEventListener('keydown', function(e){
+      if (ul.hidden || !items.length) return;
+      if (e.key === 'ArrowDown'){ e.preventDefault(); active = Math.min(active+1, items.length-1); render(); }
+      else if (e.key === 'ArrowUp'){ e.preventDefault(); active = Math.max(active-1, 0); render(); }
+      else if ((e.key === 'Enter' || e.key === 'Tab') && active >= 0){ if (e.key === 'Enter') e.preventDefault(); choose(active); }
+      else if (e.key === 'Escape'){ close(); }
     });
+    ul.addEventListener('mousedown', function(e){ e.preventDefault(); });
+    ul.addEventListener('click', function(e){ var li = e.target.closest('li[role=option]'); if (li) choose(+li.id.split('-').pop()); });
+    input.addEventListener('blur', function(){ setTimeout(close, 150); });
   }
 
   /* ---------- Formulaire de recherche ---------- */

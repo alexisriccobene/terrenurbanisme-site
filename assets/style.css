@@ -82,6 +82,8 @@ p{margin:0}
 .suggest li{padding:10px 12px;border-radius:8px;cursor:pointer;font-size:15px}
 .suggest li[aria-selected="true"],.suggest li:hover{background:var(--soft2)}
 .suggest small{color:var(--muet)}
+.suggest li.vide{color:var(--muet);cursor:default;background:none}
+.suggest{max-height:min(320px,50vh);overflow-y:auto}
 
 /* Carte du héros */
 .scope{position:relative;border-radius:22px;overflow:hidden;background:#D9D2C6;min-height:560px;box-shadow:0 30px 60px -32px rgba(42,29,23,.45)}
