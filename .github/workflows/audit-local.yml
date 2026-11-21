@@ -1,0 +1,63 @@
+name: Audit local des rapports (comme les vraies commandes)
+# Génère des rapports d'aperçu sur un serveur GitHub (sans limite de calcul, comme les commandes réelles) et contrôle le texte.
+on:
+  workflow_dispatch:
+    inputs:
+      parcelles: { description: "insee:section:numero séparés par des espaces", required: true }
+      lot: { description: "nom du lot", required: false, default: "local" }
+permissions:
+  contents: write
+jobs:
+  a:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    env:
+      SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
+      KEY: ${{ secrets.TU_ADMIN_KEY }}
+      REF: nmoigruxnhsidrhqtzid
+      SR: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      PARCELLES: ${{ github.event.inputs.parcelles }}
+      LOT: ${{ github.event.inputs.lot }}
+    steps:
+      - uses: actions/checkout@v4
+        with: { sparse-checkout: ".github/deploy\n.github/scripts" }
+      - uses: denoland/setup-deno@v2
+        with: { deno-version: v2.x }
+      - run: sudo apt-get install -y -qq poppler-utils >/dev/null
+      - name: Préparer la fonction
+        run: |
+          set -euo pipefail
+          K=$(curl -sf -X POST "https://api.supabase.com/v1/projects/$REF/database/query" -H "Authorization: Bearer $SUPABASE_ACCESS_TOKEN" -H "Content-Type: application/json" \
+            -d '{"query":"select decrypted_secret as k from vault.decrypted_secrets where name = '\''tu_deploy_key'\'' limit 1"}' | jq -r '.[0].k')
+          [ ${#K} -eq 64 ] || { echo "::error::clé introuvable"; exit 1; }
+          printf '%s' "$K" > "$RUNNER_TEMP/k"
+          mkdir -p fn && openssl enc -d -aes-256-cbc -pbkdf2 -iter 200000 -in .github/deploy/stripe-webhook.ts.enc -out fn/index.ts -pass "file:$RUNNER_TEMP/k"; rm -f "$RUNNER_TEMP/k"
+      - name: Générer et contrôler
+        env:
+          SUPABASE_URL: https://nmoigruxnhsidrhqtzid.supabase.co
+          SITE_URL: https://terrenurbanisme.com
+        run: |
+          set -uo pipefail
+          export SUPABASE_SERVICE_ROLE_KEY="$SR" ADMIN_KEY="$KEY" GITHUB_TOKEN="${{ github.token }}" TU_LOCAL=1
+          deno run -A --no-check fn/index.ts > srv.log 2>&1 &
+          for i in $(seq 1 90); do curl -s -o /dev/null http://localhost:8000/ && break; sleep 2; done
+          mkdir -p out
+          for P in $PARCELLES; do
+            IFS=: read I S N <<< "$P"
+            t0=$(date +%s)
+            code=$(curl -s -m 900 -o "out/$I-$S-$N.pdf" -w '%{http_code}' -X POST "http://localhost:8000/?key=$KEY&insee=$I&section=$S&numero=$N")
+            dt=$(( $(date +%s) - t0 ))
+            if head -c 4 "out/$I-$S-$N.pdf" | grep -q '%PDF'; then
+              pdftotext -layout "out/$I-$S-$N.pdf" "out/$I-$S-$N.txt"; rm "out/$I-$S-$N.pdf"
+              nl=$(grep -c "pas pu être lu automatiquement" "out/$I-$S-$N.txt" || true)
+              echo "$P http=$code ${dt}s pages=$(grep -c $'\f' out/$I-$S-$N.txt) non_lu=$nl"
+            else echo "$P http=$code ${dt}s PAS DE PDF $(head -c 200 out/$I-$S-$N.pdf)"; rm -f "out/$I-$S-$N.pdf"; fi
+          done | tee out/bilan.txt
+          grep -iE "règlement|reglement|analyse" srv.log | tail -80 > out/serveur.txt || true
+      - name: Pousser
+        if: always()
+        run: |
+          cp -r out /tmp/o
+          git config user.name "TerrenUrbanisme tests"; git config user.email "contact@terrenurbanisme.com"
+          git checkout --orphan "audit-local-$LOT"; git rm -rqf . || true; git sparse-checkout disable || true; cp -r /tmp/o/* .; git add -A; git commit -qm "audit local $LOT"; git push -f origin "audit-local-$LOT"
