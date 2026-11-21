@@ -1170,3 +1170,43 @@ body:has(.ck-banner:not([hidden])) .tu-bot{display:none}
 .faq{margin-inline:auto}
 [data-pro-links] .wrap{text-align:center}
 [data-pro-links] .wrap p{justify-content:center}
+/* Pages métiers : héros sur bandeau pleine largeur, mosaïque */
+.page-head.mh{background:#FBEEE8;border-bottom:0;padding-block:40px 56px;overflow:hidden}
+.mh-g{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,.9fr);gap:56px;align-items:center}
+.mh-t h1{font-size:clamp(32px,4.4vw,54px);line-height:1.06;letter-spacing:-.02em;margin:14px 0 16px;text-wrap:balance}
+.mh-l{list-style:none;margin:20px 0 0;padding:0;display:flex;flex-direction:column;gap:12px}
+.mh-l li{display:flex;gap:12px;align-items:flex-start;font-size:17.5px;font-weight:700;color:var(--ink);line-height:1.4}
+.mh-l li::before{content:"";flex:0 0 22px;height:22px;margin-top:1px;border-radius:50%;background:var(--t) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M6 12.5l4 4 8-9'/%3E%3C/svg%3E") center/14px no-repeat}
+.mh-b{display:flex;flex-wrap:wrap;gap:12px;margin-top:30px}
+.mh-b .btn{padding:15px 26px;border-radius:999px;min-width:220px;justify-content:center}
+.mh .crumb{margin-bottom:10px}
+.mz{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.mz-c{display:flex;flex-direction:column;gap:16px}
+.mz-c2{margin-top:44px}
+.mz-t{background:#FFFFFF;border-radius:18px;padding:26px 20px;text-align:center;display:flex;flex-direction:column;align-items:center;gap:10px;box-shadow:0 18px 36px -26px rgba(42,29,23,.4)}
+.mz-t b{font-size:clamp(30px,3vw,40px);line-height:1;letter-spacing:-.02em;color:var(--ink)}
+.mz-t b::after{content:"";display:block;width:56px;height:2px;background:currentColor;opacity:.35;margin:14px auto 0}
+.mz-t span{font-size:14.5px;line-height:1.4;color:var(--muet);max-width:22ch}
+.mz-d{background:#2A1D17}.mz-d b,.mz-d span{color:#FFFFFF}
+.mz-t2{background:var(--t)}.mz-t2 b,.mz-t2 span{color:#FFFFFF}
+.mz-i{border-radius:18px;overflow:hidden;box-shadow:0 18px 36px -26px rgba(42,29,23,.4);background:#fff}
+.mz-i img{display:block;width:100%;height:100%;object-fit:cover;aspect-ratio:4/3}
+.mz-tall img{aspect-ratio:3/4;object-position:top}
+@media (max-width:980px){.mh-g{grid-template-columns:1fr;gap:32px}.mz-c2{margin-top:0}}
+@media (max-width:560px){.mz{gap:10px}.mz-c{gap:10px}.mz-t{padding:18px 12px}.mh-b .btn{min-width:0;flex:1 1 100%}}
+/* Tarifs pro : économie et offre personnalisée */
+.eco{display:inline-block;align-self:flex-start;margin:-2px 0 6px;padding:3px 10px;border-radius:8px;background:#FBE4DC;color:#9A3412;font-size:13px;font-weight:800}
+.offre-b{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:16px 24px;margin:22px 0 10px;padding:26px 30px;border-radius:20px;background:var(--t);color:#FFFFFF}
+.offre-b b{display:block;font-size:clamp(20px,2.2vw,26px);line-height:1.2}
+.offre-b span{display:block;margin-top:4px;color:#FBE4DC}
+.offre-b .btn{background:transparent;border:1.5px solid #FFFFFF;color:#FFFFFF;border-radius:999px;padding:12px 24px}
+.offre-b .btn:hover{background:#FFFFFF;color:var(--t)}
+/* Bandeau offre personnalisée, sous les formules pro */
+.sur-mesure{background:var(--t);border:0;border-radius:20px;padding:28px 32px;color:#FFFFFF}
+.sur-mesure strong{font-size:clamp(20px,2.2vw,26px);line-height:1.2;color:#FFFFFF}
+.sur-mesure span{color:#FBE4DC;font-size:15.5px;display:block;margin-top:4px}
+.sur-mesure .sm-btns{display:flex;flex-wrap:wrap;gap:10px}
+.sur-mesure .btn{background:#FFFFFF;color:var(--t);border-radius:999px;padding:12px 22px}
+.sur-mesure .btn:hover{background:#2A1D17;color:#FFFFFF}
+.sur-mesure .btn.ghost{background:transparent;color:#FFFFFF;box-shadow:inset 0 0 0 1.5px #FFFFFF}
+.sur-mesure .btn.ghost:hover{background:#FFFFFF;color:var(--t)}
