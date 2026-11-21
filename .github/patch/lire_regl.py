@@ -1,5 +1,4 @@
-import sys, re
+import sys
 L = open(sys.argv[1], encoding='utf-8').read().split('\n')
-for i, l in enumerate(L):
-    if re.search(r"g[ée]otechni|L\. ?132|logement ===|logement:|\blogement\b.*schema|lieAct|K\.logement", l, re.I): print('%5d| %s' % (i + 1, l[:600]))
+for i in range(2745, 2768): print('%5d| %s' % (i + 1, L[i][:500]))
 sys.exit(1)
