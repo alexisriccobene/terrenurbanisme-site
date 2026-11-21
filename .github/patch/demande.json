@@ -1,1 +1,1 @@
-{"fonction": "create-checkout", "script": "prix_v2.py", "demande": "prix-v2-1712"}
+{"fonction": "stripe-webhook", "script": "lire_regl.py", "demande": "lire-regl-1725"}
