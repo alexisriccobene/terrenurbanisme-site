@@ -811,20 +811,23 @@
   document.body.appendChild(root);
 })();
 
-/* ---------- Blog : articles programmés (un par jour à 17 h), affichés à leur date de parution ---------- */
+/* ---------- Blog : articles programmés (un par jour à 17 h) et filtre par thématique ---------- */
 (function(){
-  var der = document.getElementById('blog-derniers'); if (!der) return;
+  var grid = document.getElementById('bgrid'); if (!grid) return;
   var esc = function(t){ return String(t).replace(/[&<>"]/g, function(c){ return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); };
+  var tabs = document.querySelectorAll('.btabs [data-f]'), cur = 'tous';
+  var apply = function(f){ cur = f; tabs.forEach(function(t){ var on = t.getAttribute('data-f') === f; t.classList.toggle('on', on); t.setAttribute('aria-pressed', on ? 'true' : 'false'); });
+    grid.classList.toggle('f', f !== 'tous'); var n = 0; grid.querySelectorAll('.bc').forEach(function(c){ var ok = f === 'tous' || c.getAttribute('data-cat') === f; c.hidden = !ok; if (ok) n++; });
+    var e = document.getElementById('bempty'); if (e) e.hidden = n > 0; };
+  tabs.forEach(function(t){ t.addEventListener('click', function(){ var f = t.getAttribute('data-f'); apply(f); try { history.replaceState(null, '', f === 'tous' ? location.pathname : '#' + f); } catch (e) {} }); });
+  var h = (location.hash || '').slice(1); if (h && document.querySelector('.btabs [data-f="' + h + '"]')) apply(h);
   fetch('/blog/a-paraitre.json', { cache: 'no-store' }).then(function(r){ return r.ok ? r.json() : []; }).then(function(L){
     var now = Date.now();
     L.filter(function(a){ return Date.parse(a.pub) <= now; }).forEach(function(a){
       if (document.querySelector('a.bc[href="/blog/' + a.slug + '.html"]')) return;
-      var h = '<a class="bc" href="/blog/' + esc(a.slug) + '.html"><span class="bc-img"><img src="/assets/blog/' + esc(a.slug) + '-m.webp" width="800" height="450" loading="lazy" alt=""></span><span class="bc-t"><span class="blog-tag">' + esc(a.catn) + '</span><strong>' + esc(a.title) + '</strong><span class="blog-ex">' + esc(a.desc) + '</span><span class="bc-m"><span>' + esc(a.date) + ' · ' + a.min + ' min</span><span class="bc-go">Lire l\'article →</span></span></span></a>';
-      der.insertAdjacentHTML('afterbegin', h);
-      var g = document.querySelector('.bg3[data-cat="' + a.cat + '"]');
-      if (g) { g.hidden = false; g.insertAdjacentHTML('afterbegin', h); }
+      grid.insertAdjacentHTML('afterbegin', '<a class="bc" data-cat="' + esc(a.cat) + '" href="/blog/' + esc(a.slug) + '.html"><span class="bc-img"><img src="/assets/blog/' + esc(a.slug) + '-m.webp" width="800" height="450" loading="lazy" alt="' + esc(a.title) + '"></span><span class="bc-t"><span class="blog-tag">' + esc(a.catn) + '</span><strong>' + esc(a.title) + '</strong><span class="blog-ex">' + esc(a.desc) + '</span><span class="bc-m"><span>' + esc(a.date) + ' · ' + a.min + ' min</span><span class="bc-go">Lire l\'article →</span></span></span></a>');
     });
-    while (der.children.length > 6) der.removeChild(der.lastElementChild);
+    apply(cur);
   }).catch(function(){});
 })();
 
