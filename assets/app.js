@@ -567,7 +567,7 @@
       if (!A || !A.ready){ err.textContent = 'Le paiement n\'est pas encore activé.'; return; }
       setAll(credits > 0 || inclus ? 'Génération du rapport…' : 'Redirection vers le paiement…', true);
       A.user().then(function(u){
-        if (!u) return A.checkout(kind, parcelRef); // paiement sans compte : l'e-mail est demandé sur la page de paiement
+        if (!u) return window.TUFunnel ? window.TUFunnel.email(kind, parcelRef).then(function(v){ if (v === 'ferme') setAll(label, false); }) : A.checkout(kind, parcelRef);
         if (!u){ location.href = A.loginUrl('/?commune=' + encodeURIComponent(inseeOf(p) !== p.code_insee ? inseeOf(p) : p.nom_com) + '&section=' + encodeURIComponent(sec) + '&numero=' + encodeURIComponent(num)); return; }
         return credits > 0 || inclus ? A.generate(parcelRef) : A.checkout(kind, parcelRef);
       }).catch(function(e){
@@ -577,6 +577,7 @@
       });
     }); });
     if (window.TUAuth && window.TUAuth.track) window.TUAuth.track('diagnostic', parcelRef);
+    if (window.TUFunnel) window.TUFunnel.afterDiag(parcelRef);
     if (window.TUAuth) window.TUAuth.saveDiagnostic({ insee:inseeOf(p), commune:parcelRef.commune, section:sec, numero:num, verdict:null, zone:null });
     var tip = $('rs-tip'); if (tip) tip.hidden = true;
     drawBig(parcel);
@@ -698,7 +699,8 @@
         if (err) err.textContent = '';
         if (!A || !A.ready){ if (err) err.textContent = 'Le paiement n\'est pas encore activé.'; return; }
         btn.disabled = true; btn.textContent = 'Redirection vers le paiement…';
-        A.checkout(kind).catch(function(e){
+        var guestOk = /^(unit|pack2|pack3|pro10|pro50|pro100)$/.test(kind);
+        A.user().then(function(u){ if (!u && guestOk && window.TUFunnel) return window.TUFunnel.email(kind, {}).then(function(){ btn.disabled = false; btn.textContent = label; }); return A.checkout(kind); }).catch(function(e){
           btn.disabled = false; btn.textContent = label;
           if (err) err.textContent = e && e.code === 'deja_abonne' ? 'Vous avez déjà un abonnement actif. Modifiez-le depuis votre espace, rubrique « Gérer mon abonnement ».' : 'Le paiement n\'a pas pu démarrer. Réessayez dans un instant.';
         });
@@ -885,4 +887,180 @@
     var t = b.getAttribute('data-copy'), old = b.textContent, ok = function(){ b.textContent = 'Adresse copiée'; setTimeout(function(){ b.textContent = old; }, 1600); };
     if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(t).then(ok, function(){});
   }); });
+})();
+
+/* ---------- Parcours d'achat : motif, remise de bienvenue, e-mail avant paiement, page de remise ---------- */
+(function(){
+  var cfg = window.TU_CONFIG || {}, A = function(){ return window.TUAuth; };
+  var FN = (cfg.supabaseUrl || '') + '/functions/v1/stripe-webhook';
+  var esc = function(t){ return String(t == null ? '' : t).replace(/[&<>"]/g, function(c){ return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); };
+  var ls = { get: function(k){ try { return localStorage.getItem(k); } catch (e) { return null; } }, set: function(k, v){ try { localStorage.setItem(k, v); } catch (e) {} } };
+  var ss = { get: function(k){ try { return sessionStorage.getItem(k); } catch (e) { return null; } }, set: function(k, v){ try { if (v == null) sessionStorage.removeItem(k); else sessionStorage.setItem(k, v); } catch (e) {} } };
+  var post = function(q, body){ return fetch(FN + '?' + q, { method: 'POST', headers: { 'Content-Type': 'application/json', apikey: cfg.supabaseKey || '', Authorization: 'Bearer ' + (cfg.supabaseKey || '') }, body: JSON.stringify(body) }).then(function(r){ return r.json().catch(function(){ return {}; }).then(function(j){ j.status = r.status; return j; }); }); };
+  var EMAIL = /^[^@\s]+@[^@\s]+\.[a-z]{2,}$/i;
+  var ICO = {
+    key: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="15" r="4"/><path d="M11 12l9-9M16 7l3 3M14 9l2 2"/></svg>',
+    pct: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M19 5L5 19"/><circle cx="7" cy="7" r="2.5"/><circle cx="17" cy="17" r="2.5"/></svg>',
+    map: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6l6-3 6 3 6-3v15l-6 3-6-3-6 3z"/><path d="M9 3v15M15 6v15"/></svg>',
+    ok: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>',
+    mail: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 7l9 6 9-6"/></svg>',
+    g: '<svg viewBox="0 0 48 48" aria-hidden="true"><path fill="#EA4335" d="M24 9.5c3.5 0 6.6 1.2 9 3.5l6.8-6.8C35.6 2.4 30.2 0 24 0 14.6 0 6.6 5.4 2.6 13.3l7.9 6.1C12.4 13.7 17.7 9.5 24 9.5z"/><path fill="#4285F4" d="M46.1 24.5c0-1.6-.1-3.1-.4-4.5H24v9h12.4c-.5 2.9-2.2 5.3-4.6 6.9l7.4 5.8c4.3-4 6.9-9.9 6.9-17.2z"/><path fill="#FBBC05" d="M10.5 28.6c-.5-1.4-.8-2.9-.8-4.6s.3-3.2.8-4.6l-7.9-6.1C1 16.6 0 20.2 0 24s1 7.4 2.6 10.7l7.9-6.1z"/><path fill="#34A853" d="M24 48c6.5 0 11.9-2.1 15.9-5.8l-7.4-5.8c-2.1 1.4-4.8 2.3-8.5 2.3-6.3 0-11.6-4.2-13.5-10l-7.9 6.1C6.6 42.6 14.6 48 24 48z"/></svg>',
+    ap: '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M16.4 12.6c0-2.5 2-3.7 2.1-3.8-1.2-1.7-3-1.9-3.6-2-1.5-.2-3 .9-3.8.9-.8 0-2-.9-3.3-.9-1.7 0-3.3 1-4.2 2.6-1.8 3.1-.5 7.7 1.3 10.2.9 1.2 1.9 2.6 3.2 2.6 1.3-.1 1.8-.8 3.3-.8 1.6 0 2 .8 3.4.8 1.4 0 2.3-1.3 3.1-2.5 1-1.4 1.4-2.8 1.4-2.9 0 0-2.9-1.1-2.9-4.2zM13.9 5.2c.7-.8 1.2-2 1-3.2-1 .1-2.2.7-2.9 1.5-.7.7-1.3 1.9-1.1 3.1 1.1.1 2.3-.6 3-1.4z"/></svg>'
+  };
+  function modal(cls, html){
+    var w = document.createElement('div'); w.className = 'fm ' + (cls || ''); w.setAttribute('role', 'dialog'); w.setAttribute('aria-modal', 'true');
+    w.innerHTML = '<div class="fm-bg" data-close></div><div class="fm-box"><button type="button" class="fm-x" aria-label="Fermer" data-close>&#10005;</button>' + html + '</div>';
+    document.body.appendChild(w); document.documentElement.classList.add('fm-open');
+    requestAnimationFrame(function(){ w.classList.add('on'); });
+    var done = [], close = function(v){ w.classList.remove('on'); document.documentElement.classList.remove('fm-open'); setTimeout(function(){ w.remove(); }, 200); document.removeEventListener('keydown', kd); done.forEach(function(f){ f(v); }); };
+    var kd = function(e){ if (e.key === 'Escape') close('ferme'); };
+    document.addEventListener('keydown', kd);
+    w.querySelectorAll('[data-close]').forEach(function(b){ b.addEventListener('click', function(){ close('ferme'); }); });
+    return { el: w, close: close, onClose: function(f){ done.push(f); } };
+  }
+
+  /* 1. Après le diagnostic : pourquoi vérifiez-vous ce terrain ? */
+  var MOT = [['achat', 'J\'achète un terrain', 'achat'], ['vente', 'Je vends un terrain', 'achat'], ['construire', 'Je veux construire', 'maison'], ['pro', 'Je suis un professionnel', '']];
+  function motif(parcel){
+    if (ss.get('tu_motif_vu')) return Promise.resolve(ls.get('tu_motif'));
+    return new Promise(function(res){
+      var m = modal('fm-mot', '<div class="fm-ic">' + ICO.map + '</div><h2>Pourquoi vérifiez-vous ce terrain ?</h2><p>Aidez-nous à préparer votre rapport : cela ne prend qu\'un instant.</p>' +
+        '<div class="fm-opts" role="radiogroup">' + MOT.map(function(x){ return '<button type="button" role="radio" aria-checked="false" data-m="' + x[0] + '">' + x[1] + '</button>'; }).join('') + '</div>' +
+        '<button type="button" class="btn fm-go" disabled>Continuer <span aria-hidden="true">→</span></button>');
+      var sel = '';
+      m.el.querySelectorAll('[data-m]').forEach(function(b){ b.addEventListener('click', function(){ sel = b.getAttribute('data-m'); m.el.querySelectorAll('[data-m]').forEach(function(x){ x.setAttribute('aria-checked', x === b ? 'true' : 'false'); }); m.el.querySelector('.fm-go').disabled = false; }); });
+      m.el.querySelector('.fm-go').addEventListener('click', function(){ m.close(sel); });
+      m.onClose(function(v){
+        ss.set('tu_motif_vu', '1');
+        if (v && v !== 'ferme'){
+          ls.set('tu_motif', v);
+          var map = MOT.filter(function(x){ return x[0] === v; })[0];
+          var chip = map && map[2] && document.querySelector('.v-chips button[data-p="' + map[2] + '"]');
+          if (chip && chip.getAttribute('aria-pressed') !== 'true') chip.click();
+          if (A() && A().track) A().track('motif', { insee: parcel && parcel.insee, motif: v });
+          if (v === 'pro'){ var r = document.getElementById('result'); if (r && !r.querySelector('.v-pro-hint')){ var d = document.createElement('p'); d.className = 'v-pro-hint'; d.innerHTML = 'Professionnel : <a href="/tarifs.html#pro">dès 3,50 € le rapport, à votre marque</a>'; var o = r.querySelector('.v-offer'); if (o) o.parentNode.insertBefore(d, o); } }
+        }
+        var off = document.querySelector('#result .v-offer'); if (off) off.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        res(v);
+      });
+    });
+  }
+
+  /* 2. Remise de bienvenue de 15 %, envoyée par e-mail */
+  var remTimer = null, remParcel = null;
+  function remise(parcel){
+    if (ls.get('tu_rem_vu')) return;
+    ls.set('tu_rem_vu', String(Date.now()));
+    var m = modal('fm-rem', '<div class="fm-ic fm-ic-big">' + ICO.pct + '</div><div class="fm-s1"><h2>Souhaitez-vous recevoir 15 % de remise ?</h2><p>Sur le rapport complet de votre terrain, ou sur un lot de 2 ou 3 rapports.</p><div class="fm-2"><button type="button" class="btn" data-s="oui">Oui</button><button type="button" class="btn ghost" data-s="tard">La garder pour plus tard</button></div><button type="button" class="fm-no" data-close>Non merci, je préfère payer le plein tarif</button></div>' +
+      '<form class="fm-s2" hidden novalidate><h2>−15 % dès maintenant</h2><p>Indiquez votre e-mail : nous vous envoyons votre remise, valable 14 jours.</p><label class="fm-in">' + ICO.mail + '<input type="email" name="email" placeholder="nom@exemple.fr" autocomplete="email" required></label><input type="text" name="site_web" tabindex="-1" autocomplete="off" class="hp" aria-hidden="true"><button type="submit" class="btn">Obtenir −15 %</button><p class="fm-err" role="alert"></p><p class="fm-legal">En validant, vous acceptez de recevoir nos e-mails : remise, conseils et offres. Désinscription en un clic. <a href="/confidentialite.html" target="_blank">Confidentialité</a></p></form>' +
+      '<div class="fm-s3" hidden><div class="fm-ic fm-ic-ok">' + ICO.ok + '</div><h2>C\'est envoyé !</h2><p>Votre remise de 15 % vient d\'être envoyée à <b class="fm-to"></b>. Ouvrez l\'e-mail et cliquez sur « Activer ma remise ».</p><button type="button" class="btn" data-close>Fermer</button></div>');
+    var s1 = m.el.querySelector('.fm-s1'), s2 = m.el.querySelector('.fm-s2'), s3 = m.el.querySelector('.fm-s3');
+    m.el.querySelectorAll('[data-s]').forEach(function(b){ b.addEventListener('click', function(){ s1.hidden = true; s2.hidden = false; s2.email.focus(); }); });
+    s2.addEventListener('submit', function(e){
+      e.preventDefault(); var em = s2.email.value.trim(), er = s2.querySelector('.fm-err'), bt = s2.querySelector('button');
+      if (!EMAIL.test(em)){ er.textContent = 'Indiquez une adresse e-mail valide.'; return; }
+      er.textContent = ''; bt.disabled = true; bt.textContent = 'Envoi…';
+      var p = parcel || remParcel || {};
+      post('remise=1', { email: em, site_web: s2.site_web.value, insee: p.insee, section: p.section, numero: p.numero, commune: p.commune, motif: ls.get('tu_motif') || '' }).then(function(j){
+        if (j.ok){ ls.set('tu_email', em); s2.hidden = true; s3.hidden = false; s3.querySelector('.fm-to').textContent = em; if (A() && A().track) A().track('remise', { insee: p.insee }); return; }
+        er.textContent = j.error === 'limite' ? 'Trop de demandes depuis cette connexion. Réessayez dans une heure.' : 'L\'envoi n\'a pas abouti. Vérifiez votre adresse et réessayez.';
+        bt.disabled = false; bt.textContent = 'Obtenir −15 %';
+      }).catch(function(){ er.textContent = 'L\'envoi n\'a pas abouti. Réessayez dans un instant.'; bt.disabled = false; bt.textContent = 'Obtenir −15 %'; });
+    });
+  }
+  function armRemise(parcel){
+    remParcel = parcel;
+    if (ls.get('tu_rem_vu') || !A() || !A().ready) return;
+    A().user().then(function(u){
+      if (u) return;
+      clearTimeout(remTimer);
+      remTimer = setTimeout(function(){ if (!document.querySelector('.fm')) remise(parcel); }, 25000);
+      var exit = function(e){ if (e.clientY <= 0 && !document.querySelector('.fm')){ document.removeEventListener('mouseout', exit); clearTimeout(remTimer); remise(parcel); } };
+      if (window.matchMedia('(pointer:fine)').matches) document.addEventListener('mouseout', exit);
+    }).catch(function(){});
+  }
+
+  /* 3. Avant le paiement : où envoyer le rapport ? (e-mail, Google, Apple) */
+  function emailStep(kind, parcel, rem){
+    return new Promise(function(res){
+      var soc = (cfg.google ? '<button type="button" class="fm-soc" data-p="google">' + ICO.g + '<span>Continuer avec Google</span></button>' : '') + (cfg.apple ? '<button type="button" class="fm-soc" data-p="apple">' + ICO.ap + '<span>Continuer avec Apple</span></button>' : '');
+      var back = location.pathname + location.search;
+      var m = modal('fm-mail', '<form novalidate><h2>Où devons-nous envoyer votre rapport ?</h2><p class="fm-acc">Vous avez déjà un compte ? <a href="/connexion.html?redirect=' + encodeURIComponent(back) + '">Se connecter</a></p>' +
+        '<label class="fm-in">' + ICO.mail + '<input type="email" name="email" placeholder="nom@exemple.fr" autocomplete="email" required value="' + esc((rem && rem.email) || ls.get('tu_email') || '') + '"></label>' +
+        '<label class="fm-ck"><input type="checkbox" name="cgv" required><span>J\'accepte les <a href="/cgv.html" target="_blank">conditions générales de vente</a> et j\'ai lu la <a href="/confidentialite.html" target="_blank">politique de confidentialité</a>.</span></label>' +
+        '<button type="submit" class="btn fm-dark">Continuer</button><p class="fm-err" role="alert"></p>' +
+        (soc ? '<div class="fm-or"><span>ou continuer avec</span></div>' + soc : '') + '<p class="fm-legal">Paiement sécurisé par Stripe. Rapport envoyé par e-mail en quelques minutes.</p></form>');
+      var f = m.el.querySelector('form'), er = m.el.querySelector('.fm-err'), bt = f.querySelector('button[type=submit]');
+      var body = Object.assign({}, parcel || {}); if (rem && rem.token) body.remise = rem.token;
+      f.addEventListener('submit', function(e){
+        e.preventDefault(); var em = f.email.value.trim();
+        if (!EMAIL.test(em)){ er.textContent = 'Indiquez une adresse e-mail valide.'; f.email.focus(); return; }
+        if (!f.cgv.checked){ er.textContent = 'Merci d\'accepter les conditions générales de vente pour continuer.'; return; }
+        er.textContent = ''; bt.disabled = true; bt.textContent = 'Redirection vers le paiement…'; ls.set('tu_email', em); body.email = em;
+        A().checkout(kind, body).catch(function(){ er.textContent = 'Le paiement n\'a pas pu s\'ouvrir. Réessayez dans un instant.'; bt.disabled = false; bt.textContent = 'Continuer'; });
+      });
+      m.el.querySelectorAll('.fm-soc').forEach(function(b){ b.addEventListener('click', function(){
+        if (!f.cgv.checked){ er.textContent = 'Merci d\'accepter les conditions générales de vente pour continuer.'; return; }
+        ss.set('tu_pending', JSON.stringify({ kind: kind, body: body, t: Date.now() }));
+        A().client.auth.signInWithOAuth({ provider: b.getAttribute('data-p'), options: { redirectTo: location.origin + back } });
+      }); });
+      m.onClose(function(v){ res(v); });
+    });
+  }
+  // Retour de Google ou d'Apple : le paiement reprend tout seul
+  (function(){
+    var p = ss.get('tu_pending'); if (!p) return;
+    try { p = JSON.parse(p); } catch (e) { ss.set('tu_pending', null); return; }
+    ss.set('tu_pending', null);
+    if (!p || Date.now() - p.t > 900000) return;
+    var go = function(){ if (!A() || !A().ready) return; A().user().then(function(u){ if (u) A().checkout(p.kind, p.body); }); };
+    if (document.readyState === 'complete') setTimeout(go, 600); else window.addEventListener('load', function(){ setTimeout(go, 600); });
+  })();
+
+  window.TUFunnel = {
+    afterDiag: function(parcel){ motif(parcel).then(function(){ armRemise(parcel); }); },
+    email: emailStep, remise: remise
+  };
+
+  /* 4. Page de la remise (lien reçu par e-mail) */
+  var app = document.getElementById('offre-app'); if (!app) return;
+  var tk = (new URLSearchParams(location.search).get('r') || '').replace(/[^a-f0-9]/gi, '');
+  var OFF = [{ k: 'pack3', n: 3, a: 3870, tag: 'Le plus populaire' }, { k: 'pack2', n: 2, a: 2980 }, { k: 'unit', n: 1, a: 1990 }];
+  var eur = function(c){ return (c / 100).toFixed(2).replace('.', ',') + ' €'; };
+  var info = null, kind = 'pack3';
+  function render(){
+    var ok = info && info.ok;
+    var ban = document.getElementById('offre-ban');
+    if (ok){ ban.hidden = false; ban.className = 'of-ban'; ban.innerHTML = '<span class="of-bi">' + ICO.ok + '</span><span>Votre <b>remise de 15 %</b> est appliquée, jusqu\'au ' + new Date(info.expire_le).toLocaleDateString('fr-FR', { day: 'numeric', month: 'long' }) + '.</span>'; }
+    else if (tk){ ban.hidden = false; ban.className = 'of-ban of-ban-off'; ban.innerHTML = '<span>' + (info && info.utilise ? 'Cette remise a déjà été utilisée.' : 'Ce lien de remise a expiré ou n\'est plus valable.') + ' Les tarifs ci-dessous sont les tarifs habituels.</span>'; }
+    if (info && info.insee){ var pb = document.getElementById('offre-parc'); pb.hidden = false; pb.querySelector('span').textContent = info.commune + ' · section ' + info.section + ' · parcelle ' + info.numero; }
+    document.getElementById('offre-cards').innerHTML = OFF.map(function(o){
+      var full = 1990 * o.n, tot = ok ? Math.round(o.a * 0.85) : o.a, pr = Math.round(tot / o.n), pct = Math.round((1 - tot / full) * 100);
+      return '<label class="of-c' + (o.k === kind ? ' on' : '') + '">' + (o.tag ? '<span class="of-tag">' + o.tag + '</span>' : '') + '<input type="radio" name="of-k" value="' + o.k + '"' + (o.k === kind ? ' checked' : '') + '>' +
+        '<span class="of-h"><i class="of-box">' + ICO.ok + '</i><span><b>Vérifier ' + o.n + ' terrain' + (o.n > 1 ? 's' : '') + '</b><small>Un rapport complet d\'environ 45 pages pour chaque terrain</small></span></span>' +
+        '<span class="of-p"><b>' + eur(pr) + '</b> / rapport</span><span class="of-t">Prix total <b>' + eur(tot) + '</b>' + (tot < full ? ' <s>' + eur(full) + '</s>' : '') + '</span>' +
+        (ok ? '<span class="of-ok">' + ICO.ok + ' Remise appliquée</span>' : '') + (pct > 0 ? '<span class="of-pct">Remise totale ' + pct + ' %</span>' : '') +
+        '<span class="of-li">' + ICO.ok + ' Vous obtiendrez ' + o.n + ' rapport' + (o.n > 1 ? 's' : '') + (o.n > 1 ? ', sans limite de durée' : '') + '</span><span class="of-li">' + ICO.ok + ' Régénéré sans frais pendant 30 jours si une source manque</span></label>';
+    }).join('');
+    app.querySelectorAll('input[name="of-k"]').forEach(function(r){ r.addEventListener('change', function(){ kind = r.value; app.querySelectorAll('.of-c').forEach(function(c){ c.classList.toggle('on', c.querySelector('input').checked); }); }); });
+  }
+  var go = function(){
+    var parcel = info && info.insee ? { insee: info.insee, section: info.section, numero: info.numero, commune: info.commune } : {};
+    var rem = info && info.ok ? { token: tk, email: info.email } : null;
+    if (!A() || !A().ready) return;
+    A().user().then(function(u){ if (u) return A().checkout(kind, Object.assign({}, parcel, rem ? { remise: rem.token } : {})); return emailStep(kind, parcel, rem); });
+  };
+  document.querySelectorAll('[data-of-go]').forEach(function(b){ b.addEventListener('click', go); });
+  render();
+  if (tk) post('remise=info', { r: tk }).then(function(j){ info = j; render(); }).catch(function(){ info = { ok: false }; render(); });
+})();
+
+/* ---------- Désinscription des e-mails ---------- */
+(function(){
+  var t = document.getElementById('des-t'); if (!t) return;
+  var cfg = window.TU_CONFIG || {}, p = document.getElementById('des-p'), tk = (new URLSearchParams(location.search).get('r') || '').replace(/[^a-f0-9]/gi, '');
+  if (!tk){ p.textContent = 'Ce lien de désinscription n\'est pas valable.'; return; }
+  fetch(cfg.supabaseUrl + '/functions/v1/stripe-webhook?remise=info', { method: 'POST', headers: { 'Content-Type': 'application/json', apikey: cfg.supabaseKey, Authorization: 'Bearer ' + cfg.supabaseKey }, body: JSON.stringify({ r: tk, desinscription: true }) }).then(function(r){ return r.json(); }).then(function(j){
+    p.textContent = j && j.desinscrit ? 'C\'est fait : vous ne recevrez plus nos e-mails d\'information. Les e-mails liés à vos commandes (rapports, factures) restent envoyés.' : 'Ce lien de désinscription n\'est pas valable. Écrivez-nous à contact@terrenurbanisme.com.';
+  }).catch(function(){ p.textContent = 'La désinscription n\'a pas abouti. Réessayez ou écrivez-nous à contact@terrenurbanisme.com.'; });
 })();
