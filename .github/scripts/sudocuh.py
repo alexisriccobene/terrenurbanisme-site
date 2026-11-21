@@ -11,12 +11,13 @@ def sql(q):
     try: return urllib.request.urlopen(rq, timeout=120).status
     except urllib.error.HTTPError as e: print(e.code, e.read()[:400]); sys.exit(1)
 for ws in wb.worksheets:
+    if re.search(r'lisez|readme|notice', ws.title, re.I): continue
     rows = ws.iter_rows(values_only=True)
     head = None; n = 0; lot = []
     for r in rows:
         if head is None:
             cells = [str(c or '').strip() for c in r]
-            if any(re.search(r'insee|code ?com', c, re.I) for c in cells): head = cells; print('feuille', ws.title, 'colonnes', head)
+            if any(len(c) < 60 and re.search(r'insee|code ?com', c, re.I) for c in cells): head = cells; print('feuille', ws.title, 'colonnes', head)
             continue
         d = {head[i]: (str(v) if v is not None else None) for i, v in enumerate(r) if i < len(head) and head[i]}
         ic = next((k for k in d if re.search(r'insee|code ?com', k, re.I)), None)
@@ -36,4 +37,4 @@ for ws in wb.worksheets:
         vals = ','.join("(%s,%s,%s,%s,%s::jsonb,'sudocuh')" % tuple("$q$%s$q$" % str(x).replace('$q$', '') for x in (a, b, c, e, json.dumps(f, ensure_ascii=False))) for a, b, c, e, f in lot)
         sql('insert into public.sudocuh_commune (insee,nom,dep,etat,data,source) values ' + vals + ' on conflict (insee) do update set nom=excluded.nom, dep=excluded.dep, etat=excluded.etat, data=excluded.data, charge_le=now()')
     print('feuille', ws.title, 'lignes', n)
-    if head: break
+    if n > 100: break
