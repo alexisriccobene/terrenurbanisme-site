@@ -1,0 +1,23 @@
+name: Sonde URLs
+# Télécharge les adresses de .github/sonde/urls.txt (nom|url par ligne) vers la branche tests-rapports, dossier sonde/
+on:
+  push:
+    branches: [main]
+    paths: ['.github/sonde/urls.txt']
+permissions:
+  contents: write
+jobs:
+  f:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - run: cp .github/sonde/urls.txt /tmp/urls.txt
+      - uses: actions/checkout@v4
+        with: { ref: tests-rapports }
+      - run: |
+          rm -rf sonde; mkdir -p sonde
+          while IFS='|' read -r n u; do [ -z "$n" ] && continue; code=$(curl -sSL -m 90 -A "TerrenUrbanisme/1.0 (contact@terrenurbanisme.com)" -H "Accept: application/json" "$u" -o "sonde/$n" -w "%{http_code}" || echo ERR); echo "$n $code $(stat -c%s sonde/$n 2>/dev/null)" >> sonde/_codes.txt; done < /tmp/urls.txt
+          cat sonde/_codes.txt
+          git config user.name bot; git config user.email bot@users.noreply.github.com
+          git add sonde && git commit -qm "sonde [skip ci]" && git push -q origin tests-rapports || true
