@@ -40,7 +40,7 @@ window.TU_CONFIG = {
     var raw = hex(crypto.getRandomValues(new Uint8Array(24)).buffer);
     Promise.all([load(), crypto.subtle.digest('SHA-256', new TextEncoder().encode(raw))]).then(function (r) {
       google.accounts.id.initialize({
-        client_id: c.googleClientId, nonce: hex(r[1]), ux_mode: 'popup', use_fedcm_for_button: true, context: 'signin', itp_support: true,
+        client_id: c.googleClientId, nonce: hex(r[1]), ux_mode: 'popup', context: 'signin', itp_support: true,
         callback: function (resp) {
           sb.auth.signInWithIdToken({ provider: 'google', token: resp.credential, nonce: raw }).then(function (x) {
             if (x.error) { if (fail) fail(x.error); return; }

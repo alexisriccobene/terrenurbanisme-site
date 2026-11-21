@@ -1,1 +1,1 @@
-{"fonction": "create-checkout", "script": "remise_checkout.py", "demande": "remise-co3-160121"}
+{"fonction": "stripe-webhook", "script": "remise_mail2.py", "demande": "remise-mail2-1640"}
