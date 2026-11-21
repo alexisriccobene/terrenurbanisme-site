@@ -471,7 +471,7 @@
     /* Commune sans zonage numérique publié (ni RNU) : on le dit avant l'achat, le rapport ne pourra pas donner la zone */
     var noZone = zones != null && !zl.length && !muni.is_rnu;
     /* Règlement que sa collectivité ne publie qu'en consultation sur son propre site (lecture automatique impossible) : on le dit avant l'achat */
-    var REG_NON_LU = { DU_200093201: 'la Métropole européenne de Lille ne diffuse le texte de son règlement que sur son propre site, en consultation', DU_2A198: 'le fichier du règlement déposé par la commune d\'Ota sur le Géoportail de l\'Urbanisme est vide' };
+    var REG_NON_LU = { DU_2A198: 'le fichier du règlement déposé par la commune d\'Ota sur le Géoportail de l\'Urbanisme est vide' };
     var regNonLu = !noZone && (zones || []).some(function(z){ return REG_NON_LU[z.part]; }) ? REG_NON_LU[(zones || []).filter(function(z){ return REG_NON_LU[z.part]; })[0].part] : '';
     var found = [
       ['ok', 'Parcelle identifiée au cadastre', fmt(p.contenance) + ' m² · ' + (p.idu || '')],
