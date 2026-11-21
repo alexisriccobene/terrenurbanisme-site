@@ -208,10 +208,10 @@
     var gb0 = $('google-btn'), orr0 = document.querySelector('.auth-or');
     function soc0(){ var on = !!cfg.google && mode !== 'nouveau' && mode !== 'reset'; if (gb0) gb0.hidden = !on; if (orr0) orr0.hidden = !on; }
     soc0(); document.addEventListener('tu-google', soc0);
-    $('google-btn').addEventListener('click', function(){
-      if (!sb){ msg.className = 'err'; msg.textContent = 'La connexion n\'est pas encore activée sur ce site.'; return; }
-      sb.auth.signInWithOAuth({ provider: 'google', options: { redirectTo: location.origin + redirect } });
-    });
+    var gDone = false;
+    function gRender(){ if (gDone || !cfg.google || !sb || !window.TUGoogleBtn) return; gDone = true;
+      window.TUGoogleBtn(gb0, sb, function(){ location.href = redirect; }, function(){ msg.className = 'err'; msg.textContent = 'La connexion Google a échoué. Réessayez, ou utilisez votre e-mail.'; }); }
+    gRender(); document.addEventListener('tu-google', gRender);
   }
 
   /* Espace client */

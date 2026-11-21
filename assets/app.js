@@ -486,8 +486,8 @@
     var btnTxt = function(){ var o = OFF[kind]; return o.n > 1 ? 'Obtenir ' + o.n + ' rapports complets · ' + o.t : 'Obtenir le rapport complet · ' + o.t; };
     var BTN = btnTxt();
     var opt = function(k, lbl, off, sub){ var o = OFF[k]; return '<label class="v-opt"><input type="radio" name="v-kind" value="' + k + '"' + (k === kind ? ' checked' : '') + '><span class="v-opt-l">' + lbl + (sub ? '<small class="v-opt-s">' + sub + '</small>' : '') + '</span>' + (off ? '<em>' + off + '</em>' : '') + '<b>' + o.u + (o.n > 1 ? '<small>/ rapport</small>' : '') + '</b></label>'; };
-    var OFFER = '<div class="v-offer" role="radiogroup" aria-label="Nombre de rapports"><div class="v-offer-top"><b class="v-offer-u">' + OFF[kind].u + '</b> <span>/ rapport</span><div class="v-offer-t">Prix total ' + OFF[kind].t + '</div></div>' +
-      opt('unit', 'Rapport complet', '', '<span class="v-opt-tag">Recommandé pour acheter, vendre ou construire</span>Environ 45 pages, tout pour décider :<span class="v-opt-ul"><span>Ce que vous pouvez construire : surface, hauteur, emprise, implantation d\'une maison</span><span>Le règlement du PLU lu pour vous, avec les extraits officiels</span><span>Risques, servitudes, loi Littoral, patrimoine et architecte des Bâtiments de France</span><span>Eau, électricité, assainissement : coûts et démarches de raccordement</span><span>Ventes réelles autour du terrain et photos aériennes depuis 1950</span><span>Démarches, délais, taxe d\'aménagement et état des risques pour la vente</span></span>') + '<div class="v-opt-sep">Plusieurs biens ? Rapports complets moins chers</div>' + opt('pack2', '2 rapports complets', '−25 %') + opt('pack3', '3 rapports complets', '−35 %') +
+    var OFFER = '<div class="v-offer" role="radiogroup" aria-label="Nombre de rapports"><div class="v-offer-top"><b class="v-offer-u">' + OFF[kind].u + '</b> <span>/ rapport</span><div class="v-offer-t"' + (OFF[kind].n > 1 ? '' : ' hidden') + '>Prix total ' + OFF[kind].t + '</div></div>' +
+      opt('unit', 'Rapport complet', '', 'Environ 45 pages pour décider en toute sécurité') + '<div class="v-opt-sep">Plusieurs biens ? Rapports complets moins chers</div>' + opt('pack2', '2 rapports complets', '−25 %') + opt('pack3', '3 rapports complets', '−35 %') +
       '<p class="v-opt-note">Lots : le premier rapport porte sur cette parcelle, les autres restent sur votre compte, sans limite de durée.</p></div>';
     resultEl.innerHTML =
       '<div class="v-ref">' + esc(ref) + '</div>' +
@@ -517,7 +517,7 @@
     function setAll(t, dis){ buys.forEach(function(x){ x.disabled = !!dis; x.textContent = t; }); }
     var offerEl = resultEl.querySelector('.v-offer');
     resultEl.querySelectorAll('input[name="v-kind"]').forEach(function(r){ r.addEventListener('change', function(){
-      if (!r.checked) return; kind = r.value; offerEl.querySelector('.v-offer-u').textContent = OFF[kind].u; offerEl.querySelector('.v-offer-t').textContent = 'Prix total ' + OFF[kind].t;
+      if (!r.checked) return; kind = r.value; offerEl.querySelector('.v-offer-u').textContent = OFF[kind].u; offerEl.querySelector('.v-offer-t').textContent = 'Prix total ' + OFF[kind].t; offerEl.querySelector('.v-offer-t').hidden = OFF[kind].n < 2;
       offerEl.querySelector('.v-offer-top span').textContent = '/ rapport'; BTN = btnTxt(); if (!credits){ label = BTN; setAll(label); }
     }); });
     var inclus = false;
@@ -960,6 +960,7 @@
       e.preventDefault(); var em = s2.email.value.trim(), er = s2.querySelector('.fm-err'), bt = s2.querySelector('button');
       if (!EMAIL.test(em)){ er.textContent = 'Indiquez une adresse e-mail valide.'; return; }
       er.textContent = ''; bt.disabled = true; bt.textContent = 'Envoi…';
+      lead(em, 'remise', null, parcel || remParcel, false);
       var p = parcel || remParcel || {};
       post('remise=1', { email: em, site_web: s2.site_web.value, insee: p.insee, section: p.section, numero: p.numero, commune: p.commune, motif: ls.get('tu_motif') || '' }).then(function(j){
         if (j.ok){ ls.set('tu_email', em); s2.hidden = true; s3.hidden = false; s3.querySelector('.fm-to').textContent = em; if (A() && A().track) A().track('remise', { insee: p.insee }); return; }
@@ -980,13 +981,20 @@
     }).catch(function(){});
   }
 
-  /* 3. Avant le paiement : où envoyer le rapport ? (e-mail, Google, Apple) */
+  /* E-mails saisis dans le tunnel : enregistrés pour le suivi et le mailing (offres seulement si la case est cochée) */
+  function lead(em, src, kind, parcel, offres){
+    try { var c = A() && A().client; if (!c) return;
+      c.rpc('enregistrer_lead', { p_email: em, p_source: src, p_kind: kind || null, p_parcelle: parcel ? { insee: parcel.insee, section: parcel.section, numero: parcel.numero, commune: parcel.commune } : null, p_offres: !!offres }).then(function(){}, function(){});
+    } catch (e) {}
+  }
+  /* 3. Avant le paiement : où envoyer le rapport ? (e-mail, Google) */
   function emailStep(kind, parcel, rem){
     return new Promise(function(res){
-      var soc = (cfg.google ? '<button type="button" class="fm-soc" data-p="google">' + ICO.g + '<span>Continuer avec Google</span></button>' : '') + (cfg.apple ? '<button type="button" class="fm-soc" data-p="apple">' + ICO.ap + '<span>Continuer avec Apple</span></button>' : '');
+      var soc = cfg.google && window.TUGoogleBtn ? '<div class="fm-gsi off"><div class="gsi-box"></div></div>' : '';
       var back = location.pathname + location.search;
       var m = modal('fm-mail', '<form novalidate><h2>Où devons-nous envoyer votre rapport ?</h2><p class="fm-acc">Vous avez déjà un compte ? <a href="/connexion.html?redirect=' + encodeURIComponent(back) + '">Se connecter</a></p>' +
         '<label class="fm-in">' + ICO.mail + '<input type="email" name="email" placeholder="nom@exemple.fr" autocomplete="email" required value="' + esc((rem && rem.email) || ls.get('tu_email') || '') + '"></label>' +
+        '<label class="fm-ck"><input type="checkbox" name="offres"><span>Recevoir nos conseils et offres par e-mail (désinscription en un clic).</span></label>' +
         '<label class="fm-ck"><input type="checkbox" name="cgv" required><span>J\'accepte les <a href="/cgv.html" target="_blank">conditions générales de vente</a> et j\'ai lu la <a href="/confidentialite.html" target="_blank">politique de confidentialité</a>.</span></label>' +
         '<button type="submit" class="btn fm-dark">Continuer</button><p class="fm-err" role="alert"></p>' +
         (soc ? '<div class="fm-or"><span>ou continuer avec</span></div>' + soc : '') + '<p class="fm-legal">Paiement sécurisé par Stripe. Rapport envoyé par e-mail en quelques minutes.</p></form>');
@@ -997,13 +1005,20 @@
         if (!EMAIL.test(em)){ er.textContent = 'Indiquez une adresse e-mail valide.'; f.email.focus(); return; }
         if (!f.cgv.checked){ er.textContent = 'Merci d\'accepter les conditions générales de vente pour continuer.'; return; }
         er.textContent = ''; bt.disabled = true; bt.textContent = 'Redirection vers le paiement…'; ls.set('tu_email', em); body.email = em;
+        lead(em, 'paiement', kind, parcel, f.offres.checked);
         A().checkout(kind, body).catch(function(){ er.textContent = 'Le paiement n\'a pas pu s\'ouvrir. Réessayez dans un instant.'; bt.disabled = false; bt.textContent = 'Continuer'; });
       });
-      m.el.querySelectorAll('.fm-soc').forEach(function(b){ b.addEventListener('click', function(){
-        if (!f.cgv.checked){ er.textContent = 'Merci d\'accepter les conditions générales de vente pour continuer.'; return; }
-        ss.set('tu_pending', JSON.stringify({ kind: kind, body: body, t: Date.now() }));
-        A().client.auth.signInWithOAuth({ provider: b.getAttribute('data-p'), options: { redirectTo: location.origin + back } });
-      }); });
+      var gw = m.el.querySelector('.fm-gsi');
+      if (gw){
+        var sync = function(){ gw.classList.toggle('off', !f.cgv.checked); };
+        f.cgv.addEventListener('change', sync);
+        gw.addEventListener('click', function(){ if (!f.cgv.checked) er.textContent = 'Merci d\'accepter les conditions générales de vente pour continuer.'; }, true);
+        window.TUGoogleBtn(gw.querySelector('.gsi-box'), A().client, function(d){
+          if (d && d.user && d.user.email) lead(d.user.email, 'google', kind, parcel, f.offres.checked);
+          er.textContent = ''; bt.disabled = true; bt.textContent = 'Redirection vers le paiement…';
+          A().checkout(kind, body).catch(function(){ er.textContent = 'Le paiement n\'a pas pu s\'ouvrir. Réessayez dans un instant.'; bt.disabled = false; bt.textContent = 'Continuer'; });
+        }, function(){ er.textContent = 'La connexion Google a échoué. Réessayez, ou indiquez votre e-mail.'; });
+      }
       m.onClose(function(v){ res(v); });
     });
   }

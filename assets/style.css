@@ -1325,3 +1325,8 @@ body:has(.of-sticky) .tu-bot-btn,body:has(.of-sticky) .tu-bot{bottom:96px!import
 .src-l span{font-size:12.5px;color:#7A6A60}
 @media (max-width:600px){.src-band{padding-block:34px}.src-l{display:grid;grid-template-columns:1fr 1fr;gap:10px}.src-l li{min-width:0;padding:11px 10px}.src-l li:last-child{grid-column:1/-1}}
 @media (min-width:1000px){.src-l{display:grid;grid-template-columns:repeat(7,1fr);max-width:1180px;gap:10px}.src-l li{min-width:0;padding:14px 10px;justify-content:center}.src-l b{text-wrap:balance}}
+/* Bouton Google officiel */
+.gsi-box{display:flex;justify-content:center;min-height:44px;width:100%}
+.fm-gsi{margin-top:4px;transition:opacity .2s}
+.fm-gsi.off{opacity:.45}
+.fm-gsi.off .gsi-box{pointer-events:none}
