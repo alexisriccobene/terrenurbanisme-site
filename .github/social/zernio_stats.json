@@ -1,2041 +1,25 @@
 {
- "genere": "2026-11-18T22:49+01:00",
+ "genere": "2026-11-21T17:08+01:00",
  "posts": {
   "posts": [
    {
-    "_id": "6afdd0b9d3450acb1ff9dcbd",
+    "_id": "6aff58006d5355fc88b5379f",
     "userId": {
      "_id": "6afdca3046a6457ab61f1147"
     },
-    "content": "Vrai ou faux : le vendeur doit informer des risques\n\nVérifiez votre terrain en quelques mi",
+    "content": "Une piscine dans votre jardin : est-ce autorisé chez vous ?\n\nTout dépend du règlement de v",
     "mediaItems": [
      {
-      "_id": "6afdd0bbd3450acb1ff9dcc4",
-      "url": "https://media.zernio.com/media/1795018936054_5bdc0e6255e71947_TK-TU-Reel-102.mp4"
-     }
-    ],
-    "scheduledFor": "2027-02-08T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:22:19.123Z",
-    "platforms": [
-     {
-      "_id": "6afdd0bad3450acb1ff9dcc2",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-02-08T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd0b676e052515e572424",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Diviser sa maison en appartements : possible ?\n\nVérifiez votre terrain en quelques minutes",
-    "mediaItems": [
-     {
-      "_id": "6afdd0b776e052515e572427",
-      "url": "https://media.zernio.com/media/1795018933307_8427915ab8aec08d_TK-TU-Reel-101.mp4"
-     }
-    ],
-    "scheduledFor": "2027-02-07T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:22:15.570Z",
-    "platforms": [
-     {
-      "_id": "6afdd0b776e052515e572425",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-02-07T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd0b4d3450acb1ff9dc97",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Vrai ou faux : le PLU ne change jamais\n\nVérifiez votre terrain en quelques minutes : terre",
-    "mediaItems": [
-     {
-      "_id": "6afdd0b5d3450acb1ff9dc9f",
-      "url": "https://media.zernio.com/media/1795018930160_5c370a7bea1e9468_TK-TU-Reel-99.mp4"
-     }
-    ],
-    "scheduledFor": "2027-02-05T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:22:13.041Z",
-    "platforms": [
-     {
-      "_id": "6afdd0b5d3450acb1ff9dc9d",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-02-05T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd0b0389ce63e5402529a",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Rénover une maison ancienne : les autorisations\n\nVérifiez votre terrain en quelques minute",
-    "mediaItems": [
-     {
-      "_id": "6afdd0b1389ce63e540252a5",
-      "url": "https://media.zernio.com/media/1795018927778_b76b12916f4e25fb_TK-TU-Reel-98.mp4"
-     }
-    ],
-    "scheduledFor": "2027-02-04T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:22:09.876Z",
-    "platforms": [
-     {
-      "_id": "6afdd0b1389ce63e540252a3",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-02-04T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd0aeb6d9f295af5a99ae",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Vrai ou faux : un carport ne compte pas dans l'emprise au sol\n\nVérifiez votre terrain en q",
-    "mediaItems": [
-     {
-      "_id": "6afdd0afb6d9f295af5a99be",
-      "url": "https://media.zernio.com/media/1795018925400_a8e17066f61dc347_TK-TU-Reel-97.mp4"
-     }
-    ],
-    "scheduledFor": "2027-02-03T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:22:07.504Z",
-    "platforms": [
-     {
-      "_id": "6afdd0afb6d9f295af5a99bc",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-02-03T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd0abd3450acb1ff9dc66",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Sol argileux : ce qu'il faut savoir avant de construire\n\nVérifiez votre terrain en quelque",
-    "mediaItems": [
-     {
-      "_id": "6afdd0add3450acb1ff9dc7e",
-      "url": "https://media.zernio.com/media/1795018922276_b22faa4a6dcb2c55_TK-TU-Reel-96.mp4"
-     }
-    ],
-    "scheduledFor": "2027-02-02T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:22:05.121Z",
-    "platforms": [
-     {
-      "_id": "6afdd0add3450acb1ff9dc7c",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-02-02T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd0a8d3450acb1ff9dc3f",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Vrai ou faux : une maison ancienne n'a jamais besoin de permis pour ses travaux\n\nVérifiez ",
-    "mediaItems": [
-     {
-      "_id": "6afdd0a9d3450acb1ff9dc51",
-      "url": "https://media.zernio.com/media/1795018919500_34704cf1a8f928ad_TK-TU-Reel-94.mp4"
-     }
-    ],
-    "scheduledFor": "2027-01-31T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:22:01.963Z",
-    "platforms": [
-     {
-      "_id": "6afdd0a9d3450acb1ff9dc4f",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-01-31T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd0a5d3450acb1ff9dc31",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Acheter un appartement : l'urbanisme compte aussi\n\nVérifiez votre terrain en quelques minu",
-    "mediaItems": [
-     {
-      "_id": "6afdd0a7d3450acb1ff9dc3d",
-      "url": "https://media.zernio.com/media/1795018916693_1ed6aa5cbd84cd98_TK-TU-Reel-93.mp4"
-     }
-    ],
-    "scheduledFor": "2027-01-30T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:21:59.194Z",
-    "platforms": [
-     {
-      "_id": "6afdd0a7d3450acb1ff9dc3b",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-01-30T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd0a3b6d9f295af5a9936",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Vrai ou faux : le certificat d'urbanisme est payant\n\nVérifiez votre terrain en quelques mi",
-    "mediaItems": [
-     {
-      "_id": "6afdd0a4b6d9f295af5a9941",
-      "url": "https://media.zernio.com/media/1795018913503_fe79a92f45f1c587_TK-TU-Reel-92.mp4"
-     }
-    ],
-    "scheduledFor": "2027-01-29T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:21:56.440Z",
-    "platforms": [
-     {
-      "_id": "6afdd0a4b6d9f295af5a993f",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-01-29T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd0a0d3450acb1ff9dbfb",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Une terrasse surélevée : déclaration obligatoire ?\n\nVérifiez votre terrain en quelques min",
-    "mediaItems": [
-     {
-      "_id": "6afdd0a1d3450acb1ff9dbfe",
-      "url": "https://media.zernio.com/media/1795018910493_35a979c40bfac9d6_TK-TU-Reel-91.mp4"
-     }
-    ],
-    "scheduledFor": "2027-01-28T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:21:53.191Z",
-    "platforms": [
-     {
-      "_id": "6afdd0a1d3450acb1ff9dbfc",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-01-28T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd09d39b65b99f3ec0153",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Créer un lotissement : les règles de départ\n\nVérifiez votre terrain en quelques minutes : ",
-    "mediaItems": [
-     {
-      "_id": "6afdd09e39b65b99f3ec015c",
-      "url": "https://media.zernio.com/media/1795018907861_ac0f65c0f41c638c_TK-TU-Reel-90.mp4"
-     }
-    ],
-    "scheduledFor": "2027-01-27T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:21:50.092Z",
-    "platforms": [
-     {
-      "_id": "6afdd09e39b65b99f3ec015a",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-01-27T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd09ab6d9f295af5a990d",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Porto-Vecchio : que pouvez-vous construire sur votre terrain ?\n\nVérifiez votre terrain en ",
-    "mediaItems": [
-     {
-      "_id": "6afdd09bb6d9f295af5a9915",
-      "url": "https://media.zernio.com/media/1795018905582_013bf057f9a429a9_TK-TU-Reel-89.mp4"
-     }
-    ],
-    "scheduledFor": "2027-01-26T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:21:47.612Z",
-    "platforms": [
-     {
-      "_id": "6afdd09bb6d9f295af5a9913",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-01-26T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd09839b65b99f3ec0136",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Vrai ou faux : les panneaux solaires ne demandent aucune démarche\n\nVérifiez votre terrain ",
-    "mediaItems": [
-     {
-      "_id": "6afdd09939b65b99f3ec013d",
-      "url": "https://media.zernio.com/media/1795018902272_f072395cfcfdefaf_TK-TU-Reel-88.mp4"
-     }
-    ],
-    "scheduledFor": "2027-01-25T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:21:45.319Z",
-    "platforms": [
-     {
-      "_id": "6afdd09939b65b99f3ec013b",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-01-25T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd094d3450acb1ff9dbc6",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Un abri de piscine : quelle autorisation ?\n\nVérifiez votre terrain en quelques minutes : t",
-    "mediaItems": [
-     {
-      "_id": "6afdd096d3450acb1ff9dbcd",
-      "url": "https://media.zernio.com/media/1795018899635_9d90b68257bb2572_TK-TU-Reel-87.mp4"
-     }
-    ],
-    "scheduledFor": "2027-01-24T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:21:42.001Z",
-    "platforms": [
-     {
-      "_id": "6afdd095d3450acb1ff9dbcb",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-01-24T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd091389ce63e540251f9",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Bastia : que pouvez-vous construire sur votre terrain ?\n\nVérifiez votre terrain en quelque",
-    "mediaItems": [
-     {
-      "_id": "6afdd093389ce63e54025209",
-      "url": "https://media.zernio.com/media/1795018895957_cf23b9990d0965b3_TK-TU-Reel-86.mp4"
-     }
-    ],
-    "scheduledFor": "2027-01-23T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:21:39.329Z",
-    "platforms": [
-     {
-      "_id": "6afdd093389ce63e54025207",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-01-23T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd08e389ce63e540251e0",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Vrai ou faux : sur un terrain en pente, la hauteur se mesure en haut\n\nVérifiez votre terra",
-    "mediaItems": [
-     {
-      "_id": "6afdd08f389ce63e540251ea",
-      "url": "https://media.zernio.com/media/1795018892686_e097214f2ad88660_TK-TU-Reel-85.mp4"
-     }
-    ],
-    "scheduledFor": "2027-01-22T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:21:35.523Z",
-    "platforms": [
-     {
-      "_id": "6afdd08f389ce63e540251e8",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-01-22T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd08b637ccf9e62a2cd6c",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Près d'un monument historique : vos travaux validés par l'ABF\n\nVérifiez votre terrain en q",
-    "mediaItems": [
-     {
-      "_id": "6afdd08c637ccf9e62a2cd76",
-      "url": "https://media.zernio.com/media/1795018889811_50d089cadcfb1609_TK-TU-Reel-84.mp4"
-     }
-    ],
-    "scheduledFor": "2027-01-21T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:21:32.376Z",
-    "platforms": [
-     {
-      "_id": "6afdd08c637ccf9e62a2cd74",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-01-21T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afe1bcb19816c680b260197",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Hauteur, emprise, recul : toutes les règles en une page\n\nVérifiez votre terrain en quelque",
-    "mediaItems": [
-     {
-      "_id": "6afe1bcc19816c680b26019c",
-      "url": "https://media.zernio.com/media/1795038154569_a08712db73afcb75_TK-TU-Reel-21.mp4"
-     }
-    ],
-    "scheduledFor": "2027-01-20T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T21:42:36.426Z",
-    "platforms": [
-     {
-      "_id": "6afe1bcc19816c680b26019a",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-01-20T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd08861a722c506b5070e",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Ajaccio : que pouvez-vous construire sur votre terrain ?\n\nVérifiez votre terrain en quelqu",
-    "mediaItems": [
-     {
-      "_id": "6afdd08961a722c506b50712",
-      "url": "https://media.zernio.com/media/1795018886543_cf07cd5aa8b65b37_TK-TU-Reel-82.mp4"
-     }
-    ],
-    "scheduledFor": "2027-01-19T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:21:29.413Z",
-    "platforms": [
-     {
-      "_id": "6afdd08961a722c506b50710",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-01-19T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd085637ccf9e62a2cd53",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Vrai ou faux : je peux diviser mon terrain comme je veux\n\nVérifiez votre terrain en quelqu",
-    "mediaItems": [
-     {
-      "_id": "6afdd086637ccf9e62a2cd58",
-      "url": "https://media.zernio.com/media/1795018884014_070216b01a802381_TK-TU-Reel-81.mp4"
-     }
-    ],
-    "scheduledFor": "2027-01-18T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:21:26.241Z",
-    "platforms": [
-     {
-      "_id": "6afdd086637ccf9e62a2cd56",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-01-18T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd082b416da14ab5684b4",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "« 7 m à l'égout » : ça veut dire quoi ?\n\nVérifiez votre terrain en quelques minutes : terr",
-    "mediaItems": [
-     {
-      "_id": "6afdd083b416da14ab5684c9",
-      "url": "https://media.zernio.com/media/1795018881186_1b4c6e5c8677eca1_TK-TU-Reel-80.mp4"
-     }
-    ],
-    "scheduledFor": "2027-01-17T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:21:23.740Z",
-    "platforms": [
-     {
-      "_id": "6afdd083b416da14ab5684c7",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-01-17T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd07fb416da14ab5684a6",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Toulon : que pouvez-vous construire sur votre terrain ?\n\nVérifiez votre terrain en quelque",
-    "mediaItems": [
-     {
-      "_id": "6afdd080b416da14ab5684ad",
-      "url": "https://media.zernio.com/media/1795018878729_f8829588d31acfba_TK-TU-Reel-79.mp4"
-     }
-    ],
-    "scheduledFor": "2027-01-16T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:21:20.919Z",
-    "platforms": [
-     {
-      "_id": "6afdd080b416da14ab5684ab",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-01-16T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd07d61a722c506b506c5",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Vrai ou faux : la mairie peut me dire au téléphone si c'est constructible\n\nVérifiez votre ",
-    "mediaItems": [
-     {
-      "_id": "6afdd07e61a722c506b506cf",
-      "url": "https://media.zernio.com/media/1795018876609_007a65b12ce1338f_TK-TU-Reel-78.mp4"
-     }
-    ],
-    "scheduledFor": "2027-01-15T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:21:18.470Z",
-    "platforms": [
-     {
-      "_id": "6afdd07e61a722c506b506cd",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-01-15T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd07b61a722c506b506b8",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Terrain enclavé : et l'accès ?\n\nVérifiez votre terrain en quelques minutes : terrenurbanis",
-    "mediaItems": [
-     {
-      "_id": "6afdd07c61a722c506b506bb",
-      "url": "https://media.zernio.com/media/1795018874260_888781bc260fe047_TK-TU-Reel-77.mp4"
-     }
-    ],
-    "scheduledFor": "2027-01-14T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:21:16.346Z",
-    "platforms": [
-     {
-      "_id": "6afdd07c61a722c506b506b9",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-01-14T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afe1bc96a56f67b8dd8fc76",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "« Constructible », dit le vendeur. Le PLU est-il du même avis ?\n\nUn terrain en zone agrico",
-    "mediaItems": [
-     {
-      "_id": "6afe1bca6a56f67b8dd8fc7f",
-      "url": "https://media.zernio.com/media/1795038152229_89152a9e7edf6a41_TU-Reel-13.mp4"
-     }
-    ],
-    "scheduledFor": "2027-01-13T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T21:42:34.338Z",
-    "platforms": [
-     {
-      "_id": "6afe1bca6a56f67b8dd8fc7d",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-01-13T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd079b416da14ab568487",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Strasbourg : que pouvez-vous construire sur votre terrain ?\n\nVérifiez votre terrain en que",
-    "mediaItems": [
-     {
-      "_id": "6afdd079b416da14ab56848d",
-      "url": "https://media.zernio.com/media/1795018871762_1f9e86d1521f8405_TK-TU-Reel-75.mp4"
-     }
-    ],
-    "scheduledFor": "2027-01-12T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:21:13.917Z",
-    "platforms": [
-     {
-      "_id": "6afdd079b416da14ab56848b",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-01-12T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd076fb578037a9638fa9",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Vrai ou faux : à moins de 100 m de la mer, on ne construit pas\n\nVérifiez votre terrain en ",
-    "mediaItems": [
-     {
-      "_id": "6afdd077fb578037a9638fad",
-      "url": "https://media.zernio.com/media/1795018869366_a23ddf9aa6f6f6d5_TK-TU-Reel-74.mp4"
-     }
-    ],
-    "scheduledFor": "2027-01-11T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:21:11.479Z",
-    "platforms": [
-     {
-      "_id": "6afdd077fb578037a9638fab",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-01-11T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd074fb578037a9638f9b",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Terrain en montagne : la loi Montagne en bref\n\nVérifiez votre terrain en quelques minutes ",
-    "mediaItems": [
-     {
-      "_id": "6afdd074fb578037a9638fa1",
-      "url": "https://media.zernio.com/media/1795018867073_16bd8debba878e59_TK-TU-Reel-73.mp4"
-     }
-    ],
-    "scheduledFor": "2027-01-10T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:21:08.932Z",
-    "platforms": [
-     {
-      "_id": "6afdd074fb578037a9638f9f",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-01-10T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd07102808f5d1e2419e6",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Rennes : que pouvez-vous construire sur votre terrain ?\n\nVérifiez votre terrain en quelque",
-    "mediaItems": [
-     {
-      "_id": "6afdd07202808f5d1e2419ee",
-      "url": "https://media.zernio.com/media/1795018864822_e17ceba1fd352eb2_TK-TU-Reel-72.mp4"
-     }
-    ],
-    "scheduledFor": "2027-01-09T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:21:06.750Z",
-    "platforms": [
-     {
-      "_id": "6afdd07202808f5d1e2419ec",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-01-09T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd06f61a722c506b50665",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Vrai ou faux : on peut agrandir jusqu'à 40 m² avec une simple déclaration\n\nVérifiez votre ",
-    "mediaItems": [
-     {
-      "_id": "6afdd07061a722c506b50672",
-      "url": "https://media.zernio.com/media/1795018862267_f144348a08d2cc78_TK-TU-Reel-71.mp4"
-     }
-    ],
-    "scheduledFor": "2027-01-08T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:21:04.512Z",
-    "platforms": [
-     {
-      "_id": "6afdd07061a722c506b50670",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-01-08T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd06cd3450acb1ff9dbac",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Zones U, AU, A et N : la différence en 20 secondes\n\nVérifiez votre terrain en quelques min",
-    "mediaItems": [
-     {
-      "_id": "6afdd06dd3450acb1ff9dbb1",
-      "url": "https://media.zernio.com/media/1795018859453_6a98b63c531d693c_TK-TU-Reel-70.mp4"
-     }
-    ],
-    "scheduledFor": "2027-01-07T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:21:01.964Z",
-    "platforms": [
-     {
-      "_id": "6afdd06dd3450acb1ff9dbaf",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-01-07T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afe1bc719816c680b260182",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "« C'est constructible ? » Agents immobiliers, architectes, géomètres, notaires, diagnostiq",
-    "mediaItems": [
-     {
-      "_id": "6afe1bc819816c680b260191",
-      "url": "https://media.zernio.com/media/1795038149932_061b49e166d8e0e0_TU-Reel-15.mp4"
-     }
-    ],
-    "scheduledFor": "2027-01-06T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T21:42:32.001Z",
-    "platforms": [
-     {
-      "_id": "6afe1bc719816c680b26018f",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-01-06T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd06ad3450acb1ff9db92",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Lille : que pouvez-vous construire sur votre terrain ?\n\nVérifiez votre terrain en quelques",
-    "mediaItems": [
-     {
-      "_id": "6afdd06bd3450acb1ff9db97",
-      "url": "https://media.zernio.com/media/1795018857185_0c8808d017dc3aa3_TK-TU-Reel-68.mp4"
-     }
-    ],
-    "scheduledFor": "2027-01-05T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:20:59.149Z",
-    "platforms": [
-     {
-      "_id": "6afdd06bd3450acb1ff9db95",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-01-05T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd068b416da14ab56843f",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Vrai ou faux : les servitudes figurent toujours dans l'annonce\n\nVérifiez votre terrain en ",
-    "mediaItems": [
-     {
-      "_id": "6afdd068b416da14ab568442",
-      "url": "https://media.zernio.com/media/1795018854899_eb761f0c2cd68229_TK-TU-Reel-67.mp4"
-     }
-    ],
-    "scheduledFor": "2027-01-04T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:20:56.928Z",
-    "platforms": [
-     {
-      "_id": "6afdd068b416da14ab568440",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-01-04T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd06502808f5d1e2419b0",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "L'emprise au sol, c'est quoi exactement ?\n\nVérifiez votre terrain en quelques minutes : te",
-    "mediaItems": [
-     {
-      "_id": "6afdd06602808f5d1e2419b4",
-      "url": "https://media.zernio.com/media/1795018852654_42b087ab77a09468_TK-TU-Reel-66.mp4"
-     }
-    ],
-    "scheduledFor": "2027-01-03T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:20:54.612Z",
-    "platforms": [
-     {
-      "_id": "6afdd06602808f5d1e2419b2",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-01-03T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd063fb578037a9638f3c",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Bordeaux : que pouvez-vous construire sur votre terrain ?\n\nVérifiez votre terrain en quelq",
-    "mediaItems": [
-     {
-      "_id": "6afdd064fb578037a9638f42",
-      "url": "https://media.zernio.com/media/1795018850125_4380524f6dadcc79_TK-TU-Reel-65.mp4"
-     }
-    ],
-    "scheduledFor": "2027-01-02T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:20:52.381Z",
-    "platforms": [
-     {
-      "_id": "6afdd064fb578037a9638f40",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-01-02T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd060fb578037a9638f2a",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Vrai ou faux : mon voisin peut contester mon permis\n\nVérifiez votre terrain en quelques mi",
-    "mediaItems": [
-     {
-      "_id": "6afdd061fb578037a9638f31",
-      "url": "https://media.zernio.com/media/1795018847340_8c6ff6a0264688eb_TK-TU-Reel-64.mp4"
-     }
-    ],
-    "scheduledFor": "2027-01-01T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:20:49.841Z",
-    "platforms": [
-     {
-      "_id": "6afdd061fb578037a9638f2f",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2027-01-01T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd05e61a722c506b50372",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Acheter en lotissement : les règles en plus\n\nVérifiez votre terrain en quelques minutes : ",
-    "mediaItems": [
-     {
-      "_id": "6afdd05f61a722c506b5044a",
-      "url": "https://media.zernio.com/media/1795018845150_38997ff68b0216da_TK-TU-Reel-63.mp4"
-     }
-    ],
-    "scheduledFor": "2026-12-31T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:20:47.049Z",
-    "platforms": [
-     {
-      "_id": "6afdd05f61a722c506b50448",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-12-31T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd05bb416da14ab568412",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Permis refusé : les 3 erreurs les plus fréquentes\n\nVérifiez votre terrain en quelques minu",
-    "mediaItems": [
-     {
-      "_id": "6afdd05cb416da14ab568415",
-      "url": "https://media.zernio.com/media/1795018842314_668a83a436e190fc_TK-TU-Reel-62.mp4"
-     }
-    ],
-    "scheduledFor": "2026-12-30T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:20:44.894Z",
-    "platforms": [
-     {
-      "_id": "6afdd05cb416da14ab568413",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-12-30T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd05961a722c506b4fe4a",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Montpellier : que pouvez-vous construire sur votre terrain ?\n\nVérifiez votre terrain en qu",
-    "mediaItems": [
-     {
-      "_id": "6afdd05a61a722c506b4fe50",
-      "url": "https://media.zernio.com/media/1795018840185_7d47e59811f9dab7_TK-TU-Reel-61.mp4"
-     }
-    ],
-    "scheduledFor": "2026-12-29T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:20:42.061Z",
-    "platforms": [
-     {
-      "_id": "6afdd05a61a722c506b4fe4e",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-12-29T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd056b416da14ab5683f1",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Vrai ou faux : une piscine n'entre pas dans la taxe d'aménagement\n\nVérifiez votre terrain ",
-    "mediaItems": [
-     {
-      "_id": "6afdd057b416da14ab5683fd",
-      "url": "https://media.zernio.com/media/1795018837678_30394165e3fbcf9d_TK-TU-Reel-60.mp4"
-     }
-    ],
-    "scheduledFor": "2026-12-28T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:20:39.923Z",
-    "platforms": [
-     {
-      "_id": "6afdd057b416da14ab5683fb",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-12-28T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd054637ccf9e62a2cca3",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Abattre un arbre sur son terrain : attention\n\nVérifiez votre terrain en quelques minutes :",
-    "mediaItems": [
-     {
-      "_id": "6afdd055637ccf9e62a2ccad",
-      "url": "https://media.zernio.com/media/1795018835124_4f9079fb82a9be59_TK-TU-Reel-59.mp4"
-     }
-    ],
-    "scheduledFor": "2026-12-27T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:20:37.388Z",
-    "platforms": [
-     {
-      "_id": "6afdd055637ccf9e62a2ccab",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-12-27T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd0511ea6e6ce13d9bbe3",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Nantes : que pouvez-vous construire sur votre terrain ?\n\nVérifiez votre terrain en quelque",
-    "mediaItems": [
-     {
-      "_id": "6afdd0521ea6e6ce13d9bbe9",
-      "url": "https://media.zernio.com/media/1795018832374_20913baa19754531_TK-TU-Reel-58.mp4"
-     }
-    ],
-    "scheduledFor": "2026-12-26T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:20:34.845Z",
-    "platforms": [
-     {
-      "_id": "6afdd0521ea6e6ce13d9bbe7",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-12-26T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd04fd3450acb1ff9daba",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Vrai ou faux : une commune sans PLU, c'est sans règles\n\nVérifiez votre terrain en quelques",
-    "mediaItems": [
-     {
-      "_id": "6afdd050d3450acb1ff9dac2",
-      "url": "https://media.zernio.com/media/1795018829888_8af474096b2fdbc5_TK-TU-Reel-57.mp4"
-     }
-    ],
-    "scheduledFor": "2026-12-25T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:20:32.044Z",
-    "platforms": [
-     {
-      "_id": "6afdd050d3450acb1ff9dac0",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-12-25T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd04c1ea6e6ce13d9bbd3",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Tiny house ou mobil-home sur son terrain : c'est permis ?\n\nVérifiez votre terrain en quelq",
-    "mediaItems": [
-     {
-      "_id": "6afdd04d1ea6e6ce13d9bbd8",
-      "url": "https://media.zernio.com/media/1795018827555_d98363b234bbfeb6_TK-TU-Reel-56.mp4"
-     }
-    ],
-    "scheduledFor": "2026-12-24T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:20:29.601Z",
-    "platforms": [
-     {
-      "_id": "6afdd04d1ea6e6ce13d9bbd6",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-12-24T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd04ad3aa45189cc83bf0",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Droit de préemption : le repérer tout de suite\n\nVérifiez votre terrain en quelques minutes",
-    "mediaItems": [
-     {
-      "_id": "6afdd04bd3aa45189cc83bf4",
-      "url": "https://media.zernio.com/media/1795018825099_00a643c0406a66bc_TK-TU-Reel-55.mp4"
-     }
-    ],
-    "scheduledFor": "2026-12-23T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:20:27.287Z",
-    "platforms": [
-     {
-      "_id": "6afdd04bd3aa45189cc83bf2",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-12-23T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd0471ea6e6ce13d9bbcf",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Nice : que pouvez-vous construire sur votre terrain ?\n\nVérifiez votre terrain en quelques ",
-    "mediaItems": [
-     {
-      "_id": "6afdd0481ea6e6ce13d9bbd2",
-      "url": "https://media.zernio.com/media/1795018821044_f539f25ff9a4ce31_TK-TU-Reel-54.mp4"
-     }
-    ],
-    "scheduledFor": "2026-12-22T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:20:24.637Z",
-    "platforms": [
-     {
-      "_id": "6afdd0481ea6e6ce13d9bbd0",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-12-22T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd043d3450acb1ff9da72",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Vrai ou faux : on peut construire sa maison en zone agricole\n\nVérifiez votre terrain en qu",
-    "mediaItems": [
-     {
-      "_id": "6afdd044d3450acb1ff9da7d",
-      "url": "https://media.zernio.com/media/1795018818543_705c623e701705da_TK-TU-Reel-53.mp4"
-     }
-    ],
-    "scheduledFor": "2026-12-21T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:20:20.779Z",
-    "platforms": [
-     {
-      "_id": "6afdd044d3450acb1ff9da7b",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-12-21T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd04102808f5d1e2418c1",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Transformer une grange en maison : est-ce possible ?\n\nVérifiez votre terrain en quelques m",
-    "mediaItems": [
-     {
-      "_id": "6afdd04202808f5d1e2418ca",
-      "url": "https://media.zernio.com/media/1795018816303_f1f956853a465f83_TK-TU-Reel-52.mp4"
-     }
-    ],
-    "scheduledFor": "2026-12-20T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:20:18.264Z",
-    "platforms": [
-     {
-      "_id": "6afdd04202808f5d1e2418c8",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-12-20T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd03ed3450acb1ff9da01",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Toulouse : que pouvez-vous construire sur votre terrain ?\n\nVérifiez votre terrain en quelq",
-    "mediaItems": [
-     {
-      "_id": "6afdd03fd3450acb1ff9da17",
-      "url": "https://media.zernio.com/media/1795018813339_bf1c995a40341310_TK-TU-Reel-51.mp4"
-     }
-    ],
-    "scheduledFor": "2026-12-19T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:20:15.730Z",
-    "platforms": [
-     {
-      "_id": "6afdd03fd3450acb1ff9da15",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-12-19T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd03c61a722c506b4fdfb",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Vrai ou faux : le COS limite encore la surface constructible\n\nVérifiez votre terrain en qu",
-    "mediaItems": [
-     {
-      "_id": "6afdd03d61a722c506b4fe03",
-      "url": "https://media.zernio.com/media/1795018810912_0a3f9052ab0f73a7_TK-TU-Reel-50.mp4"
-     }
-    ],
-    "scheduledFor": "2026-12-18T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:20:13.074Z",
-    "platforms": [
-     {
-      "_id": "6afdd03d61a722c506b4fe01",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-12-18T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd039637ccf9e62a2cc1c",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Panneaux solaires sur le toit : quelle démarche ?\n\nVérifiez votre terrain en quelques minu",
-    "mediaItems": [
-     {
-      "_id": "6afdd03a637ccf9e62a2cc24",
-      "url": "https://media.zernio.com/media/1795018807739_58b2bde04bd89166_TK-TU-Reel-49.mp4"
-     }
-    ],
-    "scheduledFor": "2026-12-17T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:20:10.571Z",
-    "platforms": [
-     {
-      "_id": "6afdd03a637ccf9e62a2cc22",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-12-17T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afe1bc419816c680b260175",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Zone du PLU, règlement de la zone, emprise au sol, hauteur, risques, servitudes, valeur de",
-    "mediaItems": [
-     {
-      "_id": "6afe1bc519816c680b26017e",
-      "url": "https://media.zernio.com/media/1795038148153_0fe40efd4f5eb8b9_TU-Reel-12.mp4"
-     }
-    ],
-    "scheduledFor": "2026-12-16T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T21:42:29.708Z",
-    "platforms": [
-     {
-      "_id": "6afe1bc519816c680b26017c",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-12-16T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd036fb578037a9638e81",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Lyon : que pouvez-vous construire sur votre terrain ?\n\nVérifiez votre terrain en quelques ",
-    "mediaItems": [
-     {
-      "_id": "6afdd037fb578037a9638e8e",
-      "url": "https://media.zernio.com/media/1795018805315_d49212d5184d9ee4_TK-TU-Reel-47.mp4"
-     }
-    ],
-    "scheduledFor": "2026-12-15T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:20:07.425Z",
-    "platforms": [
-     {
-      "_id": "6afdd037fb578037a9638e8c",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-12-15T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd034d3450acb1ff9d998",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Vrai ou faux : un terrain vendu « constructible » l'est forcément\n\nVérifiez votre terrain ",
-    "mediaItems": [
-     {
-      "_id": "6afdd035d3450acb1ff9d9a5",
-      "url": "https://media.zernio.com/media/1795018802981_9dc5d5e86a9c7044_TK-TU-Reel-46.mp4"
-     }
-    ],
-    "scheduledFor": "2026-12-14T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:20:05.000Z",
-    "platforms": [
-     {
-      "_id": "6afdd034d3450acb1ff9d9a3",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-12-14T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd031fb578037a9638e62",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Construire un garage : les règles à connaître\n\nVérifiez votre terrain en quelques minutes ",
-    "mediaItems": [
-     {
-      "_id": "6afdd032fb578037a9638e70",
-      "url": "https://media.zernio.com/media/1795018800236_ed88bf1eb6ea8364_TK-TU-Reel-45.mp4"
-     }
-    ],
-    "scheduledFor": "2026-12-13T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:20:02.478Z",
-    "platforms": [
-     {
-      "_id": "6afdd032fb578037a9638e6e",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-12-13T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd02e02808f5d1e241825",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Marseille : que pouvez-vous construire sur votre terrain ?\n\nVérifiez votre terrain en quel",
-    "mediaItems": [
-     {
-      "_id": "6afdd02f02808f5d1e24182c",
-      "url": "https://media.zernio.com/media/1795018797469_e5c22ba4ceb87f54_TK-TU-Reel-44.mp4"
-     }
-    ],
-    "scheduledFor": "2026-12-12T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:19:59.935Z",
-    "platforms": [
-     {
-      "_id": "6afdd02f02808f5d1e24182a",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-12-12T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd02c61a722c506b4fd76",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Vrai ou faux : sans réponse de la mairie, mon permis est accordé\n\nVérifiez votre terrain e",
-    "mediaItems": [
-     {
-      "_id": "6afdd02d61a722c506b4fd8d",
-      "url": "https://media.zernio.com/media/1795018794899_b483a80d50bdc33a_TK-TU-Reel-43.mp4"
-     }
-    ],
-    "scheduledFor": "2026-12-11T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:19:57.173Z",
-    "platforms": [
-     {
-      "_id": "6afdd02d61a722c506b4fd8b",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-12-11T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdcf7af379b949a7e93ae4",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Surélever sa maison : jusqu'où ?\n\nVérifiez votre terrain en quelques minutes : terrenurban",
-    "mediaItems": [
-     {
-      "_id": "6afdcf7af379b949a7e93aed",
-      "url": "https://media.zernio.com/media/1795018616942_e29bec5e6206d77b_TK-TU-Reel-42.mp4"
-     }
-    ],
-    "scheduledFor": "2026-12-10T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:16:58.960Z",
-    "platforms": [
-     {
-      "_id": "6afdcf7af379b949a7e93aeb",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-12-10T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afe1bc3725b1ffb6ec97ab4",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Une pièce de plus, un garage, une véranda : combien de mètres carrés pouvez-vous encore co",
-    "mediaItems": [
-     {
-      "_id": "6afe1bc3725b1ffb6ec97aba",
-      "url": "https://media.zernio.com/media/1795038146340_1bd726e5729d46f9_TU-Reel-04.mp4"
-     }
-    ],
-    "scheduledFor": "2026-12-09T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T21:42:27.924Z",
-    "platforms": [
-     {
-      "_id": "6afe1bc3725b1ffb6ec97ab8",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-12-09T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdcf7776e052515e57225f",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Paris : que pouvez-vous construire sur votre terrain ?\n\nVérifiez votre terrain en quelques",
-    "mediaItems": [
-     {
-      "_id": "6afdcf7876e052515e572263",
-      "url": "https://media.zernio.com/media/1795018614015_ebc20c508fcb6936_TK-TU-Reel-40.mp4"
-     }
-    ],
-    "scheduledFor": "2026-12-08T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:16:56.433Z",
-    "platforms": [
-     {
-      "_id": "6afdcf7876e052515e572261",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-12-08T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdcf7402808f5d1e241613",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Vrai ou faux : le cadastre dit si mon terrain est constructible\n\nVérifiez votre terrain en",
-    "mediaItems": [
-     {
-      "_id": "6afdcf7502808f5d1e241620",
-      "url": "https://media.zernio.com/media/1795018610921_6931eb1225861585_TK-TU-Reel-39.mp4"
-     }
-    ],
-    "scheduledFor": "2026-12-07T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:16:53.414Z",
-    "platforms": [
-     {
-      "_id": "6afdcf7502808f5d1e24161e",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-12-07T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdcf71160065ff78770edb",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Une véranda : déclaration ou permis ?\n\nVérifiez votre terrain en quelques minutes : terren",
-    "mediaItems": [
-     {
-      "_id": "6afdcf72160065ff78770edf",
-      "url": "https://media.zernio.com/media/1795018608233_b7927d06b1c1266e_TK-TU-Reel-38.mp4"
-     }
-    ],
-    "scheduledFor": "2026-12-06T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:16:50.265Z",
-    "platforms": [
-     {
-      "_id": "6afdcf72160065ff78770edd",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-12-06T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdcf6eb6d9f295af5a96b6",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Vrai ou faux : un terrain constructible le reste pour toujours\n\nVérifiez votre terrain en ",
-    "mediaItems": [
-     {
-      "_id": "6afdcf6fb6d9f295af5a96c1",
-      "url": "https://media.zernio.com/media/1795018605542_86529877ec6e87d1_TK-TU-Reel-37.mp4"
-     }
-    ],
-    "scheduledFor": "2026-12-05T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:16:47.631Z",
-    "platforms": [
-     {
-      "_id": "6afdcf6fb6d9f295af5a96bc",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-12-05T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdcf6b76e052515e57220f",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Vrai ou faux : une clôture ne demande aucune démarche\n\nVérifiez votre terrain en quelques ",
-    "mediaItems": [
-     {
-      "_id": "6afdcf6c76e052515e57221c",
-      "url": "https://media.zernio.com/media/1795018602652_49972fd7f1b02540_TK-TU-Reel-36.mp4"
-     }
-    ],
-    "scheduledFor": "2026-12-04T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:16:44.887Z",
-    "platforms": [
-     {
-      "_id": "6afdcf6c76e052515e57221a",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-12-04T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdcf69160065ff78770e97",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Vrai ou faux : en zone inondable, on ne peut rien construire\n\nVérifiez votre terrain en qu",
-    "mediaItems": [
-     {
-      "_id": "6afdcf6a160065ff78770e9e",
-      "url": "https://media.zernio.com/media/1795018600000_45284b46ca581b68_TK-TU-Reel-35.mp4"
-     }
-    ],
-    "scheduledFor": "2026-12-03T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:16:42.079Z",
-    "platforms": [
-     {
-      "_id": "6afdcf6a160065ff78770e9c",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-12-03T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdcf66d3450acb1ff9d61e",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Vrai ou faux : le certificat d'urbanisme garantit le permis\n\nVérifiez votre terrain en que",
-    "mediaItems": [
-     {
-      "_id": "6afdcf67d3450acb1ff9d628",
-      "url": "https://media.zernio.com/media/1795018597264_ea86f4de43d82d5d_TK-TU-Reel-34.mp4"
-     }
-    ],
-    "scheduledFor": "2026-12-02T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:16:39.435Z",
-    "platforms": [
-     {
-      "_id": "6afdcf67d3450acb1ff9d624",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-12-02T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdcf63ff34006be30232fa",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Vrai ou faux : une piscine hors-sol ne demande aucune démarche\n\nVérifiez votre terrain en ",
-    "mediaItems": [
-     {
-      "_id": "6afdcf64ff34006be3023304",
-      "url": "https://media.zernio.com/media/1795018594646_8ab88e1750066a70_TK-TU-Reel-33.mp4"
-     }
-    ],
-    "scheduledFor": "2026-12-01T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:16:36.730Z",
-    "platforms": [
-     {
-      "_id": "6afdcf64ff34006be3023302",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-12-01T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdcf6176e052515e5721de",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Vrai ou faux : on peut construire 20 m² sans autorisation\n\nVérifiez votre terrain en quelq",
-    "mediaItems": [
-     {
-      "_id": "6afdcf6276e052515e5721e1",
-      "url": "https://media.zernio.com/media/1795018591206_e3f70209bb022a2e_TK-TU-Reel-32.mp4"
-     }
-    ],
-    "scheduledFor": "2026-11-30T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:16:34.017Z",
-    "platforms": [
-     {
-      "_id": "6afdcf6276e052515e5721df",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-11-30T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdcf5dd3450acb1ff9d5e5",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Vrai ou faux : un terrain viabilisé est forcément constructible\n\nVérifiez votre terrain en",
-    "mediaItems": [
-     {
-      "_id": "6afdcf5ed3450acb1ff9d5eb",
-      "url": "https://media.zernio.com/media/1795018588020_9b3523cc8b8f8f0d_TK-TU-Reel-31.mp4"
-     }
-    ],
-    "scheduledFor": "2026-11-29T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:16:30.583Z",
-    "platforms": [
-     {
-      "_id": "6afdcf5ed3450acb1ff9d5e9",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-11-29T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdcf5a498700a10dd520c3",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Terrain en pente : ce que dit le PLU\n\nVérifiez votre terrain en quelques minutes : terrenu",
-    "mediaItems": [
-     {
-      "_id": "6afdcf5b498700a10dd520cb",
-      "url": "https://media.zernio.com/media/1795018585069_a875dc2b5bab294c_TK-TU-Reel-30.mp4"
-     }
-    ],
-    "scheduledFor": "2026-11-28T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:16:27.294Z",
-    "platforms": [
-     {
-      "_id": "6afdcf5b498700a10dd520c9",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-11-28T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afdcf57389ce63e54024bd3",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Terrain agricole : deviendra-t-il constructible ?\n\nVérifiez votre terrain en quelques minu",
-    "mediaItems": [
-     {
-      "_id": "6afdcf58389ce63e54024be0",
-      "url": "https://media.zernio.com/media/1795018582344_5b8cbc7e4f6a095b_TK-TU-Reel-29.mp4"
-     }
-    ],
-    "scheduledFor": "2026-11-27T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T16:16:24.513Z",
-    "platforms": [
-     {
-      "_id": "6afdcf58389ce63e54024bde",
-      "platform": "tiktok",
-      "accountId": {
-       "_id": "6afdcb05f4f13bacbd3d1591",
-       "platform": "tiktok"
-      },
-      "scheduledFor": "2026-11-27T17:00:00.000Z",
-      "status": "pending"
-     }
-    ]
-   },
-   {
-    "_id": "6afe1bc1182543fd9723b0ff",
-    "userId": {
-     "_id": "6afdca3046a6457ab61f1147"
-    },
-    "content": "Vous héritez d'un terrain. Avant de le vendre, de le partager ou d'y construire, une quest",
-    "mediaItems": [
-     {
-      "_id": "6afe1bc2182543fd9723b104",
-      "url": "https://media.zernio.com/media/1795038144049_69c0bd4a57c53892_TU-Reel-02.mp4"
+      "_id": "6aff58016d5355fc88b537b2",
+      "url": "https://media.zernio.com/media/1795119102844_25a7f0b18fe73901_TU-Reel-03.mp4"
      }
     ],
     "scheduledFor": "2026-11-26T17:00:00.000Z",
     "status": "scheduled",
-    "createdAt": "2026-11-18T21:42:26.115Z",
+    "createdAt": "2026-11-19T20:11:45.190Z",
     "platforms": [
      {
-      "_id": "6afe1bc2182543fd9723b102",
+      "_id": "6aff58016d5355fc88b537b0",
       "platform": "tiktok",
       "accountId": {
        "_id": "6afdcb05f4f13bacbd3d1591",
@@ -2047,23 +31,23 @@
     ]
    },
    {
-    "_id": "6afe1bbefb7fca456c3dc985",
+    "_id": "6aff57fdad189d024ac4a16c",
     "userId": {
      "_id": "6afdca3046a6457ab61f1147"
     },
-    "content": "Le rapport complet. Voici ce que vous obtenez.\n\nQuel point vérifiez-vous en premier ?\n\nter",
+    "content": "Agrandir sa maison",
     "mediaItems": [
      {
-      "_id": "6afe1bbffb7fca456c3dc989",
-      "url": "https://media.zernio.com/media/1795038141564_90ae155d8fc5f64b_TK-TU-Serie-06.mp4"
+      "_id": "6aff57fead189d024ac4a170",
+      "url": "https://media.zernio.com/media/1795119100865_5f2ea61e2dc3944d_LI-2026-11-21.jpg"
      }
     ],
     "scheduledFor": "2026-11-25T17:00:00.000Z",
     "status": "scheduled",
-    "createdAt": "2026-11-18T21:42:23.786Z",
+    "createdAt": "2026-11-19T20:11:42.622Z",
     "platforms": [
      {
-      "_id": "6afe1bbffb7fca456c3dc987",
+      "_id": "6aff57fead189d024ac4a16e",
       "platform": "tiktok",
       "accountId": {
        "_id": "6afdcb05f4f13bacbd3d1591",
@@ -2075,23 +59,23 @@
     ]
    },
    {
-    "_id": "6afe1bbcadb1c3a648d4f6a3",
+    "_id": "6aff57fba778149aefbecf38",
     "userId": {
      "_id": "6afdca3046a6457ab61f1147"
     },
-    "content": "3 erreurs qui coûtent cher avant d'acheter un terrain.\n\nLaquelle de ces erreurs vous a déj",
+    "content": "Constructible ou pas ? Vous avez 3 secondes.\n\nVous aviez répondu oui ou non ?\n\nterrenurban",
     "mediaItems": [
      {
-      "_id": "6afe1bbdadb1c3a648d4f6a6",
-      "url": "https://media.zernio.com/media/1795038139649_a05d4c25099cc4ab_TK-TU-Serie-05.mp4"
+      "_id": "6aff57fca778149aefbecf3c",
+      "url": "https://media.zernio.com/media/1795119098257_778564b4c915b5ff_TK-TU-Serie-02.mp4"
      }
     ],
     "scheduledFor": "2026-11-24T17:00:00.000Z",
     "status": "scheduled",
-    "createdAt": "2026-11-18T21:42:21.315Z",
+    "createdAt": "2026-11-19T20:11:40.648Z",
     "platforms": [
      {
-      "_id": "6afe1bbdadb1c3a648d4f6a4",
+      "_id": "6aff57fca778149aefbecf3a",
       "platform": "tiktok",
       "accountId": {
        "_id": "6afdcb05f4f13bacbd3d1591",
@@ -2103,23 +87,51 @@
     ]
    },
    {
-    "_id": "6afe1bbaadb1c3a648d4f692",
+    "_id": "6b00869297bb35e1b98797fb",
     "userId": {
      "_id": "6afdca3046a6457ab61f1147"
     },
-    "content": "Une seule lettre décide si vous pouvez construire.\n\nQuelle est la lettre de votre terrain ",
+    "content": "Un terrain à 150 000 €. Plus de 10 000 € de frais de notaire. Et une seule question qui dé",
     "mediaItems": [
      {
-      "_id": "6afe1bbbadb1c3a648d4f69a",
-      "url": "https://media.zernio.com/media/1795038137347_414ab80d2c27a4ff_TK-TU-Serie-04.mp4"
+      "_id": "6b00869297bb35e1b987980d",
+      "url": "https://media.zernio.com/media/1795196561028_ce6ed8ccf89dd869_yt-j-2026-11-23.mp4"
      }
     ],
     "scheduledFor": "2026-11-23T17:00:00.000Z",
     "status": "scheduled",
-    "createdAt": "2026-11-18T21:42:19.434Z",
+    "createdAt": "2026-11-20T17:42:42.844Z",
     "platforms": [
      {
-      "_id": "6afe1bbbadb1c3a648d4f698",
+      "_id": "6b00869297bb35e1b987980b",
+      "platform": "youtube",
+      "accountId": {
+       "_id": "6afedbd8a7188eb33bc575ad",
+       "platform": "youtube"
+      },
+      "scheduledFor": "2026-11-23T17:00:00.000Z",
+      "status": "pending"
+     }
+    ]
+   },
+   {
+    "_id": "6aff57f94ca23faf59150deb",
+    "userId": {
+     "_id": "6afdca3046a6457ab61f1147"
+    },
+    "content": "Vérifier coûte moins qu'un plein",
+    "mediaItems": [
+     {
+      "_id": "6aff57fa4ca23faf59150dee",
+      "url": "https://media.zernio.com/media/1795119096129_a4d3b02be9286a9a_Pub-risques-2.jpg"
+     }
+    ],
+    "scheduledFor": "2026-11-23T17:00:00.000Z",
+    "status": "scheduled",
+    "createdAt": "2026-11-19T20:11:38.020Z",
+    "platforms": [
+     {
+      "_id": "6aff57fa4ca23faf59150dec",
       "platform": "tiktok",
       "accountId": {
        "_id": "6afdcb05f4f13bacbd3d1591",
@@ -2131,23 +143,59 @@
     ]
    },
    {
-    "_id": "6afe1bb7adb1c3a648d4f686",
+    "_id": "6aff5808a778149aefbecfab",
     "userId": {
      "_id": "6afdca3046a6457ab61f1147"
     },
-    "content": "Ce terrain, de 1950 à aujourd'hui.\n\nVous aimeriez voir votre terrain en 1950 ?\n\nterrenurba",
+    "content": "Vous vendez un terrain ou une maison avec du foncier ?\n\nUn acheteur ne paie pas des mètres",
     "mediaItems": [
      {
-      "_id": "6afe1bb9adb1c3a648d4f68c",
-      "url": "https://media.zernio.com/media/1795038135027_6212ce0b935e124b_TK-TU-Serie-03.mp4"
+      "_id": "6aff5809a778149aefbecfb8",
+      "url": "https://media.zernio.com/media/1795119111455_6e6199fc70855a33_yt-j-2026-11-22.mp4"
      }
     ],
     "scheduledFor": "2026-11-22T17:00:00.000Z",
     "status": "scheduled",
-    "createdAt": "2026-11-18T21:42:17.063Z",
+    "createdAt": "2026-11-19T20:11:53.284Z",
     "platforms": [
      {
-      "_id": "6afe1bb9adb1c3a648d4f68a",
+      "_id": "6aff5809a778149aefbecfb6",
+      "platform": "youtube",
+      "accountId": {
+       "_id": "6afedbd8a7188eb33bc575ad",
+       "platform": "youtube"
+      },
+      "scheduledFor": "2026-11-22T17:00:00.000Z",
+      "status": "pending"
+     }
+    ]
+   },
+   {
+    "_id": "6aff57f6a778149aefbecf23",
+    "userId": {
+     "_id": "6afdca3046a6457ab61f1147"
+    },
+    "content": "Vendeurs : vendez mieux",
+    "mediaItems": [
+     {
+      "_id": "6aff57f7a778149aefbecf26",
+      "url": "https://media.zernio.com/media/1795119091819_ee1ff3504634936d_Mois-m11-1.jpg"
+     },
+     {
+      "_id": "6aff57f7a778149aefbecf27",
+      "url": "https://media.zernio.com/media/1795119092796_c7eba34341bf7327_Mois-m11-2.jpg"
+     },
+     {
+      "_id": "6aff57f7a778149aefbecf28",
+      "url": "https://media.zernio.com/media/1795119093682_be82c4c78bf8f921_Mois-m11-3.jpg"
+     }
+    ],
+    "scheduledFor": "2026-11-22T17:00:00.000Z",
+    "status": "scheduled",
+    "createdAt": "2026-11-19T20:11:35.786Z",
+    "platforms": [
+     {
+      "_id": "6aff57f7a778149aefbecf24",
       "platform": "tiktok",
       "accountId": {
        "_id": "6afdcb05f4f13bacbd3d1591",
@@ -2159,23 +207,51 @@
     ]
    },
    {
-    "_id": "6afe1bb5f6aa997e2eeba302",
+    "_id": "6aff58046d5355fc88b537cc",
     "userId": {
      "_id": "6afdca3046a6457ab61f1147"
     },
-    "content": "Constructible ou pas ? Vous avez 3 secondes.\n\nVous aviez répondu oui ou non ?\n\nterrenurban",
+    "content": "Cette annonce peut vous coûter cher.\n\n« Terrain constructible » : sur l'annonce, tout a l'",
     "mediaItems": [
      {
-      "_id": "6afe1bb6f6aa997e2eeba30f",
-      "url": "https://media.zernio.com/media/1795038132523_57982d1275c725e4_TK-TU-Serie-02.mp4"
+      "_id": "6aff58056d5355fc88b537d6",
+      "url": "https://media.zernio.com/media/1795119107442_ab9b0c07dd5eab32_TU-Serie-01.mp4"
      }
     ],
     "scheduledFor": "2026-11-21T17:00:00.000Z",
     "status": "scheduled",
-    "createdAt": "2026-11-18T21:42:14.797Z",
+    "createdAt": "2026-11-19T20:11:49.167Z",
     "platforms": [
      {
-      "_id": "6afe1bb6f6aa997e2eeba30d",
+      "_id": "6aff58056d5355fc88b537d4",
+      "platform": "youtube",
+      "accountId": {
+       "_id": "6afedbd8a7188eb33bc575ad",
+       "platform": "youtube"
+      },
+      "scheduledFor": "2026-11-21T17:00:00.000Z",
+      "status": "pending"
+     }
+    ]
+   },
+   {
+    "_id": "6aff57f2a778149aefbecefb",
+    "userId": {
+     "_id": "6afdca3046a6457ab61f1147"
+    },
+    "content": "Cette annonce peut vous coûter cher.\n\nVous aviez déjà vérifié le règlement de votre terrai",
+    "mediaItems": [
+     {
+      "_id": "6aff57f3a778149aefbecf04",
+      "url": "https://media.zernio.com/media/1795119089489_463e093a6162fdad_TK-TU-Serie-01.mp4"
+     }
+    ],
+    "scheduledFor": "2026-11-21T17:00:00.000Z",
+    "status": "scheduled",
+    "createdAt": "2026-11-19T20:11:31.593Z",
+    "platforms": [
+     {
+      "_id": "6aff57f3a778149aefbecf02",
       "platform": "tiktok",
       "accountId": {
        "_id": "6afdcb05f4f13bacbd3d1591",
@@ -2187,30 +263,92 @@
     ]
    },
    {
-    "_id": "6afe1bb36e97e53f34dde293",
+    "_id": "6aff5802a778149aefbecf65",
     "userId": {
      "_id": "6afdca3046a6457ab61f1147"
     },
-    "content": "Cette annonce peut vous coûter cher.\n\nVous aviez déjà vérifié le règlement de votre terrai",
+    "content": "Feux de forêt, inondation, retrait-gonflement des argiles : les risques changent tout dans",
     "mediaItems": [
      {
-      "_id": "6afe1bb46e97e53f34dde2a1",
-      "url": "https://media.zernio.com/media/1795038130233_1221ff2b1cc47a62_TK-TU-Serie-01.mp4"
+      "_id": "6aff5803a778149aefbecf76",
+      "url": "https://media.zernio.com/media/1795119105478_0a08b8767b27679e_TU-Reel-07.mp4"
      }
     ],
     "scheduledFor": "2026-11-20T17:00:00.000Z",
-    "status": "scheduled",
-    "createdAt": "2026-11-18T21:42:12.255Z",
+    "status": "published",
+    "createdAt": "2026-11-19T20:11:47.208Z",
     "platforms": [
      {
-      "_id": "6afe1bb46e97e53f34dde29f",
+      "_id": "6aff5803a778149aefbecf74",
+      "platform": "youtube",
+      "accountId": {
+       "_id": "6afedbd8a7188eb33bc575ad",
+       "platform": "youtube"
+      },
+      "scheduledFor": "2026-11-20T17:00:00.000Z",
+      "status": "published",
+      "publishedAt": "2026-11-20T17:00:00.000Z",
+      "platformPostUrl": "https://www.youtube.com/watch?v=ILX97J5Pu3M"
+     }
+    ]
+   },
+   {
+    "_id": "6aff57f0a778149aefbecee2",
+    "userId": {
+     "_id": "6afdca3046a6457ab61f1147"
+    },
+    "content": "Feux de forêt, inondation, retrait-gonflement des argiles : les risques changent tout dans",
+    "mediaItems": [
+     {
+      "_id": "6aff57f1a778149aefbecee9",
+      "url": "https://media.zernio.com/media/1795119087111_b173f754cada3cba_TU-Reel-07.mp4"
+     }
+    ],
+    "scheduledFor": "2026-11-20T17:00:00.000Z",
+    "status": "published",
+    "createdAt": "2026-11-19T20:11:29.248Z",
+    "platforms": [
+     {
+      "_id": "6aff57f1a778149aefbecee7",
       "platform": "tiktok",
       "accountId": {
        "_id": "6afdcb05f4f13bacbd3d1591",
        "platform": "tiktok"
       },
       "scheduledFor": "2026-11-20T17:00:00.000Z",
-      "status": "pending"
+      "status": "published",
+      "publishedAt": "2026-11-20T17:03:49.744Z",
+      "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7710300482408926496"
+     }
+    ]
+   },
+   {
+    "_id": "6afede6b1486d934f42c5a0d",
+    "userId": {
+     "_id": "6afdca3046a6457ab61f1147"
+    },
+    "content": "Architectes, maîtres d'œuvre : avant la première esquisse, il faut les règles de la zone.\n",
+    "mediaItems": [
+     {
+      "_id": "6afede6c1486d934f42c5a10",
+      "url": "https://media.zernio.com/media/1795087978155_ae37b5b1c9685cd9_TU-Reel-21.mp4"
+     }
+    ],
+    "scheduledFor": "2026-11-19T17:00:00.000Z",
+    "status": "published",
+    "createdAt": "2026-11-19T11:33:00.412Z",
+    "platforms": [
+     {
+      "_id": "6afede6c1486d934f42c5a0e",
+      "platform": "youtube",
+      "accountId": {
+       "_id": "6afedbd8a7188eb33bc575ad",
+       "platform": "youtube"
+      },
+      "scheduledFor": "2026-11-19T17:00:00.000Z",
+      "status": "published",
+      "publishedAt": "2026-11-19T17:00:00.000Z",
+      "platformPostUrl": "https://www.youtube.com/watch?v=vtIhi4k0PWo"
      }
     ]
    },
@@ -2280,10 +418,10 @@
  "analytics": {
   "posts": [
    {
-    "_id": "6afdffcb0ea6490b3b871038",
-    "content": "Une pièce de plus, un garage, une véranda : combien de mètres carrés pouvez-vous encore co",
-    "publishedAt": "2026-11-18T18:00:00.000Z",
-    "scheduledFor": "2026-11-18T18:00:00.000Z",
+    "_id": "6b00b9bb0b8668c7d1119c13",
+    "content": "Feux de forêt, inondation, retrait-gonflement des argiles : les risques changent tout dans",
+    "publishedAt": "2026-11-20T17:03:29.000Z",
+    "scheduledFor": "2026-11-20T17:03:29.000Z",
     "status": "published",
     "analytics": {
      "impressions": 0,
@@ -2293,15 +431,21 @@
      "shares": 0,
      "saves": 0,
      "clicks": 0,
-     "views": 0,
-     "igReelsAvgWatchTime": 0,
-     "igReelsVideoViewTotalTime": 0,
+     "views": 242,
+     "igReelsAvgWatchTime": 2210,
+     "igReelsVideoViewTotalTime": 571000,
      "profileViews": 0,
      "websiteClicks": 0,
+     "audienceTypes": {
+      "follower": 0.01,
+      "newViewer": 0,
+      "nonFollower": 0.99,
+      "returnViewer": 0
+     },
      "replays": 0,
-     "videoDurationSeconds": 18.507,
+     "videoDurationSeconds": 14.722,
      "engagementRate": 0,
-     "lastUpdated": "2026-11-18T19:43:07Z"
+     "lastUpdated": "2026-11-21T12:40:44Z"
     },
     "platforms": [
      {
@@ -2315,21 +459,91 @@
        "shares": 0,
        "saves": 0,
        "clicks": 0,
-       "views": 0,
-       "igReelsAvgWatchTime": 0,
-       "igReelsVideoViewTotalTime": 0,
+       "views": 242,
+       "igReelsAvgWatchTime": 2210,
+       "igReelsVideoViewTotalTime": 571000,
        "profileViews": 0,
        "websiteClicks": 0,
+       "audienceTypes": {
+        "follower": 0.01,
+        "newViewer": 0,
+        "nonFollower": 0.99,
+        "returnViewer": 0
+       },
        "replays": 0,
-       "videoDurationSeconds": 18.507,
+       "videoDurationSeconds": 14.722,
        "engagementRate": 0,
-       "lastUpdated": "2026-11-18T19:43:07Z"
+       "lastUpdated": "2026-11-21T12:40:44Z"
       },
-      "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7707336151673113878?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
+      "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7710300482408926496?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
      }
     ],
     "platform": "tiktok",
-    "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7707336151673113878?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
+    "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7710300482408926496?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
+   },
+   {
+    "_id": "6aff44984930ef490b187431",
+    "content": "Votre agence remet des rapports d'urbanisme à ses clients ? Faites-le à votre image. Avec ",
+    "publishedAt": "2026-11-19T18:00:00.000Z",
+    "scheduledFor": "2026-11-19T18:00:00.000Z",
+    "status": "published",
+    "analytics": {
+     "impressions": 0,
+     "reach": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "saves": 0,
+     "clicks": 0,
+     "views": 1,
+     "igReelsAvgWatchTime": 1470,
+     "igReelsVideoViewTotalTime": 7000,
+     "profileViews": 0,
+     "websiteClicks": 0,
+     "audienceTypes": {
+      "nonFollower": 1,
+      "returnViewer": 0,
+      "follower": 0,
+      "newViewer": 0
+     },
+     "replays": 0,
+     "videoDurationSeconds": 18.507,
+     "engagementRate": 0,
+     "lastUpdated": "2026-11-21T12:40:44Z"
+    },
+    "platforms": [
+     {
+      "platform": "tiktok",
+      "status": "published",
+      "analytics": {
+       "impressions": 0,
+       "reach": 0,
+       "likes": 0,
+       "comments": 0,
+       "shares": 0,
+       "saves": 0,
+       "clicks": 0,
+       "views": 1,
+       "igReelsAvgWatchTime": 1470,
+       "igReelsVideoViewTotalTime": 7000,
+       "profileViews": 0,
+       "websiteClicks": 0,
+       "audienceTypes": {
+        "nonFollower": 1,
+        "returnViewer": 0,
+        "follower": 0,
+        "newViewer": 0
+       },
+       "replays": 0,
+       "videoDurationSeconds": 18.507,
+       "engagementRate": 0,
+       "lastUpdated": "2026-11-21T12:40:44Z"
+      },
+      "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7707336997697834262?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
+     }
+    ],
+    "platform": "tiktok",
+    "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7707336997697834262?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
    },
    {
     "_id": "6afdffcb0ea6490b3b87103a",
@@ -2339,27 +553,27 @@
     "status": "published",
     "analytics": {
      "impressions": 0,
-     "reach": 0,
-     "likes": 2,
+     "reach": 273,
+     "likes": 12,
      "comments": 0,
      "shares": 0,
-     "saves": 0,
+     "saves": 2,
      "clicks": 0,
-     "views": 184,
-     "igReelsAvgWatchTime": 3230,
-     "igReelsVideoViewTotalTime": 593000,
-     "profileViews": 0,
+     "views": 295,
+     "igReelsAvgWatchTime": 4300,
+     "igReelsVideoViewTotalTime": 1354000,
+     "profileViews": 2,
      "websiteClicks": 0,
      "audienceTypes": {
-      "follower": 0,
-      "newViewer": 0,
-      "nonFollower": 1,
-      "returnViewer": 0
+      "follower": 0.02,
+      "newViewer": 0.95,
+      "nonFollower": 0.98,
+      "returnViewer": 0.05
      },
      "replays": 0,
      "videoDurationSeconds": 21.3,
-     "engagementRate": 1.09,
-     "lastUpdated": "2026-11-18T19:43:07Z"
+     "engagementRate": 5.13,
+     "lastUpdated": "2026-11-21T12:40:44Z"
     },
     "platforms": [
      {
@@ -2367,27 +581,27 @@
       "status": "published",
       "analytics": {
        "impressions": 0,
-       "reach": 0,
-       "likes": 2,
+       "reach": 273,
+       "likes": 12,
        "comments": 0,
        "shares": 0,
-       "saves": 0,
+       "saves": 2,
        "clicks": 0,
-       "views": 184,
-       "igReelsAvgWatchTime": 3230,
-       "igReelsVideoViewTotalTime": 593000,
-       "profileViews": 0,
+       "views": 295,
+       "igReelsAvgWatchTime": 4300,
+       "igReelsVideoViewTotalTime": 1354000,
+       "profileViews": 2,
        "websiteClicks": 0,
        "audienceTypes": {
-        "follower": 0,
-        "newViewer": 0,
-        "nonFollower": 1,
-        "returnViewer": 0
+        "follower": 0.02,
+        "newViewer": 0.95,
+        "nonFollower": 0.98,
+        "returnViewer": 0.05
        },
        "replays": 0,
        "videoDurationSeconds": 21.3,
-       "engagementRate": 1.09,
-       "lastUpdated": "2026-11-18T19:43:07Z"
+       "engagementRate": 5.13,
+       "lastUpdated": "2026-11-21T12:40:44Z"
       },
       "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7709558452682575137?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
      }
@@ -2403,27 +617,27 @@
     "status": "published",
     "analytics": {
      "impressions": 0,
-     "reach": 0,
+     "reach": 234,
      "likes": 0,
      "comments": 0,
      "shares": 0,
-     "saves": 0,
+     "saves": 2,
      "clicks": 0,
-     "views": 86,
-     "igReelsAvgWatchTime": 3560,
-     "igReelsVideoViewTotalTime": 320000,
-     "profileViews": 0,
+     "views": 251,
+     "igReelsAvgWatchTime": 10840,
+     "igReelsVideoViewTotalTime": 2849000,
+     "profileViews": 4,
      "websiteClicks": 0,
      "audienceTypes": {
       "follower": 0,
-      "newViewer": 0,
+      "newViewer": 0.94,
       "nonFollower": 1,
-      "returnViewer": 0
+      "returnViewer": 0.06
      },
      "replays": 0,
      "videoDurationSeconds": 19.621,
-     "engagementRate": 0,
-     "lastUpdated": "2026-11-18T19:43:07Z"
+     "engagementRate": 0.85,
+     "lastUpdated": "2026-11-21T12:40:44Z"
     },
     "platforms": [
      {
@@ -2431,27 +645,27 @@
       "status": "published",
       "analytics": {
        "impressions": 0,
-       "reach": 0,
+       "reach": 234,
        "likes": 0,
        "comments": 0,
        "shares": 0,
-       "saves": 0,
+       "saves": 2,
        "clicks": 0,
-       "views": 86,
-       "igReelsAvgWatchTime": 3560,
-       "igReelsVideoViewTotalTime": 320000,
-       "profileViews": 0,
+       "views": 251,
+       "igReelsAvgWatchTime": 10840,
+       "igReelsVideoViewTotalTime": 2849000,
+       "profileViews": 4,
        "websiteClicks": 0,
        "audienceTypes": {
         "follower": 0,
-        "newViewer": 0,
+        "newViewer": 0.94,
         "nonFollower": 1,
-        "returnViewer": 0
+        "returnViewer": 0.06
        },
        "replays": 0,
        "videoDurationSeconds": 19.621,
-       "engagementRate": 0,
-       "lastUpdated": "2026-11-18T19:43:07Z"
+       "engagementRate": 0.85,
+       "lastUpdated": "2026-11-21T12:40:44Z"
       },
       "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7709557706423618849?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
      }
@@ -2467,27 +681,27 @@
     "status": "published",
     "analytics": {
      "impressions": 0,
-     "reach": 0,
+     "reach": 225,
      "likes": 3,
      "comments": 0,
      "shares": 0,
      "saves": 0,
      "clicks": 0,
-     "views": 252,
+     "views": 253,
      "igReelsAvgWatchTime": 2970,
-     "igReelsVideoViewTotalTime": 753000,
-     "profileViews": 0,
+     "igReelsVideoViewTotalTime": 757000,
+     "profileViews": 2,
      "websiteClicks": 0,
      "audienceTypes": {
-      "returnViewer": 0,
       "follower": 0,
-      "newViewer": 0,
-      "nonFollower": 1
+      "newViewer": 0.98,
+      "nonFollower": 1,
+      "returnViewer": 0.02
      },
      "replays": 0,
      "videoDurationSeconds": 18.505,
-     "engagementRate": 1.19,
-     "lastUpdated": "2026-11-18T19:43:07Z"
+     "engagementRate": 1.33,
+     "lastUpdated": "2026-11-21T12:40:44Z"
     },
     "platforms": [
      {
@@ -2495,358 +709,33 @@
       "status": "published",
       "analytics": {
        "impressions": 0,
-       "reach": 0,
+       "reach": 225,
        "likes": 3,
        "comments": 0,
        "shares": 0,
        "saves": 0,
        "clicks": 0,
-       "views": 252,
+       "views": 253,
        "igReelsAvgWatchTime": 2970,
-       "igReelsVideoViewTotalTime": 753000,
-       "profileViews": 0,
+       "igReelsVideoViewTotalTime": 757000,
+       "profileViews": 2,
        "websiteClicks": 0,
        "audienceTypes": {
-        "returnViewer": 0,
         "follower": 0,
-        "newViewer": 0,
-        "nonFollower": 1
+        "newViewer": 0.98,
+        "nonFollower": 1,
+        "returnViewer": 0.02
        },
        "replays": 0,
        "videoDurationSeconds": 18.505,
-       "engagementRate": 1.19,
-       "lastUpdated": "2026-11-18T19:43:07Z"
+       "engagementRate": 1.33,
+       "lastUpdated": "2026-11-21T12:40:44Z"
       },
       "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7709206612111609121?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
      }
     ],
     "platform": "tiktok",
     "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7709206612111609121?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
-   },
-   {
-    "_id": "6afdcb071779cd7a6306a3ab",
-    "content": "Zone du PLU, règlement de la zone, emprise au sol, hauteur, risques, servitudes, valeur de",
-    "publishedAt": "2026-11-17T18:00:00.000Z",
-    "scheduledFor": "2026-11-17T18:00:00.000Z",
-    "status": "published",
-    "analytics": {
-     "impressions": 0,
-     "reach": 0,
-     "likes": 0,
-     "comments": 0,
-     "shares": 0,
-     "saves": 0,
-     "clicks": 0,
-     "views": 0,
-     "igReelsAvgWatchTime": 1110,
-     "igReelsVideoViewTotalTime": 1000,
-     "profileViews": 0,
-     "websiteClicks": 0,
-     "audienceTypes": {
-      "newViewer": 0,
-      "nonFollower": 1,
-      "returnViewer": 0,
-      "follower": 0
-     },
-     "replays": 0,
-     "videoDurationSeconds": 18.507,
-     "engagementRate": 0,
-     "lastUpdated": "2026-11-18T19:43:07Z"
-    },
-    "platforms": [
-     {
-      "platform": "tiktok",
-      "status": "published",
-      "analytics": {
-       "impressions": 0,
-       "reach": 0,
-       "likes": 0,
-       "comments": 0,
-       "shares": 0,
-       "saves": 0,
-       "clicks": 0,
-       "views": 0,
-       "igReelsAvgWatchTime": 1110,
-       "igReelsVideoViewTotalTime": 1000,
-       "profileViews": 0,
-       "websiteClicks": 0,
-       "audienceTypes": {
-        "newViewer": 0,
-        "nonFollower": 1,
-        "returnViewer": 0,
-        "follower": 0
-       },
-       "replays": 0,
-       "videoDurationSeconds": 18.507,
-       "engagementRate": 0,
-       "lastUpdated": "2026-11-18T19:43:07Z"
-      },
-      "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7707335864015195414?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
-     }
-    ],
-    "platform": "tiktok",
-    "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7707335864015195414?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
-   },
-   {
-    "_id": "6afdcb071779cd7a6306a3a8",
-    "content": "« C'est constructible ? » Agents immobiliers, architectes, géomètres, notaires, diagnostiq",
-    "publishedAt": "2026-11-16T18:00:00.000Z",
-    "scheduledFor": "2026-11-16T18:00:00.000Z",
-    "status": "published",
-    "analytics": {
-     "impressions": 0,
-     "reach": 0,
-     "likes": 0,
-     "comments": 0,
-     "shares": 0,
-     "saves": 0,
-     "clicks": 0,
-     "views": 1,
-     "igReelsAvgWatchTime": 2520,
-     "igReelsVideoViewTotalTime": 7000,
-     "profileViews": 0,
-     "websiteClicks": 0,
-     "audienceTypes": {
-      "follower": 0,
-      "newViewer": 0,
-      "nonFollower": 1,
-      "returnViewer": 1
-     },
-     "replays": 0,
-     "videoDurationSeconds": 19.668,
-     "engagementRate": 0,
-     "lastUpdated": "2026-11-18T19:43:07Z"
-    },
-    "platforms": [
-     {
-      "platform": "tiktok",
-      "status": "published",
-      "analytics": {
-       "impressions": 0,
-       "reach": 0,
-       "likes": 0,
-       "comments": 0,
-       "shares": 0,
-       "saves": 0,
-       "clicks": 0,
-       "views": 1,
-       "igReelsAvgWatchTime": 2520,
-       "igReelsVideoViewTotalTime": 7000,
-       "profileViews": 0,
-       "websiteClicks": 0,
-       "audienceTypes": {
-        "follower": 0,
-        "newViewer": 0,
-        "nonFollower": 1,
-        "returnViewer": 1
-       },
-       "replays": 0,
-       "videoDurationSeconds": 19.668,
-       "engagementRate": 0,
-       "lastUpdated": "2026-11-18T19:43:07Z"
-      },
-      "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7707334449419128086?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
-     }
-    ],
-    "platform": "tiktok",
-    "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7707334449419128086?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
-   },
-   {
-    "_id": "6afdcb071779cd7a6306a3aa",
-    "content": "Vous héritez d'un terrain. Avant de le vendre, de le partager ou d'y construire, une quest",
-    "publishedAt": "2026-11-15T16:30:00.000Z",
-    "scheduledFor": "2026-11-15T16:30:00.000Z",
-    "status": "published",
-    "analytics": {
-     "impressions": 0,
-     "reach": 2,
-     "likes": 1,
-     "comments": 0,
-     "shares": 0,
-     "saves": 0,
-     "clicks": 0,
-     "views": 2,
-     "igReelsAvgWatchTime": 3910,
-     "igReelsVideoViewTotalTime": 23000,
-     "profileViews": 0,
-     "websiteClicks": 0,
-     "audienceTypes": {
-      "follower": 0.17,
-      "newViewer": 0.5,
-      "nonFollower": 0.83,
-      "returnViewer": 0.5
-     },
-     "replays": 0,
-     "videoDurationSeconds": 18.507,
-     "engagementRate": 50,
-     "lastUpdated": "2026-11-18T19:43:07Z"
-    },
-    "platforms": [
-     {
-      "platform": "tiktok",
-      "status": "published",
-      "analytics": {
-       "impressions": 0,
-       "reach": 2,
-       "likes": 1,
-       "comments": 0,
-       "shares": 0,
-       "saves": 0,
-       "clicks": 0,
-       "views": 2,
-       "igReelsAvgWatchTime": 3910,
-       "igReelsVideoViewTotalTime": 23000,
-       "profileViews": 0,
-       "websiteClicks": 0,
-       "audienceTypes": {
-        "follower": 0.17,
-        "newViewer": 0.5,
-        "nonFollower": 0.83,
-        "returnViewer": 0.5
-       },
-       "replays": 0,
-       "videoDurationSeconds": 18.507,
-       "engagementRate": 50,
-       "lastUpdated": "2026-11-18T19:43:07Z"
-      },
-      "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7707335621634805014?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
-     }
-    ],
-    "platform": "tiktok",
-    "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7707335621634805014?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
-   },
-   {
-    "_id": "6afdcb071779cd7a6306a3a9",
-    "content": "« Constructible », dit le vendeur. Le PLU est-il du même avis ? Un terrain en zone agricol",
-    "publishedAt": "2026-11-14T16:30:00.000Z",
-    "scheduledFor": "2026-11-14T16:30:00.000Z",
-    "status": "published",
-    "analytics": {
-     "impressions": 0,
-     "reach": 2,
-     "likes": 1,
-     "comments": 0,
-     "shares": 0,
-     "saves": 0,
-     "clicks": 0,
-     "views": 2,
-     "igReelsAvgWatchTime": 4420,
-     "igReelsVideoViewTotalTime": 48000,
-     "profileViews": 0,
-     "websiteClicks": 0,
-     "audienceTypes": {
-      "newViewer": 0.67,
-      "nonFollower": 0.82,
-      "returnViewer": 0.33,
-      "follower": 0.18
-     },
-     "replays": 0,
-     "videoDurationSeconds": 19.668,
-     "engagementRate": 50,
-     "lastUpdated": "2026-11-18T19:43:07Z"
-    },
-    "platforms": [
-     {
-      "platform": "tiktok",
-      "status": "published",
-      "analytics": {
-       "impressions": 0,
-       "reach": 2,
-       "likes": 1,
-       "comments": 0,
-       "shares": 0,
-       "saves": 0,
-       "clicks": 0,
-       "views": 2,
-       "igReelsAvgWatchTime": 4420,
-       "igReelsVideoViewTotalTime": 48000,
-       "profileViews": 0,
-       "websiteClicks": 0,
-       "audienceTypes": {
-        "newViewer": 0.67,
-        "nonFollower": 0.82,
-        "returnViewer": 0.33,
-        "follower": 0.18
-       },
-       "replays": 0,
-       "videoDurationSeconds": 19.668,
-       "engagementRate": 50,
-       "lastUpdated": "2026-11-18T19:43:07Z"
-      },
-      "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7707335384853777686?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
-     }
-    ],
-    "platform": "tiktok",
-    "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7707335384853777686?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
-   },
-   {
-    "_id": "6afdd7585140ee4764c82e13",
-    "content": "Villa Tiaré — Marina di Fiori, Porto-Vecchio 8 personnes · 4 chambres · 3 salles de bain A",
-    "publishedAt": "2026-11-12T17:04:49.000Z",
-    "scheduledFor": "2026-11-12T17:04:49.000Z",
-    "status": "published",
-    "analytics": {
-     "impressions": 0,
-     "reach": 662,
-     "likes": 1,
-     "comments": 0,
-     "shares": 0,
-     "saves": 0,
-     "clicks": 0,
-     "views": 735,
-     "igReelsAvgWatchTime": 3120,
-     "igReelsVideoViewTotalTime": 2333000,
-     "profileViews": 2,
-     "websiteClicks": 0,
-     "audienceTypes": {
-      "nonFollower": 0.99,
-      "returnViewer": 0.67,
-      "follower": 0.01,
-      "newViewer": 0.33
-     },
-     "replays": 0,
-     "videoDurationSeconds": 0,
-     "engagementRate": 0.15,
-     "lastUpdated": "2026-11-18T20:37:40Z"
-    },
-    "platforms": [
-     {
-      "platform": "tiktok",
-      "status": "published",
-      "analytics": {
-       "impressions": 0,
-       "reach": 662,
-       "likes": 1,
-       "comments": 0,
-       "shares": 0,
-       "saves": 0,
-       "clicks": 0,
-       "views": 735,
-       "igReelsAvgWatchTime": 3120,
-       "igReelsVideoViewTotalTime": 2333000,
-       "profileViews": 2,
-       "websiteClicks": 0,
-       "audienceTypes": {
-        "nonFollower": 0.99,
-        "returnViewer": 0.67,
-        "follower": 0.01,
-        "newViewer": 0.33
-       },
-       "replays": 0,
-       "videoDurationSeconds": 0,
-       "engagementRate": 0.15,
-       "lastUpdated": "2026-11-18T20:37:40Z"
-      },
-      "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7707332060901412128?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
-     }
-    ],
-    "platform": "tiktok",
-    "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7707332060901412128?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
-    "mediaItems": [
-     {
-      "url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-i-photomode-euttp/36eb0f215f584ee4acf9972e643ad50a~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=a556641f&x-expires=1796313600&x"
-     }
-    ]
    },
    {
     "_id": "6afdcb071779cd7a6306a3a7",
@@ -2856,27 +745,27 @@
     "status": "published",
     "analytics": {
      "impressions": 0,
-     "reach": 603,
+     "reach": 606,
      "likes": 2,
      "comments": 0,
      "shares": 1,
      "saves": 0,
      "clicks": 0,
-     "views": 643,
-     "igReelsAvgWatchTime": 2830,
-     "igReelsVideoViewTotalTime": 1900000,
-     "profileViews": 6,
+     "views": 651,
+     "igReelsAvgWatchTime": 2920,
+     "igReelsVideoViewTotalTime": 1973000,
+     "profileViews": 7,
      "websiteClicks": 0,
      "audienceTypes": {
+      "returnViewer": 0.01,
       "follower": 0,
-      "newViewer": 1,
-      "nonFollower": 1,
-      "returnViewer": 0
+      "newViewer": 0.99,
+      "nonFollower": 1
      },
      "replays": 0,
      "videoDurationSeconds": 19.7,
      "engagementRate": 0.5,
-     "lastUpdated": "2026-11-18T19:43:07Z"
+     "lastUpdated": "2026-11-21T12:40:44Z"
     },
     "platforms": [
      {
@@ -2884,1425 +773,40 @@
       "status": "published",
       "analytics": {
        "impressions": 0,
-       "reach": 603,
+       "reach": 606,
        "likes": 2,
        "comments": 0,
        "shares": 1,
        "saves": 0,
        "clicks": 0,
-       "views": 643,
-       "igReelsAvgWatchTime": 2830,
-       "igReelsVideoViewTotalTime": 1900000,
-       "profileViews": 6,
+       "views": 651,
+       "igReelsAvgWatchTime": 2920,
+       "igReelsVideoViewTotalTime": 1973000,
+       "profileViews": 7,
        "websiteClicks": 0,
        "audienceTypes": {
+        "returnViewer": 0.01,
         "follower": 0,
-        "newViewer": 1,
-        "nonFollower": 1,
-        "returnViewer": 0
+        "newViewer": 0.99,
+        "nonFollower": 1
        },
        "replays": 0,
        "videoDurationSeconds": 19.7,
        "engagementRate": 0.5,
-       "lastUpdated": "2026-11-18T19:43:07Z"
+       "lastUpdated": "2026-11-21T12:40:44Z"
       },
       "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7707301742702087456?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
      }
     ],
     "platform": "tiktok",
     "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7707301742702087456?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
-   },
-   {
-    "_id": "6afdd7585140ee4764c82e12",
-    "content": "Villa Leva — Pinarello, Porto-Vecchio 300 m² · 12 personnes · 5 suites avec salle d'eau Au",
-    "publishedAt": "2026-11-11T17:06:00.000Z",
-    "scheduledFor": "2026-11-11T17:06:00.000Z",
-    "status": "published",
-    "analytics": {
-     "impressions": 0,
-     "reach": 713,
-     "likes": 13,
-     "comments": 0,
-     "shares": 0,
-     "saves": 1,
-     "clicks": 0,
-     "views": 790,
-     "igReelsAvgWatchTime": 4570,
-     "igReelsVideoViewTotalTime": 3664000,
-     "profileViews": 1,
-     "websiteClicks": 0,
-     "audienceTypes": {
-      "follower": 0.01,
-      "newViewer": 0.36,
-      "nonFollower": 0.99,
-      "returnViewer": 0.64
-     },
-     "replays": 0,
-     "videoDurationSeconds": 0,
-     "engagementRate": 1.96,
-     "lastUpdated": "2026-11-18T16:50:32Z"
-    },
-    "platforms": [
-     {
-      "platform": "tiktok",
-      "status": "published",
-      "analytics": {
-       "impressions": 0,
-       "reach": 713,
-       "likes": 13,
-       "comments": 0,
-       "shares": 0,
-       "saves": 1,
-       "clicks": 0,
-       "views": 790,
-       "igReelsAvgWatchTime": 4570,
-       "igReelsVideoViewTotalTime": 3664000,
-       "profileViews": 1,
-       "websiteClicks": 0,
-       "audienceTypes": {
-        "follower": 0.01,
-        "newViewer": 0.36,
-        "nonFollower": 0.99,
-        "returnViewer": 0.64
-       },
-       "replays": 0,
-       "videoDurationSeconds": 0,
-       "engagementRate": 1.96,
-       "lastUpdated": "2026-11-18T16:50:32Z"
-      },
-      "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7706961286847810849?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
-     }
-    ],
-    "platform": "tiktok",
-    "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7706961286847810849?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
-    "mediaItems": [
-     {
-      "url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-i-photomode-euttp/bf9dfae78080449db5e62b24eb88d850~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=8d939b3c&x-expires=1796313600&x"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd7585140ee4764c82e11",
-    "content": "Villa Supranu — Domaine de Cala Rossa, Porto-Vecchio 280 m² · 14 personnes · 7 chambres · ",
-    "publishedAt": "2026-11-10T17:11:49.000Z",
-    "scheduledFor": "2026-11-10T17:11:49.000Z",
-    "status": "published",
-    "analytics": {
-     "impressions": 0,
-     "reach": 693,
-     "likes": 7,
-     "comments": 0,
-     "shares": 3,
-     "saves": 1,
-     "clicks": 0,
-     "views": 771,
-     "igReelsAvgWatchTime": 2460,
-     "igReelsVideoViewTotalTime": 1910000,
-     "profileViews": 7,
-     "websiteClicks": 0,
-     "audienceTypes": {
-      "follower": 0.01,
-      "newViewer": 0.45,
-      "nonFollower": 0.99,
-      "returnViewer": 0.55
-     },
-     "replays": 0,
-     "videoDurationSeconds": 0,
-     "engagementRate": 1.59,
-     "lastUpdated": "2026-11-18T16:50:32Z"
-    },
-    "platforms": [
-     {
-      "platform": "tiktok",
-      "status": "published",
-      "analytics": {
-       "impressions": 0,
-       "reach": 693,
-       "likes": 7,
-       "comments": 0,
-       "shares": 3,
-       "saves": 1,
-       "clicks": 0,
-       "views": 771,
-       "igReelsAvgWatchTime": 2460,
-       "igReelsVideoViewTotalTime": 1910000,
-       "profileViews": 7,
-       "websiteClicks": 0,
-       "audienceTypes": {
-        "follower": 0.01,
-        "newViewer": 0.45,
-        "nonFollower": 0.99,
-        "returnViewer": 0.55
-       },
-       "replays": 0,
-       "videoDurationSeconds": 0,
-       "engagementRate": 1.59,
-       "lastUpdated": "2026-11-18T16:50:32Z"
-      },
-      "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7706591700784778529?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
-     }
-    ],
-    "platform": "tiktok",
-    "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7706591700784778529?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
-    "mediaItems": [
-     {
-      "url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-i-photomode-euttp/67d8c5278042435d8877b7123a3ce321~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=01acd87a&x-expires=1796313600&x"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd7585140ee4764c82e10",
-    "content": "Villa Oru — Porto-Vecchio 441 m² · 14 personnes · 7 chambres · 7 salles de bain Le premier",
-    "publishedAt": "2026-11-09T17:48:53.000Z",
-    "scheduledFor": "2026-11-09T17:48:53.000Z",
-    "status": "published",
-    "analytics": {
-     "impressions": 0,
-     "reach": 829,
-     "likes": 14,
-     "comments": 0,
-     "shares": 5,
-     "saves": 1,
-     "clicks": 0,
-     "views": 909,
-     "igReelsAvgWatchTime": 4780,
-     "igReelsVideoViewTotalTime": 4414000,
-     "profileViews": 10,
-     "websiteClicks": 0,
-     "audienceTypes": {
-      "nonFollower": 0.99,
-      "returnViewer": 0.52,
-      "follower": 0.01,
-      "newViewer": 0.48
-     },
-     "replays": 0,
-     "videoDurationSeconds": 0,
-     "engagementRate": 2.41,
-     "lastUpdated": "2026-11-18T16:50:32Z"
-    },
-    "platforms": [
-     {
-      "platform": "tiktok",
-      "status": "published",
-      "analytics": {
-       "impressions": 0,
-       "reach": 829,
-       "likes": 14,
-       "comments": 0,
-       "shares": 5,
-       "saves": 1,
-       "clicks": 0,
-       "views": 909,
-       "igReelsAvgWatchTime": 4780,
-       "igReelsVideoViewTotalTime": 4414000,
-       "profileViews": 10,
-       "websiteClicks": 0,
-       "audienceTypes": {
-        "nonFollower": 0.99,
-        "returnViewer": 0.52,
-        "follower": 0.01,
-        "newViewer": 0.48
-       },
-       "replays": 0,
-       "videoDurationSeconds": 0,
-       "engagementRate": 2.41,
-       "lastUpdated": "2026-11-18T16:50:32Z"
-      },
-      "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7706230149297016097?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
-     }
-    ],
-    "platform": "tiktok",
-    "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7706230149297016097?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
-    "mediaItems": [
-     {
-      "url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-i-photomode-euttp/c5fa3037f69e4e56bf7e3e16456193db~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=6a331185&x-expires=1796313600&x"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd7585140ee4764c82e0f",
-    "content": "Villa Bianca — Saint-Cyprien, Porto-Vecchio 400 m² · 15 personnes · 5 chambres + dortoir e",
-    "publishedAt": "2026-11-06T17:56:05.000Z",
-    "scheduledFor": "2026-11-06T17:56:05.000Z",
-    "status": "published",
-    "analytics": {
-     "impressions": 0,
-     "reach": 686,
-     "likes": 4,
-     "comments": 0,
-     "shares": 1,
-     "saves": 1,
-     "clicks": 0,
-     "views": 748,
-     "igReelsAvgWatchTime": 3090,
-     "igReelsVideoViewTotalTime": 2337000,
-     "profileViews": 1,
-     "websiteClicks": 0,
-     "audienceTypes": {
-      "nonFollower": 0.98,
-      "returnViewer": 0.66,
-      "follower": 0.02,
-      "newViewer": 0.34
-     },
-     "replays": 0,
-     "videoDurationSeconds": 0,
-     "engagementRate": 0.87,
-     "lastUpdated": "2026-11-18T16:50:32Z"
-    },
-    "platforms": [
-     {
-      "platform": "tiktok",
-      "status": "published",
-      "analytics": {
-       "impressions": 0,
-       "reach": 686,
-       "likes": 4,
-       "comments": 0,
-       "shares": 1,
-       "saves": 1,
-       "clicks": 0,
-       "views": 748,
-       "igReelsAvgWatchTime": 3090,
-       "igReelsVideoViewTotalTime": 2337000,
-       "profileViews": 1,
-       "websiteClicks": 0,
-       "audienceTypes": {
-        "nonFollower": 0.98,
-        "returnViewer": 0.66,
-        "follower": 0.02,
-        "newViewer": 0.34
-       },
-       "replays": 0,
-       "videoDurationSeconds": 0,
-       "engagementRate": 0.87,
-       "lastUpdated": "2026-11-18T16:50:32Z"
-      },
-      "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7705118758255332641?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
-     }
-    ],
-    "platform": "tiktok",
-    "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7705118758255332641?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
-    "mediaItems": [
-     {
-      "url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-i-photomode-euttp/30c3e71c5ee44c709e7b416588e35251~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=57a75b3f&x-expires=1796313600&x"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd7585140ee4764c82e0e",
-    "content": "Villa Maresia — Domaine de Cala d'Oro, Porto-Vecchio 290 m² · 12 personnes · 6 suites avec",
-    "publishedAt": "2026-11-03T17:19:00.000Z",
-    "scheduledFor": "2026-11-03T17:19:00.000Z",
-    "status": "published",
-    "analytics": {
-     "impressions": 0,
-     "reach": 670,
-     "likes": 7,
-     "comments": 0,
-     "shares": 0,
-     "saves": 0,
-     "clicks": 0,
-     "views": 739,
-     "igReelsAvgWatchTime": 3920,
-     "igReelsVideoViewTotalTime": 2946000,
-     "profileViews": 5,
-     "websiteClicks": 0,
-     "audienceTypes": {
-      "newViewer": 0.41,
-      "nonFollower": 0.98,
-      "returnViewer": 0.59,
-      "follower": 0.02
-     },
-     "replays": 0,
-     "videoDurationSeconds": 0,
-     "engagementRate": 1.04,
-     "lastUpdated": "2026-11-18T16:50:32Z"
-    },
-    "platforms": [
-     {
-      "platform": "tiktok",
-      "status": "published",
-      "analytics": {
-       "impressions": 0,
-       "reach": 670,
-       "likes": 7,
-       "comments": 0,
-       "shares": 0,
-       "saves": 0,
-       "clicks": 0,
-       "views": 739,
-       "igReelsAvgWatchTime": 3920,
-       "igReelsVideoViewTotalTime": 2946000,
-       "profileViews": 5,
-       "websiteClicks": 0,
-       "audienceTypes": {
-        "newViewer": 0.41,
-        "nonFollower": 0.98,
-        "returnViewer": 0.59,
-        "follower": 0.02
-       },
-       "replays": 0,
-       "videoDurationSeconds": 0,
-       "engagementRate": 1.04,
-       "lastUpdated": "2026-11-18T16:50:32Z"
-      },
-      "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7703995943707790624?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
-     }
-    ],
-    "platform": "tiktok",
-    "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7703995943707790624?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
-    "mediaItems": [
-     {
-      "url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-i-photomode-euttp/584fa994a61c4b47814d994251b0d017~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=4e7b12a1&x-expires=1796313600&x"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd7585140ee4764c82e0d",
-    "content": "Villa Lumicella — Pinarello, Porto-Vecchio 270 m² · 12 personnes · 6 chambres · 6 salles d",
-    "publishedAt": "2026-11-02T17:05:39.000Z",
-    "scheduledFor": "2026-11-02T17:05:39.000Z",
-    "status": "published",
-    "analytics": {
-     "impressions": 0,
-     "reach": 734,
-     "likes": 7,
-     "comments": 0,
-     "shares": 0,
-     "saves": 1,
-     "clicks": 0,
-     "views": 808,
-     "igReelsAvgWatchTime": 2710,
-     "igReelsVideoViewTotalTime": 2235000,
-     "profileViews": 1,
-     "websiteClicks": 0,
-     "audienceTypes": {
-      "nonFollower": 0.98,
-      "returnViewer": 0.59,
-      "follower": 0.02,
-      "newViewer": 0.41
-     },
-     "replays": 0,
-     "videoDurationSeconds": 0,
-     "engagementRate": 1.09,
-     "lastUpdated": "2026-11-18T16:50:32Z"
-    },
-    "platforms": [
-     {
-      "platform": "tiktok",
-      "status": "published",
-      "analytics": {
-       "impressions": 0,
-       "reach": 734,
-       "likes": 7,
-       "comments": 0,
-       "shares": 0,
-       "saves": 1,
-       "clicks": 0,
-       "views": 808,
-       "igReelsAvgWatchTime": 2710,
-       "igReelsVideoViewTotalTime": 2235000,
-       "profileViews": 1,
-       "websiteClicks": 0,
-       "audienceTypes": {
-        "nonFollower": 0.98,
-        "returnViewer": 0.59,
-        "follower": 0.02,
-        "newViewer": 0.41
-       },
-       "replays": 0,
-       "videoDurationSeconds": 0,
-       "engagementRate": 1.09,
-       "lastUpdated": "2026-11-18T16:50:32Z"
-      },
-      "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7703621406642212128?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
-     }
-    ],
-    "platform": "tiktok",
-    "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7703621406642212128?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
-    "mediaItems": [
-     {
-      "url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-i-photomode-euttp/332ff17572314613b82e3f90405660ce~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=c0e8ce66&x-expires=1796313600&x"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd7585140ee4764c82e0c",
-    "content": "Villa L'Échappée — Cala Longa, Bonifacio 10 personnes · 5 chambres · 5 salles de bain Les ",
-    "publishedAt": "2026-11-01T17:08:20.000Z",
-    "scheduledFor": "2026-11-01T17:08:20.000Z",
-    "status": "published",
-    "analytics": {
-     "impressions": 0,
-     "reach": 630,
-     "likes": 8,
-     "comments": 0,
-     "shares": 0,
-     "saves": 1,
-     "clicks": 0,
-     "views": 683,
-     "igReelsAvgWatchTime": 3780,
-     "igReelsVideoViewTotalTime": 2644000,
-     "profileViews": 2,
-     "websiteClicks": 0,
-     "audienceTypes": {
-      "nonFollower": 0.97,
-      "returnViewer": 0.67,
-      "follower": 0.03,
-      "newViewer": 0.33
-     },
-     "replays": 0,
-     "videoDurationSeconds": 0,
-     "engagementRate": 1.43,
-     "lastUpdated": "2026-11-18T16:50:32Z"
-    },
-    "platforms": [
-     {
-      "platform": "tiktok",
-      "status": "published",
-      "analytics": {
-       "impressions": 0,
-       "reach": 630,
-       "likes": 8,
-       "comments": 0,
-       "shares": 0,
-       "saves": 1,
-       "clicks": 0,
-       "views": 683,
-       "igReelsAvgWatchTime": 3780,
-       "igReelsVideoViewTotalTime": 2644000,
-       "profileViews": 2,
-       "websiteClicks": 0,
-       "audienceTypes": {
-        "nonFollower": 0.97,
-        "returnViewer": 0.67,
-        "follower": 0.03,
-        "newViewer": 0.33
-       },
-       "replays": 0,
-       "videoDurationSeconds": 0,
-       "engagementRate": 1.43,
-       "lastUpdated": "2026-11-18T16:50:32Z"
-      },
-      "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7703251030099709217?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
-     }
-    ],
-    "platform": "tiktok",
-    "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7703251030099709217?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
-    "mediaItems": [
-     {
-      "url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-i-photomode-euttp/af22ab7347dc4877bbce1a05a21f90d3~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=1dcc8a7b&x-expires=1796313600&x"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd7585140ee4764c82e0b",
-    "content": "Villa Barca — Marina di Fiori, Porto-Vecchio 350 m² · 12 personnes · 6 chambres · 6 salles",
-    "publishedAt": "2026-10-31T19:06:20.000Z",
-    "scheduledFor": "2026-10-31T19:06:20.000Z",
-    "status": "published",
-    "analytics": {
-     "impressions": 0,
-     "reach": 762,
-     "likes": 8,
-     "comments": 0,
-     "shares": 0,
-     "saves": 1,
-     "clicks": 0,
-     "views": 847,
-     "igReelsAvgWatchTime": 4220,
-     "igReelsVideoViewTotalTime": 3614000,
-     "profileViews": 7,
-     "websiteClicks": 0,
-     "audienceTypes": {
-      "newViewer": 0.44,
-      "nonFollower": 0.98,
-      "returnViewer": 0.56,
-      "follower": 0.02
-     },
-     "replays": 0,
-     "videoDurationSeconds": 0,
-     "engagementRate": 1.18,
-     "lastUpdated": "2026-11-18T16:50:32Z"
-    },
-    "platforms": [
-     {
-      "platform": "tiktok",
-      "status": "published",
-      "analytics": {
-       "impressions": 0,
-       "reach": 762,
-       "likes": 8,
-       "comments": 0,
-       "shares": 0,
-       "saves": 1,
-       "clicks": 0,
-       "views": 847,
-       "igReelsAvgWatchTime": 4220,
-       "igReelsVideoViewTotalTime": 3614000,
-       "profileViews": 7,
-       "websiteClicks": 0,
-       "audienceTypes": {
-        "newViewer": 0.44,
-        "nonFollower": 0.98,
-        "returnViewer": 0.56,
-        "follower": 0.02
-       },
-       "replays": 0,
-       "videoDurationSeconds": 0,
-       "engagementRate": 1.18,
-       "lastUpdated": "2026-11-18T16:50:32Z"
-      },
-      "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7702910358557707552?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
-     }
-    ],
-    "platform": "tiktok",
-    "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7702910358557707552?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
-    "mediaItems": [
-     {
-      "url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-i-photomode-euttp/78650ac9da9a45a6aa060cc4bf77db82~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=3b3374ba&x-expires=1796313600&x"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd7585140ee4764c82e0a",
-    "content": "Villa Vista — Saint-Cyprien, Porto-Vecchio 200 m² · 10 personnes · 4 chambres · 4 salles d",
-    "publishedAt": "2026-10-30T17:05:56.000Z",
-    "scheduledFor": "2026-10-30T17:05:56.000Z",
-    "status": "published",
-    "analytics": {
-     "impressions": 0,
-     "reach": 671,
-     "likes": 4,
-     "comments": 0,
-     "shares": 0,
-     "saves": 0,
-     "clicks": 0,
-     "views": 727,
-     "igReelsAvgWatchTime": 3240,
-     "igReelsVideoViewTotalTime": 2388000,
-     "profileViews": 4,
-     "websiteClicks": 0,
-     "audienceTypes": {
-      "returnViewer": 0.5,
-      "follower": 0.02,
-      "newViewer": 0.5,
-      "nonFollower": 0.98
-     },
-     "replays": 0,
-     "videoDurationSeconds": 0,
-     "engagementRate": 0.6,
-     "lastUpdated": "2026-11-18T16:50:32Z"
-    },
-    "platforms": [
-     {
-      "platform": "tiktok",
-      "status": "published",
-      "analytics": {
-       "impressions": 0,
-       "reach": 671,
-       "likes": 4,
-       "comments": 0,
-       "shares": 0,
-       "saves": 0,
-       "clicks": 0,
-       "views": 727,
-       "igReelsAvgWatchTime": 3240,
-       "igReelsVideoViewTotalTime": 2388000,
-       "profileViews": 4,
-       "websiteClicks": 0,
-       "audienceTypes": {
-        "returnViewer": 0.5,
-        "follower": 0.02,
-        "newViewer": 0.5,
-        "nonFollower": 0.98
-       },
-       "replays": 0,
-       "videoDurationSeconds": 0,
-       "engagementRate": 0.6,
-       "lastUpdated": "2026-11-18T16:50:32Z"
-      },
-      "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7702508238192872737?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
-     }
-    ],
-    "platform": "tiktok",
-    "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7702508238192872737?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
-    "mediaItems": [
-     {
-      "url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-i-photomode-euttp/36ae81b533314f8eaa78ae92704e6d49~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=2cbf1df0&x-expires=1796313600&x"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd7585140ee4764c82e09",
-    "content": "Villa Lena — Palombaggia, Porto-Vecchio 10 personnes · 5 suites avec salle de bain Face au",
-    "publishedAt": "2026-10-29T17:17:52.000Z",
-    "scheduledFor": "2026-10-29T17:17:52.000Z",
-    "status": "published",
-    "analytics": {
-     "impressions": 0,
-     "reach": 695,
-     "likes": 8,
-     "comments": 0,
-     "shares": 0,
-     "saves": 0,
-     "clicks": 0,
-     "views": 756,
-     "igReelsAvgWatchTime": 4730,
-     "igReelsVideoViewTotalTime": 3629000,
-     "profileViews": 4,
-     "websiteClicks": 0,
-     "audienceTypes": {
-      "returnViewer": 0.43,
-      "follower": 0.01,
-      "newViewer": 0.57,
-      "nonFollower": 0.99
-     },
-     "replays": 0,
-     "videoDurationSeconds": 0,
-     "engagementRate": 1.15,
-     "lastUpdated": "2026-11-18T16:50:32Z"
-    },
-    "platforms": [
-     {
-      "platform": "tiktok",
-      "status": "published",
-      "analytics": {
-       "impressions": 0,
-       "reach": 695,
-       "likes": 8,
-       "comments": 0,
-       "shares": 0,
-       "saves": 0,
-       "clicks": 0,
-       "views": 756,
-       "igReelsAvgWatchTime": 4730,
-       "igReelsVideoViewTotalTime": 3629000,
-       "profileViews": 4,
-       "websiteClicks": 0,
-       "audienceTypes": {
-        "returnViewer": 0.43,
-        "follower": 0.01,
-        "newViewer": 0.57,
-        "nonFollower": 0.99
-       },
-       "replays": 0,
-       "videoDurationSeconds": 0,
-       "engagementRate": 1.15,
-       "lastUpdated": "2026-11-18T16:50:32Z"
-      },
-      "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7702140235433528608?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
-     }
-    ],
-    "platform": "tiktok",
-    "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7702140235433528608?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
-    "mediaItems": [
-     {
-      "url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-i-photomode-euttp/fdac8876ed5b44b1ba9bb8adafbbbd21~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=866245a7&x-expires=1796313600&x"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd7585140ee4764c82e08",
-    "content": "Villa Calma Mare — Saint-Cyprien, Porto-Vecchio 230 m² · 10 personnes · 5 suites · 5 salle",
-    "publishedAt": "2026-10-28T17:04:57.000Z",
-    "scheduledFor": "2026-10-28T17:04:57.000Z",
-    "status": "published",
-    "analytics": {
-     "impressions": 0,
-     "reach": 689,
-     "likes": 6,
-     "comments": 0,
-     "shares": 1,
-     "saves": 0,
-     "clicks": 0,
-     "views": 756,
-     "igReelsAvgWatchTime": 4680,
-     "igReelsVideoViewTotalTime": 3596000,
-     "profileViews": 4,
-     "websiteClicks": 0,
-     "audienceTypes": {
-      "follower": 0.02,
-      "newViewer": 0.65,
-      "nonFollower": 0.98,
-      "returnViewer": 0.35
-     },
-     "replays": 0,
-     "videoDurationSeconds": 0,
-     "engagementRate": 1.02,
-     "lastUpdated": "2026-11-18T16:50:32Z"
-    },
-    "platforms": [
-     {
-      "platform": "tiktok",
-      "status": "published",
-      "analytics": {
-       "impressions": 0,
-       "reach": 689,
-       "likes": 6,
-       "comments": 0,
-       "shares": 1,
-       "saves": 0,
-       "clicks": 0,
-       "views": 756,
-       "igReelsAvgWatchTime": 4680,
-       "igReelsVideoViewTotalTime": 3596000,
-       "profileViews": 4,
-       "websiteClicks": 0,
-       "audienceTypes": {
-        "follower": 0.02,
-        "newViewer": 0.65,
-        "nonFollower": 0.98,
-        "returnViewer": 0.35
-       },
-       "replays": 0,
-       "videoDurationSeconds": 0,
-       "engagementRate": 1.02,
-       "lastUpdated": "2026-11-18T16:50:32Z"
-      },
-      "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7701765817595088161?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
-     }
-    ],
-    "platform": "tiktok",
-    "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7701765817595088161?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
-    "mediaItems": [
-     {
-      "url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-i-photomode-euttp/0331c1ed1c14417ab894a1b6766e1f0b~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=5837d509&x-expires=1796313600&x"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd7585140ee4764c82e07",
-    "content": "Villa Cala Serena — Domaine de Caramontinu, Pinarello 320 m² · 12 personnes · 5 chambres a",
-    "publishedAt": "2026-10-27T17:09:51.000Z",
-    "scheduledFor": "2026-10-27T17:09:51.000Z",
-    "status": "published",
-    "analytics": {
-     "impressions": 0,
-     "reach": 285,
-     "likes": 5,
-     "comments": 1,
-     "shares": 0,
-     "saves": 0,
-     "clicks": 0,
-     "views": 315,
-     "igReelsAvgWatchTime": 4030,
-     "igReelsVideoViewTotalTime": 1313000,
-     "profileViews": 4,
-     "websiteClicks": 0,
-     "audienceTypes": {
-      "newViewer": 0.58,
-      "nonFollower": 0.95,
-      "returnViewer": 0.42,
-      "follower": 0.05
-     },
-     "replays": 0,
-     "videoDurationSeconds": 0,
-     "engagementRate": 2.11,
-     "lastUpdated": "2026-11-18T16:50:32Z"
-    },
-    "platforms": [
-     {
-      "platform": "tiktok",
-      "status": "published",
-      "analytics": {
-       "impressions": 0,
-       "reach": 285,
-       "likes": 5,
-       "comments": 1,
-       "shares": 0,
-       "saves": 0,
-       "clicks": 0,
-       "views": 315,
-       "igReelsAvgWatchTime": 4030,
-       "igReelsVideoViewTotalTime": 1313000,
-       "profileViews": 4,
-       "websiteClicks": 0,
-       "audienceTypes": {
-        "newViewer": 0.58,
-        "nonFollower": 0.95,
-        "returnViewer": 0.42,
-        "follower": 0.05
-       },
-       "replays": 0,
-       "videoDurationSeconds": 0,
-       "engagementRate": 2.11,
-       "lastUpdated": "2026-11-18T16:50:32Z"
-      },
-      "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7701395997452160288?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
-     }
-    ],
-    "platform": "tiktok",
-    "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7701395997452160288?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
-    "mediaItems": [
-     {
-      "url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-i-photomode-euttp/74d38319d8f14254b4056b1de7a9b29c~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=f8d05d50&x-expires=1796313600&x"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd7585140ee4764c82e06",
-    "content": "Villa Cala C — Domaine de Cala Rossa, Porto-Vecchio Villa neuve 2025 · 10 personnes · 5 su",
-    "publishedAt": "2026-10-24T16:04:02.000Z",
-    "scheduledFor": "2026-10-24T16:04:02.000Z",
-    "status": "published",
-    "analytics": {
-     "impressions": 0,
-     "reach": 504,
-     "likes": 12,
-     "comments": 1,
-     "shares": 2,
-     "saves": 1,
-     "clicks": 0,
-     "views": 556,
-     "igReelsAvgWatchTime": 4390,
-     "igReelsVideoViewTotalTime": 2527000,
-     "profileViews": 12,
-     "websiteClicks": 0,
-     "audienceTypes": {
-      "returnViewer": 0.32,
-      "follower": 0.03,
-      "newViewer": 0.68,
-      "nonFollower": 0.97
-     },
-     "replays": 0,
-     "videoDurationSeconds": 0,
-     "engagementRate": 3.17,
-     "lastUpdated": "2026-11-18T16:50:32Z"
-    },
-    "platforms": [
-     {
-      "platform": "tiktok",
-      "status": "published",
-      "analytics": {
-       "impressions": 0,
-       "reach": 504,
-       "likes": 12,
-       "comments": 1,
-       "shares": 2,
-       "saves": 1,
-       "clicks": 0,
-       "views": 556,
-       "igReelsAvgWatchTime": 4390,
-       "igReelsVideoViewTotalTime": 2527000,
-       "profileViews": 12,
-       "websiteClicks": 0,
-       "audienceTypes": {
-        "returnViewer": 0.32,
-        "follower": 0.03,
-        "newViewer": 0.68,
-        "nonFollower": 0.97
-       },
-       "replays": 0,
-       "videoDurationSeconds": 0,
-       "engagementRate": 3.17,
-       "lastUpdated": "2026-11-18T16:50:32Z"
-      },
-      "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7700265782265007393?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
-     }
-    ],
-    "platform": "tiktok",
-    "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7700265782265007393?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
-    "mediaItems": [
-     {
-      "url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-i-photomode-euttp/e964dda801b14334ad3132597aecccda~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=09ad13f7&x-expires=1796313600&x"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd7585140ee4764c82e05",
-    "content": "Villa Arasu — Domaine de Punta d'Arasu, Porto-Vecchio 240 m² · 10 personnes · 5 chambres ·",
-    "publishedAt": "2026-10-23T16:16:35.000Z",
-    "scheduledFor": "2026-10-23T16:16:35.000Z",
-    "status": "published",
-    "analytics": {
-     "impressions": 0,
-     "reach": 250,
-     "likes": 4,
-     "comments": 0,
-     "shares": 0,
-     "saves": 0,
-     "clicks": 0,
-     "views": 279,
-     "igReelsAvgWatchTime": 9190,
-     "igReelsVideoViewTotalTime": 2611000,
-     "profileViews": 1,
-     "websiteClicks": 0,
-     "audienceTypes": {
-      "follower": 0.06,
-      "newViewer": 0.54,
-      "nonFollower": 0.94,
-      "returnViewer": 0.46
-     },
-     "replays": 0,
-     "videoDurationSeconds": 0,
-     "engagementRate": 1.6,
-     "lastUpdated": "2026-11-18T16:50:32Z"
-    },
-    "platforms": [
-     {
-      "platform": "tiktok",
-      "status": "published",
-      "analytics": {
-       "impressions": 0,
-       "reach": 250,
-       "likes": 4,
-       "comments": 0,
-       "shares": 0,
-       "saves": 0,
-       "clicks": 0,
-       "views": 279,
-       "igReelsAvgWatchTime": 9190,
-       "igReelsVideoViewTotalTime": 2611000,
-       "profileViews": 1,
-       "websiteClicks": 0,
-       "audienceTypes": {
-        "follower": 0.06,
-        "newViewer": 0.54,
-        "nonFollower": 0.94,
-        "returnViewer": 0.46
-       },
-       "replays": 0,
-       "videoDurationSeconds": 0,
-       "engagementRate": 1.6,
-       "lastUpdated": "2026-11-18T16:50:32Z"
-      },
-      "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7699897932379589921?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
-     }
-    ],
-    "platform": "tiktok",
-    "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7699897932379589921?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
-    "mediaItems": [
-     {
-      "url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-i-photomode-euttp/446695555bd94893960c2079e1bcae26~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=e6363843&x-expires=1796313600&x"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd7585140ee4764c82e04",
-    "content": "Villa Marina — Marina di Fiori, Porto-Vecchio 8 personnes · 4 chambres · 3 salles de bain ",
-    "publishedAt": "2026-10-22T16:06:24.000Z",
-    "scheduledFor": "2026-10-22T16:06:24.000Z",
-    "status": "published",
-    "analytics": {
-     "impressions": 0,
-     "reach": 321,
-     "likes": 7,
-     "comments": 0,
-     "shares": 1,
-     "saves": 0,
-     "clicks": 0,
-     "views": 357,
-     "igReelsAvgWatchTime": 2690,
-     "igReelsVideoViewTotalTime": 963000,
-     "profileViews": 1,
-     "websiteClicks": 0,
-     "audienceTypes": {
-      "follower": 0.05,
-      "newViewer": 0.54,
-      "nonFollower": 0.95,
-      "returnViewer": 0.46
-     },
-     "replays": 0,
-     "videoDurationSeconds": 0,
-     "engagementRate": 2.49,
-     "lastUpdated": "2026-11-18T16:50:32Z"
-    },
-    "platforms": [
-     {
-      "platform": "tiktok",
-      "status": "published",
-      "analytics": {
-       "impressions": 0,
-       "reach": 321,
-       "likes": 7,
-       "comments": 0,
-       "shares": 1,
-       "saves": 0,
-       "clicks": 0,
-       "views": 357,
-       "igReelsAvgWatchTime": 2690,
-       "igReelsVideoViewTotalTime": 963000,
-       "profileViews": 1,
-       "websiteClicks": 0,
-       "audienceTypes": {
-        "follower": 0.05,
-        "newViewer": 0.54,
-        "nonFollower": 0.95,
-        "returnViewer": 0.46
-       },
-       "replays": 0,
-       "videoDurationSeconds": 0,
-       "engagementRate": 2.49,
-       "lastUpdated": "2026-11-18T16:50:32Z"
-      },
-      "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7699524219838745888?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
-     }
-    ],
-    "platform": "tiktok",
-    "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7699524219838745888?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
-    "mediaItems": [
-     {
-      "url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-i-photomode-euttp/7b308d3b801e4ba18d36ff39369d0b13~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=735fd560&x-expires=1796313600&x"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd7585140ee4764c82e03",
-    "content": "Villa Azzura — Saint-Cyprien, Porto-Vecchio 150 m² · 8 personnes · 4 chambres · 2 salles d",
-    "publishedAt": "2026-10-21T16:03:31.000Z",
-    "scheduledFor": "2026-10-21T16:03:31.000Z",
-    "status": "published",
-    "analytics": {
-     "impressions": 0,
-     "reach": 331,
-     "likes": 7,
-     "comments": 0,
-     "shares": 0,
-     "saves": 0,
-     "clicks": 0,
-     "views": 352,
-     "igReelsAvgWatchTime": 3430,
-     "igReelsVideoViewTotalTime": 1291000,
-     "profileViews": 2,
-     "websiteClicks": 0,
-     "audienceTypes": {
-      "newViewer": 0.61,
-      "nonFollower": 0.94,
-      "returnViewer": 0.39,
-      "follower": 0.06
-     },
-     "replays": 0,
-     "videoDurationSeconds": 0,
-     "engagementRate": 2.11,
-     "lastUpdated": "2026-11-18T16:50:32Z"
-    },
-    "platforms": [
-     {
-      "platform": "tiktok",
-      "status": "published",
-      "analytics": {
-       "impressions": 0,
-       "reach": 331,
-       "likes": 7,
-       "comments": 0,
-       "shares": 0,
-       "saves": 0,
-       "clicks": 0,
-       "views": 352,
-       "igReelsAvgWatchTime": 3430,
-       "igReelsVideoViewTotalTime": 1291000,
-       "profileViews": 2,
-       "websiteClicks": 0,
-       "audienceTypes": {
-        "newViewer": 0.61,
-        "nonFollower": 0.94,
-        "returnViewer": 0.39,
-        "follower": 0.06
-       },
-       "replays": 0,
-       "videoDurationSeconds": 0,
-       "engagementRate": 2.11,
-       "lastUpdated": "2026-11-18T16:50:32Z"
-      },
-      "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7699152400174664993?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
-     }
-    ],
-    "platform": "tiktok",
-    "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7699152400174664993?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
-    "mediaItems": [
-     {
-      "url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-i-photomode-euttp/a68ee1ab7c074c65966d987e7ec02352~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=7ef2134b&x-expires=1796313600&x"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd7585140ee4764c82e02",
-    "content": "Villa Altezza — Marina di Fiori, Porto-Vecchio 147 m² · 8 personnes · 4 chambres · 3 salle",
-    "publishedAt": "2026-10-20T16:05:24.000Z",
-    "scheduledFor": "2026-10-20T16:05:24.000Z",
-    "status": "published",
-    "analytics": {
-     "impressions": 0,
-     "reach": 404,
-     "likes": 11,
-     "comments": 0,
-     "shares": 2,
-     "saves": 1,
-     "clicks": 0,
-     "views": 431,
-     "igReelsAvgWatchTime": 3220,
-     "igReelsVideoViewTotalTime": 1446000,
-     "profileViews": 5,
-     "websiteClicks": 0,
-     "audienceTypes": {
-      "nonFollower": 0.95,
-      "returnViewer": 0.37,
-      "follower": 0.05,
-      "newViewer": 0.63
-     },
-     "replays": 0,
-     "videoDurationSeconds": 0,
-     "engagementRate": 3.47,
-     "lastUpdated": "2026-11-18T16:50:32Z"
-    },
-    "platforms": [
-     {
-      "platform": "tiktok",
-      "status": "published",
-      "analytics": {
-       "impressions": 0,
-       "reach": 404,
-       "likes": 11,
-       "comments": 0,
-       "shares": 2,
-       "saves": 1,
-       "clicks": 0,
-       "views": 431,
-       "igReelsAvgWatchTime": 3220,
-       "igReelsVideoViewTotalTime": 1446000,
-       "profileViews": 5,
-       "websiteClicks": 0,
-       "audienceTypes": {
-        "nonFollower": 0.95,
-        "returnViewer": 0.37,
-        "follower": 0.05,
-        "newViewer": 0.63
-       },
-       "replays": 0,
-       "videoDurationSeconds": 0,
-       "engagementRate": 3.47,
-       "lastUpdated": "2026-11-18T16:50:32Z"
-      },
-      "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7698781786981256481?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
-     }
-    ],
-    "platform": "tiktok",
-    "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7698781786981256481?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
-    "mediaItems": [
-     {
-      "url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-i-photomode-euttp/0e1e9fe680e84084a3c7b7dfe8a499f9~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=f0d865b5&x-expires=1796313600&x"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd7585140ee4764c82e01",
-    "content": "Villa Serena — Bonifacio, Corse du Sud 100 m² · 6 personnes · 3 chambres · 2 salles de bai",
-    "publishedAt": "2026-10-19T16:41:42.000Z",
-    "scheduledFor": "2026-10-19T16:41:42.000Z",
-    "status": "published",
-    "analytics": {
-     "impressions": 0,
-     "reach": 337,
-     "likes": 8,
-     "comments": 0,
-     "shares": 0,
-     "saves": 1,
-     "clicks": 0,
-     "views": 372,
-     "igReelsAvgWatchTime": 4100,
-     "igReelsVideoViewTotalTime": 1617000,
-     "profileViews": 1,
-     "websiteClicks": 0,
-     "audienceTypes": {
-      "newViewer": 0.66,
-      "nonFollower": 0.95,
-      "returnViewer": 0.34,
-      "follower": 0.05
-     },
-     "replays": 0,
-     "videoDurationSeconds": 0,
-     "engagementRate": 2.67,
-     "lastUpdated": "2026-11-18T16:50:32Z"
-    },
-    "platforms": [
-     {
-      "platform": "tiktok",
-      "status": "published",
-      "analytics": {
-       "impressions": 0,
-       "reach": 337,
-       "likes": 8,
-       "comments": 0,
-       "shares": 0,
-       "saves": 1,
-       "clicks": 0,
-       "views": 372,
-       "igReelsAvgWatchTime": 4100,
-       "igReelsVideoViewTotalTime": 1617000,
-       "profileViews": 1,
-       "websiteClicks": 0,
-       "audienceTypes": {
-        "newViewer": 0.66,
-        "nonFollower": 0.95,
-        "returnViewer": 0.34,
-        "follower": 0.05
-       },
-       "replays": 0,
-       "videoDurationSeconds": 0,
-       "engagementRate": 2.67,
-       "lastUpdated": "2026-11-18T16:50:32Z"
-      },
-      "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7698420064948604193?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
-     }
-    ],
-    "platform": "tiktok",
-    "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7698420064948604193?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
-    "mediaItems": [
-     {
-      "url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-i-photomode-euttp/164ec41288ad4340b1109612e4b8dbb5~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=97376e9f&x-expires=1796313600&x"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd7585140ee4764c82e00",
-    "content": "Villa Anna — Bonifacio, Corse du Sud 167 m² · 8 personnes · 4 chambres · 2 salles de bain ",
-    "publishedAt": "2026-10-16T16:04:29.000Z",
-    "scheduledFor": "2026-10-16T16:04:29.000Z",
-    "status": "published",
-    "analytics": {
-     "impressions": 0,
-     "reach": 457,
-     "likes": 8,
-     "comments": 0,
-     "shares": 0,
-     "saves": 3,
-     "clicks": 0,
-     "views": 515,
-     "igReelsAvgWatchTime": 4500,
-     "igReelsVideoViewTotalTime": 2432000,
-     "profileViews": 4,
-     "websiteClicks": 0,
-     "audienceTypes": {
-      "follower": 0.04,
-      "newViewer": 0.81,
-      "nonFollower": 0.96,
-      "returnViewer": 0.19
-     },
-     "replays": 0,
-     "videoDurationSeconds": 0,
-     "engagementRate": 2.41,
-     "lastUpdated": "2026-11-18T16:50:32Z"
-    },
-    "platforms": [
-     {
-      "platform": "tiktok",
-      "status": "published",
-      "analytics": {
-       "impressions": 0,
-       "reach": 457,
-       "likes": 8,
-       "comments": 0,
-       "shares": 0,
-       "saves": 3,
-       "clicks": 0,
-       "views": 515,
-       "igReelsAvgWatchTime": 4500,
-       "igReelsVideoViewTotalTime": 2432000,
-       "profileViews": 4,
-       "websiteClicks": 0,
-       "audienceTypes": {
-        "follower": 0.04,
-        "newViewer": 0.81,
-        "nonFollower": 0.96,
-        "returnViewer": 0.19
-       },
-       "replays": 0,
-       "videoDurationSeconds": 0,
-       "engagementRate": 2.41,
-       "lastUpdated": "2026-11-18T16:50:32Z"
-      },
-      "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7697297216255429921?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
-     }
-    ],
-    "platform": "tiktok",
-    "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7697297216255429921?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
-    "mediaItems": [
-     {
-      "url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-i-photomode-euttp/fb330a774d9949f4874f0f02834eb934~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=cbe5f3e3&x-expires=1796313600&x"
-     }
-    ]
-   },
-   {
-    "_id": "6afdd7585140ee4764c82dff",
-    "content": "Bergerie A Campana — Corse du Sud 107 m² · 6 personnes · 3 chambres · 3 salles de bain Pis",
-    "publishedAt": "2026-10-15T15:49:17.000Z",
-    "scheduledFor": "2026-10-15T15:49:17.000Z",
-    "status": "published",
-    "analytics": {
-     "impressions": 0,
-     "reach": 346,
-     "likes": 9,
-     "comments": 0,
-     "shares": 1,
-     "saves": 1,
-     "clicks": 0,
-     "views": 408,
-     "igReelsAvgWatchTime": 2950,
-     "igReelsVideoViewTotalTime": 1259000,
-     "profileViews": 1,
-     "websiteClicks": 0,
-     "audienceTypes": {
-      "follower": 0.05,
-      "newViewer": 0.88,
-      "nonFollower": 0.95,
-      "returnViewer": 0.12
-     },
-     "replays": 0,
-     "videoDurationSeconds": 0,
-     "engagementRate": 3.18,
-     "lastUpdated": "2026-11-18T16:50:32Z"
-    },
-    "platforms": [
-     {
-      "platform": "tiktok",
-      "status": "published",
-      "analytics": {
-       "impressions": 0,
-       "reach": 346,
-       "likes": 9,
-       "comments": 0,
-       "shares": 1,
-       "saves": 1,
-       "clicks": 0,
-       "views": 408,
-       "igReelsAvgWatchTime": 2950,
-       "igReelsVideoViewTotalTime": 1259000,
-       "profileViews": 1,
-       "websiteClicks": 0,
-       "audienceTypes": {
-        "follower": 0.05,
-        "newViewer": 0.88,
-        "nonFollower": 0.95,
-        "returnViewer": 0.12
-       },
-       "replays": 0,
-       "videoDurationSeconds": 0,
-       "engagementRate": 3.18,
-       "lastUpdated": "2026-11-18T16:50:32Z"
-      },
-      "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7696922203950107937?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
-     }
-    ],
-    "platform": "tiktok",
-    "platformPostUrl": "https://www.tiktok.com/@arconciergerie_/video/7696922203950107937?utm_campaign=tt4d_open_api&utm_source=7608030276714774544",
-    "mediaItems": [
-     {
-      "url": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-i-photomode-euttp/98117dfcc60c42b19aaf28dd5d4f671f~tplv-photomode-image-cover:640:0:q70.webp?dr=1350&refresh_token=8008f3b5&x-expires=1796313600&x"
-     }
-    ]
    }
   ],
   "accounts": [
    {
     "_id": "6afdcb05f4f13bacbd3d1591",
     "platform": "tiktok",
-    "followersCount": 12
-   },
-   {
-    "_id": "6afdd755233fd93c9a2f01d2",
-    "platform": "tiktok",
-    "followersCount": 39
+    "followersCount": 16
    }
   ]
  },
@@ -4311,12 +815,7 @@
    {
     "_id": "6afdcb05f4f13bacbd3d1591",
     "platform": "tiktok",
-    "followersCount": 12
-   },
-   {
-    "_id": "6afdd755233fd93c9a2f01d2",
-    "platform": "tiktok",
-    "followersCount": 39
+    "followersCount": 16
    }
   ]
  }
