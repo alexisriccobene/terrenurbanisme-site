@@ -1166,3 +1166,7 @@ body:has(.ck-banner:not([hidden])) .tu-bot{display:none}
 .fc-ok li::before{color:var(--t)!important}
 @media (max-width:600px){.fc-h{min-height:0}}
 .fc-h{min-height:122px}.fc-h+.fc-vol{margin-top:-4px}
+/* Centrage : questions fréquentes et liens professionnels */
+.faq{margin-inline:auto}
+[data-pro-links] .wrap{text-align:center}
+[data-pro-links] .wrap p{justify-content:center}
