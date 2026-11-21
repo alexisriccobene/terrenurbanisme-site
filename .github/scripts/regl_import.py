@@ -19,7 +19,7 @@ for u in SRC:
     if zipfile.is_zipfile(n):
         with zipfile.ZipFile(n) as z:
             for i in z.infolist():
-                if i.filename.lower().endswith('.pdf'):
+                if i.filename.lower().endswith('.pdf') and re.search(os.environ.get('FILTRE') or '.', i.filename, re.I):
                     out = '/tmp/r/' + re.sub(r'[^A-Za-z0-9._-]', '_', i.filename)[-150:]
                     open(out, 'wb').write(z.read(i)); fichiers.append((i.filename, out))
     else: fichiers.append((u.split('/')[-1], n))

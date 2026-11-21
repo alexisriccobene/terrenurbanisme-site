@@ -5,6 +5,7 @@ on:
       src: { description: "adresses (PDF ou ZIP) séparées par des espaces", required: true }
       part: { description: "partition (ex. DU_243500139)", required: true }
       mode: { description: "lister ou importer", required: true, default: "lister" }
+      filtre: { description: "expression sur le nom des fichiers du ZIP", required: false, default: "" }
 permissions:
   contents: read
 jobs:
@@ -18,6 +19,7 @@ jobs:
       SRC: ${{ github.event.inputs.src }}
       PART: ${{ github.event.inputs.part }}
       MODE: ${{ github.event.inputs.mode }}
+      FILTRE: ${{ github.event.inputs.filtre }}
     steps:
       - uses: actions/checkout@v4
         with: { sparse-checkout: .github/scripts }
