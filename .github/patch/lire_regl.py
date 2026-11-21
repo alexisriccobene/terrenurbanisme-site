@@ -1,6 +1,4 @@
-import sys, re
-s = open(sys.argv[1], encoding='utf-8').read(); L = s.split('\n')
-print('LIGNES', len(L))
-for i, l in enumerate(L):
-    if re.search(r"reglement|règlement|urlfic|zonage_local|REGL_|regl_override|_reglement|documents/|annexes/gpu|diffuweb", l, re.I): print('%5d| %s' % (i + 1, l[:230]))
+import sys
+L = open(sys.argv[1], encoding='utf-8').read().split('\n')
+for i in list(range(1712, 1760)) + list(range(1796, 1845)): print('%5d| %s' % (i + 1, L[i][:400]))
 sys.exit(1)
