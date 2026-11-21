@@ -684,7 +684,7 @@
         if (ulx) ulx.innerHTML = LIM.map(function(t){ return '<li>' + t + '</li>'; }).join('');
         btn.textContent = 'S\'abonner · ' + nom + ' →';
         if (mode === 'an') { amt.innerHTML = eur(A[0] * 10) + ' <small>/ an</small>'; u.textContent = (A[1] * 12) + ' rapports pour l\'année · ' + eur(A[0] * 10 / (A[1] * 12)) + ' le rapport'; btn.setAttribute('data-kind', 'ab' + n + '_an'); }
-        else { amt.innerHTML = eur(A[0]) + ' <small>/ mois</small>'; u.textContent = eur(A[0] / A[1]) + ' le rapport'; btn.setAttribute('data-kind', 'ab' + n); }
+        else { amt.innerHTML = eur(A[0]) + ' <small>/ mois</small>'; u.innerHTML = eur(A[0] / A[1]) + ' le rapport <s class="old">29,90\u00a0€</s>'; btn.setAttribute('data-kind', 'ab' + n); }
       });
     };
     if (bill) bill.querySelectorAll('button').forEach(function(b){ b.addEventListener('click', function(){

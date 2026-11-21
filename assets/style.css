@@ -1330,3 +1330,13 @@ body:has(.of-sticky) .tu-bot-btn,body:has(.of-sticky) .tu-bot{bottom:96px!import
 .fm-gsi{margin-top:4px;transition:opacity .2s}
 .fm-gsi.off{opacity:.45}
 .fm-gsi.off .gsi-box{pointer-events:none}
+/* Prix barré de référence (prix à l'unité x quantité), en rouge */
+s.old{color:#D23B2E;text-decoration:line-through;text-decoration-thickness:2px;font-weight:600;margin-left:6px;white-space:nowrap}
+.plan.feat s.old{color:#FF8A7A}
+/* Promotion façon carVertical : prix total, ancien prix barré en rouge, badge rouge */
+.plan .unit{color:var(--ink,#2A1D17);font-weight:700;font-size:15px}
+.plan.feat .unit{color:#fff}
+s.old{color:#E5584B;font-weight:600}
+.plan.feat s.old{color:#FF8A7A}
+.plan .promo{display:inline-block;align-self:flex-start;width:max-content;margin-top:10px;background:#D23B2E;color:#fff;font-weight:800;font-size:15px;line-height:1;padding:8px 12px;border-radius:7px}
+.plan .promo.vide{visibility:hidden}
