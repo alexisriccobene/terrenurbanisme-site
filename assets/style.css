@@ -1315,3 +1315,13 @@ body:has(.of-sticky) .tu-bot-btn,body:has(.of-sticky) .tu-bot{bottom:96px!import
 .btn.google.apple:hover{background:#000}
 .auth-card .auth-legal{margin-top:18px;line-height:1.5}
 @media (max-width:520px){.auth-wrap{padding:28px 16px}.auth-card{padding:26px 20px;border-radius:18px}.auth-card #login-form h1{font-size:26px}}
+/* Bandeau sources officielles (accueil) */
+.src-band{background:#FBEEE8;border-block:1px solid #F1DCD2;padding-block:44px;text-align:center}
+.src-band .src-k{font-size:12.5px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:#A3462C;margin:0 0 8px}
+.src-band h2{font-size:clamp(20px,2.4vw,26px);line-height:1.25;margin:0 auto 26px;max-width:620px;text-wrap:balance}
+.src-l{list-style:none;margin:0 auto;padding:0;display:flex;flex-wrap:wrap;justify-content:center;gap:12px;max-width:1040px}
+.src-l li{background:#fff;border:1px solid #EBD5CB;border-radius:14px;padding:12px 18px;display:flex;flex-direction:column;align-items:center;gap:3px;min-width:150px}
+.src-l b{font-size:15px;color:#2A1D17}
+.src-l span{font-size:12.5px;color:#7A6A60}
+@media (max-width:600px){.src-band{padding-block:34px}.src-l{display:grid;grid-template-columns:1fr 1fr;gap:10px}.src-l li{min-width:0;padding:11px 10px}.src-l li:last-child{grid-column:1/-1}}
+@media (min-width:1000px){.src-l{display:grid;grid-template-columns:repeat(7,1fr);max-width:1180px;gap:10px}.src-l li{min-width:0;padding:14px 10px;justify-content:center}.src-l b{text-wrap:balance}}
