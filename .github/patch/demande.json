@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "zones_doublons.py", "demande": "zones-doublons-1755"}
+{"fonction": "stripe-webhook", "script": "lire_regl.py", "demande": "lire-geot-1805"}
