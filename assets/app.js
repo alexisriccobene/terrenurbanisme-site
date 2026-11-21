@@ -801,9 +801,29 @@
   };
   btn.addEventListener('click', function(){ open(pan.hidden); });
   cl.addEventListener('click', function(){ open(false); });
+  /* Conseil de formule selon le nombre de rapports (prix fixes, calcul exact) */
+  var PK = [['unit', 1, 29.9, 'rapport à l\'unité'], ['pack2', 2, 49.8, 'lot de 2'], ['pack3', 3, 59.7, 'lot de 3'], ['pro10', 10, 149, '10 crédits'], ['pro30', 30, 357, '30 crédits'], ['pro100', 100, 790, '100 crédits']];
+  var eu = function(v){ var r = Math.round(v * 100) / 100, e = Math.floor(r), c = Math.round((r - e) * 100); return String(e).replace(/\B(?=(\d{3})+(?!\d))/g, '\u00a0') + (c ? ',' + String(c).padStart(2, '0') : '') + '\u00a0€'; };
+  var conseilVolume = function(n){
+    var M = n + 100, best = [0], how = [[]];
+    for (var q = 1; q <= M; q++) { best[q] = Infinity; PK.forEach(function(k){ var r = Math.max(0, q - k[1]); if (best[r] + k[2] < best[q]) { best[q] = best[r] + k[2]; how[q] = how[r].concat([k]); } }); }
+    var qty = function(L){ return L.reduce(function(a, k){ return a + k[1]; }, 0); };
+    var desc = function(L){ var c = {}, o = []; L.forEach(function(k){ if (!c[k[3]]) o.push(k[3]); c[k[3]] = (c[k[3]] || 0) + 1; }); return o.map(function(x){ return (c[x] > 1 ? c[x] + ' × ' : '') + x; }).join(' + '); };
+    if (n <= 3) return [n === 1 ? 'Pour 1 rapport : le rapport complet coûte 29,90 €.' : n === 2 ? 'Pour 2 rapports : le lot de 2 coûte 49,80 €, soit 24,90 € le rapport.' : 'Pour 3 rapports : le lot de 3 coûte 59,70 €, soit 19,90 € le rapport.', [['Vérifier un terrain', '/#recherche']]];
+    var L = how[n], Q = qty(L), P = best[n];
+    var t = 'Pour ' + n + ' rapports, la formule la moins chère est : ' + desc(L) + ', soit ' + eu(P) + (Q > n ? ' pour ' + Q + ' rapports (les ' + (Q - n) + ' en plus restent sur votre compte, sans limite de durée)' : '') + ', ' + eu(P / Q) + ' le rapport.';
+    var up = PK.filter(function(k){ return k[1] >= 10 && k[1] > Q && k[1] <= Math.max(30, n * 3); })[0];
+    if (up && up[2] / up[1] < P / Q - 0.5) t += ' Pour un meilleur prix au rapport : ' + up[3] + ' à ' + eu(up[2]) + ', soit ' + eu(up[2] / up[1]) + ' le rapport, crédits sans limite de durée.';
+    var ab = n <= 10 ? [10, 129] : n <= 30 ? [30, 297] : null;
+    if (ab) t += ' Si vous avez ce besoin chaque mois : l\'abonnement de ' + ab[0] + ' rapports par mois à ' + eu(ab[1]) + ', soit ' + eu(ab[1] / ab[0]) + ' le rapport, sans engagement.';
+    else t += ' Pour un besoin régulier au-delà de 30 rapports par mois, nous établissons une offre personnalisée.';
+    return [t, [['Voir les tarifs professionnels', '/tarifs.html#pro']].concat(ab ? [] : [['Demander une offre', '/tarifs.html#offre']])];
+  };
   var busy = false;
   fm.addEventListener('submit', function(ev){
     ev.preventDefault(); var t = inp.value.trim(); if (!t || busy) return; inp.value = ''; say('me', t);
+    var nv = (norm(t).match(/(\d{1,4}) ?(rapports?|credits?|parcelles?|terrains?|dossiers?|biens?|analyses?)/) || [])[1];
+    if (nv && +nv > 0) { var cv = conseilVolume(+nv); say('bot', cv[0], cv[1]); return; }
     var fallback = function(){ var i = find(t); if (i >= 0) answer(i); else say('bot', 'Je n\'ai pas de réponse précise à cette question. Écrivez-nous à contact@terrenurbanisme.com : nous répondons sous 24 heures ouvrées.', [['Voir la FAQ', '/faq.html']]); };
     var dots = el('div', 'tu-bot-m bot tu-bot-typing'); dots.innerHTML = '<span></span><span></span><span></span>'; log.appendChild(dots); log.scrollTop = log.scrollHeight; busy = true; go.disabled = true;
     var C = window.TU_CONFIG || {};
