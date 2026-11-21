@@ -355,7 +355,7 @@
         var pf = parcel, tot = 0; try { tot = window.turf ? turf.area(pf) : 0; } catch(e){}
         var zones = r[1] ? (r[1].features || []).map(function(f){
           var sh = null; try { if (tot && turf.intersect) { var it = turf.intersect(pf, f); sh = it ? turf.area(it) / tot : 0; } } catch(e){}
-          return { code: f.properties.libelle || f.properties.typezone, tz: f.properties.typezone, lib: f.properties.libelong || '', share: sh };
+          return { code: f.properties.libelle || f.properties.typezone, tz: f.properties.typezone, lib: f.properties.libelong || '', share: sh, part: f.properties.partition || '' };
         }).filter(function(z){ return z.share == null || z.share >= 0.02; }).sort(function(a, b){ return (b.share || 0) - (a.share || 0); }) : null;
         var sups = r[2] ? (r[2].features || []).map(function(f){ return String(f.properties.suptype || f.properties.typeass || '').toLowerCase(); }) : null;
         var cd = r[3] ? (r[3][insee] || {}) : null;
@@ -470,6 +470,9 @@
     var sups = extra.sups;
     /* Commune sans zonage numérique publié (ni RNU) : on le dit avant l'achat, le rapport ne pourra pas donner la zone */
     var noZone = zones != null && !zl.length && !muni.is_rnu;
+    /* Règlement que sa collectivité ne publie qu'en consultation sur son propre site (lecture automatique impossible) : on le dit avant l'achat */
+    var REG_NON_LU = { DU_200093201: 'la Métropole européenne de Lille' };
+    var regNonLu = !noZone && (zones || []).some(function(z){ return REG_NON_LU[z.part]; }) ? REG_NON_LU[(zones || []).filter(function(z){ return REG_NON_LU[z.part]; })[0].part] : '';
     var found = [
       ['ok', 'Parcelle identifiée au cadastre', fmt(p.contenance) + ' m² · ' + (p.idu || '')],
       [noZone ? 'warn' : 'ok', 'Document d\'urbanisme', muni.is_rnu ? 'Règlement national d\'urbanisme' : noZone ? 'Document local non publié en ligne' : extra.local ? 'PLU communal : zonage relevé sur le plan officiel de la commune' : 'Document local publié'],
@@ -496,7 +499,7 @@
       '<p class="v-other">Ce n\'est pas la bonne parcelle ? Cliquez sur une autre parcelle de la carte.</p>' +
       '<p class="v-why">Nous avons trouvé cette parcelle et les sources officielles qui la concernent. Le rapport complet répond à la question : peut-on construire, et à quelles conditions ?</p>' +
       '<div class="v-proj"><b>Quel est votre projet ?</b><span>Le rapport sera présenté pour lui.</span><div class="v-chips" role="group" aria-label="Votre projet">' + PROJ.map(function(x){ return '<button type="button" data-p="' + x[0] + '" aria-pressed="' + (x[0] === projet() ? 'true' : 'false') + '">' + x[1] + '</button>'; }).join('') + '</div></div>' +
-      (noZone ? '<p class="v-disc" style="background:#FBF1E1;border:1.5px solid #E2B66B;border-radius:12px;padding:12px 14px;color:#5A3A06"><strong>Attention : la zone de cette parcelle n\'est pas disponible.</strong><br> cette commune dispose d\'un document d\'urbanisme mais ne l\'a pas encore mis en ligne sur le Géoportail de l\'Urbanisme, la plateforme officielle de l\'État. Aucun service ne peut donc lire sa zone automatiquement : elle est à vérifier en mairie (plan de zonage) ou par un certificat d\'urbanisme. Le rapport réunit toutes les autres données officielles de la parcelle (risques, servitudes, PADDUC, lois Littoral et Montagne, accès, réseaux, prix du marché) mais <strong>n\'indiquera pas la zone ni son règlement</strong>.</p>' : '') +
+      (regNonLu ? '<p class="v-disc" style="background:#FBF1E1;border:1.5px solid #E2B66B;border-radius:12px;padding:12px 14px;color:#5A3A06"><strong>À savoir avant de commander.</strong><br>La zone de cette parcelle est connue, mais ' + regNonLu + ' ne diffuse le texte de son règlement que sur son propre site, en consultation. Le rapport donne la zone, les risques, les servitudes, les réseaux et le marché ; pour les règles de construction de la zone (hauteur, reculs, emprise), il renvoie au règlement officiel, sans en faire la lecture détaillée.</p>' : '') + (noZone ? '<p class="v-disc" style="background:#FBF1E1;border:1.5px solid #E2B66B;border-radius:12px;padding:12px 14px;color:#5A3A06"><strong>Attention : la zone de cette parcelle n\'est pas disponible.</strong><br> cette commune dispose d\'un document d\'urbanisme mais ne l\'a pas encore mis en ligne sur le Géoportail de l\'Urbanisme, la plateforme officielle de l\'État. Aucun service ne peut donc lire sa zone automatiquement : elle est à vérifier en mairie (plan de zonage) ou par un certificat d\'urbanisme. Le rapport réunit toutes les autres données officielles de la parcelle (risques, servitudes, PADDUC, lois Littoral et Montagne, accès, réseaux, prix du marché) mais <strong>n\'indiquera pas la zone ni son règlement</strong>.</p>' : '') +
       OFFER + '<button type="button" class="v-cta v-cta-top buy">' + BTN + '</button><p class="v-buy-err" role="alert"></p>' +
       '<ul class="v-found-list">' + found.map(function(f){ return '<li>' + (f[0] === 'warn' ? WARNI : OKI) + '<div><strong>' + esc(f[1]) + '</strong><span>' + esc(f[2]) + '</span></div></li>'; }).join('') + '</ul>' +
       '<ul class="v-locked">' + locked.map(function(t){ return '<li>' + LOCK + '<span>' + esc(t) + '</span><i class="blur" aria-hidden="true">████████</i></li>'; }).join('') + '</ul>' +
