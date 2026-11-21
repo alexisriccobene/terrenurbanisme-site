@@ -41,7 +41,24 @@
   "z_p1.pdf": "http://aleria.fr/wp-content/uploads/2025/11/3.2.1-PLANCHE-1-M1.pdf",
   "z_p2.pdf": "http://aleria.fr/wp-content/uploads/2025/11/3.2.2-PLANCHE-2-M1.pdf",
   "z_p3.pdf": "http://aleria.fr/wp-content/uploads/2025/11/3.2.3-PLANCHE-3-M1.pdf",
-  "z_p4.pdf": "http://aleria.fr/wp-content/uploads/2025/11/3.2.4-PLANCHE-4-M1.pdf"
+  "z_p4.pdf": "http://aleria.fr/wp-content/uploads/2025/11/3.2.4-PLANCHE-4-M1.pdf",
+  "z_planche1.pdf": "https://aleria.fr/wp-content/uploads/2025/11/3.2.1-PLANCHE-1-M1.pdf",
+  "z_planche2.pdf": "https://aleria.fr/wp-content/uploads/2025/11/3.2.2-PLANCHE-2-M1.pdf",
+  "z_planche3.pdf": "https://aleria.fr/wp-content/uploads/2025/11/3.2.3-PLANCHE-3-M1.pdf",
+  "z_planche4.pdf": "https://aleria.fr/wp-content/uploads/2025/11/3.2.4-PLANCHE-4-M1.pdf",
+  "r_1UA.pdf": "https://aleria.fr/wp-content/uploads/2025/11/ZONE-1-UA.pdf",
+  "r_2UA.pdf": "https://aleria.fr/wp-content/uploads/2025/11/ZONE-2UA.pdf",
+  "r_1AU.pdf": "https://aleria.fr/wp-content/uploads/2025/11/ZONE-1AU.pdf",
+  "r_2AU.pdf": "https://aleria.fr/wp-content/uploads/2025/11/ZONE-2AU.pdf",
+  "r_A.pdf": "https://aleria.fr/wp-content/uploads/2025/11/ZONE-A.pdf",
+  "r_AC.pdf": "https://aleria.fr/wp-content/uploads/2025/11/ZONE-AC.pdf",
+  "r_AD.pdf": "https://aleria.fr/wp-content/uploads/2025/11/ZONE-AD.pdf",
+  "r_N.pdf": "https://aleria.fr/wp-content/uploads/2025/11/ZONE-N.pdf",
+  "r_UB.pdf": "https://aleria.fr/wp-content/uploads/2025/11/ZONE-UB.pdf",
+  "r_UC.pdf": "https://aleria.fr/wp-content/uploads/2025/11/ZONE-UC.pdf",
+  "r_UD.pdf": "https://aleria.fr/wp-content/uploads/2025/11/ZONE-UD.pdf",
+  "r_UE.pdf": "https://aleria.fr/wp-content/uploads/2025/11/ZONE-UE.pdf",
+  "r_UT.pdf": "https://aleria.fr/wp-content/uploads/2025/11/ZONE-UT.pdf"
  },
  "2B281": {
   "z_general.pdf": "https://www.mairie-de-sisco.com/wp-content/uploads/sites/1018/2016/04/6.-plu-sisco-approbation-secteur-general-8000.pdf",
@@ -57,7 +74,8 @@
  },
  "2B305": {
   "z_littoral.pdf": "https://www.san-martino-di-lota.fr/wp-content/uploads/2021/06/05a-Modification-n%C2%B01-zonage-littoral.pdf",
-  "z_montagne.pdf": "https://www.san-martino-di-lota.fr/wp-content/uploads/2021/06/05b-Modification-n%C2%B01-zonage-montagne.pdf"
+  "z_montagne.pdf": "https://www.san-martino-di-lota.fr/wp-content/uploads/2021/06/05b-Modification-n%C2%B01-zonage-montagne.pdf",
+  "reglement.pdf": "https://www.san-martino-di-lota.fr/wp-content/uploads/2021/06/03a-Modification-n%C2%B01-R%C3%A8glement.pdf"
  },
  "2B242": {
   "z_littoral.pdf": "https://www.poggio-mezzana.fr/ag_admin/document/page/17/planche-du-littoral-2015-20231025-023415.pdf",
