@@ -40,7 +40,7 @@
       if (!sb) return Promise.reject(new Error('off'));
       return Auth.user().then(function(u){
         // Rapport à l'unité ou lot : paiement sans compte (e-mail saisi sur la page de paiement) ; abonnement : compte nécessaire
-        var invite = !u && /^(synth|unit|pack2|pack3|pro10|pro25|pro50|pro100|pro250|pro500)$/.test(kind);
+        var invite = !u && /^(synth|unit|pack2|pack3|pro10|pro30|pro100)$/.test(kind);
         if (!u && !invite){ location.href = Auth.loginUrl(location.pathname + location.search); return new Promise(function(){}); }
         var body = Object.assign({ kind: kind }, parcel || {});
         if (SRC) body.src = { ref: SRC.ref, page: SRC.page, utm: SRC.utm };
@@ -322,7 +322,7 @@
     Auth.user().then(function(u){
       // Mesure de la vente (Google Ads, Meta), envoyée une seule fois et seulement avec le consentement du visiteur
       if (sid && /^cs_/.test(sid) && window.TU_conversion){
-        var PRIX = { synth:9.9, upgrade:10, unit:19.9, pack2:29.8, pack3:38.7, pro10:60, pro50:250, pro100:450, pro250:1000, pro500:1750, ab10:39, ab50:175, ab100:299, ab250:690, ab500:1190, ab10_an:390, ab50_an:1750, ab100_an:2990, ab250_an:6900, ab500_an:11900, essentiel:29, pro:55, cabinet:139, essentiel_an:290, pro_an:550, cabinet_an:1390 };
+        var PRIX = { synth:9.9, upgrade:10, unit:29.9, pack2:49.8, pack3:59.7, pro10:149, pro30:357, pro100:790, ab10:129, ab30:297, pro50:250, pro250:1000, pro500:1750, ab50:175, ab100:299, ab250:690, ab500:1190, ab10_an:390, ab50_an:1750, ab100_an:2990, ab250_an:6900, ab500_an:11900, essentiel:29, pro:55, cabinet:139, essentiel_an:290, pro_an:550, cabinet_an:1390 };
         var once = true; try { once = !localStorage.getItem('tu_conv_' + sid); localStorage.setItem('tu_conv_' + sid, '1'); } catch (e) {}
         if (once) window.TU_conversion(PRIX[achat || qs.get('k') || 'unit'] || 19.9, sid);
       }

@@ -3,8 +3,8 @@
 > TerrenUrbanisme (https://terrenurbanisme.com) produit des rapports d'urbanisme et de constructibilité pour n'importe quelle parcelle en France métropolitaine, en Corse et en outre-mer. À partir d'une adresse ou d'une référence cadastrale, le service indique la zone du PLU (ou PLUi, carte communale, RNU), lit le règlement de la zone et réunit cadastre, monuments historiques, risques, lois Littoral et Montagne dans un rapport PDF livré en quelques minutes.
 
 - Diagnostic de parcelle sans carte bancaire ni e-mail : zone du PLU et part de chaque zone, monuments historiques (ABF), plans de prévention des risques, lois Littoral et Montagne.
-- Rapport complet : 19,90 € à l'unité ; lot de 2 (29,80 €, soit 14,90 € le rapport) et lot de 3 (38,70 €, soit 12,90 € le rapport), sans limite de durée.
-- Professionnels : crédits sans limite de durée (10 rapports 60 €, 50 rapports 250 €, 100 rapports 390 €) ou abonnement sans engagement (Essentiel 39 €/mois pour 10 rapports, Pro 175 €/mois pour 50 rapports). Au-delà : offre personnalisée sur devis.
+- Rapport complet : 29,90 € à l'unité ; lot de 2 (49,80 €, soit 24,90 € le rapport) et lot de 3 (59,70 €, soit 19,90 € le rapport), sans limite de durée.
+- Professionnels : crédits sans limite de durée (10 rapports 149 €, 30 rapports 357 €, 100 rapports 790 €) ou abonnement sans engagement (10 rapports par mois pour 129 €, 30 rapports par mois pour 297 €). Au-delà : offre personnalisée.
 - Contenu du rapport (15 éléments) : plan cadastral, vue aérienne, plan de zonage, règlement de la zone en annexe et lecture en clair, surface constructible estimée, plans de prévention des risques, état des risques (ERP) pré-rempli, monuments historiques, bruit (PEB, voies classées), lois Littoral et Montagne, PADDUC en Corse, prix au m² de la commune (DVF), permis et photos aériennes depuis 1950, accès, pente, réseaux et fibre, géomètres-experts proches.
 - Sources : Géoportail de l'Urbanisme, IGN, cadastre (DGFiP), Géorisques, DVF, Sitadel, Collectivité de Corse.
 - Public : particuliers, agences immobilières, notaires, géomètres, architectes, promoteurs. Démonstration en visio sur demande pour les professionnels.
