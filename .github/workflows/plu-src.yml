@@ -11,27 +11,10 @@ jobs:
     timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
-        with: { sparse-checkout: .github/plu }
+        with: { sparse-checkout: .github }
       - run: |
           git init -q r && cd r && git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}"
           git config user.name bot; git config user.email bot@users.noreply.github.com
           git fetch -q --depth 1 origin plu-src && git checkout -q FETCH_HEAD || git checkout -q --orphan plu-src
-          python3 - <<'PY'
-          import json, os, subprocess, hashlib
-          S = json.load(open('../.github/plu/sources.json'))
-          for ins, files in S.items():
-              h = hashlib.md5(json.dumps(files, sort_keys=True).encode()).hexdigest()
-              if os.path.exists(f'{ins}/.sources') and open(f'{ins}/.sources').read() == h: continue
-              subprocess.run(['rm', '-rf', ins]); os.makedirs(ins)
-              D = ins[:2]
-              for kind in ('parcelles', 'batiments'):
-                  subprocess.run(['curl', '-sSfL', '--retry', '3', '-o', f'{ins}/cadastre-{kind}.json.gz', f'https://cadastre.data.gouv.fr/data/etalab-cadastre/latest/geojson/communes/{D}/{ins}/cadastre-{ins}-{kind}.json.gz'])
-              for n, u in files.items():
-                  if '/' in n or n.startswith('.'): continue
-                  r = subprocess.run(['curl', '-sSL', '--retry', '2', '--max-time', '900', '-A', 'Mozilla/5.0 (TerrenUrbanisme; contact@terrenurbanisme.com)', '-o', f'{ins}/{n}', '-w', '%{http_code}', u], capture_output=True, text=True)
-                  sz = os.path.getsize(f'{ins}/{n}') if os.path.exists(f'{ins}/{n}') else 0
-                  print(ins, n, r.stdout, sz)
-                  if sz > 95e6: os.remove(f'{ins}/{n}'); print('  trop gros, supprimé')
-              open(f'{ins}/.sources', 'w').write(h)
-          PY
+          python3 ../.github/scripts/plu_src.py
           git add -A && git commit -qm "Sources PLU [skip ci]" && git push -q origin HEAD:plu-src || echo "rien de neuf"

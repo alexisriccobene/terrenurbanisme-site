@@ -28,12 +28,14 @@
   "r_AUH2.pdf": "https://alata.corsica/download/zone-auh2/",
   "r_A.pdf": "https://alata.corsica/download/zone-a/",
   "r_N.pdf": "https://alata.corsica/download/zone-n/",
-  "r_NE.pdf": "https://alata.corsica/download/zone-ne/"
+  "r_NE.pdf": "https://alata.corsica/download/zone-ne/",
+  "_v": "2"
  },
  "2B207": {
   "z_ouest.pdf": "https://www.pentadicasinca.fr/uploads/5520465662a9b4b2f5b03184daa0dba5.pdf",
   "z_est.pdf": "https://www.pentadicasinca.fr/uploads/541499ac1161bf4f3501f5d11923ba0e.pdf",
-  "reglement.pdf": "https://www.pentadicasinca.fr/uploads/c858230a75d25a7411db86467ee30420.pdf"
+  "reglement.pdf": "https://www.pentadicasinca.fr/uploads/c858230a75d25a7411db86467ee30420.pdf",
+  "_v": "2"
  },
  "2B009": {
   "z_p1.pdf": "http://aleria.fr/wp-content/uploads/2025/11/3.2.1-PLANCHE-1-M1.pdf",
@@ -60,7 +62,8 @@
  "2B242": {
   "z_littoral.pdf": "https://www.poggio-mezzana.fr/ag_admin/document/page/17/planche-du-littoral-2015-20231025-023415.pdf",
   "z_montagne.pdf": "https://www.poggio-mezzana.fr/ag_admin/document/page/17/planche-montagne-2015-20231025-023402.pdf",
-  "reglement.pdf": "https://www.poggio-mezzana.fr/ag_admin/document/page/17/reglement-modifie-en-2015-4.pdf"
+  "reglement.pdf": "https://www.poggio-mezzana.fr/ag_admin/document/page/17/reglement-modifie-en-2015-4.pdf",
+  "_v": "2"
  },
  "2B043": {
   "z_erbalunga.pdf": "https://www.commune-brando.fr/wp-content/uploads/2016/12/carte-erbalunga-mausoleo-castello-silgaggia.pdf",
@@ -82,8 +85,9 @@
  },
  "2B148": {
   "z_plan.pdf": "https://www.ville-lucciana.com/wp-content/uploads/2014/12/04-plan-de-zonage-modif4-approbation.pdf",
-  "reglement.pdf": "https://www.ville-lucciana.com/wp-content/uploads/2014/12/R%C3%A8glement-PLU-N%C2%B04-1.pdf",
-  "plu45.pdf": "http://www.ville-lucciana.com/wp-content/uploads/2014/10/plan-local-durbanisme_45.pdf"
+  "reglement.pdf": "https://www.ville-lucciana.com/wp-content/uploads/2014/12/Re%CC%80glement-PLU-N%C2%B04-1.pdf",
+  "plu45.pdf": "http://www.ville-lucciana.com/wp-content/uploads/2014/10/plan-local-durbanisme_45.pdf",
+  "plan_dwg.zip": "https://www.ville-lucciana.com/wp-content/uploads/2014/12/planmodif4.dwg_.zip"
  },
  "2B346": {
   "reglement.pdf": "https://vescovato.fr/wp-content/uploads/2019/05/3R%C3%A8glement-Vescovato.pdf"
