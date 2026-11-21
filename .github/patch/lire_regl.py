@@ -1,4 +1,5 @@
-import sys
+import sys, re
 L = open(sys.argv[1], encoding='utf-8').read().split('\n')
-for i in range(2745, 2768): print('%5d| %s' % (i + 1, L[i][:500]))
+for i, l in enumerate(L):
+    if re.search(r"[ée]tude de sol|ELAN|G1\b|vendeur doit fournir", l, re.I): print('%5d| %s' % (i + 1, l[:500]))
 sys.exit(1)
