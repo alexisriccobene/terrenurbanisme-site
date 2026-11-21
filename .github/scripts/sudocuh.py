@@ -10,17 +10,18 @@ def sql(q):
         headers={'Authorization': 'Bearer ' + os.environ['SUPABASE_ACCESS_TOKEN'], 'Content-Type': 'application/json'})
     try: return urllib.request.urlopen(rq, timeout=120).status
     except urllib.error.HTTPError as e: print(e.code, e.read()[:400]); sys.exit(1)
-for ws in wb.worksheets:
+print('feuilles', wb.sheetnames)
+for ws in sorted(wb.worksheets, key=lambda w: 0 if re.search(r'liste.*commune', w.title, re.I) else 1):
     if re.search(r'lisez|readme|notice', ws.title, re.I): continue
     rows = ws.iter_rows(values_only=True)
     head = None; n = 0; lot = []
     for r in rows:
         if head is None:
             cells = [str(c or '').strip() for c in r]
-            if any(len(c) < 60 and re.search(r'insee|code ?com', c, re.I) for c in cells): head = cells; print('feuille', ws.title, 'colonnes', head)
+            if any(len(c) < 60 and re.search(r'^(code[ _]?insee|insee|code[ _]?commune|com[ _]?insee|insee[ _]?com)', c, re.I) for c in cells): head = cells; print('feuille', ws.title, 'colonnes', head)
             continue
         d = {head[i]: (str(v) if v is not None else None) for i, v in enumerate(r) if i < len(head) and head[i]}
-        ic = next((k for k in d if re.search(r'insee|code ?com', k, re.I)), None)
+        ic = next((k for k in d if re.search(r'^(code[ _]?insee|insee|code[ _]?commune|com[ _]?insee|insee[ _]?com)', k, re.I)), None)
         if not ic or not d.get(ic): continue
         insee = d[ic].strip().zfill(5)
         nom = next((d[k] for k in d if re.search(r'^(nom|libell)', k, re.I) and d[k]), '')
@@ -28,6 +29,8 @@ for ws in wb.worksheets:
         etat = next((d[k] for k in d if re.search(r'(etat|état|type).*(opposable|du)|opposable', k, re.I) and d[k]), '')
         if n < 3 or insee.startswith('2A') or insee.startswith('2B'):
             if insee in ('2B096', '2B143', '2A006', '2B148'): print(insee, d)
+        if not re.match(r'^[0-9][0-9AB][0-9]{3}$', insee): continue
+        if any(x[0] == insee for x in lot): continue
         lot.append((insee, nom, dep, etat, d)); n += 1
         if len(lot) == 1500:
             vals = ','.join("(%s,%s,%s,%s,%s::jsonb,'sudocuh')" % tuple("$q$%s$q$" % str(x).replace('$q$', '') for x in (a, b, c, e, json.dumps(f, ensure_ascii=False))) for a, b, c, e, f in lot)
