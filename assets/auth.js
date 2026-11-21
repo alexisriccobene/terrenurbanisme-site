@@ -144,7 +144,7 @@
       email.parentNode.hidden = m === 'nouveau'; $('lf-pw').hidden = m === 'reset'; $('lf-pw2').hidden = !(m === 'signup' || m === 'nouveau');
       $('lf-forgot').hidden = m !== 'login';
       pw.setAttribute('autocomplete', m === 'login' ? 'current-password' : 'new-password');
-      var gb = $('google-btn'), ab = $('apple-btn'), orr = document.querySelector('.auth-or'), soc = m === 'nouveau' || m === 'reset'; if (gb) gb.hidden = !cfg.google || soc; if (ab) ab.hidden = !cfg.apple || soc; if (orr) orr.hidden = (!cfg.google && !cfg.apple) || soc;
+      var gb = $('google-btn'), orr = document.querySelector('.auth-or'), soc = m === 'nouveau' || m === 'reset'; if (gb) gb.hidden = !cfg.google || soc; if (orr) orr.hidden = !cfg.google || soc;
     }
     $('lf-sw-a').addEventListener('click', function(e){ e.preventDefault(); setMode(mode === 'login' ? 'signup' : 'login'); });
     $('lf-forgot').addEventListener('click', function(e){ e.preventDefault(); setMode('reset'); });
@@ -205,11 +205,9 @@
         fail('L\'envoi a échoué. Vérifiez l\'adresse et réessayez.');
       });
     });
-    var gb0 = $('google-btn'), ab0 = $('apple-btn'), orr0 = document.querySelector('.auth-or');
-    if (gb0 && !cfg.google) gb0.hidden = true;
-    if (ab0 && !cfg.apple) ab0.hidden = true;
-    if (orr0 && !cfg.google && !cfg.apple) orr0.hidden = true;
-    if (ab0) ab0.addEventListener('click', function(){ if (sb) sb.auth.signInWithOAuth({ provider: 'apple', options: { redirectTo: location.origin + redirect } }); });
+    var gb0 = $('google-btn'), orr0 = document.querySelector('.auth-or');
+    function soc0(){ var on = !!cfg.google && mode !== 'nouveau' && mode !== 'reset'; if (gb0) gb0.hidden = !on; if (orr0) orr0.hidden = !on; }
+    soc0(); document.addEventListener('tu-google', soc0);
     $('google-btn').addEventListener('click', function(){
       if (!sb){ msg.className = 'err'; msg.textContent = 'La connexion n\'est pas encore activée sur ce site.'; return; }
       sb.auth.signInWithOAuth({ provider: 'google', options: { redirectTo: location.origin + redirect } });
