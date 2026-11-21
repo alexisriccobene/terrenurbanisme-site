@@ -22,6 +22,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with: { sparse-checkout: .github/scripts }
+      - run: sudo apt-get update -q >/dev/null && sudo apt-get install -y -q poppler-utils >/dev/null
       - run: python3 .github/scripts/audit_communes.py
       - name: Enregistrer
         run: |

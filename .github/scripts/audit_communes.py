@@ -1,7 +1,7 @@
 import sys as _s
 # Audit de couverture : pour chaque commune, type de document d'urbanisme et accessibilité du règlement écrit.
 # Mode "dep" : toutes les communes des départements donnés ; mode "echantillon" : les N plus peuplées de chaque département.
-import json, os, sys, time, traceback, urllib.request, urllib.error, urllib.parse, concurrent.futures as cf
+import json, os, re, sys, time, traceback, urllib.request, urllib.error, urllib.parse, concurrent.futures as cf
 CARTO = 'https://apicarto.ign.fr/api'
 UA = {'User-Agent': 'TerrenUrbanisme-audit/1.0 (contact@terrenurbanisme.com)'}
 def get(url, t=40, raw=False, method='GET', headers=None):
@@ -54,17 +54,41 @@ def audit1(c):
     zp = ((z.get('features') or [{}])[0] or {}).get('properties') or {}
     r['zone'] = zp.get('libelle')
     nom = str(zp.get('nomfic') or '').split('#')[0]
-    url = f"https://data.geopf.fr/annexes/gpu/documents/{zp.get('partition')}/{zp.get('gpu_doc_id')}/{nom}" if zp.get('gpu_doc_id') and nom else ''
-    if not url and str(zp.get('urlfic') or '').lower().split('?')[0].endswith('.pdf'): url = zp['urlfic']
+    part, doc = zp.get('partition'), zp.get('gpu_doc_id')
+    r['partition'] = part or r['partition']
     if not zp: r['etat'] = 'centre_hors_zonage'; return r
-    if not url or not url.lower().endswith('.pdf'): r['etat'] = 'reglement_absent'; r['urlfic'] = zp.get('urlfic'); r['nomfic'] = zp.get('nomfic'); return r
-    st, h = get(url, raw=True, method='HEAD') or (None, {})
-    size = int({k.lower(): v for k, v in h.items()}.get('content-length') or 0)
-    r['taille_mo'] = round(size / 1048576, 1)
-    if st != 200: r['etat'] = f'reglement_http_{st}'
-    elif size and size < 300000: r['etat'] = 'reglement_suspect_petit'
-    elif size > 32 * 1048576: r['etat'] = 'reglement_lourd_github'
-    else: r['etat'] = 'reglement_ok'
+    def fichiers(d):
+        fl = get(f"https://www.geoportail-urbanisme.gouv.fr/api/document/{d}/files", 60) or []
+        return [(x if isinstance(x, str) else (x.get('name') or x.get('path') or '')).split('/')[-1] for x in (fl if isinstance(fl, list) else fl.get('files', []))]
+    def regl(names): return next((n for n in names if re.search(r'r[eè]glement', n, re.I) and not re.search(r'graphique|plan|annexe|zonage', n, re.I) and n.lower().endswith('.pdf')), '')
+    # Même logique que le rapport : fichier du zonage, sinon pièce « règlement » du document, sinon document en vigueur, sinon lien de la collectivité
+    cands = []
+    if not nom or re.search(r'graphique|plan_?de_?zonage|_zonage', nom, re.I):
+        if doc: nom = regl(fichiers(doc)) or nom
+    if doc and nom: cands.append(f"https://data.geopf.fr/annexes/gpu/documents/{part}/{doc}/{nom}")
+    L = get(f"https://www.geoportail-urbanisme.gouv.fr/api/document?partition={part}", 60) or []
+    prod = [d for d in L if isinstance(d, dict) and d.get('status') == 'document.production']
+    if prod and prod[-1].get('id') != doc:
+        n2 = regl(fichiers(prod[-1]['id']))
+        if n2: cands.append(f"https://data.geopf.fr/annexes/gpu/documents/{part}/{prod[-1]['id']}/{n2}")
+    uf = str(zp.get('urlfic') or '').split('#')[0]
+    if uf.lower().split('?')[0].endswith('.pdf'): cands.append(uf)
+    r['essais'] = []
+    for url in cands:
+        st, h = get(url, raw=True, method='HEAD') or (None, {})
+        size = int({k.lower(): v for k, v in h.items()}.get('content-length') or 0)
+        r['essais'].append([url[-70:], st, round(size / 1048576, 2)])
+        if st == 200 and size >= 300000: r['etat'] = 'reglement_ok'; r['url'] = url; r['taille_mo'] = round(size / 1048576, 1); return r
+        if st == 200 and 0 < size < 300000:
+            # petit fichier : vrai règlement de zone ou simple renvoi ? on lit le texte
+            try:
+                with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=60) as x: b = x.read()
+                open('/tmp/a.pdf', 'wb').write(b)
+                import subprocess
+                t = subprocess.run(['pdftotext', '/tmp/a.pdf', '-'], capture_output=True, text=True).stdout
+                if len(re.findall(r'\barticle\b|hauteur|implantation|emprise', t, re.I)) >= 8: r['etat'] = 'reglement_ok'; r['url'] = url; return r
+            except Exception: pass
+    r['etat'] = 'reglement_non_lisible' if cands else 'reglement_absent'; r['urlfic'] = zp.get('urlfic'); r['nomfic'] = zp.get('nomfic')
     return r
 mode, deps, n = os.environ.get('MODE', 'dep'), os.environ.get('DEPS', '2A 2B').split(), int(os.environ.get('N', '3'))
 communes = []
