@@ -1150,3 +1150,19 @@ body:has(.ck-banner:not([hidden])) .tu-bot{display:none}
 .ba-gl a.rl:hover{border-color:var(--t)}
 @media (max-width:600px){.ba-gl{grid-template-columns:1fr}}
 .gimg{margin-top:26px;max-width:1000px}
+/* Tarifs : cartes de profil centrées */
+.fc{align-items:center;text-align:center;padding:30px 24px 26px;gap:14px}
+.fc-h{flex-direction:column;align-items:center;gap:12px;min-height:150px}
+.fc-h .vf-i{width:60px;height:60px;border-radius:50%;background:var(--soft);color:var(--t);display:grid;place-items:center;margin:0}
+.fc-h .vf-i svg{width:28px;height:28px;display:block}
+.fc-h b{font-size:18px}
+.fc-vol{align-self:center;background:#FBEEE8;color:var(--t)}
+.fc-f{align-items:center;width:100%;border-top:1px solid var(--ligne)}
+.fc-p{justify-content:center}
+.fc-f p{max-width:30ch}
+.fc-hl .vf-i{background:var(--t);color:#FFFFFF}
+.fc-bd{left:50%;transform:translateX(-50%);white-space:nowrap}
+.fc-ok{color:var(--muet)!important;margin-top:30px}
+.fc-ok li::before{color:var(--t)!important}
+@media (max-width:600px){.fc-h{min-height:0}}
+.fc-h{min-height:122px}.fc-h+.fc-vol{margin-top:-4px}
