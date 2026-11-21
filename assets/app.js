@@ -811,7 +811,7 @@
     var desc = function(L){ var c = {}, o = []; L.forEach(function(k){ if (!c[k[3]]) o.push(k[3]); c[k[3]] = (c[k[3]] || 0) + 1; }); return o.map(function(x){ return (c[x] > 1 ? c[x] + ' × ' : '') + x; }).join(' + '); };
     if (n <= 3) return [n === 1 ? 'Pour 1 rapport : le rapport complet coûte 29,90 €.' : n === 2 ? 'Pour 2 rapports : le lot de 2 coûte 49,80 €, soit 24,90 € le rapport.' : 'Pour 3 rapports : le lot de 3 coûte 59,70 €, soit 19,90 € le rapport.', [['Vérifier un terrain', '/#recherche']]];
     var L = how[n], Q = qty(L), P = best[n];
-    var t = 'Pour ' + n + ' rapports, la formule la moins chère est : ' + desc(L) + ', soit ' + eu(P) + (Q > n ? ' pour ' + Q + ' rapports (les ' + (Q - n) + ' en plus restent sur votre compte, sans limite de durée)' : '') + ', ' + eu(P / Q) + ' le rapport.';
+    var t = 'Pour ' + n + ' rapports, la formule la moins chère est : ' + desc(L) + ', soit ' + eu(P) + (Q > n ? ' pour ' + Q + ' rapports (' + (Q - n > 1 ? 'les ' + (Q - n) + ' rapports en plus restent' : 'le rapport en plus reste') + ' sur votre compte, sans limite de durée)' : '') + ', ' + eu(P / Q) + ' le rapport.';
     var up = PK.filter(function(k){ return k[1] >= 10 && k[1] > Q && k[1] <= Math.max(30, n * 3); })[0];
     if (up && up[2] / up[1] < P / Q - 0.5) t += ' Pour un meilleur prix au rapport : ' + up[3] + ' à ' + eu(up[2]) + ', soit ' + eu(up[2] / up[1]) + ' le rapport, crédits sans limite de durée.';
     var ab = n <= 10 ? [10, 129] : n <= 30 ? [30, 297] : null;

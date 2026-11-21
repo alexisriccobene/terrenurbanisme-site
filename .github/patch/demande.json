@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "lire_regl.py", "demande": "lire-prompt-1830"}
+{"fonction": "stripe-webhook", "script": "assistant_prix.py", "demande": "assistant-prix-1835"}
