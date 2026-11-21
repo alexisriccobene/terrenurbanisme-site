@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "lire_regl.py", "demande": "lire-zlocal"}
+{"fonction": "stripe-webhook", "script": "zlocal_clip.py", "demande": "zlocal-clip"}
