@@ -1210,3 +1210,17 @@ body:has(.ck-banner:not([hidden])) .tu-bot{display:none}
 .sur-mesure .btn:hover{background:#2A1D17;color:#FFFFFF}
 .sur-mesure .btn.ghost{background:transparent;color:#FFFFFF;box-shadow:inset 0 0 0 1.5px #FFFFFF}
 .sur-mesure .btn.ghost:hover{background:#FFFFFF;color:var(--t)}
+/* Mosaïque alignée : 2 colonnes, 3 rangées égales */
+.mz{display:grid;grid-template-columns:1fr 1fr;grid-template-rows:repeat(3,minmax(150px,1fr));gap:16px}
+.mz>*{margin:0;min-height:0}
+.mz-a{grid-column:1;grid-row:1}
+.mz-r{grid-column:2;grid-row:1 / span 2}
+.mz-p{grid-column:1;grid-row:2}
+.mz-d{grid-column:1;grid-row:3}
+.mz-t2{grid-column:2;grid-row:3}
+.mz-t{justify-content:center;height:100%;box-sizing:border-box}
+.mz-i{height:100%}
+.mz-i img,.mz-tall img{width:100%;height:100%;aspect-ratio:auto;object-fit:cover}
+.mz-r img{object-position:top center}
+@media (max-width:560px){.mz{grid-template-rows:repeat(3,minmax(120px,1fr));gap:10px}}
+.plan .eco{margin:12px 0 2px;line-height:1.3}
