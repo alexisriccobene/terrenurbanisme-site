@@ -78,6 +78,16 @@ def audit1(c):
         st, h = get(url, raw=True, method='HEAD') or (None, {})
         size = int({k.lower(): v for k, v in h.items()}.get('content-length') or 0)
         r['essais'].append([url[-70:], st, round(size / 1048576, 2)])
+        if st == 200 and size == 0:
+            # taille non annoncée : on lit le début et la taille totale par une requête partielle
+            try:
+                rq = urllib.request.Request(url, headers={**UA, 'Range': 'bytes=0-1023'})
+                with urllib.request.urlopen(rq, timeout=60) as x:
+                    cr = x.headers.get('Content-Range') or ''; head = x.read(1024)
+                size = int(cr.split('/')[-1]) if '/' in cr and cr.split('/')[-1].isdigit() else 0
+                r['essais'][-1][2] = round(size / 1048576, 2)
+                if not head.startswith(b'%PDF'): continue
+            except Exception: pass
         if st == 200 and size >= 300000: r['etat'] = 'reglement_ok'; r['url'] = url; r['taille_mo'] = round(size / 1048576, 1); return r
         if st == 200 and 0 < size < 300000:
             # petit fichier : vrai règlement de zone ou simple renvoi ? on lit le texte
