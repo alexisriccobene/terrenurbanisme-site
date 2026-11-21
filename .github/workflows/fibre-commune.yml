@@ -1,0 +1,91 @@
+name: Fibre d'une commune (Arcep)
+# Extrait des fichiers départementaux Arcep (immeubles + éligibilité) les adresses d'une commune et les dépose dans le stockage (foncier/fibre/INSEE.json).
+# Déclenché par la fonction quand le fichier du département est trop lourd pour être lu pendant le rapport, ou à la main.
+on:
+  repository_dispatch:
+    types: [fibre_commune]
+  workflow_dispatch:
+    inputs:
+      insee: { description: "Code INSEE de la commune", required: true }
+permissions:
+  contents: read
+concurrency:
+  group: fibre-${{ github.event.client_payload.insee || github.event.inputs.insee }}
+jobs:
+  f:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      INSEE: ${{ github.event.client_payload.insee || github.event.inputs.insee }}
+      SR: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+      U: https://nmoigruxnhsidrhqtzid.supabase.co
+    steps:
+      - name: Extraire et déposer
+        run: |
+          set -euo pipefail
+          case "$INSEE" in [0-9][0-9AB][0-9][0-9][0-9]) ;; *) echo "::error::code INSEE invalide"; exit 1;; esac
+          python3 - <<'PY'
+          import os, gzip, io, json, datetime, urllib.request
+          insee = os.environ['INSEE']
+          dep = insee[:3] if insee.startswith('97') else insee[:2]
+          def urls(kind, f):
+              now = datetime.date.today(); y, q = now.year, (now.month - 1) // 3 + 1; out = []
+              for _ in range(6):
+                  out.append(f'https://data.arcep.fr/fixe/maconnexioninternet/{kind}/{y}_T{q}/departement/{f}')
+                  q -= 1
+                  if q == 0: q, y = 4, y - 1
+              return out
+          def open_first(us):
+              for u in us:
+                  try:
+                      r = urllib.request.urlopen(urllib.request.Request(u, headers={'User-Agent': 'TerrenUrbanisme/1.0'}), timeout=120)
+                      print('source', u); return io.TextIOWrapper(gzip.GzipFile(fileobj=r), encoding='utf-8', errors='replace'), u
+                  except Exception as e: print('absent', u, e)
+              raise SystemExit('fichier Arcep introuvable')
+          f, src1 = open_first(urls('base_imb', f'base_imb_{dep}.csv.gz'))
+          head = f.readline().rstrip('\r\n'); sep = ';' if head.count(';') > head.count(',') else ','
+          H = {h.replace('"', '').strip(): i for i, h in enumerate(head.split(sep))}
+          keys = list(H)
+          def pick(cands):
+              for c in cands:
+                  if c in H: return H[c]
+              return None
+          import re
+          ix = H.get(next((k for k in keys if re.match(r'^(imb_)?(x|longitude|lon|lng)$', k, re.I)), None)) if any(re.match(r'^(imb_)?(x|longitude|lon|lng)$', k, re.I) for k in keys) else H.get(next((k for k in keys if re.search(r'(_x|longitude|lon)$', k, re.I)), None))
+          iy = H.get(next((k for k in keys if re.match(r'^(imb_)?(y|latitude|lat)$', k, re.I)), None)) if any(re.match(r'^(imb_)?(y|latitude|lat)$', k, re.I) for k in keys) else H.get(next((k for k in keys if re.search(r'(_y|latitude|lat)$', k, re.I)), None))
+          ic = pick(['code_insee', 'imb_code_insee', 'addr_code_insee', 'insee'])
+          iid = H.get('imb_id', 0)
+          g = lambda v, n: (v[H[n]].replace('"', '').strip() if n in H and H[n] < len(v) else '')
+          rows = {}
+          for line in f:
+              if insee not in line: continue
+              v = line.rstrip('\r\n').split(sep)
+              if ic is not None and ic < len(v) and v[ic].replace('"', '').strip() != insee: continue
+              try: x = float(v[ix].replace('"', '').replace(',', '.')); y = float(v[iy].replace('"', '').replace(',', '.'))
+              except Exception: continue
+              i = v[iid].replace('"', '').strip() if iid is not None and iid < len(v) else str(len(rows))
+              rows[i] = [x, y, ' '.join(t for t in [g(v, 'addr_numero'), g(v, 'addr_rep')] if t), g(v, 'addr_nom_voie') or g(v, 'addr_nom_ld'), g(v, 'addr_nom_ld'), int(float(g(v, 'imb_nbr_logloc') or 0) or 0), g(v, 'imb_type'), set()]
+          print('immeubles de la commune :', len(rows))
+          if not rows: raise SystemExit('aucune adresse trouvée pour ' + insee)
+          f2, src2 = open_first(urls('eligibilite', f'actuel_{dep}.csv.gz'))
+          h2 = f2.readline().rstrip('\r\n'); sep2 = ';' if h2.count(';') > h2.count(',') else ','
+          H2 = {h.replace('"', '').strip(): i for i, h in enumerate(h2.split(sep2))}
+          it = H2.get('code_techno', H2.get('techno')); iid2 = H2.get('imb_id')
+          n = 0
+          for line in f2:
+              if iid2 is None:
+                  j = line.find(sep2); idv = (line if j < 0 else line[:j]).replace('"', '')
+                  o = rows.get(idv)
+                  if o is None: continue
+                  v = line.rstrip('\r\n').split(sep2)
+              else:
+                  v = line.rstrip('\r\n').split(sep2); o = rows.get(v[iid2].replace('"', '') if iid2 < len(v) else '')
+                  if o is None: continue
+              if it is not None and it < len(v): o[7].add(v[it].replace('"', '').strip()); n += 1
+          print('lignes d\'éligibilité retenues :', n)
+          out = {'insee': insee, 'gen': datetime.date.today().isoformat(), 'sources': [src1, src2], 'rows': [r[:7] + [sorted(t for t in r[7] if t)] for r in rows.values()]}
+          open('fibre.json', 'w').write(json.dumps(out, ensure_ascii=False, separators=(',', ':')))
+          print('fibrées :', sum(1 for r in out['rows'] if any(t.upper().startswith(('FO', 'FTTH', 'FIB')) for t in r[7])), '/', len(out['rows']))
+          PY
+          ls -la fibre.json
+          curl -sf -X POST "$U/storage/v1/object/foncier/fibre/$INSEE.json" -H "Authorization: Bearer $SR" -H "apikey: $SR" -H "Content-Type: application/json" -H "x-upsert: true" --data-binary @fibre.json | head -c 200; echo
