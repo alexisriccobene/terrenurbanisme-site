@@ -19,7 +19,12 @@ for ins, files in S.items():
     if os.path.exists(f'{ins}/.sources') and open(f'{ins}/.sources').read() == h: continue
     subprocess.run(['rm', '-rf', ins]); os.makedirs(ins)
     for kind in ('parcelles', 'batiments'):
-        subprocess.run(['curl', '-sSfL', '--retry', '3', '-o', f'{ins}/cadastre-{kind}.json.gz', f'https://cadastre.data.gouv.fr/data/etalab-cadastre/latest/geojson/communes/{ins[:2]}/{ins}/cadastre-{ins}-{kind}.json.gz'])
+        for essai in range(5):
+            try:
+                st, ct, b = get(f'https://cadastre.data.gouv.fr/data/etalab-cadastre/latest/geojson/communes/{ins[:2]}/{ins}/cadastre-{ins}-{kind}.json.gz', 300)
+                if b[:2] == b'\x1f\x8b': open(f'{ins}/cadastre-{kind}.json.gz', 'wb').write(b); print(ins, 'cadastre', kind, len(b)); break
+            except Exception as e: print(ins, 'cadastre', kind, 'essai', essai, str(e)[:80])
+            import time; time.sleep(10)
     for n, u in files.items():
         if '/' in n or n.startswith(('.', '_')): continue
         try:
