@@ -5,9 +5,9 @@ def rep(a, b):
     global s
     assert s.count(a) == 1, ('ancre', a[:80], s.count(a))
     s = s.replace(a, b)
-a = "return json({ error: 'deja_abonne' }, 409);"
+a = "error: 'deja_abonne'"
 assert s.count(a) == 1, ('ancre deja_abonne', s.count(a))
-k = s.index('\n', s.index(a)) + 1
+k = s.index('\n', s.index('409);', s.index(a))) + 1
 s = s[:k] + """    // Remise de bienvenue de 15 % : valable 14 jours, une seule fois, sur 1, 2 ou 3 rapports
     let remise: string | null = null;
     if (b.remise && /^(unit|pack2|pack3)$/.test(kind)) {
