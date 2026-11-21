@@ -4,6 +4,10 @@ import requests, csv, re, json, time, sys
 from urllib.parse import urljoin, urlparse
 H = {'User-Agent': 'Mozilla/5.0 (TerrenUrbanisme; contact@terrenurbanisme.com)'}
 rows = [(r['insee'], r['commune'], r['population'], r['etat'], r['dep']) for r in csv.DictReader(open('.github/plu/couverture-france.csv')) if r['etat'] in ('non_publie', 'inconnu')]
+import os
+if os.environ.get('DEPS') or True:
+    _d = json.load(open('.github/plu-demande.json')).get('deps')
+    if _d: rows = [r for r in rows if r[0][:2] in _d]
 rows.sort(key=lambda r: -int(r[2] or 0))
 print(len(rows), 'communes non publiées')
 def site(insee):
@@ -27,7 +31,7 @@ def one(row):
     if s:
         if not s.startswith('http'): s = 'http://' + s
         todo = [s]; seen = set(); host = urlparse(s).netloc.replace('www.', '')
-        while todo and len(seen) < 40:
+        while todo and len(seen) < 120:
             u = todo.pop(0)
             if u in seen: continue
             seen.add(u)
