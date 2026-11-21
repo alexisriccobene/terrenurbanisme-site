@@ -87,6 +87,7 @@ def audit1(c):
                 size = int(cr.split('/')[-1]) if '/' in cr and cr.split('/')[-1].isdigit() else 0
                 r['essais'][-1][2] = round(size / 1048576, 2)
                 if not head.startswith(b'%PDF'): continue
+                if size == 0: r['etat'] = 'reglement_ok'; r['url'] = url; return r
             except Exception: pass
         if st == 200 and size >= 300000: r['etat'] = 'reglement_ok'; r['url'] = url; r['taille_mo'] = round(size / 1048576, 1); return r
         if st == 200 and 0 < size < 300000:
