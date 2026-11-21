@@ -21,7 +21,10 @@ for u in os.environ['URLS'].split():
         if h.lstrip().startswith(('{', '[')):
             try:
                 J = json.loads(h)
-                r['json'] = json.dumps([{k: d.get(k) for k in ('id', 'status', 'effectiveStatus', 'legalStatus', 'uploadDate', 'originalName')} for d in J], ensure_ascii=False)[:6000] if isinstance(J, list) and J and isinstance(J[0], dict) and 'status' in J[0] else h[:6000]
+                if isinstance(J, dict) and isinstance(J.get('data'), list) and J['data'] and isinstance(J['data'][0], dict) and 'title' in J['data'][0]:
+                    r['jeux'] = [{'t': d.get('title'), 'slug': d.get('slug') or d.get('id'), 'org': (d.get('organization') or {}).get('name'), 'maj': d.get('last_update') or d.get('last_modified'), 'res': [(x.get('title'), x.get('url'), x.get('format')) for x in (d.get('resources') or [])][:8]} for d in J['data']]
+                    J = None
+                r['json'] = '' if J is None else json.dumps([{k: d.get(k) for k in ('id', 'status', 'effectiveStatus', 'legalStatus', 'uploadDate', 'originalName')} for d in J], ensure_ascii=False)[:6000] if isinstance(J, list) and J and isinstance(J[0], dict) and 'status' in J[0] else h[:6000]
             except Exception: r['json'] = h[:6000]
             if '"idu"' in h: r['idus'] = re.findall(r'"idu":"([0-9A-Z]+)"', h)[:5]
         else: r['liens'] = sorted(set(re.findall(r'href=["\']([^"\']+)', h)))[:300]; r['titre'] = (re.findall(r'<title>([^<]*)', h) or [''])[0][:120]
