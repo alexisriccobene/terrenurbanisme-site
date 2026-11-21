@@ -1,0 +1,30 @@
+name: Sources d'un PLU non publié
+# Télécharge les PDF d'une commune (plans de zonage, règlement) et son cadastre vers la branche plu-src/<insee>/
+on:
+  workflow_dispatch:
+    inputs:
+      insee: { description: "code INSEE", required: true }
+      urls: { description: "nom=url séparés par des espaces", required: false, default: "" }
+permissions: { contents: write }
+concurrency: { group: plu-src, cancel-in-progress: false }
+jobs:
+  t:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      INSEE: ${{ github.event.inputs.insee }}
+      URLS: ${{ github.event.inputs.urls }}
+    steps:
+      - run: |
+          set -u; mkdir -p out/$INSEE; cd out/$INSEE
+          D=${INSEE:0:2}
+          curl -sSfL --retry 3 -o cadastre-parcelles.json.gz "https://cadastre.data.gouv.fr/data/etalab-cadastre/latest/geojson/communes/$D/$INSEE/cadastre-$INSEE-parcelles.json.gz" && echo "cadastre OK" || echo "cadastre ERR"
+          curl -sSfL --retry 3 -o cadastre-batiments.json.gz "https://cadastre.data.gouv.fr/data/etalab-cadastre/latest/geojson/communes/$D/$INSEE/cadastre-$INSEE-batiments.json.gz" || true
+          for kv in $URLS; do n="${kv%%=*}"; u="${kv#*=}"; case "$n" in */*|..*) continue;; esac
+            curl -sSL --retry 2 --max-time 600 -A "Mozilla/5.0 (TerrenUrbanisme; contact@terrenurbanisme.com)" -o "$n" "$u" && echo "OK $n $(stat -c %s "$n") $(file -b "$n" | cut -c1-40)" || echo "ERR $n"; done
+          find . -size +95M -delete
+      - run: |
+          git init -q r && cd r && git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}"
+          git config user.name bot; git config user.email bot@users.noreply.github.com
+          git fetch -q --depth 1 origin plu-src && git checkout -q FETCH_HEAD || git checkout -q --orphan plu-src
+          rm -rf "$INSEE"; cp -r ../out/$INSEE .; git add -A && git commit -qm "Sources $INSEE [skip ci]" && git push -q origin HEAD:plu-src
