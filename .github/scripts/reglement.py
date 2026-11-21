@@ -9,7 +9,7 @@ def fail(msg):
 FN = 'https://nmoigruxnhsidrhqtzid.supabase.co/functions/v1/stripe-webhook'
 KEY = os.environ['TU_ADMIN_KEY']
 url, zone = P['url'], P['zone']
-if not re.match(r'^https://data\.geopf\.fr/', url): fail('adresse refusée : ' + url)
+if not re.match(r'^https://(data\.geopf\.fr/|nmoigruxnhsidrhqtzid\.supabase\.co/storage/v1/object/public/reglements/)', url): fail('adresse refusée : ' + url)
 
 import time, urllib.error
 def post(op, body, timeout=300):
