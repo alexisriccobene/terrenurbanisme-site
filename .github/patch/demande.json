@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "hauteur_texte.py", "demande": "hauteur-texte"}
+{"fonction": "stripe-webhook", "script": "lire_presc.py", "demande": "lire-presc"}
