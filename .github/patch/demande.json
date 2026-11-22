@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "lire_presc.py", "demande": "lire-presc"}
+{"fonction": "stripe-webhook", "script": "presc_local.py", "demande": "presc-local"}
