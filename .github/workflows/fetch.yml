@@ -1,0 +1,22 @@
+name: fetch
+on:
+  workflow_dispatch:
+    inputs:
+      list:
+        description: "nom|url séparés par des espaces"
+        required: true
+permissions:
+  contents: write
+jobs:
+  f:
+    runs-on: ubuntu-latest
+    env:
+      LIST: ${{ inputs.list }}
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: tests-rapports }
+      - run: |
+          mkdir -p fetch
+          for e in $LIST; do n="${e%%|*}"; u="${e#*|}"; curl -sSL -m 120 -A "TerrenUrbanisme/1.0" "$u" -o "fetch/$n" || true; ls -la "fetch/$n"; file "fetch/$n"; done
+          git config user.name bot; git config user.email bot@users.noreply.github.com
+          git add fetch && git commit -qm "fetch [skip ci]" && git push -q origin tests-rapports || true

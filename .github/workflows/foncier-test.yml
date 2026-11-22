@@ -1,0 +1,26 @@
+name: Foncier test rapport
+# Génère le rapport d'une demande (id dans .github/foncier/test.json) sans paiement ni e-mail, et le dépose dans tests-rapports/foncier/
+on:
+  push:
+    branches: [main]
+    paths: ['.github/foncier/test.json']
+permissions:
+  contents: write
+jobs:
+  t:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - env:
+          KEY: ${{ secrets.TU_ADMIN_KEY }}
+        run: |
+          set -euo pipefail
+          ID=$(jq -r .id .github/foncier/test.json)
+          curl -s -X POST "https://nmoigruxnhsidrhqtzid.supabase.co/functions/v1/foncier" -H "x-tu-admin: ${KEY}" -H "Content-Type: application/json" -d "{\"action\":\"generer\",\"id\":$ID,\"mail\":false,\"force\":true}" | tee r.json
+          U=$(jq -r .url r.json); [ "$U" != null ]
+          curl -sf "$U" -o rapport.pdf; ls -l rapport.pdf
+          git fetch -q origin tests-rapports && git checkout -q tests-rapports
+          mkdir -p foncier && cp rapport.pdf foncier/rapport-test.pdf && cp r.json foncier/rapport-test.json
+          git config user.name bot; git config user.email bot@users.noreply.github.com
+          git add foncier && git commit -qm "foncier test [skip ci]" && git push -q origin tests-rapports
