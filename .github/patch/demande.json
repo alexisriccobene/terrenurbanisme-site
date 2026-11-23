@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "assistant_v2.py", "demande": "assistant-v2"}
+{"fonction": "stripe-webhook", "script": "lire_np.py", "demande": "lire-np"}
