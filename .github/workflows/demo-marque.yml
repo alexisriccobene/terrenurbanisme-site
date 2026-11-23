@@ -1,0 +1,84 @@
+name: Rapport démo à la marque d'une agence
+# Déclenché par .github/demo/marque.json : applique temporairement le logo et les coordonnées de l'agence
+# au compte du gérant, génère le rapport par le circuit normal (envoi par e-mail), puis remet la marque d'origine.
+on:
+  push:
+    branches: [main]
+    paths: ['.github/demo/marque.json']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: demo-marque
+jobs:
+  demo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      SR: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+      KEY: ${{ secrets.TU_ADMIN_KEY }}
+      REF: nmoigruxnhsidrhqtzid
+    steps:
+      - uses: actions/checkout@v4
+      - uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+      - name: Préparer
+        run: |
+          set -euo pipefail
+          K=$(curl -sf -X POST "https://api.supabase.com/v1/projects/$REF/database/query" -H "Authorization: Bearer $SUPABASE_ACCESS_TOKEN" -H "Content-Type: application/json" \
+            -d '{"query":"select decrypted_secret as k from vault.decrypted_secrets where name = '\''tu_deploy_key'\'' limit 1"}' | jq -r '.[0].k')
+          [ ${#K} -eq 64 ] || { echo "::error::clé introuvable"; exit 1; }
+          printf '%s' "$K" > "$RUNNER_TEMP/k"
+          mkdir -p fn && openssl enc -d -aes-256-cbc -pbkdf2 -iter 200000 -in .github/deploy/stripe-webhook.ts.enc -out fn/index.ts -pass "file:$RUNNER_TEMP/k"; rm -f "$RUNNER_TEMP/k"
+          [ -n "${SR:-}" ] || { echo "::error::secret SUPABASE_SERVICE_ROLE_KEY absent du dépôt"; exit 1; }
+      - name: Démarrer la fonction (sans limite de calcul)
+        env:
+          SUPABASE_URL: https://nmoigruxnhsidrhqtzid.supabase.co
+          SITE_URL: https://terrenurbanisme.com
+        run: |
+          export SUPABASE_SERVICE_ROLE_KEY="$SR" ADMIN_KEY="$KEY" GITHUB_TOKEN="${{ github.token }}"
+          nohup deno run -A --no-check fn/index.ts > srv.log 2>&1 &
+          for i in $(seq 1 90); do curl -s -o /dev/null http://localhost:8000/ && break; sleep 2; done
+      - run: |
+          python3 - <<'PY'
+          import os, json, time, uuid, urllib.request, urllib.parse
+          d = json.load(open('.github/demo/marque.json'))
+          base = f"https://{os.environ['REF']}.supabase.co"
+          H = {'apikey': os.environ['SR'], 'Authorization': 'Bearer ' + os.environ['SR']}
+          def req(url, data=None, method='GET', extra=None):
+              r = urllib.request.Request(url, data=data, method=method, headers={**H, **(extra or {})})
+              with urllib.request.urlopen(r, timeout=120) as x: return x.read()
+          J = {'Content-Type': 'application/json', 'Prefer': 'return=minimal'}
+          SANS = bool(d.get('sans_marque'))
+          # Sans marque : compte gérant secondaire, qui n'a aucune marque enregistrée (rapport TerrenUrbanisme seul)
+          OWNER = '9b277484-5c9e-41dd-8ff2-a917cebca36e' if SANS else 'ca45b46d-24e0-4b79-8067-217f6b84a6ed'
+          old = None
+          if not SANS:
+              old = json.loads(req(base + '/rest/v1/marques?select=nom,type,telephone,email,site,logo_path&user_id=eq.' + OWNER))[0]
+              print('marque actuelle :', old['nom'])
+              lp = OWNER + '/demo-' + str(int(time.time() * 1000)) + '.png'
+              req(base + '/storage/v1/object/logos/' + lp, open(d['logo_fichier'], 'rb').read(), 'POST', {'Content-Type': 'image/png', 'x-upsert': 'true'})
+              req(base + '/rest/v1/marques?user_id=eq.' + OWNER, json.dumps({'nom': d['nom'], 'type': d.get('type'), 'telephone': d['tel'], 'email': d['mail'], 'site': d['site'], 'logo_path': lp}).encode(), 'PATCH', J)
+          try:
+              sid = 'demo_' + uuid.uuid4().hex[:20]
+              ref = 'TU-' + time.strftime('%Y%m%d') + '-' + sid[-6:].upper()
+              req(base + '/rest/v1/dossiers', json.dumps({'user_id': OWNER, 'stripe_session_id': sid, 'order_ref': ref, 'email': d['envoi'], 'insee': d['insee'], 'commune': d['commune'], 'section': d['section'], 'numero': d['numero'], 'amount_total': 0, 'status': 'pending', 'origine': 'demo', 'formule': d.get('formule', 'complet')}).encode(), 'POST', J)
+              r = urllib.request.Request('http://localhost:8000/?regen=' + sid, method='POST', headers={'x-tu-admin': os.environ['KEY']})
+              print(urllib.request.urlopen(r, timeout=900).read()[:200].decode())
+              st = ''
+              for i in range(90):
+                  time.sleep(10)
+                  st = json.loads(req(base + '/rest/v1/dossiers?select=status&stripe_session_id=eq.' + sid))[0]['status']
+                  if st in ('ready', 'error'): break
+              slug = json.loads(req(base + '/rest/v1/dossiers?select=download_slug&stripe_session_id=eq.' + sid))[0]['download_slug']
+              print('statut :', st, sid, 'lien : https://terrenurbanisme.com/r/' + str(slug))
+              time.sleep(20)
+          finally:
+              if old:
+                  req(base + '/rest/v1/marques?user_id=eq.' + OWNER, json.dumps(old).encode(), 'PATCH', J)
+                  print('marque d\'origine remise :', old['nom'])
+          PY
+      - if: always()
+        run: grep -v '^\s*$' srv.log | tail -30 || true
