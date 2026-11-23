@@ -1,0 +1,432 @@
+/* Version client d'un rapport : choix des rubriques, avis de valeur, photos et client (agences) */
+(function () {
+  var $ = function (id) { return document.getElementById(id); };
+  var A = window.TUAuth, id = new URLSearchParams(location.search).get('id') || '';
+  var LIB = {
+    'Identification de la parcelle': 'Localisation, surface, références cadastrales',
+    'Règles d\'urbanisme applicables': 'Document d\'urbanisme, zone, prescriptions, servitudes',
+    'Ce que vous pouvez construire': 'Règlement de la zone, surface constructible, implantation',
+    'Règles propres à la Corse': 'Loi Littoral, loi Montagne, PADDUC',
+    'Loi Littoral et loi Montagne': 'Lois d\'aménagement',
+    'Risques naturels et technologiques': 'Inondation, feu de forêt, argiles, catastrophes naturelles',
+    'Le terrain : accès, relief et réseaux': 'Accès, pente, ensoleillement, assainissement, électricité, eau, fibre',
+    'Valeur de marché': 'Fourchette de prix d\'après les ventes publiées',
+    'Conditions de vente du terrain': 'Terrain agricole : SAFER, fermier en place',
+    'Environnement et marché immobilier': 'Espaces naturels et ventes immobilières alentour',
+    'Historique du site': 'Photos aériennes depuis 1950, permis accordés autour',
+    'Opportunités autour du terrain': 'Grands terrains peu bâtis, logements énergivores',
+    'Votre projet, étape par étape': 'Démarches, délais, coûts des études, taxe d\'aménagement',
+    'État des risques (ERP) pré-rempli': 'Formulaire réglementaire',
+    'Professionnels recommandés': 'Professionnels partenaires de la commune'
+  };
+  // Ce que le client ne verra plus si la rubrique est décochée
+  var DEL = {
+    'Identification de la parcelle': 'la fiche de la parcelle, les plans de situation et la vue aérienne',
+    'Règles d\'urbanisme applicables': 'la zone du PLU, le plan de zonage, les prescriptions et les servitudes',
+    'Ce que vous pouvez construire': 'les règles de la zone, la surface constructible et le plan d\'implantation',
+    'Règles propres à la Corse': 'la loi Littoral, la loi Montagne et le PADDUC',
+    'Loi Littoral et loi Montagne': 'la distance au rivage et les règles des lois Littoral et Montagne',
+    'Risques naturels et technologiques': 'la carte des risques et les arrêtés de catastrophe naturelle',
+    'Le terrain : accès, relief et réseaux': 'l\'accès, la pente, l\'ensoleillement, l\'assainissement et les raccordements',
+    'Valeur de marché': 'le détail des ventes et l\'évolution des prix (notre fourchette reste rappelée à côté de votre prix)',
+    'Conditions de vente du terrain': 'les règles SAFER et les droits du fermier en place',
+    'Environnement et marché immobilier': 'les espaces naturels, les espèces protégées et les ventes alentour',
+    'Historique du site': 'les photos aériennes depuis 1950 et les permis accordés autour',
+    'Opportunités autour du terrain': 'la liste des grands terrains peu bâtis et des logements énergivores',
+    'Votre projet, étape par étape': 'les démarches, les délais, le coût des études et la taxe d\'aménagement',
+    'État des risques (ERP) pré-rempli': 'le formulaire d\'état des risques à joindre à la vente',
+    'Professionnels recommandés': 'la liste des professionnels partenaires'
+  };
+  // Aperçu des pages retirées : les pages de chaque rubrique sont repérées dans le PDF du rapport
+  var PV = { doc: null, map: null, p: null, cache: {} };
+  function nrm(t) { return String(t || '').toLowerCase().replace(/[\u2019']/g, '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]/g, ''); }
+  function loadPV() {
+    if (PV.p) return PV.p;
+    if (!MAIL.slug) return Promise.reject(new Error('slug'));
+    PV.p = import('/assets/pdfjs/pdf.min.mjs').then(function (lib) {
+      lib.GlobalWorkerOptions.workerSrc = '/assets/pdfjs/pdf.worker.min.mjs';
+      return lib.getDocument({ url: '/rapport/' + encodeURIComponent(MAIL.slug) + '.pdf', isEvalSupported: false }).promise;
+    }).then(function (doc) {
+      PV.doc = doc;
+      var titles = Object.keys(LIB).sort(function (a, b) { return b.length - a.length; }).map(function (t) { return [t, nrm(t)]; });
+      var STOP = [[null, 'sommaire'], [null, 'synthese'], [null, 'recommandationdelagence'], [null, 'avertissementetsources'], [null, 'annexe']];
+      var map = { especes: [], subs: {}, ordre: [] }, cur = null, n = 0;
+      function next() {
+        if (++n > doc.numPages) {
+          // Pages de chaque sous-rubrique : de son titre jusqu'au titre suivant (ou la fin de la partie)
+          Object.keys(map.subs).forEach(function (t) {
+            var L = map.subs[t].slice().sort(function (a, b) { return a.p - b.p; }), cp = map[t] || [], last = cp.length ? cp[cp.length - 1] : 0;
+            L.forEach(function (x, i) { var nx = L[i + 1], end = nx ? (nx.p > x.p ? nx.p - 1 : x.p) : Math.max(x.p, last), pg = []; for (var q = x.p; q <= end; q++) pg.push(q); map['sub|' + t + '|' + x.t] = pg; });
+          });
+          PV.map = map; return map;
+        }
+        return doc.getPage(n).then(function (pg) {
+          return pg.getTextContent().then(function (tc) {
+            var h = pg.view[3], top = '', all = '';
+            tc.items.forEach(function (it) { var y = it.transform ? it.transform[5] : 0; all += it.str; if (y > h - 190) top += it.str; });
+            var nt = nrm(top);
+            // Le titre de rubrique placé le plus haut sur la page (bandeau de la rubrique en cours) l'emporte
+            var bi = 1e9, bt;
+            titles.concat(STOP).forEach(function (x) { var i = nt.indexOf(x[1]); if (i >= 0 && i < bi) { bi = i; bt = x[0]; } });
+            if (bt !== undefined) cur = bt;
+            if (cur) {
+              if (map.ordre.indexOf(cur) < 0) map.ordre.push(cur);
+              // Sous-rubriques : numéro « 4.2 » en gros caractères suivi du titre sur la même ligne
+              var its = tc.items;
+              for (var k = 0; k < its.length; k++) {
+                var it = its[k], ns = String(it.str || '').trim();
+                if (!/^\d{1,2}\.\d{1,2}$/.test(ns) || !it.transform || Math.abs(it.transform[0]) < 12) continue;
+                var yy = it.transform[5], tt = '';
+                for (var q = k + 1; q < its.length; q++) { var jt = its[q]; if (!jt.transform || Math.abs(jt.transform[5] - yy) > 2) { if (tt.trim()) break; continue; } tt += jt.str; }
+                tt = tt.trim();
+                if (tt) { var SL = (map.subs[cur] = map.subs[cur] || []); if (!SL.some(function (x) { return x.t === tt; })) SL.push({ n: ns, t: tt, p: n }); }
+              }
+            }
+            if (!map.tu) {
+              var at = tc.items.map(function (i) { return i.str; }).join(' ').replace(/[\u00a0\u202f]/g, ' ');
+              var mm = at.match(/Fourchette estim[ée]e du terrain\s*([\d ]{3,14})\s*€\s*à\s*([\d ]{3,14})\s*€\s*Valeur centrale\s*([\d ]{3,14})\s*€/);
+              if (mm) map.tu = { lo: mm[1].trim(), hi: mm[2].trim(), mid: mm[3].trim() };
+            }
+            if (cur) { (map[cur] = map[cur] || []).push(n); if (cur === 'Environnement et marché immobilier' && /especesprotegees/.test(nrm(all))) map.especes.push(n); }
+            return next();
+          });
+        });
+      }
+      return next();
+    });
+    return PV.p;
+  }
+  function thumb(n) {
+    if (PV.cache[n]) return Promise.resolve(PV.cache[n]);
+    return PV.doc.getPage(n).then(function (pg) {
+      var v0 = pg.getViewport({ scale: 1 }), sc = 220 / v0.width, v = pg.getViewport({ scale: sc });
+      var c = document.createElement('canvas'); c.width = v.width; c.height = v.height;
+      return pg.render({ canvasContext: c.getContext('2d'), viewport: v }).promise.then(function () { PV.cache[n] = c.toDataURL('image/jpeg', 0.8); return PV.cache[n]; });
+    });
+  }
+  // Grand aperçu d'une page retirée (clic sur la miniature)
+  var LB = { pages: [], i: 0 };
+  function big(n) {
+    return PV.doc.getPage(n).then(function (pg) {
+      var v0 = pg.getViewport({ scale: 1 }), sc = Math.min(2.2, 1500 / v0.width), v = pg.getViewport({ scale: sc });
+      var c = document.createElement('canvas'); c.width = v.width; c.height = v.height;
+      return pg.render({ canvasContext: c.getContext('2d'), viewport: v }).promise.then(function () { return c.toDataURL('image/jpeg', 0.88); });
+    });
+  }
+  function lbShow() {
+    var n = LB.pages[LB.i]; $('ps-lb-t').textContent = 'Page ' + n + ' · ' + (LB.i + 1) + ' sur ' + LB.pages.length;
+    $('ps-lb-prev').disabled = LB.i === 0; $('ps-lb-next').disabled = LB.i === LB.pages.length - 1;
+    $('ps-lb-i').src = PV.cache[n] || ''; $('ps-lb-i').alt = 'Page ' + n;
+    big(n).then(function (src) { if (LB.pages[LB.i] === n) $('ps-lb-i').src = src; });
+  }
+  function lbOpen(pages, n) { LB.pages = pages; LB.i = Math.max(0, pages.indexOf(n)); $('ps-lb').hidden = false; document.body.style.overflow = 'hidden'; lbShow(); $('ps-lb-x').focus(); }
+  function lbClose() { $('ps-lb').hidden = true; document.body.style.overflow = ''; }
+  document.addEventListener('DOMContentLoaded', function () {
+    if (!$('ps-lb')) return;
+    $('ps-lb-x').addEventListener('click', lbClose);
+    $('ps-lb-prev').addEventListener('click', function () { if (LB.i > 0) { LB.i--; lbShow(); } });
+    $('ps-lb-next').addEventListener('click', function () { if (LB.i < LB.pages.length - 1) { LB.i++; lbShow(); } });
+    $('ps-lb').addEventListener('click', function (e) { if (e.target === $('ps-lb') || e.target.className === 'ps-lb-img') lbClose(); });
+    document.addEventListener('keydown', function (e) { if ($('ps-lb').hidden) return; if (e.key === 'Escape') lbClose(); if (e.key === 'ArrowLeft') $('ps-lb-prev').click(); if (e.key === 'ArrowRight') $('ps-lb-next').click(); });
+  });
+  function showPV(box, key) {
+    box.hidden = false; box.innerHTML = '<p class="ps-pv-t">Chargement de l\'aperçu…</p>';
+    loadPV().then(function (map) {
+      var pages = map[key] || [];
+      if (!pages.length) { box.innerHTML = '<p class="ps-pv-t">Cette rubrique ne figure pas dans le rapport de ce terrain.</p>'; return; }
+      var shown = pages.slice(0, 8);
+      box.innerHTML = '<p class="ps-pv-t">' + (pages.length > 1 ? pages.length + ' pages retirées (p. ' + pages[0] + ' à ' + pages[pages.length - 1] + ')' : '1 page retirée (p. ' + pages[0] + ')') + '</p><div class="ps-pv-g">' + shown.map(function (n) { return '<figure data-n="' + n + '" tabindex="0" role="button" aria-label="Agrandir la page ' + n + '"><span>p. ' + n + '</span></figure>'; }).join('') + (pages.length > 8 ? '<figure class="more"><span>+ ' + (pages.length - 8) + '</span></figure>' : '') + '</div>';
+      box.querySelectorAll('figure[data-n]').forEach(function (f) {
+        var go = function () { lbOpen(pages, Number(f.getAttribute('data-n'))); };
+        f.addEventListener('click', function (e) { e.preventDefault(); e.stopPropagation(); go(); });
+        f.addEventListener('keydown', function (e) { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); go(); } });
+      });
+      shown.reduce(function (pr, n) { return pr.then(function () { return thumb(n).then(function (src) { var f = box.querySelector('figure[data-n="' + n + '"]'); if (f) f.insertAdjacentHTML('afterbegin', '<img alt="Page ' + n + '" src="' + src + '">'); }); }); }, Promise.resolve());
+    }).catch(function () { box.innerHTML = '<p class="ps-pv-t">L\'aperçu n\'est pas disponible pour ce rapport.</p>'; });
+  }
+  function drawCk() {
+    var env = document.querySelector('[data-ch="Environnement et marché immobilier"]'), esp = document.querySelector('[data-sans="especes"]');
+    if (esp) { esp.disabled = !!(env && !env.checked); if (esp.disabled) esp.checked = false; }
+    var off = [];
+    document.querySelectorAll('#ps-ch .ps-ck:not(.ps-sub)').forEach(function (l) {
+      var c = l.querySelector('input'), o = l.querySelector('.ps-off'), t = c.getAttribute('data-ch') || 'Espèces protégées observées autour';
+      l.classList.toggle('is-off', !c.checked);
+      if (!c.checked) off.push(t);
+      o.textContent = c.checked ? '' : (c.disabled ? 'Retiré avec la rubrique Environnement et marché immobilier.' : 'Retiré du rapport : ' + (c.getAttribute('data-sans') ? 'la liste des espèces protégées et le coût des études écologiques' : DEL[t] || 'cette rubrique') + '.');
+    });
+    document.querySelectorAll('#ps-ch .ps-pv').forEach(function (box) {
+      var key = box.getAttribute('data-pv'), c = box.previousElementSibling && box.previousElementSibling.querySelector('input');
+      if (!c || c.checked || c.disabled || !MAIL.slug) { box.hidden = true; box.innerHTML = ''; box.dataset.on = ''; return; }
+      if (box.dataset.on) return;
+      box.dataset.on = '1'; showPV(box, key);
+    });
+    var nsub = 0;
+    document.querySelectorAll('#ps-ch [data-sous]').forEach(function (c) {
+      var par = document.querySelector('[data-ch="' + c.getAttribute('data-par').replace(/"/g, '\\"') + '"]');
+      c.disabled = !!(par && !par.checked);
+      var l = c.closest('label'); l.classList.toggle('is-off', !c.checked || c.disabled);
+      if (!c.checked && !c.disabled) nsub++;
+    });
+    var r = $('ps-off-sum'); if (r) r.textContent = off.length ? off.length + ' rubrique' + (off.length > 1 ? 's retirées' : ' retirée') + ' de la version client : ' + off.join(', ') + '.' : 'Toutes les rubriques sont incluses dans la version client.';
+    if (r && nsub) r.textContent += ' ' + nsub + ' sous-rubrique' + (nsub > 1 ? 's retirées' : ' retirée') + '.';
+  }
+  var photos = []; // { path, url }
+  function msg(t, kind) { var m = $('ps-msg'); m.className = 'ps-msg' + (kind ? ' ps-' + kind : ''); m.textContent = t || ''; }
+  function call(body) {
+    return A.client.functions.invoke('stripe-webhook', { body: body }).then(function (r) {
+      if (r.error) return (r.error.context && r.error.context.json ? r.error.context.json() : Promise.resolve({})).then(function (j) { var e = new Error(j && j.error || 'erreur'); e.code = j && j.error; throw e; });
+      return r.data;
+    });
+  }
+  function drawPhotos() {
+    $('ps-ph').innerHTML = photos.map(function (p, i) { return '<div><img src="' + p.url + '" alt=""><button type="button" data-i="' + i + '">Retirer</button></div>'; }).join('');
+    $('ps-ph').querySelectorAll('button').forEach(function (b) { b.addEventListener('click', function () { photos.splice(+b.getAttribute('data-i'), 1); drawPhotos(); }); });
+  }
+  // Photo réduite à 1600 px (JPEG) avant envoi
+  function shrink(file) {
+    return new Promise(function (res, rej) {
+      var img = new Image(), u = URL.createObjectURL(file);
+      img.onload = function () {
+        var k = Math.min(1, 1600 / Math.max(img.width, img.height)), c = document.createElement('canvas');
+        c.width = Math.round(img.width * k); c.height = Math.round(img.height * k);
+        c.getContext('2d').drawImage(img, 0, 0, c.width, c.height); URL.revokeObjectURL(u);
+        c.toBlob(function (b) { b ? res(b) : rej(new Error('photo')); }, 'image/jpeg', 0.85);
+      };
+      img.onerror = function () { URL.revokeObjectURL(u); rej(new Error('photo')); };
+      img.src = u;
+    });
+  }
+  var MAIL = { url: '', ref: '', agent: '', cl: {} };
+  function nomClient(c) { return [c.civ || '', c.nom || c.prenom || ''].join(' ').trim(); }
+  function drawMail() {
+    var f = $('ps-form'), c = { civ: f.civ.value, prenom: f.prenom.value.trim(), nom: f.nom.value.trim(), email: f.email.value.trim() };
+    if (!$('ps-to').dataset.edit) $('ps-to').value = c.email;
+    if (!$('ps-obj').dataset.edit) $('ps-obj').value = 'Votre rapport d\'urbanisme et avis de valeur' + (MAIL.ref ? ' · ' + MAIL.ref : '');
+    var sal = c.civ === 'Mme' ? 'Madame' : c.civ === 'M.' ? 'Monsieur' : c.civ === 'M. et Mme' ? 'Madame, Monsieur' : '';
+    var who = sal ? sal + (c.civ === 'M. et Mme' ? '' : ' ' + (c.nom || c.prenom)) : (c.prenom || c.nom || '');
+    if (!$('ps-body').dataset.edit) $('ps-body').value = 'Bonjour' + (who ? ' ' + who : '') + ',\n\nVeuillez trouver ci-dessous le rapport d\'urbanisme détaillé de votre bien, accompagné de notre avis de valeur :\n\n' + (MAIL.url || '[le lien apparaîtra ici après la génération]') + '\n\nNous restons à votre entière disposition pour en échanger.\n\nBien cordialement,';
+    var to = $('ps-to').value.trim(), body = $('ps-body').value;
+    $('ps-mail').href = 'mailto:' + encodeURIComponent(to).replace(/%40/g, '@') + '?subject=' + encodeURIComponent($('ps-obj').value) + '&body=' + encodeURIComponent(body);
+  }
+  // Fiche du bien selon le type : champs, état et atouts adaptés, désignation écrite automatiquement
+  var TYP = {
+    terrain: { etatL: 'Nature du terrain', etat: [['plat', 'Plat'], ['pente_douce', 'En pente douce'], ['pente', 'En forte pente'], ['boise', 'Boisé'], ['debroussailler', 'À débroussailler'], ['rocheux', 'Rocheux']],
+      atouts: ['Vue mer', 'Vue montagne', 'Vue dégagée', 'Viabilisé', 'Tout-à-l\'égout', 'Eau et électricité à proximité', 'Accès goudronné', 'Rochers', 'Arbres', 'Sans vis-à-vis', 'Calme', 'Proche plage', 'Proche commerces'] },
+    maison: { etatL: 'État général', atouts: ['Piscine', 'Vue mer', 'Vue dégagée', 'Jardin', 'Terrasse', 'Garage', 'Plain-pied', 'Climatisation', 'Cuisine équipée', 'Tout-à-l\'égout', 'Sans vis-à-vis', 'Calme', 'Proche plage', 'Proche commerces'] },
+    appartement: { etatL: 'État général', atouts: ['Vue mer', 'Balcon', 'Terrasse', 'Ascenseur', 'Parking', 'Garage', 'Cave', 'Dernier étage', 'Lumineux', 'Climatisation', 'Calme', 'Proche plage', 'Proche commerces'] },
+    autre: { etatL: 'État général', atouts: ['Vue mer', 'Vue dégagée', 'Terrasse', 'Parking', 'Climatisation', 'Calme', 'Proche commerces'] }
+  };
+  var ETAT_B = [['neuf', 'Neuf ou récent'], ['tres_bon', 'Très bon état'], ['bon', 'Bon état'], ['rafraichir', 'À rafraîchir'], ['renover', 'À rénover']];
+  function curAtouts() { return Array.prototype.slice.call(document.querySelectorAll('#ps-at input:checked')).map(function (c) { return c.value; }); }
+  function vis(k) { var el = $('ps-form')[k], l = el && el.closest('[data-t]'); return l && l.hidden ? '' : String(el.value || '').trim(); }
+  function applyType(keep) {
+    var f = $('ps-form'), t = f.type.value, T = TYP[t];
+    document.querySelectorAll('#ps-form [data-t]').forEach(function (el) { el.hidden = !t || el.getAttribute('data-t').split(' ').indexOf(t) < 0; });
+    if (!T) { $('ps-at').innerHTML = ''; return; }
+    var old = f.etat.value, opts = T.etat || ETAT_B;
+    $('ps-etat-l').textContent = T.etatL;
+    f.etat.innerHTML = '<option value="">— Non précisé</option>' + opts.map(function (o) { return '<option value="' + o[0] + '">' + o[1] + '</option>'; }).join('');
+    if (opts.some(function (o) { return o[0] === old; })) f.etat.value = old;
+    $('ps-at').innerHTML = T.atouts.map(function (a) { return '<label><input type="checkbox" value="' + a.replace(/"/g, '&quot;') + '"' + ((keep || []).indexOf(a) >= 0 ? ' checked' : '') + '><span>' + a + '</span></label>'; }).join('');
+  }
+  function drawDes() {
+    var f = $('ps-form'), t = f.type.value; if (f.designation.dataset.edit) return;
+    if (!t) { f.designation.value = ''; return; }
+    var n = function (k) { var v = vis(k); return v ? Number(String(v).replace(/[^0-9]/g, '')).toLocaleString('fr-FR') : ''; };
+    var opt = f.etat.options[f.etat.selectedIndex], et = f.etat.value && opt ? opt.text.toLowerCase() : '';
+    var at = curAtouts().map(function (a) { return a.charAt(0).toLowerCase() + a.slice(1); });
+    var lst = function (a) { return a.length > 1 ? a.slice(0, -1).join(', ') + ' et ' + a[a.length - 1] : a[0] || ''; };
+    var s1;
+    if (t === 'terrain') {
+      s1 = 'Terrain' + (et ? ' ' + et : '') + (n('sterrain') ? ' de ' + n('sterrain') + ' m²' : '') + '.';
+      if (at.length) s1 += ' ' + lst(at).charAt(0).toUpperCase() + lst(at).slice(1) + '.';
+    } else {
+      var nom = { maison: 'Maison', appartement: 'Appartement', autre: 'Bien' }[t], fem = t === 'maison';
+      s1 = nom + (n('shab') ? ' de ' + n('shab') + ' m²' : '') + (n('sterrain') ? ' sur un terrain de ' + n('sterrain') + ' m²' : '');
+      var pc = vis('pieces'), ch = vis('chambres');
+      if (pc) s1 += ', ' + pc + ' pièce' + (pc > 1 ? 's' : '') + (ch ? ' dont ' + ch + ' chambre' + (ch > 1 ? 's' : '') : '');
+      else if (ch) s1 += ', ' + ch + ' chambre' + (ch > 1 ? 's' : '');
+      s1 += '.';
+      var s2 = [];
+      if (vis('annee')) s2.push((fem ? 'Construite' : 'Construit') + ' en ' + vis('annee'));
+      if (et) s2.push(et);
+      if (vis('dpe')) s2.push('DPE classe ' + vis('dpe'));
+      if (s2.length) s1 += ' ' + s2.join(', ').charAt(0).toUpperCase() + s2.join(', ').slice(1) + '.';
+      if (at.length) s1 += ' Atouts : ' + lst(at) + '.';
+    }
+    f.designation.value = s1;
+  }
+  // Calcul affiché à l'agent : prix net vendeur, honoraires, prix attendu
+  var LASTNET = false;
+  function num(v) { return Number(String(v || '').replace(/[^0-9]/g, '')) || 0; }
+  function fmtN(v) { return v ? Math.round(v).toLocaleString('fr-FR').replace(/[  ]/g, ' ') : ''; }
+  // Prix recommandé (honoraires inclus) et prix net vendeur : l'un se calcule depuis l'autre
+  function syncPrix(src) {
+    var f = $('ps-form'), h = Number(String(f.hono.value).replace(',', '.')) || 0;
+    if (src === 'net') LASTNET = true; else if (src === 'conseille') LASTNET = false;
+    if (!h) return;
+    if (LASTNET) { var n = num(f.net.value); if (n) f.conseille.value = fmtN(Math.round(n * (1 + h / 100) / 100) * 100); }
+    else { var pc = num(f.conseille.value); if (pc) f.net.value = fmtN(Math.round(pc / (1 + h / 100) / 100) * 100); }
+  }
+  function drawCalc() {
+    var f = $('ps-form'), box = $('ps-calc'); if (!box) return;
+    var pc = num(f.conseille.value), h = Number(String(f.hono.value).replace(',', '.')) || 0, net = num(f.net.value);
+    if (!pc || !h) { box.hidden = true; return; }
+    if (!net) net = Math.round(pc / (1 + h / 100) / 100) * 100;
+    var e = function (v) { return fmtN(v) + ' €'; };
+    box.innerHTML = 'Prix de présentation : <b>' + e(pc) + '</b>, honoraires inclus<br>Honoraires : ' + e(pc - net) + ' (' + String(h).replace('.', ',') + ' %) à la charge ' + (f.hono_charge.value === 'acquereur' ? 'de l\'acquéreur' : 'du vendeur') + '<br>Prix net vendeur : <b>' + e(net) + '</b>';
+    box.hidden = false;
+  }
+  function showSend(url) {
+    MAIL.url = url || MAIL.url; $('ps-send').hidden = false; drawMail();
+  }
+  function start(u) {
+    if (!u) { location.href = A.loginUrl(); return; }
+    if (!id) { $('ps-load').textContent = 'Rapport introuvable.'; return; }
+    call({ action: 'apercu_dossier', id: id }).then(function (r) {
+      $('ps-load').hidden = true; $('ps-app').hidden = false;
+      if (r.view) { $('ps-frame').src = r.view; $('ps-open').href = r.view; }
+      var P = r.perso || {}, f = $('ps-form');
+      A.client.from('dossiers').select('commune,section,numero,agent,download_slug').eq('id', id).maybeSingle().then(function (q) { var d = q.data || {}; MAIL.slug = d.download_slug || ''; drawCk(); if (d.download_slug && !r.client) $('ps-open').href = '/r/' + d.download_slug; MAIL.ref = [d.commune, d.section, d.numero].filter(Boolean).join(' '); MAIL.agent = d.agent || ''; drawMail(); });
+      ['ps-to', 'ps-obj', 'ps-body'].forEach(function (k) { $(k).addEventListener('input', function () { $(k).dataset.edit = '1'; drawMail(); }); });
+      ['civ', 'prenom', 'nom', 'email'].forEach(function (k) { f[k].addEventListener('input', drawMail); f[k].addEventListener('change', drawMail); });
+      $('ps-mail').addEventListener('click', function () { var to = $('ps-to').value.trim(); A.client.rpc('dossier_envoi', { p_id: id, p_email: to }).then(function () { $('ps-smsg').textContent = 'Envoi enregistré le ' + new Date().toLocaleDateString('fr-FR') + (to ? ' pour ' + to : '') + '. Il apparaît dans votre back-office.'; }); });
+      $('ps-copy').addEventListener('click', function () { var t = $('ps-body').value; var ok = function () { $('ps-copy').textContent = 'Message copié'; }; if (navigator.clipboard) navigator.clipboard.writeText(t).then(ok, function () { $('ps-body').select(); }); else $('ps-body').select(); });
+      if (new URLSearchParams(location.search).get('neuf')) msg('Votre rapport est prêt. Choisissez les rubriques, ajoutez votre prix et vos photos, puis générez la version de votre client.', 'ok');
+      var cl = P.client || {}, rc = P.reco || {};
+      ['civ', 'prenom', 'nom', 'email', 'tel'].forEach(function (k) { if (cl[k]) f[k].value = cl[k]; });
+      ['type', 'bas', 'haut', 'conseille', 'commentaire', 'hono', 'hono_charge', 'net'].forEach(function (k) { if (rc[k]) f[k].value = rc[k]; }); if (rc.net_saisi) LASTNET = true;
+      var fi = rc.fiche || {};
+      applyType(fi.atouts || []);
+      ['shab', 'sterrain', 'pieces', 'chambres', 'annee', 'dpe', 'etat'].forEach(function (k) { if (fi[k]) f[k].value = fi[k]; });
+      if (rc.designation) { f.designation.value = rc.designation; f.designation.dataset.edit = '1'; $('ps-des-auto').hidden = false; } else drawDes();
+      f.type.addEventListener('change', function () { applyType(curAtouts()); drawDes(); });
+      ['etat', 'shab', 'sterrain', 'pieces', 'chambres', 'annee', 'dpe'].forEach(function (k) { f[k].addEventListener('input', drawDes); f[k].addEventListener('change', drawDes); });
+      $('ps-at').addEventListener('change', drawDes);
+      f.designation.addEventListener('input', function () { f.designation.dataset.edit = '1'; $('ps-des-auto').hidden = false; });
+      $('ps-des-auto').addEventListener('click', function () { f.designation.dataset.edit = ''; $('ps-des-auto').hidden = true; drawDes(); });
+      if (rc.alerte === false) f.alerte.checked = false;
+      ['conseille', 'hono', 'net'].forEach(function (k) { f[k].addEventListener('input', function () { syncPrix(k); drawCalc(); }); });
+      f.hono_charge.addEventListener('change', drawCalc);
+      ['bas', 'haut', 'conseille', 'net'].forEach(function (k) { f[k].addEventListener('blur', function () { var n = num(f[k].value); f[k].value = n ? fmtN(n) : ''; }); });
+      ['bas', 'haut', 'conseille', 'net'].forEach(function (k) { var n = num(f[k].value); if (n) f[k].value = fmtN(n); });
+      drawCalc();
+      var exc = P.exclure || [], sans = P.sans || [];
+      var html = (r.chapitres || Object.keys(LIB)).map(function (t) {
+        var sub = '';
+        return '<label class="ps-ck"><input type="checkbox" data-ch="' + t.replace(/"/g, '&quot;') + '"' + (exc.indexOf(t) >= 0 ? '' : ' checked') + '><span>' + t + '<small>' + (LIB[t] || '') + '</small><em class="ps-off"></em></span></label><div class="ps-pv" data-pv="' + t.replace(/"/g, '&quot;') + '"></div>' + sub;
+      }).join('');
+      $('ps-ch').innerHTML = html + '<p style="color:var(--muet);font-size:13px;margin:10px 0 0">La synthèse, l\'avertissement et les sources restent toujours présents. Une rubrique absente de ce terrain n\'apparaît pas.</p><p class="ps-sum" id="ps-off-sum"></p>';
+      $('ps-ch').addEventListener('change', drawCk); drawCk();
+      var SOUS0 = P.sous || [];
+      (function subsWhenReady() {
+        if (!MAIL.slug) { setTimeout(subsWhenReady, 400); return; }
+        loadPV().then(function (map) {
+          // Surface du terrain reprise automatiquement de la page de garde du rapport (surface cadastrale)
+          var ff = $('ps-form');
+          if (ff.sterrain && !ff.sterrain.value && PV.doc) PV.doc.getPage(1).then(function (pg) { return pg.getTextContent(); }).then(function (tc) {
+            var tx = tc.items.map(function (i) { return i.str; }).join(' ').replace(/[\u00a0\u202f]/g, ' ');
+            var m = tx.match(/Surface cadastrale\s*([\d ]{1,12})\s*m/);
+            if (m && !ff.sterrain.value) { ff.sterrain.value = m[1].replace(/\s/g, ''); ff.sterrain.dispatchEvent(new Event('input')); }
+          }).catch(function () {});
+          if (map.tu) {
+            var tb = $('ps-tu');
+            if (tb) { tb.innerHTML = '<span>Fourchette calculée par TerrenUrbanisme</span><b>' + map.tu.lo + ' € à ' + map.tu.hi + ' €</b><em>Valeur centrale ' + map.tu.mid + ' € · d\'après les ventes réelles du secteur. Elle figure toujours dans le rapport, avant votre avis.</em>'; tb.hidden = false; }
+            if (!ff.bas.value && !ff.haut.value && !ff.conseille.value) { ff.bas.value = map.tu.lo; ff.haut.value = map.tu.hi; ff.conseille.value = map.tu.mid; ff.conseille.dispatchEvent(new Event('input')); }
+          }
+          // Rubriques absentes du rapport de ce terrain (ex. aucun professionnel partenaire) : retirées de la liste
+          if (map.ordre.length >= 5) document.querySelectorAll('#ps-ch [data-ch]').forEach(function (c) {
+            var t0 = c.getAttribute('data-ch'); if ((map[t0] || []).length) return;
+            var lab = c.closest('label'); c.checked = true; lab.hidden = true;
+            var pv = lab.nextElementSibling; if (pv && pv.classList.contains('ps-pv')) pv.remove();
+          });
+          map.ordre.forEach(function (t, i) {
+            var c = document.querySelector('[data-ch="' + t.replace(/"/g, '\\"') + '"]'); if (!c) return;
+            var lab = c.closest('label'), subs = map.subs[t] || [];
+            var num = subs.length ? subs[0].n.split('.')[0] : String(i + 1);
+            lab.querySelector('span').insertAdjacentHTML('afterbegin', '<b class="ps-n">Partie ' + num + '</b>');
+            if (!subs.length) return;
+            var pv = lab.nextElementSibling && lab.nextElementSibling.classList.contains('ps-pv') ? lab.nextElementSibling : lab;
+            var key = function (x) { return t + '|' + x.t; };
+            var off = subs.filter(function (x) { return SOUS0.indexOf(key(x)) >= 0; }).length;
+            lab.classList.add('ps-has');
+            pv.insertAdjacentHTML('afterend', '<div class="ps-grp"><button type="button" class="ps-tg" aria-expanded="false"><span class="ps-ar">▸</span> ' + subs.length + ' sous-rubrique' + (subs.length > 1 ? 's' : '') + (off ? ' · ' + off + ' retirée' + (off > 1 ? 's' : '') : '') + '</button><div class="ps-subs" hidden>' + subs.map(function (x) {
+              return '<label class="ps-ck ps-sub"><input type="checkbox" data-sous="' + key(x).replace(/"/g, '&quot;') + '" data-par="' + t.replace(/"/g, '&quot;') + '"' + (SOUS0.indexOf(key(x)) >= 0 ? '' : ' checked') + '><span><b class="ps-sn">' + x.n + '</b>' + x.t.replace(/</g, '&lt;') + '</span></label><div class="ps-pv ps-pv-sub" data-pv="' + ('sub|' + key(x)).replace(/"/g, '&quot;') + '" hidden></div>';
+            }).join('') + '</div></div>');
+            var tg = pv.nextElementSibling.firstElementChild, box = tg.nextElementSibling;
+            tg.addEventListener('click', function () { box.hidden = !box.hidden; tg.setAttribute('aria-expanded', String(!box.hidden)); tg.querySelector('.ps-ar').textContent = box.hidden ? '▸' : '▾'; });
+            if (off) { box.hidden = false; tg.setAttribute('aria-expanded', 'true'); tg.querySelector('.ps-ar').textContent = '▾'; }
+          });
+          drawCk();
+        }).catch(function () {});
+      })();
+      (P.photos || []).forEach(function (path) { A.client.storage.from('perso').createSignedUrl(path, 3600).then(function (s) { if (s.data) { photos.push({ path: path, url: s.data.signedUrl }); drawPhotos(); } }); });
+      if (r.client) { $('ps-frame').src = r.client.view; $('ps-open').href = r.client.court ? r.client.court + '?a=1' : r.client.view; $('ps-dl').href = r.client.url; $('ps-dl').hidden = false; showSend(r.client.court || r.client.url); $('ps-pt').textContent = 'Dernière version client'; $('ps-ps').textContent = 'Modifiez les réglages puis générez à nouveau si besoin.'; }
+      if (!r.pret) msg('Ce rapport a été généré avant la mise en place de la version client. Générez un nouveau rapport sur cette parcelle pour pouvoir le personnaliser.', 'err');
+    }).catch(function () { $('ps-load').textContent = 'Ce rapport n\'est pas accessible depuis votre compte.'; });
+    $('ps-files').addEventListener('change', function (e) {
+      var files = Array.prototype.slice.call(e.target.files || []).slice(0, 8 - photos.length); e.target.value = '';
+      if (!files.length) return;
+      msg('Envoi des photos…');
+      Promise.all(files.map(function (file, i) {
+        return shrink(file).then(function (b) {
+          var path = u.id + '/' + id + '/' + Date.now() + '-' + i + '.jpg';
+          return A.client.storage.from('perso').upload(path, b, { contentType: 'image/jpeg' }).then(function (r) { if (r.error) throw r.error; photos.push({ path: path, url: URL.createObjectURL(b) }); });
+        });
+      })).then(function () { drawPhotos(); msg(''); }).catch(function () { drawPhotos(); msg('Une photo n\'a pas pu être envoyée. Réessayez avec une photo au format JPEG ou PNG.', 'err'); });
+    });
+    $('ps-form').addEventListener('submit', function (e) {
+      e.preventDefault();
+      var f = e.target, bt = $('ps-go');
+      var body = { action: 'personnaliser', id: id,
+        client: { civ: f.civ.value, prenom: f.prenom.value.trim(), nom: f.nom.value.trim(), email: f.email.value.trim(), tel: f.tel.value.trim() },
+        reco: { type: f.type.value, designation: f.designation.value.trim(), alerte: f.alerte.checked, hono: f.hono.value.trim(), hono_charge: f.hono_charge.value, net: f.hono.value.trim() ? String(num(f.net.value) || '') : '', net_saisi: LASTNET,
+          fiche: f.type.value ? { shab: vis('shab'), sterrain: vis('sterrain'), pieces: vis('pieces'), chambres: vis('chambres'), annee: vis('annee'), dpe: vis('dpe'), etat: f.etat.value, atouts: curAtouts() } : null, bas: f.bas.value.trim(), haut: f.haut.value.trim(), conseille: f.conseille.value.trim(), commentaire: f.commentaire.value.trim() },
+        photos: photos.map(function (p) { return p.path; }),
+        exclure: Array.prototype.slice.call(document.querySelectorAll('[data-ch]')).filter(function (c) { return !c.checked; }).map(function (c) { return c.getAttribute('data-ch'); }),
+        sans: Array.prototype.slice.call(document.querySelectorAll('[data-sans]')).filter(function (c) { return !c.checked; }).map(function (c) { return c.getAttribute('data-sans'); }),
+        sous: Array.prototype.slice.call(document.querySelectorAll('[data-sous]')).filter(function (c) { return !c.checked && !c.disabled; }).map(function (c) { return c.getAttribute('data-sous'); })
+      };
+      bt.disabled = true; bt.textContent = 'Génération en cours… (1 à 2 minutes)'; msg('');
+      function done(cl) {
+        bt.disabled = false; bt.textContent = 'Générer à nouveau';
+        $('ps-frame').src = cl.view; $('ps-open').href = cl.court ? cl.court + '?a=1' : cl.view; $('ps-dl').href = cl.url; $('ps-dl').hidden = false;
+        $('ps-pt').textContent = 'Version client'; $('ps-ps').textContent = 'Voici le rapport que recevra votre client. Lien valable 7 jours.';
+        showSend(cl.court || cl.url); msg('Version client prête. Téléchargez-la ou envoyez-la directement à votre client.', 'ok');
+        if (window.innerWidth < 860) $('ps-pt').scrollIntoView({ behavior: 'smooth' });
+      }
+      function fail(er) {
+        bt.disabled = false; bt.textContent = 'Générer la version client';
+        if (er && er.code === 'demo') { msg('Démonstration : la génération est désactivée. Sur votre compte, le rapport client se génère ici en 1 à 2 minutes.', 'ok'); return; }
+        msg(er && er.code === 'ancien' ? 'Ce rapport a été généré avant la mise en place de la version client. Générez un nouveau rapport sur cette parcelle.' : 'La génération n\'a pas abouti. Réessayez dans un instant.', 'err');
+      }
+      var t0 = Date.now();
+      function poll() {
+        call({ action: 'apercu_dossier', id: id }).then(function (r) {
+          var st = r.perso && r.perso.status;
+          if (st === 'pret' && r.client) return done(r.client);
+          if (st === 'erreur' || Date.now() - t0 > 8 * 60000) return fail();
+          setTimeout(poll, 6000);
+        }).catch(function () { setTimeout(poll, 8000); });
+      }
+      call(body).then(function (r) { if (r && r.pending) { msg('Génération en cours, cela prend 2 à 4 minutes. Vous pouvez rester sur cette page.'); setTimeout(poll, 20000); } else poll(); }).catch(fail);
+    });
+  }
+  // Démonstration sans connexion (versions de test uniquement) : formulaire rempli, sans génération réelle
+  var DEMO = /(^|[?&])demo=1/.test(location.search) && !/terrenurbanisme\.com$/.test(location.hostname);
+  function demoBoot() {
+    if (!id) id = 'demo';
+    var q = function (data) { var o = { select: function () { return o; }, eq: function () { return o; }, maybeSingle: function () { return Promise.resolve({ data: data }); }, then: function (f) { return Promise.resolve({ data: data }).then(f); } }; return o; };
+    A = { client: { from: function () { return q({ commune: 'Sotta', section: 'B', numero: '842', agent: 'Cédric MULLER', download_slug: '' }); }, rpc: function () { return Promise.resolve({}); }, storage: { from: function () { return { createSignedUrl: function () { return Promise.resolve({}); }, upload: function () { return Promise.resolve({}); } }; } } }, account: function () { return Promise.resolve({ nom: 'Agence démonstration' }); }, loginUrl: function () { return '#'; } };
+    call = function (b) {
+      if (b.action === 'apercu_dossier') return Promise.resolve({ view: '', pret: true, chapitres: Object.keys(LIB), client: { court: 'https://terrenurbanisme.com/r/c-demo00000000', view: '', url: '#' }, perso: { client: { civ: 'M.', prenom: 'Maxime', nom: 'DUPONT', email: 'maxime.dupont@gmail.com', tel: '06 78 56 45 32' }, reco: { type: 'maison', bas: '480 000', haut: '540 000', conseille: '520 000', hono: '5', fiche: { shab: '120', sterrain: '1200', pieces: '5', chambres: '3', annee: '2008', dpe: 'C', etat: 'tres_bon', atouts: ['Piscine', 'Vue dégagée', 'Terrasse', 'Calme'] } } } });
+      return Promise.reject({ code: 'demo' });
+    };
+    start({ id: 'demo' });
+    setTimeout(function () { var fr = $('ps-frame'); if (fr) { fr.removeAttribute('src'); fr.srcdoc = '<div style="font-family:system-ui,sans-serif;color:#6E625A;display:flex;align-items:center;justify-content:center;height:90vh;text-align:center;padding:24px;line-height:1.6">Sur votre compte, le rapport de votre client s\'affiche ici.<br>Il se met à jour à chaque génération.</div>'; } }, 300);
+    var m = document.createElement('p'); m.className = 'ps-msg ps-ok'; m.textContent = 'Démonstration : les données sont fictives et la génération du rapport est désactivée.';
+    var app = $('ps-app'); if (app) app.parentNode.insertBefore(m, app); m.style.marginBottom = '16px';
+  }
+  function boot() { if (DEMO) { demoBoot(); return; } if (!window.TUAuth || !TUAuth.ready) { setTimeout(boot, 120); return; } A = window.TUAuth; A.user().then(start); }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', boot); else boot();
+})();
