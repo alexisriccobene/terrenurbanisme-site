@@ -1,0 +1,35 @@
+name: Rapport d'exemple (agence fictive)
+# Génère la version client du dossier d'exemple « Agence Dupont Immobilier » et la publie dans le dossier public « exemples ».
+on:
+  push:
+    branches: [main]
+    paths: ['.github/exemple/demande.json']
+permissions:
+  contents: write
+jobs:
+  ex:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      U: https://nmoigruxnhsidrhqtzid.supabase.co
+      SR: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+      KEY: ${{ secrets.TU_ADMIN_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          set -uo pipefail
+          D=.github/exemple/demande.json
+          UID_=$(jq -r .user $D); DOS=$(jq -r .dossier $D); SES=$(jq -r .session $D); SRC=$(jq -r .source $D); OUT=$(jq -r .sortie $D)
+          H=(-H "Authorization: Bearer $SR" -H "apikey: $SR")
+          echo "copie données: $(curl -s "${H[@]}" -H 'Content-Type: application/json' -X POST "$U/storage/v1/object/copy" -d "{\"bucketId\":\"dossiers\",\"sourceKey\":\"cache/d/$SRC.json.gz\",\"destinationKey\":\"cache/d/$SES.json.gz\"}" | head -c 200)"
+          echo "logo: $(curl -s "${H[@]}" -H 'Content-Type: image/png' -H 'x-upsert: true' --data-binary @.github/exemple/logo-dupont.png "$U/storage/v1/object/logos/$UID_/logo-dupont.png" | head -c 200)"
+          echo "photo: $(curl -s "${H[@]}" -H 'Content-Type: image/jpeg' -H 'x-upsert: true' --data-binary @.github/exemple/conseiller.jpg "$U/storage/v1/object/perso/$UID_/agents/julien-dupont.jpg" | head -c 200)"
+          for f in .github/exemple/photos/*.jpg; do echo "photo bien $(basename $f): $(curl -s "${H[@]}" -H 'Content-Type: image/jpeg' -H 'x-upsert: true' --data-binary @$f "$U/storage/v1/object/perso/$UID_/exemple/$(basename $f)" | head -c 80)"; done
+          code=$(curl -s -m 400 -o out.txt -w '%{http_code}' -X POST "$U/functions/v1/stripe-webhook?perso=$DOS" -H "x-tu-admin: $KEY")
+          echo "génération HTTP $code $(head -c 300 out.txt)"
+          [ "$code" = "200" ] || exit 1
+          curl -sf "${H[@]}" -o r.pdf "$U/storage/v1/object/dossiers/$UID_/client/$SES.pdf" || exit 1
+          ls -la r.pdf
+          echo "publication: $(curl -s "${H[@]}" -H 'Content-Type: application/pdf' -H 'x-upsert: true' -H 'cache-control: max-age=300' --data-binary @r.pdf "$U/storage/v1/object/exemples/$OUT" | head -c 200)"
+          git config user.name "TerrenUrbanisme tests"; git config user.email "contact@terrenurbanisme.com"
+          mkdir -p /tmp/o && cp r.pdf /tmp/o/exemple.pdf && git checkout -q --orphan tests-rapports && git rm -rqf . && cp /tmp/o/exemple.pdf . && git add exemple.pdf && git commit -qm "Exemple agence" && git push -qf origin tests-rapports
