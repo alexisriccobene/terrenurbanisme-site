@@ -1185,11 +1185,11 @@
   function render(){
     var ok = info && info.ok;
     var ban = document.getElementById('offre-ban');
-    if (ok){ ban.hidden = false; ban.className = 'of-ban'; ban.innerHTML = '<span class="of-bi">' + ICO.ok + '</span><span>Votre <b>remise de 15 %</b> est appliquée, jusqu\'au ' + new Date(info.expire_le).toLocaleDateString('fr-FR', { day: 'numeric', month: 'long' }) + '.</span>'; }
+    if (ok){ ban.hidden = false; ban.className = 'of-ban'; ban.innerHTML = '<span class="of-bi">' + ICO.ok + '</span><span>Votre <b>remise de ' + (info.taux || 15) + ' %</b> est appliquée, jusqu\'au ' + new Date(info.expire_le).toLocaleDateString('fr-FR', { day: 'numeric', month: 'long' }) + '.</span>'; }
     else if (tk){ ban.hidden = false; ban.className = 'of-ban of-ban-off'; ban.innerHTML = '<span>' + (info && info.utilise ? 'Cette remise a déjà été utilisée.' : 'Ce lien de remise a expiré ou n\'est plus valable.') + ' Les tarifs ci-dessous sont les tarifs habituels.</span>'; }
     if (info && info.insee){ var pb = document.getElementById('offre-parc'); pb.hidden = false; pb.querySelector('span').textContent = info.commune + ' · section ' + info.section + ' · parcelle ' + info.numero; }
     document.getElementById('offre-cards').innerHTML = OFF.map(function(o){
-      var full = 2990 * o.n, tot = ok ? Math.round(o.a * 0.85) : o.a, pr = Math.round(tot / o.n), pct = Math.round((1 - tot / full) * 100);
+      var full = 2990 * o.n, tot = ok ? Math.round(o.a * (100 - (info.taux || 15)) / 100) : o.a, pr = Math.round(tot / o.n), pct = Math.round((1 - tot / full) * 100);
       return '<label class="of-c' + (o.k === kind ? ' on' : '') + '">' + (o.tag ? '<span class="of-tag">' + o.tag + '</span>' : '') + '<input type="radio" name="of-k" value="' + o.k + '"' + (o.k === kind ? ' checked' : '') + '>' +
         '<span class="of-h"><i class="of-box">' + ICO.ok + '</i><span><b>Vérifier ' + o.n + ' terrain' + (o.n > 1 ? 's' : '') + '</b><small>Un rapport complet d\'environ 45 pages pour chaque terrain</small></span></span>' +
         '<span class="of-p"><b>' + eur(pr) + '</b> / rapport</span><span class="of-t">Prix total <b>' + eur(tot) + '</b>' + (tot < full ? ' <s>' + eur(full) + '</s>' : '') + '</span>' +

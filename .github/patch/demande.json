@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "synthese1.py", "demande": "synthese-1"}
+{"fonction": "stripe-webhook", "script": "relance1.py", "demande": "relance-1"}
