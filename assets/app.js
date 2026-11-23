@@ -437,6 +437,8 @@
         }).filter(function(z){ return z.share == null || z.share >= 0.02; }).sort(function(a, b){ return (b.share || 0) - (a.share || 0); }) : null;
         var sups = r[2] ? (r[2].features || []).map(function(f){ return String(f.properties.suptype || f.properties.typeass || '').toLowerCase(); }) : null;
         var cd = r[3] ? (r[3][insee] || {}) : null;
+        /* Pas de PLU selon la base officielle SUDOCUH : règlement national d'urbanisme (si aucune zone n'est publiée) */
+        if (cd && cd.rnu && !(zones && zones.length) && !muni.is_rnu) muni.is_rnu = true;
         show(parcel, zones, muni, { sups: sups, mont: cd ? !!cd.mt : null, local: !!(r[1] && r[1].local) });
       });
     });
@@ -701,9 +703,11 @@
     if (!INSEE_RE.test(insee)){ $('c-nom').textContent = 'Commune introuvable'; }
     else Promise.all([
       getJSON(GEO+'/communes/'+insee+'?fields=nom,code,codesPostaux,population,codeDepartement,departement,epci'),
-      getJSON(CARTO+'/gpu/municipality?insee='+insee).catch(function(){ return { features:[] }; })
+      getJSON(CARTO+'/gpu/municipality?insee='+insee).catch(function(){ return { features:[] }; }),
+      getJSON('/data/communes/' + (/^97/.test(insee) ? insee.slice(0, 3) : insee.slice(0, 2)) + '.json').catch(function(){ return null; })
     ]).then(function(r){
       var c = r[0], m = (r[1].features && r[1].features[0] || {}).properties || {};
+      if (r[2] && r[2][insee] && r[2][insee].rnu) m.is_rnu = true;   // SUDOCUH : pas de PLU
       var dep = (c.departement && c.departement.nom) || c.codeDepartement;
       if (!stat) { document.title = 'PLU de ' + c.nom + ' (' + c.codeDepartement + ') : terrain constructible ? | TerrenUrbanisme';
       $('c-nom').textContent = 'Urbanisme à ' + c.nom;
