@@ -1,0 +1,60 @@
+TAB 129f764d-b613-44e4-952c-5ff50a8c9b73 200 {"data": [{"__id": 1, "id_zone": "1", "INSEE_C": "37099", "LIBGEO": "Druye", "EPCI": "243700754", "DEP": "37", "REG": "24", "loypredm2": 8.95647852540627, "lwr.IPm2": 6.94544866376119, "upr.IPm2": 11.5497949030441, "TYPPRED": "maille", "nbobs_com": 54, "nbobs_mail": 494, "R2_adj": 0.75527981050117}, {"__id": 2, "id_zone": "1", "INSEE_C": "37200", "LIBGEO": "Rivarennes", "EPCI": "200072650", "DEP": "37", "REG": "24", "loypredm2": 8.95647852540627, "lwr.IPm2": 6.94544866376119, "upr.IPm2": 11.5497949030441, "TYPPRED": "maille", "nbobs_com": 20, "nbobs_mail": 494, "R2_adj": 0.75527981050117}], "links": {"profile": "https://tabular-api.data.gouv.fr/api/resources/129f764d-b613-44e4-952c-5ff50a8c9b73/profile/", "swagger": "https://tabular-api.data.gouv.fr/api/resources/129f764d-b613-44e4-952c-5ff50a8c9b73/swagger/", "next": "https://tabular-api.data.gouv.fr/api/resources/129f764d-b613-44e4-952
+TAB 129f764d-b613-44e4-952c-5ff50a8c9b73 200 {"data": [{"__id": 21503, "id_zone": "43", "INSEE_C": "2B096", "LIBGEO": "Corte", "EPCI": "242020071", "DEP": "2B", "REG": "94", "loypredm2": 9.72005030216514, "lwr.IPm2": 6.92626678769782, "upr.IPm2": 13.640736167488, "TYPPRED": "maille", "nbobs_com": 34, "nbobs_mail": 479, "R2_adj": 0.750229577182816}], "links": {"profile": "https://tabular-api.data.gouv.fr/api/resources/129f764d-b613-44e4-952c-5ff50a8c9b73/profile/", "swagger": "https://tabular-api.data.gouv.fr/api/resources/129f764d-b613-44e4-952c-5ff50a8c9b73/swagger/", "next": null, "prev": null}, "meta": {"page": 1, "page_size": 20, "total": 1}}
+TAB 129f764d-b613-44e4-952c-5ff50a8c9b73 400 {"errors": [{"code": "f1da1f578026466a9c270dfaad831100", "title": "Database error", "detail": {"code": "42703", "details": null, "hint": null, "message": "column 76b558666d7a1ea4ff6905463dbef1b7.insee_c does not exist"}}]}
+TAB 129f764d-b613-44e4-952c-5ff50a8c9b73 400 {"errors": [{"code": "edc182b3035241b2adabcb3d3ad26425", "title": "Database error", "detail": {"code": "42703", "details": null, "hint": "Perhaps you meant to reference the column \"76b558666d7a1ea4ff6905463dbef1b7.INSEE_C\".", "message": "column 76b558666d7a1ea4ff6905463dbef1b7.INSEE does not exist"}}]}
+TAB 55b34088-0964-415f-9df7-d87dd98a09be 200 {"data": [{"__id": 1, "id_zone": "1", "INSEE_C": "05066", "LIBGEO": "La Haute-Beaume", "EPCI": "200067445", "DEP": "05", "REG": "93", "loypredm2": 9.75769624568385, "lwr.IPm2": 7.57917786912916, "upr.IPm2": 12.5623963003751, "TYPPRED": "maille", "nbobs_com": 0, "nbobs_mail": 484, "R2_adj": 0.77697857231704}, {"__id": 2, "id_zone": "1", "INSEE_C": "26030", "LIBGEO": "La B\u00e2tie-des-Fonds", "EPCI": "242600534", "DEP": "26", "REG": "84", "loypredm2": 9.75769624568385, "lwr.IPm2": 7.57917786912916, "upr.IPm2": 12.5623963003751, "TYPPRED": "maille", "nbobs_com": 0, "nbobs_mail": 484, "R2_adj": 0.77697857231704}], "links": {"profile": "https://tabular-api.data.gouv.fr/api/resources/55b34088-0964-415f-9df7-d87dd98a09be/profile/", "swagger": "https://tabular-api.data.gouv.fr/api/resources/55b34088-0964-415f-9df7-d87dd98a09be/swagger/", "next": "https://tabular-api.data.gouv.fr/api/resources/5
+TAB 55b34088-0964-415f-9df7-d87dd98a09be 200 {"data": [{"__id": 14849, "id_zone": "206", "INSEE_C": "2B096", "LIBGEO": "Corte", "EPCI": "242020071", "DEP": "2B", "REG": "94", "loypredm2": 14.1331738231369, "lwr.IPm2": 11.2412142149871, "upr.IPm2": 17.7691304955912, "TYPPRED": "commune", "nbobs_com": 1042, "nbobs_mail": 1107, "R2_adj": 0.793115473829236}], "links": {"profile": "https://tabular-api.data.gouv.fr/api/resources/55b34088-0964-415f-9df7-d87dd98a09be/profile/", "swagger": "https://tabular-api.data.gouv.fr/api/resources/55b34088-0964-415f-9df7-d87dd98a09be/swagger/", "next": null, "prev": null}, "meta": {"page": 1, "page_size": 20, "total": 1}}
+TAB 55b34088-0964-415f-9df7-d87dd98a09be 400 {"errors": [{"code": "bcaa18212fc642c88b10eba1d56d675e", "title": "Database error", "detail": {"code": "42703", "details": null, "hint": null, "message": "column 7dd8017b7345cf76a90f460987de0110.insee_c does not exist"}}]}
+TAB 55b34088-0964-415f-9df7-d87dd98a09be 400 {"errors": [{"code": "83df80bb5fdf4db1a7d97f99b04ec397", "title": "Database error", "detail": {"code": "42703", "details": null, "hint": "Perhaps you meant to reference the column \"7dd8017b7345cf76a90f460987de0110.INSEE_C\".", "message": "column 7dd8017b7345cf76a90f460987de0110.INSEE does not exist"}}]}
+TAB cc062fa7-4a80-449c-ab73-d2856b455ec9 200 {"data": [{"__id": 1, "epci": "246900724", "commune": "69094", "numero_d_immatriculation": "AA0002402", "date_d_immatriculation": "2017-09-21", "date_de_la_derniere_maj": "2025-08-23", "type_de_syndic_benevole_professionnel_non_connu": "professionnel", "identification_du_representant_legal_raison_sociale_et_le_numer": "JOSEPH BAUR IMMOBILIER 34473827300012", "raison_sociale_du_representant_legal": "JOSEPH BAUR IMMOBILIER ", "siret_du_representant_legal": "34473827300012", "code_ape": "6832A", "commune_du_representant_legal": "LYON 5EME", "mandat_en_cours_dans_la_copropriete": "Mandat en cours", "date_de_fin_du_dernier_mandat": "2026-06-30", "nom_d_usage_de_la_copropriete": "LES JARDINS DE JUSTINE", "adresse_de_reference": "1 r des forges 69290 Gr\u00e9zieu-la-Varenne", "numero_et_voie_adresse_de_reference": "1 r des forges", "code_postal_adresse_de_reference": "69290", "commune_adresse_d
+TAB 132ed35f-db38-48d9-a31f-3dd7a0942cd9 404 404: Not Found
+
+===== BPE base permanente équipements
+
+DS 61d78365ebfd25902b8b8e9e | Base permanente des équipements (BPE) Occitanie - INSEE | Occitanie Pyrénées en Intelligence Géoma | maj 2022-07-08
+   R dbe06bdc-ec95-4964-a24c-006a51e04067 shp 0 Mo | BPE Ensemble géolocalisé (Occitanie) - INSEE 2020
+   R 96bc5f78-e6dd-4ff1-80af-d48352a9a4f0 shp 0 Mo | BPE Ensemble géolocalisé (Occitanie) - INSEE 2021
+
+DS 6a633ddac2298f03e19a9bfe | Base permanente des équipements en Guyane (BPE) | Collectivité Territoriale de Guyane | maj 2026-07-24
+   R 7d4b0317-f182-4a9f-a631-0970ca09e6b9 site internet 0 Mo | Base permanente des équipements (BPE)
+
+DS 67377b9b8705bc2edfc254d6 | Socio économie - Base permanente des équipements (BPE) en Loir-et-cher | Direction Départementale des Territoires | maj 2024-05-28
+   R 7dae9a25-666d-48ce-9ff4-808527a6b8c9 esri shapefile (shp) 0 Mo | Téléchargement simple (Atom) du jeu et des documents associés via internet
+   R 96816634-5505-49e4-b908-fd18b8b1f8f6 esri shapefile (shp) 0 Mo | Téléchargement simple (Atom) du jeu et des documents associés via intranet
+   R e35ac5cf-eb0a-4982-9f9f-7bce7683dca4 wms 0 Mo | URL du GetCapabilities du service wms sur internet
+   R dc60fb98-ed0a-4141-8ca0-2ecdac7494a6 wfs 0 Mo | URL du GetCapabilities du service wfs sur internet
+   R 4b22a46f-d3fd-48ea-9fb9-bd3362afac4c wms 0 Mo | URL du GetCapabilities du service wms sur intranet
+   R 8248d7a1-5c69-45fa-826c-cd8106a72ed8 wfs 0 Mo | URL du GetCapabilities du service wfs sur intranet
+
+DS 6b001a8b321d72e740f94d9a | BPE - Base Permanente des Equipements | Geoptis | maj 2026-11-20
+   R f7babc17-55e1-4eea-81bd-cfaaea9b37bd csv 521 Mo | Base Permanente des Equipements 2026
+   R 2187c5a4-4c09-4c4d-b7ac-4157bb5020f1 zip 148 Mo | Base Permanente des Equipements 2026
+
+DS 66e8c764bb27c663df17beac | Base Permanente des Equipements BPE 2023 Sport Loisir Culture CD76 | Département de la Seine-Maritime | maj 2024-09-11
+   R 6919610d-14a0-4c96-84e5-8c4831acddae web page 0 Mo | ArcGIS Hub Dataset
+   R 30014d1a-6a62-444b-8200-b0ff867139d0 arcgis geoservices rest api 0 Mo | ArcGIS GeoService
+   R 41ae6798-12f3-4246-a26f-4dd9d7ee516e csv 0 Mo | CSV
+   R d03b7e18-d6bd-4025-8d9d-efdb5ce14689 geojson 0 Mo | GeoJSON
+   R 9101a882-8927-40b7-b449-6c8431afa97f zip 0 Mo | Shapefile
+   R 3a8fec2b-3bd6-4a98-88f4-16b1d9a1f9b4 kml 0 Mo | KML
+   R ad005c62-5426-495a-897b-4224600556f2 zip 0 Mo | File Geodatabase
+   R 24f49eee-8622-407c-94ea-2348f6002d07 txt 0 Mo | Feature Collection
+   R 27d085a9-6ad8-4464-8cef-d80839eb111f xlsx 0 Mo | Excel
+   R 93c78e3a-e588-4ea2-9b10-07b570c8da07 gpkg 0 Mo | GeoPackage
+   R 7fdf84ba-7188-4992-8b87-bc9ae68a449e gdb 0 Mo | SQLite Geodatabase
+
+DS 66b46872bfde2f73aa2d08c8 | Base Permanente des Equipements (BPE) 2021 - Ensemble géolocalisée de Troyes Champagne Mét | Troyes Champagne Métropole | maj 2024-09-13
+   R 017763ca-c658-4653-ac57-a25d93c7e02d pdf 0 Mo | description-des-champs.pdf
+   R 18643e7d-9142-4fe6-b91d-11d3c8b13a55 gpkg 1 Mo | Base Permanente des Equipements BPE
+   R a28a0cb3-5269-44a1-b640-7736b912744f csv 0 Mo | b-2.csv
+   R 459bf0dc-148b-43b6-945a-c5986e049e97 xlsx 0 Mo | b-2.xlsx
+
+===== équipements géolocalisés insee
+
+DS 684c4c3f45e1b1cfad52b65d | Base Permanente de Equipements INSEE géolocalisés - Enseignement - Auvergne-Rhône-Alpes | DREAL Auvergne-Rhône-Alpes | maj 2020-08-28
+   R 82b87110-f703-4450-b2d3-3495c1d95755 zip 0 Mo | Accès au lien ATOM de téléchargement
+   R 8c02c07d-7135-4f87-a673-0af644a46ca5 zip 0 Mo | Accès au téléchargement des données
+
+DS 684c4c3d45e1b1cfad52b656 | Base Permanente de Equipements INSEE géolocalisés - Sport et loisir - Auvergne-Rhône-Alpes | DREAL Auvergne-Rhône-Alpes | maj 2020-08-28
+   R b9411814-8fb9-412b-9d57-f8cdb902185f zip 0 Mo | Accès au lien ATOM de téléchargement
+   R 4a321fd6-97c5-4103-bdf9-f5d143307cb1 zip 0 Mo | Accès au téléchargement des données
