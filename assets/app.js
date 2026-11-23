@@ -531,6 +531,14 @@
   }
 
   /* Projet du client : choisi dans le diagnostic, transmis au rapport */
+  // Profil du demandeur : obligatoire avant la commande, le rapport est présenté pour son métier
+  var PROF = [['particulier', 'Particulier'], ['agent', 'Agent immobilier'], ['notaire', 'Notaire'], ['moe', 'Maître d\'œuvre ou architecte']];
+  var profilV = null;
+  function profil(v){
+    if (v !== undefined){ profilV = v || ''; try { if (v) localStorage.setItem('tu_profil', v); } catch (e) {} return profilV; }
+    if (profilV === null){ profilV = ''; try { profilV = localStorage.getItem('tu_profil') || ''; } catch (e) {} if (!PROF.some(function(x){ return x[0] === profilV; })) profilV = ''; }
+    return profilV;
+  }
   var PROJ = [['maison', 'Construire une maison'], ['extension', 'Agrandir ou surélever'], ['piscine', 'Piscine'], ['annexe', 'Abri, garage ou annexe'], ['division', 'Diviser le terrain'], ['achat', 'Acheter ou vendre']];
   var projetV = null;
   function projet(v){
@@ -578,6 +586,7 @@
       '<div class="v-title">Votre diagnostic</div>' +
       '<p class="v-other">Ce n\'est pas la bonne parcelle ? Cliquez sur une autre parcelle de la carte.</p>' +
       '<p class="v-why">Nous avons trouvé cette parcelle et les sources officielles qui la concernent. Le rapport complet répond à la question : peut-on construire, et à quelles conditions ?</p>' +
+      (window.TU_VILLE ? '' : '<div class="v-proj v-prof"><b>Vous êtes <i aria-hidden="true">*</i></b><span>Obligatoire : le rapport est présenté pour votre métier.</span><div class="v-chips v-chips-prof" role="radiogroup" aria-label="Vous êtes">' + PROF.map(function(x){ return '<button type="button" role="radio" data-r="' + x[0] + '" aria-checked="' + (x[0] === profil() ? 'true' : 'false') + '" aria-pressed="' + (x[0] === profil() ? 'true' : 'false') + '">' + x[1] + '</button>'; }).join('') + '</div></div>') +
       '<div class="v-proj"><b>Quel est votre projet ?</b><span>Le rapport sera présenté pour lui.</span><div class="v-chips" role="group" aria-label="Votre projet">' + PROJ.map(function(x){ return '<button type="button" data-p="' + x[0] + '" aria-pressed="' + (x[0] === projet() ? 'true' : 'false') + '">' + x[1] + '</button>'; }).join('') + '</div></div>' +
       (regNonLu ? '<p class="v-disc" style="background:#FBF1E1;border:1.5px solid #E2B66B;border-radius:12px;padding:12px 14px;color:#5A3A06"><strong>À savoir avant de commander.</strong><br>La zone de cette parcelle est connue, mais ' + regNonLu + '. Le rapport donne la zone, les risques, les servitudes, les réseaux et le marché ; pour les règles de construction de la zone (hauteur, reculs, emprise), il renvoie au règlement officiel, sans en faire la lecture détaillée.</p>' : '') + (noZone ? '<p class="v-disc" style="background:#FBF1E1;border:1.5px solid #E2B66B;border-radius:12px;padding:12px 14px;color:#5A3A06"><strong>Attention : la zone de cette parcelle n\'est pas disponible.</strong><br> cette commune dispose d\'un document d\'urbanisme mais ne l\'a pas encore mis en ligne sur le Géoportail de l\'Urbanisme, la plateforme officielle de l\'État. Aucun service ne peut donc lire sa zone automatiquement : elle est à vérifier en mairie (plan de zonage) ou par un certificat d\'urbanisme. Le rapport réunit toutes les autres données officielles de la parcelle (risques, servitudes, PADDUC, lois Littoral et Montagne, accès, réseaux, prix du marché) mais <strong>n\'indiquera pas la zone ni son règlement</strong>.</p>' : '') +
       OFFER + '<button type="button" class="v-cta v-cta-top buy">' + BTN + '</button><p class="v-buy-err" role="alert"></p>' +
@@ -589,7 +598,16 @@
       '<a class="v-owner" href="https://france-cadastre.fr/" target="_blank" rel="noopener">Connaître le propriétaire de cette parcelle <span>via France Cadastre ↗</span></a>';
     var parcelRef = { insee:inseeOf(p), commune:(inseeOf(p) !== p.code_insee ? arrLabel(p) : p.nom_com), section:sec, numero:num };
     if (projet()) parcelRef.projet = projet();
-    resultEl.querySelectorAll('.v-chips button').forEach(function(b){ b.addEventListener('click', function(){
+    if (profil()) parcelRef.profil = profil();
+    resultEl.querySelectorAll('.v-chips-prof button').forEach(function(b){ b.addEventListener('click', function(){
+      var v = b.getAttribute('data-r');
+      resultEl.querySelectorAll('.v-chips-prof button').forEach(function(x){ var on = x === b; x.setAttribute('aria-pressed', on ? 'true' : 'false'); x.setAttribute('aria-checked', on ? 'true' : 'false'); });
+      profil(v); parcelRef.profil = v;
+      var bx = resultEl.querySelector('.v-prof'); if (bx) bx.classList.remove('err');
+      resultEl.querySelectorAll('.v-buy-err').forEach(function(e){ e.textContent = ''; });
+      if (window.TUAuth && window.TUAuth.track) window.TUAuth.track('profil', { insee: parcelRef.insee, profil: v });
+    }); });
+    resultEl.querySelectorAll('.v-chips:not(.v-chips-prof) button').forEach(function(b){ b.addEventListener('click', function(){
       var on = b.getAttribute('aria-pressed') !== 'true', v = on ? b.getAttribute('data-p') : '';
       resultEl.querySelectorAll('.v-chips button').forEach(function(x){ x.setAttribute('aria-pressed', x === b && on ? 'true' : 'false'); });
       projet(v); if (v) parcelRef.projet = v; else delete parcelRef.projet;
@@ -646,6 +664,7 @@
       var err = errs[k] || errs[0];
       if (A && A.track) A.track('clic_rapport', parcelRef);
       errs.forEach(function(e){ e.textContent = ''; });
+      if (!parcelRef.profil){ var bx = resultEl.querySelector('.v-prof'); err.textContent = 'Indiquez d\'abord qui vous êtes (particulier, agent immobilier, notaire, maître d\'œuvre ou architecte) : le rapport est préparé pour vous.'; if (bx){ bx.classList.add('err'); bx.scrollIntoView({ block: 'center', behavior: 'smooth' }); } return; }
       if (agentSel && !agentSel.value){ err.textContent = 'Choisissez le collaborateur qui demande ce rapport.'; agentSel.style.borderColor = 'var(--non,#B3402F)'; agentSel.scrollIntoView({ block: 'center', behavior: 'smooth' }); agentSel.focus(); return; }
       if (!A || !A.ready){ err.textContent = 'Le paiement n\'est pas encore activé.'; return; }
       setAll(credits > 0 || inclus ? 'Génération du rapport…' : 'Redirection vers le paiement…', true);
@@ -1110,7 +1129,6 @@
       var back = location.pathname + location.search;
       var m = modal('fm-mail', '<form novalidate><h2>Où devons-nous envoyer votre rapport ?</h2><p class="fm-acc">Vous avez déjà un compte ? <a href="/connexion.html?redirect=' + encodeURIComponent(back) + '">Se connecter</a></p>' +
         '<label class="fm-in">' + ICO.mail + '<input type="email" name="email" placeholder="nom@exemple.fr" autocomplete="email" required value="' + esc((rem && rem.email) || ls.get('tu_email') || '') + '"></label>' +
-        '<div class="fm-mot2"><span>Votre projet (facultatif)</span><div role="radiogroup">' + MOT.map(function(x){ return '<button type="button" role="radio" aria-checked="' + (ls.get('tu_motif') === x[0] ? 'true' : 'false') + '" data-m="' + x[0] + '">' + ({achat:'Achat',vente:'Vente',construire:'Construction',pro:'Professionnel'})[x[0]] + '</button>'; }).join('') + '</div></div>' +
         '<label class="fm-ck"><input type="checkbox" name="offres"><span>Recevoir nos conseils et offres par e-mail (désinscription en un clic).</span></label>' +
         '<label class="fm-ck"><input type="checkbox" name="cgv" required><span>J\'accepte les <a href="/cgv.html" target="_blank">conditions générales de vente</a> et j\'ai lu la <a href="/confidentialite.html" target="_blank">politique de confidentialité</a>.</span></label>' +
         '<button type="submit" class="btn fm-dark">Continuer</button><p class="fm-err" role="alert"></p>' +

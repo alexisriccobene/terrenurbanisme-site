@@ -1356,3 +1356,6 @@ s.old{color:#E5584B;font-weight:600}
 .fond-ctl button.on{background:#A3462C;color:#fff}
 .aide-parcelle{margin:10px 0 0;font-size:13.5px;line-height:1.45;color:var(--muet)}
 @media (max-width:620px){.scope .chip{display:none}}
+/* Profil du demandeur (obligatoire avant la commande) */
+.v-prof b i{color:var(--t);font-style:normal}
+.v-prof.err{border-color:var(--non,#B3402F);background:#FBEDEA}
