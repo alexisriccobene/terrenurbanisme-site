@@ -47,7 +47,7 @@ jobs:
           deno run -A --no-check fn/index.ts > srv.log 2>&1 &
           for i in $(seq 1 90); do curl -s -o /dev/null http://localhost:8000/ && break; sleep 2; done
           mkdir -p /tmp/out
-          code=$(curl -s -m 900 -o /tmp/out/rapport.pdf -w '%{http_code}' -X POST "http://localhost:8000/?insee=$I&section=$S&numero=$N${PR:+&profil=$PR}" -H "x-tu-admin: $KEY")
+          code=$(curl -s -m 900 -o /tmp/out/rapport.pdf -w '%{http_code}' -X POST "http://localhost:8000/?key=$KEY&insee=$I&section=$S&numero=$N${PR:+&profil=$PR}" -H "x-tu-admin: $KEY")
           echo "HTTP $code"
           grep -v "^\s*$" srv.log | grep -iv "key\|token\|secret" | tail -80 > /tmp/out/journal.txt; tail -40 /tmp/out/journal.txt
           rm -rf fn
