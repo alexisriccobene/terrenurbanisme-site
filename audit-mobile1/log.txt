@@ -1,0 +1,28 @@
+iphone version https://terrenurbanisme.com/assets/app.js?v=v121 largeur [390, 390]
+iphone liste 1 Lucciana 2B · 20290
+iphone résultat Lucciana · section AN · n° 2007 / Parcelle trouvée / Votre diagnostic /  / Ce n'est pas la bonne parcelle ? Cliquez sur une autre parcelle de la carte. /  / Nous avons trouvé cette parcelle et les sources officielles qui la concernent. Le rapport complet répond à la question : peut-on construire, et à quelles c
+iphone bouton Construire une maison [64, 173] écran 390
+iphone largeur après résultat [390, 390]
+iphone zoom Locator.tap: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("#bigmap
+iphone fond Plan*,Photo
+iphone clic carte Zoomez encore puis cliquez sur votre parcelle.
+iphone adresses 5 2 Cours Napoléon 20000 Ajaccio
+iphone assistant Notre conseil pour 5 rapports : lot de 3 + lot de 2, soit 109,50 € (21,90 € le rapport). Si vous prévoyez d'autres terrains : 10 crédits à 149 €, soit 14,90 € l
+iphone tarifs largeur [390, 390]
+iphone erreurs []
+android version https://terrenurbanisme.com/assets/app.js?v=v121 largeur [320, 320]
+android liste 1 Lucciana 2B · 20290
+android résultat Lucciana · section AN · n° 2007 / Parcelle trouvée / Votre diagnostic /  / Ce n'est pas la bonne parcelle ? Cliquez sur une autre parcelle de la carte. /  / Nous avons trouvé cette parcelle et les sources officielles qui la concernent. Le rapport complet répond à la question : peut-on construire, et à quelles c
+android bouton Construire une maison [64, 173] écran 320
+android largeur après résultat [320, 320]
+android zoom Locator.tap: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("#bigmap
+android fond Plan*,Photo
+android clic carte Zoomez encore puis cliquez sur votre parcelle.
+android adresses 5 2 Cours Napoléon 20000 Ajaccio
+android assistant Notre conseil pour 5 rapports : lot de 3 + lot de 2, soit 109,50 € (21,90 € le rapport). Si vous prévoyez d'autres terrains : 10 crédits à 149 €, soit 14,90 € l
+android tarifs largeur [320, 320]
+android erreurs []
