@@ -30,7 +30,7 @@ jobs:
         run: |
           set -euo pipefail
           [[ "$P" =~ ^[0-9AB]{5}:[0-9A-Z]{1,2}:[0-9]{1,4}$ ]] || exit 1
-          [[ -z "$PR" || "$PR" =~ ^(particulier|agent|notaire|moe)$ ]] || exit 1
+          [[ -z "$PR" || "$PR" =~ ^(particulier|agent|notaire|moe|geometre)$ ]] || exit 1
           K=$(curl -sf -X POST "https://api.supabase.com/v1/projects/$REF/database/query" -H "Authorization: Bearer $SUPABASE_ACCESS_TOKEN" -H "Content-Type: application/json" \
             -d '{"query":"select decrypted_secret as k from vault.decrypted_secrets where name = '\''tu_deploy_key'\'' limit 1"}' | jq -r '.[0].k')
           [ ${#K} -eq 64 ] || { echo "::error::clé introuvable"; exit 1; }

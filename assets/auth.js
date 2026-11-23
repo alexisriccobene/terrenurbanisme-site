@@ -43,7 +43,7 @@
         var invite = !u && /^(synth|unit|pack2|pack3|pro10|pro30|pro100)$/.test(kind);
         if (!u && !invite){ location.href = Auth.loginUrl(location.pathname + location.search); return new Promise(function(){}); }
         var body = Object.assign({ kind: kind }, parcel || {});
-        if (body.insee && !body.profil){ try { var pf = localStorage.getItem('tu_profil'); if (/^(particulier|agent|notaire|moe)$/.test(pf || '')) body.profil = pf; } catch (e) {} }
+        if (body.insee && !body.profil){ try { var pf = localStorage.getItem('tu_profil'); if (/^(particulier|agent|notaire|moe|geometre)$/.test(pf || '')) body.profil = pf; } catch (e) {} }
         if (SRC) body.src = { ref: SRC.ref, page: SRC.page, utm: SRC.utm };
         return sb.functions.invoke('create-checkout', { body: body }).then(function(r){
           if (r.error){ return (r.error.context && r.error.context.json ? r.error.context.json() : Promise.resolve({})).then(function(j){ var e = new Error(j && j.error || 'stripe'); e.code = j && j.error; throw e; }); }

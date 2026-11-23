@@ -532,7 +532,7 @@
 
   /* Projet du client : choisi dans le diagnostic, transmis au rapport */
   // Profil du demandeur : obligatoire avant la commande, le rapport est présenté pour son métier
-  var PROF = [['particulier', 'Particulier'], ['agent', 'Agent immobilier'], ['notaire', 'Notaire'], ['moe', 'Maître d\'œuvre ou architecte']];
+  var PROF = [['particulier', 'Particulier'], ['agent', 'Agent immobilier'], ['notaire', 'Notaire'], ['moe', 'Maître d\'œuvre ou architecte'], ['geometre', 'Géomètre']];
   var profilV = null;
   function profil(v){
     if (v !== undefined){ profilV = v || ''; try { if (v) localStorage.setItem('tu_profil', v); } catch (e) {} return profilV; }
@@ -664,7 +664,7 @@
       var err = errs[k] || errs[0];
       if (A && A.track) A.track('clic_rapport', parcelRef);
       errs.forEach(function(e){ e.textContent = ''; });
-      if (!parcelRef.profil){ var bx = resultEl.querySelector('.v-prof'); err.textContent = 'Indiquez d\'abord qui vous êtes (particulier, agent immobilier, notaire, maître d\'œuvre ou architecte) : le rapport est préparé pour vous.'; if (bx){ bx.classList.add('err'); bx.scrollIntoView({ block: 'center', behavior: 'smooth' }); } return; }
+      if (!parcelRef.profil){ var bx = resultEl.querySelector('.v-prof'); err.textContent = 'Indiquez d\'abord qui vous êtes (particulier, agent immobilier, notaire, maître d\'œuvre ou architecte, géomètre) : le rapport est préparé pour vous.'; if (bx){ bx.classList.add('err'); bx.scrollIntoView({ block: 'center', behavior: 'smooth' }); } return; }
       if (agentSel && !agentSel.value){ err.textContent = 'Choisissez le collaborateur qui demande ce rapport.'; agentSel.style.borderColor = 'var(--non,#B3402F)'; agentSel.scrollIntoView({ block: 'center', behavior: 'smooth' }); agentSel.focus(); return; }
       if (!A || !A.ready){ err.textContent = 'Le paiement n\'est pas encore activé.'; return; }
       setAll(credits > 0 || inclus ? 'Génération du rapport…' : 'Redirection vers le paiement…', true);
