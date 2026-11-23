@@ -285,7 +285,7 @@
 
   /* ---------- Fonds de carte : plan IGN (villes, villages, routes, cours d'eau) et photo aérienne avec les noms ---------- */
   var WMTS = 'https://data.geopf.fr/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&STYLE=normal&TILEMATRIXSET=PM&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}&LAYER=';
-  function fonds(m, minCad){
+  function fonds(m, minCad, pos){
     var plan = L.tileLayer(WMTS+'GEOGRAPHICALGRIDSYSTEMS.PLANIGNV2&FORMAT=image/png', { maxZoom:20, maxNativeZoom:19, attribution:'Plan, photographies aériennes et cadastre © IGN' });
     var photo = L.layerGroup([
       L.tileLayer(WMTS+'ORTHOIMAGERY.ORTHOPHOTOS&FORMAT=image/jpeg', { maxZoom:20, maxNativeZoom:19, attribution:'Plan, photographies aériennes et cadastre © IGN' }),
@@ -296,7 +296,7 @@
     function poser(b){ if (courant === b) return; if (courant) m.removeLayer(courant); b.addTo(m); courant = b; cad.bringToFront(); maj(); }
     // plan pour se repérer, photo aérienne une fois près du terrain (tant que le visiteur n'a pas choisi lui-même)
     function auto(){ if (!manuel) poser(m.getZoom() >= 17 ? photo : plan); }
-    var Ctl = L.Control.extend({ options:{ position:'topleft' }, onAdd:function(){
+    var Ctl = L.Control.extend({ options:{ position:pos || 'topright' }, onAdd:function(){
       var d = L.DomUtil.create('div', 'fond-ctl');
       d.innerHTML = '<button type="button" data-f="plan">Plan</button><button type="button" data-f="photo">Photo</button>';
       L.DomEvent.disableClickPropagation(d);
@@ -347,7 +347,7 @@
     rsec.hidden = false;
     if (!big && window.L){
       big = L.map('bigmap', { zoomControl:false, scrollWheelZoom:true, maxZoom:20 }).setView([46.6, 2.4], 6);
-      fonds(big, 15);
+      fonds(big, 15, 'bottomright');
       if (dernierContour) setTimeout(function(){ montrerCommune(dernierContour); }, 0);
       L.control.zoom({ position:'topright' }).addTo(big);
       big.on('click', function(ev){
