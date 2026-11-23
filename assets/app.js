@@ -531,7 +531,7 @@
   }
 
   /* Projet du client : choisi dans le diagnostic, transmis au rapport */
-  // Profil du demandeur : obligatoire avant la commande, le rapport est présenté pour son métier
+  // Profil du demandeur (facultatif) : statistique de clientèle, le rapport est le même pour tous
   var PROF = [['particulier', 'Particulier'], ['agent', 'Agent immobilier'], ['notaire', 'Notaire'], ['moe', 'Maître d\'œuvre ou architecte'], ['geometre', 'Géomètre']];
   var profilV = null;
   function profil(v){
@@ -586,7 +586,7 @@
       '<div class="v-title">Votre diagnostic</div>' +
       '<p class="v-other">Ce n\'est pas la bonne parcelle ? Cliquez sur une autre parcelle de la carte.</p>' +
       '<p class="v-why">Nous avons trouvé cette parcelle et les sources officielles qui la concernent. Le rapport complet répond à la question : peut-on construire, et à quelles conditions ?</p>' +
-      (window.TU_VILLE ? '' : '<div class="v-proj v-prof"><b>Vous êtes <i aria-hidden="true">*</i></b><span>Obligatoire : le rapport est présenté pour votre métier.</span><div class="v-chips v-chips-prof" role="radiogroup" aria-label="Vous êtes">' + PROF.map(function(x){ return '<button type="button" role="radio" data-r="' + x[0] + '" aria-checked="' + (x[0] === profil() ? 'true' : 'false') + '" aria-pressed="' + (x[0] === profil() ? 'true' : 'false') + '">' + x[1] + '</button>'; }).join('') + '</div></div>') +
+      (window.TU_VILLE ? '' : '<div class="v-proj v-prof"><b>Vous êtes <span class="v-fac">(facultatif)</span></b><div class="v-chips v-chips-prof" role="radiogroup" aria-label="Vous êtes">' + PROF.map(function(x){ return '<button type="button" role="radio" data-r="' + x[0] + '" aria-checked="' + (x[0] === profil() ? 'true' : 'false') + '" aria-pressed="' + (x[0] === profil() ? 'true' : 'false') + '">' + x[1] + '</button>'; }).join('') + '</div></div>') +
       '<div class="v-proj"><b>Quel est votre projet ?</b><span>Le rapport sera présenté pour lui.</span><div class="v-chips" role="group" aria-label="Votre projet">' + PROJ.map(function(x){ return '<button type="button" data-p="' + x[0] + '" aria-pressed="' + (x[0] === projet() ? 'true' : 'false') + '">' + x[1] + '</button>'; }).join('') + '</div></div>' +
       (regNonLu ? '<p class="v-disc" style="background:#FBF1E1;border:1.5px solid #E2B66B;border-radius:12px;padding:12px 14px;color:#5A3A06"><strong>À savoir avant de commander.</strong><br>La zone de cette parcelle est connue, mais ' + regNonLu + '. Le rapport donne la zone, les risques, les servitudes, les réseaux et le marché ; pour les règles de construction de la zone (hauteur, reculs, emprise), il renvoie au règlement officiel, sans en faire la lecture détaillée.</p>' : '') + (noZone ? '<p class="v-disc" style="background:#FBF1E1;border:1.5px solid #E2B66B;border-radius:12px;padding:12px 14px;color:#5A3A06"><strong>Attention : la zone de cette parcelle n\'est pas disponible.</strong><br> cette commune dispose d\'un document d\'urbanisme mais ne l\'a pas encore mis en ligne sur le Géoportail de l\'Urbanisme, la plateforme officielle de l\'État. Aucun service ne peut donc lire sa zone automatiquement : elle est à vérifier en mairie (plan de zonage) ou par un certificat d\'urbanisme. Le rapport réunit toutes les autres données officielles de la parcelle (risques, servitudes, PADDUC, lois Littoral et Montagne, accès, réseaux, prix du marché) mais <strong>n\'indiquera pas la zone ni son règlement</strong>.</p>' : '') +
       OFFER + '<button type="button" class="v-cta v-cta-top buy">' + BTN + '</button><p class="v-buy-err" role="alert"></p>' +
@@ -664,7 +664,6 @@
       var err = errs[k] || errs[0];
       if (A && A.track) A.track('clic_rapport', parcelRef);
       errs.forEach(function(e){ e.textContent = ''; });
-      if (!parcelRef.profil){ var bx = resultEl.querySelector('.v-prof'); err.textContent = 'Indiquez d\'abord qui vous êtes (particulier, agent immobilier, notaire, maître d\'œuvre ou architecte, géomètre) : le rapport est préparé pour vous.'; if (bx){ bx.classList.add('err'); bx.scrollIntoView({ block: 'center', behavior: 'smooth' }); } return; }
       if (agentSel && !agentSel.value){ err.textContent = 'Choisissez le collaborateur qui demande ce rapport.'; agentSel.style.borderColor = 'var(--non,#B3402F)'; agentSel.scrollIntoView({ block: 'center', behavior: 'smooth' }); agentSel.focus(); return; }
       if (!A || !A.ready){ err.textContent = 'Le paiement n\'est pas encore activé.'; return; }
       setAll(credits > 0 || inclus ? 'Génération du rapport…' : 'Redirection vers le paiement…', true);
