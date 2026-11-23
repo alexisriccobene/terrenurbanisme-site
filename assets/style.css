@@ -1348,3 +1348,9 @@ s.old{color:#E5584B;font-weight:600}
 @media (max-width:560px){.vf-g.aff-g{grid-template-columns:1fr}}
 .aff-note{text-align:center;margin:28px auto 0;max-width:640px;color:var(--muet,#6E625A)}
 .aff-note a{color:#A3462C;font-weight:700}
+
+/* choix du fond de carte */
+.fond-ctl{display:flex;background:#fff;border-radius:10px;box-shadow:0 1px 6px rgba(0,0,0,.25);overflow:hidden}
+.fond-ctl button{border:0;background:#fff;color:#2b2b2b;font:600 13px/1 inherit;padding:9px 12px;cursor:pointer;font-family:inherit}
+.fond-ctl button.on{background:#A3462C;color:#fff}
+.aide-parcelle{margin:10px 0 0;font-size:13.5px;line-height:1.45;color:var(--muet)}

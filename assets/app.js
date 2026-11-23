@@ -152,9 +152,8 @@
         return getJSON(GEO+'/communes/'+code+'?fields=centre,contour').then(function(c){
           var m = map || big; if (!m || !window.L) return;
           try {
-            if (c.contour){ m.fitBounds(L.geoJSON(c.contour).getBounds(), { padding:[20,20], maxZoom:15 }); }
-            else if (c.centre){ m.setView([c.centre.coordinates[1], c.centre.coordinates[0]], 14); }
-            if (big && m !== big && c.centre) big.setView([c.centre.coordinates[1], c.centre.coordinates[0]], 14);
+            if (c.contour){ m.fitBounds(L.geoJSON(c.contour).getBounds(), { padding:[20,20], maxZoom:15 }); if (big && m !== big) big.fitBounds(L.geoJSON(c.contour).getBounds(), { padding:[20,20], maxZoom:15 }); montrerCommune(c.contour); }
+            else if (c.centre){ m.setView([c.centre.coordinates[1], c.centre.coordinates[0]], 14); if (big && m !== big) big.setView([c.centre.coordinates[1], c.centre.coordinates[0]], 14); }
           } catch(e){}
         });
       }).catch(function(){});
@@ -221,7 +220,21 @@
         var comVal = $('com').value;
         var sec = $('sec').value.trim().toUpperCase().replace(/[^0-9A-Z]/g,'');
         var num = $('num').value.trim().replace(/\D/g,'');
-        if (!sec || !num){ errEl.textContent = 'Indiquez la section (une ou deux lettres) et le numéro de la parcelle.'; return; }
+        if (!sec && !num && comVal.trim()){
+          // pas de numéro de parcelle : on ouvre la carte de la commune, le visiteur clique sur son terrain
+          resolveCommune(comVal).then(function(code){
+            if (!code){ errEl.textContent = 'Commune introuvable. Choisissez la commune dans la liste proposée.'; return; }
+            if (!inPlace){ location.href = '/?commune='+encodeURIComponent(comVal)+'#recherche'; return; }
+            openBig();
+            getJSON(GEO+'/communes/'+code+'?fields=contour,centre').then(function(c){
+              if (big && c.contour){ big.fitBounds(L.geoJSON(c.contour).getBounds(), { padding:[20,20] }); montrerCommune(c.contour); }
+              else if (big && c.centre) big.setView([c.centre.coordinates[1], c.centre.coordinates[0]], 14);
+            }).catch(function(){});
+            var r = $('result'); if (r) r.innerHTML = '<div class="v-title">Trouvez votre terrain sur la carte</div><p class="v-why">Zoomez sur votre terrain (le plan affiche les villages, routes et cours d\'eau ; passez en « Photo » pour voir les constructions), puis cliquez sur la parcelle : sa référence s\'affiche et l\'analyse démarre.</p>';
+          }).catch(function(){ errEl.textContent = 'Le service est momentanément indisponible. Réessayez dans un instant.'; });
+          return;
+        }
+        if (!sec || !num){ errEl.textContent = 'Indiquez la section (une ou deux lettres) et le numéro de la parcelle, ou laissez les deux vides pour choisir votre terrain sur la carte.'; return; }
         resolveCommune(comVal).then(function(code){
         if (!code){ errEl.textContent = 'Commune introuvable. Choisissez la commune dans la liste proposée.'; return; }
         if (!inPlace){ location.href = '/?commune='+encodeURIComponent(comVal)+'&section='+sec+'&numero='+num+'#recherche'; return; }
@@ -239,7 +252,7 @@
       setMode('cad'); $('com').value = qs.get('commune');
       if (qs.get('section')) $('sec').value = qs.get('section');
       if (qs.get('numero')) $('num').value = qs.get('numero');
-      if (inPlace && qs.get('section') && qs.get('numero')) communeIndex().then(function(i){ idx = i; form.requestSubmit ? form.requestSubmit() : form.dispatchEvent(new Event('submit')); });
+      if (inPlace && ((qs.get('section') && qs.get('numero')) || (!qs.get('section') && !qs.get('numero')))) communeIndex().then(function(i){ idx = i; form.requestSubmit ? form.requestSubmit() : form.dispatchEvent(new Event('submit')); });
     } else if (qs.get('lon') && qs.get('lat') && inPlace){
       setMode('adr'); adr.value = qs.get('adresse') || '';
       picked = { properties:{ label:adr.value }, geometry:{ coordinates:[+qs.get('lon'), +qs.get('lat')] } };
@@ -270,15 +283,44 @@
     }
   }
 
+  /* ---------- Fonds de carte : plan IGN (villes, villages, routes, cours d'eau) et photo aérienne avec les noms ---------- */
+  var WMTS = 'https://data.geopf.fr/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&STYLE=normal&TILEMATRIXSET=PM&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}&LAYER=';
+  function fonds(m, minCad){
+    var plan = L.tileLayer(WMTS+'GEOGRAPHICALGRIDSYSTEMS.PLANIGNV2&FORMAT=image/png', { maxZoom:20, maxNativeZoom:19, attribution:'Plan, photographies aériennes et cadastre © IGN' });
+    var photo = L.layerGroup([
+      L.tileLayer(WMTS+'ORTHOIMAGERY.ORTHOPHOTOS&FORMAT=image/jpeg', { maxZoom:20, maxNativeZoom:19, attribution:'Plan, photographies aériennes et cadastre © IGN' }),
+      L.tileLayer(WMTS+'GEOGRAPHICALNAMES.NAMES&FORMAT=image/png', { maxZoom:20, maxNativeZoom:18, opacity:.95 })
+    ]);
+    var cad = L.tileLayer.wms('https://data.geopf.fr/wms-r/wms', { layers:'CADASTRALPARCELS.PARCELLAIRE_EXPRESS', format:'image/png', transparent:true, version:'1.3.0', minZoom:minCad, maxZoom:20, opacity:.9 });
+    var manuel = false, courant = null;
+    function poser(b){ if (courant === b) return; if (courant) m.removeLayer(courant); b.addTo(m); courant = b; cad.bringToFront(); maj(); }
+    // plan pour se repérer, photo aérienne une fois près du terrain (tant que le visiteur n'a pas choisi lui-même)
+    function auto(){ if (!manuel) poser(m.getZoom() >= 17 ? photo : plan); }
+    var Ctl = L.Control.extend({ options:{ position:'topleft' }, onAdd:function(){
+      var d = L.DomUtil.create('div', 'fond-ctl');
+      d.innerHTML = '<button type="button" data-f="plan">Plan</button><button type="button" data-f="photo">Photo</button>';
+      L.DomEvent.disableClickPropagation(d);
+      d.addEventListener('click', function(e){ var b = e.target.closest('button'); if (!b) return; manuel = true; poser(b.getAttribute('data-f') === 'photo' ? photo : plan); });
+      this._d = d; return d; } });
+    var ctl = new Ctl(); ctl.addTo(m);
+    function maj(){ var d = ctl._d; if (!d) return; [].forEach.call(d.querySelectorAll('button'), function(b){ b.classList.toggle('on', (b.getAttribute('data-f') === 'photo') === (courant === photo)); }); }
+    cad.addTo(m); auto(); m.on('zoomend', auto);
+  }
+  /* contour de la commune choisie, sur les deux cartes */
+  var contours = [], dernierContour = null;
+  function montrerCommune(contour){
+    dernierContour = contour;
+    contours.forEach(function(l){ try { l._map && l._map.removeLayer(l); } catch(e){} }); contours = [];
+    [map, big].forEach(function(m){ if (m && contour) contours.push(L.geoJSON(contour, { interactive:false, style:{ color:'#A3462C', weight:2.5, dashArray:'6 5', fill:false } }).addTo(m)); });
+  }
+
   /* ---------- Carte du héros ---------- */
   var map = null, layer = null, scope = $('scope');
   var small = function(){ return window.innerWidth <= 620; };
   if (scope && window.L){
     try {
       map = L.map('map', { zoomControl:false, scrollWheelZoom:false, dragging:true, tap:true, attributionControl:true, maxZoom:20 }).setView([46.6, 2.4], 6);
-      L.tileLayer('https://data.geopf.fr/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=ORTHOIMAGERY.ORTHOPHOTOS&STYLE=normal&TILEMATRIXSET=PM&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}&FORMAT=image/jpeg',
-        { maxZoom:19, attribution:'Photographies aériennes © IGN' }).addTo(map);
-      L.tileLayer.wms('https://data.geopf.fr/wms-r/wms', { layers:'CADASTRALPARCELS.PARCELLAIRE_EXPRESS', format:'image/png', transparent:true, version:'1.3.0', minZoom:16, maxZoom:20, opacity:.9 }).addTo(map);
+      fonds(map, 16);
       L.control.zoom({ position:'topright' }).addTo(map);
       var hint = scope.querySelector('.hint span');
       var setHint = function(){ if (hint) hint.textContent = map.getZoom() >= 16 ? 'Cliquez sur votre parcelle pour la sélectionner.' : 'Zoomez sur votre terrain, puis cliquez sur la parcelle.'; };
@@ -305,8 +347,8 @@
     rsec.hidden = false;
     if (!big && window.L){
       big = L.map('bigmap', { zoomControl:false, scrollWheelZoom:true, maxZoom:20 }).setView([46.6, 2.4], 6);
-      L.tileLayer('https://data.geopf.fr/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=ORTHOIMAGERY.ORTHOPHOTOS&STYLE=normal&TILEMATRIXSET=PM&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}&FORMAT=image/jpeg', { maxZoom:20, maxNativeZoom:19, attribution:'Photographies aériennes et cadastre © IGN' }).addTo(big);
-      L.tileLayer.wms('https://data.geopf.fr/wms-r/wms', { layers:'CADASTRALPARCELS.PARCELLAIRE_EXPRESS', format:'image/png', transparent:true, version:'1.3.0', minZoom:15, maxZoom:20, opacity:.9 }).addTo(big);
+      fonds(big, 15);
+      if (dernierContour) setTimeout(function(){ montrerCommune(dernierContour); }, 0);
       L.control.zoom({ position:'topright' }).addTo(big);
       big.on('click', function(ev){
         var c = [ +ev.latlng.lng.toFixed(6), +ev.latlng.lat.toFixed(6) ];
