@@ -1,0 +1,65 @@
+
+===== carte des loyers indicateurs de loyers d'annonce commune
+
+DS 639c7cf4969f3318338df9a8 |  "Carte des loyers" - Indicateurs de loyers d'annonce par commune en 2022 | Ministère de la Transition écologique | maj 2025-12-30
+   R f2d332dd-c782-470e-ac84-f13c7b1c0bf1 pdf 0 Mo | FAQ - la carte des loyers en 5 questions
+   R dfb542cd-a808-41e2-9157-8d39b5c24edb csv 4 Mo | Indicateurs de loyer maison
+   R b398ede4-75f9-47ac-bfc5-d912c0012880 csv 4 Mo | Indicateurs de loyer appartement de 3 pièces et plus
+   R 7141612b-8029-44a4-a048-921a85a47b1f csv 4 Mo | Indicateurs de loyer appartement de 1 ou 2 pièces
+   R bc9d5d13-07cc-4d38-8254-88db065bd42b csv 4 Mo | Indicateurs de loyer appartement
+   R d76a48a9-8ade-4149-9e47-f179029abc80 pdf 1 Mo | Note méthodologique détaillée
+   R 647fa8c0-9406-46da-b190-377b836fb471 pdf 0 Mo | Guide d'utilisation des données - dictionnaire des variables
+
+DS 65808cdcf9c212f5f056e2fa | "Carte des loyers" - Indicateurs de loyers d'annonce par commune en 2023 | Ministère de la Transition écologique | maj 2025-12-30
+   R d4731537-e4d0-4152-ba03-b07a9aa2ee46 pdf 0 Mo | FAQ - la carte des loyers en 5 questions
+   R 34434cef-2f85-43b9-a601-c625ee426cb7 csv 4 Mo | Indicateurs de loyer maison
+   R 08871624-ccb5-457a-83d5-fb134cba60da csv 4 Mo | Indicateurs de loyer appartement de 3 pièces et plus
+   R edadefbc-9707-45ef-a841-283608709e58 csv 4 Mo | Indicateurs de loyer appartement de 1 ou 2 pièces
+   R 43618998-3b37-4a69-bb25-f321f1a93ed1 csv 4 Mo | Indicateurs de loyer appartement
+   R 6334b399-64e8-4008-8b77-3e0da0fd0adf pdf 2 Mo | Note méthodologique détaillée
+   R d42bbabe-ae72-4a2d-947a-3cb0157a724e pdf 0 Mo | Guide d'utilisation des données - dictionnaire des variables
+
+DS 6751be987c09f4be821c6934 | "Carte des loyers" - Indicateurs de loyers d'annonce par commune en 2024 | Ministère de la Transition écologique | maj 2026-09-14
+   R 64c6e452-783a-4d71-95e6-22b1cdf96d37 csv 4 Mo | Indicateurs de loyer appartement
+   R 89956da9-5b9b-41d7-8703-18dbec4d54a2 csv 4 Mo | Indicateurs de loyer appartement de 1 ou 2 pièces
+   R b3ec6ed0-1cb7-477e-bfd4-2aa370333994 csv 4 Mo | Indicateur de loyer maison
+   R b7f5522e-d7a9-4861-8b52-f0ed4c088944 csv 4 Mo | Indicateur de loyer appartement de 3 pièces ou plus
+   R 4a6074fb-7d1f-437d-8cef-f033b2114fd1 pdf 0 Mo | Guide d'utilisation des données - dictionnaire des variables
+   R a50c533b-3804-4ca6-b5d9-1a0fc9fd3d51 pdf 2 Mo | Note méthodologique détaillée
+   R a6ce5d4d-adc1-4361-bb15-ef69cc635b09 pdf 0 Mo | FAQ - la carte des loyers en 5 questions
+
+DS 693aa2feed1bf4da603faa49 | "Carte des loyers" - Indicateurs de loyers d'annonce par commune en 2025 | Ministère de la Transition écologique | maj 2026-09-14
+   R 0264d1fe-d5d2-45eb-9cf1-a2b706867441 pdf 1 Mo | Note méthodologique
+   R 8623fa1b-6575-4122-ab7a-bc241d610851 pdf 0 Mo | Guide d'utilisation des données - Dictionnaire de variables
+   R 55b34088-0964-415f-9df7-d87dd98a09be csv 4 Mo | Indicateurs de loyer appartement
+   R 14a1fe11-b2d1-49b3-9f6b-83d12df9482c csv 4 Mo | Indicateur de loyer appartement de 1 ou 2 pièces
+   R 5e3b28a4-cf56-43a3-ae79-43cceeb27f8c csv 4 Mo | Indicateur de loyer appartement de 3 pièces ou plus
+   R 129f764d-b613-44e4-952c-5ff50a8c9b73 csv 4 Mo | Indicateurs de loyer maison
+
+DS 5fc7bd499a1944cb674fd064 | "Carte des loyers" - Indicateurs de loyers d'annonce par commune en 2018 | Ministère de la Transition écologique | maj 2025-12-30
+   R 8fac6fb7-cd07-4747-8e0b-b101c476f0da csv 3 Mo | indicateurs-loyers-appartements.csv
+   R cf39b7e5-12fb-48e9-9ee7-b7e5496dcb75 csv 3 Mo | indicateurs-loyers-maisons.csv
+   R c8d391a7-ac78-445f-a6c6-9f6f04ed3e0e pdf 1 Mo | note-methodologique-loyers.pdf
+   R 2cf655b3-6749-4371-b3c5-43f681033929 pdf 0 Mo | dictionnaire-variables.pdf
+
+===== registre national copropriétés
+
+DS 62da71c068871f4c54258c7c | Registre national d'Immatriculation des Copropriétés | Agence Nationale de l'Habitat | maj 2026-11-23
+   R 132ed35f-db38-48d9-a31f-3dd7a0942cd9 csv 452 Mo | Fichier T3 2025.csv
+   R dd3d9c37-c9e6-47b6-9812-ee0795670168 csv 0 Mo | Dictionnaire de données format CSV
+   R cc062fa7-4a80-449c-ab73-d2856b455ec9 csv 452 Mo | Registre d'Immatriculation des Copropriétés T3 2025 - nouveau format de colonnes
+   R 13d3dbb0-450c-4171-85b5-2afa3e02e3e4 csv 444 Mo | Fichier T2 2025.csv
+   R 831c2bff-d001-48b5-a29f-6bda1d879817 csv 437 Mo | Fichier T1 2025.csv
+   R 9498c586-77b6-4b61-bf78-2fc99fc62f8c csv 433 Mo | fichier-t4-2024
+   R a970e740-da32-4973-8f03-f0901adba57b csv 428 Mo | fichier-t3-2024.csv
+   R 1893282b-eddc-45ec-bba7-dfb0ee076266 csv 423 Mo | fichier-t2-2024
+   R d22472a2-83ea-4622-a405-ccbe96213e38 csv 344 Mo | fichier-t1-2024.csv
+   R 66876506-fc19-4d93-bd8a-c90ac4139261 csv 319 Mo | fichier-t4-2023.csv
+   R 94aacfa3-18af-413b-aead-76d434ef5438 csv 315 Mo | fichier-t3-2023.csv
+   R a30ebb70-3c04-4c0a-bea1-b02f56083c6f csv 212 Mo | fichier-t4-2022.csv
+
+===== base permanente des équipements géolocalisés
+
+===== zonage climatique RE2020
+
+===== zones de neige vent eurocode
