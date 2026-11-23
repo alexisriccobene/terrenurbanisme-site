@@ -4,9 +4,12 @@ subprocess.run([sys.executable, '-m', 'pip', 'install', '-q', 'playwright'], che
 subprocess.run([sys.executable, '-m', 'playwright', 'install', '--with-deps', 'chromium'], check=True, capture_output=True)
 from playwright.sync_api import sync_playwright
 time.sleep(json.load(open('.github/plu-demande.json')).get('attente', 0))
+import gzip, io
 def une_parcelle(insee):
-    r = requests.get('https://apicarto.ign.fr/api/cadastre/parcelle', params={'code_insee': insee, '_limit': 50}, timeout=60).json()
-    f = sorted(r['features'], key=lambda f: -f['properties'].get('contenance', 0))[10]['properties']
+    if insee == '2B096': return 'AB', '120'
+    d = 'https://cadastre.data.gouv.fr/data/etalab-cadastre/latest/geojson/communes/%s/%s/cadastre-%s-parcelles.json.gz' % (insee[:2], insee, insee)
+    r = json.load(gzip.open(io.BytesIO(requests.get(d, timeout=120).content)))
+    f = sorted(r['features'], key=lambda f: -(f['properties'].get('contenance') or 0))[10]['properties']
     return f['section'], f['numero']
 with sync_playwright() as pw:
     b = pw.chromium.launch(); ctx = b.new_context(**pw.devices['iPhone 13']); p = ctx.new_page(); err = []; p.on('pageerror', lambda e: err.append(str(e)[:150]))
