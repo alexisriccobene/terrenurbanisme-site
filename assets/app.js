@@ -1106,12 +1106,18 @@
       var back = location.pathname + location.search;
       var m = modal('fm-mail', '<form novalidate><h2>Où devons-nous envoyer votre rapport ?</h2><p class="fm-acc">Vous avez déjà un compte ? <a href="/connexion.html?redirect=' + encodeURIComponent(back) + '">Se connecter</a></p>' +
         '<label class="fm-in">' + ICO.mail + '<input type="email" name="email" placeholder="nom@exemple.fr" autocomplete="email" required value="' + esc((rem && rem.email) || ls.get('tu_email') || '') + '"></label>' +
+        '<div class="fm-mot2"><span>Votre projet (facultatif)</span><div role="radiogroup">' + MOT.map(function(x){ return '<button type="button" role="radio" aria-checked="' + (ls.get('tu_motif') === x[0] ? 'true' : 'false') + '" data-m="' + x[0] + '">' + ({achat:'Achat',vente:'Vente',construire:'Construction',pro:'Professionnel'})[x[0]] + '</button>'; }).join('') + '</div></div>' +
         '<label class="fm-ck"><input type="checkbox" name="offres"><span>Recevoir nos conseils et offres par e-mail (désinscription en un clic).</span></label>' +
         '<label class="fm-ck"><input type="checkbox" name="cgv" required><span>J\'accepte les <a href="/cgv.html" target="_blank">conditions générales de vente</a> et j\'ai lu la <a href="/confidentialite.html" target="_blank">politique de confidentialité</a>.</span></label>' +
         '<button type="submit" class="btn fm-dark">Continuer</button><p class="fm-err" role="alert"></p>' +
         (soc ? '<div class="fm-or"><span>ou continuer avec</span></div>' + soc : '') + '<p class="fm-legal">Paiement sécurisé par Stripe. Rapport envoyé par e-mail en quelques minutes.</p></form>');
       var f = m.el.querySelector('form'), er = m.el.querySelector('.fm-err'), bt = f.querySelector('button[type=submit]');
       var body = Object.assign({}, parcel || {}); if (rem && rem.token) body.remise = rem.token;
+      m.el.querySelectorAll('.fm-mot2 [data-m]').forEach(function(b){ b.addEventListener('click', function(){
+        var v = b.getAttribute('data-m'); ls.set('tu_motif', v);
+        m.el.querySelectorAll('.fm-mot2 [data-m]').forEach(function(x){ x.setAttribute('aria-checked', x === b ? 'true' : 'false'); });
+        if (A() && A().track) A().track('motif', { insee: parcel && parcel.insee, motif: v });
+      }); });
       f.addEventListener('submit', function(e){
         e.preventDefault(); var em = f.email.value.trim();
         if (!EMAIL.test(em)){ er.textContent = 'Indiquez une adresse e-mail valide.'; f.email.focus(); return; }
@@ -1145,7 +1151,7 @@
   })();
 
   window.TUFunnel = {
-    afterDiag: function(parcel){ motif(parcel).then(function(){ armRemise(parcel); }); },
+    afterDiag: function(parcel){ armRemise(parcel); },
     email: emailStep, remise: remise
   };
 
