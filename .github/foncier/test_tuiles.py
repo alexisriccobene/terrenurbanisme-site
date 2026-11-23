@@ -1,7 +1,7 @@
 """Vérifie les couches de fond de carte IGN (Géoplateforme) utilisables sur la carte du site."""
 import requests
 H = {'User-Agent': 'Mozilla/5.0'}
-base = 'https://data.geopf.fr/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER={l}&STYLE={s}&TILEMATRIXSET=PM&TILEMATRIX=14&TILEROW=6100&TILECOL=8640&FORMAT={f}'
+base = 'https://data.geopf.fr/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER={l}&STYLE={s}&TILEMATRIXSET=PM&TILEMATRIX=14&TILEROW=5636&TILECOL=8299&FORMAT={f}'
 for l, s, f in [('GEOGRAPHICALGRIDSYSTEMS.PLANIGNV2', 'normal', 'image/png'), ('GEOGRAPHICALNAMES.NAMES', 'normal', 'image/png'), ('GEOGRAPHICALNAMES.NAMES', 'PCI vecteur', 'image/png'),
                 ('TRANSPORTNETWORKS.ROADS', 'normal', 'image/png'), ('HYDROGRAPHY.HYDROGRAPHY', 'normal', 'image/png'), ('ADMINEXPRESS-COG.LATEST', 'normal', 'image/png'), ('LIMITES_ADMINISTRATIVES_EXPRESS.LATEST', 'normal', 'image/png'),
                 ('CADASTRALPARCELS.PARCELLAIRE_EXPRESS', 'PCI vecteur', 'image/png'), ('ORTHOIMAGERY.ORTHOPHOTOS', 'normal', 'image/jpeg')]:
