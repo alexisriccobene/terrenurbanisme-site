@@ -230,7 +230,7 @@
               if (big && c.contour){ big.fitBounds(L.geoJSON(c.contour).getBounds(), { padding:[20,20] }); montrerCommune(c.contour); }
               else if (big && c.centre) big.setView([c.centre.coordinates[1], c.centre.coordinates[0]], 14);
             }).catch(function(){});
-            var r = $('result'); if (r) r.innerHTML = '<div class="v-title">Trouvez votre terrain sur la carte</div><p class="v-why">Zoomez sur votre terrain (le plan affiche les villages, routes et cours d\'eau ; passez en « Photo » pour voir les constructions), puis cliquez sur la parcelle : sa référence s\'affiche et l\'analyse démarre.</p>';
+            var r = $('result'); if (r) r.innerHTML = '<div class="v-title">Trouvez votre terrain sur la carte</div><p class="v-why">Zoomez sur votre terrain (le plan affiche les villages, routes et cours d\'eau ; passez en « Satellite » pour voir les constructions), puis cliquez sur la parcelle : sa référence s\'affiche et l\'analyse démarre.</p>';
           }).catch(function(){ errEl.textContent = 'Le service est momentanément indisponible. Réessayez dans un instant.'; });
           return;
         }
@@ -298,7 +298,7 @@
     function auto(){ if (!manuel) poser(m.getZoom() >= 17 ? photo : plan); }
     var Ctl = L.Control.extend({ options:{ position:pos || 'topright' }, onAdd:function(){
       var d = L.DomUtil.create('div', 'fond-ctl');
-      d.innerHTML = '<button type="button" data-f="plan">Plan</button><button type="button" data-f="photo">Photo</button>';
+      d.innerHTML = '<button type="button" data-f="plan">Plan</button><button type="button" data-f="photo">Satellite</button>';
       L.DomEvent.disableClickPropagation(d);
       d.addEventListener('click', function(e){ var b = e.target.closest('button'); if (!b) return; manuel = true; poser(b.getAttribute('data-f') === 'photo' ? photo : plan); });
       this._d = d; return d; } });
@@ -351,7 +351,7 @@
       big.fitBounds([[41.3, -4.9], [51.1, 9.6]]);
       fonds(big, 15, 'bottomright');
       if (dernierContour) setTimeout(function(){ montrerCommune(dernierContour); }, 0);
-      L.control.zoom({ position:'topright' }).addTo(big);
+      L.control.zoom({ position:'bottomright' }).addTo(big);   // le bandeau d'aide occupe le haut de la carte sur téléphone
       big.on('click', function(ev){
         var c = [ +ev.latlng.lng.toFixed(6), +ev.latlng.lat.toFixed(6) ];
         if (big.getZoom() < 16){ big.setView(ev.latlng, 18); panelMsg('Zoomez encore puis cliquez sur votre parcelle.'); return; }
