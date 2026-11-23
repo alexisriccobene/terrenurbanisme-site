@@ -1,0 +1,33 @@
+name: Communes FRR (France Ruralités Revitalisation)
+# Télécharge la liste officielle des communes FRR / FRR+ (ANCT, collectivites-locales.gouv.fr),
+# la convertit en JSON {insee: statut} et la dépose dans le stockage (foncier/frr.json).
+on:
+  workflow_dispatch:
+    inputs:
+      deposer: { description: "Déposer dans le stockage (oui/non)", required: false, default: "non" }
+      voir: { description: "Codes INSEE à afficher", required: false, default: "" }
+permissions:
+  contents: read
+jobs:
+  f:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      SR: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+      U: https://nmoigruxnhsidrhqtzid.supabase.co
+      DEPOSER: ${{ github.event.inputs.deposer }}
+      VOIR: ${{ github.event.inputs.voir }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Télécharger et convertir
+        run: |
+          set -euo pipefail
+          pip install -q openpyxl
+          curl -sSfL -A 'TerrenUrbanisme/1.0' -o frr.xlsx "https://www.collectivites-locales.gouv.fr/files/files/3.%20Animer%20les%20territoires/5.%20La%20coh%C3%A9sion%20territoriale%20et%20l'am%C3%A9nagement%20du%20territoire/Liste%20communes%20FRR_juillet2025.xlsx"
+          ls -l frr.xlsx
+          python3 .github/scripts/frr.py frr.xlsx frr.json
+          python3 -c "import json,os; c=json.load(open('frr.json'))['c']; print('VOIR', [(i, c.get(i)) for i in os.environ.get('VOIR','').split()])"
+      - name: Déposer
+        if: env.DEPOSER == 'oui'
+        run: |
+          curl -sSf -X POST "$U/storage/v1/object/foncier/frr.json" -H "Authorization: Bearer $SR" -H "apikey: $SR" -H "x-upsert: true" -H "Content-Type: application/json" --data-binary @frr.json -o /dev/null -w "%{http_code}\n"

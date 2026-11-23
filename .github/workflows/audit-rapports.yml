@@ -1,0 +1,67 @@
+name: Audit national des rapports
+# Génère des rapports d'aperçu dans chaque département (grande et petite commune) et contrôle leur contenu.
+on:
+  workflow_dispatch:
+    inputs:
+      n: { description: "communes par département", required: false, default: "2" }
+      etiquette: { description: "nom du lot", required: true, default: "national" }
+      deps: { description: "départements (vide = toute la France)", required: false, default: "" }
+permissions:
+  contents: write
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    strategy:
+      fail-fast: false
+      max-parallel: 4
+      matrix:
+        include: [{"g": "1", "deps": "01 07 13 19 24 30 36 42 48 54 60 66 72 78 84 90 971"}, {"g": "2", "deps": "02 08 14 2A 25 31 37 43 49 55 61 67 73 79 85 91 972"}, {"g": "3", "deps": "03 09 15 2B 26 32 38 44 50 56 62 68 74 80 86 92 973"}, {"g": "4", "deps": "04 10 16 21 27 33 39 45 51 57 63 69 75 81 87 93 974"}, {"g": "5", "deps": "05 11 17 22 28 34 40 46 52 58 64 70 76 82 88 94 976"}, {"g": "6", "deps": "06 12 18 23 29 35 41 47 53 59 65 71 77 83 89 95"}]
+    env:
+      KEY: ${{ secrets.TU_ADMIN_KEY }}
+      REF: nmoigruxnhsidrhqtzid
+      N: ${{ github.event.inputs.n }}
+      DEPS_ALL: ${{ matrix.deps }}
+      DEPS_IN: ${{ github.event.inputs.deps }}
+      G: ${{ matrix.g }}
+    steps:
+      - uses: actions/checkout@v4
+        with: { sparse-checkout: .github/scripts }
+      - run: sudo apt-get install -y -qq poppler-utils >/dev/null
+      - name: Générer et contrôler
+        run: |
+          if [ -n "$DEPS_IN" ]; then D=""; for d in $DEPS_IN; do case " $DEPS_ALL " in *" $d "*) D="$D $d";; esac; done; else D="$DEPS_ALL"; fi
+          [ -z "$D" ] && { mkdir -p out; echo '[]' > out/resultats.json; exit 0; }
+          DEPS="$D" OUT=out python3 .github/scripts/audit_rapports.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: audit-${{ matrix.g }}
+          path: out
+          retention-days: 5
+  bilan:
+    needs: audit
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { sparse-checkout: README.md }
+      - uses: actions/download-artifact@v4
+        with: { path: lots }
+      - name: Bilan et dépôt
+        env:
+          ETQ: ${{ github.event.inputs.etiquette }}
+        run: |
+          python3 - <<'PY'
+          import json, glob, collections
+          res = []
+          for f in glob.glob('lots/*/resultats.json'): res += json.load(open(f))
+          json.dump(res, open('resultats.json', 'w'), ensure_ascii=False, indent=1)
+          c = collections.Counter(k for r in res for k in r.get('flags', {}))
+          err = [r for r in res if r.get('erreur')]
+          L = ['# Audit ' + str(len(res)) + ' rapports', '', 'Sans PDF ou sans parcelle : ' + str(len(err)), ''] + ['- ' + k + ' : ' + str(v) for k, v in c.most_common()]
+          open('bilan.md', 'w').write('\n'.join(L) + '\n'); print('\n'.join(L))
+          PY
+          git config user.name "TerrenUrbanisme tests"; git config user.email "contact@terrenurbanisme.com"
+          mkdir -p /tmp/a && cp resultats.json bilan.md /tmp/a/ && mkdir -p /tmp/a/textes && cp lots/*/*.txt /tmp/a/textes/ 2>/dev/null || true
+          git checkout -q --orphan audit-rapports && git rm -rqf . ; git sparse-checkout disable || true
+          rm -rf lots; cp -r /tmp/a/* . && git add -A && git commit -qm "Audit $ETQ" && git push -qf origin audit-rapports
