@@ -320,7 +320,7 @@
   if (scope && window.L){
     try {
       map = L.map('map', { zoomControl:false, scrollWheelZoom:false, dragging:true, tap:true, attributionControl:true, minZoom:3, maxZoom:20, zoomSnap:0.25 });
-      map.fitBounds([[41.3, -4.9], [51.1, 9.6]], { paddingTopLeft:[10, 50], paddingBottomRight:[10, 90] });   // France métropolitaine et Corse, entières
+      map.fitBounds([[41.3, -4.9], [51.1, 9.6]], { paddingTopLeft:[10, 10], paddingBottomRight:[10, 90] });   // France métropolitaine et Corse, entières
       fonds(map, 16);
       L.control.zoom({ position:'topright' }).addTo(map);
       var hint = scope.querySelector('.hint span');

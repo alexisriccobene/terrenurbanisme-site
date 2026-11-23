@@ -96,7 +96,7 @@ p{margin:0}
 .scope.found .result{transform:none}
 @media (max-width:620px){
   .scope{min-height:0}
-  #map{position:relative;height:340px}
+  #map{position:relative;height:400px}
   .result{position:relative;inset:auto;width:auto;transform:none;display:none;border-radius:0;box-shadow:none;border-top:1px solid var(--ligne)}
   .scope.found .result{display:block}
   .scope .hint{white-space:normal;width:calc(100% - 32px)}
