@@ -15,11 +15,9 @@ def tab(rid, q):
         print('TAB', rid, r.status_code, r.text[:900])
     except Exception as e: print('TAB err', e)
 import sys
-for rid in ['129f764d-b613-44e4-952c-5ff50a8c9b73', '55b34088-0964-415f-9df7-d87dd98a09be']:
-    tab(rid, {'page_size': 2})
-    for col in ['INSEE_C__exact', 'insee_c__exact', 'INSEE__exact']:
-        tab(rid, {col: '2B096'})
-for rid in ['cc062fa7-4a80-449c-ab73-d2856b455ec9', '132ed35f-db38-48d9-a31f-3dd7a0942cd9']:
-    tab(rid, {'page_size': 1})
-for q in ['BPE base permanente équipements', 'équipements géolocalisés insee']:
-    print('\n=====', q); ds(q, 8)
+r = S.get('https://tabular-api.data.gouv.fr/api/resources/cc062fa7-4a80-449c-ab73-d2856b455ec9/data/', params={'commune__exact': '2B096', 'page_size': 3}, timeout=60)
+print('COPRO', r.status_code); j = r.json()
+for x in j.get('data', [])[:3]: print(json.dumps(x, ensure_ascii=False)[:2500])
+print('total', j.get('meta'))
+for q in [{'page_size': 2}, {'DEPCOM__exact': '2B096', 'page_size': 3}, {'depcom__exact': '2B096', 'page_size': 3}]:
+    tab('f7babc17-55e1-4eea-81bd-cfaaea9b37bd', q)
