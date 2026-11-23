@@ -7,7 +7,7 @@ def ds(q, n=6):
         print('\nDS', d['id'], '|', d['title'][:90], '|', (d.get('organization') or {}).get('name', '')[:40], '| maj', (d.get('last_modified') or '')[:10])
         for rs in d.get('resources', [])[:12]:
             print('   R', rs['id'], rs.get('format'), (rs.get('filesize') or 0) // 1000000, 'Mo', '|', rs['title'][:80])
-for q in ['carte des loyers indicateurs de loyers d\'annonce commune', 'registre national copropriétés', 'base permanente des équipements géolocalisés', 'zonage climatique RE2020', 'zones de neige vent eurocode']:
+for q in []:
     print('\n=====', q); ds(q)
 def tab(rid, q):
     try:
@@ -15,3 +15,11 @@ def tab(rid, q):
         print('TAB', rid, r.status_code, r.text[:900])
     except Exception as e: print('TAB err', e)
 import sys
+for rid in ['129f764d-b613-44e4-952c-5ff50a8c9b73', '55b34088-0964-415f-9df7-d87dd98a09be']:
+    tab(rid, {'page_size': 2})
+    for col in ['INSEE_C__exact', 'insee_c__exact', 'INSEE__exact']:
+        tab(rid, {col: '2B096'})
+for rid in ['cc062fa7-4a80-449c-ab73-d2856b455ec9', '132ed35f-db38-48d9-a31f-3dd7a0942cd9']:
+    tab(rid, {'page_size': 1})
+for q in ['BPE base permanente équipements', 'équipements géolocalisés insee']:
+    print('\n=====', q); ds(q, 8)
