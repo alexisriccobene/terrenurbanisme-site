@@ -3,6 +3,7 @@
   var $ = function (id) { return document.getElementById(id); };
   var A = window.TUAuth, id = new URLSearchParams(location.search).get('id') || '';
   var LIB = {
+    'Le bien et son marché': 'Prix et loyers du secteur, DPE, copropriété, services à proximité',
     'Identification de la parcelle': 'Localisation, surface, références cadastrales',
     'Règles d\'urbanisme applicables': 'Document d\'urbanisme, zone, prescriptions, servitudes',
     'Ce que vous pouvez construire': 'Règlement de la zone, surface constructible, implantation',
@@ -21,6 +22,7 @@
   };
   // Ce que le client ne verra plus si la rubrique est décochée
   var DEL = {
+    'Le bien et son marché': 'les prix et loyers du secteur, le DPE, la copropriété et les services à proximité',
     'Identification de la parcelle': 'la fiche de la parcelle, les plans de situation et la vue aérienne',
     'Règles d\'urbanisme applicables': 'la zone du PLU, le plan de zonage, les prescriptions et les servitudes',
     'Ce que vous pouvez construire': 'les règles de la zone, la surface constructible et le plan d\'implantation',
