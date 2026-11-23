@@ -1,0 +1,5 @@
+['/sites/aida/files/gesdoc/24878/a261010_01.JPG', '/sites/aida/files/gesdoc/24879/a261010_02.JPG', '/sites/aida/files/gesdoc/24880/a261010_03.JPG', '/sites/aida/files/gesdoc/24881/a261010_04.JPG']
+/tmp/out/a261010_01.JPG 200 53088
+/tmp/out/a261010_02.JPG 200 86139
+/tmp/out/a261010_03.JPG 200 84605
+/tmp/out/a261010_04.JPG 200 71429
