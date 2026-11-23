@@ -304,7 +304,7 @@
       this._d = d; return d; } });
     var ctl = new Ctl(); ctl.addTo(m);
     function maj(){ var d = ctl._d; if (!d) return; [].forEach.call(d.querySelectorAll('button'), function(b){ b.classList.toggle('on', (b.getAttribute('data-f') === 'photo') === (courant === photo)); }); }
-    cad.addTo(m); auto(); m.on('zoomend', auto);
+    auto(); cad.addTo(m); m.on('zoomend', auto);
   }
   /* contour de la commune choisie, sur les deux cartes */
   var contours = [], dernierContour = null;
@@ -319,7 +319,8 @@
   var small = function(){ return window.innerWidth <= 620; };
   if (scope && window.L){
     try {
-      map = L.map('map', { zoomControl:false, scrollWheelZoom:false, dragging:true, tap:true, attributionControl:true, maxZoom:20 }).setView([46.6, 2.4], 6);
+      map = L.map('map', { zoomControl:false, scrollWheelZoom:false, dragging:true, tap:true, attributionControl:true, minZoom:3, maxZoom:20 });
+      map.fitBounds([[41.3, -4.9], [51.1, 9.6]]);   // France métropolitaine et Corse, entières
       fonds(map, 16);
       L.control.zoom({ position:'topright' }).addTo(map);
       var hint = scope.querySelector('.hint span');
@@ -346,7 +347,8 @@
     if (!rsec) return;
     rsec.hidden = false;
     if (!big && window.L){
-      big = L.map('bigmap', { zoomControl:false, scrollWheelZoom:true, maxZoom:20 }).setView([46.6, 2.4], 6);
+      big = L.map('bigmap', { zoomControl:false, scrollWheelZoom:true, minZoom:3, maxZoom:20 });
+      big.fitBounds([[41.3, -4.9], [51.1, 9.6]]);
       fonds(big, 15, 'bottomright');
       if (dernierContour) setTimeout(function(){ montrerCommune(dernierContour); }, 0);
       L.control.zoom({ position:'topright' }).addTo(big);
