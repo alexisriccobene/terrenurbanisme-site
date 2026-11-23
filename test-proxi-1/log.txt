@@ -1,0 +1,24 @@
+
+##### Montpellier
+SIRENE 47.73Z 200 0.6 s 94 [('PHARMACIE DES ARCEAUX SNC', [(None, '43.6123162588979', '3.86700906167392', 'A'), (None, '43.610968266', '3.8666775405', 'A')]), ('BRIGITTE DE MARI (RIVET)', [(None, '43.6340259030446', '3.84451015007009', 'A'), (None, '43.633662931061', '3.85702879983098', 'A')]), ('ADRIEN CONDAT', [(None, '43.6127521917462', '3.87553177189284', 'A')])]
+SIRENE 10.71C 200 0.2 s 130 [('COTE BOULANGE', [(None, '43.651557301804', '3.83609528448089', 'A')]), ('GALZIN LANGUEDOC', [('GALZIN', '43.626632051', '3.8663951921', 'A')]), ('DANIEL ROUX', [(None, '43.614469548', '3.8365152098', 'A')])]
+SIRENE 47.11D,47.11F 200 0.2 s 28 [('LIDL (LIDL)', [(None, '43.611007636', '3.8280004948', 'A')]), ('DISTRIBUTION CASINO FRANCE (DCF)', [(None, '43.6105468866841', '3.84024456081511', 'A')]), ('AUCHAN SUPERMARCHE', [(None, '43.633299745', '3.8340188554', 'A')])]
+SIRENE 86.21Z 200 0.1 s 1121 [('ASSOCIATION NATIONALE DE PREVENTION EN ALCOOLOGIE ET ADDICTOLOGIE (ANPAA)', [(None, '43.610258817', '3.8531491589', 'F')]), ('ENSANTE !', [('ENSANTE ! - MEDITERRANEE MONTPELLIER EUROMEDECINE', '43.646911303', '3.8402526433', 'A')]), ('FRANCOIS KLEIN', [(None, '43.6175296861183', '3.87925024101189', 'A')])]
+EDUC 200 1.2 s {"total_count": 125, "results": [{"nom_etablissement": "Institut m\u00e9dico-\u00e9ducatif du Ch\u00e2teau d'O", "type_etablissement": "M\u00e9dico-social", "ecole_maternelle": null, "ecole_elementaire": null, "position": {"lon": 3.842360078196175, "lat": 43.629938028979005}, "statut_public_prive": "Priv\u00e9"}, {"nom_etablissement": "Institut m\u00e9dico-\u00e9ducatif les Muriers", "type_etablissement": "M\u00e9dico-social", "ecole_maternelle": null, "ecole_elementaire": null, "position": {"lon": 3.8505002889909656, "lat": 43.626092645894026}, "statut_public_prive": "Priv\u00e9"}, {"nom_etablissement": "Etablissement Exp\u00e9rimental pour Enfance Handicap\u00e9e, Centre de Ressource sur l
+SNCF 200 0.4 s {"total_count": 6, "results": [{"nom": "Montpellier Saint-Roch", "libellecourt": "MPL", "segment_drg": "A", "position_geographique": {"lon": 3.880674, "lat": 43.604738}, "codeinsee": "34172", "codes_uic": "87773002", "id": "3a8d2e95-4378-4d72-ba9b-0e082dfb8916"}, {"nom": "Montpellier Sud de France", "libellecourt": "MSF", "segment_drg": "A", "position_geographique": {"lon": 3.924623, "lat": 43.594787}, "codeinsee": "34172", "codes_uic": "87688887", "id": "44e6286d-09b7-476c-8bc5-b32822c32c21"}]}
+
+##### Corte
+SIRENE err 47.73Z Expecting value: line 1 column 1 (char 0)
+SIRENE 10.71C 200 0.1 s 17 [('CASANOVA 1887', [(None, '42.2948274198919', '9.16978686917753', 'A'), (None, '42.3059772703428', '9.15109450750952', 'A')]), ('U FURNELLU DI ANGHJULU', [(None, '42.31626053', '9.1498116864', 'A'), (None, '42.304888341', '9.1513300022', 'A')]), ('U PANATERU', [(None, '42.304888341', '9.1513300022', 'F'), (None, '42.303678939', '9.1497145603', 'A')])]
+SIRENE err 47.11D,47.11F Expecting value: line 1 column 1 (char 0)
+SIRENE 86.21Z 200 0.1 s 18 [("GROUPEMENT D'IMAGERIE MEDICALE", [(None, '42.302205811', '9.1669218685', 'A')]), ('JEAN LESCHI', [(None, '42.3097784289707', '9.14999793822334', 'F'), (None, '42.3091680104435', '9.15025669928378', 'F')]), ('PIERRE ANTHONY HELMBOLD', [(None, '42.300078525', '9.1575632459', 'A')])]
+EDUC 200 0.1 s {"total_count": 10, "results": [{"nom_etablissement": "Lyc\u00e9e Pascal Paoli", "type_etablissement": "Lyc\u00e9e", "ecole_maternelle": null, "ecole_elementaire": null, "position": {"lon": 9.151946616852923, "lat": 42.304579321824605}, "statut_public_prive": "Public"}, {"nom_etablissement": "Section d'enseignement g\u00e9n\u00e9ral et professionnel adapt\u00e9 du Coll\u00e8ge Pascal Paoli", "type_etablissement": "Coll\u00e8ge", "ecole_maternelle": null, "ecole_elementaire": null, "position": {"lon": 9.151946616852923, "lat": 42.304579321824605}, "statut_public_prive": "Public"}, {"nom_etablissement": "Coll\u00e8ge Pascal Paoli", "type_etablissement": "Coll\u00e8ge", "ecole_maternelle": null
+SNCF 200 0.2 s {"total_count": 0, "results": []}
+
+##### Sotta
+SIRENE 47.73Z 200 2.7 s 0 []
+SIRENE 10.71C 200 0.2 s 1 [('BOULANGERIE ARTISANALE DE SOTTA', [(None, '41.544469982', '9.1959266746', 'A')])]
+SIRENE 47.11D,47.11F 200 0.1 s 0 []
+SIRENE 86.21Z 200 1.2 s 3 [("SOCIETE D'EXERCICE LIBERAL A RESPONSABILITE             LIMITEE DE MEDECINS   CABINET DU DOCTEUR", [(None, '41.5453850810192', '9.19306596070155', 'A')]), ('BRUNO MALFATTI', [(None, '41.544188328', '9.2006929168', 'A')]), ('FRANCOIS RONDEAU', [(None, '41.545223545', '9.1920245641', 'A')])]
+EDUC 200 0.1 s {"total_count": 1, "results": [{"nom_etablissement": "Ecole primaire Sotta", "type_etablissement": "Ecole", "ecole_maternelle": 1, "ecole_elementaire": 1, "position": {"lon": 9.198700202993223, "lat": 41.54419896529486}, "statut_public_prive": "Public"}]}
+SNCF 200 0.1 s {"total_count": 0, "results": []}
