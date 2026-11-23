@@ -1,1 +1,1 @@
-{"fonction": "create-checkout", "script": "checkout_profil.py", "demande": "checkout-profil"}
+{"fonction": "stripe-webhook", "script": "profils2.py", "demande": "profils-2"}
