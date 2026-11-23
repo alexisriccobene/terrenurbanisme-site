@@ -1,0 +1,57 @@
+name: Test d'un rapport (serveur GitHub)
+# Outil interne : génère un rapport d'aperçu sur un serveur GitHub (mêmes conditions que les commandes réelles), avec le journal.
+on:
+  workflow_dispatch:
+    inputs:
+      parcelle: { description: "insee:section:numero", required: true }
+      profil: { description: "particulier, agent, notaire ou moe", required: false, default: '' }
+permissions:
+  contents: write
+jobs:
+  t:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
+      KEY: ${{ secrets.TU_ADMIN_KEY }}
+      REF: nmoigruxnhsidrhqtzid
+      SR: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      P: ${{ inputs.parcelle }}
+      PR: ${{ inputs.profil }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: .github/deploy
+      - uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+      - name: Préparer
+        run: |
+          set -euo pipefail
+          [[ "$P" =~ ^[0-9AB]{5}:[0-9A-Z]{1,2}:[0-9]{1,4}$ ]] || exit 1
+          [[ -z "$PR" || "$PR" =~ ^(particulier|agent|notaire|moe)$ ]] || exit 1
+          K=$(curl -sf -X POST "https://api.supabase.com/v1/projects/$REF/database/query" -H "Authorization: Bearer $SUPABASE_ACCESS_TOKEN" -H "Content-Type: application/json" \
+            -d '{"query":"select decrypted_secret as k from vault.decrypted_secrets where name = '\''tu_deploy_key'\'' limit 1"}' | jq -r '.[0].k')
+          [ ${#K} -eq 64 ] || { echo "::error::clé introuvable"; exit 1; }
+          printf '%s' "$K" > "$RUNNER_TEMP/k"
+          mkdir -p fn && openssl enc -d -aes-256-cbc -pbkdf2 -iter 200000 -in .github/deploy/stripe-webhook.ts.enc -out fn/index.ts -pass "file:$RUNNER_TEMP/k"; rm -f "$RUNNER_TEMP/k"
+      - name: Générer
+        env:
+          SUPABASE_URL: https://nmoigruxnhsidrhqtzid.supabase.co
+          SITE_URL: https://terrenurbanisme.com
+        run: |
+          set -uo pipefail
+          export SUPABASE_SERVICE_ROLE_KEY="$SR" ADMIN_KEY="$KEY" TU_LOCAL=1
+          IFS=: read I S N <<< "$P"
+          deno run -A --no-check fn/index.ts > srv.log 2>&1 &
+          for i in $(seq 1 90); do curl -s -o /dev/null http://localhost:8000/ && break; sleep 2; done
+          mkdir -p /tmp/out
+          code=$(curl -s -m 900 -o /tmp/out/rapport.pdf -w '%{http_code}' -X POST "http://localhost:8000/?key=$KEY&insee=$I&section=$S&numero=$N${PR:+&profil=$PR}" -H "x-tu-admin: $KEY")
+          echo "HTTP $code"
+          grep -v "^\s*$" srv.log | grep -iv "key\|token\|secret" | tail -80 > /tmp/out/journal.txt; tail -40 /tmp/out/journal.txt
+          rm -rf fn
+          D="gh-$I-$S-$N${PR:+-$PR}"
+          git config user.name "TerrenUrbanisme tests"; git config user.email "contact@terrenurbanisme.com"
+          git checkout -q --orphan tmp; git rm -rqf . || true; git sparse-checkout disable || true
+          mkdir -p "$D"; mv /tmp/out/* "$D"/; git add "$D"; git commit -qm "Test $P $PR"; git push -qf origin tmp:t-$D

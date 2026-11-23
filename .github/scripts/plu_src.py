@@ -1,0 +1,53 @@
+# Télécharge les sources des PLU non publiés listées dans .github/plu/sources.json (exécuté dans le clone de la branche plu-src)
+import json, os, subprocess, hashlib, re, urllib.request, urllib.parse
+UA = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36'}
+def get(u, timeout=600):
+    with urllib.request.urlopen(urllib.request.Request(u, headers=UA), timeout=timeout) as r: return r.status, r.headers.get('Content-Type', ''), r.read()
+def wpdm(u, html=b''):
+    # WordPress Download Manager : /download/<slug>/ -> ?wpdmdl=<id>
+    m = re.search(r'^(https?://[^/]+)/download/([^/]+)/?', u)
+    if not m: return None
+    t = html.decode('utf-8', 'ignore')
+    k = re.search(r'wpdmdl=(\d+)', t) or re.search(r"rel=.shortlink. href=.[^'\"]*\?p=(\d+)", t) or re.search(r'postid-(\d+)', t) or re.search(r'data-(?:pid|id)=.(\d+)', t)
+    if k: return f'{u.rstrip("/")}/?wpdmdl={k.group(1)}'
+    try:
+        _, _, b = get(f'{m.group(1)}/wp-json/wp/v2/wpdmpro?slug={m.group(2)}', 60)
+        J = json.loads(b)
+        if J: return f'{u.rstrip("/")}/?wpdmdl={J[0]["id"]}'
+    except Exception as e: print('  wpdm', e)
+    return None
+S = json.load(open('../.github/plu/sources.json'))
+for ins, files in S.items():
+    h = hashlib.md5(json.dumps(files, sort_keys=True).encode()).hexdigest()
+    if os.path.exists(f'{ins}/.sources') and open(f'{ins}/.sources').read() == h: continue
+    subprocess.run(['rm', '-rf', ins]); os.makedirs(ins)
+    for kind in ('parcelles', 'batiments'):
+        for essai in range(5):
+            try:
+                st, ct, b = get(f'https://cadastre.data.gouv.fr/data/etalab-cadastre/latest/geojson/communes/{ins[:2]}/{ins}/cadastre-{ins}-{kind}.json.gz', 300)
+                if b[:2] == b'\x1f\x8b': open(f'{ins}/cadastre-{kind}.json.gz', 'wb').write(b); print(ins, 'cadastre', kind, len(b)); break
+            except Exception as e: print(ins, 'cadastre', kind, 'essai', essai, str(e)[:80])
+            import time; time.sleep(10)
+    tout_ok = True
+    for n, u in files.items():
+        if '/' in n or n.startswith(('.', '_')): continue
+        try:
+            st, ct, b = get(u, 120)
+            if 'html' in ct.lower() and not b.startswith(b'%PDF'):
+                u2 = wpdm(u, b)
+                if u2: st, ct, b = get(u2)
+            ok = b.startswith(b'%PDF') or b[:2] == b'PK'
+            print(ins, n, st, len(b), 'OK' if ok else 'PAS UN PDF ' + ct)
+            if ok and len(b) < 95e6: open(f'{ins}/{n}', 'wb').write(b)
+            if not ok: raise Exception('pas un pdf')
+        except Exception as e:
+            print(ins, n, 'ERREUR', str(e)[:120])
+            # Repli : copie de l'archive du web (serveurs municipaux qui refusent les IP hors de France)
+            try:
+                st, ct, b = get('https://web.archive.org/web/2026id_/' + u, 300)
+                ok = b.startswith(b'%PDF') or b[:2] == b'PK'
+                print(ins, n, 'ARCHIVE', st, len(b), 'OK' if ok else 'PAS UN PDF')
+                if ok and len(b) < 95e6: open(f'{ins}/{n}', 'wb').write(b)
+                else: tout_ok = False
+            except Exception as e2: print(ins, n, 'ARCHIVE ERREUR', str(e2)[:120]); tout_ok = False
+    if tout_ok: open(f'{ins}/.sources', 'w').write(h)
