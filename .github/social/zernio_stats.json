@@ -1,0 +1,822 @@
+{
+ "genere": "2026-11-21T17:08+01:00",
+ "posts": {
+  "posts": [
+   {
+    "_id": "6aff58006d5355fc88b5379f",
+    "userId": {
+     "_id": "6afdca3046a6457ab61f1147"
+    },
+    "content": "Une piscine dans votre jardin : est-ce autorisé chez vous ?\n\nTout dépend du règlement de v",
+    "mediaItems": [
+     {
+      "_id": "6aff58016d5355fc88b537b2",
+      "url": "https://media.zernio.com/media/1795119102844_25a7f0b18fe73901_TU-Reel-03.mp4"
+     }
+    ],
+    "scheduledFor": "2026-11-26T17:00:00.000Z",
+    "status": "scheduled",
+    "createdAt": "2026-11-19T20:11:45.190Z",
+    "platforms": [
+     {
+      "_id": "6aff58016d5355fc88b537b0",
+      "platform": "tiktok",
+      "accountId": {
+       "_id": "6afdcb05f4f13bacbd3d1591",
+       "platform": "tiktok"
+      },
+      "scheduledFor": "2026-11-26T17:00:00.000Z",
+      "status": "pending"
+     }
+    ]
+   },
+   {
+    "_id": "6aff57fdad189d024ac4a16c",
+    "userId": {
+     "_id": "6afdca3046a6457ab61f1147"
+    },
+    "content": "Agrandir sa maison",
+    "mediaItems": [
+     {
+      "_id": "6aff57fead189d024ac4a170",
+      "url": "https://media.zernio.com/media/1795119100865_5f2ea61e2dc3944d_LI-2026-11-21.jpg"
+     }
+    ],
+    "scheduledFor": "2026-11-25T17:00:00.000Z",
+    "status": "scheduled",
+    "createdAt": "2026-11-19T20:11:42.622Z",
+    "platforms": [
+     {
+      "_id": "6aff57fead189d024ac4a16e",
+      "platform": "tiktok",
+      "accountId": {
+       "_id": "6afdcb05f4f13bacbd3d1591",
+       "platform": "tiktok"
+      },
+      "scheduledFor": "2026-11-25T17:00:00.000Z",
+      "status": "pending"
+     }
+    ]
+   },
+   {
+    "_id": "6aff57fba778149aefbecf38",
+    "userId": {
+     "_id": "6afdca3046a6457ab61f1147"
+    },
+    "content": "Constructible ou pas ? Vous avez 3 secondes.\n\nVous aviez répondu oui ou non ?\n\nterrenurban",
+    "mediaItems": [
+     {
+      "_id": "6aff57fca778149aefbecf3c",
+      "url": "https://media.zernio.com/media/1795119098257_778564b4c915b5ff_TK-TU-Serie-02.mp4"
+     }
+    ],
+    "scheduledFor": "2026-11-24T17:00:00.000Z",
+    "status": "scheduled",
+    "createdAt": "2026-11-19T20:11:40.648Z",
+    "platforms": [
+     {
+      "_id": "6aff57fca778149aefbecf3a",
+      "platform": "tiktok",
+      "accountId": {
+       "_id": "6afdcb05f4f13bacbd3d1591",
+       "platform": "tiktok"
+      },
+      "scheduledFor": "2026-11-24T17:00:00.000Z",
+      "status": "pending"
+     }
+    ]
+   },
+   {
+    "_id": "6b00869297bb35e1b98797fb",
+    "userId": {
+     "_id": "6afdca3046a6457ab61f1147"
+    },
+    "content": "Un terrain à 150 000 €. Plus de 10 000 € de frais de notaire. Et une seule question qui dé",
+    "mediaItems": [
+     {
+      "_id": "6b00869297bb35e1b987980d",
+      "url": "https://media.zernio.com/media/1795196561028_ce6ed8ccf89dd869_yt-j-2026-11-23.mp4"
+     }
+    ],
+    "scheduledFor": "2026-11-23T17:00:00.000Z",
+    "status": "scheduled",
+    "createdAt": "2026-11-20T17:42:42.844Z",
+    "platforms": [
+     {
+      "_id": "6b00869297bb35e1b987980b",
+      "platform": "youtube",
+      "accountId": {
+       "_id": "6afedbd8a7188eb33bc575ad",
+       "platform": "youtube"
+      },
+      "scheduledFor": "2026-11-23T17:00:00.000Z",
+      "status": "pending"
+     }
+    ]
+   },
+   {
+    "_id": "6aff57f94ca23faf59150deb",
+    "userId": {
+     "_id": "6afdca3046a6457ab61f1147"
+    },
+    "content": "Vérifier coûte moins qu'un plein",
+    "mediaItems": [
+     {
+      "_id": "6aff57fa4ca23faf59150dee",
+      "url": "https://media.zernio.com/media/1795119096129_a4d3b02be9286a9a_Pub-risques-2.jpg"
+     }
+    ],
+    "scheduledFor": "2026-11-23T17:00:00.000Z",
+    "status": "scheduled",
+    "createdAt": "2026-11-19T20:11:38.020Z",
+    "platforms": [
+     {
+      "_id": "6aff57fa4ca23faf59150dec",
+      "platform": "tiktok",
+      "accountId": {
+       "_id": "6afdcb05f4f13bacbd3d1591",
+       "platform": "tiktok"
+      },
+      "scheduledFor": "2026-11-23T17:00:00.000Z",
+      "status": "pending"
+     }
+    ]
+   },
+   {
+    "_id": "6aff5808a778149aefbecfab",
+    "userId": {
+     "_id": "6afdca3046a6457ab61f1147"
+    },
+    "content": "Vous vendez un terrain ou une maison avec du foncier ?\n\nUn acheteur ne paie pas des mètres",
+    "mediaItems": [
+     {
+      "_id": "6aff5809a778149aefbecfb8",
+      "url": "https://media.zernio.com/media/1795119111455_6e6199fc70855a33_yt-j-2026-11-22.mp4"
+     }
+    ],
+    "scheduledFor": "2026-11-22T17:00:00.000Z",
+    "status": "scheduled",
+    "createdAt": "2026-11-19T20:11:53.284Z",
+    "platforms": [
+     {
+      "_id": "6aff5809a778149aefbecfb6",
+      "platform": "youtube",
+      "accountId": {
+       "_id": "6afedbd8a7188eb33bc575ad",
+       "platform": "youtube"
+      },
+      "scheduledFor": "2026-11-22T17:00:00.000Z",
+      "status": "pending"
+     }
+    ]
+   },
+   {
+    "_id": "6aff57f6a778149aefbecf23",
+    "userId": {
+     "_id": "6afdca3046a6457ab61f1147"
+    },
+    "content": "Vendeurs : vendez mieux",
+    "mediaItems": [
+     {
+      "_id": "6aff57f7a778149aefbecf26",
+      "url": "https://media.zernio.com/media/1795119091819_ee1ff3504634936d_Mois-m11-1.jpg"
+     },
+     {
+      "_id": "6aff57f7a778149aefbecf27",
+      "url": "https://media.zernio.com/media/1795119092796_c7eba34341bf7327_Mois-m11-2.jpg"
+     },
+     {
+      "_id": "6aff57f7a778149aefbecf28",
+      "url": "https://media.zernio.com/media/1795119093682_be82c4c78bf8f921_Mois-m11-3.jpg"
+     }
+    ],
+    "scheduledFor": "2026-11-22T17:00:00.000Z",
+    "status": "scheduled",
+    "createdAt": "2026-11-19T20:11:35.786Z",
+    "platforms": [
+     {
+      "_id": "6aff57f7a778149aefbecf24",
+      "platform": "tiktok",
+      "accountId": {
+       "_id": "6afdcb05f4f13bacbd3d1591",
+       "platform": "tiktok"
+      },
+      "scheduledFor": "2026-11-22T17:00:00.000Z",
+      "status": "pending"
+     }
+    ]
+   },
+   {
+    "_id": "6aff58046d5355fc88b537cc",
+    "userId": {
+     "_id": "6afdca3046a6457ab61f1147"
+    },
+    "content": "Cette annonce peut vous coûter cher.\n\n« Terrain constructible » : sur l'annonce, tout a l'",
+    "mediaItems": [
+     {
+      "_id": "6aff58056d5355fc88b537d6",
+      "url": "https://media.zernio.com/media/1795119107442_ab9b0c07dd5eab32_TU-Serie-01.mp4"
+     }
+    ],
+    "scheduledFor": "2026-11-21T17:00:00.000Z",
+    "status": "scheduled",
+    "createdAt": "2026-11-19T20:11:49.167Z",
+    "platforms": [
+     {
+      "_id": "6aff58056d5355fc88b537d4",
+      "platform": "youtube",
+      "accountId": {
+       "_id": "6afedbd8a7188eb33bc575ad",
+       "platform": "youtube"
+      },
+      "scheduledFor": "2026-11-21T17:00:00.000Z",
+      "status": "pending"
+     }
+    ]
+   },
+   {
+    "_id": "6aff57f2a778149aefbecefb",
+    "userId": {
+     "_id": "6afdca3046a6457ab61f1147"
+    },
+    "content": "Cette annonce peut vous coûter cher.\n\nVous aviez déjà vérifié le règlement de votre terrai",
+    "mediaItems": [
+     {
+      "_id": "6aff57f3a778149aefbecf04",
+      "url": "https://media.zernio.com/media/1795119089489_463e093a6162fdad_TK-TU-Serie-01.mp4"
+     }
+    ],
+    "scheduledFor": "2026-11-21T17:00:00.000Z",
+    "status": "scheduled",
+    "createdAt": "2026-11-19T20:11:31.593Z",
+    "platforms": [
+     {
+      "_id": "6aff57f3a778149aefbecf02",
+      "platform": "tiktok",
+      "accountId": {
+       "_id": "6afdcb05f4f13bacbd3d1591",
+       "platform": "tiktok"
+      },
+      "scheduledFor": "2026-11-21T17:00:00.000Z",
+      "status": "pending"
+     }
+    ]
+   },
+   {
+    "_id": "6aff5802a778149aefbecf65",
+    "userId": {
+     "_id": "6afdca3046a6457ab61f1147"
+    },
+    "content": "Feux de forêt, inondation, retrait-gonflement des argiles : les risques changent tout dans",
+    "mediaItems": [
+     {
+      "_id": "6aff5803a778149aefbecf76",
+      "url": "https://media.zernio.com/media/1795119105478_0a08b8767b27679e_TU-Reel-07.mp4"
+     }
+    ],
+    "scheduledFor": "2026-11-20T17:00:00.000Z",
+    "status": "published",
+    "createdAt": "2026-11-19T20:11:47.208Z",
+    "platforms": [
+     {
+      "_id": "6aff5803a778149aefbecf74",
+      "platform": "youtube",
+      "accountId": {
+       "_id": "6afedbd8a7188eb33bc575ad",
+       "platform": "youtube"
+      },
+      "scheduledFor": "2026-11-20T17:00:00.000Z",
+      "status": "published",
+      "publishedAt": "2026-11-20T17:00:00.000Z",
+      "platformPostUrl": "https://www.youtube.com/watch?v=ILX97J5Pu3M"
+     }
+    ]
+   },
+   {
+    "_id": "6aff57f0a778149aefbecee2",
+    "userId": {
+     "_id": "6afdca3046a6457ab61f1147"
+    },
+    "content": "Feux de forêt, inondation, retrait-gonflement des argiles : les risques changent tout dans",
+    "mediaItems": [
+     {
+      "_id": "6aff57f1a778149aefbecee9",
+      "url": "https://media.zernio.com/media/1795119087111_b173f754cada3cba_TU-Reel-07.mp4"
+     }
+    ],
+    "scheduledFor": "2026-11-20T17:00:00.000Z",
+    "status": "published",
+    "createdAt": "2026-11-19T20:11:29.248Z",
+    "platforms": [
+     {
+      "_id": "6aff57f1a778149aefbecee7",
+      "platform": "tiktok",
+      "accountId": {
+       "_id": "6afdcb05f4f13bacbd3d1591",
+       "platform": "tiktok"
+      },
+      "scheduledFor": "2026-11-20T17:00:00.000Z",
+      "status": "published",
+      "publishedAt": "2026-11-20T17:03:49.744Z",
+      "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7710300482408926496"
+     }
+    ]
+   },
+   {
+    "_id": "6afede6b1486d934f42c5a0d",
+    "userId": {
+     "_id": "6afdca3046a6457ab61f1147"
+    },
+    "content": "Architectes, maîtres d'œuvre : avant la première esquisse, il faut les règles de la zone.\n",
+    "mediaItems": [
+     {
+      "_id": "6afede6c1486d934f42c5a10",
+      "url": "https://media.zernio.com/media/1795087978155_ae37b5b1c9685cd9_TU-Reel-21.mp4"
+     }
+    ],
+    "scheduledFor": "2026-11-19T17:00:00.000Z",
+    "status": "published",
+    "createdAt": "2026-11-19T11:33:00.412Z",
+    "platforms": [
+     {
+      "_id": "6afede6c1486d934f42c5a0e",
+      "platform": "youtube",
+      "accountId": {
+       "_id": "6afedbd8a7188eb33bc575ad",
+       "platform": "youtube"
+      },
+      "scheduledFor": "2026-11-19T17:00:00.000Z",
+      "status": "published",
+      "publishedAt": "2026-11-19T17:00:00.000Z",
+      "platformPostUrl": "https://www.youtube.com/watch?v=vtIhi4k0PWo"
+     }
+    ]
+   },
+   {
+    "_id": "6afdda7dde902f9edaf406f3",
+    "userId": {
+     "_id": "6afdca3046a6457ab61f1147"
+    },
+    "content": "30 minutes de recherches pour savoir si un terrain est constructible… ou 3 minutes.\n\nComme",
+    "mediaItems": [
+     {
+      "_id": "6afdda7ede902f9edaf406fe",
+      "url": "https://media.zernio.com/media/1795021436461_044bd3f816ae7d70_TU-Demo-v5.mp4"
+     }
+    ],
+    "scheduledFor": "2026-11-18T17:03:57.859Z",
+    "status": "published",
+    "createdAt": "2026-11-18T17:03:58.768Z",
+    "platforms": [
+     {
+      "_id": "6afdda7ede902f9edaf406fc",
+      "platform": "tiktok",
+      "accountId": {
+       "_id": "6afdcb05f4f13bacbd3d1591",
+       "platform": "tiktok"
+      },
+      "scheduledFor": "2026-11-18T17:03:57.859Z",
+      "status": "published",
+      "publishedAt": "2026-11-18T17:04:24.150Z",
+      "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7709558452682575137"
+     }
+    ]
+   },
+   {
+    "_id": "6afdcf3fff34006be3023256",
+    "userId": {
+     "_id": "6afdca3046a6457ab61f1147"
+    },
+    "content": "Avant le compromis : 5 vérifications d'urbanisme\n\nVérifiez votre terrain en quelques minut",
+    "mediaItems": [
+     {
+      "_id": "6afdcf40ff34006be302325e",
+      "url": "https://media.zernio.com/media/1795018558270_9298552c2043b8e2_TK-TU-Reel-20.mp4"
+     }
+    ],
+    "scheduledFor": "2026-11-18T17:00:00.000Z",
+    "status": "published",
+    "createdAt": "2026-11-18T16:16:00.655Z",
+    "platforms": [
+     {
+      "_id": "6afdcf40ff34006be302325c",
+      "platform": "tiktok",
+      "accountId": {
+       "_id": "6afdcb05f4f13bacbd3d1591",
+       "platform": "tiktok"
+      },
+      "scheduledFor": "2026-11-18T17:00:00.000Z",
+      "status": "published",
+      "publishedAt": "2026-11-18T17:01:31.529Z",
+      "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7709557706423618849"
+     }
+    ]
+   }
+  ]
+ },
+ "posts_p2": {},
+ "analytics": {
+  "posts": [
+   {
+    "_id": "6b00b9bb0b8668c7d1119c13",
+    "content": "Feux de forêt, inondation, retrait-gonflement des argiles : les risques changent tout dans",
+    "publishedAt": "2026-11-20T17:03:29.000Z",
+    "scheduledFor": "2026-11-20T17:03:29.000Z",
+    "status": "published",
+    "analytics": {
+     "impressions": 0,
+     "reach": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "saves": 0,
+     "clicks": 0,
+     "views": 242,
+     "igReelsAvgWatchTime": 2210,
+     "igReelsVideoViewTotalTime": 571000,
+     "profileViews": 0,
+     "websiteClicks": 0,
+     "audienceTypes": {
+      "follower": 0.01,
+      "newViewer": 0,
+      "nonFollower": 0.99,
+      "returnViewer": 0
+     },
+     "replays": 0,
+     "videoDurationSeconds": 14.722,
+     "engagementRate": 0,
+     "lastUpdated": "2026-11-21T12:40:44Z"
+    },
+    "platforms": [
+     {
+      "platform": "tiktok",
+      "status": "published",
+      "analytics": {
+       "impressions": 0,
+       "reach": 0,
+       "likes": 0,
+       "comments": 0,
+       "shares": 0,
+       "saves": 0,
+       "clicks": 0,
+       "views": 242,
+       "igReelsAvgWatchTime": 2210,
+       "igReelsVideoViewTotalTime": 571000,
+       "profileViews": 0,
+       "websiteClicks": 0,
+       "audienceTypes": {
+        "follower": 0.01,
+        "newViewer": 0,
+        "nonFollower": 0.99,
+        "returnViewer": 0
+       },
+       "replays": 0,
+       "videoDurationSeconds": 14.722,
+       "engagementRate": 0,
+       "lastUpdated": "2026-11-21T12:40:44Z"
+      },
+      "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7710300482408926496?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
+     }
+    ],
+    "platform": "tiktok",
+    "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7710300482408926496?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
+   },
+   {
+    "_id": "6aff44984930ef490b187431",
+    "content": "Votre agence remet des rapports d'urbanisme à ses clients ? Faites-le à votre image. Avec ",
+    "publishedAt": "2026-11-19T18:00:00.000Z",
+    "scheduledFor": "2026-11-19T18:00:00.000Z",
+    "status": "published",
+    "analytics": {
+     "impressions": 0,
+     "reach": 0,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "saves": 0,
+     "clicks": 0,
+     "views": 1,
+     "igReelsAvgWatchTime": 1470,
+     "igReelsVideoViewTotalTime": 7000,
+     "profileViews": 0,
+     "websiteClicks": 0,
+     "audienceTypes": {
+      "nonFollower": 1,
+      "returnViewer": 0,
+      "follower": 0,
+      "newViewer": 0
+     },
+     "replays": 0,
+     "videoDurationSeconds": 18.507,
+     "engagementRate": 0,
+     "lastUpdated": "2026-11-21T12:40:44Z"
+    },
+    "platforms": [
+     {
+      "platform": "tiktok",
+      "status": "published",
+      "analytics": {
+       "impressions": 0,
+       "reach": 0,
+       "likes": 0,
+       "comments": 0,
+       "shares": 0,
+       "saves": 0,
+       "clicks": 0,
+       "views": 1,
+       "igReelsAvgWatchTime": 1470,
+       "igReelsVideoViewTotalTime": 7000,
+       "profileViews": 0,
+       "websiteClicks": 0,
+       "audienceTypes": {
+        "nonFollower": 1,
+        "returnViewer": 0,
+        "follower": 0,
+        "newViewer": 0
+       },
+       "replays": 0,
+       "videoDurationSeconds": 18.507,
+       "engagementRate": 0,
+       "lastUpdated": "2026-11-21T12:40:44Z"
+      },
+      "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7707336997697834262?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
+     }
+    ],
+    "platform": "tiktok",
+    "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7707336997697834262?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
+   },
+   {
+    "_id": "6afdffcb0ea6490b3b87103a",
+    "content": "30 minutes de recherches pour savoir si un terrain est constructible… ou 3 minutes. Commen",
+    "publishedAt": "2026-11-18T17:04:00.000Z",
+    "scheduledFor": "2026-11-18T17:04:00.000Z",
+    "status": "published",
+    "analytics": {
+     "impressions": 0,
+     "reach": 273,
+     "likes": 12,
+     "comments": 0,
+     "shares": 0,
+     "saves": 2,
+     "clicks": 0,
+     "views": 295,
+     "igReelsAvgWatchTime": 4300,
+     "igReelsVideoViewTotalTime": 1354000,
+     "profileViews": 2,
+     "websiteClicks": 0,
+     "audienceTypes": {
+      "follower": 0.02,
+      "newViewer": 0.95,
+      "nonFollower": 0.98,
+      "returnViewer": 0.05
+     },
+     "replays": 0,
+     "videoDurationSeconds": 21.3,
+     "engagementRate": 5.13,
+     "lastUpdated": "2026-11-21T12:40:44Z"
+    },
+    "platforms": [
+     {
+      "platform": "tiktok",
+      "status": "published",
+      "analytics": {
+       "impressions": 0,
+       "reach": 273,
+       "likes": 12,
+       "comments": 0,
+       "shares": 0,
+       "saves": 2,
+       "clicks": 0,
+       "views": 295,
+       "igReelsAvgWatchTime": 4300,
+       "igReelsVideoViewTotalTime": 1354000,
+       "profileViews": 2,
+       "websiteClicks": 0,
+       "audienceTypes": {
+        "follower": 0.02,
+        "newViewer": 0.95,
+        "nonFollower": 0.98,
+        "returnViewer": 0.05
+       },
+       "replays": 0,
+       "videoDurationSeconds": 21.3,
+       "engagementRate": 5.13,
+       "lastUpdated": "2026-11-21T12:40:44Z"
+      },
+      "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7709558452682575137?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
+     }
+    ],
+    "platform": "tiktok",
+    "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7709558452682575137?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
+   },
+   {
+    "_id": "6afdffcb0ea6490b3b871039",
+    "content": "Avant le compromis : 5 vérifications d'urbanisme Vérifiez votre terrain en quelques minute",
+    "publishedAt": "2026-11-18T17:01:02.000Z",
+    "scheduledFor": "2026-11-18T17:01:02.000Z",
+    "status": "published",
+    "analytics": {
+     "impressions": 0,
+     "reach": 234,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "saves": 2,
+     "clicks": 0,
+     "views": 251,
+     "igReelsAvgWatchTime": 10840,
+     "igReelsVideoViewTotalTime": 2849000,
+     "profileViews": 4,
+     "websiteClicks": 0,
+     "audienceTypes": {
+      "follower": 0,
+      "newViewer": 0.94,
+      "nonFollower": 1,
+      "returnViewer": 0.06
+     },
+     "replays": 0,
+     "videoDurationSeconds": 19.621,
+     "engagementRate": 0.85,
+     "lastUpdated": "2026-11-21T12:40:44Z"
+    },
+    "platforms": [
+     {
+      "platform": "tiktok",
+      "status": "published",
+      "analytics": {
+       "impressions": 0,
+       "reach": 234,
+       "likes": 0,
+       "comments": 0,
+       "shares": 0,
+       "saves": 2,
+       "clicks": 0,
+       "views": 251,
+       "igReelsAvgWatchTime": 10840,
+       "igReelsVideoViewTotalTime": 2849000,
+       "profileViews": 4,
+       "websiteClicks": 0,
+       "audienceTypes": {
+        "follower": 0,
+        "newViewer": 0.94,
+        "nonFollower": 1,
+        "returnViewer": 0.06
+       },
+       "replays": 0,
+       "videoDurationSeconds": 19.621,
+       "engagementRate": 0.85,
+       "lastUpdated": "2026-11-21T12:40:44Z"
+      },
+      "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7709557706423618849?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
+     }
+    ],
+    "platform": "tiktok",
+    "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7709557706423618849?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
+   },
+   {
+    "_id": "6afdcb071779cd7a6306a3ac",
+    "content": "Votre client demande : « je peux construire ? » Vous avez la réponse en 3 minutes ? Zone P",
+    "publishedAt": "2026-11-17T18:19:02.000Z",
+    "scheduledFor": "2026-11-17T18:19:02.000Z",
+    "status": "published",
+    "analytics": {
+     "impressions": 0,
+     "reach": 225,
+     "likes": 3,
+     "comments": 0,
+     "shares": 0,
+     "saves": 0,
+     "clicks": 0,
+     "views": 253,
+     "igReelsAvgWatchTime": 2970,
+     "igReelsVideoViewTotalTime": 757000,
+     "profileViews": 2,
+     "websiteClicks": 0,
+     "audienceTypes": {
+      "follower": 0,
+      "newViewer": 0.98,
+      "nonFollower": 1,
+      "returnViewer": 0.02
+     },
+     "replays": 0,
+     "videoDurationSeconds": 18.505,
+     "engagementRate": 1.33,
+     "lastUpdated": "2026-11-21T12:40:44Z"
+    },
+    "platforms": [
+     {
+      "platform": "tiktok",
+      "status": "published",
+      "analytics": {
+       "impressions": 0,
+       "reach": 225,
+       "likes": 3,
+       "comments": 0,
+       "shares": 0,
+       "saves": 0,
+       "clicks": 0,
+       "views": 253,
+       "igReelsAvgWatchTime": 2970,
+       "igReelsVideoViewTotalTime": 757000,
+       "profileViews": 2,
+       "websiteClicks": 0,
+       "audienceTypes": {
+        "follower": 0,
+        "newViewer": 0.98,
+        "nonFollower": 1,
+        "returnViewer": 0.02
+       },
+       "replays": 0,
+       "videoDurationSeconds": 18.505,
+       "engagementRate": 1.33,
+       "lastUpdated": "2026-11-21T12:40:44Z"
+      },
+      "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7709206612111609121?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
+     }
+    ],
+    "platform": "tiktok",
+    "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7709206612111609121?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
+   },
+   {
+    "_id": "6afdcb071779cd7a6306a3a7",
+    "content": "Votre terrain est-il constructible ? Une adresse suffit pour le savoir. Zonage, règles de ",
+    "publishedAt": "2026-11-12T15:07:10.000Z",
+    "scheduledFor": "2026-11-12T15:07:10.000Z",
+    "status": "published",
+    "analytics": {
+     "impressions": 0,
+     "reach": 606,
+     "likes": 2,
+     "comments": 0,
+     "shares": 1,
+     "saves": 0,
+     "clicks": 0,
+     "views": 651,
+     "igReelsAvgWatchTime": 2920,
+     "igReelsVideoViewTotalTime": 1973000,
+     "profileViews": 7,
+     "websiteClicks": 0,
+     "audienceTypes": {
+      "returnViewer": 0.01,
+      "follower": 0,
+      "newViewer": 0.99,
+      "nonFollower": 1
+     },
+     "replays": 0,
+     "videoDurationSeconds": 19.7,
+     "engagementRate": 0.5,
+     "lastUpdated": "2026-11-21T12:40:44Z"
+    },
+    "platforms": [
+     {
+      "platform": "tiktok",
+      "status": "published",
+      "analytics": {
+       "impressions": 0,
+       "reach": 606,
+       "likes": 2,
+       "comments": 0,
+       "shares": 1,
+       "saves": 0,
+       "clicks": 0,
+       "views": 651,
+       "igReelsAvgWatchTime": 2920,
+       "igReelsVideoViewTotalTime": 1973000,
+       "profileViews": 7,
+       "websiteClicks": 0,
+       "audienceTypes": {
+        "returnViewer": 0.01,
+        "follower": 0,
+        "newViewer": 0.99,
+        "nonFollower": 1
+       },
+       "replays": 0,
+       "videoDurationSeconds": 19.7,
+       "engagementRate": 0.5,
+       "lastUpdated": "2026-11-21T12:40:44Z"
+      },
+      "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7707301742702087456?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
+     }
+    ],
+    "platform": "tiktok",
+    "platformPostUrl": "https://www.tiktok.com/@terrenurbanisme/video/7707301742702087456?utm_campaign=tt4d_open_api&utm_source=7608030276714774544"
+   }
+  ],
+  "accounts": [
+   {
+    "_id": "6afdcb05f4f13bacbd3d1591",
+    "platform": "tiktok",
+    "followersCount": 16
+   }
+  ]
+ },
+ "analytics_p2": {
+  "accounts": [
+   {
+    "_id": "6afdcb05f4f13bacbd3d1591",
+    "platform": "tiktok",
+    "followersCount": 16
+   }
+  ]
+ }
+}

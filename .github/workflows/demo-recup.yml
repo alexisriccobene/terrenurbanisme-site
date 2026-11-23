@@ -1,0 +1,20 @@
+name: Récupérer un rapport démo
+# Déclenché par .github/demo/recup.json : dépose le PDF du rapport (lien de téléchargement) sur la branche tests-rapports.
+on:
+  push:
+    branches: [main]
+    paths: ['.github/demo/recup.json']
+permissions:
+  contents: write
+jobs:
+  r:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          S=$(python3 -c "import json;print(json.load(open('.github/demo/recup.json'))['slug'])")
+          case "$S" in *[!a-z0-9-]*|"") exit 1;; esac
+          mkdir -p /tmp/o && curl -sSf -o "/tmp/o/$S.pdf" "https://nmoigruxnhsidrhqtzid.supabase.co/functions/v1/stripe-webhook/rapport/$S"
+          git config user.name "TerrenUrbanisme tests"; git config user.email "contact@terrenurbanisme.com"
+          git checkout --orphan tests-rapports; git rm -rqf . ; mv "/tmp/o/$S.pdf" .; git add "$S.pdf"; git commit -qm "Démo $S"; git push -f origin tests-rapports
