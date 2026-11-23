@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "lire_np.py", "demande": "lire-np"}
+{"fonction": "stripe-webhook", "script": "lire_struct.py", "demande": "lire-struct"}
