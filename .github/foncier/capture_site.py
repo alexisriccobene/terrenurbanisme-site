@@ -6,10 +6,11 @@ from playwright.sync_api import sync_playwright
 with sync_playwright() as pw:
     b = pw.chromium.launch(); ctx = b.new_context(**pw.devices['iPhone 13']); p = ctx.new_page()
     err = []; p.on('pageerror', lambda e: err.append(str(e)))
-    p.goto('https://terrenurbanisme.com/?nocache=' + str(int(time.time())), wait_until='networkidle')
+    time.sleep(120); p.goto('https://terrenurbanisme.com/?nocache=' + str(int(time.time())), wait_until='networkidle')
     for t in ('Tout refuser', 'Refuser'):
         try: p.click('text=' + t, timeout=2000); break
         except Exception: pass
+    time.sleep(1)
     print('v', p.evaluate("[...document.scripts].map(s=>s.src).filter(s=>s.includes('app.js')).join()"))
     print('aide', p.locator('.aide-parcelle').count(), 'boutons', p.evaluate("[...document.querySelectorAll('.fond-ctl button')].map(b=>b.textContent+(b.classList.contains('on')?'*':'')).join()"))
     p.locator('#map').scroll_into_view_if_needed(); time.sleep(3); p.screenshot(path='/tmp/out/1_accueil.png')
