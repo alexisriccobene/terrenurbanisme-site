@@ -1,19 +1,50 @@
-# Rapport synthétique : tenir en 2 pages ; assainissement lu sur la partie constructible
+"""Synthèse « Ce que vous pouvez construire » : chiffres seulement quand ils sont sûrs (une seule zone, emprise ou reculs chiffrés) ;
+terrain sur plusieurs zones : règles zone par zone, sans total trompeur."""
 import sys
 p = sys.argv[1]; s = open(p, encoding='utf-8').read()
-def rep(old, new):
-    global s
-    if s.count(old) != 1: sys.exit('ancre introuvable : ' + old[:80])
-    s = s.replace(old, new)
-rep("const Z0a = d.zones && d.zones[0], tz = String((Z0a && Z0a.tz) || '').toUpperCase(), EAa = d.eau || {}, AC = EAa.ac, connu = !!EAa.sispea;",
-    "const Z0a = (d.verdict.partiel && (d.zones || []).find(z => z.code === d.verdict.partiel[0])) || (d.zones && d.zones[0]), tz = String((Z0a && Z0a.tz) || '').toUpperCase(), EAa = d.eau || {}, AC = EAa.ac, connu = !!EAa.sispea;")
-rep("(an.autorise || []).slice(0, 3).forEach(t => bullet(cut(t, 150), { size: 9 }));", "(an.autorise || []).slice(0, 2).forEach(t => bullet(cut(t, 120), { size: 8.8 }));")
-rep("rg.map(r => [r.critere, cut(r.regle, 190)]), { size: 8.5 });", "rg.map(r => [r.critere, cut(r.regle, 150)]), { size: 8.3 });")
-rep(".slice(0, 6);\n    if (pts.length) { h3('Risques et contraintes à connaître', 60); pts.forEach(pt => bullet(cut(pt.text, 200), { size: 9, color: (VC[pt.key] || VC.info)[0] })); }",
-    ".slice(0, 5);\n    if (pts.length) { h3('Risques et contraintes à connaître', 60); pts.forEach(pt => bullet(cut(pt.text, 150), { size: 8.6, color: (VC[pt.key] || VC.info)[0] })); }")
-rep("'Les risques à l\\'adresse et l\\'état des risques (ERP) pré-rempli, à remettre à l\\'acquéreur', 'Eau, électricité, assainissement : coûts, démarches et contacts', 'Les ventes réelles autour du terrain, l\\'historique aérien et les permis accordés', 'Les démarches, les délais et la taxe d\\'aménagement de votre projet'];\n      const lh = 13, bh = 58 + L.length * lh + 26;",
-    "'Risques détaillés et état des risques (ERP) pré-rempli · eau, électricité, assainissement : coûts et contacts', 'Ventes réelles autour du terrain, historique aérien, permis accordés, démarches et taxe d\\'aménagement'];\n      const lh = 12, bh = 52 + L.length * lh + 24;")
-rep("L.forEach((t, i) => { page.drawCircle({ x: M + 22, y: y - 56 - i * lh + 3, size: 1.8, color: C.t }); page.drawText(clean(t), { x: M + 30, y: y - 56 - i * lh, size: 8.8, font: F, color: C.ink }); });",
-    "L.forEach((t, i) => { page.drawCircle({ x: M + 22, y: y - 54 - i * lh + 3, size: 1.8, color: C.t }); page.drawText(clean(t), { x: M + 30, y: y - 54 - i * lh, size: 8.4, font: F, color: C.ink }); });")
-rep("page.drawText(clean(cta), { x: M + 18, y: y - bh + 16, size: 9, font: B, color: C.t });", "page.drawText(clean(cta), { x: M + 18, y: y - bh + 14, size: 9, font: B, color: C.t });")
-open(p, 'w', encoding='utf-8').write(s); print('patch synthese2 appliqué')
+i = s.index("  // Ce que vous pouvez construire : les chiffres et les règles clés, dès la synthèse")
+j = s.index("  // Points d'attention complémentaires\n  try {", i)
+NEW = r'''  // Ce que vous pouvez construire : les chiffres et les règles clés, dès la synthèse (uniquement des valeurs sûres)
+  try {
+    const K = d.calc || {}, RG = d.reglement, zl = (d.zones || []).filter(z => z.share >= 0.03), MULTI = zl.length > 1, SURF = R.areaCalc || R.contenance || 0;
+    const nb = v => String(v).replace('.', ','), cut = (t, n) => { t = String(t || '').trim(); if (t.length <= n) return t; const k = t.lastIndexOf('. ', n); return (k > n * 0.5 ? t.slice(0, k + 1) : t.slice(0, n).replace(/\s+\S*$/, '') + '…'); };
+    const KEY = /emprise|hauteur|limites s[ée]paratives|par rapport aux voies|voies et emprises/i;
+    const regles = an => (an && an.regles || []).filter(r => r && r.critere && r.regle && KEY.test(r.critere) && !/^Non (précisé|réglementé)/i.test(r.regle)).slice(0, 4);
+    const tableZ = (an, code) => { const rg = regles(an); if (rg.length) table([{ label: 'RÈGLE' + (code ? ' (ZONE ' + code + ')' : ''), w: 0.3, bold: true }, { label: 'CE QUE DIT LE RÈGLEMENT', w: 0.7 }], rg.map(r => [r.critere, cut(r.regle, 160)]), { size: 8.3 }); };
+    const noBuild = K.neuf === false || d.verdict.key === 'non';
+    if (RG && RG.analysis && !MULTI) {
+      const rows = [];
+      if (!noBuild) {
+        const chiffre = K.empPct != null || K.rl > 0 || K.rv > 0;
+        if (K.footprint && chiffre && !(K.empPct == null && SURF && K.footprint >= SURF * 0.9)) rows.push(['Surface au sol constructible', 'environ ' + fmt(K.footprint) + ' m²' + (K.empPct != null ? ' (emprise maximale ' + nb(K.empPct) + ' % du terrain)' : ' (après les reculs)')]);
+        if (K.empPct != null && !rows.length) rows.push(['Emprise au sol maximale', nb(K.empPct) + ' % du terrain']);
+        let ht = null; try { ht = typeof hauteurTexte === 'function' ? hauteurTexte(d) : null; } catch (e) {}
+        if (ht && String(ht).length <= 90 && !/…$/.test(ht) && !/non précis/i.test(ht)) rows.push(['Hauteur maximale', ht]);
+        if (K.rl) rows.push(['Recul des limites séparatives', nb(K.rl) + ' m minimum']);
+        if (K.rv) rows.push(['Recul par rapport aux voies', nb(K.rv) + ' m minimum']);
+        rows.push(['Surface minimale de terrain', K.minTerrain ? fmt(K.minTerrain) + ' m² ' + (K.minOk ? '(respectée)' : '(non respectée)') : 'Aucune exigée par le règlement relevé']);
+      }
+      if (K.logement === false) rows.push(['Logement neuf', 'Non admis par le règlement de la zone, sauf exceptions']);
+      h3('Ce que vous pouvez construire', 120);
+      if (rows.length) kv(rows, { lw: 0.36 });
+      tableZ(RG.analysis, RG.zone);
+      text('Valeurs relevées dans le règlement de la zone ; le détail, les extraits officiels et le plan d\'implantation figurent au chapitre « Ce que vous pouvez construire ».', { size: 8.3, color: C.muet });
+    } else if (RG && RG.analysis && MULTI) {
+      h3('Ce que vous pouvez construire, zone par zone', 120);
+      const AN = [{ zone: RG.zone, analysis: RG.analysis }].concat((RG.others || []).filter(o => o && o.analysis));
+      zl.slice().sort((a, b) => (a.v === 'non') - (b.v === 'non')).forEach(z => {
+        const a = AN.find(x => x.zone === z.code);
+        h4('Zone ' + z.code + ' · ' + String(z.verdictWord || '').toLowerCase() + (SURF ? ' · environ ' + fmt(Math.round(z.share * SURF / 10) * 10) + ' m²' : ''), 70);
+        if (z.v === 'non') text('Pas de construction nouvelle de logement, sauf exceptions prévues par la zone.', { size: 9 });
+        else if (a) tableZ(a.analysis, z.code);
+        else text('Règles de cette zone : voir le chapitre « Ce que vous pouvez construire ».', { size: 9 });
+      });
+      text('Le terrain est à cheval sur plusieurs zones : chaque partie suit les règles de sa zone. Le détail figure au chapitre « Ce que vous pouvez construire ».', { size: 8.3, color: C.muet });
+    } else if (d.doc && (d.doc.type === 'CC' || d.doc.rnu)) {
+      h3('Ce que vous pouvez construire', 80);
+      text('Règles nationales d\'urbanisme (RNU) : construction en limite séparative, ou à une distance au moins égale à la moitié de sa hauteur sans être inférieure à 3 m (article R. 111-17 du code de l\'urbanisme) ; la mairie apprécie chaque projet au regard de son insertion et des réseaux. Détail au chapitre « Ce que vous pouvez construire ».', { size: 9.3 });
+    }
+  } catch (e) { console.warn('synthèse construire', String(e && e.message || e).slice(0, 120)); }
+'''
+s = s[:i] + NEW + s[j:]
+open(p, 'w', encoding='utf-8').write(s); print('ok synthese2')
