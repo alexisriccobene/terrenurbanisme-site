@@ -21,7 +21,7 @@
     $('esp-hero').hidden = mode !== 'agence';
     $('esp-mairie').hidden = mode !== 'mairie';
     if ($('esp-bo')) $('esp-bo').hidden = mode !== 'agence';
-    if (mode === 'agence') { if (h1) h1.textContent = MQ.nom || 'Mon espace'; $('esp-rt').textContent = 'Rapports de l\'agence'; }
+    if (mode === 'agence') { if (h1) h1.textContent = MQ.nom || 'Mon espace'; var ag = !MQ.type || MQ.type === 'agence'; $('esp-rt').textContent = ag ? 'Rapports de l\'agence' : 'Vos rapports'; if ($('esp-bo-t')) $('esp-bo-t').textContent = ag ? 'Tableau de bord de l\'agence' : 'Tableau de bord'; }
     else if (mode === 'mairie') { if (h1) h1.textContent = 'Espace mairie'; $('esp-rt').textContent = 'Rapports remis aux habitants'; drawMairie(); }
     else { if (h1) h1.textContent = 'Mon espace'; $('esp-rt').textContent = 'Mes rapports complets'; }
   }
@@ -30,6 +30,7 @@
   function drawHero() {
     $('eh-nom').textContent = MQ.nom || 'Votre agence';
     $('eh-type').textContent = TYPES[MQ.type] || 'Espace professionnel';
+    if (document.body.classList.contains('mode-agence')) { var ag = !MQ.type || MQ.type === 'agence'; if ($('esp-rt')) $('esp-rt').textContent = ag ? 'Rapports de l\'agence' : 'Vos rapports'; if ($('esp-bo-t')) $('esp-bo-t').textContent = ag ? 'Tableau de bord de l\'agence' : 'Tableau de bord'; }
     var site = MQ.site ? String(MQ.site).replace(/^https?:\/\//, '').replace(/[?#].*$/, '').replace(/\/$/, '') : '';
     $('eh-co').textContent = [MQ.telephone, MQ.email, site].filter(Boolean).join('  ·  ') || 'Ajoutez vos coordonnées dans « Votre identité sur les rapports ».';
     var lg = $('eh-logo');
