@@ -4,7 +4,7 @@ URL = 'https://geodatamine.fr/dump/shop_craft_office_csv.zip'
 raw = urllib.request.urlopen(urllib.request.Request(URL, headers={'User-Agent': 'TerrenUrbanisme/1.0'}), timeout=300).read()
 z = zipfile.ZipFile(io.BytesIO(raw)); name = [n for n in z.namelist() if n.endswith('.csv')][0]
 txt = io.TextIOWrapper(z.open(name), encoding='utf-8')
-rd = csv.DictReader(txt)
+rd = csv.DictReader(txt, delimiter=';')
 print('colonnes', rd.fieldnames)
 KEEP = {'bakery': 'bakery', 'convenience': 'convenience', 'supermarket': 'supermarket', 'pharmacy': 'pharmacy', 'chemist': None}
 def g(r, *ks):
