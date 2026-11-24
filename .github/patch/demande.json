@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "pente_unique2.py", "demande": "pente-unique2"}
+{"fonction": "stripe-webhook", "script": "ventes_500m.py", "demande": "ventes-500m"}
