@@ -1,0 +1,33 @@
+name: Commerces de proximité (BANCO, OpenStreetMap)
+on:
+  push:
+    paths: ['.github/scripts/commerces.py', '.github/workflows/commerces.yml']
+  workflow_dispatch:
+  schedule:
+    - cron: '23 4 5 * *'
+permissions:
+  contents: read
+jobs:
+  c:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      SR: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+      U: https://nmoigruxnhsidrhqtzid.supabase.co
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 .github/scripts/commerces.py
+      - name: Enregistrer
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import json, os, urllib.request
+          rows = json.load(open('commerces.json'))
+          if len(rows) < 20000: raise SystemExit('trop peu de commerces : ' + str(len(rows)))
+          U, SR = os.environ['U'], os.environ['SR']
+          H = {'Authorization': 'Bearer ' + SR, 'apikey': SR, 'Content-Type': 'application/json', 'Prefer': 'resolution=merge-duplicates,return=minimal'}
+          for i in range(0, len(rows), 2000):
+              req = urllib.request.Request(U + '/rest/v1/commerces?on_conflict=id', data=json.dumps(rows[i:i + 2000]).encode(), headers=H, method='POST')
+              urllib.request.urlopen(req, timeout=120).read()
+          print('enregistrés', len(rows))
+          PY
