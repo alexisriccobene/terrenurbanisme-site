@@ -20,9 +20,11 @@ jobs:
           U='https://nmoigruxnhsidrhqtzid.supabase.co'; K=os.environ['KEY']; em=os.environ['EM'].strip().lower()
           H={'apikey':K,'Authorization':'Bearer '+K,'Content-Type':'application/json'}
           r=urllib.request.Request(U+'/auth/v1/admin/generate_link',data=json.dumps({'type':'magiclink','email':em,'options':{'redirect_to':'https://terrenurbanisme.com/espace.html'}}).encode(),headers=H,method='POST')
-          j=json.loads(urllib.request.urlopen(r).read())
+          try: j=json.loads(urllib.request.urlopen(r).read())
+          except urllib.error.HTTPError as e: print('generate', e.code, e.read().decode()[:300]); raise SystemExit(1)
           link=j.get('action_link') or (j.get('properties') or {}).get('action_link')
           b=json.dumps({'k':'apercu_'+em,'v':link}).encode()
           r2=urllib.request.Request(U+'/rest/v1/tu_debug',data=b,headers={**H,'Prefer':'resolution=merge-duplicates'},method='POST')
-          print('stocke', urllib.request.urlopen(r2).status, bool(link))
+          try: print('stocke', urllib.request.urlopen(r2).status, bool(link))
+          except urllib.error.HTTPError as e: print('stockage', e.code, e.read().decode()[:300]); raise SystemExit(1)
           PY
