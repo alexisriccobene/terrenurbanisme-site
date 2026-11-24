@@ -1,0 +1,375 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-24T18:18:07Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2121787463,
+  "lat": 42.6563404,
+  "lon": 9.4320545,
+  "tags": {
+    "air_conditioning": "yes",
+    "indoor_seating": "yes",
+    "name": "Au Pain Chaud du Bastio",
+    "nobrand": "yes",
+    "opening_hours": "Mo-Su 06:30-20:00",
+    "organic": "no",
+    "outdoor_seating": "yes",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:qr_code": "no",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 5983530645,
+  "lat": 42.6552680,
+  "lon": 9.4430086,
+  "tags": {
+    "brand": "Proxi",
+    "brand:wikidata": "Q3408522",
+    "name": "Proxi",
+    "opening_hours": "Mo-Su 07:30-20:30",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 8954178708,
+  "lat": 42.6760589,
+  "lon": 9.4358087,
+  "tags": {
+    "brand": "L'Atelier Papilles",
+    "brand:wikidata": "Q130232695",
+    "name": "L'Atelier Papilles",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 12137511949,
+  "lat": 42.6762893,
+  "lon": 9.4355510,
+  "tags": {
+    "brand": "Carrefour Contact",
+    "brand:wikidata": "Q2940188",
+    "name": "Carrefour Contact",
+    "opening_hours": "Mo-Sa 08:00-20:00; Su 08:30-13:00",
+    "shop": "supermarket",
+    "website": "https://www.carrefour.fr/magasin/contact-bastia-montesoro"
+  }
+},
+{
+  "type": "node",
+  "id": 12750512586,
+  "lat": 42.6793466,
+  "lon": 9.4292240,
+  "tags": {
+    "amenity": "pharmacy",
+    "source": "Bing Streetside 2021"
+  }
+},
+{
+  "type": "node",
+  "id": 12750512594,
+  "lat": 42.6767624,
+  "lon": 9.4382603,
+  "tags": {
+    "name": "L'Instant Gourmand",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 12878745318,
+  "lat": 42.6566632,
+  "lon": 9.4390583,
+  "tags": {
+    "air_conditioning": "yes",
+    "branch": "Furiani",
+    "brand": "Auchan",
+    "brand:wikidata": "Q758603",
+    "contact:phone": "+33 4 95 30 90 50",
+    "name": "Auchan",
+    "opening_hours": "Mo-Sa 08:00-20:30; Su 08:30-13:00",
+    "ref:FR:SIRET": "40031543800012",
+    "shop": "supermarket",
+    "website": "https://www.auchan.fr/magasins/hypermarche/auchan-hypermarche-furiani/s-395"
+  }
+},
+{
+  "type": "node",
+  "id": 12925544704,
+  "lat": 42.6447317,
+  "lon": 9.4393701,
+  "tags": {
+    "addr:street": "Viale Sampieru Corsu",
+    "check_date": "2026-07-19",
+    "check_date:opening_hours": "2026-02-07",
+    "name": "Super Souk Halal",
+    "opening_hours": "Mo-Su 08:00-20:00",
+    "phone": "+33495311486",
+    "ref:FR:SIRET": "52144193100016",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 12925552802,
+  "lat": 42.6464089,
+  "lon": 9.4396681,
+  "tags": {
+    "check_date": "2026-03-21",
+    "check_date:opening_hours": "2026-02-08",
+    "name": "La Roulotte Magasin Bio",
+    "opening_hours": "Mo-Sa 09:00-19:00",
+    "organic": "only",
+    "phone": "+33 4 95 34 47 08",
+    "shop": "supermarket",
+    "website": "https://laroulotte-bio.fr/"
+  }
+},
+{
+  "type": "node",
+  "id": 13026867854,
+  "lat": 42.6582545,
+  "lon": 9.4141500,
+  "tags": {
+    "amenity": "restaurant",
+    "bar": "yes",
+    "name": "L'ébistine",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 13109382661,
+  "lat": 42.6639159,
+  "lon": 9.4364512,
+  "tags": {
+    "name": "L'atelier",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 13109396646,
+  "lat": 42.6726666,
+  "lon": 9.4374973,
+  "tags": {
+    "name": "U San Petru",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 13109396657,
+  "lat": 42.6731093,
+  "lon": 9.4373752,
+  "tags": {
+    "addr:city": "BASTIA",
+    "addr:postcode": "20600",
+    "addr:street": "Avenue Paul Giacobbi",
+    "amenity": "pharmacy",
+    "contact:facebook": "https://www.facebook.com/pharmaciesaintpierre",
+    "contact:instagram": "https://www.instagram.com/pharma_saintpierre/",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie St Pierre",
+    "opening_hours": "Mo-Sa 08:00-20:00",
+    "phone": "+33 4 95 33 53 09",
+    "website": "https://pharmaciesaintpierrebastia.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 13109396672,
+  "lat": 42.6754018,
+  "lon": 9.4376676,
+  "tags": {
+    "brand": "Utile",
+    "brand:wikidata": "Q2529029",
+    "name": "Utile",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 13383391772,
+  "lat": 42.6664109,
+  "lon": 9.4416498,
+  "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2026-09-05",
+    "check_date:opening_hours": "2026-09-05",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie Dominici",
+    "opening_hours": "Mo-Sa 09:00-20:00",
+    "phone": "+33 4 95 33 16 19",
+    "website": "https://www.pharmacie-dominici.fr/"
+  }
+},
+{
+  "type": "node",
+  "id": 13395574801,
+  "lat": 42.6569134,
+  "lon": 9.4396510,
+  "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2026-10-24",
+    "check_date:opening_hours": "2026-10-24",
+    "contact:instagram": "apothical_pharmaciedelarocade",
+    "healthcare": "pharmacy",
+    "name": "Pharmacie de la Rocade",
+    "opening_hours": "Mo-Sa 08:30-20:00",
+    "panoramax": "47ce110d-2c8d-4dcc-9231-40b5e9c5f807"
+  }
+},
+{
+  "type": "node",
+  "id": 13451430215,
+  "lat": 42.6490208,
+  "lon": 9.4400255,
+  "tags": {
+    "check_date": "2026-06-10",
+    "check_date:opening_hours": "2026-06-10",
+    "contact:instagram": "farinaboulangerie",
+    "email": "boulangerie.farina@gmail.com",
+    "name": "Boulangerie Farina",
+    "opening_hours": "Tu, Th-Fr 08:00-18:30",
+    "shop": "bakery",
+    "website": "https://boulangeriefarina.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 13585331401,
+  "lat": 42.6630488,
+  "lon": 9.4412998,
+  "tags": {
+    "check_date": "2026-02-20",
+    "name": "Ghisoni Mariotti",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 13667842530,
+  "lat": 42.6379586,
+  "lon": 9.4335064,
+  "tags": {
+    "brand": "Utile",
+    "brand:wikidata": "Q2529029",
+    "name": "Utile",
+    "opening_hours": "Mo-Sa 06:00-19:45; Su 06:00-13:00",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 13667842533,
+  "lat": 42.6378243,
+  "lon": 9.4338141,
+  "tags": {
+    "name": "A Finetta",
+    "opening_hours": "Mo-Sa 06:30-20:00; Su 06:30-13:00",
+    "phone": "+33495306561",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 13667903883,
+  "lat": 42.6408667,
+  "lon": 9.4388274,
+  "tags": {
+    "brand": "Fresh",
+    "brand:wikidata": "Q130214654",
+    "contact:facebook": "https://www.facebook.com/people/FRESH-MARKET/100083274734487/",
+    "email": "almoussisaid@gmail.com",
+    "name": "Fresh",
+    "opening_hours": "Mo-Su 08:00-19:00",
+    "phone": "+33495337894",
+    "shop": "supermarket",
+    "website": "https://www.fresh-market.fr/"
+  }
+},
+{
+  "type": "node",
+  "id": 13667987724,
+  "lat": 42.6553186,
+  "lon": 9.4315111,
+  "tags": {
+    "brand": "Spar",
+    "brand:wikidata": "Q610492",
+    "name": "Spar",
+    "opening_hours": "Mo-Su 07:00-21:00",
+    "phone": "+33495361998",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 13811118759,
+  "lat": 42.6552488,
+  "lon": 9.4379152,
+  "tags": {
+    "brand": "Maison Bécam",
+    "brand:wikidata": "Q130232721",
+    "email": "furiani.corse@maisonbecam.com",
+    "name": "Maison Bécam",
+    "opening_hours": "Mo-Su 06:30-20:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:restaurant_vouchers": "yes",
+    "phone": "+33 4 20 20 57 12",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 13962144103,
+  "lat": 42.6546277,
+  "lon": 9.4376146,
+  "tags": {
+    "air_conditioning": "yes",
+    "brand": "Carrefour City",
+    "brand:wikidata": "Q2940187",
+    "check_date": "2026-06-24",
+    "check_date:opening_hours": "2026-08-29",
+    "name": "Carrefour City",
+    "opening_hours": "Mo-Sa 07:00-21:00; Su 08:00-13:00,16:00-20:00",
+    "phone": "+33 4 95 30 26 51",
+    "shop": "convenience",
+    "website": "https://www.carrefour.fr/magasin/city-furiani-5mai"
+  }
+},
+{
+  "type": "way",
+  "id": 122465051,
+  "center": {
+    "lat": 42.6660988,
+    "lon": 9.4409146
+  },
+  "tags": {
+    "addr:street": "Avenue Sampiero Corso",
+    "brand": "E.Leclerc",
+    "brand:wikidata": "Q1273376",
+    "brand:wikipedia": "en:E.Leclerc",
+    "building": "retail",
+    "name": "E.Leclerc",
+    "opening_hours": "Mo-Sa 08:00-20:30; Su 08:00-19:00",
+    "phone": "+33 4 95 30 14 50",
+    "shop": "supermarket",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+    "website": "https://www.e.leclerc/mag/e-leclerc-grand-bastia"
+  }
+}
+
+  ]
+}
