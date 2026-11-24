@@ -1,0 +1,20 @@
+name: Enquête règlements
+on:
+  workflow_dispatch:
+    inputs:
+      insee: { description: "codes INSEE séparés par des espaces", required: true }
+permissions:
+  contents: read
+jobs:
+  enquete:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
+      REF: nmoigruxnhsidrhqtzid
+      INSEE: ${{ github.event.inputs.insee }}
+    steps:
+      - uses: actions/checkout@v4
+        with: { sparse-checkout: .github/scripts }
+      - run: sudo apt-get update -q >/dev/null && sudo apt-get install -y -q poppler-utils >/dev/null
+      - run: python3 .github/scripts/enquete_regl.py
