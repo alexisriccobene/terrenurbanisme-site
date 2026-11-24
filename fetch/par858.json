@@ -1,0 +1,1 @@
+{"code":400,"message":{"section":{"type":"field","value":"D","msg":"Le numéro de section est sur 2 caractères","path":"section","location":"query"}}}
