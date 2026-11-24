@@ -1,0 +1,20 @@
+name: Sonde d'adresses
+on:
+  workflow_dispatch:
+    inputs:
+      urls: { description: "adresses séparées par des espaces", required: true }
+permissions:
+  contents: read
+jobs:
+  sonde:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    env:
+      SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
+      REF: nmoigruxnhsidrhqtzid
+      URLS: ${{ github.event.inputs.urls }}
+    steps:
+      - uses: actions/checkout@v4
+        with: { sparse-checkout: .github/scripts }
+      - run: sudo apt-get update -q >/dev/null && sudo apt-get install -y -q poppler-utils >/dev/null
+      - run: python3 .github/scripts/sonde_urls.py
