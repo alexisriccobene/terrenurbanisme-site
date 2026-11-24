@@ -1,0 +1,16 @@
+name: Origine des ventes
+# Enregistre toutes les heures la réponse « Comment nous avez-vous connu ? » des derniers paiements Stripe (table ventes_origine).
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - run: |
+          code=$(curl -s -o out.txt -w "%{http_code}" -X POST "https://nmoigruxnhsidrhqtzid.supabase.co/functions/v1/origine-ventes" -H "Content-Type: application/json" -d '{}')
+          echo "HTTP $code : $(head -c 200 out.txt)"
