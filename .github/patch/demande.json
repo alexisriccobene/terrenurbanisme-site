@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "zone_nonpubliee2.py", "demande": "zone-nonpubliee2"}
+{"fonction": "stripe-webhook", "script": "origine_webhook.py", "demande": "origine-webhook"}
