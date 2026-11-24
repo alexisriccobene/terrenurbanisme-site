@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "usages_dedoublon.py", "demande": "usages-dedoublon"}
+{"fonction": "stripe-webhook", "script": "synthese_sans_doublon.py", "demande": "synthese-sans-doublon"}
