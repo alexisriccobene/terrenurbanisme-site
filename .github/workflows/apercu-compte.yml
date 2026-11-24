@@ -1,0 +1,28 @@
+name: Aperçu d'un compte (lien de connexion à usage unique)
+# Génère un lien de connexion à usage unique pour vérifier l'espace d'un client ; le lien est rangé dans tu_debug (jamais affiché dans le journal).
+on:
+  workflow_dispatch:
+    inputs:
+      email: { description: "E-mail du compte" }
+permissions:
+  contents: read
+jobs:
+  lien:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - env:
+          KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          EM: ${{ inputs.email }}
+        run: |
+          python3 - <<'PY'
+          import os, json, urllib.request
+          U='https://nmoigruxnhsidrhqtzid.supabase.co'; K=os.environ['KEY']; em=os.environ['EM'].strip().lower()
+          H={'apikey':K,'Authorization':'Bearer '+K,'Content-Type':'application/json'}
+          r=urllib.request.Request(U+'/auth/v1/admin/generate_link',data=json.dumps({'type':'magiclink','email':em,'options':{'redirect_to':'https://terrenurbanisme.com/espace.html'}}).encode(),headers=H,method='POST')
+          j=json.loads(urllib.request.urlopen(r).read())
+          link=j.get('action_link') or (j.get('properties') or {}).get('action_link')
+          b=json.dumps({'k':'apercu_'+em,'v':link}).encode()
+          r2=urllib.request.Request(U+'/rest/v1/tu_debug',data=b,headers={**H,'Prefer':'resolution=merge-duplicates'},method='POST')
+          print('stocke', urllib.request.urlopen(r2).status, bool(link))
+          PY
