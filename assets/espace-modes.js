@@ -3,7 +3,7 @@
   var $ = function (id) { return document.getElementById(id); };
   if (!$('esp-pro')) return;
   var esc = function (s) { return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); };
-  var TYPES = { agence: 'Agence immobilière', conciergerie: 'Conciergerie', notaire: 'Étude notariale', geometre: 'Cabinet de géomètre', architecte: 'Architecte', promoteur: 'Promoteur', constructeur: 'Constructeur', courtier: 'Courtier', banque: 'Banque' };
+  var TYPES = { agence: 'Agence immobilière', conciergerie: 'Conciergerie', notaire: 'Étude notariale', geometre: 'Cabinet de géomètre', architecte: 'Architecte', promoteur: 'Promoteur', constructeur: 'Constructeur', courtier: 'Courtier', banque: 'Banque', expert: 'Expert immobilier et foncier', ville: 'Mairie', collectivite: 'Collectivité', cabinet: 'Cabinet', autre: 'Espace professionnel' };
   var A, sb, U, C, MQ = {};
   var initials = function (n) { return String(n || '?').split(/\s+/).filter(Boolean).slice(0, 2).map(function (x) { return x.charAt(0).toUpperCase(); }).join(''); };
 
@@ -29,7 +29,7 @@
   /* ---------- En-tête de la structure ---------- */
   function drawHero() {
     $('eh-nom').textContent = MQ.nom || 'Votre agence';
-    $('eh-type').textContent = TYPES[MQ.type] || 'Agence immobilière';
+    $('eh-type').textContent = TYPES[MQ.type] || 'Espace professionnel';
     var site = MQ.site ? String(MQ.site).replace(/^https?:\/\//, '').replace(/[?#].*$/, '').replace(/\/$/, '') : '';
     $('eh-co').textContent = [MQ.telephone, MQ.email, site].filter(Boolean).join('  ·  ') || 'Ajoutez vos coordonnées dans « Votre identité sur les rapports ».';
     var lg = $('eh-logo');
