@@ -1,0 +1,22 @@
+name: Diagnostic des zones et règlements
+on:
+  workflow_dispatch:
+    inputs:
+      parcelles: { description: "insee:section:numero séparés par des espaces", required: true }
+permissions:
+  contents: write
+jobs:
+  d:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      PARCELLES: ${{ github.event.inputs.parcelles }}
+    steps:
+      - uses: actions/checkout@v4
+        with: { sparse-checkout: .github/scripts }
+      - run: python3 .github/scripts/diag_zones.py
+      - name: Pousser
+        run: |
+          mkdir -p /tmp/o && cp diag_zones.json /tmp/o/
+          git config user.name "TerrenUrbanisme tests"; git config user.email "contact@terrenurbanisme.com"
+          git checkout --orphan diag-zones; git rm -rqf . || true; git sparse-checkout disable || true; cp /tmp/o/diag_zones.json .; git add diag_zones.json; git commit -qm diag; git push -f origin diag-zones

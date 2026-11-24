@@ -1,0 +1,80 @@
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/square-grid/-/square-grid-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/transform-scale/-/transform-scale-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/polygon-smooth/-/polygon-smooth-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/clusters/-/clusters-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/tslib/-/tslib-2.8.1.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@supabase/phoenix/-/phoenix-0.4.5.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/iceberg-js/-/iceberg-js-0.8.1.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/polygon-clipping/-/polygon-clipping-0.15.7.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/geojson-rbush/-/geojson-rbush-3.2.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/geojson-equality/-/geojson-equality-0.1.6.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/turf-jsts/-/turf-jsts-1.2.3.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/d3-geo/-/d3-geo-1.7.1.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/topojson-server/-/topojson-server-3.0.1.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/topojson-client/-/topojson-client-3.1.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/object-assign/-/object-assign-4.1.1.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/skmeans/-/skmeans-0.9.7.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/rbush/-/rbush-2.0.2.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/concaveman/-/concaveman-2.0.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/d3-voronoi/-/d3-voronoi-1.1.2.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/deep-equal/-/deep-equal-1.1.2.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/earcut/-/earcut-2.2.4.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/density-clustering/-/density-clustering-1.3.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@turf/rectangle-grid/-/rectangle-grid-6.5.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/splaytree/-/splaytree-3.2.4.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/robust-predicates/-/robust-predicates-3.0.3.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/rbush/-/rbush-3.0.1.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/@types/geojson/-/geojson-7946.0.8.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/d3-array/-/d3-array-1.2.4.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/commander/-/commander-2.20.3.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/quickselect/-/quickselect-1.1.1.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/point-in-polygon/-/point-in-polygon-1.1.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/rbush/-/rbush-4.0.1.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/tinyqueue/-/tinyqueue-3.0.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/is-arguments/-/is-arguments-1.2.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/object-is/-/object-is-1.1.6.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/regexp.prototype.flags/-/regexp.prototype.flags-1.5.4.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/is-date-object/-/is-date-object-1.1.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/is-regex/-/is-regex-1.2.1.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/quickselect/-/quickselect-2.0.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/quickselect/-/quickselect-3.0.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/has-tostringtag/-/has-tostringtag-1.0.2.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/call-bound/-/call-bound-1.0.4.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/call-bind/-/call-bind-1.0.9.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/define-properties/-/define-properties-1.2.1.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/es-errors/-/es-errors-1.3.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/gopd/-/gopd-1.2.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/set-function-name/-/set-function-name-2.0.2.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/get-proto/-/get-proto-1.0.1.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/hasown/-/hasown-2.0.4.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/has-symbols/-/has-symbols-1.1.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/call-bind-apply-helpers/-/call-bind-apply-helpers-1.0.2.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/get-intrinsic/-/get-intrinsic-1.3.0.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/set-function-length/-/set-function-length-1.2.2.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/es-define-property/-/es-define-property-1.0.1.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/has-property-descriptors/-/has-property-descriptors-1.0.2.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/define-data-property/-/define-data-property-1.1.4.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/functions-have-names/-/functions-have-names-1.2.3.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/dunder-proto/-/dunder-proto-1.0.1.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/es-object-atoms/-/es-object-atoms-1.1.2.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/function-bind/-/function-bind-1.1.2.tgz
+[0m[32mDownload[0m https://registry.npmjs.org/math-intrinsics/-/math-intrinsics-1.1.0.tgz
+Listening on http://0.0.0.0:8000/ (http://localhost:8000/)
+source indisponible HTTP 414 https://apicarto.ign.fr/api/cadastre/division?geom=%7B%22type%22%3A%22Polygon%22%2C%22coordinates%22%3A%5B%5B%5B4.481747
+source indisponible photo 1950-1965
+source indisponible photo 1980-1995
+Sirene Supérette Sirene sans réponse
+pdf chrono début 647 ms
+pdf chrono Identification de la parcelle 655 ms
+pdf chrono Règles d'urbanisme applicables 661 ms
+pdf chrono Ce que vous pouvez construire 679 ms
+pdf chrono Loi Littoral et loi Montagne 680 ms
+pdf chrono Risques naturels et technologiques 683 ms
+pdf chrono Le terrain : accès, relief et réseaux 694 ms
+pdf chrono Conditions de vente du terrain 696 ms
+pdf chrono Environnement et marché immobilier 703 ms
+pdf chrono Historique du site 711 ms
+pdf chrono Marché, contrôles et données techniques 718 ms
+pdf chrono Votre projet, étape par étape 726 ms
+pdf chrono État des risques (ERP) pré-rempli 729 ms
+pdf chrono Avertissement et sources 736 ms (fin des chapitres)
