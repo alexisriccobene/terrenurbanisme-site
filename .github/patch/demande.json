@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "dxf_lien.py", "demande": "dxf-lien"}
+{"fonction": "stripe-webhook", "script": "zone_nonpubliee.py", "demande": "zone-nonpubliee"}
