@@ -1,0 +1,40 @@
+name: Compte agence (création)
+on:
+  workflow_dispatch:
+    inputs:
+      email: { description: "E-mail du compte agence" }
+      logo_src: { description: "Logo à copier (bucket logos)", default: "" }
+permissions:
+  contents: read
+jobs:
+  creer:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Créer le compte et copier le logo
+        env:
+          KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          EM: ${{ inputs.email }}
+          LOGO: ${{ inputs.logo_src }}
+        run: |
+          python3 - <<'PY'
+          import os, json, urllib.request
+          U='https://nmoigruxnhsidrhqtzid.supabase.co'; K=os.environ['KEY']; em=os.environ['EM'].strip().lower()
+          H={'apikey':K,'Authorization':'Bearer '+K,'Content-Type':'application/json'}
+          def req(m,p,b=None):
+              r=urllib.request.Request(U+p,data=json.dumps(b).encode() if b is not None else None,headers=H,method=m)
+              try:
+                  with urllib.request.urlopen(r) as x: return x.status, json.loads(x.read() or b'{}')
+              except urllib.error.HTTPError as e: return e.code, e.read().decode()[:300]
+          s,r=req('POST','/auth/v1/admin/users',{'email':em,'email_confirm':True})
+          print('creation', s)
+          uid = r.get('id') if isinstance(r,dict) else None
+          if not uid:
+              s,r=req('GET','/auth/v1/admin/users?per_page=1000')
+              uid=next((u['id'] for u in r.get('users',[]) if u.get('email','').lower()==em),None)
+          print('USER_ID', uid)
+          if uid and os.environ.get('LOGO'):
+              dst=uid+'/'+os.environ['LOGO'].split('/')[-1]
+              s,r=req('POST','/storage/v1/object/copy',{'bucketId':'logos','sourceKey':os.environ['LOGO'],'destinationKey':dst})
+              print('logo', s, 'LOGO_PATH', dst)
+          PY
