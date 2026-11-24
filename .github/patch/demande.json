@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "origine_webhook.py", "demande": "origine-webhook"}
+{"fonction": "stripe-webhook", "script": "desinscription_confirm.py", "demande": "desinscription-confirm"}
