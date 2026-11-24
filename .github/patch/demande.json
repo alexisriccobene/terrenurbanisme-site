@@ -1,1 +1,1 @@
-{"fonction": "stripe-webhook", "script": "desinscription_texte.py", "demande": "desinscription-texte"}
+{"fonction": "stripe-webhook", "script": "znieff_dom.py", "demande": "znieff-dom"}
