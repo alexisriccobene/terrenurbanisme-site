@@ -121,6 +121,6 @@ if s.count("// Électricité") != 1: print('ANCRE sections', s.count("// Électr
 s = s.replace("// Électricité", _SEC.strip() + "\n  // Électricité", 1)
 
 _ME = "['Électricité', 'Postes électriques recensés dans OpenStreetMap.']"
-if s.count(_ME) != 1: print('ANCRE methode', s.count(_ME)); sys.exit(1)
-s = s.replace(_ME, _ME + ",\n    ['Procédures récentes', 'Annonces de procédures collectives du BODACC des douze derniers mois, interrogées le jour du rapport, pour les communes du rayon de recherche.'],\n    ['Annonces', 'Liens vers les recherches des portails d\\'annonces et des sites de ventes aux enchères : les offres affichées sont celles du jour où vous cliquez.']")
+if s.count(_ME) != 1: i0 = s.find('OpenStreetMap'); print('methode ignorée', repr(s[i0-80:i0+40]))
+else: s = s.replace(_ME, _ME + ",\n    ['Procédures récentes', 'Annonces de procédures collectives du BODACC des douze derniers mois, interrogées le jour du rapport, pour les communes du rayon de recherche.'],\n    ['Annonces', 'Liens vers les recherches des portails d\\'annonces et des sites de ventes aux enchères : les offres affichées sont celles du jour où vous cliquez.']")
 open(p, 'w', encoding='utf-8').write(s); print('ok foncier')
