@@ -41,6 +41,7 @@ jobs:
           else
             supabase functions download "$name" --project-ref "$REF" --use-api || supabase functions download "$name" --project-ref "$REF"
             f=$(find supabase/functions/$name -name index.ts | head -1); [ -n "$f" ] || { echo "::error::source introuvable"; exit 1; }
+            sudo chown -R "$(id -u):$(id -g)" supabase
             [ "$f" = "$src" ] || cp "$f" "$src"
             echo "Source téléchargée depuis la version en ligne"
           fi
