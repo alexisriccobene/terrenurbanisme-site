@@ -1,0 +1,65 @@
+name: Foncier génération (serveur GitHub)
+# Fabrique le rapport « foncier entreprises » d'une demande payée sur un serveur GitHub (pas de limite de calcul),
+# puis demande à la fonction en ligne de l'envoyer par e-mail. Déclenché par la fonction (repository_dispatch) ou à la main.
+on:
+  repository_dispatch:
+    types: [foncier_generer]
+  workflow_dispatch:
+    inputs:
+      id: { description: "Identifiant de la demande (fon_demandes.id)", required: true }
+      mail: { description: "Envoyer l'e-mail (oui/non)", required: false, default: "non" }
+permissions:
+  contents: write
+concurrency:
+  group: foncier-generer-${{ github.event.client_payload.id || github.event.inputs.id }}
+jobs:
+  g:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
+      KEY: ${{ secrets.TU_ADMIN_KEY }}
+      SR: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+      REF: nmoigruxnhsidrhqtzid
+      ID: ${{ github.event.client_payload.id || github.event.inputs.id }}
+      MAIL: ${{ github.event_name == 'repository_dispatch' && 'oui' || github.event.inputs.mail }}
+    steps:
+      - uses: actions/checkout@v4
+        with: { sparse-checkout: .github/deploy }
+      - uses: denoland/setup-deno@v2
+        with: { deno-version: v2.x }
+      - name: Préparer
+        run: |
+          set -euo pipefail
+          case "$ID" in *[!0-9]*|"") echo "::error::identifiant invalide"; exit 1;; esac
+          K=$(curl -sf -X POST "https://api.supabase.com/v1/projects/$REF/database/query" -H "Authorization: Bearer $SUPABASE_ACCESS_TOKEN" -H "Content-Type: application/json" \
+            -d '{"query":"select decrypted_secret as k from vault.decrypted_secrets where name = '\''tu_deploy_key'\'' limit 1"}' | jq -r '.[0].k')
+          [ ${#K} -eq 64 ] || { echo "::error::clé introuvable"; exit 1; }
+          printf '%s' "$K" > "$RUNNER_TEMP/k"
+          mkdir -p fn && openssl enc -d -aes-256-cbc -pbkdf2 -iter 200000 -in .github/deploy/foncier.ts.enc -out fn/index.ts -pass "file:$RUNNER_TEMP/k"; rm -f "$RUNNER_TEMP/k"
+      - name: Générer
+        env:
+          SUPABASE_URL: https://nmoigruxnhsidrhqtzid.supabase.co
+          SITE_URL: https://terrenurbanisme.com
+        run: |
+          set -uo pipefail
+          export SUPABASE_SERVICE_ROLE_KEY="$SR" ADMIN_KEY="$KEY" TU_LOCAL=1
+          deno run -A --no-check fn/index.ts > srv.log 2>&1 &
+          for i in $(seq 1 60); do curl -s -o /dev/null http://localhost:8000/ && break; sleep 2; done
+          code=$(curl -s -m 900 -o r.json -w '%{http_code}' -X POST http://localhost:8000/ -H "x-tu-admin: $KEY" -H "Content-Type: application/json" -d "{\"action\":\"generer\",\"id\":$ID,\"mail\":false,\"force\":true}")
+          echo "HTTP $code"; cat r.json; echo
+          grep -iv "^\s*$" srv.log | grep -i "error\|erreur\|secteur" | tail -20
+          [ "$code" = "200" ] || exit 1
+      - name: Envoyer
+        if: env.MAIL == 'oui'
+        run: |
+          curl -s -X POST "https://nmoigruxnhsidrhqtzid.supabase.co/functions/v1/foncier" -H "x-tu-admin: $KEY" -H "Content-Type: application/json" -d "{\"action\":\"envoyer\",\"id\":$ID}" | tee e.json; echo
+          grep -q '"envoye"\|deja_envoye' e.json
+      - name: Copie de contrôle
+        if: env.MAIL != 'oui'
+        run: |
+          U=$(jq -r .url r.json); curl -sf "$U" -o rapport.pdf
+          git sparse-checkout disable; git fetch -q origin tests-rapports && git checkout -q tests-rapports
+          mkdir -p foncier && cp rapport.pdf "foncier/rapport-$ID.pdf"
+          git config user.name bot; git config user.email bot@users.noreply.github.com
+          git add foncier && git commit -qm "foncier $ID [skip ci]" && git push -q origin tests-rapports
