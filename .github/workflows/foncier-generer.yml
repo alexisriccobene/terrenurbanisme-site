@@ -48,7 +48,7 @@ jobs:
           for i in $(seq 1 60); do curl -s -o /dev/null http://localhost:8000/ && break; sleep 2; done
           code=$(curl -s -m 900 -o r.json -w '%{http_code}' -X POST http://localhost:8000/ -H "x-tu-admin: $KEY" -H "Content-Type: application/json" -d "{\"action\":\"generer\",\"id\":$ID,\"mail\":false,\"force\":true}")
           echo "HTTP $code"; cat r.json; echo
-          grep -iv "^\s*$" srv.log | grep -i "error\|erreur\|secteur" | tail -20
+          grep -iv "^\s*$" srv.log | grep -i "error\|erreur\|secteur" | tail -20 || true
           [ "$code" = "200" ] || exit 1
       - name: Envoyer
         if: env.MAIL == 'oui'
