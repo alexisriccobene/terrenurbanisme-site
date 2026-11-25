@@ -9,8 +9,10 @@ def rep(a, b, tag):
 
 rep("TerrenUrbanisme, marque de la SASU ArConciergerie · SIREN 948 992 102 · TVA FR31948992102 · contact@terrenurbanisme.com",
     "TerrenUrbanisme, entreprise individuelle · SIREN 898 332 473 · TVA non applicable, article 293 B du CGI · contact@terrenurbanisme.com", 'footer')
-rep("const TAX = (Deno.env.get('TAX_RATE_ID') || '').trim(); if (/^txr_[A-Za-z0-9]+$/.test(TAX)) f.set('line_items[0][tax_rates][0]', TAX);",
-    "// Franchise en base de TVA (article 293 B du CGI) : aucun taux de TVA appliqué", 'tax')
+import re as _re
+_n = len(_re.findall(r"f\.set\('line_items\[0\]\[tax_rates\]\[0\]', TAX\)", s))
+if _n != 1: print('ANCRE tax', _n); sys.exit(1)
+s = _re.sub(r"f\.set\('line_items\[0\]\[tax_rates\]\[0\]', TAX\)", "void TAX /* franchise en base de TVA, article 293 B du CGI */", s)
 
 rep("// ---------- PDF ----------", r"""// ---------- Secteur : procédures collectives du jour et liens d'annonces ----------
 const getJ = async (u: string, ms = 15000) => { try { const r = await fetch(u, { signal: AbortSignal.timeout(ms) }); return r.ok ? await r.json() : null; } catch { return null; } };
