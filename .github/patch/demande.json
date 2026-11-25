@@ -1,1 +1,1 @@
-{"fonction":"stripe-webhook","script":"carte_clip_fibre.py","demande":"carte_clip_fibre"}
+{"fonction":"stripe-webhook","script":"fibre_mail.py","demande":"fibre_mail"}
