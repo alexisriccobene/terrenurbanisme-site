@@ -42,3 +42,23 @@ for t in range(6):
 log('communes', len(com))
 if len(com) < 30000: sys.exit('communes incomplètes')
 json.dump(com, open('/tmp/commun/communes.json', 'w'), ensure_ascii=False)
+# Établissements en activité géolocalisés (Sirene, INSEE) : un bâtiment occupé par une entreprise n'est pas disponible
+import subprocess
+subprocess.run([sys.executable, '-m', 'pip', 'install', '-q', 'duckdb'], check=True)
+import duckdb
+GEO = 'https://static.data.gouv.fr/resources/geolocalisation-des-etablissements-du-repertoire-sirene-pour-les-etudes-statistiques/20261123-064215/geoloc-geolocalisationetablissement-sirene-pour-etudes-statistiques-parquet.parquet'
+STK = 'https://static.data.gouv.fr/resources/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/20261103-101714/stock-stocketablissement-parquet.parquet'
+for t in range(3):
+    try:
+        c = duckdb.connect(); c.execute("INSTALL httpfs; LOAD httpfs; SET threads=4; SET memory_limit='5GB';")
+        c.execute(f"""COPY (
+          SELECT s.siren, g.y_latitude AS lat, g.x_longitude AS lon, coalesce(g.distance_precision, 0) AS prec,
+                 nullif(trim(coalesce(s.enseigne1Etablissement, s.denominationUsuelleEtablissement, '')), '') AS nom,
+                 s.activitePrincipaleEtablissement AS ape,
+                 CASE WHEN g.plg_code_commune LIKE '97%' THEN substr(g.plg_code_commune, 1, 3) ELSE substr(g.plg_code_commune, 1, 2) END AS dep
+          FROM read_parquet('{STK}') s JOIN read_parquet('{GEO}') g USING (siret)
+          WHERE s.etatAdministratifEtablissement = 'A' AND g.y_latitude IS NOT NULL AND g.plg_code_commune IS NOT NULL
+        ) TO '/tmp/commun/sirene' (FORMAT parquet, PARTITION_BY (dep), OVERWRITE_OR_IGNORE)""")
+        log('sirene actifs', c.execute("SELECT count(*) FROM read_parquet('/tmp/commun/sirene/*/*.parquet')").fetchone()[0]); break
+    except Exception as ex: log('sirene', str(ex)[:300]); time.sleep(60)
+else: sys.exit('sirene indisponible')

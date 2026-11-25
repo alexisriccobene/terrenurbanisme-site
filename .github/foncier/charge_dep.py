@@ -127,6 +127,17 @@ ARMEE = re.compile(r'ARMEE|DEFENSE|MILITAIRE|GENDARMERIE', re.I)
 
 # 4. Cadastre
 sites = {}
+# 4b. Entreprises en activité (Sirene géolocalisé) : un bâtiment occupé ne sert pas à une entreprise qui cherche à s'implanter
+import duckdb
+from collections import defaultdict as _dd
+act_pts, act_inf, own = [], [], _dd(list)
+try:
+    for siren, la, lo, prec, nom in duckdb.connect().execute(f"SELECT siren, lat, lon, prec, nom FROM read_parquet('/tmp/commun/sirene/dep={DEP}/*.parquet')").fetchall():
+        if la is None or lo is None or (prec or 0) > 150: continue
+        act_pts.append(Point(lo, la)); act_inf.append((siren, nom)); own[siren].append((la, lo))
+except Exception as e: log('sirene', str(e)[:200])
+atree = STRtree(act_pts) if act_pts else None
+log('établissements actifs', len(act_pts))
 cp = '/tmp/cad.gz'
 for t in range(4):
     try:
@@ -157,6 +168,13 @@ with gzip.open(cp, 'rb') as f:
                       'zone': zn['lib'] if zn else None, 'typezone': zn['tz'] if zn else None, 'zone_long': zn['long'] if zn else None, 'activite': bool(zn and zn['act']),
                       'siren': info['siren'] if info else None, 'proprio': info['den'] if info else None, 'forme': info['forme'] if info else None, 'groupe': info['grp'] if info else None,
                       'usages': sorted(u for u in us if u) or None, 'armee': armee or None}
+        if atree is not None:
+            na, occ = 0, None
+            for k in atree.query(g):
+                if g.contains(act_pts[k]): na += 1; occ = occ or act_inf[k][1]
+            if na: sites[idu]['actifs'] = na; sites[idu]['occupant'] = occ
+        sv0 = info['siren'] if info else None
+        if sv0 and sv0 in own and any(abs(a_ - pt.y) < 0.003 and abs(b_ - pt.x) < 0.004 for a_, b_ in own[sv0]): sites[idu]['occ_prop'] = True
 os.remove(cp); del pm
 log('parcelles lues', n, 'sites', len(sites))
 
@@ -242,6 +260,16 @@ for s in sites.values():
     s['commune'] = s.get('commune') or COM.get(s['insee'] or '', [None])[0]
     s['dep'] = DEP
 
+# 7b. Disponibilité : terrain libre, bâtiment sans entreprise en activité, bien d'une société en procédure ou radiée, friche
+for s in sites.values():
+    s['v'] = 2; pn = s.get('proc_nature') or ''
+    en_proc = bool(pn) and re.search(r'liquidation|redressement|cession|sauvegarde', pn, re.I) and not re.search(r'cl[ôo]ture|r[ée]solution|infirm', pn, re.I)
+    if s['kind'] == 'friche': s['dispo'] = 'friche'
+    elif en_proc: s['dispo'] = 'procedure'
+    elif s.get('etat') == 'C' and not s.get('actifs'): s['dispo'] = 'radiee'
+    elif s['kind'] == 'terrain' and not s.get('actifs') and not s.get('occ_prop'): s['dispo'] = 'libre'
+    elif s['kind'] == 'batiment' and not s.get('actifs') and not s.get('occ_prop'): s['dispo'] = 'vacant'
+log('disponibles', Counter(s.get('dispo') for s in sites.values()))
 # 8. Grille d'aperçu + fichier détaillé
 def cls(v, th):
     i = 0
@@ -251,13 +279,14 @@ def cls(v, th):
 S_TH, B_TH = [0, 1000, 2000, 5000, 10000, 20000, 50000], [0, 150, 500, 1000, 2000, 5000]
 g = defaultdict(lambda: [0] * 7)
 for s in sites.values():
+    if not s.get('dispo'): continue
     k = (round(round(s['lat'] / 0.02) * 0.02, 2), round(round(s['lon'] / 0.02) * 0.02, 2), cls(s['surface'], S_TH), cls(s['bati'], B_TH))
     c = g[k]; c[0] += 1
-    if s['kind'] == 'terrain' and not s.get('bati'): c[1] += 1
+    if s['dispo'] == 'libre': c[1] += 1
     if s.get('activite'): c[2] += 1
-    if s.get('bati'): c[3] += 1
+    if s['dispo'] == 'vacant': c[3] += 1
     if s.get('siren'): c[4] += 1
-    if s.get('proc_nature') or s.get('etat') == 'C': c[5] += 1
+    if s['dispo'] in ('procedure', 'radiee'): c[5] += 1
     if s['kind'] == 'friche': c[6] += 1
 rows = [{'dep': DEP, 'clat': k[0], 'clon': k[1], 'si': k[2], 'bi': k[3], 'n': c[0], 'terr': c[1], 'act': c[2], 'bat': c[3], 'soc': c[4], 'dif': c[5], 'fri': c[6]} for k, c in g.items()]
 base = f"https://{os.environ['REF']}.supabase.co"

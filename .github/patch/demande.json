@@ -1,1 +1,1 @@
-{"fonction":"stripe-webhook","script":"fibre_casse.py","demande":"fibre_casse"}
+{"fonction":"foncier","script":"foncier_dispo.py","demande":"foncier_dispo"}

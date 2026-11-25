@@ -43,5 +43,5 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/download-artifact@v4
         with: { name: commun, path: /tmp/commun }
-      - run: pip install -q shapely pyproj requests ijson
+      - run: pip install -q shapely pyproj requests ijson duckdb
       - run: python3 -u .github/foncier/charge_dep.py
