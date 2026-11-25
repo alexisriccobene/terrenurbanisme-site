@@ -43,8 +43,6 @@ log('communes', len(com))
 if len(com) < 30000: sys.exit('communes incomplètes')
 json.dump(com, open('/tmp/commun/communes.json', 'w'), ensure_ascii=False)
 # Établissements en activité géolocalisés (Sirene, INSEE) : un bâtiment occupé par une entreprise n'est pas disponible
-import subprocess
-subprocess.run([sys.executable, '-m', 'pip', 'install', '-q', 'duckdb'], check=True)
 import duckdb
 GEO = 'https://static.data.gouv.fr/resources/geolocalisation-des-etablissements-du-repertoire-sirene-pour-les-etudes-statistiques/20261123-064215/geoloc-geolocalisationetablissement-sirene-pour-etudes-statistiques-parquet.parquet'
 STK = 'https://static.data.gouv.fr/resources/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/20261103-101714/stock-stocketablissement-parquet.parquet'
