@@ -1,1 +1,1 @@
-{"fonction":"stripe-webhook","script":"cartes_peb3.py","demande":"cartes_peb3"}
+{"fonction":"stripe-webhook","script":"cartes_cadre.py","demande":"cartes_cadre"}
