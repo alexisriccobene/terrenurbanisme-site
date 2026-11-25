@@ -85,10 +85,10 @@
             $('fe-done-p').textContent = r.j.n + ' site' + (r.j.n > 1 ? 's' : '') + ' autour de ' + r.j.commune + ' (' + r.j.rayon_km + ' km). Il vous a aussi été envoyé par e-mail.';
             var a2 = $('fe-done-a'); a2.href = r.j.url; a2.hidden = false; return;
           }
-          if (tries < 20) setTimeout(go, r.s === 402 ? 4000 : 6000);
+          if (tries < 45) setTimeout(go, r.s === 402 ? 4000 : 8000);
           else $('fe-done-p').textContent = 'La préparation prend plus de temps que prévu. Le rapport vous sera envoyé par e-mail dans les minutes qui viennent.';
         })
-        .catch(function(){ if (tries < 20) setTimeout(go, 6000); });
+        .catch(function(){ if (tries < 45) setTimeout(go, 8000); });
     };
     go();
   }
