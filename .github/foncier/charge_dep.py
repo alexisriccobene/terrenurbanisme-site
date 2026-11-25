@@ -170,8 +170,9 @@ with gzip.open(cp, 'rb') as f:
                       'usages': sorted(u for u in us if u) or None, 'armee': armee or None}
         if atree is not None:
             na, occ = 0, None
-            for k in atree.query(g):
-                if g.contains(act_pts[k]): na += 1; occ = occ or act_inf[k][1]
+            gb = g.buffer(0.00015)  # environ 15 m : l'adresse d'un établissement tombe souvent en bordure de voie
+            for k in atree.query(gb):
+                if gb.contains(act_pts[k]): na += 1; occ = occ or act_inf[k][1]
             if na: sites[idu]['actifs'] = na; sites[idu]['occupant'] = occ
         sv0 = info['siren'] if info else None
         if sv0 and sv0 in own and any(abs(a_ - pt.y) < 0.003 and abs(b_ - pt.x) < 0.004 for a_, b_ in own[sv0]): sites[idu]['occ_prop'] = True
@@ -268,7 +269,7 @@ for s in sites.values():
     elif en_proc: s['dispo'] = 'procedure'
     elif s.get('etat') == 'C' and not s.get('actifs'): s['dispo'] = 'radiee'
     elif s['kind'] == 'terrain' and not s.get('actifs') and not s.get('occ_prop'): s['dispo'] = 'libre'
-    elif s['kind'] == 'batiment' and not s.get('actifs') and not s.get('occ_prop'): s['dispo'] = 'vacant'
+    elif s['kind'] == 'batiment' and not s.get('actifs') and not s.get('occ_prop') and any(re.search(r'industr|commerc', u or '', re.I) for u in (s.get('usages') or [])): s['dispo'] = 'vacant'
 log('disponibles', Counter(s.get('dispo') for s in sites.values()))
 # 8. Grille d'aperçu + fichier détaillé
 def cls(v, th):
