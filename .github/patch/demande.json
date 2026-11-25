@@ -1,1 +1,1 @@
-{"fonction":"stripe-webhook","script":"clean_rga.py","demande":"clean_rga"}
+{"fonction":"stripe-webhook","script":"geom_nom.py","demande":"geom_nom"}
