@@ -1,4 +1,81 @@
-geo [('siret', 'VARCHAR', 'YES', None, None, None), ('x', 'FLOAT', 'YES', None, None, None), ('y', 'FLOAT', 'YES', None, None, None), ('qualite_xy', 'VARCHAR', 'YES', None, None, None), ('epsg', 'VARCHAR', 'YES', None, None, None), ('plg_qp24', 'VARCHAR', 'YES', None, None, None), ('plg_iris', 'VARCHAR', 'YES', None, None, None), ('plg_zus', 'VARCHAR', 'YES', None, None, None), ('plg_qp15', 'VARCHAR', 'YES', None, None, None), ('plg_qva', 'VARCHAR', 'YES', None, None, None), ('plg_code_commune', 'VARCHAR', 'YES', None, None, None), ('distance_precision', 'FLOAT', 'YES', None, None, None), ('qualite_qp24', 'VARCHAR', 'YES', None, None, None), ('qualite_iris', 'VARCHAR', 'YES', None, None, None), ('qualite_zus', 'VARCHAR', 'YES', None, None, None), ('qualite_qp15', 'VARCHAR', 'YES', None, None, None), ('qualite_qva', 'VARCHAR', 'YES', None, None, None), ('y_latitude', 'FLOAT', 'YES', None, None, None), ('x_longitude', 'FLOAT', 'YES', None, None, None)]
-stock [('siren', 'VARCHAR', 'YES', None, None, None), ('nic', 'VARCHAR', 'YES', None, None, None), ('siret', 'VARCHAR', 'YES', None, None, None), ('statutDiffusionEtablissement', 'VARCHAR', 'YES', None, None, None), ('dateCreationEtablissement', 'DATE', 'YES', None, None, None), ('trancheEffectifsEtablissement', 'VARCHAR', 'YES', None, None, None), ('anneeEffectifsEtablissement', 'BIGINT', 'YES', None, None, None), ('activitePrincipaleRegistreMetiersEtablissement', 'VARCHAR', 'YES', None, None, None), ('dateDernierTraitementEtablissement', 'TIMESTAMP', 'YES', None, None, None), ('etablissementSiege', 'BOOLEAN', 'YES', None, None, None), ('nombrePeriodesEtablissement', 'BIGINT', 'YES', None, None, None), ('complementAdresseEtablissement', 'VARCHAR', 'YES', None, None, None), ('numeroVoieEtablissement', 'VARCHAR', 'YES', None, None, None), ('indiceRepetitionEtablissement', 'VARCHAR', 'YES', None, None, None), ('dernierNumeroVoieEtablissement', 'VARCHAR', 'YES', None, None, None), ('indiceRepetitionDernierNumeroVoieEtablissement', 'VARCHAR', 'YES', None, None, None), ('typeVoieEtablissement', 'VARCHAR', 'YES', None, None, None), ('libelleVoieEtablissement', 'VARCHAR', 'YES', None, None, None), ('codePostalEtablissement', 'VARCHAR', 'YES', None, None, None), ('libelleCommuneEtablissement', 'VARCHAR', 'YES', None, None, None), ('libelleCommuneEtrangerEtablissement', 'VARCHAR', 'YES', None, None, None), ('distributionSpecialeEtablissement', 'VARCHAR', 'YES', None, None, None), ('codeCommuneEtablissement', 'VARCHAR', 'YES', None, None, None), ('codeCedexEtablissement', 'VARCHAR', 'YES', None, None, None), ('libelleCedexEtablissement', 'VARCHAR', 'YES', None, None, None), ('codePaysEtrangerEtablissement', 'VARCHAR', 'YES', None, None, None), ('libellePaysEtrangerEtablissement', 'VARCHAR', 'YES', None, None, None), ('identifiantAdresseEtablissement', 'VARCHAR', 'YES', None, None, None), ('coordonneeLambertAbscisseEtablissement', 'VARCHAR', 'YES', None, None, None), ('coordonneeLambertOrdonneeEtablissement', 'VARCHAR', 'YES', None, None, None), ('complementAdresse2Etablissement', 'VARCHAR', 'YES', None, None, None), ('numeroVoie2Etablissement', 'VARCHAR', 'YES', None, None, None), ('indiceRepetition2Etablissement', 'VARCHAR', 'YES', None, None, None), ('typeVoie2Etablissement', 'VARCHAR', 'YES', None, None, None), ('libelleVoie2Etablissement', 'VARCHAR', 'YES', None, None, None), ('codePostal2Etablissement', 'VARCHAR', 'YES', None, None, None), ('libelleCommune2Etablissement', 'VARCHAR', 'YES', None, None, None), ('libelleCommuneEtranger2Etablissement', 'VARCHAR', 'YES', None, None, None), ('distributionSpeciale2Etablissement', 'VARCHAR', 'YES', None, None, None), ('codeCommune2Etablissement', 'VARCHAR', 'YES', None, None, None), ('codeCedex2Etablissement', 'VARCHAR', 'YES', None, None, None), ('libelleCedex2Etablissement', 'VARCHAR', 'YES', None, None, None), ('codePaysEtranger2Etablissement', 'VARCHAR', 'YES', None, None, None), ('libellePaysEtranger2Etablissement', 'VARCHAR', 'YES', None, None, None), ('dateDebut', 'DATE', 'YES', None, None, None), ('etatAdministratifEtablissement', 'VARCHAR', 'YES', None, None, None), ('enseigne1Etablissement', 'VARCHAR', 'YES', None, None, None), ('enseigne2Etablissement', 'VARCHAR', 'YES', None, None, None), ('enseigne3Etablissement', 'VARCHAR', 'YES', None, None, None), ('denominationUsuelleEtablissement', 'VARCHAR', 'YES', None, None, None), ('activitePrincipaleEtablissement', 'VARCHAR', 'YES', None, None, None), ('nomenclatureActivitePrincipaleEtablissement', 'VARCHAR', 'YES', None, None, None), ('caractereEmployeurEtablissement', 'VARCHAR', 'YES', None, None, None), ('activitePrincipaleNAF25Etablissement', 'VARCHAR', 'YES', None, None, None)]
-[('10880397400014', 664894.75, 6845796.5, '11', '2154', 'CSZ', '0104', 'CSZ', 'CSZ', 'CSZ', '94075', 0.0, None, '1', None, None, None, 48.71135330200195, 2.5228826999664307), ('10880406300015', 769423.1875, 6279175.0, '11', '2154', 'HZ', '2801', 'HZ', 'HZ', 'HZ', '34172', 0.0, '1', '1', '1', '1', '1', 43.60822677612305, 3.859666585922241), ('10880409700013', 645756.3125, 6870354.5, '11', '2154', 'HZ', '0205', '1117020', 'HZ', 'CSZ', '92025', 0.0, '1', '1', '1', '1', None, 48.93088150024414, 2.2596545219421387)]
-geo epsg [('2154', 37063570), ('5490', 546217), ('2975', 421905), ('2972', 104645)] 29.61344051361084
+== 2B033000BK0242 42.66444 9.44189 total 67
+   SONEPAR FRANCE DISTRIBUTION | LD ERBAJOLO 1289 AVENUE SAMPIERO CORSO 20600 BASTIA | A | 128 m | dans: False
+   TOTALENERGIES MARKETING CORSE | MONTESORO RN 193 AVENUE SAMPIERO CORSO 20600 BASTIA | A | 94 m | dans: False
+   SOCIETE CORSEPRIM | ZONE INDUSTRIELLE DE BASTIA PASTORECCIA 20200 BASTIA | A | 108 m | dans: False
+   SARL RELAIS DE LA PLAINE | LD PURETTE RN 193 AVENUE SAMPIERO CORSO 20600 BASTIA | F | 94 m | dans: False
+   STEPHANE SAOLI | MAISON DE SANTE CHE D'ERBAJOLO 20200 BASTIA | F | 108 m | dans: False
+   CARCITY | RN 193 ESPACE TAMBURINI 20200 BASTIA | A | 110 m | dans: False
+   EN.JEU FURIANI | ESPACE TAMBURINI 20200 BASTIA | F | 110 m | dans: False
+   LE FRAIS MARCHE | 1289 AVENUE SAMPIERO CORSO 20600 BASTIA | A | 128 m | dans: False
+   DOMO CAP | ZI DE BASTIA PASTORECCIA 20200 BASTIA | F | 94 m | dans: False
+   MARC CASANOVA (SMOCKDOG 2B) | CENTRE COMMERCIAL LE POLYGONE AVENUE SAMPIERO CORSO 20600 BASTIA | A | 94 m | dans: False
+== 2B033000BK0295 42.66499 9.44164 total 45
+   DOMINIQUE MILLELIRI | CENTRE COMMERCIAL QUA MONTESORO 20200 BASTIA | A | 93 m | dans: False
+   SELARL ANNE DARIA PAOLI | RESIDENCE MORGANE LE POLYGONE AVENUE SAMPIERO CORSO 20600 BASTIA | A | 76 m | dans: False
+   LAURIE PEYSSON NICOLAI (PEYSSON) | RESIDENCE MORGANE CC LE POLYGONE AVENUE SAMPIERO CORSO 20600 BASTIA | A | 118 m | dans: False
+   LE PETIT CHALET | ROUTE DE L'ARINELLA AVENUE SAMPIERO CORSO 20600 BASTIA | A | 54 m | dans: True
+   BRASSERIE U | CTRE COMM HYPER U RTE NATIONALE 193 20200 BASTIA | A | 114 m | dans: False
+   TIAGO MIGUEL AMORIM CALCADA (BTP AMORIM) | ZONE INDUSTRIELLE FURIANI 135 RUE CLAUDE PAPI 20200 BASTIA | A | 129 m | dans: False
+   ICTP HOLDING | ZA ERBAJOLO, LD PASTERECCI 20200 BASTIA | A | 54 m | dans: True
+   3B 3T | MECAFROID IMM SEDDA AVENUE SAMPIERO CORSO 20600 BASTIA | A | 99 m | dans: True
+   DR PAOLI - DR PEYSSON-NICOLAI | RESIDENCE MORGANE AVENUE SAMPIERO CORSO 20600 BASTIA | A | 76 m | dans: False
+   ETABLISSEMENTS BRONZINI | RN 193 ERBAJOLO AVENUE SAMPIERO CORSO 20600 BASTIA | A | 114 m | dans: False
+== 2B033000BM1108 42.66709 9.4328 total 2
+   BLANCHISSERIE RONCAGLIA | ZAE D ERBAJOLO CHE D AGLIANI 20200 BASTIA | A | 71 m | dans: False
+   CATHERINE PEKER (ADE) | LOTISSEMENT PASTORECCIA 2 CHEMIN DE LABRETTO 20600 BASTIA | A | 118 m | dans: False
+== 2B0420000A1348 42.59198 9.44105 total 19
+   PRO COLORS (PRO COLORS) | LOT 28 BOX C ZI DE PURETTONE 20290 BORGO | F | 84 m | dans: False
+   SOCIETE DES TRANSPORTS CAPOROSSI | LOT PURETTONE N°23 23 LOT PARC D'ACT BORGO-PURETTONE 20290 BORGO | A | 94 m | dans: False
+   ANDO I (ANDO 1) | LOT N 49 ALLEE VERTE ZI DE PURETTONE 20290 BORGO | A | 84 m | dans: False
+   SERVOTECH | ZA DE PETRE TURCHINE 790 AVENUE DE VALROSE 20290 BORGO | A | 130 m | dans: False
+   ALICE (ALICE) | - LOTISSEMENT NU ZI DE PURETTONE 20290 BORGO | A | 84 m | dans: False
+   DIGITAL SPICE AGENCY | 790 AVENUE DE VALROSE 20290 BORGO | A | 130 m | dans: False
+   SAMUEL KURZ (GLOW AGENCY) | 790 AVENUE DE VALROSE 20290 BORGO | A | 130 m | dans: False
+   TECHNIC ALARM | ZA PETRE TURCHINE 790 AVENUE DE VALROSE 20290 BORGO | F | 130 m | dans: False
+   TECHNIC'ELEC | ZA PETRE TURCHINE 790 AVENUE DE VALROSE 20290 BORGO | F | 130 m | dans: False
+   MAGELA | ZA PETRE TURCHINE 790 AVENUE DE VALROSE 20290 BORGO | A | 130 m | dans: False
+== 2B0420000E0206 42.59207 9.43646 total 48
+   SOLECO | LES CHENES 20290 BORGO | F | 47 m | dans: False
+   BAROMATIC | LES CHENES VALROSE 20290 BORGO | F | 46 m | dans: False
+   MATHIEU MATTEI | VALROSE LES CHENES 20290 BORGO | A | 47 m | dans: False
+   SCI A CASUCCIA | LOTISSEMENT LES CHENES VALROSE 20290 BORGO | A | 92 m | dans: False
+   SASSO 2J | 250 RUE DES ARBOUSIERS 20290 BORGO | A | 83 m | dans: False
+   S.A.R.L. AUTOMOBILE INSULAIRE DE RECUPERATION (A.I | APPT PIERANTONI N° 2 LES CHENES VALROSE 20290 BORGO | F | 46 m | dans: False
+   RAYMOND | VALROSE LES CHENES 20290 BORGO | A | 92 m | dans: False
+   SARL BASTIALUTECHNIE | RN 193 LOT LES CHENES 20290 BORGO | F | 47 m | dans: False
+   MARCANTONI HOLDING | CAMPO VALLONE CAMPO VALLONE 20620 BIGUGLIA | A | 98 m | dans: False
+   CFM SERVICES (CFM) | 224 RUE DES ARBOUSIERS 20290 BORGO | A | 50 m | dans: False
+== 2B1200000B2456 42.65785 9.43669 total 188
+   RELAIS COLIS (RELAIS COLIS) | QUARTIER MONTE CARLO 20600 FURIANI | F | 92 m | dans: False
+   TOKHEIM SERVICES FRANCE (TSG FRANCE) | CASARONE LOT RINALDI QUAI VOLPAJO 20600 FURIANI | A | 98 m | dans: False
+   SC COM | CENTRE COMMERCIAL LA ROCADE CENTRE COMMERCIAL LA ROCADE 20600 FURIANI | A | 94 m | dans: False
+   SARL M ET L | CENTRE COMMERCIAL LA ROCADE 20600 FURIANI | A | 94 m | dans: False
+   SARL M ET L | AUCHAN CENTRE COMMERCIAL LA ROCADE 20600 FURIANI | A | 94 m | dans: False
+   LE DIAMANT BLEU | CENTRE COMMERCIAL LA ROCADE 20600 FURIANI | A | 94 m | dans: False
+   S.T.F | RN 193 CENTRE COMMERCIAL LA ROCADE 20600 FURIANI | A | 94 m | dans: False
+   LAURENT COIFFURE | CENTRE COMMERCIAL LA ROCADE 20600 FURIANI | A | 94 m | dans: False
+   CORSE PRESSING INDUSTRIEL | QUARTIER MONTE CARLO 20600 FURIANI | A | 92 m | dans: False
+   HOL | CENTRE COMMERCIAL LA ROCADE 20600 FURIANI | A | 94 m | dans: False
+   SASU MARILI | CENTRE COMMERCIAL LA ROCADE 20600 FURIANI | A | 94 m | dans: False
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/models.py", line 965, in json
+    return complexjson.loads(self.content.decode(encoding), **kwargs)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/json/__init__.py", line 352, in loads
+    return _default_decoder.decode(s)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/usr/lib/python3.14/json/decoder.py", line 345, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/json/decoder.py", line 363, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/work/terrenurbanisme-site/terrenurbanisme-site/.github/foncier/sonde_vacants.py", line 10, in <module>
+    j = requests.get(f'https://recherche-entreprises.api.gouv.fr/near_point?lat={c.y}&long={c.x}&radius=0.1&per_page=10', headers=H, timeout=60).json()
+  File "/usr/lib/python3/dist-packages/requests/models.py", line 973, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
