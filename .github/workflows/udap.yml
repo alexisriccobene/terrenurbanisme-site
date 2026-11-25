@@ -1,0 +1,23 @@
+name: Annuaire des architectes des Bâtiments de France (UDAP)
+on:
+  push:
+    paths: ['.github/scripts/udap.py', '.github/workflows/udap.yml']
+  workflow_dispatch:
+  schedule:
+    - cron: '41 5 3 * *'
+permissions:
+  contents: read
+jobs:
+  u:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      SR: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+      U: https://nmoigruxnhsidrhqtzid.supabase.co
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 .github/scripts/udap.py
+      - name: Enregistrer
+        run: |
+          set -euo pipefail
+          curl -sSf -X POST "$U/rest/v1/udap?on_conflict=dep" -H "Authorization: Bearer $SR" -H "apikey: $SR" -H "Content-Type: application/json" -H "Prefer: resolution=merge-duplicates,return=minimal" --data-binary @udap.json -o /dev/null -w "%{http_code}\n"
