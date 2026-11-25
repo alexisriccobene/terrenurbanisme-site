@@ -269,7 +269,7 @@ for s in sites.values():
     elif en_proc: s['dispo'] = 'procedure'
     elif s.get('etat') == 'C' and not s.get('actifs'): s['dispo'] = 'radiee'
     elif s['kind'] == 'terrain' and not s.get('actifs') and not s.get('occ_prop'): s['dispo'] = 'libre'
-    elif s['kind'] == 'batiment' and not s.get('actifs') and not s.get('occ_prop') and any(re.search(r'industr|commerc', u or '', re.I) for u in (s.get('usages') or [])): s['dispo'] = 'vacant'
+    # Un bâtiment sans entreprise déclarée n'est pas retenu : en zone d'activité, les adresses Sirene sont trop imprécises pour prouver qu'il est vide
 log('disponibles', Counter(s.get('dispo') for s in sites.values()))
 # 8. Grille d'aperçu + fichier détaillé
 def cls(v, th):
