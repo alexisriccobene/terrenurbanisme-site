@@ -77,10 +77,16 @@ async function secteur(q: any, depList: string[], sites: any[]) {
 
 // ---------- PDF ----------""", 'secteur')
 
-rep("async function buildPdf(q: any, sites: any[], ref: string) {", "async function buildPdf(q: any, sites: any[], ref: string, X: any = {}) {", 'sig')
-rep("    const bytes = await buildPdf(row, sites, ref);", "    const X = await secteur(row, depList, sites).catch((e: any) => { console.error('secteur', e); return {}; });\n    const bytes = await buildPdf(row, sites, ref, X);", 'call')
+_m = _re.findall(r"async function buildPdf\(q(?::\s*any)?,\s*sites(?::\s*any\[\])?,\s*ref(?::\s*string)?\)\s*\{", s)
+if len(_m) != 1:
+    i0 = s.find('function buildPdf'); print('ANCRE sig', len(_m), repr(s[i0-20:i0+120])); sys.exit(1)
+s = s.replace(_m[0], "async function buildPdf(q: any, sites: any[], ref: string, X: any = {}) {")
+_m = _re.findall(r"const bytes = await buildPdf\(row,\s*sites,\s*ref\);", s)
+if len(_m) != 1:
+    i0 = s.find('await buildPdf'); print('ANCRE call', len(_m), repr(s[i0-40:i0+80])); sys.exit(1)
+s = s.replace(_m[0], "const X = await secteur(row, depList, sites).catch((e: any) => { console.error('secteur', e); return {}; });\n    const bytes = await buildPdf(row, sites, ref, X);")
 
-rep("  // Électricité\n", r"""  // Procédures collectives récentes du secteur
+_SEC = r"""  // Procédures collectives récentes du secteur
   const linkAt = (x: number, yb: number, w: number, h: number, u: string) => {
     try { const a = pdf.context.obj({ Type: 'Annot', Subtype: 'Link', Rect: [x, yb, x + w, yb + h], Border: [0, 0, 0], A: { Type: 'Action', S: 'URI', URI: PDFLib.PDFString.of(u) } }); const r0 = pdf.context.register(a); const an = page.node.lookup(PDFLib.PDFName.of('Annots')); if (an) an.push(r0); else page.node.set(PDFLib.PDFName.of('Annots'), pdf.context.obj([r0])); } catch (e) { console.error('lien', e); }
   };
@@ -110,9 +116,11 @@ rep("  // Électricité\n", r"""  // Procédures collectives récentes du secteu
     if (X.ench && X.ench.length) { h3('Ventes aux enchères judiciaires'); text('Biens vendus sur décision de justice : la visite est organisée avant l\'audience et l\'enchère se porte par l\'intermédiaire d\'un avocat.', { size: 9 }); for (const [t, d, u] of X.ench) bouton(t, d, u); }
   }
 
-  // Électricité
-""", 'sections')
+"""
+if s.count("// Électricité") != 1: print('ANCRE sections', s.count("// Électricité")); sys.exit(1)
+s = s.replace("// Électricité", _SEC.strip() + "\n  // Électricité", 1)
 
-rep("    ['Électricité', 'Postes électriques recensés dans OpenStreetMap.']",
-    "    ['Électricité', 'Postes électriques recensés dans OpenStreetMap.'],\n    ['Procédures récentes', 'Annonces de procédures collectives du BODACC des douze derniers mois, interrogées le jour du rapport, pour les communes du rayon de recherche.'],\n    ['Annonces', 'Liens vers les recherches des portails d\\'annonces et des sites de ventes aux enchères : les offres affichées sont celles du jour où vous cliquez.']", 'methode')
+_ME = "['Électricité', 'Postes électriques recensés dans OpenStreetMap.']"
+if s.count(_ME) != 1: print('ANCRE methode', s.count(_ME)); sys.exit(1)
+s = s.replace(_ME, _ME + ",\n    ['Procédures récentes', 'Annonces de procédures collectives du BODACC des douze derniers mois, interrogées le jour du rapport, pour les communes du rayon de recherche.'],\n    ['Annonces', 'Liens vers les recherches des portails d\\'annonces et des sites de ventes aux enchères : les offres affichées sont celles du jour où vous cliquez.']")
 open(p, 'w', encoding='utf-8').write(s); print('ok foncier')
