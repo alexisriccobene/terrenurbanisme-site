@@ -38,7 +38,7 @@
     var b = $('fe-besoin').value, surf = num('fe-surf'), bati = b === 'batiment' ? Math.max(num('fe-bati'), 1) : num('fe-bati');
     $('fe-go').disabled = true; $('fe-go').textContent = 'Recherche en cours…';
     var lat = sel.centre.coordinates[1], lon = sel.centre.coordinates[0], r = parseInt($('fe-rayon').value, 10);
-    fetch(C.supabaseUrl + '/rest/v1/rpc/fon_apercu', { method: 'POST', headers: { apikey: C.supabaseKey, 'Content-Type': 'application/json' }, body: JSON.stringify({ p_lat: lat, p_lon: lon, p_rayon_km: r, p_surf: surf, p_bati: bati }) })
+    fetch(C.supabaseUrl + '/rest/v1/rpc/fon_apercu', { method: 'POST', headers: { apikey: C.supabaseKey, 'Content-Type': 'application/json' }, body: JSON.stringify({ p_lat: lat, p_lon: lon, p_rayon_km: r, p_surf: surf, p_bati: bati, p_mode: b }) })
       .then(function(x){ return x.json(); }).then(function(d){
         last = { commune: sel.nom, insee: sel.code, lat: lat, lon: lon, rayon_km: r, besoin: b, surface: surf || null, bati: num('fe-bati') || null, usage: $('fe-usage').value, puissance_kva: num('fe-kva') || null, apercu: d };
         var n = function(v){ return Number(v || 0).toLocaleString('fr-FR'); };
