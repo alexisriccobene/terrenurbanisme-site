@@ -1,31 +1,12 @@
-sitemap 1 200 39
-sitemap 2 200 39
-sous-plans 0 []
-total urls 39
-ok https://www.cours-appel.justice.fr/bourges/les-mandataires-judiciaires
-ok https://www.cours-appel.justice.fr/colmar/les-administrateurs-et-mandataires-judiciaires
-ok https://www.cours-appel.justice.fr/limoges/les-administrateurs-et-mandataires-judiciaires
-ok https://www.cours-appel.justice.fr/nancy/administrateurs-et-mandataires-judiciaires
-ok https://www.cours-appel.justice.fr/poitiers/administrateurs-et-mandataires-judiciaires
-ok https://www.cours-appel.justice.fr/reims/les-administrateurs-judiciaires-et-mandataires-judiciaires-droit-commercial
-ok https://www.cours-appel.justice.fr/reims/les-administrateurs-judiciaires-et-mandataires-judiciaires-droit-commercial
-ok https://www.cours-appel.justice.fr/accueil
-ok https://www.cours-appel.justice.fr/accueil
-ok https://www.cours-appel.justice.fr/accueil
-ok https://www.cours-appel.justice.fr/accueil
-ok https://www.cours-appel.justice.fr/accueil
-ok https://www.cours-appel.justice.fr/accueil
-ok https://www.cours-appel.justice.fr/accueil
-pages mandataires 6
-  https://www.cours-appel.justice.fr/bourges/les-mandataires-judiciaires
-  https://www.cours-appel.justice.fr/colmar/les-administrateurs-et-mandataires-judiciaires
-  https://www.cours-appel.justice.fr/limoges/les-administrateurs-et-mandataires-judiciaires
-  https://www.cours-appel.justice.fr/nancy/administrateurs-et-mandataires-judiciaires
-  https://www.cours-appel.justice.fr/poitiers/administrateurs-et-mandataires-judiciaires
-  https://www.cours-appel.justice.fr/reims/les-administrateurs-judiciaires-et-mandataires-judiciaires-droit-commercial
-https://www.cours-appel.justice.fr/bourges/les-mandataires-judiciaires 1713 tel 5 mail 0
-https://www.cours-appel.justice.fr/colmar/les-administrateurs-et-mandataires-judiciaires 2078 tel 0 mail 0
-https://www.cours-appel.justice.fr/limoges/les-administrateurs-et-mandataires-judiciaires 2551 tel 0 mail 0
-https://www.cours-appel.justice.fr/nancy/administrateurs-et-mandataires-judiciaires 4920 tel 2 mail 1
-https://www.cours-appel.justice.fr/poitiers/administrateurs-et-mandataires-judiciaires 2562 tel 0 mail 0
-https://www.cours-appel.justice.fr/reims/les-administrateurs-judiciaires-et-mandataires-judiciaires-droit-commercial 542 tel 0 mail 0
+plans 11 ['https://www.cnajmj.fr/post-sitemap.xml', 'https://www.cnajmj.fr/page-sitemap.xml', 'https://www.cnajmj.fr/guide_pratique-sitemap.xml', 'https://www.cnajmj.fr/droits_obligations-sitemap.xml', 'https://www.cnajmj.fr/ajmj-sitemap.xml', 'https://www.cnajmj.fr/etude-sitemap.xml', 'https://www.cnajmj.fr/espace_presse-sitemap.xml', 'https://www.cnajmj.fr/missions-sitemap.xml', 'https://www.cnajmj.fr/ecoute-sitemap.xml', 'https://www.cnajmj.fr/formation-sitemap.xml', 'https://www.cnajmj.fr/caisse-garantie-sitemap.xml']
+profils 632
+{"url": "https://www.cnajmj.fr/ajmj/abdelmajid-zouag-stagiaire-administrateur-judiciaire/", "tels": ["156752690", "130970910"], "mails": ["laurie.cocard@ascagne-aj.fr"], "sites": ["https://www.ascagne-aj.fr/"], "texte": "Skip to content\nEN\nEntreprises dégradées par les manifestations : soutien du CNAJMJ\nRecherche\nAccueil\nLes AJMJ et vous\nAnnuaire AJMJ\nAbdelmajid Zouag\nAbdelmajid Zouag\nStagiaire Administrateur Judiciaire\nRetour vers l’annuaire\nÉtude\nASCAGNE AJ\nEn savoir plus\nLinkedIn\nInformations de contact\n25 bis rue Jasmin, Paris 75016\nlaurie.cocard@ascagne-aj.fr\nhttps://www.ascagne-aj.fr/\n01 56 75 26 90\nInitialement programmé pour une carrière dans l’expertise-comptable après l’obtention de mon DSCG, j’ai décidé de jouer un rôle plus actif aux côtés des débiteurs en difficultés en rejoignant l’équipe ASCAGNE AJ en 2017.\nJ’ai obtenu un DU de Droit des entreprises en difficultés en 2018 puis réussi l’examen d’accès au stage professionnel en 2020. Je suis aujourd’hui Stagiaire Administrateur Judiciaire.\nImplantations\nPARIS\nlaurie.cocard@ascagne-aj.fr\nT.\n01 56 75 26 90\nVERSAILLES\nlaurie.cocard@ascagne-aj.fr\nT.\n01 30 97 09 10\nBannière de cookies GDPR\nNous utilisons des cookies pour vous offrir la meilleure expérience sur notre site.\nVous pouvez utiliser le raccourci suivant pour accéder à l’écran des réglages des cookies : \nréglages\n.\nAccepter\nRejeter\nFermer les réglages des cookies GDPR\nRésumé de la politique de confidentialité\nCookies strictement nécessaires\nCookies tiers\nPowered by \nGDPR Cookie Compliance\n (opens in a new tab)\nRésumé de la politique de confidentialité\nCe site utilise des cookies afin que nous puissions vous fournir la meilleure expérience utilisateur possible. Les informations sur les cookies sont stockées dans votre navigateur et remplissent des fonctions telles que vous reconnaître lorsque vous revenez sur notre site Web et aider notre équipe à comprendre les sections du site que vous trouvez les plus 
+... 0
+{"url": "https://www.cnajmj.fr/ajmj/abdouramane-diarra-mandataire-judiciaire/", "tels": ["546275970"], "mails": ["accueil@cedigep.fr"], "sites": [], "texte": "Skip to content\nEN\nEntreprises dégradées par les manifestations : soutien du CNAJMJ\nRecherche\nAccueil\nLes AJMJ et vous\nAnnuaire AJMJ\nAbdouramane DIARRA\nAbdouramane DIARRA\nMandataire Judiciaire\nRetour vers l’annuaire\nÉtude\nSASU CEDIGEP\nEn savoir plus\nInformations de contact\n2 rue Georges Morvan, La Rochelle 17000\naccueil@cedigep.fr\n05 46 27 59 70\nImplantations\nLa Rochelle\naccueil@cedigep.fr\nT.\n05 46 27 59 70\nBannière de cookies GDPR\nNous utilisons des cookies pour vous offrir la meilleure expérience sur notre site.\nVous pouvez utiliser le raccourci suivant pour accéder à l’écran des réglages des cookies : \nréglages\n.\nAccepter\nRejeter\nFermer les réglages des cookies GDPR\nRésumé de la politique de confidentialité\nCookies strictement nécessaires\nCookies tiers\nPowered by \nGDPR Cookie Compliance\n (opens in a new tab)\nRésumé de la politique de confidentialité\nCe site utilise des cookies afin que nous puissions vous fournir la meilleure expérience utilisateur possible. Les informations sur les cookies sont stockées dans votre navigateur et remplissent des fonctions telles que vous reconnaître lorsque vous revenez sur notre site Web et aider notre équipe à comprendre les sections du site que vous trouvez les plus intéressantes et utiles.\nCookies strictement nécessaires\nCette option doit être activée à tout moment afin que nous puissions enregistrer vos préférences pour les réglages de cookie.\nActivé\nDésactivé\nCookies tiers\nCe site utilise Matomo pour collecter des informations anonymes telles que le nombre de visiteurs du site et les pages les plus populaires.\nGarder ce cookie activé nous aide à améliorer notre site Web.\nActivé\nDésactivé\nTout activer\nEnregistrer les réglages"}
+... 100
+... 200
+... 300
+... 400
+... 500
+... 600
+fini 632 tel 609 mail 615 site 456
