@@ -1,4 +1,5 @@
 # Chargement « foncier entreprises » d'un département : grille d'aperçu (fon_grille) + fichier détaillé (Storage foncier/<dep>.json.gz)
+import datetime
 import requests, json, os, re, io, csv, gzip, zipfile, time, math, sys
 import ijson
 from collections import defaultdict, Counter
@@ -124,6 +125,7 @@ for i in z.infolist():
             except Exception: pass
 log('parcelles de personnes morales', len(pm))
 ARMEE = re.compile(r'ARMEE|DEFENSE|MILITAIRE|GENDARMERIE', re.I)
+PUBLIC = re.compile(r"\bETAT\b|MINISTERE|ARMEE|DEFENSE|MILITAIRE|GENDARMERIE|CONSERVATOIRE|SNCF|RESEAU FERRE|VOIES NAVIGABLES|OFFICE NATIONAL DES FORETS|\bONF\b|AEROPORT|GRAND PORT|PORT AUTONOME|ASSISTANCE PUBLIQUE|CENTRE HOSPITALIER|UNIVERSITE|RECTORAT|\bLYCEE\b|\bCOLLEGE\b|OFFICE PUBLIC|HABITAT", re.I)
 
 # 4. Cadastre
 sites = {}
@@ -265,8 +267,13 @@ for s in sites.values():
 for s in sites.values():
     s['v'] = 2; pn = s.get('proc_nature') or ''
     en_proc = bool(pn) and re.search(r'liquidation|redressement|cession|sauvegarde', pn, re.I) and not re.search(r'cl[ôo]ture|r[ée]solution|infirm', pn, re.I)
-    if s['kind'] == 'friche': s['dispo'] = 'friche'
-    elif en_proc: s['dispo'] = 'procedure'
+    recent = (s.get('proc_date') or '') >= (datetime.date.today() - datetime.timedelta(days=365)).isoformat()
+    # Le but : un terrain vide, un hangar vide ou un bien de société en liquidation qu'une entreprise peut réellement obtenir.
+    # Écartés : friches de l'inventaire (aéroports, carrières, décharges…), biens de l'État, des établissements publics et des offices HLM,
+    # redressements de plus d'un an (la société continue en général son activité).
+    if s['kind'] == 'friche' or re.match(r'^\s*(1|5|9|[ÉE]tat|Office|[ÉE]tablissement)', str(s.get('groupe') or ''), re.I) or PUBLIC.search(s.get('proprio') or ''): s['dispo'] = None
+    elif en_proc and (re.search(r'liquidation|cession', pn, re.I) or recent): s['dispo'] = 'procedure'
+    elif en_proc: s['dispo'] = None
     elif s.get('etat') == 'C' and not s.get('actifs'): s['dispo'] = 'radiee'
     elif s['kind'] == 'terrain' and not s.get('actifs') and not s.get('occ_prop'): s['dispo'] = 'libre'
     # Un bâtiment sans entreprise déclarée n'est pas retenu : en zone d'activité, les adresses Sirene sont trop imprécises pour prouver qu'il est vide
