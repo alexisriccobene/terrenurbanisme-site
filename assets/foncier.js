@@ -43,7 +43,7 @@
         last = { commune: sel.nom, insee: sel.code, lat: lat, lon: lon, rayon_km: r, besoin: b, surface: surf || null, bati: num('fe-bati') || null, usage: $('fe-usage').value, puissance_kva: num('fe-kva') || null, apercu: d };
         var n = function(v){ return Number(v || 0).toLocaleString('fr-FR'); };
         var tot = b === 'terrain' ? d.terrains + d.friches : d.total;
-        $('fe-titre').textContent = n(tot) + (tot > 1 ? ' sites disponibles' : ' site disponible') + ' autour de ' + sel.nom + ' (' + r + ' km)';
+        $('fe-titre').textContent = (tot > 1 ? 'Jusqu\'à ' + n(tot) + ' sites disponibles' : n(tot) + ' site disponible') + ' autour de ' + sel.nom + ' (' + r + ' km)';
         var T = [[d.terrains, 'terrains à contrôler (ceux déjà bâtis sont retirés du rapport)'], [d.difficulte, 'biens de sociétés en liquidation ou fermées'], [d.friches, 'friches recensées'], [d.zone_activite, 'en zone d\'activité du PLU']];
         $('fe-tiles').innerHTML = T.map(function(x){ return '<div class="fe-tile"><b>' + n(x[0]) + '</b><span>' + x[1] + '</span></div>'; }).join('');
         $('fe-res').hidden = false; $('fe-lead').hidden = !tot;
