@@ -13,13 +13,16 @@
   var loaded = false, gtagReady = false, adsLoaded = false, current = null;
   var PRIV = /^\/(r\/|rapport\.html|essai\.html)/.test(location.pathname);
   function pageLoc(){ var q = new URLSearchParams(location.search); ['session_id', 'code', 'r'].forEach(function(k){ q.delete(k); }); var s = q.toString(); return location.origin + location.pathname.replace(/^\/r\/.+/, '/r/rapport') + (s ? '?' + s : ''); }
+  /* Mode consentement Google (v2, mode de base) : les balises ne se chargent qu'après accord, et transmettent l'état exact du consentement */
+  function signals(c){ var ad = c && c.ads ? 'granted' : 'denied', an = c && c.analytics ? 'granted' : 'denied'; return { ad_storage: ad, ad_user_data: ad, ad_personalization: ad, analytics_storage: an }; }
   function gtagInit(id){
     window.dataLayer = window.dataLayer || [];
     if (!window.gtag) window.gtag = function(){ window.dataLayer.push(arguments); };
-    if (!gtagReady){ gtagReady = true; window.gtag('js', new Date()); var s = document.createElement('script'); s.async = true; s.src = 'https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(id); document.head.appendChild(s); }
+    if (!gtagReady){ gtagReady = true; window.gtag('consent', 'default', { ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied', analytics_storage: 'denied', wait_for_update: 500 }); window.gtag('consent', 'update', signals(current)); window.gtag('js', new Date()); var s = document.createElement('script'); s.async = true; s.src = 'https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(id); document.head.appendChild(s); }
   }
   function apply(c){
     current = c;
+    if (gtagReady && window.gtag) window.gtag('consent', 'update', signals(c));
     if (hasAnalytics){
       if (c && c.analytics && !loaded){
         loaded = true; gtagInit(cfg.ga);

@@ -573,12 +573,12 @@
       found.push(['ok', 'Plan de prévention des risques', sups.some(function(x){ return /^pm[1-3]/.test(x); }) ? 'Parcelle concernée par un PPR : règles détaillées dans le rapport' : 'Aucun PPR recensé sur la parcelle']);
     }
     var locked = ['Verdict : constructible ou non, et pourquoi', 'Plan de zonage et chapitre officiel du règlement en annexe', 'Règlement de la zone : hauteur, reculs, aspect, avec extraits', 'Surface constructible estimée en m² et plan d\'implantation', (/^2[AB]/.test(String(parcel && parcel.properties && parcel.properties.code_insee || '')) ? 'PADDUC, distance au rivage, loi Montagne' : 'Loi Littoral, distance au rivage, loi Montagne'), 'Risques à la parcelle, arrêtés de catastrophe naturelle', 'Accès, pente, assainissement et fibre', 'Photos aériennes depuis 1950 et permis accordés autour', 'Prix au m² de la commune et ventes de terrains alentour', 'État des risques (ERP) pré-rempli et rapport officiel Géorisques', 'Démarches, délais et interlocuteurs'];
-    var OFF = { unit: { n: 1, u: '29,90 €', t: '29,90 €' }, pack2: { n: 2, u: '24,90 €', t: '49,80 €' }, pack3: { n: 3, u: '19,90 €', t: '59,70 €' } }, kind = 'unit';
+    var OFF = { unit: { n: 1, u: '19,90 €', t: '19,90 €' }, pack2: { n: 2, u: '14,90 €', t: '29,80 €' }, pack3: { n: 3, u: '12,90 €', t: '38,70 €' } }, kind = 'unit';
     var btnTxt = function(){ var o = OFF[kind]; return o.n > 1 ? 'Obtenir ' + o.n + ' rapports complets · ' + o.t : 'Obtenir le rapport complet · ' + o.t; };
     var BTN = btnTxt();
     var opt = function(k, lbl, off, sub){ var o = OFF[k]; return '<label class="v-opt"><input type="radio" name="v-kind" value="' + k + '"' + (k === kind ? ' checked' : '') + '><span class="v-opt-l">' + lbl + (sub ? '<small class="v-opt-s">' + sub + '</small>' : '') + '</span>' + (off ? '<em>' + off + '</em>' : '') + '<b>' + o.u + (o.n > 1 ? '<small>/ rapport</small>' : '') + '</b></label>'; };
     var OFFER = '<div class="v-offer" role="radiogroup" aria-label="Nombre de rapports"><div class="v-offer-top"><b class="v-offer-u">' + OFF[kind].u + '</b> <span>/ rapport</span><div class="v-offer-t"' + (OFF[kind].n > 1 ? '' : ' hidden') + '>Prix total ' + OFF[kind].t + '</div></div>' +
-      opt('unit', 'Rapport complet', '', 'Environ 45 pages pour décider en toute sécurité') + '<div class="v-opt-sep">Plusieurs biens ? Rapports complets moins chers</div>' + opt('pack2', '2 rapports complets', '−17 %') + opt('pack3', '3 rapports complets', '−33 %') +
+      opt('unit', 'Rapport complet', '', 'Environ 45 pages pour décider en toute sécurité') + '<div class="v-opt-sep">Plusieurs biens ? Rapports complets moins chers</div>' + opt('pack2', '2 rapports complets', '−25 %') + opt('pack3', '3 rapports complets', '−35 %') +
       '<p class="v-opt-note">Lots : le premier rapport porte sur cette parcelle, les autres restent sur votre compte, sans limite de durée.</p></div>';
     resultEl.innerHTML =
       '<div class="v-ref">' + esc(ref) + '</div>' +
@@ -787,7 +787,7 @@
         if (ulx) ulx.innerHTML = LIM.map(function(t){ return '<li>' + t + '</li>'; }).join('');
         btn.textContent = 'S\'abonner · ' + nom + ' →';
         if (mode === 'an') { amt.innerHTML = eur(A[0] * 10) + ' <small>/ an</small>'; u.textContent = (A[1] * 12) + ' rapports pour l\'année · ' + eur(A[0] * 10 / (A[1] * 12)) + ' le rapport'; btn.setAttribute('data-kind', 'ab' + n + '_an'); }
-        else { amt.innerHTML = eur(A[0]) + ' <small>/ mois</small>'; u.innerHTML = eur(A[0] / A[1]) + ' le rapport <s class="old">29,90\u00a0€</s>'; btn.setAttribute('data-kind', 'ab' + n); }
+        else { amt.innerHTML = eur(A[0]) + ' <small>/ mois</small>'; u.innerHTML = eur(A[0] / A[1]) + ' le rapport <s class="old">19,90\u00a0€</s>'; btn.setAttribute('data-kind', 'ab' + n); }
       });
     };
     if (bill) bill.querySelectorAll('button').forEach(function(b){ b.addEventListener('click', function(){
@@ -841,7 +841,7 @@
   var KB = [
     { q: 'Mon terrain est-il constructible ?', k: ['constructible', 'construire', 'zone', 'plu', 'terrain', 'parcelle', 'batir'], a: 'Saisissez l\'adresse ou la référence cadastrale dans la recherche : la parcelle s\'affiche avec sa zone et ses principales contraintes avant tout paiement. Le rapport complet détaille ensuite ce que vous pouvez construire.', l: [['Vérifier mon terrain', '/#recherche']] },
     { q: 'Que contient le rapport ?', k: ['contient', 'contenu', 'rapport', 'pages', 'quoi', 'exemple', 'detail'], a: 'Environ 45 pages : verdict, plan de zonage, règlement de la zone lu pour vous avec les extraits officiels, surface constructible estimée, risques, servitudes, lois Littoral et Montagne, réseaux et fibre, taxe d\'aménagement, prix du marché, photos aériennes depuis 1950 et état des risques pré-rempli.', l: [['Voir un exemple', '/exemple.html']] },
-    { q: 'Combien ça coûte ?', k: ['prix', 'tarif', 'cout', 'coute', 'combien', 'euros', 'payer', 'lot'], a: 'Particuliers : 29,90 € le rapport complet, 24,90 € le rapport par lot de 2, 19,90 € par lot de 3. Professionnels : crédits sans limite de durée, 10 rapports pour 149 €, 30 pour 357 €, 100 pour 790 €, ou abonnement de 10 rapports par mois pour 129 € ou 30 pour 297 €, sans engagement.', l: [['Voir les tarifs', '/tarifs.html']] },
+    { q: 'Combien ça coûte ?', k: ['prix', 'tarif', 'cout', 'coute', 'combien', 'euros', 'payer', 'lot'], a: 'Particuliers : 19,90 € le rapport complet, 14,90 € le rapport par lot de 2, 12,90 € par lot de 3. Professionnels : crédits sans limite de durée, 10 rapports pour 149 €, 30 pour 357 €, 100 pour 790 €, ou abonnement de 10 rapports par mois pour 129 € ou 30 pour 297 €, sans engagement.', l: [['Voir les tarifs', '/tarifs.html']] },
     { q: 'En combien de temps je le reçois ?', k: ['delai', 'temps', 'recevoir', 'quand', 'minutes', 'rapidement', 'vite'], a: 'Le rapport vous est envoyé par e-mail en quelques minutes après le paiement. Il reste disponible dans votre espace.', l: [] },
     { q: 'Le rapport a-t-il une valeur officielle ?', k: ['officiel', 'officielle', 'certificat', 'valeur', 'juridique', 'mairie', 'garantie'], a: 'Non. C\'est un document d\'information établi à partir des sources publiques officielles. Seul le certificat d\'urbanisme, délivré par la mairie, engage l\'administration : le rapport vous aide à décider avant de le demander.', l: [['Le certificat d\'urbanisme', '/guides/certificat-urbanisme.html']] },
     { q: 'Je n\'ai pas reçu mon rapport', k: ['recu', 'reçu', 'pas recu', 'mail', 'email', 'spam', 'introuvable', 'probleme'], a: 'Vérifiez vos courriers indésirables. Votre rapport est aussi disponible depuis votre espace, avec le bouton « Se connecter ». Sinon, écrivez-nous en indiquant la référence de la parcelle : contact@terrenurbanisme.com.', l: [['Se connecter', '/connexion.html']] },
@@ -902,14 +902,14 @@
   btn.addEventListener('click', function(){ open(pan.hidden); });
   cl.addEventListener('click', function(){ open(false); });
   /* Conseil de formule selon le nombre de rapports (prix fixes, calcul exact) */
-  var PK = [['unit', 1, 29.9, 'rapport à l\'unité'], ['pack2', 2, 49.8, 'lot de 2'], ['pack3', 3, 59.7, 'lot de 3'], ['pro10', 10, 149, '10 crédits'], ['pro30', 30, 357, '30 crédits'], ['pro100', 100, 790, '100 crédits']];
+  var PK = [['unit', 1, 19.9, 'rapport à l\'unité'], ['pack2', 2, 29.8, 'lot de 2'], ['pack3', 3, 38.7, 'lot de 3'], ['pro10', 10, 149, '10 crédits'], ['pro30', 30, 357, '30 crédits'], ['pro100', 100, 790, '100 crédits']];
   var eu = function(v){ var r = Math.round(v * 100) / 100, e = Math.floor(r), c = Math.round((r - e) * 100); return String(e).replace(/\B(?=(\d{3})+(?!\d))/g, '\u00a0') + (c ? ',' + String(c).padStart(2, '0') : '') + '\u00a0€'; };
   var conseilVolume = function(n){
     var M = n + 100, best = [0], how = [[]];
     for (var q = 1; q <= M; q++) { best[q] = Infinity; PK.forEach(function(k){ var r = Math.max(0, q - k[1]); if (best[r] + k[2] < best[q]) { best[q] = best[r] + k[2]; how[q] = how[r].concat([k]); } }); }
     var qty = function(L){ return L.reduce(function(a, k){ return a + k[1]; }, 0); };
     var desc = function(L){ var c = {}, o = []; L.forEach(function(k){ if (!c[k[3]]) o.push(k[3]); c[k[3]] = (c[k[3]] || 0) + 1; }); return o.map(function(x){ return (c[x] > 1 ? c[x] + ' × ' : '') + x; }).join(' + '); };
-    if (n <= 3) return [n === 1 ? 'Pour 1 rapport : le rapport complet coûte 29,90 €.' : n === 2 ? 'Pour 2 rapports : le lot de 2 coûte 49,80 €, soit 24,90 € le rapport.' : 'Pour 3 rapports : le lot de 3 coûte 59,70 €, soit 19,90 € le rapport.', [['Vérifier un terrain', '/#recherche']]];
+    if (n <= 3) return [n === 1 ? 'Pour 1 rapport : le rapport complet coûte 19,90 €.' : n === 2 ? 'Pour 2 rapports : le lot de 2 coûte 29,80 €, soit 14,90 € le rapport.' : 'Pour 3 rapports : le lot de 3 coûte 38,70 €, soit 12,90 € le rapport.', [['Vérifier un terrain', '/#recherche']]];
     var L = how[n], Q = qty(L), P = best[n];
     var combo = (L.length === 1 ? 'le pack de ' + desc(L) + ' à ' + eu(P) : desc(L) + ', soit ' + eu(P)) + (Q > n ? ' pour ' + Q + ' rapports' : '') + ' (' + eu(P / Q) + ' le rapport)';
     var up = PK.filter(function(k){ return k[1] >= 10 && k[1] >= n; })[0];
@@ -1179,7 +1179,7 @@
   /* 4. Page de la remise (lien reçu par e-mail) */
   var app = document.getElementById('offre-app'); if (!app) return;
   var tk = (new URLSearchParams(location.search).get('r') || '').replace(/[^a-f0-9]/gi, '');
-  var OFF = [{ k: 'pack3', n: 3, a: 5970, tag: 'Le plus populaire' }, { k: 'pack2', n: 2, a: 4980 }, { k: 'unit', n: 1, a: 2990 }];
+  var OFF = [{ k: 'pack3', n: 3, a: 3870, tag: 'Le plus populaire' }, { k: 'pack2', n: 2, a: 2980 }, { k: 'unit', n: 1, a: 1990 }];
   var eur = function(c){ return (c / 100).toFixed(2).replace('.', ',') + ' €'; };
   var info = null, kind = 'pack3';
   function render(){
@@ -1189,7 +1189,7 @@
     else if (tk){ ban.hidden = false; ban.className = 'of-ban of-ban-off'; ban.innerHTML = '<span>' + (info && info.utilise ? 'Cette remise a déjà été utilisée.' : 'Ce lien de remise a expiré ou n\'est plus valable.') + ' Les tarifs ci-dessous sont les tarifs habituels.</span>'; }
     if (info && info.insee){ var pb = document.getElementById('offre-parc'); pb.hidden = false; pb.querySelector('span').textContent = info.commune + ' · section ' + info.section + ' · parcelle ' + info.numero; }
     document.getElementById('offre-cards').innerHTML = OFF.map(function(o){
-      var full = 2990 * o.n, tot = ok ? Math.round(o.a * (100 - (info.taux || 15)) / 100) : o.a, pr = Math.round(tot / o.n), pct = Math.round((1 - tot / full) * 100);
+      var full = 1990 * o.n, tot = ok ? Math.round(o.a * (100 - (info.taux || 15)) / 100) : o.a, pr = Math.round(tot / o.n), pct = Math.round((1 - tot / full) * 100);
       return '<label class="of-c' + (o.k === kind ? ' on' : '') + '">' + (o.tag ? '<span class="of-tag">' + o.tag + '</span>' : '') + '<input type="radio" name="of-k" value="' + o.k + '"' + (o.k === kind ? ' checked' : '') + '>' +
         '<span class="of-h"><i class="of-box">' + ICO.ok + '</i><span><b>Vérifier ' + o.n + ' terrain' + (o.n > 1 ? 's' : '') + '</b><small>Un rapport complet d\'environ 45 pages pour chaque terrain</small></span></span>' +
         '<span class="of-p"><b>' + eur(pr) + '</b> / rapport</span><span class="of-t">Prix total <b>' + eur(tot) + '</b>' + (tot < full ? ' <s>' + eur(full) + '</s>' : '') + '</span>' +

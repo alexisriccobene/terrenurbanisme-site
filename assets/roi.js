@@ -33,7 +33,7 @@
   var POP = [['Moins de 2\u00a0000 habitants', 79], ['2\u00a0000 à 10\u00a0000 habitants', 149], ['10\u00a0000 à 50\u00a0000 habitants', 249], ['50\u00a0000 à 200\u00a0000 habitants', 490], ['Plus de 200\u00a0000 habitants', 990]];
   function cout(m, n, pop) {
     if (m === 'mairie') return { p: POP[pop == null ? 2 : pop][1], lib: 'Offre communale' };
-    if (n <= 3) return { p: n === 1 ? 29.9 : n === 2 ? 49.8 : 59.7, lib: n === 1 ? 'Rapport à l’unité' : 'Lot de ' + n + ' rapports' };
+    if (n <= 3) return { p: n === 1 ? 19.9 : n === 2 ? 29.8 : 38.7, lib: n === 1 ? 'Rapport à l’unité' : 'Lot de ' + n + ' rapports' };
     // Crédits professionnels, sans abonnement : 14,90 € (10), 11,90 € dès 30, 7,90 € dès 100
     var r = n >= 100 ? 7.9 : n >= 30 ? 11.9 : 14.9;
     return { p: n * r, lib: 'Crédits professionnels' };
