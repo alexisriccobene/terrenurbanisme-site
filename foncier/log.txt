@@ -1,3 +1,31 @@
 sitemap 1 200 39
 sitemap 2 200 39
-pages mandataires 0
+sous-plans 0 []
+total urls 39
+ok https://www.cours-appel.justice.fr/bourges/les-mandataires-judiciaires
+ok https://www.cours-appel.justice.fr/colmar/les-administrateurs-et-mandataires-judiciaires
+ok https://www.cours-appel.justice.fr/limoges/les-administrateurs-et-mandataires-judiciaires
+ok https://www.cours-appel.justice.fr/nancy/administrateurs-et-mandataires-judiciaires
+ok https://www.cours-appel.justice.fr/poitiers/administrateurs-et-mandataires-judiciaires
+ok https://www.cours-appel.justice.fr/reims/les-administrateurs-judiciaires-et-mandataires-judiciaires-droit-commercial
+ok https://www.cours-appel.justice.fr/reims/les-administrateurs-judiciaires-et-mandataires-judiciaires-droit-commercial
+ok https://www.cours-appel.justice.fr/accueil
+ok https://www.cours-appel.justice.fr/accueil
+ok https://www.cours-appel.justice.fr/accueil
+ok https://www.cours-appel.justice.fr/accueil
+ok https://www.cours-appel.justice.fr/accueil
+ok https://www.cours-appel.justice.fr/accueil
+ok https://www.cours-appel.justice.fr/accueil
+pages mandataires 6
+  https://www.cours-appel.justice.fr/bourges/les-mandataires-judiciaires
+  https://www.cours-appel.justice.fr/colmar/les-administrateurs-et-mandataires-judiciaires
+  https://www.cours-appel.justice.fr/limoges/les-administrateurs-et-mandataires-judiciaires
+  https://www.cours-appel.justice.fr/nancy/administrateurs-et-mandataires-judiciaires
+  https://www.cours-appel.justice.fr/poitiers/administrateurs-et-mandataires-judiciaires
+  https://www.cours-appel.justice.fr/reims/les-administrateurs-judiciaires-et-mandataires-judiciaires-droit-commercial
+https://www.cours-appel.justice.fr/bourges/les-mandataires-judiciaires 1713 tel 5 mail 0
+https://www.cours-appel.justice.fr/colmar/les-administrateurs-et-mandataires-judiciaires 2078 tel 0 mail 0
+https://www.cours-appel.justice.fr/limoges/les-administrateurs-et-mandataires-judiciaires 2551 tel 0 mail 0
+https://www.cours-appel.justice.fr/nancy/administrateurs-et-mandataires-judiciaires 4920 tel 2 mail 1
+https://www.cours-appel.justice.fr/poitiers/administrateurs-et-mandataires-judiciaires 2562 tel 0 mail 0
+https://www.cours-appel.justice.fr/reims/les-administrateurs-judiciaires-et-mandataires-judiciaires-droit-commercial 542 tel 0 mail 0
