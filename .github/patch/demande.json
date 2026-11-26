@@ -1,1 +1,1 @@
-{"fonction":"create-checkout","script":"prix_v3.py","demande":"prix-v3"}
+{"fonction":"stripe-webhook","script":"prix_v3_assistant.py","demande":"prix-v3-assistant"}
