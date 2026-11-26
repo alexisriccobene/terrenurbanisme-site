@@ -44,7 +44,7 @@
         var n = function(v){ return Number(v || 0).toLocaleString('fr-FR'); };
         var tot = b === 'terrain' ? d.terrains + d.friches : d.total;
         $('fe-titre').textContent = n(tot) + (tot > 1 ? ' sites disponibles' : ' site disponible') + ' autour de ' + sel.nom + ' (' + r + ' km)';
-        var T = [[d.terrains, 'terrains libres, sans construction'], [d.difficulte, 'biens de sociétés en liquidation ou fermées'], [d.friches, 'friches recensées'], [d.zone_activite, 'en zone d\'activité du PLU']];
+        var T = [[d.terrains, 'terrains à contrôler (ceux déjà bâtis sont retirés du rapport)'], [d.difficulte, 'biens de sociétés en liquidation ou fermées'], [d.friches, 'friches recensées'], [d.zone_activite, 'en zone d\'activité du PLU']];
         $('fe-tiles').innerHTML = T.map(function(x){ return '<div class="fe-tile"><b>' + n(x[0]) + '</b><span>' + x[1] + '</span></div>'; }).join('');
         $('fe-res').hidden = false;
         if (window.L) {
