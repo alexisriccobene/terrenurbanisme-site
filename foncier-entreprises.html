@@ -34,6 +34,20 @@
 .fe-tile b{display:block;font-size:26px;color:#A3462C;line-height:1.1}
 .fe-tile span{font-size:13px;color:var(--muet,#6b625c)}
 .fe-map{height:340px;border-radius:16px;overflow:hidden;border:1px solid var(--ligne);margin-bottom:8px}
+.fe-done{max-width:640px;margin:8px auto 30px;background:#fff;border:1px solid var(--ligne);border-radius:20px;padding:30px 26px;text-align:left}
+.fe-done h1{font-size:clamp(26px,5vw,34px);line-height:1.15;margin:14px 0 10px;text-wrap:balance}
+.fe-bar{height:6px;background:var(--soft2,#F9F2EE);border-radius:9px;overflow:hidden;margin:20px 0 18px}
+.fe-bar i{display:block;height:100%;width:8%;background:#A3462C;border-radius:9px;transition:width 1.2s ease}
+.fe-steps{list-style:none;margin:0 0 22px;padding:0;display:grid;gap:10px;counter-reset:s}
+.fe-steps li{counter-increment:s;display:flex;gap:12px;align-items:flex-start;font-size:15px;color:var(--muet,#6b625c)}
+.fe-steps li::before{content:counter(s);flex:none;width:26px;height:26px;border-radius:50%;border:1.5px solid var(--ligne);display:grid;place-items:center;font-size:13px;font-weight:700;background:#fff}
+.fe-steps li.on{color:var(--ink,#1f1a17);font-weight:600}
+.fe-steps li.on::before{border-color:#A3462C;color:#A3462C;animation:fe-p 1.4s ease-in-out infinite}
+.fe-steps li.ok{color:var(--ink,#1f1a17)}
+.fe-steps li.ok::before{content:"✓";background:#A3462C;border-color:#A3462C;color:#fff}
+@keyframes fe-p{50%{box-shadow:0 0 0 6px rgba(163,70,44,.15)}}
+.fe-dl{display:block;margin-top:20px;text-align:center;font-size:17px;padding:16px 20px}
+body.fe-paid .page-head,body.fe-paid #fe-form,body.fe-paid #fe-res,body.fe-paid .fe-why{display:none}
 .fe-why{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:22px}
 .fe-why h3{margin:0 0 6px}
 </style>
@@ -47,7 +61,22 @@
 <main>
 <section class="page-head"><div class="wrap"><div class="crumb"><a href="/">Accueil</a> › Foncier pour les entreprises</div><h1>Trouvez le terrain ou le bâtiment de votre entreprise.</h1><p class="lede">Indiquez la surface dont vous avez besoin, une commune et un rayon. Nous repérons uniquement ce qui est disponible : terrains libres et sans construction, hangars et bâtiments de sociétés en liquidation ou fermées, friches, y compris ceux qui ne sont annoncés nulle part. Les sites occupés sont écartés. Pour les hangars et locaux vides, le rapport donne aussi les annonces de vente et de location en cours dans votre secteur.</p></div></section>
 <section class="sec tight"><div class="wrap">
-<div id="fe-done" class="fe-card" hidden><h2 class="fe-h2" id="fe-done-t">Paiement reçu : préparation de votre rapport…</h2><p id="fe-done-p">Le rapport se fabrique en ce moment, cela prend en général deux à trois minutes. Restez sur cette page : il s'affichera ici et vous sera aussi envoyé par e-mail.</p><a class="btn" id="fe-done-a" href="#" target="_blank" rel="noopener" hidden>Télécharger le rapport (PDF) →</a></div>
+<div id="fe-done" class="fe-done" hidden>
+<span class="pill" id="fe-done-pill">Paiement confirmé</span>
+<h1 id="fe-done-t">Votre rapport est en cours de préparation</h1>
+<p id="fe-done-p">Nous contrôlons un par un les terrains et bâtiments disponibles de votre secteur. Comptez deux à trois minutes. Restez sur cette page : le bouton de téléchargement apparaîtra ici. Le rapport vous est aussi envoyé par e-mail.</p>
+<div class="fe-bar" aria-hidden="true"><i id="fe-bar"></i></div>
+<ol class="fe-steps" id="fe-steps">
+<li class="ok">Paiement confirmé</li>
+<li>Recherche des terrains et bâtiments disponibles</li>
+<li>Contrôle de chaque site : construction, zone du PLU, propriétaire, procédures</li>
+<li>Entreprises en liquidation et mandataires à contacter</li>
+<li>Mise en page de votre rapport</li>
+</ol>
+<a class="btn fe-dl" id="fe-done-a" href="#" target="_blank" rel="noopener" hidden>Télécharger le rapport (PDF)</a>
+<p class="fe-note" id="fe-done-n"></p>
+<p class="fe-note"><a href="/foncier-entreprises.html" id="fe-done-new" hidden>Faire une nouvelle recherche</a></p>
+</div>
 <form id="fe-form" class="fe-card" autocomplete="off">
 <div class="fe-form">
 <label class="fe-f fe-c2">Commune<input id="fe-com" placeholder="Tapez le nom de la commune, ex. Bastia" required><ul id="fe-sug" class="fe-sug" hidden></ul></label>

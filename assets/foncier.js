@@ -46,7 +46,8 @@
         $('fe-titre').textContent = n(tot) + (tot > 1 ? ' sites disponibles' : ' site disponible') + ' autour de ' + sel.nom + ' (' + r + ' km)';
         var T = [[d.terrains, 'terrains à contrôler (ceux déjà bâtis sont retirés du rapport)'], [d.difficulte, 'biens de sociétés en liquidation ou fermées'], [d.friches, 'friches recensées'], [d.zone_activite, 'en zone d\'activité du PLU']];
         $('fe-tiles').innerHTML = T.map(function(x){ return '<div class="fe-tile"><b>' + n(x[0]) + '</b><span>' + x[1] + '</span></div>'; }).join('');
-        $('fe-res').hidden = false;
+        $('fe-res').hidden = false; $('fe-lead').hidden = !tot;
+        if (!tot) $('fe-titre').textContent = 'Aucun site disponible avec ces critères autour de ' + sel.nom + ' (' + r + ' km). Élargissez le rayon ou réduisez les surfaces.';
         if (window.L) {
           if (!map) { map = L.map('fe-map', { scrollWheelZoom: false }); L.tileLayer('https://data.geopf.fr/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=GEOGRAPHICALGRIDSYSTEMS.PLANIGNV2&STYLE=normal&TILEMATRIXSET=PM&FORMAT=image/png&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}', { maxZoom: 16, attribution: 'IGN' }).addTo(map); }
           if (layer) layer.remove();
@@ -64,16 +65,28 @@
   $('fe-lead').addEventListener('submit', function(e){
     e.preventDefault(); var m = $('fe-lead-msg'), btn = $('fe-pay');
     if (!last) { m.textContent = 'Lancez d\'abord la recherche ci-dessus.'; return; }
+    var ap = last.apercu || {}, tt = last.besoin === 'terrain' ? (ap.terrains || 0) + (ap.friches || 0) : (ap.total || 0);
+    if (!tt) { m.textContent = 'Aucun site ne correspond à ces critères : modifiez la recherche avant de commander.'; return; }
     m.textContent = ''; btn.disabled = true; btn.textContent = 'Ouverture du paiement sécurisé…';
     var body = Object.assign({}, last, { action: 'checkout', origin: location.origin, societe: $('fe-soc').value.trim(), nom: $('fe-nom').value.trim(), email: $('fe-mail').value.trim(), telephone: $('fe-tel').value.trim(), message: $('fe-msg').value.trim() });
     fetch(FN, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) })
       .then(function(x){ return x.json(); }).then(function(j){ if (!j.url) throw j; location.href = j.url; })
       .catch(function(err){ btn.disabled = false; btn.textContent = 'Payer et recevoir le rapport →'; m.textContent = err && err.error === 'email' ? 'Vérifiez votre adresse e-mail.' : 'Le paiement n\'a pas pu s\'ouvrir. Réessayez dans un instant ou écrivez-nous à contact@terrenurbanisme.com.'; });
   });
-  // Retour du paiement : fabrication du rapport puis téléchargement
+  // Retour du paiement : écran d'attente puis téléchargement
   var paye = new URLSearchParams(location.search).get('paye');
   if (paye) {
-    var box = $('fe-done'); box.hidden = false; box.scrollIntoView({ block: 'start' });
+    document.body.classList.add('fe-paid');
+    var box = $('fe-done'); box.hidden = false; window.scrollTo(0, 0);
+    var LI = $('fe-steps').children, t0 = Date.now(), fini = false;
+    var etape = function(){
+      if (fini) return;
+      var s = (Date.now() - t0) / 1000, k = s < 15 ? 1 : s < 60 ? 2 : s < 110 ? 3 : 4;
+      for (var i = 1; i < LI.length; i++) LI[i].className = i < k ? 'ok' : i === k ? 'on' : '';
+      $('fe-bar').style.width = Math.min(92, 8 + s / 1.9) + '%';
+      setTimeout(etape, 1000);
+    };
+    etape();
     var tries = 0;
     var go = function(){
       tries++;
@@ -81,12 +94,16 @@
         .then(function(x){ return x.json().then(function(j){ return { s: x.status, j: j }; }); })
         .then(function(r){
           if (r.j && r.j.statut === 'pret') {
+            fini = true;
+            $('fe-steps').hidden = true; $('fe-bar').parentNode.hidden = true;
+            $('fe-done-pill').textContent = 'Rapport prêt';
             $('fe-done-t').textContent = 'Votre rapport est prêt';
-            $('fe-done-p').textContent = r.j.n + ' site' + (r.j.n > 1 ? 's' : '') + ' autour de ' + r.j.commune + ' (' + r.j.rayon_km + ' km). Il vous a aussi été envoyé par e-mail.';
-            var a2 = $('fe-done-a'); a2.href = r.j.url; a2.hidden = false; return;
+            $('fe-done-p').textContent = r.j.n + (r.j.n > 1 ? ' sites disponibles' : ' site disponible') + ' autour de ' + r.j.commune + ' (' + r.j.rayon_km + ' km). Une copie vient de vous être envoyée par e-mail.';
+            var a2 = $('fe-done-a'); a2.href = r.j.url; a2.hidden = false; $('fe-done-new').hidden = false; a2.focus();
+            return;
           }
           if (tries < 45) setTimeout(go, r.s === 402 ? 4000 : 8000);
-          else $('fe-done-p').textContent = 'La préparation prend plus de temps que prévu. Le rapport vous sera envoyé par e-mail dans les minutes qui viennent.';
+          else { fini = true; $('fe-done-p').textContent = 'La préparation prend plus de temps que prévu. Le rapport vous sera envoyé par e-mail dans les minutes qui viennent. Pour toute question : contact@terrenurbanisme.com.'; }
         })
         .catch(function(){ if (tries < 45) setTimeout(go, 8000); });
     };
