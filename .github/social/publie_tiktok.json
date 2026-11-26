@@ -782,5 +782,12 @@
    "mode": "programmé dans Zernio pour 2026-11-28T18:00:00",
    "statut": "scheduled"
   }
+ },
+ "j-2026-11-29": {
+  "youtube": {
+   "id": "6b08c7c4a33a3a16d972e56c",
+   "mode": "programmé dans Zernio pour 2026-11-29T18:00:00",
+   "statut": "scheduled"
+  }
  }
 }
