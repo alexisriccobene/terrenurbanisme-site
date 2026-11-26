@@ -15,6 +15,27 @@ for p in range(1, 40):
     new = set(l) - urls
     if not new: break
     urls |= new
+sub = [u for u in urls if 'sitemap' in u or u.endswith('.xml')]
+print('sous-plans', len(sub), sub[:5])
+for sm in sub:
+    try:
+        for q in range(1, 30):
+            r = requests.get(sm + (('&' if '?' in sm else '?') + f'page={q}' if q > 1 else ''), headers=H, timeout=40)
+            l = re.findall(r'<loc>([^<]+)</loc>', r.text)
+            new = set(l) - urls
+            if not new: break
+            urls |= new
+    except Exception as e: print('err', sm, e)
+print('total urls', len(urls), flush=True)
+CA = ['agen','aix-en-provence','amiens','angers','bastia','besancon','bordeaux','bourges','caen','chambery','colmar','dijon','douai','grenoble','limoges','lyon','metz','montpellier','nancy','nimes','orleans','paris','pau','poitiers','reims','rennes','riom','rouen','toulouse','versailles','basse-terre','fort-de-france','cayenne','saint-denis-de-la-reunion']
+SL = ['les-mandataires-judiciaires','les-administrateurs-et-mandataires-judiciaires','les-administrateurs-et-mandataires-judiciaires-droit-commercial','administrateurs-et-mandataires-judiciaires','mandataires-judiciaires','liste-des-mandataires-judiciaires','les-mandataires-judiciaires-droit-commercial']
+for ca in CA:
+    for sl in SL:
+        u = f'{B}/{ca}/{sl}'
+        try:
+            r = requests.get(u, headers=H, timeout=30, allow_redirects=True)
+            if r.status_code == 200: urls.add(r.url); print('ok', r.url, flush=True)
+        except Exception: pass
 mj = sorted(u for u in urls if re.search(r'mandataire|administrateur', u, re.I))
 print('pages mandataires', len(mj))
 for u in mj: print(' ', u)
