@@ -1,1 +1,1 @@
-{"fonction":"stripe-webhook","script":"prix_v3_assistant.py","demande":"prix-v3-assistant"}
+{"fonction":"stripe-webhook","script":"sans_abonnement_assistant.py","demande":"sans-abonnement"}
