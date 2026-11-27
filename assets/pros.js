@@ -121,7 +121,7 @@
           sug.querySelectorAll('button').forEach(function(b){ b.addEventListener('click', function(){
             err.textContent = ''; var code = b.getAttribute('data-c'), n = b.getAttribute('data-n');
             sb.from('places_reco').insert({ insee: code, commune: n, pro_id: p.id, metier: p.metier }).then(function(r){
-              if (r.error){ var m = r.error.message || ''; err.innerHTML = /Abonnement/.test(m) ? 'Cette option est réservée aux abonnés. <a href="/tarifs.html">Voir les abonnements</a>' : /complete/.test(m) ? 'Les 3 places de votre métier sont déjà prises à ' + esc(n) + '.' : /Limite/.test(m) ? 'Vous avez atteint 3 communes. Retirez-en une pour en ajouter une autre.' : /duplicate|unique/i.test(m) ? 'Cette commune est déjà dans votre liste.' : 'L\'ajout a échoué. Réessayez.'; return; }
+              if (r.error){ var m = r.error.message || ''; err.innerHTML = /Credits pro|Abonnement/.test(m) ? 'Cette option est réservée aux clients professionnels. <a href="/tarifs.html#pro">Voir les crédits professionnels</a>' : /complete/.test(m) ? 'Les 3 places de votre métier sont déjà prises à ' + esc(n) + '.' : /Limite/.test(m) ? 'Vous avez atteint 3 communes. Retirez-en une pour en ajouter une autre.' : /duplicate|unique/i.test(m) ? 'Cette commune est déjà dans votre liste.' : 'L\'ajout a échoué. Réessayez.'; return; }
               q.value = ''; sug.innerHTML = ''; load();
             });
           }); });
