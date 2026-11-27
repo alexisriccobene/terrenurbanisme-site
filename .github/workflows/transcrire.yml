@@ -8,7 +8,7 @@ jobs:
     timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
-      - run: pip install -q faster-whisper
+      - run: sudo apt-get install -y -qq ffmpeg >/dev/null && pip install -q faster-whisper
       - run: |
           python3 - <<'P'
           import json,os,subprocess,numpy as np
