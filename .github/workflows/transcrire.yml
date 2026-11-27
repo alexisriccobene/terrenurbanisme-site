@@ -1,0 +1,30 @@
+name: transcrire
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  t:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install -q faster-whisper
+      - run: |
+          python3 - <<'P'
+          import json,os
+          from faster_whisper import WhisperModel
+          p=json.load(open('.github/social/plan.json'))
+          V=sorted({x[k] for x in p if x['date']>='2026-11-27T11' for k in ('video','video_tiktok') if x.get(k)})
+          m=WhisperModel('small',device='cpu',compute_type='int8')
+          os.makedirs('/tmp/tr',exist_ok=True); out=[]
+          for v in V:
+              s,_=m.transcribe('.github/social/img/'+v,language='fr',vad_filter=True)
+              out.append(v+' | '+' '.join(x.text.strip() for x in s))
+              print(out[-1],flush=True)
+          open('/tmp/tr/transcriptions.txt','w').write('\n'.join(out)+'\n')
+          P
+      - run: |
+          git fetch -q origin tests-rapports && git checkout -q tests-rapports
+          mkdir -p social && cp /tmp/tr/transcriptions.txt social/
+          git config user.name bot; git config user.email bot@users.noreply.github.com
+          git add social && git commit -qm "transcriptions [skip ci]" && git push -q origin tests-rapports
