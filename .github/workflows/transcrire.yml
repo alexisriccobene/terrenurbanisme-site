@@ -11,14 +11,15 @@ jobs:
       - run: pip install -q faster-whisper
       - run: |
           python3 - <<'P'
-          import json,os
+          import json,os,subprocess,numpy as np
           from faster_whisper import WhisperModel
           p=json.load(open('.github/social/plan.json'))
           V=sorted({x[k] for x in p if x['date']>='2026-11-27T11' for k in ('video','video_tiktok') if x.get(k)})
           m=WhisperModel('small',device='cpu',compute_type='int8')
           os.makedirs('/tmp/tr',exist_ok=True); out=[]
           for v in V:
-              s,_=m.transcribe('.github/social/img/'+v,language='fr',vad_filter=True)
+              a=np.frombuffer(subprocess.run(['ffmpeg','-loglevel','error','-i','.github/social/img/'+v,'-f','s16le','-ac','1','-ar','16000','-'],capture_output=True).stdout,np.int16).astype(np.float32)/32768
+              s,_=m.transcribe(a,language='fr',vad_filter=True)
               out.append(v+' | '+' '.join(x.text.strip() for x in s))
               print(out[-1],flush=True)
           open('/tmp/tr/transcriptions.txt','w').write('\n'.join(out)+'\n')
